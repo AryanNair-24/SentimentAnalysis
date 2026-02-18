@@ -16,8 +16,8 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 sys.path.insert(0, str(ROOT / "src"))
 
-from data_loader import load_all
-from analysis import (
+from src.data_loader import load_all
+from src.analysis import (
     sentiment_arc,
     compare_sentiment_arcs,
     character_voice,
@@ -234,7 +234,7 @@ elif page == "🗣️ Character Voice":
 
         st.subheader("Top words per character")
         cols = st.columns(min(4, len(voice)))
-        for i, row in voice.iterrows():
+        for i, (_, row) in enumerate(voice.iterrows()):
             with cols[i % len(cols)]:
                 words = [w for w, _ in row["top_words"][:6]]
                 st.markdown(f"**{row['character']}** ({row['gender']})")
