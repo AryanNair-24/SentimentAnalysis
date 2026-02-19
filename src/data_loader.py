@@ -19,6 +19,86 @@ import pandas as pd
 from pathlib import Path
 
 
+# ── CURATED FILM LIST ─────────────────────────────────────────────────────────
+# ~50 well-known films selected for:
+#   - Genre variety (thriller, comedy, drama, action, sci-fi)
+#   - Strong female leads (good for gender analysis)
+#   - Decade spread (1970s–2010s)
+#
+# Format must match folder names exactly: "Movie Name_imdbid"
+# To use ALL movies instead, set CURATED_ONLY = False
+
+CURATED_ONLY = True
+
+CURATED_FILMS = {
+    # ── 1970s ──────────────────────────────────────────
+    "Alien_0078748",                        # sci-fi, Ripley (strong female lead)
+    "Annie Hall_0075686",                   # comedy/drama
+    "Apocalypse Now_0078788",               # war/drama
+    "Kramer vs Kramer_0079417",             # drama
+    "Manhattan_0079522",                    # comedy/drama
+
+    # ── 1980s ──────────────────────────────────────────
+    "Aliens_0090605",                       # sci-fi/action, Ripley
+    "Back to the Future_0088763",           # sci-fi/comedy
+    "Die Hard_0095016",                     # action/thriller
+    "Rain Man_0095953",                     # drama
+    "Steel Magnolias_0098384",              # drama, female ensemble
+    "Tootsie_0084805",                      # comedy, gender themes
+    "Working Girl_0096463",                 # drama, strong female lead
+
+    # ── 1990s ──────────────────────────────────────────
+    "12 Monkeys_0114746",                   # sci-fi/thriller
+    "A Few Good Men_0104257",               # drama/thriller
+    "American Beauty_0169547",              # drama
+    "Boogie Nights_0118749",                # drama
+    "Fargo_0116282",                        # thriller, female lead
+    "Fight Club_0137523",                   # thriller/drama
+    "Forrest Gump_0109830",                 # drama
+    "Goodfellas_0099685",                   # crime/drama
+    "LA Confidential_0119488",              # noir/thriller
+    "Pulp Fiction_0110912",                 # crime/drama
+    "Schindler s List_0108052",             # historical drama
+    "Se7en_0114369",                        # thriller
+    "Silence of the Lambs_0102926",         # thriller, female lead
+    "The Shawshank Redemption_0111161",     # drama
+    "Thelma and Louise_0103074",            # drama, female leads
+    "Toy Story_0114709",                    # animation/comedy
+
+    # ── 2000s ──────────────────────────────────────────
+    "10 Things I Hate About You_0147800",   # comedy/romance, female lead
+    "12 Years a Slave_2024544",             # historical drama
+    "25th Hour_0307901",                    # drama
+    "28 Days Later_0289043",                # horror/thriller
+    "Brokeback Mountain_0388795",           # drama
+    "Crash_0375679",                        # drama, ensemble
+    "Eternal Sunshine of the Spotless Mind_0338013",  # sci-fi/romance
+    "Juno_0467406",                         # comedy/drama, female lead
+    "Kill Bill Volume 1_0266697",           # action, female lead
+    "Million Dollar Baby_0405159",          # drama, female lead
+    "Mulholland Drive_0166924",             # thriller, female lead
+    "No Country for Old Men_0477348",       # thriller
+    "The Dark Knight_0468569",              # action/thriller
+    "The Devil Wears Prada_0458352",        # comedy/drama, female lead
+    "There Will Be Blood_0469494",          # drama
+    "Zodiac_0443706",                       # thriller
+
+    # ── 2010s ──────────────────────────────────────────
+    "20th Century Women_4385888",           # drama, female lead
+    "Black Swan_0947798",                   # thriller, female lead
+    "Bridesmaids_1478338",                  # comedy, female ensemble
+    "Gone Girl_2267998",                    # thriller, female lead
+    "Her_1798709",                          # sci-fi/romance
+    "Inception_1375666",                    # sci-fi/thriller
+    "Interstellar_0816692",                 # sci-fi/drama
+    "Mad Max Fury Road_1392190",            # action, female lead
+    "Moonlight_4975722",                    # drama
+    "The Social Network_1285016",           # drama
+    "Wild_2305051",                         # drama, female lead
+    "Wolf of Wall Street_0993846",          # drama/comedy
+}
+
+
 # ── 1. CHARACTER TEXT FILES ───────────────────────────────────────────────────
 
 def parse_character_file(filepath: Path) -> list[dict]:
@@ -58,7 +138,11 @@ def load_character_texts(char_texts_dir: str | Path) -> pd.DataFrame:
         if not movie_dir.is_dir():
             continue
 
-        # Folder name format: MovieName_tt1234567
+        # Skip movies not in curated list
+        if CURATED_ONLY and movie_dir.name not in CURATED_FILMS:
+            continue
+
+        # Folder name format: Movie Name_imdbid
         parts = movie_dir.name.rsplit("_", 1)
         movie_name = parts[0] if len(parts) == 2 else movie_dir.name
         imdb_id    = parts[1] if len(parts) == 2 else None
@@ -128,11 +212,15 @@ def load_annotations(annotations_dir: str | Path) -> pd.DataFrame:
     rows = []
 
     for json_file in sorted(annotations_dir.glob("*.json")):
-        # Filename: MovieName_tt1234567.json
+        # Filename: Movie Name_imdbid.json
         stem  = json_file.stem
         parts = stem.rsplit("_", 1)
         movie_name = parts[0] if len(parts) == 2 else stem
         imdb_id    = parts[1] if len(parts) == 2 else None
+
+        # Skip movies not in curated list
+        if CURATED_ONLY and json_file.stem not in CURATED_FILMS:
+            continue
 
         records = parse_annotation_file(json_file)
         for rec in records:
