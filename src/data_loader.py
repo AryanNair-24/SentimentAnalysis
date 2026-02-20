@@ -13,6 +13,7 @@ Usage:
 
 import os
 import re
+import src
 import json
 import pickle
 import pandas as pd
@@ -157,6 +158,7 @@ def load_character_texts(char_texts_dir: str | Path) -> pd.DataFrame:
                     "movie_name": movie_name,
                     "imdb_id":    imdb_id,
                     "character":  character,
+                    "character_normalized": (character.replace("-", " ")).replace("'", "").upper(),
                     **rec,
                 })
 
@@ -250,6 +252,7 @@ def load_genders(pickle_path: str | Path) -> pd.DataFrame:
                     "imdb_id":   imdb_id,
                     "character": str(entry[0]).replace("_", " "),
                     "gender":    "M" if entry[1] == "actor" else "F",
+                    "character_normalized": (str(entry[0]).replace("-", " ")).replace("'", "").upper()
                 })
 
     df = pd.DataFrame(rows)
@@ -287,11 +290,40 @@ def load_all(data_dir: str | Path) -> tuple[pd.DataFrame, pd.DataFrame]:
 
     # Join gender onto character dialogue
     df_chars = df_chars.merge(
-        df_gender[["imdb_id", "character", "gender"]],
-        on=["imdb_id", "character"],
+        df_gender[["imdb_id", "character", "gender", "character_normalized"]],
+        on=["imdb_id", "character_normalized"],
         how="left",
     )
 
+    matched = df_chars[df_chars["gender"].notna()]
+    unmatched_chars = df_chars[df_chars["gender"].isna()].copy()
+
+    unmatched_chars["first_name"] = unmatched_chars["character_normalized"].str.split(" ").str[0]
+
+    matched2 = df_gender[df_gender["gender"].notna()]
+    unmatched_gender = df_gender[df_gender["gender"].isna()].copy()
+
+    df_gender["first_name"] = df_gender["character_normalized"].str.split(" ").str[0]
+
+    unmatched_chars = unmatched_chars.drop(columns=["gender"])
+
+    unmatched_chars = unmatched_chars.merge(
+        df_gender[["imdb_id", "first_name", "gender"]],
+        on=["imdb_id", "first_name"],
+        how="left",
+    )
+
+    print(unmatched_chars[["movie_name", "character_normalized"]].drop_duplicates().head(20))
+
+    print(f"Matched after Step 1: {len(matched)}")
+    print(f"Unmatched after Step 1: {len(unmatched_chars)}")
+    print(f"Unmatched after Step 2: {unmatched_chars["gender"].isna().sum()}")
+
+    df_chars = pd.concat([matched, unmatched_chars], ignore_index=True)
+
+    df_chars = df_chars.drop(columns=["character_normalized"])
+
+    # Report the number of rows still unmatched.
     unmatched = df_chars["gender"].isna().sum()
     pct = unmatched / len(df_chars) * 100
     print(f"✓ Gender join: {pct:.1f}% unmatched (expected ~10–20% due to name variations)")
@@ -302,7 +334,7 @@ def load_all(data_dir: str | Path) -> tuple[pd.DataFrame, pd.DataFrame]:
 # ── QUICK TEST ────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     import sys
-    data_dir = sys.argv[1] if len(sys.argv) > 1 else "./data"
+    data_dir = r"C:\Users\owner\Documents\SentimentAnalysis\sentiment_analysis\SentimentAnalysis\data"
     df_chars, df_scenes = load_all(data_dir)
 
     print("\n── df_chars sample ──")
