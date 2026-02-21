@@ -72,6 +72,7 @@ def sentiment_arc(df_chars: pd.DataFrame, movie_name: str, n_chunks: int = 20) -
         chunk (int), position (0–100 float), sentiment (float), text_preview (str)
     """
     dialog = _dialog_only(df_chars, movie_name)
+    dialog = dialog.sort_values(["segment", "scene"])
     if dialog.empty:
         raise ValueError(f"No dialog found for '{movie_name}'")
 
@@ -85,7 +86,7 @@ def sentiment_arc(df_chars: pd.DataFrame, movie_name: str, n_chunks: int = 20) -
             "chunk":        i + 1,
             "position":     round((i / len(chunks)) * 100, 1),
             "sentiment":    round(_score(combined), 4),
-            "text_preview": combined[:120] + "…",
+            "text_preview": "…" + combined[-120:],
         })
 
     return pd.DataFrame(rows)
@@ -149,6 +150,9 @@ def gender_dialogue_comparison(df_chars: pd.DataFrame) -> pd.DataFrame:
     dialog = df_chars[df_chars["label"] == "dialog"].copy()
     dialog = dialog[dialog["gender"].isin(["M", "F"])]
 
+    dialog["line_count"] = dialog.groupby(["movie_name", "character"])["character"].transform("count")
+    dialog = dialog[dialog["line_count"] >= 10]
+
     rows = []
     for movie, grp in dialog.groupby("movie_name"):
         m = grp[grp["gender"] == "M"]
@@ -173,6 +177,11 @@ def gender_dialogue_comparison(df_chars: pd.DataFrame) -> pd.DataFrame:
             "bechdel_proxy":    female_chars_active >= 2,
             "total_lines":      total,
         })
+
+    df = pd.DataFrame(rows)
+    if df.empty:
+        return df
+    df = df.sort_values("total_lines", ascending=False)
 
     df = pd.DataFrame(rows).sort_values("total_lines", ascending=False)
     print(f"✓ Gender analysis: {len(df)} movies | "
@@ -219,14 +228,12 @@ def pacing_analysis(df_scenes: pd.DataFrame, movie_name: str) -> pd.DataFrame:
 # ── QUICK TEST ────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     # Smoke test with a fake mini-DataFrame
-    fake = pd.DataFrame([
-        {"movie_name": "TestFilm", "label": "dialog", "character": "ALICE",
-         "gender": "F", "text": "I love this wonderful day!", "segment": 0, "scene": 0},
-        {"movie_name": "TestFilm", "label": "dialog", "character": "BOB",
-         "gender": "M", "text": "Everything is terrible and I hate it.", "segment": 1, "scene": 0},
-        {"movie_name": "TestFilm", "label": "dialog", "character": "ALICE",
-         "gender": "F", "text": "Don't be so negative, Bob.", "segment": 1, "scene": 1},
-    ])
+    fake = pd.DataFrame(
+        [{"movie_name": "TestFilm", "label": "dialog", "character": "ALICE",
+          "gender": "F", "text": f"Line {i}"} for i in range(15)] +
+        [{"movie_name": "TestFilm", "label": "dialog", "character": "BOB",
+          "gender": "M", "text": f"Line {i}"} for i in range(15)]
+    )
 
     arc = sentiment_arc(fake, "TestFilm", n_chunks=2)
     print("Sentiment arc:\n", arc)

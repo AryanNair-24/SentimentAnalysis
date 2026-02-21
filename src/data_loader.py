@@ -295,6 +295,10 @@ def load_all(data_dir: str | Path) -> tuple[pd.DataFrame, pd.DataFrame]:
         how="left",
     )
 
+    # Clean up character column clash from Step 1 merge
+    df_chars = df_chars.drop(columns=["character_y"])
+    df_chars = df_chars.rename(columns={"character_x": "character"})
+
     matched = df_chars[df_chars["gender"].notna()]
     unmatched_chars = df_chars[df_chars["gender"].isna()].copy()
 
@@ -305,7 +309,8 @@ def load_all(data_dir: str | Path) -> tuple[pd.DataFrame, pd.DataFrame]:
 
     df_gender["first_name"] = df_gender["character_normalized"].str.split(" ").str[0]
 
-    unmatched_chars = unmatched_chars.drop(columns=["gender"])
+    print(unmatched_chars.columns.tolist())
+    unmatched_chars = unmatched_chars.drop(columns=["gender", "character"])
 
     unmatched_chars = unmatched_chars.merge(
         df_gender[["imdb_id", "first_name", "gender"]],
