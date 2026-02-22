@@ -7,7 +7,7 @@
 [![AWS](https://img.shields.io/badge/AWS-App%20Runner-orange?logo=amazon-aws)](https://aws.amazon.com/apprunner/)
 [![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)](https://docker.com)
 
-**[Live Demo →](YOUR_STREAMLIT_URL_HERE)**
+**[Live Demo →](https://sentimentanalysis-mkmh8qvgqwpfay3yxxzeer.streamlit.app/)**
 
 ---
 
@@ -15,16 +15,17 @@
 
 This pipeline ingests structured screenplay data (Cornell Movie Dialogs Corpus) and runs four NLP analyses:
 
-| Analysis | What it reveals |
-|---|---|
-| **Sentiment Arc** | Emotional trajectory through a film — 3-act structure emerges automatically |
-| **Character Voice** | Vocabulary richness, sentiment, and word patterns per character |
-| **Pacing Analysis** | Action vs dialogue ratio per scene segment |
-| **Gender Representation** | Female/male dialogue share, vocab richness gap, Bechdel proxy score |
+| Analysis                  | What it reveals                                                             |
+| ------------------------- | --------------------------------------------------------------------------- |
+| **Sentiment Arc**         | Emotional trajectory through a film — 3-act structure emerges automatically |
+| **Character Voice**       | Vocabulary richness, sentiment, and word patterns per character             |
+| **Pacing Analysis**       | Action vs dialogue ratio per scene segment                                  |
+| **Gender Representation** | Female/male dialogue share, vocab richness gap, Bechdel proxy score         |
 
 ## Key findings
 
 <!-- Fill these in after running your analysis — these become your interview talking points -->
+
 - 📊 **Female characters speak X% of dialogue** on average across the dataset
 - 🗣️ **Female characters have Y% higher vocabulary richness** than male characters (or vice versa)
 - 🎭 **Only Z% of films pass the Bechdel proxy test** (≥2 female chars with meaningful dialogue)
@@ -99,4 +100,4 @@ docker push <ECR_URI>
 
 ---
 
-*Built as a portfolio project exploring NLP techniques on publicly available screenplay data.*
+_Built as a portfolio project exploring NLP techniques on publicly available screenplay data._
