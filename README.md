@@ -84,7 +84,7 @@ docker build -t screenplay-nlp .
 docker run -p 8501:8501 -v $(pwd)/data:/app/data screenplay-nlp
 ```
 
-## AWS Deployment
+<!-- ## AWS Deployment
 
 Deployed via **AWS App Runner** from an ECR container image.
 
@@ -94,7 +94,7 @@ aws ecr create-repository --repository-name screenplay-nlp
 docker tag screenplay-nlp:latest <ECR_URI>
 docker push <ECR_URI>
 # Then create App Runner service pointing to ECR image
-```
+``` -->
 
 ---
 
