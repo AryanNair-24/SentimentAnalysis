@@ -1,4 +1,4 @@
-# 🎬 Screenplay NLP Analysis Pipeline
+# Screenplay NLP Analysis Pipeline
 
 > An end-to-end NLP pipeline analyzing sentiment arcs, character voice patterns, pacing, and gender representation across 200+ Hollywood screenplays.
 
@@ -24,12 +24,10 @@ This pipeline ingests structured screenplay data (Cornell Movie Dialogs Corpus) 
 
 ## Key findings
 
-<!-- Fill these in after running your analysis — these become your interview talking points -->
-
-- 📊 **Female characters speak X% of dialogue** on average across the dataset
-- 🗣️ **Female characters have Y% higher vocabulary richness** than male characters (or vice versa)
-- 🎭 **Only Z% of films pass the Bechdel proxy test** (≥2 female chars with meaningful dialogue)
-- 📈 **[Interesting film]'s sentiment arc** shows the sharpest single-act drop in the dataset
+- **Female characters speak 33% of dialogue** on average across the dataset
+- **Male characters have 0.1021% higher vocabulary richness** than female characters (or vice versa)
+- **Only 33.3% of films pass the Bechdel proxy test** (≥2 female chars with meaningful dialogue)
+<!-- - **[Interesting film]'s sentiment arc** shows the sharpest single-act drop in the dataset -->
 
 ## Architecture
 
