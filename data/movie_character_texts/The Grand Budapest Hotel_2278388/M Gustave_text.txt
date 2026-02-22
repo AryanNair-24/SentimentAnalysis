@@ -1,0 +1,263 @@
+0) 54) dialog: Bring the table to the window.
+0) 56) dialog: Bring the tray to the table.
+0) 58) dialog: (pointing to two hats) Have those been brushed and blocked?
+0) 60) dialog: Pack them in the hat boxes. (pointing to a shopping bag) Is that from Oberstdorf and Company?
+0) 62) dialog: Second trunk. Who has the tickets? 10. Zero raises his hand.
+0) 64) dialog: Give them to me. Zero hands M. Gustave a set of train tickets. M. Gustave studies them carefully. He nods and points.
+0) 65) dialog: These are in order. Wait in the corner. Zero retreats. M. Gustave strides to the bedroom door, raps on it briefly, then swings it open.
+0) 66) dialog: Good morning, Madame. Your breakfast is served. The sitting room is a battlefield at the moment, but rest assured, you will be en route in precisely -- (checks his watch) eleven minutes. You look heavenly. Pray be seated.
+0) 67) text: An immaculately-dressed, eighty-year-old woman emerges from the bedroom, nimble, brisk -- and highly agitated. She is Madame D. She is followed by two young women, a lady’s maid and a private secretary, who quickly join the hubbub fidgeting with trunks and rushing to-and-fro preparing for their departure. M. Gustave waits for Madame D. to sit, then joins her; at which point, she immediately leans across to him and says in a gravely serious, urgent whisper: MADAME D. I’m not leaving.
+0) 68) dialog: (puzzled) Why not? MADAME D. I’m frightened.
+0) 69) dialog: Of what? MADAME D. I feel this may be the last time we ever see each other.
+0) 70) dialog: Why on earth would that be the case? ll. MADAME D. I can’t put it into words -- but I feel it.
+0) 71) dialog: Well, for goodness’ sake, there’s no reason for you to leave us if -- MADAME D. Is there a priest in the hotel?
+0) 72) dialog: Of course, not. MADAME D. There should be. I’ve always said so.
+0) 73) dialog: Well, I've always profoundly disagreed. The Grand Budapest is no place for clergy. MADAME D. Come with me. M. Gustave hesitates slightly. He gestures to the tickets and speculates in disbelief:
+0) 74) dialog: To Lutz? MADAME D. (desperately) Please.
+0) 75) dialog: (wildly frustrated) How can I? With this enormous rock-pile around my neck like an albatross. (taking charge) Tell me right now -- wholly, specifically, and without abbreviation: what's troubling you? (surprised) Are you weeping? Tears have begun to stream down Madame D’s cheeks. M. Gustave produces a dazzling pink handkerchief and dries her eyes. The old woman takes a deep breath. MADAME D. Let us pray. Madame D. closes her eyes, lowers her chin, and crosses herself. M. Gustave reluctantly follows suit. Silence. Madame D. snaps one eye back open suddenly: 12. MADAME D. Well?
+0) 77) dialog: (instantly) Dear heavenly Father, please, protect our cherished guest as she travels through snow and sleet and under shadow of darkness. Guide her in the night to her final destination. Indeed, whatever luxury she may require, be it small or more extravagant, please, do grant
+0) 80) dialog: Give me your hand. Madame D. does so. M. Gustave firmly clasps it. He says in an affectionate, reassuring, patronizing voice:
+0) 81) dialog: You've nothing to fear. You're always anxious before you travel. I admit you appear to be suffering a more acute attack on this occasion, but, truly and honestly -- (suddenly taken aback) Dear God. What’ve you done to your fingernails? Madame D. wears an understated, pale-pink polish. She stiffens. MADAME D. I beg your pardon?
+0) 82) dialog: This diabolical varnish. The color’s completely wrong. MADAME D. (slightly uncertain) Really? You don’t like it? 13.
+0) 83) dialog: It’s not that I don’t like it. I’m physically repulsed. (checks his watch again) Time to go!
+0) 86) dialog: Perhaps this will soothe you. MADAME D. (alarmed) What? Don’t recite.
+0) 87) dialog: Just listen to the words. MADAME D. (anxious ) Please. Not now.
+0) 88) dialog: Hush! (declaiming gently) “While questing once in noble wood of grey, medieval pine, I came upon a tomb rain-slick’d, rubbed-cool, ethereal; its inscription long-vanished, yet still within its melancholy fissures --”" Madame D. sighs deeply yet does seem to calm somewhat as she accepts the inevitability of these stanzas.
+0) 90) dialog: I'll see to it myself immediately. (saintly) Remember: I’m always with you. M. Gustave begins to withdraw, but Madame D. grips his shoulder tightly. She whispers, sincere and impassioned, what she fears will be their last communication: MADAME D. I love you.
+0) 91) dialog: (as if to a child) I love you. (barking at the driver) Abfahren! The driver hits the gas. M. Gustave watches as the vehicle races away, spitting ice-chips off the packed snow. Zero lingers outside the front door. M. Gustave says with discreet pride as he continues to stare off down the road into the village of Nebelsbad:
+0) 92) dialog: It’s quite a thing winning the loyalty of a woman like that for nineteen consecutive seasons. Zero hesitates -- uncertain that he is, in fact, being addressed. He ventures:
+0) 94) dialog: She’s very fond of me, you know.
+0) 96) dialog: I’ve never seen her like that before.
+0) 98) dialog: (mildly concerned) She was shaking like a shitting dog.
+0) 100) dialog: Run to the cathedral of Santa Maria Christiana in Brucknerplatz. Buy one of the plain, half-length candles and take back four Klubecks in change. Light it in the sacristy, say a brief rosary, then go to Mendl’s and get me a Courtesan au chocolat. If there’s any money left, give it to the crippled shoe-shine boy. M. Gustave points to a blind child in leg braces crouched at the top of the funicular tracks. The boy whistles a war march while he polishes a man’s boots.
+0) 102) dialog: Hold it. Zero freezes, poised to dash off. M. Gustave frowns slightly. He says finally, pointing:
+0) 103) dialog: Who are you?
+0) 105) dialog: (mystified) Zero, you say?
+0) 107) dialog: Well, I’ve never heard of you. I’ve never laid eyes on you. Who hired you? 16.
+0) 109) dialog: (sharply) Mr. Mosher! M. Gustave snaps his fingers. A man with neat, oily hair and a thin moustache briskly approaches. He is Mr. Mosher.
+0) 111) dialog: Am I to understand you've surreptitiously hired this young man in the position of a Lobby Boy?
+0) 113) dialog: (vaguely remembering) Perhaps. Thank you, Mr. Mosher.
+0) 115) dialog: You're now going to be officially interviewed.
+0) 118) dialog: (not sure what he means) What? No. (starting the interview) Experience? 17.
+0) 122) dialog: (curtly to Anatole) Straighten that cap, Anatole. (warmly to the hotel guest) The pleasure is mine, Herr Schneider.
+0) 124) dialog: (studying the roses) These are not acceptable.
+0) 126) dialog: Education?
+0) 130) dialog: (sweetly to the dachshund) Good morning, Cicero. (coldly to the washroom attendant) Call the goddamn plumber.
+0) 133) dialog: (equally flirtatious Without fail, Frau Liebling. (sharply to the head waiter) Not now! The second interruption ends. M. Gustave continues:
+0) 134) dialog: Family?
+0) 136) dialog: (noting this) I see. M. Gustave leads Zero through a rotunda, below a grand, winding staircase, and back into the elevator. He closes his note-book. The elevator operator awaits instruction.
+0) 137) dialog: Six. The elevator operator throws a lever and they begin to ascend. M. Gustave locks eyes with Zero.
+0) 138) dialog: Why do you want to be a Lobby Boy? 19. The elevator operator casts a side-ways look. Zero searches for the honest answer -- then finds it:
+0) 140) dialog: (deeply impressed) Very good.
+0) 142) dialog: A thousand Klubecks.
+0) 145) dialog: (bristling but playful) What do you think?
+0) 147) dialog: Go light the goddamn candle.
+0) 151) dialog: (rhetorical) What is a Lobby Boy?
+0) 153) dialog: A Lobby Boy is completely invisible, yet always in sight. A Lobby Boy remembers what people hate. A Lobby Boy anticipates the client’s needs before the needs are needed. A Lobby Boy, above all, is discreet, to a fault.
+0) 155) dialog: Our guests’ know their deepest secrets, some of which are, frankly, rather unseemly, will go with us to our graves -- so keep your mouth shut, Zero.
+0) 157) dialog: That’s all for now. Zero hesitates for an instant, then nods and reverses rapidly away. M. Gustave withdraws a ring of pass-keys from his pocket. He looks up and down the corridor furtively. 21.
+0) 160) text: A succession of dames of varying grandeurs seen téte-a- téte with M. Gustave: a sixty-year-old Russian chats with him in the tea salon; a sixty-five-year-old German strolls with him on the promenade; a seventy-year-old Argentinian shares a cigarette with him naked in her bed; a seventy-five-year-old Englishwoman washes his back in her bath; and an eighty-year-old Austrian wearing a hair-net and a nightgown gives him a blow-job while he watches in the mirror and eats grapes. There is a platinum wig on a stand on the dressing table.
+0) 170) dialog: Rudeness is merely the expression of fear. People fear they won’t get what they want. The most dreadful and unattractive person: only needs to be loved -- and they will open-up like a flower. I’m reminded of a verse (reciting) “The painter’s brush touched the inchoate face by ends of nimble bristles -- and, with that blush of first color, rendered her lifeless cheek, living; though languish --" As the poetry begins, some of the diners’ eye glaze over and there are faint sighs. Mr. Moustafa continues his narration: 23.
+0) 189) dialog: What do you want?
+0) 191) text: The front page of the Trans-Alpine Yodel. The headline is, “Will There Be War? Tanks at Frontier” -- but a column below the fold reads: Dowager Countess Found Dead in Boudoir A photograph shows Madame D’s corpse flat on her back on a white carpet. As M. Gustave reads the article, he says gravely:
+0) 192) dialog: Dear God.
+0) 196) dialog: Tout de suite. She needs me -- and I need you: to help me with my bags and so on. An old woman's voice calls from the next room, coquettish:
+0) 198) dialog: (sharply) Attendez-moi, darling. (to Zero:) How fast can you pack?
+0) 200) dialog: Do it -- and bring a bottle of the Pouilly-Jouvé ‘26 in an ice-bucket with two glasses so we don’t have to drink the cat-piss they serve in the dining car.
+0) 203) dialog: I blame myself. M. Gustave checks the color of the wine in the light. It is excellent.
+0) 204) dialog: She tried to tell me she had a premonition. I didn’t listen. (imagining the scene) All of Lutz will be dressed in black -- except her own ghastly, deceitful children whom she loathed and couldn't bear to kiss hello. They’1l be dancing like gypsies. 27. Zero nods soberly. M. Gustave becomes philosophical/ nihilistic:
+0) 205) dialog: There’s really no point in doing anything in life, because it’s all over in the blink of an eye -- and, the next thing you know, rigor mortis sets in. Oh, how the good die young! With any luck, she’s left a few Klubecks for your old friend -- (motioning to himself) =- but one never knows until the ink is dry on the death certificate. She was dynamite in the sack, by the way.
+0) 208) dialog: When you're young, it’s all filet-steak, but as the years go by, you have to move on to the cheaper cuts -- which is fine with me, because I like those. More flavorful, or so they say. (shrugs) Why are we stopping at a barley field? The train has, in fact, come to a halt in the middle of nowhere. Noises echo from the other end of the coach: a door slams open; loud voices argue; heavy footsteps approach. Three soldiers appear in the compartment doorway. They are stocky, thick-necked, and armed with carbine rifles. They wear grey uniforms and long coats. M. Gustave says with an air of fancy-meeting-you-here:
+0) 209) dialog: Well, hello there, chaps.
+0) 211) dialog: With pleasure. 28. M. Gustave withdraws his passport from his coat pocket and presents it to the soldier. The soldier begins to flip through it. M. Gustave gestures toward the photograph of himself:
+0) 212) dialog: It’s not a very flattering portrait, I’m afraid. I was once considered a great beauty. The soldier ignores this comment. M. Gustave peers at the breast-pocket of his uniform.
+0) 213) text: A name tag pinned below a military badge. It reads: Cpl. F. Miller. M. Gustave raises an eyebrow and asks pointedly:
+0) 214) dialog: What’s the “F” stand for? Fritz? Franz.
+0) 216) dialog: (exceedingly pleased) I knew it! The soldier returns the passport to M. Gustave and looks to Zero. Zero nervously hands him a creased and tattered little scrap of paper covered with stamps and seals. The soldier frowns and studies it. M. Gustave smiles, uneasy, and says lightly:
+0) 217) dialog: He’s making a funny face. (to the soldier) That’s a Migratory Visa with Stage Three Worker Status, Franz, darling. He’s with me. The soldier shows the scrap of paper to his associates. They confer rapidly at a whisper. There is some debate. Finally, the soldier waves for Zero to follow him:
+0) 219) dialog: Now wait a minute. (to Zero) Sit Down, Zero. (to the soldiers) His papers are in order. I cross- referenced them myself with the Bureau of Labor and Servitude. You can’t arrest him simply because he’s a bloody immigrant. He hasn’t done anything wrong. The soldier hesitates. He turns to his associates again. They look back at him, expressionless. The soldier grabs Zero by the arm and jerks him out of his seat. M. Gustave is instantly on his feet, tussling
+0) 222) dialog: What are you doing? That hurts In two seconds: both M. Gustave and Zero are locked in hand-cuffs with their arms behind their backs. At this point, M. Gustave explodes:
+0) 223) dialog: You filthy, goddamn, pock-marked, fascist assholes! (in a pure rage:) Take your hands off my Lobby Boy! M,. Gustave and Zero lock eyes across the fracas. In an instant: they are brothers. A new voice shouts from the end of the corridor:
+0) 225) dialog: This is outrageous. The young man works for me at the Grand Budapest Hotel in Nebelsbad. Henckels turns suddenly to M. Gustave. He stares. He says in a quiet voice:
+0) 228) dialog: I know exactly who you are. It’s uncanny. You're little Albert.
+0) 232) dialog: How's your wonderful mother?
+0) 234) dialog: I adore her. Send my love. 31.
+0) 238) dialog: You see? There are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity. Indeed, that’s what we provide in our own modest, humble, insignificant -- (sighs deeply) Oh, fuck it. M. Gustave looks out the window as the train begins to move again. Zero appears to be in a state of numb shock.
+0) 241) dialog: Where is she, Clotilde? Take me to her. Clotilde leads M. Gustave with Zero in tow through a series of doors, en fillade, until they arrive at a dimly candle-lit drawing room. Murals of cherubs cover the walls. There is a harpsichord in one corner and a loudly ticking grandfather clock in another. The feet of the corpse, in silver pumps, jut out, toes up, from inside the casket on top of a gold-leaf table. M. Gustave stops and gasps. He turns to Clotilde and nods. She tugs Zero by the sleeve, and they withdraw. M. Gustave picks up a chair, carries it to the body, sets it down, and sits. Silence. He speaks in a normal, conversational voice:
+0) 242) dialog: You're looking so well, darling. You really are. They’ve done a marvelous job. I don’t know what sort of cream they've put on you down at the morgue, but I want some. Honestly, you look better than you have in years. You look like you're alive! M. Gustave shakes his head in admiration. He leans down and kisses Madame D. on the lips. Zero and Clotilde, watching discreetly from the shadows in the next room, look slightly revolted. M. Gustave takes the corpse’s hand. He notices something and hesitates.
+0) 243) text: Madame D’s fingernails. They are now lacquered in a rich plum. M. Gustave says, deeply moved:
+0) 244) dialog: You changed it, after all. It’s perfect. (calling to the next room) Clotilde? Clotilde advances into view. She says respectfully:
+0) 246) dialog: A glass of chilled water with no ice, please.
+0) 248) dialog: (slightly irritated) Oh. Well, all right. (distracted, to the body) I shan’t be long, darling. M. Gustave stands up and follows Clotilde through the xow of doors. Zero looks back at the casket as he trails behind them.
+0) 253) dialog: What the devil is going on? M. Gustave looks to Zero. Zero is perplexed.
+0) 260) text: Serge drops an ice-cube into a glass of whiskey with tongs. He does a double-take as he sees that M. Gustave has followed him into the room.
+0) 273) dialog: (floored) Wow!
+0) 275) dialog: I can’t believe it.
+0) 283) dialog: (inevitably) I'm afraid that’s me, darling. Every face in the entire assembly now turns around fully and stares at M. Gustave and Zero. Silence. The room erupts. All the distant relations start talking at once. Dmitri is on his feet, advancing toward the back of the room, flanked by Jopling, as he explodes, pointing at M. Gustave: 38.
+0) 285) dialog: (stiffening) I’ve come to pay my respects to a great woman whom I loved.
+0) 287) dialog: (making a point of it) It’s not yours yet, Dmitri. Only when probate is granted, and the Deed of Entitlement —-
+0) 289) dialog: (genuinely offended) How's that supposed to make me feel? The three sisters join Dmitri as the veins in his neck begin to bulge. He continues loudly, for the record:
+0) 291) dialog: I go to bed with all my friends Dmitri cold-cocks M. Gustave an upper-cut to the jaw and drops him with one punch. Less than a second later, Zero slams his own fist squarely right into the middle of Dmitri’s face and knocks him over backward with blood spurting out of his nose. Less than a second after that, Jopling pounds Zero in the side of the head sending him flying with a smack against the wall and melting instantly into the floor. The room breaks into complete pandemonium. 39. In the midst of the chaos, the hunched, old man says, aside, to a younger one:
+0) 296) dialog: (clever though dizzy) I thought I was supposed to be a fucking faggot.
+0) 298) dialog: (pause) Let’s change the subject. I’m leaving. M. Gustave turns and, assisted by Serge and a staggering Zero, exits the room.
+0) 300) dialog: That picture -- “Boy with Apple” -- is priceless. Understand?
+0) 303) dialog: They're going to fight me for the son of a bitch.
+0) 305) dialog: (swooning) Beyond description. (reciting) “Bren the most gifted bard’s rhyme can only sing but to the lack of her and all she isn’t! His tongue doth trip --”
+0) 307) dialog: I don’t see why not. M. Gustave zooms out through the scullery and into a little stairwell. Zero follows. They spiral up a steep flight.
+0) 310) dialog: This is van Hoytl’s exquisite portrayal of a beautiful boy on the cusp of manhood. Blond, smooth. Skin as white as that milk. (pointing to Zero’s glass) Of impeccable provenance. One of the last in private hands -- and, unquestionably, the best. It’s a masterpiece. The rest of this shit is worthless junk.
+0) 311) text: M. Gustave and Zero stand side-by-side and admire the picture for a long minute -- then Zero looks strangely to M. Gustave. M. Gustave looks back at him, curious. Zero’s eyes flicker. M. Gustave frowns. Zero goes to the corner, picks up a foot-stool, and places it on the hearth. M. Gustave hesitates. He steps up onto the foot-stool. He lifts the painting off its hooks. He comes back down to the floor. There is a dark rectangle in the wallpaper marking the absent picture. He turns to Zero again, uncertain. Behind the fire-irons, leaning against a stack of etchings, Zero spots a wood-cut print of two lesbians masturbating. He grabs it and hangs it in the painting's place.
+0) 315) dialog: Oui, Serge. Vous pouvez emballer celui- la
+0) 317) dialog: Merci, Serge. Serge opens the front door. M. Gustave and Zero quickly go outside and get into the taxi. Serge, overwhelmed and confused, with tears in his eyes, looks in at them through one of the back-seat windows. M. Gustave rolls it down.
+0) 318) dialog: What'd you want to tell me? Before.
+0) 320) dialog: (short pause) Write me tomorrow. (sharply to the driver) Lutzbahn Station! The taxi’s tires squeal, and the car shoots down the driveway. Serge watches, deeply anguished and disturbed.
+0) 322) dialog: I’ll never part with it. It reminded her of me. It will remind me of her. Always. I'll die with this picture above my bed. (quickly) See the resemblance? M. Gustave positions himself alongside the painting. Zero mutters politely from his bed:
+0) 324) dialog: Actually, we should sell it. Sooner rather than later, in case they try and steal it back. Plus: something about those lunatic foot-soldiers on the express -- I think this could be a tricky war and a long dry-spell in the hotel trade. For all we know, they could board us up tomorrow. Zero looks alarmed. M. Gustave sits up again and signals for him to come closer. Zero joins him.
+0) 325) dialog: Let’s make a solemn blood-pact. We'll contact the black-market and liquidate “Boy with Apple” by the end of the week, then leave the country and lay low somewhere along the Maltese Riviera until the troubles blow over and we resume our posts. In exchange for your help, your loyalty, and your services as my personal valet, I pledge to you: one-point-five percent of the net sale-price. Zero takes this in. He says quietly:
+0) 327) dialog: Plus room and board.
+0) 329) dialog: (in disbelief) Ten? Are you joking? That's more than I’d pay an actual dealer -- and you wouldn't know chiarascuro from chicken giblets. No, one-point-five is correct but I/11 tell you what: if I die first, and I most certainly will, you: will be my sole heir. There’s not much in the kitty except a set of ivory-backed hairbrushes and my library of romantic poetry -- but, when the time comes, these will be yours, along with whatever we haven't already spent on whores and whiskey. This is our sacred bond. I'll draw it up right now.
+0) 330) text: Pause. Zero nods. M. Gustave whisks a drinks menu out of a slot on the wall, places it face-down on the night- 44. stand, and sets a fountain pen on top of it. He dictates:
+0) 331) dialog: I, M. Gustave H, being of relatively sound mind and body, on this day the twenty-seventh of October in the year of our Lord nineteen hundred and
+0) 333) text: The next morning. A vault adjacent to the meeting room above the lobby. There are rows of safety-deposit boxes with engraved room-numbers along the walls. M. Gustave hides the wrapped package behind a radiator. He takes a fur stole off a coat hangar and drapes it awkwardly over the top. They exit the room. M. Gustave closes the heavy, inner door and spins the combination lock, then slides an outer one shut and bolts it with a key.
+0) 335) dialog: Uh-huh?
+0) 337) dialog: Tell them we’ll be right down. Anatole goes back down the steps. M. Gustave and Zero look down into the lobby through a window. Eight uniformed officers wait at the concierge desk. M. Gustave says tensely:
+0) 338) dialog: Have you ever been questioned by the authorities?
+0) 340) dialog: (hesitates) Right. Well, you know the drill, then. Zip it.
+0) 342) dialog: You've never heard the word van Hoytl in your life.
+0) 345) dialog: How may we serve you, gentlemen?
+0) 347) dialog: (somehow vindicated) I knew there was something fishy! We never got the cause of death! She’s been murdered -- and you think I did it. M. Gustave turns away and breaks into a sprint through the lobby. The police chase him. Zero watches, stunned.
+0) 352) dialog: What happened, my dear Zero, is I beat the living shit out of a snivelling little runt called Pinky Bandinski who had the gall to question my virility -- because if there’s one thing we've learned from penny dreadfuls, it’s that, when you find yourself in a place like this, you must never be a candy-ass. You’ve got to prove yourself from Day One. You’ve got to win their respect. Of course, I’ve got about a foot and a half of reach on Pinky, so once I'd pried him loose out from under my armpit, it was short order before I whipped him into scrambled eggs. (drinks a sip of water) You should take a long look at his ugly mug this morning. (spits blood back into the cup) He’s, actually, become a dear friend. You'll meet him, I hope. So. M. Gustave slides closer to the glass. So does Zero. 47.
+0) 353) dialog: You talk to Kovacs?
+0) 355) dialog: (irritated) I'll do that later.
+0) 357) dialog: Of course, he does. What’s the charge?
+0) 363) dialog: Serge?
+0) 365) dialog: That little prick. Pause. M. Gustave reconsiders.
+0) 366) dialog: No, I don’t believe it. They put him up to it. I’ve been dropped into a nest of vipers.
+0) 368) dialog: (off-hand) Certainly, but she’s married to the Duke of Westfalia. I can’t allow her name to get mixed-up in all this monkey business.
+0) 371) dialog: (bitterly) I know, but the bitch legged it. She’s already on the Queen Nasstasja half-way to Dutch Tanganyika. M. Gustave sighs and stares at the floor, shaking his head. He looks like he is about to cry. Zero says finally -- almost inaudibly:
+0) 374) dialog: What’s in the box?
+0) 376) dialog: (deeply moved) From Mendl’s. Thank you, my angel
+0) 401) dialog: -- I miss you deeply as I write from the confines of my regrettable and preposterous incarceration. Until I walk amongst you again as a free man, the Grand Budapest remains in your hands -- as does its impeccable reputation. Keep it spotless and glorify it. Take extra- special care of every little-bitty bit of it as if I were watching over you like a hawk with a horse-whip in its talons -- (brandishing a soup-ladle) -- because I am. Should I discover a lapse of any variety during my absence, I promise: swift and merciless justice will descend upon you. A great and noble house has been placed under your protection. (Tell Zero if you see any funny business.)
+0) 407) dialog: May I offer any of you inmates a plate of mush? The convicts all look to M. Gustave at once. No one speaks. M. Gustave hesitates.
+0) 408) dialog: No? Anyone? You -- with the very large scar on your face? M. Gustave points to a seven-foot giant with a deep slash from the top corner of his forehead all the way down and across to the other side of his chin. The giant frowns. He stands up. The other convicts look uneasy.
+0) 409) dialog: Come now. Try it. It’s, actually, quite warm and nourishing this morning. It needs a dash of salt. M. Gustave prepares a plate of lumpy gruel for the giant. He shakes-in a touch of salt from a shaker. The giant tastes it. Pause. He shrugs, pleased. He nods. M. Gustave smiles.
+0) 410) dialog: Good day. M. Gustave pushes his cart to the next cell. A bald wrestler lifts weights while an old man spots him.
+0) 411) dialog: Mush, gents? Any takers? The wrestler and the old man look at M. Gustave blankly with the barbell in the air. M. Gustave shrugs and says regretfully:
+0) 412) dialog: Suit yourselves. 53. M. Gustave pushes his cart to the next cell. These convicts are all asleep. M. Gustave says with a musical lilt:
+0) 413) dialog: Rise and shine. Chop-chop! A wiry, pint-sized convict the shape of a fire-hydrant squints out from under his covers. He is Pinky.
+0) 414) dialog: Good morning, Pinky. Pinky yawns and sets his feet to the floor. The convicts in the other bunks also begin to rustle. Their faces are brutal, and their bodies are hard and powerful. They are Giinther and Wolf. (A fourth convict, also in the room, begins to get out of bed, as well -- but his face is not revealed for the moment.) M. Gustave reaches to the lower shelf of the cart and produces a pink pastry-box. All the convicts quickly gather at a small table. (The fourth convict sits with his back to the camera.) Pinky says eagerly:
+0) 416) dialog: Precisely. Who’s got the throat-slitter? Giinther digs in his sock and takes out a small weapon consisting of a half-toothbrush fixed with wire to a hand-slivered straight-razor cut into serrated teeth. M. Gustave folds open the pastry-box and cuts a Courtesan au chocolat into careful segments. The convicts eat daintily. Wolf says, chewing
+0) 418) dialog: (obviously) Mendl’s is the best. Well, back to work.
+0) 421) dialog: (hesitates) Yeah? Pinky exchanges a look with the others. They nod. He darts to the door, looks up and down the corridor, then 54. closes it softly. He signals for M. Gustave to sit back down. M. Gustave, slightly puzzled, obeys. They all lean in closer as Pinky whispers:
+0) 423) dialog: Well, I’ve never been accused of that before, but I appreciate the sentiment.
+0) 425) dialog: (somewhat moved) What a lovely thing to say. Thank you, dear Pinky. Thank you, Giinther. Thank you, Wolf. I couldn't ask for a finer tribute. M,. Gustave bows slightly. He hesitates.
+0) 426) dialog: Anything else? Pinky looks to the fourth convict. He nods:
+0) 430) dialog: Who drew this?
+0) 432) dialog: (impressed) Very good. You've got a wonderful line, Ludwig. This shows great artistic promise. Ludwig smiles slightly, pleased and slightly embarrassed. M. Gustave points on the map:
+0) 433) dialog: Question: how do you intend to penetrate this lowest rudiment? If I interpret the legend correctly, it’s twenty-five inches of reinforced granite masonry, is it not? Digging with the throat-slitter, I expect that would take three to six months of continual effort, during which time several of our members will have been violently executed.
+0) 435) text: M. Gustave nods gravely. The others slump, listless, and sigh. M. Gustave taps rapidly on the table with the jerry-rigged shiv. Suddenly, he sits up straight and frowns. The others watch him, curious -- then look where he is looking. 56. The camera zooms-in slowly toward the crinkled wrapper of the Courtesan au chocolat as the five inmates all stare at it together.
+0) 456) text: M. Gustave sits opposite Agatha at a long table with his hand resting on top of hers as he leans close to her recounting something vividly. They both laugh uproariously. M. Gustave says loudly, aside, to Zero:
+0) 457) dialog: She's so charming! Zero broods in the corner. The table is piled with long- stemmed flowers, and a large, cardboard box overflows with more.
+0) 461) dialog: (hesitates) I beg your pardon? (conspiratorially to Agatha) Why’s he sulking?
+0) 463) dialog: (in disbelief) I’m only interviewing this vision of loveliness on your behalf (conveying pearls of wisdom) Never be jealous in this life, Zero. Not even for an instant. 59.
+0) 466) dialog: I approve of this union. (still flirting) Agatha, my beauty? Return to your beloved. Zero and Agatha stand together quietly on display, happy. She clutches a tulip. M. Gustave nods sagely.
+0) 494) text: Four small hammers tap rapid-fire at four half-scale chisels, chipping away into a cement pot-hole. They are making good progress. INT. LUDWIG’S CELL. NIGHT M. Gustave, Pinky, Giinther, and Ludwig work diligently by candle-light under a wooden table. Periodically, Wolf scoops-up the powdery debris with a soup ladle and throws it aside. Ludwig looks up suddenly, alerted. He holds up a finger.
+0) 538) dialog: It’s you! Thank you! Thank you, you sweet, kind man! The giant nods sadly.
+0) 540) text: The bottom of the rope ladder which ends half-way down the tower. M. Gustave, Pinky, Giinther, Wolf, and Ludwig step onto a narrow ledge and make their way, side- stepping cautiously, around the circumference of the building. They arrive at a small sloped roof and open a trap-door.
+0) 547) dialog: Look out! Giinther whips the toothbrush-knife out of his sock and jumps down into the hole. The table shatters and cards and coins fly in every direction. There is a frenzy of punching, scrapping, and grunting. The others converge excitedly around the hole like the audience at a cock- fight. Giinther kicks one guard in the teeth, slashes another across the neck, and socks the third, blasting the lantern into bits in the process. The room goes black. M. Gustave, Pinky, and Wolf cheer at a low decibel, whispering advice and encouragement simultaneously down into the darkness while Ludwig quickly searches for a match. He lights it and holds it over the hole. Two of the guards are now sprawled-out on their backs in a spreading pool of blood. Giinther and the remaining guard twist and clutch on the floor, grappling in violent head-locks, while they simultaneously stab each other repeatedly with the throat-slitter and a thick hunting-knife. They both fall silent and stop moving. Silence. M. Gustave says quietly:
+0) 548) dialog: I suppose you'd call that a draw. Ludwig sighs. He delivers a brief eulogy:
+0) 551) dialog: Good evening. Zero rushes to assist M. Gustave out of the storm-drain. Pinky, Wolf, and Ludwig surface on high-alert, looking 71. around in every direction. (Pinky carries a wad of the crumbled-up gambling-money in his little hand.)
+0) 552) dialog: Let me introduce you. Pinky, Wolf, and Ludwig: this is the divine Zero. (soberly to Zero) Giinther was slain in the catacombs. M. Gustave crosses himself quickly. He begins a wistful speech:
+0) 553) dialog: Well, boys, who knows when we'll all meet again; but if, one day --
+0) 555) dialog: Which way to the safe house?
+0) 557) dialog: (in disbelief) No safe house? Really? We're completely on our own out here?
+0) 559) dialog: I understand. Too risky. We'll just have to wing it, I suppose. Let’s put on our disguises. Zero hesitates. He looks down at his vagabond costume then at M. Gustave’s. He says, confused:
+0) 561) dialog: (frustrated) No, we're not. We said false whiskers and fake noses and so on. You didn’t bring any?
+0) 564) text: Zero trails off again. He deflates, distressed. M. Gustave remains calm.
+0) 565) dialog: When done properly, they're perfectly convincing -- but I take your point. So be it. Give me a few squirts of L’air de Panache, please, will you? Zero smacks his hand to his forehead and looks mortified. M. Gustave says bluntly:
+0) 566) dialog: Can I not get a squirt, even?
+0) 569) text: M. Gustave lifts up his arms. Zero sniffs him. He grimaces. M. Gustave’s eyes narrow. He begins to seethe.
+0) 570) dialog: Well, that’s just marvelous, isn’t it? I suppose this is to be expected back in where do you come from, again?
+0) 573) dialog: (escalating) Precisely. I suppose this is to be expected back in Aq Salim al-Jabat where one’s prized possessions are a stack of (more) 73. M. GUSTAVE (cont'd) filthy carpets and a starving goat, and one sleeps behind a tent-flap and survives on wild dates and scarabs -- but it’s not how I trained you. What on God’s earth possessed you to leave the homeland where you very obviously belong and travel unspeakable distances to become a penniless immigrant in a refined, highly- cultivated society that, quite frankly, could’ve gotten along very well without you?
+0) 575) dialog: (pause) Say again? Zero speaks softly and struggles deliberately to hold back his emotions as he says, staring at the ground:
+0) 577) dialog: (back-peddling) Ah, I see. So you're, actually, really more of a refugee, in that sense.
+0) 579) dialog: (ashamed) Well, I suppose I'd better take back everything I just said. What a bloody idiot I am. Pathetic fool. Goddamn selfish bastard. This is disgraceful -- and it’s beneath the standards of the Grand Budapest. Zero looks increasingly concerned as M. Gustave begins to come unglued. Tears stream down M. Gustave’s face. He stands at attention and says with deep deference:
+0) 580) dialog: I apologize on behalf of the hotel 74.
+0) 582) dialog: Don't make excuses for me. I owe you my life. M. Gustave takes Zero by the hand. He says with great feeling and sincerity:
+0) 583) dialog: You're my dear friend and protégé, and I’m very proud of you. You must know that. I’m so sorry, Zero.
+0) 585) dialog: How's our darling Agatha? Zero starts to answer, then hesitates. He recites: ZERO. “twas first light when I saw her face upon the heath; and hence did I return day-by-day, entranced: tho’ vinegar did brine my heart --” A powerful siren begins to blast across the region. Zero’s eyes dart around, startled. M. Gustave says over the noise, impressed:
+0) 586) dialog: Very good! I’m going to stop you because the alarm has sounded -- but remember where we left off, because I insist you finish later! M. Gustave and Zero take-off full-speed down the road.
+0) 588) dialog: Operator, get me the Excelsior Palace in Baden-Jiirgen and reverse the charges please. (to Zero) We've no choice. There’s nowhere else to turn. (into the receiver) I'll hold. Thank you. (to Zero) It’s our only hope. Otherwise, I shouldn’t even mention its existence to you. It goes without saying, you must never breath a word about this to a living soul. Do you swear?
+0) 590) dialog: I can’t say. (into the receiver) Guten abend. M. Ivan, bitte. Danke. (by way of explanation, to Zero) How does one come by front-row aisle- seats for a first-night at the Opera Toscana with one day’s notice? How does one arrange a private viewing of the tapestry collection at the Royal Saxon Gallery? How does one secure a corner table at Chez Dominique on a Thursday? Zero nods as he takes this in, intrigued. Pause. M. Gustave says suddenly into the receiver, turning on the charm:
+0) 591) dialog: Ivan, darling, it’s Gustave! Hello! Well I was until about five minutes ago. We've taken it upon ourselves to clear out in a hurry, if you see what I mean. Through a sewer, as it happens. Exactly! Listen Ivan, sorry to cut you off, but we’re in a bit of a bind. This is an official request. (officially) I’m formally calling upon the special services of —-
+0) 604) dialog: M. Georges. No trouble at all. Tell me. I see. I see. Straight away. M. Dino presses down on the hook to disconnect, then lifts it up again and says urgently:
+0) 605) dialog: Get me M. Robin at 1’Hétel Céte du Cap, please.
+0) 614) dialog: Serge X: missing. Deputy Kovacs: also missing. Madame D: dead. “Boy with Apple”: stolen (by us). Dmitri and Jopling: ruthless, cold-blooded savages. Gustave H: at large. what else?
+0) 616) dialog: (nodding) Zero: confused, indeed. The plot “thickens”, as they say. Why, by the way? Is it a soup metaphor?
+0) 621) dialog: Third class?
+0) 627) dialog: L’air de Panache!
+0) 629) dialog: We should give him something as a symbolic gesture. How much money you got?
+0) 631) dialog: Give me twenty-five. Zero’s eyes widen. He cocks his head, dubious. M. Gustave nods firmly. Zero reluctantly digs a handful of coins and bills out of his pocket and passes it on to M. Gustave. M. Gustave says to M. Ivan with profound gratitude:
+0) 632) dialog: Bless you. M. Gustave attempts to discreetly press the money into M. Ivan’s palm -- but M. Ivan withdraws. He waves his hands and says by way of gentle refusal 81.
+0) 658) dialog: I’m not angry with Serge. You can’t blame someone for their basic lack of moral fiber. He’s a frightened, little, yellow- bellied coward. That’s not his fault, is it?
+0) 661) dialog: (sighs) Yes, I suppose you’re right. Of course it depends. However: that doesn’t mean I'm not going to throttle the little swamp rat. (pause) May I officiate, by the way? The ceremony.
+0) 663) dialog: I must say, I find that girl utterly delightful. Flat as a board, enormous birthmark the shape of Mexico over half her face, sweating for hours on end in that sweltering kitchen while Mendl (genius though he is) looms over her like a hulking gorilla -- yet without question, without fail, always, and invariably: she’s exceedingly lovely. Why? Because of her purity.
+0) 666) dialog: (perking up) Does she?
+0) 668) dialog: (impressed) That’s a good sign, you know. It means she “gets it”. That’s important. 86.
+0) 685) dialog: It’s a hell of a view. I give them that, for what it’s worth.
+0) 687) dialog: When one says “mid-day” -- what does that mean to you?
+0) 689) dialog: Exactly. In other words, twelve p.m. At least, that’s always been my interpretation. Silence. M. Gustave withdraws the small bottle of cologne from his pocket, spritzes himself twice, hands it to Zero who does the same automatically, then tucks it back away again. He holds-out his palm under the snow. He begins to recite:
+0) 690) dialog: “'is oft’-remarked: no single, falling- flake does any other in its pure and perfect form --”
+0) 693) dialog: (hesitates) Uh-huh.
+0) 695) text: The cable-car sets-off up and across the wide ravine. M. Gustave and Zero sit side-by-side with the curious, silent family. The father sniffs the air. He looks irritated. Half-way there: the cable-car slams to a stop with a clunk. Everyone is startled. The stalled vehicle sways in the quiet wind. The father looks up. The mother looks down. The children look to each other. In the distance: there is a faint, mechanical hum. M. Gustave and Zero look out. Another cable-car is ascending at a diagonal on a different line. They all watch as it slowly approaches. Just as it is about to criss-cross their path: it slams to a stop, too. Another elderly, cloaked monk stares out from inside the other cable-car. He is alone in the vehicle. He studies M. Gustave and Zero for a moment, frowning. He whispers loudly:
+0) 697) dialog: (hesitates) Uh-huh.
+0) 701) dialog: (hesitates) Uh-huh.
+0) 706) dialog: (irritated) Yes, dammit.
+0) 708) dialog: I’m innocent.
+0) 712) dialog: (frustrated) No! Who'd they kill this time?
+0) 714) dialog: (trying to picture her) The girl with the club-foot?
+0) 716) dialog: Those fuckers. 93.
+0) 718) dialog: I know, darling. Let’s put that behind us. Listen: I hate to put you on the spot, but I really must ask you to clear my name. Obviously, you're grieving, and if I had any other --
+0) 720) dialog: (hesitates) OK.
+0) 722) dialog: I get it. Go on.
+0) 724) dialog: A second will.
+0) 726) dialog: In case she got bumped-off.
+0) 728) dialog: Uh-huh?
+0) 730) dialog: Oh, dear.
+0) 732) dialog: Uh-huh? 94.
+0) 734) dialog: (beat) A second copy of the second will
+0) 736) dialog: Uh-huh? Long pause. M. Gustave finally starts to lose his composure. His voices rises:
+0) 737) dialog: Well, what does it say? Where is it? What’s it all about, dammit? Don’t keep us in suspense, Serge. This has been a complete fucking nightmare. Just tell us what the fuck is going on The panel snaps shut. M. Gustave and Zero frown. The organ blasts again outside the confessional, and the church booms with low, eerie, singing voices. M. Gustave tries to jerk the panel open, but it sticks. He bangs on it with his fists.
+0) 738) dialog: Serge? Serge? Serge! M. Gustave tries the door. It is locked. Zero peers at the keyhole and says shortly:
+0) 741) dialog: Bloody hell. They've strangled the poor slob! M,. Gustave presses the door quietly shut again. He and Zero both look frantically around the room. One lone monk swings a smoking censor as he recesses quickly down the center aisle while the rest of the congregation stand in their pews singing. He steps outside and ducks away around the corner. M. Gustave and Zero’s eyes light up -- then narrow fiercely. They run after the monk.
+0) 748) dialog: (pause) I don’t know! He’s a homicidal psychopath! Let’s stop!
+0) 750) dialog: You sick, pathetic creep. I hate you. (shouting) Run, Zero! Save yourself, I suppose! Zero’s feet are frozen in place. A distant wolf howls. Pause. Jopling lifts his foot and stomps his boot down with all his might. The ice crackles and fissures. M. Gustave sighs miserably. He swallows. Jopling stomps again. The ice around M. Gustave begins to crumble. As Jopling continues to stomp, over and over, M. Gustave sadly recites:
+0) 751) dialog: “'T£ this do be me end: farewell!’ cried the wounded piper-boy, whilst the muskets cracked and the yeomen roared, ‘Hurrah!’ and the ramparts fell. ‘Methinks me breathes me last, me fears!’ said he --"
+0) 752) text: There is a powerful thump, and Jopling flies head-first, screaming, off the cliff over M. Gustave’s head. Zero, in the midst of a diving shove, lands on his face and nearly goes over the edge, himself. He is covered with snow. M. Gustave shouts, ecstatic:
+0) 753) dialog: Holy shit! You got him! Far, far below: Jopling’s arms and legs flail as he disappears down into the deepest reaches of the chasm. M. Gustave says proudly in elation:
+0) 754) dialog: Well-done, Zero! M. Gustave looks greatly relieved as he continues to hang precariously and his fingers stiffen toward frost- bite. Zero gasps for an instant, then thrusts his arms down, stretching, to seize M. Gustave by the wrists.
+0) 756) text: A binocular shot of Zero dragging M. Gustave back up onto solid ground. They dust the snow off their bodies and catch their breath. Henckels’ voice shouts over a megaphone:
+0) 760) dialog: (weary) I don’t know. I'd rather jump off this cliff right now than go back to fucking prison. M. Gustave looks lost and tired. Zero stares at him. He nods. He says calmly:
+0) 762) dialog: Very good! You're so extraordinary, Zero. Thank you. (gravely) A moment of silence in memoriam of a devoted servant killed violently during the conduct of his duties. M,. Gustave and Zero stare solemnly into space for about five seconds. Bloodhounds bark in the far distance. Zero says quietly: 99.
+0) 768) dialog: (pause) Charming, really! The weather's exquisite. The local cuisine is simple but excellent! The people are warm, kind, honest! Rather dusky-complexioned. You’11 fit right in, actually! Zero nods, pleased.
+0) 782) dialog: The beginning of the end of the end of the beginning -- has begun. A sad finale played, off-key, on a broken-down saloon piano in the outskirts of a forgotten ghost town. I’d rather not bear witness to such blasphemy.
+0) 784) dialog: (elegiac) The Grand Budapest has become a troop’s barracks. I shall never cross its threshold again in my lifetime.
+0) 786) dialog: (on a roll) Never again shall --
+0) 788) dialog: Dmitri.
+0) 798) dialog: Compliments of Herr Mendl. 104. The soldier at the desk blocking the entrance looks up. He is half-way through his Courtesan au chocolat. He has butter-cream on his moustache.
+0) 801) dialog: Have you seen a pastry-girl with a package under her arm in the last minute and a half? orro Yep! She just got on the elevator with Mr. Desgoffe und Taxis.
+0) 802) dialog: (irritated) Thank you. M,. Gustave and Zero look up at the wall. Something is gnawing at them both.
+0) 803) text: The needle above the elevator entrance. It climbs past Four toward Five. M. Gustave and Zero start to dash away -- but Zero stops short and turns back. He says quickly to Otto:
+0) 810) dialog: (pause) None of your goddamn business
+0) 816) dialog: That’s Dmitri Desgoffe und Taxis! He’s responsible for the killings of Deputy Kovacs, Serge X. and his club-footed sister, plus his own mother!
+0) 835) text: The front page of the Trans-Alpine Yodel. Headline: Cleared of All Charges A photograph shows M. Gustave with the entire staff posing in front of the Grand Budapest. A column below the fold reads, “Son of Murdered Countess Disappears without Trace.”
+0) 843) dialog: In answer to your earlier question, by the way: of course. Zero looks slightly puzzled. M. Gustave explains, aside, to Agatha:
+0) 844) dialog: Zero asked me about my humble beginnings in the hotel trade. (to Zero and Agatha both) I was, perhaps, for a time, considered the best Lobby Boy we’d ever had at the Grand Budapest. I think I can say that. This one -- (pointing to Zero) -- finally surpassed me. Although, I must say, he had an exceptional teacher.
+0) 847) dialog: (impressed) Very good. M. Gustave kisses Agatha’s hand. Zero frowns. 112.
+0) 849) dialog: I find these black uniforms very drab. I suppose they’re meant to frighten people, but -- Three soldiers appear in the compartment doorway. They are stocky, thick-necked, and armed with carbine rifles. M. Gustave says with his usual air of fancy-meeting-you- here:
+0) 850) dialog: Well, hello there, chaps. We were just talking about you.
+0) 852) dialog: With pleasure -- as always. M. Gustave and Agatha withdraw their passports and present them to the soldier. The soldier flips through them.
+0) 853) dialog: You're the first of the enemy forces to whom we’ve been formally introduced. How do you do? The soldier ignores this comment. He returns the passports to M. Gustave and Agatha and looks to Zero. Zero nervously hands him his little scrap of paper. The soldier frowns and studies it. M. Gustave smiles. He says lightly:
+0) 854) dialog: Plus ¢a change, am I right? (to the soldier) That’s a Migratory Visa with Stage Three Worker Status, darling. Read this. M. Gustave hands the soldier Henckels’ special document. The soldier shows it to his associates. They confer 113. rapidly at a whisper. There is some debate. Before M. Gustave can work his magic -- the soldier rips the special document to shreds. Pause. M. Gustave looks to Zero. Zero and Agatha are both stunned and frightened. M. Gustave seems to smile very slightly, reassuring them, and somehow sends a sincere, private message: Good luck. M. Gustave’s jaw hardens. He pegs his glass of wine at the soldier, shattering it, and explodes:
+0) 855) dialog: You filthy, goddamn, pock-marked, fascist assholes! M. Gustave is instantly on his feet, tussling. Zero jumps up to intervene, trying to calm everyone down -- and is immediately bashed in the face with the stock of a rifle and dropped to the floor, out cold. M. Gustave shouts and struggles. Agatha screams
+0) 858) dialog: I give you my word: I'll see all three of you dishonorably discharged, locked-up in the stockade, and hanged by sundown (screaming in rage) Where is your commanding officer?
+0) 869) text: The author’s room key as Mr. Moustafa places it onto the desk. It is labelled M. GUSTAVE SUITE.

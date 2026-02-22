@@ -1,0 +1,39 @@
+28) 2) text: Robert strides to his seat in the center of the table, an the others settle in respectfully. MORNAY, another young  warrior, gives him a bow, as does CRAIG, a grizzled noble
+28) 3) dialog: Young Robert, we are honored --
+28) 5) dialog: Clearly meant to draw more of his  supporters here.
+28) 8) dialog: A wise plan. And how is your father?  We have missed him at the council.
+64) 0) text: The nobles of Scotland are gathered in the huge chamber; massive table runs across the far end of the room, and al on either side are the two rival factions of nobles, glar at each other. Old Craig is in the center, with young Rob the Bruce on his right. There is a general MURMUR along t nobles, and Robert whispers to Craig...
+64) 2) dialog: No. But his weight with the commoners  could unbalance everything. The  Balliols will kiss his ass, so we  must.
+64) 5) text: The nobles on each side of the table try to outdo each ot in their acclamation as Wallace strides in, flanked by Ha Campbell, and Stephen, splendid in their tartans. Old Craig rises.
+64) 6) dialog: Sir William. In the name of God, we  declare and appoint thee High  Protector of Scotland! And thy  captains as aides decamp!
+64) 20) dialog: Sir William! Where are you going?
+64) 23) dialog: But... what will you do?
+64) 25) dialog: Invade?! That's impossible, it --
+72) 0) text: Wallace has gathered the nobles, among them Robert the Br Mornay, and old Craig, for a demonstration. Hamish and St have placed a spearman's chestplate against a bale of hay As William cranks the crossbow to its full cocked positio and places a bolt in its slot, Stephen tucks a melon behi the armor. William aims... and fires. The bolt slashes through the a and punches through the armor and the melon, leaving no d what it would do to a man's heart. The nobles pale.
+72) 1) dialog: That is why the Pope outlawed the  weapon! It makes war too terrible.
+72) 4) dialog: We must sue for peace.
+72) 6) dialog: We cannot defeat this --
+72) 8) dialog: It is suicide.
+76) 0) text: Wallace, still bloody and in his battered armor, removes chain of office from beneath his breastplate, lays it ont the table in front of Craig and the other nobles, and wal from the room. Hamish and Stephen see the satisfaction on the nobles' face, and follow William out.
+83) 2) text: Old Craig rides past them, heading toward the Bruce's cas on the hill above the town.
+84) 0) text: Robert is in his central room; he hears the chanting from far below. Old Craig enters.
+84) 2) text: Craig hands him the bloody nightshirt Mornay was wearing.
+94) 3) dialog: May he rest in peace... You have  already sealed the coffin?
+94) 5) dialog: It will not be long before Longshanks  too is encased in stone, and his  crowns divided for others to wear.
+94) 6) text: Craig sits next to Robert, and keeps his voice low.
+94) 7) dialog: Our nobles are frightened and  confused... Wallace has the commoners  stirred up again, from the Highland  clans to the lowland villages. In  another six months Christ and the  Apostles could not govern this  country.
+94) 9) dialog: Longshanks knows his son will scarcely  be able to rule England, much less  half of France. He needs Scotland  settled, and he trusts you, after  Falkirk. If you pay him homage, he  will recognize you as king of  Scotland. Our nobles have agreed to  this as well.
+94) 12) dialog: Homage is nothing. It is the crown  that matters!
+94) 14) dialog: That is another matter. There is a  price to all this, required both by  Longshanks and our nobles. Pay it,  and you will be our king. And we  will have peace.
+94) 15) text: Robert turns from his father's coffin, to look at Craig.
+95) 1) dialog: Sir William. We come to seek a  meeting.
+95) 3) dialog: An oath to a liar is no oath at all.  An oath to a patriot is a vow indeed.  Every man of us is ready to swear  loyalty to you.
+95) 5) dialog: We cannot. Some scarcely believe you  are alive. Other think you'll pay  them Mornay's wages. We bid you to  Edinburgh. Meet us at the city gates,  two days from now, at sunset. Pledge  us your pardon and we will unite  behind you. Scotland will be one.
+95) 8) dialog: He has already agreed to come.
+99) 0) text: Robert the Bruce and Craig stand at the hearth, tense.
+99) 1) dialog: He won't come.
+100) 3) dialog: Now we will have peace.
+104) 0) text: The Bruce is incredulous, yelling at Craig.
+104) 2) dialog: You are surprised he would lie?  Balliol was murdered in a church  yesterday. You are Longshanks' new  designate. You will be king.
+110) 4) text: UP ON THE HILL, Robert the Bruce sits on his horse, and w He looks down at the English generals, at their banners,  their army. He looks down the ranks at his own. He sees Hamish. Stephen. Old MacClannough is there, his e watery, his weapon sharp. The Scottish bride Lord Bottoms took is there, among the ragtag archers, her husband besi her. Robert knows none of them -- yet he knows them all. Old Craig, among the other Scottish nobles mounted beside the Bruce, grows impatient.
+110) 5) dialog: Come, let's get it over with.

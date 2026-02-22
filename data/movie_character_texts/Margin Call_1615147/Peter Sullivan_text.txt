@@ -1,0 +1,146 @@
+0) 0) text: 1 The frame is filled with the face of PETER SULLIVAN, a 27 year-old risk assessment analyst. He has a Doctorate from and is staring intently into a large bank of computer screens. An elevator door opens and FOUR HUMAN RESOURCES PEOPLE co out of the elevator carrying large file boxes. They walk a long glass enclosed hallway that runs the full length o the trading floor. The scope of the floor now comes into frame. There are more computers than can be imagined and several large boards on the far walls that are scrolling thousands of numbers. PETER gives a knowing glance to the sitting next to him, SETH BREGMAN, a young analyst in his early twenties.
+0) 2) dialog: (nods yes)
+0) 5) dialog: Yeah.
+0) 17) text: Eric Dale? PETER
+0) 19) text: Eric Dale? PETER
+0) 21) text: Sorry? PETER
+0) 23) text: Oh. I'm so sorry. PETER
+5) 0) text: 4 Outside his office PETER and SETH are standing to say goodbye.
+5) 1) dialog: Eric, I am very sorry.
+5) 3) dialog: Jesus Seth.
+6) 0) text: 5 THEY both stand there in silence waiting for the elevator then. PETER
+6) 2) text: That's not necessary. PETER
+6) 3) text: Well it is... You were the person around here that I... ERIC looks at him and understands. PETER turns around and begins to walk back toward his desk. ERIC
+6) 4) text: I know. PETER turns back and ERIC reaches into one of his boxes a takes out a small key chain portable hard drive and hands to PETER. ERIC (cont'd)
+11) 0) text: 10 Most of the remaining traders are packing up and getting ready to go home or out for the night. PETER is sitting a his desk holding the portable hard drive. SETH is getting ready to leave behind him. PETER stares down at the drive his hand trying to decide whether to proceed. SETH You ok? PETER Yeah. Just a little freaked out. SETH You want to get a drink? PETER Nah, I need to clean up a few things around here. SETH Everyone is going out... come on.
+11) 4) text: SETH walks out and PETER puts on his headphones, the MUSI kicks in again. He picks up the portable hard drive, look around and sees no one, then inserts it into his computer has four large screens in front of him and as he begins opening window upon window of mathematical models his fac begins to soften and he gets into his comfort zone. The f is filled with the extremely complex programs and numbers flying by.
+14) 0) text: 13 PETER is still working on the numbers, although his face starts to carry a more serious look. He is now wearing glasses and the numbers on the screen are reflected in th The numbers finally stop moving on the screen and then he takes his glasses off and rubs his eyes.
+16) 0) text: 15 PETER is still in front of his computer, he puts his glas back on, looks at the screen then quickly picks up the ph and dials. PETER (to himself as he dials)
+16) 2) text: The number you have called has been disconnected and is no longer in service. PETER
+16) 3) text: Fuck. PETER hangs up the phone. He looks back at the screen. Th picks up the phone again and dials.
+17) 1) text: Hello. PETER
+17) 3) text: What. PETER
+18) 0) text: 17 PETER
+18) 8) text: Hey, look who it is, burning the candle at both ends. There aren't anymore cuts planned though, so you can stop kissing my ass, honestly I don't even understand what you guys do. PETER
+18) 11) text: Hey. WILL is a bit drunk but SETH looks at PETER'S face and realizes something is up. SETH (cont'd)
+18) 12) text: What's going on? PETER
+18) 13) text: Look at this. SETH comes around and sits at PETER'S desk. PETER (cont'd)
+18) 15) text: Eric? PETER
+18) 17) text: Be careful? PETER
+18) 22) text: WILL is now paying closer attention, standing over their shoulder. WILL EMERSON What is this? PETER This is basically everything that we have on our books at any given time. But what Eric was trying to do here is work it for levels of volatility that fall outside the limits of our standard VAR model. WILL EMERSON What are those levels. PETER Well it's a fairly complicated... WILL EMERSON Simplify. PETER The volatility boundaries are basically set using historic patterns then stretching them out another 10-15%... roughly. WILL EMERSON So what's happening? SETH We are starting to test those historic patterns. WILL EMERSON When?
+18) 23) text: PETER starts scrolling back through the last couple weeks his screen
+18) 28) text: Tuesday. PETER
+18) 32) text: Fuck me... Once this thing gets going in the wrong direction... PETER
+18) 36) text: The losses are greater than the current value of the company...? PETER
+18) 38) text: Fuck me. PETER
+18) 40) text: Wait, and this is just our floor? PETER
+18) 47) text: What? WILL starts off towards his office and is suddenly quite sober. PETER and SETH follow him. PETER
+18) 49) text: Fucking ruthless. And he's got no other cell? PETER
+18) 51) text: How does he not have his own cellphone? PETER
+19) 1) text: I think I have his home number. PETER
+19) 3) text: Yes... Do we even know if he's right? WILL looks at PETER and SETH standing in front of his des PETER
+19) 10) text: Will hangs up the phone. WILL EMERSON (cont'd) Where the fuck is he? SETH Doesn't he have like three kids? WILL EMERSON So? SETH I'm just saying, would you go home? WILL EMERSON I know where he is. You two need to go get him. PETER Now? WILL EMERSON Yes.
+19) 11) text: Will writes the address on a piece of paper. Hands it to them. WILL EMERSON (cont'd) There will be a car waiting for you downstairs. Get him back here. PETER What are you going to do? WILL EMERSON I'm calling Sam. PETER Fuck me. WILL EMERSON Go.
+22) 0) text: 22 SETH and PETER sit in the back of the plush car as it struggles through traffic up town. SETH reaches into his and pulls out a large beer in a black paper bag. Their conversation is quiet, as if they are afraid someone migh listening. SETH
+22) 1) text: You want one? PETER
+22) 2) text: No. PETER gives him a bit of a look. SETH
+22) 4) text: ... thought you might've gotten some chick pregnant or something. PETER
+22) 6) text: I guess that's true. PETER looks out the window at all the people on the stree enjoying the Thursday night. PETER
+22) 8) text: What? PETER
+22) 9) text: We are in here stressing our fucking heads off that the world as we know it is ending, and they've got no idea what's coming. SETH'S demeanor sitting and drinking a beer doesn't seem project much in the way of stress. PETER (cont'd)
+22) 15) text: PETER continues to look out the window in silence for a l beat. Then with a little sly humor and a smile to SETH: PETER You do know it's a little more complicated than that?
+22) 16) text: SETH'S phone starts playing a ring tone. He looks down at text. SETH It's Will... He wants to know if we've found him? What do I tell him. PETER Tell him that we haven't found him.
+24) 4) text: SAM looks at WILL for some hint of what is going on, then eventually puts his coat down and sits into a chair. They wait for who goes first. SAM ROGERS So? WILL EMERSON Eric Dale... SAM ROGERS Oh Jesus... WILL EMERSON Before he was escorted out of the building by security... SAM ROGERS I had nothing to do with that. WILL EMERSON I know. SAM ROGERS I'm sorry, go on. WILL EMERSON So as he was leaving the building he hands a disk to Peter Sullivan... SAM ROGERS Who's Peter Sullivan again? WILL EMERSON One of Eric's guys. SAM ROGERS Right. WILL EMERSON ...and tells him that he was almost on to something but hasn't been able to figure it out. So he gives him the disk and says give it a try... but the last thing he says as the doors to the elevator close is `be careful'... SAM ROGERS Be careful?
+25) 0) text: 25 PETER and SETH are sitting at the bar each with a drink facing camera. There are women dancing in the background one dancing in front of them, PETER and SETH look up occasionally. PETER
+25) 2) text: We should probably tell Will he's not here. PETER
+25) 4) text: What do you think this girl makes in a night? PETER
+27) 2) text: Long pause. PETER I have no idea? SETH Come on, play along. PETER I don't know what year? SETH Last year. PETER Three quarters of a million bucks? SETH Come on. PETER What?
+27) 6) text: SETH looks at him showing he is serious. PETER (cont'd) Fuck you! SETH He did. PETER How do you know that? SETH He told me. PETER He just told you that? SETH Well I asked him. PETER Do you think that's true. SETH Probably. PETER That's fucked up. SETH Why? PETER Does that seem right to you?
+27) 10) text: Right? PETER
+27) 12) text: So what do you think that means Rogers puts away? PETER
+27) 13) text: I have no idea. They both just look straight forward, SETH takes a big gu of the beer. PETER (cont'd)
+27) 19) text: Sam this is Seth Bregman and this is Peter Sullivan. SETH
+28) 5) text: PETER and SETH look at each other, growing more concerned The doors open and they exit.
+30) 6) text: JARED COHEN looks at SARAH ROBERTSON as it would have bee her call to let ERIC go, she nods yes. JARED COHEN So who's left in your risk department? WILL EMERSON As of today that would be Peter and our junior analyst Seth...?
+30) 7) text: Everyone looks down the table at PETER and SETH. Their inexperience glares back. JARED COHEN Really?
+30) 13) text: So apparently Eric had been working on this for some time but was unable to finish it, as he was leaving the building today he gave the program to Peter here, and told him to see what he thought. Peter figured a few things out that Eric seemed to be missing and this is what came out. JARED COHEN
+30) 15) text: He's been unreachable since he left the office. JARED COHEN and the others open up the printout in front them and start reviewing. SAM, WILL, PETER, and SETH just in awkward silence staring at the other side of the table they all read. This goes on for a full very long minute. Finally: SARAH ROBERTSON
+30) 16) text: Peter this is your work? PETER
+30) 18) text: But this draft is yours? PETER
+30) 20) text: And what is your background? PETER
+30) 27) text: What's a specialty in propulsion? PETER
+30) 29) text: So you are a rocket scientist? The whole table looks over at Peter with some awe. PETER
+30) 31) text: How did you end up here? PETER
+30) 40) text: If Mr. Sullivan's numbers are correct... RAMESH looks down at the sheet in front of him to go thro the numbers and takes a beat too long. PETER
+30) 61) text: How many traders do we have left between your floor and Petersen's? SAM ROGERS
+30) 76) text: Sam.... Will, Peter, and..?? SETH
+30) 79) text: Oh and Peter? Who else has seen this?
+30) 84) text: And Mr. Dale. PETER
+30) 88) text: Perfect. Well, I need to know where he is. WILL, SETH, and PETER leave the room and close the door behind them.
+31) 4) text: He's like forty. PETER
+31) 6) text: Oh it happens all the time. Except to me. Kid's a fucking killer. PETER
+36) 4) text: WILL jumps down and comes back over to sit down. They sta out again. WILL EMERSON Not today! (beat) So it looks like they are gonna have us dump this shit. SETH What? WILL EMERSON Yeah, you watch. SETH How? PETER A trillion bucks?? WILL EMERSON I'm just saying. PETER How would they even do that?
+36) 12) text: Yeah... I did. PETER
+36) 16) text: Well the tax man takes half of it up front. So now you got what... million and a quarter. Mortgage grabs another 300K, I gave 150 to my parents to live off, so now you got what?? PETER
+36) 23) text: And what's that? PETER
+36) 25) text: I spent 76,520 dollars on booze, dancers, and whores. PETER
+39) 0) text: They cut through a short cut near the freight elevator. W PETER, and SETH are coming down the stairway from the roo WILL EMERSON
+42) 1) text: Please sit down. He then seats himself at the head of the table. Everyone the room has the printout in front of them. JARED is seat immediately to his left, then SAM, then SARAH, RAMESH, WI PETER, and finally SETH. JOHN TULD (cont'd)
+42) 7) text: He cuts him off. JOHN TULD Jared, it's a little early for all that, how bout in English? ... Actually I'd like to hear from the guy who put this thing together... Mr. Sullivan is it? Does he speak English? JARED COHEN Sir? JOHN TULD I'd like to speak to the analyst who seems to have stumbled across this mess. JARED COHEN Well, that's Peter Sullivan here.
+42) 8) text: JARED looks down the table to PETER, as does everyone els the room. JARED gives him a go ahead look. PETER Sir. JOHN TULD Ah, there he is. PETER Yes sir. JOHN TULD How old are you Mr. Sullivan? PETER I'm twenty-seven sir. JOHN TULD Please call me John. PETER Yes sir.
+42) 12) text: So Mr. Sullivan why don't you tell me what you think is going on here, and please speak as you might to a young child or a golden retriever, I didn't get here on my brains I can assure you of that. PETER is very nervous. PETER
+42) 14) text: Now you lost me at M... PETER
+42) 16) text: I was joking Mr. Sullivan. PETER
+42) 18) text: I have. PETER
+42) 20) text: And Mr. Sullivan that challenge is? PETER
+42) 25) text: Yes. PETER
+42) 27) text: And how far have we pushed that profile tonight Mr. Sullivan? PETER
+42) 29) text: Give or take. PETER
+42) 31) text: Now Mr. Sullivan what I am guessing, and give me a little rope here, what I am guessing that your report here says is that considering the, shall we say bumpy road, we've been on the last week or so that the numbers that your brilliant co- workers up the line ahead of you had come up with in the past don't seem to make much sense anymore considering what's taking place today? PETER
+42) 33) text: So what you're saying is it's already happened? PETER
+42) 39) text: Well, that's where it becomes a projection. But... PETER looks down at JARED for approval to go forward. JOHN TULD
+42) 40) text: You're speaking with me Mr. Sullivan. PETER
+42) 41) text: Well... sir... if those assets were to decrease by just 25 percent, and remain on our books... well... that loss would be greater than the current market capitalization of this company. The room goes silent. JOHN TULD looks at PETER long and h He then stands up and goes over to the window and looks i the city. JOHN TULD
+42) 42) text: So what you're telling me Mr. Sullivan is that the music appears to be about to stop and we are going to be holding the biggest bag of stinking shit ever assembled in the history of capitalism? Everyone looks back at PETER. JOHN TULD (cont'd)
+42) 43) text: Mr. Sullivan? PETER
+42) 45) text: Well let me tell you something Mr. Sullivan. Do you want to know why I'm sitting here in this chair with you all, why I get the big bucks, so to speak? PETER
+42) 89) text: Is there anyone else who actually knows what's in there right now, block by block? PETER
+44) 0) text: 46 Sam heads into the hallway where everyone is mingling. He walks over to WILL, PETER, and SETH. WILL EMERSON
+48) 0) text: 50 WILL is sitting at his desk with a large plate of food eating. SETH and PETER are sitting on the couch. SETH is stuffing food in his mouth while PETER eats nothing. SETH What do you think Tuld made last year? PETER Would you shut the fuck up.
+48) 1) text: WILL speaks with food in his mouth. WILL EMERSON 86 mil. in salary and bonus. PETER Really? WILL EMERSON Yeah, it's public record. SETH That's a lot of fucking money. WILL EMERSON He was worth a billion. PETER Was? WILL EMERSON Before today. SETH Really? WILL EMERSON You'll see.
+48) 5) text: Peter exits. Will's phone rings. Will stares at it and finally picks it up. We only hear his part of the conversation. WILL EMERSON (cont'd) Will Emerson...Yes...Oh thank you...I understand...OK.
+55) 0) text: 56 There is a haunting blue light bouncing through the buildings. PETER is walking through the streets with mid- headphones on his ears. The music is all we hear. He wand around the almost completely empty city and the further h walks the less his face changes.
+56) 0) text: 57 PETER finally stops to get a coffee at a small street car He takes off his headphones to pay and the music stops. T wind blows.
+56) 4) text: PETER turns around and starts walking but as he looks up see the figure of a woman coming towards him. It is immediately obvious that he knows her. He stops and she k slowly walking towards him. They stop in front of each ot squarely. LUCY Hey... PETER Hi. It's really good to see you.
+56) 5) text: She has a very sweet face but looks tired. She appears to a bartender or something, she is not dressed for banking. LUCY You too. You look tired. PETER I am. LUCY What are you doing here? PETER I never left work. Just had to get out for a walk. LUCY You're still working there?
+56) 6) text: This cuts him a bit, why wouldn't he be? PETER Yes, of course... LUCY Oh. I thought... PETER How are you? Are you happy? You look happy. LUCY I am.
+56) 11) text: He's good. Thanks for asking. PETER
+56) 13) text: Hey... You got any inside tips for him? This stops PETER dead in his tracks. His world tightens y clarifies. Finally. PETER
+58) 0) text: 60 WILL gets out of the car and walks slowly up the stairs. is about to knock on the door when from behind him he hea ERIC coming walking up the block. He is still in his work clothes and it looks like it's been a long night. ERIC What are you doing here? WILL EMERSON Peter finished that model you were working on. ERIC Really? WILL EMERSON It's created a bit of a shit storm. ERIC Yeah, I bet. WILL EMERSON Do you want to see it... the model?
+60) 0) text: 62 PETER is still walking around on the street with the musi playing. He crosses a large open windswept corporate plaz As he approaches the building he sees SAM ROGERS standing front having a cigarette. He walks towards him and then finally decides to take off the headphones. The music sto and the wind kicks in. PETER
+60) 2) text: Peter. (silence)
+60) 7) text: But PETER holds his place comfortably. SAM ROGERS That's good. I don't much either. PETER It's kinda beautiful out right now.
+60) 8) text: They both look out. Slow pacing. SAM ROGERS Yeah, I guess it is... (almost surprised) I've never really liked this town much. PETER How long have you been here? SAM ROGERS Forty years. PETER I think it's beautiful. The whole place. Forty years, that's something... Are you tired? SAM ROGERS Of What?... Remember I don't work as hard as you do. PETER That's not true. SAM ROGERS No it is, actually.
+60) 9) text: Long silence. PETER Are we all getting fired after today?
+60) 10) text: SAM looks out and thinks about it for a while. SAM ROGERS Probably. PETER They're going to fire you?
+60) 14) text: SAM looks at PETER. SAM ROGERS (cont'd) You don't have to stand out here for me. PETER I don't really want to go back in there just yet. SAM ROGERS I understand that.
+60) 15) text: Long beat. PETER I think I know your son. SAM ROGERS Really? PETER Yeah. Not well... but, he always seemed like a nice person. SAM ROGERS He is a nice person.
+60) 16) text: A taxi honks and flies by. SAM ROGERS (cont'd) I guess you could say alot worse about a guy. PETER Have you told him what's about to happen?
+60) 17) text: They look at each other to check the nature of the questi SAM ROGERS What do you mean? PETER This whole thing. SAM ROGERS No... I hadn't even thought of it. PETER I guess it's illegal anyway?
+60) 21) text: Yeah... who the fuck knows anymore.... and even if it was you'd sure as hell never get caught. PETER
+60) 23) text: That's very true. PETER
+60) 25) text: He's a hell of alot richer than me, I know that much. PETER
+60) 27) text: That's true. It's not much... but it's something... What did your father do? PETER
+60) 29) text: Really? PETER
+60) 31) text: Now that's something. PETER
+60) 33) text: Did he want you to do that? PETER
+60) 39) text: He was always a pretty miserable guy actually... Another helicopter is heard overhead landing on the build Peter looks up. PETER (cont'd)
+60) 41) text: Yes they are. PETER
+60) 43) text: No... never.... not even close. SAM takes a deep drag off his cigarette. PETER
+60) 45) text: Yeah. PETER looks down at his watch, then thinks about what to next. PETER
+60) 47) text: For who? PETER
+60) 49) text: I'm not either. PETER
+60) 56) text: Just doesn't quite seem... Takes another long drag. PETER
+60) 58) text: (Very slightly shakes his head.) PETER
+62) 1) text: Well good luck, you know, in the future... Seems like you'll probably be just fine. PETER
+71) 20) text: Keeping him? He's getting promoted. It's all hands on deck now Sam, there's going to be a lot of money to be made coming out of this mess, we're going to need all the brains we can get around here. They look at each other one last time then SAM starts wal away and as he passes PETER he just gives him a slight no

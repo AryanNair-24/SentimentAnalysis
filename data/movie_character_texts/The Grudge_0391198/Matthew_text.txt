@@ -1,0 +1,109 @@
+21) 1) text: MATTHEW &amp; JENNIFER (ON MACHINE) "Konnichiwa! Matt and Jennifer aren't around, leave a message."
+23) 0) text: MATTHEW and his wife JENNIFER are in bed. He sleeps sound she doesn't. She's staring at the ceiling, listening to -
+24) 1) text: Matthew comes downstairs, dressed in a business suit. pauses to pick up some of the RUBBISH on the stairs.
+25) 2) text: Matthew enters, surprised to see her.
+25) 3) text: MATTHEW You're up?
+25) 5) text: Matthew glances into the back room through another slidin door -- the windows on this one are clear, not frosted li the living room.
+25) 7) text: MATTHEW I wonder if Mom's okay. She's been sleeping ever since we got here.
+25) 9) text: Matthew turns to her, surprised.
+25) 10) text: JENNIFER I told you, Matthew, you can sleep through anything.
+25) 11) text: Matthew comes over, kisses her.
+25) 12) text: MATTHEW I'm sorry, sweetheart. It was probably just the move -- I'm sure she'll get back on schedule.
+25) 14) text: MATTHEW You seen my travel mug?
+25) 16) text: Matthew kneels down next to a pair of MOVING BOXES in the corner -- `KITCHEN' written on the side. He explores it.
+25) 21) dialog: Maybe you should say something to the helper, what's her name?
+25) 25) dialog: Who knows? Maybe there's something she can suggest.
+25) 28) text: He finds his travel mug, wrapped in the sports section of American newspaper. Matthew scans it as he fills his mug.
+25) 30) dialog: I miss seeing this every morning.
+25) 32) text: Matthew walks over, puts an arm around her.
+25) 34) dialog: Hey, kiddo. You okay?
+25) 38) dialog: This will get easier soon, for Mom, for all of us. I promise.
+25) 43) dialog: Or else I'll tell the company it's just not working out, and that we're going back to the States with or without my old job. They can get someone else to crunch their numbers.
+25) 49) dialog: But until then -- promise me you'll give it a good try, okay Jen?
+26) 1) text: The door opens and Matthew walks outside, stopping to loo a familiar BICYCLE, leaning against the house near the do
+26) 3) dialog: Is this Yoko's bike?
+26) 7) dialog: It's been here all night.
+26) 8) text: Matthew rolls the bike from the porch to the gate, leanin against the wall (where we saw it earlier).
+26) 11) dialog: I'll probably be home late, maybe around nine or so.
+26) 15) text: Matthew pauses, looks back blankly.    Jennifer just smil
+26) 18) text: MATTHEW Oh yeah.   Right.
+26) 21) dialog: I have a big conference.    They usually run long.
+31) 1) text: Matthew enters from work, jacket slung over his shoulder.
+31) 2) text: MATTHEW (calling out) Sorry I'm late, it took awhile to wrap things up.
+31) 5) text: MATTHEW Jen?   Susan?
+32) 0) text: Matthew turns on the lights. The room has reverted to its messy state, even worse than before.
+32) 2) text: MATTHEW What the hell? --
+32) 4) text: MATTHEW Mom?   Are you alright?
+32) 6) text: MATTHEW Where's Jennifer, Mom?
+32) 8) text: MATTHEW Did Yoko come today, Mom? Remember? The pretty girl?
+33) 1) text: OVER THE RAILING:     Matthew re-enters the foyer, lookin
+33) 5) text: MATTHEW Jen?   Are you up there?
+34) 1) text: Matthew stands in the doorway of the dark room.   He trie light switch. Nothing happens.
+34) 2) text: MATTHEW Dammit.
+34) 4) text: Matthew feels his way to a table next to the bed.   Switc on a small lamp --
+34) 5) text: -- JENNIFER IS RIGHT NEXT TO HIM. Lying in bed, staring w eyed at the ceiling. Matthew, startled, falls backwards.
+34) 6) text: MATTHEW Jennifer?    What is it --
+34) 7) text: Matthew rushes to her, shaking her. She's unresponsive. T only sign she's alive is that HER FEARFUL EYES slowly fix him. Her mouth opens, as if she's trying to speak.
+34) 9) dialog: What's wrong? What happened???
+34) 12) dialog: I'll... I'll call an ambulance...
+35) 0) text: Matthew runs into the kitchen grabbing A LARGE BOOK on on the moving boxes. The Japanese equivalent of a YELLOW PAG
+36) 2) text: Matthew pushes everything aside to get at a JAPANESE/ENGL DICTIONARY underneath. The DUCT TAPE falls to the floor.
+36) 5) dialog: Dammit!
+37) 1) text: Matthew re-enters, out of breath. He sits next to Jennife who hasn't moved. Puts a hand on her chest to make sure she's still breathing. She is.
+37) 3) dialog: Jesus Christ...
+37) 6) dialog: `Ambulance'... "kyukyusha".
+37) 10) text: -- THE BOY (TOSHIO) stands up, between Matthew and the ph
+37) 13) dialog: Who are you? What -- what are you doing here?
+37) 14) text: Toshio makes a STRANGE SOUND. Looks at Jennifer, then tur to Matthew, SNARLING at him like a CAT.
+37) 15) text: Matthew, shocked, falls backwards off the bed, hitting th table with the lamp. It drops to the ground --
+37) 19) text: -- and TOSHIO'S SHADOW, cast by the fallen light, begins STRETCH AND GROW across the ceiling. The shadow creeps ov Jennifer, shifting and coming towards Matthew --
+37) 20) text: -- Matthew grabs the lamp.    He reaches it, holding it u
+37) 24) text: Matthew, stunned, backs away from the bed, against the closet. Terrified, he doesn't notice --
+37) 26) text: -- TOSHIO'S HEAD comes into frame behind him. Matthew hea a GROWLING SOUND and turns, seeing Toshio right there! --
+40) 5) text: MATTHEW. He's walking down the second floor hall. He look different: the expression on his face is troubled, occupi
+40) 16) text: -- MATTHEW is sitting there, hands on his knees, looking harried. Susan YELPS.
+40) 17) text: SUSAN Matthew!   Don't scare me like that!
+40) 25) dialog: She went out. Something came up.
+40) 28) text: Matthew looks back down at his feet.      Susan misreads:
+40) 31) text: Matthew abruptly stands.    Looming over his sister.
+40) 33) dialog: I'm sorry.     This is a bad time.
+40) 37) dialog: You should go.
+40) 41) text: Matthew's hands suddenly TIGHTEN ON HER SHOULDERS. His ey grow wide, filled with anger, as he whispers fiercely --
+40) 43) dialog: She doesn't love me... she never loved me...
+40) 47) text: Matthew slowly looks up.    Malice on his face.
+40) 52) dialog: Leave me alone.
+40) 58) text: MATTHEW (yelling)
+40) 60) text: Susan fumbles with the front door. She gets it open and r out just before Matthew reaches her.
+40) 61) text: ON MATTHEW: he stands there, head tilted down, for a mome Then he straightens. Slowly closes the front door.
+40) 62) text: Matthew heads back upstairs. He reaches the second floor opens the door to the rear bedroom.
+40) 63) text: The room beyond is dark. But A DARK FIGURE is visible, standing in the far corner, facing Matthew.
+41) 3) text: It's SUSAN, approaching with MATTHEW, JENNIFER and EMMA.
+41) 7) text: Suzuki bows at Matthew and Jennifer, says something.
+41) 9) dialog: What did he say?
+41) 15) text: Matthew grins.   Susan rolls her eyes.
+42) 1) text: Everyone enters, checking the place out. Suzuki and Susan slip off their shoes. As Matthew steps into the foyer:
+42) 4) text: MATTHEW Oh.    Right.
+42) 10) text: Suzuki smiles as Matthew and Jennifer take off their shoe Susan says something to him in Japanese and he laughs. Th walk down the hall, and Matthew and Jennifer follow.
+43) 2) dialog: Isn't the layout great? Wait `till you see the back room. It's perfect for Mom -- she won't have to deal with the stairs.
+43) 4) text: Matthew slides open the door leading to the TATAMI ROOM.
+43) 6) dialog: Her bed won't be here until next week, but we can put the mattress on the floor. What do you think?
+43) 16) text: Matthew suddenly realizes:
+43) 17) text: MATTHEW Where's Mom?
+44) 7) text: MATTHEW (O.S.) Did you get her?
+45) 7) text: Matthew and Jennifer enter, worried.
+45) 8) text: MATTHEW She okay?
+47) 20) text: MATTHEW, standing in the doorway.   Beaming at him.
+47) 21) text: MATTHEW It's perfect. We'll take it.
+48) 5) text: MATTHEW &amp; JENNIFER (ON MACHINE) "Konnichiwa! Matt and Jennifer aren't around, leave a message."
+56) 5) text: MATTHEW (PHONE) It's me.
+56) 13) text: SUSAN (INTO PHONE) Matthew!   Are you alright?
+56) 14) text: MATTHEW (PHONE) I'm downstairs. What number are you again?
+56) 19) text: HER POV: Matthew's face, distorted by the fish-eye glass. He's looking into the peephole, with a sneer on his face.
+66) 14) text: He hands Alex a wedding picture of MATTHEW AND JENNIFER.
+68) 5) text: He shows Nakagawa a PHOTO of Matthew and Susan, brother a sister, grinning at the camera.
+70) 2) text: They pause in the hallway for a moment. Then Nakagawa wal into the rear room (Matthew's office). The BEEPING is clo
+71) 6) text: Two bodies are tucked into the corner.    MATTHEW AND JEN
+73) 5) text: Yoko opens the gate and walks her bike to the front door, leaning it against the wall nearby (exactly where we saw Matthew bump into it earlier).
+75) 16) text: -- she puts the tape ON THE STACK OF BOOKS at the top of bookshelf, next to the scissors (where Matthew found them
+93) 1) text: THE WALL by Karen's computer desk is now covered with WEB PRINT-OUTS: NEWSPAPER CLIPPINGS of TOSHIO and his parents KAYAKO and TAKEO; MATTHEW and JENNIFER; PETER; and DETECTIVES NAKAGAWA and IGARASHI, plus reports on THE EAR INVESTIGATION.
+103) 12) text: Then we PAN UP to see that these are the last names on a longer list. We recognize the other names: MATTHEW, JENNIFER, and EMMA WILLIAMS; YOKO and ALEX; NAKAGAWA and IGARASHI. Everyone who's been in The House.

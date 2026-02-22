@@ -1,0 +1,79 @@
+8) 0) text: TEN MEN sit around a large oval table. At the head is FREDERICK “FRITZ” BEEBE (late 60s, Chairman of the Board, proper and kind) with PAUL IGNATIUS (50s, President of th Washington Post, Co., stuck up) to his right. On his left is Kay - she’s tense in this setting. Her han rest properly on a bound document in front of her. It rea “THE WASHINGTON POST COMPANY INITIAL IPO PROSPECTUS”.
+8) 1) dialog: As you can see, our underwriters have proposed an IPO for a little over 1.35 Million shares of Class B stock. All of the Class A stock will stay within the Meyer-Graham family and they will continue to have the majority vote and right to elect 70 percent of the directors. (MORE )
+8) 3) dialog: Class B stockholders will elect the remainder. There are some murmurs of acknowledgment, a few nods.
+8) 5) dialog: How so?
+8) 7) dialog: Do you have another suggestion?
+8) 10) dialog: You were elected by the Graham family.
+8) 19) dialog: It’s only June.
+8) 23) dialog: That was years ago.
+9) 0) text: Kay slams the proposal onto her desk, furious. Her office tasteful, mid-century modern with personal touches throughout: photos of her children, etc. Fritz walks in a closes the door behind him.
+9) 2) dialog: That was a long list. 15.
+9) 4) dialog: I don’t know if relaxed is the term I'd use but, yes, I think you’re preoccupied with the negative.
+9) 6) dialog: (calm) The IPO has been approved. With your shares, the estate’s shares... it’s a good day.
+9) 8) dialog: That’s because you’ve always had it. She gives him a sharp look, but he’s not wrong.
+9) 9) dialog: This is what the paper needs to keep going. You know that. She nods. Her face softens, the mask of confidence beginn to drip away. A moment passes. Beat.
+9) 11) dialog: That’s not their style.
+9) 13) dialog: Downstairs? She nods, he shrugs.
+9) 14) dialog: I never got involved in Post business. Phil hated it.
+9) 16) dialog: Well, Phil... He loved having the ink stains and all that. Fighting it out. Your father... Eugene liked to be a part but not a player.
+9) 18) dialog: There were issues with both - the public thought Phil was too involved. Even you've said that. Maybe your father not enough. But both of them understood the difficulties of the post. You have to be able to command the board and the bullpen. (laughing) And neither had to fend with Ben Bradlee in charge.
+9) 20) dialog: Who?
+9) 22) dialog: I think they do. Do you? She’s not sure. Kay’s secretary, LIZ HYLTON (30s), Fritz rises to leave. Kay nods.
+9) 24) dialog: Did they really call Nixon Caligula? He shakes his head, waving as he leaves. 16. enters. 17.
+27) 0) text: The same boardmembers sit at the table. Ignatius has a co of the Times next to him. The tension is palpable. Fritz Kay listen while Ignatius speaks.
+27) 2) dialog: How do you mean?
+27) 4) dialog: What does this weekend have to do with that?
+27) 6) dialog: Have you read The Times’ article?
+27) 8) dialog: So you'll agree, it’s damning.
+27) 10) dialog: To the White House.
+27) 12) dialog: And this morning the White House filed an injunction against the Times. It was approved an hour ago.
+27) 14) dialog: A restraining order. The Times is prohibited from printing anymore of the documents until there is a hearing. Kay smiles, letting Fritz fight for her.
+27) 15) dialog: So I’m just confused - do you want us to embarrass the White House or stand with them? Ignatius stutters.
+28) 0) text: Kay and Fritz approach her office.
+28) 1) dialog: That’s not going to hold him back - he’1l figure out another way to discredit you in front of the Board.
+28) 3) dialog: (hesitating) Technically no. But he can call a vote to have you removed and that will put into question the -
+28) 5) dialog: I’m afraid so.
+28) 7) dialog: Don’t worry, if Phil wasn’t booted off, you have nothing to worry about. She nods her head - unsure. A moment passes.
+28) 8) dialog: You read the article?
+28) 10) dialog: (re: the papers) Horrible. The audacity of - I wish I was more surprised. He expects her to respond in unison, but she doesn’t.
+28) 11) dialog: Do you think Bradlee will go after the documents?
+28) 13) dialog: We can’t get pulled into some kind of legal battle over this, Kay. Not now. It could jeopardize -
+28) 15) dialog: Let’s hope not. He moves off, she’s more concerned now than ever. She approaches Liz’s desk, there is a stack of letters.
+43) 9) dialog: Good evening.
+43) 16) dialog: (forcing a smile) I think I’1l find my way.
+44) 7) dialog: I hate to barge in. Clark stands and shakes Fritz’s hand.
+44) 9) dialog: You look terrible.
+44) 11) dialog: (to Bagdikian) You alright? Bagdikian shrugs.
+44) 13) dialog: You want to catch me up, Ben?
+44) 15) dialog: (to Clark) Go ahead.
+44) 26) dialog: (to Bradlee) The Post is going public next week. Bagdikian looks up - surprised. Bradlee is disappointed.
+44) 27) dialog: Our IPO is contingent on a series of steps and markers that will ensure to the -
+44) 29) dialog: It’s not always about winning, Ben.
+44) 31) dialog: That’s not your decision. A tense beat. Bradlee hates that Fritz is right.
+44) 38) dialog: Ben - Bradlee walks towards the door.
+49) 4) dialog: Ben - 87. Ignatius approaches -
+50) 0) text: Bradlee, Fritz, and Ignatius fight it out. Kay sits nearb listening and seemingly ignored by the three men. She tak it all in.
+50) 1) dialog: It’s not just that the offering can be suspended, but also the government might have just cause to seek a criminal indictment.
+50) 4) dialog: A felon may not hold a broadcast license, which means they will seize all of our broadcast properties. Without that revenue, we'll be forced to sell. If they win, and we are convicted, then The Washington Post Company will cease to exist.
+50) 6) dialog: That’s just -
+50) 11) dialog: Ben, I understand that this might be difficult to understand -
+50) 17) dialog: There will be other fights. Other - 89.
+50) 19) dialog: Publishing these documents could destroy this paper.
+50) 21) dialog: It’s my job to -
+50) 25) dialog: (scowling) Don’t be dramatic. Bradlee’s eyes don’t leave Kay’s.
+50) 39) dialog: I assure you, this is entirely Mrs. Graham's decision. Ignatius stammers. Kay hides a smile, looking back to Bradlee.
+53) 0) text: The usual cacophony of typewriters and go-getters rushes through the giant room. Gene is in his office. Howard sip coffee - his eyes glued to the glass wall of Bradlee’s of where Fritz, Kay, and Bradlee sit inside. Meg approaches.
+53) 8) dialog: Yes.
+53) 20) dialog: We’re going to court. Today. They’11 try and prove we knowingly published something that was a danger to the US government.
+53) 22) dialog: Not as glamorous as you thought, is it. (beat) I’1l call when I have more news. For now... keep them writing. (MORE )
+53) 24) dialog: We’ve opened the door. No reason closing it until they order us to.
+53) 26) dialog: Most assuredly. (to Bradlee) You wanted a fight. Fritz leaves, she looks at Bradlee.
+54) 11) dialog: They’re issuing a restraining order until we can get back in to see the judge.
+54) 13) dialog: (tired) Monday. And if that doesn’t work for them, we'll head to the Supreme Court of Appeals.
+54) 15) dialog: Not after tonight. But, it’s not over yet. Kay watches behind Fritz as the young woman is berated by GOVERNMENT LAWYER.
+58) 0) text: Copies of The Washington Post are dropped. Each headline details the progress that’s been made on the case: “GESEL UPHOLDS PREVIOUS RULING IN ‘PENTAGON PAPERS’ CASE, APPEAL HEADED TO FEDERAL COURT”, “COURT FINDS IN FAVOR OF POST, RESTRAINING ORDER UPHELD”, “TIMES AND POST CASES ENJOINED CASE HEADED TO SUPREME COURT”, “SUPREME COURT HEARING ON ‘PENTAGON PAPERS’ SET FOR EMERGENCY SATURDAY HEARING”. IGNATIUS slams each paper onto the table. Kay watches patiently from her normal seat; Fritz looks on. The past has taken a toll. They look exhausted.
+58) 2) dialog: They’re just doing their due diligence. This is a big offering.
+58) 4) dialog: Yes, Paul. And what is it -
+60) 0) text: The courtroom is packed, the NINE JUSTICES (all men, 40s- 60s) sit in their leather chairs and listen to the argume There are three sets of lawyers: the government (GRISWOLD 40s), the Post, and the Times. At the moment, Griswold is the lectern. Kay is in a pew directly behind Fritz, next to Lally. Ignatius is nearby. Bradlee a few behind her next to Howa He’s nervous, foot tapping on the ground. The doors open Bagdikian sneaks in, taking a seat next to Meg.
+63) 0) text: Kay sits on a bench outside of the courtroom. Her ankles crossed, posture perfect, there is an unreadable look on face. Fritz walks over. 112.
+63) 1) dialog: Shouldn’t be much longer. She nods, he goes back to the attorneys. She seems to be bit of a daze, trying to wrap her head around the magnitu of it all. The sound of shuffling feet knocks her from he thoughts. She turns, surprised to see Bradlee straighteni his tie and rushing towards her. He sits.

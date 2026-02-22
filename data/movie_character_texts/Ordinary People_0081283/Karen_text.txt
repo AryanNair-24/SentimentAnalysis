@@ -1,0 +1,45 @@
+50) 1) text: Conrad is sitting, reflecting. A young woman's hand blind him for a second : Karen has arrived.
+50) 5) dialog: Hi!
+50) 9) dialog: Good. Real good.
+50) 13) dialog: Thank you.
+50) 18) dialog: When did you get back?
+50) 22) dialog: God...
+50) 34) dialog: Oh, you too. Listen. I am not gonna be able to stay a real long time. I've got a meeting over at school. Drama Club meeting. We're doing "A Thousand Clowns" this year. You know it? Anyway. We're going so crazy trying to get it together. I am secretary this year too.
+50) 38) dialog: No. Oh, no, you're not hanging me up! No, I really wanted to see you. I didn't know quite what to expect, though... I mean, you sounded...uh, you sounded sort of funny on the phone.
+50) 42) dialog: Oh. You're swimming? Terrific, Conrad! That's... That's really wonderful.
+50) 46) dialog: Come on, you'll do great. I'll bet your folks are real proud of you.
+50) 63) dialog: Uh... I just want a coke.
+50) 67) dialog: You think we offended him?
+50) 71) dialog: So. Uh...
+50) 72) text: CONRAD                               KAREN
+50) 74) text: CONRAD                               KAREN
+50) 79) dialog: So do you.
+50) 83) dialog: Miss what?
+50) 87) dialog: No.
+50) 89) text: KAREN (cont'd) Thank you.
+50) 93) dialog: No.
+50) 106) dialog: Are you seeing a doctor?
+50) 110) dialog: Uh... Uh, well, Dr. Crawford gave me a name, and I went for a while. But uh... I dunno.It just didn't work for me, I guess. He just kept telling me all the things I already knew, and , uh... finally, I decided... the only one who can help me is myself. At least, that's what my dad says. I don't mean it's not right for you, Conrad. I mean I think that if it's something you want to do, that's what you should be doing.
+50) 115) dialog: Your hair grew in.
+50) 119) dialog: I like it.
+50) 123) dialog: Yeah!
+50) 127) dialog: Things have to change. You know?
+50) 140) dialog: But that was a hospital. This is the real world.
+50) 145) dialog: I really have to go. I'm sorry. I have a meeting over at the school. Drama Club meeting. We're doing "A Thousand Clowns".
+50) 149) dialog: Did I?
+50) 153) dialog: I better hurry. Don't wanna be late.
+50) 158) dialog: Conrad? Let's have a great Christmas! Okay? Let's have... a great year. Let's have the best year of our whole lives, OK? We can, you know. This could be the best year ever.
+50) 162) dialog: Yeah!
+50) 164) text: KAREN (cont'd) Mmm...   Will you call me?
+50) 177) dialog: You mean it?
+50) 181) dialog: You. Uh... You look good. Conrad.
+50) 185) dialog: Bye.
+50) 190) dialog: Hey!
+50) 192) text: KAREN (cont'd) Would you cheer up?
+91) 19) text: KAREN'S FATHER                          CONRAD
+91) 20) text: Karen's...                        I called...
+91) 27) text: Karen's father hangs up. Conrad suffocates under the shoc He hears Karen's voice.
+91) 29) dialog: 
+93) 1) text: [Very short flashback on Karen]
+93) 3) dialog: We can. You know.
+94) 3) dialog: 

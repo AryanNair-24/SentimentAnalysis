@@ -1,0 +1,16 @@
+2) 0) text: The digging and readings have stopped. A group approaches shuttle and begin loading their packs into the cargo bell FAT LOU (40), rail thin, possible female, pilot, appears the shuttle ramp.
+2) 1) dialog: (yelling over the wind)
+2) 5) dialog: Shit! Temp's dropping! We should have left this rock an hour ago!
+4) 22) dialog: Hey teach! This rock's starting to freeze! Get your ass back hre!
+4) 45) text: Fat Lou, bring the ship to the following coordinates. Call Grendel, have them power up the labs, we're bringing in the find of the century!
+8) 6) dialog: Oh my God . . . what the hell is . . .
+10) 0) text: Navigating through the debris, FAT LOU grabs a radio mike
+10) 1) dialog: This is Beowulf approaching from sector fifteen. Through the front windshield we see - -  GRENDEL, a class IV Catamaran Transport. It looks like tw torpedoes attached by three thin walkways. Not new, but b
+12) 0) text: FAT LOU and BERNIE, a synthetic pilot existing only from his pilot's chair, set course for home.
+12) 2) dialog: (into radio)
+70) 2) dialog: I'll need the sergeant's okay on that.
+70) 4) dialog: Alright, relax. 20 minutes. Soon as we've passed Tara's rings we'll make the course correction. BACK TO YLLO.
+79) 0) text: Fat Lou and Bernie prepare for course corrections.
+79) 1) dialog: Disengage auto-pilot.
+79) 3) dialog: New COURSE, seven-eighty-one.
+81) 2) dialog: Engage auto pilot. Suddenly, Bernie is ripped from his chair! Electricity SH the console as Bernie's DIALOG becomes jibberish.

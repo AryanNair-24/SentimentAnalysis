@@ -1,0 +1,152 @@
+8) 0) text: Miranda locks her office, armed with paperwork. The end of another workweek. DR. PETE GRAHAM, a good ten years older and Miranda's best friend on the job, approaches.
+8) 1) dialog: Dr. Grey.
+8) 3) dialog: Power went out again in our wing.
+8) 6) dialog: It's not shrink-appropriate to be afraid of the dark, you know?
+8) 8) dialog: What am I afraid of?
+8) 13) dialog: Write a little country music, decline invites to grand social events, drink myself to sleep -- the usual. You?
+8) 15) dialog: Again?
+8) 17) dialog: So is golfing, I'm told.   Who was your six o'clock?
+8) 19) dialog: I hear Manhattan's full of them.
+8) 21) dialog: Good girl. They have reached an office marked "DR. PHILLIP PARSONS DIRECTOR" and peer in to see Parsons (50's, distinguished, commands respect from everyone) on the phone. He gestures for Pete to sit. Miranda is about to exit when he covers the mouthpiece --
+18) 0) text: Pete rushes up two steps at a time, passing by a NURSE WITH A CART OF MEDS, who nods respectfully as he goes --
+19) 0) text: An ORDERLY unlocks the door for Pete. Through the glass pane he can see a visibly upset Miranda arguing with the head nurse: a tough as nails woman in her 50's: IRENE. ORDERLY #1
+19) 1) text: Sleeping beauty is awake. Peter forces a smile, enters --
+20) 1) text: Peter, what the hell is going on? Pete nods at Irene: it's okay, he'll take it from here. PETE
+20) 3) text: How do you think I feel?    Is this a joke? Peter is half-listening to her, half-signaling to the nurse with the meds to come in. Miranda catches all of this, growing more agitated. She wears the uniform all patients wear: a white T-shirt and sweats. Her wedding ring is gone.
+20) 8) dialog: Giving you something to calm down.
+20) 10) dialog: Just take this and we can sit down and chat.
+20) 13) dialog: (nods at nurse)
+20) 16) dialog: (final offer)
+20) 19) dialog: We can discuss it at length after you take your meds. Awkward nods from Irene, the nurse and the attendant. Pete holds Miranda's gaze. Miranda takes her meds.
+21) 0) text: Miranda paces.       Alone with Pete, she is even more up
+21) 1) dialog: Miranda, this is very awkward. Technically I shouldn't even be treating you but the court has granted us a waiver until you're transferred. So whatever is said here won't leave this room. I won't tell Parsons, I won't tell anyone.
+21) 3) dialog: You can't to that. Sit down, please. Try to relax.
+21) 5) dialog: I understand you're upset. But we need to put some things in order.
+21) 7) dialog: How long have you been here?
+21) 10) dialog: Just answer the question.    Humor me.
+21) 15) dialog: I don't mean how long you've worked here, I mean how long you've been staying here. This stops her. Wanting desperately to whip out a comeback but realizing she doesn't know the answer.
+21) 17) dialog: Of course you're a doctor. A great doctor in fact. The hint of sadness in his voice alarms her.
+21) 19) dialog: Five days.
+21) 22) dialog: You were admitted to the neurosurgical unit seizing violently. That lasted three days. Scans revealed left-sided weakness, numbness and severe fontal lobe deficits. Miranda shakes her head in disbelief, but we --
+21) 27) dialog: You came out of it and tested negative for PCP, underwent extensive hypnosis and received amytal injections. FLASH: Miranda being tied down.      A nurse with a syringe --
+22) 1) dialog: You were tied down for a day and a half so you wouldn't hurt yourself and then you went into a state of, well -- (how to put this?)
+22) 5) dialog: You're the most logical person I know, bar none. Plus you have a photographic memory -- unconfirmed, but you do remember events and phrases more accurately than anyone around. Why am I telling you this?
+22) 7) dialog: And that's a fair assessment, no?
+22) 12) dialog: Two hundred percent. A pause here. He's waiting for her to continue. She's not used to being on the other side of the therapist's table.
+22) 14) dialog: Don't analyze yourself, just focus on remembering.
+22) 17) dialog: And then what?
+22) 19) dialog: And then what?
+22) 21) text: Because Doug had an alumni meeting at his school and he was going to get a ride back. He's the principal now, as you well know. She stops here. Pete waits. The silence is deafening. She pushes on, but her hands shake a little.
+22) 26) dialog: There was indeed an accident, you were detoured by the cops. But there's no report of any girl.
+23) 3) dialog: What about your husband, what can you tell me about him?
+24) 4) text: Tell me nothing happened to Doug. PETE
+24) 8) text: I might have called Doug to tell him something. Or checked my answering service. PETE
+24) 10) text: I beg your pardon? PETE
+24) 18) dialog: Wasn't there?
+25) 4) dialog: You don't remember anything else. Anything at all? Frustrated, she snatches his cell phone and starts to dial:
+25) 6) dialog: He's dead. This stops her cold. Time stands eerily still. She stares at Pete as if by looking at him long enough, he will contradict his statement.
+25) 9) dialog: I'm positive. (painful beat)
+27) 0) text: Pete struggles to contain Miranda, who howls disparagingly. PETE
+27) 1) text: It's going to be alright, Miranda. You just need to sleep. It's going to be alright -- Off Pete's nod, a nurse injects the syringe into Miranda's arm. They hold her down with great effort as she continues to cry, and we...
+32) 1) text: I'm sorry. The fact is I'm married and I -- this is not me, this is a mistake. First we hear our mystery man's voice, then we see him: Pete. (Yes, the same person she kissed and went to the movies with.) He places his hand on the door, blocking her. PETE
+32) 5) text: We are hiding from the Principal. He smiles. Touches her face tenderly. Torn. A person used to doing the right thing but not liking that at the moment. PETE
+32) 7) text: We spend time together every day. PETE
+32) 13) dialog: Don't be too hard on yourself, Dr. Grey. You haven't done anything wrong.
+44) 0) text: Pete and Miranda stare at each other.     A tense beat.
+44) 5) dialog: Yes.
+44) 7) dialog: No.
+44) 9) dialog: I didn't think it would help you.
+44) 11) dialog: It means they wouldn't have let me treat you if they thought I had any kind of involvement in what happened.
+44) 13) dialog: Did I what?
+44) 15) dialog: No. We got disconnected and I couldn't get through to you. I sat there waiting all night. Figured you'd changed your mind.
+44) 17) dialog: Because the only way you'll be able to accept these events is if you remember them on your own. My job is to assist you in processing that information because you're not in a frame of mind to do it by yourself.
+44) 22) dialog: The subject is you don't trust me.
+44) 24) dialog: You want to talk about today? She takes a resigned breath, slowly shakes her head. Wishing she could wake up from this nightmare:
+44) 26) dialog: I think that's premature.
+45) 48) text: Suck me. The orderlies haul Chloe off. Irene disperses the crowd. Consuelo sighs, embarrassed, wipes a bloody lip. Her manner says she just wants to get back to her duties. Excitement over, the patients resume whatever it is they were doing. Miranda stares at her bleak surroundings when something catches her eye: Pete watching her from his office window. He quickly slides the curtain shut. Odd.
+50) 0) text: Miranda. Numb. Pete trying hard to get through. A beat. We get a good look at the writing on her arm. (The right arm.)
+50) 1) dialog: I can't help you if you don't talk to me. Silence from Miranda.     He is firm but not unkind:
+50) 2) dialog: I can stand here all day. All week. You're the one running out of time. Nothing.     He goes to touch her arm.   She jerks it awa
+50) 3) dialog: What does it mean? She shakes her head, at a loss. Torn between her suspicion and the need to confide in someone. Finally:
+50) 5) dialog: Then who? They stare each other down. There's definitely chemistry between these two. But the moment is far from romantic.
+50) 6) dialog: You're going to have to trust me.
+50) 8) dialog: Because no matter what's going through your mind right now, I haven't done anything wrong.
+50) 13) dialog: You admit you're having a hard time differentiating what's reality from what's hallucination, right? So isn't it at least possible that --
+50) 15) dialog: How about this moment right now?
+50) 17) dialog: Is this a hallucination?
+50) 19) dialog: Which is why I suggest we simply increase your dose until --
+50) 29) dialog: Alright. Let's say you didn't write this --
+50) 31) dialog: I think it's time you look at these. Miranda looks at the crime scene photos. Lurid. Terrible. Here's part of Doug's body. Here's the axe. And now she sees a closeup picture of the wall with words on it. In blood, a la Manson family. And it says:
+51) 1) dialog: You wrote that. Any idea why?
+51) 7) dialog: You're the only person who can figure out what this means. Try to remember. Stop holding back. She nods meekly. Staring at the picture. Begins to shake as all of it finally comes flooding in --
+54) 0) text: Soon enough the press will make the Manson Family reference, but for now, only Miranda is here to witness the fruit of her labor. She gasps for air. Instead she is hit by a wave of nausea. She doubles over to throw up when there is a FRANTIC RAPPING at the front door. She freezes. VOICES and YELLS trickle in. The HINGES on the door RATTLE under REPEATED POUNDING and she still stands there as the first FIREMAN breaks in. Sheriff Ryan and his deputies right behind. A concerned Pete Graham behind them.
+58) 0) text: The locks are unlocked. Pete appears at the door. Miranda glances up at him. She looks like a different person. Completely destroyed. He crouches beside her.
+58) 1) dialog: You okay? She shakes her head slowly. He sets his hand on her shoulder. She turns to him and hugs him tight, holding on for dear life. Breaks down in sobs.
+59) 0) text: Parsons leafs through Miranda's file.   Pete stands by th window, lost in thought. PARSONS
+59) 1) text: How much does she remember? PETE
+59) 3) text: Guilt? PETE
+59) 5) text: Hypermnesis following amnesia. Could a specific epileptic element be involved? PETE
+60) 0) text: Pete escorts a fragile Miranda down the corridor.    The two orderlies walking ominously behind them. PETE
+61) 6) text: I'm not taking it lightly, no.   We will talk about it at home. Miranda and Pete sit across from him. Miranda trying hard to appear composed -- acutely aware of her every gesture, and of how different her last visit to this office was. Nothing casual about it now. She stares at the picture frames on Phil's desk (all facing AWAY FROM us), the diplomas on the wall, the books by noted fathers of neurology (works by Hughlings Jackson, Kurt Goldstein, Henry Head, A.R. Luria). A framed quote reads: "'If You Do Know That Here Is One Hand, We'll Grant You All The Rest.' -- Wittgenstein"
+61) 11) dialog: Teddy already filled her in.
+61) 23) dialog: Miranda, you've seen that photograph at least a dozen times, every time you've been in this office. You're just confused --
+61) 31) dialog: Miranda, that's none of your --
+61) 37) dialog: ... Textbook psychotic pattern... manifestation of guilt...
+61) 39) dialog: I'm telling you she doesn't... Concocted alternate reality...
+74) 0) text: TRACKING ALONG a long desk where the staff finish their morning meeting. Parsons, Pete and Irene among others. PARSONS
+74) 1) text: We've transferred her to a higher security room on the fifth floor. That's my final concession to any type of special treatment. PETE
+74) 7) dialog: Could there be any truth to her claim?
+74) 9) dialog: I perused Miranda's files on Chloe McGrath -- they're damn comprehensive. Maybe she was a bit obsessed with her. Irene and Parsons share a look.     He wraps it up:
+75) 0) text: A better room, in fact. This one has a view. Heavy bars on the windows, but still. Miranda paces. Pete is seated, observing her deteriorating state.
+75) 2) dialog: Yes. As a matter of fact, I was part of the search party that found the body.
+75) 7) dialog: You can imagine. Actually, Phil was in Houston undergoing triple bypass surgery when it happened. What was that?     Miranda reacts to this.
+75) 9) dialog: I'm sure there are.   Can we get back on track now? Miranda pulls out the folded printout from her pocket.
+75) 11) dialog: Where are you going with this? First I'm a suspect in Doug's death, now what, Phil Parsons murdered his own daughter?
+75) 13) dialog: What same M.O.? One jumped off a bridge, one hung herself and one crashed her car. Who gave you this?
+75) 18) dialog: You heard Phil, his daughter had tried several times before --
+75) 20) dialog: Well, you can't.
+75) 22) dialog: You can't because... he died. Miranda snaps to attention here.
+75) 24) dialog: Frank Albright was an eighty-year- old retired sociology professor. (re: the article)
+75) 27) dialog: Listen to me. You are not well. I had hoped once you remembered the murder we could deal with your feelings about it but these fixations:
+75) 32) dialog: Rachel Parsons, Chloe McGrath -- are self-created distractions to avoid looking into yourself. And the longer you --
+75) 34) dialog: Good.   Saves me the trouble. Discussion over. He raps on the door. Triple-locks come unlocked and an ORDERLY is there. Peter exits.
+76) 0) text: Peter hurries down the corridor, passing by a nurse. The same one who bandaged Miranda earlier, so let's give her a proper name: CLAIRE. She pushes her cart into the elevator.
+102) 0) text: A car pulls up to the chaotic ER area.       Phil Parsons Pete step out, rush inside.
+104) 8) dialog: Who's the girl?
+104) 15) dialog: We need to get Miranda back to the institute. She needs psychiatric care, not a prison cell.
+106) 0) text: Pete hurries down the front steps of the main building as TWO POLICE CRUISERS pull up. Miranda is brought out of one of the cruisers by two OFFICERS.
+106) 1) dialog: We can take those off now. Sheriff Ryan leans out of the other cruiser.
+106) 6) dialog: Are you alright?
+106) 9) dialog: Can we talk about this later? (to Sheriff)
+106) 12) dialog: I know, I know. We'll see you then.
+106) 14) dialog: Thank you. She won't go anywhere. I guarantee it. The Sheriff waves, whatever. Knocks twice on the hood and the officer behind the wheel shifts into drive.
+106) 16) dialog: Inside, okay?
+107) 4) dialog: What is this?
+108) 0) text: White. Surveillance cameras in every corner. Two separate doors with elaborate locks. High security all around. The officers undo Miranda's cuffs and excuse themselves. Pete gestures for Irene and the Orderlies to leave as well.
+108) 5) dialog: I pulled a lot of strings to get you transferred back. The best case scenario you're looking at right now is five years here. Five. Under my --
+108) 7) text: Peter, I didn't believe in ghosts before this. And neither do you. Pete is at the end of his rope. Can't hide his sadness when he looks at her. Still, he tries to get her back on track:
+108) 8) dialog: But you know that the brain is fully capable of tricking you into seeing all sorts of things. The simplest chemical deficiencies can --
+108) 10) dialog: I'm a very open-minded person, but as a doctor --
+108) 19) dialog: Is that a threat?
+108) 21) dialog: To me.
+129) 0) text: A car pulls up at the scene.     Pete and Parsons step ou
+129) 4) dialog: Miranda... Pete rushes up the steps --
+131) 6) dialog: Everybody accounted for?
+131) 10) dialog: What's going on, Officer?
+132) 40) dialog: Miranda, don't do it! She glances at Pete's pleading face and the room around her: cops everywhere. All guns trained on her. Sheriff Ryan speaks low so only she can hear the following:
+133) 0) text: Turlington escorts a cuffed Miranda to a waiting cruiser. He jumps behind the wheel and starts to pull out when Pete suddenly taps on Miranda's window, startling her --
+133) 4) dialog: I'll call your lawyer and -- !
+133) 6) dialog: I'll meet you at the station! She shakes her head.     Mouths something Pete can't make
+133) 8) dialog: What? Turlington hits the gas. Miranda presses her face against the window so only Pete can see her say the following:
+134) 0) text: Tracy Seaver lies unconscious, hooked up to a series of machines. PULL BACK to find Pete with a young DOCTOR.
+134) 2) dialog: You mind if I stay here tonight?
+135) 0) text: The Doctor gestures for Pete to make himself comfortable.
+145) 0) text: The door to Tracy's room is closed. WE FIND Pete where we left him, by the soda machine, fighting to stay awake.
+146) 0) text: Pete looks oddly around the room.
+146) 1) dialog: Anybody in here -- ? As he turns, we REVEAL Rachel slipping out of the room. Unseen by him, of course. Pete starts to exit when Tracy opens her eyes. Groggily waking as if from a dream.
+150) 0) text: The FRONT DESK OFFICER is trying to hold back a grim Pete Parsons and Teddy Howard from heading to the back area. FRONT DESK OFFICER
+150) 1) text: I'm sorry, but nobody is allowed to visit at this hour -- PETE
+150) 3) text: Help you, gentlemen? PETE
+152) 3) dialog: It's been my pleasure, Miss McGrath. Good luck out there. Chloe smiles.     Awkward.   Her first day out in the rea world.
+152) 5) dialog: Hey, you never know. It's a small world, unless you have to clean it. Chloe picks up her bag, climbs down the steps to her cab. Stops midway, turns:
+152) 9) text: Dear Pete. Hope this finds you on both feet, preferably having been promoted to director after Phil's retirement. Not that you had much competition, but a big hug to you anyway... I was as surprised as anyone to read about Sheriff Ryan's suicide and the startling discovery that it was he who murdered my late husband. I wish I could personally thank certain people for their convincing testimonies in the case.

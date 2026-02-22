@@ -1,0 +1,23 @@
+75) 0) text: An aide, KAUFMAN, waits by the front door of the Rand mansion. As the President comes out, he speaks quietly to Kaufman.
+75) 2) dialog: (makes note of name)
+75) 5) dialog: No problem, Chief. They head toward the waiting limousines.
+89) 0) text: The President sits on a couch in one of the compartments the jet. Before him, stand six of his STAFF, Kaufman included.
+89) 2) dialog: Yes, sir - we are aware of all that, but still, we haven't been able to...
+89) 5) dialog: Yes, Mr. President, we attempted to contact Mr. Rand, but he was too ill to...
+89) 10) dialog: Right, Chief. As the President goes to the Men's Room, two of the aides reach for telephones.
+119) 0) text: Kaufman and the five other Aides nervously await the President's arrival. The door opens, the President briskl enters the room.
+120) 0) text: As the President goes to his desk, Kaufman hands him a folder. The President sits, reads it quickly, it is very brief.
+120) 3) dialog: No, sir.
+120) 5) dialog: Right, Chief.
+120) 7) dialog: We... uh, have been unable to come up with any information before the man appeared at Mr. Rand's home ... and, uh...
+120) 9) dialog: Well, we do have data from Honeycutt's sources, Chief - but it isn't pertinent.
+120) 11) dialog: Yes, sir. Kaufman takes a clipboard from the man at his right.
+120) 12) dialog: (reading)
+120) 14) text: ... That's it, Mr. President. The President stares at Kaufman for a beat, then speaks i his intercom.
+120) 18) dialog: Well, sir - it occurred to us that he might be an agent of a foreign power. But, we ruled that out, as they invariably are provided with too much documentation, too much American identity... We, uh...don't quite know what to make of it yet, sir... But we'll keep on top of it, Mr. President - we'll come up with the answer.
+126) 8) text: ... Yes, come in! Kaufman enters.
+126) 9) dialog: Sorry to disturb you, chief but we have new developments.
+126) 11) dialog: We have word that the Soviets have put out a top priority alert for information on Gardiner's background. So far, they haven't come up with a thing - what's more, as a result of their eagerness, one of their ablest agents blew his cover, we have him in custody at this time.
+126) 13) dialog: Yes, chief - eight other foreign powers have put Gardiner under surveillance. We're around-the clock now, sir - I'll keep you posted. The President nods, Kaufman leaves. The President puts so more glue on the wing.
+132) 11) text: Yeah, Kaufman - what is it?
+137) 0) text: The President sits behind his desk in a bathrobe, his hai mussed. Standing before him are GROVER HONEYCUTT, the Director of the F.B.I., and CLIFFORD BALDWIN, C.I.A. Chie Kaufman stands to one side. All are red-eyed, tired, and frustrated.

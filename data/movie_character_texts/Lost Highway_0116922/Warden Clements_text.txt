@@ -1,0 +1,46 @@
+65) 0) text: The prisoner is strapped into the electric chair.  Behind glass partition WITNESSES are seated. One of the men in  suits, the WARDEN, goes to a telephone on the wall and st with his hand on the receiver.  He picks it up.
+65) 1) dialog: (into phone)
+65) 3) text: Okay. The Warden hangs up the telephone and stays next to it. We see one of the condemned man's WRISTS being clamped wi an electrical device.  The other wrist is clamped. A metal halo is placed around the condemned man's head. large electrical cable leads off from the halo. Electrically conductive ointment is smeared around the ar where the clamps have been placed. The Clergyman moves close to the condemned man continuing give the man his last rites.  When he is finished, he nod the Warden.  The Warden approaches the condemned man.
+65) 4) dialog: Any final words, Sam? The condemned man shakes his head "no". The Warden and the others clear the room and the doors ar locked. The EXECUTIONER steps into place near a huge lever.  He l to the Warden. The Witnesses sit in silent anticipation. The hands of the clock on the wall have moved past midnig The Warden takes one last look through a window at the  condemned man - then nods to the Executioner.
+81) 0) text: Captain Henderson is standing in front of a desk, behind  which the Warden is seated.  A nameplate on the desk read WARDEN MARSHALL R. CLEMENTS.
+81) 1) dialog: Repeat that, Bill.
+81) 3) dialog: Of course, it's Madison!!! Who else could it be?
+81) 5) dialog: Where is he now?
+81) 7) dialog: Did you ask him who he is?
+81) 9) dialog: If he's not Madison, then where's Madison?
+81) 11) dialog: I want to take a look at this man myself.
+82) 0) text: The man from Fred's cell is just finishing being  fingerprinted. The doctor with serious eyebrows - DR. ROGOFF - is inspec the man's face.  The Warden enters with Captain Henderson GUARDS are standing by the door and at strategic spots in room.
+82) 1) dialog: What is this, Rogoff?
+82) 3) dialog: Who is this man?
+82) 5) dialog: He's not Madison?
+82) 9) dialog: A headache?
+82) 11) dialog: Where the hell did you come from, mister? CLOSE UP OF THE MAN - he's staring straight up.
+83) 0) text: Present are the Warden, Captain Henderson and TWO other  PRISON OFFICIALS.  The Warden is looking at a computer ne to his desk.
+83) 1) dialog: Well, gentlemen, we know who the stranger is. His name is Peter Raymond Dayton. He's twenty-four years old.  His birthday is April 21st.  He was born and raised right here.  He lives with his parents, William and Claire Dayton at 814 Garland Avenue.  Pete Dayton was arrested five
+83) 3) text: years ago for auto theft, for which he  was put on probation for one year.  That  was his first and only offense.  No  record since then. Warden Clements looks up, takes a deep breath and stares the men in front of him.
+83) 4) dialog: How about Madison?  Have we had even a hint of his whereabouts?
+83) 7) dialog: How the hell does she know?
+83) 9) dialog: How the hell... 7
+83) 11) dialog: What's the word on the street?
+83) 13) dialog: Good, let's keep it that way.  Keep a lid on Dayton.  Nothing gets out about him.
+86) 0) text: A press conference is being held.  Present are REPORTERS, cameras, et al.  The Warden and Captain Henderson represe the prison.
+86) 1) dialog: I have a statement to read... Fred  Madison, an inmate being held on death  row has, apparently... has escaped.  An  all-points bulletin has been issued to  authorities not only statewide, but  nationwide.  We are confindent that he  will be apprehended very soon.  No  further details are available at this  time.  Thank you very much.
+87) 0) text: Pete's parents, BILL and CLAIRE DAYTON, escorted by a PRI GUARD, are approaching the Warden's office.  It is a long walk along the corridor and the camera examines them in  detail as they get closer and closer to the office.  The  Daytons are a middle-aged, San Fernando Valley couple.  B Dayton is wearing a sport shirt with the short-sleeves ro up. His skin is leathery, tanned and his thinning hair is slicked back in a duck-tail.  He's working-class, ex-bike Claire Dayton was obviously a good looking "chick" who's to seed from too much sun, cigarettes and booze.  She ret the remnants of a good figure, but it's going fast.  Clai is wearing sunglasses.
+88) 0) text: The Daytons are ushered in by the guard.  The Warden is  standing behind his desk.  Dr. Rogoff is standing to one  side, and next to him is Captain Henderson.  The Daytons  stand just inside the room for a moment before the Warden extends his right hand.
+88) 1) dialog: I'm Warden Clements.  This is Captain  Henderson and Dr. Rogoff.  Please, sit  down. Bill and Claire move to the chairs in front of the desk a sit down.  The Warden, Dr. Rogoff and Captain Henderson a sit down.
+88) 2) dialog: Mr. and Mrs. Dayton, as you were told  over the phone, your son, Peter, is here. Claire Dayton removes her sunglasses.  She and Bill wait the warden is searching for words.
+88) 3) dialog: He... He was discovered this morning...  in a cell on death row. Bill and Claire look at each other - bewildered.
+88) 4) dialog: A cell that was supposed to be occupied by an inmate named Fred Madison.
+88) 6) dialog: Yes.
+88) 8) dialog: ...Tell me, what was Peter's condition  the last time you saw him? Bill and Claire look at each other again - briefly.
+88) 10) dialog: His physical condition.
+88) 25) dialog: (to Claire)
+88) 28) dialog: What about yesterday?
+88) 34) dialog: Yes, and we need to talk to him... if we can. (to Dr. Rogoff)
+88) 38) dialog: Pete, can you tell us now, anything about this?
+88) 42) text: Where ... am I? The Warden and Captain Henderson look to Dr. Rogoff.
+88) 45) dialog: A man named Fred Madison was occupying  that cell.  He's missing. we're trying  to find out how it is you were in there  and not him.
+88) 51) text: Warden, can we take him home? The Warden looks at Dr. Rogoff.
+88) 57) dialog: No.
+88) 59) dialog: All right... but you see our  predicament... Legally we can't hold  him, but he may be able to help us...  perhaps later.  For now, he's free to  leave. Bill and Claire help Pete up and carefully escort him out the warden's office. With a nod from the Warden, the guar accompanies them out of the room.  The Warden, Captain  Henderson and Dr. Rogoff stand but remain in the office.
+88) 62) dialog: We'll get a tail put on him.

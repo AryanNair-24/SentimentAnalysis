@@ -1,0 +1,72 @@
+4) 2) dialog: Do you think you could go a little  faster, pal?
+5) 5) dialog: Excuse me?
+5) 9) dialog: Okay.
+5) 10) text: Charlie reaches out for the money bags. Tom jumps off the sandbag wall and lands in the water, splashing Charlie.
+5) 11) dialog: For Christsakes!
+5) 13) text: Charlie takes the bags, tosses them in then shuts the bac He moves toward the front, still trying to keep out of th water. Tom splashes him some more.
+5) 14) dialog: Hey! Do you know what kind of crap  is in that water?
+5) 16) text: Tom kicks some more water at Charlie. Charlie gives Tom a withering look and climbs in the truck.
+6) 0) text: Charlie gets into the driver's seat; Tom climbs into the  shotgun seat. They shut and bolt the doors. Charlie gets the radio.
+6) 1) dialog: Dispatch, this is 31.
+6) 3) dialog: We're leaving Huntingburg. We'll be  back in an hour.
+6) 5) dialog: We're gone. Over and out.
+6) 6) text: Charlie hangs up the radio. He starts writing on a clipbo Silence for a few moments, and then Charlie notices Tom  staring at him.
+6) 7) dialog: What?
+6) 9) dialog: What about my ear?
+6) 11) dialog: Shut up.
+6) 13) text: Charlie grabs a donut bag off the seat and tosses it to T
+6) 14) dialog: Here.
+6) 16) dialog: If it'll shut your mouth you can  have the whole bag.
+6) 17) text: Charlie starts the truck. Tom thinks about it, then tosse the bag back.
+6) 19) dialog: (disgusted) I love how you think you're better  than this.
+6) 21) dialog: (angry) You ungrateful shit! I don't believe  you!
+6) 23) dialog: You don't wanna do this? Fine. Go  back to selling hot construction  machinery. That's a helluva career.
+6) 25) text: Charlie slams the clipboard down on the seat.
+6) 26) dialog: You think this is a joke? This is  funny? Jesus Christ! You know how  lucky you are you could get in here?  Thirty years old and all the crap  you pulled and you never got caught?
+6) 28) dialog: Oh, yeah, it takes a lot of skill to  fence bulldozers. That's goddamn  genius time.
+6) 30) dialog: Oh, so that's all I've been doing,  huh? Just wasting my life away.
+6) 32) dialog: Yeah, building a home, raising a  family -- that's just stupid.
+6) 34) dialog: You know what, Tom? I really don't  give a shit what you said.
+6) 35) text: Tom doesn't reply. Charlie puts the truck in gear; starts off. Tom looks at Charlie, shakes his head -- what was th about?
+9) 0) text: Charlie and Tom continue to drive in silence. They both s looks at each other. Their eyes meet for a second, then t look away. A moment's pause then...
+9) 2) dialog: Jack-ass.
+9) 5) text: Charlie goes red in the face, pushes Tom away.
+9) 6) dialog: Get out of here.
+9) 8) dialog: I'm sorry.
+9) 10) dialog: I don't know, I... It's just this  weather. I... I want to get back.
+9) 12) dialog: No, it's not. It stinks. It's putting  your life on the line for someone  else's money.
+11) 3) dialog: It's there. (beat) Somewhere. I hope. (beat) Look, Tom, I don't care what it is  you end up doing.
+11) 5) dialog: This is the last time, I swear.
+11) 8) dialog: (looks at Tom) I just think, whatever it is you do,  it's time you did some heavy lifting.
+11) 11) dialog: No, you gotta hear this. You're better  than --
+11) 15) dialog: Jesus!
+11) 16) text: Charlie stands on the brakes.
+11) 19) text: Charlie throws the truck into reverse but gives it too mu power. They hear the rear wheels spinning underwater. Cha eases off, the tires start to catch, they start moving  backwards. Charlie and Tom exchange a quick look of relief... and th the engine dies. Charlie tries to restart it, but there's nothing.
+11) 24) dialog: Goddammit!
+11) 26) dialog: (curses to himself) I knew this would happen. (grabs radio mike)
+11) 28) text: Tom opens the door. Charlie adjusts the radio frequency  selection button; clicks on.
+11) 29) dialog: Dispatch, this is 31. 31 calling  dispatch.
+11) 31) dialog: (into radio) Dispatch, we're stuck outside of  Huntingburg. Truck's dead.
+11) 33) dialog: We're on 231, headed for the  Interstate. Right by a sign saying  "Welcome to Huntingburg."
+11) 38) dialog: Dispatch can't get anyone out.
+11) 40) dialog: They called the National Guard.  They're gonna be here in about ninety  minutes.
+11) 42) dialog: (nods; into radio) Dispatch, we're gonna need help a  little sooner than --
+14) 1) dialog: We gotta get out of here.
+14) 3) dialog: The money's safe; we're not. Water  rose about a foot in the last twenty  minutes. The National Guard isn't  going to be here for another hour.  You do the math.
+14) 4) text: Tom shrugs -- Charlie's right. They're about to get out w light washes up on them. They look out to see...
+14) 9) dialog: Hello!
+14) 11) dialog: Yes!
+14) 13) text: Charlie looks at Tom, relieved.
+14) 14) dialog: Looks like we might just --
+14) 18) dialog: Probably so they can see better.
+14) 20) text: Charlie looks at him -- what does he mean? Tom puts his h on his pistol.
+14) 26) dialog: Company dispatch and the National  Guard are the only ones who know  we're here.
+14) 28) dialog: (realizes) Jesus.
+14) 37) dialog: Take it easy, Tom.
+14) 41) dialog: Is knocked back.
+14) 45) dialog: A horrible look on his face, blood coming out of his neck He sinks into the water.
+14) 55) dialog: I'm sorry, Tom.
+14) 56) text: Charlie's gone.
+14) 63) dialog: Floating in the water.
+14) 74) dialog: Is floating in the water, eyes of glass.
+14) 79) text: Mr. Mehlor nods and digs into his pack. Ray looks down at Charlie in the water.

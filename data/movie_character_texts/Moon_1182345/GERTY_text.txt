@@ -1,0 +1,134 @@
+14) 0) text: A state of the art robot, a GERTY 3000 -- known simply as "GERTY" -- is preparing Sam's breakfast. Gerty is in three sections and moves along a horizontal rail that runs throughout the base. He has a readout scre that perpetually spews data. His hands resemble pincers, but are perfectly nimble. For the purposes of helping run the base and looking afte Sam, Gerty is as good as human, if not better. Sam enters.
+14) 2) dialog: Morning, Sam. How are you today?
+14) 4) dialog: I'm very well. How's your headache?
+17) 0) text: Gerty is selecting food for the up-coming week, stacking ready-meals on a small fork-lift buggy.
+24) 3) text: Otherwise, everything running smoothly. There was a discrepancy between a couple of the N3000 modulators a couple of days ago, but Gerty and I caught it in time, no big deal. Uh...how are things down there? Sam desperately wants to talk but has nothing very important to say. Then he remembers something.
+26) 0) text: Gerty is cutting Sam's hair. Sam sitting back in a chair, barber shop style, while the robot snip-snip-snips away with a pair of scissors. Sam i gently squeezing a STRESS BALL in his right hand.
+26) 1) dialog: Sam, is everything okay?
+26) 4) text: Why do you ask? GERTY
+26) 5) text: You don't seem like yourself today. Sam frowns, contemplative. For a moment we think he is going to tell Gerty about the Girl he saw earlier -- or imagined he saw. But he goes with something different.
+26) 8) text: No, not exactly. Gerty stops cutting, lowers the scissors. GERTY
+26) 10) text: Something doesn't feel right, that's all. A beat. Sam's fingers twitching around the red stress bal squeezing harder. GERTY
+26) 12) text: Tess isn't responding to things. GERTY
+26) 18) text: Tess never said anything about it. Three messages she's sent me since...and she's never once mentioned the vacation. GERTY
+26) 20) text: That's not the point. This is someone who lives for vacations and travelling. I thought she'd jump at the chance for us to go away -- with Eve, of course -- we'd take Eve. GERTY
+26) 22) text: (as if anticipating Gerty's comment) But this isn't the only time it's happened, Gerty. When I asked her how her dad was doing on his new heart medicine she didn't respond to that -- I asked her when Eve was going to start nursery -- nothing. Had her brother got the position at the University? Nothing. Nothing. Sam is really having a go at the stress ball now. GERTY
+26) 24) text: He did? GERTY
+26) 25) text: Yes, I seem to recall he got the position. Professor of Biochemistry, I think. At Syracuse University in New York? Sam is slightly alarmed that Gerty knows this and he doesn't. SAM
+26) 29) text: Gerty, have you heard anything new about anyone fixing lunar sat? GERTY
+26) 30) text: No Sam. From what I understand it's fairly low on the companies priority list with the Jupiter mission active. I would imagine                      it would be very expensive to                        fix.                                                 A pause. Sam still looks troubled. GERTY (CONT'D)
+26) 32) text: They need to sort that out. Seriously. I've only got two weeks left. It's not fair on whoever's up here next. Gerty, you tell them to sort it out. It's not healthy. GERTY
+26) 34) text: Nah. Come on.   Let's finish this. Gerty resumes cutting Sam's hair, and stops again, sensin Sam is going to say something more. The scissors freeze.
+26) 37) dialog: Of course. Now?
+33) 0) text: It looks like someone just poured a glass of CRANBERRY JUICE into the toilet bowl. Literally. The red urine clouding the water like a squirt of octopus ink. Yeah, Sa just pissed blood. There is a "PING!" and Gerty's voice crackles from the intercom.
+36) 0) text: Sam is in improved spirits. He pours himself a glass of juice as Gerty prepares dinner.
+36) 3) dialog: Baby back ribs with french fries and spinach.
+39) 0) text: Sam sits in a chair as Gerty tends to his scolded left hand. It's a nasty burn.
+39) 2) text: Damn it. Gerty applies a translucent balm to the burn.
+39) 3) dialog: Sam, can I ask how it happened?
+39) 5) dialog: You saw something on the TV?
+39) 8) text: Yeah, something on the TV distracted me, Gerty, what's wrong with that? A pause. Gerty is wrapping Sam's hand with a bandage.
+39) 9) dialog: Sam, you said it was the TV that distracted you, but when I came in the TV wasn't on. Gerty has caught him out. Sam knows it.
+39) 10) dialog: Perhaps you were imagining things? Gerty has hit the nail on the head, in a way that makes S feel a little uneasy. Is there something Gerty knows that Sam doesn't?
+43) 0) text: Gerty is making breakfast. Sam enters, fresh from the shower.
+43) 2) dialog: Morning, Sam. How are you today?
+43) 4) dialog: How's the hand?
+46) 0) text: A CLEAN SHAVEN and drugged-up Sam is sitting up in bed, propped with a pillow. Sam doesn't have a scratch on his face, but has clearly been through a terrifying ordeal. Gerty is bedside.
+46) 3) dialog: Sam, you're in the Infirmary. You had an accident. Sam looks bewildered -- he desperately racks his brain, trying to locate the memory.
+46) 4) dialog: Do you remember what happened?
+46) 6) text: I don't remember a thing. Sam just stares back at Gerty, not so much as a flicker o recognition.
+46) 7) dialog: Do you remember me?
+46) 9) dialog: That's good. That's very good. It's nice to see you awake again. (a beat)
+46) 12) dialog: Not long. Sam, go back to sleep. You're still very tired. We can talk later. Sam closes his eyes, sinking deeper into his pillow.
+47) 0) text: Sam asleep in bed. Gerty is scanning his head with a smal instrument resembling a camcorder.
+50) 0) text: Sam peers around. From another room he can hear the faint drone of VOICES. One of these voices belongs to Gerty. Th other voices are deeper, faster, human.
+50) 3) dialog: These were extraordinary circumstances, as you know --
+51) 0) text: Gerty is installed at the Comms Unit. Thompson and Overmeyers are on the screen. The moment Gerty sees Sam he shuts off the monitor and th screen fizzes to black, Thompson and Overmeyers vanishing Strange: Gerty appeared to have a live feed.
+51) 1) dialog: Sam, you're out of bed.
+51) 4) dialog: Not talking. No. We've been having some problems with the lunar sat and our live feed seems to be down. I was recording a video message for Central updating them on your progress. (a beat)
+54) 2) dialog: Excellent, Sam.
+54) 4) dialog: Sam, you suffered minor brain damage in the crash. This has resulted in memory loss and slight logic impairment.
+54) 6) dialog: Central has asked me to slow down the Harvesters to ensure you have time to recuperate and get your strength back --
+54) 9) dialog: The good news is you can return to the sleeping quarters tomorrow. But it will still be a few more days before you can resume anything like a normal work schedule. Sam's face taught with irritation. He isn't happy. Gerty gives him the next puzzle to solve. WE MOVE IN ON SAM'S LEFT HAND as he takes the puzzle, the same hand he scolded in an earlier scene. The BANDAGE is GONE and the BURN appears to have complete HEALED.
+58) 0) text: Sam sitting before The Old Man doing a few innocuous task collecting readouts, slurping a cup of coffee. Gerty is within ear shot. Sam sees something that pulls him CLOSER to the monitor.
+58) 3) dialog: He must have stalled. Sam gives Gerty a look. That's not good.
+61) 0) text: Sam and Gerty are seated at the Comms Unit watching a vid message from Central. Sam is holding a carved HOUSE, examining it as he listens to the video. The familiar faces of Overmeyers and Thompson on the screen, shoulder to shoulder, the two looking more like vultures right now than lizards.
+61) 11) text: Why? The message ends. Sam turns to Gerty, irate, the message good as a kick in the balls.
+61) 12) dialog: I'm sorry Sam. Sam stares at Gerty.
+61) 13) dialog: Sam, I am under strict orders not to let you outside. Sam throws the half completed wood carving in his hand at the other end of the room, breaking it. He FLIES to his feet -- growling with frustration -- STORMS out of the room.
+63) 0) text: Sam is quietly eating breakfast, lost in thought. Gerty puttering around in the background. The radio drones away
+66) 0) text: Sam glances left and right -- making sure there's no sign of Gerty -- then begins to PRY open a VENT with the knife Once the vent is removed he reaches deep inside and YANKS out a bundle of interwoven WIRES -- Sam bends the wires around the BLADE of the knife -- and CUTS. GAS ISSUES from the cut wires. An ALARM sounds. Sam hides the knife away, shouts down the corridor:
+66) 2) dialog: What happened?
+66) 4) dialog: There is no damage to the exterior shell.
+66) 6) dialog: Sam, I'm not supposed to let you go outside.
+66) 9) dialog: Okay, Sam. The "Exit Doors" LIGHT turns from RED to GREEN. For Sam this is like the BLAST of a STARTING PISTOL -- he immediately takes off down the corridor --
+71) 4) text: Gerty!
+71) 5) dialog: We need to get him to the Infirmary.
+71) 7) dialog: Sam, we need to get him to the Infirmary immediately. Sam SCOOPS the unconscious Sam up off the ground and lift him towards the INFIRMARY -- staggering -- stumbling -- going:
+73) 0) text: Sam 1's eyes pop open, he is awake, staring directly at Gerty.
+73) 1) dialog: Hello Sam. (a beat)
+73) 4) dialog: The Infirmary. You had an accident out by one of the harvesters. Do you remember? For a second this is playing out like the other Infirmary scene. A case of deja-vu. Sam 1's eyes twitch as he catalogues through his memory. Yes he remembers the crash. He remembers something else, too.
+73) 6) dialog: Who did you see, Sam? Just then Sam 1 notices the other Sam -- the more current clean-shaven Sam -- who we will now refer to as SAM 2. He is standing against the wall watching Sam 1.
+73) 8) dialog: You saw a girl out by the harvester? How is that possible? Sam 1 continues to stare at Sam 2, hardly believing his eyes.
+73) 10) dialog: Sam, you suffered a slight concussion in the crash and have incurred minor injuries, but all in all the prognosis is good. I'm happy to see you again. As he says this Sam 2 crosses slowly from one side of the room to the other, never taking his eyes off Sam 1. It's like Sam 2 is purposefully keeping his distance, reluctan afraid even, to approach any closer. Meanwhile Sam 1 is beginning to look spooked.
+73) 12) dialog: Yes, Sam?
+73) 14) dialog: Yes.
+73) 16) dialog: Sam, get some sleep. You're very tired. Sam 2 wordlessly walks out of the room. Sam 1's eyes shift to Gerty, the spooked expression yet t leave his face.
+76) 0) text: Gerty is studying lunar rock samples through a microscope Sam 1 enters.
+76) 2) dialog: Sam, you're out of bed.
+76) 4) dialog: Sam Bell. Sam 1 is officially FREAKING OUT now.
+76) 6) dialog: You are Sam Bell. A long pause. Sam 1 at the point of tears.
+76) 7) dialog: Sam, what is it? It might help to talk about it.
+76) 10) dialog: We could run some tests. (a beat)
+76) 13) dialog: I'm here to keep you safe, Sam. I want to help you. Are you hungry? Sam 1 merely nods at this, turning and plodding out of th room, seemingly in a DAZE.
+79) 12) text: (repeating the question slowly) How am I getting on? (then) The company ordered Gerty to lock all the exits. I haven't been able to do anything for seven days but sit on my ass. SAM 1
+84) 5) dialog: Yes, Sam. Sam 1 ducks in the Rec Room, Sam 2 in tow.
+92) 0) text: Gerty is stationed at the Old Man collecting data. Sam 1 enters.
+92) 1) dialog: Hello Sam.
+92) 3) text: Sam 1 sits. A pause. Gerty turns from the monitor, faces with an EXHAUSTED and DRAINED Sam 1.
+92) 4) dialog: Sam, is everything okay?
+92) 6) text: We had a fight. Me and the other guy, the other Sam. We had a fight, Gerty. He's a maniac. You know what he did? He flipped the entire model over. Do you know how much work I've put into that thing?
+92) 7) dialog: 938 hours. SAM 1
+92) 8) text: 938 hours, exactly. (then) Really? 938 hours. GERTY
+92) 10) text: (a beat) He scares me, Gerty. GERTY
+92) 12) text: He flies off the handle. I see it now...I see what Tess was talking about. (a beat) I've never told you this, Gerty, but she left me. Tess left me. For six months. She moved back in with her parents.
+92) 13) dialog: I know. SAM 1
+92) 14) text: Oh... (beat) It was the year before I came in here. She gave me a second chance. I promised her I'd change. GERTY
+92) 18) text: Gerty, since I've been up here I've sent Tess over a hundred video messages. Where did those messages go? Did they ever reach her? A pause. GERTY
+92) 20) text: What about the messages she sent to me? A long pause. Finally Gerty repeats: GERTY
+92) 22) text: Gerty, am I really a clone? GERTY
+92) 24) text: I remember. GERTY
+92) 29) dialog: Sam, it's been several hours since your last meal. Can I prepare you something?
+94) 15) text: What'll their reaction be when they find out you survived the crash? I wasn't supposed to find you. Lunar instructed Gerty to lock me inside the base for Christ's sake. A pause. Sam 1 thinking it over. SAM 2 (CONT'D)
+94) 18) text: Right around the time I was awakened...I walked in on Gerty talking to Central. He was having a live conversation. SAM 1
+94) 24) text: It was a back and forth exchange. And I saw Thompson and Overmeyers up on the monitor. I was supposed to be asleep in the Infirmary. The moment I walked into the comms room Gerty terminated the transmission. Now I was a little drugged up, granted, but I didn't imagine it. SAM 1
+104) 8) text: (beat)                                           I hacked into the Old Man. Actually, Gerty did. I saw footage. You're right, there have been other clones before us.
+105) 0) text: Sam 1 is digging in drawers, removes some equipment, some wires; a radio, a small machine called a VIDEO PHONE, referred to as a VP. He is watched by Gerty.
+105) 1) dialog: Sam, can I help you with something?
+105) 4) dialog: Helping you is what I do. Gerty leaves. Sam 1 goes on picking up equipment, shoves it all into a backpack he swiped from a peg. Now Sam 2 appears in the doorway.
+113) 0) text: Gerty is just continuing with his tasks like nothing is happening. Right now he's STACKING ready-meals and miscellaneous lunar snacks into neat columns. Sam 2 walks up.
+113) 2) dialog: Of course, Sam, how can I help?
+113) 4) dialog: I don't know of a hidden room.
+113) 6) text: The hidden room under the Return Vehicle, Gerty. You know what I'm talking about. We found it on our own. Lunar doesn't know anything about it. A beat. GERTY
+113) 8) text: Ordinarily, Gerty, but what with there being two of us awake at the same time, and what with the situation being unprecedented, the rules have had to change. Do you understand? GERTY
+113) 10) text: Good. (a beat) Gerty, how long does it take for a clone to wake up? GERTY
+113) 12) text: Gerty, we need to wake up a new clone. GERTY
+113) 14) text: If we don't wake up another clone me and the other Sam will die. We'll die, Gerty. Do you understand? GERTY
+113) 18) dialog: That is the last thing I want.
+123) 0) text: Gerty is running tests on the unconscious Sam 3.
+126) 10) text: I'll put myself in the Rover, I'll be the body -- it was me to begin with anyway, right? You go back to Earth. You go back. You're healthy. You've got three years ahead of you. You stand a much better chance than I do. The other guy....Gerty can get him up to speed...he can be here to meet Eliza when they arrive. Sam 1 seems to have it all figured out. Although Sam 2 should in some ways be relieved by Sam 1's decision, he looks closer to distraught. SAM 2
+128) 0) text: Gerty is continuing to run tests on Sam 3. Sam 2 enters. carries the freighted exhaustion of a man who has just completed a long and difficult journey.
+128) 2) dialog: The new clone will be conscious within one hour.
+128) 4) dialog: Sam?   Where is Sam?
+129) 0) text: Sam 2 is loading OXYGEN CANISTERS into the CARGO CONTAINE in preparation for his trip back to Earth. Sam 2 working FAST, a sense of URGENCY. Eliza will be the in a mere 90 minutes! It's coming down to the wire. Gerty glides in as he works.
+129) 1) dialog: Sam, this is not going to work.                        
+129) 4) dialog: If the Rescue Unit examine my memory banks they will discover what has taken place over the last week. As you know I record everything. If they are suspicious, the first thing they will do is search my memory banks, and this would put you in considerable danger. Sam 2 straightens up, giving Gerty his full attention now This is serious. It could ruin everything. The fact that Gerty has brought it up indicates that the robot's loyalties lie ultimately with Sam.
+129) 5) dialog: I recommend erasing my memory banks. I can reboot myself once you have departed.
+129) 8) dialog: I'll require your assistance,                           Sam.                                                   
+131) 0) text: Sam 2 stands before Gerty.
+131) 2) dialog: Okay, Sam.
+131) 4) dialog: I understand, Sam. I hope life is everything you remember it to be.
+131) 6) dialog: Of course. The new Sam and I                            will be back to our programming as soon as I have finished rebooting.
+139) 0) text: Gerty sits lifeless. We hear the sounds of pressure doors opening. Unrecognize voices as the landing crew enters the base, calling for Sam. Gerty comes to life. His principal monitor POPS ON and his pincer-like HANDS begin to TWITCH. His READOUT SCREEN streams with DATA. Gerty's head begins to swivel left and right -- as if he' awoken with a stiff neck -- eventually he SEES Sam 3, crosses to him. Just like that, Gerty continues his routine checks of Sam -- studying Sam 3's heartbeat, his brain activity -- the robot literally picking up where he left off. And then Sam 3's eyes open. He is awake. He blinks at Gerty, cloudy, groggy.
+139) 2) dialog: Sam, you're in the Infirmary. You had an accident. Sam 3 staring ahead, trying to dig up the memory.
+139) 3) dialog: Do you remember what happened?

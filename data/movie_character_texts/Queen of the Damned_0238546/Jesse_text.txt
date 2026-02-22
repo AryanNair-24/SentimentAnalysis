@@ -1,0 +1,255 @@
+14) 0) text: Jesse's bare feet pad down the endless corridor. The little girl is dwarfed by the stone pedestals, all lit with candles. LAUGHTER ECHOES through the halls.
+15) 0) text: Jesse moves past rough-hewn columns, watching something with great curiosity. Behind her, we glimpse a giant mural of names cut into the stone walls. A family tree, extending up onto the ceiling and down to the floor.
+16) 1) dialog: No!
+16) 2) text: Jesse sits up with a start. She stands, heart pounding, trying to shake the dream off. We see on a bulletin board behind her, a flyer for Lestat's concert. She takes off the headphones. Walking over to the mantel above her fireplace, she picks up a solitary, framed photo -- holds it tight...
+17) 0) text: Fluorescence pierces the black night. Jesse comes out of the tube station in a tight, short skirt, boots. She looks down the street. In one direction, a busy, brightly-lit street. Jesse gazes at a group of tourists coming out of a pub, laughing. Then she turns, looks the other direction. A dark street. She hesitates a long moment, stares at the light, then can't help herself, plunges toward the darkness, the LAUGHTER ECHOING, then DYING.
+18) 0) text: Jesse passes "rent-boys" stepping from the shadows as cars cruise by. Jesse, unable to look away, gazes as one gets in a car. He stares back at her, disappears into the car.
+19) 0) text: Jesse passes couples using the shadows for privacy in the dark, filthy streets. She strides past a girl leaning against a brick wall, the man grunting, moving rhythmically against her.
+20) 0) text: Fog floats in the yellow vapor lights. Jesse pauses at the intersection of a narrow alley. She hesitates, nervous, then turns down the dark lane, disappearing into the blackness...
+21) 0) text: Jesse, from the shadows, gazes, wide-eyed, at the Soho private club's entrance, a solitary door with a faded sig and a dull blue light mounted above. Jesse hears strange whispering. She sees now figures moving through the fog. One pushes a buzzer. Jesse stares barely breathing, her heart pounding. The figures have white, luminescent faces, strange, brigh glowing eyes. Their fingernails are glass-like. A moment later, a slot in the door opens. The glowing eyes of anot creature stares out at them, scrutinizing them. The door closes quickly. Jesse stands there, deliberating. She takes a step closer to the door. Stops. Takes another nervous step. She hears something, whirls around.
+22) 2) text: Jesse, making a presentation, stands before an impressive and imposing group of 10 TALAMASCANS, wearing demure suits. Jesse is excited, a bit nervous, hoping to impress. She holds a remote which controls images appearing on the large video screen. Clips from Lestat's press conference continue. Jesse gazes out at the Talamascans.
+22) 3) dialog: I have reason to believe Lestat's the real thing. A vampire. And an ancient one.
+22) 5) dialog: (leans forward, eagerly) It would appear that way. But have you listened to his songs? Read his lyrics?
+22) 10) dialog: Well,i have. In one of his songs he refers to a pub called the Sailor's Arms. I think it's a clue...
+22) 12) dialog: (reading screen) 'Where are you now? Back in the sailor's arms, somewhere in the back streets of Soho?' I tracked down the old leases in London. It turns out, in the late 1700's, there was a pub right in the backstreets of Soho called the Sailor's Arms.
+22) 14) dialog: And it had a reputation for dealing with black magic. Witches' covens, seances, that sort of thing.
+22) 15) text: Quick flashes of gruesome drawings appear -- animal sacrifices. A corpses floating above a table... Jesse talks faster and faster with her enthusiasm.
+22) 16) dialog: And most importantly, reports of people being lured there and subsequently attacked by bloodsucking fiends.
+22) 17) text: Quick flashes of gruesome period newspaper drawings, blood pouring from the neck of a screaming woman. A white-faced ghoul with fangs. Jesse is smiling wider, excited by her discovery. On screen, an old map of London appears.
+22) 18) dialog: Here's where you could find the Sailor's Arms in old London.
+22) 23) dialog: And here is where it would be today. Of course the Sailor's Arms is not there anymore. That part of London is mostly old warehouses, meat-packing plants.
+22) 25) text: Jesse leans forward now as she talks.
+22) 26) dialog: Yes, but right now there's only one place to get a drink -- of sorts. A private club -- in exactly the same place. The Waverly Arms.
+22) 28) dialog: Well, what happens at the Waverly Arms now makes the Sailor's Arms look like a Happy Meal at McDonald's.
+22) 30) dialog: It's a vampire coven. And Lestat's leading us to it.
+22) 31) text: Murmurs. Many of definite interest. Some of definite skepticism. Jesse's face shines bright with her enthusiasm.
+22) 33) text: Jesse smiles. Pushes a button.     Ready to receive the Talamascans' approval. On screen, a new picture appears of several figures, white faces, dark clothes -- but they're very blurry.
+22) 38) dialog: (excitement dampened by embarrassment) Well... it was taken... while... (clears throat) ... in motion.
+22) 39) text: Talamascan #2 smiles at her sympathetically. Jesse gazes out at the other Talamascans, sees she's losing their interest.
+22) 40) dialog: (quickly, trying to cover) But listen, if you look closely, you can see they're vampires. I'm sure of it. And Lestat's leading us to them and --
+22) 43) dialog: But... uh...
+22) 45) dialog: (a beat, softly) I did.
+22) 46) text: Murmurs bubble through the entire group now.      They st at Jesse, dismayed.
+22) 48) dialog: Yes.   Last night.
+22) 53) dialog: No one.  I... just... went. (quickly) Look, I know it was breaking protocol and I'm really sorry, it's just I think --
+22) 57) dialog: (gesturing to photo, defending herself) Hey, does it look like I got involved? That is not called involvement. That is called running.
+22) 59) text: Jesse turns to her.
+22) 60) dialog: Vampires.   Gathering.   I'm sure of it.
+22) 61) text: Jesse steps from the podium, moving through the Talamascans as she pleads her case. She talks a mile a minute, her passion rising...
+22) 62) dialog: You have to listen to Lestat's lyrics. They're amazing.
+22) 67) dialog: Many of the references could only be derived from years of research in the Bibliotech de Paris, which seems unlikely for a young rock star in his early twenties. Plus there are historical details dating back hundreds of years Lestat describes that don't exist anywhere... except in our library. He refers to Marius, the great white lord, who ruled over a group of islands off the Bay of Naples in the late 18th Century. What I'm trying to say here, and maybe I'm not doing the best job of it, is that Lestat may be the oldest and most powerful vampire ever documented!
+22) 68) text: Jesse sees some of the Talamascans are again listening. But Talamascan #1 shakes his head...
+22) 70) dialog: Right. That's the best part. Lestat's not afraid to piss them off. He wants mortals and immortals to know he's there, to know he exists. I don't know why... (glancing at skeptical Talamascan #1) But this has never happened before. Don't you see? He's a one man revolution.
+22) 71) text: All the Talamascans gaze at her a moment.       Jesse hol her breath. Has she gotten them back?
+22) 76) text: The Talamascans burst out laughing, even Talamascan #2. Jesse gazes at them, her face burning red. She's lost them, blown it. Made a fool of herself. Her frustration rises, she can no longer contain it. bursts out of her.
+22) 77) dialog: Fine. Well then, I guess I'll just have to go back and get better, more conclusive evidence! Maybe you just can't unravel all the mysteries of the world out there, by sitting around all day in a dusty old library in here!
+22) 82) text: He turns, walks out. All the Talamascans look at Jesse. It doesn't look good. Her face burning red, Jesse turns, leaves.
+31) 0) text: A wood-lined room -- walls covered with books, artifacts, paintings. Jesse stands before Talbot. He fixes his eyes on her, pours her some coffee.
+31) 2) dialog: Yeah, I'm great. I just found a vampire.
+31) 4) dialog: Cause I think I'm on to something pretty big. The most important sighting Talamasca's had in years... (beat, sighs) Jesus, I don't know, David... I thought I was onto something... Maybe I didn't see anything...
+31) 12) dialog: (leaning forward) Talbot. C'mon. You know me. I'm not freaking out on you. I'm just onto what looks -- alright looked -- like a good lead. You're the one who taught me how to do all this. You're the one who taught me to keep pushing and pushing...
+31) 14) dialog: David. There's nothing else. Nothing is 'beguiling' me, alright? Nothing. C'mon.
+31) 17) text: Jesse starts out. Looking down at papers on his desk, Talbot calls out, almost casually...
+31) 19) dialog: I'd be even luckier if that damn picture came out... (stops in her tracks, turns back, gazes at him, amazed) Wait a second. So you do believe me? You do think it's a vampire coven.
+31) 24) text: He goes to the paintings hanging on a wall in the back of his office, covered with black velvet. Jesse follows. He unveils them. They stand before an Eighteenth-Century painting. The interior of an enormous Italian villa. There's a man in his forties with long white hair, back to us, but his face is reflected in a standing mirror.
+31) 26) dialog: They're all nightscapes. The detail is amazing. Mid-1500s. Florence.
+31) 28) text: Jesse moves to the next painting. Another nightscape, a giant medieval tableaux, circa Bruegel.
+31) 30) text: Jesse runs her finger across the faces, then stops on the face of a gentleman with long white hair watching the bloodshed of gory battles and the sacrifices of saints burned at the stake.
+31) 31) dialog: This man is in both.
+31) 33) text: Jesse moves to the next painting, then the next and the next, all nightscapes set and painted in the style of different eras, all featuring a portrait of the same white-maned man.
+31) 37) dialog: Have you --
+31) 39) text: Jesse stops at a contemporary self-portrait.
+31) 41) dialog: (whirling around) Marius?! From Lestat's lyrics. I knew I was right.
+31) 45) dialog: What do you mean the original vampire?
+31) 48) text: Jesse gazes at all the paintings, shaking her head in wonder, then speaks softly.
+31) 52) dialog: David, you've been tracking Marius your whole life. Maybe he's out there waiting for you right now. (without looking at him) Don't you ever want to just go and find him and --
+31) 57) dialog: (surprised) You do?
+31) 60) dialog: (touched) Thanks. What is it?
+31) 63) text: He takes out an old leather-bound journal.    Turns to Jesse.
+31) 68) text: Jesse stares up at him in absolute awe, taking it in. Talbot gestures in the direction of the Talamascans in the library.
+31) 71) dialog: Thank you for this.
+31) 73) text: As Jesse goes out, holding the journal, Talbot smiles after her. But after the door closes, his gaze turns again to concern. He crosses back to the paintings, pauses a moment, staring up into Marius's eyes. Then Talbot covers each with the black velvet.
+32) 0) text: Jesse sits on the floor, curtains drawn, the room lit with candles. A LESTAT SONG plays in the b.g. She opens the journal.
+32) 1) dialog: Je suis le vampire Lestat... (a beat) I am the vampire Lestat.
+37) 0) text: Jesse moves steadily along the street past darkened warehouses. Several bonfires line the lane, illuminating rows of prone bodies, cardboard shelters, empty bottles. The drunks look up at her with dead eyes.
+38) 0) text: Jesse goes deeper into a labyrinth of alleys, the street becoming darker with every step. In the distance she sees the blue light. Figures moving through the fog. Jesse moves slowly along a wall in the shadows trying to get a better look... Suddenly, out of the shadows, a BOTTLE SMASHES... She starts, quickens her pace... Runs straight into a bulky figure. A primal scream rises from her stomach. The figure is a homeless drunk, more scared than she is, who scuttles off quickly into the night. Jesse presses her back against the wall. Breathes. She inches around the corner...
+39) 0) text: ... and from the shadows, gazes at figures knocking on the solitary door in the wall up ahead, with the dull blue light mounted above. The slot in the door slides open. A moment later, the figures vanish inside. A moment later, two couples approach, dressed in black. Jesse takes a deep breath, then...
+40) 0) text: The music is part blues, part Kurt Weil, part Gothic, dark and ominous as if the pianist knew exactly the sort of trouble Jesse was in. The bar is comprised of elaborately-carved Chinese dragons, a TV mounted incongruously in the corner showing a silent Vampire Lestat video. Couples dance cheek to cheek, rotating like figures on a music box. Another couple is necking hot and heavy in the corner. Jesse stares at the patrons of this vampire coven. Many of the faces are unnaturally pale, gaunt. Their eyes shine with a strange, reflective light. Jesse moves through the tables, passing a mortal YUPPIE-TYPE sitting with a VAMPIRE GIRL he's obviously just met that night.
+40) 3) text: The Vampire Girl smiles, glances up at Jesse as she passes. Jesse looks away quickly, moves on... The pianist watches as she passes by. The couple necking in the corner begins to get even more aroused. A mortal girl sips on her drink while her lover, a vampire, kisses her shoulder, her throat...
+40) 4) text: Unaware that she is being watched, Jesse continues her circuit.
+40) 11) dialog: reaches the Punk Vampires. They fall silent as she pauses at the bar. She turns, stares at the necking couple...
+40) 13) dialog: stares, horrified.
+40) 16) dialog: Sure, all the time.
+40) 21) dialog: You haven't seen the rest of my body.
+40) 23) text: Jesse finds herself surrounded by the three Vampires. She shakes her head, too frightened to get out a response.
+40) 25) dialog: My host... oh he's here somewhere.
+40) 28) text: Jesse looks around, trying not to panic. Pale faces, pale eyes stare at her. A long, terrible pause... Suddenly --
+40) 29) dialog: Marius...
+40) 33) text: The Punk Vampires laugh.     Jesse desperately tries to cover her terror.
+40) 37) dialog: Marius has the blood of the ancients flowing in his veins.
+40) 39) dialog: That's a myth. Marius is around here somewhere...
+40) 40) text: Jesse again heads for the door. But Punk Vampire #1 has appeared in front of her. She stares at him, terrified.
+40) 41) dialog: You... you really should meet him.
+40) 43) text: Jesse watches the other Punk Vampires slowly begin to close in on her. As she speaks, she slowly edges to the door...
+40) 44) dialog: Because... because... he's wise, a philosopher... he asks the big questions. Like how are you going to get through eternity? It's easier for us mortals. Life is brief, but for you...
+40) 46) dialog: I mean... what can you really do with immortality besides just slip from one day to the next, trapped in a void of meaninglessness, relieved only by your next victim? How do you not give in to despair and just wither away from boredom, hopelessness?
+40) 47) text: The Punk Vampires pause, staring at her, as her words sink in. The hooded figure leans forward revealing his face... It is Lestat. He stares at Jesse, amazed. Jesse glances desperately at the door. It's just a few feet away now.
+40) 51) dialog: You know, it's like they say -- the more things change, the more they stay the same. For you that's forever, right?
+40) 52) text: All around her, vampires are turning to look. The Punk Vampires stare at her, eyes narrowing. Jesse is now inches from the door. She can barely breathe. Punk Vampire #1 gazes at her, his confusion suddenly turning to anger.
+40) 54) text: He bares his fangs. Jesse bolts out the door... PAN ACROSS vampire faces staring after Jesse TO Lestat who gazes at her, absolutely entranced. He watches the Punk Vampires head after Jesse.
+41) 0) text: Jesse hurries up the alley. Breaks into a run. But the three Punk Vampires from the bar have somehow gotten outside. They land in front of her, beside her, behind her. Heart racing, she shakes with fear. They close in, smiling.
+41) 2) text: He runs his hand up and down her body. Jesse starts to shake. She breaks out in a cold sweat. The others grin. He picks her up by the throat. Her legs flail in the air... Suddenly, the two vampires turn and hiss like cats. Jesse hits the flagstones hard with a grunt. She gasps for air, looks up as the vampires are hurled out of the alley by an invisible force. Jesse alone, turns, still woozy. Finds herself staring at... Lestat... Jesse's eyes open wide, entirely stunned. He drinks her in with his eyes, marking the soft paleness of her skin, her long, red hair, the flush on her cheeks, her pulsing jugular.
+41) 6) dialog: You saved me.
+41) 8) text: Jesse notices her rucksack cast aside by the Punk Vampires -- Lestat's journal sticks out. She glances at Lestat. He mustn't see it. She steps away, tries to distract him.
+41) 9) dialog: I know a lot of things.
+41) 12) dialog: Well I guess we've got that in common. Although I think I'm a little ahead in the race here.
+41) 14) text: He circles her. Jesse is shaking, terrified. Enjoying the game, Lestat smiles, moves closer. But Jesse suddenly blurts out.
+41) 15) dialog: 'Mine eyes dazzle, she died so young.' It's about the girl with the violin, isn't it?
+41) 16) text: That stops Lestat. He gazes at Jesse, surprised. Recovers his composure. Stares at her intensely, regarding her anew.
+41) 21) dialog: (desperate, stalling) I... I think you're a lot like Marius, Lestat.
+41) 23) dialog: You're... you're both artists.   He's a painter. You're a singer...
+41) 24) text: As she speaks, Lestat guides Jesse over to a pile of crates. She stares at some beer bottles shattered on the top of one. He guides her hand downward, closer to the shattered glass.
+41) 26) dialog: Yes... From nothing... you try to create... something beautiful... (shaking now as her hand gets closer and closer) ... out of the... the cold, dark wasteland of eternity...
+41) 27) text: He stares at her, the words oddly familiar, then scrapes her finger along the bits of broken glass, gravel. She gasps with pain... Lestat gazes at the drops of blood that appear, glistening on Jesse's finger...
+41) 29) dialog: (quickly) But... but Marius isn't a rebel. You're different in that way. You don't want to hide, follow the laws, concealed in the shadows like some insect. You... you still want to walk with the living, don't you, Lestat?
+41) 35) dialog: No, but the only time you're not really alone is when you kill... But, Lestat, you can't help it... it's not your fault... He made you this way...
+41) 37) text: As he brings her finger closer and closer to his mouth. Their eyes bore into each other, he stares at her rosy cheeks, the cold sweat on her forehead, taking in her remarkable, if foolhardy daring. Her eyes gazing straight into his... He brings her bleeding finger into his mouth.       She m swoon. Lestat's eyes burn as he tastes her for mortality, her fragility a brief second, listening to her blood. there's something there that surprises him as he gazes at this mortal girl. He feels something. Desire... Then her blood speaks to him as Lestat's eyes fall on her rucksack. He sees the journal. It all falls into place. Lestat's lip curls in anger. He shoves Jesse away. Wipes his mouth. The mood suddenly changes.
+41) 39) text: She stares at him, found out. He turns from her, laughing, but not the kind of laugh to make Jesse think all's well.
+41) 44) text: Jesse slowly nods, admitting to all.    He shakes his hea
+41) 46) dialog: I... I'm only an apprentice.
+41) 49) text: He turns, walks away. Jesse lets out a sigh of relief, then stares after him. She hesitates, then suddenly calls out:
+41) 50) dialog: Does anything, Lestat?
+41) 52) dialog: I mean, what's the point of coming into the light if not to have someone really know you?
+41) 54) dialog: You want the world to see you're real, don't you, Lestat? Don't you? Well, here I am!
+41) 55) text: Suddenly Lestat spins. Stares at the fragile mortal girl risking everything. Flash. Jesse gasps. He now stands right before her. He grabs her, pulls her to him close, tight, hard. He could just snap her neck and be done with it.
+41) 61) dialog: Lestat!
+41) 63) dialog: There's something you left out of your diary.
+41) 65) dialog: (stares right into his eyes) You kept her violin, didn't you?
+41) 66) text: A beat, then Lestat shakes his head, laughs at the absurdity of what she's saying. But Jesse is undaunted.
+41) 67) dialog: Hey, it's okay. I understand... (softly) After all, it's only human.
+42) 1) dialog: Jesus Christ.
+46) 0) text: CLOSE ON Jesse, her face bright, walking quietly, talking intensely on a cell phone.
+46) 1) dialog: You're right, David. The journal has everything in it.
+46) 3) dialog: David, listen... (struggles a moment)
+46) 6) dialog: David, I... I talked to him... Look I'm sorry. But I... I have to see what's out there with my own eyes. I'm onto something. I just don't know what yet... I have to find out...
+47) 3) dialog: It's not emotion. It's instinct... I'll return when I have my findings. Good-bye.
+47) 5) text: Jesse, wait! She hangs up. Can't quite believe what she's doing. REVEAL Jesse is heading for a boarding gate at Heathrow airport. She hands over the ticket, boards the plane.
+48) 0) text: Jesse puts on headphones, listens to LESTAT'S MUSIC.   As she opens the journal, LESTAT'S MUSIC DISSOLVES INTO VIOLIN...
+58) 0) text: Jesse closes the journal, her eyes wide with the new knowledge of Lestat's past. She sits there a moment, speechless, then stares out at the vast, black night.
+60) 0) text: A tall, shapely female flight attendant sways down the first-class aisle of an airplane, her back TO us. She stops by a seat where Jesse sleeps uncomfortably. Pulling out a blanket, the attendant drapes it over Jesse, tuckin it closely around her neck, then, curiously, the stewarde leans down.
+60) 3) dialog: Lestat.
+60) 6) dialog: wakes with a start.
+60) 7) dialog: Akasha!
+60) 8) text: Jesse looks up to see the real ATTENDANT is standing next to her.
+60) 10) text: Jesse nods and quickly fastens her belt, pulls it tight.
+65) 0) text: No mortals in sight. Amongst various vampires, we spy the Vampire Lover talking to the Punk Vampire who tried to attack Jesse.
+67) 22) text: Akasha turns to the terrified barman again, pulls him over the bar and attacks him as if she were just reaching for a snack. He flails but is overwhelmed by her strength... The Vampire Girl who Jesse saw vanish with the Yuppie, flies towards Akasha, knife raised, but Akasha just turns... Suddenly there is an EXPLOSION of FLAMES. The Vampire Girl screams as she is consumed. The piano player and guitar player go up in flames... All hell breaks loose as the other vampires run for the door. The lock won't budge and it's too late anyway as the flames overwhelm them... And THROUGH the flames, we see Akasha smiling, now sucking on the Punk Vampire's aorta like it's a straw. She tosses his body, her long tongue slowly licks her bloody, thirsty lips. She strides out through the flames. In a whispery, sing-song voice.
+70) 0) text: Behind him now we see a cab pull over. It's Jesse, trailing Roger. She gazes at him intently.
+74) 9) text: As they start off, Lestat puts up his hand, points to Jesse.
+74) 11) text: The other groupie pouts, disappointed. She goes out with Roger. Lestat turns to Jesse... considers her...
+74) 13) text: Jesse's heart pounds with terror.
+74) 15) dialog: It's not. I... I came on my own.
+74) 18) dialog: I've been tracking your manager for days... (gesturing to her Goth outfit) Then I figured out you simply have to look the part.
+74) 23) dialog: I'm not a groupie...
+74) 24) text: Lestat gazes at Jesse's pulsing jugular.      He steps closer.
+74) 26) dialog: (terrified, in a whisper) Are you granting wishes?
+74) 28) dialog: Show me what it's like to be you. That's my last wish. Grant it, Lestat.
+74) 31) dialog: All a vampire has is time.
+74) 33) dialog: (softly) Right. The covens are coming for you. (softly) I understand why you're doing it. You have to be who you are, no matter what happens.
+74) 38) dialog: But how are you spending what may be your last night on Earth, Lestat? As you always have... Alone.
+74) 39) text: Jesse takes a breath, crosses to him, stands very close, stares up into his eyes. He stares down at her, amazed, his heart pounding. He breathes in her hair, the scent of her skin.
+74) 40) dialog: Don't kill me yet. Let's spend our last nights together. Share it with me.   Show me what it's like to be you.
+74) 42) dialog: That's right. You don't know what's in my head, Lestat. Do you want to?
+74) 44) dialog: Gee, Lestat, that's a great way to get to know someone. Here. I'll give you a preview. Coming attractions. This is what you'll find.
+74) 46) dialog: I have this recurring dream that I'm a child and I'm living in this big house filled with vampires. And every night when I go to sleep, I wish to God the same thing... you know what that is, Lestat?
+74) 51) dialog: That I will have the dream again... Because in the dream I'm happy. And the dream is more real than my life... I don't know how, but I know you, Lestat... My life is a big mystery and you, you have the answer...
+74) 52) text: He gazes at her, being taken in, tries to resist it. Jesse moves even closer. He stares down at her, the softness of her skin, her penetrating gaze, the heat of her body.
+74) 53) dialog: I can't go on pretending this life of mine is real. I can't live a lie... I'm just like you Lestat. We're the same...
+74) 55) dialog: No. We're looking for exactly the same thing. You know it... Please. Show me.
+74) 58) text: Jesse breaks into a smile.
+74) 60) dialog: (an excited whisper) I don't care.
+74) 62) text: Her heart pounding, fluttering her eyes closed, Jesse holds one deep, hesitant breath and... Flash -- with preternatural speed --
+75) 0) text: Looking out over the observatory's ledge, Jesse can't believe what's just happened. She laughs, intoxicated by the experience.
+75) 1) dialog: Do that again! Lestat laughs, impressed by her bravado. Her trust. For a moment she laughs like a child. Then they look at each other deeply, feeling something. He wants to kiss her. She knows it. He turns away.
+75) 3) dialog: Did it hurt?
+75) 6) dialog: Love?    I thought it was the blood.
+75) 12) text: But Jesse steps forward.       Lestat turns, stares at he Her eyes burn with an urge that will not be silenced. One button at a time, her fingers quivering, she opens her blouse down to her navel. Lestat stares as Jesse removes a long, silver hairpin from the mane of her red locks which then cascade about her shoulders. Her face remains aimed unwavering at Lestat's as she brings the hairpin down to her breast. With her eyes moored to his, she draws a line with the point across her breast. She inhales through clenched teeth... then settles as we see: The long incision go from pink to red; then the blood, like a hot spring pouring over the brim and dripping down her chest. Lestat staggers. Breaking their stare, he accepts her gift, lapping up the overspill and then onto the wound itself. Lestat closes her eyes... He comes up to her face, brushing his lips against her cheek. She shivers...
+75) 14) dialog: (murmurs) Do you like it?
+75) 20) dialog: (whispering, overcome) Do it to me... Please... With your blood I'll know you...
+75) 22) dialog: I'll know everything...
+75) 23) text: But suddenly her words catch him... His head flails as he tries to stop his natural impulse. Lestat lets out a desperate cry and throws her aside. Jesse gazes at him, surprised. He looms over her, angry.
+76) 0) text: Lestat and Jesse quietly move among the trees. Lestat stops on a dime -- senses tuned. He looks into the dark. Jesse is about to speak when Lestat raises his finger to her lips and then points at... A couple of lovers moving across the meadow. They sit on a park bench. The woman giggles drunkenly. Jesse watches and gasps as she realizes the male lover is a vampire. Lestat moves forward. Jesse gingerly follows. Taking his lover in his arms the vampire begins to bite her neck... Lestat looks over at Jesse who watches, fascinated and disturbed. The vampire senses another's presence -- stops and turns to reveal his vampire eyes shining in the dark. Lestat steps into the halo of a street lamp and hisses. Sensing Lestat's power, the vampire hisses and instantly -- the vampire is gone. Jesse turns to Lestat but he has disappeared, too. Spinning around again she sees... Lestat hovering over the mortal woman who is still in a swoon. Checking to see that the vampire is gone, Jesse moves closer to the bench.
+76) 4) dialog: Is she alright?
+76) 5) text: Lestat looks up to face her, revealing his blood-stained lips. Jesse reflexively looks away.
+76) 7) dialog: Lestat, no!
+76) 8) text: Lestat's expression turns cold as ice -- he arches his back like a great cat and goes in for the kill. The woman's body convulses... Jesse watches in horror as... the woman's hands clutch at Lestat, her back stiffens... finally her legs relax in an obscene parody of orgasm. Jesse gasps, backs away. Lestat finishes and, wiping his mouth, approaches Jesse.
+76) 10) text: He gazes into her eyes, finding himself desperately wanting her to say yes. The horror, the revulsion in Jesse's face says it all.
+76) 15) dialog: Lestat!    Wait!
+77) 19) dialog: Aunt Maharet?
+77) 20) text: Jesse rushes to her. Stops. Stares at her aunt's glowing eyes, the strange pallor of her skin.
+77) 21) dialog: You're a...?
+77) 23) text: Jesse stands there, soaking it in.    Maharet takes her hands gently.
+77) 24) dialog: Oh my God, this is why... I knew I was different. I knew --
+77) 26) text: Jesse follows Maharet to the mural of the family tree.
+77) 28) dialog: Am I...?
+77) 36) text: Jesse stares at Maharet, amazed.
+77) 38) dialog: And something happened there.
+77) 42) text: Jesse looks at her, surprised.    Maharet smiles.
+77) 44) text: Jesse stares at Maharet, surprised she understands so well.
+77) 45) dialog: I thought I was like him.
+77) 47) text: Jesse sits on a stone bench, confused.       Maharet smil sadly, feeling Jesse's inner turmoil.
+77) 48) dialog: Lestat's all I can think about... I felt like I belonged with him. Now I know why...
+77) 53) dialog: (gazes up at her a long moment) I missed you so much, Aunt Maharet.
+77) 57) text: Jesse holds Maharet's eyes.
+77) 58) dialog: But this is my home. This is where I belong. Why do you want to get rid of me so quickly?
+77) 63) text: Maharet goes to Jesse, wraps her arms tight around Jesse. Despite the coldness of her skin, Jesse warms to the embrace, closes her eyes, holds her tight. Then, beaten by the sun, Maharet stands, exits into the shadows, turns back to Jesse, gazes at her.
+78) 2) text: Jesse. Lestat draws the curtains and enters his sanctum where his coffin sits in the safety of darkness.
+80) 0) text: Jesse moves down the hallway past paintings of vampires. She pauses at one of Maharet. As Jesse shifts, the glass over the painting catches Jesse's reflection. Jesse moves slowly until her face just covers Maharet's. In the reflection, Jesse's eyes now glow with Maharet's luminescence. Jesse stares a long, long moment.
+81) 0) text: Jesse sits at a desk, writing a note, torment, confusion on her face.
+81) 1) dialog: Dear Aunt Maharet, my whole life, I've felt... kind of crazy I guess, different from everyone, and now I know why... You say I now know who I am meant to be... I have found my answers. You are right... She takes a deep breath.
+82) 5) dialog: I know you want me to be a regular human girl... but I'm not. I can't be...
+83) 1) dialog: Lestat is my destiny... I know that now. I love you, Aunt Maharet. Good-bye.
+83) 2) text: Jesse walks away from the house. Coming to a highway, she reads a sign -- "DEATH VALLEY 120 miles." Just then, a VW minibus barrels down the road in Jesse's direction. She sticks out her thumb... The minibus pulls to a stop on the shoulder in a cloud of dust. A VAMPIRE DRIVER leans out the window -- not a real vampire, just a kid with white face-paint and fake fangs.
+83) 4) text: Jesse peers past the driver to a crowd of Goths and fake vampires. THE VAMPIRE LESTAT BLARES FROM the SPEAKERS.
+83) 5) dialog: (smiles) Yeah.
+85) 0) text: Looking at the scene, Jesse is bedazzled. Pushing through people, she disappears into the throng as...
+89) 32) dialog: Lestat!    Lestat!
+89) 40) dialog: stares in wonder and terror at the burning "kites." Then seizes her chance. She pushes toward the stage against the tide of bodies fleeing.
+90) 10) dialog: Lestat!    Lestat!
+90) 11) text: Suddenly the wooden platform beneath Lestat begins to buckle under his feet. Fragments of WOOD EXPLODE upwards around Lestat. Marius loses his balance and staggers backwards... Fragments of sharp wood fly into the audience. Jesse raises her hands to protect herself. She looks up. Freezes. Akasha rises up through the stage. Beautiful and terrifying. She grabs Lestat and the two of them shoot up into the air. The crowd stares in awe. Jesse is frozen. Roger, the Fire Marshal, the band, everyone is frozen. Talbot stares up at Akasha, his face white, unable to believe his eyes. Even the Ancient Ones are stunned to see their Queen come to life. Scaffolds collapse in an EXPLOSION OF ELECTRICAL SPARKS... (NOTE: Practical explosion.) The Ancient Ones stare up into the sky as... Akasha and Lestat vanish. Jesse stares in horror after them.
+93) 0) text: Mael leads Jesse down the hall. She stares ahead at what looks like statues standing in the shadows. Her eyes widen as the statues come to life: Armand, Pandora, Khayman, Marius are talking in hushed tones, gathered before Maharet's "Great Family Tree." CAMERA SWEEPS OVER the endless lines, the rows of names that stretch down the stone wall -- ACROSS the floor, filling room after room. The Ancients all stare, deeply moved. Maharet turns to them.
+93) 16) dialog: And what about Lestat?
+93) 18) dialog: I don't believe that.
+99) 10) dialog: Lestat!
+99) 12) dialog: What has she done to you?
+99) 22) text: She casts a dangerous eye towards Jesse. Maharet instinctively moves forward to protect her.
+99) 39) text: He draws closer. Jesse stares, mortified. Akasha and Lestat's mouths almost meet when Akasha pulls away. Akasha slowly turns to Jesse.
+99) 46) text: Maharet steps between Lestat and Jesse.
+99) 52) text: Maharet struggles but Akasha is too strong.     Jesse gaz at Lestat. Then steps forward.
+99) 53) dialog: It's all right, Maharet.
+99) 54) text: Maharet stops, standing fixed with the sound of Jesse's newly strong and calm voice. Jesse looks to Lestat, straight into his dark irises, her gaze absolutely unwavering.
+99) 55) dialog: It's what I want.   I am ready.
+99) 56) text: She reaches up, pulls aside her shirt, revealing the top of her breast. A thin, red scar remains from where she cut herself with the silver stick from the Chinese barrette. Lestat gazes at her, begins to advance. Jesse keeps her gaze steady into Lestat's, risking everything.
+99) 89) text: The Ancients let out relieved hisses. But Lestat is only concerned about Jesse. He rushes to her, picks up her lifeless head, takes a dagger from the floor and slices his wrist. He brings the open vein to Jesse's mouth, but she's not moving. Lestat bends down to her ear and whispers.
+99) 91) text: Jesse's lips slightly move and quiver as she tastes the blood. She begins to take the blood inside her and then finally truly drink and revive as Lestat cradles her. She pulls away, gasping. Lestat looks into her eyes.
+99) 92) dialog: I thought I'd lost you...
+99) 94) text: Her lips move to his wrist. Lestat strokes her hair, soothes her. Jesse gasps as pain courses through her. Lestat holds her close. She looks up at him, their eyes are locked together.
+99) 96) text: He holds her tight in his arms. All the Ancients gaze at Lestat, now understanding what he did. Slowly Jesse rises, gazes at Lestat, her face pale, her eyes glowing. Then Jesse turns, stares at Maharet. All the Ancients turn, follow her gaze. A whiteness is spreading across Maharet's face and skin. Maharet stares at her arms and legs, slowly turning to stone. Jesse goes to her.
+99) 97) dialog: Maharet...
+99) 102) text: Maharet reaches out, embraces Jesse. Then Maharet sinks into a chair and freezes into a statue.
+99) 104) text: The Ancients slowly bow to Maharet. Jesse slowly slips from Maharet's arms. Goes into Lestat's arms.
+99) 105) dialog: Is she... dead?
+99) 107) text: Jesse and Lestat hold onto each other, gazing at Maharet's face. On Maharet's lips is the most content of smiles. Jesse wipes away a tear. Marius turns to Lestat.    Their eyes meet.     Then Mari bows at Maharet's feet.
+102) 3) dialog: Good question...
+102) 6) dialog: (smiles)
+102) 10) dialog: I told you I'd return with my findings. Here they are. David stares, shaken.
+102) 14) dialog: Please don't be sad. I'm where I belong. I'm happy now.
+102) 19) dialog: (smiles) What's it like?
+102) 21) dialog: Do you want to find out?
+102) 23) dialog: Well, if you ever should change your mind... Oh. I have a present for you. From an old friend.
+102) 25) dialog: And Marius sent a message. You were right. He doesn't go to the Dorchester. But he's gonna be at Claridge's later...
+102) 27) dialog: Well, I guess this is good-bye.
+102) 30) text: Talbot looks at Jesse, once his spiritual daughter.
+102) 35) dialog: Good-bye, dear friend.
+103) 0) text: Jesse and Lestat come out of the Talamascan headquarters. He takes her hand and together they float up over the wall and out to the street. Lestat pulls Jesse into his arms. They kiss. It's long, deep, romantic. They pull away, gaze sweetly, lovingly, into each other's eyes... And exchange happy, fanged smiles...
+103) 2) text: She smiles, nods. Lestat and Jesse take each other's hands, move into the crowd, zipping through the streets at that STRANGE preternatural SPEED... ... and vanish into the night.

@@ -1,0 +1,57 @@
+23) 0) text: A light blinks on a console. A VOGON CAPTAIN turns a dial, listens through his head set. He punches a few buttons. COMMANDER KWALTZ (green and walrusy like Jeltz) appears on the large monitor, sitting in his chair at Command Headquarters.
+23) 4) dialog: Hold your position, captain, until clearance is granted.
+24) 0) text: Kwaltz sits at the end of a concrete war room table.
+24) 1) dialog: Get me the vice-president.
+24) 2) text: Approximately 15 Vogons sit around the table murmuring sporadically. A VOGON MESSENGER runs up, holding papers. Kwaltz takes them, signs, signs the next page -- and the next. He hands them back to the messengers (who has been jogging in place the whole time). He runs off. The VOGON CAPTAIN appears on the large screen before him.
+24) 3) dialog: Hyperspace permission granted, Captain.
+27) 68) text: An IMAGE APPEARS on the ship's monitor - Vice President, QUESTULAR RONTOK, flanked by Vogon Commander KWALTZ {at H.Q.). He looks reluctant. He has to say this...
+28) 0) text: Questular and Kwaltz watch their front screen as the Heart of Gold blasts into hyperspace.
+28) 3) dialog: Did they have proper hyperspace authorization?
+28) 5) dialog: Add that to their list of offences! (scoffing) Blatant disregard for protocol.
+28) 7) dialog: Rules are rules, Mr. Vice President.     And they are made to be followed.
+28) 10) dialog: The provisions are clear. Under subsection 37a these are the forces we deploy to protect the president in the case of an attempted or actual kidnapping-
+28) 12) dialog: -- and these are the forces we deploy to apprehend any intentional or actual kidnapper.
+28) 15) dialog: Hence...
+28) 18) dialog: I don't have ideas Mr. Vice President.     I just do what I do.
+28) 19) text: A VOGON MESSENGER runs up holding papers. Kwaltz takes them, signs one in two places, initials others, lifts the top sheet, removes the pink copy. Folds it.
+38) 2) text: Kwaltz and Questular appear on the monitor.
+38) 3) dialog: Well, Captain...?
+38) 7) dialog: I can see that.     WHERE ARE THEY?
+38) 8) text: The captain shrugs.    Kwaltz heaves a walrusy sigh. 5 HHGG 3rd Revised Draft 8/8/03
+40) 2) dialog: That is not a request to which I can respond, captain. Should I pursue what? Are you requesting hyperspace clearance so that you may pursue the fugitive?
+40) 4) dialog: Then you must say that, captain -- in request form.
+40) 6) dialog: Thank you. Request acknowledged.   Await response.
+41) 1) dialog: (into microphone) Bring me the request to pursue fugitive forms.
+41) 2) text: The war room is silent. We hear the sound of running above. The footsteps hurry all the way around, we hear a door open, running up more steps, along the corridor until and finally an exhausted Vogon Messenger bursts through the door holding a blue form. Questular shakes his head in disbelief as Kwaltz signs the request form.
+41) 6) dialog: According to Subsection 94b, paragraph 2, you're not authorized to make such an order.
+41) 8) dialog: Then act like a president, and do nothing.
+41) 9) text: Kwaltz continues to fill out the forms. Questular grabs a clump of his hair -- and pulls it out.
+48) 0) text: Kwaltz and Questular watch the action on the front screen.
+48) 1) dialog: Fire upon the kidnapper!
+48) 8) dialog: Cease fire!
+48) 23) text: (63 cont)KWALTZ -- looks confused.
+48) 24) dialog: Could that actually kill him?
+48) 30) text: Reveal that the female fans are actually a multi-headed, two legged GROUPIE. (63 cont) ON QUESTULAR AND KWALTZ--
+48) 31) dialog: Get her!
+48) 43) dialog: Bring her to Vogsphere for processing, Captain.
+48) 46) dialog: My instructions were clear...
+48) 48) dialog: "Apprehend the kidnapper, rescue the president." We do them in that order. And until the kidnapper is properly processed, she isn't officially apprehended, now is she, Mr. Vice- President?
+56) 0) text: Trillian is seated beside a desk while a VOGON OFFICER asks her questions. Kwaltz and Questular stand nearby.
+57) 6) text: Kwaltz now steps forward and extends a piece of paper.
+57) 7) dialog: These are the orders.
+57) 11) dialog: Now -- according to Section 8, sub-section 34 dash A, the punishment for kidnapping is a recitation of the classic poem, "Ode to the Removal of Your Left Kidney." Unless -- said kidnapping is of the President, in which case you are to be fed to the Ravenous Bugblatter Beast of Traal. We thank you for your cooperation.
+57) 40) text: (72 cont) BACK WITH TRILLIAN -- As she braces herself to be eaten by the monster. Suddenly, a couple of VOGON GUARDS enter and hand Kwaltz a blue piece of paper. He reviews it, then signs it.
+57) 41) dialog: You're free to go.    Release her.
+57) 44) text: But the Guard is already escorting Trillian out of the room. Kwaltz is completing paperwork.
+57) 46) text: Kwaltz holds up a walrusy hand, one finger raised, silencing Questular while he continues. Questular sighs. We hear the Bugblatter beast weeping as the doors are closed on him.
+59) 0) text: Kwaltz finishes his paperwork, stacks it neatly, holds it up for Questular to see.
+59) 1) dialog: Cancellation of the Rescue of the President.
+59) 3) dialog: Now. {with menace) Get me the Apprehension of the President form.
+60) 9) text: A paddle shoots up and slaps him in the face. (77 cont) EXT. PRISONER PROCESSING BLDG. - MOMENTS LATER Kwaltz and Questular, flanked by the Vogon police force, step out of the building just in time to see... 78       ...THE GLASS HEART OF GOLD POD soaring overhead. They all watch as it disappears from sight.
+60) 10) dialog: The President tests my patience. This time, I shall pursue him myself. Ready my ship!
+61) 0) text: Kwaltz sits in a desk, filling out a form. Questular holds two clumps of hair in each fist.
+61) 2) dialog: My license is expired, Mr. Vice President. I can't fly with an expired license -- it's against the law.
+72) 0) text: Kwaltz sits in his chair as they press forward. The GHOSTLY IMAGE of the recorded message appears.
+72) 2) dialog: Turn that off.
+79) 113) dialog: Mr. President!     We are here for your protection!
+79) 142) text: They turn their weapons on themselves and... ANGLE ON FORD, ZAPHOD, ARTHUR AND TRILLIAN -- turning their heads as we hear the weapons fire. They look up. 108a     All the Vogon Police lie motionless on the groun including Kwaltz. Questular is the last man standing. He marches toward them, patches of clump baldness on his head. He drops to his knees.

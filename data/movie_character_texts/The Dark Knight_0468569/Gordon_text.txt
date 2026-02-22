@@ -1,0 +1,264 @@
+21) 0) text: Ramirez comes out onto the roof.  LIEUTENANT GORDON sits a SEARCHLIGHT.  She hands Gordon a cup of coffee.
+21) 2) dialog: I thought you had to go look after  your mother, detective.
+21) 4) dialog: I'm sorry.
+21) 6) text: Gordon gets up.  Looks into the sky at the bat-signal.
+21) 7) dialog: Often doesn't.  But I like reminding  everybody that he's out there.
+21) 9) dialog: Hopefully... Because he's busy.
+28) 0) text: LIEUTENANT GORDON ducks the barrage of SHOUTED QUESTIONS  from press and picks his way into the lobby of the bank.
+29) 0) text: FORENSIC SPECIALISTS work the room.  Ramirez hands Gordon PRINTS- indicates the surveillance cameras.
+29) 2) text: Gordon looks at the grainy blow-up of THE JOKER'S FACE:  sweating clown makeup plastered thick around the mouth.
+29) 5) dialog: Put this out, by morning we can put  a big top over central holding and  sell tickets.  What's he hiding under  that makeup?
+29) 6) text: Gordon approaches a FORENSIC PHOTOGRAPHER shooting Grumpy body.  Gordon crouches to look at his clown mask.  Batman steps from the shadows.  Gordon nods at Ramirez.
+29) 8) text: The Forensic team and Ramirez leave.  Gordon hands Batman the blow-up of the Joker.
+29) 10) dialog: Another bunch of small timers.
+29) 11) text: Batman pulls a DEVICE from his belt- moves to the bundles cash scattered near the clown's body.  The device PINGS. Batman picks up a BUNDLE.  Hands it to Gordon.
+29) 13) dialog: My detectives have been making drug  buys with them for weeks.  This bank  was another drop for the mob.  That  makes five banks- we've found the  bulk of their dirty cash.
+29) 15) text: Gordon waves the photo.
+29) 16) dialog: What about this Joker guy?
+29) 18) dialog: We'll have to hit all banks  simultaneously.  SWAT teams, backup.
+29) 19) text: Gordon holds up the bundle of banknotes.
+29) 22) dialog: When the new D.A. gets wind of this,  he'll want in.
+29) 24) dialog: Be hard to keep him out.
+29) 25) text: Gordon bags the cash.
+29) 26) dialog: I hear he's as stubborn as you.
+37) 0) text: Gordon stands as Dent enters.  The two men shake.
+37) 1) dialog: Word is you've got a hell of a right  cross.  Shame Sal's going to walk.
+37) 5) dialog: We liaise with various agencies-
+37) 7) dialog: Official policy is to arrest the  vigilante known as Batman on sight.
+37) 11) dialog: If you have any concerns about...   malfunctioning equipment... take  them up with maintenance, counselor.
+37) 14) dialog: In this town, the fewer people know  something, the safer the operation.
+37) 16) dialog: If I didn't work with cops you'd  investigated while you were making  your name at I.A.- I'd be working  alone.  I don't get political points  for being an idealist- I have to do  the best I can with what I have.
+37) 17) text: Dent looks at Gordon.  Considering how to proceed.
+37) 19) dialog: I can give you the names of the banks.
+37) 21) dialog: (rises) You don't have to sell me, Dent.  We  all know you're Gotham's white knight.
+37) 25) text: Gordon smiles.
+46) 0) text: Gordon sits in a SWAT van outside a bank.  Stephens is ou another.  Ramirez a third... SWAT teams CHECK WEAPONS and prepare move...
+48) 0) text: Gordon hurries up the steps to a bank.  SWAT teams rush t various banks.
+50) 0) text: Gordon stands in an almost empty bank vault.  Furious.
+52) 2) text: Gordon BURSTS onto the rooftop, weapon drawn.  Sees Dent.
+52) 4) dialog: Yeah?  All that was left in the vaults  were the marked bills- they knew we  were coming!  As soon as your office  got involved, there's a leak-
+52) 6) dialog: Don't try to cloud the fact that  clearly Maroni's got people in your  office, Dent.
+52) 13) dialog: We're going after the mob's life  savings.  Things will get ugly.
+52) 15) text: Batman is gone.  Dent looks around, startled.  Gordon smi
+52) 16) dialog: He does that.
+80) 0) text: Gordon is looking through case files.  Ramirez walks in.
+81) 0) text: Gordon follows Ramirez through a CROWD of excited cops. the ground, trussed like a chicken- Lau.  A sign taped to his chest: 'Please deliver to Lieutenant Gordon.'
+83) 0) text: Dent hits a buzzer.  Turns to Gordon.
+83) 2) dialog: Charge them with what?
+85) 0) text: Dent and Gordon watch Lau.
+85) 1) dialog: He can't go to County.  I'll keep  him here in the holding cells.
+85) 3) dialog: You trust them over at County?
+85) 5) dialog: Lau stays.
+85) 7) dialog: I am, counselor.
+87) 8) text: Maroni shakes his head.  Spots Gordon walking over dangli a pair of handcuffs.  Nods at the TV.
+87) 9) dialog: Our boy looks good on the tube.
+87) 11) dialog: Don't worry, they're coming, too.
+87) 12) text: Gordon points out the window to a PRISON BUS.
+90) 0) text: The MAYOR, COMMISSIONER LOEB, and Gordon look up as Dent  enters.
+90) 6) dialog: Forty-nine, sir.
+90) 7) text: Gordon nods at Dent, approving.  Dent grins back.
+90) 12) text: The Mayor waves Gordon and Loeb out.
+92) 0) text: "Batman" is lowered from the flagpole.  The same fake Bat we saw earlier.  Pinned to his chest by a KNIFE, a PLAYIN CARD.  A Joker.  Gordon moves closer to the body.  The ca has writing on it: WILL THE REAL BATMAN PLEASE STAND UP?
+97) 0) text: Ramirez catches up to Gordon, holding paperwork.
+97) 2) dialog: Any matches?
+97) 4) text: Gordon STOPS.  Turns to face her.
+97) 8) dialog: The Joker's telling us who he's  targeting- get a unit to Surrillo's  house, tell Wuertz to find Dent- get  them both into protective custody.   Where's the Commissioner?
+97) 10) dialog: Seal the building.  No one in or out  till I get there.
+100) 0) text: Gordon enters through a tight police presence at the door
+101) 0) text: Gordon enters to find Loeb, flanked by armed cops.
+101) 2) text: Gordon checks the window.  Turns to his men.
+101) 3) dialog: We're secure.  I want a floor-by- floor search of the entire building. (turns to Loeb) I'm sorry, sir.  We believe the Joker  has made a threat against your life.
+103) 2) dialog: Sir, the Joker card had a trace of  your D.N.A. on it-
+103) 3) text: A bang at the door.  Gordon pulls his weapon, then opens
+103) 6) text: Gordon looks at Stephens's list.
+103) 7) dialog: Somebody with access to your house  or office must've lifted a tissue or  a glass...
+103) 8) text: Gordon, realizing, spins around-
+103) 9) dialog: Wait-
+103) 11) dialog: Get a medic!
+116) 0) text: STEPHENS is talking to Gordon, subdued.
+116) 2) dialog: As long as they don't get to Lau,  we've cut off their funds.
+116) 5) dialog: What about Dent?
+116) 9) text: Gordon looks at Dent.  Impressed.
+120) 0) text: An UNMARKED and a SQUAD CAR screech to a halt.  Gordon an Ramirez get out, lead two UNIFORMS into the building.
+121) 0) text: The door SMASHES OPEN, Gordon- gun drawn- takes in the sc TWO DEAD MEN sitting at the kitchen table.  They each hav HAND OF CARDS, as if in the middle of a game.  ALL JOKERS
+121) 4) dialog: (checks licenses) Patrick Harvey.  Richard Dent...
+121) 8) dialog: Ramirez.
+121) 10) dialog: That's brick- you're gonna try and  take ballistics off a shattered  bullet?
+121) 12) text: Ramirez looks at Gordon.  Is he serious?  Gordon points-
+121) 13) dialog: Whatever you're gonna do, do it fast,  'cos we know his next target...
+126) 2) text: On the buildings above, POLICE SNIPERS scan the crowd. Gordon keys his radio-
+126) 3) dialog: How's it looking up top?
+126) 5) text: Gordon looks up at the myriad buildings overlooking the  podium.
+129) 0) text: A SEA OF POLICE fills the Avenue.  In the center, three  grieving families and an HONOR GUARD.  The Mayor at the  podium.  Gordon behind.  Dent is seated with Rachel.
+131) 0) text: Gordon scans the crowd.  The Mayor wraps up- the Honor Gu steps forward, raises weapons...
+134) 0) text: THE HONOR GUARD TURN THEIR WEAPONS ON THE MAYOR.  One SMI flesh-colored makeup over his scars.  THE JOKER. Gordon LEAPS FORWARD- they FIRE- GORDON TAKES SHOTS TO TH BACK as he SLAMS the Mayor to the ground-
+137) 0) text: PANDEMONIUM erupts-One of the honor guard is TAGGED IN TH LEG- GOES DOWN.  The others MELT into the CHAOS. On the podium, Stephens rolls Gordon over... he is not mo
+140) 0) text: Barbara Gordon stands in the doorway, scared.  Stephens a a UNIFORMED OFFICER stand in front of her.
+140) 2) text: James Gordon pushes past his mother to look at Stephens. Barbara tries to push him back inside.
+211) 5) text: The gun is COCKED.  The Joker drops the knife.  Sits.  Lo back.  Behind them is the armored car.  The man standing  over him is the Driver.  He pulls off his helmet. It's JIM GORDON.  Back from the dead.
+211) 8) dialog: We got you, you son of a bitch.
+212) 0) text: Dent looks up as the door swings open to reveal Gordon.   Dent GRINS.
+212) 2) dialog: We got him, Harvey.
+213) 0) text: A small army of cops have sealed off the roadway.  Gordon pulls away in the squad car containing the Joker. REPORTERS clamor for an interview with Dent, who is being helped out of the van by the SWATS.  Ramirez pushes throu the pack, shoving reporters aside.
+214) 1) dialog: Stand away!  All of you.  I don't  want anything for his mob lawyer to  use, understand?  Handle this guy  like he's made of glass.
+214) 2) text: The Mayor walks in.  Shakes Gordon's hand.
+214) 6) dialog: I couldn't chance my family's safety.
+214) 9) dialog: Nothing.  No matches on prints, DNA,  dental.  Clothing is custom, no  labels.  Nothing in his pockets but  knives and lint.  No name, no other  alias... nothing.
+215) 0) text: Gordon rings the bell.  Barbara answers it, dressed in bl
+215) 1) dialog: Couldn't tell you.  I couldn't risk-
+215) 2) text: She SLAPS Gordon.  He grabs her, holds her tight as she s
+217) 0) text: Gordon crouches by his son's beside.  He reaches out to t James Jr's cheek.  James's eyes open.  Staring at his dad if still dreaming.
+217) 2) text: Gordon looks at his son.  A little pride seeps in.
+217) 3) dialog: Actually, this time I saved him.
+217) 4) text: Gordon's phone rings-
+218) 0) text: Gordon PUSHES through the swarm of detectives crowded int the observation room.  The Joker can be seen through the  glass, as well as on a large MONITOR.  Sitting there.  Ca
+218) 1) dialog: Has he said anything, yet?
+218) 2) text: Ramirez shakes her head.  Gordon PUSHES through a door...
+219) 0) text: The Joker, in near darkness.  Gordon walks in.  Sits.
+219) 2) dialog: Harvey Dent never made it home.
+219) 4) dialog: What have you done with him?
+219) 10) text: Gordon can't help glancing at the mounted CAMERA.
+219) 12) dialog: Where is he?
+219) 14) dialog: What difference does that make?
+219) 16) text: Gordon stands.  Moves to the Joker.  Undoes his handcuffs
+219) 17) dialog: If we're going to play games, I'm  going to need a cup of coffee.
+219) 19) text: Gordon pauses, hand on the doorknob.
+219) 20) dialog: Not exactly.
+219) 21) text: Gordon steps out.  The overhead lights COME ON.  BATMAN I BEHIND HIM.  The Joker BLINKS in the HARSH WHITE LIGHT. WHAM!  The Joker's face HITS the table- comes up for air- CRACK!  CRACK!  To the head.  Batman is in front of him. The Joker stares, fascinated.  Bleeding.
+220) 0) text: One of the Detectives moves for the door.  Gordon stops h
+220) 1) dialog: He's in control.
+222) 0) text: Gordon MOVES for the door-
+225) 0) text: Batman RACES past Gordon.
+225) 1) dialog: Which one are you-
+225) 3) text: Gordon looks back- the Joker is bloody, but grinning.
+228) 0) text: Gordon and his men SCRAMBLE into their cars...
+235) 0) text: Gridlock.  Gordon SWERVES onto the sidewalk.  People SCAT
+244) 0) text: Cars PULL UP- Gordon gets out, carrying a fire ax-
+247) 0) text: Gordon, axe in hand, RUNS towards the entrance-
+249) 0) text: The BLAST HURLS Gordon backward onto the hood of his car-
+251) 0) text: Gordon picks himself up.  The warehouse is an inferno.  H heads for it anyway.  Five of his men have to RESTRAIN HI
+255) 0) text: Gordon watches the fire.  DEBRIS blows across the asphalt Gordon picks up two pieces: SINGED JOKER CARDS.  In place the Joker's face is a PHOTO OF LAU.  A POLICE SERGEANT  approaches.
+255) 2) dialog: With Lau? (the Cop nods) The Joker planned to be caught.  He  wanted me to lock him up in M.C.U..
+261) 0) text: Gordon surveys the wreckage of MCU.  The bodies.
+270) 0) text: Gordon ENTERS.  Dent STARES to one side.  He looks normal
+270) 1) dialog: I'm sorry about Rachel. (nothing) The Doctor says you're in agonizing  pain but you won't accept medication.   That you're refusing skin grafts-
+270) 5) dialog: Harvey, I can't-
+270) 7) text: Dent's anger makes Gordon flinch.  He looks away.  Ashame
+270) 8) dialog: (small) Two-face.  Harvey two-face.
+270) 9) text: Dent turns to face Gordon- the left side of Dent's face i DESTROYED- skin blackened and shriveled.  Molars visible. The eye a ball and socket.  Dent manages a small smile wi the good side of his face.
+270) 11) dialog: I... I know you tried to warn me.   I'm sorry.  Wuertz picked you up-  was he working for them? (nothing) Do you know who picked up Rachel? (nothing) Harvey, I need to know which of my  men I can trust.
+270) 12) text: Dent looks at Gordon.  Cold.
+270) 14) dialog: I'm sorry, Harvey.
+270) 16) text: Gordon takes a last look at Dent.  Then leaves.
+271) 0) text: Gordon steps out.  Someone is there.  Maroni.  On crutche Gordon stares at him.  Cold.  Maroni shifts, awkward.
+271) 2) dialog: You should have thought of that before  you let the clown out of the box.
+275) 0) text: Gordon and his men are gearing up to take down the Joker. Detective turns up the TV in the bullpen-
+275) 6) text: The line rings off.  Engel is speechless. Gordon turns to the uniform COPS.
+275) 7) dialog: Call in every officer- tell them to  head to their nearest hospital and  start evac and search.  Call the  transit authority, school board,  prisons- get every available bus  down to a hospital- the priority is  Gotham General- wheel everybody out  of that place right now- my hunch is  that's where the bomb is.
+275) 9) dialog: That's where Harvey Dent is.
+275) 10) text: The Uniforms SPRINT off.  Gordon turns to his Detectives.
+275) 13) dialog: To get Reese.
+279) 0) text: Gordon and his men escort Reese out of the elevator- Enge follows with a camera crew.  As they approach the glass d Gordon looks out at an angry crowd.
+279) 2) text: Gordon SPOTS an OLD MAN raising a PISTOL- Gordon THROWS R to the ground as SHOTS SHATTER the laminated glass of the lobby.  The Crowd SURGES in all directions-
+279) 3) dialog: Get the cars around back!
+279) 4) text: Gordon hauls Reese to the stairwell.
+282) 0) text: Gordon pulls the shaken Reese down the stairs...
+283) 0) text: Gordon throws Reese in the back.  Smiles.
+283) 1) dialog: Well, maybe Batman will save you.
+286) 0) text: Gordon's phone BEEPS.  He looks at a text: WATCH OUT.  CO WITH RELATIVES IN GOTHAM HOSPITALS- BURKE, RAMIREZ, TILL.
+289) 0) text: Gordon is reading his phone: ERIKSON, BERG.  Gordon looks sharply.  Considers the uniformed cop nervously fingering his shotgun.
+289) 1) dialog: Berg, isn't it?
+289) 4) dialog: You okay, son?
+293) 0) text: Gordon watches Berg, mentally tracing the trajectory of h shotgun barrel as Berg fiddles with his gun.  Gordon star trying to subtly unholster his own weapon.
+293) 1) dialog: I'm gonna need your weapon, son.
+293) 2) text: Berg looks at Gordon.
+295) 0) text: Reese looks from Berg to Gordon.  Berg looks at Gordon,  trembling, the barrel of his gun inching lower in the car
+295) 2) dialog: Yeah.  That would be why.
+301) 0) text: As the van JOLTS with the impact Gordon LEAPS forward, PU UP Berg's shotgun barrel, which FIRES into the roof- Gord SMASHES Berg on the head with his sidearm.
+302) 0) text: Gordon's men pull the pickup driver from his cab- Gordon  crouches down to the Lamborghini wreck to help pull Wayne from the car.  Gordon recognizes him as he pulls him free
+302) 1) dialog: You okay, Mr. Wayne?
+302) 4) dialog: That was a brave thing, you did.
+302) 6) dialog: You weren't protecting the van?
+302) 9) text: Reese locks eyes with Wayne.  Nods.  Gordon sizes up Bruc Wayne and his crushed sports car.
+302) 10) dialog: You don't watch a whole lot of news,  do you, Mr. Wayne?
+302) 12) dialog: Not today, I wouldn't.
+305) 0) text: Gordon hears the EXPLOSION.
+305) 1) dialog: Gotham general... (grabs his phone) Did you get Dent out?
+310) 0) text: Gordon, manic, surveys the scene with a Cop-
+310) 1) dialog: You must know how many were inside- you've got patient lists, roll calls-
+310) 3) dialog: Yeah?  What's your guess about where  Harvey Dent is?
+310) 5) dialog: Keep looking.  Keep it to yourself.
+314) 0) text: Gordon watches a screen.  Grave.
+318) 0) text: Gordon briefs the Mayor.
+318) 1) dialog: My officers are going over every  inch of the tunnels and bridges, but  with the Joker's threat they're not  and option.
+318) 3) dialog: Backed up for hours.  Which leaves  the ferries with thirty thousand  waiting to board.  Plus, corrections  are at capacity, so I want to use a  ferry to take some prisoners off the  island.
+318) 5) dialog: You should be- they're the people  you least want to be stuck with in  an emergency.  Whatever the Joker's  planning, it's a good bet that  Harvey's prisoners might be involved.   I want 'em out of here.
+332) 0) text: Barbara Gordon answers the phone.
+337) 0) text: Gordon looks out at the ferries.  His phone rings.
+342) 0) text: Gordon and his SWAT team leaders set up SNIPER and SCOPE  positions on the balustrade.
+344) 0) text: Gordon looks at the SWAT LEADER.
+344) 1) dialog: Then we have a hostage situation.
+344) 5) dialog: It's a shooting gallery.  Why'd he  choose a spot with such big windows?
+344) 13) dialog: (barely hesitates) Let's do it.
+344) 15) dialog: What's simple, is that every second  we don't take him, those people on  the ferries get closer to blowing  each other up!
+344) 17) dialog: Then he'll blow them both up!  There's  no time- we have to go in now-
+344) 19) dialog: That's why we can't wait- we can't  play his games-
+344) 22) dialog: No.  There's no time.  We have clear  shots.
+344) 23) text: Gordon pulls his gun.  Batman turns back.  The SWATS watc
+344) 24) dialog: Dent's in there with them.  We have  to save Dent!  I have to save Dent! (to SWAT Leader) Get ready-
+344) 25) text: Batman LEAPS from the building, OPENS his cape- SOARS acr the gulf between the two buildings- Gordon puts his weapo away.  Curses softly.  Turns to the SWAT leader.
+344) 28) dialog: Two minutes.  Then you breach.
+353) 0) text: Gordon's phone rings.
+353) 3) dialog: Hello?  Barbara, calm down-
+353) 5) dialog: Harvey?  What the hell's going on?
+353) 7) text: Gordon looks across at the Prewitt penthouse...
+353) 8) dialog: Where are you?  Where's my family?!  
+353) 10) text: Click.  Gordon looks at the SWAT leader.  Pale.
+353) 12) text: Gordon moves to the door off the roof.
+377) 0) text: Gordon gets out of his car, gun drawn.  Makes his way int the blackened wreck of a building...
+378) 0) text: Gordon peers into the darkness.
+378) 1) dialog: Dent?
+378) 2) text: No reply.  Gordon makes his way deeper.  Up the stairs.
+379) 0) text: Gordon spots Barbara and their two children huddled toget He moves towards them- Barbara is shaking her head- WHAM!  Dent cracks Gordon over the head with his gun.  De disarms Gordon, rolls him over.  He turns to look at the  ENORMOUS hole in the floor.  From this side, in the moonl Dent looks completely normal.
+379) 2) dialog: I know.  I was here.  Trying to save  her.
+379) 5) dialog: I couldn't.
+379) 10) dialog: I was trying to fight the mob-
+379) 11) text: Dent MOVES towards Gordon.
+379) 14) dialog: Harvey.  Put the gun down.  You're  not going to hurt my family.
+379) 16) dialog: Put the gun down.
+379) 17) text: Dent moves the gun to point at Gordon's little girl.
+379) 18) dialog: Please, Harvey...
+379) 19) text: Dent moves to James Gordon.  Brushes the hair out of the  boy's eyes with the muzzle.  Gordon SNAPS.
+379) 20) dialog: Goddamit.  Stop pointing that gun at  my family, Dent.
+379) 25) text: Dent walks James past Gordon to the edge of the burnt flo He touches the raw wood at the edge of the floor.
+379) 26) dialog: I'm sorry, Harvey.  For everything.   But, please.  Please don't hurt him.
+381) 0) text: Dent looks at Gordon, FURIOUS.
+381) 2) dialog: All they know is there's a situation.   They don't know who, or what.  They're  just creating a perimeter.
+381) 5) dialog: No one needs to escape, because no  one's done anything wrong.  And nobody  has to.
+381) 34) text: He points the gun at his own head.  FLIPS the coin.  HEAD He looks a little disappointed. Finally, he points the gun back at Gordon's son.
+381) 36) dialog: You're right, Harvey.  Rachel's death Was my fault.  But punish me-
+381) 38) text: Gordon looks up.  Pained.  Locks eyes with his son.
+381) 39) dialog: It's going to be all right, son.
+383) 0) text: Gordon races down the stairs.  Rushes over to Batman.
+383) 2) text: Gordon crouches at Batman's side.  The Batman GRASPS Gord arm.  STAGGERS to his feet.
+383) 3) dialog: Thank-you.
+383) 5) dialog: Yes, I do.
+383) 6) text: Gordon and Batman stare down at Dent's body.  Grave.
+383) 7) dialog: The Joker won.
+383) 8) text: Gordon stares down at SCARRED SIDE of Harvey Dent.
+383) 9) dialog: Harvey's prosecution, everything he  fought for, everything Rachel died  for.  Undone.  Whatever chance Gotham  had of fixing itself... whatever  chance you gave us of fixing our  city... dies with Harvey's reputation.
+383) 13) dialog: We bet it all on him.  The Joker  took the best of us and tore him  down.  People will lose all hope.
+383) 15) dialog: (incredulous) Five dead?  Two of them cops?  We  can't sweep that under-
+383) 19) text: Gently, he turns Dent's head so the good side of his face up.  Gordon looks from Dent's face to Batman.  Understand
+383) 20) dialog: You?  You can't-
+383) 22) text: Batman stands.  Faces Gordon.
+383) 24) dialog: (angry) No, you can't!  You're not!
+383) 25) text: Batman hands Gordon his police radio.
+383) 31) dialog: ...a hero.  Not the hero we deserved-  the hero we needed.  Nothing less  than a knight.  Shining...
+383) 32) dialog: They'll hunt you.
+383) 49) text: Gordon stares after Batman.
+383) 50) dialog: Because we have to chase him...
+385) 2) text: Gordon stares after the Batman.  The sound of the dogs  becoming louder and more ferocious.
+385) 4) dialog: Because...
+386) 1) dialog: ...he's the hero Gotham deserves...  but not the one it needs right now.  So we'll hunt him, because he can  take it.  Because he's not our hero...
+386) 3) dialog: ...he's a silent guardian, a watchful  protector... a dark knight.

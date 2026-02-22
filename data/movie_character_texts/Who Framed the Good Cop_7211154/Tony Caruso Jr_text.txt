@@ -1,0 +1,217 @@
+0) 6) dialog: He probably cheated.
+0) 10) dialog: I'm gonna give it a minute.
+0) 12) dialog: If you told me you were lying, I wouldn't believe you.
+0) 16) dialog: Badges.
+0) 18) dialog: If you were there, you would know.
+0) 20) dialog: You're not supposed to have contact with anyone in the department.
+0) 22) dialog: That's a condition of your parole-
+0) 24) dialog: That's contact! Conversation is contact! Especially with Chet Finch. He was on your crew, for God's sake.
+0) 26) dialog: Exactly. I'm a cop.
+1) 0) text: Tony's bedroom. As meticulous and orderly as he is. We PAN THE WALLS. PHOTOS of EVAN, his 8 year old son.. bo on Forensics, Abnormal Psychology.. medals and citations. And a makeshift case board, dedicated to his mother. Ther are old newspaper articles: HIT AND RUN KILLS MOTHER OF T And DIAGRAMS and PHOTOS of the corner in Queens where she killed. The ALARM CLICKS ON. It plays his favorite music, BOSSA NOVA. 5. Tony stirs. He opens a drawer in his nightstand, and remo his SERVICE REVOLVER, a Glock 19.
+1) 3) dialog: We don't need a new TV.
+1) 5) dialog: When's your interview?
+1) 9) dialog: I'm just saying. Gabby went to a lot of trouble-
+1) 11) dialog: (embarrassed) Gabriel. Inspector Vasquez.
+1) 13) dialog: I'm not involved with your P.O.
+1) 15) dialog: Do you have a shirt?
+1) 17) dialog: With a collar? A real shirt?
+1) 19) dialog: Exactly. During this, Tony fiddles with a handheld BALL AND STRIKE COUNTER. CLICK CLICK CLICK.
+1) 20) text: For Evan's little league game. They asked me to umpire. Four o'clock. And you're coming. (Big Tony winces) Dad. You're coming. You haven't been to a game all year.
+1) 22) dialog: You don't have to say "lesbian wife". You can just say wife. During this, Tony starts to use a NAPKIN. Then he puts it back, and tears off a PAPER TOWEL instead.
+1) 24) dialog: I'm good.
+1) 26) dialog: That doesn't make it right. If you break one rule, they all break.
+1) 28) dialog: You were married to her. But I listened to her. Big Tony collects the "stolen" napkins.
+1) 30) text: Okay. You come with me. We'll go back to Wendys. We'll find the Manager. "Here are the ten napkins you've been looking for. I confess! It was me!" (waving a PACKET) Oh wait. Here's a Splenda from the I-Hop in Fairfield. I'11 mail it to them. During this, Tony's CELL PHONE RINGS.
+1) 31) dialog: (answering PHONE) Caruso. Yeah I'm catching. (listens) I'm leaving now.
+1) 33) dialog: Sgt. Loomis?
+1) 35) dialog: Did you lose your razor, Officer?
+1) 37) dialog: That's an infraction.
+1) 45) dialog: Hey Cowboy. What are you doing?
+1) 47) dialog: What if somebody saw you? They'd pull your badge.
+1) 49) dialog: Here's a question. When you do finally retire, how will anyone know? 10.
+2) 0) text: Tony & Loomis walk up a hill, toward the body. Loomis is of shape. He falls behind.
+2) 3) dialog: (indicates Loomis) Well, we know HE didn't do it. (resuming, to Cheadle) Any I.D.?
+2) 7) dialog: No. Let's wait for the good doctor.
+2) 9) dialog: I'm guessing. Two days.
+2) 11) dialog: Maybe. This isn't the primary. He was killed somewhere else. (examines the shoes) No scuff marks. He wasn't dragged, he was carried. Who found him? Nearby: the DIRT BIKERS are being questioned.
+2) 13) dialog: Get a statement. Separately. Separate cars. And stay away from that bush.
+2) 15) dialog: Yeah. Poison sumac.
+2) 17) dialog: They parked down the hill. They carried him 35, maybe 40 yards. Why'd they leave him here, out in the open? Another ten feet they're in the woods.
+2) 19) dialog: Maybe. (beat) Maybe they wanted him found. 12.
+2) 52) dialog: All right. Let's meet our mystery guest. The bag is cut away, revealing a familiar face. It's Jack Livingston! The ex cop. Big Tony's nemesis. Everyone recognizes him. A stunned beat.
+2) 57) dialog: Save your tears, Captain. Jack was dead to you, to all of you, the minute he agreed to testify.
+2) 64) dialog: Iwill. I'll do it. He's coming to my kid's baseball game. (to Loomis) Can you cover the autopsy? I'll meet you back in the war room. Loomis nods. Tony starts for the door.
+3) 5) dialog: 
+3) 9) dialog: You're OUT! Out?!? A confused beat.
+3) 11) dialog: You were out of the baseline. Sorry, buddy. The PARENTS BOO. The PLAYERS BOO. EVERYONE BOOS.
+3) 12) dialog: If you break one rule, what happens? That's right. They all break. 20.
+4) 0) text: Tony takes out a RULE BOOK. The LOUD BOOING continues.
+4) 1) dialog: Here it is. 15 J. "A batter/runner cannot deviate more than 3 feet from the baseline while avoiding the tag". Evan sighs, and sulks away.
+4) 2) dialog: Good hit though. Way to hustle.
+4) 6) dialog: I get it. Very cute. Well, I think he learned a valuable lesson.
+4) 8) dialog: I'll have to call you. An ex cop was killed, so it's all hands on deck.
+4) 11) dialog: I was about to tell you. It was Jack Livingston. They found him this morning in Ambrose Park.
+4) 13) dialog: It wasn't pretty. Abducted. Drugged. Suffocated. Then shot.
+4) 15) dialog: Jesus! Dad!
+4) 17) dialog: Where would you start?
+4) 21) dialog: Are you gonna help me here or not?
+4) 23) dialog: You believe them?
+4) 25) dialog: I heard he was broke. I heard he owed the Newmark Brothers.
+4) 27) dialog: Donna.
+4) 30) dialog: My old man was right. Bookies, cops, ex cops, gangbangers. Half the borough had it in for this guy.
+4) 32) dialog: I can't read it from here, Ryan.
+4) 34) dialog: Ryan, Ryan, I just need the headlines. Time of death?
+4) 36) dialog: That's a pretty big window.
+4) 38) dialog: They jacked him up before they killed him.
+4) 42) dialog: Five shots after he died. Cowboy? What do you think?
+4) 44) dialog: He thinks we should look at the wife.
+4) 55) dialog: Hey. Guys. We're on the job. Let's do the job. Ryan, check the phone records- his and hers. Make sure the DA's office is looped in. Cowboy, turn these guys over, check their alibis. We've gotta start clearing this board. Capt. Delgetty enters. She looks concerned.
+4) 56) dialog: Captain?
+4) 62) dialog: (reading list, baffled) It's me.
+4) 68) dialog: There's been a mistake.
+4) 71) dialog: (overruling his own counsel) That won't be necessary. I'll stipulate the shots came from my gun. I ran the test myself, twice.
+4) 73) dialog: There's no need for that. We're all here for the same reason, right? We're trying to figure out what happened.
+4) 80) dialog: Thank you, Phil.
+4) 82) dialog: Eight years ago. Same day I got my shield. Best day of my life. 29.
+4) 84) dialog: 
+4) 87) dialog: Never.
+4) 89) dialog: Not to me.
+4) 91) dialog: It's on the counter by the sink. It's never out of my sight.
+4) 93) dialog: It's next to the bed. In my nightstand. In the top drawer.
+4) 95) dialog: No.
+4) 97) dialog: I was at Dino's, watching the playoffs.
+4) 99) dialog: Ten thirty. Home by eleven, asleep by midnight. Life in the fast lane.
+4) 101) dialog: Yes sir.
+4) 103) dialog: In the drawer. All night.
+5) 0) text: It's raining. Tony is walking to his car.
+5) 3) dialog: Not yet. Modified duty. I'm riding my desk, pending a departmental review. (pushing past her) I'm meeting somebody, so.. But Gabby stops him.
+5) 5) dialog: I don't know what happened, Gabby.
+5) 7) dialog: I don't know what happened.
+5) 9) dialog: I know you have. 32.
+5) 11) dialog: Why do you say that?
+5) 13) dialog: Me too.
+5) 15) dialog: Hello? Dad? No response.
+5) 17) dialog: (into PHONE) No, he's not there. Well if he checks in, tell him to call me. Tell him it's important. Tony hangs up. He sighs. He considers the WALL OF FAMILY PHOTOS. He focuses on a photo of CONNIE, his late mother.
+6) 0) text: Morning. In Queens. A BUSY INTERSECTION in a marginal neighborhood. A strip mall. Some apartment buildings. To the rest of the world, it's just another street corner To Tony and his father, it's sacred ground. 33. Tony parks. He climbs out carrying a BOUQUET OF FLOWERS. tapes the flowers to a streetlight. A makeshift memorial. He notices: ANOTHER BOUQUET, already there. Big Tony is sitting nearby, on a BUS STOP BENCH.
+6) 1) dialog: Have you been here all night? Big Tony gestures, "where else would I go?"
+6) 3) dialog: You gotta tape them up. They'll blow away.
+6) 5) dialog: Maybe more.
+6) 7) dialog: It was after midnight-
+6) 9) dialog: The bank camera caught part of it.
+6) 11) dialog: It's something. It might be enough. I'll never stop looking, you know that.
+6) 13) dialog: Dad. We need to talk. Can we go someplace?
+6) 15) dialog: I can't do it here. (then, giving in) Jack Livingston was killed with my gun.
+6) 17) dialog: It's more that possible. It's a statement of fact.
+6) 19) dialog: You can't ask around, Dad. They're looking at you.
+6) 21) dialog: (pointedly) You threatened him. In public.
+6) 23) dialog: You threatened him on multiple occasions. 35.
+6) 26) dialog: I am the badge.
+6) 28) dialog: Dad-
+6) 30) dialog: Here's what I know. Livingston was shot sometime on Saturday with my gun- MY GUN- which was never out of my sight except while I slept. It's all about access, dad. The front door was locked. The back door was locked. The only people in the house were you and me.
+6) 32) dialog: (stunned) And.. Gunther?
+7) 0) text: A block away. Tony & Big Tony are parked in TONY'S SEDAN. It's a father-son stakeout.
+7) 1) dialog: (reading a RAP SHEET) Gunther Luther Welles. A couple of jolts, nothing major. Resisting arrest, possession with intent. How do you know this jerk?
+7) 3) dialog: And you don't feel any shame?
+7) 5) dialog: Virtue isn't one of your virtues. So, Saturday night..?
+7) 7) dialog: I know what you were watching, Dad. I get the bill.
+7) 13) dialog: We're on a stakeout. You can't have food delivered!
+7) 15) dialog: So Gunther Welles..?
+7) 17) dialog: And he was there all night?
+7) 21) dialog: A fresh set of eyes, always helpful. 38.
+7) 25) dialog: Uncle Manny drew 5 to 10 and died in prison.
+7) 27) dialog: I know it's thin.
+7) 29) dialog: It's something. It's a connection.
+7) 34) dialog: I have a sound machine.
+7) 40) dialog: What do you think?
+7) 42) dialog: It's all we've got. It was my gun. Nothing else makes sense. 40.
+7) 51) dialog: Murderers lie.
+7) 57) dialog: You're a friend of my father's. You get the VIP treatment.
+7) 64) dialog: Okay. We'll come back to that. Let's talk about Saturday night. 42.
+7) 66) dialog: Sorry about the smell, by the way.
+7) 76) dialog: 
+7) 78) dialog: (into CELLPHONE)
+7) 82) dialog: Gunther! The gun! GRAB THE GUN!
+7) 84) dialog: All those improv classes finally paid off.
+7) 87) dialog: (introducing the "Gangsters" ) Gunther Welles, meet Lt. Marson and Sgt. Diaz.
+7) 94) dialog: What's that?
+7) 96) dialog: (ruefully) You should be a detective.
+7) 98) dialog: I'm serious.
+7) 101) dialog: I am aware. As always, Tony is playing BOSSA NOVA music.
+7) 103) dialog: It helps me think.
+7) 105) dialog: What are you doing?! No don't- Gabby! (sighing, fixing his desk) Why do you torture me?
+7) 107) dialog: Do you want me to pee in the shower? Would that make you happy? Their eyes meet. Tony considers her, warmly. Tony nods.
+7) 108) dialog: How was your childhood?
+7) 110) dialog: Outstanding, until my mother died. Whatever we needed, whatever we wanted, the old man took care of it. Diamond Tony Caruso. A house in Florida. A new car every year. Seats behind the dugout..
+7) 112) dialog: I never asked.
+7) 115) dialog: I think she knew. She had to know. 47.
+7) 117) dialog: What's that?
+7) 120) dialog: It's 4:30.
+7) 122) dialog: About who? This, of course, is THE question. A tense beat.
+7) 124) dialog: That's right.
+7) 127) dialog: I'm good. See you tomorrow.
+7) 129) dialog: I love you, too. Tony walks into his bedroom, and closes the door.
+7) 140) dialog: I had to show up. How would it look?
+7) 142) dialog: What does she want?
+7) 144) dialog: My father?
+8) 0) text: The reception continues. SHOTS OF MOURNERS talking quietl drinking. Maisy the dog SNARLS at various guests. Tony is in the kitchen, sipping ginger ale, trying to be inconspicuous. A FAMILY MEMBER walks past.
+8) 1) dialog: How you doing? The Family Member doesn't respond. Tony is a leper. 50.
+9) 2) dialog: Knock knock.
+9) 5) dialog: (pointedly) I was lost. I'm not quite as lost as I was.
+9) 7) dialog: Obviously. Finch SCRATCHES HIS LEG AGAIN.
+9) 8) dialog: Are you okay, Sergeant? You've been scratching your leg all night.
+9) 10) dialog: From here, it looks like poison sumac. (then, accusingly) How did you do it?
+9) 12) dialog: Kill Jack Livingston with my gun. Before the couple can respond, Loomis appears.
+9) 14) dialog: Cowboy! Is the Captain still here?
+9) 16) dialog: (excitedly) He's the guy. They're in it together! I don't know how they did it, but they did it-
+9) 18) dialog: Remember the poison sumac by the clearing? Check his left leg, they can match it in the lab-
+9) 20) dialog: (finally focusing) What's over?
+9) 26) dialog: You can't smoke in here.
+9) 28) dialog: You didn't answer my question. Why'd you sign that statement?
+9) 30) dialog: No you didn't.
+9) 32) dialog: You think I did it? You think you're protecting me? 55.
+9) 34) dialog: I didn't kill anybody.
+9) 36) dialog: It wasn't either of us. It was Chet Finch!
+9) 38) dialog: And Livingston's wife. They planned it together.
+9) 43) dialog: You have to eat. I promised your mom. 56.
+9) 45) dialog: Olives. Evan removes the BLACK OLIVES. He places them on a white platter, one at a time.
+9) 46) dialog: Have you ever had one? Let's try one. Let's be brave.
+9) 48) dialog: Well, that's probably a sign of intelligence. Tony considers the FIVE BLACK OLIVES on the white platter THE PATTERN LOOKS FAMILIAR. Tony rearranges them. Suddenly- AN IDEA! Tony excitedly finds the CASE FILE and opens it.
+9) 51) dialog: I think you might have just solved my case! Get your coat. I'm taking you home.
+9) 55) dialog: I need someone to tell me if I'm crazy.
+9) 57) dialog: Not me. The case. I think I know who shot Jack Livingston.
+9) 59) dialog: I think it was me. I shot him, but I didn't know I shot him.
+9) 61) dialog: It was a set up. Gabby, it was brilliant. It was a work of art..
+10) 0) text: As Tony explains, we SEE THE CRIME IN A STYLIZED BLACK & WHITE FLASHBACK.. Jack Livingston is in bed, fast asleep. Donna is injectin him with a HYPODERMIC NEEDLE. Her lover, Sgt. Chet Finch, nearby, watching.
+10) 1) dialog: It was Finch and Donna Livingston. They jacked him up, probably while he slept..
+10) 3) dialog: At some point, later that day, they killed him with the trash bag. Suffocation. Then- and this is the brilliant part- they brought the body to Rodman's Neck.
+11) 1) dialog: It's a training facility in the Bronx. We have to go every year to get recertified.
+12) 1) dialog: Finch is the on-site supervisor. He knew I was scheduled to shoot that day, at 5:30.
+13) 0) text: Remember the first scene in the episode? We replay it now Tony is at the practice range. A LIFESIZE PAPER TARGET ro into view. Tony fires! BLAM BLAM BLAM BLAM BLAM! Five shots. A tight cluster, around the heart. Except NOW we see BEHIND the target. LIVINGSTON'S BODY IS STRAPPED UPRIGHT TO THE BOARD. It's a horrific image. The bullets pass through the wood, and riddle the lifeless bo
+13) 2) dialog: They knew my old man would be suspect number one. The ballistic test would seal the deal.
+13) 5) dialog: No no no no no no. He was already dead, remember? Thank God.
+13) 7) dialog: I knew that cluster pattern looked familiar.
+13) 9) dialog: I guess I did.
+13) 11) dialog: It's a pretty distinctive pattern. It's an almost perfect hexagon-
+13) 13) dialog: (interrupting, annoyed) Excuse me. I have a plan. Would you like to know where we're going?
+13) 15) dialog: That's right. We're going to Professor Xavier's mansion to pick up the other mutants. Tony's car continues north. They don't notice: SGT. FINCH'S CAR, a block behind, following them...
+13) 19) dialog: They're supposed to keep them here for ten days, until they're officially recorded. Here they are. They've found an OVERSIZE BIN filled with USED PAPER SILHOUETTE TARGETS.
+13) 24) dialog: It's more than enough. It's incontrovertible. Gabby starts to roll up the target.
+13) 25) dialog: Don't touch it. We have to preserve the chain of evidence. We'll come back tomorrow with a warrant.
+13) 28) dialog: Were you serious about taking the exam?
+13) 30) dialog: Maybe we are. I could talk to the Captain. Suddenly they stop. The hood of Tony's car is open. The DISTRIBUTOR CAP has been ripped out. 62.
+13) 33) dialog: You don't want to do this, Chet. You're not a murderer.
+13) 40) dialog: (surprised, flattered) Really? 63. Now we reveal: Gabby really DOES have a gun! It's holster behind her, out of sight. She SLOWLY REACHES FOR IT, as..
+13) 45) dialog: It was a unique pattern. It's an almost perfect hexagon- (to Gabby) Was that true? You thought I was asking you out?
+13) 49) text: Cat and mouse. They stalk each other.. warily, silently. Tony hides behind a MECHANICAL TARGET. Suddenly it SWINGS AWAY! Oh shit! He's exposed! Finch fires- BLAM BLAM! Tony dives away just in time!
+13) 51) dialog: Jiminy Cricket!
+13) 53) dialog: Give me the gun.
+13) 55) dialog: Give me the gun. I'ma better shot.
+13) 57) dialog: Do you have another clip? Gabby shakes her head.
+13) 59) dialog: One.
+13) 61) dialog: You think? 65.
+15) 0) text: Meanwhile. In Queens. Tony has returned to the corner whe his mother was killed. He studies the crime scene like the great cop he is. The traffic. The apartment building. The strip mall. The line of sight. He's obsessed with the case. It's a wound that will never heal.
+15) 3) dialog: What's that?
+15) 5) dialog: I told you not to worry.
+15) 7) dialog: It says to wait.
+15) 9) dialog: Let's give it a minute.
+15) 11) dialog: Yes I did.

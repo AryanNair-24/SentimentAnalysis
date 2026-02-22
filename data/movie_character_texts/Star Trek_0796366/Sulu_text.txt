@@ -1,0 +1,51 @@
+90) 4) dialog: Moorings retracted, Captain. Dock Control reports ready -- thrusters fired, separating from space dock --
+93) 0) text: As Sulu works the controls --
+93) 1) dialog: The fleet's cleared space dock, Captain. All ships ready for warp.
+93) 3) dialog: Course laid in.
+93) 5) text: And Sulu does and --
+95) 0) text: Pike -- and the others -- look at Sulu, who is confused - concerned -- searching the controls. Finally:
+95) 2) dialog: Uh, he has lungworms, Sir? He'll be fine but couldn't report to his post-- I'm Hikaru Sulu --
+95) 5) dialog: Very much so, Sir-- I'm not sure what's... wrong here...
+95) 7) dialog: (half-laughs)
+95) 10) dialog: Ready for warp, Sir.
+95) 12) dialog: (essentially)
+103) 1) dialog: Engines at Maximum Warp, Captain.
+107) 33) dialog: Arrival at Vulcan in five seconds! Four... three... two--
+112) 1) dialog: Shields at thirty-two percent! Their weapons are powerful, Sir, we can't take another hit like that!
+116) 16) text: Sulu's hand goes up --
+116) 17) dialog: I have training, Sir!
+117) 0) text: WE TRACK FAST with Pike, Kirk, Spock and Sulu as they HUR through the Enterprise toward the shuttle bay:
+117) 14) text: They appreciate the pure BALLS of that. BRAVERY washes ov them -- they'd fucking DIE for their Captain, who now tur Kirk and Sulu --
+121) 0) text: QUICK CUTS: Kirk, Sulu, and the ship's LEAD ENGINEER OLSO suiting up for the drop, strapping on sleek AIRDROP ARMOR BELTS. CHUTE PACKS. HARNESSES. HELMETS. COM-SETS.
+122) 3) dialog: (proudly)
+125) 0) text: A KLAXON SOUNDS, signalling depressurization of the cargo the guys ready their equipment, snatching for handstraps, standing on the lip of THE AIRLOCK -- Kirk and Sulu meet through their helmet faceplates, the point of no return - PIKE'S VOICE over their headsets:
+128) 20) dialog: 
+130) 0) text: Kirk and Sulu DROP IN through the outer hatch to find a c console, Sulu madly flips switches, no luck --
+130) 1) dialog: None of this is familiar-- the interface, the controls--
+130) 2) dialog: Step back--                       -- what, you have an id -- yeahyeah, I do-- Kirk FIRES his PHASER at the console, BLASTING IT --
+135) 0) text: Kirk and Sulu pull themselves from the control cockpit ba onto the drill's outer hull, they start to hear a SOUND..
+140) 0) text: The platform BANKS -- Sulu FALLS BACK, OFF THE PLATFORM - WITHOUT A CHUTE! Kirk, holding on, watching this wide-eye and knowing what he must do, he RUNS AND JUMPS -- KIRK FALLS FAST, he's only gonna have one shot at this, p his arms to his sides and ROCKETS downward, building spee hundred feet below is Sulu, FREEFALLING -- KIRK moves his feet and hands, angling toward him -- slas downward at 160 mph, closing like a missile -- the gap be them narrows -- Sulu's 30 feet below him... 5000 feet to planet surface. 40 ft -- 20 -- 10 -- WHAM! Kirk slams int Sulu in a mid-air tackle -- they TUMBLE TOGETHER -- Kirk' the grab and locked his arms around Sulu in an iron grip, screams in his face:
+145) 0) text: Kirk and Sulu SPEED-DROPPING -- TERRIFIED --
+147) 0) text: A massive SHEET OF LAVA, MILES HIGH, BURSTS INTO THE SKY and Sulu enter frame, BULLET-WHOOSH right past us, DROPPI
+150) 2) dialog: ... thanks.
+162) 6) dialog: Why waste a weapon?      We weren't a threat.
+162) 15) dialog: As Admiral he knows details of Starfleet's defenses.
+162) 38) text: Mr. Sulu, plot a course for the Laurentian system, Warp Factor Three--
+162) 40) dialog: I'm sorry.
+183) 0) text: Sulu at his controls:
+183) 1) dialog: Warp three. Course one-five-one mark three, the Laurentian System. The turbolift opens -- McCoy enters, moves to Spock:
+193) 49) text: ON MCCOY. The CREW -- confused. Sulu just fucking POINTS Kirk and they all realize HOLY SHIT -- Pike made KIRK the Officer before he left!
+195) 9) dialog: I'm a PhD in astrophysics, I think I can handle it -- how'd you get back?
+195) 12) dialog: There's not a chance. They're gonna be in geosynchronous orbit around Earth in ten minutes. We'll never make it.
+201) 0) text: No sign of Kirk and Spock.     Sulu's in the captain's ch Chekov at helm.
+201) 1) dialog: Mr. Chekov, transfer manual control to the Captain's chair.
+201) 4) dialog: Give me one quarter impulse burst for five seconds and I'll do the rest with thrusters. On my mark. Three... two... one... fire.
+203) 0) text: Sulu makes rapid-fire thruster combinations to stay on tr a stealthy ballet of incredible dexterity. THE NARADA app over the horizon in geosynchronous orbit, passing underne Enterprise as they arc in behind it.
+203) 1) dialog: All stop in three... two... one...
+205) 1) dialog: Transporter Room. We're in stable geosynchronous orbit behind the Narada.
+206) 4) dialog: Yessir.   Good luck.
+212) 3) dialog: They're on their own now.
+251) 2) dialog: Maneuvering thrusters and impulse engines at your command, Sir.
+251) 16) dialog: Aye, Captain.
+260) 2) text: This assembly calls Captain James Tiberius Kirk... Kirk breaks from formation, pivots, marches down the hang past UHURA... SULU... CHEKOV... SCOTTY. All Beaming. Nota absent, is Spock. Kirk ascends the stairs, snaps to atten COMMANDANT (CONT'D)
+260) 9) text: Thank you, Sir. Kirk turns to the crowd. Eyes shining. WILD APPLAUSE. MUSIC SOARS. Bones leans in to Sulu, rolling his eyes: BONES

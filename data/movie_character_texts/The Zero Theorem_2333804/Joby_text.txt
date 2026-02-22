@@ -1,0 +1,79 @@
+6) 3) dialog: How's it hanging, Quinn?
+6) 5) dialog: Again? Better see the medics about that.
+6) 7) dialog: Not this afternoon, Quinn.
+6) 9) dialog: Cancel it. You got that Transfinite Quantum Paradox Project due today.
+6) 11) dialog: Good work. But you still have that Whatchacallit Project due next week.
+6) 14) dialog: Whoa! You did all that this morning?
+6) 16) dialog: That's a Management decision, Quinn.
+6) 18) dialog: Out of my hands.
+6) 20) dialog: (voice lowered) Nobody talks to Management, Quinn. No way, no how, nuh-uh, nyetskis. Take my advice. Knock off the bitching and moaning. It's not all that bad here.
+6) 22) dialog: Your call...
+6) 24) dialog: .»-. Ain't ringing a bell. coat
+6) 26) dialog: Oh. Right. That call. Um... How about letting your machine take it? Or get call forwarding. I guess I could bend the rules on personal calls in your case.
+6) 28) dialog: I feel for you, Quinn, but there's nothing I can do.
+6) 31) dialog: You can't quit, Quinn! You're the best cruncher I got! Qohen turns back to his computer and resumes typing.
+6) 33) dialog: You're killing me! Be reasonable! Qohen ignores him. Joby grabs his coat and turns to leave, frustrated.
+6) 34) dialog: I'll see what I can do, Quinn.
+7) 0) text: Joby stands in Qohen's doorway, arms folded.
+7) 1) dialog: Didn't figure the medics would help, but Joby's here. I can get Management to see you. He'll be at my party tonight.
+7) 3) dialog: (sheepishly) Guess you missed your invitation. Whole office is coming, including Management himself. Just show up. I'll take care of the rest.
+7) 5) dialog: What, gotta stay home and shampoo? Joby playfully musses Qohen's hairless head but, seeing h frigid expression, quickly stops.
+7) 7) dialog: You kill me, Quinn. See you tonight. Joby leaves. Qohen takes a deep breath to calm himself.
+8) 4) dialog: Party boy! You made it!
+8) 6) dialog: (whispering) You wanna start a rumor riot?
+8) 8) dialog: Probably on his way. Soon as I spot him, I'll let you know. Meantime... Joby slaps Qohen on the back. Qohen flinches.
+8) 9) dialog: (loudly) Lighten up, have a little fun for a change. Mingle, Quinn, mingle!
+8) 11) dialog: Of course it is. Joby gives Qohen a push on his way. As Qohen looks for a place to retreat from the party crus NOISES FADE. He enters a quiet corner of the room. 13.
+8) 24) dialog: Quinn, you chrome-domed bastard! Where are you going? Have a drink! Eat!
+8) 26) dialog: Who?
+8) 28) dialog: Better watch the cocktails, Quinn! (pulling him aside, whispering) Are you crazy? Management parties incognito!
+8) 30) dialog: No shit! You're blowing his cover! 15.
+8) 32) dialog: Wait. I'll get you a meeting with him. Joby steers Qohen to the buffet table.
+8) 33) dialog: You're not leaving without eating, Quinn!
+8) 35) dialog: Eat. That's an order. Qohen surveys the food tray grimly. He SIGHS, selects an olive, and tucks it into his mouth, frowning.
+8) 36) dialog: (loudly) Plenty of eats! Joby slaps Qohen on the back. Qohen GULPS, lodging the olive deep in his throat.
+8) 37) dialog: Plenty more! Plenty for everybody! Joby moves off, drunkenly glad-handing other guests. Qohen stumbles away, struggling for breath.
+12) 0) text: Joby leads Qohen past a maze of cubicles. Sounds of TYPIN CONVERSATION, phones RINGING. Qohen hastens to keep up.
+12) 1) dialog: Be careful what you wish for, Quinn.
+12) 3) dialog: You're going home. Management assigned you to the Zero Theorem Project. He's been hand-picking talent to crunch it since before I was hired. So far, no luck. The Clones are at your place right now setting up your hardware.
+12) 5) dialog: Research and Development techies. They already changed the locks. Not to worry. You'll get a key. They reach a door labelled "MANCOM". Joby unlocks it.
+12) 6) dialog: I got my money on you, Quinn. Some big, bad entities to crunch, but I'm sure you'll be proving the theorem in no time. 21.
+12) 8) dialog: Don't ask. It's all very hush-hush... Joby opens the door, releasing a cold fog.
+13) 1) dialog: .+. But just between you and me... You solve Zip-T, I bet Management helps you get you that call of yours. Qohen stops -- surprised, hopeful.
+13) 3) dialog: Management works in mysterious ways, Quinn. As they walk down an aisle, a faint CLICKING grows louder
+13) 4) dialog: This is ManCom, biggest neural net computer in the world. Learns just like a human, trial and error, but a hell of a lot faster. Already the smartest thing on the planet... and still learning! They turn a corner. BOB, 15 -- frail, anemic, baggy-eyed -- sits at the contr console rapidly CLICKING a mouse. He's bundled in heavy jacket, hooded sweatshirt, scarf and fingerless gloves. A row of monitors flash dizzying images, a fast-changing encyclopedic array of charts, pictures, and geometric cod
+13) 5) dialog: Working hard, Bob?
+13) 7) dialog: Don't mind me. I'm just getting Quinn here started on Zip-T. Bob pulls off his hood to reveal a ratty pony tail. He gi Qohen a sideways glance.
+13) 12) dialog: That was Bob.
+13) 14) dialog: Bob calls everybody Bob. Says it's a waste of brain cells remembering names. QOHEN ; Isn't he rather young to be working here?
+13) 15) dialog: Kid could program before he could walk. They reach a row of file cabinets. Joby opens a drawer, pulls out a stack of CD-ROMs, piles them into Qohen's han
+13) 16) dialog: Crunch this stuff for starters. Upload ASAP. ManCom will send you new downloads every day. Miss a deadline, you're off the project. How's that for pressure? Joby gives him more disks. Overwhelmed, Qohen struggles t keep from dropping them. Joby reaches into the drawer aga
+13) 17) dialog: Don't worry, Quinn. You got what you wanted. Everything's under control. Joby holds up the last disk, stares through its hole. 23.
+13) 18) dialog: You ever get the feeling the whole universe is a big fat cosmic joke... and maybe you're the punch line...? You ever get that feeling, Quinn?
+13) 20) dialog: Uh-huh... That's what I figured.
+17) 3) dialog: Quinn! Long time no hug! Qohen goes rigid, awkwardly backs away.
+17) 4) dialog: Still dying, I see.
+17) 6) dialog: Field work. I love it. Gets me out of the office and into a snappy uniform. Qohen follows Joby to the work station. CHUCKLING, Joby genuflects before the crucifix. He rises, looks around.
+17) 7) dialog: You could use a woman's touch, Quinn. Qohen closes his eyes, jaw clenched.
+17) 8) dialog: ManCom can't reach you. What's up?
+17) 10) dialog: Personnel meltdown. Seen plenty of it. Me, I'd yank you and go to the bullpen. Joby glances at the shattered phone, then picks up the ba peen hammer from the floor, shakes his head.
+17) 11) dialog: But Management's giving you another chance. Don't ask me why. Qohen takes the hammer from him, puts it in a file drawer 29. Joby shrugs, pulls a new phone from his duffel bag.
+17) 12) dialog: It's all about connections, Quinn. Wires and wireless weaving a world wide web. Can't do anything if you're disconnected. He plugs in the phone, then pulls a new monitor from his duffel bag. He wipes imaginary sweat from his brow.
+17) 13) dialog: Whoa. Manual labor makes me parched. Got a spare beer for a working man?
+17) 15) dialog: Yum.
+18) 0) text: Joby guzzles a tepid glass of water, BURPS.
+18) 1) dialog: I've missed you, Quinn. A supervisor doesn't make many friends, you know.
+18) 3) dialog: Sure do. (conspiratorially) So tell me, what's the real problem?
+18) 5) dialog: (nodding) You don't trust Management.
+18) 7) dialog: Or maybe everything adds up to nothing.
+18) 11) dialog: No need to spell it out. Joby's here.
+20) 9) text: You look awful, poor thing. Joby's right. You need me.
+51) 0) text: Out of breath and dishevelled, Qohen pounds on the door. Joby opens it, all jovial.
+51) 1) dialog: Well if it isn't my old pal Quinn! Come in! Have a beer! Have some tap water! Joby stops, deep in thought.
+51) 2) dialog: Wait a minute... You're supposed to be baby-sitting your little buddy Bob. You didn't leave him all alone, did you?
+51) 4) dialog: Management won't like that. No... It'll be a regular Clone convention around your place, poor kid... I bet your phone's ringing off the hook even as we speak.
+51) 6) dialog: Bainsley... Nope, ain't ringing a bell. Qohen grabs Joby by the shirt-front. Joby snaps to attention, eyes narrowing.
+51) 7) dialog: She packed up and took off. Chasing the wind. She's the least of your worries.
+51) 9) dialog: You poor bastard. We're all tools. Get used to it, Quinn. Qohen slowly releases him.
+51) 11) dialog: I know. I know who you are... Do you? Joby steps back, looks at Qohen with pity, shakes his hea
+51) 12) dialog: Go home, Q... The door closes. Qohen stares at it, wracked with indecision, then suddenly takes off running down the stre

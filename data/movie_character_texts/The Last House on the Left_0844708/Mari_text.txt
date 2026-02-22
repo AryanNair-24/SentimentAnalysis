@@ -1,0 +1,111 @@
+0) 50) text: - Mari, slipping into swim suit... - Throwing on shorts, tank top... - Doing a set of quick curls with small, handheld weights... - Grabs swim cap and red-tinted goggles, tosses them in duffel bag... KERSPLASH! Mari dives into a pool. We are...
+1) 0) text: Magic hour. Sun just peeking over the horizon... Nota soul in sight. Just Mari. She surfaces from the dive, goes into a full bore butterfly, swimming all out. This girl’s clearly intense and clearly has talent. cU - MARI - in the pool - nearing the wall... increases her speed... almost there... She nears the wall, reaches out of the pool, grabs up a STOPWATCH. Anxiously clicks it. Peels off her goggles, eyes the result. Shakes her head. Disappointed. A beat. Then --
+1) 4) dialog: One more try.
+1) 6) dialog: Right now? But I haven’t even --
+1) 8) dialog: But I still need to -- Emma cuts her off revealing the Starbucks tray and two coffees she was hiding behind her back. Off Emma -- she can’t help but crack a smile --
+4) 0) text: Mari driving. Emma in the passenger seat, anxiously flipping through a newspaper, on cell phone:
+4) 3) dialog: (quietly) Thank god -- Emma playfully squints at Mari. As Mari glances at Emma we notice a sidebar COLUMN on the front page of the paper Emma’s reading: KRUG’S MUGSHOT with the headline: INMATE ESCAPES. TWO MORE SUSPECTS AT LARGE.
+4) 5) dialog: You on vacation now? 10.
+4) 8) dialog: Dad --
+4) 12) dialog: Making the turn now. Just as Mari slows to make the turn down a narrower side road, she notices an old rickety sign posted across from the narrower road’s entrance: THE LAKE ENDS IN THE ROAD - 1 MI.
+4) 13) dialog: Jeez, you’d think somebody would change that sign.
+4) 15) dialog: Fine, but it makes no sense.
+4) 17) dialog: The ROAD ends in the LAKE. A lake does not END in a ROAD. 11.
+4) 19) dialog: ...With the dreaded parents. Exactly. Stress is foregone.
+4) 23) dialog: It’s the only house for miles, dad.
+5) 1) dialog: The place looks pretty good. The SUV rolls to a stop in the back of the house. Mari and Emma hop out. Take in the silence. Mari looks around, eyes the GUEST HOUSE just off the driveway on the opposite side. MARI (CONT’D) You guys fixed up the guest house? 12.
+5) 3) dialog: Oh, that’s right... how long did he stay?
+5) 9) dialog: Hey, I’m looking out for all involved parties.
+5) 11) dialog: Thanks, you guys.
+6) 0) text: Mari enters, lugging a suitcase and her duffel bag. She rolls the suitcase aside, drops the duffel to the floor with a THUD. She falls back to the bed. Eyes the ceiling fan. Deep breath. Trying to let herself relax... to be still fora -- nope, not gonna happen. She jumps up, heads to the suitcase, starts unpacking... JUMP CUT: - Mari hangs a couple of dresses in the closet... - Takes out a jewelry box, picks out a few select pieces, puts them on the bedside table... a couple of bracelets, watch, and a gold-chain necklace. A small medallion -- resembling a miniature gold medal -- hangs from it. Mari reads the inscription on the back: NEVER STOP GOING FOR
+8) 0) text: Mari heads down a narrow path through the woods. It leads to their boat house and private dock on the sparkling lake beyond.
+9) 0) text: Mari heads on to the dock, pokes her head in the boat house. 15. A small ski boat covered with a dusty tarp docked inside, quietly bobbing on the water in this enclosed, floating garage-like room. Mari steps back out, heads to the end of the dock, takes in the gorgeous scenery, the massive lake... surrounded by dense forest, the entirety of its surface curving out of view through the woodlands. A few very distant houses dot its circumference with large patches of wilderness between them. A ski boat and skier suddenly race past paying little heed to that “NO WAKE” BUOY anchored about a hundred yards out. Mari eyes the buoy. She can’t resist.
+10) 0) text: Mari butterflies full on for the buoy. Reaches out, SLAMS her hand down on it. Turns her wrist over, eyes her watch, clicks the “stop” button. This time, Mari smiles. INT. GUEST HOUSE - BATHROOM SHOWER — DAY Mari attempts to cleanse her naked young body with the crappy water pressure. But she doesn’t seem to mind.
+10) 2) dialog: Shit -- Mari fumbles to put it back into place -- but the fitting on the tile wall is coming loose, little bits of plaster falling into the tub. Mari finally succeeds in getting the rod back in place -- but barely... She steps out of the tub, and very, very gently pulls the curtain closed --
+11) 0) text: Mari slips into bra and underwear. Bermuda shorts, a fresh lime green tank top. Pulls hair back, a little make-up. 16. Eyes the jewelry on the bedside table, opts for the necklace her brother gave her...
+12) 0) text: Mari enters to find Emma putting supplies and groceries away. We note a small household FIRE EXTINGUISHER among the items on the counter. We PAN TO REVEAL John trying to pull the microwave from its dock above the stove.
+12) 3) dialog: (a playful dig) Is it plugged in? John chooses not to hear that. Grabs a screwdriver, intent on doing surgery on the microwave’s innards.
+12) 6) dialog: Do you need the car? I was gonna head into town and see Paige.
+12) 8) dialog: She finally texted me back. I guess she works at her dad’s ice cream store.
+12) 10) dialog: Sure. 17.
+12) 16) dialog: Keys please.
+12) 18) dialog: You assume correctly. John hands her a couple of twenties. MARI (CONT’D) What about my tip?
+13) 0) text: A statue sits in the middle of the square, surrounded by the modest church, a rundown mini-mart, an old firehouse... A smattering of local CITIZENS mill about in the little shops as Mari drives the SUV up to the curb just outside the mini-mart. She hops out, clicks on the car alarm, steps to the curb. Approaches the window of a clothing shop, eyeing the summer dresses...
+13) 1) dialog: (to herself) Those are so cute...
+13) 3) dialog: Hey! Oh my god -- Mari crosses the street, hugs Paige.
+13) 4) dialog: How are you? It’s been awhile, huh?
+13) 6) dialog: Close to that, yeah. And you look fantastic --
+13) 8) dialog: Oh, yeah, I really --
+13) 10) dialog: You sure it’s a good time? I don’t want to keep you -- 19. Paige turns around to the very empty ice cream shop.
+13) 12) dialog: I can totally come back later --
+13) 14) dialog: Yes?
+14) 0) text: Mari and Paige sit at the table by the window. Mari takes a final lick of her mint-chocolate chip that sits atop a squiggly-shaped waffle cone a.k.a. the crazy cone. Mari considers it.
+14) 1) dialog: Wow. This cone’s...
+14) 3) dialog: Whole summer.
+14) 5) dialog: As good as they can be, I guess. How’s your dad?
+14) 10) dialog: Paige, don’t even worry about it. We‘re dealing, you know? That’s why we decided -- well, actually it’s my mom who decided to come back up here this summer... to try to get back to... I don’t know, some kind of normalcy. You ask me, this was exactly the place not to come, no offense.
+14) 12) dialog: I’m just an advocate for moving on to new things... making new memories... does that make sense?
+14) 14) dialog: (into phone) Hey, mom. -- Yeah, I’m with Paige. Yeah -- yeah, she looks great, we’re catching up -- Say that again -- you’re breaking up. -- There you are -- 21. Over the above, Paige’s attention drifts... she’s now curiously eyeing something outside, over Mari’s shoulder: PAIGE’S POV - A LANKY KID - walking on the sidewalk, wearing a grey sweatshirt, hood over his head... MARI (CONT’D) So, Mom, I’m gonna hang out with Paige for awhile, probably go to her house, so it could be kinda late. (then; for Paige's benefit) Yes, mom, if the storm’s too intense I’1l just spend the night. Yeah, and I’ll pick up the stuff in the morning on the way home -- Okay, I will. -- Love you, too. (hangs up; to Paige) What are you looking at?
+14) 16) dialog: Do you know him?
+14) 18) dialog: Neither am I.
+14) 20) dialog: (still peering out window) It’s “surveyed,” I think -- 22. Mari turns back -- Paige is gone. Now standing outside the ice cream shop’s door, waving a crazy cone, yelling over at the unabomber dude.
+15) 0) text: Our unabomber guy has now joined Paige and Mari at the table. Call him JUSTIN. His hood pulled back now... 15, messy hair, spotty teenage stubble... He jams the rest of the crazy cone in his mouth.
+15) 12) dialog: None taken, believe me. (then, to Justin) We’re very sorry.
+15) 15) dialog: Hi...
+15) 26) dialog: Paige, Jesus...
+15) 29) dialog: But why would you ask him that --
+15) 43) dialog: (uneasy) Listen, Paige... this... this isn’t what I do anymore...
+16) 0) text: Mari‘s SUV is the only car parked in the circular drive of this run-down lodge. Paige and Justin hop out amidst stronger gusts of wind and a distant ROLL of thunder.
+16) 2) dialog: One would be better! Paige smiles as she grabs Justin’s hand and leads him toward the rooms.
+16) 7) dialog: That’s okay -- that’s -- A shaken Mari realizes she’s still in the car talking through the window. The maid can’t hear her. Mari opens the door, steps out into the windstorm. The Maid holds up a room key.
+16) 9) dialog: No, no. Sorry.
+16) 11) dialog: You’re fine. The maid smiles, pockets the key, pushes her cart away across the lot, disappears behind the motel office. Mari turns back, heads down the walkway. As she approaches, we note the LOCAL newspaper lying outside the door: KRUG‘S MUG SHOT IS PLASTERED ON THE FRONT PAGE with the headline: “FUGITIVE ON THE LOOSE.” We TILT UP as Mari knocks on the door and pushes her way into...
+17) 1) dialog: What the hell you two? They look over. Not too bothered at the intrusion.
+17) 7) dialog: How could you have lost your purse already -- As Mari helps Paige root for her purse, Justin looks up to see
+17) 10) dialog: (finding the purse) Here.
+17) 21) dialog: We're sorry. We were just leaving.
+17) 25) dialog: Mari.
+17) 26) text: Mari. I’m Krug, this is Francis, but call him Frank... and my girlfriend, Sadie.
+17) 30) dialog: Yes. Sadie eyes Mari in amused disgust.
+17) 40) dialog: We have money.
+17) 47) dialog: Listen, Mr. Krug -- Krug, Francis and Sadie chuckle at that --
+17) 51) dialog: This isn’t our business --
+17) 56) dialog: I’m saying... we won’t tell anyone.
+17) 68) dialog: It’s yours.
+17) 73) dialog: Paige, just stay calm. But Paige is way beyond it now. Trembling. Eyes darting to -- the bathroom. Beckoning. Is there light coming from a window inside? A tense beat -- and then -- Paige bolts!
+18) 18) text: KRUG (CONT’D) I’1l let that pre-pubescent brain of yours try to figure out why. But in the meantime, I'll give you a clue. LOOK AT HER. Krug viciously yanks Justin’s head toward Mari. KRUG (CONT’D) Look at --
+20) 10) dialog: (to Krug) No, left is correct. (off their glares) I’ve been coming here for years. The way to the national park... the National Forest Park? -- If that’s what you meant -- 38. Over the above, Mari inches
+20) 13) dialog: Then you need to go left. Krug studies Mari’s face in the rearview. She looks sincere enough -- if not, it’s a damn good bluff. A beat. Then -- Krug turns left. CU - MARI - her face betrays the slightest hint of “holy shit, he bought it.” Her eyes FLICK back to that cigarette lighter as an impenetrable wall of trees stream by on either side of the vehicle. She swallows anxiously and looks out the window, sees something O.S. that we DON’T SEE.
+20) 14) dialog: (mouthing to herself) Shit -- (mouthing to the cigarette lighter) Come -- on -- PLINK. The cigarette lighter POPS OUT -- ready -- Mari instantly snatches it before Sadie can react and JAMS the burning hot end into her face! Sadie SCREAMS IN PAIN and recoils against the seat as Mari fumbles to climb over her, opening the door --
+21) 0) text: The SUV SWERVES as Mari and Paige SCREAM -- Mari’s now trying to push the back door OPEN!
+23) 0) text: The SUV SCREECHES across the pavement and tumbles off the road into the woods -- INSIDE THE SUV - Blood-curdling SCREAMS as it rolls end over end, down the incline -- MARI falls back inside the SUV as -- WHAM! It SMASHES into a tree, miraculously UPRIGHT. Silence. No movement. A long beat as steam HISSES from the busted engine. Quiet. Bordering on peaceful even -- until finally -- One of the back doors opens and Paige falls out onto the ground. She looks up, blinking and dazed, but unhurt. She rises unsteadily to her feet - BAM! Krug KNOCKS HER DOWN - She looks up in fear as he towers over her angrily -- IN THE SUV’S PASSENGER SEAT - a foggy-looking Justin rubs his head, his deflated airbag deployed. A back-door opens and Francis groggily emerges, moaning. His nose has been broken and it’s a bloody mess. Krug sees it, cringes -- 40.
+24) 0) text: Paige, her wrists tied with pieces of her now shredded shirt, is thrown to the ground next to Mari. Krug is still glaring, just as we left him, intense uncertainty raging in his eyes. Sadie and Francis stare at him expectantly. Justin stands in the b.g. Too terrified to move as
+24) 9) dialog: Paige -- But Paige isn’t listening. She rises unsteadily to confront Krug, unafraid.
+24) 12) dialog: Paige -- Paige -- breathe -- try to breathe -- Krug looks over at Justin and sees that he’s CRYING softly, tears running down his face. Rage suddenly floods Krug’s face as he watches his son’s weakness. Krug turns back to Mari and Paige. Paige is coughing, spitting up blood now, her life slipping away...
+24) 17) dialog: Okay. Okay --
+24) 20) dialog: No. She looks back down to Paige who manages the slightest hint of a thankful smile. Then -- her breathing fades and she becomes perfectly limp and motionless in Mari’s arms, her slumped face hidden beneath her hair. Mari looks back up to see an enraged
+24) 22) dialog: 
+24) 27) dialog: No -- NO -- please --
+24) 33) dialog: Justin -- please -- help me --
+24) 39) dialog: No! No... no...
+24) 46) dialog: (soft; to herself) I swim... love to swim...
+24) 48) dialog: (practically mumbling this) I can do it... can do it...one more try mom... Krug and Sadie trade a slightly weirded-out look as MARI’S FIST CLENCHES THAT ROCK - TIGHT.
+25) 4) dialog: surfaces, doing the fastest, most full-on butterfly we’ve ever seen, the water splashing around her, making it difficult for
+31) 0) text: The storm rages. Gusting winds make white caps on the lake’s surface. We slowly PAN ACROSS and TILT DOWN to find that “NO WAKE” buoy thrashing about. A FLASH of LIGHTNING ignites a FIGURE - floating in the water a few yards from the buoy. The flash was so brief, we‘re not even sure what we saw was real. But then -- another FLASH as -- CU - A WET HAND GRABS on to the BUOY. 62. A DARK FORM bobs in the water next to it. LIGHTNING FLASHES, revealing MARI. Alive. Barely. Her eyes glassy and weak, she stares through the thick rain pounding down on her. MARI‘S POV - The dark house. Waiting just up the narrow path.
+33) 0) text: Justin places the mug in the sink, then turns back, but stops in his tracks, spotting something 0.S. cU - A SMALL PHOTO of Mari_and her parents is encased _ i a_glass magnet on the side of the refrigerator. cU - JUSTIN - stares at the picture in dumb shock.
+34) 0) text: Mari pulls herself through the water, crawls up onto the muddy shore, weakly forcing herself to keep moving in the darkness.
+42) 1) dialog: continuing her agonizing crawl through the pounding rain... she sees her mom...
+42) 2) dialog: (barely audible) Mmm -- mom... She’s too weakened to scream, but she still refuses to give up. Mari keeps pressing forward as lightning FLASHES. 68.
+47) 1) dialog: comes into view, slouched on her side against it, her blood and water-soaked body limp, her eyes rolling to the back of her head.
+47) 3) dialog: John stumbles to Mari’s side, shaking her as Emma rushes over -- 70.
+48) 0) text: Sadie’s taking a nice, soothing shower by candlelight, the shower rod and curtain hanging diagonally, dangling from just the one end, the other end having collapsed into the tub -- evidently, Sadie had the same issues with it that Mari had earlier. CU - SADIE - eyes closed as the water flows down her scarred face... 72. WITH KRUG - in the bedroom. He sets the silenced gun on the night stand, pulls his shirt off. Collapses to the bed, his legs and feet hanging off the side, just above MARI‘’S DUFFEL BAG stuffed underneath. Krug looks over through the bedroom doorway into the living room, sees Justin’s silhouetted form lying on the pull-out bed.
+50) 0) text: Emma races into the kitchen. Frantically picks up her cell: NO SIGNAL. 73. She opens the cabinet above the counter, grabs a bottle of Jack Daniels. She then turns and sees the sparkling necklace in the sink! Emma SHRIEKS, jumps back, scared shitless. She then peers back into the sink, wide-eyed as she takes in the sight of Mari‘s necklace -- neatly encircling the red mug. Unbelieving, Emma picks it up. She turns the medallion over, sees the inscription. Emma recoils in horror, eyes wide, thoughts racing --
+51) 0) text: John continues to “operate” on Mari. Now noticing dried blood near her knee just below her shorts. He takes his medical scissors, starts cutting away at her shorts but suddenly stops -- noticing a stream of dried blood on her thigh leading up to her underwear. cU - JOHN’S FACE - as he continues, his eyes widen in horror at what he’s seeing 0.S. It’s clear now that John knows his daughter was raped.
+51) 2) dialog: Starts faintly WHEEZING.
+51) 4) dialog: Daddy -- can’t breathe -- can’t --
+51) 12) dialog: Da-- Dad-- John turns back to Mari -- 75.
+51) 17) dialog: Bet -- better --
+55) 0) text: Emma gently finishes wrapping Mari in a thick blanket.
+64) 0) text: Emma enters with the flashlight. She shines it over to the boat to reveal MARI wrapped warmly in a robe and towels, lying in the boat‘s back seat! Emma leans over her. Mari’s eyes open, shift up to her mother.
+65) 0) text: Krug studies the remains of John’s operation on Mari: Bloody towels, pieces of her ripped clothing... Krug picks up the shredded piece of Mari’s tank top.
+68) 0) text: CU - MARI - She opens her eyes, looks up at her mom sitting next to her. Emma smiles, moves her hand down to Mari’s waist, revealing the BUTCHER KNIFE firmly clasped in Mari’s hands. Emma gently takes it. Kisses Mari on the forehead as John starts the motor, backs the boat out into the open water... Justin sits silently in the front passenger seat.

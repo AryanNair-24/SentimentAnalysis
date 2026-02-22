@@ -1,0 +1,172 @@
+0) 0) text: A neat, well-appointed flat, tastefully decorated. Framed against a large window which looks out over the city, an elegant woman in her 70's: EVELYN GREENSLADE. She's on th phone, on hold. On the desk in front of her is a brand new laptop compute the screen reads 'Getting Started ...'
+0) 6) dialog: 
+0) 14) dialog: What?
+0) 16) dialog: You can't talk to him, no.
+8) 0) text: Evelyn, whom we saw earlier on the phone, is in the livin room. Her son CHRISTOPHER is there. And her lawyer HAROLD.
+8) 17) dialog: That's what your father used to say. 
+8) 20) dialog: When there'd never really been  any discussion at all. 
+8) 22) dialog: Like he did for forty years 
+8) 24) dialog: And look how that turned out.  She turns to Harold 
+8) 25) dialog: How can any of us know what Hugh would've wanted? And would he have seen fit to tell us anyway?
+10) 0) text: Evelyn is on the phone to her son Christopher. They're both sitting at computers. Evelyn's new-found dexterity i impressive. Around Evelyn's room are packing boxes, some already full
+10) 3) dialog: How far along is the progress bar? The strip at the bottom that tells you -
+16) 0) text: A reluctant Christopher is pushing a trolley carrying Evelyn's cases to the terminal.
+16) 2) dialog: They should be. The hotel paid for them. I'm sure they'd rather have us there than not. And its fantastically cheap for the first three months.
+16) 10) dialog: I'll call. They do have phones there, you know. Or you can just read my blog.
+16) 12) dialog: On the interweb. You can log in whenever you like, read my news.
+16) 14) dialog: Could you please, before I go, say one thing that is supportive? Because I've never done anything like this before.
+16) 16) dialog: Well. I suppose we'll find out, won't we? They head into the building.
+19) 0) text: The passengers from Flight 1045 to Delhi are seated at th gate, waiting to board. Muriel is wheeled up by an attendant and parked at the en of the only remaining row of empty chairs. Douglas and Jean are already sitting there. Jean smiles politely as Graham sits down a couple of seat away. Norman arrives, carrying his battery radio, sees an empty place between Jean and Madge, who is sitting at the end. He smiles knowingly at Madge as he sits. Finally Evelyn takes the only available space, between Graham and Douglas. And there the seven passengers wait patiently, unaware of their common fate. The sound of a jet engine, quiet at first, finally engulf them.
+21) 0) text: Evelyn, Douglas, Jean and Graham are descending on an escalator. Madge is a few steps up.
+21) 6) dialog: I'm not. Although one has read one's guidebooks. Jean blinks. Evelyn and Graham share a smile. Douglas hides his. And Madge sees it all. As they head towards the baggage carousel, they're met by Muriel and Norman, emerging from the elevator. Norman is pushing Muriel's wheelchair.
+24) 0) text: Moments later. Our heroes are in the middle of an extraordinary scene. Stifling heat, deafening noise; the chaos, the bustle, the grime, the crowds, the life. They're surrounded by taxi drivers, baggage handlers,beggars etc. All clamouring for their attention. Evelyn looks a little shocked. Jean is traumatized, a handkerchief to her face.
+24) 9) dialog: What larks, Pip. Douglas is just ahead of her. He turns, smiles.
+26) 7) dialog: A few months ago I was organising the church flowers.
+26) 9) dialog: A little.
+26) 11) dialog: No.
+28) 0) text: Everyone is asleep, or trying to sleep. Except Muriel. She reaches into her bag, and carefully removes a biscuit. She surreptitiously lifts it to her mouth, and starts to chew. Madge has fallen asleep on Evelyn's shoulder. But Evelyn is still awake, as is Graham.
+28) 1) dialog: How long since you were here?
+28) 3) dialog: As long as I was married.
+28) 6) dialog: D'you think we're going to be alright?
+30) 0) text: Our heroes are squashed into a pair of them, facing forwards and backwards, attempting not to swallow too muc dust as they wheel crazily through the teeming morning streets of the city. They stare in amazement at the world racing past them. A scooter overtakes. A young man is driving, his girlfriend riding side-saddle on the back. Her sari billows out behind her. Douglas and Evelyn both watch her struck by this image of beauty, youth and vitality.
+42) 0) text: Douglas is on his way down the stairs. Evelyn comes out of her bedroom.
+42) 1) dialog: Oh, hello.
+42) 3) dialog: I was just going to find the manager.
+42) 5) dialog: I promised I'd call my son, to tell him I'd arrived, and -
+43) 0) text: Douglas picks up the very old-style phone. Evelyn is watching.
+43) 2) dialog: Yes, did that.
+43) 4) dialog: That too.
+43) 11) dialog: How did you come to be here? In India.
+43) 13) dialog: I'm not sure I understand what most of those words mean.
+43) 16) dialog: Really?
+45) 24) dialog: He moved! He's alive!
+47) 0) text: Evelyn is typing - hunt and peck - at her computer. Besid her, the classified pages of the local newspaper.
+54) 0) text: Evelyn is finishing her blog. She picks up the paper, checks something.
+55) 0) text: Evelyn is coming down the path to the gate.
+56) 0) text: Evelyn is walking down a rough street on the outskirts of the city. Kids are everywhere, laughing, shouting, doing tricks, begging. Evelyn approaches them, holding up a piece of paper.
+56) 6) dialog: Please, can anyone direct me to this address? Evelyn's piece of paper gets passed around: none of the kids can read. An older boy finally points. Suddenly there's lots of pointing.
+56) 7) dialog: Thank you. She goes to move, but the kids are still all around her.
+56) 8) dialog: I'm sorry, I don't . I don't really have much ... She gives them the contents of her pockets.
+56) 9) dialog: Alright? Alright now? Goodbye. She starts to walk, is surprised that the entire posse of kids walks with her. In fact, the group seems to be growing exponentially. She looks like the Pied Piper.
+58) 0) text: The road is absolutely rammed; with cars, bikes and rickshaws. All honking horns, all seemingly headed in different directions. Evelyn has somehow made it to the central reservation. Sh takes a deep breath, and plunges into the maze of traffic heading for the other side.
+62) 0) text: Evelyn is still searching for the right address. She's turned off the main road, and is heading down a narrow si streets. The city has become denser, and the walls seem t have closed in. She pushes her way through the crowded market.
+63) 0) text: Uncertain, Evelyn turns down a narrow alley, and suddenly finds herself in an enclosed courtyard strewn with makeshift washing lines. The atmosphere is faintly threatening. As she tries to find her way out, she becomes aware that she is being watched: the walls are full of doorways, and people have come out to stare at her. She has stumbled into their home. Evelyn tries to suppress her panic, turning from one face to another.
+63) 1) dialog: I'm so sorry. I didn't realise - She backs into a kind of flatbed trolley, piled high with cooking utensils, which clatter noisily to the ground. Sh goes to pick them up.
+63) 2) dialog: Oh, I'm dreadfully sorry... A man is staring at her: SURESH.
+63) 4) dialog: I'm sorry, I'm just trying to get to this address.
+63) 6) dialog: Do you understand me? Can you help me find this place?
+63) 8) dialog: Is that yes you understand, or yes you can help me?
+63) 10) dialog: Let's go with both, shall we?
+64) 0) text: Suresh's flatbed trike is rolling down the street, piled impossibly high with bundles of brightly-coloured textile On the back, enthroned in the fabric, is Evelyn.
+66) 2) dialog: Thank you.
+66) 4) dialog: This is it?
+66) 6) dialog: Then thank you. You're very kind.
+68) 0) text: JAY (late 20's) is talking to Evelyn.
+68) 2) dialog: Builder's tea. It's called builder's tea. And no, I'm fine. Thank you.
+68) 4) dialog: I don't think you can. I'm sorry, I shouldn't have come. She stands.
+68) 7) dialog: I saw your advertisement in the local paper, and it specifically mentioned the ability to talk to older people. But this is not what I imagined ...
+68) 9) dialog: I've wasted your time.
+68) 11) dialog: I see that. Good day.
+68) 19) dialog: Yes. We dunk biscuits into it.
+68) 21) dialog: It means lowering a biscuit into your tea, letting it soak in there, then trying to calculate the exact moment just before it dissolves to whip it up to the mouth, and enjoy the blissful union of biscuit and tea combined.
+69) 0) text: A few minutes later. From the open-plan office Evelyn can be seen talking to Jay. One person watching is SUNAINA (20's). She's talking on the phone.
+73) 0) text: Evelyn comes into the dining area. Graham is there, at a table in the corner.
+73) 2) dialog: Good evening. Evelyn sits at her table.
+73) 3) dialog: I trust you had a good day?
+73) 5) dialog: I got a job. My first. Ever. I'm going to be a sort of cultural advisor.
+73) 7) dialog: Perhaps if you wouldn't mind keeping that news to yourself.
+73) 15) dialog: Have you had a good day?
+73) 37) dialog: I'd like that very much.
+74) 0) text: Graham and Evelyn emerge through the arch heading for the rooms. Graham starts down the stairs.
+74) 1) dialog: Goodnight.
+74) 4) dialog: Evelyn.
+75) 0) text: Moments later. Evelyn is sitting in front of Graham's collage.
+75) 12) dialog: Until now.
+75) 15) dialog: Do you want to see him again?
+75) 17) dialog: Then you must.
+77) 0) text: Evelyn stands outside her room, listening to the bells, sipping a cup of tea, pensive. She looks down into a dilapidated part of the building, where the staff are housed. Women in bright saris go about their business.
+84) 0) text: None of the operators are on the phone. Instead they are sitting in a semi-circle, looking curiously at Evelyn. Wh is sitting next to Jay, a little daunted by the attention
+84) 1) dialog: .You ring in the morning. Let's assume the person answering will be a woman. She will have had her breakfast. Tea or coffee. Semi-skimmed milk, always. If she's under 50 she'll be contemplating yet another diet, over 50 she'll have more or less given up, and be eating toast. The radio may be playing, or more likely daytime TV. A chat show, or a programme with a moderator speaking to a panel of young women whose boyfriends have all slept with their mothers. The girlfriends' mothers, I mean, not their own. Although Anyway, then the boyfriends usually come out, and everybody fights. Sunaina is in the audience. She calls out.
+84) 3) dialog: That's the point. When the phone rings and it's this robot nobody wants a machine, but it's almost worse when it's a person behaving like one. All these sales cliches just strung together. 'Your call is important to us'. Is it? Well then sound like it.
+84) 10) dialog: Right. That one. Don't ever say that.
+84) 12) dialog: Yes, when your middle name is
+84) 15) dialog: Which is beautiful. You people are young, vibrant, real. I'm sure the typical housewife would enjoy talking to each and every one of you.
+84) 17) dialog: I suppose I'm not typical anymore.
+91) 0) text: Evelyn is at her computer, typing.
+92) 1) dialog: . only a present that builds and creates itself as the past withdraws ...
+93) 0) text: Jay is counting out cash into Evelyn's hand; her first paycheck.
+93) 1) dialog: And India, like so many things in life, like life itself I suppose, is about what you bring to it.
+97) 0) text: The market is buzzing with commerce. Evelyn is at a stall selling fabrics, talking to the vendor, AKRAM.
+97) 1) dialog: (holding up a pashmina) Bow much for this, please Kitna
+97) 5) dialog: Thank you. She reaches for her wallet. Then Douglas speaks from behind her.
+97) 17) dialog: Good morning.
+97) 23) dialog: 
+97) 26) dialog: Yes. The thing is, you see, I did actually want to buy that. To brighten up my room.
+97) 28) dialog: Do you think so?
+97) 39) dialog: Eight hundred and fifty, nine hundred, nine hundred and fifty, one thousand. She turns to Douglas, smiles.
+97) 40) dialog: You'll get him next time. Then she notices something.
+97) 41) dialog: Why are you carrying a tap?
+101) 15) dialog: The day I met my husband was the day the fair came to town. My girlfriend and I went on the carousel. Her horse was fine. But when the ride began I felt mine give a little, like it might collapse. Then these strong arms were around me, holding the horse together. And a voice in my ear said "Just trust me". And I did. Without question. Until the day he died.
+101) 17) dialog: The sale of our flat went through last week. I had to sell it to pay off Hugh's debts.
+106) 34) dialog: Anything?
+106) 36) dialog: How about now?
+106) 38) dialog: What?
+106) 49) dialog: Mrs Ainslie, how are you? Did you have a good day? Jean doesn't answer. She's staring at Douglas. Who looks so happy.
+106) 56) dialog: Do excuse me. She makes a tactful exit. Jean is going past Douglas into their room.
+113) 0) text: Graham and Evelyn are having drinks.
+113) 1) dialog: I've been getting out and about as much as I can, but I feel I've hardly scratched the surface. And of course I'd love to see Udaipur. The lake you talked about.
+115) 0) text: Douglas, Graham and Evelyn are looking at the menu. Sonny bursts in.
+116) 0) text: Graham, Evelyn, and Douglas are walking quickly up a quie street.
+116) 2) dialog: I think you should knock on the door and see.
+118) 0) text: Douglas and Evelyn are walking.
+118) 10) dialog: What was she thinking?
+118) 12) dialog: His wife. Manoj's wife. She knew who Graham was. Had he told her?
+118) 15) dialog: Tell me.
+130) 1) dialog: Sunaina? And now Sunaina is even more humiliated.
+138) 7) dialog: It's been rather an extraordinary night all round. First tell me your news, and then - She breaks off. Graham is dead.
+141) 0) text: Evelyn stares out of the window. Madge, Norman, Douglas and Jean are behind her. Opposite sits Manoj. Evelyn turns to look at him, and at Gaurika, Manoj's wife, who sits beside him.
+147) 0) text: The landing is large, and open to the sky. Evelyn has jus come up the stairs to go to her room. She's leaning again the stone baluster.
+147) 3) dialog: I went to see Gaurika. Manoj's wife. I wanted to ask her what she knew. And the answer was that she knew everything, that he'd loved another man, and always would. He told her when the marriage was arranged.
+147) 5) dialog: And that's right, don't you see? That must be right. Because what is the point of a marriage in which nothing is shared? Her words hang in the air. They stand there for a moment. Jean has come out of her room, and stands there, watching them.
+147) 15) dialog: Yes, of course.
+149) 0) text: Evelyn comes onto the terrace, and heads for Madge and Norman. She picks up Madge's glass.
+149) 2) dialog: I just need some water. She drains the glass.
+149) 4) dialog: Yes. I know that now.
+153) 0) text: The train rattles its way through the night. Jean is chatting away, in a better mood than we've seen her for some time. Evelyn listens in silence.
+155) 2) dialog: I'm actually going to walk. Apparently they're getting ready for a festival.
+155) 10) dialog: I'll be fine. Evelyn speaks to both Douglas and Jean.
+155) 11) dialog: I'm delighted for your daughter's success. I wish you all every happiness.
+158) 0) text: Evelyn stands under the awning of the ticket office.
+158) 1) dialog: I just wanted to hear your voice.
+158) 3) dialog: Oh good, I'm glad you've been reading it. Yes. Yes, I've made some very good friends.
+158) 10) dialog: I think my money is running out, I'd better go. Goodbye for now, darling. I'll call again later. She hangs up. And stays there with her hand on the phone. Out on the street, Sonny is pulling up. She looks over to him.
+158) 12) dialog: They're on their way to the hotel. Sonny looks around, at a loss.
+158) 13) dialog: What's the matter?
+158) 15) dialog: What are you talking about?
+158) 17) dialog: What?
+160) 0) text: Sonny and Evelyn are still talking.
+160) 2) dialog: But what about your girlfriend?
+160) 4) dialog: This is a disaster.
+160) 6) dialog: Sonny, do you love her? Sunaina?
+160) 13) dialog: Have you told her you love her?
+160) 15) dialog: And you have told her that?
+160) 17) dialog: Good. Women love it when you say that kind of thing. It's a powerful aphrodisiac.
+160) 19) dialog: No, of course not. Go and find her right now, before you lose her forever. Her future is hers to choose, and so is yours. You can have anything you want, Sonny. You just need to stop waiting for someone to tell you you deserve it. Or you can just keep failing yourself, and hurting the ones you love -
+163) 0) text: Evelyn approaches. She sees a taxi waiting outside the hotel.
+165) 0) text: Evelyn comes into the courtyard. Muriel is sitting there. The two women stare at each other.
+169) 0) text: Douglas comes back into the courtyard, heads towards the staircase to Evelyn's room. Then Muriel speaks from her verandah.
+170) 0) text: Evelyn is at her window, listening. She turns to watch hi leave.
+178) 56) dialog: What about me, Mrs Donnelly?
+178) 58) dialog: My loss, evidently.
+178) 75) dialog: You don't know him. He's the most loyal man I've ever met.
+180) 0) text: Evelyn is at her computer typing.
+182) 0) text: Evelyn is still sitting, fully dressed in her room. She's been up all night. Her alarm clock buzzes. She turns it off.
+183) 0) text: Evelyn comes out of her room, walks across the terrace.
+185) 0) text: Evelyn walks down the path towards the street. Then Douglas comes through the gate, with his suitcase. They stand there, looking at each other for a moment.
+185) 1) dialog: Good morning.
+185) 8) dialog: You're still here.
+185) 10) dialog: What about Jean?
+185) 16) dialog: I'm late for work. She goes past him.
+185) 19) dialog: I get back about 5.
+185) 26) dialog: Yes.
+185) 28) dialog: With a little milk. She turns and walks away. She's smiling.

@@ -1,0 +1,47 @@
+39) 0) text: Achilles' OARSMEN holler encouragement to their shipmates and check to see that their boat is safely in the lead. Achilles stands in the prow, scanning the Trojan shore. Patroclus stands beside him. EUDORUS (40), a Myrmidon lieutenant, approaches Achilles.
+39) 1) dialog: Should we wait for the others? Achilles marks the progress of the other ships. The nearest is a quarter-mile back. Those MYRMIDONS (Achilles' countrymen and comrades) not rowing are suiting up for battle.
+39) 3) dialog: Yes, my lord. But Agamemnon -- Achilles stares at his officer until the man bows his head.
+39) 5) dialog: For you, my lord.
+61) 0) text: Achilles, not even breathing hard after the slaughter, removes his helmet and rests it on the wall. The surviving Myrmidons search the grounds, dispatching any dying Trojans. Eudorus hurries over to Achilles' side.
+61) 1) dialog: The temple is secure.
+61) 3) dialog: With your permission, my lord --
+61) 5) dialog: Apollo sees everything. Perhaps it's not wise to offend him. (CONTINUED)
+68) 5) dialog: (to Achilles) The Trojans are dead.
+68) 9) dialog: Why did you let him go?
+71) 10) dialog: We have something to show you. Achilles follows Eudorus and the grinning Myrmidons to a large tent twenty yards inland from their beached ship. A few Myrmidons hammer the last tent pegs deep into the sand. Eudorus holds open the tent flap. Achilles looks at his captain for a moment before entering the tent.
+72) 3) dialog: The men found her hiding in the temple. They thought she'd.. please you.
+72) 25) dialog: (calling from outside the tent) My lord --
+72) 27) dialog: King Agamemnon requests your presence.
+72) 29) dialog: All the kings are there, celebrating the victory. Achilles stands.
+85) 0) text: Achilles sits cross-legged, arms held straight out in front of him, palms up. His bronze sword is balanced on his palms. Patroclus and Eudorus, armored for battle, enter the tent Achilles does not look away from his blade. Though the sword must be heavy, his arms do not tremble.
+85) 1) dialog: My lord? The army is marching.
+85) 3) dialog: But the men -- Achilles turns to glare at him and Eudorus falters.
+85) 4) dialog: -- the men are ready.
+91) 0) text: Patroclus, Eudorus, and the rest of the Myrmidons climb t the top of a tall bluff near the beach. From here they can see the broad battlefield a mile away.
+98) 1) dialog: Menelaus still knows how to fight.
+124) 0) text: Eudorus and Patroclus are waiting when Achilles and Briseis get to the tent.
+128) 0) text: Achilles watches Briseis sleep. She looks very young and fragile, her face bruised, her eyelids fluttering as she dreams. Achilles watches her with great tenderness. Eudorus opens the tent flap. Sunlight streams in. Achilles puts a finger over his mouth. Eudorus sees Briseis and nods. Achilles gently pulls the blanket over her naked shoulders. He stands and exits.
+137) 2) dialog: Arm yourselves, men. The Myrmidons quickly and excitedly arm themselves. EXT. HIGH DUNES 121Вў The Trojans are not aware of this energy. Hector raises his sword and points at the Greeks. The Trojan army charges. When they are within range the Trojan archers release, sending a volley of arrows over the heads of their comrades. The Greek archers release at the same time. Two flocks of arrows cross in the sky and swoop down on the men below. Dozens of Greeks and Trojans fall to the sand.
+138) 0) text: But now the glorious bronzed figure of Achilles leaps ove the trench, sunlight reflecting off his polished armor. He raises his sword to the sky. A great, violent ROAR rises from the Greek army. When he runs toward the Trojans the Greeks jump from their positions and follow. The two armies collide. Unlike the grassy field the men fought on yesterday, today's battle takes place on the sand, and sand is everywhere. Horse hooves kick up clouds of sand. Men struggle for footing in the loose sand. Red blood puddles on the yellow sand. But much more is different than the terrain. Now the Greeks have a leader. The Myrmidons are at the forefront, battling with a ferocity most Trojans have never seen before. A Trojan OFFICER, spear raised, gallops toward the figure of Achilles. Before the Trojan can throw, Eudorus hurls his spear, catching the officer in the neck. The man goes down. Odysseus, immersed in combat, sees this. He hesitates for a moment and in his distraction is nearly cut down by an axe-wielding Trojan. They fight. After Odysseus dispatches the man, he looks back toward the glittering figure of Achilles. Something's making him uneasy. A Trojan swings his sword at the shining warrior, narrowl missing a clean decapitation. The Greek hero thrusts his spear and guts the Trojan. The Myrmidons surge forward, hacking their way through th Trojans. The Greek army steadily pushes the Trojans back, picking up more and more momentum. Now it is the Trojans who seem frightened, unsure where the Greeks found this intense spirit. Glaucus, the Trojan general, on horseback, shouts to Hector.
+139) 7) dialog: We were going to sail home at noon. (CONTINUED)
+140) 0) text: Eudorus walks up to the ship, takes a few deep breaths, and calls to his commander.
+140) 1) dialog: Achilles! Achilles emerges from the ship's cabin and walks to the bow. He descends the gangplank to the beach. Briseis follows. Eudorus bows. Achilles examines his captain. Eudorus is sweaty and dirty, his hands caked with dried blood. His helmet is off but he still wears his armor.
+140) 3) dialog: My lord --
+140) 5) dialog: No, my lord. There was a mistake.
+140) 7) dialog: I didn't lead them. Eudorus cannot meet his commander's gaze.
+140) 9) dialog: We thought you did. Now Achilles can tell, staring at his captain's face, tha something is very wrong. He looks around the encampment. All the men returning from combat avoid looking at Achilles. (CONTINUED)
+140) 13) dialog: We thought it was you, my lord. We -- he wore your armor. Your shield, your grieves, your helmet. (long beat) He's dead, my lord.
+140) 15) dialog: Never, my lord. Never. He looked like you. He even moved like you. We all followed --
+140) 17) dialog: He fought well, my lord. With great courage. But Hector came after him. Achilles' nostrils are flared, his eyes narrowed.
+140) 18) dialog: If I could have saved him -- Achilles hits Eudorus hard in the mouth. The captain falls to the sand. Achilles looms above him, fists clenched. Eudorus holds his mouth. Blood is already beginning to stream out.
+140) 20) dialog: My lord, I saw him fall. Achilles seizes Eudorus by the hair and hauls him to his knees. He snatches Eudorus's sword and raises it. Briseis grabs Achilles' shoulder.
+140) 25) dialog: Hector cut his throat. Achilles walks to a dead campfire where the Myrmidons coo their dinner. He drops Eudorus's sword and kneels in the ashes, grabs handfuls of the soot, and blackens his face. Achilles stands, grabs the sword, and walks toward the sea. Everyone stares at him. He keeps walking as the waters lap at his ankles, his knees, his waist. The waves are high, crashing down on him, but Achilles does not turn from them. He swings the sword, chopping through the surf, slicing the crests off the waves, groaning as he fights. The soldiers on the beach stare at him. Achilles battles the sea.
+145) 0) text: Achilles finds Eudorus sleeping outside his tent.
+145) 2) dialog: My lord.
+146) 0) text: Eudorus helps Achilles prepare, clasping on his greaves.
+149) 0) text: Achilles exits his tent, fully armed. Eudorus is behind him. The SOLDIERS are beginning to stir and they stop in their activity now and stare at him. Two MYRMIDONS tether a CHARIOT to a large black HORSE. The work finished, they step back as Achilles hops into the chariot. Eudorus attempts to hop on behind him.
+185) 0) text: Achilles arrives at his tent and finds Eudorus polishing his armor. Eudorus jumps to his feet.
+185) 3) dialog: I hope I never disappoint you again.
+185) 5) dialog: Aren't you coming with us?
+185) 7) dialog: She's worth fighting for. We'll march behind you. (CONTINUED)
+185) 11) dialog: Fighting for you has been my life's honor. Achilles grips his lieutenant's shoulder and strides away

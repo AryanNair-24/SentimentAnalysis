@@ -1,0 +1,39 @@
+0) 15) text: You know bodyguard; he was a captain in Viet Nam. You talk to him, except he won't talk. This kind of man can kill you with his pinky. A nice quiet fella, though. The VIEW BEGINS TO PULL AWAY from this group.
+1) 0) text: A Saigon boom street in late 1968. There are bars and shops for servicemen; the rickshaws, the motorbikes. Our VIEW MOVES TOWARD one particular officer; B.L. WILLARD , in uniform, a Captain of the Airborne, followed by four or five Vietnamese kids trying to shine his shoes and sell him things.
+2) 0) text: Not much in this place -- a bar, linoleum flooring, a few tables and chairs, and a juke box. The lounge is fairly crowded. Willard takes off his cap and walks quietly past the soldiers at the bar. Some of them, catching sight of his ribbons, stop talking as he moves by. An INFANTRY CAPTAIN enters the bar, buys a couple of drinks and approaches Willard's table.
+2) 1) dialog: How about a drink ?
+2) 3) dialog: Winning the war by yourself.
+2) 6) dialog: Which part is that ?
+2) 10) dialog: That's good gin.
+2) 12) dialog: Delta ?
+2) 14) dialog: North ?
+2) 16) dialog: What unit were you with ?
+2) 18) dialog: Rangers, eh?
+2) 20) dialog: Were you Longe Range Recon --
+2) 22) dialog: That's quite an array of ribbons...
+2) 24) dialog: I was an FO for the 25th.
+2) 26) dialog: Yeah.
+2) 28) dialog: Sometimes.
+2) 30) dialog: Thirty -- sometimes fifty.
+2) 33) dialog: I didn't know we had units up there in North Vietnam.
+2) 35) dialog: How long were you up there ?
+2) 37) dialog: A year ? Waiter another beer.
+2) 44) dialog: Headquarters 11 Corps -- 405th A.S.A Battalion -- S-2 -- Com-Sec -- Intelligence -- Nha Trang.
+3) 15) text: I have never favored elite units, Captain, including your paratroopers or whatever. Just because a man jumps out of an airplane or wears a silly hat doesn't give him any priviliges in my book -- not in this man's army.
+3) 102) text: ... I feel Captain Kurtz' request for Special Forces training is highly unusual in regard to his past humanitarian concerns, and his somewhat liberal politics, though I can see no reason to deny it. A CLOSE SHOT of Kurtz with Green Beret on in the Vietnam jungle. His face is blank and vacant.
+5) 19) text: Captain B-L. Willard, sir -- 4th Recon Group -- I carry priority papers from Com-Sec Intelligence 11 Corp -- I believe you understand the nature of my mission.
+5) 21) text: Yeah -- Na Trang told me to expect you -- we'll see what we can do. Just stay out of my way till this is done, Captain. He cracks the plastic wrapping sharply -- takes out the deck of new cards and fans them. The Colonel strides right past Willard with no further acknowledgement. The others follow,
+19) 37) text: Captain -- Willard turns around looking for where the voice came from.
+19) 39) text: Over here, Captain -- He turns to see the Hollywood Agent under the flap of a large tent so that he won't get wet. He wears the same clothes as before, but is much dirtier. He motions Willard into the tent.
+20) 20) text: It's really rough here -- Captain -- we're just not built for it -- The Pilot laughs.
+24) 25) text: All right -- Lance, go with the Captain an' see what you can scrounge -- Willard climbs out with Lance.
+26) 97) text: I am Gaston de marais -- this is my family's plantation. It has been such for 121 years. It will be such after I die. This is my son, Philippe -- he has fought in Algeria and held the rank of Captain. And Henry LeFevre -- a sergeant; he was at Dien Bien Phu. My personal servant, Tran Van Kac --- Then he motions to the trees. A young man in a tiger suit and three women come forward from different positions -- all wear bush clothing and bear weapons.
+26) 124) text: Magnificent, eh, Captain? Willard looks.
+30) 13) text: This is only  for this war, Captain. Viet Cong -- 54; North Vietnamese regular forces -- 15; South Vietnamese -- 28 -- regular forces and otherwise. (pause)
+30) 14) text: Americain -- 6. Of course, they were, perhaps, mistakes, Captain.
+30) 31) text: Bon nuit, Roxanne -- bon nuit, Captain. Willard turns.
+32) 2) text: Are you warm, Captain?
+37) 7) text: Au revoir, Captain. 190  LONG SHOT - DOCK - P.B.R. Willard climbs on board and it pulls away.
+41) 61) text: As they proceed closer to the fortress-temple, men appear where a moment before there was only jungle. They are mostly Montagnards, but far more savage looking than any we've seen before. They wear only loinclothes and bandoliers of ammunition. their bodies are painted in strange patterns. They carry Army M-16's, Russian AK-47's and a wide variety of knives and clubs. Women emerge from the brush as well. they are armed and equally primitive looking. Interspersed among them are a few taller men with paler skins, with the remnants of Army insignia on them. The paint on their bodies is, if anything more bizarre. We CONTINUE TO MOVE ACROSS the entire group up to the stone gates of the fort, where thirty or so more are seen silhouetted against the sky. Willard and his men look up at people more primitive and more savage than any since the time of Captain Cook. They encounter, in the center of the group, what once appears to have been an American. he is tall, gaunt, wears a flak jacket, but is otherwise naked, save a loincloth. His face is darkened from dirt, battle smoke, strange camouflage patterns. His hair and beard are long, matted with mud and grease. He carries an AK-47 decorated with scalps and human ears. Willard approaches this beast, who seems shy and retiring.
+41) 82) text: Captain B.L. Willard reporting his presence, sir.
+41) 97) text: What other reason could you have come? A Captain. Ranger. Paratrooper. Graduate of the Recondo School. Am I right about these things?

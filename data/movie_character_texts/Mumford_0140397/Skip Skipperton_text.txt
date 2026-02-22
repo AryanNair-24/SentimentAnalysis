@@ -1,0 +1,180 @@
+8) 0) text: The place is quietly busy with the regulars. Mumford has favorite spot at the far end of the bar. Right now he's  sitting alone, reading the remnants of a newspaper. SKIP SKIPPERTON, the man on the skateboard, comes in. Eve in the bar is surprised to see Skip in here. Several patr greet him as he makes his way deeper inside, looking arou He's uncomfortable. He seems relieved when he spots Mumfo and heads back there. Mumford doesn't notice Skip waiting for his attention.
+8) 1) dialog: Hi.
+8) 2) text: Mumford looks up, smiles. Skip offers his hand.
+8) 3) dialog: You're Doc Mumford. (Mumford nods) Skip Skipperton.
+8) 5) dialog: Fine. Okay. Pretty good. I've been  hoping we'd meet. I've heard a lot  about you.
+8) 6) text: Mumford waits, friendly. Skip runs out of gas, gets uneas glances around.
+8) 7) dialog: Do you think we could...? Can I buy  you a drink?
+8) 9) text: LATER. IN A BOOTH near the back. They've been at it a whi but nothing is clear to Mumford, yet. Skip keeps his voic down; he doesn't want anyone else in the bar to hear him.
+8) 10) dialog: ..."Find the need and fill it" my  dad used to say -- I guess a lot of  dads say that -- but I did and it  just took off.
+8) 12) dialog: Panda? I've always liked giant  pandas... I've been to China and  seen them in the wild. That's the  kind of thing I can do if I want...  now. I can do pretty much anything I  want to do these days.
+8) 13) text: Skip stares into his beer for a moment, as though the tho depresses him. He catches himself and snaps back --
+8) 14) dialog: So now we make 23% of the modems in  the market, which is pretty good.
+8) 15) text: Skip glances around, leans in, confidential.
+8) 16) dialog: When I was growing up here, the town  was about dead. The timber business  was played out... Panda changed all  that. Now, just about everybody in  town either works for the company or  depends on it somehow. Which is kinda  the problem...
+8) 17) text: Mumford waits, watches. Skip gets uncomfortable.
+8) 18) dialog: Would you like another beer?
+8) 20) dialog: (brightens, like a  kid) Far out. Single malt? (gets up) Can I pick it?
+8) 21) text: Skip heads off to the bar. Mumford looks around. Everybod is watching.
+8) 24) text: Skip beams. Mumford leans forward in the same confidentia way Skip did before; he indicates that Skip should lean i too. Mumford is almost whispering --
+8) 26) text: Skip confirms that's it.
+8) 28) dialog: Of course! That's exactly what I  want.
+8) 30) text: Skip makes a face and gesture to indicate a large "YES!", but also total frustration and failure.
+8) 31) dialog: When Panda started to happen, I was  dating women from New York, San  Francisco, L.A. They came out of the  woodwork. Models, actresses, venture  capitalists... These were not the  kind of girls who were interested in  me before I hit it... And you know  what I discovered? I discovered these  girls did not love me for myself.  The majority of them didn't even  like me. But a lot of them would've  gladly become Mrs. Skipperton for a  while. Can you imagine that --  marrying someone just because they've  got money?
+8) 33) dialog: I gotta pee. (he gets up, a little  wobbly) Can I ask you something? This town  is called Mumford... Been that way  since... 18... 18-0... 18-0... (finally remembers) ...thirteen! Right? (Mumford: if you say  so) Now here's the question -- Your name  is Mumford, too.
+8) 35) dialog: You moved here from back East and  your name is the same as this town.  Is that right? (Mumford shrugs) Far out.
+8) 36) text: Skip takes a few steps toward the men's room, then comes  back and leans down toward Mumford.
+8) 37) dialog: I hope you don't think I want you to  do this for free. Just because we're  gonna play it like we're friends,  doesn't mean I won't pay you like a  doctor.
+8) 39) dialog: I have a lot of money. Do you know  how much money I've got?
+8) 41) dialog: I've got three big ones.
+8) 43) dialog: No, no... I have three billion  dollars.
+8) 44) text: Skip stumbles off to take a leak. Mumford takes a moment digest that. It's difficult.
+22) 0) text: Idyllic. The beautifully manicured field is surrounded by lush woods. Standing about forty feet apart, Mumford and  Skip are alone on the field throwing a baseball back and  forth. For quite a while the only sounds are the birds, t wind, and the regular SLAP of ball into glove. Finally --
+22) 1) dialog: This is great!
+22) 3) dialog: This is exactly what I wanted.
+22) 6) dialog: You'd be surprised. Most guys have  kids or wives or girlfriends. They're  busy. It's not as easy as you think.
+22) 8) dialog: Well, you know... that's the thing.  Like I said, just about everybody in  town works for me. And it's just not  the same asking someone to throw a  ball when they work for you. It's  like an order or something... And no  one -- no one -- asks me.
+22) 11) dialog: Don't you like this?
+22) 13) dialog: Okay then.
+22) 16) dialog: No... I've seen her. Good-looking  woman.
+22) 18) dialog: 
+22) 21) dialog: (sparks to that) Really? I'm the only person I know  that likes Danny Ainge, outside of  Celtic fans. Maybe Phoenix.
+22) 23) dialog: Did you know that Danny Ainge was  drafted by the Blue Jays? Do you  know what kind of athlete you have  to be to play in the NBA and in the  bigs?
+22) 25) dialog: Unbelievable...
+22) 29) dialog: What?
+22) 32) dialog: I would've traded any of it to have  made the Mumford High varsity.
+22) 34) dialog: So I guess Henry Follett is a patient  of yours. He's my pharmacist.
+22) 37) text: Skip is a little surprised to hear this from Mumford, but just throws the ball.
+22) 39) dialog: Uh-huh.
+22) 41) dialog: I wondered what happened to her...
+22) 42) text: Skip is fascinated, but a little uncomfortable. Mumford s oblivious, unusually talkative --
+22) 44) text: For the first time, Mumford throws the ball way high, lik long fly ball. Skip, delighted as a dog, takes off runnin and just barely catches it on the run. He pegs it back to Mumford.
+43) 0) text: Mumford strides up the trail on his late day excursion. H comes around a bend and is surprised to find Skip waiting for him, looking serious.
+43) 2) dialog: Doc. I know we're not supposed to  get together till Wednesday...
+43) 4) text: Mumford indicates that Skip should walk with him up the t
+43) 5) dialog: How many sessions have we had now,  Doc? (Mumford tries to  remember) Six. And it's been good... like we  were two buddies hanging out. Just  shootin' the shit.
+43) 8) dialog: This is really hard. Everything I  want to say is hard...
+44) 0) text: Mumford and Skip come out of the trees, climb onto the bi rock, and settle down. The sun is falling over the town o Mumford.
+44) 1) dialog: ...We're like friends, almost... who  trust each other.
+44) 2) text: He checks Mumford's reaction. Mumford nods, offers Skip w who turns it down. Mumford takes a swig.
+44) 3) dialog: I want to tell you something, Doc,  but before I do, I need to ask you a  question... Because, for me to tell  you this thing -- well, I haven't  told anybody about this. It's the  biggest secret I've got.
+44) 5) dialog: You're a shrink, Doc. Aren't I  supposed to be able to tell you  everything?
+44) 7) text: Skip, even more unsure now, looks away, at the town below
+44) 8) dialog: That really relates to the thing I  want to ask you... I've noticed that  sometimes, not a lot, but sometimes,  when we're hanging out, throwin' the  ball... or that time we went  bowling... sometimes you'll like -- (gets it out fast --) -- tell me things about your other  patients.
+44) 9) text: Mumford lets that hang a few moments, then acknowledges i silently. Now Skip is even more nervous.
+44) 10) dialog: Hey, maybe that's all right! I don't  know all that much about psychology  or therapy or... ethics, so maybe  there's something I missed... or  something...
+44) 12) dialog: I trust you. Definitely. No question.  But, yeah, I'm a little concerned. I  mean, you're not supposed to tell  anyone about your patients'  problems... are you?
+44) 13) text: Mumford looks at Skip for a long moment.
+44) 15) text: The conversation seems to end there. Skip's not sure wher to go next. Finally --
+44) 16) dialog: Yeah, well... what I was gonna tell  you --
+44) 18) dialog: Doc, I trust you! You've listened to  me better than anybody... maybe ever. (leans in, intense) And this secret I've got, I can't  stand it anymore. I don't know if  I'm some kind of --
+44) 19) text: Skip looks around at the darkening woods, though clearly  there's no one around.
+44) 20) dialog: -- I don't know if I'm a pervert or  what. It's taken me this long to get  where I can come out and say it... I  can't back away now. I can't spend  another day not knowing if I'm nuts.
+44) 21) text: Skip closes his eyes for a second and gathers himself.
+44) 22) dialog: All right, I'm just gonna tell you,  as simple and direct as I can. (one last spasm of  doubt) And you understand that this is a  big secret? Just between us? (Mumford does) Okay. You know I've got this gift  for certain kinds of... machines.
+44) 24) dialog: That's right. And you also know that  even though I make 23% of the modems  in the world... I cannot make one  simple connection with any woman who  could truly love me.
+44) 26) dialog: It's true, believe me. So... do you  know what I've been doing, all alone,  in my workshop, for almost two  years?... Mr. Find-the-Need-and-Fill- It. How I spend my every solitary  hour?
+44) 28) dialog: Guess. (Mumford demurs) Go ahead, guess!
+44) 30) dialog: No!... Although that's a good guess.  No, what I've been working on, what  the world really needs and no one  has been able to create -- (leans in, whispering) -- a virtually life-like, humanoid,  gender-specific, anatomically  functional... sexual surrogate slash  companion.
+44) 33) dialog: Sexual surrogate... slash...  companion.
+44) 35) dialog: No, Doc, not a doll. I am Panda. I'm  talking about much, much more than a  doll. The world has never seen what  I'm talking about... except maybe in  the movies.
+44) 36) text: Mumford considers that a long time, watching as the sun  finally sinks below the horizon. He looks back at Skip.
+44) 38) dialog: You don't think I'm insane?
+44) 40) dialog: No, Doc, a private secret! It's  perverted, it's pitiful. What am I --  Dr. Frankenstein? Aren't you repulsed?
+44) 42) dialog: (nonplussed) Really?
+44) 46) dialog: (hurt) It's not?
+44) 48) text: Mumford twists the headlamp and the light shines out in t dusk. Mumford turns the beam directly at Skip.
+44) 50) text: Skip, hanging on every word now, agrees emphatically.
+44) 52) text: At first, Skip thinks he's misunderstood Mumford. But in huge silence that ensues, he replays it and knows he's he right. Mumford looks around, adjusts his headlamp, and ge up.
+45) 1) dialog: Who else knows?
+45) 3) dialog: It's time you did some talkin', Dr.  Mum -- Wait a minute. That is your  name, isn't it?
+45) 5) dialog: Damn! What is your name?
+45) 7) dialog: It matters to me.
+45) 9) dialog: I've told you a lot of private stuff.
+45) 11) dialog: What about everything? How did this  happen?
+45) 12) text: Mumford looks at Skip, considering. He takes a long pull  from his beer, then looks at the frosty bottle.
+59) 0) text: BACK TO PRESENT. Skip watches Mumford intently.
+59) 2) text: Mumford stands up and stretches, then sits on the railing facing Skip.
+65) 6) dialog: Are you telling me your last job  before becoming a psychologist was --
+66) 0) text: BACK TO PRESENT. Skip is leaning intensely toward Mumford
+66) 1) dialog: -- an investigator for the Internal  Revenue Service?
+66) 3) dialog: Sounds like you have several.
+66) 5) dialog: An IRS investigator with a drug  problem?
+66) 7) dialog: Did you carry a gun?
+68) 2) dialog: Holy shit!
+69) 0) text: Mumford settles back in his chair as Skip shakes his head astounded.
+69) 2) dialog: You were messed up, man.
+69) 4) dialog: Hey, you've done good. Look at  yourself... you've cleaned up, you've  got a career --
+69) 5) text: Skip stops, remembers the truth, realizes. Mumford smiles
+69) 6) dialog: At least you pulled yourself out...
+69) 8) dialog: You and Candy...?
+85) 0) text: Skip is staring at Mumford. Empty beer bottles are lined on the porch railing.
+85) 1) dialog: And so you did...
+85) 3) dialog: And the drugs?
+87) 2) text: Mumford goes inside. Skip sits listening to the night. Fr downstairs, in Lily's apartment, he HEARS A SHOWER GO ON. Mumford comes back out.
+87) 3) dialog: Somebody's taking a shower down there.
+87) 5) dialog: I wish I could live in the shower.  I'd take five a day if I had the  time. I went to this spa in Germany,  a sanitarium practically, up on this  mountain. And the great thing --  they just kept you wet all day.
+87) 7) dialog: How'd you do it? (Mumford is confused) The new you.
+87) 9) dialog: I know it starts with a birth  certificate...
+88) 4) dialog: (playing along) Is that like a mimeograph?... What  about the name?
+89) 0) text: Mumford looks at Skip.
+89) 2) dialog: "Mumford"... I mean, why pick the  name of the town you were going to?
+90) 3) dialog: And a birth certificate is enough?
+91) 2) text: Skip looks upset.
+91) 3) dialog: But you studied psychology, right?  You did the training and just never  got the degree?
+91) 5) dialog: (hopeful) Psych major?
+91) 7) dialog: Jeez, man. But you're good at it!
+91) 10) dialog: Where ya going? I've got a million  questions.
+91) 12) text: Mumford goes inside. Skip nods, head spinning.
+94) 6) text: Mumford's attention is suddenly drawn to something across the street. He glances thoughtfully at Lily for a moment, then back out there. WHAT HE SEES: Skip is once again zipping down the street his skateboard in the midst of traffic. He has not notice Mumford.
+94) 8) text: Skip looks over, then immediately changes course toward t barely checking the surrounding traffic. He is extraordin skillful. When he gets to the curb, he pulls a snazzy boa flipping maneuver to dismount and come up on the sidewalk Some of the Japanese matrons react with delight.
+94) 9) dialog: Doc.
+94) 10) text: Skip notices the tour members filing by, but is immediate distracted by the presence of Lily, who's a little excite to meet the local celebrity.
+94) 13) dialog: (flustered) Yeah... me you, too... I was at your  house...
+94) 15) dialog: Upstairs, with Doc... Yeah, it's  very nice... I heard your shower.
+94) 16) text: Skip can't believe what he just said. Neither can the oth two, actually. Mumford can't stop himself from laughing, he cuts it off fast. Lily blushes, but Skip's agitation h charmed her. Something's happening here.
+94) 18) dialog: What?
+94) 21) dialog: I may be young, but Doc can tell  you, I'm very immature.
+94) 22) text: He's making a joke and it represents quite a recovery. Th all relieved. Then there's an awkward silence. Skip watch the last of the tour enter the restaurant.
+94) 23) dialog: So, is this like a Japanese  restaurant?
+94) 25) dialog: That's a lot of people all at once.
+94) 27) dialog: What are they?
+94) 30) dialog: Salad nicoise? I love salad nicoise.
+94) 32) dialog: Yeah.
+97) 6) dialog: Hey, Doc!
+97) 7) text: Mumford looks that way. In the distance, Skip is descendi from an upper level on his skateboard via a unique system ramps designed for that purpose alone. None of the hustli Panda Employees in the area take any particular notice of the sight. Skip meets Mumford and his escort at the bottom of the ra with a spectacular stop.
+97) 8) dialog: Thanks, Jennifer, I'll take him from  here.
+97) 9) text: The Security Aide retreats as Skip (riding slowly alongsi leads Mumford into a side corridor.
+97) 10) text: SERIES OF SHOTS. Skip and Mumford move through a maze of  hallways with progressively less foot traffic.
+97) 11) dialog: I've never brought anyone down here  before.
+97) 13) dialog: Doc, there's something about what  you told me the other night I can't  get out of my head. It's driving me  batty -- (Mumford nods, waits) Why me? How did you know you could  trust me?
+97) 15) text: Skip is pleased. They approach a heavy steel door, the  entrance to Skip's Workshop. A VERY OLD SECURITY AIDE sit at the end of the intersecting hallway, watching this are Skip shouts down there --
+97) 16) dialog: It's just me, Dino!
+97) 19) dialog: You want my advice? Far out!
+97) 20) text: Skip puts his hand in a scanning device in the wall. Some lights blink and the heavy metal door pops open a few inc Skip has to put all his weight into opening the door. He  hesitates, suddenly concerned --
+97) 21) dialog: I hope nothing you're about to see  will shake your faith in me.
+97) 22) text: Mumford reassures him with a look. Skip pushes the door o far enough for them to enter, then pulls it closed behind them.
+98) 0) text: Mumford and Skip enter the large, windowless workspace. W at first appears chaotic is, in fact, carefully organized Many different disciplines interface here: THE BODY SECTION: The first thing one notices -- some  incredibly life-like, anatomically correct,  sculpture/mannequins -- both male and female. You half ex them to breathe. From there, a full wall of forms descend from store mannequins and skeletons all the way down to a huge variety of inflatable sex dolls. THE CYBER SECTION: A dizzying array of computers and scre some showing wire-form outlines of body parts in repeated motion. Above them, on a huge corkboard, hundreds of comp generated renderings of skin, eyes, limbs, sexual organs. THE BODY PARTS SECTION: Medical models of teeth, eyes, li limbs. Hundreds of porn store samples: plastic dildos, ru vaginas, sucking machines and sundry genitalia. THE FORM-CASTING SHOP: All the machinery you need to make rubber and acrylic forms of anything that can be computer designed. All these weird objects are set upon shiny, spotless, hig tech work surfaces. Skip watches Mumford move about in aw picking up the odd item.
+98) 1) dialog: Pretty creepy, huh? Are you totally  disgusted?
+98) 3) dialog: This doesn't seem a little...  perverse?
+98) 5) dialog: It's not going to be me. I'm giving  it up.
+98) 7) dialog: It's all your fault. In the last 48  hours, I've completely lost interest.
+98) 9) text: Skip looks at Mumford, a wide grin on his face.
+98) 10) dialog: Lily.
+98) 12) dialog: Oh, she doesn't know about it yet.  Right now, of the two of us, I'm the  only one in love. But I'm very stoked.
+98) 13) text: Skip settles in front of the Body Parts section, framed b an array of limbs and sex toys. There's an assembled pelv section with upper legs lying in the clutter behind him.
+98) 14) dialog: Doc, how I can be of help to you?
+98) 15) text: Skip leans back against the table and accidentally hits a button. The pelvic section begins to hump, slowly and  sensually, in place. It's amazingly life-like, but it mak a mechanical WHIRRING SOUND. Skip fumbles to turn it off.
+98) 16) dialog: Sorry...
+98) 18) text: Skip gets the pelvis switched off and turns back to Mumfo
+98) 19) dialog: I'm here for you, Doc.
+98) 21) dialog: I guess that makes sense.
+98) 24) dialog: You've fallen in love with one of  your patients?
+98) 25) text: Mumford nods. Skip is desperate to say something useful.  Suddenly, he has an alarming thought.
+98) 26) dialog: Doc!... It's not me, is it?
+98) 30) text: Skip is relieved. He has another thought and brightens.
+98) 31) dialog: Doc, what about this? You're not  really a licensed psychologist!
+98) 32) text: Mumford turns to meet Skip's gaze. Skip realizes the  ramifications of what he's just said.
+98) 33) dialog: Hmm. I guess that doesn't help... I  see where you're going here. It's a  mess.
+109) 1) dialog: Far out!
+118) 8) text: WE SEE there's a pretty big turnout for this hearing.  Prominent among the onlookers: Lily and Skip, sitting  together; Nessa and Martin, holding hands; Dr. Delbanco a MRS. DELBANCO. Gilroy, from the State Certification Board sits with the PROSECUTOR.

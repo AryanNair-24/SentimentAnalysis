@@ -1,0 +1,82 @@
+89) 17) dialog: I think today will be the day, my friends. We've been in the inshore currents since yesterday. Three crowns to the first one to sight the coast. God preserve us all.
+89) 20) text: Dom Paulo strides off to his station by the makeshift rudder.
+89) 21) dialog: Don't worry, there'll be food for all ashore. Africa's full of meat and drink.
+90) 0) text: The sun is up, and Dom Paulo was right. The raft is now standing off-shore riding out the heavy ocean surf before finally beaching. The strong are helping to row ashore, under the shouted instructions of the NAVIGATOR. Those too weak to help are huddled beside their posses- sions, hoping to survive this final trial of the sea.
+91) 0) text: Civilization has taken hold quickly in this little corner of Africa. Dom Paulo, the leader, already has a table and chair set up in the sand, and behind him SAILORS are erectig a tent-like house, made from timbers and rich tapestries and carpets. The others are making their own shelters all along the beach. A regular little community is taking shape, a crazy, rich-textured village decked ou in all the colors of the East. The silks and ginghams that were destined for the finest halls in Europe now giv shelter to sick slaves, starving sailors, ruined traders and grieving mothers.
+91) 4) dialog: How many made it?
+91) 6) dialog: Two parties of ten men each... one to the north and one to the south... bring back what you can... game, fruit, anything... and send someone back as soon as you find fresh water. Any trouble, discharge three shots.
+91) 7) text: The Officer leaves to carry out his orders.    Dom Paulo addresses another of his men, Da Cunha.
+91) 11) dialog: Have the carpenter start immediately on a cross, a big one... Father Diogo wants a place of worship by this time tomorrow. We'll look for a spot later. We've all got a lot of praying to do. And where's Dias... tell him I want to see him.
+93) 0) text: Hector and Francisco reach Dom Paulo's office in the sand. The leading citizens are gathering there as the two captured Deserters are brought in.
+93) 2) text: Dom Paulo looks at the two prisoners.
+93) 3) dialog: You men are deserters. You will die tomorrow.
+93) 5) dialog: Chain them on the raft for tonight, and watch them...
+93) 8) text: Dom Paulo's authoritative manner vanishes in an instant. He becomes hesitant, unsure of himself. As always, his Son watches every detail of the exchange.
+93) 9) dialog: Do you think so?
+93) 11) dialog: You're right... but then how can we punish them? We can't lock them up...
+93) 18) dialog: Oh dear...
+93) 19) text: Dom Paulo turns to the Priest.
+93) 20) dialog: What do you think, Father?
+93) 24) text: Dom Paulo is deeply confused.
+93) 25) dialog: So I was right the first time?
+93) 28) dialog: What's proper justice?                                *
+93) 35) dialog: I'll decide... no I won't... we'll all decide... most of the people that matter are here... we'll have a vote... who agrees with Salgado... and me... that they should die?
+93) 37) dialog: ... and those against death...
+93) 39) dialog: You can't vote...
+93) 41) dialog: Can he?
+93) 45) text: Dom Paulo thinks.
+93) 46) dialog: Very well... Da Cunha?
+93) 50) dialog: The cross the carpenter is working on... tell him to turn it into a scaffold... have it erected along the beach, away from the women... the executions will be at sunrise tomorrow. Tell Father Diogo.
+93) 52) dialog: Take them to the raft.
+93) 53) text: The dazed Deserters are led off.       Dom Paulo's face c in doubt again.
+93) 54) dialog: Everyone in agreement with hanging?                    * Or should we shoot them... or what?
+93) 57) dialog: Very well... now... who's going to conduct the executions... should we pick someone, or have a volunteer...
+93) 58) text: Dom Paulo looks over the faces of the men.       He stops Hector.
+93) 59) dialog: Hector?
+93) 62) dialog: Thank you, Alvarez. Sunrise tomorrow. Send the Priest to them tonight.
+93) 63) text: We can sense the feeling of relief in Hector. Dom Paulo's son has been a silent witness to everything that has happened, but his blank face reveals nothing of his feelings.
+96) 0) text: In the privacy of their tent Dom Paulo and his son are engaged in their nightly ritual, practicing on their recorders. Dom Paulo leads the young boy through an intricate, pretty tune. They sit formally and there is an air of stoicism about them, determined as they are to maintain their civilized habits in these bleakest of circumstances. But there is also a feeling of madness about it. The madness of a man who has lost a grip of what is going on about him. Down on the beach men are waiting to die in the morning on his orders. The blend of formality and madness make the scene comic.
+97) 2) dialog: No, they might want to be friendly... they'll have food too... get one of our African slaves... we must try and talk to them... If they think we're timid we're dead.
+100) 0) text: The Slave approaches Dom Paulo outside his tent.
+100) 2) text: Dom Paulo and the others laugh.
+101) 0) text: The tide is sweeping more wreckage into the bay. Barrels and boxes and timber bob in the waves. People make their way to the shoreline to retrieve these new gifts from the sea. The whole of the camp is eager and shouting. They bring in the boxes and barrels. A whole harmonium is man- handled ashore. Some boys drag it up onto dry sand and start to work its bellows. At first only water spurts from it, but then a watery note or two is emitted. The mood soon becomes festive. Dom Paulo makes his way down to the shore to make the celebrations official. By now the first of the newly-arrived crates are being opened. Inside are eggs, many, many large eggs, in crate after crate. An OFFICER brings the first of the eggs to Dom Paulo.
+101) 2) dialog: Well... it's eggs for supper tonight... for everyone...                             *
+105) 0) text: The Officers and Dom Paulo are selecting items for barter from their crates and boxes of valuables. Hector and other notables are also there. Cheap goods, a box of rosaries and crucifixes made of common beads, for example, are being gone through and suitable junk selected for gifts. They talk as they work.
+105) 1) dialog: How many are sick?
+105) 3) dialog: How wise of you to think of that now. Any deaths?
+105) 5) dialog: How many eggs did you have?
+105) 10) dialog: I had four.   I don't feel well now...
+105) 12) dialog: Let's not think about it... what                        * have you got?                                           *
+105) 16) dialog: Organize some men to gather all                         * the nails they can find. We have to keep control of that particular currency.
+105) 17) text: Dom Paulo rummages in a box of cheap rosaries, selects a couple, and then retires to his tent. The others work on at the table. Hector drifts off down to the beach.
+106) 0) text: Inside his tent Dom Paulo goes to his small mirror. He takes off the heavy silver chain and medallion from around his neck, and a valuable brooch from his coat. He stows them safely in a locked box and replaces it in its hiding place in the sand floor. Then he adorns himself in the cheap rosary and other trashy items. Dom Paulo, catching sight of his watching Son in the mirror, holds a silencing finger to his mouth.
+109) 7) dialog: Right... you four as well...
+109) 8) text: He begins to open up his coat and shirt. The four Officers do the same. The King and a few of his atten- dants take a step or two forward and peer at the exposed white European bellies. They look at one another and mumble solemnly. Then they step back. Dom Paulo and the Officers fix their clothing and re-muster their dignity. The King is enjoying himself.    He speaks again to the Slave, who then translates.
+109) 10) text: The King takes a deep breath, then nods to Dom Paulo. Dom Paulo and the Officers do as they are told. The King joins them, and for a few moments there is a kind of communion between them. Then everyone joins in. It is a strange, poignant moment, all the Natives and all the Europeans united in the simple act of breathing. Dom Paulo regains his composure.    He speaks to the Slav
+109) 11) dialog: Tell him that we want to trade with him, to buy food... and we want him to guide us out of here... we have a long way to travel... to where the white men have their big ships...
+109) 14) dialog: Tell him I want to give him these...
+109) 15) text: Dom Paulo steps forward to the King. An Officer brings a wrapped cloth. Dom Paulo opens it, letting the King see the pieces of broken copper inside.
+109) 20) dialog: ... and tell him that I want to make him a very special gift as one King to another...
+109) 22) dialog: Of these precious things, which my fathers and forefathers have worn for many long years before...
+109) 23) text: Dom Paulo solemnly and without a blush removes the cheap rosary from around his neck and offers it to the King.
+109) 24) dialog: I shouldn't do this, but it is such a special occasion, and he is such a great and worthy King...
+109) 25) text: This is translated.    The King refuses to accept the rosary. Instead he    is pointing to a couple of chunky and valuable-looking   rings on Dom Paulo's fingers which he has forgotten to   remove.
+109) 27) text: It is impossible to know if the King is being naively polite or hugely clever. Dom Paulo's Officers enjoy a muted titter as he peels off his precious rings and gives them to the King, replacing the worthless baubles around his own neck. The King begins talking again. The Slave translates.
+109) 32) dialog: Thank you, thank you...
+109) 35) text: Dom Paulo looks shocked.
+111) 0) text: Dom Paulo and the Priest and some of the Officers are having a more formal meal at Dom Paulo's table outside his shelter. An argument is in progress between Dom Paulo and GASPAR DIAS, the navigator. Gasper Dias has drawn a rough map which lies on the table.
+111) 2) dialog: Can't you be more accurate?
+111) 8) dialog: We just want you to be as accurate as we know you can be, Dias. After all, the ship did manage to find that rock with admirable precision.
+111) 15) text: Dom Paulo lets out a heavy sigh.
+111) 16) dialog: I've discussed it with Father Diogo... I don't see how a hundred of us can carry seventy sick...
+116) 0) text: Next morning the camp on the beach     is being broken up The place is like a junkyard. The      amount of damage t a hundred and fifty people can do     to a beach in two d is impressive. Dom Paulo and the      officers watch the With them are some messengers from     the king, and the Slave translator. One of the messengers is talking.     When he finishes, t Slave translates.
+116) 2) dialog: We need food as well... ten cows... to take with us... then the King can have the music.
+118) 0) text: Dom Paulo and Father Diogo are standing beside Dom Paulo's table, all that remains of his headquarters on the beach.
+118) 2) dialog: You're staying with them?
+118) 5) text: Two sailors, like stagehands, enter and remove the table, leaving Dom Paulo and Father Diogo propless on the beach.
+122) 0) text: Outside the hut, Dom Paulo is talking with Francisco.
+122) 1) dialog: We won't forget you, or what you are doing for these poor people...
+122) 3) dialog: Yes, of course...
+122) 5) dialog: God protect you... it breaks my                        * heart to leave you all here, but I don't know what else I can do. They shake hands.
+122) 6) dialog: We're leaving the cross with you...
+122) 8) dialog: It's too heavy to   carry... and who knows... it might   make some impression on the   heathens. Hector comes out of the hut, solemn-faced.

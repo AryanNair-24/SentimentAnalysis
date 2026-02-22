@@ -1,0 +1,100 @@
+29) 9) dialog: (on phone) Hi, I’m fine. Dad’s with me. We’re at the hotel. We’re fine.
+29) 11) dialog: Dad says it’s some kind of explosion.
+29) 13) dialog: We don’t know.
+29) 15) dialog: Are you both OK?
+29) 20) dialog: Ok listen, well look there’s no need to worry. Whatever it is the police are dealing with it. We'll call you when we know what’s going on. OK? 18. She hangs up, as they keep walking towards whatever has happened. More EMERGENCY VEHICLES pass by.
+29) 22) dialog: They're fine. They walk on.
+30) 6) dialog: (dialing again) Everyone’s down at Labour HQ for the campaign meeting. Everyone.
+30) 12) dialog: (phone answers) Lena? Are you OK? What’s happened? (listens, then to Sveinn) Sounds like the whole government centre’s been hit. (into phone) Have you heard from Erik and the others? ...OK. I’m going there now. Call me if you hear anything. Yes. Cancel all of today’s meetings. They walk on.
+45) 0) text: Viljar’s PARENTS, CHRISTIN and SVEINN, arrive at a corner just down from government centre. POLICE CARS, AMBULANCES CROWDS milling around. Chaos.
+45) 3) dialog: Excuse me. Excuse me, Sir. I need to see my colleagues. We’re supposed to be having a campaign meeting. At Labour Party headquarter.
+45) 5) dialog: Can you at least tell me which buildings have been hit?
+45) 11) dialog: Viljar?
+45) 13) dialog: Viljar?? What’s-— The phone line goes dead.
+45) 15) dialog: (trying to call them back) It was Viljar. He said someone was shooting at them.
+45) 17) dialog: He just said there was shooting and hung up.
+45) 19) dialog: (dialing) I’m calling him...
+45) 21) dialog: It was really quick. He definitely said shooting. (listens) It’s going to voicemail.
+45) 23) dialog: (trying phone again) At us. He said: Mum. Someone’s shooting at us. Quietly. Just like that. That was it. +e
+45) 30) dialog: Yes. I heard gunshots. They look at the chaos in front of them.
+57) 0) text: CHRISTIN and SVEINN driving towards Uteya. * CHRISTIN keeps trying Viljar’s phone, turns on the radio. 66 67 68 69 70 31.
+64) 0) text: CHRISTIN and SVEINN speeding to UTOYA. The lake comes into view. And a police roadblock. SVEINN slams on the brakes. They get out of car. The sound of gunfire in the distance.
+64) 1) dialog: My children are on the island! You've got to let me through.
+64) 4) dialog: We'll find another way through. He pulls a hard U-turn and they speed back the way they c
+88) 6) text: VOLUNTEERS; REPORTERS; VICTIMS’ FAMILIES; and TRAUMATISED SURVIVORS wrapped in towels and bathrobes. * CHRISTIN, taking it all in. Suddenly:
+88) 8) dialog: (grabbing him) It’s OK. You’re safe. You’re safe now. SVEINN puts his arms around him too.
+88) 11) dialog: A policeman? *
+88) 17) dialog: It’s OK. It’s OK. You’re safe. You've done so well. Viljar will be so happy you’re alive. 100 101 46. CHRISTIN leaves SVEINN looking after TORJE. Walks back in the sea of desperate PEOPLE. She sees VOLUNTEER with a clipboard.
+88) 18) dialog: I’m looking for my son Viljar Hanssen.
+88) 20) dialog: (to SVEINN) He’s not here. The phone connects.
+88) 21) dialog: Hello, my son Viljar Hanssen is missing, he was on Utoya. Do you have any admissions by that name?
+93) 0) text: TORJE asleep. CHRISTIN watching her phone. She rubs her temples. Across the lobby, SVEINN talking to a group of DISTRAUGHT PARENTS. He hugs them as they are led away by VOLUNTEERS. CHRISTIN watches SVEINN come back. He express desolate.
+93) 3) text: Christin Kristofferson?
+93) 4) dialog: Yes? 54.
+93) 7) dialog: He has a bad scar on his neck. A fire burn.
+94) 2) dialog: (to SURGEON) * Can I touch him? * (to VILJAR) * Viljar? Mum and Dad are here now.
+99) 8) text: 119 120 61. INT. ULLEVAL HOSPITAL - VILJAR’S ICU ROOM - CONTINUOUS 11 SVEINN reaches VILJAR’s room. CHRISTIN and TORJE are sitt He puts his arm around TORJE.
+99) 10) dialog: Yeah. I’m fine. The LEAD SURGEON enters. See them struggling to keep it together. Through an angle in the window, we see VILJAR brought bac from theatre.
+99) 48) text: 123 65. INT. ULLEVAL HOSPITAL - VILJAR’S ICU ROOM - NIGHT 123 VILJAR still unconscious. CHRISTIN exhausted. Outside SEV DOCTORS confer with SVEINN, obviously concerned.
+99) 51) dialog: I'll be fine.
+99) 53) dialog: Can you bring me clothes? *
+99) 56) dialog: (hugs him) It’s okay. You did the right thing. * See TORJE, in anguish. *
+100) 3) dialog: Hi Lara..
+100) 5) dialog: He needs to wake up. They both look down at VILJAR.
+100) 6) dialog: Are you OK?
+100) 8) dialog: I’m so sorry. She hugs LARA. It’s a bit awkward. CHRISTIN (CONT’D) What was her name?
+100) 10) dialog: She'd be so happy you're alive, Lara. SVEINN enters with TORJE, fresh coffee. He looks exhauste Sees LARA. 126 127
+100) 11) dialog: This is Lara. She was on the island. She wanted to see how Viljar was doing.
+100) 13) dialog: Do you know Viljar well?
+100) 16) dialog: Thank you. She turns back to VILJAR, still unconscious. 67.
+103) 2) dialog: (waking) Viljar? VILJAR blinks, shifting in and out of consciousness. CHRISTIN (CONT’D) Viljar can you hear me? SVEINN wakes. He and TORJE staring at VILJAR. CHRISTIN (CONT’D) Get the doctor! VILJAR'S eye flickers again. He looks like he’s trying to speak. CHRISTIN (CONT’D) (as Sveinn goes) Viljar! Doctors arrive and begin checks.
+104) 6) dialog: He’s fine, he’s absolutely fine. *
+108) 1) dialog: 
+108) 4) dialog: Yes, of course. CHRISTIN and SVEINN leave the room. 74.
+114) 5) text: 151 152 82. INT. ULLEVAL HOSPITAL - VILJAR’S NEW ROOM - DAY 151 A NURSE carefully removes VILJAR’S bandages on his should Revealing angry red wounds. CHRISTIN watches. Sees VILJAR in pain.
+114) 6) dialog: (to nurse) Can we get him something for the-
+115) 0) text: CHRISTIN pushes VILJAR in the wheelchair. Her phone rings. She turns it onto silent.
+115) 2) dialog: People are angry.
+115) 4) dialog: I’m not leaving you.
+115) 6) dialog: I can Skype.
+115) 8) dialog: Yeah, Skype. Maybe you could Skype with me? If you’re up to it...
+115) 13) dialog: (the first time she’s seen him smile) I’ll try. Her phone goes again.
+115) 15) dialog: I‘1l call them later.
+116) 1) dialog: Viljar!
+117) 1) dialog: (bringing him back to reality) Viljar! See VILJAR. Battling fear and rage. CHRISTIN (CONT’D) He can’t get you. He’s never going to get you.
+118) 3) dialog: (to Skype camera) I’m honoured to become Mayor of Svalbard, and I want to thank everyone for being so understanding. It’s been a difficult time, but hopefully we will be home soon. (beat) Oh and Viljar has a message. She adjusts the computer.
+118) 5) dialog: (steps in) So tonight we're going to have a little celebration here in the hospital. And in the morning I'11l get to work, because we have so much to do to heal our country. She ends the call. The room subdued, the whole family strangely empty.
+124) 3) dialog: Do you want me to...
+124) 8) dialog: Do you want me to help with your shoes?
+125) 0) text: TORJE in his bedroom, headphones on. VILJAR in his bedroom, sees a car approach. A knock at the front door. CHRISTIN answers it. SIMON and ANDERS’ PARENTS, last seen at the hotel. A terrible moment. SIMON’S FATHER (holds out a bottle) Simon and Anders would have wanted us to welcome you home.
+132) 0) text: CHRISTIN in her new office with her TEAM.
+132) 1) dialog: (to the group) We need to generate new ideas. New ways of bringing investment back into the local economy. Coal prices are falling. We can’t rely on the mines anymore. Fishing too. It’s up to us to look for new ways to secure Svalbard’s future.
+137) 0) text: A POV at speed through dense snow. VILJAR on the snow mobile. Riding hard. Back to the POV again: Round a bend. See Viljar pushing on. Faster, faster. As if daring to cr Now lights behind... SVEINN and CHRISTIN coming after him in a pick-up. Desperate to catch him. VILJAR turns a sharp bend. Faster still. Another bend. An another. See VILJAR, closing on the trees. Closing, closing... unt at the last minute he ploughs into a soft snow drift.
+137) 2) dialog: Wait!
+137) 9) dialog: (hugs him) It’s OK. Let’s go home, OK.
+137) 40) dialog: (seeing VILJAR) You OK?
+137) 42) dialog: I’m just going to see your father. VILJAR watches his MOTHER drive away.
+137) 44) dialog: We just got an email. From the lawyers. There’s a briefing on the mainland. They want us to go. So we know what to expect from the trial.
+137) 46) dialog: Sveinn.
+137) 48) dialog: We both need to engage with this. It’s important.
+137) 50) dialog: They're still here.
+137) 52) dialog: 
+142) 0) text: Follow CHRISTIN towards a room, crowded with PARENTS and their LAWYERS. She pauses outside. Hears a loud argument progress. She opens the door and slips into the back as t argument rages.
+142) 13) dialog: (to everyone) Our children won't get justice by executing him. (beat) I know you’re angry. I’m angry too. And my sons came back. Many of your children didn’t. But we can’t surrender to our anger, no matter how much we feel it. Somehow we have to learn to trust the world again. To trust each other. We have to reconnect. And that begins when we walk into that courtroom. (beat) Our power will come from how we respond to this man. Not in how we silence him. We have to trust in justice. That’s the only way we'll win.
+143) 0) text: CHRISTIN by her car. She hands
+143) 2) dialog: I'll give it to him.
+144) 5) dialog: They want him to testify... *
+144) 8) dialog: Maybe he needs to. *
+144) 10) dialog: Maybe he needs to face it. *
+144) 12) dialog: We don’t. It’s his choice.
+153) 0) text: LIPPESTAD waits for Breivik to arrive. The courtroom is crowded. Banks of PRESS and CAMERAS. Broadcasting live. H looks to his right: PARENTS, just a few feet away. Those had argued with CHRISTIN. A ripple through the room as BREIVIK enters. LIPPESTAD watches as he is uncuffed. Turns to face the crowded courtroom. Looks at the parents. Going from face- face. Then turns and punches the air with a Nazi salute. The room recoils with shock. Cameras click. See LIPPESTAD, he knows the third attack is a call to arm
+163) 0) text: VILJAR alone. Shattered. CHRISTIN and SVEINN come in. +e
+163) 5) dialog: You don’t have to do it. It’s okay.
+163) 7) dialog: Then don’t push yourself so hard. Just say a few words. That’s all.
+163) 9) dialog: What happened. The truth.
+163) 11) dialog: The truth doesn’t make you weak.
+173) 0) text: SVEINN and CHRISTIN packing the car. *
+174) 0) text: CHRISTIN and SVEINN wait by the car. Look up to see: VILJAR and TORJE come out. VILJAR ahead. TORJE behind, isolated. They get into the car. Drive away.
+180) 0) text: VILJAR AND FAMILY, on foot, arrive outside the courthouse SVEINN and CHRISTIN lead VILJAR and TORJE through the CRO See VILJAR, trying to keep his breathing steady.
+183) 0) text: The FAMILY through the atrium. Wait outside the courtroom VILJAR paces the lobby alone. TORJE goes over to him. CHRISTIN and SVEINN watch from afar. A moment between the brothers. A COURT USHER comes over.
+184) 0) text: CHRISTIN and SVEINN find their seats. CHRISTIN sees the A PARENTS from before. They nod in support. LARA is there too. The crowded court is ready. The JUDGE motions for the ses to begin. A side door opens and BREIVIK is brought in. CHRISTIN and SVEINN watch BREIVIK as he walks past - with touching distance. He takes his seat next to LIPPESTAD. SVEINN takes hold of CHRISTIN’S hand. The courtroom settles.

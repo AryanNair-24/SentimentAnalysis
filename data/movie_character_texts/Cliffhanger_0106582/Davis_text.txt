@@ -1,0 +1,21 @@
+7) 7) text: As Davis dials we move to --
+37) 0) text: Wright's pacing around, trying to figure out what in his office he should break first. Davis shows up at the door.
+37) 2) dialog: (walking to a map) There's no radio contact, sir. At all. We're not receiving the tracer signal from the cockpit's flight recorder. Radar lost it after it went low here.
+37) 4) dialog: We have to assume it went down in the storm.
+37) 6) dialog: (shakes head) That storm hasn't quit yet. Weather service says we've got it until tomorrow morning at least. Even if we could get a plane up now, it'd be impossible to see anything on the ground. And --
+37) 9) dialog: Most of this area doesn't even have roads.
+47) 1) dialog: We've got a fix on the plane, sir -- we're getting a reading on the flight recorder tracer --
+47) 3) dialog: Not yet --
+47) 5) dialog: The winds are still too strong --
+47) 7) text: Wright drags the protesting Davis out the door.
+47) 8) dialog: Sir --
+72) 0) text: Treasury agents sift debris as Davis runs up to Stuart.
+72) 1) dialog: I've got something here.
+72) 3) dialog: There's an unconfirmed report of a distress call made from a plane that crashed.
+72) 5) dialog: This call was supposedly made from a plane that crash landed. After it landed.
+74) 0) text: Davis has just filled in Wright on the "unconfirmed" dist call. Wright looks furious.
+78) 0) text: Wright, davis, and an irritated Stuart huddle over a radi
+83) 3) dialog: We've tested the ash inside -- it's the right paper.
+83) 5) dialog: It's -- hard to tell. But forensics says yes. All of them were in the plane.
+85) 5) text: Davis and Wright look at each other, drawing the same conclusion.
+85) 16) text: Wright, Davis and the pilot scramble into a helicopter -- Stuart pauses, but goes after them.

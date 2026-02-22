@@ -1,0 +1,56 @@
+19) 1) dialog: Senor Colon?
+19) 3) dialog: Ah, thank God!  I've been looking all over Seville for you!  Never expected to find a sailor in a monastery, eh?
+19) 4) text: He laughs.  COLUMBUS smiles, but doesn't say anything. PINZON is clearly a little surprised.
+19) 5) dialog: Name's Pinzon, by the way.  Martin Alonzo Pinzon.  I'm a ship owner from Palos...
+19) 6) text: COLUMBUS glances around cautiously, and walks a little wa down the cloister, away from the other MONK, gesturing fo PINZON to follow him.  PINZON is yet more surprised by this strange behavior.
+19) 7) dialog: (indicating the monk) Is he a spy?
+19) 8) text: COLUMBUS shakes his head.  PINZON stares at him, perplexed.
+19) 9) dialog: What is it?  Are you a Trappist?
+19) 11) dialog: Vow of silence...?  Penance?
+19) 13) dialog: Jesus!  Just my luck!
+19) 15) dialog: Listen.  I'll do the talking for both of us.  You just nod.  Agreed? Just as I do with the wife.
+19) 17) dialog: I know that the Commission turned you down, right?  What do you expect?  You're a foreigner... But I want to help you.
+19) 19) dialog: You wonder why I believe in you? Hey, I am a seaman.  And we don't like to be told where to go, and where not to go.
+19) 20) text: COLUMBUS looks at him, and bursts out laughing.  The othe MONK looks round severely.  COLUMBUS ducks behind a map, PINZON following him.  PINZON lowers his voice.
+19) 21) dialog: I don't look like it, but I have friends at the Court.  The Treasurer of Aragon, for example.  He finances me.  His name's Santangel.  Ever heard of him?
+19) 23) dialog: He can get you an audience with the Queen!  You know why...?  She owes him money.  That's how it is.  You -- me -- the Queen -- the world and his mistress -- agreed?
+19) 25) dialog: So.  What do you say?
+19) 28) dialog: (indicating with a nod) Immediately.
+33) 0) text: A luminous procession passes through a Moorish stone gate down to the harbor.  We see the faces of the SAILORS and their FAMILIES -- COLUMBUS, PINZON AMONGST THEM -- We sense the fervor and apprehension of the departure.  The procession is lead by MARCHENA and four young NOVICES carrying the Madonna.  All hold long, burning tapers, saying the rosary.  A SAILOR pushes through the crowd, an kisses the Madonna's feet.
+46) 0) text: PINZON, his OFFICERS beside him, looks across at the SANT MARIA.
+46) 2) text: AN OFFICER turns to PINZON to repeat the message.
+46) 4) text: PINZON does not seem too pleased.
+46) 5) dialog: I heard.
+46) 8) dialog: I think I do.
+47) 3) text: ALONSO defiantly stares at MENDEZ.  He then starts to bea a rhythm on the hull with his fist, followed by the others.  In the two other boats, the MEN begin to follow suit, beating a rhythm of protest on the hulls. MENDEZ looks up to COLUMBUS, in panic. ON BOARD PINZON'S SHIP, an OFFICER cups his hands to his mouth.
+49) 0) text: PINZON enters.  He looks furious.
+49) 1) dialog: You lied!  You cheated!  We're way past 750 leagues!
+49) 3) dialog: You must be mad...!
+49) 5) dialog: We're on the verge of a mutiny, Colon!
+49) 7) dialog: We're lost!
+49) 9) dialog: You don't know anything!  Listen Colon, these are my ships, right? So I'm telling you we're turning back!
+49) 11) dialog: (apoplectic) Jesus Maria!  I should have never listened to you!
+49) 13) dialog: You bloody...
+49) 15) dialog: You tell that to them!
+50) 17) text: CRIES from the other ships, as the sails snap taut, filling with wind.  MEN rush to their posts.  PINZON stares at COLUMBUS, shaking his head in disbelief.
+50) 18) dialog: (murmuring) You lucky bastard...
+50) 19) text: COLUMBUS walks away to his cabin, then turning back to PINZON.
+54) 0) text: Three row boats plunging through the surf towards the beach.  COLUMBUS stands in the prow of the first boat. MENDEZ is in the second.  PINZON the third.  They stare entranced at the lushness of the foliage, and the blue clarity of the water... As the first boat beaches, COLUMBUS leaps out and wades ashore.  Behind him the rest of the landing party splash through the sun-dazzled water, carrying the banner of Castille and Aragon.
+56) 0) text: Immediately they are met by an incredible wall of SOUND! The jungle is filled with NOISE.  The impossibly-loud CRIES of EXOTIC BIRDS, the CHATTERING of MONKEYS.  The SPANIARDS are overwhelmed. They move forward.  Rays of sunlight pierce through the high canopy of leaves, like the roof of a magnificent cathedral.  The sounds and smells intoxicate their senses They are filled with wonder. Then PINZON stops.  He has seen something.  Another stops then a third, staring ahead of them...
+56) 3) dialog: (warningly) Colon!
+58) 0) text: The smoke from fires.  Laughter.  Music playing.  The INDIANS have prepared food for the SPANIARDS, who are drinking and enjoying themselves in this strange world. COLUMBUS sits with MENDEZ, PINZON, the INDIAN CHIEF, ELDERS OF THE VILLAGE.  Other INDIANS stand around, smiling, curious. The INDIANS talk among themselves.  The ELDERS smoke primitive cigars -- and offer them, with good humor, to their guests.  The SPANIARDS cough and choke at first... and laugh.  In return, they offer the INDIANS wine... Dogs roam around the campfires.  The WOMEN openly suckle their babies.  The MEN are entranced. PINZON draws out attention, for the first time, to a smal gold ornament on the nose of one of the INDIANS.  He points to it, indicates his interest in it.
+58) 1) dialog: Gold...!  Gold!
+58) 2) text: The INDIANS says the word in his own language, laughing. We see that some of the other INDIANS also have small gol ornaments. PINZON repeats the INDIAN word for gold.  The INDIAN removes the ornament from his nose, gives it to PINZON, who indicates that he wants to have it.  The INDIAN nods -- but points to PINZON'S dagger, indicating that he want it in return.  PINZON shakes his head, stops the INDIAN from taking it.
+58) 4) text: PINZON looks at him, about to argue -- but COLUMBUS insists.  PINZON takes out the dagger and offers it to th INDIAN.
+58) 5) dialog: (irritated) By God!  That's the worst trade of my life!
+62) 0) text: INDIAN VILLAGERS confronting the SPANIARDS, UTAPAN talks to an ELDER MAN, watched by COLUMBUS, MENDEZ and PINZON. UTAPAN repeats several times the word for GOLD, showing some artifacts.  The OLD INDIAN shakes his head no, indicating another distant place.
+65) 0) text: Standing in the stream up to his thighs, A SPANIARD (a gold expert) examines some stones.  He then looks up at COLUMBUS and PINZON and just throws the stones back into the water without a word. The group of SPANIARDS are resting, exhausted by the humidity.  Some are drinking from the river, others soak bandanas, and tie them around their necks... One after another, they stand up slowly -- they look discouraged, tired, and beaten.
+66) 2) text: UTAPAN stops obediently, and rushes back to COLUMBUS with comical energy. On their way back, they find one SOLDIER sitting, leaning against a tree.  He has removed his helmet.  His hair sticking to his forehead. As COLUMBUS and UTAPAN walk back, they find another SAILOR, then another, then the whole group gathered aroun PINZON.  Ashen, he burns with fever.  He attempts a smile
+66) 3) dialog: Well... You'll have to continue without me...
+66) 6) text: PINZON grins.
+66) 7) dialog: And a nice slice of Santa Fe lamb! I'd sell my soul for it. (to his officer) Help me up.  I've got to piss, gold.
+66) 8) text: They all laugh as the OFFICER helps PINZON to his feet. PINZON walks a few yards into the jungle -- starts to urinate.  It is red.  Suddenly dizzy, he reels and collapses.
+67) 0) text: A line of SPANIARDS and INDIANS threading their way down mountainside.  PINZON is being carried on a makeshift stretcher.  His eyes are closed, his face thick with sweat. They enter a village, to the surprise of the INDIANS. UTAPAN once again at the front as the ambassador.
+68) 0) text: A INDIAN SHAMAN is forcing a milky fluid into PINZON'S mouth.  COLUMBUS attempts a gesture to prevent him.  But UTAPAN stops him.
+70) 0) text: Watched from the shore by the INDIANS and by about forty of the SPANIARDS, who are staying behind, the boats pull out towards the two remaining ships. PINZON is laid out in the bottom of the boat.  COLUMBUS, UTAPAN, and four other INDIANS are in the same boat.
+75) 0) text: In a simple room, a PRIEST finishes giving the Last Rites and a sheet is pulled over the head of MARTIN PINZON.  Hi WIFE and CHILDREN weep at the bedside.

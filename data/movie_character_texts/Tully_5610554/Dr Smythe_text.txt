@@ -1,0 +1,13 @@
+57) 0) text: Marlo lies asleep in a hospital bed. She’s BEAT UP. There cuts and lacerations on her face. She has a black eye, a broken arm, and her leg is in traction. Drew sits on a chair next to her bed, pale and gravely concerned. The room is silent. DR. SMYTHE, a middle-aged woman, knocks and enters.
+57) 1) dialog: Hi. You are Marlo’s husband?
+57) 3) dialog: I’m Dr. Smythe. I’m on the psychiatric staff here. I’d like to talk to you about Marlo.
+57) 5) dialog: Not here. Let’s let her nap.
+58) 0) text: Drew and Dr. Smythe are in an empty hospital room or offi away from where Marlo can hear them. 84.
+58) 1) dialog: Does she have a history of mental illness?
+58) 3) dialog: When you say “bad”...
+58) 5) dialog: We think she’s experiencing something similar now, but on a more extreme scale. This is what we call “postpartum psychosis.” Drew is flabbergasted.
+58) 7) dialog: Yes. It’s a lot more serious than just depression. It’s characterized by hallucinations, delusions...
+58) 9) dialog: Actually, we believe she’s suffering from extreme exhaustion and sleep deprivation.
+58) 13) dialog: Weren’t you home?
+58) 15) dialog: What about the night nanny?
+58) 17) dialog: They actually need you to finish some of the paperwork at Admitting. Then we’ll reconvene.

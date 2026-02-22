@@ -1,0 +1,18 @@
+10) 9) dialog: Sorry. (CONTINUED)
+10) 12) dialog: Just don't get much business around here. Wanted to make sure I got to you before you left. But I've gotta warn you, the gas price is a little steeper than the sign says.
+10) 17) dialog: Yeah. Sorry. But it's real easy to get turned around out here without a map. Amy holds up their map.
+10) 18) dialog: Oh. Well, Downey's about thirty miles back. David ignores Amy's smirk.
+10) 19) dialog: If you wanna pop the hood, I'll take a look to make sure you'll get that far.
+10) 23) dialog: It’s no bother at all. David pulls the hood lever, then climbs out with the Mechanic.
+11) 0) text: The Mechanic starts examining the engine.
+11) 2) dialog: Looks like it, yeah. The Mechanic reaches in... tinkers with the engine.
+11) 3) dialog: Can you hit the gas for me? David hurries around the car.
+12) 0) text: David climbs in... hits the gas. He and Amy peer under th crack of the open hood, watching the Mechanic's hands mov around the engine... pull a wrench from his pocket... rea back under the hood.
+12) 3) dialog: Fan blade's bent. Rock musta hit it. She'll still drive fine. Just noisy is all. The Mechanic walks back to David's window. (CONTINUED)
+12) 6) dialog: You might wanna have somebody smarter than me check it when you get where you're goin' though.
+12) 8) dialog: We're good. I should pay you for finally giving me something to do. Now do you need to know how to get back to Downey?
+12) 10) dialog: You don't want Downey then. David feels Amy's eyes burning into his back. The Mechanic points down the road.
+12) 11) dialog: About seven miles down, there'll be a road on your right with a grove of trees beside it. Take that and keep goin' till you hit Westcliff. You'll run into a four lane there. Hang a left on that and it'll take you right back where you need to be.
+12) 16) dialog: You just bought yourself a twenty dollar sparkler. The Mechanic leans in David's window... hands it to Amy. gingerly takes it.
+12) 17) dialog: Every day's the Fourth Of July at Small’s. The Mechanic rolls his eyes and motions to the sign.
+12) 18) dialog: The owner makes me say that. (waves) Drive careful. Amy waves the sparkler out the window, as David pulls out

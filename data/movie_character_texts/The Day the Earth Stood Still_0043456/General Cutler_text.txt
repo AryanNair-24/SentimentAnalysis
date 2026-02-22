@@ -1,0 +1,23 @@
+14) 0) text: A Brigadier General speaks in clipped tones into the  telephone. There are a couple of other officers in the ro
+20) 0) text: There is a door to the corridor and a door to Klaatu's ro In the small sitting room, talking in tones of hushed con is a group of men. There's a Major General, a likable man with a chest full of ribbons. There are also a Colonel in command of the hospital, a high-ranking police officer, a couple of medical officers and two civilians. The convers is interrupted by the entrance from Klaatu's room of a Me Corps Major, followed by an Army Nurse.
+20) 1) dialog: (to Major) How is he?
+20) 3) dialog: (wryly) Can't blame him. I always get mad  when somebody shoots me.
+20) 6) dialog: (to Major) Didn't drop any hints about where  he's from, did he?
+20) 10) text: The Colonel turns, in deference, to the General.
+20) 11) dialog: (quietly) Tell them there won't be any statement  tonight.
+20) 13) text: Harley appears in the doorway, a brief case under his arm He's a dignified, intelligent member of the White House  secretariat. He proceeds uninterruptedly into the room,  nodding cordially to the General.
+20) 15) dialog: (indicating Klaatu's  room) Right in there, Mr. Harley.
+22) 2) dialog: Getting any place, Sergeant?
+22) 4) text: A man named Carlson, a civilian metallurgical expert, com into scene. The General nods to him.
+22) 5) dialog: What's the report, Carlson?
+22) 7) dialog: (nodding toward Gort) What about him?
+22) 10) dialog: Has he moved?
+22) 13) dialog: (with a wry half-smile) I can tell you officially -В– that's  where it came from.
+30) 10) text: There is a noticeable letdown in the general tension, dur which Booby has been studying Klaatu, his imagination wor overtime.
+82) 0) text: Seated at a conference table are high-ranking officers of the Army, Navy, Air Force and Marine Corps. There is the  uneasy tension of people dealing with unknown forces. An  Army Major General, who's Chairman of the meeting, is  speaking.
+82) 1) dialog: --as far as we can tell, all power's  been cut off everywhere -- with a  few exceptions: hospitals, planes in  flight -- that sort of thing. I wish  I could be more specific but, as you  now, all communications are out  telephone, radio, cable -- everything. (gravely) I can tell you that the President is  prepared to declare a state of  national emergency. (pausing to let this  sink in) Before we start discussing plans, I  want a report from Colonel Ryder.  What about the robot, Colonel?
+82) 4) dialog: Is it possible that he's broken out  of this stuff?
+82) 6) dialog: All right -- that means we concentrate  on the man. (to the group with  force and authority) Up till now we've agreed on the  desirability of capturing this man  alive. We can no longer afford to be  so particular. We'll get him alive,  if possible -- but we must get him! (eyes the group sternly) Is that clear?
+97) 0) text: The General is on the phone and is making notes. There ar couple of officers standing near his desk, a Colonel and Lieutenant Colonel.
+97) 1) dialog: (after listening for  a moment) Thank you very much, Mr. Stevens.  I'll want to talk to you further but  I haven't time now. (hangs up and turns  to Colonel) Deploy all Zone 5 units according to  Plan B -- immediately.
+123) 2) text: The General has apparently hung up and the Colonel does  likewise, turning to the officers in the room.

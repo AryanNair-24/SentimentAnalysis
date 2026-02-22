@@ -1,0 +1,583 @@
+1) 6) text: The scruffy agent is STAINER. He stands at the x-ray monitor. As the bags begin to move through, he does not p any attention, rather he hands Kirk a flyer.
+1) 11) dialog: I don't know, Stainer.
+1) 16) dialog: It's not that. It's my Grandma. I'll probably be at the hospital for the next few nights.
+1) 20) dialog: She's hanging in there but it doesn't look good.
+1) 23) text: A Middle-Eastern man in a cowboy hat is next in line. Mr. Fuller appears behind Kirk, taps his shoulder and subtly motions to the Arab. Kirk smiles at the potential terrori
+1) 25) dialog: Hey there, Habib.
+1) 33) dialog: Yeah, sorry. I'll get you out of here quick. You off to Boston again?
+1) 36) text: Kirk opens Habib's bag.
+1) 40) dialog: I'm sorry.     It's just...
+1) 41) text: Kirk gestures to his boss as he zips the bag back up.
+1) 43) dialog: Okay, Habib, you're all set buddy. Have a good trip.
+1) 46) text: Fuller again appears behind Kirk.
+4) 1) text: Kirk is at his post.
+4) 19) text: At Kirk's station, Molly (the blonde bombshell) is crossi through. Every guy who can see her has been struck dumb b Kirk banters with her like he would anyone else. No flirt or stammering - just friendly and relaxed.
+4) 21) dialog: Morning.
+4) 25) dialog: Second trip in two days?
+4) 30) dialog: Well hang in there kiddo and I guess I'll see you tomorrow.
+4) 37) text: Molly's long legs carry her toward the gates as every man except Kirk watches. Fuller saunters up and nudges Kirk.
+5) 1) text: Kirk enters to find his MOTHER, an attractive old woman, sitting with a short, plain woman about Kirk's age.
+5) 3) dialog: Hey Mom.   Hey Marnie.
+5) 10) text: Across the room, Kirk's father is speaking to a man who l a bit like Kirk. The man is telling a funny story that cracks up MR. KETTNER. The two pretend to box for a momen
+5) 12) dialog: Who's that guy Dad's with?
+5) 13) text: MARNIE (the plain woman) stands and takes Kirk aside.
+5) 17) dialog: Sure.   It's fine.   (it's not)
+5) 20) text: She leads Kirk over to the man who is speaking with his father. They are laughing again.
+5) 26) dialog: I've been better.
+5) 30) dialog: Yeah.   Thanks.
+5) 31) text: Kirk's brother ERIC and his fiance DEBBIE enter from the hall. They are both in their late thirties and good-looki for trailer trash. Debbie is about seven months pregnant.
+5) 39) dialog: Okay.   Well, I better get in there.
+5) 40) text: Eric and Debbie walk with Kirk down the hall.
+5) 44) dialog: Okay, but you know Grammy didn't have all that much. Once the hospital and... and the ah...
+5) 48) dialog: Well, it's not going to leave enough to get worked up over.
+6) 1) text: In a dimly lit hospital room, a very old woman lies in a She is hooked up to an I.V. and several monitors. Kirk co in and forces a smile. Grammy's voice is weak and shaky.
+6) 5) dialog: Grammy, you really shouldn't...
+6) 12) text: Kirk sits and reluctantly hands her a pack of cigarettes.
+6) 15) text: Grammy lights up a smoke and savors a long drag. Kirk tea up at how slightly his grandmother clings to life.
+6) 17) dialog: I love you Grammy.
+6) 20) text: Kirk hugs her and he cries a bit.
+7) 1) text: Molly is coming through Kirk's lane again. Mr. Fuller ste in and stops her before she crosses through.
+7) 17) dialog: Why don't you just come on through, ma'am, and we'll see if anything sets off the machine.
+7) 18) text: Molly steps through. The machine does not go off. She gathers her things and mouths a silent, "Thank You" to Ki as she walks on. Fuller glares at Kirk but before he can anything, RANDY, a young agent, calls out from the office
+7) 21) text: Kirk walks over to take the call.
+7) 24) text: Kirk takes the phone from Randy.
+7) 26) dialog: This is Kirk Kettner.
+7) 27) text: Kirk's expression tells us that some sad news is coming i
+8) 1) text: Kirk sits at a table with a cup of coffee. He opens his wallet and flips to a photo of a much younger Grammy and eight-year-old Kirk in a casino. Grammy is smoking a cigarette and dealing blackjack while Kirk sits at the ta
+8) 2) text: Kirk tears up and puts his face in his hands.
+8) 3) text: Molly is passing.   She sees Kirk and stops.
+8) 7) dialog: No, no. It's not that.    I ah...I lost somebody today.
+8) 15) text: Kirk tears up again and so does Molly.
+8) 18) text: Kirk tries to keep it together.   Molly looks at the phot
+8) 20) dialog: She used to be a blackjack dealer at the Horseshoe. When I was little, she taught me and my friends how to play poker. Turned us into a bunch of eight-year-old degenerate gamblers.
+8) 23) dialog: So, your grandmother too, huh?
+8) 28) dialog: Oh, God, I know. Grammy used to change her own oil. Right up until a few months ago. She was... Do you change your own oil?
+8) 32) dialog: I know, me neither. She could barley walk and I'd come over and find her lying under her Cadillac all covered in grease.
+8) 33) text: They share a laugh and Kirk is cheering up a bit.   An announcement comes over the PA.
+8) 43) dialog: No, no.   Go catch your flight.
+8) 44) text: Molly stands and offers her hand to Kirk.
+8) 48) dialog: Kirk Kettner.
+8) 49) text: Molly squeezes Kirk's hand, grabs her bags and trots off toward her gate. A businessman near Kirk's table reaches over and gives him a playful chuck on the shoulder.
+10) 1) text: Kirk gathers his things and notices that Molly left her pictures on the table. He looks through them. In the last pouch are some business cards that read, "Molly McCall - Event Planner." Her cell number is on the card.
+11) 14) dialog: Oh, hi.   Molly McCall?
+11) 18) dialog: It's Kirk... From the coffee shop. You left your pictures with me. If you tell me which gate you're at, I can run them right down to you.
+11) 22) dialog: Okay, well I'll leave them at the lost and found and when you get...
+11) 26) dialog: Oh, sure.    But how will I...
+12) 1) text: Kirk comes in and stops at the bar to order a beer. Two m are waving to him from a table near the stage. Kirk gets bottle and snakes through the crowd toward his friends.
+12) 6) text: Kirk arrives where his friends are standing at a high bar table. DEVON looks like Howdy Doody at 33. JACK is good- looking and dressed semi-hipster. Devon gives Kirk a hug.
+12) 10) dialog: It's been a rough week but, you know, all of the services and family stuff keep you pretty busy... I really miss her, though.
+12) 11) text: Jack hugs Kirk as well.
+12) 16) text: Stainer arrives, hugs Kirk and gives him a kiss on the he
+12) 19) text: Kirk laughs and Stainer raises his glass.
+12) 26) text: The guys all raise their glasses and take a drink.     Th just what Grammy wanted and it's cheering Kirk up.
+12) 27) text: Kirk's cell phone rings.      He has to talk loud over th
+12) 29) dialog: Hello?... Oh, Hi. I'm sorry I can barely hear you. I'm at a club and.... Club Vertigo? Oh, yeah - it's right down the street from there... Okay, sounds good.
+12) 30) text: Kirk hangs up.
+12) 34) dialog: Nothing, just a passenger. She accidentally left something with me. She's going to stop in and pick it up I guess.
+12) 38) dialog: Very.
+12) 42) dialog: No she doesn't.      Trust me.
+12) 46) dialog: No, seriously - it's nothing.      She's way out of my league.
+12) 62) text: The guys slink away to give Kirk and Marnie some privacy.
+12) 66) dialog: Thanks.   Thanks, I'll be alright.
+12) 70) dialog: No.   It's not really my thing.
+12) 74) dialog: No.   Branson's...awesome.
+12) 77) text: Kirk considers this.   It will be weird.
+12) 86) dialog: No. You should go. I'm sure you'll have a great time. Totally.
+12) 87) text: Marnie hugs Kirk.   This makes him uncomfortable.
+12) 94) dialog: Yeah. He seems like a good guy, though.  He's an entrepreneur.
+12) 99) dialog: So?   That's a business.
+12) 103) dialog: He's got more going on than I do. That's all I'm saying.
+12) 117) dialog: I appreciate what you guys are trying to do but, I'm telling you, I have zero chance with this one and I'm completely okay with that.
+12) 121) dialog: No it isn't. It's just like saying I'll never go to the moon and I'm okay with that too.
+12) 125) dialog: No. I'm saying that I never will go to the moon but I'm not going to get down about it because, you know - I never expected to.
+12) 128) text: Kirk waves to someone at the door.   The guys look up.
+12) 141) dialog: I told you.
+12) 145) text: Molly hugs Kirk.    From across the bar, Marnie takes not
+12) 147) dialog: Here I am.
+12) 151) dialog: Oh, you know... Hey, these are my best friends - Jack, Devon and Stainer.
+12) 158) dialog: Oh. Here's your pictures - all safe and sound.
+12) 159) text: Kirk hands Molly the pictures.
+12) 163) dialog: No trouble at all.
+12) 167) dialog: Um...
+12) 175) dialog: You don't have to pay me back.
+12) 179) dialog: A burger does sound good. (then to the guys) I'm going to just ah...
+12) 180) text: Molly waves goodbye and heads for the door. Kirk starts t follow but Stainer pulls him back for a quick huddle.
+12) 184) dialog: Don't worry. Believe me, I know.
+12) 185) text: Kirk catches up with Molly.   Marnie watches them exit.
+13) 1) text: Kirk and Molly sit across from one another in a booth. WAITER arrives.
+13) 13) dialog: What?     Oh, I'm not her brother.
+13) 17) dialog: You know what, a Bass sounds good. Make that two.
+13) 22) dialog: So... You know what I do, what about you? Your card said event planner. How'd you get into that?
+13) 26) dialog: Wow.
+13) 30) dialog: Oh, I don't know what that word means. What was it?
+13) 31) text: Close on Molly's smile. She finds Kirk's unabashed admiss very refreshing and endearing.
+13) 39) dialog: Oh, okay. No, I don't think that's so perni...gious?
+13) 43) dialog: Good - new word. No, not pernicious at all. Not if you enjoy the work.
+13) 47) dialog: Wow.   I love Billy Joel.
+13) 51) dialog: Oh man - That's my number one fear. I'm terrified of getting up in front of people. I'd rather get a Kentucky root canal.
+13) 52) text: Molly laughs. An older GOOD-LOOKING MAN steps up to the table and stands facing her with his back to Kirk.
+13) 57) text: He turns to Kirk and both men start to laugh.
+13) 65) dialog: Oh, yeah right! (Catches Molly's unspoken instructions.) But, yeah. I'm her boyfriend, I guess, so...
+13) 69) dialog: Honest mistake.
+13) 70) text: The man gives Kirk a wink and wanders back to the bar.
+13) 74) dialog: I drive a 94 Taurus. It's got AM/FM but I wouldn't call it a sports car per se.
+13) 77) dialog: So here's this little old lady trying to go through security with six pounds of weed in her girdle!
+13) 83) dialog: So, a duck walks into a bar...
+13) 92) dialog: No, thank you for dinner. I feel bad that you won't let me...
+13) 95) text: Kirk is a bit taken aback and confused.     Is she actual asking him out on a real date?
+13) 97) dialog: (NERVOUSLY) Um, sure. Yeah, great. I mean, I'm free tomorrow night.
+13) 101) text: Kirk's expression is as much relief as disappointment.
+13) 103) dialog: Oh, right.     Thanks!   Thank you.
+14) 1) text: Kirk and Stainer are on their way through security. A hug security guard runs a metal-detector wand over Stainer.
+15) 1) text: Kirk and Stainer arrive at the third row to find two open seats right next to the penalty box. To Kirk's surprise, the next seat - Molly! Kirk elbows Stainer.
+15) 3) dialog: Hey, it's Molly.       She's here.
+15) 10) dialog: Oh, yeah.     Wouldn't miss it.
+15) 25) dialog: How 'bout that. So, we're going to grab some beers. Can we bring you ladies anything? Beer? Nachos? Patty, cotton candy?
+16) 1) text: Stainer and Kirk stand in the beer line.
+16) 5) dialog: Ooohhh! Okay! Okay! That makes sense, right!? When Molly was here I was like, "what!?" But, okay! Well, Patty seems cool. She's funny.
+16) 9) dialog: What does that mean?
+16) 12) text: Kirk returns a look of annoyance.
+17) 1) text: The game has started. Kirk, Stainer, Molly and Patty are cheering. The puck smacks the glass before them and anoth player skates up for it. As he mucks it from the edge, he looks up and sees Molly. He's distracted just long enough get brutally checked face first into the glass. A penalty called on the player who hit him. That player skates into the penalty box near Molly. The name on his jersey reads, "REESE." He speaks with a thick Canadian accent.
+17) 13) dialog: (nervously to Reese) Yeah, that ref is like a total blindo, man.
+17) 19) dialog: Oh, I'm sorry. I didn't mean...
+19) 31) dialog: No, this is my fault, I'll take care of it.
+19) 34) text: Molly exits and Patty sits back down next to Kirk.
+19) 36) dialog: God, I'm really embarrassed.
+19) 43) text: KIRK
+19) 47) text: KIRK
+19) 51) text: KIRK
+19) 55) text: KIRK
+19) 59) text: KIRK
+19) 63) text: KIRK
+19) 72) dialog: Oh, yeah right!
+19) 73) text: Kirk laughs hard until he realizes that Patty isn't laugh Patty's nod says, "I'm serious."
+19) 75) dialog: But... why would...
+19) 79) dialog: Well, yeah.
+19) 82) text: Close on Kirk's terrified expression.   The SOUND of a bo ball demolishing ten pins...
+20) 1) text: The place is crowded and classic rock is cranking. It's a old alley with overhead-projection score sheets. Kirk, Stainer and Devon sit and talk while Jack throws a strike
+20) 7) dialog: She was hoping to set Patty up with you.
+20) 11) dialog: It's okay, she wasn't interested.
+20) 20) dialog: I don't know, Stainer, somebody got thrown out of the game and I had to drive him home, remember?
+20) 35) dialog: I can't argue with him.
+20) 50) dialog: Okay Stains, take it easy.
+20) 70) dialog: I can live with three.
+20) 105) dialog: What about your shitty car?
+20) 113) dialog: Stainer's right. Patty was probably just messing around. It's not a big deal. Let's just bowl.
+20) 122) text: Stainer finishes the equation by writing, "Kirk = Fucked. Kirk's phone rings. He checks the ID and his eyes go wide
+20) 124) dialog: (into the phone) Hey, Molly... Um, yeah, sure... No, that sounds good. Yeah, I know where that is. Um, okay, yeah... see you then.
+20) 125) text: Kirk hangs up and gapes at his friends, who wait in suspe
+20) 127) dialog: Holy crap. (dazed pause) She just asked me out for tomorrow night!
+20) 132) text: Kirk exchanges fives, fists, tips and hugs with Devon and Jack. Stainer shakes his head, still not buying it.
+21) 1) text: Kirk runs into the otherwise empty restroom. He stares in the mirror and his smile fades into panic. He splashes wa on his face. He reaches for a paper towel but the dispens is empty.
+21) 3) dialog: (to himself) It's okay. Get it together. Guys do this all the time. You can do this. You can make it happen.
+22) 1) text: Kirk's Taurus pulls into a space. He climbs out and slams the door. As it closes, he reaches but too late. He looks through the window. The keys are hanging in the ignition.
+23) 1) text: WILLY, the Russian driver, is chipper and bubbly as he si along with "I'm Like a Bird" on the radio. Kirk is knocke around by Willy's crazy driving. In the mirror, Willy notices Kirk's dazed expression.
+23) 5) dialog: You know what Willy. I honestly don't know how I'm doing.
+23) 9) dialog: I should be doing awesome but I don't know. Know what I mean?
+23) 17) dialog: How are you?
+23) 20) text: Willy takes a hard left and some suitcases fall on Kirk.
+24) 1) text: Kirk is picking up a coffee. As he walks on, he takes a s The lid comes off and hot coffee spills on his shirt.
+24) 4) text: Stainer is now next to Kirk, who glares back at him as th walk across the food court.
+24) 8) text: Stainer returns an uncomfortable smile but then redirects their path away from her. Kirk waves.
+24) 10) dialog: Who's that?
+24) 14) dialog: Thanks. I had trouble sleeping last night. This Molly thing... I don't want to want this, you know? It just seems too good to be true. I just don't get it.
+24) 18) dialog: I can't think of one.   Not one that makes any sense.
+24) 26) dialog: Please don't say she wants me to kill someone.
+24) 29) text: Kirk is no longer responding.
+24) 32) text: Kirk walks away.
+25) 1) text: Kirk, still in his TSA uniform, walks past a large laundr to a small storefront next door. The chipped and faded lettering on the glass reads, "Maury Hammerstein, Attorne Law - Aggressive, Dynamic Representation Since 1942!" As Kirk reaches for the door, he notices a small hand-writte sign, "I don't make change!" He goes inside.
+26) 2) text: Eric and Debbie sit with Kirk's parents. There are two elderly women and another middle aged man in the room as well. Maury, who's about a hundred years old - cute and meek, fusses with an ancient VCR while smoking a cigarett
+26) 3) text: Kirk sits down next to Eric. Kirk notices a free bank calender on Maury's desk - dated 1991.
+26) 7) dialog: I came right from work.
+26) 27) text: Cutaway to Kirk tearing up.   Grammy sits back down.
+26) 30) text: Everyone besides Kirk leans in, excited to hear what they might get. A phone rings. Maury looks around but the ringing is coming from the TV. Grammy answers the phone.
+26) 40) text: Everyone looks at Kirk who is stunned.
+26) 50) dialog: Eric, it can't be much.
+27) 1) text: The upscale restaurant is crowded. Kirk and Molly are eat at a small table. Kirk is not relaxed like he had been th last time they ate together. He is sweating and trying to remain cool. The Maitre d is eyeing them suspiciously.
+27) 5) dialog: It's okay.     I had it in savings.
+27) 15) dialog: Anyway... Grammy hated owing anyone money. I'm afraid she couldn't rest if she wasn't square with the house. It's the least I can do. She practically raised me.
+27) 21) text: Another guy raises his glass to her from the bar. Molly i getting irritated. Kirk is feeling smaller every minute.
+27) 29) dialog: Yeah, I get that a lot too. I'm sure the next one will be for me.
+27) 30) text: Molly laughs. The best looking man Kirk has ever seen wal up to the table. He and Molly hug.
+27) 39) text: Talon gives Kirk a winning handshake, complete with wink.
+27) 53) dialog: So you two work together?
+27) 60) text: Kirk starts to choke. He grabs his water glass and takes swig but the ice collapses and the water pours all over h
+27) 62) dialog: Oh, boy.   I guess I better...
+27) 63) text: Kirk heads off to the bathroom, muttering to himself.
+27) 65) dialog: Stupid.    Stupid. Stupid.
+28) 1) text: Kirk is drying his shirt. A man is still zipping up as he takes the next sink. Before washing, he offers a handshak
+28) 4) text: Kirk takes the handshake reluctantly and then gets a busi card. Max then starts to wash up - so does Kirk.
+28) 6) dialog: Oh, Hi.
+28) 14) dialog: My portfolio? I don't really...
+28) 15) text: Max takes the last paper towel - forcing Kirk to drip dry
+28) 19) dialog: My means.
+29) 1) text: Kirk exits reading Max's card - somewhat bewildered. The Maitre d stops Kirk and speaks in a French accent.
+29) 5) dialog: Oh, sure.    Is everything all right?
+29) 10) dialog: Okay.   Did I...
+29) 18) dialog: What? I'm not paying anyone. We're just on a date.
+30) 1) text: When Kirk rounds the corner, he sees that Molly and Talon still talking. Kirk hides behind a plant. Molly is beamin She stands to hug Talon and kiss his cheek before he exit the restaurant. Kirk returns to the table.
+30) 3) dialog: Oh, no.   Did I miss Talon?
+30) 7) dialog: Yeah. Super. He, uh, seems like a great guy.
+30) 11) dialog: (to the waiter) Can we get the check?
+31) 1) text: Molly and Kirk pull into a parking lot.
+31) 9) dialog: Yeah, I'm gonna move to a better place pretty soon.
+32) 1) text: It's Friday night and several college parties are raging the complex. Kirk leads Molly up the stairs and down the balcony hall toward his door. They pass a few college students on the way; a couple making out, a guy vomiting bush. Two apartment windows are covered with tapestries o Bob Marley and a giant pot leaf.
+33) 1) text: Kirk and Molly enter.   The apartment is neat, clean and fairly sparse.
+33) 3) dialog: It's not much, I know.
+33) 6) text: Molly walks around and examines certain items. Kirk quiet hides a framed picture of Marnie. Molly passes his comput desk where she coos at a screensaver of baby polar bears. Just as she passes it, she bumps the mouse and the comput comes to life, revealing a "Hot Back-Door Asians" website Molly didn't see it and Kirk scrambles to turn off the monitor. She turns to see what he's doing. He smiles. She moves on to a rack of DVDs.
+33) 10) dialog: What?   It's a good movie.
+33) 21) dialog: You like Cheap Trick?
+33) 28) dialog: A little. My grandma taught me. It was kind of our thing. She was a great player. Ragtime, show tunes, that kind of thing. I'm really not very good.
+33) 33) dialog: No, I can't really play in front of people.
+33) 37) dialog: No, I really can't. Trust me, you're not missing anything.
+33) 38) text: Kirk decides to join her on the couch but then he balks i a little dance of almost sitting. He finally commits to s
+33) 46) dialog: Nope. Almost did once. A talent show in high school. I just sat up there drenched in sweat. I really thought I could do it but then I made my big mistake.
+33) 50) dialog: Yep. All these eyes on me. I'm shaking, my head is spinning, I'm trying to remember if I even play the piano... and then, I puked.
+33) 54) dialog: INTO the piano actually.
+33) 58) dialog: It was a reflex. I was trying not to barf on the floor. Turns out it's a lot easier to clean puke off a stage than out of a baby grand.
+33) 61) text: Molly brushes his hair back with her hand. Kirk is frozen with fear. Molly leans in. Kirk also leans in but not too far. Molly smiles, realizing that it's up to her to make this official. She takes him by the collar, reels him in kisses him. They make out for a moment. Kirk is near pani but he does his best to keep it together.
+33) 63) dialog: Sorry. I'm a little cotton-mouthed. I'm going to get a glass of water. How 'bout for you? Water? A nice glass of, you know...water?
+33) 70) text: Kirk steps away from her and disappears into...
+34) 3) dialog: Um... You want anything to eat?
+34) 6) text: Kirk opens the fridge and thrusts his pelvis in. He takes few deep, calming breaths.   He closes the fridge - still full alert. Kirk searches the kitchen, his panic building He grabs a Time Magazine. He flips through frantically. H turns to a bikini model in an ad, then a naked aboriginal women, then bare breasts in a breast cancer article.
+34) 8) dialog: Oh come on!
+34) 13) dialog: No.   I got it!
+34) 14) text: Kirk finally flips to a picture of Barbara Bush.   He sta at it hard. His boner begins to retreat.
+35) 4) dialog: Really?
+36) 1) text: The boner pops back up. Kirk silently mouths, "MOTHERFUCK at his mischievous little man.
+36) 8) text: Kirk's reply is rushed with enthusiastic relief.
+36) 10) dialog: Sure! Sure! Yeah! No problem! Great! That's...that's great! Ice!? You want some ice!?
+36) 13) text: Kirk opens the freezer. He puts a few cubes in her water then grabs a fistful and shoves his hand in his pants.
+37) 5) dialog: Shit!
+37) 9) dialog: Yeah, fine.
+38) 1) text: Kirk runs the water while he digs under the sink. He find duct tape. He pulls some tape off the roll. It makes a lo noise that causes Molly to pause and Kirk to tense up. Ki opens his pants and begins taping down the trouble-spot. coughs hard to cover each subsequent tug of the tape roll
+38) 5) dialog: Oh, dear God.
+38) 12) text: Kirk finishes taping up, zips his pants and checks his profile in the reflection from the window.
+39) 1) text: Kirk returns with two glasses of water and no visible bon
+39) 3) dialog: Hey.   I'm totally fine with that.
+39) 6) text: Kirk gives an "aw-shucks" head tilt.    Molly stands.
+39) 9) text: They walk to the door. Molly leans in and they kiss a few moments more. Kirk winces as the tape is getting a little snug. She drops her keys and then goes down on one knee t retrieve them. Suddenly she starts coughing. She puts her fist over her mouth.
+39) 10) text: Kirk's POV:   As her head and fist bob in front of his cr
+39) 11) text: Kirk winces again. She hears the tape start to give way. She looks up, slightly confused. Kirk looks around as tho he's looking for the source of the sound. Molly stands.
+39) 15) dialog: Great!
+39) 16) text: Kirk opens the door for Molly.
+40) 1) text: As Molly exits, she gives him one last kiss. Two studly m college students are playing foosball on their patio. The stop when one points out the hottie who's kissing Kirk. Molly trots off.
+40) 4) text: Kirk returns a cool "whassup" nod to the guys.
+40) 14) dialog: No thanks fellas.
+40) 15) text: Kirk beams from the attention as he goes back inside.
+41) 1) text: He drifts over to his piano and sits down. The joy of wha has just happened is plastered on his face. He launches i a furiously happy Jerry Lee Lewis style romp. Soon a neighbor is pounding on the wall. Kirk stops playing.
+41) 3) dialog: Sorry, Mrs. Neusbaum!
+41) 4) text: Kirk continues his celebration, dancing around the apartm He picks up the picture of Marnie and speaks to it.
+41) 6) dialog: Ron seems like a swell guy. I love Pizza Hut. What? Who's this? Why, this is my girlfriend, Molly. Oh, don't be that way. Oh, there, there, now. Here's a tissue.
+42) 1) text: Kirk lies in bed staring at the ceiling fan. The smile continues as he drifts off to sleep. Time lapses as Kirk sleeps and the sun comes up. Still smiling, his eyes open like a shot and he reaches for his phone - "No Missed Cal
+42) 4) text: 1) Kirk gets up and goes into the bathroom.   He checks h gut and hairline in the mirror.
+42) 11) text: 3) He surfs the web. He reads info on the Hair Club For M site. He moves to Hot_or_Not.com. The first woman is very pretty. He rates her a seven, the next is also pretty and gets another seven, the next girl is very unattractive. H score is three. Kirk feels bad for her and rates her a te He checks his phone. He moves on to "BackDoorAsians.com."
+42) 12) text: 4) Kirk watches a Connery James Bond movie on TV. The low third reads, "AMC's 24 Hours of Bond." No Missed Calls. T sun is setting and Bond is now Roger Moore - No Missed Ca Kirk digs a box of Ding Dongs out of the trash and eats t as he watches. It's dark outside and Kirk is in bed watch Timothy Dalton - No Missed Calls. The morning light is creeping in as Pierce Brosnan does the driving and Kirk i still awake looking devastated - No Missed Calls.
+42) 13) text: 5) Kirk is at a convenience store buying milk. He is a me tired, unshaven, wearing a frumpy sweatsuit. He passes th magazine rack and something catches his eye. It's a gorge picture of Molly on the cover of Phoenix Entrepreneur Magazine. Kirk holds up the magazine and then catches his own reflection in a mirror on a sunglasses rack.
+42) 14) text: 6) Kirk is walking home. Every street sign, billboard and shirt he sees reads, "NO MISSED CALLS."
+43) 1) text: He stands in the shower sulking. He hears the phone ring the next room. He jumps out, grabs a small towel and star to dry off as he runs into the bedroom. He reaches the charger base but the phone is not there. He stands and listens hard to the ringing. He runs into the living room Angle on the phone. It's hiding under a pillow on the cou In the background, Kirk rushes around the room flipping u papers and magazines. The phone keeps ringing and Kirk's panic increases until he finally spots the phone. Kirk di for it, losing his towel in the process.
+43) 3) dialog: Hello!?   Hello!?
+43) 6) text: Kirk notices a woman on the landing outside behind him. can see his ass through the window. He covers up.
+43) 12) dialog: Sorry, Mrs. Nuesbaum.
+44) 1) text: Kirk and Stainer come out of a record store and walk past shops and restaurants. Kirk holds a stack of flyers for Stainer's band. As they walk, Kirk hands flyers to Staine who posts them on walls and kiosks with a staple hammer.
+44) 4) text: Kirk and Stainer look at the couples that stand at the bu stop, sit in the outdoor cafes and walk down the sidewalk Each couple is fairly closely matched - pretty with prett ugly with ugly, heavy with heavy, fit with fit.
+44) 6) dialog: Yeah, but Stainer, she was the one who asked me out. So, why...
+44) 10) dialog: No, I didn't think I had a chance.
+44) 15) dialog: So I gotta get back to that.
+44) 19) dialog: So I'll have to fake it?
+44) 26) text: Kirk and Stainer enter a...
+45) 5) dialog: Maybe just a salad.
+45) 9) dialog: I know. But I got dinner with my folks later.
+45) 13) dialog: Sorry, Eric's not coming tonight.
+45) 14) text: Kirk motions toward a mismatched couple (nerdy guy with knockout girl) who pass Kirk and Stainer's table on their to the valet stand. Stainer rolls his eyes.
+45) 16) dialog: You know what - this is ridiculous. I'm just going to call her.
+45) 20) dialog: No, she broke up with him.
+45) 28) dialog: So what am I supposed to do?
+45) 32) dialog: You're probably right.
+45) 36) dialog: No, you're right. You know what - it's good. It's better. I'm actually relieved. You should have seen this Talon guy. Man! All I've been thinking about is having to be naked in front of her. I don't need that kind of pressure.
+45) 38) text: Kirk's phone is sitting on the table - it rings.   Kirk a Stainer can see Molly's name on the caller ID.
+45) 41) text: The phone rings again. Kirk glances down at the phone. Stainer keeps a stern eye on Kirk. RING! Close on Kirk's eyes turning weak. RING! Close on Stainer's threatening eyes. RING! Kirk gives up and looks away. Stainer's eyes calm. Kirk snatches the phone but Stainer grabs Kirk's wrist, pinning it to the table. RING!
+45) 43) dialog: Cut it out!
+45) 50) text: RING! Kirk reaches for the phone with his other hand but Stainer's free hand intercepts it and these arms flail ar like battling snakes. Kirk presses the button to answer t call and, instead, moves his head down to the phone.
+45) 52) dialog: Hello!?... Oh, no problem! Yeah I was super busy yesterday anyway.
+45) 55) text: Stainer lets go and Kirk sits up and backs away.
+45) 57) dialog: Well, I have dinner with my folks tonight... Oh, I wouldn't want to subject you to them... Okay. If you want to. I can pick you up...
+45) 58) text: Kirk gives a confident smile and an "I told you she'd cal nod. Stainer crosses his arms and shakes his head.
+45) 60) dialog: Oh, sure. Well then let me call you back in a few minutes and I'll give you directions. Alrighty. Yeah. Buh-bye.
+45) 64) dialog: No. Eric's not going to be there. It's going to be good. You might be wrong about Molly. She might...
+46) 5) text: She climbs out of her car, checking the address on a smal sheet of paper. She sees Kirk sitting on the front porch.
+46) 7) dialog: You found it!
+46) 10) text: She steps up the front walk toward Kirk, who points to a little yellow note taped to the front door.
+46) 12) dialog: I'm sorry. My folks aren't back yet. We're locked out.
+46) 16) dialog: No. My dad's kind of obsessed with home-security. Like someone's going to break in and steal his Reader's Digest collection.
+46) 19) dialog: Hi, Mr. Riley!
+46) 23) dialog: Hey, what do say you take the night off and I'll take Noodle around the block for you? (to Molly) Are you up for a walk?
+46) 28) text: Kirk jogs over to take the leash.   Noodle jumps up on Ki He and Molly pet the excited dog.
+46) 30) dialog: (baby talk) Yes! Always happy to see you, pretty girl! Yes you are a pretty girl! Yes you are!
+46) 39) dialog: It's no trouble at all.
+46) 40) text: Molly and Kirk start down the sidewalk with Noodle. An ol woman comes out of the next house with her dog on a leash
+46) 44) dialog: (To Molly) I had a little neighborhood dog- walking service when I was a kid . (to the woman) No problem, Mrs. D, we can take Norton along too!
+46) 45) text: Several soft-faded cuts as Kirk and Molly move through th neighborhood. Soon they have a third dog. Kirk points out landmarks as they talk and laugh. Now they have a fourth dog. Molly takes his arm.
+46) 46) text: The evening light is a bit dimmer as they give Noodle bac Mr. Riley. Kirk turns toward his parents' house. Now there's a car parked in the driveway and a jacked-up, kno tired pick-up parked out front. The truck has two bumper stickers ("One Nation Under GOD!" and "No Fat Chicks!") flanking a vanity license plate that reads, "ERIX-TOY." Kirk's shoulders slump at the sight of it.
+46) 48) dialog: Hey, you know what I'm thinking, let's go get Chinese.
+47) 1) text: Kirk comes through the front door to find his father in t living room watching a hockey game.
+47) 7) dialog: Hey dad.
+47) 16) dialog: Hey Eric. I thought you were hanging drywall tonight.
+47) 20) dialog: Okay, listen, I brought a date tonight. I really like her. Please don't embarrass me in front of her. I'll do anything you want.
+47) 24) text: A flushing sound and then Ron comes out of the bathroom. He's buckling up. Kirk's shoulders drop again.
+47) 29) dialog: Oh, hey Ron. So Marnie's here?
+47) 37) dialog: Everyone, this is Molly McCall.
+47) 38) text: Kirk's never seen his family so impressed. He can't hide grin. Ron pops the cap off his beer and it overflows a bi
+48) 1) text: Kirk, Molly, Mr. &amp; Mrs. Kettner, Marnie, Ron and Debb around the kitchen table and feast on a meatloaf dinner. Eric is at the fridge grabbing a beer. Marnie is angrily watching Ron whose eyes are all over Molly.
+48) 12) dialog: Geeze Eric!
+48) 31) dialog: There's a little more to it than that, Eric. Molly handles some big events. She's even doing a benefit with Billy Joel next month.
+48) 34) text: Molly smiles to reassure Kirk that she can handle herself
+48) 45) text: Kirk raises his eyebrows into "please-behave-yourself" pu dog eyes. Eric shoots back an "oh whatever" sneer.
+48) 59) text: KIRK
+48) 62) text: Don't get your panties in a wad, Kirk. He's just making conversation.
+48) 73) text: KIRK
+48) 85) text: For a moment everyone is chewing and there is a break in conversation. Kirk is getting wound up tighter and tighte
+48) 111) text: Kirk rubs his own head to keep it from exploding. Molly c him with a hand on his back. This move isn't lost on Marn
+49) 1) text: Kirk splashes water on his face and then looks for a towe but can't find one. He's forced to use his sleeve. He is wreck. He takes a deep breath and steps out into...
+50) 3) dialog: Are you heading home?
+50) 7) dialog: Thanks.   You do too.
+50) 13) text: Ron gives Molly a hug that makes Marnie as uncomfortable it does Molly. He then passes Kirk as he crosses to the front door, carrying a pile of foiled over paper plates.
+50) 20) text: Ron and Marnie exit.   Kirk walks back into...
+51) 3) dialog: Molly, you don't have to do that.
+51) 8) text: She hands Kirk a bag of Fritos and shoes him through the basement door.
+52) 1) text: Kirk's father has built a tacky little basement bar decor with neon beer signs and Eric's old trophies and ribbons. Mr. Kettner and Debbie sit at the bar and smoke as Eric stands behind the bar and serves them cocktails. Kirk com down the basement stairs and joins them. The hockey game wrap-up highlights are running on a TV mounted above the
+52) 3) dialog: So, what was the final score?
+52) 7) dialog: Look, Eric, you've had a lot to drink tonight and...
+52) 18) dialog: (STANDING) Well, it's been fun.
+52) 24) dialog: Look, I know she's a little out of my league but...
+52) 29) dialog: She's um... very attractive.
+52) 36) dialog: Look, I don't know what's going on either but...
+52) 44) dialog: Eric!   No!
+52) 48) dialog: Eric! Okay! I know! I'm sure she's just slumming or something and it's all going to be over any minute but, Jesus Christ! She'll come to her senses without any help from you! She's up there with...
+52) 49) text: Kirk turns to point up the stairs. As he glances back, he finds Molly standing on the steps listening and frowning at him. Before Kirk can get a word out, Molly storms out the house. Kirk runs upstairs but she's in her car before can get out the front door. Eric appears behind him.
+53) 1) text: Kirk stands at work, searching Habib's bag and looking grouchy. Fuller monitors Kirk, arms crossed. Habib lets o a long irritated sigh.
+53) 3) dialog: I know.   I'm sorry, man.
+53) 4) text: Kirk hands the bag back to Habib and sends him on his way Randy, another agent, hands Kirk a note.
+53) 5) text: INSERT: The note reads, "Kirk, We need to talk.     I'm i food court. -M."
+53) 6) text: Kirk sighs.   Stainer is now reading over Kirk's shoulder
+54) 1) text: The food court is crowded.     Kirk looks around for Moll does not see her.
+54) 8) text: Kirk turns to find Marnie sitting at a table working on a Burrito Supreme.
+54) 10) dialog: Oh.     Yeah.     Hi.
+54) 13) text: Kirk sits down.
+54) 17) dialog: Wow.    I don't know, Marnie.
+54) 21) dialog: No, I think I already screwed that up anyway.
+54) 25) dialog: What?    She is not.
+54) 29) dialog: She doesn't do that at all, Marnie. You're just putting that on her.
+54) 37) dialog: What about Ron?
+54) 41) dialog: You mean you're still with him?
+54) 45) dialog: You're right, I think I do.   Say hi to Ron for me.
+54) 46) text: Kirk stands and walks away.
+55) 1) text: Kirk and Stainer are at the ticket gate. Kirk pays for hi ticket but Stainer stands staring at him.
+55) 3) dialog: What?
+55) 6) text: Kirk begrudgingly buys Stainer a ticket.
+56) 1) text: Kirk and Stainer move through the crowd. Stainer now carr a corn dog, a giant soda and an armload of Air Show memorabilia, including an inflatable F/A-18 Hornet.
+56) 7) dialog: She's working one of the kids' charities. I'm guessing they might be down by the rides.
+56) 14) text: Kirk spots Molly working a charity booth. He crosses to h She turns to him with a this-better-be-good stance.
+56) 16) dialog: Molly.
+56) 20) dialog: I just wanted to apologize for last night... for my family.
+56) 24) dialog: And for me... For what I said.
+56) 28) dialog: No. I don't know what to think. You just have to understand that this is a new area for me. Believe it or not, I don't have gobs of experience with beautiful women.
+56) 36) dialog: No, but I don't have much experience with brilliant, successful, wonderful women either.
+56) 41) dialog: It's not that I... Okay, look... When I was a kid, we played a lot of baseball in my neighborhood. The worst part was picking teams because I was always picked last. Every time. Like they couldn't start a friggin' game without first establishing how much I sucked. So, now you come along and make me feel like the first pick. But... what if I can't hit?
+56) 45) text: Kirk nods and smiles back.   Molly steals a quick kiss.
+56) 49) dialog: Sounds good.
+56) 50) text: Molly goes into a tent to speak to Patty.    Kirk watches with a calm, relieved smile.
+56) 53) text: Kirk turns toward the imposing Blue Angel pilot standing behind him. The pilot removes his shades - it's Talon.
+56) 61) dialog: Oh, Talon.     You're a Blue Angel?
+56) 65) dialog: Perfect. Okay, I get it - Talon is what - your call-sign?
+56) 69) dialog: Then what's your call-sign?
+56) 72) text: Talon puts his arm around Kirk and walks him away from th booth.
+56) 76) dialog: Yeah, I guess.
+56) 80) dialog: Fellas like myself?
+56) 84) dialog: Talon, I'm not...
+56) 95) dialog: No.   She speaks very highly...
+56) 99) dialog: Um... Sure.
+56) 102) text: Talon embraces Kirk in a tight hug.
+56) 110) text: Talon finishes the long hug. He and the other Blue Angels walk off in formation. Stainer rejoins Kirk.
+56) 112) dialog: That was Talon.
+56) 122) text: 1) Kirk and Molly walk arm in arm through the air show cr Kirk's POV as every guy that passes checks her out. Close Kirk's proud expression. The Blue Angels take flight. Clo on the planes as they weave in and out of an intricate formation. A wider shot reveals that their jet trails spe out "MOLLY" inside a heart. Reverse to pan across Molly (worried about Kirk's reaction), Kirk (trying not betray insecurity) and Stainer (trying to hold back his laughter
+56) 123) text: 2) Kirk and Molly in a crowded movie theatre. She squeeze his hand and he smiles back at her. Molly turns back to t screen and Kirk's smile quickly degrades into a dirty loo The shot widens to reveal who Kirk is glaring at - anothe man (also with a date) sits on Molly's opposite side and stares down at her cleavage. The man looks up to meet Kir gaze and smiles back. He offers Kirk a fist-tap behind Molly's head. Annoyed, Kirk doesn't tap back. Molly is oblivious to this exchange.
+56) 124) text: 3) As Molly walks down a city sidewalk at night, Kirk has stopped to tie his shoe. When he trots after her to catch he is tackled by two cops.
+56) 130) text: Molly angrily grabs Kirk by the arm and frees him from th cop's grasp.
+56) 131) text: 4) Kirk, in his TSA uniform, addresses a group of patient the Children's Cancer Center. He demonstrates a metal detector wand. Molly sits with the kids who look bored ou of their minds. Suddenly, the kids light up and Kirk feel he's making an impression until he realizes that Talon ha come up behind him. Talon is dressed in his flight suit a carrying an arm-load of toy jets. The kids excitedly jump and gather 'round Talon; some even hug him.
+57) 1) text: Dressed up and wearing party hats, Kirk, Stainer, Devon, and about thirty others stand in a small, classy restaura
+57) 14) dialog: Stainer!   Just hide.
+57) 17) dialog: (to Stainer) Still think she's Al Qaeda?
+57) 18) text: Stainer brushes off the comment.   Molly waves Kirk over.
+57) 24) dialog: Oh, thank you. Molly raves about her big sister non-stop.
+57) 27) text: Katie reaches out to feel Kirk's face. She's a bit perple by the result. Two blind teenaged boys approach.
+57) 48) text: Kirk's face drops. Molly kisses her sister on the forehea as she has obviously coached the response. Immediately Pa is behind Kirk, pushing him. Kirk tries to politely decli but now Katie has him by the hand and is leading him to t piano bench. Everyone applauds and cheers for him to play
+57) 50) dialog: Really.   I can barely play.
+57) 53) text: Kirk is sweating. He reaches for the keys but he is now white as a ghost. Molly watches in suspense, rethinking what she's done. Kirk's hands shake. He moves them around hunting for a place to begin. The party-goers stare and t room gets quiet. Kirk puts his hand over his mouth as tho he might vomit.
+57) 55) text: Kirk gets up from the piano and tries to laugh it off. appears behind him and puts a hand on his shoulder.
+57) 63) dialog: Oh, hey Talon. Thanks.
+57) 69) text: Talon gives Kirk a respectful military salute. Kirk holds his forced confidence until Talon departs. Once alone, Kirk's poise deflates and he plops down into a chair.
+57) 78) text: Patty and Kirk are sitting and talking at a table that is away from the group. Across the room, Talon raises a glas to them. Patty gives Talon the finger.
+57) 80) dialog: What did he do?
+57) 88) dialog: Okay.
+57) 92) dialog: Oh, my God.
+57) 96) dialog: What is it?
+57) 100) dialog: No, no.   I wouldn't do that.
+57) 103) text: Patty heads off to get some cake. Kirk sits, considering this information. He looks at Molly. She is wearing a sma black dress. She looks perfect in every way. Kirk crosses the room and walks out to the...
+58) 2) text: Stainer, Devon and Jack are around the corner as Stainer Jack are smoking a bowl. Devon hears Kirk's celebration a peers around the corner. He waves the others over. The gu come around the front to join Kirk.
+58) 10) dialog: (playfully chipper) My friends! Whassup Bitches!
+58) 14) dialog: My troubles are over boys! It's all going to work out! Check it out - Molly has... Wait for it...
+58) 15) text: Kirk pauses for dramatic effect and then puts his thumbs
+58) 17) dialog: ...a birth defect!
+58) 23) dialog: No.   That's awesome!   Don't you get it?
+58) 29) dialog: It sent Talon packing.
+58) 30) text: Kirk and Stainer high five.    Jack and Devon look distur
+58) 34) dialog: I don't know yet. Patty just said she had a physical issue.
+58) 42) dialog: She said it was, "something like a birth defect."
+58) 46) dialog: I hope it is. I hope it's something that would make most guys run screaming. It won't matter to me. I love her.
+59) 1) text: Kirk and Molly are cleaning up after the party. Kirk is relaxed and in a fantastic mood. Patty gets her coat and hugs Molly before exiting. Molly sheepishly approaches Ki
+59) 5) dialog: No. I know what you were trying to do. It's okay. I wish I could have played for her but...
+59) 8) text: Molly kisses Kirk. Now he's calm and kisses her back passionately. She smiles a naughty smile at him.
+59) 16) dialog: Tonight.
+59) 17) text: They start cleaning up as fast as they can.   Kirk is bea
+60) 3) text: Kirk and Molly enter her modern, luxurious condo.   Kirk her coat. They kiss.
+60) 4) text: Kirk opens a bottle of wine.   He pours one glass to shar
+60) 5) text: They sit on the couch talking. Kirk is on!    He is confi and silly and Molly is eating it up.
+60) 7) text: Molly stands and extends her hand to Kirk. Kirk stands an his boner is impossible to miss. This time he looks down it as if to say, "How 'bout them apples!?" Molly laughs a leads him into the bedroom.
+60) 8) text: Kirk sits on the bed and Molly goes into the bathroom. He lights a candle. He is now in a normal state of nervousne but nothing like he had been before. He pulls out a stick gum. He chews it quickly and spits it out.
+60) 9) text: Kirk lies down and then sits up and then repeats this. decides to sit.
+60) 10) text: Molly opens the door. She is wearing sexy ligerie and slippers. She looks perfect. She crosses to the bed and sits down next to Kirk. They kiss but Molly stops.
+60) 16) dialog: Hey, take a look at me.
+60) 17) text: Molly smiles nervously. She stands in front of him, Cryin Game style. She removes her feet from her slippers and lo down at them. Kirk looks down. Even her feet are fantasti
+60) 19) dialog: What?
+60) 26) text: She parts her toes.    They are webbed.   Kirk's face dro
+60) 28) dialog: That's it?
+60) 29) text: Kirk jumps up and paces around.
+60) 31) dialog: That's it? That's the best you can do? This is your big flaw?
+60) 35) dialog: Jesus Christ! I can't! I thought you were going to show me some kind of hairy growth or a third nipple or something I could work with!
+60) 39) dialog: You know what's wrong with me!? I'll tell you! I'm fat! I'm bald! I'm ugly! I'm hairy! I'm uncoordinated! I'm uncreative! I'm not a college graduate! I've never been to Europe! I have a shitty job! I drive a shitty car! You want me to go on!? Because I can!
+60) 43) dialog: So, here I think that the perfect Molly McCall is finally going to show me a good reason why she's messing around with the likes of me! And this is all you got!? You can't wear friggin' flip-flops!?
+60) 51) dialog: Oh, yeah! I'm nice! I'm funny! I ask cute, stupid questions! Right! That doesn't get a three hooked up with a ten! Not in this world!
+60) 55) dialog: Look! What the hell is going on here!? What are you up to!?
+60) 59) dialog: Please, tell me you're a terrorist! Tell me you're on a scavenger hunt! Just tell me something that makes sense because all you're doing is driving me nuts!
+60) 63) dialog: Fine! I'm going! Webbed feet!? Are you fucking kidding me!?
+60) 64) text: Kirk grabs his coat and heads out the door.    Molly slum onto her bed and cries as the door slams.
+61) 1) text: Kirk is at his post looking terribly sad. Stainer is work at the same lane and is obviously feeling bad for his fri
+61) 2) text: Fuller taps Kirk on the shoulder to alert him that Habib coming through. Habib sees this and takes his bag straigh to the search table, where he opens it for Kirk. Kirk doesn't look inside.
+61) 4) dialog: Go on, Habib. You're good.
+61) 7) text: Habib steps off to his gate.   Fuller gets in Kirk's face
+61) 14) text: Kirk stomps away from the checkpoint.
+61) 17) text: Stainer goes after Kirk.
+62) 1) text: Kirk walks out the doors. Stainer catches up to him and t walk down the busy curb at a quick, angry pace.
+62) 5) dialog: Get away from me Stainer!
+62) 9) dialog: You're right. It's not your fault. It's my fault for listening to all your... pernicious advice.
+62) 13) dialog: All you did was fill my head with all this crap about threes and tens and how I'm not worthy.
+62) 17) dialog: Maybe! I don't know. But that's not the point! You're supposed to be my God damned best friend. You know what!?
+62) 22) dialog: I think you were jealous and you set out to sabotage us from the start!
+62) 26) dialog: Then why weren't you there for me? What if she actually liked me!? Maybe with a little help, I could have pulled it off!
+62) 27) text: Kirk steps onto an...
+63) 1) text: Willy (the Russian) is behind the wheel and as happy as e A few others are seated on the bus. Stainer follows Kirk board. They remain standing, holding onto poles.
+63) 4) text: Willy steps on it and drives like a maniac, knocking Kirk Stainer around as they argue.
+63) 8) dialog: Look at me! I'm hurt now!
+63) 9) text: Willy occasionally blurts out mindless echoes of their argument, which Kirk and Stainer mostly ignore, like...
+63) 15) dialog: You don't know what you're talking about.
+63) 29) dialog: Yeah right. So how come I never heard a word about her until now?
+63) 39) dialog: That's what that was? You said you had that fatigue syndrome thing.
+63) 46) text: Stainer leans over and hugs Kirk.   Kirk doesn't hug back
+63) 52) dialog: You have a brother, Stainer.
+63) 55) text: Kirk's phone rings.    He answers, forcing Stainer to let
+63) 57) dialog: Hello?
+65) 1) text: Kirk slumps into a seat and listens, looking upset and shocked. Stainer stares at Kirk, trying to get a sense of what Kirk is being told.
+66) 1) text: Patty sits behind a reception desk in a small but stylish lobby. A sign above her desk reads, "McCall Events." Kirk walks in. Patty puts down her work and stares back at him
+66) 3) dialog: Is Molly in?
+66) 7) dialog: I know. I'm sorry.     I just...   Is she here?
+66) 33) dialog: Patty! Cut it out! I just came to tell her that something happened! Something really major happened!
+66) 41) dialog: First off, I'm sorry.   Okay?
+66) 50) dialog: Okay, okay! Sorry!     I just...
+66) 55) dialog: Look! I know I was acting like an idiot. She's just so... Well, I was really having a hard time with everyone thinking I was Molly's brother or her co-worker or her gay friend or whatever. I mean, nobody believed that we were together.
+66) 59) dialog: But I've got it worked out now.
+66) 60) text: Patty and Stainer wait for it. Kirk decides how to phrase
+66) 62) dialog: My Grandmother left me three million dollars.
+66) 69) dialog: It turns out she bought stock in Caesars Palace back in the sixties. Nobody knew she still had it. I don't think she even knew.
+66) 77) dialog: See?    Now it makes sense - me with her.    I'm a millionaire now.
+66) 83) dialog: Right. Well, no. Now that you say it out loud... I don't know.
+66) 87) dialog: Yeah, maybe I am.
+66) 88) text: Kirk walks out.
+67) 1) text: Stainer is at his post watching the luggage on the x-ray monitor. Suddenly, he sees Kirk coming through followed b Marnie, Mr. &amp; Mrs. Kettner, Eric and Debbie (still pr They are all wearing bright yellow sweatshirts. Stainer r around the machine to hug Kirk, who looks a little numb.
+67) 5) dialog: Me and Marnie and the family are going to Branson. You know.
+67) 8) text: Stainer is referring to Kirk's shirt that reads, "BRANSON BOUND" in big letters.
+67) 14) dialog: (EMBARRASSED) These were Marnie's idea. To make it easy for us to stick together.
+67) 19) dialog: I gotta go.
+67) 20) text: Stainer takes the boarding pass from Kirk's hand.
+67) 24) dialog: (to Marnie) I'll meet you guys down at the gate, alright?
+67) 31) dialog: Probably because I'm getting three million dollars next week.
+67) 35) dialog: Yeah, I know, but it's for the best. I'm more secure with her. I'm actually happy to be done with all that Molly craziness.
+67) 36) text: Ron comes through security and over to Kirk.
+67) 43) text: Kirk gives Ron a twenty and Ron steps away.    Stainer is appalled. He calls after Ron.
+67) 47) dialog: He already bought his ticket and my dad likes him. It's no big deal.
+67) 50) text: Kirk doesn't look into his eyes.
+67) 52) dialog: What?
+67) 55) text: Kirk looks.
+67) 59) dialog: Don't be such a drama queen. Things are fine. I gotta go.
+67) 62) text: They exchange an awkward handshake. Kirk walks away. Stainer stands alone, watching him go.
+71) 1) text: Kirk is somber as he finds his seat near the middle of th plane. From two rows back, Eric reaches over some other passengers to tap Kirk on the shoulder.
+71) 4) text: Eric hangs up a high five and Kirk leaves it hanging. Kir takes a seat on the aisle next to Marnie. He gives Marnie forced smile. She puts her head on his shoulder. Pan over the window seat where Ron sits watching them, wearing his travel pillow.
+71) 11) text: Stainer grabs Kirk by the shoulder, pulls him out of his and about two rows down the aisle before Kirk overpowers and stops.
+71) 13) dialog: Stainer!   What are you nuts!?
+71) 21) dialog: Stainer! No! Believe it or not, this isn't about you! In fact it's none of your business!
+71) 25) dialog: Okay, yeah?
+71) 29) dialog: What's your point?
+71) 40) dialog: Jesus Stains! You're going to get arrested! And I won't be here to bail you out this time.
+71) 52) dialog: Stainer, I appreciate that you think you're helping me but I'm with Marnie now.
+71) 60) text: The other passengers gasp and most of them look at Habib, sits a few seats behind Kirk.
+71) 68) dialog: Oh, Stainer, what did you do?
+71) 75) text: Kirk just stares back. Fuller and the agents grab Stainer but he clutches a seat and stays put.
+71) 79) dialog: No.
+71) 80) text: Stainer loses his grip and the agents drag him off the pl Kirk sits down and Marnie comforts him.
+72) 1) text: Over a bummed out song we see different areas of the airp People on moving sidewalks. People on escalators. Bags moving around on a carousel. People in line. Flight Arriv and Departure times. Food trays moving down a buffet. Bag moving by on the x-ray monitor. People walking like cattl to their gates. Through the crowd, we see a man running against the traffic. It's Kirk!
+74) 1) text: Kirk is huffing and puffing as he rounds the corner and arrives at the checkpoint. He looks around frantically.
+74) 3) dialog: Randy!   Where's Stainer!?
+75) 1) text: Kirk bursts in to find Stainer bent over a metal table. Fuller (with two black eyes) and another agent hold him d as a homeland security agent stands behind Stainer, givin him the full cavity search. Kirk doesn't miss a beat.
+75) 7) dialog: Stainer! I don't have a car here! I need your van!
+75) 10) text: A jacket is hanging by the door. Kirk reaches in and grab the keys. He turns fast and exits. Fuller jacks Stainer's head onto the table.
+75) 13) text: The door opens more slowly and Kirk regards his friend wi great reverence. Stainer strains to lift his head against Fuller's strength.
+75) 18) dialog: Thanks buddy!
+75) 19) text: Kirk bolts.
+77) 32) dialog: Ten thousand dollars!
+77) 33) text: The small boy looks up, elated. The spotlight searches th room and lands on Kirk near the back. The audience applau
+77) 41) text: Eric bursts in through a door near Kirk.
+77) 43) dialog: Fifteen Thousand!
+77) 51) dialog: Twenty Thousand!
+77) 64) text: Eric makes a fist to indicate that it's time for the kill blow. Kirk nods back his agreement.
+77) 66) dialog: Three million dollars!
+77) 76) text: Kirk looks to Molly, then his brother - who is shaking hi head NO! He then scans the hopeful expressions on the fac of the kids and their parents. Kirk takes a deep breath.
+77) 78) dialog: Three million dollars.
+77) 90) text: The young sculptor beams. The crowd cheers again. Kirk gives a smile and a nod of resignation as he leaves the r
+78) 1) text: Kirk and Eric sit at the bar, each nursing a drink.   Eri fuming.
+78) 6) text: Kirk turns to find that he is sitting next to BILLY JOEL, is smoking a cigar. Eric passes him the ashtray that Kirk just bought.
+78) 13) dialog: Thanks.
+78) 21) dialog: I guess I'm going to go home.
+78) 24) text: Kirk and Eric look at one another in disbelief and then a Joel.
+78) 26) dialog: Sure.
+78) 36) dialog: Jesus Christ, Eric! I'm trying to get some advice from Billy Joel. Do you think you could manage to shut the fuck up for two minutes!?
+78) 41) text: Joel places a cocktail in front of Kirk and then clinks h own against it.
+79) 4) text: From the back of the room, Molly notices the crowd's reaction. She turns to see Kirk seated before the huge wh grand piano, his hands sweaty and shaking over the keys.
+79) 5) text: Kirk looks at the crowd.   Hundreds of confused faces sta back at him.
+79) 11) text: Kirk wrings his hands as they shake harder.
+79) 12) text: Billy Joel stands in the wings and gives Kirk a nod of, " can do it."
+79) 14) text: Kirk plays and sings "Just the Way You Are" - badly. His voice and hands shake but he forges on. The audience is confused, cringing and restless.
+79) 15) text: Someone starts booing.   Kirk can't help but glance up to who it is - it's Eric.
+79) 16) text: When Kirk reaches the instrumental break, he settles in a - he can actually play.
+79) 17) text: As the last note fades, Kirk leaps up, and runs out into the...
+80) 1) text: Kirk bursts out the door and vomits into a dumpster. He falls backwards against the wall and slides down into a sitting position.
+80) 8) dialog: I know.
+80) 12) dialog: I can work up to that.
+80) 13) text: Kirk stands up.
+80) 15) dialog: So, you and me are...
+80) 22) dialog: Anything.
+80) 32) text: Kirk takes Molly's hand and leads her past Talon.
+80) 34) dialog: Sorry Poncho, she's with me.
+81) 4) text: Close on Kirk - looking dapper but sweaty and nervous.
+81) 10) text: A wider shot reveals the NASCAR theme wedding of Eric and Debbie. Kirk stands among the groomsmen. Each are dressed in tuxes that represent the colors, numbers and sponsors certain drivers. Molly stands among the bridesmaids. Each dressed in a checkered-flag gown. Ron and Marnie are also the wedding party.
+82) 6) text: Pan across the guests as they wave goodbye; Devon and his squeaky clean family, Jack and a hot date, Mr. &amp; Mrs. Kettner, Marnie &amp; Ron. Patty and Stainer - making out and Molly stand together arm in arm. Kirk holds a ceramic urn, painted with the Las Vegas skyline.
+82) 10) text: Push past the TV, out of the gift shop and to the other s of the observation deck where we find Kirk and Molly. The kiss before they open the urn and pour Grammy's ashes ove the side.

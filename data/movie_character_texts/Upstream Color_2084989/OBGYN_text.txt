@@ -1,0 +1,16 @@
+83) 11) dialog: First off. You...are not pregnant.
+83) 13) dialog: Well, you can’t always trust those. And the HCG in your blood tells us that you are not. So that’s more definitive. Kris isn’t buying this. Pompous doctors...
+83) 15) dialog: Now I want to make sure we have correct records. You didn’t list it (MORE ) (CONTINUED)
+83) 16) text: 131 CONTINUED: Revision 1 53. OBGYN (cont’d) in your questionnaire, but have you had any surgical procedures on your pelvic area?
+83) 18) dialog: Maybe a cyst was removed? Biopsy? Kris shakes her head no. Why is she asking?
+83) 19) dialog: Okay. Obgyn exits politely, leaving Kris with questions. She ca hear Obgyn in the hall telling a nurse:
+83) 20) dialog: Let’s get her a pelvic CT and white cell count. Put...sonogram inconclusive.
+84) 0) text: Obgyn consults with a COLLEAGUE in front of MONITORS show CT SCANS. They point to a DARK VOID on the screen:
+84) 2) dialog: Mm-hmm. She says no.
+84) 4) dialog: Mm-hmm. How are you supposed to help someone like that? 132 133 134 135 136 137 138 Revision 1 54.
+85) 0) text: Kris is on the table, unconscious, wearing an anesthesia mask. Obgyn makes an INCISION on her abdomen.
+90) 1) dialog: By all appearances, and this is Doctor Pear’s opinion as well, you are a survivor of stage three endometrial cancer.
+91) 0) text: Kris recovers in bed. Obgyn sits across from her:
+91) 1) dialog: The good news is there’s no sign of any remaining carcinoma. Labs show you’re in no immediate danger. But the trauma it left behind is significant. (CONTINUED)
+91) 4) dialog: Well, I’m saying two things. It is highly unlikely given the state of the organs that you could ever become pregnant and...
+92) 1) dialog: ...if by some miracle you were to conceive, the faculties are too damaged to carry a baby to term.

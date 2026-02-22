@@ -1,0 +1,340 @@
+1) 0) text: GRAHAM and CLIVE are at a fantasy weapons stand. CLIVE is brandishing a KATANA SWORD. He test the balance, the weig the sharpness. He closes one eye and looks down the lengt the blade. He nods appreciatively.
+1) 6) dialog: Beautiful piece.
+1) 8) dialog: How much?
+1) 10) text: CLIVE nods, puts the sword down and walks away.
+1) 12) dialog: No, it's rubbish.
+2) 2) dialog: Do you feel that the killing of Hicks and Newt in Alien 3, invalidates Ripley's struggle at the closed of the previous installment?
+2) 4) dialog: 
+2) 18) dialog: Clive.
+2) 20) dialog: Uh... are you... did you?
+2) 22) dialog: I... I need to photograph him.
+2) 24) dialog: 
+2) 28) dialog: Really? I wasn't.
+2) 30) dialog: Yes, very unaffected. Damn, I forgot to give him my card. CLIVE points at SECURITY.
+2) 37) dialog: Nah. Hey, Rosario Dawson's here!
+3) 0) text: GRAHAM and CLIVE sit at a table fiddling nervously with p On either side of them are stacks of their new book; JELV ALIEN QUEEN OF THE VARVAK. A banner hangs behind, display the tome's cover, a muscular green woman in a gold bikini rides a blue rhino. She lashes at the beast with a laser whip. She has three tits. A lanky publicist paces up and down, making sure everything is in order.
+3) 2) dialog: Yes, it's very impressive.
+3) 4) dialog: That was Graham's idea.
+3) 6) dialog: I'll have a fat Coke please?
+3) 8) dialog: Coke.
+3) 10) dialog: A what?
+3) 12) dialog: Yes please.
+3) 20) dialog: Why is it so quiet?
+3) 22) dialog: Oh man! I wanted to go to that . I wanted to find out if he actually eats the brains.
+3) 24) dialog: Please.
+3) 27) dialog: Don't be. The hard work's done, we have a great story and as usual your renderings jump from the page.
+3) 30) dialog: All we have to do now is sit back and enjoy. A child approaches.
+3) 31) dialog: Queen Jelva welcomes thee.
+3) 33) dialog: Main pavillion.
+4) 2) dialog: Three copies.
+4) 6) dialog: Yeah, but three copies?
+4) 8) dialog: 
+4) 12) dialog: Graham, I need a drink.
+5) 0) text: GRAHAM and CLIVE are stood against the wall in a bar. GRA drinks and elaborate blue cocktail through a straw. CLIVE sips from a Jack Daniels and Coke. Everyone else in the b is dressed as a HOBBIT. CLIVE winks at a girl.
+6) 0) text: GRAHAM and CLIVE's hotel room is filled with bags of stuf from the convention, a laptop computer and a games consol plugged into the TV. GRAHAM lies on his bed. He is lookin a map. Other maps are scattered about.
+6) 3) dialog: They think they're so cool.
+6) 5) dialog: Hell yes.
+6) 7) dialog: A-ffirmative. GRAHAM and CLIVE both look at their watches.
+6) 8) dialog: Three, two, one...
+6) 9) dialog: Beep. Beep.
+6) 10) dialog: Good night, Graham.
+6) 13) dialog: No.
+6) 20) dialog: Couldn't hurt could it? We hear some movement then the room is illuminated by the The boys lie on their beds holding games controllers.
+6) 21) dialog: Cover me.
+7) 0) text: GRAHAM and CLIVE stand at reception. Both look extremely sleepy. CLIVE's eyes close. GRAHAM lolls forward onto the reception desk. His head hits the bell.
+8) 0) text: The boys stand, waiting for their transport. We see them across the road. A tiny old car splutters up to the curb. valet gets out and hands the keys to CLIVE.
+8) 4) dialog: No, that's ours. A large RV pulls up. A 1985 Holiday Rambler, Imperial. To the range in its day. Still looks good.
+9) 0) text: CLIVE is seated behind the wheel of their RV, he now wear black wrap-around shades. In the back of the RV, GRAHAM fusses with maps and provisions.
+9) 2) dialog: Java. Straight up.
+9) 4) dialog: No, let's punch through. Miles make the eggs taste sweeter.
+9) 6) dialog: I hear that. Now, get that "Joe' on the go and jump in the Chewie seat. I need your map skills.
+9) 9) dialog: Yeah, I could say "take the helm."
+9) 11) dialog: Yeah, "take the helm, number one, I need a number two." They laugh heartily. Through this, GRAHAM has been taking his laptop and setting it up on the dash board.
+9) 18) dialog: Absolutely. Real-time sat-nav multi map and advanced geo-tagging with continual info stream?
+9) 20) dialog: Most impressive.
+9) 22) dialog: Not when we're driving Graham.
+9) 25) dialog: Thank god. I'm a wreck until I've had my first cup of J. GRAHAM high fives CLIVE and heads back into the kitchen.
+10) 0) text: GRAHAM and CLIVE eat lunch. GRAHAM has finished a plate o prawns. He inspects the shells.
+10) 9) dialog: Amazing, isn't it? There are 295,734,134 people in this country and we haven't seen a soul for a hundred miles. Where is everybody?
+10) 11) dialog: Apart from her. I suppose that's why they established the Dreamland facility out here.
+10) 13) dialog: Did you know the site was selected in the mid-1950s for testing of the U-2 spyplane, due to its remoteness, proximity to existing facilities and presence of a dry lake bad for landings?
+10) 15) dialog: Oh.
+10) 17) dialog: Before.
+11) 0) text: GRAHAM and CLIVE tuck into burgers. They are the only customers. The interior is replete with various Area 51 related memorabilia. PAT, (female, 50s) the proprietor, speaks to them from behind the counter. She holds up two bumper stickers.
+11) 2) dialog: "Alien Onboard."
+11) 12) dialog: How could you tell? We see GRAHAM and CLIVE looking back at PAT. They look li the most painfully obvious Comic-Con attendees ever.
+11) 14) dialog: Encounter Briefs?
+11) 16) dialog: I've got all six.
+11) 18) dialog: Do you get a lot of UFO types round here? We see PAT looking back at CLIVE, surrounded by UFO and a paraphernalia, a slight smile on her face.
+11) 29) dialog: And objects.
+11) 31) dialog: Did you now, it's estimated that there are as many as 200 billion galaxies in the observable universe and each of those has approximately 40 billion starts, around which orbit countless planets and moons?
+11) 33) dialog: Oh.
+11) 35) dialog: What?
+11) 38) dialog: I'd like a cup of coffee please.
+11) 48) dialog: It's nice here, isn't it?
+11) 50) dialog: I think I might use the loo. CLIVE walks through a door marked "Maliens'. The adjacen toilet door (GUS and JAKE) enter. GRAHAM becomes uneasy.
+12) 0) text: CLIVE washes his hands. He pumps soap from a dispenser wh is shaped like an alien's head, the soap squirts out of i mouth. CLIVE is quite taken with this.
+12) 1) dialog: That is absolutely amazing!
+13) 0) text: CLIVE appears out of the toilet with his hands in the air
+13) 1) dialog: Hey Graham, an alien just sicked up into my palms. CLIVE doesn't see the two men sat up at the counter. He strides over to GRAHAM, full of excitement.
+13) 2) dialog: I'm joking, of course. They have a soap dispenser, shaped like an alien's head. When you pump his jaw, soap comes out of his mouth.
+13) 10) dialog: It's hilarious. GRAHAM flicks his eyes to the counter.
+13) 11) dialog: What? CLIVE looks over and sees the two men. They are glaring b CLIVE immediately loses his confident air.
+13) 27) dialog: What took you so long?
+13) 29) dialog: They were an odd pair, weren't they?
+13) 32) dialog: No.
+14) 3) dialog: Nothing. How we doing?
+14) 5) dialog: I've found it.
+14) 12) dialog: 
+15) 0) text: The RV comes to a screeching halt. It sits in the road fo moment, before it trundles onto the hard shoulder. The do opens, GRAHAM and CLIVE appear wearing head mounted torch They wander over to a WHITE mailbox.
+15) 1) dialog: 
+15) 3) dialog: It's amazing, isn't it? We're actually here.
+15) 5) dialog: Dreamland.
+15) 7) dialog: MacArthur's Black Mile.
+15) 9) dialog: No, I made it up myself.
+15) 11) dialog: Be great if we saw something.
+15) 13) dialog: That would be incredible. It just sort of stops in the air and hovers then just goes up really fast. Whoosh.
+15) 20) dialog: Keep it together. First contact is a big responsibility. They come in peace, we go to pieces? That's not how I roll. CLIVE looks at GRAHAM who is staring off, wide eyed.
+15) 21) dialog: What's wrong? GRAHAM points off into the distance. HEADLIGHTS.
+15) 23) dialog: Who? Who's found us?
+15) 25) dialog: Run for it Marty! GRAHAM and CLIVE scramble for the RV.
+16) 0) text: CLIVE drives, GRAHAM looks nervous. In the dashboard of t RV is a rear view monitor. They look at it intently.
+16) 2) dialog: Of course it's them. We're dead. It's like Deliverance. They're going to rape us and break our arms.
+16) 4) dialog: There's only one thing for it.
+16) 6) dialog: I'm gonna have to fly blind.
+16) 12) dialog: Probably best not to do that. I couldn't really see anything. They stare at the monitor. Suddenly, creeping up the rear the RV, headlights. The front of a car becomes visible.
+16) 13) dialog: Oh God, oh God, oh God.
+16) 15) dialog: Me too. The vehicle behind pulls out to overtake.
+16) 16) dialog: They're trying to overtake.
+16) 18) dialog: Should I ram them?
+16) 20) dialog: It wasn't them. The RV pulls up to the crashed vehicle and stops. GRAHAM CLIVE peer out of the window.
+16) 21) dialog: We should see if they're okay.
+16) 23) dialog: I can hold mine. GRAHAM goes to the back of the RV and into the toilet. CL remains int he driving seat, staring out at the mangled Sedan. The toilet flushes and GRAHAM reappears.
+17) 0) text: GRAHAM and CLIVE step out of the RV and approach the car. Inside are three unconscious men. One door is open.
+17) 1) dialog: Hello? They wait for a few seconds. Nothing.
+17) 4) dialog: I rather think these men need help. Graham, give me the phone. GRAHAM passes the phone over.
+18) 41) dialog: I'm feeling like I've gone MENTAL MAD, Graham. If that is your name? You're happily sitting there chatting to... to... that, like it's the most natural thing in the world. The two of you laughing away like you haven't seen each other since 1990. PAUL spits a shell out into a cup.
+18) 49) dialog: Oh, Paul is it? Paul what? Paul Verhoven? Paul Freeman? Paul Reiser?
+18) 52) dialog: No he is not!
+18) 54) dialog: How could he possibly have travelled that distance?
+18) 56) dialog: Balls! Graham, this isn't what it seems. What about Ocham's Razor?
+18) 58) dialog: Yes, the old man who owns it told me that, in unbelievable circumstances, the most plausible explanation is usually the truth.
+18) 60) dialog: That you're a thin midget in an alien costume.
+18) 70) dialog: You're not real. You're not real!
+18) 75) dialog: Oh shit! CLIVE looks round to discover that PAUL has vanished. GRA pulls the RV onto the hard shoulder.
+18) 76) dialog: Where's he gone?
+18) 78) dialog: As if. We would have seen the classic shimmer and hum.
+19) 0) text: GRAHAM and CLIVE stand outside the RV being questioned by AGENT dressed like ZOIL. We can hear noise and activity f the RV. Another AGENT is aboard the RV.
+19) 2) dialog: Britain.
+19) 5) dialog: Comic-con.
+19) 7) dialog: We were having a little drive.
+19) 13) dialog: He was a good egg.
+19) 24) dialog: Thank you. May I ask what you're searching for?
+19) 27) dialog: Well, it's pretty obvious what happened there, isn't it?
+19) 29) dialog: Yes, the government used some sort of neurotoxic paint on the Black Mailbox, which was white by the way, and it caused us to suffer a shared hallucination about an alien. I mean, it's what we've always wanted, isn't it?
+19) 31) dialog: Than that's what happened. PAUL materializes from thin air behind them.
+21) 1) dialog: Where the hell did you go?
+23) 0) text: CLIVE drives in silence. PAUL sits in the passenger seat eating nuts. Day is breaking over the horizon. GRAHAM sno on the sofa. PAUL offers CLIVE a nut.
+23) 1) dialog: No thank you.
+23) 11) dialog: Graham, there is a Grey in the galley, making me coffee.
+23) 13) dialog: No, I don't want tea.
+23) 15) dialog: No, what's wried, Graham, is that we have picked up an extra terrestrial hitch hiker and you seem completely fine with it!
+23) 26) dialog: Why us?
+23) 28) dialog: What about the RV? It has to be back in two days.
+23) 30) dialog: I suppose we could phone the hire company and get an extension. PAUL looks super-pleased.
+23) 31) dialog: How did you get here?
+23) 35) dialog: Oh my God! Roswell?! That was you?!
+23) 37) dialog: They invented a fake alien crash to distract from an actual alien crash?
+23) 39) dialog: What have you been doing here all this time?
+25) 3) dialog: 
+25) 8) dialog: No thanks.
+25) 11) dialog: Go on then, I'll have half.
+25) 13) dialog: Jam.
+25) 15) dialog: Jelly.
+25) 23) dialog: Thank you. So, do you know where we're going?
+25) 25) dialog: Why can't he tell us?
+25) 27) dialog: Do you trust him, Graham? I mean, is he Strider or Black Rider?
+25) 29) dialog: You'd better be right. I don't want to wake up and find him inserting a probe into my anus.
+25) 36) dialog: There's a place called Ely five miles from here. It's small but there should be a gas station.
+26) 0) text: GRAHAM and CLIVE peer out at the gas station. It appears deserted. PAUL has his head in the fridge, he cracks open V8, strolls to the front of the RV and honks the horn. An MAN peers out of the gas station window and waves.
+26) 1) dialog: Paul, don't do that!
+26) 3) dialog: You know this is a gas station? PAUL looks disappointed.
+27) 0) text: The door to the RV opens, CLIVE and GRAHAM step out onto forecourt, trying to look as casual as they can.
+27) 1) dialog: Ready?
+27) 5) dialog: Thanks.
+29) 0) text: GRAHAM joins CLIVE at the check out, clutching a bag of jerky, a bottle of chocolate milk, a burrito, a Coke, som mini doughnuts and a massive bag of peanut M&amp;Ms.
+29) 1) dialog: Don't you think that's a bit much? Put it all back. Except the burrito... and the doughnuts... and the chocolate milk. Let's just pay for it and leave.
+29) 3) dialog: Essential only, Graham! They head to the counter. So does the STATE TROOPER.
+29) 20) dialog: Thank you very much, officer.
+31) 0) text: PAUL sit on the sofa catching M&amp;Ms in his mouth. GRAH drives, CLIVE sits in the Chewie seat.
+31) 1) dialog: It's find for you. You'll get whisked back to whatever lab they kept you in and we'll be arrested for harbouring a fugitive and sent to Guantanamo Bay. PAUL laughs.
+31) 2) dialog: Why's everything so funny? They think we're Muslims.
+31) 9) dialog: Paul, the authorities know we're in an TV.
+32) 0) text: The door to the RV swings open, CLIVE and GRAHAM step out The desert road is silent. We can see for miles. On the r lies a yellow and black bird, it is very dead.
+32) 2) dialog: Ah yes, the waspish markings of a Scott's Oriole. Unmistakable.
+32) 5) dialog: Nothing anyone could've done. PAUL looks at them, then scoops the bird up in his hands.
+32) 14) dialog: Why would you do that?
+34) 0) text: GRAHAM is sat in the Chewie seat, PAUL is reading Jelva, Queen Of The Varvak. CLIVE drives.
+34) 4) dialog: 
+34) 12) dialog: Mummy, I am bushed.
+34) 14) dialog: Best case, I'd like a cold flannel on my neck and an honest meal.
+34) 16) dialog: Sure. Just not Sausage. Any luck with an RV park? We need somewhere off the beaten track, n'est pas?
+34) 18) dialog: You read my mind. GRAHAM head to the galley, ignoring PAUL, who jumps into Chewie seat and stares at CLIVE.
+34) 19) dialog: Can I help you?
+34) 21) dialog: No, thank you. I don't smoke. PAUL lights a cigarette, the smoke wafts into CLIVE's fac
+34) 24) dialog: Could you unwrap it for me?
+34) 32) dialog: What?
+34) 34) dialog: No!
+34) 36) dialog: What are you trying to say?
+35) 1) dialog: Great find, Graham.
+35) 5) dialog: Just the way we like it. PAUL scrambles to his feet, reaches across CLIVE and rest the horn.
+35) 7) dialog: Stop doing that!
+35) 10) dialog: (quietly to Graham) We're just a couple of regular guys on a tour of the less touristy side of the American midwest.
+35) 12) dialog: I was talking to you.
+35) 21) dialog: Hello Ruth. Do you mind if we come in?
+35) 27) dialog: Yes. London.
+35) 29) dialog: Have you been?
+35) 31) dialog: Yes.
+35) 40) dialog: You don't have a passport? RUTH shakes her head forlornly. GRAHAM and CLIVE stare.
+35) 43) dialog: Doors to manual and cross check. Graham? Graham?
+36) 0) text: RUTH is walking back to a static mobile home. From the RV hear GRAHAM and CLIVE yelp. RUTH furrows her brow, turns back, and goes inside.
+38) 0) text: QUICK CUTS as GRAHAM and CLIVE hook up power and water to RV and prepare a small BBQ.
+39) 0) text: The door to the RV opens, GRAHAM and CLIVE jump in. PAUL lowers his book and is blinded by their headlamps.
+39) 7) dialog: I'll flame up the BBQ pit. Fire's my forte. CLIVE sparks up his lighter and waves it around looking mysterious. He then turns and jumps down all three steps slams the door of the RV behind him.
+40) 0) text: CLIVE is squirting lighter fluid over a fire. He flicks h tongue out, summoning the flames higher. PAUL materialize nearby, making CLIVE jump. He composes himself.
+40) 7) dialog: I am actually, yes.
+40) 9) dialog: Really?
+40) 11) dialog: All the good ones die.
+40) 13) dialog: So you've been here for 60 years?
+40) 15) dialog: Why did you come to earth?
+40) 17) dialog: What?!
+40) 26) dialog: 
+40) 32) dialog: Mulder was right!
+40) 34) dialog: Would you like a go? PAUL takes the bottle and squirts it on the fire, making Hendrix face. They laugh loudly.
+41) 0) text: RUTH watches through her window. GRAHAM, CLIVE and PAUL a on the other side of the RV. Nevertheless, RUTH can see t pairs of dancing legs underneath the vehicle, silhouetted against the campfire. She frowns.
+42) 1) dialog: Who is it?
+42) 4) dialog: Good morning.
+42) 8) dialog: Yes, thank you.
+42) 10) dialog: The other one?
+42) 12) dialog: Oh the other one. Um...
+42) 25) dialog: I suppose we're men of science.
+42) 27) dialog: RUTH narrow her eye.
+42) 28) dialog: If we believe in anything it would be macro evolution. Cause and effect. The establishment of a biological order from the maelstrom of physical and chemical chaos. RUTH looks scandalized.
+42) 31) dialog: Did you know that the universe has been dated as being 13.5 billion years old an that the release of neutral hydrogen at the moment of the big bang has enabled scientists to do this with categorical accuracy?
+42) 38) dialog: Not you!
+42) 60) dialog: What did you do that for?
+42) 62) dialog: She saw you!
+42) 64) dialog: The authorities will be on the look out for exactly this sort of thing.
+42) 66) dialog: Paul, right now they're going to follow any lead they can get.
+42) 76) dialog: How am I going to get my passport back? PAUL vanishes.
+43) 0) text: The door opens, seemingly by itself. PAUL materializes in kitchenette and starts looking around for CLIVE's passpor He roots around noisily in drawers and cupboards, until h spies his quarry on the work-top. He checks the passport finds CLIVE's absurd picture. He laughs.
+45) 0) text: Blackness. RUTH wakes up. Panic in her eyes. CLIVE drives GRAHAM sits on the sofa, biting his nails.
+45) 28) dialog: I can't drive like this. We'll have to drop her off and take our chances.
+45) 42) dialog: Oh great! Everyone knows the secrets of the universe apart from me. He always knew what was going on in Buffy before me because his mum had cable.
+45) 44) dialog: No spoilers! PAUL sighs, then with enormous effort, reaches up and zap CLIVE who falls to the floor. Everyone lays inert.
+51) 3) dialog: Is that where we're going?
+51) 6) dialog: Someone should go after her. Graham? CLIVE looks round to see GRAHAM gone.
+51) 7) dialog: Graham!?
+53) 8) dialog: Small corrections! Small corrections! RUTH drives. Everyone else is asleep.
+56) 0) text: GRAHAM drives, CLIVE sits in the Chewie seat. PAUL hangs back. RUTH emerges from the bedroom. She has swapped her Darwin T-shirt for one of GRAHAM's. It's an X-files T-shi emblazoned with a UFO and the legend, I WANT TO BELIEVE.
+56) 10) dialog: I'm hungry.
+56) 12) dialog: Hey, it's not fat, it's power. I happen to be very strong. PAUL summons a phlegm ball with a grotesque snort and spi it onto the floor of the RV.
+56) 14) dialog: So childish.
+56) 20) dialog: I did it!
+57) 0) text: GRAHAM, CLIVE and RUTH step out of the RV.
+57) 6) dialog: Okay, in and out, yes? Don't talk to anyone unless you have to and try to look inconspicuous. Angle on the most conspicuous threesome in America. HOOOOOOOONNNK.
+57) 7) dialog: I wish he'd stop doing that! They enter the bar. Parked nearby, is a black Lincoln Escalade, shiny, mean, dented.
+58) 2) dialog: We'll order food and wait for you at the bar.
+58) 4) dialog: Be careful. RUTH walks through to the back, past the toilets. As she passes, MOSES BEHE steps out of the Men's, they miss each other by moments. He walks up to the bar, next to GRAHAM CLIVE who are looking at a menu. MOSES orders.
+62) 0) text: GRAHAM and CLIVE are clutching brown paper bags full of f RUTH returns from the Phone.
+62) 3) dialog: We're still waiting on a wet fries. The two MEATHEADS emerge from the pay phone. Angry.
+62) 5) dialog: Look, I'm terribly sorry. Perhaps we can exchange insurance details?
+62) 19) dialog: (timid but resolute) He said, leave her alone. At this, JAKE pulls his fist back to hit CLIVE, knocking tray of drinks all over a table full of men. They immedia spring up and lunge after the MEATHEADS who turn their attention to the attack. The fight spreads like fire. GRA grabs RUTH's hand and follows CLIVE as he scrambles throu the fracas. As they reach the door RUTH is yanked back an comes face to face with her father.
+62) 24) dialog: Graham?
+63) 0) text: CLIVE, GRAHAM and RUTH explode out of the bar and run tow the RV. The MEATHEADS crash out after them.
+63) 8) dialog: Graham, take Ruth into the RV and lock the door. I don't want either of you to see this. CLIVE turns back to the MEATHEADS. BANG! CLIVE is struck the face, he falls, nose bleeding. They turn to RUTH and GRAHAM, who back up against the RV. MEATHEADS approach ominously. The RV door bursts open. PA stands silhouetted against the interior lights.
+63) 16) dialog: Who? Who are you talking about?
+64) 2) dialog: He was so angry.
+64) 6) dialog: I'm game.
+64) 12) dialog: What about when I got smacked in the nose?
+64) 20) dialog: Thank you. He mops his nose as they leave the RV. GRAHAM lingers.
+65) 14) dialog: Let's party!
+66) 0) text: GRAHAM, CLIVE and PAUL have made a camp fire in a woodlan clearing on the other side of town. They sit round drinki beers and chatting. PAUL rolls a joint.
+66) 2) dialog: Is it spelt like, P-'-a-w-l-l or something?
+66) 6) dialog: Paul Simon.
+66) 10) dialog: I can speak Klingon.
+66) 12) dialog: Hey!
+66) 20) dialog: Roooooootttttttccchhaaaa.
+66) 24) dialog: Calm down, Rog. More laughter. Even PAUL. He lights his joint.
+66) 29) dialog: She called her dog Paul?
+66) 38) dialog: It's strange, isn't it? Ordinarily in this situation Graham and I would be looking up at the stars, wondering about life on other planets but we know now, don't we? It's a bit of an anti-climax.
+66) 40) dialog: I don't mean that in a bad way. They all scratch their noses.
+66) 45) dialog: How so?
+66) 56) dialog: Stool?
+66) 60) dialog: I don't follow.
+66) 64) dialog: Cut your brain out.
+66) 66) dialog: I thought the crash was our fault.
+66) 75) dialog: No. They all cough.
+66) 77) dialog: Comic-Con 2005. Ewok chick.
+66) 79) dialog: She was an Ewok! Sniff.
+66) 81) dialog: She was a midget.
+66) 83) dialog: I know. I'm sorry.
+66) 85) dialog: 
+67) 0) text: The sun has just risen. GRAHAM, CLIVE and PAUL lie round smoldering camp fire sleeping soundly. PAUL is very white His eyes open. He looks around.
+67) 2) dialog: How did that happen?
+67) 6) dialog: Oh, thank God. For a second there I thought I'd got drunk on Lite beer. The guys gather their stuff and walk to the edge of the w Looking through the tree line they realize that the quiet town of last night has become very busy indeed.
+67) 9) dialog: How are we going to get back? Close in on GRAHAM having the best idea of his life.
+68) 0) text: GRAHAM and CLIVE walk down the busy main street, between is PAUL. He is dressed in the little cowboy suit from the shop window, his hat pulled down low over his face.
+68) 8) dialog: You could be a midget.
+69) 0) text: GRAHAM approaches CLIVE who is at the counter.
+69) 2) dialog: I must have it.
+69) 4) dialog: Oh, come on, we've got time.
+70) 0) text: GRAHAM and CLIVE are at the counter. CLIVE is trying out blade. PAUL, in cowboy guise browses the racks of comics. picks one up. The cover features an alien that looks a lo like him. The comic is called "Encounter Briefs: Tales F the Dreamland'. PAUL smiles and shakes his head. He sudde realises he is being watched. Next to him is a child, (8) small enough to see under PAUL's hat. He is looking at th cover of the comic and back at PAUL.
+70) 36) dialog: Who was that?
+70) 38) dialog: $299.99. It's made of a low grade Turkish alloy.
+71) 0) text: GRAHAM, CLIVE and PAUL exit the comic shop. PAUL waves to KEITH NASH, who now sits outside, on a bench, with his MOTHER. The boys walk up the street, seconds later, HAGGA and O'REILLY step out of a store, eating bags of candy.
+76) 31) dialog: What are you going to do with this?
+81) 0) text: Caption: Bethlehem Creek, Wyoming GRAHAM, CLIVE, RUTH and PAUL stare through the window of RV at the farmhouse glimpsed in the first scene.
+81) 3) dialog: Us?
+81) 5) dialog: What shall we say if it's her? We're here with the alien that killed your dog sixty years ago?
+82) 2) dialog: Knock again.
+82) 9) dialog: Tara Walton?
+82) 12) dialog: Miss Walton, I'm the writer, Clive Gollings and this is my friend and colleague, Graham Willy. We're from England and we're here with the alien that killed your dog 60 years ago. Silence. The sound of multiple locks. The door opens to reveal a woman (68). Grey, dishevelled but with fire in h eyes. She scowls at GRAHAM and CLIVE.
+82) 14) dialog: It's no joke. PAUL materializes between GRAHAM and CLIVE.
+83) 0) text: GRAHAM, CLIVE, RUTH and PAUL all sit on a sofa. TARA sits opposite, staring at PAUL.
+83) 23) dialog: Shit!
+84) 3) dialog: Yes?
+87) 0) text: TEAM PAUL climb out of the cellar and start to run toward the RV, PAUL still in CLIVE's arms. It starts to rain.
+93) 1) dialog: I'll drive!
+95) 0) text: CLIVE floors it. RAIN lashes down. The sky is almost blac
+95) 3) dialog: I think we have a problem.
+95) 6) dialog: What?
+99) 0) text: We see the chase from above, the RV is in the lead, gaini behind them, is HAGGARD, followed by ZOIL, then MOSES. HAGGARD draws level. He looks up into CLIVE's eyes.
+100) 1) dialog: They're trying to overtake.
+100) 3) dialog: Shall I ram him?
+102) 1) dialog: What are we doing exactly?
+102) 4) dialog: 
+106) 0) text: CLIVE swerves to avoid a grain silo, which comes bouncing across the ground toward them.
+106) 1) dialog: Are you sure you know what you're doing?!
+106) 5) dialog: Paul!
+108) 1) dialog: 
+108) 6) dialog: Where did it go?
+110) 1) dialog: They're still coming!
+110) 8) dialog: They're gaining!
+110) 23) dialog: Great Caesar's ghost!
+114) 1) dialog: We've lost them. TEAM PAUL erupt into cheers. PAUL jumps in the air and whoops. He high five GRAHAM and pats CLIVE on the back. GRAHAM embraces RUTH and tries to kiss her, she pulls awa
+114) 4) dialog: I only saw one car following us.
+114) 13) dialog: Oh no.
+115) 2) dialog: Fare thee well friend. You were a faithful and mighty steed.
+115) 7) dialog: Of course!
+123) 22) dialog: He's not going anywhere.
+123) 24) dialog: Blind fury. The blade falls off.
+123) 30) dialog: Bloody low grade Turkish alloy.
+123) 32) dialog: 
+123) 53) dialog: He's not a goblin he's from another planet.
+124) 14) dialog: You can keep it.
+124) 25) dialog: You are, and always will be, our friend.
+125) 0) text: We are at Comic-Con the following year. We come to rest o long line of people. Sat behind a table are GRAHAM and CL They look more confident, cooler. CLIVE is talking to a s woman in an EWOK costume. He pats her on the ass as she w away. All around them are stacks of their new novel: PAUL
+125) 10) dialog: Oh, say hi from us, won't you? RUTH kisses GRAHAM. Two nerds approach.
+125) 12) dialog: There you go.
+125) 15) dialog: There you go.

@@ -1,0 +1,100 @@
+12) 0) text: The compartment door slides OPEN revealing DR. KAU, 30's, Asian doctor with a THICK BROOKLYN ACCENT. Her face full enthusiasm drops as she sees the unconscious Leopold.
+12) 1) dialog: Shit!!
+12) 3) dialog: Shit!!
+12) 5) dialog: Shit!!
+12) 6) text: Her co-workers, DR. PLODDER, austere, authoritative, DR.  DRAKE, muddled and timid, peer inside the compartment doo
+12) 7) dialog: Good God!
+12) 8) dialog: Everybody stay calm... Lock the front  door.
+12) 9) text: Dr. Drake and Kau make a move to inspect an unconscious  Leopold.
+12) 10) dialog: No, no, no. You mustn't touch him.  The consequences could be  catastrophic.
+12) 11) dialog: He could be hurt, or even dead.
+12) 12) dialog: ...All right. Touch him.
+12) 13) text: They approach Leopold. Dr. Kau finds Carlson's note pad o the ground next to Leopold. She reads the last entry.
+12) 14) dialog: ...But I'm stuck and it's only a  dance and he IS the seventh Duke of  Albany...
+12) 16) dialog: Carlson...!
+12) 17) dialog: (racing from the room) Give me a minute...
+12) 18) dialog: Shit!
+13) 6) text: Dr. Plodder bursts in. Kate sees his distress and instant becomes very centered.
+13) 7) dialog: She's back.
+13) 9) dialog: Kate. It's Carlson. Something went  wrong.
+14) 2) dialog: (absently) I love Ronald Coleman.
+14) 4) dialog: Until now.
+14) 6) dialog: We've altered the course of history.
+14) 7) dialog: We never should have started this...
+14) 9) dialog: What are we going to do? We can't  keep him here. Imagine if anyone  found out!
+14) 15) dialog: He's a man, Kate. Not a guinea pig.
+14) 18) dialog: We'll draw names. Whoever is is picked  will be responsible. Agreed?
+14) 20) dialog: I'll do it.
+14) 22) dialog: You'll look after him?
+14) 23) dialog: No, I meant I'll pick the name.
+14) 32) dialog: Yes, uh... Quite by accident we came  upon a formula utilizing Tachyons...  particles traveling faster than the  speed of light, which allowed us  to... fold time so to speak.
+14) 33) dialog: Yes. Bend it between the cracks of  the dimensions.
+14) 34) dialog: Yes.
+14) 36) dialog: Now, while that wasn't the original  purpose of our experiment, we opted  to pursue it, well, privately, on  our own.
+14) 37) dialog: Borrowing funds already provided.
+14) 39) dialog: Merely to discover if the expedition  were possible. As your presence here  confirms... we are very disturbed.
+14) 41) dialog: The problem facing us is not only  HOW to get you back, but WHEN, you  see?
+14) 44) dialog: Rest assured, no harm will come to  you. You'll be well looked after by  Dr. Coles.
+14) 48) dialog: (carefully) It is the year nineteen hundred and  ninety-five.
+14) 52) dialog: Leopold, calm down!
+14) 54) dialog: We're scientist, not seditionists.
+15) 2) dialog: You don't know what you're doing.
+15) 3) dialog: Just listen to what we have to say!
+17) 0) text: Kate and Dr. Kau talk quietly. Leopold, tightly holding o his seat and the back door, gazes out the window in utter disbelief.
+17) 2) dialog: Squab?
+17) 4) dialog: Squab... Do you have a squab?
+17) 6) dialog: Pull yourself together! (turning to Leopold) Are you all right back there?
+17) 9) text: Dr. Kau stares at Kate in concerned silence.
+37) 0) text: Dr. Drake enters Dr. Kau's office with two pints of Haage Dazs.
+37) 1) dialog: Chocolate Peanut Butter Cookie Dough  Swirl or Peach?
+37) 2) dialog: Peach.
+37) 4) dialog: Any luck?
+37) 5) dialog: Yea. Lots of luck. All bad. No  information exists detailing what  happened to Carlson. I've been working  for weeks and I'm not any closer  than when I began... How are you  doing?
+37) 6) dialog: My cholesterol level is up 70 points.
+37) 8) dialog: Thank you, Kate... How're you managing  with Leopold?
+37) 10) dialog: Nothing. I was just asking.
+37) 12) dialog: Keep up the good work. (after she's gone) She seemed a little scattered. Do  you think everything's all right?
+37) 13) dialog: Katherine Coles is the most capable  person we have on this project. If  anyone can handle the delicacy of  this situation, Kate can.
+37) 14) dialog: So there's nothing to worry about?
+37) 15) dialog: Absolutely not.
+61) 0) text: Kate gives Leopold a tour of the lab stopping by Dr. Drak area. Hidden behind chalk boards, calculator paper, and  several empty Haagen Dazs containers, Dr. Drake searches solutions.
+61) 4) text: They move to Dr. Kau's area.
+61) 6) text: Dr. Kau merely grunts. Leopold looks at Kate.
+67) 0) text: Dr. Kau SLAMS a large book on Dr. Plodder's desk startlin him.
+67) 1) dialog: I've located her.
+67) 2) dialog: You didn't! Is she all right?
+67) 3) dialog: No. She's really not.
+67) 5) dialog: It was taken a year after she arrived.  Look at her face! We have to get her  back.
+67) 6) dialog: Christine, this morning I spoke with  the head of funding. They're talking  about canceling the project.
+67) 7) dialog: What?! They can't do that!
+67) 8) dialog: There's still time. Nothing has  happened yet that can't be undone.  We'll get her back. We'll put this  behind us and we'll get her back.
+104) 1) dialog: (calling from her  office) Kate, are you all right?
+109) 4) dialog: We had to go through your computer  to access information. Your  calculations have been verified and  the final course has been set. Leopold  goes back a week from Friday 1:17  a.m.
+109) 5) dialog: How long were you going to keep it a  secret, Kate?
+109) 6) dialog: Were you even going to tell us at  all?
+109) 8) dialog: Not sure? What can you be thinking?  You can't alter the course of history  and assume everything will be okay.  It won't be. He has his own destiny  to fulfill in his own time.
+109) 10) dialog: (gently) He's going back, Kate.
+109) 11) dialog: It's over.
+114) 1) dialog: This is outrageous! I won't allow  it!
+114) 3) dialog: Do you realize what you're saying?  You're tampering with fate,  preordinance, and God himself.
+114) 5) dialog: Dr. Carlson is still over there. You  can't simply abandon her. We have to  get her back.
+114) 7) dialog: Only one person can return. The  capsule accommodates only one person.  Leopold has to find her.
+114) 10) dialog: Julia Carlson died in the Center  Factory fire of 1897, two years after  she arrived. She was 37 years old.
+114) 12) dialog: Dear lord.
+114) 13) dialog: She was a friend, Kate. She was never  expected to sacrifice her life for  this experiment. I won't be a party  to it. I know what I'm asking...  There's no way we can force you to  go. Just think it over.
+118) 1) dialog: The time tables have been set. Just  strap yourself in and you'll be fine.
+118) 2) dialog: You have only a twenty four hour  leeway before the machine is set to  return to us. You must find Carlson  within that time frame and get her  on board or there will be little  chance of her finding a way back.
+118) 4) dialog: It's been a real pleasure. You have  a much nicer smile than Ronald  Coleman.
+118) 6) dialog: Goodbye Leopold, and thank you. (she gives him a kiss)
+118) 8) dialog: Don't worry. We'll send Kate to you...  as soon as possible. I'll see to it  myself.
+118) 10) dialog: You have my word on it.
+118) 12) dialog: Four minutes and counting.
+118) 36) dialog: It's time Leopold.
+118) 37) text: Leopold holds Kate's face in his hands. Very slowly they  part. Leopold takes his place in the machine and straps himself in. He places one hand on the red lever and the other aga the glass pane on the door. Kate comes over and places he hand over his. Wordlessly, they say goodbye. After a moment, Dr. Kau gently moves Kate away. Dr. Plodd silently raises his arm, signaling Leopold.
+118) 38) dialog: 9 8 7 6 5 4...
+118) 40) dialog: 3 2 1!
+118) 41) text: Dr. Plodder drops his arm signaling Leopold. Leopold pull the lever, still gazing at Kate. There is a blinding FLAS of light, then darkness.
+119) 1) dialog: I cannot in good conscience let you  go. It's out of the question.
+119) 2) dialog: I can't be a part of it either Kate.  I'm sorry.
+119) 3) dialog: It's too big a risk.
+119) 5) dialog: We cannot guarantee your child's  safety. It's that simple.

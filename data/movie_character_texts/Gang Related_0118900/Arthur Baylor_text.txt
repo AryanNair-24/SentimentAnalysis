@@ -1,0 +1,88 @@
+65) 0) text: A BLACK CONVERTIBLE MERCEDES pulls into the circular, gat drive of the large two story home on immense manicured  grounds. A BMW is parked in front of the FOUR CAR GARAGE. is being waxed by car care specialists. The Mercedes stop and a MAN gets out. He has gray hair and expensive clothe He carries a briefcase and heads for the front door. His  name is ARTHUR BAYLOR.
+66) 0) text: A BUTLER shows Arthur to the patio where another MAN, NAT MCCALL, is seated behind a table, reviewing documents. Mc is fifty-five, wears glasses.
+66) 4) text: Arthur crosses. The two men shake hands.
+66) 5) dialog: Nathan. How are you?
+66) 7) dialog: No, I'm fine.
+66) 9) text: Arthur removes a NEWSPAPER from his briefcase. Opens it.  Revealing the PHOTOGRAPH OF JOE and the headline: UNDERCO COP GUNNED DOWN BY UNDERCOVER KILLER. McCall looks at the paper.
+66) 11) text: Arthur points at the photograph. McCall looks. A beat, th
+69) 2) text: The door opens and Arthur Baylor enters.
+69) 3) dialog: Elliot Goff?
+69) 6) dialog: Yes.
+69) 9) dialog: Yes.
+69) 10) text: Arthur shuts the door.
+70) 1) dialog: William.
+70) 2) text: Joe stares at Arthur as if fighting a lost memory, then -
+74) 0) text: Joe (William) is lead into the courtroom by GUARDS. Takes his place at the DEFENSE TABLE which includes Elliot and YOUNG ATTORNEYS. The PROSECUTION TABLE, which includes Ri Stein and Helen is going over last minute minutia. PEOPLE are taking seats in the gallery. But another attor joins the Defense table. It's Arthur Baylor. And Richard  Stein double-takes when he sees him.
+74) 5) text: They watch Arthur shake hands with everyone - Elliot, the two young attorneys and Joe.
+74) 7) text: Arthur takes a seat at the defense table and glances acro at Helen and Richard and nods. Helen and Richard are stun
+74) 12) text: Everyone sits. And even Judge Harold Pine double-takes wh he sees Arthur Baylor at the Defense table.
+74) 15) text: Arthur stands.
+74) 16) dialog: Yes, your honor. I have joined the  defense in the representation of Mr.  William Dane McCall, otherwise known  to this court as Joe Doe.
+74) 18) dialog: I have represented the McCall family  for several years before William  McCall's disappearance seven years  ago. It was assumed that he had died,  but since he has reappeared under  these tragic circumstances, I would  ask this court for a continuance to  allow the defense to prepare  adequately in light of his real  identity now being known.
+74) 20) dialog: One week should be sufficient.
+80) 0) text: Joe is sitting at the Defense table with Arthur and Ellio The trial is underway. And they watch the .44 go to the  evidence table -- the .44 with the BLACK STAIN. Richard Stein is seated at the Defense table. He, too, is watching the .44. He leans across to his ASSISTANT.
+80) 26) text: Elliot moves to the defense table, glances at Arthur as h picks up a paper. Arthur nods approvingly. Elliot looks a the paper.
+83) 9) text: Cynthia sits down. Looks at Divinci. And Joe leans across to Arthur and Elliot. Their conversa is in whispers --
+83) 13) dialog: ...How?
+83) 15) text: Arthur exchanges a look with Elliot. Arthur turns now and looks at Cynthia. The wheels are turning.
+85) 5) text: Divinci offers her a small smile. Cynthia turns away. Arthur is now standing in front of he
+85) 6) dialog: Miss Webb... is it Miss?
+85) 8) dialog: Miss Webb, had you ever seen the  defendant before that night, the  night you described to us?
+85) 10) dialog: Do you know what perjury is?
+85) 12) dialog: When you lie under oath in a court  of law. Do you know what the penalty  for that is?
+85) 14) dialog: Yes... Cynthia, have you ever seen  the defendant before that night?
+85) 17) dialog: I just want to give the witness the  opportunity to remember if she could  have seen Mr. McCall anyplace else  before the night in question.
+85) 22) dialog: What did you buy the night you went  into the mini-mart?
+85) 24) dialog: You remembered seeing Mr. McCall  that night and hearing the gunshot  and a car crash. I just wondered if  you remembered what you bought in  the mini-mart.
+85) 26) dialog: That's all?
+85) 28) dialog: Where do you live?
+85) 30) dialog: Is that close to where this mini- mart is?
+85) 32) dialog: How far would you say?
+85) 34) dialog: Within walking distance?
+85) 36) dialog: Did you walk there that night or  drive?
+85) 38) dialog: You drove. But when you left the  mini-mart you stated that you walked  down the street.
+85) 40) dialog: How far?
+85) 44) dialog: Yes, your honor. Since this is the  only witness, I'm trying to establish  what the scene was like that night.
+85) 46) dialog: (to Cynthia) And how far away from the corner was  the Mini-mart? For example was it in  the middle of the block, close to  the corner, where?
+85) 48) dialog: So you walked all the way to the  corner. I assume then you were walking  back to your car, yes?
+85) 50) dialog: Was there a reason you parked so far  away?
+85) 52) dialog: Was there anyone else on the street  besides you?
+85) 54) dialog: Lots of cars, but no people. Any  traffic?
+85) 56) dialog: So you were the only person to see  Joe on the street that night?
+85) 58) dialog: So you heard a gunshot, a car crash  and a man running with a gun in his  hand.
+85) 60) dialog: What did you do then? Did you call  the police, 911?
+85) 62) dialog: You went home. Straight home?
+85) 64) dialog: And you're sure it was Joe you saw  that night?
+85) 66) dialog: When you went home.
+85) 68) text: Arthur pauses.
+85) 69) dialog: When you went home you saw Joe?
+85) 73) dialog: I'm not trying to confuse the witness,  it's the witness that's trying to  confuse the court. I have witnesses  who will refute her testimony.  Witnesses who were on that corner  the night of the shooting, who never  saw Ms. Webb, who never heard the  gunshot, who never saw Joe run past.  Ms Webb saw Joe outside her apartment  building that night because he lived  in the alley next to it. Isn't that  right, Ms Webb?
+85) 74) text: Arthur turns dramatically to Cynthia. She is scared.
+85) 77) dialog: When I referred to him as Joe, you  knew who I was talking about, didn't  you. This case is the People versus  Mr. William McCall. Not Joe. Joe has  never been mentioned in this trial.  How did you know who I was talking  about, Ms. Webb?
+85) 78) text: Cynthia looks from Arthur to Divinci. Divinci is frozen.  Rodriguez is sweating. Then Cynthia turns and looks at Joe. Joe looks at her, feeling sorry for her. Not hating her.
+85) 79) dialog: Ms. Webb, how did you know that Joe  was the defendant?
+85) 85) dialog: Why did you lie to this court?
+85) 87) dialog: Are you afraid of somebody?
+85) 89) dialog: Are you protecting somebody?
+104) 0) text: Cynthia enters the office. The Guard shuts the door. Cynt finds herself facing Arthur Baylor. A tape recorder on th table in front of him.
+104) 1) dialog: Hi, Cynthia. Please sit down.
+104) 3) dialog: So I'm told.
+104) 4) text: Arthur pushes the tape recorder and we HEAR --
+104) 10) text: Arthur watches Cynthia's reaction to "when she's dead." B Cynthia has seen enough not to be too shocked by anything And her reaction is subtle. She knows better than to reve what she's really feeling and thinking.
+104) 15) text: The recording ends. Arthur shuts off the machine.
+104) 16) dialog: I think you know my client is  innocent. That's all I care about,  my client. But I understand why you're  scared. You're already facing perjury  charges. My guess is, your involvement  is deeper than that. But I don't  really care, I'm not after you... I  get nothing if you go to jail. But I  think if I help you, I can help my  client.
+104) 18) dialog: William -- Joe -- didn't do it, did  he?
+104) 20) dialog: Why don't you sit down.
+104) 25) text: Arthur, who was sitting across from him, stands.
+104) 26) dialog: Before I leave, let me remind you  that you have shit for a case. If  you really care about seeing justice  for your dead agent, don't blow this  deal. Immunity for her testimony is  a small price for a bad cop. It's  the only way she's going to talk.
+104) 27) text: Simms glares at Arthur.
+104) 28) dialog: And William McCall walks, right now,  all charges dropped.
+106) 0) text: Agents Simms, Hooker, Sarkasian and TWO TECHNICIANS are  waiting inside with Arthur. Cynthia is lead into the room The guards withdraw, closing the door. Cynthia looks at the men, then at the TAPE RECORDING EQUI on the table and the empty chair. A MICROPHONE is waiting Cynthia looks at Arthur, then sits down in the chair.
+107) 0) text: REPORTERS swarm around Arthur and Joe as they exit the  courthouse.
+107) 2) text: Arthur and Joe head down the steps to a waiting LIMOUSINE
+107) 8) dialog: I'm sorry, no more questions.
+108) 0) text: Nathan is in the back, staring at Joe. Arthur sits next t Joe. Nathan smiles. Joe smiles.
+109) 0) text: The limousine is parked curbside. Nathan and Arthur wait. Watching Joe walk across the lawn. He stops, looking down The grave stones are for his wife and two children. He si down beside them. It's very near where Agent Hudd was bur
+111) 0) text: Filled with well-wishers in TUXES and GOWNS. Arthur Bailo and Elliot in attendance. Elliot isn't used to this much  glory, but he's taking credit where where he can -- with of the PRETTY YOUNG WOMEN.
+111) 2) text: CAMERA MOVES to Arthur, who is also receiving his share o the credit.
+111) 3) dialog: -- to tell the truth, I had no other  witnesses to refute her testimony.  But she didn't know that. All we  knew was that she was reluctant to  testify. You look for signs.

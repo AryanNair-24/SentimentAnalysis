@@ -1,0 +1,266 @@
+1) 1) dialog: Hotel Mondial.
+1) 6) dialog: (realizing he's being asked a  question)
+1) 10) dialog: That's right.
+1) 14) text: Super cool. Zed adjusts his watch.
+1) 15) dialog: What time is it?
+1) 18) dialog: Yes.
+1) 21) dialog: I've been here once before.  When I was  younger. The cab driver smiles.
+1) 24) dialog: I beg your pardon?
+1) 26) dialog: No. (then after thinking about it  for a while)
+2) 0) text: A long, empty hallway of a moderately priced hotel.  From around a corner comes a BELLBOY carrying Zed's one bag. Zed is right behind him. They come up to room 6A and the bellboy unlocks the door.
+3) 0) text: The door to the room opens and the bellboy, followed by Z walks into the room. He puts Zed's bag onto one of those luggage holders and  proceeds to show him the room. Sitting on the bed is a large air freight package.
+3) 9) dialog: Oh, wait. The bellboy turns around.
+3) 10) dialog: What time is it?
+3) 13) dialog: (pointing at his watch)
+4) 0) text: Zed's bed, while still made, looks like it's been slept i Sitting on it is the ripped open air freight package.  In of it is a black steel briefcase. The shower is on and from the look of things Zed is in it On the bedside table we see Zed's watch.  It reads 12:10 Next to it is the phone.  Next to the phone is a piece of folded paper with Moises' name and a phone number that re 45.63.53.37.
+5) 0) text: Zed is in the shower letting the water run directly into face and cascade down his body. He opens his mouth and freely drinks the water, then he s some out with a spurt. Then he stops, attentive, listening for something. He turns the shower off. Then he hears it again, the knocking on the door.
+6) 0) text: Zed grabs a towel and climbs out of the shower.  He makes way toward the knocking.
+7) 0) text: Zed walks to the door to his room with the towel wrapped  around his waist.  He opens it. In the hall is ZOEY, a cute French girl of not more than  twenty.  She's chewing on gum the way a schoolgirl might, she looks like no girl Zed ever went to school with.
+7) 2) dialog: (a little awkwardly)
+7) 3) text: Bonjour. Zed opens up the door and lets her in.  She checks out th room and places her bag on the bed.  Then she makes her w to the window for a view of the city.
+7) 6) dialog: I...don't speak French. She blows a bubble.
+7) 10) dialog: Well, let me just dry up.
+7) 12) dialog: (from the bathroom)
+7) 15) dialog: My name's Zed.
+7) 17) text: That's funny.  We both have Z names. Zed comes walking out of the bathroom drying his hair.  H pants are on.
+7) 18) dialog: What was that? She notices his pants.
+7) 20) dialog: I'd rather watch you get undressed first.
+7) 23) dialog: Slower. He lays down on the bed. She stands there looking at him and then smiles.
+7) 29) dialog: Yes?
+7) 31) dialog: Yes.
+7) 33) dialog: Why?
+7) 35) dialog: Do you ask all your clients questions?
+7) 37) dialog: So you like me?
+7) 39) dialog: Why?
+7) 41) dialog: How do you know I'm a good person?
+7) 43) dialog: All men and women fit together.  Hell,  even some men fit together.
+7) 45) dialog: No I don't.
+7) 48) dialog: I never really thought of it like that.
+7) 52) dialog: Well, I like you too Zoe.
+7) 55) dialog: Well, I like your honesty.  You're open.   Unlike most prostitutes I've been with. She doesn't like the sound of this.  She slaps him.
+7) 57) dialog: Really?  Can I have my francs back then?
+7) 59) dialog: I see.
+7) 61) dialog: No, I do.
+7) 63) dialog: I didn't say it was.
+7) 65) dialog: Okay, okay relax.  What school do you go  to?
+7) 67) dialog: That's really interesting.  What kind of  art do you study?
+7) 69) dialog: Oh.
+7) 72) dialog: What kind of things do you paint?
+7) 75) dialog: I'd like to see one of these.
+7) 77) dialog: Zoey.  I'm sorry for calling you a  prostitute.  I didn't understand the  difference.
+7) 79) dialog: If these things you make are as true as  you are...I'm sure they're as  indescribable.  Perhaps, someday, you'll  make one...about me.
+8) 0) text: Zed is asleep.  Zoey is asleep in his arms. There is a knocking at the door. Zed opens his eyes. The knock becomes a pound. Zed gets up and puts on his pants.  Zoey gets up and look around.
+8) 3) dialog: I have no idea.  Night time. There is more pounding on the door.
+8) 6) text: Hey you madman! Zed's happy to see him.
+8) 7) dialog: Eric.  Come in. They hug.
+8) 11) dialog: Sorry, I asked the hotel to give me a  wake up call.
+8) 13) dialog: What about the girl?
+8) 15) dialog: No.
+8) 18) dialog: I'll let her stay here tonight.
+10) 0) text: Zed can't believe this.
+10) 1) dialog: Eric.
+12) 3) dialog: (shocked at the whole incident)
+12) 12) dialog: Eric, I liked that girl.
+12) 14) dialog: Because you were on a rampage.
+12) 16) dialog: Because when you need to get off you  don't want to have to date for months to  do it.
+12) 18) dialog: Sometimes you just need honesty...and  security.
+12) 20) dialog: Okay, let me take a shower.
+12) 22) dialog: Oh.
+14) 2) dialog: Years.
+14) 4) dialog: Well, to be honest there really wasn't  much happening for me in the states.
+14) 6) dialog: How could I resist your invitation?
+14) 8) dialog: So what have you been doing here?
+14) 10) dialog: Really?
+15) 0) text: Eric and Zed walk up the stairs to the fifth floor where  Eric's flat is.  On the top landing there is a dead cat  laying.  Zed and Eric notice the cat as Eric is opening t door. There is also a telephone coming out of the neighbors doo
+15) 2) dialog: Is that cat dead?
+16) 0) text: Eric's flat consists of a good sized living room area wit connected kitchen and a small bedroom in the back.  In th front of the living room there is a small balcony where t sounds of the city pour in.  The room itself is a general mess.  A bunch of guns are piled in one corner of the flo Hung up on the wall is a huge, French "Dressed To Kill"  poster. Some Brazilian Gilberto/Getz music is playing. Sitting at the table playing cards are three men:  FRANCO RICARDO, and JEAN. Sitting on the couch rolling a cigarette with hash is CLA and OLIVER. They all turn as Zed and Eric walk in.
+16) 4) dialog: I will.
+16) 8) text: Zed, would you like a beer?
+16) 9) dialog: Thanks.
+18) 0) text: Zed takes a seat on the couch next to Claude. Suddenly, a SPIDER MONKEY dressed in a little Uncle Sam  costume comes screeching up onto Zed's lap and then up on his head, the whole time clawing at his eyes. Eric, amused, turns from the men playing cards and smiles
+18) 2) text: Easy.  Don't scare him.  He just wants to  claim you. Zed is frozen as the monkey climbs around him and then on Claude's shoulder.
+18) 6) text: Tais-toi! (then to Zed)
+18) 12) text: That little shit monkey of yours pissed  on my Billy Holiday albums.  Next time  he's out the door. (to Zed)
+18) 13) text: Zed, come here. Zed gets up and goes with Eric to the bedroom.  On the wa Oliver hands him the glass of beer.
+18) 15) dialog: Thanks. Oliver sits down next to Claude.
+19) 2) dialog: Okay.
+19) 9) dialog: (turning the schematic around)
+19) 14) dialog: What kind of vault is that? He checks the blueprint.
+19) 16) dialog: Caliber? (he thinks about it)
+19) 19) dialog: That's how long it'll take.
+19) 22) dialog: Well hold on a second. (pointing to the blueprint)
+19) 25) dialog: No this. Eric looks closely at the blueprint.
+19) 27) dialog: Well, what kind of vault is this other  one?
+19) 30) dialog: Why would those two vaults be connected?
+19) 32) dialog: Because I can get into this vault in half  an hour.  Maybe less.
+19) 34) dialog: No, don't you see?  We get in through  this secondary vault and take this  passage to the other main vault.  From  the inside I could open the Caliber vault  in five minutes.
+19) 36) dialog: From the inside it's easy.
+19) 39) dialog: Okay.  When is Bastille day?
+19) 41) dialog: Tomorrow!?  We're doing this tomorrow?
+19) 43) dialog: It's impossible.
+19) 45) dialog: I don't know what to do.
+19) 47) dialog: I haven't even seen the bank.
+19) 49) dialog: (unsure)
+20) 0) text: EXTREME CLOSE ON:  Eric making heroin. The heroin powder is put into a spoon with some lemon  squeezed into it, then a little bit of tap water.  Huddle around Eric are Francois, Ricardo, and Oliver.
+21) 0) text: In the meantime, Zed is sitting on the couch with Claude Jean.  Claude is rolling a hash and tobacco cigarette.  J is chopping up some powder heroin on the glass of a small picture.
+21) 2) dialog: No, I want to be sharp for tomorrow. Jean and Claude laugh at this.
+21) 6) text: That's good. Eric, Francois, Ricardo, and Oliver come out of the kitch laughing. Eric, Ricardo, and Oliver take a seat on the couch opposi Zed.  Francois sits on the floor. Eric rolls up his sleeve.
+21) 8) text: [Hold my arm.] (then to Zed)
+21) 12) dialog: I don't think so.
+22) 3) dialog: (answering Enrique's question)
+22) 7) dialog: Is tomorrow really Bastille day?
+26) 11) text: This is good to have you here.  We could  not do this without you. Zed nods.
+26) 14) dialog: Really? Then Eric sees something.
+27) 0) text: Eric, Zed, Francois, Ricardo, Jean, Claude, and Oliver ar all walking down some dank stone steps into a cellar.   Somewhere crazy Raymond Scott Toy Jazz music is playing. An old wine cellar has been converted into a Toy Jazz clu Nothing fancy...dirt floors, chairs and small tables  scattered about...but the arched brick ceilings make for  great acoustics.
+27) 5) dialog: Well, Eric's mother is American.
+27) 7) dialog: They're divorced.  And she and his father  had some kind of six month split plan set  up.  So every six months he would come  back to the states.  We were best  friends.  Eventually he and his mother  had a falling out and he stayed here.   It's been...years.
+27) 9) dialog: Well...I suppose.  I used to be, when I  was young.
+27) 12) dialog: Yeah...I guess.
+27) 14) dialog: Yeah.
+27) 20) text: La ferme.  C'est du bon vin. (to Zed)
+27) 21) text: The fucking English. Zed sips some.  He's in no real shape to tell if the wine good or not.
+29) 2) dialog: Years.
+29) 4) dialog: Well, to be honest there really wasn't  much happening for me in the states.
+29) 6) dialog: How could I resist your invitation?
+29) 8) dialog: So what have you been doing here?
+29) 10) dialog: Really?
+30) 0) text: Eric and Zed walk up the stairs to the fifth floor where  Eric's flat is.  On the top landing there is a dead cat  laying.  Zed and Eric notice the cat as Eric is opening t door. There is also a telephone coming out of the neighbors doo
+30) 2) dialog: Is that cat dead?
+31) 0) text: Eric's flat consists of a good sized living room area wit connected kitchen and a small bedroom in the back.  In th front of the living room there is a small balcony where t sounds of the city pour in.  The room itself is a general mess.  A bunch of guns are piled in one corner of the flo Hung up on the wall is a huge, French "Dressed To Kill"  poster. Some Brazilian Gilberto/Getz music is playing. Sitting at the table playing cards are three men:  FRANCO RICARDO, and JEAN. Sitting on the couch rolling a cigarette with hash is CLA and OLIVER. They all turn as Zed and Eric walk in.
+31) 4) dialog: I will.
+31) 8) text: Zed, would you like a beer?
+31) 9) dialog: Thanks.
+33) 0) text: Zed takes a seat on the couch next to Claude. Suddenly, a SPIDER MONKEY dressed in a little Uncle Sam  costume comes screeching up onto Zed's lap and then up on his head, the whole time clawing at his eyes. Eric, amused, turns from the men playing cards and smiles
+33) 2) text: Easy.  Don't scare him.  He just wants to  claim you. Zed is frozen as the monkey climbs around him and then on Claude's shoulder.
+33) 6) text: Tais-toi! (then to Zed)
+33) 12) text: That little shit monkey of yours pissed  on my Billy Holiday albums.  Next time  he's out the door. (to Zed)
+33) 13) text: Zed, come here. Zed gets up and goes with Eric to the bedroom.  On the wa Oliver hands him the glass of beer.
+33) 15) dialog: Thanks. Oliver sits down next to Claude.
+34) 2) dialog: Okay.
+34) 9) dialog: (turning the schematic around)
+34) 14) dialog: What kind of vault is that? He checks the blueprint.
+34) 16) dialog: Caliber? (he thinks about it)
+34) 19) dialog: That's how long it'll take.
+34) 22) dialog: Well hold on a second. (pointing to the blueprint)
+34) 25) dialog: No this. Eric looks closely at the blueprint.
+34) 27) dialog: Well, what kind of vault is this other  one?
+34) 30) dialog: Why would those two vaults be connected?
+34) 32) dialog: Because I can get into this vault in half  an hour.  Maybe less.
+34) 34) dialog: No, don't you see?  We get in through  this secondary vault and take this  passage to the other main vault.  From  the inside I could open the Caliber vault  in five minutes.
+34) 36) dialog: From the inside it's easy.
+34) 39) dialog: Okay.  When is Bastille day?
+34) 41) dialog: Tomorrow!?  We're doing this tomorrow?
+34) 43) dialog: It's impossible.
+34) 45) dialog: I don't know what to do.
+34) 47) dialog: I haven't even seen the bank.
+34) 49) dialog: (unsure)
+35) 0) text: EXTREME CLOSE ON:  Eric making heroin. The heroin powder is put into a spoon with some lemon  squeezed into it, then a little bit of tap water.  Huddle around Eric are Francois, Ricardo, and Oliver.
+36) 0) text: In the meantime, Zed is sitting on the couch with Claude Jean.  Claude is rolling a hash and tobacco cigarette.  J is chopping up some powder heroin on the glass of a small picture.
+36) 2) dialog: No, I want to be sharp for tomorrow. Jean and Claude laugh at this.
+36) 6) text: That's good. Eric, Francois, Ricardo, and Oliver come out of the kitch laughing. Eric, Ricardo, and Oliver take a seat on the couch opposi Zed.  Francois sits on the floor. Eric rolls up his sleeve.
+36) 8) text: [Hold my arm.] (then to Zed)
+36) 12) dialog: I don't think so.
+37) 3) dialog: (answering Enrique's question)
+37) 7) dialog: Is tomorrow really Bastille day?
+41) 11) text: This is good to have you here.  We could  not do this without you. Zed nods.
+41) 14) dialog: Really? Then Eric sees something.
+42) 0) text: Eric, Zed, Francois, Ricardo, Jean, Claude, and Oliver ar all walking down some dank stone steps into a cellar.   Somewhere crazy Raymond Scott Toy Jazz music is playing. An old wine cellar has been converted into a Toy Jazz clu Nothing fancy...dirt floors, chairs and small tables  scattered about...but the arched brick ceilings make for  great acoustics.
+42) 5) dialog: Well, Eric's mother is American.
+42) 7) dialog: They're divorced.  And she and his father  had some kind of six month split plan set  up.  So every six months he would come  back to the states.  We were best  friends.  Eventually he and his mother  had a falling out and he stayed here.   It's been...years.
+42) 9) dialog: Well...I suppose.  I used to be, when I  was young.
+42) 12) dialog: Yeah...I guess.
+42) 14) dialog: Yeah.
+42) 20) text: La ferme.  C'est du bon vin. (to Zed)
+42) 21) text: The fucking English. Zed sips some.  He's in no real shape to tell if the wine good or not.
+45) 0) text: The sub level teller and the sub lobby assistant walk int the sub lobby just as Eric, Zed, Oliver, and the bank man start coming down the stairs. At the sight of Eric and his men the sub lobby guard #2 a his weapon but does not fire because of the bank manager. Eric presses his Uzi against the bank manager's neck.
+49) 15) dialog: Jesus fucking Christ! The bank manager, shocked as he is, looks at Zed.  He kno he's an American. The sub lobby teller's body slumps to the ground. Eric grabs the stodgy customer and puts the gun to his  temple.
+49) 20) dialog: Eric no!  I can open the vault!
+49) 33) dialog: You didn't have to shoot any of them!
+50) 1) dialog: Eric.  It's just that we've gone from  being thieves to murderers.
+50) 3) dialog: I thought the death penalty was abolished  in 1980?
+50) 6) text: Why don't you open the vault? Zed looks at the bathroom door close.  After a fuming pau he turns and walks back toward the Poseidon vault door.
+52) 0) text: Zed opens up his steel briefcase.  Inside of it are all s of electronic gear and tools. He takes out a tape measure and some callipers and measur out a point on the vault door.  He marks the point with a piece of chalk.
+54) 0) text: Zed takes a power drill out from the briefcase and attach special diamond tipped bit.  He measures the depth he wan to drill to and then marks the bit with a yellow pencil. He places his ear to the vault and taps the spot.
+56) 0) text: Zed starts drilling into the point he marked with the cha on the vault door.
+59) 0) text: EXTREME CLOSE ON:  Zed's drill bit.  It burrows into the  steel wall of the safe spewing out spiral shavings.
+61) 0) text: Zed looks up hearing the commotion. Eric comes running out of the bathroom and into the  storage/elevator area.
+61) 2) dialog: I don't know.
+64) 0) text: Zed is drilling now with a hand drill.  He removes it and blows into the hole.  Shavings come out. Eric comes trotting into the antechamber whistling.
+64) 1) dialog: (turning to Eric)
+64) 4) dialog: Well, did you tell them to stay quiet?
+64) 6) dialog: Fucked up my drill bit.
+64) 8) dialog: Cross your fingers. Eric does. The volt meter's needle jumps.
+64) 9) dialog: Perfect.
+64) 11) dialog: We find the fuse box.  It'll probably be  upstairs. Zed gets up.
+64) 13) dialog: No.  I need to see it myself. Zed jumps up and into the storage/elevator area with Eric close behind him.
+65) 0) text: Instead of walking upstairs, Zed finds the fuse box right the next room.
+65) 1) dialog: Hold on.  Here she is. Eric is a bit relieved. Zed opens it up.
+65) 2) dialog: Let's see. He looks through the fuses and then finds the one he want
+65) 3) dialog: Okay, you throw this fuse switch off and  then back on when I call to you.  Any  other switch may set off the alarm. Eric smirks.
+65) 5) dialog: (serious)
+65) 8) text: Got it. Zed goes back to the vaults.
+66) 0) text: Zed trots back to the Poseidon vault door and quickly gra little gizmo from out of his briefcase.  It is a little h made black box with a series of LED's on it and two wires coming out of one side with alligator clips on the end.   Three other wires are also coming out of it. He slips the alligator clips into the hole and latches th He then tapes one of the wires to the vault itself. The two remaining wires he hooks up to a large twelve vol battery.
+66) 1) dialog: Come on sweetie don't fail me now. He looks toward the door leading to the reserve vault are
+66) 2) dialog: (calling to Eric)
+66) 5) text: Ready! Zed turns on his little box, the LED's start flickering.
+66) 6) dialog: Now! The lights go out and then back on. There is a whirring sound from the vault door. The LED's quickly go from red to green. There is a loud, heavy clicking as the vault door unlocks
+66) 7) dialog: Open seasame. Zed smiles and swings the door open revealing the interio the Poseidon vault. Eric comes running in like a kid on Christmas morning.
+66) 10) dialog: I can get through that lock in a minute.
+67) 0) text: Zed goes to the gated passage which isn't much more than window in one upper side of the vault, but it's enough to him into the main vault. Eric is right behind him. Zed takes a twirl at the combination lock.
+67) 1) dialog: Dime store brand.  Three minutes max.
+67) 3) dialog: Fuck!
+67) 5) dialog: Jesus Christ! Scrambling on their hands and knees Zed and Eric crawl ou the Poseidon vault.
+68) 0) text: They take cover. Another shot is fired into the vault. Zed and Eric look into the vault.
+68) 1) dialog: Another security guard?
+68) 3) dialog: I think I stained my pants.
+68) 23) dialog: (quietly)
+68) 28) dialog: (holding his voice down)
+68) 31) text: [Changed your mind yet?] Eric creeps into the room and activates the detonator. Zed and Oliver run for cover.
+70) 0) text: Dust has blown out of the vault and is settling on Oliver Zed, and Eric, who is laughing like a madman. Zed is looking at him like he's crazy.
+70) 1) dialog: You asshole!  You could have killed us  all.
+71) 3) dialog: (to Oliver)
+71) 6) dialog: Right.
+72) 0) text: The main vault looks like what a vault would look like if were blown up from the inside.  On the floor is the still smoldering body of the security guard.  The room is  incredibly smokey. Zed squeezes through the opening. Then, Eric, grinning like a schoolboy, emerges from the s with a brick sized bar of pure gold.
+72) 4) dialog: We're not out of here yet.
+78) 0) text: Zed is sweating as he works away at the back of the door. glances over what he's done and makes a calculation on a  calculator. Then, there is a groaning sound. Zed, terrified, spins around. Another groaning sound.  The vault security guard isn't d His body is charred and he's not moving but he's very muc alive.
+78) 3) dialog: Are you still there? Nothing. Zed puts his hand to the neck of the vault guard #1 and  checks for a pulse. Nothing. Zed sits there for a moment looking at the corpse, then, he wants to get out of there as soon as possible, he  scrambles to the door and starts adjusting several switch He has wired a battery to two leads.  He takes out a wire cutter and snips a wire. There is a sudden barrage of whirring and clicking sounds the vault unlocks. Zed calls to Oliver from the passage.
+79) 1) dialog: (distant, calling from the  vault)
+79) 2) text: Oliver, now!  Open the vault! Oliver turns the large wheel and opens the Caliber vault  door. With some amount of energy the door opens.  Standing insi is Zed.
+79) 3) dialog: Open seasame. He steps out of the vault.
+79) 4) dialog: Do you want to give me a hand?
+80) 0) text: Oliver sees the huge platen of gold bricks.  Zed puts his steel briefcase on top of it.
+80) 2) dialog: Here, help me with this.
+82) 0) text: Zed takes the dolly and starts wheeling the platen of gol out.  Oliver helps him.
+82) 2) dialog: Just help me steer this out. They maneuver out of the Calibre vault.
+83) 2) dialog: What for?
+83) 4) dialog: Money is too easily traceable.  You'd  never be able to spend it.  And forget  about exchanging it.
+83) 6) dialog: No sir.  Your best bet is to get these  bars melted down in Tunisia or Korea.
+83) 8) dialog: Or Portugal. They get into the banks private freight elevator.
+84) 0) text: Zed closes the door and pushes the button to go up to the ground floor.
+86) 0) text: Zed is waiting for the elevator to arrive.
+86) 1) dialog: Do we have a covering of some kind?
+86) 3) dialog: You know.  Something to cover this with.   It'll look kind of conspicuous leaving  the bank with a platten of gold.
+86) 5) dialog: Police?!  What do you mean they know what  we're up too?
+86) 7) dialog: No I didn't know!  How many police?
+87) 0) text: Suddenly, from the back office, Zed sees Zoey blasting aw an Uzi and running toward the rear stairwell.  Eric is in lobby limping around.  The other gang members are ducking from her fire. Then, her clip runs out. She sees Zed, their eyes lock.  An IMAGE overcomes Zed. runs down the stairs to the back.
+88) 0) text: Zed and Oliver collapse out of the back office and into t lobby.  They tumble onto the floor.  Eric hobbles over to them, his gun aimed at Zed.
+90) 0) text: Eric leans down to talk to Zed.  Oliver and Jean are  watching.  Francois and Claude are more worried about the tear gas.
+90) 4) dialog: Eric...what are you talking about? Eric lifts him to his feet and holds him up against the  knife.  He turns him toward the smoke and whispers into h ear.
+90) 6) dialog: (thinking Eric is a madman)
+90) 9) dialog: What about our friendship?
+93) 0) text: Zoe walks up the stairs out, not only are they locked but cloud of tear gas is pouring into the downstairs sub lobb Suddenly, Zed stumbles in. Zed is like a zombie.  Then he notices Zoe in the stairwe They lock eyes.
+93) 1) dialog: (almost delerious)
+93) 4) text: My Zed.  They've hurt you. She dabs a cloth to his cut face.  He holds it on.
+93) 7) dialog: Be serious Zoe...I can stick my tongue  through my cheek.
+95) 0) text: Tear gas is starting to fill the room. Zoe stands Zed up.
+97) 0) text: Zoey and Zed rush into the reserve vault area.  Zoey noti that the downstairs reserve vault is closed.
+97) 2) dialog: What about the others? The gunfire upstairs has subsided and has been replaced b unintelligible POLICE VOICES.
+99) 5) dialog: Zoe.
+99) 11) dialog: (starting out calm and then  building to a scream)
+99) 15) dialog: Zoey, get out of here! She scrambles away. He swipes at Zed. Zed jumps back down the hall toward the reserve vault are
+101) 0) text: Zoey and Zed, bandaged up, are being aided by all of the  French policemen as they walk through the bank. Smoke is still clearing, but the bodies of customers and robbers alike litter the area. PARAMEDIC's, wearing all white, try to help the injured, assist Zed and Zoey.
+101) 3) text: [My God.  What a Bastille Day.] Zed's attention is caught by two OTHER POLICEMEN carrying body bag.
+101) 8) dialog: No.
+102) 1) dialog: I'm so tired.
+102) 3) dialog: No...it was mostly his blood.
+102) 5) dialog: Thank you Zoe. He looks at her.

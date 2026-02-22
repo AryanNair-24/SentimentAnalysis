@@ -1,0 +1,12 @@
+0) 0) text: JUDGE GOINES turns to the Jury FOREMAN.
+0) 1) dialog: Mister Foreman, have you arrived at a verdict?
+0) 11) dialog: Mister LaPlante, I have been persuaded in view of your continued employment and your lack of prior convictions, to continue your bail under the same conditions heretofore, pending sentencing six days from now.  In the meantime you will make an appointment with the probation officer who will make a recommendation to me regarding your sentence.  I urge you to use these six days to set your personal affairs in order in anticipation of incarceration.
+84) 0) text: JUDGE GOINES is addressing a miserable looking CRIMINAL..
+84) 1) dialog: Bail in this matter will remain in the sum of five thousand dollars.  Next.
+84) 12) dialog: Mister LaPlante, you will be silent unless the court recognizes you...
+84) 15) dialog: Mister LaPlante, unless you stop chattering immediately, I am going to ask the Bailiff to... JUDGE GOINES breaks off, eyes furious, as he spots BAILIF the Court Reporter, DE TAGLIO and the SECOND BAILIFF enga in urgent whispering.
+84) 16) dialog: 
+84) 21) dialog: Found who?
+84) 24) dialog: We'll sustain bail at twenty-five thousand dollars.  That ought to keep Mister LaPlante out of trouble for a minute or two...
+185) 0) text: JUDGE GOINES frowns at the TV set, tries to place that na
+185) 1) dialog: LaPlante.  Mmmmmmmm.  LaPlante.

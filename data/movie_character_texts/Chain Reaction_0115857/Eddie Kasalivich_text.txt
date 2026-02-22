@@ -1,0 +1,332 @@
+0) 0) text: A line of huge blast furnaces, rusting and abandoned. Eddie steers the motorcycle past them to the one small island of life - a few cars parked at the edge of a vast empty lot - and pulls to a stop. He gets off, splashes across the lot toward the mill entrance. He enters.
+1) 1) dialog: nods as he passes techies at work in cubicles, stops at an office, reaches into his coat and draws out a comic book, slides it onto the desk of CHEN, about forty. Chen looks up from his work:
+1) 3) dialog: Just out. He continues down the hall, nearly running over LILY NAUGHTON, roughly Eddie's age. She's wearing a lab coat over her jeans, the kind of woman who would be stunning if she took even a minute to think about it, which she doesn't. Mostly she thinks about her work (she runs the lab as Chen's assistant), and when she isn't thinking about that, she thinks about the long backpacking trips she wishes she had more time to take.
+1) 5) dialog: Right here. He sets his pack down, begins rummaging through it.
+1) 7) dialog: Not yet. This doesn't make her happy:
+1) 9) dialog: I haven't had time...
+1) 47) dialog: (thinks: ) Sure. Why not? He flips to another page, begins sketching, absently.
+1) 57) dialog: (not looking up:) I'll have it tomorrow.
+2) 0) text: Shannon emerges, finally lights his cigar, crosses to his car. He sees Eddie moving toward his motorcycle.
+2) 2) dialog: Pretty good.
+2) 4) dialog: Mostly. Shannon eyes him skeptically. Eddie grins.
+2) 5) dialog: (continued) Some. Shannon opens Eddie's saddle bag, pulls out a half dozen comics: X-Men, Spawn, Gen 13.
+2) 7) dialog: I've been trading with Chen.
+2) 10) dialog: Chen does. He doesn't understand that stuff. He means the comics. Shannon smiles, waves, and crosses to his car; Eddie fires up the bike. And as he drives out of the lot, we HEAR, VOICE OVER:
+3) 0) text: ...and as we pull back from the pad, we see we are in Eddie's basement, crammed with gear, tools, gadgets, and especially, sound equipment. Eddie puts a prototype nozzle in place, switches on his amplifier...
+4) 0) text: As Eddie shapes his new nozzle on his lathe, carefully crafting the nozzle's horn, feeling it with his fingers, and there is
+4) 3) dialog: Not yet.
+4) 4) text: Lily gonna shoot you. What means necroplasmic goo? Eddie removes his safety goggles, looks at Chen blankly. Chen reads from his Spawn comic:
+4) 6) dialog: Sort of tired blood. (pause) But clotted. Chen doesn't get it.
+5) 0) text: Eddie is slumped inside the water tank, the door open, installing the acoustic nozzle.
+5) 4) dialog: Hello.
+5) 6) dialog: A new acoustic nozzle.
+5) 35) dialog: can't contain his glee. He practically runs to the console, so he can see the meters registering this amazing output.
+5) 44) dialog: Sure. She slips her arm around Chen, smiles hugely for the camera. Eddie shoots.
+5) 54) dialog: Bucky? They want you for a picture.
+6) 0) text: The techies have gathered in a group, champagne bottles in hand, silly grins plastered on their faces. Lily is arranging them for the shot as Eddie sets up the camera on a makeshift tripod.
+6) 6) dialog: Thank you. Congratulations to you. And now Lily is at Bucky's side, inserting herself between Bucky and Eddie:
+6) 10) text: Eddie emerges from the lab, crosses to his bike. Not far away, we HEAR the grinding of an engine. Eddie stops, peers through the darkness, then crosses to a car, raps an the window.
+6) 13) dialog: You're out of gas. She peers at the gauge.
+6) 14) dialog: (continued) You shouldn't drive, anyway. Come on, I'll take you home.
+6) 15) dialog: cross the parking lot. It's cold, and she huddles in her thin coat.
+6) 16) dialog: Where do you live?
+6) 19) dialog: You're a snob.
+6) 21) dialog: Could've made a mistake.
+6) 23) dialog: I know exactly what you mean. They're standing at a bus stop.
+6) 25) dialog: Back there. I have a motorcycle. She turns, looks back into the parking lot. The bus arrives, Eddie boards. He holds out his hand for her:
+6) 26) dialog: (continued) You'd freeze to death. She looks at the bus as if she's never seen one before.
+9) 0) text: And in the nearly deserted bus, Eddie and Lily sit side by side.
+9) 2) dialog: Burglar's tools. She laughs.
+9) 5) text: I'm corrupting Chen. Making a real American out of him. Eddie pulls out his book on Physics, begins reading. She looks at him oddly.
+9) 6) dialog: (continued) Have you read it?
+9) 8) dialog: Go ahead. Test me. Ask me anything in there. Lily eyes him with new interest. She opens the book, skims a chapter or two.
+9) 10) dialog: Ask me something else. (pause) Well come on, you picked the hardest chapter.
+11) 0) text: Eddie is reading from the physics text, using his hands to illustrate the problem:
+11) 1) dialog: See, you have this tuning fork attached to a stretched wire, and it generates transverse waves. The vibration of the fork is perpendicular to the wire. Its frequency is 400 Hz and the amplitude of its oscillation is 0.50 mm... He turns to Lily, who's out like a light, snoring gently against his shoulder. Eddie puts the book away, peers out the window.
+11) 2) dialog: (continued) Hey. This is us.
+11) 3) text: Eddie half carries Lily up the stairs to her apartment. She's leaning into him, speaking into his neck.
+11) 5) dialog: Can you stand up while I do this?
+11) 8) dialog: Bedroom? She points.
+11) 10) dialog: Not right now.
+11) 12) dialog: Yes. He drops her gently onto the bed. Swings her feet up. Slips her shoes off.
+11) 17) dialog: You've been around. But she's already asleep, her arms curled around her pillow for comfort.
+13) 0) text: Eddie is back on the bus. Peering out the window, thinking about Lily. Smiling.
+14) 0) text: The bus pulls up and Eddie alights, heads for his bike parked in the lot.
+14) 1) text: Eddie hops on, fires it up, pulls slowly past the entrance to the mill lab...
+15) 0) text: Eddie enters. Listens for a beat; then says, under his breath:
+15) 1) dialog: Anybody home? He crosses to the office area, sees a light shining from the back - Bucky's office. He crosses. And he pokes his head into
+15) 3) dialog: Bucky? No answer. Bucky's computer is on, the screen casting a dim, green glow into the small office. Eddie repeats:
+15) 4) dialog: (continued) Bucky? You awake? Still no answer. Eddie crosses to the chair, and what he sees hits him like a hard blow to his chest, taking his breath away:...
+15) 6) dialog: Oh, my god: Oh, Jesus... He yanks the bag off Bucky's head with such force that Bucky's inert body falls from the chair onto the floor.
+15) 7) dialog: (continued) Oh, Jesus, Bucky! He's down on the floor with Bucky, holding the old man's head back, breathing into his mouth. And then he begins pumping Bucky's chest.
+15) 8) dialog: (continued) Oh, Bucky, come on... come on... He breathes into his mouth again, pumps his chest, but it's useless.
+15) 9) dialog: (continued) Oh, shit, oh shit! He scrambles up, searches wildly for a phone, lifts the receiver: the line is dead. The cord dangles loosely to the floor. Eddie darts out of the room into the
+17) 0) text: Eddie is frozen with fear. The HISSING SOUND is louder now, but perhaps it is just in Eddie's brain. Slowly, he begins making his way out of the lab...
+18) 0) text: ...and once outside, he runs. He grabs the bike, fearful of starting it so near the lab, he pushes it, sweating, until he is willing to gamble. He lets out the clutch and the EXHAUST sputters with a blue flame and EDDIE cringes, expecting an explosion, but there is none. He slips into low gear, speeds on a straight away, tearing through the night as we CUT TO:
+19) 1) dialog: puts his head down and roars away and
+20) 2) text: (continued) ... Eddie?
+21) 8) dialog: We were all here. But yeah, I came back later.
+21) 10) dialog: Yes.
+21) 12) dialog: He had a plastic bag over his head. He was blue...
+21) 14) dialog: No. He wouldn't have.
+23) 6) dialog: I'd come back for my bike.
+23) 8) dialog: Yes.
+23) 10) dialog: She couldn't get her car started. She'd had a little bit to drink.
+23) 12) dialog: No. She's a physicist. A blank look from the agent.
+23) 13) dialog: (continued) I'm a machinist. He casts an eye across the room at Lily, answering another agent's question. She seems stunned, red eyed from lack of sleep.
+26) 0) text: Eddie emerges, is immediately engulfed in a shouting mob of reporters:
+26) 2) dialog: I don't know anything. I'm sorry. He makes his way through the mob, but they've already spotted someone else coming out of the door: it's
+28) 0) text: as Lily and Eddie slump with exhaustion in set, steaming coffee cups in their hands.
+28) 4) text: They think he did it. She rises, crosses to the kitchen, enters. Eddie follows:
+28) 6) dialog: Why would he do it?
+28) 8) dialog: Where do you think he is?
+28) 10) dialog: No. I'm not saying that...
+28) 12) dialog: I'm just wondering where he is...
+30) 4) dialog: I thought you shouldn't be alone.
+31) 0) text: Lily and Eddie on a bench beside the river; Lily is studying the fax; she seems stunned, in shock:
+31) 2) dialog: What do you mean?
+31) 4) dialog: How do you know?
+31) 6) dialog: What does it say?
+31) 8) dialog: Join him where?
+31) 12) dialog: I do believe you.
+31) 14) dialog: (continued) Lily:
+31) 16) dialog: Lily, I believe you: She wheels, continues on, practically running. Eddie has to sprint after her.
+31) 17) dialog: (continued) Lily! wait... He catches her, turns her to him, she's quaking with fear: INT.
+31) 18) dialog: (continued) Lily, you have to trust somebody. It might as well be me.
+35) 4) dialog: waiting for him.
+35) 5) dialog: Tony we need some help. Someone's trying to frame Lily.
+35) 7) dialog: She got a fax, supposedly from Chen. It's not from Chen. It makes her look like she's involved in this...
+35) 9) dialog: What bag?
+35) 11) dialog: I don't know anything about it.
+35) 16) dialog: I have friends...
+37) 0) text: Shannon emerges; hurries away, pulling his coat up around his face as if trying to hide. cop in the unmarked car opposite, watching. He gets out, follows Shannon at a discreet distance. EDDIE AND LILY. watch as the cop follows Shannon. Then they move quickly on foot out of the garage and down the block in the opposite direction.
+40) 3) dialog: Meet you there. Get out of here. He rises, heads to the men's room. She watches him, uncomprehending, until she sees a guy down the bar with the newspaper, casually studying the two of them, lookin at the pictures on the front page. He turns, watches as Eddie passes to the men's room. When he turns back to Lily, she's already gone.
+43) 0) text: Eddie emerges from the men's room, moves past the man with the paper, exits. The man stuffs his paper under his arm, follows Eddie to the door.
+44) 0) text: The man with the paper watches as Eddie melts into the crowd on the street. He seems unsure, is about to re- enter the bar, when a police car passes slowly.
+45) 0) text: Eddie moves through the crowd. It's rush hour and the sidewalks are jammed with people buttoned up against the icy blast. A sudden NOISE startles him and we CUT To a
+47) 0) text: Eddie makes it to the lip of the rising bascule - now eight stories above the pavement - just as it shudders to a halt. It nearly shakes him loose. Clinging by his fingers, he grips the steel edge of the spar... He looks down and sees a half dozen cops, guns drawn, shouting at him from the pavement below.
+48) 7) dialog: clinging to the top of the span, barely able to hold an in the icy wind. As he looks up, he finds himself staring into the
+48) 8) text: of the skyscrapers bordering Michigan Avenue, now filling with spectators who suddenly find themselves with front row seats for the unexpected drama, their faces awash in the red and blue lights from the police and emergency vehicles below. Eddie manages a toe-hold on the side rail. With a final effort, he inches up on top of the bridge. He looks down:
+51) 0) text: The bridge shudders. Eddie is thrown off balance.
+52) 0) text: AS cops and the TV crew look on, Eddie teeters, then disappears. A horrified GASP from the crowd as
+52) 1) dialog: falling, grabs a pipe running from the upper to the lower level and slides down it like a fireman.
+53) 0) text: The immense gears interlock, meshing together like the workings of a giant clock. It looks like time has run out as Eddie falls into the machinery...
+54) 1) text: ...and the bridge shudders to a halt. Several cops rush into the concrete chamber that houses the bridge mechanism. Shining their lights into the gears, they search for Eddie - but there's no sign of him. The cops are mystified.
+56) 0) text: The shadows of the bridge structure work in Eddie's favor as he inches along a beam set into the face of the gigantic concrete counterweight. Below him - one false step away - is the empty blackness of the dry well. On the other side, cops are shouting at each other. As their flashlights play across him, he sucks himself into the channel of an I-Beam, and tries not to look down.
+58) 0) text: Wedged between two steel beams, Eddie is sweating bullets as the cops sweep the area around him. Suddenly, the ALARM BELLS sound and the WHIRR and GRIND of machinery starts again. The bridge is moving. Wide eyed, Eddie realizes that the two beams he's sandwiched between are closing in on him. A COP is right beside him, nearly close enough to touch. Eddie is trapped. At last, the cop moves on and Eddie eases clear at the last second. He looks up. There is a narrow gap between the roadway and the bridge but it's closing fast. He makes a leap - catches the edge of the bridge - and slithers through the opening as it closes like a ponderous guillotine.
+58) 1) text: Emerging like a gopher onto the lower level roadway, Eddie slides under the first car in line. He catches his breath and looks around. There are cops all over the place, but none right on top of him. Moving on knees and elbows, he slithers on down the line under the next car and the next.
+60) 3) dialog: comes running into the station, moving through the crowd, nearly knocking down a red cap with a load of luggage as
+60) 5) dialog: Where's the train to Madison?
+60) 8) text: Had the wrong train. St. Louis is track seven, Ma'am. And the cops watch as the old woman makes her way across the platform. The spot where Eddie was standing is now vacant.
+61) 0) text: Lily sits alone, staring at the two tickets in her hand as the conductor makes his way down the aisle toward her. There is a voice behind her. It's Eddie:
+61) 1) dialog: This seat taken? He sits beside her.
+64) 0) text: The taxi approaches an oddly shaped building, pulls up in front and stops, its lights illuminating a sign saying "Observatory". Eddie and Lily emerge, cross to the building and enter.
+65) 0) text: Hall lights are on, but most of the offices are dark. Eddie and Lily move down the hallway, come upon the night WATCHMAN, dozing at his desk.
+66) 0) text: Eddie and Lily enter. A huge telescope dominates the room, at the base of which, a single seat is occupied by a woman (MAGGIE) in her late twenties, wearing bib overalls, her eye glued to the telescope sight.
+66) 14) dialog: Calling where?
+66) 16) dialog: Did you leave your name? On the machine?
+68) 0) text: A warehouse, but it might be a museum - stacked with obsolete gear from various physics and astronomy labs. The door opens and Maggie enters, with Lily and Eddie trailing.
+71) 0) text: Lily lies on the couch, Eddie on a makeshift arrangement on the floor nearby.
+71) 1) dialog: Lily? You awake?
+71) 3) dialog: Do you have the fax from Chen?
+71) 5) dialog: Let me see it.
+72) 2) dialog: There's a fax number here.
+72) 4) dialog: So let's find out where it came from.
+72) 6) dialog: No. whoever sent the fax from Chen would know exactly where we are. Some other way. Lily thinks.
+74) 0) text: Maggie enters, waking Eddie and Lily. She dumps the clothes on a counter.
+74) 2) dialog: What for? She tosses him the morning paper; Eddie scans the headlines:
+75) 0) text: Maggie's beat-up Plymouth is stuck in the snow and ice. She is behind the wheel, Eddie and Lily pushing, but it's no use. The watchman approaches, calling:
+77) 0) text: Rows of personal computers: Maggie and Lily sit at one of, them, waiting for a response. Eddie is a short way off, peering out of the window at the buses.
+77) 10) dialog: What does it say?
+77) 12) dialog: What residence? up, peers into his face before she answers:
+77) 14) text: A bank of pay phones in a busy hallway. Maggie is at one of the phones, Eddie and Lily hovering nearby.
+80) 0) text: Meanwhile, Maggie awaits the transfer; she whispers to Eddie:
+80) 2) dialog: Washington!
+83) 0) text: as Maggie leaves the booth and hands the phone to Eddie, who enters:
+83) 1) text: It's Eddie.
+83) 3) dialog: I'm in Madison. Listen, this is crazy: The fax from Chen came from the US embassy in Beijing... He looks out of the phone booth at a hallway full of cops:
+83) 5) dialog: No. I'm not.
+83) 7) dialog: I can't stay where I am. I'll come to you. He hangs up as
+84) 0) text: Eddie has Lily by the hand, leading her quickly down the hall in the opposite direction of the cops, Maggie hustling beside them. Through the doors to the outside, we can SEE TwO COPS and the FBI agent we saw at the observatory taking up positions where they can keep an eye on the entrance.
+85) 4) dialog: watch this from their vantage point just inside the entrance. Maggie points down the walk leading away from the union, then follows as the cops and the agent head off in that direction. And then, Eddie and Lily burst through the doors...
+86) 0) text: ...and cross rapidly toward the buses. A young man dressed incongruously in a raccoon coat and a straw boater stands before a bus door with a clipboard in his hands. He grins as he sees Eddie and Lily approaching:
+86) 2) dialog: (thinking quickly) Yes.
+86) 5) dialog: Yeah. This is Mrs. Findlay.
+86) 7) dialog: Last minute thing.
+86) 10) dialog: Oh, sorry. How much is it? He fumbles for his wallet:
+86) 16) dialog: Will you take sixty on account? I'll have to get to a cash machine.
+89) 0) text: Findlay and the Raccoon Coat are studying photos of Lily and Eddie. Two cops and the agent await their judgment.
+90) 0) text: The bus pulls into the parking area and stops. The Republicans alight and head for the registration desk Eddie and Lily among them.
+90) 2) dialog: We're the Findlays. We do whatever they would do.
+91) 3) dialog: No, it's alright. He's already signing the card.
+91) 5) dialog: (reading of the registration: ) Jack Findlay.
+91) 10) dialog: Excuse me. He takes Lily by the arm, begins walking her toward the rear of the lobby.
+92) 2) dialog: I don't know: They reach the frozen lake just as a man has finished rigging his ice boat for a sail. Eddie turns, sees the cops emerging from the entrance behind him. He shouts at the boater:
+92) 3) dialog: (continued) Hey: The cops are looking for you!
+92) 9) dialog: on the boat, sailing. The boat is picking up speed, bouncing from side to side. They can barely hold on:
+92) 11) dialog: I sailed a boat once.
+92) 13) dialog: No. Gotta be the same thing, right? The boat nearly tips over, sliding crablike across the slick expanse of ice. Then it spins, loses the wind as
+92) 15) text: They're coming! Eddie manages to fill the sails, and the boat takes off again.
+92) 18) dialog: are now in the center of the lake, running before the wind, but behind them, the second police car is making headway along the ice, narrowing the distance between them. Lily has to shout to be heard:
+92) 20) dialog: Me, too. He aims the boat toward the opposite shore line, approaching rapidly, but suddenly A SECOND ICE BOAT barreling along an a perpendicular tack is bearing down on them.
+93) 0) text: Eddie and Lily run. But the snow is deep and they are exhausted, and the tracks they leave show how impossible it is to keep to a straight line. Lily stumbles, falls. They are both fighting for breath.
+93) 3) text: racing through the trees, a look of terror an her face now. And Eddie calls:
+93) 4) dialog: Lily! He is burrowing into the snow, making a cave. He grabs her, forces her down into the hole, scurries in behind her, then brings a pile of snow down to cover the entrance. Ina flash they are invisible. And we HEAR FOOTSTEPS and HEAVY BREATHING; it is a moment before
+95) 1) text: The SOUND of BREAKING GLASS, and then a hand reaches in through a broken window and unlocks the door. Eddie and Lily enter. Sheets shroud the furniture, matching the cool white landscape visible through the windows in the moonlight. Lily shivers violently. Eddie grabs a blanket that's being used as a covering for a chair, wraps Lily in it. She's making involuntary sounds, her teeth chattering, her whole body shaking. He rubs her back, puts his arms around her.
+95) 2) dialog: Come on, lie down. She does. Eddie goes down with her, holds her tightly to himself, whispering in her ear:
+95) 3) dialog: (continued) Shhh... it's okay... you're okay now... She's weeping from cold and fatigue, but gradually her shivering stops...
+95) 6) dialog: They'll have the dogs and choppers out by daylight. We've got to get to Shannon.
+95) 8) dialog: It's our only chance.
+95) 9) text: Eddie, the fax came from the embassy... whoever's involved in this is in Washington.
+95) 10) dialog: He's the only one who can help us.
+95) 12) dialog: Yeah. Silence.
+95) 14) dialog: He's like my dad, Lily. After my dad died, he gave me a job. He made me go back to school. He believed in me.
+95) 16) dialog: Get some sleep.
+99) 0) text: Lily is asleep on the sofa. A hand reaches down, touches her shoulder gently. She wakens with a start, blinks her eyes open: it's Eddie.
+99) 1) dialog: Sorry... we have to go.
+101) 0) text: ...as Eddie drives, Lily in the seat beside him.
+101) 3) dialog: Drained the lawnmower.
+101) 5) dialog: You were sleeping.
+102) 0) text: The truck emerges from the woods, passes along a bluff with a commanding view of the countryside. EDDIE'S P.O.V. Down the bluff, we can see squad cars parked an the road leading away from the woods: a road block.
+102) 1) dialog: I was afraid of that. They'll be all over these woods by sun up. Lily is studying a road map from the glove compartment.
+102) 3) dialog: Good point.
+102) 5) dialog: As the crow flies. He swings the truck around, turns off the road and into a farm lane, and WE CUT TO:
+105) 0) text: Eddie puts the truck in gear:
+105) 1) dialog: Buckle up. And hold on to your hat. He backs the truck up for a running start, guns the engine, and heads directly for the fence...
+105) 3) text: slipping and sliding now, into the icy ditch that collects the runoff from the rise leading to the freeway. Eddie tries to force his way through, but it's no use, the wheels are spinning against the snow and slush. They are stuck.
+106) 0) text: The choppers are cruising the woods, peering down onto the rooftops of the summer homes, one of which Eddie and Lily have just left. Fresh tire tracks through the newly fallen snow catch the eye of the chopper pilot. He speaks into the radio:
+107) 0) text: Eddie is pushing, trying to get the pick up unstuck. Lily is behind the wheel.
+107) 1) dialog: Give her some gas! She floors it.
+107) 2) dialog: (continued) Not so much! Let it rock a little... She tries again. No luck.
+108) 2) text: Eddie is straining with all his might. At last, there is movement, the truck inching ahead slowly, along the ditch, and then Lily points it uphill and gives it the gas:
+108) 3) dialog: No! No... don't... not so fast. He watches as the truck slips back down the incline, then, miraculously catches hold, spins up the bank and to the crest beside the road. Eddie runs:
+109) 0) text: Eddie opens the door, swings himself in.
+109) 1) dialog: Nice work. Lily makes a muscle. She heads for the freeway, slides into the trickle of early morning traffic as...
+113) 0) text: Lily still drives, Eddie in the seat beside her.
+113) 4) dialog: Why?
+114) 9) dialog: enters the shop with a bag of fast food. Lily shoots him a look, nods to the Tv, just as the clerk snaps it off.
+120) 0) text: Eddie drives, swings into the lane marked Route 70, Washington. He looks over at Lily:
+120) 1) dialog: How come you speak Chinese?
+120) 3) dialog: Missionaries?
+130) 0) text: The pick up truck pulls into the Lot and stops, Eddie and Lily emerge, cross to the main building. Eddie looks at his watch.
+130) 1) dialog: We're a little early.
+133) 1) text: Far below, Eddie and Lily appear between the massive marble columns and enter the museum.
+134) 0) text: Security guards everywhere. Eddie and Lily walk past the looming dinosaur skeleton and head up the broad stairway to the
+134) 3) dialog: There he is. But as Lily registers her relief, Eddie sees three men who accompany Shannon. They stop, speak for a moment, and then the men fade into the museum, take up positions - apparently as visitors.
+134) 4) dialog: is frozen in his place, incredulous. A long moment before he can say to Lily:
+134) 5) dialog: What is this?
+136) 0) text: Shannon climbs the stairs to the second floor. He reaches the gallery, sees Eddie, sitting on a bench. Alone. He crosses to him, sits beside him.
+136) 2) dialog: What's going on?
+136) 4) dialog: Who are your friends?
+136) 6) dialog: The ones you came with.
+136) 8) dialog: She never made it.
+136) 10) dialog: She hates Washington. She's probably a thousand miles away by now. Those friends. The men Shannon entered with have moved into the gallery, still trying to blend into the stream of visitors.
+136) 14) dialog: Why don't you explain here?
+136) 19) dialog: Lily, run! She turns, sprints down the gallery as Eddie grabs the club from the hands of "Paleolithic Man", smashes the second pursuer in the face.
+136) 21) dialog: with two pursuers on their heels, run through a maze of display cases looking for a way out. The door marked "BOTANY" is unlocked and they go through it.
+136) 22) text: Several workers are startled by the sudden commotion as Eddie and Lily race through, followed seconds later by two pursuers. A researcher grabs a phone and dials...
+138) 0) text: A locomotive, a race car, and a Boeing 727 dominate the Hall of Transportation. Eddie and Lily race into the hall, look around, and head for the nearest stairway.
+138) 4) dialog: Lily?! Nothing. The man he knocked down is closing in; the other two are approaching from the other side. Eddie is trapped. Desperate, he leaps up on the 727
+140) 0) text: Eddie dashes into the darkened
+142) 0) text: Eddie is moving along the ground floor corridor with a mob of tourists, looking around frantically for Lily and trying to stay invisible. Suddenly, he stops in his tracks.
+142) 1) text: Eddie sees Lily.
+144) 0) text: ...as Eddie slams his fist against the glass in frustration. He spots an exit at the end of the hall.
+144) 1) text: Eddie comes running out and down the broad steps. The van is moving away. Eddie runs after it, catching sight of something scrawled in the dust on the back: Leesburg Construction hires scab.... ...but as Eddie gets almost close enough to touch the rear, door, the van pulls away. He stops, out of breath. Not far away, Eddie sees security guards moving in. He turns, dashes back down a ramp leading to door under the museum. He enters.
+145) 0) text: Eddie runs down the long tunnel, footsteps echoing in the emptiness.
+147) 0) text: A door marked "No Public Access" opens a crack. Eddie peeks out. He steps into the marble hallway, gently closes the door behind him. He has no idea where he is. He eases into another tour group.
+147) 2) text: Eddie emerges:
+148) 0) text: Eddie walks. He seems aimless, his mood dark. He hunches his shoulders against the wind and cold, his eyes an the pavement in front of him. Newspapers at a kiosk sport headlines:
+149) 0) text: A sign says "Full Chinese Meal - $2". Eddie peers in through the frosted window, reaches into his pocket. He pulls out a handful of change - not nearly enough. He continues on. Down the sidewalk, a homeless man (LARRY) is panhandling.
+150) 0) text: A line of destitute men and women snakes through a dingy church basement, where volunteers serve soup and sandwiches. Eddie and Larry are among them, only Eddie is wearing Larry's clothes and Larry has on Eddie's tweeds. Somehow, Eddie looks right at home among these people, and in Eddie's clothes, Larry looks like visiting royalty.
+150) 4) text: A beat up Dodge Dart, circa 1968. The back seat is filled with the odds and ends of Larry's existence. And at the moment, it is also filled with Eddie, huddled under a blanket. Larry is in the front seat, huddled under his own blanket.
+150) 6) dialog: Where's Leesburg?
+150) 8) dialog: Your car make it that far?
+150) 12) dialog: Right away, SIR! The cop douses his light, walks away, shaking his head.
+154) 0) text: A yard brimming with trucks, vans, and at the far end, a small office. Larry's car pulls in and parks, and Larry and Eddie emerge, head for the office.
+155) 0) text: A tough looking FOREMAN is giving Eddie and Larry a disapproving look over:
+156) 0) text: Eddie and Larry are parked outside the construction yard.
+156) 2) dialog: Never know. Let's where they go.
+158) 0) text: Eddie and Larry watch as the gate area.
+160) 0) text: A truck pulls to a halt beside the other trucks, near some construction sheds. The driver crosses to a shed, and once he passes, Eddie pokes his head out of a construction pipe, then leaps out. He sees a group of construction workers coming out of one of the sheds, wearing jackets and hard hats, and he makes his way to the door, enters.
+161) 0) text: Slickers and hard hats hang on pegs; Eddie dresses. Ona wall is a set of blueprints detailing the construction site; Eddie takes it down, rolls it up, stuffs it under his arm.
+162) 0) text: Eddie falls in with a group of workers, heading toward a cargo elevator. As he goes, he notices that each of them has a security identification badge. He looks down at his own slicker: no badge.
+163) 0) text: The workers wait as a group of men exit the elevator, apparently a shift change. Eddie awkwardly bumps into one of the departing men:
+163) 1) dialog: Sorry. Excuse me. Eddie has his badge. He pins it to his slicker and the group enters the elevator cage. The elevator begins its descent.
+164) 0) text: The elevator cage reaches bottom and the men exit. Eddie sneaks a look at a conveyor belt hauling rocks and earth upward. The group moves down the tunnel to a truck. They climb on and the truck and it heads down the long tube.
+164) 3) text: Eddie slips through the narrow pipe with some effort. Ahead, a shaft of light suggests an opening. He crawls... AND WE CUT TO:
+166) 5) text: Near the ceiling, a surveillance camera catches Eddie unaware. We CUT TO
+167) 0) text: A series of screens with odd, infra red images. One of the screens reveals Eddie as he moves down the corridor - an infra red picture of him that intermittently flashes a warning sign: UNIDENTIFIED. A security OFFICER checking the screens picks up a phone:
+167) 4) dialog: rounds a corner, then stops. He is stupefied. He is standing in the midst of a duplicate of the lab in Chicago. It is a stunning sight. Technicians move about, checking equipment. Eddie hears something behind him. He wheels, finds a half dozen armed security guards, their weapons pointing at him.
+168) 0) text: A war room: a world map - a mosaic of real-time satellite images - dominates rows of empty desks and consoles. Eddie sits under the watchful eye of a pair of guards. The door opens, and Shannon enters. He nods to the guards, and they exit, leaving Shannon and Eddie alone.
+168) 2) dialog: Where's Lily?
+168) 4) dialog: No. Shannon crosses to him, sits.
+168) 6) dialog: Only that you're a liar.
+168) 8) dialog: They planted the money on me?
+168) 10) dialog: Why?
+168) 12) dialog: And Chen?
+168) 14) dialog: Why did they kill Bucky?
+168) 16) dialog: But they had a duplicate lab.
+168) 18) dialog: From your information.
+168) 20) dialog: What'll they do with Bucky's invention?
+168) 22) dialog: Bucky was going to give it away...
+168) 23) text: That's not the way the world works, Eddie.
+168) 24) dialog: The world works the way we make it work! Everything else is bullshit!
+168) 26) dialog: And how do you do that?
+168) 28) dialog: You lied to him. You betrayed him, and now you're just looking to justify it.
+168) 30) dialog: Then what are you good at? Shannon. I trusted you! I believed in you! I made Lily trust you! looks as if he might weep:
+168) 31) dialog: (continued) Where is she? I want to see her.
+168) 32) text: Eddie, I'm going to offer you both a choice. They need your help. To make Bucky's invention work. You and Lily.
+168) 33) dialog: They can't get it to work?
+168) 35) dialog: What if I say no? The doors suddenly swing open, and Collier enters, crossing to Eddie and Shannon.
+169) 0) text: A small conference room, a few chairs and a table, where Lily sits. The door opens: Eddie stands in the corridor with an armed guard. Lily's eyes widen with relief, then fill with tears. She draws him in, closes the door behind him, embraces him tightly. Before he can speak, she puts a finger to his lips, takes a pen and writes on the
+170) 0) text: Eddie and Lily are accompanied by Shannon and a small group of scientists and technicians.
+170) 2) dialog: I want to see Chen. I can't do it without Chen. The scientist nods, then casts a glance at Shannon.
+171) 0) text: Eddie, Lily, Shannon and a pair of armed guards move down a long corridor into an area marked "Hospital".
+172) 0) text: The ward is equipped with two dozen beds, ready for the disasters envisioned by Cold War planners. At the far end, a single bed is occupied and attended by a NURSE. Eddie, Lily, Shannon and the guards enter and cross to the occupied bed.
+174) 0) text: ...Chen's bedside, only it's not Chen's breathing but Eddie forcing air from an inflated hot water bottle to simulate the raspy sound for the hidden bug as Lily bends over Chen and listens to Chen's whispered words. And as WE MOVE IN, we can HEAR them too: they're in Chinese. She turns to Eddie, searching his eyes out with her own...
+175) 1) text: You bastards. Get him to a real hospital and we'll help you. Shannon peers into the hospital ward at Eddie, sitting with Chen, holding onto his hand.
+176) 0) text: The machine shop is outfitted in a way that makes Eddie's Chicago shop seem amateurish. Eddie pokes through the various materials, neatly stored on shelves as
+179) 0) text: Eddie is at the lathe, turning his nozzle, shaping it carefully. Two scientists watch over his shoulder as
+181) 0) text: Eddie inserts the plunger into the nozzle and checks its play: He passes the nozzle to the scientists, and while they inspect it, we see Eddie slip a metal cylinder into his pocket. And we
+184) 0) text: Eddie squirms under the water tank, placing the nozzle in it's appropriate housing as Shannon, Collier and the scientists observe. He removes the old housing, places it on the floor beside him, and as Shannon and Collier study the new nozzle in place, we see that the old housing has disappeared.
+185) 0) text: The scientists and technicians sit at a long table, eating their cafeteria fare. At the far end of the table, Eddie and Lily sit side by side. As always, Lily's head is bent over a computer print out, which she is checking with her pencil, making notes on the margins.
+185) 2) dialog: nods, he's seen it. She overwrites the note with a series of figures.
+187) 0) text: Shannon is in the lab, rolling his cigar back and forth in his fingers. The door opens, and Eddie is led in by a guard. Shannon nods to the guard.
+187) 3) dialog: with what? He motions to a pile of computer printouts he has in his hands.
+187) 5) dialog: I don't know what you're talking about.
+187) 7) dialog: Why don't you figure it out?
+187) 11) dialog: You believe that?
+187) 13) dialog: They've killed Bucky! They destroyed his dream. It was my dream, too. What good would it do to get a new life if I had to be a part of that?
+187) 15) dialog: You threw it away. Don't you understand? You threw it away!
+187) 17) dialog: You lied! You want me to do the same thing.
+187) 19) dialog: You already have. And their eyes meet and hold. Shannon's seem to harbor a deep sadness.
+189) 0) text: Collier, Shannon, and a group of scientists cluster together as the technicians busy themselves with a test. Not far away are Eddie and Lily.
+189) 3) dialog: move, as if by instinct, closer to one another. Eddie slips his hand around Lily's; their fingers tighten together, then intertwine. A BELL RINGS as
+189) 17) dialog: Pull the alarm! No one moves.
+189) 18) dialog: (continued) Pull the alarm! He cocks the hammer.
+189) 20) dialog: Get these people out of here. Clear the tunnel!
+189) 22) dialog: Do it!
+189) 24) dialog: Lily...
+189) 26) dialog: Time to go, Lily. Get out.
+189) 31) dialog: Shall we demonstrate?
+189) 34) dialog: Let her go.
+189) 42) dialog: Guess.
+189) 59) dialog: We can all get out...
+189) 61) dialog: We've got an emergency here. We'd like you to get Agent Raymond Ford from the FBI...
+189) 62) dialog: Shannon!
+189) 63) text: Good, Eddie. Now go. No mistaking his intent; Eddie grabs Lily by the hand and they run. Shannon crosses to the hydrogen holding tank still holding his pistol on Collier. He opens the valve, and deadly hydrogen gas spills into the lab with a loud HISS...
+190) 0) text: Eddie and Lily burst through the doors to the lab and head for the elevator. But rounding a corner and looking up, they see the
+190) 2) dialog: This way! They turn, race down the tunnel as
+190) 6) dialog: Inch their way forward. It's a tight, claustrophobic squeeze, and Lily has to fight her panic.
+190) 7) dialog: Hold on... hold on... He gives her his hand, tries to reassure her as
+190) 10) dialog: can barely edge forward, the space growing smaller and smaller, the stuff of nightmares:
+192) 0) text: Eddie and Lily race toward the conveyor belt, carrying crushed rock upward from the tunnel to the surface.
+192) 2) dialog: (continued) Lily, get on! And he practically has to put her on it himself, before leaping on behind her.
+192) 3) dialog: Get down!
+192) 7) dialog: Grab onto the pipe! LILY turns, she is closing on the pipe:
+192) 8) dialog: Lily! Can she do it? She reaches out, grabs for the pipe, but her hand slips off. The belt carries her just beyond and she turns and tries again - this time, she manages to hold on: Behind her, Eddie approaches the pipe. He reaches for it and the two of them now hang side by side as
+192) 10) dialog: holding onto the pipe, swings his boot at the guard, catching him flush on the jaw and the guard goes down onto the conveyor belt and is carried up toward the compressor as
+192) 12) dialog: make their way, hand over hand, away from the moving belt until they are clear and can jump down onto the tunnel floor. They run...
+194) 0) text: Eddie and Lily emerge from the tunnel into the daylight. The RADIATION ALARM is still screaming as lab personnel and construction workers scramble for safety. Eddie and Lily join in the throng, running for the perimeter of the site as
+197) 0) text: Workers streaming out of the site, onto the road, in pickup trucks, on foot, Lily and Eddie among them and as Ford sees them, the ground beneath them suddenly shudders and WE CUT TO:
+197) 2) dialog: can only hold onto each other in the confusion and hysteria that follows as they make their way across the rumbling earth to Agent Ford and safety... And we DISSOLVE TO:

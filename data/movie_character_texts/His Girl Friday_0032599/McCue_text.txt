@@ -1,0 +1,45 @@
+0) 477) text: CAMERA PANS SLOWLY to reveal the other players as they sp Playing are reporters Murphy, Endicott, Wilson, Schwartz McCue.
+0) 481) dialog: (reluctantly) I'll call.
+0) 494) dialog: It's a simple story. Earl Williams  works for the E.J. McClosky  Manufacturing Company as a bookkeeper  for fourteen years. He starts in at  twenty dollars a week and gradually  works his way up to twenty-two fifty.  A year ago the McClosky Company goes  out of business and Williams loses  his job. (waving his hand toward  Wilson) Take it away, Fred Wilson!
+1) 5) dialog: (dropping his cards) You fight it cut.
+1) 11) dialog: What are you going to do with all  that money, Hildy?
+1) 33) text: McCUE's VOICE I don't know, but I think they got rats in building.
+1) 110) dialog: (throwing cards down) Your poker's improved a lot, Hildy.  Lend me two bucks, will you?
+3) 3) text: A phone rings. McCue answers it.
+3) 4) dialog: For you, Hildy.
+3) 10) text: McCue is hovering near.
+3) 11) dialog: Certified, eh? Who is it -- your  milkman?
+3) 13) dialog: Say, I've been a reporter twenty  years and never heard any hooey like  that. Where'd you get it?
+5) 76) dialog: Why?
+5) 82) dialog: Well, well -- Miss Mollie Malloy.
+5) 153) dialog: Probably went out without his hankie  and wants Mamma to wipe his nose.
+6) 77) dialog: So long, Hildy.
+6) 96) dialog: Holy ---! Gimme that telephone! (works hook frantically) Hurry! Hurry up! This is important!
+6) 98) dialog: (screaming) Look out!
+6) 101) text: of reporters at their various phones follows: "Gimme the  desk!" "Flash!" "Earl Williams just escaped!" "Don't know yet -- call you back.", etc., are shouted into the phones Schwartz, Wilson, McCue, Endicott, Bensinger and Murphy.  After each man communicates with his paper, he dashes for the door.
+10) 38) text: She hangs up. The door opens and McCue enters and crosses his phone.
+10) 39) dialog: Hello, Hildy. I thought you were  gone.
+10) 43) dialog: (into phone) McCue speaking. Mrs. Phoebe DeWolfe,  eight-sixty-one and a half South  State Street, colored, gave birth to  a pickaninny in a patrol wagon with  Sheriff Hartman's special Rifle Squad  acting as nurses. Well -- Phoebe was  walking along the street when all of  a sudden she began -- that's right.  So the police coaxed her into the  patrol wagon and they started a race  with the stork. When the pickaninny  was born the Rifle Squad examined  him carefully to see if it was Earl  Williams who they knew was hiding  somewhere.
+10) 44) text: Hildy is still pacing. McCue laughs at his own joke.
+10) 45) dialog: (to Hildy) Did you get that, Hildy?
+10) 53) dialog: Okay, Hildy. (into phone) Well, we can't get any official  statement --
+10) 55) dialog: (into phone) Oh, wait a minute -- here's the Mayor.  Maybe he'll give us one.
+10) 59) dialog: (into phone) His Honor won't say anything.
+10) 61) text: McCue comes in to him. Murphy and Endicott come in.
+10) 63) dialog: It's hard to say, Your Honor. The  place is so full of cockroaches.
+16) 21) text: Murphy crosses to his phone. McCue comes in.
+16) 22) dialog: (panting) What a chase!
+16) 32) dialog: (into phone) Where? Harrison Street Station? All  right, connect me.
+16) 40) dialog: (turning from phone) Yeah, hold the line. Hey, this looks  good. An old lady just called the  detective bureau and claims Williams  is hiding in her cellar. Well - we've  looked every other place. Want to go  out on it?
+16) 47) dialog: Okay. (into phone) Forget it. (he hangs up)
+16) 52) dialog: (crossing to Mollie) Come clean, Mollie.
+16) 53) text: Wilson, Endicott and Murphy follow McCue toward Hildy.
+16) 106) dialog: You ain't gettin' out o' here!
+16) 129) dialog: (turning) Get the cops, somebody.
+28) 108) text: as Hildy flings the door open, only to find the Sheriff,  accompanied by two deputies -- Carl and Frank -- and  surrounded by McCue, Murphy, Schwartz, Wilson and Endicot
+28) 110) dialog: Say, Hildy...
+28) 114) dialog: What's your hurry?
+28) 125) dialog: We know what you're up to.
+28) 149) dialog: (nervously) What's the use of fighting, Hildy?
+30) 85) dialog: (into phone) ...Williams in a rolltop --
+30) 91) dialog: (into phone) Williams put up a desperate struggle  but the police overpowered --

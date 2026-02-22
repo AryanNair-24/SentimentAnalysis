@@ -1,0 +1,85 @@
+42) 0) text: A GUARD leads a MAN in a dark suit and striped tie down t corridor. He carries a briefcase. Short hair and a beard wire-rimmed glasses. His name is ELLIOT GOFF.
+42) 2) dialog: Word is everyone's entitled to a  defense... no matter how guilty they  are.
+42) 4) dialog: Oh shit.
+43) 0) text: Elliot waits in the hall. Fingers impatiently drumming hi briefcase. The door opens and a DOCTOR exits the room.
+43) 2) dialog: Can I talk to him?
+43) 3) text: The doctor nods, opens the door. Elliot enters.
+44) 0) text: Basic first aid station. Joe is on a table. Eyes closed.  Elliot walks up. Doctor behind him.
+44) 1) dialog: Joe, can you hear me?
+44) 3) dialog: I'm Elliot Goff. I'm your attorney...  Do you understand what I'm saying?
+44) 4) text: Joe's eyes close. Leaving Elliot in the dark.
+48) 0) text: Elliot is waiting, sitting at a table, staring at papers his open briefcase. Door opens and a GUARD leads Joe into the room. Joe looks better, for the first time. His hair combed. And he's clean. He wears jail blues. But he is a  little gaunt. And tired. Elliot stands. The guard shuts t door, leaving them alone.
+48) 1) dialog: Joe, I'm Elliot, we met the other...  well, you weren't in very good shape.  You look much better.
+48) 2) text: Joe just stares at Elliot.
+48) 3) dialog: Have a chair. We need to talk.
+48) 5) dialog: Yes.
+48) 7) dialog: Joe, before we get into what happened  that night, I'd like to check a couple  of things first. (looks at papers) Joe is your first name, I assume  Joseph?
+48) 9) text: Okay? Not the answer Elliot was looking for.
+48) 10) dialog: What about Doe? Is that what you  told the officers your last name  was?
+48) 12) dialog: What did you tell them your last  name was?
+48) 14) dialog: Well, is Doe your last name?
+48) 16) text: Elliot stares at Joe. This is going to be a little more  difficult than he thought.
+48) 17) dialog: Do you know what your last name is?
+48) 19) dialog: Joe, I'm your attorney, I'm here to  help you. It doesn't matter if you  give the court your last name or  not, they will still put you on trial.  Do you understand?
+48) 21) dialog: So there's no reason to try and hide  your identity. (Joe nods) What is your last name?
+48) 23) dialog: Joe Smith, Joe Jones, Joe DiMaggio...
+48) 24) text: Elliot hopes he can trigger a response. Joe tries hard.
+48) 26) dialog: Okay. Look, we'll move on. You  understand the charges against you.  They're serious. And if you are found  guilty, you could go to prison for a  very long time.
+48) 28) dialog: What?
+48) 30) dialog: Yes, I know, I read your confession.  Joe, if you really felt your life  was in danger, we might be able to  use self-defense as our argument.  But before we get into that... Do  you have any family, Joe? Any friends?
+48) 32) dialog: Joe... do you know what a psychiatrist  is?
+48) 34) dialog: Have you ever seen a psychiatrist?
+48) 36) dialog: Joe, you don't remember much about  yourself.
+48) 38) dialog: ...but you remember the night you  shot the man in the car.
+48) 40) dialog: Why?
+48) 42) text: Elliot stares at Joe, then looks down at the blank page i front of him.
+52) 0) text: Joe's preliminary trial. Joe is seated at the defense tab with Elliot. ANOTHER JUDGE, JUDGE HAROLD PINE, is behind bench. No jury. This is a preliminary hearing to determin if there's enough evidence for Joe to stand trail. Elliot shuffling papers in preparation for his opening. And at the prosecution table is a very tired Helen. She l completely pissed off and worn out. In no mood for anythi to go wrong.
+52) 2) text: Elliot stands.
+52) 3) dialog: We would like to plead not guilty to  the charge of murder at this time  for reason of Insanity.
+52) 4) text: Helen gives Elliot a look. She doesn't need this.
+52) 6) text: Elliot turns to Joe.
+52) 7) dialog: Yes, Joe. Let me handle this.
+52) 9) dialog: Yes, Joe. Don't worry about it. I'm  the attorney.
+52) 12) text: Helen and Elliot cross to the bench.
+52) 14) dialog: I don't agree.
+52) 16) dialog: Not if he's not of sound mind.
+52) 18) dialog: I think he's crazy. I know you think  he's just putting it on, that's D.A.  standard procedure, but I don't think  he is. So, your honor, I'm standing  by the not guilty because I believe  he's incapable of making that  judgment.
+52) 20) dialog: Yes, your honor. (hands him papers) I think you'll see that my diagnosis  is not without warrant.
+52) 23) dialog: Thank you, your honor. (to Helen) Besides, I hear there's a good chance  of beating the charges for lack of  evidence.
+62) 0) text: Elliot is waiting. The guard opens the door and Joe enter Joe is looking better. Getting him off booze has helped  immensely.
+62) 1) dialog: Hi, Joe. You're looking much better.
+62) 3) text: Elliot nods, motions for Joe to take a chair.
+62) 4) dialog: Trial date's been set for Thursday.
+62) 6) dialog: Excuse me?
+62) 8) dialog: ...I'm a little surprised.
+62) 10) dialog: Nobody ever wants to be punished for  what they've done. It's just a new  concept. But I still think our defense  is reasonable. I don't believe, under  the condition you were in, that you  were responsible for your actions.
+62) 12) dialog: If you hadn't been carrying the gun,  you might be dead.
+62) 14) dialog: I understand... Can I think about  this?
+62) 16) text: Elliot stares at Joe for a beat, then we --
+69) 0) text: Elliot's office is a cramped space in the PUBLIC DEFENDER FLOOR of the CRIMINAL COURTS BUILDING. A buzz of activity outside. The staff is overworked, underpaid and  underappreciated. Elliot is reviewing legal documents. Kn on the door.
+69) 1) dialog: Yeah.
+69) 4) text: Elliot looks up and suddenly recognizes --
+69) 5) dialog: Arthur Baylor?
+69) 7) text: Elliot is stunned and flattered. He stands quickly.
+69) 8) dialog: Arthur Baylor, oh my God. I ahh,  would you ahh... are you here to see  me?
+70) 0) text: Door opens. Joe is lead into the room by the JAIL GUARD. looks even better now. His stay in jail has broken his  dependency on alcohol. His hair is clean and combed. And  he's not as depressed. He stops upon seeing Elliot and Ar at the table. Both men stand. The guard shuts the door. A looks at Joe for a moment, then says --
+74) 0) text: Joe (William) is lead into the courtroom by GUARDS. Takes his place at the DEFENSE TABLE which includes Elliot and YOUNG ATTORNEYS. The PROSECUTION TABLE, which includes Ri Stein and Helen is going over last minute minutia. PEOPLE are taking seats in the gallery. But another attor joins the Defense table. It's Arthur Baylor. And Richard  Stein double-takes when he sees him.
+74) 5) text: They watch Arthur shake hands with everyone - Elliot, the two young attorneys and Joe.
+80) 12) dialog: -- and you arrested the defendant  four days after the killing. What  lead you to suspect Mr. McCall?
+80) 14) dialog: Yes, but specifically Mr. McCall? He  had no previous criminal record.
+80) 16) dialog: Where did you find the defendant?
+80) 18) dialog: What was he doing?
+80) 20) dialog: But you knew it was the man you were  looking for.
+80) 22) dialog: Based on what?
+80) 24) dialog: Who provided you with the description?
+80) 26) text: Elliot moves to the defense table, glances at Arthur as h picks up a paper. Arthur nods approvingly. Elliot looks a the paper.
+80) 27) dialog: I believe her name is Cynthia Webb.  According to the statement filed the  night she picked him out of the line- up. The name familiar?
+80) 29) dialog: Where did you find Ms Webb?
+80) 31) dialog: And she agreed to pick the defendant  out of a line up.
+80) 33) dialog: Where you aware that Ms Webb  disappeared after she was served  with a subpoena?
+80) 35) dialog: Thank you, Detective, that's all the  questions I have.
+83) 9) text: Cynthia sits down. Looks at Divinci. And Joe leans across to Arthur and Elliot. Their conversa is in whispers --
+83) 11) dialog: She's the woman who identified you.
+83) 15) text: Arthur exchanges a look with Elliot. Arthur turns now and looks at Cynthia. The wheels are turning.
+111) 0) text: Filled with well-wishers in TUXES and GOWNS. Arthur Bailo and Elliot in attendance. Elliot isn't used to this much  glory, but he's taking credit where where he can -- with of the PRETTY YOUNG WOMEN.
+111) 1) dialog: -- you know, it just didn't make  sense, a man wanting to be punished  for a crime? How many times does  that happen? Once in a lifetime, I  can tell you.

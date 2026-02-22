@@ -1,0 +1,107 @@
+1) 0) text: GRADY hurries down the steps, then spies SARA GASKSLL,  45, standing below. She is talking to a BOY with an armfu of SLICK PROGRAMS.
+1) 1) dialog: (calm but firm) 
+1) 3) text: It's all right, Elliot. I'll take care of it. GRADY watches Sara take the programs, turn, and spot him. There is the slightest of hesitations, then....
+1) 4) dialog: Professor Tripp.
+1) 6) dialog: I got the message you called.
+10) 0) text: As the front door swings open, Sara Gaskell appears,  riding a wave of jagged party CHATTER onto the porch.
+10) 1) dialog: Well, hello, everyone. Terry, good to see you  again. 
+10) 3) dialog: Aren't you sweet to say so. I was beginning to  wonder if you were ever going to--oh! As Sara steps forward, her heel-catches and she pitches  forward ...into Grady's arms.
+10) 5) dialog: I'm sorry. It's these goddamned shoes. I don't  know how anyone actually walks in these things.
+10) 7) dialog: I don't believe we've met...
+10) 9) dialog: Poe!
+10) 14) dialog: Poe' Hush! Now stop this. Honestly. As Poe simmers to a deep growl, GRADY leans forward.
+10) 16) dialog: That's funny. I need to talk to you, too.  (strategy in her tone)
+10) 20) dialog: Well then. I'd better show you. Terry--
+11) 0) text: GRADY enters a room swimming in BASEBAIL MEMORABILIA.  AUTOGRAPHED BASEBALLS abound, as well as PHOTOGRAPHS of  famous big-leaguers. In one somewhat-dated PHOTO a TRIM M IN HIS FORTIES (a younger Walter Gaskell) stands with  PITTSBURGH PIRATE BILL MAZEROSKI at an old-timers game. A Sara eases the door shut, GRADY nods to a 1951 YANKEE'S  PENNANT hanging over the mantle.
+11) 2) dialog: (nodding)
+11) 3) text: Walter just got it back from the framer today. Sara takes Grady's hand, drawing him away from the  pennant and down onto the coat-covered bed.
+11) 4) dialog: You go first.
+11) 6) dialog: I'm pregnant. A flash of LAUGHTER flutters from the living  room below. GRADY starts to speak.
+11) 7) dialog: I'm sure.
+11) 9) dialog: I think Walter would find this a little more  than surprising. GRADY nods, getting her drift, then roils onto his back.
+11) 11) dialog: She's left before...
+11) 13) dialog: So. I guess we just divorce our spouses, marry  each other, and have this baby, right? Simple.
+11) 15) dialog: Is that Cristaile?
+11) 17) dialog: (weary)
+11) 20) dialog: Has he asked to see the book yet?
+11) 22) dialog: And? Are you going to tell him?
+11) 24) dialog: (distantly) 
+11) 25) text: Neither do 1. GRADY starts to pull up, but his arm is underneath Sara.
+11) 27) dialog: I guess you're going to have to chew it off  then.
+13) 3) dialog: I doubt I'd recognize a '63 Chateau Latour if  I was sitting on it.
+13) 5) dialog: I doubt it, darling.
+13) 8) dialog: You want to keep him happy.
+13) 10) text: I'm happy. As Walter goes, GRADY studies Sara as she stands alone in the quiet little room, looking small and tired. Finally,  she takes a breath, steeling herself, and moves off,  returning to the clamor inside her house. GRADY sighs, guilt-stricken, then detects a FLICKER of  LIGHT coming from the darkness beyond. A FIGURE is watchi him from the retaining wail that leads to the Gaskell's  garage. GRADY blinks, chagrined that he's been caught  eavesdropping, then his eyes narrow and he steps off the  porch.
+18) 5) text: As a writer, one thing you learn is that  everyone you encounter has a story. Every  bartender, every taxi driver, everybody has an  idea or a. story that would make a "great book"  or a "great movie." Presumably, each of you has  an idea. (gestures to the audience) But, how do you go from there to here? How do  you go from having an idea to having a book?  How do you get across? What is the bridge, the  bridge that allows you to walk on air from the  shoreline of inspiration to the terra firma of  accomplishment? Faith. Faith that your story is  worth the telling, faith that you have the  wherewithal to tell it, faith that the  carefully woven structure you create won't  collapse beneath you... GRADY glances at James, sees that his eyes are unblinking and glazed, then sees, beyond him, Sara standing by the f EXIT. A blink later, she is gone. Q (cont'd)
+20) 4) dialog: You had another one, didn't you? You have to  see a doctor, Grady. First thing Monday  morning. All right?
+20) 6) dialog: Almost. Wane to sit up? (as he winces) 
+20) 10) dialog: Then stand up. I'm too old for all this  roiling around on the floor. GRADY lets her pull him up, watches her light a  cigarette.
+20) 12) dialog: Don't. I know what you're going to say.
+20) 14) dialog: You love Emily. I know that. And you need to  stay with her.
+20) 16) dialog: She'll come back. That's why I'm going to.  ..to not have this baby. GRADY watches her flip her hand up, bring the cigarette  to her lips, and inhale ...then grimace and drop it to th floor.
+20) 18) dialog: No. There's no way. I mean, don't you think  there's no way?
+20) 21) dialog: (jerking away)
+20) 24) dialog: (composing herself)
+20) 25) text: He must be finishing. We should go. GRADY looks sadly at Sara then stoops to retrieve his  coat.  As he grabs it, James Leer's little pistol CLATTER to the floor.
+20) 26) dialog: Who's gun is that?
+20) 28) dialog: Heavy. Smells like gunpowder.
+20) 30) dialog: Pow.
+20) 32) dialog: I love you, Grady. GRADY places his fingers gently over Sara's... and  removes the gun from her hand.
+21) 7) dialog: Terry CRABTREE and James Leer. Leave it to you  to make that mistake, wait here. As Sara heads off after James, GRADY turns toward the  lobby...directly into the hostile gaze of Miss Sloviak.
+47) 2) text: Professor Tripp? Sorry to bother you, sir, but  I understand you attended an event at Sara and  Walter Gaskell's house last night and were one  of the last to leave...
+52) 0) text: Grady, squinting through the ten-inch panel of cleared  ice on the windshield, roils slowly up onto the curb in  front of Walter and Sara Gaskell's house ...then off.
+54) 1) dialog: Feeling guilty? GRADY jumps--startled--and turns. Sara has materialized  behind a ficus, large POTTING GLOVES on her hands. SARA (cont'd) 
+54) 4) dialog: Walter's on campus, being the good soldier for  WordFest. But he's a basket case. Someone stole  Marilyn's jacket last night. And Poe's missing,  too.
+54) 6) dialog: You heard? How?
+54) 8) dialog: Did you confess? GRADY looks up, mildly alarmed.
+54) 9) dialog: Your fingerprints were all over the bedroom.
+54) 11) dialog: (frowning)
+54) 14) dialog: Are you limping? Why are you limping?
+54) 16) dialog: Did you pass out again, Grady? Did you fall  somewhere?
+54) 18) dialog: All right. Sara settles back, folds her arms. Waiting.
+54) 21) text: ...want to be with you. Sara looks at him.
+54) 22) dialog: Gee, Grady, that sounded so heartfelt.  I  don't know whether to swoon or smirk.
+54) 24) dialog: I believe you. I believe you want to be with  me. But this is not just about me anymore.
+54) 26) dialog: No, I don't think you do. And besides... I  haven't decided yet.
+54) 28) dialog: That ...and you. GRADY goes still, watches Sara strip off the gloves, drop them on  a table.
+54) 29) dialog: I'm not going to draw the map for you on this  one, Grady. Times like these you have to do  your own navigating. Sara turns to leave, then stops, squinting far down the  street.
+54) 30) dialog: Who's that sitting in your car?
+54) 32) dialog: What's he doing out there?
+54) 34) dialog: Isn't he lucky. GRADY watches her ripple across the glass, head for the  house, and wave. James, slumped low in the Galaxie, offer a limp hand in return, but it's too late. She's already gone.
+95) 0) text: A heavy THHNK hits the driveway outside and GRADY blinks. Sitting in his pink robe, bleary-eyed, he reconsiders the piece of paper curling from his typewriter. GRADY'S POV - of THE PAGE It's obvious he's been sitting like this for some time.  Just then, the DISTINCTIVE PURR of an ENGINE is HEARD.  GRADY peers through the window, watches a CAB. glide to t curb below. A Citroen DS23. Sara.
+96) 2) dialog: I tried to call, but apparently there's  something wrong... Sara leans down, replaces the uncradled phone. SARA (cont'd) 
+96) 5) dialog: It seems one of our students is - missing and  his parents found a dead dog in his bed.
+96) 7) text: I'm sorry, Sara. I've been trying to tell you.  It's all my- Sara raises her hand, silencing him.
+96) 8) dialog: I'm not very happy with you right now, Grady.  But more importantly, Walter's not very happy  and he's gotten the police involved. They seem  to think James Leer is somehow responsible for  all of this. You wouldn't happen to know where  James is, would you, Grady?
+96) 10) dialog: And the jacket?
+96) 13) dialog: Grady.
+96) 15) dialog: Are you sure you parked it there?
+96) 17) dialog: I'll deal with this. You dig up James.
+97) 21) dialog: How's it coming back there, Professor Tripp?
+98) 0) text: Sara and GRADY stand by as Pete Pupcik deposits James in  the back of the squad car, SLAMS the door.
+98) 11) dialog: This is not what the university has in mind  when it promises a liberal education, Grady.
+98) 13) dialog: It's within the realm. He takes his souvenirs  pretty seriously. And he was just a wee bit  prickly this morning. Grady, detecting something in Sara's tone, turns, watches her take a drag on her cigarette. SARA (cont'd) 
+98) 16) dialog: And what do you think you might have said?
+98) 19) dialog: He told me.
+98) 21) dialog: I said it didn't sound like you.  Sara tosses her cigarette in .the gutter, gets into her  car, and dives away.  GRADY looks after her sadly, then  turns, sees CRABTREE standing on the porch wearing a shir which claims "Ativan Chases the Clouds Away."
+109) 22) text: Maybe that's the only thing--that and Sara-- that's made the last seven years worthwhile. GRADY slides James' knapsack off his shoulder, smiles  cryptically as he considers it. - GRADY (cont'd)
+113) 0) text: GRADY hobbles into the lobby just as one of the  auditorium doors swings open. APPLAUSE SWELLS and he spie Sara standing inside, talking to a STUDENT USHER.
+114) 0) text: GRADY enters, but Sara is ...gone. He picks his way  behind the back row, scanning the aisles.
+119) 0) text: ...and finds himself standing in a stairwell. He leans  out over the railing, peers down. It's a steep drop, very steep, ending in a small rectangular space, a kind of  basement office, with VENDING MACHINES, PLASTIC CHAIRS, a a COLLAPSIBLE CARD TABLE. GRADY turns back to the door he came through, pushes  against it. Locked. He sighs, looks back at the stairs, h ailing ankle, then sits. He fishes out the Ziploc of-  marijuana, considers the perfectly roiled JOINT floating  atop the bag of buds, but, for once, isn't up to it. The  SOUND of FOOTSTEPS echoes far below and, hopeful they're  Sara's, GRADY pulls himself up, peers over the railing. It's Traxler, with a broom, a big plastic bag.
+119) 9) dialog: Grady, what are you doing, you idiot? GRADY looks up into Sara's freckled face.
+126) 2) text: Is that a suggestion? GRADY sits, blinking the snow out of his eyes, then TWO  SHAFTS of-LIGHT dance across his shoes. A white Citroen  DS23 appears.  It passes.  Slows.  Stops.  GRADY stares at the car, burbling at the curb, then lifts himself up and makes his way to the driver's window. Sara makes a face, bugging her eyes a little-mad at him, but-  not without humor. Then she rolls down the window.
+126) 4) dialog: I believe you. Did that nice doctor let you  out? Or-is this you improvising again, Grady?
+126) 6) dialog: Terry told me about Wonder Boys. Is  it true?  Did you lose it all?
+126) 8) dialog: Oh, Grady. You're such a putz.
+126) 10) dialog: And you're old. Sara strokes his scalp, takes a gray hair between her  fingers. Yanks.
+126) 12) dialog: Dozens. It's very sad. Sara smiles at Grady, but the mischief leaves her eyes  when she looks into his, and-she glances away.
+126) 14) dialog: Oh?
+126) 17) dialog: (she doesn't)
+126) 20) dialog: I told Walter. 
+126) 22) dialog: It didn't come up.  GRADY studies Sara's freckled cheeks, her anxious  profile, then turns her chin gently toward him.
+126) 24) dialog: Did you just make that up?
+126) 27) text: Even so...it's still true. Every word. Sara just nods, looks away, her face unreadable. GRADY (cont'd)
+126) 28) text: Sara, I promise, even though commonsense might  tell you... Sara turns, puts a finger on GRADY's lips...
+126) 29) dialog: Don't write a page when a paragraph will do. GRADY nods, takes her hand. Looks at it as he speaks.
+126) 31) dialog: I know, but sometimes...  Sara turns, looks at Grady. Her eyes are glistening.  SARA (cont'd) 
+126) 32) text: You just go on faith. GRADY looks into her eyes, then rises, and we do too,  drifting above the streetlights as GRADY limps to the oth side of the car and gets in. As GRADY snaps shut his door the car drifts off, gradually losing itself in- the soft  veil of falling snow. After a moment, GRADY and Sara are  lost too, nothing more than a blur.

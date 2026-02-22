@@ -1,0 +1,388 @@
+6) 12) dialog: Mom!
+6) 17) dialog: It's always clean!
+6) 22) dialog: What's the point of having my own apartment across the hall from your apartment if you're going to check up on me like I still live at home?
+6) 27) dialog: Mom. I've spent my whole life here. I need to go out there and follow my dream of fitting in and being like everybody else.
+6) 31) dialog: Mom, please!
+6) 35) dialog: (changing the subject) Mom... I had the dream again.
+8) 10) dialog: I just want to be normal, Mom.
+8) 15) dialog: You mean it?
+8) 19) dialog: Are you crying?
+8) 26) dialog: Promise.
+8) 30) dialog: Of course.
+8) 34) dialog: I never do.
+8) 38) dialog: Always.
+8) 42) dialog: Love you, Mom.
+9) 6) dialog: Yeah. I love this song! And so does everyone else!
+11) 3) dialog: Hello.
+11) 7) dialog: I'm Emmet. 9.
+11) 12) dialog: Well, Larry, I'll have one coffee please.
+11) 16) dialog: What are those? Sounds a little foofy.
+11) 20) dialog: Oh. Well, whatever isn't too wild. I don't know, what do you think?
+11) 25) dialog: Okay, yeah. Cool.
+11) 29) dialog: Oh, goodness. So much selection. So hard to decide! You pick.
+11) 33) dialog: Uh. Gosh, which is the most popular?
+11) 37) dialog: Medium. That's what I'm havin'! That is my style.
+11) 42) dialog: You creative types! So delightfully sardonic!
+11) 46) dialog: But it says Kreative right on your shirt! With an extra "kreative" spelling aberration! I totally don't get it!
+13) 5) dialog: Ooh, great.
+13) 9) dialog: Mmm hmm.
+13) 13) dialog: Uh huh. 11.
+13) 19) dialog: Oh, Steve, don't worry. I'm not some kind of foofy weirdo, Steve!
+15) 5) dialog: Is it for an artist?
+15) 9) dialog: Oh, great.
+15) 13) dialog: Wow... 12.
+15) 17) dialog: What if I mess up or lose my place or something?
+15) 21) dialog: Overseas? I don't know. I'm not big on travel.
+15) 25) dialog: One more question.
+15) 28) dialog: Thank you. For making my dreams come true.
+17) 3) dialog: So.
+17) 7) dialog: How about that local sports team? What do you think of how they played the other day?
+17) 11) dialog: Right? They should make a personnel change of some kind.
+17) 16) dialog: Yes, the coach!
+17) 20) dialog: They should so keep him!
+17) 24) dialog: Really?!
+17) 29) dialog: Cool. Definitely cool.
+17) 37) dialog: I think I know why I like that song so much.
+17) 41) dialog: Because everything is awesome.
+18) 7) dialog: Oh, uh. I don't know. What?
+18) 11) dialog: I don't know what happened. I was just looking out at the clouds, and-- It was an accident.
+18) 17) dialog: Code Danger? What's so dangerous? 15.
+18) 21) dialog: Oh.
+22) 4) dialog: --unbelievably sorry. I am honestly the last person who would do something like thi--
+23) 3) dialog: --eriously, a model citizen. I got straight As. I vote! Even in the off-year elections, for school board and stuff--
+24) 3) dialog: --swear, I'm not special at all. Just ask my mom! I'm a totally average normal person!
+24) 7) dialog: Super grande.
+24) 11) dialog: You don't need to break me! I'm just a regular old totally
+25) 3) dialog: I'm Emmet. What's your name?
+26) 3) text: Doris sees the brick happy face and knows it has to be Emmet! She looks worried. Then oddly STEELY.  
+27) 1) text: Emmet lies awake, sad.  
+28) 1) text: Something is moving in the field outside Emmet's Cell. It's DORIS! She pulls apart bricks in the ground.  
+29) 1) text: CLOSE ON A RACQUEL WELCH POSTER. A blowdart gun emerges from her belly-button. TH-THOONK! Two guards outside Emmet's cell go down. DORIS bursts through the poster! 
+29) 2) text: The following conversation is WHISPERED.  EMMET
+29) 4) text: I'm breaking you out.  EMMET
+29) 6) text: Well I'm temporarily reversing my position for reasons of convenience.  EMMET
+29) 8) text: The rules are different now.  EMMET
+29) 10) text: No you didn't.  EMMET
+29) 12) text: Great. Fine. Would you mind holding my purse?  EMMET
+29) 14) text: THOONK! Doris blowdarts Emmet, who passes out. Doris drags Emmet by the purse through the hole.  
+30) 1) text: Doris and Emmet tunnel in, to the surprise of CUSTOMERS. Doris tries to make Emmet seem like a normal shopper. He is still holding her purse in a coma-grip. 
+31) 1) text: Doris pushes him in a shopping cart through the parking lot and into an ALLEY. Emmet comes to.  EMMET
+31) 3) text: Saving your life. 19.   EMMET
+31) 5) text: That's not important.  EMMET
+31) 7) text: I just broke you out of prison!  EMMET
+31) 9) text: They won't ever decide. You don't UNDERSTAND--  EMMET
+31) 11) text: You were supposed to have dinner with me.  EMMET
+31) 13) text: Well it feels amazing to spend twenty years loving and protecting someone and the first day out of the nest they wind up on the news.  EMMET
+31) 15) text: It's for your own good. 20.   EMMET
+31) 18) text: A beat. Doris continues but Emmet doesn't follow.  EMMET
+31) 20) text: You have to trust me--  EMMET
+31) 22) text: I tried, and look what happened!  EMMET
+31) 24) text: As a matter of fact I did. All the time.  EMMET
+31) 26) text: He turns away from her. Behind Emmet, three ROBOTIC NINJAS silently land, and shoot a human-sized RUBBER BAND from a bent PAPERCLIP at Doris-- it wraps around her, tying her up! They grab her and pull her into a SLEEK
+31) 28) text: Emmet!  EMMET
+31) 31) dialog:  EMMET
+31) 33) text: Emmet is TACKLED by a hooded figure: GEMINI.  GEMINI
+31) 34) text: Where did she go?!  EMMET
+31) 36) text: Gemini grabs a mailbox and STARTS TAKING IT APART! Does the same with the shopping cart and other nearby items, REBUILDING them into an awesome mailbox-style SUPERCYCLE!  EMMET
+31) 38) text: Gemini takes OFF! Emmet, in pursuit, runs into TRAFFIC. He flags down a DUMPY CAR.  EMMET
+31) 42) text: Emmet gets in and slams his foot on the gas!  BARRISTA
+31) 43) text: What's with the purse?  EMMET (OVERLAPPING)
+34) 1) text: Gemini tries to keep up with the ninja car. Emmet, in Larry's car, catches up. They are going super fast and dodging cars while screaming across traffic. 
+34) 2) text: Emmet leans out of the car.  EMMET
+34) 4) text: Stop, Emmet! You're going to screw everything up!  EMMET
+34) 6) text: He loses control of the car and CRASHES INTO Gemini! The cars tumble in a big heap. You can't tell where the car stops and the motorcycle begins. Larry and Emmet are upside down in seatbelts. 
+34) 7) text: Gemini is thrown from the cycle during the crash, but gets up and rebuilds the two vehicles into one SUPER CAR CYCLE that's a mashup of both! Gemini is in the driver's seat, Emmet in passenger, and Larry in the back.  LARRY
+34) 12) text: The new vehicle hits the ground and continues in pursuit.  EMMET
+34) 14) text: Emmet. 
+34) 15) text: Gemini drops the cloak hood, revealing...  EMMET
+34) 17) text: It's Gemini now.  EMMET
+34) 20) text: She builds the glove compartment and antenna into a CROSSBOW and ARROW.  EMMET
+35) 1) text: Doris, tied up, sees Lucy and Emmet in pursuit.  DORIS
+35) 2) text: Emmet?! (TO ROBO-NINJAS)
+36) 1) text: The two cars are TETHERED TOGETHER as they race through the streets, making the chase even more BADASS.  EMMET
+36) 3) text: Is this really the best time to talk?  EMMET
+36) 6) text: Lucy pulls out a pistol, leans out the window, and returns fire as the bad guys shoot at them.  EMMET
+36) 9) text: Hardly.  EMMET
+36) 14) text: By the way, I'm seeing someone now, so don't get any ideas.  EMMET
+36) 18) text: The cops start to shoot at them.  EMMET
+36) 21) text: You don't get it, do you?  EMMET
+36) 23) text: They're here for the Chosen One.  EMMET
+36) 25) text: Not you. Your mom.  EMMET
+36) 28) text: I was sent to get her, but they got to her first. 26.   EMMET
+36) 30) text: Emmet, your mother is the most powerful being in the universe.  EMMET
+36) 35) text: This sinks in.  EMMET
+37) 2) text: How... Emmet! Jump! 
+37) 3) text: At the last possible second, Lucy jumps off the car. Emmet jumps out of his car. The ninja car flies off the end of the train and through a BUILDING. Nothing happens to the Viking car, but Lucy and Emmet's car SMASHES into a thousand pieces. They land with a THUD.  EMMET
+37) 5) text: It didn't break. How?  EMMET
+37) 7) text: Lucy pulls Emmet behind a DUMPSTER as the police arrive at the scene and COVER UP the hole in the wall.  BAD COP
+37) 10) text: Lucy and Emmet run away. Larry the Barrista emerges from the rubble, unseen by the cops.  LARRY
+37) 12) text: He gets up and walks O.S., right past an open sewer grate where Emmet and Lucy once were.  
+38) 1) text: Emmet and Lucy wade through the sewers.  EMMET
+38) 3) text: You have a lot of questions. 28.   EMMET
+38) 5) text: They all work for the Black Falcon.  EMMET
+38) 7) text: Otherwise known as Rodrigo Falcone, the C.E.O. of Empura?  EMMET
+38) 9) text: He is also the self-declared Emperor of all known LEGO realms. He kidnapped your mom because she is the only one who can stop him from destroying us all.  EMMET
+38) 11) text: Emmet, did your mom have a safe deposit box, a safe, something where she would have hidden something very valuable?  EMMET
+38) 14) text: (pulling out items) No...no...no...no...no...no... No...no...no...no...no...no...  EMMET
+38) 19) text: Emmet pulls it away. A RATTLE. 
+38) 20) text: Lucy pulls Emmet back and finds a FALSE COMPARTMENT. In it is a lock box. It has a combination lock.  LUCY
+38) 21) text: What's her birthday?  EMMET
+38) 24) text: Of course. Your birthday. January six.  EMMET (TOUCHED)
+38) 28) text: The MasterPiece.  EMMET
+38) 31) text: Some say it's the first piece ever. No one knows exactly what it does, but it is said the Chosen One will use it to one day save the world.  EMMET
+38) 34) text: There is an inscription. Etched all around it.  EMMET
+38) 36) text: The prophecy of the Chosen One...  EMMET
+38) 38) text: Yes. We have to get this to your mom so she can fulfill her destiny and stop the Black Falcon before he destroys us all.  EMMET
+38) 41) text: Emmet goes up to the MasterPiece, upset. He touches it, feeling sorry for himself. The second Emmet touches it... WHAM!!!!  SMASH TO:  
+39) 5) text: Emmet lets go, catching his breath. The purse is now free from his hand. 31.   EMMET
+39) 10) text: COPS enter the sewer. Emmet puts the MasterPiece back in his mom's purse and wears it like a backpack. Lucy and Emmet dash out. 
+39) 11) text: A FOOTCHASE ENSUES between the cops and Lucy and Emmet. Lucy uses her powers to dash through buildings and shops and lose the cops, breaking apart walls and rebuilding them behind her. Emmet keeps up, barely.  EMMET
+39) 13) text: We're going to take the MasterPiece to someone who can help.  EMMET
+39) 16) text: She turns away, remembering. It's painful.  EMMET
+39) 18) text: Vitruvius. He was once a great MasterBuilder, now he's...retired. But he's our only hope.  EMMET
+39) 20) text: Emmet lamely imitates her quickbuild kung-fu.  LUCY
+39) 21) text: I can't, I'm...still in training. I'm not a full-fledged MasterBuilder yet. Technically, I'm an intern. 32.   EMMET
+40) 1) text: There's a big sign that tells us "CITY LIMITS. NO EXIT/NO ENTRY." And a literal line across the ground. Emmet stops short of the line.  EMMET
+40) 3) text: Don't be a putz, Emmet.  EMMET
+40) 5) text: Iamnotarobot is one of the Black Falcon's robot henchmen. Ever notice how metallic he looks?  EMMET
+40) 7) text: Don't be naГЇve.  EMMET
+40) 10) text: She steps across the line. Emmet GASPS for a long time.  LUCY
+40) 11) text: Look, just give me the MasterPiece and I'll take it from here. 33.   EMMET
+40) 13) text: Well then I guess you're going to have to cross that line.  EMMET
+40) 15) text: Well then go ahead and do it.  EMMET
+40) 18) text: Dude!  EMMET
+40) 20) text: Emmet deliberately and meaningfully, in super slow motion, crosses the line. He EXHALES DRAMATICALLY. Takes another step. Then another, then-- SLAM! 
+40) 21) text: Emmet has walked straight into an INVISIBLE WALL! Camera COMES AROUND revealing a trompe l'oeil painting on bricks that go up as far as the eye can see.  LUCY
+40) 23) text: Lucy reveals an odd-shaped DEPRESSION in the wall. She takes apart a nearby VENDING MACHINE and rearranges the pieces into the shape of the depression, puts it in, filling the negative space...and it opens a door. Lucy pulls Emmet into the door and into... 
+40) 24) text: A TUNNEL OF LIGHT - just like at the beginning of the movie. It seems peaceful, until we see that Emmet and Lucy are hurtling towards a monolithic wall. They BLAST THROUGH IT and into...  
+41) 2) text: Lucy and Emmet crash land into a bunch of HOBBIT HOUSES. They get out of the ship and look around. They see a lot of hobbits yelling at them for destroying their shire.  EMMET
+41) 4) text: Annoying short whiners. Plus they reproduce like crazy. It's a real problem.  EMMET
+41) 7) text: A SCARY NOISE. The Hobbits scurry into their houses. Emmet and Lucy get down just before an army of robots riding robo-horses marches by.  EMMET
+41) 9) text: The Black Falcon's sentries. They're looking for us.  EMMET
+41) 12) text: A robot turns its head. Almost spots them, then moves away. Lucy bonks Emmet on the head and they dash away.  
+44) 49) text: Doris can't look at him. BF shows her a poster with a goofy image of Emmet. "Wanted: Broken or Together."  BLACK FALCON
+44) 53) text: He grabs a LEGO MAGNIFYING GLASS from his desk and shows Doris the out-of-focus PURSE Emmet's holding in the Wanted photo.  BLACK FALCON
+45) 1) text: They come upon a majestic canyon with an immense LEGO waterfall (clear pieces tumbling down). Lucy climbs up the rock wall. Emmet follows.  EMMET
+45) 3) text: Do you ever say something that isn't a stupid question?  EMMET
+45) 9) text: Lucy knocks on the door of a garishly painted SHACK.  EMMET
+45) 13) text: Hello! What? Hi!  EMMET
+46) 1) text: Looks like it was decorated by a blind man. And it was. Vitruvius opens the shades, revealing a window view of a rock wall. 41.   EMMET
+46) 3) text: Thank you. I am deprived of my sight, but my hearing is so acute that I can still perceive the physical world using echolocation.  EMMET
+46) 5) text: Precisely. I see with my ears. Now, how can I help you, extremely tall and fat stranger?  EMMET
+46) 12) text: I guess I'm not redundant anymore.  EMMET
+46) 28) text: They were probably right.  EMMET
+46) 32) text: That's flattery, my dear. We both know you're only here because you have no other place to go.  EMMET
+47) 2) text: The Kragle is the most powerful relic of the Maker. 44.   EMMET
+47) 4) text: Emmet and Lucy sit at a "table." AKA a pink ERASER.  VITRUVIUS
+47) 5) text: The Maker. The being who put us all together and watches over us. Only by following the inspiration of the Maker can one become a true MasterBuilder.  EMMET
+47) 7) text: It is, but then all the best things are.  EMMET
+47) 9) text: Every so often, the Maker drops a piece down to us that is unique, unlike any other. This crystal table is but one example. Some of them, in the wrong hands, can be weaponized. The Kragle, if harnessed, could--  EMMET
+47) 13) text: If we can travel across sea and land, penetrate his heavily- guarded fortress, unkidnap Master Doris, and bring the MasterPiece safely to her, she can use it to destroy the Kragle, and set the world right. 45.   EMMET
+47) 18) text: Or we could send out a mass email to the MasterBuilders list, and have whichever ones are remaining meet us at the midpoint.  EMMET
+48) 1) text: A bustling colonial-era port, but with every possible kind of ship, from aircraft carrier to canoe. Emmet, Lucy, Vitruvius, and Dragon sneak down a DOCK disguised as FISHERMEN. Dragon is disguised as a FISH.  EMMET
+48) 3) text: Why do you care? 46.   EMMET
+48) 7) text: Ahoy! Welcome to the Sea Cow!  EMMET
+48) 9) text: Neckbeard hops out onto the dock, revealing he HAS NO BODY. He's just a head. And a beard.  EMMET
+48) 12) text: She does.  EMMET
+48) 14) text: Neckbeard and Lucy begin MAKING OUT.  EMMET
+48) 16) text: Gosh, where are my manners? Emmet, this is Neckbeard, my boyfriend. Neckbeard, this is Emmet. We used to date a million zillion years ago. It meant nothing to me. You have heard of Vitruvius, of course.  NECKBEARD
+48) 19) text: Farrr be it for a pirate to judge a man with an unsavory reputation.  EMMET
+48) 21) text: Suddenly, Neckbeard somehow gets up in Emmet's grill.  NECKBEARD
+48) 22) text: Stay away from me lady.  EMMET
+48) 24) text: Say that to my face.  EMMET
+48) 26) text: He gets somehow closer to Emmet. Mouths almost touching.  NECKBEARD
+48) 27) text: I was once the most feared MasterBuilder in all the lands. I lost the rest of me body fighting off a hundred of the Black Falcon's men. You cross me, and I'll make it an even fight, if you follow.  EMMET
+48) 29) text: Neckbeard slowly hops back past, eyeing Emmet the whole time. Emmet looks to Lucy: "How can you be with him?"  LUCY
+48) 32) text: As they board the ship and meet the ragtag crew including Chewbacca, the BAD COP from 20 pages ago watches them from the dock, comparing Emmet to his WANTED POSTER. 48.  
+50) 1) text: Neckbeard pores over a chart explaining their heading to Lucy and Vitruvius. Emmet swabs the deck.  NECKBEARD
+50) 2) text: The route be stuffed to the gills with Empura shipping activity. It's heavily patrolled. We'll have to be keeping an eye open, and when the time be right, make ourrrr move.  EMMET
+51) 1) text: The boat rocks back and forth. Emmet, LITERALLY GREEN, approaches Vitruvius who's MEDITATING while building a crazy mecha bird. Like those adorable creatures in Batteries Not Included.  VITRUVIUS
+51) 2) text: Lucy. Welcome.  EMMET
+51) 3) text: It's Emmet.  VITRUVIUS
+51) 4) text: Ah. You got your sea legs, yet?  EMMET
+51) 6) text: Making.  EMMET
+51) 8) text: What is anything for? It's what we were all meant to do. What the Maker has fated us to do.  EMMET
+51) 10) text: Vitruvius punches Emmet in the face.  EMMET
+51) 12) text: The Maker fated me to.  EMMET
+51) 15) text: Emmet stares at him for a minute, confused. Then he looks at the mecha-bird, impressed.  EMMET
+51) 18) text: Emmet pets the mechabird with a real sense of wonder.  VITRUVIUS
+51) 20) text: It emits a PIERCING ALARM CLOCK NOISE.  EMMET
+51) 22) text: Open your throat and make a  sound.  EMMET
+51) 25) text: How can I teach you something you already know? It's already inside you. You've walled it up, but it still shines through. That terrific disaster you caused at the instruction site? That was no accident.  EMMET
+51) 28) text: They say every night the Maker puts a blanket over the world, a blanket with tiny holes. Some call them stars, but I call them MakerPeepers.  EMMET
+51) 30) text: MakerPeepers. Emmet, there was a time, before you were born, when making new things came as naturally to everyone as breathing. The world was messy and wild, and that made it beautiful. But then, everything became rigid and prefabricated, so everyone just stopped thinking of new things. Making has been outsourced to Empura. The Black Falcon has paved over the world that was. 
+51) 33) text: The mechabird flies out a porthole. Emmet runs after it. 51.   EMMET
+54) 3) text: Vitruvius and Emmet come up from below decks. Lucy and Neckbeard begin to meditate together. 
+54) 4) text: We go into LUCY'S MIND'S EYE: She is conceiving of new instructions. She can see every piece at once and is reforming them in her mind into something new. NECKBEARD'S MINDS EYE looks the same. Their two visions of the pieces combine!  EMMET
+54) 10) text: Neckbeard's pirate crewmembers, including Chewbacca, enthusiastically oblige.  EMMET
+54) 13) text: Put the four-piece over there. No! The skinny one. Come on!  EMMET
+54) 15) text: Build a hatch.  EMMET
+54) 19) text: Emmet, exasperated, does his best to build a hatch. INTERCUT the others building quick and cool with Emmet unable to act creatively at all. Finally, in SLOW MOTION: Emmet puts two bricks together. 
+54) 20) text: At the last second, Lucy runs up to Emmet. All he's got is two pieces attached in a cross-bar.  LUCY
+54) 21) text: That's as far as you got?!  EMMET
+64) 1) text: They did it! Emmet cheers with everyone, excited to be one of the guys. Lucy puts a hand on his shoulder. It's the first time anyone has really touched him since his mom was kidnapped. He smiles and looks out a porthole.  
+64) 3) text: Emmet looks out at the water. He sees many beautiful LEGO fish, dolphins, and whales. It's just WONDEROUS.  
+65) 1) text: Emmet turns back to the group.  EMMET
+65) 3) text: He sees Lucy and Neckbeard making out again. When we cut back to Emmet, he's GREEN again.  
+66) 1) text: FOG. The sub surfaces. The hatch opens. Emmet runs out and WRETCHES into the ocean. Until he looks up to find: 55.  
+66) 2) text: A TREASURE CHEST floating by. He hauls it onto the deck. Opens it to find what you and I would call a KEYRING with a LASER POINTER. Emmet touches the ring.  EMMET'S VISION: 
+66) 19) text: EMMET WAKES UP! He drops the ring in shock. Then he puts it in his purse-backpack. 
+68) 1) text: It's so creative - different from the other architecture we've seen. Our heroes knock on the big wacky door.  EMMET
+68) 5) text: Who goes there?  EMMET
+68) 6) text: Oh, uh, I'm Emmet. This is my ex- girlfriend Lucy, also a blind man, a pirate head, and a loud dog. We're here to save the world.  DOOR FACE
+69) 3) text: Hi! I'm Karl, and Welcome to my Krazy Kastle. Krazy with a K!  EMMET
+69) 5) text: Exaktly!  EMMET
+69) 12) text: If you can conceive it, we will achieve it. Build anything whenever you feel it.  EMMET
+72) 2) text: Make any idea thought or spoken. Rules were meant to be broken! 59.   EMMET
+73) 3) text: The finish. Emmet is pretty overwhelmed.  EMMET
+73) 5) text: Cool, man, thank you.  EMMET
+73) 9) text: Emmet. He doesn't get out much. 
+73) 10) text: Vitruvius pulls a frustrated Emmet aside.  VITRUVIUS
+73) 11) text: Emmet, these people are not MasterBuilders. They do not create with purpose, they create just to create. But they can also be very inspiring, because the only way to accomplish the impossible is to break the rules of what is possible.  EMMET
+74) 3) text: Neckbeard hops onto the table and gorges himself. Also, we should mention that everything Neckbeard eats or drinks goes right down his throat and onto the floor. Yuck. Emmet gives Lucy a look. After a beat:  KING KARL
+74) 7) text: He waits for them to be impressed, then steps back.  EMMET
+74) 17) text: I'm also a MasterBuilder.  EMMET
+74) 20) text: He points out the window to an odd, unstable-looking SPACESHIP, which is parked outside.  EMMET
+74) 36) text: BEAT. He looks so sad and lonely.  EMMET
+74) 38) text: Oh, I'm a Space Cadet. First Class.  EMMET
+74) 40) text: We are all that remain of the once proud society of MasterBuilders. Except for Duplo. And Emmet. He's not a MasterBuilder, he's just the son of one. And Lucy, who is still an intern.  BATMAN (INTRIGUED)
+74) 43) text: Emmet pulls out the MasterPiece. They all marvel at it.  VITRUVIUS
+74) 52) text: They all struggle but the Ninjavikes are too much.  EMMET
+75) 26) text: Emmet!  EMMET
+76) 2) text: He kicks open the door and smashes Bad Cop's hand in it. He does some creative building and kicks everyone's butts. He frees our heroes.  EMMET
+80) 8) text: You have to go.  EMMET
+80) 14) text: Beat.  EMMET
+80) 21) text: IN MID AIR all the MasterBuilders mind-meld and quickbuild a ROCKET-COPTER around themselves with the remains of the spaceship. Emmet actually helps. He may be getting the hang of this. As they chopper-rocket off:  EMMET
+80) 23) text: That's far more impressive than this entire Rocket-Copter.  EMMET
+80) 27) text: We see R2D2 in the backseat. 70.   R2D2 &lt; WHISTLES &gt;  EMMET
+80) 30) text: FIGHTER JETS PILOTED BY SKELETONS bear down on them! A really awesome DOGFIGHT ensues. Benny pilots, with Batman backseat driving, and Emmet manning the turrets.  BENNY
+82) 1) text: The Rocket-Copter crashes into the ground and breaks apart.  EMMET
+83) 2) text: But Emmet can't sleep. He stares off at the volcano- tower where his mom is being held. Lucy approaches.  LUCY
+83) 3) text: What's up?  EMMET
+83) 5) text: Upset about what?  EMMET
+83) 9) text: We'll find her.  EMMET
+83) 11) text: I know it. I know you.  EMMET
+83) 13) text: You don't.  EMMET
+83) 15) text: I'm just trying to help. 72.   EMMET
+83) 17) text: What?  EMMET
+83) 19) text: Lucy LAUGHS.  EMMET
+83) 21) text: You may not have a creative bone in your body, but you have a lot of really really earnest bones. You always did.  EMMET
+83) 23) text: I mean, that day when we were kids, and you drew the face in art class, you inspired me. I thought maybe there was more out there in the world, and maybe you felt the same. That's why I asked you out. But then you ended up like everyone else and broke my heart, you know? That I was going one way and you didn't go with me.  EMMET
+83) 25) text: We're being so dramatic. It was eighth grade!  EMMET
+83) 27) text: It made a lot of us dingalings.  EMMET
+83) 29) text: Emmet looks away, sad.  LUCY
+83) 31) text: She pulls out a wadded-up metallic GUM WRAPPER.  EMMET
+83) 34) text: He stares at it, then at her.  EMMET
+83) 37) text: Well, good night.  EMMET
+83) 39) text: Emmet sits alone, looking at his sparkly reflection in the gum wrapper. As he puts his hands on it:   EMMET'S VISION: 
+83) 50) text: Emmet looks at the gum wrapper. Confused, he puts the wrapper in his purse/backpack. He is startled by:  VITRUVIUS
+83) 51) text: I don't suppose this is the restroom?  EMMET
+83) 54) text: Visions of the Maker. Quite unusual.  EMMET
+83) 56) text: We all have a fate. But MasterBuilding is about channeling the power of the Maker, and taking that fate into our own hands. I guess it could mean what you choose to make it mean. 75.   EMMET
+83) 59) text: Emmet builds himself a little mecha-bird, like the one that Vitruvius made earlier. It's adorable.  EMMET
+83) 63) text: Not bad. You're learning now.  EMMET
+83) 66) text: He pats him on the head and walks away. After a beat:  EMMET
+84) 4) text: How the heck are we going to do this? 76.   EMMET
+84) 6) text: Really?  EMMET
+84) 9) text: R2D2 projects the blueprints for the fortress.  EMMET
+84) 42) text: We don't have time for that.  EMMET
+88) 1) text: The office we saw earlier. 80.   EMMET
+88) 4) text: Emmet. 
+88) 5) text: She motions to an "IDEAS" notebook. There is nothing in there. There's also a picture of the BF's middle school class photo with Doris in it. The BF has drawn a funny moustache on her. Emmet smashes the picture in anger.  NECKBEARD
+88) 18) text: Emmet's heart breaks.  EMMET
+88) 28) text: Lucy starts to exit.  EMMET
+88) 30) text: Emmet grabs some nearby tubes and goes to work. He's not a quickbuilder, he's more methodical. What's he up to?  
+89) 1) text: Emmet places a FOUR-WAY PERISCOPE in front of their faces.  EMMET
+89) 3) text: They smile at one another. Emmet smiles. Lucy looks at him. That's the guy she used to love.  
+91) 6) text: Emmet rushes up into the Think Tank and finds his MOM. Everything else slows down. The sounds of the fighting fall away. He's so glad to see her. Wouldn't you be?  EMMET
+91) 8) text: What? Emmet?  EMMET
+92) 1) text: Our heroes book it. Emmet helps Doris.  LUCY
+92) 12) text: Lucy stops, frozen...with INDECISION! She looks at Emmet. Emmet smiles bravely at her as he runs.  LUCY
+92) 16) text: Bad Cop et al reload.  EMMET
+92) 18) text: Fling! Doris is wrapped up.  EMMET
+92) 20) text: Fling! Emmet is wrapped up, with the MasterPiece still in his hands. 86.   DORIS
+92) 25) text: Batman, Benny, Neckbeard and R2D2 run around the corner. Bad Cop has rounded up Lucy, Emmet, and Doris.  BAD COP (TO ROBO-SOLDIERS)
+93) 1) text: Now Emmet, Doris, Lucy and Vitruvius are all tied up in a row facing the window. The Black Falcon inspects his prisoners. 
+93) 3) text: He takes the MasterPiece out of Emmet's hands. 
+93) 7) text: This stings. He is not nice.  EMMET
+93) 9) text: I know sweetie.  EMMET
+93) 11) text: I wish I could, son.  EMMET
+93) 13) text: I wanted you to be safe. I thought you would be happier. When I saw you with that funny drawing, it was so marvelous. And then I thought of what your life would be, how everyone would treat you. I just couldn't let that happen.  EMMET
+96) 1) text: When we look below, we see all the lands we have visited, each walled silos apart from one another. Like the neurons in Emmet's brain at the start of the movie. 
+97) 1) text: Inside it's an enormous indoor INSTRUCTION SITE filled with instruction workers working on something big. The Black Falcon's office penthouse is one of the top pegs, looking over everything like a control tower. Emmet notices his instruction worker pals from Act I.  EMMET
+104) 1) text: Emmet's house. SMASH! The SKT2's foot smashes down. Pan up to show it about to freeze Emmet's hometown.  
+105) 3) text: What is? Describe it to me. I feel really really left out!  EMMET
+105) 5) text: Emmet looks around, and eyes the MasterPiece, sitting on the console as a paperweight. Next to it is the MAGNIFYING GLASS on the Black Falcon's desk that he used like 70 pages ago. Emmet gets an idea.  
+108) 7) text: The crazy MECHA-BIRD that Emmet built lands nearby.  LARRY
+108) 13) text: WE ZOOM INTO LARRY'S BRAIN! The same thing that happened to Emmet. Synapses fire. He gets.... An IDEA! 
+109) 7) text: While the Black Falcon is distracted, Emmet slowly hops over to the desk and bumps it, jostling the magnifying glass half over the edge of the desk. He shimmies under it. The magnifying glass lens concentrates the light and starts to BURN away the rubber band binding him up.  BLACK FALCON
+109) 10) text: The Black Falcon goes back to barking orders. Meanwhile, the rubber band is almost burned through. Emmet struggles to move himself closer and BURNS his hand.  EMMET (SOTTO)
+109) 12) text: And he's free! Yes! Behind BF's back, he frees his mom and hands her the MasterPiece.  EMMET (SOTTO)
+109) 16) text: She's too weak. You have to do it.  EMMET
+109) 18) text: Emmet unties Lucy. 95.   LUCY
+109) 19) text: I believe in you, Emmet. I was mad because you disappointed me for a while, but since it wasn't your fault, I'm willing to give you a mulligan on it.  EMMET
+109) 21) text: A mulligan. It's from golf.  EMMET
+109) 23) text: The point is, you've spent your whole life wanting to fit in and have friends, by pretending to be something you're not. But now that you've let the real you shine through, you've made some friends who like you for who you are. And even if they're just a crazy spaceman and a pirate head and a blind man and an intern--  EMMET
+109) 25) text: I do.  EMMET
+109) 27) text: ...Sure.  EMMET
+109) 30) text: Emmet looks down on it. Then down on his arm. The BURN MARK from just a minute a go is in the shape of a STAR.  EMMET
+109) 32) text: Emmet's eyes roll back. He can suddenly "see" the pieces, like we've seen other MasterBuilders do. But in a way that's even cooler than how they did. He smiles. 
+109) 37) text: What is it, Emmet?  EMMET
+109) 41) text: Emmet slowly walks towards it, and light from the portal swells, enveloping Emmet completely. He DISAPPEARS! And the portal with it!  BLACK FALCON
+113) 1) text: Surrounded by laserbeams, Emmet is levitated through the universe. He is split into pieces - like he is becoming one with the fabric of the universe. He is traveling between the seams. Eventually rising straight towards the brightest star in the sky. 
+113) 2) text: The closer we get, we realize that it is not a star at all, but a HOLE in the fabric of the universe. A hole just barely big enough for Emmet to fit through. Well, not quite big enough. He is stuck. 99.  
+114) 1) text: Emmet finally wiggles through a hole in a black piece of FELT FABRIC. He rubs his eyes and sees an entire human- sized basement in a LIVE ACTION WORLD. It's like nothing Emmet has ever seen before. 
+114) 2) text: He marvels at a coffee cup with pencils in it. Stares at his reflection in a snowglobe.  EMMET
+114) 5) text: AN ENTIRE LEGO UNIVERSE laid out below. It's a more mundane version of Emmet's world: the lands are not as vast, towers not as tall, but it's all there: representations of the city, waterfall, space cube, etc. Each area separated by walls - backdrops laid down by a collector. It's pretty much the coolest collection of LEGO sets anyone could ever hope to build. 
+114) 6) text: He looks at his feet and sees tons of loose LEGO parts. He realizes he's standing in the middle of a bin of LEFTOVER LEGO pieces.  EMMET
+114) 8) text: He looks up to see TED, a human being, staring at him. EMMET TED
+114) 10) text: Emmet runs! Ted tries to brush Emmet away, causing a pen knife to fall on Ted's hand. EMMET TED
+114) 13) text: - Emmet grabs a cocktail toothpick and parries Ted's flyswatter. 
+114) 14) text: - Emmet jumps on Ted and Ted tries to get him off. Emmet clings to Ted's Ear, screaming into it. 
+114) 15) text: - Emmet punches Ted in the face while Ted swings and misses Emmet because he is so small.  TED
+114) 16) text: What the heck are you?! 100.   EMMET
+114) 18) text: I'm a person.  EMMET
+114) 21) text: Ted touches Emmet's face. Emmet touches Ted's face. They do a version of the mirror bit from Duck Soup.  EMMET
+114) 23) text: Emmet puts his hand up Ted's nose.  EMMET
+114) 25) text: Ted sneezes all over Emmet.  EMMET
+114) 28) text: Emmet looks back towards the LEGO set. It's all messed up from the fighting.  EMMET
+114) 30) text: Yeah, but it's seriously messed up.  EMMET
+114) 38) text: Yeah.  EMMET
+114) 44) text: The what?  EMMET
+114) 47) text: He gestures to a big box of Krazy Glue tubes. Emmet GASPS in horror.  EMMET
+114) 49) text: What? I'm using this to glue my set together. So it won't get messed up by the kid.  EMMET
+114) 53) text: I can't find a job that doesn't make me hate myself. My girlfriend dumped me for a rich trustafarian... dingaling, is what he is, and I'm watching my sister's kid while she has a fun time partying in the Hamptons with her annoying brood of hot girlfriends who won't have a thing to do with me, and the only thing I have in my life that makes any sense, that I have any control over is that perfect world right there.  EMMET
+114) 55) text: See. No. That's not true- because with others, they don't see things the same way, so--  EMMET
+114) 57) text: What else could I have?  EMMET
+114) 59) text: Ted looks at Finn. Then at Emmet. Then at his glue. He gets something and hands it to Emmet. It's a GLUE CAP.  TED
+114) 60) text: Use this.  EMMET
+114) 66) text: Yeah. Try that.  EMMET
+114) 68) text: Nice to meet you.  EMMET
+114) 70) text: Emmet turns and goes back through the makerpeeper hole, back through the portal. Ted picks up a bottle of Krazy Glue-dissolving MINERAL SPIRITS and turns to Finn.  TED
+115) 1) text: Emmet careens through the laser tunnel towards LEGOPOLIS. Like a meteor reentering the Earth's atmosphere.  
+116) 1) text: Emmet hits the ground, making a LEGO crater. He raises the Cone of Power and dashes toward the SKT2. 
+116) 4) text: Well, those guys jump out and form a ground army of ROBO- VIKINGS and SKELETONS and such! Emmet charges for them, seriously outmanned. 
+116) 5) text: Leading the charge is Bad Cop in his Police-Spaceship. He has Emmet in his sights... He closes in, firing his blasters, when he looks up for a minute to see...  BENNY
+116) 7) text: Benny's ship, headed straight for him! Benny, Neckbeard, Batman and R2D2 dive out just before their ship CRASHES into Bad Cop's, BREAKING HIM AND HIS SHIP TO PIECES! Benny et al land safely, right next to Emmet.  EMMET
+116) 10) text: Emmet and the gang quickbuild-fight against the army. Neckbeard headbutts a row of skeletons- they fall like dominoes. Batman uses his Batarang to pop off the heads of a row of Robo-Vikings. But the badguy spaceships are still circling and shooting.  BATMAN
+116) 26) text: Even King Karl flies in on his dino-rocket and joins the air battle as the land battle wages on.  ON EMMET 
+116) 27) text: Amid the massive battle on air and land, Emmet makes his way through the armies to the SuperKragleThingy2... 
+116) 31) text: He flips a switch and the SKT2 extends a mecha-arm, launching a huge MISSILE right towards Emmet!  
+117) 1) text: Amidst the air battle, Doris looks out the window to see Emmet on the ground, about to be hit by the missile.  DORIS
+117) 2) text: Emmet! 
+118) 1) text: Doris gathers her strength in mid-air. Starts building a protective shield to cover her and Emmet. Can she do it? 
+118) 4) text: Doris attacks the baddies with heretofore unseen ferocity. She breaks apart streetlamps and makes weapons. A mother protecting her son. She's like a whirling, quickbuilding kung-fu superstar. She is the best fighter in the universe.  EMMET
+118) 6) text: I'm the Chosen One, remember?  EMMET
+118) 9) text: I was wrong, Emmet. (BAM!) All this time I was trying to keep you from getting hurt, so I told you not to make waves. (POW!) I'm just so glad that I get to see the beautiful waves you finally get to make.(SOCKO!)  EMMET
+118) 13) text: The SKT2 takes in a big inhale, about to freeze them... When in lands the most colorful and whimsical SUPERROBOT ever. Exactly opposite of the SKT2. It's made up of all the ships that the citizens of LEGOPOLIS have built. This is WHIMSYBOT, and LUCY's is in the center.  EMMET
+118) 17) text: This gives Emmet and Doris a clear pathway to climb on to the SKT2 and scramble up to the cockpit where the Black Falcon is. Doris rips open the cockpit with her bare hands. She jumps in and kicks the Black Falcon's ass.  DORIS
+118) 18) text: Emmet, now's your chance! 
+118) 19) text: Emmet scrambles to the SKT2's mouth, holding the Cone of Power at the Kragle. But at the last second, his route is cut off by the BLACK FALCON, holding Doris hostage. 
+118) 21) text: EMMET GETS AN IDEA - we see this as we have before.  EMMET
+118) 23) text: And he runs away... or does he? No! He runs around the back of the SKT2 and tunnels in through the back of its head! He lifts the CONE OF POWER!  EMMET
+118) 29) text: A beat. Then the whole SKT2 EXPLODES into a million LEGO pieces! Emmet and Doris and The Black Falcon are thrown high into the air. 
+118) 31) text: DOWN IN LEGOPOLOIS, everyone GASPS. It seems the SKT2 explosion killed Emmet and Doris. 
+118) 32) text: That's when two enormous five-fingered LEGO clouds shaped like hands, one grown up one, one kid one, enter the frame from above. THE HANDS OF THE MAKER(s). They catch Emmet and Doris in midair, and put them together safely on the ground. 
+118) 33) text: Emmet holds the original Kragle tube, and gives it back to the Cloud Hands, which take it up in the sky in a marvelous light show. Think the Abyss, or Close Encounters. Everyone stares at it, admiring the artistry. The lights shines in their faces.  
+123) 2) text: What the heck just happened?  EMMET
+123) 4) text: Emmet hugs Lucy and they KISS as well as a minifig can. Meanwhile, Neckbeard and Doris check each other out a little.  NECKBEARD (WINKING)

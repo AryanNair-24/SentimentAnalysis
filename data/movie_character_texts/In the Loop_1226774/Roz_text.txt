@@ -1,0 +1,17 @@
+64) 0) text: TOBY and SIMON are with Simon's constituency agent, ROZ, she's ushering them into the small, damp little constituency office. ROZ's arm is in a sling (Jo Scanlon's arm actually is in a sling) and she has difficulty opening the door
+64) 1) dialog: (to Simon) Sorry, could you...? You just need to kick the bottom quite hard.
+64) 2) text: Simon kicks the bottom of the door to unstick it. Roz opens the door. There are a few constituents waiting to see Simon, he nods a hello.
+64) 5) dialog: Right, here you go, you're pretty booked up - there's a list on the desk. I'm just going to have a look at the guttering.
+64) 7) dialog: Of course. Right. How was the President? 
+67) 0) text: 80 Simon listens behind a desk. Roz is there taking notes. Toby is in the corner working on a laptop. 
+67) 5) dialog: (looking through the paperwork) Well it's not a council sceptic tank so they're not legally obliged to pump it...
+67) 9) dialog: Er, Colin Lowe.
+67) 12) dialog: Pauline Michaelson's son about the constituency office wall.
+67) 13) text: Toby exits to get coffee as Roz brings in PAUL MICHAELSON.
+67) 22) dialog: Why don't you explain your issue, Mr Michaelson?
+67) 29) text: We did arrange to get a quote from a builder, but... Roz has a call on the landline. 
+67) 31) dialog: Patch from London. They say it's urgent. Karen Clark? Is she the coracle woman?
+70) 5) text: Simon wants to talk. Roz takes over.
+70) 7) dialog: Okay, well, I'll take your details.
+70) 8) text: Roz leads Paul away
+106) 33) dialog: Right, I've got a selection of quotes for you, they're all local firms and none of them is very well respected. (gets another piece of paper out)

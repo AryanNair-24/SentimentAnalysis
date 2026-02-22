@@ -1,0 +1,153 @@
+7) 0) text: Aiken races inside the ROTUNDA, nearly knocking over an ELDERLY SENATOR in his path. He sprints across STATUARY HALL, past the busts of our Founding Fathers. Aiken continues down a long HALLWAY lined with Senate off a stack of legal briefs virtually spilling out of his han Finally, he enters through an enormous OAK DOOR bearing t brass inscription: United States Senator (Maryland) Reverdy Johnson He finds REVERDY JOHNSON already long in wait.
+10) 22) dialog: I am innocent.
+10) 24) dialog: Yes, sir. I most certainly am.
+12) 2) text: PULL BACK: To reveal Mary over Aiken's shoulder. Both loo equally panicked but for different reasons.
+15) 0) text: CELL DOOR number 200 swings opens as Aiken steps inside. MARY is crouching on all fours, chained like a barnyard animal. Though not forced to wear a hood, her ANKLETS and WRIST CUFFS are painfully attached. STRAW is spread benea her; a BUCKET for bodily functions is nearby. The Guard remains at the door
+15) 4) dialog: Where's the Senator? Aiken turns toward Mary.
+15) 6) dialog: Really?
+15) 8) dialog: No disrespect, Mister...
+15) 10) dialog: Mr. Aiken, how many years have you?
+15) 12) dialog: Young man, you're barely older than my son.
+15) 14) dialog: I take it then you've handled cases like this before?
+15) 16) dialog: But, you have defended others? Aiken is silent.
+15) 17) dialog: I see they've left nothing to chance.
+15) 20) dialog: Yes. Aiken awaits more information. Mary offers none. 24. Ma'am, all I know about you is what I've read in the papers. And what they're reporting isn't flattering. Mary grudgingly.
+15) 21) dialog: I moved there a year ago with my son and daughter after my husband passed away.
+15) 23) dialog: As were many others.
+15) 25) dialog: No, sir. I do not. (sternly) Mr. Aiken, my husband died a drunk leaving me with loads of debt. I had no other way to support my family, except by renting rooms to boarders. I considered those men customers, nothing more. / AIKEN ; ; Did you 'consider' their sentiments?
+15) 26) dialog: I did not inquire as to their "sentiments,' sir.
+15) 28) dialog: I am a Southerner by birth, a Christian by belief, and a devoted mother above all else. And I am NO assassin!
+15) 30) dialog: Well, then you tell me what I should say to those Generals? A beat. 25.
+15) 32) dialog: I do not. Even at 21, Mr. Aiken he's still my baby. My son will be kept out of this.
+15) 35) dialog: Louie is like a member of my family. I don't want any harm coming to him on account of me.
+15) 38) dialog: They can't do that, can they?
+15) 40) dialog: Of course. But what difference does it make? Even these failing eyes of mine can see those Generals made up
+15) 43) dialog: Just like you, Colonel. A GUARD appears with Mary's dinner, hardly appetizing. Ai heads for the door.
+15) 45) dialog: Mr. Aiken (Aiken stops) I haven't a word from my daughter since they put me here. Would you check on her for me? Please. He reluctantly nods.
+15) 46) dialog: Thank you, Mr. Aiken. I see you've got a spark of human feeling in you after all.
+22) 0) text: The atmosphere outside the prison is part-carnival, part- VENDORS hawk SOUVENIRS and REFRESHMENTS, while an angry M eagerly awaits the first witness in Mary Surratt's trial. 32. They are carrying PLACARDS calling for the prisoners' hea A life-size EFFIGY of Mary Surratt hangs from a lamp pole
+22) 1) dialog: How is she?
+22) 4) dialog: It's nice of you to say -- even if you don't think that day is coming any time soon.
+22) 7) dialog: I have no idea.
+27) 0) text: Aiken enters and finds Mary, to his_surprise kneeling in prayer before a Catholic priest, FATHER WALTER, late-30's
+27) 2) dialog: Speak freely, Mr. Aiken.
+27) 4) dialog: All things are naked and open unto the eye of the Lord.
+27) 6) dialog: Thank you for visiting, Father walter Your words were most comforting. Father Walter departs. Mary puts aside her Bible, removes her reading glasses.
+27) 7) dialog: Search me, and know my heart (MORE )
+27) 9) dialog: Try me, and know my thoughts. And see if there be any wicked way in me.
+27) 11) dialog: You know your Proverbs, young man.
+27) 13) dialog: Is that right?
+27) 15) dialog: Is your world so black and white?
+27) 17) dialog: So, what is it you wish to know?
+27) 19) dialog: I ran a boardinghouse, Mr. Aiken. Forgive me if I chose to fill it with boarders.
+27) 21) dialog: I suppose my son invited him. They were friends.
+27) 23) dialog: Ny Johnnie is no less a gentleman than you, Mr. Aiken, and capable of forming acquaintances in society.
+27) 25) dialog: What about him?
+27) 27) dialog: Then you know what I do not.
+27) 29) dialog: Honestly, Mr. Aiken.
+27) 31) dialog: And what might that be?
+27) 33) dialog: I take it there's more.
+27) 35) dialog: Quite persuasive, Mr. Aiken. Except my son was up in Canada at the time of the assassination. 44.
+27) 37) dialog: Exactly, I don't know. Off Aiken's DISBELIEF.
+27) 38) dialog: Does your mother know your exact whereabouts at all times? Silence.
+27) 39) dialog: Very well. Mary withdraws a wrinkled POSTCARD from inside her corset
+27) 40) dialog: My son sent this to me from Canada, the same day as the assassination. Proves he was out-of-town that night.
+27) 43) dialog: What's happened to Anna? Aiken LIES to her.
+27) 45) dialog: Where to?
+27) 47) dialog: You're cruel, Colonel Aiken.
+27) 49) dialog: I'll tell you anything to protect my daughter. Even if it means confessing to something I did not do.
+27) 52) dialog: You say you want the truth, Mr. Aiken. But you're so blind with vengeance, you can't see it anymore.
+27) 54) dialog: My son abhorred the North. We all did! How can a Southerner not feel anything but bitterness towards your side for denying us our independence? But, my son did not conspire to kill your President. A beat. Aiken turns to leave.
+27) 55) dialog: He conspired to kidnap him. Aiken STOPS DEAD in his tracks.
+27) 60) dialog: Anna, upstairs.
+27) 62) dialog: Now. Anna heads upstairs. Mary remains. She can barely make ou what is being said down the hall. SAMUEL ARNOLD, 31, is barking at DAVID HEROLD, 23.
+27) 73) dialog: Seemed they planned on ransoming him in_exchange for all the Confederate soldiers kept inside your prisons.
+27) 75) dialog: "Cause one of 'them' was my son.
+27) 77) dialog: No. Not my Johnnie.
+27) 79) dialog: No, my son is not a murderer. Aiken thrusts Mary's BIBLE at her.
+28) 0) text: DOWNSTAIRS, Anna cooks a meal for many. UPSTAIRS, Mary en her son's bedroom to find John busy packing.
+28) 1) dialog: Wash up, Johnnie. Supper will be ready shortly.
+28) 3) dialog: What could be more pressing than fried chicken?
+28) 5) dialog: Don't sport with me, son! You're not stepping outside this house.
+28) 7) dialog: You and Anna are all the family I've got left. I'll be damned if I let you run off and do something else oolish.
+28) 9) dialog: Sweetheart, nine tenths of our army is buried underground. You think they'll wait until we grow another? The war is all but over, love. There is nothing more you can do.
+28) 11) dialog: John, please.
+28) 17) dialog: April 3rd.
+28) 20) dialog: I don't know.
+28) 22) dialog: Honestly, I don't. Lord, I pray not. I only know that I did not. (a beat) I swear. Mary's hand is on the Bible. Off Aiken and Mary in silenc
+31) 5) dialog: This young lady belongs to me!
+32) 8) dialog: Absolutely not. I've never seen him before in all my life.
+33) 65) dialog: I want the truth from you this time. Aiken knows exactly what she's after.
+33) 67) dialog: She's been helping you all along? Aiken nods.
+33) 68) dialog: How could you lie to me about such a thing?
+33) 70) dialog: Nothing they do to me could compare to the torture of not knowing my daughter was ok.
+33) 72) dialog: Please leave. AIKEN (CONT'D. (reads from a clipping "Mrs. Surratt looks no less masculine than the male prisoners on trial -- removing any doubt a woman like her could be capable of such a crime." (re. other clippings) The others are less kin Aiken holds out the dress. Mary refuses it.
+33) 73) dialog: It matters none to me what they think.
+33) 75) dialog: You speak of womanhood with such reverence, Mr. Aiken. Yet, we aren't trusted enough to vote, while a former slave now can as long as he has $250. (heavy Southern drawl) Yes, I'm certain y'all would prefer I acted like a good Southern lady. Met my fate in that pretty dress with a painted face. But, I'd prefer to act naturally . And take the consequences like a man.
+33) 78) dialog: Just obeying orders, Colonel. 64. She drops her black dress to the floor. Starts unlacing h corset. She is now standing in a calf-length chemise. She slips off her pantalettes, and tosses it into the bucket.
+33) 79) dialog: Come now, Freddie, don't be shy. Surely, you've undressed a woman.
+33) 80) text: You're insane. Mary presses up against Aiken, seductively.
+33) 81) dialog: I'm just showing you how I'd please those Generals.
+36) 0) text: A beautiful late Spring day. Aiken spots Mary across the open-air courtyard. She has made a swift recovery -- exercising in the sunlight, her arms now free of chains. She is wearing the dress given t her by Aiken, the plunging neckline tempered by a shawl. Father Walter passes Aiken, after having prayed with Mary
+36) 3) dialog: You should've pushed me down a month ago, if that's what it took to spell me from that cage. Feel that sun. Now, all I need is a few boiled oysters with Spanish olives. (giddy ) . Your mama ever boil oysters for you Frederick? Aiken is taken aback by Mary's use of his first name.
+36) 5) dialog: She doesn't cook?
+36) 7) dialog: I feel for your loss -- and hers. (a beat Some day I'll make oysters for you -- with Spanish olives, of course. You must never eat 'em without the olives.
+36) 10) dialog: Young man, I don't believe I've seen you ata loss for words. Aiken comes right out with it.
+36) 12) dialog: (laughs) My Johnnie! 'Course not!
+36) 14) dialog: From here?
+36) 16) dialog: "US!" Whose side are you on?
+36) 18) dialog: By suggesting I trade my son's life for my own. Seems more like you're trying to save yourself.
+36) 20) dialog: "Course not. But every time you walk out those gates something pulls ou back inside. Well, if you're ooking to slip out the back door yout have to unlock it yourself. ecause I have no idea where my son is hiding.
+36) 22) dialog: You've already played that card, Mr. Aiken. Now, if you please, I wish to enjoy the rest of this glorious gay. There may not be many more eft. Mary resumes her exercises.
+39) 0) text: Mary and Wiechmann ride atop a BUGGY along a COUNTRY ROAD A wooden TAVERN sits atop a rolling plain. Wiechmann guid the buggy up to the PORCH as Lloyd rushes out to greet th
+40) 0) text: As Mary hands the WRAPPED PACKAGE to Lloyd on his back po
+40) 19) dialog: You liar! Mary screams out. General Hunter slams his gavel.
+40) 22) dialog: I just don't see how I could possibly further prejudice this case.
+41) 48) dialog: Stop this. Stop this right now.
+41) 51) dialog: How dare you! You have no right. General Hunter bangs his gavel repeatedly.
+46) 25) dialog: That is enough. Anna glances at her mother.
+46) 61) text: AIKEN foonT'd) too, must safeguard our founding principles with our lives. (a beat) Above all, we must never sacrifice our sacred rights -- out of a desire for revenge -- when so many have given their lives to preserve them. Aiken returns to his seat, and glances at Mary. A small n expresses her gratitude. Out of the corner of his eye, Ai spots Catherine, who is visibly moved.
+48) 3) dialog: How 'bout we forget about the trial for a while? Aiken nods, pulls a deck of cards from his jacket pocket.
+48) 4) dialog: Surely, there must be others you'd prefer to play with. 93.
+48) 6) dialog: I reckon' that's true. She takes the cards from Aiken's hands. MARY fen >) Both my father and husband went to their eternal rest without a dime cause of these fifty-two.
+48) 8) dialog: Hopefully, my luck's about to change. What are we wagering?
+48) 20) dialog: This Yank' up North comes home after chopping some wood...
+48) 22) dialog: ..Says to his wife, "Honey, my hands are freezing." (Aiken takes a drink) "Put 'em between my thighs, " she replies, "That'll warm ‘em up." Aiken freezes mid-gulp.
+48) 23) dialog: After lunch, he goes out and chops some more wood. Says, "Sweetheart, my hands are really freezing!" "Well, put 'em between mk) thighs," (Mary downs her drin Before bed, the Yank' aed out one more time to get 'em through the night. "Dear, my hands are frozen, he says as he walks back inside. For goodness sake," his wife replies, "don't your ears ever get cold?" Aiken spits his drink. Both he and Mary enjoy the moment. Mary's smile slowly disappears. 95.
+48) 24) dialog: He hates me.
+48) 26) dialog: My son. It wasn't Lincoln he despised. It was me.
+48) 28) dialog: I refused to have him turn out like his father. I wouldn't let him out of my sight. Kept him so close I made him sit out the entire War. Finally, he got the courage to break free, and become what he always wanted - what you are, Frederick.
+48) 30) dialog: Your own man. A long beat.
+48) 31) dialog: Go to her. Off Aiken's confusion, Mary says solemnly --
+48) 32) dialog: I'm not looking forward to it. But I'm ready for what they have in store for me. Anna is not.
+48) 34) dialog: Please, Frederick. She's not as strong as she thinks. Off Aiken taking this in -- INTERCUT: Shiny DRESS SHOES with worn RIDING BOOTS. Crossing cobblestone. Traversing prison grounds. Ascending wooden steps. Climbing a steel staircase. A painted FRONT DOOR swings open...
+53) 0) text: Mary's stoic expression remains unchanged. 97.
+54) 0) text: Mary calmly nods for the Soldier to continue reading. YOUNG SOLDIER (V.O. ...TO be hanged by the neck unti she be dead. Mary maintains her "face" until the Young Soldier exits.. then buckles, just a bit, from what she's just been told. As we CUT BACK TO --
+56) 16) dialog: There's nothing more you can do. 99.
+56) 21) dialog: John, please.
+58) 0) text: Mary, at her cell window, soaks in the late afternoon sunlight, as we hear, off screen --
+58) 7) dialog: Others Get Prison Terms 101. Aiken looks up from the paper and spots Catherine -- alon with his mates -- across the street. Aiken takes off. Only Catherine sees him scurrying away. While the others chatter about the impending executions, Catherine remains apart, with a look of dismay, as we cut FULL SCREEN: Of a ROCK, wrapped with the latest newspaper surrounded by shattered GLASS...
+59) 17) dialog: Boiled oysters!
+59) 19) dialog: My goodness, you remembered the spanish olives. 103.
+59) 21) dialog: I think this is what I'm going to miss most.
+59) 23) dialog: Fred.
+59) 25) dialog: Don't be. He's safe this way. These smell delicious, Anna. Let's just enjoy your oysters, shall we? Come, Frederick.
+59) 27) dialog: I forbid you.
+59) 29) dialog: If you "produce" my son, they will hang him alongside of me.
+59) 31) dialog: I'll do no such thing. Some day, John will be found. (MORE )
+59) 33) dialog: Hopefully then, vengeance will no longer rule the day. Anna can remain silent no longer.
+59) 35) dialog: Hold your tongue. She glances at Aiken.
+59) 37) dialog: You poor dear. You must put your mind at ease.
+59) 39) dialog: You are not to blame, Anna.
+59) 41) dialog: I assure you, Frederick, we will all be summoned before the judgment bar of God -- where every knee must bend and every tongue confess.
+59) 43) dialog: Shhh, my sweet. I've lived a blessed life. 'm at peace with this. One day, when you have a child, you'll understand why it must be this way. (a beat) All I ask is that you be there for your brother -- more than you've ever been. A long beat.
+59) 44) dialog: Promise me.
+59) 46) dialog: Good. Now, let's eat. Aiken turns for the door
+59) 47) dialog: Frederick. It's over. You must stop pursuing John. Is that clear? A beat.
+74) 3) dialog: Bless you, son. Mary regards Aiken as if he were her own. He's clearly mo Anna and Mary embrace. Aiken glances out the window. AIKEN'S POV: From the window down into the COURTYARD belo FOUR CHAIRS are being set up atop the HANGING PLATFORM. Aiken's face fills with panic. As he turns back from the window, SOLDIERS suddenly appea at Mary's door. Leading the way is the prison's COMMANDAN
+74) 14) dialog: I'll always be with you.
+74) 16) dialog: No mother was ever more proud, Anna. Frederick. Thank you. Aiken steadies Anna. But it's as if he's steadying himsel Suddenly, Anna pulls away from Aiken.
+74) 18) dialog: Please, God. Don't No. Mama. No.... let them hurt her. Anna screams as her mother is being led away. Mary, stric with concern, calls out.
+74) 19) dialog: I love you, darling. Anna crumbles as Aiken catches her
+74) 21) dialog: Proverbs 29:16, Frederick. Promise you won't forget.
+75) 27) text: (No dialogue, just music) Aiken races across town in a horse-drawn BUGGY, desperate reach Mary before it's too late. A GUARD unlocks a METAL DOOR as the PRISONERS -- Atzerodt Herold, Payne and Mary Surratt -- are led from their CELL Mary clenches ROSARY BEADS firmly in her RIGHT HAND. 115. The Prison Doctor tends to Anna inside Mary's cell. He pl her hand across her chest -- Mary's HAIR BRACELET now res on Anna's heart. Aiken abandons his buggy in TRAFFIC, and begins weaving h way through the crowd. He throws off his UNION JACKET as passing carriage rides over it, grinding it into the grou Inside the PRISON COURTYARD, HUNDREDS of SPECTATORS and P excitedly await the spectacle about to happen. A Soldier opens a BLACK PARASOL over Mary's head to chivalrously shield her from the broiling midday SUN. The FOUR PRISONERS are now led across the COURTYARD, forced t pass a GAUNTLET of onlookers on their way to the GALLOWS. Aiken navigates a gauntlet of his own OUTSIDE the PRISON WALLS as VENDORS gleefully hawk LEMONADE and CAKES. Mary ascends the GALLOWS where the HANGMAN now awaits. Ai ushes past the MOBS, racing inside the PRISON WALLS. Fath alter, now by Mary's side, administers FINAL RITES. The other THREE PRISONERS are readied, with WHITE HOODS covering their heads to conceal their panicked faces. The HANGMAN removes Mary's BONNET and VEIL, fastening her han behind her back, and her skirt about her knees. Aiken rushes inside the COURTYARD, past BAKER and CATHERI desperate to see Mary before it's too late. He spots Mary. She sees him too. A SMALL SMILE springs to her lips. Aiken SMILES BACK, wiping tears from his eyes. He nods one LAST TIME to her. And she to him. The HANGMAN places the HOOD and NOOSE over Mary's head, a Aiken looks away -- unable to watch any more. Aiken feels a HAND on his shoulder. It belongs to REVERDY JOHNSON, who buttresses Aiken for what's about to happen. The PRISON COMMANDANT claps THREE TIMES -- Followed by FOUR SOLDIERS, who knock away the support bea beneath the platform holding up the PRISONERS -- The HANGING PLATFORM swings down on its hinges as Mary an the others jerk downward with a terrifying...

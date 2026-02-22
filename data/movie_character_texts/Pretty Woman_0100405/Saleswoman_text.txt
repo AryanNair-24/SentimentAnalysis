@@ -1,0 +1,14 @@
+55) 0) text: Vivian is no sooner in the door than she is subject to th disapproving stare of a SALESWOMAN standing behind the co
+55) 1) dialog: (cooly) May I help you?
+55) 3) dialog: Are you looking for something in particular?
+55) 5) dialog: Yes... Vivian eyes the Saleswoman, puzzled at her tone.  She exa a dress.
+55) 7) dialog: I don't think it would fit you.
+55) 9) dialog: It's very expensive. Vivian's body tenses as she stares at the Saleswoman.
+55) 11) dialog: (unblinking) Excuse me?
+55) 13) dialog: I don't think we have anything for you here.  You're obviously in the wrong place. Vivian is speechless.  She turns and stomps toward the do She stops and spins around staring at the Saleswoman.  Vi flips her off.  She throws the door open and storms outsi The Saleswoman calmly strolls back to her counter and ret to her place.
+81) 0) text: We SEES Vivian in each department within the store with different SALESPEOPLE.  She happily and confidently tries a variety of dresses, hats, shoes, accesarries, etc. 1)  Vivian is in a dressing stall.  She tosses a dress ou to a waiting SALESWOMAN.
+83) 0) text: Vivian enters.  The moment she steps through the door, Vi courage leaves her. The saleswoman is waiting on a CUSTOMER.
+83) 1) dialog: (to the customer) Isn't this lovely?  I think it would look wonderful on you. Vivian musters her courage.  She takes a deep breath and forward.
+83) 2) dialog: (to her customer) Would you like to try it on?
+83) 4) dialog: Yes?
+83) 6) dialog: No, I'm sorry, I don't.

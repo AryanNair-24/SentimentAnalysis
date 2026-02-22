@@ -1,0 +1,31 @@
+8) 0) text: Through the bars he sees the duty officer, REEDY, typing.
+8) 1) dialog: Morning, Frank. Beachum nods.
+8) 2) dialog: Can I get you anything? Some breakfast? Beachum sags, pulls himself up, struggles to answer.
+8) 4) dialog: We'll get that right away, Frank. (CONTINUED)
+15) 0) text: Plunkitt steps into the cell. Reedy stands in front of his typewriter. Plunkitt nods and turns toward the prisoner. Beachum sits at a small table behind a wall of bars. The table is covered with several sheets of paper and a Bic pen. Beachum holds a cigarette between two of his fingers, sending a zig-zag of smoke to the ceiling. The ash has grown long. It drops to the table of its own weight. Beachum doesn't move his hand at all.
+23) 15) dialog: What can I get you, Frank? Shillerman shuts up and rises. Beachum rises, too, and meets Shilerman's eyes.
+23) 17) dialog: Reverend Shillerman... (CONTINUED)
+23) 22) dialog: Reverend, come on...
+23) 24) dialog: Jesus, Reverend, come on. Spiritual counseling's voluntary.
+23) 26) dialog: Reverend! That's enough.
+23) 30) dialog: Reverend, I mean it. We don't want no trouble here.
+23) 32) dialog: Everyone wants in on the action. right, Frank? (MORE ) (CONTINUED)
+23) 35) dialog: (beat) Frank? No longer angry, Beachum seems to have shrunk into himself. In a small voice --
+45) 0) text: Reedy's PHONE RINGS. Beachum and Bonnie fall silent. (CONTINUED)
+45) 3) dialog: (on phone) Just a moment. Frank --
+45) 5) dialog: Your lawyer again -- He moves to hand Beachum the phone. Beachum leans toward the bars and brings the phone to his ear.
+50) 6) dialog: Good news, everybody. They've found the crayon. It'll be here momentarily.
+62) 0) text: A uniformed female guard slips quietly into the cell and makes eye contact with Reedy.
+69) 0) dialog: He types in the chronological: "16:04 -- reporter arrives for interview." Then he looks up at Everett, who is looking down at him.
+69) 1) dialog: You've got fifteen minutes, Mr. Everett. By order of Warden Plunkitt. Keep it to fifteen minutes.
+69) 23) dialog: You got nine more minutes.
+75) 10) dialog: (threateningly) You got five minutes, over there.
+75) 15) dialog: Mr. Everett...
+75) 24) dialog: All right, that's it. Bonnie flings herself off the bed and rushes toward the bars.
+75) 28) dialog: Let's go. Upsetting people...
+75) 31) dialog: Come on, dammit. For a moment, everything stops. Everett stares at Bonnie and Bonnie stares back.
+75) 34) dialog: Coming in here, upsetting people. (MORE ) (CONTINUED)
+75) 37) dialog: Where's your goddamn heart, man? Don't you think these people have enough? What do you think this is?
+75) 40) text: Reedy starts to move Everett out, but Everett resists.
+76) 0) text: As Reedy pushes Everett into the corridor, Plunkitt is waiting for him. He looks quizzically at Everett and holds out his hand.
+88) 0) text: Luther Plunkitt walks quietly to Frank's cell. Reedy sits behind him and types in the chronological: "19:04 -- Warden Plunkitt enters Deathwatch cell." Plunkitt lifts one hand in a gesture of apology.

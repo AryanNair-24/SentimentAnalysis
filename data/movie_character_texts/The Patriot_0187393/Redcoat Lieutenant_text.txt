@@ -1,0 +1,11 @@
+38) 0) text: Marion and his children tend the wounded.  Gabriel, weak but walking, helps.  REDCOAT INFANTRY appears out of the woods, heading toward the house.  Three dozen men.  Scout and flank units covering the main body.  Marion gathers his family around him, stands and waits. The Redcoats get to the house, warily eye the wounded and Marion's family.  A young REDCOAT LIEUTENANT motions his men to check out the house and barn, then looks at the wounded, doing a silent count.  He turns to Marion.
+38) 1) dialog: These men are of my regiment.  Thank you. Marion nods.  ONE OF THE REDCOATS emerges from the house carrying Gabriel's dispatch case.
+38) 4) dialog: I understand. The SOUND OF HORSES HOOVES.  All turn and see:
+38) 7) dialog: Yes, sir. He hands the dispatch case to Tarleton.
+38) 8) dialog: We found this, sir. Tarleton opens it and quickly scans the contents.
+38) 15) dialog: Yes, sir.
+38) 17) dialog: And the Rebel wounded?
+38) 33) dialog: I have my orders.  Sergeant! The Redcoat infantrymen scatter, some to get horses and wagons from the barn, others to torch the buildings. MARION stands among the children, all of whom look to Marion with pleading eyes, waiting for him to do something.
+67) 0) text: The British convoy rounds the curve.  When two-thirds of the wagons have crossed the bridge, Marion FIRES, killing the Redcoat of highest rank, a CAPTAIN. BILLINGS AND DALTON heave CORKED BOTTLES which break, spreading their OILY CONTENTS on the wooden bridge. BROTHER JOSEPH fires a FLAMING ARROW, igniting the oil. The BRIDGE BURSTS INTO FLAMES, cutting off the tail of th convoy, stranding a dozen wagons and the herd of horses o Marion's side of the river. A REDCOAT LIEUTENANT takes command.
+67) 1) dialog: Across the river!  Covering fire! Double rank! Marion calls to his men.
+111) 0) text: A British packet, a small, fast warship, lies anchored just offshore.  A rowboat, manned by half-a-dozen sailors carrying a Redcoat Lieutenant, beaches.  Several Redcoats wait. The Lieutenant, carrying a dispatch case, jumps out off the boat, mounts a waiting horse and rides off.

@@ -1,0 +1,17 @@
+78) 9) text: BOBADILLA bows.
+78) 10) dialog: I understand that you will soon be appointing Governors for the islands?  Is it not so?
+78) 12) dialog: (disappointed) May I ask by whom?
+78) 14) text: SANCHEZ looks at him in surprise.  BOBADILLA reddens.
+78) 15) dialog: I trust they are men of quality.
+78) 16) text: BOBADILLA glances at SANCHEZ.
+78) 20) text: A grin disfigures the face of BOBADILLA.
+78) 21) dialog: (to Sanchez) I see I was mistaken.  Don Colon has no need for my services...
+128) 0) text: One of the MEN in black clothes removes his hat and steps forward.  We recognize him as ALONSO DE BOBADILLA, the ma COLUMBUS humiliated at the rotunda. COLUMBUS is sitting at his desk, studying plans with GIACOMO.  Some other MEMBERS of the COUNCIL are with them
+128) 1) dialog: Don Alonso de Bobadilla.
+128) 3) text: BOBADILLA turns, gestures to one of the other MEN, who comes forward and gives him a roll of parchment, bearing the royal seal.
+128) 4) dialog: My letters of appointment.
+128) 6) dialog: Viceroy of the West Indies.
+128) 8) text: BOBADILLA smiles wickedly, happy to give COLUMBUS a low blow.
+128) 9) dialog: Didn't you learn?  The mainland was discovered.  Weeks ago.  By another Italian.  I forgot his name.
+128) 13) dialog: I am not a seaman.  But I heard it is no more than a week at sea.  I hope you are not too disappointed.
+128) 15) dialog: I am afraid this is not the worst news.

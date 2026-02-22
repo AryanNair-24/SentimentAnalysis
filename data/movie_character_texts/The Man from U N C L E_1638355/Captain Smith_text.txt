@@ -1,0 +1,11 @@
+75) 0) text: The plane lands. Waverly exits, followed by Solo and Kuryakin. They are greeted by the CAPTAIN, who is surprisingly short in stature.
+75) 1) dialog: Good day gentlemen. I hope you understand that this is my vessel and we won’t have any issues over who is in command?
+75) 3) dialog: Very well, follow me. Waverly turns to the two agents and says under his breath
+77) 0) text: The Captain leads Waverly, Solo, and Kuryakin inside. There's a big map on the wall of Skorpios Island and the surrounding coastline. Seated, facing it, are a dozen Special Boat Service (SBS) TROOPS. These are the British equivalent of Navy Seals. T all stand to attention.
+77) 1) dialog: This is Major Jockelson and his team. They're my finest men. They will be supporting your efforts. A tough looking young man, MAJOR JOCKELSON, with a scar d his left cheek, steps forward to shake their hands. Waverly moves in front of the map. 92.
+103) 4) dialog: We don’t know the name, let alone the location of the boat that we’re looking for. It will be impossible for us to find and search more than twenty boats in the next few hours. I simply don’t have the manpower. Solo looks up, he shuts his eyes in thought. FLASHBACK TO: The photograph he saw in Alexander's office Achilles Skorpios with his kids standing in front his fis boat. But the name is obscured. Only the middle two lette “ON” are visible. Solo thinks harder. FLASHBACK TO: A second, older picture (in gym) of Achille Skorpios as a young man standing in front of the boat. Th time only the last two letters “AS” are visible. FLASHBACK TO: Elena’s face as she says:
+104) 2) dialog: What has that got to do with anything? 105.
+104) 6) dialog: I am afraid that’s not enough agent Solo. Waverly, I need the radio, every minute my man spends on this theory is a minute wasted in co- ordinating the broader search.
+104) 8) dialog: One minute.
+105) 0) text: We see a Greek FISHING CAPTAIN looking surprised.
+106) 2) dialog: Your minute is up agent. I am taking control of my radio. The Russian is standing behind the diminutive captain.

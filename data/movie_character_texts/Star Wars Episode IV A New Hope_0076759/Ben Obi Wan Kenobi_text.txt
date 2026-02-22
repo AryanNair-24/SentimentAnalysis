@@ -1,0 +1,136 @@
+29) 2) text: Artoo beeps a muffled reply. Luke seems to be lost in tho as he runs his hand over the damaged fin of a small two-m Skyhopper spaceship resting in a low hangar off the garag Finally Luke's frustrations get the better of him and he  slams a wrench across the workbench.
+29) 62) text: Luke tosses Artoo's restraining bolt on the workbench and hurries out of the room.
+42) 0) text: Artoo forces himself into the shadows of a small alcove i the rocks as the vicious Sandpeople walk past carrying th inert Luke Skywalker, who is dropped in a heap before the speeder.  The Sandpeople ransack the speeder, throwing pa and supplies in all directions. Suddenly they stop. Then  everything is quiet for a few moments. A great howling mo is heard echoing throughout the canyon which sends the  Sandpeople fleeing in terror. Artoo moves even tighter into the shadows as the slight  swishing sound that frightened off the Sandpeople grows e closer, until a shabby old desert-rat-of-a-man appears an leans over Luke. His ancient leathery face, cracked and  weathered by exotic climates is set off by dark, penetrat eyes and a scraggly white beard. Ben Kenobi squints his e as he scrutinizes the unconscious farm boy. Artoo makes a slight sound and Ben turns and looks right at him.
+42) 1) dialog: Hello there! Come here my little  friend. Don't be afraid.
+42) 2) text: Artoo waddles over to were Luke lies crumpled in a heap a begins to whistle and beep his concern. Ben puts his hand Luke's forehead and he begins to come around.
+42) 3) dialog: Don't worry, he'll be all right.
+42) 5) dialog: Rest easy, son, you've had a busy  day. You're fortunate you're still  in one piece.
+42) 7) dialog: The Jundland wastes are not to be  traveled lightly. Tell me young Luke,  what brings you out this far?
+42) 9) text: Ben ponders this for a moment, scratching his scruffy bea
+42) 10) dialog: Obi-Wan Kenobi... Obi-Wan? Now thats  a name I haven't heard in a long  time... a long time.
+42) 12) dialog: Oh, he's not dead, not... not yet.
+42) 14) dialog: Well of course, of course I know  him. He's me! I haven't gone by the  name Obi-Wan since oh, before you  were born.
+42) 16) dialog: Don't seem to remember ever owning a  droid. Very interesting...
+42) 18) dialog: I think we better get indoors. The  Sandpeople are easily startled but  they will soon be back and in greater  numbers.
+43) 0) text: Little Artoo stands at the edge of a large sand pit and b to chatter away in electronic whistles and beeps. Luke an Ben stand over a very dented and tangled Threepio lying h buried in the sand. One of his arms has broken off. Luke tries to revive the inert robot by shaking him and t flips a hidden switch on his back several times until fin the mechanical man's systems turn on.
+43) 6) text: Luke and Ben help the battered robot to his feet. Little  Artoo watches from the top of the pit. Ben glances around suspiciously. Sensing something, he stands up and sniffs air.
+43) 7) dialog: Quickly, son... they're on the move.
+44) 0) text: The small, spartan hovel is cluttered with desert junk bu still manages to radiate an air of time-worn comfort and  security. Luke is in one corner repairing Threepio's arm, old Ben sits thinking.
+44) 2) dialog: That's what your uncle told you. He  didn't hold with your father's ideals.  Thought he should have stayed here  and not gotten involved.
+44) 4) dialog: Yes, I was once a Jedi Knight the  same as your father.
+44) 6) dialog: He was the best star-pilot in the  galaxy, and a cunning warrior. I  understand you've become quite a  good pilot yourself. And he was a  good friend. Which reminds me...
+44) 7) text: Ben gets up and goes to a chest where he rummages around. As Luke finishes repairing Threepio and starts to fit the restraining bolt back on, Threepio looks at him nervously Luke thinks about the bolt for a moment then puts it on t table. Ben shuffles up and presents Luke with a short han with several electronic gadgets attached to it.
+44) 8) dialog: I have something here for you. Your  father wanted you to have this when  you were old enough, but your uncle  wouldn't allow it. He feared you  might follow old Obi-Wan on some  damned-fool idealistic crusade like  your father did.
+44) 11) text: Ben hands Luke the saber.
+44) 13) dialog: Your fathers lightsaber. This is the  weapon of a Jedi Knight. Not as clumsy  or as random as a blaster.
+44) 15) dialog: An elegant weapon for a more civilized  time. For over a thousand generations  the Jedi Knights were the guardians  of peace and justice in the Old  Republic. Before the dark times,  before the Empire.
+44) 18) dialog: A young Jedi named Darth Vader, who  was a pupil of mine until he turned  to evil, helped the Empire hunt down  and destroy the Jedi Knights. He  betrayed and murdered your father.  Now the Jedi are all but extinct.  Vader was seduced by the dark side  of the Force.
+44) 20) dialog: Well, the Force is what gives a Jedi  his power. It's an energy field  created by all living things. It  surrounds us and penetrates us. It  binds the galaxy together.
+44) 22) dialog: Now, let's see if we can't figure  out what you are, my little friend.  And where you come from.
+44) 25) dialog: I seem to have found it.
+44) 28) text: There is a little static and the transmission is cut shor Old Ben leans back and scratches his head. He silently pu on a tarnished chrome water pipe. Luke has stars in his e
+44) 29) dialog: You must learn the ways of the Force  if you're to come with me to Alderaan.
+44) 31) dialog: I need your help, Luke. She needs  your help. I'm getting too old for  this sort of thing.
+44) 33) dialog: That's your uncle talking.
+44) 35) dialog: Learn about the Force, Luke.
+44) 37) dialog: You must do what you feel is right,  of course.
+47) 0) text: The speeder stops before what remains of the huge Jawas  Sandcrawler. Luke and Ben walk among the smoldering rubbl and scattered bodies.
+47) 2) text: Ben is crouching in the sand studying the tracks.
+47) 3) dialog: They didn't. But we are meant to  think they did. These tracks are  side by side. Sandpeople always ride  single file to hide there numbers.
+47) 5) dialog: And these blast points, too accurate  for Sandpeople. Only Imperial  stormtroopers are so precise.
+47) 10) dialog: Wait, Luke! It's too dangerous.
+47) 11) text: Luke races off leaving Ben and the two robots alone with burning Sandcrawler.
+52) 0) text: There is a large bonfire of Jawa bodies blazing in front the Sandcrawler as Ben and the robots finish burning the  dead.  Luke drives up in the speeder and Ben walks over t him.
+52) 1) dialog: There's nothing you could have done,  Luke, had you been there. You'd have  been killed, too, and the droids  would be in the hands of the Empire.
+53) 0) text: The Landspeeder with Luke, Artoo, Threepio, and Ben in it zooms across the desert. The speeder stops on a bluff  overlooking the spaceport at Mos Eisley. It is a haphazar array of low, grey, concrete structures and semi-domes. A harsh gale blows across the stark canyon floor. Luke adju his goggles and walks to the edge of the craggy bluff whe Ben is standing.
+53) 1) dialog: Mos Eisley Spaceport. You will never  find a more wretched hive of scum  and villainy. We must be cautious.
+53) 2) text: Ben looks over at Luke, who gives the old Jedi a determin smile.
+54) 3) dialog: They're for sale if you want them.
+54) 5) text: Luke becomes very nervous as he fumbles to find his ID wh Ben speaks to the Trooper in a very controlled voice.
+54) 6) dialog: You don't need to see his  identification.
+54) 8) dialog: These are not the droids your looking  for.
+54) 10) dialog: He can go about his business.
+54) 12) dialog: (to Luke) Move along.
+55) 4) dialog: The Force can have a strong influence  on the weak-minded. You will find it  a powerful ally.
+55) 6) dialog: Well, most of the best freighter  pilots can be found here. Only watch  your step. This place can be a little  rough.
+56) 0) text: The young adventurer and his two mechanical servants foll Ben Kenobi into the smoke-filled cantina. The murky, mold den is filled with a startling array of weird and exotic  alien creatures and monsters at the long metallic bar. At first the sight is horrifying. One-eyed, thousand-eyed, s furry, scaly, tentacled, and clawed creatures huddle over drinks. Ben moves to an empty spot at the bar near a grou of repulsive but human scum. A huge, rough-looking Barten stops Luke and the robots.
+56) 5) text: Luke looks at old Ben, who is busy talking to one of the  Galactic pirates. He notices several of the gruesome crea along the bar are giving him a very unfriendly glare. Luke pats Threepio on the shoulder.
+56) 8) text: Threepio and his stubby partner go outside and most of th creatures at the bar go back to their drinks. Ben is standing next to Chewbacca, an eight-foot-tall sav looking creature resembling a huge grey bushbaby monkey w fierce baboon-like fangs. His large blue eyes dominate a covered face and soften his otherwise awesome appearance. Over his matted, furry body he wears two chrome bandolier and little else. He is a two-hundred-year-old Wookiee and sight to behold. Ben speaks to the Wookiee, pointing to Luke several times during his conversation and the huge creature suddenly le out a horrifying laugh. Luke is more than a little bit  disconcerted and pretends not to hear the conversation be Ben and the giant Wookiee. Luke is terrified but tries not to show it. He quietly si his drink, looking over the crowd for a more sympathetic or whatever. A large, multiple-eyed Creature gives Luke a rough shove.
+56) 18) text: The rodent lets out a loud grunt and everything at the ba moves away. Luke tries to remain cool but it isn't easy. three adversaries ready their weapons. Old Ben moves in b Luke.
+56) 19) dialog: This little one isn't worth the  effort. Come let me buy you  something...
+56) 22) text: With astounding agility old Ben's laser sword sparks to l and in a flash an arm lies on the floor. The rodent is cu in two and the giant multiple-eyed creature lies doubled, cut from chin to groin. Ben carefully and precisely turns off his laser sword and replaces it on his utility belt.  Luke, shaking and totally amazed at the old man's abiliti attempts to stand. The entire fight has lasted only a mat of seconds. The cantina goes back to normal, although Ben given a respectable amount of room at the bar. Luke, rubb his bruised head, approaches the old man with new awe. Be points the the Wookiee.
+56) 23) dialog: This is Chewbacca. He's first-mate  on a ship that might suit our needs.
+58) 0) text: Strange creatures play exotic big band music on odd-looki instruments as Luke, still giddy, downs a fresh drink and follows Ben and Chewbacca to a booth where Han Solo is  sitting. Han is a tough, roguish starpilot about thirty y old. A mercenary on a starship, he is simple, sentimental and cocksure.
+58) 2) dialog: Yes, indeed. If it's a fast ship.
+58) 4) dialog: Should I have?
+58) 6) text: Ben reacts to Solo's stupid attempt to impress them with  obvious misinformation.
+58) 8) dialog: Only passengers. Myself, the boy,  two droids, and no questions asked.
+58) 10) dialog: Let's just say we'd like to avoid  any Imperial entanglements.
+58) 15) dialog: We haven't that much with us. But we  could pay you two thousand now, plus  fifteen when we reach Alderaan.
+58) 19) dialog: Ninety-four.
+58) 21) text: Ben and Luke turn around to see four Imperial stormtroope looking at the dead bodies and asking the bartenders some questions. The bartender points to the booth.
+58) 23) text: The stormtroopers look over at the booth but Luke and Ben are gone. The bartender shrugs his shoulders in puzzlemen
+59) 1) dialog: You'll have to sell your speeder.
+60) 15) text: Suddenly the slimy alien disappears in a blinding flash o light. Han pulls his smoking gun from beneath the table a the other patron look on in bemused amazement. Han gets u and starts out of the cantina, flipping the bartender som coins as he leaves.
+64) 3) dialog: It will be enough.
+64) 4) text: Ben and Luke leave the speeder lot and walk down the dust alleyway past a small robot herding a bunch of anteater-l creatures. Luke turns and gives one last forlorn look at faithful speeder as he rounds a corner. A darkly clad cre moves out of the shadows as they pass and watches them as they disappear down another alley.
+64) 5) dialog: If the ship's as fast as he's  boasting, we ought to do well.
+66) 0) text: Chewbacca waits restlessly at the entrance to Docking Bay 94.  Ben, Luke, and the robots make their way up the stre Chewbacca jabbers excitedly and signals for them to hurry The darkly clad creature has followed them from the speed lot.  He stops in a nearby doorway and speaks into a smal transmitter.
+69) 0) text: Luke, Ben, Threepio, and Artoo move toward the Millennium Falcon passing Solo.
+78) 0) text: Over the shoulders of Chewbacca and Han, we can see the g spread before them. Luke and Ben make their way into the  cramped cockpit where Han continues his calculation.
+80) 2) dialog: How long before you can make the  jump to light speed?
+85) 0) text: Ben watches Luke practice the lightsaber with a small "se robot. Ben suddenly turns away and sits down. He falters, seems almost faint.
+85) 2) dialog: I felt a great disturbance in the  Force... as if millions of voices  suddenly cried out in terror and  were suddenly silenced. I fear  something terrible has happened.
+85) 3) text: Ben rubs his forehead. He seems to drift into a trance. T he fixes his gaze on Luke.
+85) 4) dialog: You'd better get on with your  exercises.
+85) 19) text: Luke stands in the middle of the small hold area; he seem frozen in place. A humming lightsaber is held high over h head. Ben watches him from the corner, studying his movem Han watches with a bit of smugness.
+85) 20) dialog: Remember, a Jedi can feel the Force  flowing through him.
+85) 22) dialog: Partially. But it also obeys your  commands.
+85) 27) text: Ben smiles quietly.
+85) 29) dialog: I suggest you try it again, Luke.
+85) 30) text: Ben places a large helmet on Luke's head which covers his eyes.
+85) 31) dialog: This time, let go your conscious  self and act on instinct.
+85) 33) dialog: Your eyes can deceive you. Don't  trust them.
+85) 34) text: Han skeptically shakes his head as Ben throws the seeker  into the air. The ball shoots straight up in the air, the drops like a rock. Luke swings the lightsaber around blin missing the seeker, which fires off a laserbolt which hit Luke square on the seat of the pants. He lets out a painf yell and attempts to hit the seeker.
+85) 35) dialog: Stretch out with your feelings.
+85) 37) dialog: You see, you can do it.
+85) 39) dialog: In my experience, there's no such  thing as luck.
+85) 45) dialog: That's good. You have taken your  first step into a larger world.
+88) 10) text: Ben moves into the cockpit behind Luke as the ship begins settle down.
+88) 11) dialog: Destroyed... by the Empire!
+88) 16) dialog: It's an Imperial fighter.
+88) 19) dialog: No. It's a short range fighter.
+90) 3) dialog: It'd be as well to let it go. It's  too far out of range.
+92) 1) dialog: A fighter that size couldn't get  this deep into space on its own.
+94) 4) dialog: That's no moon! It's a space station.
+94) 13) text: Ben Kenobi puts a hand on his shoulder.
+94) 14) dialog: You can't win. But there are  alternatives to fighting.
+102) 0) text: A trooper runs through the hallway heading for the exit. a few moments all is quiet. The muffled sounds of a dista officer giving orders finally fade. Two floor panels sudd pop up revealing Han Solo and Luke. Ben Kenobi sticks his head out of a third locker.
+102) 3) dialog: Leave that to me!
+102) 5) dialog: Who's the more foolish... the fool  or the fool who follows him?
+104) 4) text: As the officer approaches the door, it slides open reveal the towering Chewbacca. The gantry officer, in a momentar state of shock, stumbles backward. With a bone- chilling  howl, the giant Wookiee flattens the officer with one blo The aide immediately reaches for his pistol, but is blast by Han, dressed as an Imperial stormtrooper. Ben and the  robots enter the room quickly followed by Luke, also dres as a stormtrooper. Luke quickly removes his helmet.
+104) 8) text: Ben feeds some information into the computer and a map of the city appears on the monitor. He begins to inspect it  carefully. Threepio and Artoo look over the control panel Artoo finds something that makes him whistle wildly.
+104) 9) dialog: Plug in. He should be able to  interpret the entire Imperial computer  network.
+104) 14) text: Ben studies the data on the monitor readout.
+104) 15) dialog: I don't think you boys can help. I  must go alone.
+104) 18) dialog: Be patient, Luke. Stay and watch  over the droids.
+104) 20) dialog: They must be delivered safely or  other star systems will suffer the  same fate as Alderaan. Your destiny  lies along a different path than  mine. The Force will be with you...  always!
+104) 21) text: Ben adjusts the lightsaber on his belt and silently steps out of the command office, then disappears down a long gr hallway. Chewbacca barks a comment and Han shakes his hea in agreement.
+106) 0) text: Several Imperial officers walk through the wide main  passageway. They pass several stormtroopers and a robot  similar to Threepio but with an insect face. At the far e of the hallway, a passing flash of Ben Kenobi appears, th disappears down a small hallway. His appearance is so fle that it is hard to tell if he is real or just an illusion No one in the hallway seems to notice him.
+114) 35) text: They place poles and long metal beams between the closing walls, but they are simply snapped and bent as the giant  trashmasher rumbles on. The situation doesn't look too go
+128) 0) text: Ben enters a humming service trench that powers the huge  tractor beam. The trench seems to be a hundred miles deep The clacking sound of huge switching devices can be heard The old Jedi edges his his way along a narrow ledge leadi to a control panel that connects two large cables. He  carefully makes several adjustments in the computer termi and several lights on the board go from red to blue.
+130) 0) text: Suddenly a door behind Ben slides open and a detachment o stormtroopers marches to the power trench. Ben instantly  slips into the shadows as an Officer moves to within a fe feet of him.
+130) 6) text: Ben moves around the tractor beam, watching the stormtroo as they turn their backs to him. Ben gestures with his ha toward them, as the troops think they hear something in t other hallway. With the help of the Force, Ben deftly sli past the troopers and into the main hallway.
+136) 0) text: Ben hides in the shadows of the narrow passageway as seve stormtroopers rush past him in the main hallway. He check to make sure they're gone, then runs down the hallway in opposite direction. Darth Vader appears at the far end of the hallway and starts after the old Jedi.
+139) 0) text: Ben hurries along one of the tunnels leading to the hanga where the pirateship waits. Just before he reaches the ha Darth Vader steps into view at the end of the tunnel, not ten feet away. Vader lights his saber. Ben also ignites h and steps slowly forward.
+139) 2) text: Ben Kenobi moves with elegant ease into a classical offen position. The fearsome Dark Knight takes a defensive stan
+139) 4) dialog: Only a master of evil, Darth.
+139) 5) text: The two Galactic warriors stand perfectly still for a few moments, sizing each other up and waiting for the right  moment. Ben seems to be under increasing pressure and str as if an invisible weight were being placed upon him. He  shakes his head and, blinking, tries to clear his eyes. Ben makes a sudden lunge at the huge warrior but is check by a lightning movement of The Sith. A masterful slash st by Vader is blocked by the old Jedi. Another of the Jedi' blows is blocked, then countered. Ben moves around the Da Lord and starts backing into the massive starship hangar. The two powerful warriors stand motionless for a few mome with laser swords locked in mid-air, creating a low buzzi sound.
+139) 7) dialog: You can't win, Darth. If you strike  me down, I shall become more powerful  than you can possibly imagine.
+141) 0) text: Vader and Ben Kenobi continue their powerful duel. As the hit their lightsabers together, lightning flashes on impa Troopers look on in interest as the old Jedi and Dark Lor of The Sith fight. Suddenly Luke spots the battle from hi group's vantage point.
+141) 2) text: Luke, Leia, Han, and Chewie look up and see Ben and Vader emerging from the hallways on the far side of the docking bay.
+142) 2) text: Threepio ducks out of sight as the seven stormtroopers wh were guarding the starship rush past them heading towards Ben and The Sith Knight. He pulls on Artoo.
+143) 2) text: They start for the Millennium Falcon. Ben sees the troops charging toward him and realizes that he is trapped. Vade takes advantage of Ben's momentary distraction and brings his mighty lightsaber down on the old man. Ben manages to deflect the blow and swiftly turns around. The old Jedi Knight looks over his shoulder at Luke, lift his sword from Vader's then watches his opponent with a s look on his face. Vader brings his sword down, cutting old Ben in half. Ben cloak falls to the floor in two parts, but Ben is not in Vader is puzzled at Ben's disappearance and pokes at the  empty cloak. As the guards are distracted, the adventurer and the robots reach the starship. Luke sees Ben cut in t and starts for him. Aghast, he yells out.
+432) 2) text: A grim determination sweeps across Luke's face as he clos his eyes and starts to mumble Ben's training to himself.
+436) 0) text: Luke looks to the targeting device, then away as he hears Ben's voice.
+461) 0) text: Vader's ship spins out of control with a bent solar fin,  heading for deep space.

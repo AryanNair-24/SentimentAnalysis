@@ -1,0 +1,338 @@
+1) 20) dialog: She's going to smoke a cigarette.
+8) 0) text: A tiny apartment with a bed, chair, table, fridge, and no much else. One window has a broken pane and an old sheet  neatly thumbtacked over it to keep the wind out. TERRY PRESCOTT comes in. He is twenty-five years old: a r mess with a certain natural appeal. He wears old jeans, v old hiking boots, and a lumberjack-style coat. He takes a wool hat off his head. His hair is longish and dirty. SHEILA SADLER is sitting at the table by the fridge. She barely eighteen, frail and damaged.
+8) 2) dialog: Hey.
+8) 3) text: Terry looks at her and smiles encouragingly. She smiles b
+8) 5) dialog: Oh, I got it on the street for a  dollar.
+8) 7) dialog: Well, you know, it's pretty much  your standard woolen hat.
+8) 10) dialog: Can I get that money from you?
+8) 12) text: As she opens her purse, Terry takes a few vague steps tow her. She takes out a tiny hippie-ish woven wallet and giv Terry all the money in it: a twenty and two ones.
+8) 13) dialog: Is that all you have?
+8) 15) dialog: Can you borrow some cash from your  brother?
+8) 17) dialog: Well, I'm definitely gonna be gone  for a couple of days at least, Sheila.
+8) 19) dialog: Because my sister is not a bank, you  know? I can't just show up and ask  her for --
+8) 21) dialog: Oh Sheila can we just cut out the  puerile crap?! I'll be back just as  soon as I can. OK? I am not the kind  of man that everyone says I am.
+8) 23) dialog: I'll call you tonight.
+8) 26) dialog: I love you.
+8) 28) dialog: Well... I think after this is over  you should seriously consider moving  back home.
+8) 30) dialog: (Gives up) All right...
+8) 32) dialog: Definitely.
+10) 0) text: Terry is seated on the toilet seat in the cramped bathroo smoking a joint. He takes a huge hit and holds it in for long as humanly possible. He blows out what's left, takes another equally huge hit and holds it in.
+11) 0) text: Terry looks out the window at the passing scenery. The  sunlight flickers on his face. POV TERRY: The bus rolls past the hilltop cemetery. Terry shifts uncomfortably in his seat. POV TERRY: THE "WELCOME TO SCOTTSVILLE" SIGN whizzes by.  Houses start dotting the side of the road. Terry starts getting very agitated.
+12) 6) dialog: Sorry.
+12) 7) text: The Sheriff recognizes Terry and breaks into a big smile.
+12) 9) text: The Sheriff gives Terry a big bear hug. Terry is wasted a selfconscious but smiling. He pats the Sheriff's back.
+12) 10) dialog: How you doin', Darryl?
+12) 12) dialog: I'm just goin' to see Sammy at  Dawson's...
+12) 14) dialog: Sure, yeah --
+12) 16) dialog: Yeah, I was workin' out there for a  little while...
+12) 19) dialog: Yeah, I've been all over the place...
+12) 22) dialog: Thanks, Darryl. Keep enforcing the  peace.
+12) 24) dialog: No, man, I'm reformed.
+12) 26) dialog: Thanks, Darryl.
+12) 27) text: Darryl walks away. Terry stands outside the restaurant lo for Sammy. Behind him in the restaurant Sammy is sitting at a table, talking to the waitress. She sees Terry and gets up immediately, smiling like craz as she threads her way through the tables toward the door Terry turns and sees her. He breaks into a big smile, tos his cigarette and goes into the restaurant. Through the w we see them make their way toward each other. Sammy throws her arms around him. He hugs her back with a big involuntary smile as the GLASS DOOR slowly CLOSES.
+13) 0) text: Terry is studying the menu, over-intently. Sammy is beami at him.
+13) 1) dialog: Sorry about yesterday --
+13) 3) dialog: I was studying the bus description...  and I just... I got on the wrong bus --  I mean I missed my stop --
+13) 5) dialog: I'm glad to see you too, Sammy. Um...  are you coming from work?
+13) 7) dialog: Yeah, no, it's just... you're dressed  so formally...
+13) 9) dialog: No, it's good. I thought I'd dress  up too.
+13) 12) dialog: (A strange,  unsuccessful joke) Yeah, this is the haute cuisine of  garments.
+13) 14) dialog: Nothing, nothing... Um... So how are  you?
+13) 16) dialog: How's Rudy?
+13) 18) dialog: Yeah...
+13) 20) dialog: -- I know, I haven't been --
+13) 22) dialog: Yeah, I was up there for a while...
+13) 24) dialog: Yeah, I know I've been out of touch...
+13) 26) dialog: Oh, I been a lotta different places...  Um... I went down to Florida for a  while... I was doing some work in  Orlando... I've been all over the  place.
+13) 28) dialog: Yeah. I didn't realize it'd been so  long...
+13) 31) dialog: Well, I don't know... I got all these  things I gotta do back in Worcester...
+13) 33) dialog: ...Yeah, so I'm probably not gonna  be able to stay more than a day or  so...
+13) 35) dialog: ...I'm kind of trying to keep to a  schedule of sorts. It's a long and  worthy story but I won't trouble you  with it right now.
+13) 38) dialog: Who would I be expecting here?
+13) 40) dialog: No, I was just wondering if we could  get some more refreshments, actually.
+13) 42) dialog: I've actually got to confess to you,  Sammy... that the reason you may not  have heard from me for a little while  is that I've been kind of unable to  write... on account of the fact that  I was in jail for a little while.
+13) 44) text: A couple of people in the restaurant look at them. Terry  notices but Sammy does not.
+13) 45) dialog: Well, I did a little time, I guess,  in Florida. For, uh, just for  bullshit...
+13) 47) dialog: It was just bullshit...
+13) 49) dialog: I didn't do anything. Does it occur  to you that maybe I was wronged?
+13) 51) dialog: Well, could I please --
+13) 53) dialog: Would you please let me --
+13) 55) dialog: I got into a fight in a bar down in  Florida. Which I was not the one who  instigated it, at all. But they worked  up all this bullshit against me and  they threw me in the pen for three  months. I didn't write you because I  didn't want you to get all upset  about it. I just figured you'd figure  I was on the road for a little while.  I know it was stupid and I'm sorry.  I really didn't mean to make you  worry. But you know what? I can't  run around all the time doin' stuff  or not doin' stuff because it's gonna  make you worry! Because then I come  back here, and I tell you about my  fuckin'... traumas, and I get this  wounded little "I've Let You Down"  bullshit, over and over again, and  it really just -- cramps me! Like I  just want to get out from under it!...  And here I am back in this fuckin'  hole explaining myself to you again!
+13) 57) dialog: I mean, I realize I'm in no position  to, uh, basically say anything, ever --  But it's not like I'm down there in  some redneck bar in Florida having  an argument with some stripper's  boyfriend and I suddenly think, "Hey!  Maybe this'd be a good time to really  stick it to Sammy and get myself  locked up for a few months."
+13) 59) dialog: Me too, man. I mean "welcome home."
+13) 61) dialog: I'm sorry --
+13) 63) dialog: I'm sorry --
+13) 65) dialog: I'm sorry, I'm sorry, I'm sorry,  Sammy, I'm really sorry...!
+13) 67) dialog: Sammy...
+13) 69) dialog: Um... I'm in the midst of a slight  predicament...
+13) 71) dialog: Um... Yeah... I'm broke. I gotta get  back to Worcester tomorrow. I got  this girl there, and she's kind of  in a bad situation...? I just need  to borrow some money. Whatever you  can spare. (Pause) I'll pay you back... I'll pay you  back, man.
+13) 73) dialog: So do I, man.
+13) 75) dialog: I know how they feel, man.
+13) 78) dialog: Sure.
+13) 80) dialog: Come on, Sammy, can we not talk about  that shit?
+13) 82) dialog: Um -- No, Sammy. I don't.
+13) 84) dialog: Um, yeah. Because I think it's  ridiculous.
+13) 86) dialog: Because I think it's primitive, OK?  I think it's a fairy tale.
+13) 88) dialog: No.
+13) 90) dialog: Well, uh, I'm not really looking for  anything, man. I'm just, like, trying  to get on with it.
+13) 93) text: She sets them down on the table. SAMMY and TERRY Thank you. The WAITRESS leaves. Silence. Terry picks at his salad. S doesn't touch hers. She watches him miserably.
+14) 0) text: Terry watches while Sammy inserts her card in the ATM and punches in her code. Terry waits. She punches in $300. Th machine grinds out her cash. She gives him the money.
+14) 1) dialog: Thank you, Sammy... I'm really gonna  pay this back.
+14) 4) dialog: Where we going?
+14) 7) dialog: Well... do you not even want me to  visit now? 'Cause I can catch the  bus at five o'clock if that's what  you want.
+14) 9) text: She stops. Terry is now totally contrite.
+14) 12) dialog: (Into phone) Hi, is that Malcolm?... Hi, this is  Terry Prescott?... I been trying to  get ahold of Sheila and there's no  answer, and I was just wondering if  she -- She what?...
+14) 14) dialog: (Into phone) When?... Well -- Is she all right?...  Well, could I talk to her?... Well,  could you give her a message that I --
+14) 16) dialog: That girl I'm with tried to kill  herself.
+14) 18) dialog: She tried to kill herself.
+14) 21) dialog: I think so.
+14) 24) dialog: I don't know. Send the money I guess.
+14) 26) dialog: Yeah, maybe that'd be a good idea.
+15) 0) text: Terry is lying on the sofa, smoking, with his feet up and boots on, watching Sunday morning TV. On the coffee table are his dirty ashtray, dirty bowl and spoon, Rice Krispie box and a milk carton.
+15) 4) dialog: Yeah. Thanks.
+15) 6) dialog: Good night.
+15) 9) text: Terry tries to smile at her.
+15) 10) dialog: Yeah, me too, Sammy.
+15) 14) dialog: OK.
+15) 16) text: Terry glances at Rudy, then back at Sammy.
+15) 17) dialog: OK.
+18) 0) text: The CLOCK on the front of the TOWN HALL reads 3:31. The SCHOOL BUS pulls up across from the town hall and  disgorges a handful of kids. Rudy comes out with his knap looking around... POV RUDY: Terry, across the street, sits on the hood of  Sammy's car, smoking. Rudy walks over to him.
+18) 2) dialog: Looks that way.
+19) 0) text: Terry and Rudy drive in silence. Terry glances at Rudy.
+19) 1) dialog: Put on your seat belt.
+19) 3) dialog: What?
+19) 5) dialog: Well, when somebody slams into us  and you go sailin' through the  windshield, that's liable to be  uncomfortable too. So put on your  seat belt.
+19) 8) dialog: I know. They're my parents too.
+19) 10) dialog: Well, yeah. Your mom is my sister.
+19) 12) dialog: So that means we have the same  parents.
+19) 14) text: They drive in silence for a moment. Terry glances down at Rudy.
+20) 7) dialog: Hey. Look.
+20) 9) dialog: You hold it further down, you're  gonna get a lot more power. You should  be able to put that nail down with  two or three hits. Look:
+20) 11) dialog: Try it.
+20) 13) dialog: Well, the way you hold it is wrong.
+20) 15) text: Terry looks at him unsympathetically for a moment.
+20) 16) dialog: (Shrugs) You can.
+20) 17) text: He goes back to work. Rudy resumes hammering. After a mom he switches his grip and starts hammering Terry's way. Te looks up and watches him.
+20) 35) dialog: That is depressing.
+20) 37) dialog: He just never struck me as the  marrying type, that's all.
+20) 39) dialog: Wild kids we used to know.
+20) 41) dialog: Not compared to your Mom.
+20) 43) dialog: You don't believe me?
+20) 45) dialog: Ask her.
+20) 48) text: Rudy is amazed. Terry looks at him like, "Told you so."
+20) 54) text: Terry looks up. Rudy is half-sitting up in bed.
+20) 55) dialog: Oh -- Just readin' some of your  compositions.
+20) 57) dialog: Um... Because it's bad. Don't ever  do it.
+20) 59) dialog: You know this used to be my room?
+20) 61) dialog: No.
+20) 62) text: Rudy is very relieved. Terry keeps reading. Rudy watches  him.
+20) 64) dialog: No. I wasn't even born yet.
+20) 66) dialog: No.
+20) 68) dialog: I know. Unfortunately he didn't fight  in Vietnam either.
+20) 70) dialog: Not really. We had some friends in  common, I guess... I didn't like him  very much.
+20) 72) dialog: Well, he wasn't very likable.
+20) 74) dialog: I don't know. He was always -- He  always had to be better than you at  everything. You know. Like if you  were all playing basketball or  something, everybody's havin' like a  friendly game and he's like ready to  kill somebody if his team didn't  win. Or like if you told like a joke  or a story, he always had to tell a  better one? Kinda gets annoying after  a while. Plus it was pretty scummy  how he split on your mom and you...  He was a prick. Probably still a  prick. Fortunately for you though,  your mom is like, the greatest. So  you had some bad luck and you had  some good luck. (Pause) You mind if I ask you a personal  question?
+20) 76) dialog: Do you like it here? I mean, in  Scottsville?
+20) 78) dialog: Why?
+20) 80) dialog: I know, I know, but it's so... There's  nothing to do here.
+20) 82) dialog: No there isn't, man! It's narrow.  It's dull. It's a dull, narrow town  full of dull, narrow people who don't  know anything except... what things  are like right around here. They  have no perspective whatsoever. No  scope. They might as well be living  in the nineteenth century because  they have no idea what's going on,  and if you try to tell 'em that,  they wanna fuckin' kill you.
+20) 84) dialog: I don't know...
+20) 85) text: Terry lies on his back and smokes.
+20) 86) dialog: You're a good kid.
+26) 0) text: Terry is holding a broom looking up at the ceiling. Sammy passes by and stops.
+26) 2) text: Terry taps the broom handle against the ceiling.
+26) 3) dialog: Do you know you have an enormous  leak from the upstairs hall?
+27) 2) dialog: Yes. Yes.
+27) 3) text: Sammy approaches RUDY and TERRY. They are bent over a big nasty trench in the floorboard. There are wood shavings a greasy pipe segments all over, and black smeary smudges o the walls nearby.
+27) 5) dialog: It's just -- The problem is that the  pipe is corroded all the way along  the length of the hall. So every  time I put in a new piece it starts  leaking further down.
+27) 7) dialog: Why? He's not gonna do anything  different than what I'm doing.
+27) 9) dialog: No we're not. Shut up.
+27) 10) text: Terry yanks the wrench and a SPRAY of FILTHY WATER comes of the pipe and splatters the wallpaper and pictures and  Sammy with gritty gray water. She looks at them.
+27) 14) dialog: OK.
+27) 17) dialog: Nice to meet you, Bob.
+27) 19) dialog: (To SAMMY) What's your idea of the whole night?
+27) 23) dialog: What's your feeling about Bob?
+27) 25) text: Terry looks at his watch.
+27) 26) dialog: I have bad news for you.
+27) 31) dialog: Do you know how to play pool?
+27) 35) dialog: Well, we're not allowed to watch any  more TV, so it's this or nothing...  But if we run into any trouble, let  me do the talking.
+27) 37) text: Terry swings the door open.
+27) 39) dialog: I got a hundred bucks here says me  and my nephew can beat anybody in  here. Only we gotta get the next  game 'cause he's gotta be in bed by  ten o'clock.
+27) 40) text: A MOMENT LATER: RUDY, very nervous, and the 1st Pool Play are side by side shooting for break. Terry is behind Rudy coaching him.
+27) 41) dialog: Just hit it nice and soft... Nice  and soft.
+27) 44) dialog: God damn, Rudy. I thought you said  you could play.
+27) 45) text: Rudy doesn't answer. Terry winks at him. A MOMENT LATER: 1ST POOL PLAYER BREAKS -- WHACK! -- The b scatter. Nothing drops. TERRY steps up to the table, chal up his cue.
+27) 46) dialog: Boys, it's all over but the cryin'.
+27) 47) text: QUICK CUTS: Of Terry running the table and everyone watch Three-ball in the side. One-ball in the corner. Nine-ball off three cushions and into the corner, and the eleven-ba into the side. Rudy watches him.
+27) 58) dialog: Ohhhh!
+27) 59) text: A FEW MOMENTS LATER: Terry and Rudy sit side by side watc as the 2nd Pool Player passes back and forth between them and the camera, running the table. "Oohs" and "All rights emit from the spectators. Sudden silence. Then the clack of the balls connecting. A great common GROAN goes up. RUDY looks up at Terry.
+27) 60) dialog: It's all yours, baby.
+27) 61) text: Rudy looks at the TABLE: The eight-ball is two inches off the corner. The cue ball is a few inches away from it. A  piece of cake, for an adult. Rudy looks deeply unconfiden He gets up and tries to line up the eight-ball. Terry is  right next to him.
+27) 62) dialog: Just make sure to hit it really  gentle. But firm. And hit it a little  low so you get some backspin. Don't  even hit it. Just kiss it.
+27) 65) dialog: I mean tap it. Firm but very, very  softly. And don't shoot until you  know it's going in. OK?
+27) 67) text: Everyone is relatively quiet. Rudy takes a few practice  strokes and then hits the cue ball, straight, but too sof It crawls toward the eight and taps it toward the corner, slower and slower, hangs there, and DROPS. A GENERAL "HEYYY!" GOES UP and everyone claps and cheers. Terry grabs Rudy. Rudy smiles, ecstatic.
+27) 68) dialog: That was great!
+27) 69) text: AT THE BAR: Darryl the SHERIFF, in his civvies, drinking pint of beer, notices Rudy and Terry. AT THE POOL TABLE: Terry picks Rudy up and turns him upsi down. Rudy laughs.
+27) 72) dialog: (Stopping suddenly) Ssh...! Don't move.
+27) 74) dialog: It's them!
+27) 75) text: They break for the door, Terry fumbling for his key. He g the door open.
+27) 76) dialog: Go! Go! Go!
+28) 1) dialog: Wait a minute, gimme your jacket!
+28) 3) dialog: What are you doing?
+28) 5) text: They HEAR Bob's CAR DOORS SLAM. Terry makes a comic panic face and leaps up the stairs two at a time. OUTSIDE THE HOUSE: Sammy waves to Bob. Bob waves back as drives off. Sammy goes to the front door, opens it: Terry and Rudy are in a giggly tangled panicked heap at t top of the stairs, shaking Rudy's arm and sleeve, frantic trying to get the jacket off. Sammy comes in. They freeze.
+28) 7) dialog: Um -- We were just out doing some  star-gazing, and, uh, Rudy lost track  of the time. Which I totally warned  him about. (To Rudy) You are a bad kid.
+28) 9) dialog: (In a low voice) Hey: I think it's OK. Just don't  tell her where we went, 'cause she'll  be really mad at me. OK?
+28) 11) dialog: (Suddenly dark) Hey -- I'm not kidding, Rudy.
+28) 13) text: Terry gives him a "You better not" look, then leaves. Rud continues brushing his teeth.
+28) 23) dialog: Do whatever you want.
+28) 25) dialog: No...
+31) 0) text: The RAIN on the roof makes a sleepy, pleasant country sou TERRY is lying on the sofa, smoking a joint, watching TV, a funk. O.C. we LOUD BANGING ON THE PIPES. LATER: A YOUNG PLUMBER, about Terry's age, comes thumping down the stairs and goes into the living room, carrying h toolbox. Terry looks up at him.
+31) 2) text: Terry glares at him. The plumber turns and goes out.
+31) 29) dialog: You can!
+31) 32) dialog: I don't know.
+31) 34) dialog: Get out of the car.
+31) 36) dialog: You're going to Carol's house and  I'm going home.
+31) 38) dialog: Because if you're such a baby you  gotta tell your Mommy about us playin'  pool when I totally asked you not  to, and I gotta listen to her shit  all day, then you're goin' to the  baby-sitter's so you can stay at the  baby house.
+31) 40) dialog: You know what? Don't even fuckin'  talk to me.
+31) 42) dialog: Just get out of the car.
+31) 43) text: He leans over Rudy roughly and pushes open the door. Rudy gets out of the car and marches down the long driveway. H bursts into tears. Terry watches him go, then drives off.
+33) 3) dialog: Where were you?
+33) 4) text: Sammy jumps, startled. Terry is in the kitchen doorway.
+33) 6) dialog: Kind of a late dinner, ain't it?
+33) 8) dialog: Fine.
+33) 10) dialog: Yes, the fucking plumber came.
+33) 13) dialog: What's the matter with you?
+33) 15) dialog: You want to smoke some pot?
+33) 19) dialog: Wow. (Pause) Are you going to?
+33) 21) dialog: Well... bad sign.
+33) 23) dialog: What?
+33) 25) dialog: Jesus Christ, Sammy...!
+33) 29) dialog: Uh, well, that's not really his  problem, Sammy.
+33) 32) dialog: His problem is that he's like totally  sheltered because you treat him like  he's three, instead of eight, so  that's how he behaves.
+33) 34) dialog: I think he shouldn't have to run and  tell his Mommy every time he does  something she might not like, for  one thing.
+33) 36) dialog: (On "and") I mean I took him to play pool! It  was a little clandestine thing we  did for fun! It wasn't like a big  secret, I mean who cares? I was  actually trying to be nice to him.  But he's so freaked out that he  disobeyed your orders that he has to  fuckin' squeal on me and I have to  listen to your fuckin' shit all day  when I didn't even fuckin' do  anything!
+33) 38) dialog: (Losing ground) Well... that... is a perfect example  of what I'm talking about.
+33) 41) dialog: Darryl told you?
+34) 28) text: Sammy turns away and lowers her voice so Terry and Rudy w overhear her.
+35) 9) dialog: Like what?
+35) 12) dialog: Yeah, where are you going?
+35) 15) dialog: Yeah, where?
+35) 19) text: Terry gives Sammy a look like, "You've got to be kidding. Sammy tries to shush him with a conspiratorial look back. She goes out. LATER. Terry and Rudy sit in front of the TV, alone.
+35) 20) dialog: Listen. Listen. I'm sorry I said you  squealed on me. I was totally out of  line, and I really owe you an apology. (Pause) Did you hear what I said?
+39) 5) dialog: You know who this is for?
+39) 7) dialog: That's right, my little friend. (To the saleslady) Hello. We're going fishing.
+40) 0) text: Sammy, Terry and Rudy are all putting away the groceries. Everybody seems to be getting along.
+40) 3) text: O.C., the DOORBELL RINGS. Sammy starts to move toward the door, but Terry is closer.
+40) 4) dialog: I'll get it.
+41) 0) text: Terry, Sammy and RON sit in the living room. Sammy and Ro are drinking coffee. Through the window we see occasional glimpses of Rudy playing basketball in the backyard. Ther is a heavy silence in the room.
+41) 1) dialog: Well... I'm not really sure why you're  here, Ron. I mean, I realize I haven't  exactly been a model citizen since I  got here, but compared to how things  have been goin' for me lately, I  thought I was doing pretty well.
+41) 3) dialog: And I also find it kind of  discouraging that you seem to think  I need some kind of spiritual  counseling or what have you, so much  so that you're willing to disregard  the fact that I don't believe in any  of this stuff at all --
+41) 5) dialog: I mean it's really kind of insulting.
+41) 7) dialog: How would she know?
+41) 9) text: Terry smiles.
+41) 11) dialog: I didn't realize I was smiling.
+41) 14) dialog: Great job you got.
+41) 16) dialog: Well --
+41) 18) dialog: You mean -- Like, me personally, my  individual life?
+41) 20) dialog: Well... I'm not sure -- What do you  mean? It's important to me. I guess.  And like, to my, you know, the people  who care about me...
+41) 22) dialog: I --
+41) 24) dialog: Well, I don't think... I don't  particularly think anybody's life  has any particular importance besides  whatever -- you know -- whatever we  arbitrarily give it. Which is fine.  I mean we might as well... I think  I'm as important as anybody else...
+41) 26) dialog: I don't know: A lot of what you're  saying has a real appeal to me, Ron.  A lot of the stuff they told us when  we were kids... But I don't want to  believe something or not believe it  because I might feel bad. I want to  believe it because I think it's true  or not... I'd like to think that my  life is important... Or that it's  connected to something important...
+41) 28) dialog: Yes. I believe that.
+41) 30) dialog: So Sammy, what example will you be  setting for us tonight?
+41) 34) dialog: We're not going fishing.
+41) 37) dialog: I think you should go fishing with  Father Ron.
+41) 39) dialog: Well, I'm not takin' you.
+41) 40) text: Sammy starts to say something to Terry, stops herself.
+41) 45) dialog: (Deadpan) I'm not mad at you...
+41) 47) dialog: (On "boy") ...I just, you know, after all that  religious conversation, I just  realized it's probably not so good  for him to be spending so much time  with someone like me who doesn't  believe his life is important in the  scheme of things --
+41) 49) dialog: I'm serious.
+41) 51) dialog: I would, Sammy, I just don't think  it'd be good for him.
+41) 54) text: She throws the sheets at him and storms away. Terry walks through the living room and OUT the front door, SLAMMING behind him.
+42) 0) text: Terry and Rudy are side by side on a small footbridge ove wide running stream, fishing. The sunlight slants through the canopy of trees; the birds are chattering; it's gorge and peaceful.
+42) 2) dialog: Yeah... We really shoulda been out  here around seven or eight A.M.
+42) 4) dialog: Two-thirty.
+42) 7) dialog: Yeah, your father was good at all  that stuff. He knew everything about  the woods, everything about fishing,  everything about hunting and  everything about cars. If he wasn't  such a pain in the ass he would've  been a lot of fun to be around.
+42) 9) dialog: I doubt it.
+42) 11) dialog: How would you know? Did you ever  meet him?
+42) 13) dialog: Were you ever curious to meet him?
+42) 15) dialog: Well, he doesn't live very far from  here.
+42) 17) dialog: No -- I lived in Alaska. Your dad  lives in Auburn. Far as I know. (Pause) We could look him up in the phone  book. Wanna try?
+42) 19) dialog: OK -- But -- I'm sure I don't have  to say this, but I'm not kidding,  man: Don't -- tell -- your -- mother.
+43) 0) text: Terry and Rudy drive along. Terry looks down at Rudy and  smiles. Rudy is tense and won't look at him. OVER TERRY AND RUDY'S SHOULDERS as Terry drives slowly pa dilapidated little houses in a very depressed residential area. Terry is scanning the house numbers.
+43) 2) dialog: Well -- We're right here.
+43) 4) dialog: Come on.
+43) 5) text: Rudy gets out of the car and comes around. Terry waits fo him, and then they walk up to the front door. The buzzer  says "KOLINSKI."
+43) 6) dialog: There he is.
+43) 8) dialog: Yeah. Ring the bell.
+43) 9) text: Rudy pushes the doorbell. They wait. There's some noise i and some voices. The sound of WALKING. THE DOOR OPENS. JANIE, a tired-looking young woman around Terry's age, opens the door.
+43) 11) dialog: Hi. We're looking for Rudy?
+43) 13) dialog: An old friend.
+43) 17) text: RUDY SR. appears behind Janie. He's around thirty, wiry,  dressed in jeans and an old shirt. He doesn't look good. recognizes Terry.
+43) 19) dialog: Hey, Rudy.
+43) 23) dialog: (To JANIE) Hi, I'm Terry.
+43) 25) dialog: And this is Rudy.
+43) 27) dialog: Rudy, meet Rudy.
+43) 30) dialog: Nice to meet you.
+43) 32) dialog: OK if we come in for a minute?
+43) 34) dialog: What do you mean what am I doin' --
+43) 35) text: Rudy Sr. starts walking toward Terry to make him go back the door.
+43) 37) dialog: Well we just wanna --
+43) 39) dialog: All right, all right.
+43) 42) dialog: I just wanted the kid to see you --
+43) 44) dialog: Man, you are really --
+43) 46) dialog: I just wanna --
+43) 48) dialog: You know what, man? You're still a  fuckin' asshole.
+43) 50) text: Rudy Sr. shoves Terry. Terry belts him, and suddenly they are throwing wild punches at each other. Rudy goes sprawl in the dirt. Terry knocks Rudy Sr. down and starts pummeling him bruta Janie comes out of the house and jumps on his back, tryin to pull him off.
+43) 52) text: Terry throws Janie off him, grabs Rudy Sr. again and resu beating him up. Janie jumps back on top of him. Two neighbors run toward the melee to break it up.
+43) 58) dialog: I just came down here to talk to the  guy and all of a sudden he starts  shovin' me!
+43) 60) dialog: (To RUDY SR.) You're a lyin' fuckin' piece of shit.
+43) 63) text: A MOMENT LATER: The 2ND COP puts handcuffs on Terry. Rudy watches.
+43) 65) dialog: This is such bullshit. He started  the whole thing and you're arresting  me?
+43) 70) text: The cop cars' doors slam first on Terry and then on Rudy.
+48) 35) dialog: You don't have to say anything, Sammy.
+48) 37) text: Terry looks at her.
+48) 38) dialog: What do you mean?
+48) 40) dialog: I don't know how to behave around an  eight-year-old?
+48) 42) dialog: I think you don't know how to behave  around an eight-year-old.
+48) 48) dialog: What do you mean, Get my own place?
+48) 50) dialog: You mean in Scottsville?
+48) 52) dialog: Why would I do that? Why don't I  just leave, period?
+48) 54) dialog: Well --
+48) 56) dialog: No, you know what? I'll just go.
+48) 59) text: Terry shrugs and watches TV.
+48) 62) dialog: I don't know. I just want to get out  of this town. And if you've got any  sense when you get old enough you'll  get out of here too. Your Mom's gonna  live in this town for the rest of  her life, and you know why? Because  she thinks she has to. Don't ask me  why, but that's the truth. She thinks  there's all these things she has to  do, but you want to know one thing  about your Mom? She's a bigger fuck- up than I ever was. I mean, I know I  messed up. You think I enjoy getting  thrown in jail because I wanted you  to face that prick your Dad like a  little man and see what kind of a  guy he is? I know I got a little  carried away, and I lost my temper  just a little bit -- which is not  the end of the world either, by the  way, just for future reference --And  now she's kickin' me out of my own  house because -- you know, because I  fucked up a little bit. Which I  totally admit. I was like -- totally  ready to admit that.
+48) 65) dialog: Well, thanks, man. But I, uh, I can't  really take care of you.
+48) 68) dialog: Yeah, I'm just gonna stay at Ray's  till I take off.
+48) 70) dialog: Yeah. Well, that's what I wanna do,  so --
+48) 72) dialog: No -- I'm just gonna take off. I'll  see you later.
+48) 74) text: Terry opens the door. RAY is there. Terry closes the door behind him. Sammy listens to the PICKUP TRUCK DRIVE OFF. sound FADES.
+48) 127) dialog: (Into phone) Ray's house.
+49) 2) text: WE CUT BETWEEN THEM. Terry doesn't say anything.
+49) 4) dialog: No -- I'm leavin' tomorrow.
+49) 6) dialog: There's a bus at nine.
+49) 8) dialog: Yeah -- I don't know... I mean --
+49) 10) dialog: All right, all right. I'll come by  in the morning.
+49) 12) dialog: Yeah -- No -- I'll be there.
+49) 14) dialog: All right.
+49) 24) dialog: Hey, how's it goin', man?
+49) 25) text: Rudy stops short in front of Terry. Terry looks at Sammy, the doorway.
+49) 26) dialog: Sorry I'm late.
+49) 28) dialog: So Rudy... If I write you a letter,  will you write me back?
+49) 30) dialog: OK, well, that's gonna be pretty  nice for you, because I write a pretty  Goddamn interesting letter.
+49) 32) dialog: All right. Well, say good-bye.
+49) 34) text: Rudy hugs Terry. Terry hugs him back. He is suddenly over and presses his lips to the top of Rudy's head. Rudy walks to the BUS and gets on. The bus pulls away. Alone now, Sammy and Terry are not that comfortable. He m to get back in the car, and she does the same.
+49) 37) dialog: No, I got a few bucks... Aren't you  gonna be late for work?
+49) 39) dialog: Oh, well, I didn't really have a  concrete plan yet. I have to go back  to Worcester and get my stuff...
+49) 41) dialog: Well... Yeah... You know... Thought  maybe I'd try to show my face... Let  her brother have a crack at me...
+49) 43) dialog: No...
+49) 45) dialog: I'm just kidding. I just thought...  Just thought I'd check up on her... (Pause) Anyway, after that, I don't really  know. I've been thinking about Alaska  a lot. I still got some friends out  there. I don't really know. Anyway,  I'll write you.
+49) 47) dialog: Sure, Sammy. Of course I will. You  know that.
+49) 50) dialog: Nothing too bad... But I gotta tell  you, I know things didn't work out  too well this time...
+49) 52) dialog: ...but it's always really good to  know that wherever I am, whatever  stupid shit I'm doing, you're back  at my home, rooting for me.
+49) 55) dialog: Come on, Sammy. Everything's gonna  be all right... Comparatively... And  I'll be back this way...
+49) 57) dialog: Of course you will, Sammy. You never  have to worry about that.
+49) 59) dialog: I do know where I'm going. I'm going  to Worcester and I'm gonna try to  see that girl. And then depending on  what happens there, I thought I'd  try to see if there's any work for  me out West. And if there is, I'm  gonna head out there for the summer  and try to make some money. And if  there isn't, I'll figure something  else out. Maybe I'll stay around the  East. I don't know... I really liked  it in Alaska. It was really beautiful.  You just -- It made me feel good.  And before things got so messed up I  was doin' pretty well out there.  Seriously. But I couldn't stay here  long, Sammy: I don't want to live  here. But I'm gonna stay in touch.  And I'll be back. 'Cause I want to  see you and I want to see Rudy. I'll  come home for Christmas. How about  that? We'll have Christmas together. (Pause) Come on, Sammy. You can trust me...
+49) 61) dialog: Come on, Sammy... Look at me... Look  at me...
+49) 63) dialog: Hey, Sammy... Remember when we were  kids, remember what we always used  to say to each other . . .? (Pause) Remember when we were kids?
+51) 0) text: Terry, in his seat, turns forward and watches the view go by. He smiles a little.

@@ -1,0 +1,118 @@
+41) 10) dialog: How you feelin' Whip? Initial reports look like you pulled some move up there, kid. You saved a lot of lives.
+41) 16) dialog: 102 souls on board including the flight crew, and 96 of them survived the crash. Six people died. 2 crew, 4 passengers.
+41) 21) dialog: Listen, protocol is the NTSB has to make the first contact with you and the agent is here. Let me go get him.
+41) 56) dialog: Apparently she wasn't strapped in. A survivor reported that she was assisting a kid.
+41) 61) dialog: (checks his notes) Broken collar bone, cuts, banged up, but she's okay. She's here too. Ken Evans your copilot took a bad shot to the head. They're keepin' him in a coma to let the brain swelling go down. He's listed as critical, but we feel good about him. He's gonna be okay.
+41) 66) dialog: I'm flying a desk now. I'm a regional rep for the IAP.
+41) 70) dialog: I'm one of a few union reps for the southeast. When your plane went down all the reps got a page and since I know you I shot my hand up and said I wanted to come and be the first face you'd see.
+41) 75) dialog: It's good to see you too, Cowboy. You're gonna be okay. We're gonna take care of you. That's my job.
+41) 78) dialog: The union will put out a statement on your behalf. Condolences to the families who lost loved ones and gratitude to the brave men and women on the flight crew.
+41) 83) dialog: Yeah, how old's he now?
+41) 88) dialog: Wow, you weren't even married when we flew for Delta. We're dinosaurs, Whip. Do you want me to reach out to Deana and see if she and Will want to come? Any family you want here, we'll get them here, stat.
+41) 93) dialog: Speaking of which, I have your phone and some of your personal effects from the plane.
+41) 96) dialog: Your clothes are toast. Do you need me to get you some stuff?
+41) 100) dialog: I'm gonna head out, let you get some rest. I'm coming back. You'll see plenty of me.
+41) 105) dialog: Okay. Get some rest now.
+41) 109) dialog: I know. The way you landed that plane was nothing short of a miracle.
+66) 7) text: ...I think that was the beep. Hey Cowboy, it's Charlie again. 
+66) 8) text: WHIP reaches for the phone but decides to just listen to CHARLIE...  CHARLIE
+67) 1) text: CHARLIE sits at a beautiful wooden table in a modern glas walled office above a baseball field. The table is popula with casually-dressed businessmen and lawyers as this aft hours meeting was called on the fly. 
+69) 2) text: CHARLIE ANDERSON sits at a corner table with HUGH LANG, a young, well-dressed African American man. CHARLIE and HUG are chatting in jocular spirit when WHIP approaches, walk much more confidently with his cane.  CHARLIE
+69) 4) text: WHIP studies HUGH as he pulls out his chair.  CHARLIE (CONT'D)
+69) 8) text: WHIP and HUGH remain standing, both feeling a little "alp  CHARLIE
+69) 10) text: She smiles and nods. She's off to get the coffee.  CHARLIE (CONT'D)
+69) 13) text: WHIP just stares at the two men who have large buffet pla surrounding them.  CHARLIE
+69) 15) text: I'm good with coffee.  CHARLIE
+69) 17) text: WHIP is quiet, anxious to hear the purpose of the meeting  CHARLIE (CONT'D)
+69) 19) text: They find the flight data recorders?  CHARLIE
+69) 21) text: Great. That solves everything. The recorders will tell the story. Why do we need a lawyer from Chicago?  CHARLIE
+69) 26) text: The plane fell apart at 30 thousand feet.  CHARLIE
+69) 33) text: Then you don't know what the fuck you're talking about.  CHARLIE
+69) 37) text: Charlie, what do I need to know? I'm already tired of this guy.  HUGH
+69) 42) text: WHIP looks at CHARLIE and then to HUGH...  WHIP
+69) 55) text: What does that mean? I had a beer the night before I flew. And what...That made the tail of the plane explode?  CHARLIE
+69) 57) text: I need a lawyer.  CHARLIE
+69) 61) text: To write checks, well it's not me I promise you that. And as long as they're writing checks, write me one because someone put me in a broken plane. I'd love a check.  CHARLIE EASY WHIP-  HUGH
+69) 64) text: WHIP is listening. CHARLIE tries to reign it in.  CHARLIE
+69) 66) text: I'm not worried, Charlie. I promise you that. No one could have landed that plane like I did, no one. 
+101) 7) text: The beep concludes...  CHARLIE
+101) 11) text: 104 WHIP listens as CHARLIE talks... 104  
+103) 3) text: CHARLIE steps out of the passenger door and calls down to WHIP.  CHARLIE
+103) 5) text: WHIP walks towards a ramp that leads up to the hole in th plane where the door used to be. CHARLIE stands at the to of the ramp. Suddenly HUGH steps out of the plane...  HUGH
+103) 8) text: This is what we call in my profession a "walk over."  CHARLIE
+103) 10) text: CHARLIE and HUGH reach the bottom of the ramp. 112.  HUGH
+103) 14) text: Look, it's simple. I flew a broken plane.  CHARLIE
+103) 44) text: CHARLIE steps between them as this exchange spirals.  WHIP
+103) 47) text: Okay, I'm done here. I'm running out a faith that this guy's gonna make it, Charlie.  WHIP
+103) 50) text: WHIP turns and walks. HUGH wheels on CHARLIE and lights h up.  HUGH (CONT'D)
+103) 51) text: Everything we've done? Everything I've done? Goes out the window. That's not on me. I did my job. It's your job, Charlie, to get him straight and get him to the church on time. 115.  WHIP
+103) 52) text: Yeah Charlie just get him home. Sober him up long enough to save the union's contract and that fat fuck's airline. Fuck you. I shoulda died on that plane. 
+111) 7) text: We boom down to find WHIP who looks drained as he sits on CHARLIE's couch in the fastidiously neat office. WHIP hol an unlit smoke. 
+111) 8) text: The WOODEN POCKET DOORS SLIDE OPEN and CHARLIE's WIFE gestures towards WHIP. WHIP stands as CHARLIE enters.  WHIP
+111) 9) text: Hey, Charlie. Thank you. Amanda was so nice to let me in. It's just...I couldn't find a safe place. 
+111) 10) text: AMANDA slides the door shut as CHARLIE throws his bag and coat down with gusto. He reaches up and pushes a button o the TV and it goes off.  CHARLIE
+111) 12) text: I think it's okay. I've been watching and I think it's okay.  CHARLIE
+111) 14) text: Okay. Good then. Listen Charlie, here's the deal-  CHARLIE
+111) 16) text: No. I can do this.  CHARLIE
+111) 18) text: Let's just stick to the plan.  CHARLIE
+111) 20) text: This whole thing has just been so heavy, it's killing me. Tell Hugh, I can do it. Look, I really wanna fly again, get back to my life and be done with all this shit.  CHARLIE
+111) 22) text: Let me stay here. They have my houses all staked out now. Let me stay here until the hearing, Charlie. I won't leave the house. 
+111) 23) text: CHARLIE takes a long look at his old, troubled friend.  CHARLIE
+111) 26) text: 118 CHARLIE nods, hoping that WHIP can deliver on that pr 122. 
+112) 1) text: We watch a can of Coca Cola swing in WHIP's hand. We pull out to find WHIP walking with CHARLIE down a hallway of T ST. JEROME HOTEL. Time has passed as WHIP looks the best we've ever seen him look. He is well rested, well dressed and carrying a suit in a wardrobe bag. 
+112) 7) text: CHARLIE addresses the SECURITY GUARD.  CHARLIE
+112) 9) text: Yes sir.  CHARLIE
+112) 11) text: HUGH stands by the open door and gestures CHARLIE and WHI inside...  
+113) 3) text: WHIP puts his wardrobe bag down on the bed. 123.  CHARLIE
+113) 5) text: WHIP is checking his phone. HUGH gestures to CHARLIE for to leave so they can be alone.  CHARLIE (CONT'D)
+113) 7) text: Wait, Charlie, thanks for letting me stay with you. I needed it.  CHARLIE
+113) 9) text: You've got a beautiful family.  CHARLIE
+113) 11) text: CHARLIE leaves and HUGH joins WHIP at the window. HUGH ha WHIP a thick folder.  HUGH LANG
+116) 1) text: The ELEVATOR DOORS open and HUGH and CHARLIE step out and head down the hallway. 
+117) 1) text: OFFICER EDMONDS stands up as CHARLIE and HUGH approach carrying coffees.  CHARLIE
+117) 4) text: CHARLIE knocks on the door and checks his watch as he wai for WHIP to answer. CHARLIE cocks his head, knocks again.  CHARLIE
+117) 10) text: CHARLIE takes the room key and lets himself in.  
+118) 1) text: CHARLIE carefully enters WHIP's room. He is spooked by th silence. HUGH joins him as they take in the room. The bed looks slept in and the room service dinner tray rests politely on the dining table but WHIP is nowhere to be fo  HUGH LANG
+118) 3) text: CHARLIE tentatively walks around the empty room, the bathroom, the closet, until he finally sees the adjoining room door. He turns to HUGH with a surprised look.  CHARLIE
+118) 5) text: CHARLIE knocks on the slightly opened adjoining door. No response, so CHARLIE lightly tosses the door open.  
+119) 1) text: CHARLIE looks in to find the scene of the crime. Smoke st hangs in the air and empty bottles and cans cover every surface in the room. HUGH joins him... 128.  HUGH
+119) 2) text: Where is he?  CHARLIE
+119) 4) text: CHARLIE closes his eyes and says a silent prayer as he he for the bathroom...  
+119) 6) text: CHARLIE is stopped by the sight of WHIP's lifeless body wedged between the tub and the toilet.  CHARLIE
+119) 8) text: CHARLIE turns WHIP over to see his non-responsive face. H arrives and freaks out.  HUGH
+119) 9) text: Is he dead?  CHARLIE
+119) 13) text: CHARLIE shows immediate relief that WHIP is breathing. OFFICER EDMONDS has joined them.  OFFICER EDMONDS
+119) 14) text: Should I get an ambulance?  CHARLIE
+119) 16) text: Wait!...just wait, Charlie...let's think about this. 
+119) 17) text: The two stare at each other and realize they are both breathing heavily from the shock and stress of their predicament.  CHARLIE
+119) 20) text: EDMONDS leaves. CHARLIE and HUGH drag WHIP out of the bathroom and flop him on the bed. HUGH explodes.  HUGH
+119) 22) text: HUGH grabs at WHIP's collar and WHIP actually sits up and reaches for HUGH, a nice sign of life from WHIP.  CHARLIE
+119) 24) text: CHARLIE pulls HUGH away from WHIP who falls back on the b  CHARLIE (CONT'D)
+119) 26) text: 9:14, the hearing is in 46 minutes.  CHARLIE
+119) 30) text: I once was lost and now I'm found was blind but...now...well I'm still kinda blind.  CHARLIE
+119) 33) text: Call Harling Mays. 130.  CHARLIE
+119) 37) text: HUGH and CHARLIE exchange a desperate look...  CHARLIE
+119) 40) text: 609-237-1184. We're in 609 so just...  CHARLIE (DIALING)
+120) 1) text: CHARLIE prays for a voice on the other end...it appears..  CHARLIE
+120) 2) text: Harling? Harling this is Charlie. I'm a friend of Whip's...yeah. We need you to do a very early, very discreet...uhm...Whip needs bananas and you need to bring them to The St. Jerome Hotel downtown...how many bunches of bananas? (Whip holds up 3 fingers) 3 is the answer I'm getting -- you will be well compensated...the The St. Jerome Hotel room 1027... 
+120) 3) text: CHARLIE hangs up and looks at WHIP who is mostly passed o again. CHARLIE looks to HUGH. 131. 
+122) 1) text: WHIP has a towel around his neck as he tries to sip coffe CHARLIE sits opposite him at the small table by the windo 
+122) 4) text: HARLING places a leather doctor's bag on the table. An anxious CHARLIE reaches for the bag which sets HARLING in frenzy. 
+122) 14) text: HARLING Tosses a pack of smokes to CHARLIE.  CHARLIE
+122) 16) text: HUGH takes the smokes from CHARLIE and pulls out a cigare 
+122) 19) text: HUGH is removing the last quarter of an inch of tobacco f the end of the cigarette.  CHARLIE
+122) 26) text: CHARLIE puts the glass of water to WHIP's mouth. WHIP drinks. 
+122) 37) text: Nothing can keep you down dog. Nothing keeps the big dog down.  CHARLIE
+122) 39) text: HARLING has crafted 4 big lines now, he snorts one himsel record time. Looks to HUGH and CHARLIE.  HARLING MAYS
+122) 41) text: No, I'm good. Charlie?  CHARLIE
+122) 48) text: HUGH and CHARLIE are quiet as they watch the strange but sincere drug-fueled emotion pass between two old friends. HARLING eyes CHARLIE before handing him a baggie.  HARLING MAYS
+123) 1) text: 133 The opening bars of Joe Cocker's "Feelin' Alright" cr just before we see WHIP step out of the hotel room and be a relatively steady strut down the hallway. Deja Vu. Sunglasses on, WHIP is backed by HUGH and CHARLIE who fla him from a few steps behind. Further back we can see that OFFICER EDWARDS also exits the room wearing latex gloves, carrying a large plastic garbage bag that obviously holds evidence of the debauched night or the morning's resurrection.  
+124) 1) text: WHIP, HUGH and CHARLIE ride the elevator. WHIP is buttoni his shirt and fixing his tie. It is miraculous how the co has revived him. A MOM and her 8 year old DAUGHTER get on the elevator.  CHARLIE
+124) 6) text: We now see that there is a mirrored ceiling to the elevat WHIP tries to study his reflection in the ceiling as he h the hankie to his nose. WHIP begins to wobble and CHARLIE helps him regain his balance.  
+124) 10) text: HUGH hustles off as CHARLIE pulls close to WHIP.  CHARLIE
+124) 12) text: WHIP wheels on CHARLIE and unloads with focused anger...  WHIP
+125) 24) text: WHIP glances towards HUGH and CHARLIE who are poker-faced  ELLEN BLOCK
+125) 33) text: HUGH is frozen in a steely gaze; CHARLIE seems to hold hi breath. 
+125) 69) text: HUGH maintains a poker face; CHARLIE appears relieved. 
+125) 115) text: CHARLIE rockets out of his chair.  CHARLIE
+125) 118) text: Now CHARLIE returns to his chair to find that HUGH is gon CHARLIE looks around for HUGH, no sign. He's vanished. 

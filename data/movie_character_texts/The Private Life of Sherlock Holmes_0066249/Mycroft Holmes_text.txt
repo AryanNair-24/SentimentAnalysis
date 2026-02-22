@@ -1,0 +1,87 @@
+33) 51) text: My Dear Sherlock: I expect you and Dr. Watson to join me at the club immediately upon reciept of this note. According to my calculations, that should be at 11:40 a.m. Your brother, Mycroft. (looking up)
+36) 0) text: It is a very elegant room   -- shelves of leather-bound volumes reach to the high   ceiling, there are antique terrestrial and celestial   gloves, scientific instrument in polished brass, marble   busts of English statesmen. MYCROFT HOLMES is standing at a refectory table, with his back to the door, engaged in a curious operation. A dusty bottle of wine is held in an ingeniously engineered cradle. As he turns the crank, the bottle tilts forward gently, and he decants the wine into three glasses without disturbing the sediment. Mycroft is an impressive figure of a man, seven years older than Sherlock, impeccably dressed. Behind his snobbish airs and bantering manner, one senses tremendous reserves of strength and authority. The door opens, and Holmes and Watson enter.
+36) 1) dialog: (without turning)
+36) 7) dialog: Under control. Except for the occasional twinge. He brings over two of the glasses of wine to Holmes and Watson.
+36) 8) dialog: I have a treat for you -- a very old Madeira -- 1814. There are  only six bottles left in the world.  I have two of them, and am negotiating for a third.
+36) 10) dialog: The last doctor who warned me about that was crossing Piccadilly, slipped on an orange peel, and was run over by a delivery van from the Fortnum and Mason. Your very good health. He and Watson sip their drinks, but not Holmes.
+36) 12) dialog: Well, I see you so rarely. How long has it been? Not since the case of the Greek interpreter. (to Watson) Isn't it ridiculous? Two brothers living in the same town...
+36) 16) dialog: 1814.    One year before Waterloo.
+36) 18) dialog: You do know where Waterloo is, don't you, Doctor?
+36) 20) dialog: Quite. (turning to Holmes) And speaking of Belgium, it has come to my attention that you are interested in the whereabouts of a certain engineer.
+36) 22) dialog: Well, I can save you a lot of trouble.
+36) 24) dialog: My suggestion is that you pursue it no further.
+36) 26) dialog: Because it involves the national security. We are handling this matter ourselves.
+36) 30) dialog: I didn't say that.
+36) 32) dialog: That's neither here nor there.
+36) 34) dialog: (to Watson) What a fertile imagination my brother has. At the age of five, by carefully observing a neighbor's house, he deduced that babies were brought not by the stork, but by the mid-wife in her satchel.
+36) 36) dialog: Yes, Wiggins?
+36) 39) dialog: Tell them that the three boxes go to Glennahurich, and the red runner goes to the castle.
+36) 42) dialog: My dear Sherlock, there  are certain affairs that do not come  within the province of the private  detective. They have to be dealt with on  an altogether different level.
+36) 44) dialog: I do indeed.
+36) 46) dialog: Sherlock, when I said drop this case, it was not merely a suggestion -- it was an order!
+36) 49) dialog: By the authority of Her Majesty's government. I hope I've made myself clear.
+36) 51) dialog: Now if you'll excuse me, gentlemen --
+36) 54) dialog: (to Holmes) Just a minute. (picks up Holmes' cane) You forgot your tool-kit. He tosses the cane to Holmes, who catches it.
+66) 0) text: A workman is lighting a couple of torches attached to the ruined gatehouse when the gig comes through the archway. The guide reins up the horse in front of the steps leading to the inner courtyard -- which are now covered with a narrow red carpet. The guide nods to Holmes, who dismounts, starts up the steps, examining the red carpet. As he reaches the top, he looks off. The strip of red carpet runs across the courtyard, lit by torches planted in the ground. A couple of workmen are are unrolling the rest of the carpet toward the entrance of the tower. As Holmes passes one of the tents, the flap opens and Mycroft steps out, dressed in his inevitable frock coat.
+66) 1) dialog: Mr. Ashdown, I presume.
+66) 4) dialog: It's not for you. (calling into tent) McKeller. (to Holmes) May I have the champagne, please?
+66) 6) dialog: Mediocre.   But then again, it's not for drinking. A black-suited MAN emerges from the ten, and Mycroft gives him the champagne.
+66) 7) dialog: Tie it up, will you? The man moves off toward the tower.   Mycroft pulls back the flap of the tent.
+66) 8) dialog: In here. Holmes passes inside, Mycroft following.
+67) 3) dialog: Despite my most emphatic warning, you persisted in meddling. It would have served you right if you'd all drowned.
+67) 5) dialog: (indicating parasol   and stethoscope) I imagine this belongs to    the pretty lady, and this belongs to    your valet... We found them floating in    the lake.
+67) 7) dialog: How much do you know -- or think you know?
+67) 9) dialog: Not quite that unique. Right now, four countries are trying to develop what we call a submersible. But none of them could solve the critical problem -- how to stay submerged long enough to make it effective.
+67) 12) dialog: That was our goal. And thanks to Valladon's air-pump, we got a jump on the rest of them. It's a highly complex system of filtration -- so we had a series of trials --
+67) 14) dialog: During a test run in Moray Firth, pressure caused a leak in the hull. Sea water mixed with the acid in the batteries to produce chlorine gas. Before they could reach the surface, Valladon and the crew were dead.
+67) 16) dialog: It was essential to keep the information from your client.
+67) 18) dialog: Your client isn't Madame Valladon -- it's the Imperial German Government. They were after the Belgian engineer -- or rather, his invention. They knew he was employed by us, but they couldn't find out where -- so they enlisted the best brain in England to help them. You, my dear brother, have been working for the Wilhelmstrasse.
+67) 20) dialog: Madame Valladon is dead.
+67) 23) dialog: The Germans disposed of her three weeks ago, in Brussels. This is Gabrielle Valladon. He hands Holmes a small, framed photograph. Holmes looks at it with apprehension, as well he should: the picture is of a somewhat matronly woman, not the glamorous Gabrielle. Holmes lowers  the photograph. Behind it, Mycroft is glaring at him with customary arrogance.
+67) 24) dialog: The woman who was brought to your house in the middle of the night -- apparently fished out of the Thames -- and apparently suffering from amnesia -- is, in fact, Ilse von Hoffmanstal, one of their most skillful agents. Am I going too fast for one of the "best brains in England?"
+67) 26) dialog: They planted her on you quite neatly, I must admit, so that you could lead them to their objective, the air pump. Very much like using a hog to find truffles. And now perhaps you'd care to join me. I am expecting a certain royal personage from Balmoral.
+69) 2) dialog: Your Majesty. He bows. The Queen extends her hand to him, and he touches it.
+69) 3) dialog: I trust you had a pleasant journey, Ma'am.
+69) 5) dialog: I can assure you, Ma'am, it will be. A lady-in-waiting and a uniformed equerry have now descended from the coach. Mycroft leads the party up the steps.
+69) 7) dialog: We call it a submersible, Ma'am.    It travels under water.
+69) 10) dialog: Ma'am, may present some of the scientists who were responsible for this achievement. J.W. Ferguson, naval architect --
+69) 12) dialog: Professor Simpson, our leading expert on hydraulics --
+69) 14) dialog: W.W. Prescott, co-inventor of the revolving periscope --
+69) 16) dialog: And this is Sir Arthur Grisby, our authority on maritime ballistics --
+69) 18) dialog: (trying to correct her) Well, not exactly, Ma'am --
+69) 22) dialog: (to the Queen) This is my brother, Sherlock, Ma'am.
+69) 30) dialog: (pointing to tower) In the dungeon, Ma'am.
+70) 0) text: A high-ceilinged rock chamber, with a spiral iron staircase leading down. The floor is a concrete ramp, the lower end of it covered with water. Beyond is the entrance from the Loch, camouflaged by scaffolding and vegetation. On the upper part of the ramp is a small, primitive submarine, resting on wheels. Prominently lettered on the bow is the name H.M.S. JONAH, and suspended by a rope from the prow is the magnum of champagne which Holmes delivered. Along the sides are torpedo tubes, and fitted over the conning tower is the head and neck of the "monster" we saw in the lake. Present are half a dozen naval personnel, commanded by an officer. As the royal party comes down the spiral staircase, the officer snaps to attention. Mycroft is in the lead, followed by the Queen, Holmes, the lady-in- waiting, the equerry and the scientists.
+70) 1) dialog: There she, Ma'am. Her Majesty's Ship Jonah. The four surviving midgets appear on the deck, in wool jerseys and navy caps. They start pulling on a chain which slowly raises the detachable head-and-neck of the monster toward the ceiling, disclosing the conning tower and the periscope.
+70) 3) dialog: It's merely a decoy, Ma'am.
+70) 6) dialog: Something of the sort... The crew will now demonstrate the workings of the submersible. A SAILOR of normal height appears on the deck of the sub.
+70) 9) dialog: They are. But because of the size of the craft, the Navy made an exception.
+70) 11) dialog: This is the main engine, which propels it under water at the rate of two knots -- the stabilizing mechanism -- the multi- stage compressor -- the ballast tank trimmer -- the air-pump which filters and recirculates the air --
+70) 14) dialog: The air pump, Ma'am?
+70) 16) dialog: Yes, Ma'am. These are the levers for firing the torpedoes, which are accurate up to as much as 120 feet -- the periscope for scanning the surface of the water --
+70) 18) dialog: The what, Ma'am?
+70) 22) dialog: That's not quite the idea, Ma'am. H.M.S. Jonah is being commissioned as a warship.
+70) 24) dialog: Ma'am, if I may explain --
+70) 27) dialog: The Admiralty regards this craft as the ultimate weapon in naval warfare. It can seek out enemy ships and destroy them -- with these torpedoes -- while remaining completely invisible.
+70) 29) dialog: Yes, Ma'am.
+70) 31) dialog: That is correct, Ma'am.
+70) 33) dialog: Indeed, Ma'am.
+70) 35) dialog: I beg your pardon, Ma'am? He exchanges a look with Holmes.
+70) 37) dialog: That's precisely it, Ma'am. At this very moment the Germans under Count von Zeppelin, are experimenting with a dirigible --
+70) 40) dialog: A rigid balloon, which could fly over London and drop a bomb on Buckingham Palace. It is being developed at the express orders of Kaiser Wilhelm the Second.
+70) 42) dialog: We have conclusive proof, Ma'am. Our agent in Friedrichshafen, a man named Ibbetson, actually saw the dirigible, and made a drawing of it. Unfortunately, he was apprehended before he could cross the border.
+70) 44) dialog: May I point out, Ma'am --
+70) 49) dialog: Not necessarily. If the Germans want that submersible so badly, why don't we give it to them?
+70) 51) dialog: Invite them aboard for the final journey -- seven hundred feet -- straight down.
+70) 53) dialog: I'm rather counting on you to do it. Since you are on such intimate terms with Fraulein von Hoffmanstal. O.s., the bagpiper resumes playing.
+70) 54) dialog: Shall we say goodbye to Her Majesty? He starts up the spiral staircase.    Holmes follows slow and thoughtfully.
+81) 3) dialog: Fraulein von Hoffmanstal?
+81) 6) dialog: If there's one thing I like about the Prussians, it's their punctuality.
+81) 8) dialog: They are. But you're not going to jail. You're going back to Germany.
+81) 10) dialog: You will be conducted to the Swiss-German border, and be exchanged for one of our agents -- a man named Ibbetson.
+81) 12) dialog: Don't thank me. Thank my brother.      It was his idea. Gabrielle looks at Holmes, but he avoids her eyes.
+81) 13) dialog: (to Gabrielle) Frankly, I think we are making a very poor deal. You much better than most operatives working for British intelligence. (turning to Holmes) Don't you agree, Sherlock?
+81) 15) text: And better than some consulting detectives. Mycroft signals to his aide, who comes in from the corridor and picks up Gabrielle's bag.
+81) 17) dialog: (to Gabrielle) Shall we?
+82) 0) text: Mycroft's aide comes out of the hotel with Gabrielle's suitcase, loads it into an open carriage waiting in front of the entrance. Gabrielle emerges, carrying her parasol, and accompanied by Mycroft. He helps her into the carriage, gets in beside her.
+88) 6) text: Dear Sherlock, My sources in Tokyo inform me that Ilse von Hoffmanstal was arrested last week by the Japanese counter-intelligence service for spying on naval installations in Yokohama harbour. After a secret trial, she was summarily executed by a firing squad. It might interest you to know that The page ends at this point. Watson turns the sheet of paper over with the tongs. The letter continues on the other side. she had been living in Japan these past few months under the name of Mrs. Ashdown. Sincerely, Mycroft

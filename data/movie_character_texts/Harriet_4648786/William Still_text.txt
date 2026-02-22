@@ -1,0 +1,82 @@
+38) 0) text: PRINTING PRESS - A pamphlet is being copied. WILLIAM STILL, 28, black and dashingly handsome, carefull pulls a pamphlet from the press, the ink still wet. He ha it up to dry next to others on a rack. The pamphlet is titled, ANTI-SLAVERY REFORM. Minty enters. William peers through the pamphlets.
+38) 1) dialog: May I help you? She checks the daguerreotype against the man in front of
+38) 3) dialog: I am. And you are...? (CONTINUED )
+38) 6) dialog: Please, have a seat. William leads her to a chair by a desk. He disappears int back room and returns a few moments later with a cup of w and a weathered copper case, from which he removes a marb NOTEBOOK. He puts the cup in front of Minty and opens the book, dipping a pen in ink. Minty drinks the water, gratefully. WILLIAM STILL (CONT’D) What is your full name and where are you from? She hesitates. He tries to put her at ease. WILLIAM STILL (CONT’D) This book is full of fugitive slave histories. I keep a record of most of the slaves that come through Philadelphia. Some I have to find, most find me, as you have.
+38) 8) dialog: Edward Brodess is your master?
+38) 10) dialog: Not you, not anymore. Minty is quiet as she tries to grasp this concept. WILLIAM STILL (CONT’D) Where are the others?
+38) 13) dialog: You can tell me, Minty. I’m a friend. Who did you escape with?
+38) 15) dialog: You're... a brave and lucky girl, Minty. I don’t know if you realize how extraordinary it is, what you’ve done. By some near miraculous means, you've made it 100 miles, alone, to freedom. (collects himself) Would you like to choose a new name, to mark your freedom? Many ex-slaves do. Whatever name you want.
+38) 17) dialog: Very good. So, tell me, Harriet, how would you characterize your master? What kind of man was he?
+38) 19) dialog: Not all of them. Mr. Garrett just got you to me. (back to business) Did your master ever hurt you, physically? Do you have wounds? Scars from beatings? Harriet fingers the dent in her forehead.
+39) 2) dialog: (confused) Before it happened.
+39) 4) text: William is stunned. He makes a note in his book: possible brain damage.
+40) 0) text: William walks Harriet through town. He walks with confidence. Harriet, still resisting the urge to duck, lo at the whites around her, mystified.
+40) 2) dialog: Well, often you can tell immediately, by how they look at you. But sometimes you have to use your intuition.
+40) 4) dialog: Yes, your top eye. Harriet looks at the whites, trying to see their souls.
+41) 0) text: William and Harriet are walking through an enclave of bla laborers and freedmen. They approach a modest rooming hou and enter.
+42) 0) text: William goes to a counter and rings a bell. Moments later beautiful and sophisticated black woman in her thirties, MARIE BUCHANON, comes downstairs.
+42) 2) dialog: Good evening, Marie. This is a new arrival, Harriet Tubman. Harriet, this is Marie Buchanon. She is a friend and the owner of this establishment. (CONTINUED )
+42) 6) dialog: I am leaving her in your good hands, Marie. Good evening, ladies. William tips his hat and strides off, leaving them alone. Marie looks Harriet over.
+46) 0) text: Harriet barges into the office, barely noticing... The bustle of people, mostly white, engaged in various activities, passing pamphlets, signing petitions... William, writing at his desk, looks up.
+46) 1) dialog: Harriet! How are you?
+46) 3) dialog: That’s not how it works, Harriet. My “angels” are part of a sophisticated network, not for your personal use. Trust that we are doing what we can, for who we can. Harriet paces, wringing her hands.
+46) 5) dialog: Harriet, listen to me! Our work has gotten much more dangerous. Slaveholders are frustrated over the number of runaways. Federal judges, marshals and slave catchers are working together. Even congress is threatening to pass laws to appease the South. He can see that he’s lost her.
+46) 8) dialog: Don’t be ridiculous. I can’t have you risking your life and my network because you're lonely! Rescuing slaves requires skill and careful planning. Can you read a sign, or a map? Can you read at all?
+46) 10) dialog: Do you know what would happen if you got caught? They’d torture you, til you pointed them right to this office! You got lucky, Harriet. Be grateful you made it this far and pray for those yet to come. There’s nothing more you can do!
+84) 0) text: William Still is absorbed in his writing when Harriet bur through the door, followed by the freedom seekers - all e of them, plus the baby. William stands abruptly, looking at them in amazement. Harriet looks back at him, quietly triumphant.
+84) 1) dialog: Are these...?
+84) 3) dialog: Please introduce me! Which one of these fine men is your husband? Harriet falls silent.
+86) 0) text: Harriet, once again well-groomed and looking smart, walks down a dark alley off the main street with William Still.
+86) 2) dialog: He’s the fool. For a second their eyes meet.
+86) 4) dialog: I’m starting to believe that. That’s why I’m bringing you here. They come to what appears to be an abandoned warehouse do guarded by a man, wearing a pistol. Harriet looks at William, eyes questioning. Still nods to the guard. WILLIAM STILL (CONT’D) Good evening, Martin.
+86) 6) text: The guard opens the door. William leads Harriet into the darkened warehouse, past dusty kegs of wine.
+87) 0) text: William leads Harriet down a narrow stair and into a seri of rooms, well lit, with many candles fixtures on the wal and tables. Inside is a bigger interracial crowd than Harriet’s ever seen. It’s mostly black men, but there are whites as well some women too, conversing and socializing, as if it were normal. Several anterooms lead off from the main room, stacked fl to ceiling with wine bottles. On one long wall hangs a hu map of the United States, showing free and slave states a the territory open to slavery or freedom by the repeal of Missouri Compromise.
+87) 2) dialog: This is the Committee. The organizers and officers of the Underground Railroad, dedicated to helping slaves escape bondage. No one sees this. Only the initiated. Near the map is a blackboard, which reads: “CONDUCTOR -- PASSENGERS -- LOST”. Underneath are the names of the conductors written in cha and the numbers. All the conductors have lost some passengers. Still writes her name on the board and puts d “9” and “0" lost. William quiets the crowd. WILLIAM STILL (CONT’D) Ladies and gentlemen, may I present, a most extraordinary woman, Mrs Harriet Tubman. Harriet escaped from slavery herself just a year ago, and she’s already gone back to liberate others. She's brought back nine souls, and lost none. In recognition of her bravery and skill, I welcome her to the committee as a “conductor” on the railroad. (CONTINUED )
+87) 3) text: Some applause and murmurs of approval from the Committee. The men size her up. It’s a tough room. Harriet tries to process this. WILLIAM STILL (CONT’D) (low; to Harriet) They don’t necessarily like new members. You'll have to win them over. They’11 learn to trust you after a few missions. She eyes the men warily.
+87) 5) dialog: A conductor accompanies passengers, or “cargo” to safe houses, or “stations” run by “stationmasters”, like my friend Sydney Howard Gay, one of the main agents of the UGRR. Sydney, meet Harriet. SYDNEY HOWARD GAY, a white man in his 50s, shakes her han
+87) 7) dialog: Harriet, this is Fred Douglass, also from the Eastern Shore of Maryland.
+87) 11) dialog: May I present Mrs Lucretia Mott and her sister, Martha Coffin Wright.
+87) 15) dialog: And I believe you've met Thomas Garrett, chief station agent in Delaware. He will be your main contact. Garrett grabs her hand, warmly.
+87) 18) dialog: And these men are our chief conductors: Lewis Napoleon, who works closely with Sydney Gay; Moses Pinkett of Wilmington and George Wilmer, who is technically still enslaved in Kent County. The men nod coolly. Harriet is fixated on George Wilmer.
+87) 21) dialog: George Wilmer is an “abductor.”
+87) 23) dialog: Someone who steals slaves directly from the plantation, under the overseer's nose. They have the most dangerous jobs... (CONTINUED )
+87) 24) text: A big, powerful black man approaches, full of self- importance. WILLIAM STILL (CONT’D) (low) And the biggest heads. (louder) Harriet, meet John Clay. Clay towers over Harriet, extending his hand.
+88) 0) text: William Still, Garrett, Sydney Howard Gay and the conduct go over a map of the South and the slave states, showing slave density by county.
+88) 1) dialog: 4 million enslaved black southerners who need to be liberated, but all we can do at the moment is help a few at a time, while fighting the bigger battle to end slavery. (CONTINUED )
+88) 4) dialog: There are sympathetic captains and black jacks who will take you down the Chesapeake into Maryland, but it’s far too dangerous for you to go back to Bucktown. We’ll make every attempt to rescue your sister, but you must think beyond your family. You’re a conductor now, with duties and responsibilities to the Underground Railroad.
+95) 0) text: Harriet comes in with her passengers. William Still tries contain his relief. He and Harriet exchange a look filled with unspoken words. 72.
+96) 0) text: Harriet sits in a chair looking fierce and forbidding, as PHOTOGRAPHER takes her photograph. William stands by, watching her...
+97) 0) text: THE PHOTOGRAPH of Harriet, framed. William looks at it, l in thought. His beautiful, FAIR-SKINNED WIFE watches him. She puts a basket of food in front of him. He tears his e from the photograph and embraces her.
+99) 0) text: JUMP CUTS - FUGITIVE after FUGITIVE makes testimonials in William Still’s office.
+101) 0) text: Harriet and William are alone, in mid-argument.
+101) 2) dialog: I said I'd try, and we have! She works in the Brodess house. She’s been impossible to reach.
+101) 4) dialog: I’ve told you, it’s too dangerous to go back there. I forbid it!
+101) 6) dialog: Harriet, these are dangerous times. Everyone is looking for you!
+111) 0) text: Harriet hurries through streets, which are a mass of confusion. Black families rush past with all their possessions in carts. 80. Jasper In the center of town William Still stands on a makeshift platform, with a group of abolitionists.
+111) 1) dialog: Fugitives, beware! There are slave hunters in our midst! Congress has passed the Fugitive Slave Act, allowing slave-hunters to pursue slaves in any state in the Union, and obliging law enforcement to turn over fugitives! Prepare to fight or flee north to Canada! William spots her and jumps from the platform, fighting h way to her. WILLIAM STILL (CONT’D) Harriet! Thank God you’re safe! I sent five men looking for you! You have to go north to Canada immediately. I put your family on the last train with Douglass. He’1ll get them to the border. Harriet is weak with relief.
+111) 3) dialog: You must leave now. I’11l arrange a carriage. (CONTINUED )
+111) 6) dialog: Harriet, your life is in danger. Brodess will come looking for you here. For the sake of the network, you must go! Shaken, Harriet nods.
+111) 8) dialog: Hurry. William moves back to the platform. Harriet watches, stunned, as a small MOB OF VIGILANTES storm the crowd, clashing with the abolitionists. It quickly becomes viole
+114) 16) dialog: 
+114) 19) text: Jasper pulls Harriet aboard, shouting to his FIRST MATE t set sail. As the boat pulls away, Harriet takes in the scene... The desperate faces of those left behind, John Brown's fury... William’s stricken face... Her eyes meet Gideon's... Gideon tips his hat. It’s not over.
+119) 0) text: Carriages arrive at the secluded estate in the rural and remote upstate town. ARMED GUARDS greet the guests, both black and white. We recognize members of the Underground Railroad. Harriet is helped from a carriage by a guard. She’s dress in all black, wearing her grief like a gilded mantle. It’ become her superpower. William Still rushes to meet her.
+119) 1) dialog: Harriet! He embraces her deeply, holding her tight. WILLIAM STILL (CONT’D) I’m so terribly sorry about your sister. The look in her eyes chills his bones.
+119) 4) dialog: Harriet, this is Senator William Seward.
+121) 3) dialog: How are we going to get our passengers from the southern farms and plantations all the way to the Canadian border? The room falls into depressed silence.
+121) 5) dialog: Perhaps civil war is our only hope. Harriet looks at them, incredulous. (CONTINUED )
+121) 8) dialog: Harriet, it’s 600 miles from Maryland to the Canadian border. Your longest trip so far has been 100 miles. It would take months, not weeks. You can’t--
+123) 0) text: William Still gallops on horseback, fueled with urgency. 89.
+124) 0) text: A meeting of the Committee is in progress. It’s just the core group, mostly black, plus Senator Seward and a few hardcore abolitionists. William bursts in.
+124) 1) dialog: Where’s Harriet?!
+124) 3) dialog: John Clay has been captured in Maryland! Everyone reacts, their worst nightmare come true. WILLIAM STILL (CONT’D) Harriet, they know your identity. Who knows what else he gave up. We must assume everything. We have to go dark while we assess the damage. ON HARRIET pondering this.
+126) 0) text: William Still and Harriet are mid-argument.
+126) 1) dialog: When were you going to tell us?
+126) 4) dialog: (exasperated) That my star conductor has seizures? I did not! Good God! It’s a miracle you're still alive. (beat) Well, it’s over. With Clay captured...
+126) 6) dialog: Harriet, every slave-catcher in Maryland is looking for you. If they catch you, whatever they did to Clay, they’1l do worse to you. You can’t... (catches himself.) Senator Seward has offered you this home on his property, for you and your family. You'll be protected here. You can be a stationmaster.
+126) 8) dialog: I won’t have you captured and killed. I’m removing you from the network.
+126) 10) dialog: Mad?
+126) 12) dialog: I can’t lose you.
+126) 14) dialog: Don’t be cruel.
+126) 16) dialog: If I had met you first... (CONTINUED )
+126) 19) dialog: How could you be? I never dreamt God made such creatures. Harriet is moved. They stand close to each other, the air electric between them, dwelling for a moment in intoxicat possibility... before reality sobers them.
+126) 21) dialog: Yes, I suppose I should. Please be safe. The movement needs you, Harriet. Goodnight.

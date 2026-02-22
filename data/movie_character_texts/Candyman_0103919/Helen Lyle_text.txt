@@ -1,0 +1,355 @@
+0) 5) text: dissolve. Helen, in her mid-twenties, listens intently <= someone we cannot yet see. eS The bees appear to float across her fine features thro
+5) 18) text: We are in a research room at the University of Illinois. Monica sits opposite HELEN, who listens impassively.
+6) 0) text: Helen and Monica walk into the corridor outside the resea room. Helen shakes Monica’s hand.
+6) 1) dialog: Thank you. Monica heads off down <=n2 corridor, which is bustling wi students. We follow H n in the opposite direction. She knocks on a door and enters.
+7) 1) dialog: (seeing they are busy) Oh... sorry.
+7) 5) dialog: 
+7) 14) dialog: (laughing at her) Another dead end?
+7) 16) dialog: 100 per cent chicken. Sorry.
+7) 18) dialog: Maybe...but we'd get that slob Purcell right where he lives.
+7) 20) dialog: Trevor thinks they're going to ‘make him head of the anthropology department. It's unbelievable. His data is so secondhand...
+7) 24) dialog: And you and I are gonna nail him.
+8) 1) dialog: That girl, is she alright? She wouldn’t look at me and I swear she was blushing. Trevor gives a wicked grin.
+8) 3) dialog: Bighead. (changing the ” subject) Any news on Purcell?
+8) 5) dialog: He got the job.
+8) 7) dialog: He makes my flesh crawl. Trevor laughs and kisses her.
+9) 2) dialog: Hello...” The door opens and HENRIETTA, a black woman in her fortie Peers round the door.
+9) 4) dialog: Sure. Don’t mind me. Henrietta enters, leaving her cleaning cart in the corrid and starts emptying garbage. Helen switches on the tape gain.
+9) 8) dialog: You’ve heard of him?
+9) 10) dialog: Um... yes. What do you know about him?
+9) 14) dialog: Cabrini Green?
+9) 16) dialog: Could I talk to your friend? Henrietta laughs.
+10) 0) text: Henrietta turns back te Helen.
+10) 5) dialog: (proffering her hand) I’m Helen Buchanan.
+10) 11) dialog: Kitty... it may not seem much to you, but I’d really like to know... Kitty sits and begins her tale.
+10) 13) dialog: Do you know her name?
+10) 21) dialog: She was shot?
+10) 25) dialog: intrigued, a whole new avenue opening up.
+11) 3) dialog: her brow furrowed in concentration.
+11) 6) dialog: chilled. WIDE VIEW . Helen crosses the massive high tech library. She is alone and it is dark.
+12) 1) dialog: Look...
+13) 0) text: The apartment reflects Helen’s enthusiastic and outgoing nature. It is smart without being uncomfortable. A proper home. Helen shows Bernadette a photocopy of the article on Ruth Mae’s murder.
+13) 2) dialog: That’s net the half of it. She hands Bernadette a pile of photocopies. She leafs through them.
+13) 6) dialog: That’s Cabrini Green, not that you’d recognize it now.
+13) 8) dialog: Look carefully at this picture... (she turns the page) ++.-and then this one... spot it?
+13) 10) dialog: That’s not Cabrini Green. That’s this building... Sandburgh Village! My apartment was built as a housing project.
+13) 13) dialog: Once it was finished, the city soon realized that there was no barrier between here and the Gold Coast; no freeway or El Train to keep the. ghetto cut off...So they did some minor alterations, clad the cinderblock in plaster and sold the lot off as condos.
+13) 14) text: How did they get away with that? Helen gets up and heads for the bathroom.
+13) 15) dialog: Well they did. Come here...
+14) 0) text: wn Helen shows Bernadette the bathroom. It is small, with & shower, the tub, the sink and the toilet crammed in. Ab the sink a medicine cabinet is set into the wall. The . cabinet has a mirrored door.
+14) 2) dialog: Here’s the proof. Helen opens the medicine cabinet.
+14) 3) dialog: It’s all in the article about Ruthie Mae’s murder... (she hands the Papers to Bernadette) The killer, or- killers, they don’t know which, smashed his way through the back of the cabinet... (she raps the back of the cabinet with her knuckles) There’s no wall there. One piece of plywood separating us from next door. Helen starts to pry open the back of the cabinet.
+14) 4) dialog: Look.
+14) 6) dialog: It’s okay. The apartment’s vacant. Helen holds the wood panel open a crack and Bernadette pe through. BERNADETTE’S POV THROUGH THE CRACK 25 A dark bathroom, identical to Helen’s.
+15) 1) dialog: What’s wrong?
+15) 5) dialog: (laughing) There can’t be.
+15) 8) dialog: There’s more. They even printed the address... Apartment 404 is where it all happened. We finally have a trail to follow... They catch sight of themselves reflected in the mirror an both simultaneously have the same thought.
+15) 9) dialog: (chanting together, giggling) Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, Candyman... They pause, knowing it to be the thirteenth time...
+15) 10) dialog: -Ready? Candyman! Bernadette looks sheepish.
+15) 11) dialog: Chicken...
+15) 16) text: 28 20. Helen asleep in bed. She is alone. Trevor has not returne We move close onto Helen. The sound of splitting WOOD suddenly wakes her. It is com from the bathroom. Helen lies still on the bed, listening From the bathroom comes another sound: a male GRUNT. Still half asleep, and unsure of what is happening, Helen eyes scan the room for a weapon. She hears FOOTSTEPS walking tot he bedroom. Helen watches the doorway, silently panicking. She sees nothing, just darkness. Then the sound of BREATHING, deep, male, terrifying. Suddenly, in the gloom, she sees the figure of a MAN, lun towards the bed. . Helen finds her voice and screams. The man grabs her. Hel fights back with all her strength. A light is switched on.
+15) 19) dialog: What time is it?
+16) 0) text: Helen is driving, Bernadette is next to her. Both are dressed formally, both seem tense. Bernadette goes throug her bag. We see its contents; a can of Mace, an alarm. Helen sees her do this.
+16) 1) dialog: What's with the arsenal? We're only going eight blocks.
+16) 3) dialog: I said dress smartly.
+16) 6) text: Following the car as it turns left and drives into Cabrin Green. Crumbling highrises slide through the frame as Helen’s car makes its way across the empty cracked blackt past burned out cars and shattered streetlamps.
+17) 0) text: Helen and Bernadette drive slowly through Cabrini. Guardi the entrances to the building are groups of Gangbangers. They stare at the passing car.
+17) 1) dialog: Which way? Bernadette’s attention is distracted by the eyes boring i her.
+17) 7) dialog: Let’s stop and ask.
+17) 9) dialog: (seeing the sign on the building) Building “2”... this is it. As they get closer we see that a group of five Gangbanger stand barring the way to intruders.
+17) 10) dialog: Let’s go. Bernadette is staring at the Gangbangers, not wanting to out of the car.
+17) 11) dialog: What d'you think's going to happen? They're going to shoot you? Rape you?
+17) 13) dialog: ‘Then let's go.
+17) 18) dialog: (grinning) With the cheeks of your ass stapled together.
+18) 0) text: Bernadette gets out of the car after Helen. She tries the cop walk. The Gangbangers watch their approach.
+18) 1) dialog: (to Gangbangers) Hi. They do not reply but continue staring, unsure of what they’re dealing with. Helen walks past them to the entran hall.
+19) 0) text: Helen and Bernadette stand in the small entrance hall. Shattered mail boxes opposite steel elevator doors. Every available surface is covered in graffiti; multiple layers designs, names, incomprehensible scrawl. An explosion of discordant primary colors. i Inside the building seems so derelict and unwelcoming tha human being could inhabit it. Helen and Bernadette walk t the elevators and push the call button. The Gangbangers watch. There is a long pause. Bernadette feels eyes borin holes in the back of her neck. Then one of the Gangbanger gives a short laugh. Helen calls the elevator again. It i clearly not working. Helen turns determinedly and leads : Bernadette to the stairwell. They start to walk upstairs.
+20) 0) text: The windows are boarded and there are no lights. We follo Helen and Bernadette as they climb the stairs, which twis right angles every ten steps. Each corner is totally blin who knows what may lie ahead. They hear the Gangbangers shouting up the stairweil, voices echoing.
+20) 5) dialog: The walk sold it. Bernadette smiles to cover her anxiety.
+21) 0) text: Helen and Bernadette emerge onto a ramp. A grille is fixe across the balcony like a prison. As they walk along, a giant message is revealed, painted in extravagant colors the opposite wall. It reads:
+21) 2) dialog: Hello... I’m sorry if I- Anne-Marie slams the door shut, leaving Helen and Bernade alone on the ramp again. Helen continues to photograph th design. The graffiti seems to converge, perhaps even poin to a battered door at the other end of the ramp. Taking pictures all the way, Helen is inexorably drawn towards t door. Bernadette follows, increasingly uncomfortable. The door bears the number 404.
+21) 3) dialog: Here it is...
+21) 5) dialog: Hello... No answer. She pushes the door open.
+22) 3) dialog: What’s the problem? Bernadette has lost her nerve.
+22) 5) dialog: It’s okay... there’s nothing to see. We see the broken, soiled bathroom fittings. The layout i the same as Helen’s.
+22) 6) dialog: Wait a minute... She sees the medicine cabinet. Helen opens it. The back pane has been smashed through, leaving a gaping black hol Bernadette moves close to Helen, she shivers.
+22) 14) dialog: Alright... Bernadette breaths a sigh of relief.
+22) 15) dialog: (referring to the hole in the cabinet) Just help me up and as soon as I get back we’ll be out of here.
+22) 17) dialog: It's just a derelict apartment.
+22) 19) dialog: You want to nail Purcell or not?
+22) 21) dialog: Help me up. Bernadette pauses.
+22) 22) dialog: I promise I'll be quick. Bernadette reluctantly helps Helen up through the hole. lands on the other side with a clatter.
+23) 0) text: Helen moves cautiously through the next door apartment. I is in a similar state of dereliction. She takes photos, using the moment of light from the flash on her camera to guide her way through the sordid piles of garbage. In the far wall of what must once have been the living room, a l hole has been sledgehammered. The thin cinderblock smashe through with ease. Helen clambers through lead deeper and deeper into this labyrinth.
+24) 0) text: We PULL BACK with Helen as she scrambles through the seco hole. The CAMERA reveals something she has not yet seen: A VAST HEAD has been sprayed onto the bare cinderblock ar the hole, which is placed centrally like a mouth. Cheekbo jutting through the dark skin; teeth sharpened to irregul points, all converging on the hole. It is a face filled w ruined beauty, at one terrifying and perversely attractiv A nightmarish vision, to be sure, but somewhere in his ey is a melancholy. Helen turns and sees the painting. His eyes fix merciless She raises her camera. There is a whirring sound as she h come to the end of a roll of film. Her bag with the replacements, she left with Bernadette.
+24) 1) dialog: Idiot. Her feet stumble against a squalid mattress on the floor. She glances down. Something glistens in the light. Helen beds down to look more closely. It is a handful of candies — chocolates and caramels — wrapped in bright pap She opens one and jumps. Something has pricked her finger
+24) 3) dialog: gingerly picking through the candy. Underneath it are a dozen razor blades. There is blood on several. Bernadette waits by the hole, immobilized, willing Helen
+25) 0) text: return. Helen’s head appears in the hole.
+25) 3) dialog: Bernadette—
+25) 4) text: Bernadette jumps, and then helps Helen out of the hole.
+25) 5) dialog: I've got to go back... ran out of film... Bernadette has really had enough.
+25) 7) dialog: Who— ? The figure holds a Rottweiler at bay on a chain. It is An Marie, the woman who peered at them from the door.
+25) 12) dialog: We’re not cops. (extending. her . hand) We're from the University.
+25) 14) dialog: I’m Helen Buchanan, and this is Bernadette Walsh. We’re working x on athesis. We'd like to talk to = you if you have the time...
+25) 18) dialog: No... Here... (she hands Anne- Marie her card) It’d only take five minutes...
+26) 0) text: Anne-Marie arrives at her door. Helen close behind.
+26) 2) dialog: Believe me, that’s the last thing we’d want to do. Anne-Marie enters her apartment. We hear the baby HOWLING Helen glimpses inside. In total contrast to the abject squalor of the common parts, Anne-Marie has built a home herself. The furniture may be old and tattered, but the place is clean and comfortable.
+27) 0) text: The Rottweiler holds Helen at the threshold while Anne-Ma goes to the baby and picks him up.
+27) 6) dialog: He’s a beautiful boy.
+27) 8) dialog: What's his name?
+27) 10) dialog: I'm sorry if we disturbed you.
+27) 14) dialog: Let me help. She picks up the cloth and sponges Anne-Marie's shoulder.
+27) 16) dialog: No. I'd love one though.
+27) 18) dialog: Yes.
+27) 21) dialog: Who?
+28) 13) dialog: We’re not ready.
+28) 15) dialog: Actually, Purcell, I think we’re about to bury you. The table goes quiet. Bernadette looks pained. Trevor angry.
+28) 24) dialog: How did you know that we’d traced the legend to Cabrini?
+28) 26) dialog: (quiet) No.
+28) 30) text: Helen listens, hating the teller, but caught by the tale.
+29) 1) dialog: staring into his eyes. Almost hypnotized. She raises her camera and takes a series of shots in rapi succession.
+29) 3) dialog: Candyman... 42 43 44 45 46
+30) 0) text: Helen emerges from apartment 404, glad to be out of there She walks down the ramp to Anne-Marie’s door. A BOY, eigh years old, stands on the ramp, as if waiting for her. He glittering eyes and a strange air about him, as if he wer far older than his years. Helen knocks on Anne-Marie’s do
+30) 2) dialog: Oh. Are you sure? BoY Yeah. She said you'd be back. Helen knocks again. The boy stands waiting, impassive. There is no answer. Helen peers in through the windows. I is dark inside. Suddenly a pair of eyes confront her. The dog has jumped up at the window. It stands on its hind le panting., The boy is still waiting. Helen squats down to height.
+30) 3) dialog: What’s your name?
+30) 5) dialog: Listen, Jake, I’m Helen. Maybe you can help me. There are some things I need to know about ‘the lady who got killed. Jake does not react.
+30) 6) dialog: Do you know anything about that? Jake stand motionless, then slowly shakes his head.
+30) 7) dialog: Her name was Ruthie Mae.
+30) 9) dialog: Didn’t anycne talk about it? Jake stares at her.
+30) 13) dialog: Jake, it’s okay to tell me. I’m not..a cop. Nobody will get in trouble.
+30) 16) dialog: Candyman? (pause) Are you scared of him?
+30) 18) dialog: I don’t scare easy either, Jake. You don’t have to tell me anything. (pause) Just show me... show me where I can find Candyman. And I’1l make a promise to you. It’ll be our secret.
+30) 20) dialog: You sure you ain’t scared? Jake looks insulted.
+32) 0) text: Helen and Jake are on the perimeter of the project. A cru little street with a small row of stores. The stores are defended with grills and mesh on their windows that it is difficult to say whether they are open or closed. Nearby a basketball court. A group of Gangbangers loiters there. They watch, but keep their distance. By the basketball co is a public urinal, a low concrete block, graffiti encrus and emitting a stench that leaks out onto the street. Jak stops in front of it. Jake points at the door.
+32) 2) dialog: Candyman is in there?
+32) 4) dialog: Who was it?
+32) 6) dialog: Crazy?
+34) 0) text: Jake telling the story to Helen.
+36) 2) dialog: He was murdered?
+38) 2) dialog: Did Candyman do this? Jake nods. Helen raises her camera and takes a shot of the urinal.
+38) 3) dialog: Wait here. Helen enters the urinal.
+39) 0) text: Inside, the filth is indescribable. Helen nearly gags as stench hits her. There are three stalls opposite three filth-encrusted urinals. The basins are smashed and hang limply from the wall. Helen starts taking pictures. The doors to the stalls are all shut. Helen approaches th first one, stepping over ominous puddles. She pushes the door open, revealing a sordid toilet. Helen looks in the second stall. The same. Helen opens the door to the third stall. . On the wall, in massive letters, written in shit, there i message:
+41) 0) text: Helen hears FOOTSTEPS approaching the urinal. A tall man a long black leather coat enters, walking slowly. Three others follow him. Seeing Helen, they stand and stare. Nostrils flaring at the overpowering stench.
+41) 1) dialog: Excuse me curs. I’m done here. I’ll be ouc of your way. She moves to go. They are blocking her exit.
+41) 6) dialog: (in control of her fear) I’m not interested in your business. I’m from the University of Illinois. I don’t want to interfere, or cause you any kind of problem... They advance towards her. One of the men goes to g: arm from behind. She twists it away for the moment
+41) 7) dialog: (aggressive) Don’t touch me, asshole!! They pause. The invisible line has been crossed. in real danger.
+41) 8) dialog: You are not being smart. My colleagues know where I am. I am expected back. You fuck with me and so much heat will come down... The man in the leather coat considers this for a mo
+42) 0) text: Jake watches the urinal, frozen. We hear Helen’s SCREAMS mixed with the sound of BLOWS raining down on her. all is quiet. The four men file out of the urinal. Suddeni; When they have gone, Jake slowly approaches the door.
+43) 0) text: The door opens, revealing Helen lying on the floor. She i covered in blood and badly beaten. She tries to pick hers up off the floor. Jake regards her.
+44) 2) dialog: Number six.
+44) 4) dialog: How did you catch him?
+44) 6) dialog: Oh.
+44) 8) dialog: Did he kill Ruthie Mae?
+44) 15) dialog: What about the boy, Jake?
+45) 0) text: Jake sits forlornly with an officer. He looks scared. Fra shows Helen into the room. Jake barely looks up at her. S goes over to him and puts her arm around his shoulder.
+45) 1) dialog: I wanted to thank you Jake... for saving my life. He looks at her accusingly.
+45) 5) dialog: It is Jake. You don’t have to go to court.
+45) 7) dialog: Candyman isn’t real. It’s just a story. Like Frankenstein or Dracula. A bad guy took his name
+45) 10) dialog: to scare you. He’s locked up now and everything will be alright. Jake believes her, but instead of showing relief, his fac falls.
+45) 14) dialog: I feel much better. Helen has cooked dinner, the table is laid for two. She s Trevor down and goes into the kitchen. She returns with t plates of food. Trevor’s face fills with anxiety. . The f looks exquisite.
+45) 15) dialog: You’ve already. eaten?
+45) 17) dialog: You sure you don’t want desert? Trevor looks stuffed to bursting. 46.
+45) 20) dialog: Don’t worry, it’ll keep. That’s not what I was thinking.
+45) 22) dialog: The look on that kid’s face when I told him that Candyman didn’t exist. It was like he just found out the truth about Santa Claus.
+46) 0) text: Bernadette embraces Helen.
+46) 3) dialog: You know what bothers me about the whole thing? Two people get brutally murdered, and the cops do nothing. A white woman gets attacked and they lock the place down. Kind of shows their é priorities, eh?
+47) 0) text: Helen and Bernadette descend in the elevator.
+47) 2) dialog: The photos?
+47) 4) dialog: (taking the slides) I’d written them off, the camera was so smashed... The elevator door opens. Bernadette goes to leave, but pauses, holding the door. .
+47) 6) text: “We did it, didn’t we? They embrace again and then Bernadette leaves to find her car. Bernadette shouts back to Helen as the doors close.
+47) 8) dialog: See you there.
+48) 0) text: Helen leaves the elevator and walks towards her car. She vaguely notices the man, a talk dark silhouette, standing if waiting for something, but she pays him little attenti Helen arrives at her car and searches in her bag for her keys. A dark shape crosses the foreground.
+48) 2) dialog: (friendly) Yes?
+48) 4) dialog: (still friendly) Do I know you?
+48) 8) dialog: (wary) I’m late...
+48) 11) text: 73 74 49. He moves towards her and light falls on his face. Helen freezes. The fine cheekbones, the sparkling eyes. She has seen this face before.
+48) 14) dialog: Her eyes fill with terror.
+48) 17) dialog: Her eyes roll up. She passes out.
+49) 0) text: Helen lies sprawled on the floor. She is covered in blood as is the bathroom. She checks her torso with her hands. She is intact, the blood is'not hers. We hear the SCREAMI and MOANING coming from the other room. The bathroom is identical to her own, but slowly she realizes where she i Cabrini Green. Helen picks herself up off the floor. The gouts of blood extend out into the hall. A butcher’s cleaver lies discar on the floor. Helen picks it up for protection.
+50) 0) text: Helen moves gingerly through the dark apartment. The woma voice continues. It is Anne-Marie’s voice.
+51) 5) dialog: (trying to back away) No! Stop! Stop!
+52) 0) text: being sledgehammered in. Anne-Marie lunges. Helen pulls the blade away in time.
+52) 1) dialog: Stop! Calm down!!
+52) 4) dialog: Wha— The door caves in. Helen glances over her shoulder, still keeping Anne-Marie at bay.
+53) 0) text: A helicopter hovers by the building, its light trained on Anne-Marie’s apartment, bathing the scene in an eerie glo Helen tries to speak but the ROAR of the chopper drowns h out. Faces stare at her from doorways. Their expressions filled with hatred. Helen is led away, her feet tripping as they frog march h along.
+54) 0) text: The Policewoman face Helen. Disgust on their faces.
+54) 2) dialog: (indicating her bloodstained clothes) Could I shower?
+54) 5) dialog: Io want tc speak to Detective Valento.
+55) 0) text: Helen, her face washed but still wearing her bloodied clothes, sits waiting in the small featureless room with Policewoman. Frank Valento enters with O’GRADY, his partn a big mean looking detective.
+55) 3) dialog: (relieved) Frank... I have to talk to you... The detectives sit.
+55) 5) dialog: Please, let me explain...
+55) 7) dialog: Yes, but listen—
+55) 9) dialog: This is crazy. I was attacked. O’ GRADY Respond to the question.
+55) 10) dialog: I understand... look, Frank, he came after me, he’s trying to kill me... Frank ignores her and reads from a file.
+55) 15) dialog: (confused)
+56) 0) text: Helen stands by the payphone dialing, the Policewoman standing guard. She waits anxiously for a connection. INT. HELEN’S APARTMENT ~ NIGHT . 34 The PHONE RINGING. There is nobody there, the bed is unsl in. The message machine picks up.
+56) 2) dialog: (through phone) Trevor... are you there?... Pick up! 85 86
+56) 5) dialog: (continuing; through phone) It’s an emergency... are you there?
+57) 0) text: Helen puts the phone down.
+57) 1) dialog: (to policewoman) It’s three a.m., where is he?
+58) 0) text: The door CLANGS shut, leaving Helen locked up alone. She sits on the bare bench trying to make some sense of all t She hears a KNOCKING on the wall from the next cell. Then VOICE.
+58) 3) text: The door is thrown open. Helen looks up from the bench. has not slept at all. Trevor enters with an expensive ATTORNEY. Trevor rushes c to her and helps her =: her feet. She is too exhausted tc show any emotion.
+59) 0) text: Trevor helps Helen along the corridor, the attorney walki beside them. Cops and police department workers stare as they pass. They reach the front of the building. Through the glass doors they can see Journalists and TV Reporters waiting. Helen hides behind Trevor. The attorney, John, takes char
+59) 1) text: (to Trevor) Cover her face... say nothing. It’s half a block to the car. Trevor takes off his jacket and covers Helen. They move through the door, to face the gauntlet.
+60) 0) text: A barrage of questions from the reporters. They plunge through the reporters, who fire. questions. INT. HELEN’S APARTMENT - DAY 30 -—_-The-image of Helen being led,. with the jacket coveri head to the car is on the TV. Helen sits silentiy on the couch, watching. ,
+60) 11) dialog: (quiet) Do you think I did it?
+60) 13) dialog: But it’s crossed your mind.
+60) 15) dialog: I saw him... he threatened me and .I blacked out. I...I don’t know what. happened. When I woke up I was in that place...and there was blood everywhere... (pause) I think he’s trying to destroy me... . Trevor regards her.
+61) 0) text: Helen lies in the bath, half-heartedly washing herself. Trevor appears at the door.
+61) 2) dialog: No, it’s cxay. Trevor kneels down by the side of the bath and kisses her
+61) 6) dialog: Trevor...
+61) 8) dialog: Where were you last night?
+61) 10) dialog: I needed you and you weren’t there. Trevor puts his arms around her.
+61) 12) dialog: You promise?
+61) 15) dialog: You go. I'll be fine.
+62) 1) text: ng room, drying her hair. Her gaz falls on the bag full her belongings that were taken c her when she was arrested. A thought occurs to her. She opens the bag and gets cut the box of slides. Helen walks into the
+63) 2) text: Helen has pulled the drapes shut. She projects the slides large on the living room wall. :
+63) 4) dialog: clicking the images through the gate, rapidly. She pauses
+63) 7) dialog: thinking. She continues.
+63) 9) dialog: regarding the image, her mind racing.
+63) 10) dialog: {to herself) Proof... I need proof...
+63) 13) dialog: sighs and clicks backwards through the slides.
+63) 20) dialog: frowns, something has caught her attention. She moves the Slides forward again.
+63) 22) dialog: twists the zoom lens on the projector, enlarging the imag the wall. .
+63) 27) dialog: switches off the projector. A feeling of dread washing ov her.
+63) 28) text: Helen throws open the drapes, letting the light flood in. She turns slowly to the corridor. HELEN’S POV The corridor leading frcm the living room to the bathroom The door is open. We see the medicine cabinet. [ts posic identical to the photcgraph.
+63) 29) text: HELEN walks towards the bathroom.
+63) 32) text: 94 95 61. HELEN’S POV moving towards the medicine cabinet, reflected in its mirrored door.
+64) 0) text: Helen backing away from the bathroom. We hear the SOUND o the cabinet being torn from the wall. She heads for the kitchen. As she does so, we see:
+64) 3) dialog: Get out of my house! Helen glances over to the kitchen. A rack of knives glint in the sun. Helen edges closer to the kitchen. Candyman move towards her.
+64) 5) dialog: What do yiu think?
+64) 7) text: nen door to Helen’s left. The
+64) 10) text: e 96 62. Candyman suddenly lashes out with his hook tearing a gash the wall with superhuman strength. Helen darts for the kitchen.
+65) 0) text: She grabs the largest knife and turns to face him. We hea his footsteps leisurely approaching. Helen grabs a large frying pan, rams it on the stove and pours a bottle of oi into it. She turns the gas on high. Candyman appears in the doorway.
+65) 1) dialog: Keep away from me!! As he stands there we hear the BUZZING of the bees that emanates from him. He moves slowly towards her.
+65) 12) dialog: No.
+65) 14) dialog: Oh God... no... no... Candyman readies his hook for the thrust. Helen closes he eyes, expecting the moment of death. The DOORBELL rings. EXT. HELEN’S. APARTMENT - DAY Bernadette pushes =he dcorbell. She stands waiting with a bunch of flowers for Helen.
+66) 2) text: He picks up the knife. shaking. Candyman moves away = Helen sinks into the ccrner, Ww
+67) 0) text: Bernadette waits. The doorknob turns. Bernadette smiles expecting to see Helen on the threshold. The door swings open.
+68) 0) text: Helen crouched on the floor. She is shocked to hear wBernadette’s voice. ,
+68) 1) dialog: Get out of here!! Run!! He’s here!!
+69) 0) text: Bernadette moves quickly towards Helen’s voice.
+70) 0) text: Helen screams at her.
+72) 1) text: We hear one SHRIEK and then the most TERRIBLE RIPPING SOU Helen screams.
+72) 2) dialog: Nooooo!!!! NooooCO!!!!! Tears run down her cheeks. We hear FOOTSTEPS approaching kitchen and GUTTURAL BREATHING, deep male, terrifying. He grabs a knife, ready to fight to the last. A figure appears in the kitchen doorway. It is Trevor. He is white as a sheet, his mouth slack with shock. Helen fa him, her face smeared with blood from the shallow wound o her neck, brandishing a knife. :
+72) 4) dialog: Trevor... he’s here... he’s here... She sinks to her knees and blacks out. - FADE OUT. ®
+72) 6) dialog: Don’t let him kill me.
+72) 7) dialog: eyes opening slowly. Then a sudden sharp pain.
+72) 8) text: on a hypodermic discharging into her arm. HELEN’S POV A Doctor leaning over ner. She is on the bed. Everything smashed in the room. The sound muffled. Trevor is by the bed, shaking, terrified.
+72) 15) dialog: trying desperately to speak. She can only croak.
+72) 19) dialog: puzzled. HELEN’ S "POV looking to the side of the bed. A Policewoman sits watchi her. Some Cops move through the room.
+72) 20) dialog: She swallows to lubricate her throat.
+72) 21) dialog: (croaking) Trevor... The Policewoman regards her severely. Helen tries to get Her hands are bound with plastic cuffs. She starts to pan
+72) 22) dialog: (louder) Trevor. Helen tries to raise herself, it is hard without the use her arms. The Policewoman moves forward and holds her dow by the shoulders.
+72) 23) dialog: What— ? She starts to struggle, crying to wriggle off the bed.
+72) 24) dialog: Get off me...
+72) 29) dialog: Her hand goes involuntarily to her mouth. The Policewoman grabs her from behind and holds her. HELEN’S POV Faces staring at her. Trevor looks up from the couch, ash faced. Frank Valento is with him.
+72) 30) dialog: too shocked to speak. Her mouth moves but no sound comes. long terrible moment of silence.
+72) 32) dialog: Trevor... He cannot look.
+72) 33) dialog: She turns to the Policewoman.
+72) 34) dialog: Where are we going? No answer. HELEN’S POV Faces staring.
+72) 40) dialog: She starts to struggle. She turns back to the living room HELEN’S POV Faces staring. Trevor cannot look. Frank turns to him.
+72) 42) dialog: As Trevor approaches, she starts to cry.
+72) 43) dialog: Hold me Trevor. Hold me. Trevor puts his arms around her awkwardly. Helen’s legs g way and she passes out.
+72) 46) dialog: (barely audible) He’s going to kill the baby.
+72) 49) dialog: ner head lolling against the car window, city lights play across her face. Her eyes wander, drugged.
+72) 50) dialog: He’s going to kill the baby.
+74) 0) text: Helen is wheeled along the corridor on a gurney.
+74) 2) dialog: calling back to him.
+74) 3) dialog: Trevor! HELEN’S POV The doors shut behind the gurney, cutting off her view of Trevor. An Orderly lecks them fast, like a jailor.
+74) 4) dialog: still looking back to him.
+74) 5) dialog: (shouting) Trevor!
+75) 0) text: The room is totally bare except for a bed which is bolted the floor. Orderlies lift Helen onto the bed. Then with the speed and efficiency of executioners, they strap her down with thick leather belts attached to the b helen starts to struggle.
+75) 1) dialog: Hey! What is this!!? They strap her feet, legs apart. Her hands.
+75) 2) dialog: Stop!! A beit straps across her waist and another across her che
+75) 3) dialog: You can’t do this!!! (panicking) He’1ll come for me!!! She is utterly immobilized. The Orderlies file out and lo the door.
+75) 4) dialog: (shouting after them) I can’t defend myself!!! She is left alone in the room. Helen’s eyes dart around t room. She starts to hyperventilate. Through the window in the door, she sees an Orderly peering in to check on her, then disappears from view.
+75) 5) text: Looking down on Helen strapped to the bed. Slowly, from underneath the bed, unseen by Helen, Candyma slides into view.
+75) 12) dialog: 
+75) 15) dialog: 
+75) 19) dialog: 
+75) 28) dialog: I will destroy you. You are evil. Candyman seems sad at her rebuttal.
+75) 30) dialog: HE’S HERE!!! HE'S HERE!!! The Orderly peers in. Candyman darts back under the bed.
+75) 31) dialog: HELP ME!!! HE’S UNDER THE BED!!! The door to the isolation room bursts open. Two Orderlies enter. They see Helen writhing and screaming in her restraints. There is nething under the bed. The Orderlies barely react. This is an everyday occurrenc on the ward. One of them prepares a hypodermic of thorazi
+76) 0) text: Helen wakes on the bed. Orderlies are undoing her restraints. Helen sits up groggy.
+76) 1) dialog: I want to speak to my husband...
+76) 3) dialog: How long have I been out?
+77) 0) text: We move with Helen as she is led down the corridor by the Orderlies. She passes wards where patients sit shoveling food into their mouths or just staring into space. Some twitch and jerk and jabber to themselves. The pass through doors. The Orderlies carefully unlock an relock them as they continue through the hospital. They arrive at an office door and enter. INT. DOCTOR JAFFE’S CONSULTATION ROOM - DAY 2117 As Helen is shown in, DOCTOR JAFFE, a clinical psychiatri in his mid-forties, stands and extends his hand. The Orderlies exit and close the door.
+77) 2) dialog: (still standing) I want to see my husband.
+77) 4) dialog: What?! Have I been sectioned? How long have I been here? Jaffe leans forward.
+77) 10) dialog: A month?!
+77) 13) dialog: Get me my attorney.
+77) 15) dialog: That’s absurd!
+77) 17) dialog: He broke in... through the medicine cabinet. The awful memory of the disemboweled body.
+77) 18) dialog: .««epoor Bernadette... Dr. Caffe consults a document ca his desk.
+77) 20) dialog: That’s wrong. I saw him. I...
+77) 23) text: Helen does not reply.
+77) 25) dialog: I am not hallucinating.
+77) 28) dialog: (quiet) Yes. Dr. Jaffe turns to a video recorder and pushes play. On t TV we see an image of Helen in the isolation ward. She starts to writhe...
+77) 29) dialog: (on TV) HE’S HERE! HELP ME!! SOMEBODY
+77) 31) dialog: -I killed my best friend... she trusted me... she loved me... I cut her open... I... it’s not possible... it’s... Jaffe stares; Helen stcps crying.
+77) 32) dialog: Whatever happening to me... whatever is going wrong, I know one thing. <I am not capable of that. No part of me, however hidden, could do that...
+77) 36) dialog: I can prove it. Jaffe is intrigued.
+77) 38) dialog: I can call him. Jaffe watches as Helen moves to the mirror and begins the incantation.
+77) 39) dialog: Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, Candyman, . Candyman, Candyman, Candyman... She turns back to Jaffe, their eyes meet. Helen faces the mirror. Candyman... Nothing. Jaffe draws a slow breath, about to speak, a sympathetic smile crosses his face.
+79) 0) text: “Helen appears at the window of a ward. Some patients see and start laughing. A NURSE rushes over and opens the window.
+80) 0) text: Helen heads down the hospital corridor. She is dressed in the nurses uniform. Pandemonium has broken out. People ru to and fro. Jaffe’s body has been discovered.
+81) 0) text: Helen pushes the ground floor button. She anxiously watch the lights as she descends, praying the elevator won’t st
+82) 0) dialog: Helen runs through the city, through jostling crowds. The NOISE of the street batters her ears. A police car pulls into the curb behind her. Cops get out of it and run towa her.
+82) 1) dialog: running for her life, barging through crowds. She has gon three blocks before she glances over her shoulder. The Co are nowhere to be seen. She pauses, her breath coming in vasping gulps. Her stomach knotting in pain.
+82) 2) dialog: Be home, Trevor... please be home... She pushes on, heedless of the traffic forced to break ha HORNS sounding. EXT. HELEN’S APARTMENT BLOCK - DAY 125 Helen stumbles forward as fast as her exhausted legs will carry her. - INT. HALLWAY OUTSIDE HELEN’S FRONT DOOR - DAY 126 Helen arrives at her apartment. MUSIC is playing inside. moment of relief. Trevor is home. She leans against the door for support, about to press the buzzer. To her surprise, it swings open, unlocked. Still breathing heavi she enters.
+83) 0) text: Moving inside, Helen barely recognizes the place as her h Some walls are stripped, ready for painting, others are completed. Dust covers hide the furniture. POP MUSIC is blasting from the STEREO. Helen moves into the kitchen.
+84) 2) text: 129 73. Helen moves through to the living room, the MUSIC masking sound from her rasping breath. INT. LIVING ROOM - HELEN’S POV - DAY 129 Entering the living room. Rounding the corner, a ladder comes INTO VIEW. On it stands a woman dressed only ina man’s shirt, working away happily with a paint roller, humming along to the crass MUSIC.
+84) 3) dialog: moving into the room and sitting on the brand-new couch. entrance unnoticed by the woman. Helen recognizes her though. It is Stacey, the nubile coed she met at his lecture. Hel watches her, as her breathing calms, the awful truth sink in. Stacey merrily continues painting. She completes a sectio of wall and glances over to the next bare patch. Stacey double takes. She stares frozen at Helen standing there dressed as a nurse. Helen moves towards her, to switch off the music. Stacey back away, thinking she is coming at her. She half falls the ladder. Stacey shrieks.
+84) 7) dialog: Get out of my home. Trevor enters, dressed in his bathrobe. The sight of Hele stops him dead in his tracks.
+84) 10) dialog: I live here. Remember? She moves towards him; he steps back from her as weil.
+84) 12) dialog: Don’t touch that! Stacey jumps back from the phone. Helen spins back to Trevor. He flinches from her.
+84) 13) dialog: Scared of something, Trevor? Trevor and Stacey exchange a look. They are really frightened. Helen folds her arms and considers the new decor.
+84) 14) dialog: I hate the color scheme. She picks up a pot of paint and flings it with great forc the wall. Paint splashes everywhere.
+84) 15) dialog: What were you going to do Trevor? Wait till I got out before you told me?
+84) 17) dialog: ‘You knew I was never coming out. Didn’t you?
+84) 19) dialog: If that’s what you want, go on, do it. A pause. Nobody moves.
+84) 22) dialog: (she starts to cry) I’m not a murderer... I’m not... (she sits) You’re all I had left... it’s over...
+85) 0) text: Helen walks slowly to the edge of the riverbank. She stan regarding the dirty water swirling below her. A jump and would all be over. Someone else’s problem. fay ON HELEN She has made the decision to die.
+85) 4) dialog: About to jump.
+85) 10) text: 131 132 133 134 135 136 82. Helen is suddeniy filled with purpose.
+85) 11) dialog: (to herself) Never... She moves away from the brink.
+87) 0) text: Outside apartment 404. A group of Gangbangers patrol the ramp, heading off down the stairwell. When they have gone we see Helen hiding in the shadows. She takes a pencil to from her pocket and pushes open the door to apartment 404
+88) 1) dialog: as she makes her way through the shattered apartment, a s pool of light from the torch leading the way.
+89) 0) text: Helen faces the medicine cabinet. She slowly opens it. [I the void beyond burns a flickering orange light. Gatherin her courage, she climbs through the hole.
+90) 0) text: Helen moves into the first blood spattered room. A few candles sputter weak light on the floor. She climbs throu the hole into the second chamber.
+90) 4) text: 137 INT. CANDYMAN’S LAIR - NIGHT 137 Helen moves through the dark chamber, sticking close to t wall. The light from her torch reveals a series of murals In the manner of paintings depicting the progress of a sa they show: Candyman being chased through the town by the brutal hooligans. A crowd looking on, none lifting a finger to c to his aid. Candyman stripped naked, his hand being sawn off. Finally, Candyman splayed out on the rocks, being stung t death by the bees. From somewhere in the darkness, Helen hears the sound of BREATHING, deep and slow. Across the vast chamber, many walls smashed through to cr a cavernous space within the building, she sees something the dim light. It is a bed made from a bloody butcher’s slab. Upon it li Candyman, asleep on his back. Helen moves silently towards him, brandishing her hook. Ready to strike. She moves closer and closer, listening to his regular BREATHING. Praying that he does not wake up. She is now close enough to plunge the hook into his head. She raises her arm. We see his face. His eyes are open.
+90) 16) dialog: The child... we had a deal.
+90) 19) dialog: No... wait... please...
+90) 21) dialog: I’m afraid.
+90) 23) dialog: Both...
+90) 29) dialog: I don’t want to be remembered that way. I want to be forgotten... Candyman slides his hook along her leg and thigh. His hypnotic presence and his silky voice seducing her.
+90) 37) dialog: Nooooo00!!!! Noooooo!!!! The bees suddenly swarm from his mouth, covering her. Helen withes in agony as the bees cover her; moving on he searching for morsels of wax in her ears. Sucking at the sugar from her lips. The bees are stinging. The NOISE deafening. His mouth presses to hers. Her tongue forced into the hive. Candyman stares at her. He is saddened by her obvious répuision. Helen blacks out...
+90) 40) dialog: (a faint plea) Stop... INT. CANDYMAN’S LAIR - NIGHT (LATER) 138 Helen wakes on the slab. She swats the air and brushes he body. She has ben stung but is otherwise unharmed. A few bees circle the air. Candyman has gone. She sits up. HELEN’S POV . Some candles have been lit, illuminating a section of wal Candyman has written a message. It reads:
+90) 41) dialog: 
+90) 42) dialog: She steps towards the wall. HELEN’S POV moving. from the message to the mural of Candyman’s death the flickering light, we see the faces looking on gleeful at his agony. A group of men hold back a young woman, who trying to go to his aid. She screams and struggles, but ¢ have her in a tight grasp.
+90) 46) dialog: looking closer to the group.
+90) 51) dialog: 
+90) 52) dialog: (quiet) It was always you... From somewhere in the far distance comes an unmistakable sound. The thin plaintive WAIL of a baby crying. Helen tries to identify the direction of the sound. She Picks u the hook she dropped earlier and moves cautiously towards sound.
+90) 53) dialog: Helen makes her way out of the apartment, following the t of the baby’s CRYING. She climbs through the first hole. The CRYING crescendos. She dreads the sight that will awa her, but through the hole there is nothing. All is quiet. Then she hears the CRYING again, further on. She follows sound.
+91) 0) text: Helen moves silently along the ramp, keeping to the shado She clutches the hook, ready for a confrontation. Helen listens at the dark windows of apartments for the s of the baby. Nothing. And then it begins again, a distant WAIL, coming from the blacktop. Helen presses her face to the wire mesh, listening. In th center of the blacktop looms the pile of broken furniture dead saplings, a makeshift bonfire. She hears the CRY aga It is coming from within the pile. a
+92) 0) text: Helen moves quickly to the edge of the piled timbers and furniture. She finds a narrow gap, a hollow in the pyrami The CRYING has stopped. There is only silence. She moves piece of broken wood and bars the entrance. [It slips fro her grip and CLATTERS to the ground. fs
+93) 0) text: Helen squeezes through the narrow aperture. Her hands finding wood and rags-and what feels like the back of an armchair, but not the warm skin of the child. She pushes on, deeper and deeper into the heart of the bonfire. Her dress snags on a nail. Her shins are scrappe her fingers spiked with splinters. And there, no more than a yard ahead of her, is the child Lying in a crude crib of rags, arms and legs waving. He smiles at the sight of her, not crying now. Helen ducks down to reach beneath a beam of wood, but her fingers miss the forlorn bundle by inches. She stretches farther, but still she cannot reach the child.
+93) 1) dialog: (whispering) It’s okay... I’m here... it’s okay...
+95) 0) text: Helen bends double to squeeze into the hidey-hole. The sp is so small, she can barely get through. She wrenches herself past the nail covered beams, not caring as her fl is ripped and torn. Finally, she makes it and picks up th child to comfort him. A wide hand covers Helen’s face. Sh . falls back and Candyman embraces her.
+96) 0) text: Helen fights to be free of Candyman, to cry out to them, he holds her lovingly close. Fire roars up around them.
+96) 5) dialog: 
+96) 13) dialog: You promised me...
+96) 15) dialog: We made a deal... Looking through the flames at the chanting faces, Helen s Anne-Marie staring into the fire. Anne-Marie does not cha she just stands there, her face a mask of tragedy.
+96) 16) dialog: (her lungs choking) See her! See her face!! You lied . to me!! Helen hides the child in her dress, trying desperately to protect him as the inner sanctuary of the pyre flames up.
+96) 19) dialog: Let me go!!
+96) 21) dialog: We made 4 deal!!
+96) 26) dialog: No! She breaks his grip and plunges into the flames, shieldin the child’s body, heading for Anne-Marie.
+96) 41) dialog: She lies back, weak. HELEN’S POV The sound becomes MUFFLED. Faces surround her. Everything seems distant.
+96) 42) dialog: A strange calm fills her face.
+96) 45) dialog: Hands take hold of her and lift her gently onto a gurney. HELEN’S POV The crowd staring at her, awed. People whisper as she is wheeled past them to the waiting ambulance.
+96) 47) dialog: as she is wheeled through the crowd.
+96) 51) dialog: Her face is at peace now, as she dies... FADE OUT.
+97) 0) text: Helen’s coffin is. lowered electrically into her grave. A Priest officiates. Trevor watches, sad. Purcell is there, as is Archie who looks a shadow of his former jovial self. A few others we not recognize also attend. Stacey hangs discretely in the background. In the distance, they suddenly hear MUSIC. The mourners turn and see snaking its way through the tombstones towards them, a procession.
+98) 0) text: lying on it. Candy dropping 147 148 149 Sunlight shafts through the boarded windows creating a cathedral-like effect. We track towards a new mural, freshly painted over the ol images; it depicts Helen rising phoenix, her hair aflame like a We TRACK closer, onto her face, medieval icon. Up close we see cinderblock, running diagonally A bee crawls through a crack in from the bonfire like a halo. . serene in its suffering, a there is a crack in the through the image. the wall. We TRACK into the crack, entering it...
+99) 1) dialog: Out of the eater came forth meat...
+99) 5) dialog: Out of the strong came forth sweetness. (softly, seduction) I came for you. FADE OUT.

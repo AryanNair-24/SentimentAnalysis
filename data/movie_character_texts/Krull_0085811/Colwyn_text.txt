@@ -1,0 +1,220 @@
+1) 0) text: Mail-clad HORSEMEN gallop headlong through the dark, bent low over their saddles. A bestial scream is heard, and suddenly a saddle is empty, the rider sprawled face down a pool of blood. At the head of the band, COLWYN, a boy of twenty-two, rai his shield to ward off an unseen assailant. We hear a horrendous tearing sound, and Colwyn's father, TUROLD, riding beside him, looks over at the boy. Colwyn is unhar - but his shield is deeply gouged, as if by a huge claw.
+4) 0) text: Turold and Colwyn lead their men through the gate and dismount. Waiting for them are LORD ROWAN, a man of Turol age, and an elderly COUNCILOR. Rowan notices the gouges i Colwyn's shield.
+6) 6) dialog: (flustered) In my armor?
+8) 0) text: Colwyn mounts a narrow, circular staircase toward a woode door.
+9) 0) text: LYSSA, the Queen's seventeen-year-old daughter, stares across the circular room at the wooden door, listening to Colwyn's approaching footsteps. The door swings open and Colwyn enters. They stare at eac other for several moments: Colwyn, dusty and disheveled i his armor, Lyssa freshly scrubbed and glowing in a diaphanous gown.
+9) 1) dialog: (nervous) I'm Colwyn. Lyssa nods, noncommittal. They start to circle the room, eyes fixed on each other, like a pair of nervous cats.
+9) 2) dialog: (plaintive) Are you Lyssa? She gives him another noncommittal nod. They resume their tentative circling. Suddenly, Lyssa turns away, leaning on the sill of a narr window. Her shoulders begin to heave, as if she's sobbing Colwyn is in agony; he rushes across the room to her.
+9) 3) dialog: I don't care what arrangements were made by our parents. You don't have to go through with it! Lyssa continues to heave.
+9) 4) dialog: They can't force you. I won't let them! Lyssa turns around, and Colwyn sees that she's not sobbin but laughing.
+9) 6) dialog: (taking considerable umbrage) I don't have to go through with it either.
+9) 8) dialog: Oh. That. (begins to chuckle) I know what you mean. (sits down on a bench) I had nightmares all week.
+9) 10) dialog: Last night was the worst. I dreamt you had one leg shorter than the other, and walked like a penguin.
+9) 12) dialog: That's worse.
+9) 14) dialog: Well, you're beautiful.
+9) 16) dialog: (pompously) If you're going to marry a warrior, you'd best get used to it.
+9) 19) dialog: (aghast) What?
+9) 21) dialog: We're not married yet.
+9) 23) dialog: Do I have to? (looks at Lyssa, sighs) I have to. He starts up the stairs.
+12) 0) text: Colwyn hears Lyssa mounting the stairs and moves to the doorway, reaching around to take the bucket from her.
+12) 1) dialog: (as Lyssa pushes past him) Just hand me the bucket! What are you doing! He backs away, covering himself with his hands. Lyssa advances on him; tucked in her belt, like a sword, is a long-handled bath brush.
+12) 3) dialog: Never mind my ears! Go away! The Queen and Turold watch the unfolding drama from their window vantage point: a great tongue of water leaps acros the tower as Lyssa heaves the bucketful at Colwyn. Drippi wet, he retreats, but is soon cornered and attacked witho quarter, Lyssa wielding brush and soap with gleeful enthusiasm. At one point, Colwyn squirms free and, with h head completely enveloped in lather, tries to flee. But since he can't see, he soon fetches up against a wall, an Lyssa continues her scrubbing.
+13) 2) dialog: (surly growl) Maybe you'd better look around for another candidate. I don't think my skin is tough enough to survive a lifetime of you and your brush.
+13) 4) dialog: Thank you, but I can wait.
+13) 6) dialog: I lied.
+13) 8) dialog: I can't wait either. They close in a passionate kiss, and begin caressing each other. We see Turold standing in the doorway, watching th
+13) 10) dialog: (acting offended) It was a platonic kiss, Father.
+14) 0) text: The occupants of the castle - servants, soldiers, minor nobles, and retainers - stand in two parallel lines, form an aisle. Turold and Rowan, on horseback, face each other at opposi ends of the aisle. Midway between them stand Colwyn and Lyssa, side by side, Colwyn facing Rowan, Lyssa facing Turold. The two fathers are not armored, but they hold longswords balanced across their pommels. Colwyn glances up toward the Queen's balcony.
+15) 0) text: The Queen lies on a couch, attended by her two girls-in- waiting. She answers Colwyn's look with a nod.
+15) 1) dialog: (shouts to Rowan) I am Colwyn, son of Turold, of the eagle's blood, and I am come to take your daughter from you.
+17) 0) text: Colwyn sees that his father is being pressed by several Slayers and hacks his way to his side. They dispatch thei assailants, then Colwyn looks through the courtyard for Lyssa, who has just run a Slayer through with her short sword, when she is felled from behind by Modred's mailed fist. He picks her up and lays her across his saddle.
+17) 1) dialog: They have Lyssa!
+18) 0) text: Colwyn and Turold back down the dark corridor, fighting t two Slayers. They kill the Slayers but, in the exchange, Turold is badly wounded. He leans against the wall, holdi himself erect by force of will.
+18) 3) dialog: I won't leave you here.
+18) 5) dialog: I must follow the Slayers. They've taken Lyssa.
+20) 0) text: Colwyn stands beside the exit of the underground passage, tears running down his cheeks as he stares at the burning castle in the distance.
+21) 0) text: The forest ends abruptly, some distance from the edge of steep cliff. A natural stone bridge arches from the cliff the Granite Needle, a cylindrical formation that rises fr the floor of the valley below. Colwyn stands at the edge of the forest, looking out at a group of Slayers posted near the stone bridge. Nearby are pair of black tents housing more Slayers. He hears a noise and turns to see a Slayer behind him, drawing his sword. As the Slayer rushes, Colwyn hurls his knife at the T-slot in the Slayer's cylindrical helmet, striking him between the eyes.
+22) 0) text: Colwyn, wearing the dead Slayer's helmet and armor, approaches the group near the stone bridge. The bridge le to an opening in the side of the Needle, which gives acce to a passage which extends some ten feet into the Needle before it takes a right-angle turn. On the floor of the passage are heaped the bodies of half dozen Slayers; though Ynyr may not be able to get out, he clearly capable of preventing anyone from getting in.
+22) 1) dialog: The old man must sleep sometime.
+22) 3) dialog: Perhaps now.
+22) 5) dialog: Perhaps I will.
+23) 0) text: Ynyr stares down the passage toward the right-angle turn. his hand, held out before him, is a silver glaive, a cros shaped weapon with four equal blades. When Colwyn rounds the corner into view, the glaive leaps from the old man's hand and spins down the passageway.
+23) 1) dialog: (pulling off his helmet) I am Colwyn, son of Turold! The glaive stops in midair, inches from Colwyn's throat. Realizing they've been tricked, two Slayers start across bridge to attack Colwyn. But the old man projects his gla past the boy, where it hangs in midair, spinning and glowing. The Slayers retreat.
+23) 3) dialog: The White Castle has fallen.
+23) 5) dialog: The new Queen lives.
+23) 7) dialog: We were married. Then she was taken by the Slayers. You must help me.
+24) 0) text: Colwyn and Ynyr sit beside a fire in a triangular pit in floor. Colwyn has shed the Slayer's armor, and Ynyr holds black onyx box in his lap.
+24) 2) dialog: I have no extraordinary powers.
+24) 4) dialog: In the old books. It's called a glaive. Ynyr opens the onyx box to reveal a golden glaive.
+24) 7) dialog: Two or three days! While Lyssa is in their hands?
+24) 9) dialog: (looks at the fire) But there is another entrance to this place. Ynyr follows Colwyn's gaze and sees that he's judging fro the movement of the flames.
+25) 2) dialog: You have rope?
+25) 4) dialog: You won't have to.
+26) 0) text: Colwyn inserts his glaive in a crack beside the opening, then ties a rope to the glaive and climbs down the wall.
+27) 0) text: Colwyn reaches the ground and signals Ynyr, who unties th rope from the glaive and secures it around his waist. The he lowers the rope over the glaive, which allows Colwyn t lower him down the side of the Needle.
+28) 0) text: A Dark One watches them from the top of the cliff, its re eyes peering over the edge. The thing moves quickly down rock face, with only an occasional scrape or flash of cla to mark its descent. At the bottom of the cliff, the red eyes appear above a r - only a few yards from Colwyn. But before it can attack, trident flashes through the air and strikes the thing squ in the face, the outer prongs of the weapon piercing the eyes. We hear a death grunt, then the sound of a body falling. Colwyn turns, but sees nothing. He lowers Ynyr to the gro and they set off across the valley floor.
+29) 0) text: The golden glaive stands upright on Colwyn's outstretched palm. Ynyr kneels beside him.
+29) 4) dialog: (sweating) There is nothing.
+29) 6) dialog: Lyssa ... Lyssa ...
+30) 1) dialog: (faintly at first, then louder) Lyssa ... Lyssa ...
+30) 4) dialog: Have they harmed you?
+30) 7) dialog: Lyssa. Where are they keeping you?
+31) 5) dialog: She was in a great fortress, first in the mountains, then in the jungle. How is that possible?
+31) 7) dialog: The Fortress moves?
+31) 9) dialog: Then even if Lyssa tells us where she is, we'll never be able to reach her, for they will never allow the Fortress to rise near us.
+31) 11) dialog: Then we must be ready. Five leagues from here is the Eastern Tower. I know the Barons who hold it. Good men, and brave. They will help us.
+31) 13) dialog: Nor will I, till my bride is beside me. They set off through the forest.
+33) 0) text: Colwyn and Ynyr are about to cross the tiny stream, when suddenly a small white cloud materializes above the water bulging and gyrating, affording brief glimpses of feet an hands, as if a small man were trying to escape. As Colwyn jumps back, drawing his sword, the cloud vanishes with a and the small man, ERGO, is plopped on his seat in the wa (which is only a few inches deep).
+33) 2) dialog: I doubt it. The water is only an inch deep.
+33) 4) dialog: A forest near the Valley of Needles.
+33) 6) dialog: Perhaps he expected to eat it.
+33) 13) dialog: What business?
+34) 0) text: As Colwyn, Ynyr, and Ergo cross the clearing, Ergo steps a snare-trigger and is suddenly hoisted into the air by h foot. Colwyn draws his sword and turns to face five armed men who step out of the forest. They're a rag-tag bunch, garbed in various kinds of chain-mail and armed with a bizarre variety of weapons.
+34) 6) dialog: (little smile) I don't think you'll grow careless.
+34) 8) dialog: Fame.
+34) 10) dialog: Fame is what you leave to your sons.
+34) 12) dialog: Because you would not rob if you had no children to provide for.
+34) 14) dialog: (fixes him with a look) I know you.
+34) 16) dialog: Yes. They will be more help than high-born barons.
+34) 18) dialog: You will follow me.
+34) 20) dialog: So your sons will speak of you to your grandsons, and your grandsons to their grandsons. Torquil plunks the handle of his long battle-axe into the ground, then folds his hands across the top of the blade rests his chin on his hands. He stares hard at Colwyn, wh returns his gaze calmly.
+34) 22) dialog: To the place where Death lives.
+34) 24) dialog: (answering smile) That I promise you.
+34) 30) dialog: He needs his book. Torquil finds the open spellbook and kneels, allowing the pig to read it. Pop, and Torquil is holding a gyrating cl under his arm, replete with squeals and yells and pieces pig and Ergo; pop, and the cloud disappears, leaving Ergo under Torquil's arm.
+35) 0) text: As the band nears the crest of the hill, Colwyn stumbles. Torquil reaches out to steady him.
+35) 2) dialog: (shaking off the help) I'm all right. They top the hill and look out over the valley, dotted wi plumes of smoke from burning villages.
+35) 4) dialog: (angrily) Why do they burn the villages? There's nothing to gain.
+36) 2) dialog: (eyes drifting shut) I'm not hungry.
+36) 4) dialog: (eyes almost closed, swaying) No. Torquil purses his lips and blows at Colwyn, who falls backward into the arms of Kegan, who lays him gently on t ground, fast asleep. Torquil covers him with his cape. Th other robbers string their bows and prepare to hunt.
+37) 0) text: Torquil and Ynyr talk to several PEASANTS at the edge of clearing while, in the center, Ergo tends the cooking fir beside which Colwyn lies asleep. Ergo's face lights up wh he sees Kegan arrive with a stag across his shoulders, an he snick-snacks his carving knife in anticipation. But Torquil has Kegan turn over the stag to the peasants, whi nearly gives Ergo apoplexy.
+38) 0) text: The band, including Colwyn, is gathered around Ergo, who telling his story.
+38) 5) dialog: They know when they're going to die?
+38) 10) dialog: He saved our lives.
+39) 0) text: The band is asleep, Torquil on guard. As the eastern hori grows light, Torquil wakes Ynyr and Colwyn.
+40) 0) text: Colwyn sits against a tree, brow furrowed in concentratio the golden glaive spinning in midair in front of him. Yny and Torquil look on.
+40) 1) dialog: I can't reach her.
+40) 3) dialog: Darkness. Tunnels and corridors. (pause) Wait.
+41) 1) dialog: (faintly) Lyssa ...
+41) 3) dialog: Where is the Fortress?
+41) 5) dialog: I will find you. I will be with you.
+41) 7) dialog: (fading) I love you, Lyssa, I love you ...
+41) 9) dialog: She can't see out. She can't tell us where the Fortress is.
+41) 11) dialog: She was very faint. I was barely able to reach her.
+41) 13) dialog: (leaps to his feet, shouts angrily) I will find her! He hurls his glaive at a nearby tree: the weapon bores cl through the trunk, then through two more before it imbeds itself in a fourth. But anger gives way to despair; he buries his face in his hands.
+41) 16) dialog: (looks up) Forgive me. It's childish to cry.
+42) 0) text: Colwyn and Torquil top the hill and look down at the lake the surface of which looks as if it had been instantly frozen in the midst of a great storm.
+42) 4) dialog: Lead us across.
+43) 7) dialog: I was hoping I might be your friend.
+43) 9) dialog: I have need of friends.
+43) 12) dialog: Not yet, my friend. It's your tomato that's dying.
+43) 18) dialog: (smiles) I knew you would not be. That's why I chose you. They reach the end of the lake, which is bordered by a sm scarp. Torquil hikes himself onto the scarp and reaches d to help Colwyn up.
+44) 0) text: A circle of stone dolmens, emerald green, in the center o which sits an old man, blind, wearing a green robe: an EMERALD SEER. Sitting across from him is TITCH, his ten- year-old assistant, similarly robed. A green-hued holographic image appears above the emerald, showing Colwyn and his band approaching. The Seer weaves fingers through the image, reading it by touch.
+44) 13) dialog: There is a prisoner there.
+44) 15) dialog: (leaning forward) Lyssa. As the twin suns dip below the horizon, the flames spurti from the Seer's fingertips begin to leap and lengthen, un the sphere is surrounded by fire, its color changing from emerald-green to crimson. We hear faint, hollow screams o rage. The holograph above the sphere begins to waver and blur, then is shattered by a holographic black claw shooting upward from the sphere. The talons of the claw are blood red, its appearance accompanied by a hollow scream. The Seer is knocked backward; the claw disappears; the emerald drops to the ground.
+44) 16) dialog: (kneeling by the Seer) Are you hurt?
+44) 18) dialog: Can you tell us where the Fortress will rise tomorrow?
+45) 0) text: While Ergo and Titch tend the cooking fire, robbers leave hunt and others return with small game. Sitting against one of the stone dolmens, Colwyn tries to contact Lyssa, the glaive spinning in midair in front of him. Ynyr and Torquil look on.
+45) 1) dialog: I cannot reach her.
+45) 5) dialog: The first time, when they attacked long ago, was The Beast here?
+45) 7) dialog: Why?
+45) 9) dialog: But you suspect.
+47) 5) dialog: (shrug, pause) We must try to get horses.
+47) 7) dialog: (little smile) These we'll pay for.
+47) 9) dialog: (thumb in his ribs) Hand over your dinner.
+49) 0) text: As they move down the path, the Changeling's hand turns i a claw and he throttles Bardolph so quickly he's unable t utter a sound. He tosses the body into the bushes and sta to wipe his bloody hand on the grass - but stands as he hears Colwyn coming down the path.
+49) 1) dialog: Where is Bardolph, Brother?
+50) 0) text: The Cyclops stands near the spot where the real Seer was killed. He moves downstream a few yards - and suddenly se the Seer's body floating in the water, caught against the rocks. He realizes immediately that the band is in great danger; he races up the path toward the camp. As Colwn leads the Changeling down the path, we see the h on his shoulder turn into a claw. The claw is moving towa his neck when suddenly the Cyclops bursts from the trees front of them. Colwyn stares in disbelief as the Cyclops hurls his trident straight at him. The weapon whistles pa his ear and slices off the Changeling's arm at the should Colwyn spins, sees the red eyes, ducks backward as the Changeling swipes at him with his other hand - now become claw. He draws his glaive as the Changeling reverts entir to bestial form, its hideous black body bursting the seam of the emerald-green robe. As the creature springs at Colwyn, we see, for an instant the horrible face: teeth flashing, eyes burning. Then Colwyn's glaive strikes between the eyes. Slit by the horizontal blades of the glaive, the eyes explode in a bu of red and the thing dies with a scream. Torquil, Ynyr, and others run up. The body of the creatur has already turned to ash, forming the characteristic Vor of the Dark Ones.
+50) 3) dialog: (to Cyclops) How did you know?
+51) 0) text: The band stands beside a fresh grave, outlined by stone markers. Colwyn is kneeling with his arms around Titch, whose face is buried against his chest.
+51) 1) dialog: If he had not agreed to help us, they would not have killed him. He gave his life for us.
+51) 3) dialog: We're your family now.
+52) 0) text: Colwyn, Ynyr, and Torquil sit by the fire while the other sleep.
+52) 10) dialog: (with finality) No. We will find another way to locate the Fortress.
+52) 12) dialog: Yes.
+52) 14) dialog: Lyssa? Why?
+52) 16) dialog: Can she be forced?
+52) 18) dialog: Never.
+52) 20) dialog: Then we must reach her before she feels that pain.
+57) 1) dialog: Slayers!
+57) 5) dialog: Yes, it's our only chance. They can't use their horses there. Quickly.
+58) 2) dialog: What will happen?
+58) 9) dialog: Traitor! She'll marry you in hell!
+58) 14) dialog: I will melt that gold and pour it down your throat, old man!
+58) 20) dialog: Forgive me, my friends. I saw terrible things.
+59) 0) text: The band emerges from the Swamp, which laps at the foot o the Widow's Mountain. Ynyr faces Colwyn and Torquil.
+59) 2) dialog: You will tell me her name and we will go together.
+61) 0) text: Kegan, Oswin, and Rhun are downing flagons of sack and dandling pretty INN-GIRLS on their knees. Torquil eyes th enviously from the fireplace across the room, but can't bring himself to leave Colwyn, who takes no comfort from wine or women.
+61) 1) dialog: Go, join them.
+61) 3) dialog: The best. But my unhappiness is not made lighter by adding your's to it.
+61) 5) dialog: (little smile) Go. I command you.
+61) 8) dialog: You and I will guard the fire.
+64) 0) text: Torquil and his men dandle INN GIRLS on their knees, laughing, leching, and guzzling. The INNKEEPER bustles about, assisted by a much-abused serving girl named VEELA whose beauty is concealed by kerchiefed hair, frumpy clothes, and a layer of soot. Across the room, Colwyn and Ergo sit in front of the fire staring gloomily into the flames. Titch comes in the back door and whispers to Torquil, who signals his men. They get up and head for the back wall, where Cyclops is swinging open a pair of large double doo Ergo is too glum to notice the sudden diminution of noise but Colwyn sees Torquil and his men carrying in a giant venison pie, ten feet across and five feet high.
+65) 0) text: Colwyn and the Cyclops stand guard over sleeping robbers inn girls. Ergo floats half-awake in the gravy in the pie shell, a contented smile on his face. He opens his mouth allows a piece of venison to float into it. Then he hears whimpering and peers over the edge of the crust: Titch is asleep nearby, in the throws of a nightmare. The serving girl, Vella, is still busy cleaning up. As sh passes the pie shell, she hears scrabbling and splashing, and stops to see a puppy trying to clamber out.
+65) 7) dialog: Leave her be. She's worked hard all day.
+65) 9) dialog: (an order) Her working day is over. She'll rest now. The Innkeeper scowls, then skulks off, grumbling. Colwyn helps the girl up and sees that her ankle has been twiste by her fall. He puts an arm around her and helps her towa the stairs.
+67) 0) text: Vella sits dejectedly on the edge of the bed. Colwyn stan near.
+67) 2) dialog: I know the cruelty of such a fate.
+67) 4) dialog: I don't think that. Vella stands and slips the kerchief from around her hair, which is long and lustrous. It tumbles loose, falling gracefully around her shoulders. She wipes the sleeve acr her face and, almost magically, the smudges and dirt disappear. She steps out of her ungainly shoes, then unfastens her ugly dress; it falls to her feet. She stand barefoot in her chemise, stunningly beautiful.
+67) 6) dialog: Yes.
+67) 8) dialog: Yes.
+67) 10) dialog: (drops his eyes) Yes.
+68) 0) text: The red-eyed Colwyn holds Lyssa's hand as he makes his proposal.
+69) 0) text: Colwyn and Vella in each other's arms.
+69) 2) dialog: I ache with it.
+69) 4) dialog: I cannot take comfort when she has none.
+69) 6) dialog: I cannot betray my bride.
+69) 8) dialog: I feel your pain, but I cannot betray her.
+69) 10) dialog: I cannot. Vella's left hand turns into a claw. She moves it toward neck, then stops. She begins to cry; blood-red tears run down her cheeks.
+69) 16) dialog: Have faith, Lyssa. I will come. In the Vortex, the false Colwyn has vanished. The huge re eyes have reappeared in the Beast's hole.
+71) 3) dialog: We could reach it on fire-mares.
+71) 6) dialog: You have done it?
+71) 8) dialog: (to Torquil) Saddles.
+73) 0) text: The band is mounted, except for the Cyclops. Titch sits behind Colwyn.
+73) 3) dialog: It is today?
+73) 7) dialog: (to Titch) You're too young to come with us, lad. Stay with our friend. He swings the boy to the ground, then grips the Cyclops's hand.
+73) 8) dialog: Each to his fate.
+73) 11) dialog: (looking back) Let us wish him peace. The Cyclops is sitting cross-legged on the ground, having wound a white linen headband around his forehead. Titch s beside him.
+73) 13) dialog: (stand in his stirrups) At the gallop! As the mares increase their speed, their sparking hooves begin to flash, until, at full gallop, their feet and fetlocks are enveloped in flame. They thunder down the ro on a carpet of fire.
+77) 1) dialog: (shouts to Torquil) It's almost dawn! Flank them! Torquil leads half the band to the right, Colwyn leads th other half to the left. They sweep past the Slayers on either side, surrounding them with a ring of fire. The Slayers are enveloped by flames as the band reconverges a heads toward the high wall of the Fortress. But a dismounted Slayer pierces the fiery wall, his cloth flaming, and hurls a spear at Rhun at the tail of the ban Colwyn and Torquil look back and see Rhun skewered by the spear, the point protruding from his chest. Torquil shake his head and they continue toward the wall. But atop the wall, hidden behind the crenellated parapet, wait another dozen Slayers with cauldrons of boiling pitc at the ready. Colwyn reaches the bottom of the wall and swings off his mare.
+77) 2) dialog: Up the wall! Quickly! The others dismount and follow him up the wall, which is canted back some twenty degrees from the vertical, allowi them to clamber up the stone courses. But suddenly a stre of boiling pitch pours down the wall toward them.
+78) 0) text: The Fortress rises out of the ice and Colwyn looks up to the stream of pitch frozen solid, not three feet above th
+78) 1) dialog: (shouts) On them! He leads the band up the wall to the parapet, where the Cyclops has dismounted and is holding off several Slayers shielding Titch, who is still firing his deadly bolts. A brief but fierce battle disposes of the Slayers. The band gathers around the fallen Cyclops. A dozen broke off arrow shafts protrude from his body. He holds Ergo's small hand in one of his great paws.
+80) 2) dialog: (looks up at the arch) Better stone than steel. He draws his sword and inserts it beside the capstone of arch, working the blade to loosen the mortar. Torquil follows his thought and begins chopping at the mortar on other side of the capstone. The red eyes are almost on them when they finally succeed dislodging the capstone. They jump back as the capstone falls and the arch collapses, blocking the corridor with wall of stone rubble.
+80) 4) dialog: Subject to the King, no doubt.
+80) 7) dialog: I intend to keep you alive, your majesty. So you can abdicate your throne and become my Warlord.
+81) 1) dialog: (calls softly) Stay together. They move through the cave, weapons at the ready. A feebl voice calls out.
+81) 8) dialog: (guiding him past) She lies, my friend. Now it is Ergo's turn to confront the future. He sees himself as an old man, bald and shrunken, at the edge of death.
+82) 2) dialog: (waits, then finishes the sentence) The Beast will kill her.
+82) 4) dialog: Lyssa ...
+83) 2) dialog: You must move away from the Center.
+83) 5) dialog: Lyssa, your bracelets. Bend them straight and cross them. Lyssa removes a pair of gold bracelets from her arm, bend them straight, and forms a cross.
+83) 6) dialog: Now grip them in your hand. She wraps her fingers around the intersection of the cros converting the bracelets into a kind of homemade glaive.
+83) 7) dialog: Will your power outward.
+83) 9) dialog: You have the power. Will it. As Lyssa frowns in concentration, her glaive begins to gl
+83) 12) dialog: Take the western passage.
+83) 15) dialog: Where the spiral begins. Lyssa looks up to where the spiral begins.
+83) 17) dialog: Move quickly. We are coming for you. We are in the Fortress.
+88) 2) dialog: Lyssa ...
+88) 4) dialog: Lyssa, touch the wall of your passage. Lyssa presses her hand against the wall behind her.
+88) 5) dialog: (runs to the wall) She's on the other side of this wall. I can feel it!
+88) 7) dialog: She can see the Beast!
+88) 9) dialog: What use is my sword? I can't reach her!
+88) 12) dialog: (divines his intention) You're coming with us.
+88) 14) dialog: No! You cannot know that!
+88) 16) dialog: (imperious) I forbid you! Ynyr smiles indulgently. Colwyn shrugs in embarrassment.
+88) 17) dialog: I didn't mean it that way. But you cannot stay. Ynyr takes Colwyn and Lyssa by the arm and moves up the passage.
+89) 0) text: The Beast moves toward the hole in the passage wall. RESUME - COLWYN ET. AL. They hear the Beast tearing at the stone wall, enlarging hole to allow it to pass through. Ynyr nudges Colwyn and Lyssa up the passage.
+89) 5) dialog: Quickly, or he will waste his life for nothing. They increase their pace. Ynyr watches them until they disappear, then backs slowly up the passage. A section of wall explodes inward as the Beast tears his through. Ynyr sees the red eyes and places a hand on his glaive.
+89) 10) text: The five make their way up the staircase to a landing. As Torquil starts up the next flight, Colwyn calls him back.
+89) 11) dialog: We must find a smaller passage, where it cannot follow. They move down a corridor to ...
+90) 3) dialog: In the Arctic ice.
+90) 5) dialog: (pointing up) She's right. Look. They hear the Beast coming closer and start up the long stairway.
+92) 0) text: The five emerge from the staircase and make their way acr the Arctic landscape, toward the outer wall. Colwyn looks back and sees the Beast tearing its way out of the Fortre
+92) 1) dialog: Make for the wall. I'll catch up.
+92) 3) dialog: There's no way to outrun it. You know that. This is what Ynyr was preparing me for. It's what he died for.
+92) 6) dialog: (quietly, but with iron authority) You'll lead the others to the wall as I tell you. Now. Torquil bows to Colwyn's authority; he leads the others toward the wall. Colwyn pulls off his hauberk, useless in this battle, and faces the Beast in his tunic. The wind whips the thin cloth as he advances across the ice to whe the Beast waits, obscured by the thickly falling snow. Suddenly, a gigantic chunk of ice flies straight at him. raises his hand and the ice shatters, streaking past him harmlessly. Now he begins to concentrate, focusing his power until hi body gleams - then shimmers - then bursts into flame with tongues of white fire leaping from his body as if it had been doused in gasoline. The flame is under his power; it doesn't harm him, nor does it melt the snow he walks on. only harms when he wills it - as when he sees a patch of Dark Ones approaching from the side. He sweeps his arm toward them and an arc of flames rolls across the ice lik wave, washing over them and leaving their charred bodies writhing in the snow. The Beast is moving back and forth in an area of ice ridg and hummocks, dimly visible through the heavy snowfall. N it is a stone tower, some fifty feet high. The tower is suddenly lifted from the ground and hurled at Colwyn. He makes a downward chop with his hand and the tower splits the middle, the two pieces flying past on either side of him.
+92) 7) dialog: I am no feeble old man for you to crush with two blows. (moves forward, grim-faced) This is for that old man. He sweeps his arm toward the Beast and an arc of flame ro across the ice. As the Beast sidesteps, the flaming arc slices off the top of an ice hummock, leaving the flat surface boiling and steaming from the heat. Colwyn presses forward, driven by grief and rage. He launches a second arc of flame, one end of which catches Beast's side. The Beast roars with pain and retreats, dri back by Colwyn's power. He launches a third arc, and this one strikes the Beast's head, staggering it. The Beast is wounded now: one of its huge eyes is swollen half shut, the skin around it badly charred. Enraged, the Beast counterattacks. Huge projectiles streak toward Colw first come blocks of ice, then great fragments of stone. Finally, the stone fragments begin to burn, screaming through the air like meteors. The projectiles shatter against Colwyn's protective shiel of flame, but the force of repeated impact drives him backward. Small fragments of ice and stone actually pierc the shield, tearing his tunic, cutting his skin. He is bleeding from several flesh wounds and his forehead is burned by a fragment of flaming rock. But the Beast's power is not infinite. The hail of projectiles slows, then stops. Colwyn resumes his advance He chops his arm downward: we hear a sharp crack and an i hummock EXPLODES near the Beast. He chops again and an ic ridge EXPLODES, leaving a deep crack in the ice. The Beas hurls another projectile, but Colwyn brushes it aside as it were a mosquito and sweeps an arc of flame at the Beas to back it off. Then he resumes chopping with his arm: crack followed closely on crack as the ice around the Beast is sliced an shattered by Colwyn's power. The section of ice on which Beast stands suddenly drops a foot or so. The Beast hurls final projectile, then Colwyn cracks the ice again. We he a deep RUMBLE and a huge section of ice collapses, fallin into the depths of the Fortress, carrying the Beast with Watching from a distance, Torquil sees the exhausted Colw staggering on the ice, barely able to stand.
+92) 10) dialog: (points to horizon) Wait! The two suns are about to come up. They remain on the wal except for Ergo, who slips on a sheet of ice and slides toward the ground. Titch reaches out and grabs his hand, holding him on the wall, though Ergo's legs are buried in snow up to the knees.
+93) 1) dialog: (jumps to the ground) Away from the wall! Torquil and Colwyn haul Ergo out of the ground and move a from the wall. They watch the Fortress crumble.
+93) 2) dialog: It's a fitting monument for Ynyr and Quell and the others. The Fortress sinks from sight, leaving a green valley in place.
+93) 4) dialog: Yes. They make their way across the glen, Colwyn and Lyssa wit arms around each other, Titch riding on Torquil's shoulde and the Ergo-puppy riding on Titch's.

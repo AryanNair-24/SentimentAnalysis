@@ -1,0 +1,418 @@
+1) 14) dialog: Hoyt?
+1) 16) dialog: On your way to roll call?
+1) 18) dialog: Hoyt.
+1) 20) dialog: Patrol fairies go to roll call. We don't go to roll call.
+1) 22) dialog: There's a coffee shop at 7th and Witmer. See you there at ten. Be in civvies. Comfortable shoes. Got a back-up gun? Something pocket-sized? (CONTINUED)
+1) 25) dialog: Bring it. Cuffs, too. We're gonna be in the office all day, but who knows, maybe we'll do some business. We're an aggressive unit.
+1) 35) text: DETECTIVE SERGEANT ALONZO HARRIS, in black shirt, black leather jacket. And just enough platinum and diamonds to look like somebody. He reads the paper in a booth. The gun leather-tough LAPD vet is a hands-on, blue-collar cop who can kick your ass with a look.
+1) 39) dialog: Have some chow before we hit the office. Go ahead. It's my dollar.
+1) 41) dialog: Fine. Don't. Alonzo turns the page. A long beat. Then:
+1) 43) dialog: May I read my paper?
+1) 46) dialog: No. You won't. You fucked that up. Please. I'm reading. Shut up. Jake does -- Jeeez, sorry. Pours a ton of sugar in his coffee.
+2) 0) text: The waitress pours refills. Alonzo reads. Jake fidgets.
+2) 2) dialog: Tell me a story, Hoyt.
+2) 4) dialog: Not your story. A story. You can't keep your mouth shut long enough to let me finish my paper. So tell me a story.
+2) 6) dialog: This is a newspaper. And I know it's ninety percent bullshit but it's entertaining. That's why I read it. Because it entertains me. If you won't let me read my paper, then entertain me with your bullshit. Tell me a story.
+2) 9) dialog: (sighs) Where'd you do your probation?
+2) 11) dialog: Right. The Valley. No cute little anecdotes about writing underage smoking cites at the shopping mall? Jake thinks. Bingo! He's got it.
+2) 13) dialog: A D.U.I. stop. Wow. Go on.
+2) 15) dialog: We? You and...?
+2) 17) dialog: Debbie? The hell's Debbie?
+2) 19) dialog: -- Your T.O. was female?
+2) 21) dialog: She white? Black?
+2) 23) dialog: She dyked out or she any good? (CONTINUED)
+2) 26) dialog: (he's hooked) So you and Debbie are pullin' a mid-watch?
+2) 28) dialog: No shit?
+2) 30) dialog: «+. amazing... Jake beams -- some story, huh? (CONTINUED)
+2) 32) dialog: You're driving around the Valley with a fine bitch in your car for a year and the most entertaining story you got is a drunk stop? Never hit her up for some Code X in the back seat? Didn't tap it?
+2) 34) dialog: You also have a dick. Alonzo shakes his head in disgust. Jake is crushed.
+2) 35) dialog: Let's go. Alonzo tosses a fifty on the table. OFF his heavy wedding band we --
+3) 0) text: Jake and Alonzo crossing. Alonzo sizes Jake up.
+3) 1) dialog: You walk and talk like a damn cop. Alonzo stops at:
+3) 3) dialog: Gimme that menu. Jake pulls a Chinese menu from under the wiper. Hands it to Alonzo, who folds and pockets it.
+3) 4) dialog: Get in. S'unlocked. Jake admires the car, climbs in.
+4) 0) text: Jake buries his shoes in beer cans and coffee cups. Alonzo twists the key and pumps the hell out of the gas. After a beat, the ENGINE CATCHES -- VROOM!
+4) 2) dialog: Don't worry. My baby puts out when she has to. Alonzo rubs the dash lovingly.
+4) 4) dialog: You're in it. Jake reacts. Then smiles -- This is kinda cool.
+5) 1) dialog: Rover's in the glove box. Wanna ten-eight us?
+5) 3) dialog: Shitcan the sirs. I'm not your domestic violence awareness instructor. Jake takes a Motorola radio from the glove box.
+5) 5) dialog: Nora fifteen.
+5) 11) dialog: (into rover) Nora fifteen, South on Rampart at Beverly.
+5) 13) dialog: Bad guys are listening. Don't trust the radios. Never let anyone know where you're really at. Ever. Jake nods and smiles -- makes sense.
+6) 2) dialog: It's my world. Jake notes several men making hand signs as they pass.
+6) 4) dialog: They're selling micas. Fake I.D.s. Green cards, licenses, socials. Alonzo gives Jake a fatherly look, lights a smoke. Settles in his seat. (CONTINUED)
+6) 7) dialog: Today's a training day. Gonna show you around, give you a feel for the business. I have thirty- eight cases pending trial. I have sixty-three active investigations. There's another three hundred and fifty cases on the log I can't clear. I'm supervising five officers. That's five different personalities, five different sets of problems. You, Officer Hoyt, if you got the guts to succeed, will be number six. I don't have time to baby-sit or hold hands. You have one day to show me who you are and what you can or cannot handle. You can't hack narcotics, feel free to work a pussy desk chasing bad checks. Hear me, Officer Hoyt?
+6) 9) dialog: Good. Gonna show you reality. Think you can handle it?
+6) 11) dialog: Why you wanna be a narc?
+6) 14) dialog: Stick with me and you will. If you can unlearn the bullshit they've filled your head with. (MORE ) (CONTINUED)
+6) 17) dialog: You gonna be passing out baseball cards and carrying old ladies' groceries like the rest of the newfucks Washington's flooded the streets with?
+6) 19) dialog: Good. Roll your window down. Can't hear the street.
+6) 20) dialog: Stand by, because narcotics ain't about staying in the car and looking good. I bet you write great paper, Hoyt. (before Jake can answer) You do. I checked it out. Cover your area, cover your ass, but not necessarily in that order, right?
+6) 22) dialog: How's the Espanol?
+6) 24) dialog: Work on it. People'll be plotting the worst kind of shit behind your back.
+6) 29) dialog: No way. I'm the new breed. I use this... (taps his head) This is my tool. The G-Ride crosses the lst Street Bridge, revealing Echo Park spread before them.
+7) 1) dialog: How long you been married?
+7) 3) dialog: Gotta kid, right?
+7) 5) dialog: I got four kids. All boys. You want a son, lemme know. I'll do your old lady up. I can't miss. Jake angers, although he knows he is being tested.
+7) 7) dialog: It's cool. I can respect that. I'm married. I have my queen, too. I remember what it's like to have a pretty young bride. Bet you still fuck her face-to-face.
+7) 11) dialog: Kick back, kid... You're so in love it's comin' out your eyes. The day you bring the old lady to the office is the day you don't go home. If you don't hide your love deep inside, maggots out here will find it and chew it up. Jake realizes Alonzo is right. Alonzo hands him a card.
+7) 12) dialog: That's our Chaplain, Lieutenant Conelly. Give hima call. Invite him and his wife over for dinner. He's a good guy and no dumbshit. You and your woman need any kinda help, call him. I'm serious. Jake takes the card. Kind of smiles.
+7) 15) dialog: Where the hell you hear that?
+7) 17) dialog: (smiles, shakes his head) Asshole.
+8) 0) text: Alonzo pulls onto a street of dense apartments. Parks along the curb.
+8) 4) dialog: Transactions... See the Salvatrucha zero head on the fence, trying not to look like he's slangin'? Jake looks, sees a young, bald cholo, Neto, just hanging out.
+8) 5) dialog: That's Neto. Homeboy did three years in the boyna roja. Red beret.
+8) 7) dialog: Batallon de accion rapida Atlacatl. (off Jake's look) El Salvadoran special forces. Punk's only seventeen and can kill with the best of them. Works for me.
+8) 9) dialog: I got eyes everywhere. He gets to peddle reefer, make a little cash for the family. I get a heads-up when shit goes down. The barrio dot com.
+8) 11) dialog: Goddamn right I trust him. Sprung his mom from I.N.S. detention. Alonzo watches his mirror, perks up.
+8) 12) dialog: Here we go.
+8) 17) dialog: Shit's going down.
+8) 20) dialog: See the hand-to-hand?
+8) 22) dialog: When was your last felony stop?
+8) 24) dialog: You need practice.
+8) 26) dialog: They need a lesson. I want the Brady Bunch grabbing glass. I got front. You got back. Alonzo pulls his gun. Jake reaches for the Motorola.
+8) 27) dialog: Stay off the rover. Jake puts it away, pulls his gun. Alonzo stomps the gas. The G-Ride HOWLS. The VW is at the corner, about to turn!-— 18.
+9) 0) text: SCREEEEEECH! -- Alonzo slaloms to a stop, blocking its path. His pistol aimed through Jake's window at the DRIVER.
+9) 1) dialog: Police! Lemme see your hands! Jake draws a bead on the girl in back.
+9) 4) dialog: Driver and right front passenger! Palms on the windshield!
+9) 6) dialog: Driver! Use your left hand, put the vehicle in park. The Driver is mortified because:
+9) 8) dialog: Shut up, dickhead! I'11 shoot your face off! Take the keys out of the ignition. Throw 'em out the window! The Driver does, quickly, as Alonzo jumps from the car, charges the Driver, shoves the gun in his face. These are just scared kids. The girl tries not to cry.
+9) 9) dialog: Fork it over, smartman.
+9) 13) dialog: The marijuana I just watched you purchase! The Driver hands over the foil pack.
+9) 15) dialog: Shut up, dumbass. You're here now! Gimme that pipe! There's an ornate pot pipe on the floor mat. The PASSENGER picks it up. Reluctantly hands it to Alonzo.
+9) 17) dialog: What else you got?
+9) 19) dialog: Gimme those too. He gives him a squished packed of Marlboro reds. The kids realize Alonzo isn't your average cop. The girl sees Neto standing down the block like nothing is going on. She lowers her hands -- bad move.
+9) 20) dialog: Control your suspect, Hoyt!
+9) 22) dialog: Cry and I slap the eyes outta your face! Back to the Driver.
+9) 23) dialog: You aware this is a gang neighborhood? That gives him pause -- no kidding -- Alonzo grabs his ear again, shakes. (CONTINUED)
+9) 26) dialog: I see you here again, I take your car. You can walk home while your girlfriend pulls a homeboy train... Hear me, reefer addict?
+9) 28) dialog: Thank you for your cooperation -- Safe your iron.
+10) 2) dialog: They have no business being here. Sooner or later that little smart- ass white boy college puke is gonna get jacked. I saved his life.
+10) 4) dialog: Sure did, buy your shit on campus. (beat) I like your moves. Someone trained you well. Jake smiles to himself. Alonzo opens the foil, sniffs -- (CONTINUED)
+10) 7) dialog: Shitty dime. Check it out. He hands it to Jake. Who takes out a bud.
+10) 8) dialog: See the small hairs? The undeveloped seeds. How it's all stems? Jake nods.
+10) 9) dialog: It was picked immature. See how flat it is? Classic brick-pack Mexican. See how brittle it is? It's not bud season. It's from last year. Jake is amazed. Alonzo snatches the bud, crumbles it in the pipe, tosses aside seeds.
+10) 10) dialog: To be truly effective, a narcotics detective must know and love narcotics. A good narcotics detective should have narcotics in his blood.
+10) 12) dialog: You are.
+10) 14) dialog: What? You a Mormon? A Jesus freak?
+10) 16) dialog: (re: the pipe) This is your job.
+10) 20) dialog: This isn't some kind of test. Take a damn hit.
+10) 22) dialog: (laughs ) This ain't a review board. We ain't doing rails. Just leafy green bud. Jake stands firm, shaking his head.
+11) 0) text: SCREECH! Alonzo stops in the middle of the street, pulls his gun, jams it in Jake's ear. CARS behind them HONK.
+11) 1) dialog: If I was a dealer, you'd be dead. Turn shit down on the street and the Chief hands your wife a crisply-folded flag. Jake stares stubbornly at Alonzo. Alonzo pockets the gun. Lights the lighter. And takes a huge hit, blows smoke in Jake's face.
+11) 2) dialog: I don't want you in my unit. Not even my division. Go back to Valley. Get the fuck out of my car. A staring contest. Jake decides to play the game.
+11) 4) dialog: Alright. That's how it's done, son. -- And is racked with a spasm of coughing.
+11) 5) dialog: Betrayed by your virgin lungs. (CONTINUED)
+11) 10) dialog: It's cashed. INT. G-RIDE (ECHO PARK) - DAY Al2 They cruise in a strange otherworldly silence. Jake is clearly messed up, his head lolls from side to side.
+11) 11) dialog: Shit, you took some man-sized hits. You gonna be okay? When's the last time you smoked out?
+12) 1) dialog: Left that out of your service jacket. Knew you had secrets, everyone does. Didn't know you dig dusters.
+12) 3) dialog: You know, dusted bud. Dippers? C'mon, dipped in P.C.P. Primos. Sherm, kool, P-dog, angel dust... Didn't you smell it? Taste it?
+12) 5) dialog: Now you have. Remember the smell for next time. Think I'd inhale that shit? Jake is scared as hell, pale, sweaty.
+12) 9) dialog: Gonna kick the shit out of Neto. Motherfucker's lacing crappy bud to get that unsuspecting return client. Hell with his mom, I'm deporting the bitch.
+12) 11) dialog: Lieutenant's got our backs. We know a week before we piss.
+12) 13) dialog: Chill and ride the high. You're an adult. You chose to smoke. Live with your decisions. You cool?
+12) 15) dialog: Besides, no one put a gun to your head. Jake shoots him a look.
+13) 1) dialog: Get your shit together. Alonzo and Jake cross to the door. Alonzo knocks.
+13) 2) dialog: This is my Road Dog's pad. Wanna see what he thinks of you. (CONTINUED)
+13) 6) dialog: You'll think of something stupid. The door opens revealing ROGER in a bathrobe, worn from years of hard living. He's happy to see Alonzo.
+14) 0) text: Roger and Alonzo hug.
+14) 1) dialog: Did I wake you ?
+14) 3) dialog: Alright. Time to get my swerve on. Roger gives Alonzo a concerned look.
+14) 5) dialog: I'm cool. People talk shit.
+14) 7) dialog: I know. Thanks. They clink glasses. Jake doesn't. He stares into the liquid, enraptured by its smoky patterns. (CONTINUED)
+14) 10) dialog: Jake, drink your medicine. Jake takes a sip and winces. Roger tugs Jake's goatee. Jake recoils.
+14) 26) dialog: Then why are you cackling like a jackal?
+14) 31) dialog: Don't listen to him. There's nothing to figure out. The street's a buncha senseless bullshit.
+14) 35) dialog: Give up. You're too high, space captain.
+14) 38) dialog: Think this greenhorn can handle undercover? Roger scrutinizes Jake a beat. Smiles and nods: yes.
+14) 40) dialog: (laughs ) Bullshit.
+14) 42) dialog: That lasted a week. Alonzo stands, shakes with Roger. (CONTINUED)
+14) 45) dialog: Brother, I gotta get back in my office. Thanks for the snort, dog. What're you up to today? Roger gestures at the phones and beepers.
+15) 2) dialog: He liked you.
+15) 4) dialog: He's no snitch. He's a good man to know. C'mon, let's find some action in Niggertown. (off Jake's look) That's N-wordtown to you. What are you, Hoyt? You ain't pure whiteboy. You mixed?
+15) 6) dialog: No shit? You're all dicked up. Jake looks green, tosses the cigarette out the window. Alonzo senses what's coming and SLAMS on the BRAKES, flings open Jake's door. Jake vomits. A beat of dry heaving. (CONTINUED)
+15) 9) dialog: Okay, well's dry, kid.
+15) 11) dialog: Wipe your chin. Alonzo hands Jake a handkerchief. Jakes wipes his sweaty face.
+15) 13) dialog: You gotta learn how to party. To handle a high. It's a necessary job skill. I'm not kidding. It's an alcohol world down here. You gotta be able to hang. To get wasted and talk shit with sketchy sociopathic dumbasses and not pass out and get your shoes stolen.
+15) 15) dialog: Oh, damn!
+15) 22) dialog: Mmmm-mmmm. The brown woman is the fine woman. Give her ten more babies to push around. Thick and tasty. Love to get up in that... Your old lady white? Nordic cheerleader, right?
+15) 24) dialog: I like my meat dark. C'mon, get in the car. OMITTED Al5
+16) 1) dialog: C'mon, man. Open your eyes. You'll make it worse. Nothing.
+16) 2) dialog: Sit your ass up. Hoyt! Jake locks bleary red eyes on Alonzo, jokingly:
+16) 4) dialog: The Goddamn zig-zag man.
+16) 6) dialog: You're a little bitty boot. Alonzo cracks beers for him and Jake. (CONTINUED)
+16) 9) dialog: C'mon. It helps. Believe me. Gives you ballast. Jake takes one. Alonzo drives over the 6th Street bridge. Jake drops his beer, soaking his leg.
+16) 10) dialog: Dumbass. He leans his head on the window pillar, feeling better. Jake's eyes absorb the street's tableau of unworldly beauty gliding by. Palm trees and sunshine. Paradise and hell in one. His lids begin to drift shut. Then Jake sees a flash of movement in an alley. Suddenly alert, he paws at the door handle.
+16) 12) dialog: Siddown, Hoyt. Everything's fine.
+16) 14) dialog: C'mon, relax. You're tripping. Jake grabs the gearshift, throws it in reverse. The transmission GRINDS, TIRES SCREECH. The ENGINE STALLS. Jake is out like a shot --
+17) 1) dialog: Get your ass back here!
+17) 3) dialog: Dumb-ass kid.
+17) 16) dialog: He casually exits the G-ride with a smile, impressed by Jake's raw skill.
+17) 18) dialog: Shoulda shot ‘em. Jake crosses to the Schoolgirl.
+17) 21) dialog: Miss! Relax! Are you okay?
+17) 23) dialog: Honey, it's just a nosebleed. Put ice on it. Don't be walkin' around here alone. Tell your cousins to get your back. You know what those piecesa shit were gonna do. Probably got AIDS. Why aren't you in school?
+17) 27) dialog: You almost became a ditch party. Go home. Go home, now. She grabs her book bag and gets out of there.
+17) 29) dialog: Unhook 'em. We're not racking up arrests.
+17) 31) dialog: No. Get some shots in first.
+17) 33) dialog: Hear that, bro? My dog, here, wants to lock you up. Been to the bootyhouse? Grabbin' ankles for the big boys?
+17) 35) dialog: Kick back, who's-who. Alonzo finds rocks in one sock. Some twenties in the other. He pockets the cash and crack. Searches Crackhead #2.
+17) 36) dialog: Where's your horn?
+17) 38) dialog: So what's this, chief? Gonna make you eat it. (CONTINUED)
+17) 41) dialog: You, stand up. Alonzo hauls Crackhead #1 to his feet. Unlocks the cuffs, tosses them to Jake. Crackhead #2 strains against the flexicuffs.
+17) 42) dialog: (to Crackhead #2) You get to keep those. Want to go to jail or go home? He steers Crackhead #1 to a wall -- cocks his fist.
+17) 43) dialog: Ain't the first honey y'all pinned to a wall, huh? Close your eyes. Crackhead #1 does. Alonzo knees his groin -- oof! -- He falls to the ground, whimpers in the fetal position.
+17) 44) dialog: Lucky I got pressing business. Next time I cut your dick off and shove it up your ass. (pats Jake's back, winks) I'll leave you three alone for some quality time. Gonna grab some beer. Alonzo gets in the car, backs out of the alley. Jake watches Crackhead #1 whimper; Crackhead #2 writhes in the gutter. It's futile to beat these men. Jake takes pity, walks away.
+18) 1) dialog: Wanna book sixty bucks? Where're the suspects?
+18) 3) dialog: Get over it. You wanna go runnin' and gunnin', stay in patrol. This is Investigations. Leave the garbage for the garbage men. We're professional anglers. We reel in the big ones. Shoulda dished out some shoe leather. You'd have a big 'ol smile on your face.
+18) 7) dialog: Man... The hell you doing running alone into an alley fulla cracked- out monkey-strong motherfuckers? Those hemorrhoids woulda killed you without mercy or hesitation.
+18) 9) dialog: They lost their money, their rock, got beat down and now the eses from Trece Flats are gonna smoke ‘em. Jesus, what more do you want?
+18) 11) dialog: Is that not justice?
+18) 13) dialog: What's wrong with street justice?
+18) 15) dialog: God willing. But it don't work like that. They wipe out the good folks. It's always school kids, mommies and ass-bustin' family men catching stray slugs in their noodles. You protect the flock by catching the wolves. And it takes a wolf to catch a wolf.
+18) 17) dialog: You protect --
+18) 22) dialog: Shut up, boot! Nothin' but shit ‘tween your ears. They build prisons cause a me! Judges have handed out fifteen thousand man years of incarceration time based on my investigations. My record speaks for itself. How many felons have you collared? Dickhead. Now that it's clear who's the boss, they drive in tense silence for a long beat. Alonzo digs in his pocket --
+18) 23) dialog: Here... -- hands Jake the rocks he found. A beat.
+18) 25) dialog: Good. I'm glad to hear that. Toss 'em in the glove box. Jake does, sees several more rocks under some papers.
+18) 26) dialog: Comes in handy. Like a credit card. (offers Jake a beer) You earned it. C'mon. Jake refuses.
+18) 27) dialog: No matter what I say, I want you to know, you did the right thing. Reminds me of when I could chase down anyone and rock their world. You're a good cop. You got fire. That was some amazing shit back there.
+18) 31) dialog: That the choke hold I saw you applying? Isn't that a big no-no, procedure-boy?
+18) 33) dialog: You did what you had to do. Alonzo gives Jake a beer and grins at him like a proud dad.
+18) 34) dialog: You got a magic eye, Hoyt. You have a goddamn magic eye. Up your street I.Q. and you'll do some damage, crime fighter. They clink cans. Jake smiles.
+20) 1) dialog: Did my probation here. Learned a lot on these blocks. Kicked some ass. Had my ass kicked.
+20) 3) dialog: Yeah, back in the day. Been on the job thirteen years. Today's my date of employment. (CONTINUED)
+20) 7) dialog: Thanks. Thirteen's an unlucky number. But I figure the seven to go cancel it out. Alonzo turns on McKinley. He reaches over, digs in the glove box. Pulls out a photograph and hands it to Jake.
+20) 11) dialog: I had a few misconceptions when I started out. (notes a graffited wall) Shit's going down. See that?
+20) 13) dialog: Crossing out each other's placas like that. Ghettoville and the Locotes are at war. (CONTINUED)
+20) 16) dialog: Learn to read walls, not just street signs. Alonzo turns down an alley. Then pulls onto a boulevard. After a block, he pulls into a different neighborhood. Alonzo glimpses some pit bulls down a driveway. A beat later he points out a house.
+20) 17) dialog: On the left. See that house? Dude named Spooky lived there. Mean old vato loco. Mexican Mafia. No one messed with Spooky. Even got respect from the cops. We'd keep an eye on his house. You like dogs?
+20) 19) dialog: Rotties are good dogs. Dobermans are better. Spooky raised Dobermans. On my second week of patrol, when I was not knowin' shit, we roll by Spooky's one night. I observe this old, black fool named Too Fine, all drunk, beating the shit out of this female Doberman. Beautiful dog, seven months old. Too Fine's whoopin' her with a garden hose. This dog's just crying, shaking. I grew up with Dobermans. I was pissed. I tell my T.O. 'I'm gonna take him.' And my T.O. is like: 'No, no. It's cool.' He waves to Too Fine and this motherfucker smiles and waves back and keeps hitting the dog. (MORE ) (CONTINUED)
+20) 22) dialog: Thought I lost my damn mind. Tells me Spooky gave him twenty bucks to beat the shit out of it. My T.O., this good 'ol boy, looks me in the eye and says: 'Teaches ‘em to hate niggers.' Almost quit right there. Almost got out of that black and white and took the bus home. Jake looks at Alonzo.
+20) 24) dialog: Just remembered that. Every time I'd seen it all, the street'd show me something even more twisted. I know you didn't see no shit like that in the Valley.
+21) 1) dialog: Still up twenty. Your turn. Put your hood up. (CONTINUED)
+21) 6) dialog: Ad lib, boy. Use your words. He pulls over. The Dealer rolls up to Jake's side.
+21) 10) dialog: Fetch, boy. Fetch. Jake bolts from the car.
+23) 0) text: The Dealer heads for the back. Where a door leads out to an alley. He reaches for the door handle. Jake tackles him. Gets the Dealer in a compliance hold and cuffs him. Alonzo enters the store, badges the owner.
+23) 1) dialog: Love doing that, huh? Jake searches the Dealer as rows of display heads stare with blind eyes.
+23) 2) dialog: Who you work for, shitstain?
+23) 4) dialog: Bullshit. You crackin'. (CONTINUED)
+23) 7) dialog: No rocks?
+23) 10) dialog: I never come up short, fool. Open your mouth. The Dealer does. Sensing to not play with Alonzo.
+23) 11) dialog: Lift your tongue. He does.
+23) 13) dialog: Gimme a pen. Jake does. Alonzo grabs the Dealer's neck. Forces the pen in his mouth. Down his throat. He gags -- urgh! Vomits.
+23) 15) dialog: Lookie those.
+23) 17) dialog: That's Jimmy crack corn and I don't care. One, two, three, four, five... six. How'd you swallow that shit without water? (CONTINUED)
+23) 21) dialog: Gonna act like a man or a bitch?! Got you cold. Wanna go to jail? Or go home? Gimme a name. The Dealer mulls it over.
+23) 23) dialog: Who?
+23) 25) dialog: Unhook him, Hoyt. (to Dealer) You on my team now. Be seeing you, homie. Jake unlocks the cuffs. Alonzo steps over the vomit and crack.
+23) 26) dialog: And collect the evidence.
+23) 28) dialog: You're learning.
+24) 1) dialog: What?
+24) 5) dialog: To who?
+24) 7) dialog: Afternoon, Bob. It's Alonzo. Got your gang book? (beat) I need a res. Sandman from Mobsters... might be in custody. (beat) Okay, shoot. Alonzo jots the information on a note pad.
+24) 8) dialog: Thank you, sir. That's gonna do it. Have a good one. Alonzo hangs up. Shows Jake the address with a grin.
+24) 10) dialog: We go after the Sandman. Jake smiles.
+25) 1) text: The G-Ride parks in front of a house. Alonzo and Jake exit. Alonzo pops the trunk. Inside is a microwave box, toaster, a boom box, a TV.
+25) 5) dialog: It's unclaimed shit from property. I pass it out to informants, victims, witnesses. Help their families out. Alonzo fishes out an LAPD Windbreaker, "POLICE" across the back. Hands it to Jake.
+25) 6) dialog: Wear that. Intel says his wife's in the residence with two female juveniles and a possible male juvenile.
+25) 8) dialog: We gotta serve this search warrant. It's the Chinese take-out menu Jake handed him earlier.
+25) 10) dialog: Yes we can, supercop. Ding-ding, that's the school bell. He slams the trunk. Pulls his gun. They cross to the door.
+25) 12) dialog: I wanna get shit done.
+26) 1) dialog: Don't get me killed, new guy. He knocks on the security screen.
+26) 2) dialog: Police! Search warrant! (CONTINUED)
+26) 7) dialog: L.A.P.D.! Please open the door or we kick it in! Ma'am?! CLICKING. The door is unlocked, opened. SANDMAN'S WIFE, an attractive black woman, stands on the other side of the security screen. Alonzo waves the menu.
+26) 8) dialog: Search warrant. Unlock the door and back away. She does, Alonzo snaps it open, rushes in, Jake follows.
+27) 0) text: Jake and Alonzo swinging guns around the room -- two scared toddlers in a playpen. Sandman's Wife sits on the couch.
+27) 2) dialog: Anyone else in the house, ma'am?
+27) 4) dialog: Cover her. Gonna clear the house.
+27) 8) dialog: Kitchen's clear! We hear ALONZO moving through the bedrooms.
+27) 9) dialog: Bedrooms're clear! Bringing out the kid! Alonzo marches Dimitri, 10, into the living room. The youngster trembles.
+27) 10) dialog: S'okay, son, we're the good guys. Go sit on the couch with your aunt -- House is code-four. Gonna start my search. Alonzo exits. Sandman's Wife glares at Jake.
+27) 27) dialog: Didn't find shit. Let's go -- sorry about the inconvenience, ma'am. Thank you for your cooperation. He and Jake head for the door.
+27) 29) dialog: Here. He hands her the menu as they exit.
+28) 1) text: Sandman's Wife bursts out of the house, screams at Jake a Alonzo as they climb in the G-Ride.
+28) 5) dialog: C'mon, baby. Don't do me like that. The gangsters getting closer.
+28) 6) dialog: You bitch! Start! Jake sees a Glock pulled from a waistband.
+30) 0) text: Alonzo rounds the corner, tosses the wounded cans out the window.
+30) 1) dialog: Shit... Let's hit a liquor store. Jake fingers the hole in the dash.
+30) 2) dialog: Gun! Gun! Gun! Jake startles, Alonzo laughing.
+30) 3) dialog: First time you been shot at?
+30) 5) dialog: Yeah, it was. Take the jacket off. Jake does, Alonzo takes whatever is in his jacket, wraps it in the raid jacket and sets it at his feet.
+30) 7) dialog: Looking for narcotics activity. Scales. Baggies. Guns. Coke. Bud. Etcetera.
+30) 9) dialog: Speak on it, son.
+30) 13) dialog: Bitch was talking shit. Trying to get us blasted by her homies. Jake looks at the raid jacket.
+30) 14) dialog: What?
+30) 16) dialog: I don't deny my shit stinks. I will never deny that. So why do I got the best arrest and conviction record in the county. Why? ‘Cause I don't handicap myself with bullshit.
+30) 18) dialog: You thought wrong. There's some profoundly evil people walking free on the streets right now who've killed three, four, five people. I know it, they know it, every detective on payroll knows it. Why do these turds still float around? The rules. I take down the duly deserving. I'm not locking up Mr. Nine-to-five, Mr.!Family Provider. Jake shaking his head angrily.
+30) 19) dialog: C'mon, communicate. What aren't you saying? Talk to me. A beat. Then Jake fixes Alonzo with a stare.
+30) 23) dialog: Hoyt, man. Know what? You're alright. You are alright.
+30) 25) dialog: You're in a privileged position to learn a thing or two if you can keep your mouth shut and your eyes open. If you're serious about doing good in the real world, this is the place to learn how. Gun! Gun! Gun! If this shit shakes you up, go back to Division and cry to the Watch Commander. He'll find you a nice job lighting flares and measuring wrecks. Decide now if you want to be a wolf or a sheep. If you want on my squad, I'll sign your card. Alonzo stops the car. Alonzo puts his foot on the dash, reveals his unit's tattoo on his ankle. Jake reacts.
+30) 26) dialog: Get your ink. (re: the patrolman) Or get out and give him a hand. Alonzo reaches over and opens Jake's door. Jake looks around, looks at the tattoo. Forget it, he's out. Jake exits the car. Jake stands on the shoulder, squints at the patrolman fighting lugnuts. Jake knows what he wants to do. He gets back in the G-ride. Slams the door and nails Alonzo with a steely look of resolve.
+30) 30) dialog: Welcome to Narcotics, Officer Hoyt.
+30) 32) dialog: You do and you'll run the unit some day. (a beat) You hungry? Let's code seven. Alonzo SCREECHES out of there.
+31) 2) dialog: Oh, you've heard about this neck of the woods?
+32) 1) dialog: This is the heart right here. The headquarters. A lot of murder investigations lead here. One way in, no way out. Strictly heavy hitters. Damus don't play. (CONTINUED)
+32) 5) dialog: Lots of eyes on us right now. Never come up in here without me. For your safety. I'm serious.
+32) 7) dialog: Because I'm square with 'em. But they know if the line is crossed, I'm leading the platoon in here. Two solid, early teen gangsters lean against a fence. One claps sharply. Alonzo gestures for Jake to look up through the windshield.
+32) 11) dialog: They're flipping pigeons to let folks know I'm here. Jake looking at Alonzo, lost. Alonzo grins. At the far end of a driveway, more gangsters work out and drink. One of them is benching over 300 pounds. (CONTINUED)
+32) 15) dialog: I got your back, dog. (re: Jake) He's my people. Alonzo pushes open the gate. The gangsters regard him coldly as he passes.
+32) 16) text: Behind Alonzo's back, the gangsters' disposition becomes disdain.
+33) 2) dialog: Punk ass fools. I got all these busters under my thumb. An old woman sweeps her doorstep and glares at Jake.
+33) 3) dialog: Buenas tardes, Dona Lucila. The old woman smiles, nods. Jake and Alonzo cross to some stairs, climb the steps. A 15-year-old girl exits with a laundry basket. Alonzo leers.
+33) 4) dialog: Gonna throw her dad in jail. Raise her up myself. Like veal. Jake reacts, unsure if Alonzo is joking. 59. 41 EXT. SARA'S APARTMENT - DAY 4l Alonzo knocks on a door.
+33) 6) dialog: A loving touch.
+33) 8) dialog: Policia, senorita. The door opens, there stands SARA, a ravishing Salvadoran in a housedress. She hugs Alonzo, plants a big kiss on him. (CONTINUED)
+33) 11) dialog: He's just my new guy. She holds out her hand. They shake.
+34) 0) text: The living room is filled with Salvadoran kitsch. It's bright, airy, a refuge. A 2-year-old boy on the couch watches cartoons. Alonzo motions for Jake to sit.
+34) 1) dialog: You had a rough morning. Relax and let her hook you up. He disappears into the bedroom. Sara hands Jake the remote.
+35) 0) text: Jake dozes, his plate wiped clean, an arm around the little kid, still watching cartoons. Alonzo enters, invigorated, he kicks Jake's foot.
+35) 1) dialog: Let's go. We're rollin'. Gotta meeting in fifteen. Jake stirs, stretches. Stands. Alonzo shows him the door.
+35) 2) dialog: Go to the car.
+35) 4) dialog: I'll tell her, don't worry. Jake tussles the kid's hair.
+35) 6) dialog: (subtitled) Hey. Como esta, mijo? Te portas bien? Esta creciendo, papasito. (How are you, son? You're getting big.) Sara watches from the bedroom doorway. Seeing Alonzo like this rips her apart.
+36) 2) dialog: Sara's my princess.
+36) 4) dialog: So are her two sisters. They look damn good and they party. How'd you like to be in the middle of a bitch sandwich? Come to Vegas with us.
+36) 6) dialog: You're missing out. I should know.
+36) 8) dialog: Number six.
+36) 10) dialog: I'm only aware of six.
+36) 12) dialog: -- and hard to take care of one. Fuck you, okay? No one's going hungry. Everyone gets plenty of what they need: toys, shoes, clothes.
+36) 16) dialog: Let's not talk about my family.
+37) 0) text: The G-Ride pulls up to the downtown L.A. landmark. Alonzo's CELL RINGS.
+37) 1) dialog: Get out. Jake does. Alonzo talks on his cell a heated beat. Jake overhears:
+37) 2) dialog: You'll get the damn money. Alonzo hangs up, exits the car uncharacteristically shake He and Jake cross to the entrance. Alonzo slips an old man polishing shoes a twenty. Alonzo, the raid jacket tucked underarm, hands Jake some eyedrops.
+37) 3) dialog: Use it. Jake does. Alonzo opens the door.
+37) 5) dialog: Don't speak unless spoken to.
+38) 0) text: Leather booths and big, padded chairs. It's empty. Save for a corner table. Three scary 40ish bruisers in immaculate suits, DOUG, STAN, and LOU, share a top-notch cabernet. Doug and Stan see Alonzo, react like they've seen a ghost. Lou turns, sees Alonzo. And quickly stands. It's tense. Like there could be a gunfight. Jake's hand creeps to his gun. Alonzo and Lou converge, trading serious questions and answers with their eyes. Jake watches Stan and Doug. They watch him. Alonzo and Lou grab hands grimly. (CONTINUED)
+38) 4) dialog: (smiles, winks) Ain't dead yet, you prick. They shake vigorously, smile big. Everyone relaxes.
+38) 6) dialog: This is Jake Hoyt, first day in my squad. Jake shakes Lou's hand. Sees an LAPD Captain's badge on his belt. Jake realizes these guys are police administrators.
+38) 7) dialog: Jake, this is Lou Jacobs. You ever have to talk to a fed, talk to this man first. He'll get your back.
+38) 9) dialog: This is Stan Gursky, runs the D.A.'s shooting team. Think about him before you pull a trigger, okay? Stan will rock your world if you make a bad call.
+38) 11) dialog: And this is Doug Rosselli, does high-dollar theft cases for the poodle crowd. Your Picasso takes a trip, Doug'll find it or die trying. Doug stares at Jake like he's a bug as they shake. Jake withers a little. (CONTINUED)
+38) 18) dialog: Shoo, boy. Shoo. He points out the corner table for Jake. Jake crosses, sits, his back to their table.
+38) 20) dialog: Why the long face, Doug? Feds seize your house or something? Chuckles from Lou and Stan.
+38) 26) dialog: I know her. Sharp lady.
+38) 36) dialog: If the asshole's clever enough to play the system like that, I say he earned his freedom.
+38) 38) dialog: Take his bullets, Stan. (CONTINUED)
+38) 43) dialog: Hey, listen, been showing my new guy around town. Scored some reefer for him to smoke. But he wouldn't. So I run through the whole bit, the gun to the head. Everything. 'Okay,' he says. I light up and it stinks like burnt rubber, right? Nevertheless, I pass it to him. The detectives grin knowingly.
+38) 46) dialog: We're in MacArthur Park and he starts screaming and jumps out of my car. The detectives are hooked. So is...
+38) 48) dialog: So I chase him down this alley and, holy shit, he's jamming two huge crackheads and there's this mamacita with a bloody nose. Kid stopped a rape.
+38) 51) dialog: That's what I told him. Kid's a prince. Jake beams with beer-buzzed pride. (CONTINUED)
+38) 55) dialog: His first day on the squad and know what he tells me? (pathetic voice) "You're a rogue cop.' Roars of laughter from the Detectives.
+38) 58) dialog: How could I know? Vegas ain't my town. I'm not omniscient.
+38) 60) dialog: Why? It's an easy fix.
+38) 62) dialog: I can cash out an account.
+38) 64) dialog: One of mine. My first. The three suits shudder, trade looks.
+38) 68) dialog: He's a security risk. Who's gonna keep him off the radar if I'm gone. You? I'm taxing him. A beat. Stan acquiesces.
+38) 70) text: Lou, Doug, Stan and Alonzo stare back at him.
+39) 0) text: Alonzo and Jake exit. It's obvious something big is going down. Alonzo is excited, happy, the raid jacket underarm. He crosses to the valet.
+39) 1) dialog: Gimme the keys for the grey one. Alonzo receives a key ring. Alonzo crosses to one of three plush unmarked police sedans in the lot. Jake watches him open the trunk and empty his jacket inside. Alonzo returns the keys to the valet.
+40) 1) dialog: It's me. We gotta green light. Fax the warrant to the clerk and tell her to get the judge to sign it. I want you and Paul to bring it to location one. Have Jeff get some picks and shovels. Sign 'em out from maintenance. Copy that? (beat) Good. Hurry up. He hangs up.
+40) 3) dialog: Forty G's.
+40) 5) dialog: You wanna know?
+40) 7) dialog: Nothing's free in this world. Not even an arrest warrant. Jake didn't want to know. (CONTINUED)
+40) 11) dialog: A real bag of shit. A genuine bad guy. Been investigating this vile bastard for ten years. He's a big fish in a big pond. Today I fry him. The squad's gonna get some glory. Talkin' name-making shit. We'll be getting handshakes from the Chief and Mayor. Wanna piece, new guy? A beat. Jake smiles. Sounds good.
+40) 13) dialog: Knew you would.
+41) 0) text: Near downtown. An unmarked police sedan waits. The G-Ride parks next to it. Alonzo and Jake exit. Out of the sedan steps MARK, a Chicano clothes horse in Italian silk. And PAUL, a steely-eyed, heavyset black guy. JEFF and TIM exit, clean-cut white guys, Jeff has a mullet. Tim is generic but tough-looking.
+41) 3) dialog: Thanks. (to Jeff and Tim) My picks and shovels?
+41) 8) dialog: You are. Great suit.
+41) 10) dialog: (shakes with Paul) Howdy, killer.
+41) 12) dialog: Don't worry. I talked to the three wise men. It's all good. His men trade looks, they have total trust in him. Jake is a little nervous.
+41) 16) dialog: Gotta pop his cherry sometime.
+41) 20) dialog: It's the real deal. Signed by the judge. Thank the Sandman. (addresses everyone) Our safety comes first. He gives us shit, we give him lead. Let's do this right so everyone can go home and do the wife and girl friend thing tonight. (checks his watch) Suit up, ladies. Time to punch in.
+42) 0) text: Five cops crouch outside a gate with shotguns, MP-5s. Assault vests and helmets worn over civvies. Jake and Jeff to one side. Paul, Mark and Tim to the other. Alonzo crosses to the gate with boltcutters and snaps the padlock. The five cops open the gate and run to --
+44) 11) dialog: I had lunch with the three wise men. You gotta render unto Caesar. Roger sees the tools and knows exactly what they are for.
+44) 13) dialog: No, man, it's not like that. You're just getting taxed. They got their boat payments and God knows what. I'm sorry. They're makin' me do it. I'm just a lowly civil servant.
+44) 17) dialog: Don't worry, bro. I promised you'd never go back to prison. I got your back. You won't even miss what I'm gonna take. I hate doing this. Orders is orders. Sorry, dog.
+44) 19) dialog: (to Tim and Jeff) You guys are gonna work. Get the tools. (grabs Jake's shotgun) Gimme the boomer. Tim and Jeff gather the tools. Alonzo hands Jake a pick and leads the three men to the kitchen. Roger pours a slug of Crown Royal as Paul and Mark guard him.
+44) 21) dialog: The city.
+45) 0) text: Alonzo flips the table. Taps the floor with his toe.
+45) 1) dialog: Open the floor. Right here. Jake, Tim and Jeff begin chopping. It's quick work to tear a large hole in the wood.
+45) 2) dialog: Hop in, Hoyt. Couple a feet down, there's a locker. Jake jumps in. Attacking dirt with his pick.
+46) 4) dialog: Open it. Jake tears away trash bags. Alonzo takes a pick and snaps the lock. Jake opens the lid -- taped bundles inside.
+46) 6) dialog: Cut the damn thing open. Jake does -- it is a brick of fifty dollar bills. Alonzo is relieved to see the money. Jake likes its heft.
+46) 8) dialog: That's a hundred grand in your hot little hands. There's four million bucks in there. Alonzo slaps Jake's back.
+46) 9) dialog: First day on the job and you're in on a three million dollar seizure.
+46) 11) dialog: Told you, nothing's for free. Gotta grease the rails to make the big moves. Alonzo grabs a shopping bag. Tosses bricks of fifties in it. Hands it to Jake.
+46) 12) dialog: Here. Lucky to get this, day-one- motherfucker.
+46) 16) dialog: Sweet green clean legal tender. Start the kid's college fund early. Get the old lady a minivan. However pleasant the heft, Jake could never accept. He returns the shopping bag to Alonzo.
+46) 19) dialog: You said you wanted a piece.
+46) 21) dialog: I understand. I'1l hold on to it for you. Not everyone's comfortable the first time -- Let's wrap up. Alonzo drops the bag in the locker. Exits. Jake, Tim and Jeff follow.
+47) 0) text: Roger reads a Vegas odds paper. Alonzo, Tim, Jeff and Jake enter. Roger glares at Alonzo.
+47) 2) dialog: No. We can put you out of your misery. Alonzo tosses Jake the shotgun. (CONTINUED)
+47) 5) dialog: Lemme tell you a secret, Hoyt. If you kill someone on duty, they have to be your slave in the afterlife. (points to Roger) There you go. Start an entourage.
+47) 9) dialog: Not gonna do it?
+47) 11) dialog: Man, youngsters these days. Can't get shit done unless you do it yourself. Alonzo aims at Roger. Roger suddenly understands.
+47) 17) dialog: He's finished. Alonzo takes one of Roger's derringers from the floor. Slaps it in the dying man's hand.
+47) 18) dialog: C'mere, Jeff. You took fire coming through the door. Jeff smiles, gets in position so Alonzo can shoot him.
+47) 21) dialog: How's that? Jeff probing his hand under the vest.
+47) 23) dialog: Listen up. This is the scenario. Mark and Paul kick the door. Jeff is first through. Roger opens fire. Hits Jeff twice. Jeff coughs -- bright foamy blood in his hand.
+47) 25) dialog: One go through? Jeff answers by coughing more blood. Tim runs to him. (CONTINUED)
+47) 32) dialog: You're fine. You'll get a medal.
+47) 34) dialog: Let me quarterback the goings on and I will. Okay -- Mark and Paul kick the door. First through is Jeff. Bang. Bang. Gets hit. Wounded. Second through is our new guy, Hoyt. He drops the suspect with some fine shotgun work. (points at Mark) Who shot Roger?
+47) 36) dialog: Paul?
+47) 38) dialog: What'd you guys see?
+47) 44) dialog: (slaps Jake's back) Good job, son. Congratulations. Gonna get a medal of valor.
+47) 46) dialog: Roomful of cops says you did.
+47) 48) dialog: (as a newscaster) A Los Angeles Police Department narcotics officer was killed serving a high risk warrant in Echo Park today. An L.A.P.D. spokesperson said the young officer was survived by his wife and infant child. (himself) Shit gets deeper. Get the picture?
+47) 53) dialog: That's what I'm talking about. You guys watching this? That's it, Jake. Paul presses his Beretta against Jake's temple.
+47) 60) dialog: He's no fed. Just a choirboy with heart who got the drop on you fools. Everyone, let's take a deep breath and defuse this -- Jake? You hear me?
+47) 64) dialog: I hear you. I know you're angry!-- Paul, Tim, please put down your guns.
+47) 67) dialog: Both of you: guns down. Now. Paul and Tim reluctantly lower their weapons. Jake lifts his knee off Alonzo's neck, stands and backs away, aiming both pistols at Alonzo, who climbs to his feet.
+47) 68) dialog: Jake, use your ears and listen. Sometimes we take shit all the way. That's the nature of the game. We don't do this every day. No one will ever again ask you to pull a trigger you don't want to!-- Mark, where're you transferring to?
+47) 70) dialog: Westside Homicide -- Just made detective. Jake, give me eighteen months and I'll give you a career. We make the big arrests. We make the big seizures. When someone's in my unit they're in all the way or not at all. I thought you were man enough to handle this shit. Alonzo calmly pours himself a glass of Roger's whisky.
+47) 71) dialog: Five proven, decorated officers say you were the shooter. Investigators are gonna pull a tube of your blood and test for intoxicants. Remember all the P.C.P. you smoked today? (CONTINUED)
+47) 75) dialog: I've been planning this all week. You start talking crazy shit, I will make sure your dirty blood makes it to the lab. Still wanna walk your babynuts around the block? You won't make it to the corner. But if you're cool. You're a hero. A virgin shooter above suspicion. Jake looks at Roger, gasping like a beached carp. The SIRENS are getting CLOSER. Alonzo gulps his drink and!-- Pfffffst! Spits the booze in Jake's face. Jake is blinded. Paul seizes Jake's wrists and aims the pistols at the ceiling. Alonzo wrenches the pistols from his hands. Jake wipes his eyes, looks at the roomful of crazy cops, scared. Paul points at Roger's other derringer, laying on the carpet.
+47) 77) dialog: No. We're not killing him. He's a good guy. Man's got the magic. Just having a little freakout is all. We've all been there. I say he's cool. No one's gonna hurt him. Jake and Alonzo trade a look. The SIRENS are close.
+47) 78) dialog: Hoyt, you gotta decision to make. In ten seconds, this place will be overrun with blue suits. Go outside and clear your head. (returns Jake's gun) Or shoot me now. (CONTINUED)
+47) 83) dialog: Kick back, Wyatt Earp. Gotta respect a cat who puts you on queer street with one punch. (catches his men trading looks) Kid's got more balls than all you faggots combined.
+49) 0) text: Alonzo crosses to the G-ride with an armload of gear. Pops the trunk. Dumps everything inside. He shuts the trunk. Dials his cell phone and gets in the car. (CONTINUED)
+50) 0) text: Jake gets in, on the verge of freaking out. Alonzo with his reading glasses, the clipboard on his steering wheel, filling in the report, talking on his cell phone, laughing.
+50) 1) dialog: -- you're gonna be scrubbing the bathtub, homie. Later. Alonzo hangs up. Preoccupied with filling in little boxes on the report.
+50) 2) dialog: Why didn't you take off?
+50) 4) dialog: Roger was D.O.A. at Good Samaritan. Let's get the paper rolling now. Alonzo looks at Jake, sees his torment.
+50) 5) dialog: Justifiable homicide in the line of duty. Anyone'd be proud to have that in their jacket.
+50) 7) dialog: At this point it behooves you not to dick around. Jake has a lump in his throat. A beat of silence.
+50) 8) dialog: What happened today was -- (CONTINUED)
+50) 13) dialog: Dammit, boy! Why can't you open your eyes and see? Jake can see. Too clearly. Softly:
+50) 15) dialog: (laughs ) Friend? Because I drank his whisky and he knew my name? Shit. I was playing his ass. That's my job. That's your job. Roger sold dope to kids. World's better off without him. He's the biggest major violator in L.A. I've been watching the cocksucker operate with impunity for ten years. Now I got him. This shit's chess not checkers. Can't just slap cuffs on a cat like that. That's the truth. And Jake knows it.
+50) 16) dialog: Look, keep the money.
+50) 18) dialog: Just take it. Throw it in the ocean. Barbecue it. Just take it. It would make the boys feel better.
+50) 20) dialog: You're not making anyone feel you're on the team. (CONTINUED)
+50) 25) dialog: It is like this. I'm really sorry I exposed you to all that. It was ugly but it was necessary. Never seen no one die before? Too damn soft. Bet you never missed a meal in your life.
+50) 28) dialog: All the shit you're feeling now, it's going to go away. I know you're scared.
+50) 32) dialog: You're terrified. I know you are. I went through the same shit. Everyone has. Sooner the world in your head matches the real world, the better you're gonna feel. (a beat) Jake, there's gotta be dirt on you if anyone's gonna trust you. After this is behind you, a whole new life will open up. I walk a higher path. I can give you the keys to all doors.
+50) 34) dialog: I'm not the asskicker I once was, but you are. Want to run my unit? My guys are good but not one of those clowns is a leader. You are. Want my job? You got it. Wanna lock up criminals? This is the best place to do it. Do your time and make detective. Play the game, grow wise and change things from the inside. Jake looks at him. And realizes Alonzo is right. Alonzo STARTS the CAR, exits the alley.
+50) 35) dialog: Let's get to the hospital and talk to Stan. He'll tell you what to say to the D.A.'s guys.
+53) 2) dialog: Informant of mine's in Chino. Promised I'd help out his family. Alonzo points out a well-tended, quiet, quaint house near the cholos. Alonzo gets out. Opens the trunk. Loads up his arms with appliances.
+53) 3) dialog: Sometimes I bring food. Believe it or not, I like to help out the community whenever I can. (a box falls) Shit. Hoyt, help me with this.
+54) 1) dialog: (re: Jake) He's with me. A drunk PeeWee maddogs Jake. Jake maddogs back.
+54) 5) dialog: ‘Sup, man. You know I'm never lost. 63 64 65 92.
+55) 0) text: Jake and Alonzo cross to the house. AD LIBS of "Those're cops," spread through the cholos. At the house's door, Alonzo knocks. A beat. A little girl cracks it.
+55) 1) dialog: Hi. Got some stuff for your family. She closes it. A beat. The door opens to reveal SMILEY, a huge, drunk veterano sleeved with prison tattoos. He looks at the two cops. Massive, impassive. Smiley never smiles.
+56) 0) text: The little girl does homework on a computer. Two fine cholas watch the Spanish newscast. An old man dozes ina chair. Family photos on the wall -- A proud line of warfighters, lots of military uniforms. Alonzo and Jake follow Smiley into:
+57) 0) text: SNIPER and MORENO, big and intimidating like Smiley, have been playing poker around a beer-bottle-covered table. Smiley, Alonzo and Jake enter.
+57) 2) dialog: Can I use the head?
+57) 4) dialog: (to Jake) I'll be two seconds. We're already late. (CONTINUED)
+67) 0) text: Jake barges through the door, gun ready. Sara jumps from the bed, clutching a sheet. Alonzo is dressed down, ready for his important rendezvous. Finishing counting and repacking Roger's money into a war bag of police gear Twenty-two pounds worth of Benjamin Franklin. Alonzo spins, reacting as he recognizes the ghost before him. He raises his hands, impressed. Unable to reach his gun sitting on the dresser by his wallet.
+67) 2) dialog: Goddamn, Jake. Lemme shake your hand. You did it, you passed the test. You a man now. Alonzo offers his hand. Jake scoffs. Alonzo reaches for the war bag. Real slow. He fishes a smoke from the pack inside. Lights it.
+67) 3) dialog: Shit I've been through. Shit I've seen. Took me a long time to get where you are. Now you on, Jake. Now you're a real narc. I held your hand through hell. You just gonna stand there holding your shit on me? Wassup? (CONTINUED)
+67) 8) dialog: (holds out his hands) Then hook and book me. For what? You shot Roger when you were whacked on P.C.P. and ran off like a maniac. Got witnesses? Smiley? My squad? My loyal troopers? Tell your tales. We'll tell the truth. It's not what you know, it's what you can prove. Where's your evidence, Jake?
+67) 10) dialog: Jake. Doing good, man. First gunfight.
+68) 1) dialog: Know that I am surgical with this baby. Wanna closed casket? Or you want one below the belt?
+68) 6) dialog: Shhh, mijo. No llores. Ven aqui, mijo. Vente no llores. Escucha a tu papi. The child looks at Jake. A connection. Jake motions the child toward him. But the child looks to his father.
+68) 7) dialog: Mijo. No, es malo. Es el cucuy. Te va a pegar. El cucuy, mijo. Quiere pegarle a tu mami. Vente, papasito. (Translation: Son, he's bad. He's the boogeyman. He's going to hit your mommy and you. Come here, little man.) Jake must act. He scrambles to his feet, exposing himself BOOM! Alonzo PEPPERS the FRIDGE. POP-POP! Jake FIRES as he scoops up the boy and dives int the living room. Alonzo seizes the moment to depart, dropping the empty shotgun and disappearing into the bedroom.
+69) 1) text: Sara points toward the open window. Alonzo and the money are gone.
+70) 0) text: Alonzo flings the money on the roof, climbs the railing. And pulls himself on the roof. (CONTINUED)
+71) 0) text: Alonzo's silhouette running along the treacherous rooftop, takes cover alongside a pigeon coop covered with elaborate graffiti. Alonzo FIRES at Jake. Jake drops, rolls and FIRES back blindly. Alonzo runs for the adjacent roof. Alonzo jumps onto a balcony. Jake runs at full tilt. Toward the edge of the roof. Where nasty coils of razor-wire lay in wait. Jake jumps -- His foot hits rotten plywood -- Jake flies awkwardly through space.
+72) 0) text: Another pigeon coop. Chairs, a card table, potted plants; a little oasis. The edge of the roof approaching fast, and its concertina of razor-wire. Jake's chest hits it -- oof! An iron spike atop a fence a mere inch from his ear. Jake pulls himself onto the roof. Smack! Alonzo nails Jake's face with the war bag of cash. Jake is stunned, Alonzo grabs the gun tied to Jake's hand and both hit the deck. They wrestle as Alonzo gets a finger in the trigger guard -- POP-POP-POP-CLICK! Emptying Jake's PISTOL. Using his gun as brass knuckles, Jake punches Alonzo's head. Alonzo head-butts Jake, knees him in the crotch. Jake gasps in agony. Alonzo stands, begins stomping Jake's head. Jake rolls out of the way. Alonzo kicking. Jake rolling... Right off the edge of the roof. Jake falls a story to -- THUD! -- a roof below. Alonzo looks down at Jake. Who looks half-dead. Alonzo looks at his watch -- he has 25 minutes. Alonzo spits on Jake and moves on. Alonzo crosses to a stairwell and disappears. 81 82 114.
+73) 0) text: Alonzo climbs in the G-ride and backs out. The money in his lap.
+74) 10) dialog: Someone dome this white boy right now. Jake casts wary sideways glances. The Bench Presser smirks, holds back his people with massive arms.
+74) 12) dialog: First head that drops this fool is gonna be a rich man! To Alonzo's astonishment, no one moves. He's on his own. Jake's eyes are cooler and blacker than a shark's, pistol at his side.
+74) 14) dialog: Good. Now what? Gonna kill me? Gonna break your cherry with a cop? Ever done a little killin', Jake? Just stepped on some ants? Ain't easy. Do it clean, right here, Jake. Alonzo taps his forehead as he takes a step toward Jake.
+74) 15) dialog: ‘Cause if I live, I'll be up in Santa Clarita, taking care of that gal I talked to this morning. Sweet voice. She's Chicana, light-skinned. Like to know how a good woman like that feels on the inside. Jake smolders. He aims at Alonzo. Right between the eyes. No. He can't. Jake lowers the gun. Alonzo laughs. (CONTINUED)
+74) 18) dialog: C'mon. Someone dump this man. A gun is tossed at Alonzo's feet. A tired old workhorse. Drilled-out numbers, taped-up grips.
+74) 21) dialog: Wait, shoot me in the back. Guarantee yourself the gas chamber. Know it smells like pine oil? Alonzo reaching for that gun. BAM! Jake SHOOTS Alonzo in the upper thigh. Alonzo growls, taking the pain. He hops on one leg.
+74) 22) dialog: Sonufabitch. You shot me in the ass.
+74) 24) dialog: Gimme the money, Jake. C'mon, son.
+74) 26) dialog: Oh, now you dirty? Straight jackin' me, huh? (CONTINUED)
+74) 31) dialog: Disloyal fool-ass bitch-made punks! Put cases on all y'all! Whole crew's going to Folsom. Solitary for life. No human contact. Fuck y'all. Alonzo looks diminished, broken. Jake's eyes fall to the badge around Alonzo's neck. He smirks at the irony. Then yanks the badge from Alonzo's neck.
+74) 34) dialog: That's right. That's right. I'll burn this down. Take it all down. Walk away. See what happens. (CONTINUED)

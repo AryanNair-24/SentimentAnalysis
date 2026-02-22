@@ -1,0 +1,317 @@
+6) 0) text: The skeletal remains of four pirates, still clad in buccaneer rags, hang from gallows erected on a rocky promontory. There is a fifth, unoccupied gallows, bearing sign: PIRATES - YE BE WARNED. The top of a billowing sail passes regally in front of them. On the landward face of the sail, apparently high i the rigging, is a man for whom the term 'swashbuckling rogue' was coined: Captain JACK SPARROW. He gazes keen-eyed at the display as they pass. Raises a tankard in salute. Suddenly, something below catches his attention. He jumps from the rigging - -- and that's when we see that his is ship is not an imposing three-master, but just a small fishing dory with single sail, plowing through the water -- the Jolly Mon. And it leaks. Which is why he has the tankard: to bail. Jack steps back to the tiller, and using a single sheet t control the sail, and the Jolly Mon comes around the promontory, the whole of Port Royal laid out before him. The huge British dreadnought, H.M.S. Dauntless dominates the bay. But Jack's attention is on a different ship: the H.M.S. Interceptor, a small sleek vessel with rail guns a a mortar in the middle of the main deck. It is tied up at the Navy landing, at the base of the cliffs below Fort Charles.
+7) 0) text: Smoothly and with no wasted movement, Jack hauls down the sail, stows it, guides the dory alongside a dock. The HARBORMASTER, a long ledger tucked under his arm, is ther to catch a line and help Jack tie up.
+7) 2) dialog: It's remarkable how often those two traits coincide. He starts up the dock, strapping on his sword belt; besid the scabbard, it also carries a compass, pistol and small powder horn. The Harbormaster cuts him off.
+7) 4) dialog: What do you say to three shillings, and we forget the name? He tosses three shillings onto the ledger. The Harbormast considers, then shuts the ledger on the coins, steps asid
+8) 0) text: With choreographed precision, Swann removes the sword and scabbard from the presentation case, held by a uniformed Navy man. He slides the sword into the scabbard, holds it out vertically to Norrington, in full dress uniform. Norrington grasps the scabbard above Swann's hand, and Swann lets go. Norrington draws the sword, flourishes the sword, and snaps the blade up in front of his face. Swann steps forward, pins a medal to Norrington's jacket, steps back. Norrington nods, turns smartly and nods to his fellow officers, turns again and nods to the audience - dignitaries, merchants, plantation owners, their families Another flourish, and he returns the sword to its scabbar The silence is broken by loud APPLAUSE. Backslapping from the Navy men. In the audience, Elizabeth doesn't look so good, out beneath the hot sun. She applauds briefly, then winces. Discreetly tries to adjust the corset through the materia of the dress, then resumes clapping, trying to hide her discomfort.
+9) 0) text: Two sailors on sentry duty, MURTOGG and MULLROY, take advantage of what little shade there is on the dock. But when Jack saunters up, they are immediately on alert.
+9) 2) dialog: Sorry, I didn't know. Music drifts down from Fort Charles. Jack looks up, shiel his eyes.
+9) 3) dialog: Some sort of to-do up at the fort, eh? You two weren't invited?
+9) 5) dialog: This must be some important boat.
+9) 7) dialog: Ship.
+9) 11) dialog: That's a fine goal, I'm sure ... But it seems to me a ship like that -- (indicates the Dauntless) -- makes this one here just a wee superfluous.
+9) 13) dialog: That so? I've heard of one, supposed to be fast, nigh uncatchable ... the Black Pearl? Mullroy scoffs at the name.
+9) 34) dialog: I'm sorry. It's just such a pretty boat. Ship. The sailors study him suspiciously.
+9) 36) dialog: Smith.
+9) 39) dialog: None? Very well. You've rumbled me. I confess: I intend to commandeer one of these ships, pick up a crew in Tortuga, and go out on the account, do a little honest pirating.
+9) 45) dialog: Unless, of course, he knew you wouldn't believe the truth if he told it to you. Murtogg and Mullroy consider that point --
+11) 0) text: Jack reacts, pushes Murtogg aside to see - Elizabeth plummets from the top of the cliff. It seems to take her a long time to reach the sea -- Elizabeth hits the water, narrowly missing the sharp rock A wave breaks, and then she is washed out away from the cliff, struggling feebly. AT THE FORT, Norrington looks down --
+12) 0) text: Jack, Murtogg and Mullroy are still in shock from the sight.
+12) 1) dialog: Aren't you going to save her?
+12) 3) dialog: (rolls his eyes) Sailors. Above where Elizabeth struggles in the water. Norrington and several other men pick their way down the cliffs. The are too far away to get to her in time. Jack scowls. He has no choice -- and it pisses him off.
+12) 4) dialog: Fine. He pulls a pistol from his sword belt, hands it to Murtog then hands the belt to Mullroy.
+12) 5) dialog: Don't lose these. And then he dives into the water, swims toward Elizabeth. Elizabeth struggles to keep above water, gasping for air then a swell rolls over her, and she is submerged - UNDERWATER, Elizabeth drifts down, unconscious. The curre turns her, and the MEDALLION slips loose from her bodice. The MEDALLION turns slowly, until the SKULL is fully visible. A shaft of filtered sunlight hits it, and it
+15) 0) text: UNDERWATER: the medallion hangs below Elizabeth's unmovin form - - and then Jack is there. He wraps an arm around h and makes for the surface. ON THE SURFACE, Jack swims toward the dock, struggling. I is .: far more difficult than it should be. He stops stroking, and they submerge. UNDERWATER: Jack realizes that   it is Elizabeth's heavy velvet dress that is weighing   them down. He pulls at th buttons on the back, and they   give way. He skins her ou the dress, and kicks away from   it. The dress falls like a cloud into darkness - ON THE SURFACE: Jack swims with Elizabeth, much more quickly. AT THE DOCK, Murtogg and Mullroy are there to help haul Elizabeth out of the water. Jack climbs up, exhausted. Elizabeth is on her back; Murtogg holds her arms above her head, pumping them. Mullroy puts his cheek to her nose and mouth.
+15) 2) dialog: Move. He pushes past Mullroy, kneels over Elizabeth, raises the knife -- Murtogg is shocked - Jack slits the corset down the middle, yanks it away. Elizabeth remains still. And then -- she coughs up water and gasps, choking on her first full breath. Jack is relieved.
+15) 4) dialog: Clearly, you've never been to Singapore. Jack flips the knife and hands it hilt-first to Murtogg - and that's when he spots - The MEDALLION. Jack catches it up in his "hand.
+15) 5) dialog: Where did you get this? Before Elizabeth can answer, the BLADE of a SWORD is at Jack's THROAT -- Norrington's new ceremonial sword, in fact, looking bright and sharp.
+15) 13) dialog: Captain Jack Sparrow. If you please. Norrington looks out at the bay.
+15) 21) dialog: Ah, but you have heard of me. Gillette returns with shackles, approaches Jack.
+15) 25) dialog: But it seems to be enough to condemn him.
+15) 27) dialog: Finally. Lightning-quick, he snaps the   corset  around the hand a wrist of the man holding the   pistol  and yanks. The pis sails into the water. Before   anyone  can react to that, has the manacle chain wrapped   around  Elizabeth's throa Pistols are drawn again, but now Elizabeth serves as a shield. Norrington raises a cautioning hand to his men.
+15) 28) dialog: (backing away, toward land) Commodore Norrington ... my pistol and belt, please. Norrington hesitates, balls his fists in frustration.
+15) 29) dialog: Commodore! Mullroy hands the pistol and belt to Norrington. Norringt holds them out to Jack.
+15) 30) dialog: Elizabeth -- it is Elizabeth? Elizabeth is more angry than frightened. ELIZABETH Miss Swann.
+15) 31) dialog: Miss Swann, if you'll be so kind? She takes the belt and pistol from Norrington -- Jack's quicker than she is, and takes the pistol from her. He jerks her around so she is facing him, belly to belly.
+15) 32) dialog: Now, if you'll be very kind? She figures out what he wants: put the belt on him.
+15) 34) dialog: I saved your life; now you've saved mine. We're square. Done. He turns her again, and then backs up until he bump against the cargo gantry.
+15) 35) dialog: Gentleman. .. m' lady. .. you will always remember this as the day you almost caught Captain Jack Sparrow. He shoves Elizabeth away, grabs a rope and pulls free a belaying pin -- a counterweight drops and Jack is lifted to the middle of the gantry, where he grabs a second rope Pistols fire -- and miss. Jack swings out, out, out, away and around from the gantry. Norrington has held his shot. With careful aim, he tracks Jack's trajectory- Jack drops from the rope even as Norrington FIRES. His sh tears the rope - -- as Jack plummets past one of the gantry's guy lines, h snaps the length of manacle chain over the line and grabs hold of the far loop -- slides down the line - -- drops to the deck of a ship. He runs, leaping to anoth ship, then out of sight -
+16) 0) text: The fog creeps through, casting an eerie twilight pall. A armed search party moves along the street. They glance do an alley- On the far side is another search party. The men nod to each other, continue on. A moment, and then Jack drops from his hiding place benea the eaves of a building. He still wears the manacles. Across the street is a shop with barn doors, a pass-thru door set in the middle. Above is a sign with a black anvi
+17) 0) text: Jack slips in through the door, takes a look around: No windows. The forge is dark, lit   by lanterns. Work-in progress is scattered about: wagon   wheels, wrought iron gates, pipes -- even a cannon with   a crack in it. But e tool is in place; the workbench is   tidy and neat. Jack is startled by a noise: MISTER BROWN, in a blacksmith's apron, snores in the corner, cradling a bottle. Jack gives him a hard poke. Another. Brown snorts turns away. Satisfied, Jack sheathes his sword, takes a short-handled sledge from its place on the wall. Moves to the glowing coke furnace in the middle of the room. Slowly... he holds his right hand over the furnace, the chain down in the embers. The chain begins to GLOW. Jack sweats, grimaces at the pain - Moving quickly, he wraps the chain around the nose of an anvil, brings the sledge down with a fast, hard stroke on the glowing links. One SHATTERS. Jack drops the sledge, plunges his manacled hand in a bucket of water. Steam billows. Jack pulls his hand out, flexes it. Blisters form beneath the manacle -- but his hands are free. The SOUND of the latch on the door -- Jack dives for cove Will enters the forge, shuts the door behind him. Spots t drunken Mister Brown in the corner.
+17) 4) dialog: You look familiar ... Have I ever threatened you before?
+17) 6) dialog: Ah. Then it would be a shame to put a black mark on your record. So if you'll excuse me ... Beside the door is a grindstone, a sword resting in the honing guide. Before Jack can react, Will has it in hand.
+17) 7) dialog: Do you think this is wise, boy? Crossing blades with a pirate?
+17) 9) dialog: Only a little. In response, Will assumes an en garde position. Jack appraises him, unhappy to see Will knows what he's doing. Jack attacks. The two men stand in one place, trading feints, thrusts and parries with lightning speed, almost impossible to follow. Will has no trouble matching Jack.
+17) 10) dialog: You know what you're doing, I'll give you that ... Excellent form ... But how's your footwork? If I step here - He takes a step around an imaginary circle. Will steps th other way, maintaining his relationship to Jack.
+17) 11) dialog: Very good! And if I step again, you step again. . . (continuing to step around the circle) And so we circle, circle, like dogs we circle. . . They are now exactly opposite their initial positions.
+17) 12) dialog: Ta! Jack turns and heads for the door, now directly behind hi Will registers angry surprise -- and then with a vicious overhand motion, he throws his sword - -- the sword buries itself into the door, just above the latch, barely missing Jack. Jack registers it, then pulls on the latch, but it won't move up -- the sword is in the way. Jack rattles the latch. Tugs on the sword a few times -- is really stuck in there. Jack mouths a curse, but when h turns back to Will, he's smiling.
+17) 13) dialog: That's a good trick. Except, once again, you are between me and the way out. (points his sword at the back door) And now you have no weapon. Eyes on Jack, Will simply picks up a new sword from an anvil. Jack slumps in dismay -- but then leaps forward. Will and Jack duel. Their blades flash and ring. Suddenly Jack swings the chain still manacled to his left hand at Will's head. Will ducks it, comes up wide-eyed. Then Jack's chain smashes across Will's sword, disarming him. Will quickly picks up another sword. Jack becomes aware that the entire room is filled with bladed weapons: sword knives, boarding axes in various stages of completion.
+17) 14) dialog: Who makes all these?
+17) 16) dialog: You need to find yourself a girl. (Will sets his jaw) Or maybe the reason you practice three hours a day is you've found one -- but can't get her? A direct hit -- and Will coils even more tightly with anger.
+17) 19) dialog: (smiles; what do you expect?) Pirate. Jack steps forward. Will steps back, fully blocking the door.
+17) 20) dialog: Move away.
+17) 22) dialog: Move!
+17) 24) dialog: You're lucky, boy -- this shot's not meant for you. Jack uncocks the pistol. Will is surprised, reassesses Ja
+21) 2) dialog: You can keep doing that forever, that dog's never going to move.
+23) 0) text: Jack sits up. There are more BOOMS -
+23) 1) dialog: I know those guns! He peers out through the bars of the window. The other prisoners crowd around their window as well.
+23) 2) dialog: It's the Black Pearl.
+23) 4) dialog: There are a lot of stories about the Black Pearl.
+40) 0) text: The wall of the cells EXPLODES inward. Jack pulls himself out from under rubble. Moonlight spills in through the gaping hole created by the cannon ball. Beyond it: freedo But it is centered on the other cell. The part of Jack's cell that is gone is too small for a man to slip through.
+40) 3) dialog: It's all right, doggie ... come here, boy. Come here, Spot. Rover. Fido? To his surprise, the dog crawls out from under the bench. Jack continues to coax him closer. The key ring is nearly within Jack's reach -- suddenly, t dog's attention goes to the door into the cell block. He BRISTLES, GROWLS. He backs away from the door, whining.
+40) 4) dialog: What's the matter, boy? The dog bolts, through the bars, into the cell, then out through the breached wall -- taking the keys with him. The door to the cell block bursts open. A pair of pirates step in: KOEHLER and TWIGG.
+40) 10) dialog: Worry about your own fortunes. The lowest circle of hell is reserved for betrayers ... and mutineers. Koehler and Twigg don't like hearing that. Koehler lashes out, grabs Jack by the throat through the bars. Jack clutches the pirate's wrist, looks down - Where they enter the moonlight, Koehler's wrists and hand are skeletal. Jack's eyes go wide -- he is holding a skeleton arm.
+40) 11) dialog: You are cursed. Koehler sneers, shoves Jack backwards, hard. Now out of t moonlight, his hand is normal. Jack stares, realizing -
+40) 12) dialog: The stories are true. Koehler ushers Twigg toward the door. Looks back.
+47) 0) text: Jack strains, trying to budge one of the bars. Even with the damage from the cannon ball, it won't move. He hears the sound of the door latch - The door opens, and Will slips in. Looks around. Jack lounges on the floor of his cell, apparently relaxed and unconcerned. Will marches straight up to the bars.
+47) 2) dialog: Somewhat.
+47) 4) dialog: Surely you've heard the stories? The Black Pearl sails from the dreaded Isla de Mureta... an island that cannot be found -- except by those who already know where it is.
+47) 6) dialog: Why ask me?
+47) 8) dialog: And you want to turn pirate yourself?
+47) 10) dialog: (he was right) So it is that you found a girl. Well, if you're intending to brave all and hasten to her rescue and so win fair lady's heart, you'll have to do it alone. I see no profit in it for me. Will slams his fist against the bars in frustration. Jack is surprised at the outburst. Will thinks ... makes a decision.
+47) 12) dialog: How? The key's run off.
+47) 14) dialog: Your name is Turner. Will gives him a puzzled look.
+47) 16) dialog: Will Turner... (he stands) I'll tell you what, Mr. Turner. I've changed my mind. You spring me from this cell, and on pain of death, I'll you to the Black Pearl. (sticks out his hand) Do we have an accord? Will gives him a suspicious look. The deal seems too good Jack keeps his hand out, still smiling. Will shakes it.
+47) 18) dialog: Agreed! Will looks around, figures out   what he needs. He makes chair his fulcrum, and levers   the long bench under the door. Pushes down -- it's hard   work -- but the cell doo rises, and then falls forward,   CRASHING down on the ben and chair. Jack is impressed. He steps out of the cell.
+47) 20) dialog: Not without my effects.
+47) 23) dialog: My business, Will. As for your business -one question, or there's no use going. (joins Will at the door) This girl -- what does she mean to you? How far are you willing to go to save her?
+47) 25) dialog: Good.
+48) 1) dialog: Ah, now there's a lovely sight! Jack hops down into the boat. Prepares to make way.
+48) 2) dialog: I knew the Harbormaster wouldn't report her. Honest men are slaves to their conscience, and there's no predicting 'em. But you can always trust a dishonest man to stay that way... Jack notices that Will is standing, frozen on the dock, staring at the boat in dismay.
+48) 3) dialog: Come aboard.
+48) 5) dialog: No worries there. She's far more likely to rot out from under us. Will steels himself, steps into the boat as if its going capsize with the slightest movement. Jack hoists the sail
+48) 6) dialog: Besides, we are about to better our prospects considerably. He nods toward the H.M.S. Dauntless, looming in the harbo Will whiteknuckles the gunwales.
+48) 8) dialog: Commandeer. We're going to commandeer a ship. Nautical term.
+48) 10) dialog: So's breaking a man out of jail. Face it, Will: you may say you'll never be a pirate, but you're off to a rip-roaring start. (smiling) My advice -- smile and enjoy it.
+49) 2) dialog: Remarkable how often those two traits coincide. The Jolly Man nears the rudder of the much larger ship -
+50) 0) text: There's been a breakdown in discipline; about a dozen Nav sailors are gathered together on the main deck, playing dice. Murtogg and Mullroy among them. Suddenly, Jack and Will jump out, into the open - brandishing pistols.
+50) 1) dialog: Everybody stay calm. We're taking over the ship!
+50) 4) dialog: Dead serious.
+50) 6) dialog: We'll see about that. More guffaws from the crew. A couple sailors move forward hands on swords -- Gillette holds up a hand.
+50) 8) dialog: Fine by me. We brought you a nice little boat, so you can all get back to shore, safe and sound.
+50) 10) dialog: As likely as not. (calling) Will, short up the anchor, we've got ourselves a ship!
+51) 0) text: Sailors make their way down a rope ladder, crowd onto the Jolly Mon. Will pushes hard against the windlass, to no avail ... the anchor is too heavy for one man. Jack notices.
+51) 1) dialog: A little help? Gillette shrugs, gestures to Murtogg and Mullroy. The thr men throw their weight into the windlass, and it turns. Jack's pistol is on them the whole time.
+52) 0) text: Jack and Will crank a capstan, raising the forward jib sail. It luffs and billows out. The huge ship inches forward slowly, pulled by just the one sail. Jack grins.
+52) 1) dialog: Lookee there, mate! We're underway!
+54) 0) text: Out in the open sea, Jack leans on the wheel, relaxed; no much sailing to do with a following wind. Will looks back
+55) 2) dialog: Can you swim? (the man struggles) Can. You. Swim? Jack removes his hand.
+55) 4) dialog: Good. Jack lifts the man up, throws him overboard. Quickly unti the ropes to the grappling hooks. Will cranks the capstan bars, raising the foresail -
+56) 2) dialog: Thank you, Commodore, for getting our ship ready to make way! We'd've had a hard time of it by ourselves! Norrington seethes, but his order to Gillette is measured
+62) 0) text: The Interceptor cuts across the waves. Jack at the wheel; Will tightens a line, moves back astern.
+63) 0) text: Will sharpens his sword with a whetstone: shhhk -- shhhk ... JACK
+63) 2) text: I worked passage   from England as a cabin boy. (an attempt  at guile) After my mother  passed, I came out here ... looking  for my father. JACK
+63) 4) text: My father. William Turner? Jack says nothing. Will has lost the patience for guile. WILL ( CONT ' D)
+63) 5) text: I'm not a simpleton. At the jail - - it was only after you learned my name that you agreed to help. (a smile) Since that's what I wanted, I didn't press the matter. But now - {an accusation} You knew my father. Jack considers his reply -- settles on 'truth.' JACK
+63) 7) text: 'Bootstrap?' JACK
+63) 9) text: (angry) That's not true. JACK
+63) 11) text: It's not true that my father was a pirate. JACK
+63) 13) text: He was a merchant marine! He was a respectable man who obeyed the law, and followed the rules-- JACK
+63) 15) text: My father did not think of my mother -his family -- as a burden. JACK
+63) 17) text: My father -- was not -- a pirate! Will's sword is out, levelled at Jack. Jack gives him a disbelieving look, sighs. JACK
+63) 19) text: You didn't beat me. You ignored the rules of engagement. In a fair fight, I'd kill you. JACK
+63) 20) text: Then that's not much incentive for me to fight fair, is it? He kicks a lever on a wench. The sail boom whips around a slams Will in the chest -- sweeping him off the ship. His sword clatters onto the deck. Will dangles above the wate Jack slips a loop of rope around the wheel to hold the course. Picks up the sword -- and pokes at Will with it. Will hand-over-hands away from the blade, to the end of t boom. JACK ( CONT ' D)
+63) 21) text: As long as you're just hanging there, pay attention. Must, Should, do, don't, shall, shall not -- those are just suggestions. There are only two absolute rules. (ticks them off on his fingers) JACK (CONT'D)
+63) 22) text: What a man can do. And what a man can I t do. Will looks away, not interested. JACK (CONT'D)
+63) 23) text: For instance: you can accept that your father was a pirate and still a good man... or you can't. Now me, I can sail this ship to Tortuga, by myself. . . (Will looks alarmed) But I can't just let you drown. Jack swings the boom back in. Will drops to the deck. Jac holds the hilt of the sword out. Will takes it. Glares at Jack, considers what he'll do next. Jack watches him coolly. Will turns and strides to his spot on the deck, sits down and resumes sharpening his sword: shhhk -- shhhk -- shhhk ... Jack breathes silent sigh of relief. Notices his hand is shaking -- he takes the wheel. WILL
+63) 24) text: Tortuga? JACK
+64) 0) text: A dank and dirty port, where the tides seem to have swept together the scum of the Caribbean -- pirates, privateers prostitutes, thieves, and drunkards. With its cantered, rotting docks, weatherbeaten buildings and odd assortment of livestock running free -- a donkey, chickens, etc. -- it is far less civilized than Port Roya Jack and Will move through the crowd. A REDHEADED woman turns her head -- she has noticed Jack. JACK
+64) 1) text: We need a crew. We can manage the ship between islands, but the open sea, that's another matter - Suddenly the Redhead SLAPS Jack, hard. Satisfied, she tur and strides off. Will ignores her. WILL
+64) 2) text: Just do it quickly. JACK
+64) 3) text: (rubbing his jaw) Don't worry. I've already got my Quartermaster -- there! Jack leads Will toward a pub: the Faithful Bride, the emblem over the door a politically incorrect painting of smiling woman holding a bouquet in her chained-and-manacl hands. Jack pulls open the door; Will goes inside passing a pret ASIAN women coming out -- she sees Jack and immediately SLAPS him, cursing something in Chinese. Jack backs away
+65) 0) text: Jack closes the door on the woman, joins Will. They take the place -- it is populated with a slightly higher class of scum. Jack spots a BARTENDER, smiles, moves forward - --and is suddenly DECKED by a waitress. This is ANAMARIA, tall, strong, tough; she didn't spill a drink off her tra ANAMARIA
+65) 1) text: You stole my boat. JACK
+65) 2) text: AnaMaria! Have you seen Gibbs? I need to put together - She SLAPS him again. Will shakes his head, heads for the bar. Jack gets up. JACK (CONT'D)
+65) 3) text: Borrowed. Borrowed your boat. (off her look) Without permission. AnaMaria charges; Jack backs away, puts a table between them. She chases him around the table, still carrying the tray. ANAMARIA
+65) 4) text: My dory. The Jolly Mon. Where is it? JACK
+65) 6) text: That boat is my livelihood! JACK
+65) 8) text: (a threat) I will. Away from them, a PATRON calls for his food. AnaMaria scowls at Jack, moves away -- comes back for. one more
+65) 10) text: Jack! Over here! AT THE BAR, Will has spoken to the Bartender. Jack arrive rubbing his chin. WILL (CONT'D)
+65) 11) text: He knows Gibbs. The Bartender nods 'yes.' Then nods 'out back.' Then produces a water bucket from behind the bar. Jack and Will exchange a look,-and Jack takes the bucket.
+66) 0) text: A drunken man lays in the mud, having a friendly conversation with two pigs. He wears an old tattered Navy jacket. A sudden SPRAY OF WATER splashes across his face, revealing: this is old JOSHAMEE GIBBS (the man who told pirate stories to Elizabeth when she was a child). He sputters and roars: GIBBS
+66) 1) text: Curse you for breathing, you slack-jawed idiot (recognizes Jack) Mother's love, Jack, you know better than to wake a man when he's sleeping. It's bad luck! JACK
+66) 3) text: Aye, that'll about do it. Jack helps Gibbs to his feet -- and then Gibbs is hit wit a second wave of water. Will stands there with the bucket GIBBS (CONT'D)
+67) 0) text: Jack and Gibbs sit at a table in the shadows, a single candle illumining them, speaking in hushed voices. Will i away from them, at the door, hand on sword, keeping a loo out. A tankard is set down. Gibbs lifts it to take a swig - JACK
+67) 2) text: Make it_ast, then. Now, what's the nature of this venture of yours? JACK
+67) 4) text: Oh, there's a hard tale, Jack. Most of the decent pirates in town won't sail with you -- seem to think you're a jinx. JACK
+67) 5) text: Now where, I wonder, would they have gotten that idea? Gibbs evades answering by taking a long sip. Jack leans forward. Gibbs leans forward. JACK (CONT'D)
+67) 6) text: I'm going after the Black Pearl. Gibbs straightens up like he's been hit. He stares. He reaches for the drink as if to down it -- but then sets i back down. He leans forwards again. Jack has not moved.
+67) 9) text: Jack, it's a fool's errand: You've heard the tales they tell about the Pearl. JACK
+67) 12) dialog: Not if the fool has something Barbossa wants. Something he needs. GIBBS
+67) 13) text: And you've got that, have you? ANGLE ON: Jack, as he smiles enigmatically, and shifts hi eyes' -- behind him, Will, still on guard, glares a sailo away from the table. JACK
+67) 15) text: Well, lookee there. I'll allow you may be onto something, Jack. (considers, nods) There's bound to be sailors on this rock crazy as you. I'll find some men. Gibbs downs the drink, SLAMS the tankard on the table. Will reacts to the sound, draws both sword and dagger, kicks over a table for cover, and whirls on anyone who moves. GIBBS (CONT'D)
+67) 16) text: Kid's a bit of a stick, isn't he? JACK
+68) 1) text: Feast your eyes, Cap'n. All of 'em good sea-faring men, faithful hands before the mast, every one worth his salt -- (sotto, making his point) -- and crazy, to boot. Jack holds up a hand -- enough. He moves down the line, Gibbs at his side. Then he notices AnaMaria in line, dressed like a man, He raises an eyebrow. ANAMARIA
+68) 2) text: You owe me a boat. Jack nods, continues. One sailor is quite fat, another thin and sickly. Jack is not happy with his choices. He stops in front of COTTON, a short sailor with a large, colorful PARROT on his shoulder. Jack raises an eyebrow. GIBBS
+68) 3) text: Cotton here is mute, sir. Poor devil had his tongue cut out -- Cotton opens his mouth to show this -- Jack grimaces. GIBBS (CONT'D)
+68) 4) text: -- so he went and trained the parrot to do the talking for him, nobody knows how. Nobody knows the parrot's name, neither, so we just call it 'Cotton's parrot.' Jack decides to test this. JACK
+68) 7) text: Mostly, that seem to mean 'yes.' Cotton nods vigorously, lowers the parrot, and it goes silent. Jack shakes his head. Steps back. JACK
+68) 8) text: That goes for the rest of you! Danger and near certain death. (turns away) For we are to sail for the Isla de Muerta, to rescue the daughter of Governor Swann. An equal share of the reward shall be - Jack hears movement, looks back -- several potential crew members back away in fright; first one, then another, tur and run, followed by more. Soon just a half dozen are left, including Cotton (with parrot) -- and AnaMaria. WILL
+68) 9) text: Shut up, before you lose them all! JACK
+69) 1) text: That fool will have us lose the canvas, and the masts besides! On Jack, a ROARING wind blowing back his hair, eyes inten on their course. Gibbs climbs the tilted deck toward him. GIBBS (CONT'D)
+69) 2) text: Werd best drop canvas, sirl JACK
+69) 3) text: She can hold a bit longer. The wind picks up, howling. Jack smiles. GIBBS
+69) 4) text: (shouts) What's in your head to put you in such a fine mood? JACK
+69) 5) text: (shouts) We're catching up! Jack turns back to the sea, enjoying himself. Gibbs stare at him like he's a crazy man.'
+73) 0) text: CLOSE ON: Jack's compass, cradled in both hands. Jack lea over and studies it -- almost like he's praying. ON THE COMPASS -- the face shows old-fashioned rose petal style direction markers below a quivering indicator that settles on -- southeast. JACK
+73) 1) text: Bear three points starboard. AnaMaria turns the wheel, adjusting course. The ship lean into the new direction. Jack looks down - ON THE COMPASS -- where the indicator spins, reverses, settles on -- northeast. JACK (CONT'D)
+73) 2) text: Six points port! AnaMaria frowns, but follows the order, turns the wheel back, and the ship responds. Will works on deck, coiling a rope -- but he watches Jack and AnaMaria, clearly not happy. Gibbs hobbles up. GIBBS
+73) 7) text: I'll tell lee. Now, Jack Sparrow has an honest streak in him, and that's where the whole problem starts. This was when he was Captain of the Black Pearl - WILL
+73) 9) text: Ah -- he's learned, then. Plays things more close to the vest. See, Jack was a cartographer, back in Old England. Somehow I he came by the money to commission the Pearl. Hired himself a crew, promised each man an equal share. (lowers his voice) So, they're forty days out, and the First Mate says, everything's an equal share, that should mean the location of the island, too. So Jack gave up the bearings. (shakes his head) That night, there was mutiny. Gibbs voice is a whisper, now, so Will has to lean closer GIBBS (CONT'D)
+73) 10) text: Jack gave hisself up for the sake of his loyal crewmen. He was marooned on an island, left there to die. WILL
+73) 11) text: How did he get off the island? JACK
+73) 12) text: (loud) I didn't! Will and Gibbs jump. Jack is right there beside them. JACK (CONT'D)
+73) 13) text: My body's still there, rotting away, and I am but a ghost! Will and Gibbs aren't sure what to make of that. Jack laughs. GIBBS
+73) 14) text: How did you get off the island? JACK
+73) 16) text: Wait -- what about the pistol? JACK
+73) 17) text: The pistol. When a pirate is marooned, Will, he's given a pistol with a single shot. No good for hunting, or surviving, really. But after three weeks of starvation and thirst -- the option of that pistol begins to look good. Jack lets this sink in. He pulls out the pistol, raises i JACK (CONT'D)
+73) 19) text: Barbossa. Jack shoots a glance at Will -- nods, and moves away.
+76) 2) text: How does he do that? JACK
+78) 0) text: The Interceptor lies at anchor in the distance. Closer, Jack and will row away from the larger vessel in a small longboat, toward the rocky shore. The RUSH of a waterfall grows louder. Will looks: ahead o them is a black CAVE MOUTH, right at water level. WILL
+78) 1) text: What's that? JACK
+78) 3) text: On what? JACK
+78) 4) text: On whether the stories are    all true. If they are, that's    a waterfall that spills over    at high tide, with a short drop to    an underground lagoon. If not    - By now, the moving water tugs on the longboat, and they a sucked in -- JACK (CONT'D)
+79) 0) text: -- the longboat takes a harrowing drop over a short waterfall ... but then lands safely in a gorgeous underwater lagoon, floats lazily toward a sandy shore. JACK
+82) 0) text: Behind them, loose coins from their slide come down in an avalanche, sealing the entrance. Elizabeth jumps up, silver platter in hand, ready to swin -Jack catches her before she can do any damage. They recognize each other. ELIZABETH
+82) 1) text: You?! JACK
+82) 3) text: You're in league with Barbossa! JACK
+82) 6) text: Miss Swann! We're here to rescue you! (sounds of pursuit, approaching) It's going badly! JACK
+83) 2) text: Truthfully -- you were a bit late. JACK
+84) 0) text: The three race through the rocks, the sounds of pursuit close behind. Suddenly Jack stops. ELIZABETH
+84) 1) text: Come on! JACK
+84) 3) text: No. JACK
+84) 4) text: I'll lead them away. The sounds are closer. JACK (CONT'D)
+84) 6) text: Are you sure? Jack -- this is not something you have to do. JACK
+84) 7) text: I'm sure. When you've led the kind of life I have, there are debts that must be paid. Maybe I can balance the scales a little. Will nods, hesitates... gives Jack his sword - - now Jack has two, ..one for each hand. Elizabeth gives him a quick kiss. Will and Elizabeth race away, and are gone. Jack watches them for a moment, turns to face the pirates He sticks the two swords in the ground, crossed. Leans casually against a rock. A group of pirates round a corner, cutlasses drawn, ready to fight -- but Jack raises his hand. JACK (CONT'D)
+85) 0) text: Jack stands before Barbossa, surrounded by pirates. Jack has a wide smile on his face -- and Barbossa doesn't like it. BARBOSSA
+85) 1) text: I'm inclined to kill you now, Jack Sparrow, without so much as a word, if you don't lose that grin from your face. Jack's smile remains. Barbossa puts a hand to his cutlass JACK
+85) 2) text: The woman's blood didn't work, did it? Barbossa hesitates. JACK (CONT'D)
+85) 4) text: Say the name, or I slit your throat. JACK
+85) 5) text: No you won't. Barbossa nods. Pintel steps forward, puts a blade to Jack throat. Jack's smile widens. PINTEL
+85) 7) text: Now. (Pintel grins) No, don't kill him. Surprised, Pintel lowers his cutlass. Jack's expression hasn't changed. BARBOSSA (CONT'D)
+85) 8) text: Allow me the humor of listening to your terms. JACK
+85) 10) text: The Pearl? (laughs) Oh, that's fine. And just how do you expect this to work? JACK
+85) 12) text: That's your offer? You, sailing away nice and pretty with the Black Pearl, and all I have is a name? JACK
+85) 14) text: I'm supposed to ... trust you? The pirates laugh. JACK
+85) 15) text: I'm a man of my word. The pirates laugh louder. JACK (CONT' D)
+85) 17) text: I'll torture it out of you. JACK
+85) 18) text: You left me on a desert island -- what worse can you do? Jack is still smiling, intentionally smug now. Barbossa sees his options dwindling, begins to pace. BARBOSSA
+85) 19) text: Blast you! I'll throw you in prison. JACK
+85) 21) text: You're setting me up for a double cross, you with the ship, and me with nothing more than your word! JACK
+85) 23) text: Track you down and - He sees where Jack is headed. JACK
+85) 25) text: Jack, I don't trust you, and that's a fact. Never trust a smiling man, you can lay to that. JACK
+85) 27) text: You're playing this as close to the edge as any man, I'll give you that. (decides, smiles) We might just have to sign articles, you and I. Jack, you're a pirate at heart, that's certain. Jack nods.
+85) 29) dialog: What -- you don't have the medallion?
+85) 31) dialog: I'll watch my back.
+92) 0) text: Jack sees what he can out the porthole. In the cell with him is Twigg, acting as a guard. JACK
+96) 0) text: The top masts of the H.M.S. Interceptor sink into the smooth' crystal waters of the Caribbean - -- as Will and Elizabeth, held by pirates, are brought before Barbossa -- and see that Jack stands beside him, manacled. Gibbs, AnaMaria and Cotton and the other crewmembers hudd together. Barbossa's wrath falls on Elizabeth. BARBOSSA
+96) 8) dialog: Will -- don't do anything stupid! Don't say anything stupid - WILL
+96) 10) text: It's true - he's the spittin' image of old Bootstrap. Even talks the same! Jack drops his head. Barbossa grins at him. BARBOSSA
+96) 16) text: And Jack. And the crew. Free and unharmed. I f you agree... then... I will remain with you. Barbossa considers; his crew waits. Finally - BARBOSSA
+96) 22) text: Hah. Look there. That's the very same island we made Jack governor of on our last trip. (nods") When you sail the open sea as long as I, you learn to trust the signs fate sends your way. GIBBS
+96) 24) text: Jack, Elizabeth ... I'm a man of my word and you're to be set free, right quick. (loudly) Men, break out the plank! A CHEER goes up from the pirates. Will realizes what Barbossa intends to do, struggles with his captors. WILL
+98) 0) text: Jack, wrists still bound, stands in the classic 'walking the plank' pose. Elizabeth is next in line. Pirates crowd the ship's rail to watch. JACK
+98) 2) text: Now, Jack. That reef is less than a league distant. It's a square deal all around, and you can't hope for better. JACK
+98) 3) text: Someone needs to cut these bonds, then. Barbossa smiles, shows a pistol. Points it at Jack. BARBOSSA
+98) 4) text: You'd best take a swim, Jack. JACK
+98) 7) text: By the Powers, you're right! ( turns around) Where's Jack's pistol? Who's got it? Bring it forward! JACK
+98) 8) text: A gentleman might give us two pistols, seeing as there are two of us, this time. A pirate hands Jack's pistol to Barbossa. BARBOSSA
+98) 9) text: Tell you what. I'll   give you one pistol, and let you   be the gentleman, an' shoot the lady,   and starve to death yourself! (grins) That is, presuming   you're not both drownded. The pirates laugh. Barbossa tosses Jack the pistol -- but over his head, and down into the water with a splash. BARBOSSA (CONTID)
+98) 10) text: So how did you get off that island, anyway? JACK
+98) 12) text: That's fair. Jack glares at Barbossa. Then he's prodded with a cutlass takes a step out. Reaches the end of the plank -- steps off. Jack plunges down into the water. Appears on the surface, floundering, struggles to stay afloat. Will and Elizabeth exchange helpless looks; there is nothing they can do. BARBOSSA (CONT'D)
+100) 0) text: Elizabeth breaks the surface, looks around. And then, finally Jack appears, sucking in air. He shows what he we after: his pistol. He tucks it into his shirt. ELIZABETH
+100) 1) text: You went back for that? We need to head for the reef! She starts swimming. Jack hesitates. The Black Pearl is already underway; he stares at it. JACK
+101) 0) text: CLOSE ON: The surf line. Elizabeth's feet leave prints in the sand ... and then meet up with matching footprints sh made earlier, going in the same direction. She has walked all the way around the island. JACK (O.S.)
+101) 1) text: Not all that big, is it? Jack lays on the beach. He has dismantled his pistol; the parts, ball and powder dry on his scarf. ELIZABETH
+101) 2) text: Has it changed since the last time you were here? JACK
+101) 3) text: The trees are taller. Jack checks to see if the pistol parts are dry; they are. He sets about re-assembling and loading his pistol. ELIZABETH
+101) 4) text: I hope you have no intention of using that. Jack has finished putting his pistol back together. He shoves it in his belt, walks off. JACK
+101) 6) text: Captain Sparrow! We have to get off this island -- immediately! JACK
+101) 8) text: What is that? Is there a boat under there? Jack heaves the trap door up and over, revealing a pit. Inside are barrels and bottles of rum ... all covered wit dust and cobwebs, long abandoned. Jack's face falls. ELIZABETH (CONT'D)
+101) 9) text: What? What's wrong? How will this help us get off the island? JACK
+101) 11) text: But ... you did it before! Last time - JACK
+101) 12) text: Last time, I was here a grand total of three days. Last time, the rumrunners who used this island as a cache came by, and I bartered passage off. JACK (CONT'D)
+101) 14) text: So that's it? That's the secret grand adventure of the infamous Jack Sparrow? You spent three days on the beach drinking rum? JACK
+101) 15) text: Welcome to the Caribbean, love. He gathers up a few bottles, heads for the beach. JACK (CONT'D)
+101) 17) text: A month? Will doesn't have a month! We've got to do something to help him! JACK
+101) 18) text: You're right. (hoists the bottle) Here's luck to you, Will Turner. He drinks -- and defiantly returns Elizabeth's angry gaze But then turns away, sits down. JACK (CONT'D)
+101) 20) text: Not when you can drink instead, at least. Jack tosses her a bottle. JACK
+101) 22) text: And you will call me Miss Swann. Jack toasts her: you got it. Elizabeth studies her bottle... gives Jack a sidelong glance. Back to her bottl ... ELIZABETH (CONT'D)
+101) 23) text: (under her breath) Drink up me hearties, yo ho... JACK
+101) 25) text: Nothing ... it's nothing. Just ... I'm reminded of a song I learned as a child. A song about pirates. JACK
+101) 27) text: Oh, no ... it's silly.   Back in England we didn't know   a thing about pirates, really.   They seemed so romantic and daring   - Jack likes the way that sounds. ELIZABETH (CONT'D)
+101) 28) text: (looks at him) That was before I met one, of course. JACK
+101) 30) text: Well, perhaps ... with a bit more to drink, I might ... JACK
+101) 31) text: More to drink! He gathers two more bottles, tosses one to her. She drops her half-finished bottle to catch it. Opens it, takes a sip. JACK (CONT'D)
+102) 0) text: The middle of the night. A fire BLAZES. Jack and Elizabet are roaring drunk, arm in arm, singing the song all the w up to the stars -- JACK/ELIZABETH
+102) 1) text: Yo ho, yo ho, a pirate's life for me! Yo ho, yo ho, it's a pirates life for me! JACK
+102) 2) text: I LOVE this song! (sings) Yo ho, yo ho, a pirate's life for me! We're beggars and blighters, ne'er do well cads, Drink up me hearties, yo ho! (gives it a touch of Irish ballad) Aye but we're loved by our mums and our dads. Drink up me hearties, yo ho! They hoist their bottles, but only Jack drinks. He drains the bottle, then tosses it away. JACK   (CONT'D)
+102) 4) text: You'll be positively the most fearsome pirates to sail the Spanish Main. Elizabeth salutes the idea with her bottle. Jack doesn't have a bottle to salute back. She hands him hers. He drinks, then settles shakily to the ground. Elizabeth sit beside him. JACK
+102) 6) text: Jack, it must be so terrible for you, to be trapped here on this island, all over again. JACK
+102) 8) text: (coy) Mr. Sparrow! I'm not sure I've had enough rum to allow that kind of talk. JACK
+102) 10) text: To freedom. JACK
+103) 0) text: CLOSE ON -- JACK'S FACE, dead asleep, lying in the sunlight. His nose twitches. A bit of SMOKE drifts by. Hi nose twitches again. His eyes open. Jack GROANS and sits up. He rubs his head, looks over - -- all of the foliage in the middle of the island is ON FIRE. Smoke rises high up into the clear blue sky. Jack leaps to his feet. He sees Elizabeth, as she pours o the last of the rum, dowsing a scrub brush at the base of palm tree. It goes up in FLAMES. She rolls the barrel forward -- it starts to BURN merrily. Jack can't believe his eyes. JACK
+103) 2) text: Yes, the rum is gone. She wipes her hands together. One of the rum barrels in t fire EXPLODES. JACK
+103) 5) text: That signal is over a thousand feet high, which means it can be seen for two hundred leagues in every direction. The entire Royal Navy is out to sea looking for me -- do you think there is even a chance they could mass it? JACK
+103) 8) text: Just you wait, Captain. In an hour, maybe two, keep a 'weather eye open' and you'll be seeing white sails on that horizon! She sits down, determined. Shields her eyes, scans the water, waiting, searching. Jack is speechless. He throws his hands, stalks up the sand dune, just to get away from her.
+104) 0) text: At the crest of the dune, Jack stops -- and stares, incredulous. We come around to see what he is looking at Past Jack, anchored the other side of the island, white sails glorious against the turquoise waters, is the H.M.S Dauntless. A longboat is already being rowed toward them. Jack shakes his head. JACK
+105) 1) text: Elizabeth, I'm" relieved you're safe. (re: Jack) Clap him in irons. And behind his back this time. ELIZABETII
+105) 4) text: He can locate Isla de Muerta -- but I doubt he'll be willing to help us from the brig. JACK
+105) 9) text: Commodore, please! JACK
+105) 15) text: Free Mister Sparrow, and prepare to come about. He'll give you our heading. Gillette unlocks Jack's manacles. Jack raises an eyebrow. JACK
+105) 16) text: Congratulations, sir. Crew men lead Jack toward the bridge. Sailors go about their tasks, and the ship begins its slow turn. NORRINGTON
+106) 3) text: Ah, William Turner. Stupid blighter. He threw in with us after we relieved Jack Sparrow of his captaincy, but turned out, it never sat well with him- particularly after we found Cortes' treasure, and its peculiar condition. He thought we deserved to be cursed, for leaving ol' Jack to the fate we did. That's why he sent off a piece of the treasure -- to you, as it were: so it would never be recovered, and so cursed we_ remain. WILL
+107) 0) text: Jack goes to the rail and waits, pretending to look out a the sea. Elizabeth, dressed in sailor's clothes to excellent effect, joins him. ELIZABETH
+107) 1) text: You didn't tell Commodore Norrington everything. JACK
+107) 3) text: He might delay the rescue ... and that would be too late. JACK
+107) 5) text: These men will be facing an enemy that seemingly cannot be killed. JACK
+107) 11) text: I don't like the situation, mister Sparrow. The island is riddled with caves. I will not put my men at a disadvantage. JACK
+107) 13) text: You would do that? JACK
+107) 15) text: (looks at him) Nothing I wouldn't be please to be rid of. JACK
+109) 0) text: A long boat is prepared to be lowered over the side. Jack wraps his pistol securely in an oilskin pouch. JACK
+109) 2) text: I'll be at the wheel myself. JACK
+114) 0) text: Will races forward, turning this way and that. He sees a light ahead, heads for it, turns a corner - -- and runs straight into Jack. JACK
+114) 2) text: Jack! JACK
+116) 0) text: Jack leads Will out of a narrow passage -- and stops, staring. Will is a few steps behind. WILL
+116) 1) text: Are you certain this is the right way? JACK
+116) 2) text: It's the right way. Will join him -- and see what Jack is staring at: Treasure piled on treasure, sparkling, glowing, seemingly endless. At the center is the moonlit clearing, and the stone Aztec chest. BARBOSSA
+116) 3) text: Thank you, Jack Sparrow. The jump -- Barbossa is standing right behind them, flank by his men. The trio whirl to run - - more pirates emerge from hiding. Nearly the entire crew of the Black Pearl is there. The pirates grab Will and Jack. Will struggles, but Jack does not fight at all. BARBOSSA (CONT'D)
+116) 4) text: You couldn't have led him back more directly if you knew exactly where you were going. He laughs, and moves toward the stone chest. The pirates follow, dragging Will and Jack with them. WILL
+116) 5) text: You did know where you were going! You did lead us directly to them! (Jack's silence confirms it) Why? Jack looks away -- as Will is manhandled toward the chest Barbo8sa steps up to him (becoming skeletal in the moonlight) and puts the medallion around Will's neck. He picks up the stone knife. BARBOSSA
+116) 6) text: What was begun by blood, let blood now end! He raises the knife to Will's throat - JACK
+116) 8) text: No, I really think I do. JACK
+116) 10) text: Why don't I want to do this? JACK
+116) 12) text: Jack! JACK
+116) 15) text: No. (indicates Will) But him I believe. He is genuinely angry. JACK
+116) 17) text: What're you suggesting? Jack shakes off the hands holding him, strolls toward Barbossa, Will, and the chest of coins. JACK
+116) 18) text: Simple. Don't kill the boy yet. Wait for a more opportune moment. Will glares, listening to every word he says. Jack scoops up a handful of coins from the chest. JACK (CONT'D)
+116) 20) text: I can't help wondering, Jack, why you're being so helpful and all? Last time you did that, it didn't end 80 well for you. JACK
+116) 22) text: That so? JACK
+116) 23) text: Aye. See, after you're done with the Royal Navy, you'll have a bit of a problem: the H.M.S. Dauntless. There you'll be, with two lovely ships on your hands, and what to do? Of course you'll decide you deserve the bigger one, and who's to argue? The Dauntless a first-rate ship-of-line, and with it, you can rule the seas. (beat) But if you're Captain of the Dauntless, who's left for the Black Pearl? Jack smiles and spreads his hands: me. JACK (CONT'D)
+116) 24) text: I sail for you as part of your fleet, I give you fifteen percent of my plunder, and you get to introduce yourself at tea parties and brothels as 'Commodore Barbossa.' (sticks out his hand) Do we have an accord? Barbossa licks his lips. It's tempting ... JACK (CONT'D)
+116) 27) text: Mr. Pintel, select five men to stay here. Take the rest of the men out ... not through the caves. Jack's expression falters; this he hadn't planned for. JACK
+125) 0) text: Will, guarded by pirates, glares at Jack. WILL
+125) 1) text: You've been planning this from the beginning. Since you learned my name. Jack takes the opportunity to move toward him. JACK
+125) 2) text: Oh, please -- do I really seem that clever? Before Will can answer, Jack smoothly slips the sword fro a Pirate's scabbard -- tosses it to Will, who catches it despite his surprise. JACK (CONT'D)
+125) 4) text: Confound it, Jack -- I was actually beginning to like you! Swords are drawn, and the Pirates attack. Jack and Will take on multiple opponents, each with his o style: Will parries, glissades and disarms with lightning fast and perfect form, while Jack uses his blade, fists, acrobatics and anything within reach to survive.
+130) 0) text: Only two pirates left: Barbossa and Jacoby. Jacoby rounds on Will; Barbossa faces off against Jack. BARBOSSA
+130) 1) text: Just so you know, Jack -- I don't think you're that clever. I think you're a fool. A mortal fool. JACK
+130) 2) text: Remarkable how often those two traits coincide. Jack drives him back, making Barbossa laugh. BARBOSSA
+130) 3) text: You can't beat me, Jack. To prove his point, he drops his own sword -- and catches Jack's sword with both hands. Jack can't free it. Barboss twists the sword from Jack's grip, reverses it - - - AND DRIVES THE SWORD INTO JACK'S CHEST. Will battling Jacoby, sees it -- he smashes Jacoby in the jaw, crumpling him WILL
+130) 4) text: Jack! Jack stares down at the sword jutting from his chest. He takes a few steps backward, toward the Aztec gold -- when he steps into the moonlight, JACK BECOME SKELETAL. JACK
+130) 5) text: Well, isn't that interesting. Skeleton Jack pulls the sword from his chest. He pulls something from his pocket: one of the Aztec coins. JACK (CONT' D)
+130) 6) text: They're so pretty, I just couldn't resist stealing one. It's a curse, I guess. Barbossa grabs up his sword, and rushes Jack. Both men ar in moonlight now, two skeletons in pitched battle. BARBOSSA
+130) 7) text: So what now, Jack Sparrow? Are we to be two immortals, locked in epic battle until the trumpets of Judgment Day? JACK
+130) 8) text: Or you could surrender. He shoves Barbossa back, out of the moonlight. Barbossa stalks the room, his attention focused on Jack. BARBOSSA
+130) 12) text: He didn't waste it. Will stands over the Aztec chest, holding a bloody sword, his left hand in a fist. He opens the fist - -- the medallion, blood covering it, drops from his hand, revealing the cut in his palm. Barbossa stares, then looks down at his chest. Blood blossoms on his shirt around the bullet hole. It spreads quickly. Barbossa clutches his chest, his face registering pain fo the first time in years. Barbossa falls heavily to the ground, dead. Jack blows the smoke from the barrel of his pistol... tosses it away.
+132) 0) text: The Black Pearl comes alongside the Dauntless, and Jack's crew swarm across, overwhelming the pirates. The sailors on the beach see it, and CHEER.
+133) 0) text: Will wraps a cloth around his palm; Jack joins him near t chest. WILL
+133) 1) text: Well, you're the worst pirate I've ever heard of. (smiles) You're a man who can be trusted, who can be counted on, and who can It betray his friends. What kind of pirate is that? JACK
+133) 2) text: (admits it) The worst. (beat) On the other hand, maybe I'm a man who can't pass up a chance for revenge against the black-hearted bastard who stole my ship and left me to die in the middle of the ocean -- twice! -- and who knows how to get what he wants. Now that's a great pirate. Jack cuts his palm, grips the coin he stole above the che ... and then hesitates. Will looks at him... Jack releases the coin. It lands in the chest beside the other bloody coin. Suddenly, the lid of the chest, all on its own, SLAMS SHU Elizabeth stares at it. WILL
+134) 0) text: Jack, Will, and Norrington gather together on the beach. Elizabeth calls out: ELIZABETH
+134) 8) text: This is a proper kiss. Will sweeps her in his arms, leans her back, and kisses h long and well - Jack puts a hand on Norrington's shoulder. JACK
+135) 4) text: Jack and his crew have escaped! (gasps from the crowd) There was no damage to the cell ... they must have been set free. Will and Elizabeth exchange looks. You? Not me, you? No, not me either! Swann notices something the parapet, point
+135) 6) text: The Black Pearl! People rush to the parapet. Sure enough, below in the bay are the distinctive black sails of the Pearl. The ship cu through the waters very close to the point - -- where the gallows of the pirates are. Suddenly Jack appears, on the point; he swings off the one empty gallows, across and down onto the ship's rigging as it passes. GILLETTE
+136) 0) text: Jack monkeys down the rigging. AnaMaria is at the wheel. ANAMARIA
+136) 1) text: Captain Sparrow -- the Black Pearl is yours! Jack runs a hand lovingly along the rail, then takes the wheel. It feels good -- right -- in his hands. He enjoys it, and then shifts to 'Captain' mode. JACK
+136) 3) text: Aye, aye, sir! JACK
+136) 4) text: Mr. Gibbs, organize a cleaning detail - you and Cotton. I want every inch of the Pearl spic-and-span and ship-shape! Gibbs actually stomps the deck, executes a salute. Jack stands at the wheel: he's got his ship back, and all is right with the world. He begins to unconsciously hum: "Yo, ho, yo, ho, a pirate's life for me ..." He realizes what he's doing and smiles, the orchestra tak over as the Black Pearl sails for uncharted waters ... an we FADE UP large words in script: THE END

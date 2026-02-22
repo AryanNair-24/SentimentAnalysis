@@ -1,0 +1,20 @@
+30) 0) text: John waits as a courtroom lets out. MEYER FISK steps out with a young associate. He spots John and approaches.
+30) 1) dialog: John, I said my office at four o'clock. I can't leave, I'm in --
+30) 3) text: Meyer relents, turns and calls to his associate.
+30) 7) dialog: Do you have the ruling in Brennan?
+31) 2) dialog: The PCRA was rejected. No new evidence can be submitted. Not anymore.
+31) 4) dialog: And if they'd used her credit cards we would have had something to argue. I'm sorry; this really...sucks.
+31) 5) text: John offers a smile at Meyer's unlawyer-like choice of wo
+31) 7) dialog: John, in the last thirty years, the Supreme Court hasn't heard one murder case. No decent lawyer would even file the pleadings.
+31) 9) dialog: No, I'm going to file it. But I need you to do something for me.
+31) 14) dialog: I need you to look at the evidence and just forget Lara is your wife.
+31) 16) dialog: I'm not saying judge her innocent or guilty, I'm just saying look at it. He co-worker sees her leaving the scene, she has the victim's blood on her clothes, her fingerprints on the murder weapon--
+31) 18) dialog: -- And the fight in the office.
+31) 20) dialog: But this one ended up dead.
+31) 21) text: John looks at Meyer anew, feeling profoundly betrayed.
+31) 23) dialog: How can you say that?
+31) 25) dialog: That it no longer matters what we believe; Lara's not getting out. And you have no idea how much I hate saying that.
+31) 30) dialog: John! Come on! For Christ's sake. JOHN!!
+31) 31) text: John is long gone.    Meyer hurls his sandwich into the t
+185) 1) dialog: I'm sorry.
+186) 1) dialog: (into phone) How's Lara?

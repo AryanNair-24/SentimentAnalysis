@@ -1,0 +1,613 @@
+1) 0) text: Jagged mountains defy a dark, foreboding sky. We hear PLODDING HOOVES, CREAKING LEATHER. A lone wanderer appears. Wearing a long coat and a battered hat, he carries a bolt-action carbine. His name forgotten, history remembers him simply as THE POSTMAN. His laden pack mule, BILL, BRAYS, as they pass a battered sign: "The Great Salt Lake Marina." They start down a slope and begin to cross a...
+2) 0) text: A bullet-ridden sign reads: "U.S. 84 North." The Postman leads Bill down a barren 4-lane. Weeds poke up through the asphalt. The rusting hulk of a car rests in the median, covered in a tangle of purple wisteria. The Postman plucks a flower. He sticks it into a buttonhole and continues. BILL BRAYS woefully.    In answer:
+2) 1) dialog: I don't know. And if you ask me again, I'm going to slug you. They near a sign: "Thank You For Visiting Utah." The Postman waves, shouts to the sign as he passes it.
+2) 2) dialog: It's been fun, hasn't it, kids? (to the sign)
+3) 0) text: Bill tugs up weeds as The Postman is climbing up a ladder on a highway that razor cuts the plains to the horizon. Above, The Postman sands atop a billboard catwalk. He references a tattered road atlas, scans the horizon through binoculars with one broken lens. He pauses at a Union 76 ball just visible above the tree line.
+4) 0) text: A 76 Station and the remains of a Howard Johnson's. Alert, carbine in hand, The Postman leads in the mule. Rusting cars sag on flattened tires. There's a stripped fire engine, its cracked hoses leading to the HoJo foundation which bristles with burned timbers. Bill stops to drink out of a stream.   The Postman swats him with his hat. THE POSTMAN
+4) 1) text: Damnit, Bill, you know I need to check it first! Bill hangs his head. The Postman digs through his pack. He removes an old Tupperware container and replaces its contents -- a tiny sheaf of litmus papers and several small bottles -- with stream water. He adds a few drops from each bottle. Swirls it around. Then dips a tiny strip of paper into the water. The paper turns a vivid purple. The Postman is dubious. THE POSTMAN
+4) 3) text: Tastes about the same. Your call, Bill. Bill drinks. THE POSTMAN
+4) 4) text: You ain't picky, Bill. I like that about you. The Postman takes his carbine and a burlap sack and crosses to the 76 Station. An old extension ladder on the ground. The pole holding up the 76 ball has a 30-degree bend in it, like someone once tried to pull it over. Beyond the 76 ball, the sun sets -- but we here in the 20th Century have never seen such a wild riot of color before. The Postman tries the station door. Locked. Smiling ironically, he steps in through the blown-out window.
+5) 0) text: A shambles. The Postman kicks around the table. He finds a few beat-up CDs, flips through them. Reads the label.
+5) 4) dialog: 'Running on Empty'? Tell me about it. Tossing it, he turns, stops. There, resting on a pile of trash is a bashed-in portable TV. The Postman smiles.
+5) 5) dialog: Hey, Bill! We got TV! 147 channels. Everything from Jesus to 'Jeopardy'. He steps over, switches on the set.      Nothing happens, The Postman pretends just the same.      He mimics static then:
+5) 6) dialog: 'Like sands through the hour- glass, so are the days of our lives...' (switching channels)
+5) 8) text: I'll take Domestic Nuclear Disasters for two hundred thousand, Alex... The Postman stops suddenly.    Click.
+5) 9) dialog: We interrupt our regularly scheduled program to bring you the Second Civil War... Well, shit. The Postman stares at the blank screen a moment. There's a sudden, panicked RUSTLING from behind the service manager's desk. The Postman wheels around, raises the carbine.
+5) 10) dialog: I don't want any trouble... I bet you don't either... Let's just call it a draw, okay? Sudden MOVEMENT. The Postman shouts in surprise as a Doe dashes out from behind the desk. Scared, it bounds back and forth between the walls. Then freezes in the corner. The Postman sighs in relief, lowers the carbine.
+5) 11) dialog: Look out, Bill!
+5) 15) dialog: I'm rich.
+6) 0) text: Embers of a campfire glow.    The Postman is asleep, the carbine in reach. BILL BRAYS and nervously stamps his hooves. The Postman reaches for the carbine only to find the barrel of a shotgun pointed in his face. Three BANDITS! Hard-eyed and ugly. One, barely 20, is mostly just ugly. The Postman looks down the barrels of a shotgun, a rifle and a revolver. The LEAD BANDIT kicks the carbine out of reach.
+6) 1) dialog: I'm just passing through. I don't mean anyone any harm. (re: stream)
+6) 2) text: Water's good. The Lead Bandit pokes at The Postman's shoulder with the muzzle of his rifle. The Postman knows why.
+6) 3) dialog: I'm not a Holnist. The Lead Bandit pokes again. Harder. The Postman opens his shirt, reveals his bare left shoulder.
+6) 4) dialog: Okay? They just stare at him, none saying a word.      Creepy.
+6) 5) dialog: I'm headed for a town called St. Rose. Somewhere west of Portland.
+6) 10) dialog: Well, I heard different.
+6) 12) dialog: No, it's just that it's hard to get good information. The third BANDIT, a HULKING brute, has been quiet.
+6) 16) dialog: This is all I got.
+6) 18) dialog: (pointing)
+6) 26) dialog: Dried peas.   Beef jerky. Cigarettes.
+6) 28) dialog: Sure.   There's the ladder.
+7) 0) text: The ladder set against the bent pole. Prodded by a shotgun, The Postman climbs, disappears through the hole and into the tilting 76 ball.
+8) 0) text: Full of The Postman's earthly possessions. Trick is, how to save them and his life at the same time. He spies an old wrench: remnant of an attempt to remove the rusty bolts holding the ball in place. An idea begins to take shape.
+8) 8) dialog: It's going to take a second.    I got my stuff bolted in.
+8) 22) dialog: whips head over heels as the ball speeds away.
+8) 24) dialog: Bill! Bill bolts from the station as the Lead Bandit raises the RIFLE and FIRES at The Postman. Losing balance, The Postman lands on his butt just before a bullet splinters the utility pole above his head. Wobbly, he tries to gather his packs. The Bandits charge, quickly closing the ground, but Bill is there first. Holding as much as he can, The Postman heaves himself ove Bill's back. As the mule gallops away, the Lead Bandit aims the rifle. He's got The Postman in his sights. He's about to fire when -- Bandit #20 stands up INTO the SHOT. He's got a fistful of cigarettes in each hand and he's laughing like a hyena!
+9) 0) text: The Postman sits on a rock, holding Bill's halter so the mule must face him. They are in the midst of an argument.
+9) 1) dialog: It's true, we haven't done this in a while, but it's like riding a bicycle. Now, open your mouth. The Postman pries his mouth open. Taking a toothbrush, he tends to Bill's teeth, then gives him an appraising look. BILL BRAYS.
+9) 2) dialog: I know the rule. It's my rule! Avoid civilization at all costs. But we gotta eat, don't we? (as BILL BRAYS again)
+9) 3) text: What are you so worried about, Bill? All you gotta do is stand there. I'm the one with all the lines. The Postman leads the mule down the hill toward the town far below. Making his case all the while -- even as BILL BRAYS in protest.
+10) 0) text: A patch of mud. In the center of the square fifty townspeople stand before a plank stage where The Postman wraps up a performance of MacBeth. He plays it with a mis-remembered gusto the people enjoy. Children especially are enamored. A heavily-muscled man, WOODY, lingers on the fringe of the crowd -- watching The Postma with inscrutable intensity.
+10) 1) dialog: They said, 'Fear not, MacBeth, 'til Birnam Wood comes to Dunsinane'! He looks off stage for someone, but no one appears.
+10) 2) dialog: I said, Birnam Wood comes to Dunsinane! Bill trots on-stage. Covered with twigs, BILL is Birnam Wood. He BRAYS lustily. The audience laughs in delight. The children clap. Only Woody seems unaffected.
+10) 6) dialog: Arm, arm yourselves! If the witch's words are true, there'll be no running or hiding here!
+10) 7) text: Shaking off the twigs, Bill takes one of the swords in hi mouth. The two of them dash back and forth pretending to fight off an imaginary attack. Finally, The Postman looks out at the audience, remembers the words the best he can.
+10) 8) dialog: Tomorrow, and tomorrow, and the day after that. Out brief candle! Life's but a walking shadow, a poor player that struts his hour upon the stage and is heard no more. It's a tale told by a moron. Full of sound and fury, signifying nothing. (waves sword) But blow, wind! Come wrack! At least we'll die with the harness off our back!
+10) 9) text: The audience erupts in applause. But Woody stands still as stone. The Postman takes a bow. Even Bill does a cross-legged dip. Knowing when to quit, he steps off the stage to many hearty handshakes. Woody watches his every move. MRS. THOMPSON, one of the town's leaders, steps up. She's accompanied by crotchety old CURMUDGEON LARRY.
+10) 11) dialog: (grinning) They still haven't.
+10) 13) dialog: Thanks.   You're very nice.
+10) 18) dialog: I don't think you understand how it works.
+10) 20) dialog: I'm glad I could help.
+10) 22) dialog: Good enough to get something to eat?
+10) 25) text: All eyes look down the road leading into town. A raiding party of Holnist Cavalry are on their way in. Mrs. Thompson sees The Postman's concern.
+10) 28) dialog: Well, I'd just as soon not give them anything of mine. Let's find the back door, Bill.
+10) 29) text: The Postman gathers his stuff, slings packs onto Bill. The forty Holnists in orange and black uniforms ride in. They're armed with mostly pistols and rifles. Some carry bows, knives, spear guns and swords. On their bare shoulders, branded into the flesh -- the number "8."
+10) 34) text: The Postman freezes, turns, is relieved to find Bethlehem's not talking to him at all. The General looks down from his horse at children playing an impromptu game of "Birnam Wood." The children stop, stare at their feet. Bethlehem affects a "kindly" smile to accompany his gentler tone.
+10) 36) text: Meantime, The Postman continues his surreptitious escape. The MAYOR hurries forward to greet Bethlehem.
+10) 47) text: Head down, The Postman makes for "the back way." But it's guarded by three daunting Holnist soldiers. No getting by them. The Postman does a quick 180, goes back the way he came. Bethlehem looks at the frightened townsfolk.
+10) 51) text: The Holnist soldiers fan out, prodding any likely or unwilling candidates forward. The Postman is now walking behind Bethlehem. Some of the Townspeople cast him a furtive glance as he makes his way toward the open courtyard and, ultimately, the gate out o town. Three conscripts are hustled before Bethlehem. He looks over the first -- Woody. Smells him. Not much of a decision here.
+10) 61) text: Soldiers shove the man back into the crowd. The Brave Boy that was playing Birnam Wood allows himself a tiny smile when he sees that The Postman might make it.
+10) 63) text: Bethlehem notes the Boy, turns to see the object of his attention, and spots The Postman leaving out the front gate.
+10) 65) text: Idaho and another soldier are on it. The Postman tries to back away as the two dismount and come toward him.
+10) 66) dialog: You don't understand...
+10) 69) dialog: But, I'm not with these people. I'm just passing through. I --
+11) 0) text: Spread out in the valley is General Bethlehem's Holnist Expeditionary Force. A five hundred-man army enjoying all the comforts a bivouac can offer. 19 head-shaved CONSCRIPTS, including Woody and The Postman, are held in a cramped, barbed wired pen. They watch as three more are shoved inside. One of them is Bandit #20. He and The Postman come face to face, recognize each other.
+11) 2) dialog: (astonished)
+11) 3) text: Hi? The Postman steps toward him, Bandit #20 backs off quickly.
+11) 5) dialog: Kind of.
+11) 8) dialog: So what did you guys do with my cigarettes?
+11) 10) dialog: Wonderful.   What happened to your partners?
+11) 17) text: He starts down the line, looking the men over. He stops in front of a GANGLY RECRUIT. The Postman is alongside.
+11) 22) dialog: Me?
+11) 24) dialog: I'm just a performer. Shakespeare. Stuff like that.
+11) 26) dialog: He was a writer. He --
+11) 31) dialog: I, um, you want a line?
+11) 32) text: Bethlehem nods.     The Postman thinks a moment...
+11) 33) dialog: 'To be or not to be: That is the question.'
+11) 34) text: Bethlehem looks at his men as if to say, "Is this all thi guy's got?" Bethlehem eyes The Postman; he wants a contest.
+11) 37) dialog: (gaining confidence) 'Now is the winter of our discontent made glorious summer by this son of York.'
+11) 38) text: Bethlehem claps The Postman on the back.
+11) 40) text: The Postman doesn't answer. Hesitant, he doesn't want to get into any more trouble than he's already in.
+11) 43) dialog: I don't mean any disrespect, sir, but you'd be better off just letting me go. A fighter is about the last thing I am.
+11) 48) text: The Postman gasps to catch his breath.
+11) 50) text: The Postman staggers to his feet. Blood trickles from his nose as he stares across at Bethlehem.
+11) 52) dialog: You'd win.
+11) 53) text: Bethlehem looks to Getty. CLICK. Getty shoves a PISTOL is into The Postman's ear. The Postman reluctantly raises his fists. Bethlehem gives him a satisfied nod.
+11) 55) text: The Postman takes a tentative step forward. Bethlehem drives him back with a flurry of blows. The Postman is dazed, nearly out on his feet. Bethlehem holds him up.
+11) 57) text: That said, Bethlehem delivers one last blow to The Postman's face. Everything goes BLACK...
+12) 5) dialog: Thanks.   Did I win?
+12) 7) dialog: I tried to tell him...
+12) 9) dialog: Say what?
+12) 11) dialog: 'Blow, wind. Come wrack. At least we'll die with the harness off our back.'
+12) 13) dialog: Live free or die.
+12) 14) text: Woody and The Postman scramble to fall-to with the other conscripts. Idaho surveys the ranks.
+13) 5) text: The line has almost passed. Just The Postman left and Bandit #20 bringing up the rear. Idaho looks at The Postman, addresses the COOK.
+13) 8) text: Probably Bill -- and The Postman knows it. He stares in revulsion at the putrid meat ladled into his pail.
+13) 12) text: Bandit #20 steps away in disbelief. Not knowing what else to do, he sits down beside The Postman, the only man with food who isn't eating.
+13) 14) dialog: That's what they're hoping for.
+13) 17) text: Lost in despair, The Postman stares out at the skewed palette.
+13) 18) dialog: These were supposed to be the best years of my life.
+14) 0) text: The conscripts stand at attention under the guard of Idah and two other soldiers. To their right is a dead oak tree. Behind them, three rows of folding chairs. Two figures approach. Bethlehem and Getty. Getty carries a sheathed sword. Bethlehem surveys the troops -- taking no more notice of The Postman than anyone else.
+14) 3) dialog: (low)
+14) 4) text: May he burn in hell. Getty looks over at him. He heard him. The Postman swallows hard. Getty stares hard. Then he turns away. He's not going to bust him on it.
+14) 30) dialog: As the sword finds its mark.     Bethlehem looks at him, addresses all.
+14) 32) text: Bethlehem turns and walks away.     Getty following behin The Postman watches as they go.     Idaho steps up to him
+14) 34) dialog: No, sir.   I'm a follower not a leader.
+14) 36) text: The Postman looks back to see Bethlehem and Getty disappear into the gloom. Idaho grins, likes how this affects a new man. The Postman moves on.     Idaho stops Woody as he passes.
+16) 0) text: Bethlehem stands before a painter's easel, palette in hand. He's got a mirror set up so he can see his reflection. He's doing a self-portrait in the tradition of the great Dutch Masters -- but it's a dismal failure. He continues painting even as Idaho leads The Postman in. Idaho salutes, steps back. For a moment, The Postman doesn't quite know what to do.
+16) 2) text: Bethlehem wants an answer.    The Postman clears his thro
+16) 3) dialog: No offense, General, but you seem to have read some Shakespeare yourself.
+16) 11) text: The Postman leaves.     Idaho stands at the ready.
+17) 0) text: The Postman rejoins the conscripts. Bandit #20 slides over.
+17) 5) text: Troubled, The Postman doesn't answer. He heads for a corner where Woody stands alone. Relentless, Bandit #20 follows.
+17) 7) dialog: Nothing.
+17) 9) dialog: No.
+17) 11) dialog: We got to get out of here.
+17) 13) dialog: Escaping. (low) You ever hear of St. Rose? It's on the coast. They say it's a paradise. They've even got electric lights.
+17) 16) dialog: Between the three of us, we could --
+17) 18) text: The Postman can't believe what Bandit #20 just said. Bandit #20 turns, hurries away. The Postman looks to Woody who doesn't tip his hand eithe way. He moves away as well.
+18) 0) text: The conscripts break camp. Hot work. Glistening with sweat, The Postman stops to stretch. Across the way, he sees Bandit #20 talking to Getty. Getty glances at The Postman who returns to work, watches under his eyebrows a Idaho joins the group. There's trouble brewing here. Worried, The Postman looks to Woody, who watches the exchange as well. He is, as usual, inscrutable.
+19) 0) text: The river is swollen and swift from the spring thaw. Marching along the east ridge above it, the army is given the order to halt. The Postman looks ahead to where Idaho confers with Bethlehem. Something's wrong. They look to where: Two carbine-toting soldiers stand alertly at guard by a thicket across the river. A rotten wood and rope bridge spans the space between the ridges. Idaho rides to the conscripts:
+19) 9) text: Bethlehem nods to Getty. Getty takes a hunting knife from a belt-sheath and tosses it, blade first, into the ground between The Postman's feet.
+19) 11) text: Hefting the knife, The Postman stares at the west ridge.
+19) 13) text: The Postman looks to Bandit #20 who stares back defiantly
+19) 15) text: Bandit #20 can't contain his giggling, so Idaho backhands the sound out of him -- then looks back to The Postman. Grim The Postman starts forward, looks from the rotten bridge to the water and back again as he moves. All eyes on him as he starts across...
+20) 0) text: The Postman steps lightly. Far below, the river rages. A knotty plank starts to crack underfoot. Scooting off it, he takes a last look around. Continues across to...
+21) 0) text: The soldiers greet him -- unholy smiles on their ugly mugs. They point him ahead, prod him forward toward a trail of wet blood which leads deeper into the thicket. Stooping, The Postman enters. The soldiers split off and track along with him on either side of the thicket.
+22) 0) text: Thorns catch and tear at his clothes as The Postman pushe his way through. He freezes. Ahead, sprawled and twisted, the mauled, bloody corpse of a Holnist soldier.
+22) 2) dialog: I found him.
+22) 4) dialog: Yeah.
+22) 9) text: Hurry up! You still got a lion to bag! The Postman decides, deliberately steps on the PLANK. CRACK. The Postman and the corpse drop thirty feet down, disappear in the river below. The corpse surfaces first, floats in the water. Then The Postman. Farther down the river. Swimming downstream with powerful strokes. Between his efforts and the current, he's being quickly swept away from the Holnists. As Bethlehem's eyes narrow in fury.
+23) 0) text: A fallen tree spans the river. As The Postman is swept beneath, he reaches up and catches hold. Pulling himself out of the water, he scrambles for the west shore. He disappears into the woods as two soldiers appear. They catch hold of the tree, look to the west banking, se footprints in the mud where The Postman pulled himself out. They start after him.
+24) 0) text: Clothes in tatters, his lungs ready to burst, The Postman stops. He takes cover as the two soldiers run past. Breathing hard, The Postman steps out, starts across the clearing. He's halfway when Bandit #20 steps out from the trees. They look at each other for a moment.
+24) 1) dialog: Just let me go. I don't want to be part of your army.
+24) 6) text: The Postman gestures with his knife.
+24) 7) dialog: Don't --
+24) 9) text: The Postman lunges, digs into Bandit #20's gut.   He blin in surprise, then sags to the ground. The Postman takes a step back. A shadow falls over him. It's Woody. Staring down at The Postman. They can hear others approaching from the river.
+24) 11) dialog: Come with me.
+24) 12) text: At that moment, Idaho and the second soldier come into th clearing. Idaho grins, relaxes his grip on his gun when he sees the mismatch between Woody and The Postman.
+24) 15) dialog: I know.
+24) 17) text: Woody circles The Postman, until he's facing Idaho and th soldier. Woody takes a long look at The Postman, smiles.
+24) 19) text: As The Postman realizes what he's doing, Woody flips his knife through the air and into the soldier's throat.
+25) 0) text: The Postman, lungs heaving, stops his climb long enough t take stock of the Army waiting on the distant river edge. Strength ebbing, he heaves himself up and continues climbing.
+26) 0) text: A chilling RAIN drills down, washing across an old forest road. Covered with undergrowth and dotted with saplings, nothing's been down here in years. Blue-lipped and shivering, his clothes torn and soaked, The Postman trudges along. He tries to rub some warmth back into his numbed limbs, but a coughing spell wracks his body.
+26) 5) dialog: Hey.   How ya doin'?
+26) 6) text: The back of the Jeep is filled with bags marked U.S. Mail The Postman picks up a hat off the console. Oddly respectful, he runs a finger along the band over the "Horse &amp; Rider" emblem. The Postman reaches, touches the embroidered American fla patch on the skeleton's jacket shoulder. Another shiver. A moment later, The Postman is pulling the nice dry jacke off the skeleton and shoving his own arms inside. A sloshing sound. He pats down the jacket. Finds a liquor. He gives the skeleton a "you shouldn't have" look. But the cap won't budge. He twists, pries, bangs the neck of the steering wheel. At last it gives. He takes a long, hard swallow. The warming fire streams down his throat. The Postman grabs a random letter, reads it aloud.
+26) 10) dialog: 'Jerry Ball, Pine View.'
+26) 12) dialog: So, arrest me. (reading) Here's a piece of good news. Jerry's decided to go to school to get his contractor's license.
+26) 14) dialog: (smiles to skeleton) Little Jimmy wants his grandpa to know he lost a tooth.
+26) 15) text: The Postman turns the envelope over in his palm. A tiny tooth falls out. The Postman considers it. This suddenly isn't so amusing. He puts it back in the envelope. Shoving mail sacks aside, he climbs in the back. Burrowing in, he pulls the sacks back, covering himself with a blanket of mail. Getting warmer already, he regards the skeleton a beat as the RAIN DRUMS ON the ROOF
+27) 0) text: Wearing the blue uniform, The Postman looks down at the fresh grave, realizes a eulogy is in order. He takes off the hat, holds it over his chest for a heartfelt moment o silence.
+27) 1) dialog: Thanks for being there for me. (raising the flask) Here's to you. I consider my taxes very well spent.
+27) 3) dialog: All dressed up. Nowhere to go.
+28) 0) text: His hair growing back nicely, The Postman has reached the proverbial fork in the road. He considers his two options: "Pine View -- 32 miles." Or "Ridgemont -- 220 miles." He looks the two roads over, thinks.
+28) 1) dialog: Well, that's easy.
+29) 0) text: The town is protected by a tall, long palisade.     Like Apache. All is dark as The Postman approaches.
+29) 1) dialog: Greetings, Pine View, Oregon!
+29) 5) dialog: Civilian, I'm on official business. I demand entry into the town of Pine View.
+29) 7) dialog: I'm through talking to you, buddy boy! Now get somebody with authority to open this gate!
+29) 10) dialog: I'm a representative of the United States Government --
+29) 15) dialog: Authorized by order 417 of the restored Congress to reestablish a communication route to Idaho and lower Oregon. Now open that damn gate!
+29) 17) dialog: I'm your postman!
+29) 20) dialog: Understand that tampering with or obstructing the mail is a federal offense. Furthermore, the Bolin Act requires you to provide all mail carriers with sanctuary and nourishment. (starting forward) Now open that damn gate!
+29) 22) dialog: Is Jerry the contractor here?
+29) 23) text: Briscoe pumps his shotgun, aims it at The Postman.
+29) 24) dialog: Wait! I'm going to get something out of my bag.
+29) 25) text: The Postman dumps the pack over, frantically shuffles through the letters.
+29) 27) dialog: Paul Davis!   124 Vernon Street!
+29) 32) dialog: Lois Kent!   14 Weymoth Lane!
+29) 35) dialog: Irene March!   478 River Road!
+30) 2) text: The sense of hope is palpable as the gates are swung back Two TOWNIES hurry Mrs. March out to meet The Postman. They're followed by a throng. As he sees she's blind...
+30) 3) dialog: Oh, no...
+30) 6) dialog: (uncomfortable) I have a letter for you.
+30) 9) dialog: I'm sure it's personal.
+30) 14) dialog: We're delivering the old stock piles, but I'll accept all new correspondence as well.
+30) 16) text: Excited, the people move closer.      Someone holds up a and The Postman starts.
+30) 17) dialog: 'Dear Irene. Sorry I haven't written. Everything's so crazy. The strange weather. The food shortages. That farmer Nathan Holn causing all that trouble. It's hard to understand. David's home from the Army. The war was over before he even got there. Thank God for that. He's still my baby no matter how big he gets. We're going to miss you for Christmas, but maybe next year. All our love. Donna.'
+30) 22) text: The Postman pulls his hand back, rejects the title.
+30) 23) dialog: No.   I'm just... a postman.
+30) 24) text: An almost awesome silence.     Too much for The Postman.
+30) 25) dialog: I've been on the road a while. I could use a little something to eat --
+30) 30) text: The townspeople welcome him with cheers. The Postman raises a silencing hand. As they quiet...
+30) 31) dialog: Yes, there is! If there are dogs in this town, you have to leash them while I'm here!
+30) 32) text: Only The Postman laughs. No one else reacts. Briscoe watches dubiously from the wall as the people surround Th Postman and sweep him through the gates and into town. One couple watches The Postman closely as he makes his wa into town. She is ABBY -- a sweet-faced, pretty woman. Her husband, MICHAEL, is a decent-looking sort, tall and strong.
+31) 0) text: A freestanding tub has been set up, water "bucketed" in. The Postman luxuriates in his first hot bath in years and sings a familiar tune to himself.
+31) 1) dialog: 'Stop. Oh, yes, wait a minute, Mr. Postman. Waaa-ait, Mr. Postman...'
+32) 0) text: FORD crosses the parking lot of an abandoned motel. He's a black kid, maybe 16, too young to remember any other life but this. He carries The Postman's uniform on a hanger.
+33) 0) text: The Postman looks up at a KNOCK. Ford steps in. Like most kids, he needs a hero. Holding up the uniform, he just found one.
+33) 5) dialog: Thanks. Didn't somebody say something about dinner?
+33) 7) text: The Postman just nods, hoisting himself out of the tub an hurriedly wrapping a towel around himself.
+33) 9) text: Hoping to impress, Ford reaches into a pocket, pulls out worn, creased flyer for a "Ford Lincoln Mercury" dealership. Ford finds The Postman just staring at him, waiting for the uniform he's still got in his hand. Embarrassed, Ford quickly hands it over.
+34) 0) text: Ford leads the way as they leave the motel behind. The Postman looks good in his uniform. They cross a parking lot where five partly-stripped cars have been sitting for years. There's a potted plant outside the driver's door of one.
+34) 2) dialog: V-eight. Eight cylinders.   That means an eight-banger.
+34) 10) dialog: The important thing to remember about cars is, you can't eat 'em.
+35) 0) text: The townspeople fill the booths, line the walls. They talk excitedly amongst themselves, break into spontaneous applause as Ford and The Postman enter. The Postman is surprised, uncomfortable at this display. But then he sees that a banquet has been laid out on the counter. The centerpiece is a huge vat of steaming stew. The PEOPLE clear a path for him.
+35) 3) text: Startled, The Postman doesn't quite know what to say. They seat him at a table -- but the food looks miles away
+35) 5) dialog: Yeah.
+35) 7) dialog: You know, I'm pretty hungry.
+35) 12) dialog: His name is, uh... Richard Starkey. From Maine. He has a saying. 'Things are getting better, getting better all the time.'
+35) 15) dialog: Parties are over with. The individual is what counts. You vote for the best man.
+35) 16) text: Ellen sets a steaming bowl of stew in front of The Postman. Famished, he digs in.
+35) 18) text: The Postman tries to speak through a mouthful of food.
+35) 19) dialog: Lady Di's in charge. Sixty years old and she still kicks ass.
+35) 21) dialog: (smiles at irony) He died. Skin cancer.
+35) 24) text: The Postman looks at the desperate faces -- he'd rather get back to his meal -- but this may be the most importan question of all. He doesn't want to lie.
+35) 25) dialog: The government's just getting started. You're on your own for at least eighteen months.
+35) 32) text: The people nod and The Postman finally gets to eat. He catches sight of Briscoe watching him from the door. After a moment, Briscoe leaves.
+36) 0) text: A band plays an odd array of instruments. There's dancing. The Postman sits behind four empty bowls. People watch him eat like it was a religious experience. He pushes back the fifth bowl.
+36) 1) dialog: Never thought I'd hear myself say this, but I can't eat anymore.
+36) 3) dialog: What?
+36) 5) dialog: (re:   the cap) This?
+36) 6) text: The boy nods. The Postman shakes his head and smiles to himself. He takes off the cap, sets it on the kid's head.
+36) 7) dialog: Almost fits.
+36) 14) dialog: I don't know if I can, I think I'm still on duty.
+36) 16) dialog: It's been a long time.
+36) 20) dialog: Is something wrong?
+36) 22) dialog: About six feet.
+36) 24) dialog: Smarter than some I guess.       Why?
+36) 26) text: The Postman smiles.    She's odd, but beautiful.
+36) 27) dialog: Never had the bad mumps.
+36) 34) dialog: Is that a trick question?
+36) 36) text: Stunned, The Postman stops dancing.      Abby takes this moment to grab Michael.
+36) 37) dialog: (to himself) It's got to be the uniform.
+36) 40) text: Michael smiles, shakes hands with a grave-digger's grip. The Postman doesn't know what to think.
+36) 42) text: The Postman just stares at them.      Abby looks to Micha
+36) 48) dialog: I'll have to think about it.
+36) 49) text: The Postman excuses himself with a nod and turns away, shaking his head at the strangeness of this new world. But no rest for the wicked, as soon as he's free from Abb and Michael, he's running smack into another group of well-wishing TOWNIES. Mrs. March is among them. She's holding an envelope.
+36) 52) text: The Postman swallows hard, looks from the envelope to the faces around him, to Mrs. March. She looks blindly back. How can he lie to her?
+36) 53) dialog: Look, Mrs. March, you should know that...
+36) 55) dialog: Know that...
+36) 59) dialog: I got to get out of here.
+37) 0) text: The Postman moves through town. The streets are deserted. He's got his pack on, his mailbag. He passes a 7-11 converted to a blacksmith shop. There's a horse tethered to the railing in front of it. He grins; maybe he's going to make it out of here after all. As he starts to move toward the horse...
+37) 3) dialog: (freezes, startled) What is?
+37) 5) text: The Old Man winks knowingly, then heads inside. As The Postman turns the corner, he finds himself in front of th post office. An old brick building. Chiseled in the granite facing: "UNITED STATES POST OFFICE. EST. 1884."
+38) 0) text: Long ago stripped, it still has a proud, official, almost holy feel. The Postman wanders in, stops to read the credo calligraphied on the wall. "Neither snow, nor rain..." He turns at a SOUND. Ford is here, leaning against a wall.
+38) 2) dialog: You did, huh?
+38) 5) dialog: You have to be in the right place at the right time.
+38) 10) dialog: I thought you wanted to drive cars.
+38) 12) dialog: Could be anywhere. Anytime. Only another postman can make you a postman.
+38) 14) dialog: Something like that. You have to be sworn in.
+38) 15) text: Ford raises his right hand, palm out, ready to take the oath. It takes The Postman a moment to realize.
+38) 16) dialog: The organization's kinda shaky. It might not last.
+38) 18) dialog: You'd meet a lot of people who don't believe in you.
+38) 20) dialog: It's a lonely job.
+38) 22) text: This response strikes a chord. The Postman sees how badly Ford wants something to hold onto. He sees himself.
+38) 23) dialog: So have I, Ford. So have I.
+38) 24) text: The Postman looks up at the creed on the wall.    Finally
+38) 28) dialog: What the hell?     Repeat after me.
+38) 30) dialog: Okay then.
+38) 32) dialog: No, no, no, I'm saying that. You just listen... By my authority you are now empowered to carry the mail. (extends a hand) Congratulations, you're a postman.
+38) 33) text: They shake hands. The Postman doesn't realize, but this is the most important moment in Ford's life.
+38) 35) text: Ford's intensity takes The Postman back.       But the mo is broken when...
+38) 37) text: Ford bristles at "Johnny," looks to The Postman.
+38) 39) dialog: Sure thing, Ford.
+38) 45) dialog: I take it you're not.
+38) 47) dialog: What can I do for you, Sheriff?
+38) 49) dialog: I'm afraid you don't understand, Sheriff. I'm a government employee. Authorized by --
+38) 51) dialog: This is going in my report.
+38) 53) text: Briscoe exits, leaves The Postman alone in the post office.
+39) 0) text: The Postman arrives home. He pushes open the door, knocking over a stack of letters that have been shoved under the door. He gathers them up, flips through them. They're written on scraps, the backs of pictures, on handkerchiefs and homemade paper. They aren't old.
+41) 2) dialog: Just leave it.
+41) 4) dialog: I said leave it.
+41) 6) dialog: Hello, Abby.
+41) 8) dialog: I guess.
+41) 13) dialog: How about you?     Do you have a letter?
+41) 15) dialog: I'll find you a pen pal. Someone with interests similar to your own. Dancing, checking for mumps.
+41) 16) text: Abby laughs.    The Postman is charmed.
+41) 18) dialog: I guess no one feels much like laughing.
+41) 21) dialog: Oh, well, I've been thinking about it.
+41) 23) dialog: Sure.   Why not?
+41) 25) dialog: God, you're beautiful. Sorry, I know you'd probably like to keep things more clinical. (beat) You don't even know my name.
+41) 32) text: The Postman closes his eyes. Abby slides her hand away from his mouth. And as they start to make love...
+42) 0) text: The Postman wakes, reaches for the warm body that was there last night. But Abby is gone. All that's left behind is her red ribbon. Wistful, he picks it up.
+43) 0) text: The Postman exits. In uniform, his bag slung over his shoulder. He starts then stops short. Only now do we see most of the townspeople have silently assembled here. They've been waiting for him, starving for him. Ford steps up, hands him another fresh packet of letters. The Postman sees that Ford hangs on to four or five.
+43) 1) dialog: What about those?
+43) 3) text: The Postman scans the crowd.      Looking for Abby maybe?
+43) 4) dialog: (absently) Okay.   They're yours.
+43) 5) text: Briscoe rides up, regards The Postman sternly.
+43) 13) dialog: (smiles at Briscoe) I'll take it.
+43) 16) dialog: Thank you.
+43) 18) dialog: Go?... Oh yeah... I'll head west, then work my way back here in a sort of figure eight.
+43) 19) text: "8." Everyone's quiet a moment. They shift uncomfortably. The Postman looks out at the crowd. They crave hope. He should probably just keep his mouth shut.
+43) 20) dialog: Times seem hard right now. But you have to believe it's getting better. Birds are migrating again. The rains are back.
+43) 22) text: The Postman looks around. They sing their hearts out. The guilt is overwhelming. He digs his heels into the horse's flanks and rides out of town.
+44) 0) text: People line the top as The Postman and Briscoe ride out. The strains of "AMERICA" still in the background.
+44) 2) dialog: Is Abby around?
+44) 6) dialog: If I come back with some mail, you'll know! The Postman continues. Caught in an inner turmoil, Briscoe reaches into his pocket, and pulls out a letter. He turns it over in his hands, looks off at The Postman.
+45) 0) text: A green and lavender sunset. In the middle of nowhere, The Postman rides, chewing a piece of jerked beef. He flips through some of the letters entrusted to him.
+45) 4) dialog: Eugene.     Benning. Portland. (stops short) Boston! (resumes) Seattle. Boise... St. Rose, Paradise on the Pacific...
+45) 6) dialog: Maybe one thing can still be sacred. (to horse) All in all, not a bad gig, huh?
+45) 7) text: The HORSE SNORTS. Smiling, The Postman shoves the envelope into his bag. As he does, he finds something else. The red ribbon. He runs it through his fingers, thinks wistfully of Abby. Then, like a knight of old representing a lady's honor, he ties it to his mailbag an rides on.
+53) 0) text: Mail call. The Postman stands in front of the torn screen. Hoping for glory by association, the smiling Mayor stands beside him. The ragged people of Benning clamor in front. Kids smile up at him as he calls out names:
+53) 1) dialog: Rachel Clark! (as she's there)
+53) 5) dialog: That's it for now, folks. There'll be more once a real system is in place.
+53) 11) dialog: Survive? They got Broadway up and running again. There's a kid doing Andrew Lloyd Webber like you wouldn't believe.
+53) 14) dialog: (smiles) A buck seventy-five.
+53) 16) dialog: The catch is the only currency recognized are silver American coins minted before 1964 and two dollar bills. Look for Thomas Jefferson. Of course, food is always acceptable as barter.
+55) 0) text: The Mayor hurries over, The Postman following reluctantly behind. The Mayor spots the Sentries up on the parapet.
+59) 3) text: They're gonna kill us all. The Mayor peers out through an observation hole.   The Postman and several others join him.
+60) 0) text: They open enough to let the Postman ride out, then close behind him. He sits nervously on his horse waving a white flag. He's met, dismounts and is led to a command post where Bethlehem is studying a rough map of the town.
+60) 2) dialog: General, um, they've asked me to negotiate a peace treaty. The last time he and Bethlehem were face-to-face, the Postman had a shaved head, was dressed in rags, and was covered with cuts and bruises. Bethlehem can't place him, but there's something familiar all the same.
+60) 4) dialog: I don't think so, sir. I --
+60) 6) text: You're the Postman, aren't you?
+60) 10) dialog: I am a United States Postman. Authorized by order 417 of the restored Congress to --
+60) 15) dialog: The new capital is based in Minneapolis. Inside the Hubert Humphrey Metrodome. You know, where the Vikings used to play?
+60) 17) dialog: They'll open the gate and give you double what they usually give. Just don't hurt anybody. This was all a misunderstanding.
+64) 0) text: The cavalry ride through roiling smoke into the open town Horrified, The Postman steps forward, but rifles are on him. All he can do is watch. The Mayor is the first to go down.
+64) 4) text: In accordance with law eight and by the authority of Emergency Order 46, you are hereby -- A CRACK of RIFLE FIRE. The Captain's forehead explodes and he falls to the ground. Shocked, Bethlehem whirls for the source of the GUNFIRE. Abby!   FIRING from a position behind a supply wagon. But even as Bethlehem turns, an ARROW SINGS in and lodges in his arm. Fired from a pocket of sentries up on the palisade. Bethlehem bellows in outrage and pain. The Postman takes advantage of the moment of chaos to gra the fallen Captain's gun. He pulls a Holnist rider from his horse and swings into the saddle. The unhorsed rider goes for his gun. But once more SHOTS RING OUT and he goes down. Bethlehem ducks as another BULLET ZINGS close.    Too clo
+65) 2) text: The Postman's head lolls forward. She feels something on her hand, pulls it back smeared with blood. The Postman's shot in the belly. The horse is failing.       Near death. We hear the sound of PURSUING CAVALRY. Abby urges the horse off the road. When the thicket grows too dense, Abby jumps down. She catches The Postman as he slides off, easing him to the ground.
+65) 3) dialog: (disoriented) Abby...
+65) 12) text: Moving closer still, he doesn't see the BRANCH pulled bac in The Postman's hand until it SNAPS hard into his face. He stumbles back.
+65) 14) text: Abby dashes out, rifle in hand. She swings for the bleachers. The butt catches the side of the Sixth Soldier's head. He falls hard. The Postman's eyes flutter. Dazed, he watches as Abby pilfers through the Soldier's gear. She takes everything of value: a knife, bullets, a canteen. His eyes flutter closed.
+66) 0) text: Snowflakes swirl. Abby lays a sapling travois beside The Postman. He groans as she rolls him onto it, tucks a blanket around him. Using all the strength God gave her, Abby lifts one end, gets it high enough to hitch it to th Sixth Soldier's horse. As Abby leads the horse away...
+71) 0) text: A fire has been lit. The Postman lies unconscious, his shirt open as Abby washes around his wound. She pulls the shirt back to clean his chest. The material falls away and Abby stops short. There -- high on his biceps -- a branded "8." She stares in disbelief.
+72) 0) text: The Postman lies on a cot below the window.    He's conscious, but pale as a ghost. Abby brings him a bowl of soup. Very thin soup.       Sti it with a spoon, The Postman smiles at Abby.
+72) 1) dialog: Thank you.
+72) 2) text: She turns her back on him without a word.   The Postman tries an exchange just the same.
+72) 6) dialog: I don't think I ever had water soup before. Maybe next time we could try it with a little sand? (as she doesn't respond) Dirt? Wood? (as she doesn't smile) A twig garnish?
+72) 8) dialog: You used to think I was funny.
+72) 10) dialog: I'm sorry.
+72) 13) dialog: What's that supposed to mean?
+72) 15) dialog: What's with you?
+72) 18) dialog: A mark doesn't mean I'm a --
+72) 20) dialog: Then, why didn't you?
+72) 25) dialog: You were with Bethlehem. Does that make you one of them?
+72) 26) text: Abby considers this, The Postman's gaze flickers down to the spoon he still holds in his hand. Taking one last stab at a joke.
+72) 27) dialog: (re: the spoon) Don't make me use this.
+74) 0) text: WIND HOWLING in the b.g. The Postman lies back on his cot. The little shack has been scoured clean. Abby stares listlessly at the fire. The silence is torture. The Postman tries to strike up a conversation.
+74) 1) dialog: Wind's come up. (no response from Abby) Getting colder too. Must be another storm --
+74) 4) dialog: I didn't mean for you to --
+74) 6) dialog: I'm hurt.
+74) 11) dialog: Lazy?! I got a hole in my stomach. I'm weak. The two big meals around here are grass and snow. And we're running out of grass.
+74) 13) dialog: Where are you going?
+74) 15) dialog: You're not leaving me here, are you?
+75) 0) text: HOLD ON The Postman in the window as she continues past. He watches a moment, suddenly grimaces. A GUNSHOT. The THUD of a BODY SLAMMING to the GROUND. Abby has shot the horse.
+77) 5) text: She walks with the bowl past The Postman -- who sits on his cot with arms outstretched -- and pointedly sets the bowl on the table.
+77) 6) dialog: (mumbled) Give me a break...
+77) 9) dialog: Why are you in such a hurry to get out of here? I can think of worse places. And worse company to --
+78) 0) text: A few flakes of snow have begun to drift down. The Postman sits at the window -- starts to play tic-tac-toe in the frost. But then it dawns on him:
+78) 1) dialog: You can't play tic-tac-toe with yourself.
+80) 0) text: The fire is dying. The food untouched. The Postman sits in bed staring anxiously out the window. The snow has turned into a blizzard. He runs Abby's red ribbon through his hands.
+82) 0) text: The Postman hears her call.
+83) 0) text: The door opens and out steps The Postman. In pain, he staggers around the back of the cabin -- in search of her
+84) 0) text: Abby looks up, sees him coming. The Postman collapses across from her. Both prone, they're also nearly nose-to- nose.
+84) 1) dialog: I can't help you. Finally, he pulls himself to his knees. She does the same. They climb each other to a standing position. Arm- in-arm, they start for the cabin.
+85) 0) text: Abby sits huddled in blankets. The fire is blazing. The Postman steps over, sets the once-again-hot bowl of stew before her. She considers the food a moment.
+85) 2) dialog: That's why you should have it.
+85) 4) dialog: You're weird, you know that?
+86) 0) text: The Postman lies in bed, stares through the hole in the roof. A full moon is on the rise. Abby lies in her own makeshift bed, also awake. After a long silence:
+86) 1) dialog: We walked on the moon once, Abby.
+86) 3) dialog: Obviously you've forgotten Tang and microwave ovens. (a beat)
+86) 5) dialog: Not so bruised.
+86) 8) dialog: How do you know it's mine and not Bethlehem's?
+88) 0) text: The Postman kneels by the bank, sharpening a knife to clean the fish he's caught.
+88) 5) dialog: Abby.
+88) 6) text: The Postman whips around to see her standing there.
+88) 7) dialog: What is it?   What's wrong?    Is it the baby?
+89) 0) text: The fire is blazing. The hunting shack is too far gone to save. The Postman turns around.
+89) 1) dialog: What happened?
+89) 3) dialog: You got our stuff out.
+89) 8) dialog: Of course?   I don't understand.
+89) 10) dialog: Am I missing the point here?
+89) 12) text: The Postman has all but forgotten.
+89) 13) dialog: Yeah...
+89) 15) text: Before he can respond, she's heading off toward the pass, leaving The Postman to shake his head at the absurdity of it all. He shouts after her.
+89) 16) dialog: You're really weird, you know that?
+90) 0) text: Carrying their gear, Abby and The Postman walk across a meadow of wild flowers, headed for an old road.
+90) 1) dialog: Have you ever heard of St. Rose, Abby?
+90) 6) dialog: He's wrong. St. Rose is out there. And I'm going to find it.
+90) 8) dialog: Look, I'm nobody, Abby. I'm just...
+90) 9) text: Before he can come clean -- they see a distant RIDER coming hard. The Postman unslings the rifle, slides a round into the chamber.
+90) 10) dialog: This is what I hate. Strangers. Do you say 'hi' or do you blow their head off? Do they want to share what they got or take what you have? And if they want to take, how far are you willing to go to stop them? Damn it. (to the Rider) All right. That's far enough.
+90) 12) dialog: We don't want any trouble.
+90) 14) text: The Postman is taken aback. The Rider, a girl, pulls off her cap, mops it across her brow. Maybe 14, we'll always know her by her Ponytail. Abby registers the uniform first.
+90) 17) text: Lowering the rifle, The Postman looks over at Abby, back to Ponytail.
+90) 18) dialog: That's impossible.
+90) 25) dialog: Who told you all this?
+90) 27) dialog: Direct contact... I don't believe this.
+90) 29) dialog: You said Carrier Eighteen. That mean there's eighteen of you?
+91) 13) dialog: What's all this?
+91) 23) text: Abby and The Postman exchange a look.
+91) 25) text: The Postman raises his hand. Ford looks his way. His mouth drops as he realizes. In silence, he walks over to The Postman. They embrace and all the weight Ford's been carrying on his young shoulders suddenly falls to The Postman. The kid nearly collapses.
+91) 29) text: Word goes through the crowd like a wave. The Postman takes the letter, reads.
+91) 30) dialog: P.S.   Ford knows what to do.
+91) 33) text: The Postman takes Ford by the elbow. They disappear into the tent. The carriers just staring after them, awestruck.
+92) 0) text: The Postman and Ford.
+92) 1) dialog: President Starkey? Minneapolis? Ford knows what to do?
+92) 3) dialog: So? I'm not making the connection. What's all this then?
+92) 5) dialog: Why?
+92) 7) dialog: I don't know how long I can stay, Ford. President Starkey will send word one day and I'll have to move on. Understand?
+92) 9) text: The Postman can't answer, just turns and walks out of the tent.
+93) 0) text: As The Postman exits, Chubby leads the carriers in a salute. The Postman actually turns a moment to see if someone else is standing behind him. He looks back, sees the young, shining faces.
+93) 4) dialog: Aw, don't do that. Hands down.
+93) 5) text: Their hands go down in one crisp military move. The Postman looks at Abby, to Ford as he exits the tent. kid is craving reassurance.
+93) 7) dialog: Yeah, till he sends word, right.
+93) 10) text: The Postman looks over at the carriers.    They quiet und his gaze, immediately respectful. The problem is, he has no idea what to say.       Finally
+93) 11) dialog: Two plus two equals four.
+93) 12) text: The cheering is tumultuous. The Postman picks Abby out of the cheering crowd -- the look on her face says it all.
+94) 0) text: The guts of the operation. Several carriers are busy sorting and bagging letters. It goes out pinned to a clothesline which crisscrosses back and forth. Everyone follows as Ford takes The Postman on a tour. There are hushed whispers among those who are seeing him for the first time.
+94) 2) text: Ford leads The Postman and Abby into another Winnebago. Chubby and Red and Ponytail follow. Those that can't fit just peer in through the windows.
+95) 0) text: An old manual crank printing press is working away. Ford proudly removes a sheet, shows it to The Postman. A caricature of eight evil Holnists, forming a figure eight Beneath: "Unite Against Holnist Tyrraney!"
+95) 1) dialog: You spelled tyranny wrong.
+96) 2) dialog: How old are you?
+96) 4) dialog: Can you ride? OLD GEORGE
+96) 6) dialog: Why are you here?
+96) 11) dialog: (re: tattoo) When did you get that?
+97) 0) text: Carriers move items out of the trailer. The camp is buzzing as usual. The Postman looks on -- sees Abby passing by.
+97) 1) dialog: Abby --
+97) 4) dialog: Ford wants me to have his trailer. Said it's the best one.
+97) 6) dialog: I got plenty of room here.
+97) 7) text: She shakes her head, and then walks away. The Postman watches her disappear into the bustle of the camp.
+97) 8) dialog: So much for the uniform theory.
+100) 0) text: Ten letter carriers are on horseback. Among them, Red and Ponytail. Ford and The Postman are also on horses. Each rider salutes The Postman, then gets a sheaf of anti- Holnist propaganda from Ford.
+100) 1) dialog: I wish they'd stop saluting. It's annoying him. As Chubby rides up. The Postman catches his right wrist as he attempts to salute. So Chubby salutes with the left hand instead. As they line up:
+100) 2) dialog: Just stay safe and remember. The mailman's more important than the mail.
+100) 4) dialog: What the hell? Urging his horse forward, he rides after them. With them. And then, like an exploding firework, each postman shoots off in a separate direction. Headed for all points of the compass and some in between.
+101) 0) text: The Postman looks down on the gathered crowd from his horse and smiles.
+101) 1) dialog: For President Starkey and the First Congress of the Restored United States, I officially declare Postal Station 10... What's the name of this town?
+101) 3) dialog: (thinks; smiles)
+104) 0) text: The moon hangs low over an interstate. A rider is silhouetted by the silvery orb, looking like some post- apocalyptic Don Quixote. It's The Postman.
+106) 5) dialog: I'm back!   And I got mail.
+107) 0) text: The Postman rides with Briscoe, hurrying to stay alongsid him. Half the town jogs along behind them.
+107) 2) dialog: Thank God it wasn't a carton of cigarettes.
+108) 0) text: Pine View is throwing a party. It's in full swing. A couple of guitars. A banjo and a trombone. Everyone dances. The Postman walks with Briscoe, sees Mrs. March as her letter is read to her. Catches a glimpse of Abby dancing with Ford. He seems, for the first time, truly happy. For that matter, so does Briscoe.
+108) 2) text: The Postman smiles, reaches in his bag for an envelope.
+108) 3) dialog: Got a letter for you, Sheriff.
+108) 9) dialog: You thought wrong.
+108) 10) text: Briscoe has tears in his eyes.    The Postman continues o embarrassed but affected.
+109) 10) dialog: Tell me about the baby, Abby.   I want to know.
+110) 7) text: Getty hands Bethlehem a sheet of paper -- something Gibbs missed. It's a propaganda sheet featuring a caricature of The Postman leading a few carriers against Bethlehem and his army -- represented as Hitler and the Nazis. The caption underneath reads: "Ride Against the Holnist Tide!"
+111) 0) text: Old George sits hunched over a home-made shortwave radio with a joint in his mouth. The Postman sits beside him, listening as STATIC pours from an old car SPEAKER.
+111) 1) dialog: Who do you talk to?
+111) 3) text: The Postman steps to a telescope pointing up through a hole in the trailer ceiling.
+111) 5) dialog: No. No thanks. Hey, don't let the kids see that.
+111) 6) text: George nods and goes on playing with the dials -- searching for a voice in the void. The Postman focuses on the moon.
+111) 9) dialog: What is it?
+111) 14) dialog: That makes five. All on Southern routes.
+114) 0) text: PAN UP FROM The Postman's dusty boots TO his grimly determined face as he strides through camp and stops at Old George's trailer. He moves OUT OF FRAME, revealing -- Abby and Ponytail in the b.g.
+115) 0) text: As usual, Old George is hunkered down before his short wave. He looks as the door opens and The Postman enters.
+115) 1) dialog: Tell me about the other stuff you know...
+116) 0) text: Quiet. An old flag ruffles outside the post office -- the only new structure in town. Old George sweeps the porch as a patrol of ten Holnist soldiers ride into town. George makes no move to flee as they near. As they rein up across from him he just smiles and continues sweeping. Sensing it, the Holnist officer looks up. There, on the roof, stands The Postman. Ford and Briscoe flank him -- along with twenty mailmen and locals, armed with guns, bows and rocks. As the soldiers raise their rifles, the roofies OPEN FIRE George whips up a sawed-off SHOTGUN. BOOM! Caught in the storm, the ten soldiers go down. Grim, The Postman looks to Ford as the locals cheer. George resumes sweeping. The mailmen climb down to strip the weapons off the dead.
+116) 1) dialog: Ford, I want you to get rid of the bodies. I don't want these people blamed for what we did.
+121) 0) text: In the fog, the sound of hollow HOOF BEATS. The Postman rides past the shapes of airplanes. Standing silent. Forever grounded. The ghosts of the past.
+122) 3) dialog: riding his weary mount into town, saddlebags bulging with mail. He pauses by the new recruits long enough to hear the words they're saying. As he dismounts, a fresh-faced carrier takes the bridle. The Postman's well past the point of fatigue. He's living on pure adrenaline.
+122) 4) dialog: Get this mail sorted. Bring me a fresh horse. Something to eat. As fresh-face starts away, The Postman calls after him.
+122) 5) dialog: And all the mail going South! The Postman watches as Ford shakes the hands of the new recruits. The Postman reaches for his canteen. Empty. Damn. A tin cup filled with water appears from nowhere. Abby. The Postman takes it, too tired to acknowledge the gesture.
+122) 6) dialog: They changed the oath.
+122) 11) dialog: Figures. (scoffs) They don't think to ask who they're replacing. Or why.
+122) 14) text: A farmboy-type, Luke looks like a younger version of Woody. The Postman sees this, is lost in reverie. Luke still holds his hand out.
+122) 16) dialog: You look like... Do I know you?
+122) 18) dialog: Well, good luck to you.
+122) 20) dialog: Nice kid.   Probably be dead in a week.
+122) 22) text: Ponytail rides by; two sacks of mail hang from her saddle pommel. The Postman grabs her horse's halter, stops her.
+122) 23) dialog: Where are you going?
+122) 28) dialog: You're grounded. Get off the horse. You know the rule.
+122) 30) dialog: Twenty-two's too far south.
+122) 32) dialog: Get off the goddamn horse.
+122) 34) dialog: (re: Ponytail's horse) Tie him off to this one.
+122) 37) dialog: Doing what?
+122) 39) text: The Postman climbs on Ponytail's horse, looks at Abby.
+122) 40) dialog: Did I ever tell you how I got to be a postman, Abby? (doesn't give her time to answer) I don't know if you'd laugh or cry.
+122) 41) text: The Postman digs in his heels. The horse gallops away, the second one following behind.
+124) 0) text: Abby tends to the Bloodied Carrier.   He tries to salute The Postman enters the trailer.
+124) 5) text: The Postman motions it's okay as the Carrier struggles.
+124) 7) text: The Postman is puzzled.    But Ford knows what and why.
+125) 0) text: The Postman poised on a rise that affords a view of the gruesome spectacle below.
+126) 0) text: The Postman wheels his horse around. But Ford, Ponytail, Chubby and Luke are standing in his way.
+126) 2) dialog: I'm going to stop this.
+126) 7) dialog: Get out of my way, Ford. All of you.
+126) 9) text: The Postman starts to ride through them.      Luke, Chubb Ponytail move their horses to block. Ford maneuvers his horse in close and grabs The Postman's harness.
+126) 10) dialog: Goddamnit --
+126) 11) text: The Postman jumps off his horse. Ford tackles him. The Postman shoves him away, continues on. Luke and Chubby pounce on him. With Ford's help, they hold him down.
+126) 13) dialog: There's still time, Ford!
+126) 14) text: The Postman struggles.      They're genuinely having trou holding him down.
+126) 20) dialog: Why?
+126) 25) dialog: God damn you, Ford. Those people down there are dying because of us. Because of what we did.
+128) 1) dialog: My God, what have I done? (beat) We don't even know their names...
+132) 0) text: The WORDS ECHO.       Nothing The Postman can do, but wat
+134) 0) text: Something in The Postman breaks. He just lies there. witnesses move back, taking The Postman with them.
+136) 0) text: The Postman folds a letter, shoves it into an envelope. He writes "Bethlehem" across the front, starts to write a second letter. The door opens and Abby enters.
+136) 2) dialog: I am. The Postman watches as, outside, the mail carriers begin to assemble.
+136) 3) dialog: If I don't, those kids are going to keep on getting themselves killed.
+136) 5) dialog: What? Being a postman? It's all bullshit, Abby. All of it. (beat)
+136) 11) dialog: Weird thing is, being a Postman was almost the best thing that ever happened to me... (re: red ribbon) Remember this? You left it behind that night.
+136) 13) dialog: I always liked to think you left it on purpose. But maybe you just forgot it.
+137) 0) text: Twelve mail carriers, including Ford, Ponytail, Chubby, Luke and Old George, wait as The Postman steps up before them. Abby's off to the side.
+137) 1) dialog: Is this everybody?
+137) 3) dialog: This is everybody. (for all) Got a letter from President Starkey.
+137) 4) text: An excited murmur among the carriers. Only Ford eyes The Postman suspiciously. The Postman reads:
+137) 5) dialog: 'Greetings all carriers.'
+137) 7) dialog: (reading) 'I've been in contact with The Postman. I've received all the reports. I'm proud of you all.'
+137) 12) dialog: In dark days, in a weary world, you gave everything and asked for nothing. You beat back despair and replaced it with hope and for that your country can never repay you. But the price is too high. I won't see anymore of my bravest die. It is my duty to hereby disband the Postal Service of the restored United States. You are to burn your uniforms and The Postman is to return to Minneapolis at once. Thank you and that is all.
+137) 13) text: A hushed silence. The Postman walks away. The carriers exchange tired, defeated looks. Abby just sighs, knows he's not necessarily wrong. Ford catches up with The Postman.    He stares at The Postman; The Postman stares back.
+137) 15) dialog: If he could've that's what he would have said.
+137) 18) dialog: Bethlehem. I'm taking it to him in the morning.
+137) 20) dialog: Mail's private. You know that.
+137) 22) dialog: (stops; turns) It says it's over. It says we quit.
+137) 27) dialog: Tell me something, Ford. How much mail can a dead postman deliver? It's over.
+137) 28) text: The Postman starts to walk away again.
+137) 30) dialog: I can't trust you.
+137) 31) text: Ford gathers courage and confronts The Postman.
+137) 33) dialog: Whoever takes this letter probably dies for it.
+137) 36) text: The Postman hesitates, studies the intense young man. Gives him the letter.
+138) 0) text: The Postman is packing bags onto a horse as Abby approaches.
+138) 1) dialog: I'm going to St. Rose, Abby. And I'm taking you with me. I know you don't want to hear it, but that's my child inside you. I want to see it born somewhere safe. I have a right to that, Abby. Whether you like it or not.
+138) 2) text: Abby walks away. The Postman rests his head on his pack for a moment. Heavy.
+138) 6) dialog: Thought I recognized you.
+138) 8) dialog: I don't give a damn what that asshole said.
+138) 10) dialog: The general is a fucking lunatic.
+138) 11) text: The Postman steps forward. Stops when the barrel of the pistol is right against his own chest.
+138) 12) dialog: You don't own a thought in that goddamn head of yours, do you? (a beat) You want to see a man?
+138) 13) text: The Postman turns to watch as Ford starts out of camp.
+138) 14) dialog: That's a man.
+138) 15) text: The Postman turns, sees Luke's face fraught with confusio and emotion.
+138) 16) dialog: You don't understand, do you? You never will until you can think for yourself and be willing to pay the price for it.
+138) 17) text: Luke stares back into The Postman's eyes.      A frozen b
+138) 18) dialog: You ready?
+138) 23) dialog: You're a better man than Bethlehem, Luke. I've seen it.
+139) 0) text: Some carriers drop their uniforms into a bonfire. The Postman and Abby ride up on the ridge above the RV camp. They pause to look back one last time. Across the way, on the other side, Ford is doing the same thing. As though he senses it, Ford stops and looks back. Ford raises his hand, salutes. Slowly, The Postman brings up his own hand. But he doesn't salute. He waves. Good- bye. As Ford turns away, so does The Postman.
+140) 0) text: A sign prohibits pedestrians, horses and bicycles. The Postman and Abby ride by. The Postman no longer wears his uniform. Their gear is packed behind their saddles. As a family of transients begin to rise from where they'r camped in the breakdown lane:
+140) 1) dialog: We can't help you. We're just as lost as you are.
+140) 2) text: The Postman rides on. Abby watches over her shoulder as they slowly begin to sit back down.
+142) 0) text: A pair of boots are walking through the water. It's The Postman. He turns over a body in the water. It wears a homemade postal uniform, a bag of mail twisted around his arm. It's a young face, one we haven't seen before. He looks up to Abby on a ridge.
+142) 1) dialog: I don't know him. Do you?
+142) 3) text: Puzzled, The Postman shakes his head. He gently releases the body. The current takes it and they watch as it continues on its way to Postal Valhalla.
+144) 0) text: Littered with rubble. The wood, brick, steel and concrete of what was once a small town. Amazingly, one gray house still stands, miraculously untouched by whatever disaster visited this place. A wild-haired SQUATTER steps out on the porch as Abby and The Postman ride by. He waves hello with a .45.
+144) 2) dialog: (re: the town)
+144) 6) dialog: You ever hear of a city called St. Rose?
+147) 0) text: The useless towers cutting across a valley.      Rain bea down, as The Postman and Abby trudge along. Up ahead, a rail-road tunnel promises shelter from the storm.
+147) 1) dialog: (re: the tunnel) We can rest in there.
+147) 2) text: Abby is quick to agree. Out of the corner of his eye, The Postman catches a blur of movement. He turns his head quickly, but he's barely in time to see a wooden basket, attached to one of the high wires, swing from a distant tower. There's a sentry inside it. The basketed sentry whistles away at 40 mph, heading straight for an adjacent tower. In a matter of seconds, he's lost from view. The Postman looks back at Abby.       She's shivering.
+147) 3) dialog: Did you see that?
+147) 5) text: The Postman guides her toward the train tunnel.
+148) 0) text: Abby sleeps beside the fire. The Postman, silhouetted against the flames, heads toward the far tunnel exit.
+149) 0) text: The Postman peers into the rain, taking in the view of a distant bridge. Abby comes to stand at his side.
+150) 0) text: A town settled between spans of a steel truss bridge. The Columbia River rushes far below. A sentry spots Abby and The Postman approaching, blows a whistle.
+150) 2) dialog: This old thing? It isn't even loaded. Where are we? The BRIDGE CITY MAYOR, a middle-aged retro-hippie, steps up.
+150) 5) dialog: I know you.     You're famous.
+150) 8) dialog: We will be. Right now, we'd just appreciate some food. (as the Mayor nods his assent)
+150) 14) dialog: Three. (as the Mayor agrees once more) Hey, guys, come on in! I know you're out there!
+151) 0) text: Fog rolls in.    Abby rests. Ponytail, Chubby and Drew look up gratefully as one of th citizens of Bridge City doles out bread. The Mayor steps over, hands The Postman two loaves.
+151) 2) dialog: Thanks.    She's not my wife.
+151) 4) dialog: Let me ask you something, have you ever heard of a town with electric lights?
+151) 6) dialog: Yeah!
+151) 8) dialog: How far?
+151) 13) text: It's the discovery of a lifetime. The Postman looks to the west end of the bridge, where Abby stands alone.
+151) 14) dialog: You seem like a decent man. And these seem like decent people.
+151) 16) dialog: And this seems like a safe place.
+151) 18) text: The Postman looks back to the Mayor, then slowly nods.
+151) 19) dialog: All of them. I'll give you the horses and my gear. Abby's special. She's strong. Probably end up running the place.
+152) 11) text: A silent moment. It's been so long, no one's sure how to answer. The Postman looks down at the ground. The carriers exchange deflated looks. Then...
+152) 13) text: He shakes his head "no." Seems a shame. As The Postman looks over at Abby, she takes a page from his book.
+152) 15) text: She goes to The Postman's gear, returns with his postal cap. Sets it on the boy's head.
+152) 28) dialog: Yes.
+152) 30) dialog: Yeah, I guess I am. And all of a sudden, I'm not wearing the right clothes.
+153) 2) dialog: I'm sorry I've brought this on you.
+153) 5) text: The Postman looks over to see Ponytail, Drew and Chubby ride up. Like him, they are back in uniform.
+153) 6) dialog: The order was to burn all uniforms.
+153) 11) dialog: You know what to do then?
+153) 14) dialog: Yeah, tell them that, too.
+155) 3) dialog: Abby, do you think a lie can become the truth?
+155) 12) text: The Postman lets go of her hand and starts for the basket The Mayor gestures to the line of towers extending into the distance.
+155) 14) text: As The Postman steps into the basket, he makes the mistak of looking over the edge. It's a long, long way down.
+155) 16) text: The Postman looks at the contraption with more than a little trepidation. The Mayor grins.
+155) 18) text: He winks and as he reaches for the release pin.     The Postman's hand meets his there.
+155) 20) dialog: How do I stop --
+156) 0) text: The town's gone, but the palisade remains. Chubby rides along it, exhorting the people who watch from above. But it's The Postman we hear, all the magic back in his voice
+156) 1) dialog: Once more into the breach, dear friends, once more. Or close the wall with our dead. In peace nothing so becomes a man as modesty and humility. But when the blast of war blows in our ears, then imitate the action of the tiger.
+157) 1) dialog: Summon up the blood. Disguise fair nature with rage and lend the eye a terrible aspect.
+158) 8) text: We see the faces of the young carriers. Defeated, bitter. But there's a sudden spark in Old George's eyes. He starts to rise. The soldiers pick up their guns and that's when they see The Postman.
+158) 9) dialog: Riding over the crest. Galloping toward them. Behind him, forty new mail carriers. All riding like mad. One of them carries the flag of the restored United States. Gibbs and his men run for their horses. SHOTS are FIRED. Four Holnists go down. The rest gallop away. The Postman and his carriers meet.
+159) 0) text: Converging. The Postman with his forty-five coming from the west. Drew, Chubby, and a ragtag thirty coming from the north. And from the south, Ponytail leading a contingent of fifty! The forces converge and continue east.
+160) 0) text: The army has gathered.    Three hundred strong. Bethlehem and Getty stand outside the command tent, listening to a winded, frightened Gibbs. We FOLLOW Bethlehem's eyes OVER Gibbs' SHOULDERS TO the horizon, where he sees: The Postman and his army of two hundred carriers cresting a distant rise.
+160) 12) text: Bethlehem watches The Postman through the binoculars -- a hint of a smile on his face.
+163) 0) text: The Postman, Chubby, Ponytail and Old George and all the carriers have taken positions. The Postman sights through a telescope. He scans further down the line -- then stops when he sees Ford. Bloody, beaten within inches of his life. He's shackled -- surrounded by Holnist guards. The Postman's eyes turn to stone.
+163) 1) dialog: (to carriers)
+164) 0) text: Bethlehem, flanked by Getty and the Holnist Sergeant, watches as The Postman makes his approach. He reaches into his pocket, withdraws a white kerchief and holds it in the air.
+165) 0) text: Bethlehem and The Postman riding toward each other. They meet when The Postman is almost three-quarters of the way over to the Holnists' side.
+165) 3) dialog: We're both a couple of frauds. You know it; I know it. Bethlehem sneers.
+165) 5) dialog: You're no fucking   general. You're a copying machine   salesman. You're not even a   good painter.
+165) 7) dialog: Wouldn't it be great if wars could be fought just by the assholes who started them? We could settle this thing right here. You and me.
+165) 9) dialog: It does in your army. The Postman kicks his horse up into a gallop, and rides u the Holnist line. No one, least of all Bethlehem, is sure what's going on.
+165) 10) dialog: I invoke law seven of the Laws of Eight! Any man may challenge for leadership of the clan!
+165) 15) text: The Postman wheels his horse around.
+165) 16) dialog: I challenge you.
+165) 19) text: The Postman rolls up his sleeve. He rides the Holnist lines displaying his brand for all to see. The Holnists murmur amongst themselves.
+165) 20) dialog: I have every right. I invoke law seven!
+165) 22) dialog: I challenge for leadership of the clan!
+165) 23) text: The seed of doubt is planted. Is Bethlehem violating one of the Laws of Eight? The men look at one another. Gibbs looks to Getty. Bethlehem looks from The Postman's tattoo to his face.
+165) 25) dialog: 'Cry Havoc! And let slip the dogs of war.' Remember that?
+165) 27) dialog: I should've found a way to kill you then. But you seemed so strong.
+165) 33) text: The Postman can't answer.
+165) 35) text: The Postman grabs Bethlehem's knife-hand -- using all his remaining strength to keep him at bay.
+165) 36) dialog: (barely audible) I believe in the United States Postal Service.
+165) 40) dialog: Neither snow... (wham!) Nor rain... (wham!) Nor heat... (wham!) Nor gloom of night... (wham!) Will stay this courier from the swift completion of his appointed rounds...
+165) 41) text: Bethlehem reels, stumbling back. The Postman pounces on top of him, begins to strangle him. Bethlehem tries to pry the fingers from his throat, but can't. He's going to die. The Postman is urged on. By both sides. Holnists. Carriers. Ford. Even Holnist Luke. He looks up at the faces -- and finally lets Bethlehem go. The General gasps for breath. As Ponytail and Chubby move forward to untie Ford, The Postman looks to both sides.
+165) 42) dialog: It doesn't have to be this way. We don't have to kill each other. We can live together. We can --
+165) 45) dialog: Ford, don't...
+165) 52) dialog: He isn't worth it. I'm the head of the clan now! There are going to be new laws! (to all) Law one! No more killing! There's going to be peace!
+165) 53) text: The Postman looks at carriers and Holnists alike.
+165) 54) dialog: Who else?   Who else has a law?
+165) 56) dialog: That's law two. Who else?!
+165) 62) text: The Postman nods solemnly, looks to Ford.
+165) 63) dialog: How about it, Ford Lincoln Mercury? You give us law eight.
+165) 65) dialog: (close -- for Ford) Be a leader, Ford.
+165) 72) text: The Postman smiles in relief as Ford lowers the revolver and starts to hand the weapon over. Forgotten for an instant, Bethlehem makes a last, wild lunge, grabs Ford's gun. As Bethlehem aims at The Postman, a SHOT rings out. Hit in the chest, Bethlehem blinks in amazement before he falls to the ground, dying. Getty has shot him.
+165) 75) dialog: Grow like savages -- as soldiers will -- that nothing do but mediate on blood.
+165) 77) dialog: Somebody take a letter.
+165) 79) dialog: A letter...
+165) 83) text: Abby looks up to see The Postman standing at her door. She looks at him, smiling with tears in her eyes.
+165) 87) dialog: Mail's slow.   I'll have to see about that.
+165) 90) text: The Postman takes the tiny child in his arms.
+166) 0) text: A beach town. No wall, no sentries, just cottages lining a dozen sand-swept streets. A crowd has gathered to hear The Postman's daughter, HOPE, mid-thirties, speak. Beside her, a bearded, 52-year-old Ford in his postmaster's uniform. They stand before a large, tarp-draped statue.
+166) 2) text: She unveils the statue: we've seen this before. It's The Postman on his horse, low-slung in the saddle, leaning down to pluck the letter from the Little Boy's hand. There's an OLDER MAN in the audience who seems especially moved by the statue. There's a younger man beside him.

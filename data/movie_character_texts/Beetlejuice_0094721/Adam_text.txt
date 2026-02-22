@@ -1,0 +1,291 @@
+1) 3) dialog: Well, well, you're a big fella...!
+2) 1) text: To see the real Winter River, laid out exactly as the model, at the foot of the hill.  Adam breathes deeply and looks very pleased at the glorious town below him.
+2) 8) text: Adam turns to see entering:  BARBARA MAITLAND, 35 -- a wholesome beauty who is mellowing well.  She smiles at him.  Perhaps a certain tinge of sadness about her, because they don't have children.
+2) 9) dialog: (happy to see her) She's ready.
+2) 11) dialog: (nodding) Thanks.
+2) 14) text: Adam smiles and gives her a present he's hidden under the table.  He opens his present.  A can of furniture oil.
+2) 15) dialog: Manchurian Tung oil? (playfully grabs Barbara and kisses her) Where did you get it?
+2) 17) text: Adam hands Barbara a carefully-wrapped bundle -- she unwraps her gift... rolls of very expensive floral wallpaper.  She cradles it in her arms like gold leaf.
+2) 19) text: Adam nods, and embraces her.
+2) 20) dialog: Enough to do the guest room...
+2) 22) dialog: (pulling her back) Whoa!... hold on...
+2) 23) text: Barbara calms down, returning to Adam's embrace... as: PHONE RINGS -- They freeze, then grin.
+2) 24) dialog: (unison) No one's home!
+2) 27) dialog: (pointing at her) It's your turn, darling.
+3) 0) text: CAMERA FOLLOWS Adam and Barbara downstairs.  We see the rambling, old fashioned quality to the house. Clean, sentimental, warm and floral.  Some rooms in progress.  They continue down the main staircase past photos of themselves, old photos of the early days of Winter River, pictures and mementos of three generations in hardware.  Barbara goes to the kitchen and Adam continues down to the basement.
+4) 12) dialog: is humming happily, looking for paint brushes in the ground floor storeroom.  He spies a cassette deck and looks through a stack of cassettes and plays one.  It is an old INKSPOTS LOVE SONG.
+6) 0) text: Adam puts away the tape but keeps humming the song.  He opens the shutters on a small window.  ON WINDOW...
+6) 3) dialog: No, Jane.
+6) 4) text: Adam closes the shutters as Jane affixes yet another card to the window.  He continues his search for a brush.
+7) 0) text: Adam continues rummaging for a brush.  Can't find it.
+7) 1) dialog: (calling to distant Barbara) Honey, come with me down to the store?
+7) 3) dialog: I need a good brush for this Tung oil and I want to pick up a piece of the model.  Let's go early before anyone sees us.
+8) 0) text: The Victorian house from the model "in the flesh." Adam stands by the station wagon. On the bumper of the car is a sticker reading: WARNING:  I BRAKE FOR ANIMALS. Barbara gets in driver's side.  They drive off.
+9) 0) text: Adam dusts the inside of the dashboard.  Clean Clean.
+9) 2) dialog: Ah, the ever-tactful Jane.
+10) 1) dialog: We should be flattered that she wants to sell our house.
+10) 3) dialog: Let's not think about it.  We'll have a nice romantic, quiet, vacation.  Here comes the bridge chorus.
+10) 4) text: Car reaches the rickety covered bridge.  Car shakes, bobbing up and down on every plank. ON Barbara and Adam TIGHT -- (they've done this routine before).  They sing an old Johnny Mathis song.  With a lot of vibrato.
+11) 3) dialog: Don't forget the balls, Ernie.
+13) 0) text: Adam sprints up the steps of his lovely hardware store. OLD BILL, a slightly-addled ancient barber, is napping in a chair in front of his shop, next door to Adam's. Adam fumbles with the lock, not interested in conver- sation.  He drops his keys, waking Old Bill.
+13) 2) dialog: No thanks, Bill.
+13) 4) dialog: Good, Bill -- Good.
+13) 5) text: Bill turns around and continues prattling even though Adam has entered.  Bill prattles throughout.
+14) 0) text: Adam pulls down a few good paintbrushes and carefully picks up a small model of the Bozman building.  He walks out.  Old Bill continues unabated.
+14) 2) text: Adam strides by quickly to the car.
+14) 3) dialog: See you, Bill.
+17) 0) text: Five brushes sit on the seat next to Adam.  He cradles small replica of the Bozman building, complete with brass lion.
+17) 2) dialog: Yeah it turned out okay.  We applied for a historical plaque for it.  That'll be the third one on Main Street.
+17) 4) dialog: (grinning) Slow down there, honey... I don't want the vibration to weaken the model.
+18) 0) text: A piling has smashed through the window on the pas- senger side, crushing the upper part of Barbara's arm.  She is wailing in pain and fright. Adam tries to help Barbara.  He tries to get out of the car.  None of this succeeds.
+21) 0) text: Quiet, still, expectant.  There is a fire laid in the hearth.  Suddenly and for no apparent reason it ignites and burns with a furious cheerfulness. Barbara and Adam enter, dazed, wet, and bedraggled.
+21) 2) text: Adam leads her toward the fire.
+21) 3) dialog: You'll feel better when you're dry.
+21) 6) dialog: How's your arm?
+22) 0) text: They are sitting on the couch together.  Barbara is looking away slightly -- as one does when a doctor is drawing blood -- while Adam looks at her fingers.  He frowns. He looks at his skin.  It is pale.  He looks at Barbara.
+22) 1) dialog: You'd better sit down, hon.
+22) 3) dialog: I'll tell you what, Barbara.  I don't think we survived that crash.
+22) 5) text: Adam gets up, a little absently, she follows him as he wanders to the front door.  He peers out.
+22) 6) dialog: Let's take things extra slow.  Do you remember how we got back up here?
+22) 9) text: Adam, exploring, opens the door, steps out on the front porch.
+23) 0) text: Adam's face is painted with color of sunset.  He stands atop the steps leading down to the front yard.  Barbara stands just inside the open threshold, looking out worriedly.
+23) 2) text: Adam starts to step down to the yard.
+23) 3) dialog: Honey, I'm gonna go down to the bridge and retrace our steps.
+24) 0) text: Adam is nowhere.  There's no ground, no sky, nothing to stand on or hold onto or give boundaries or distance. Just vast nothing.  Not white and not colored either. NOISE OF A CLOCK TICKING. Adam looks about surprised, doesn't like what he doesn't see.  He turns around to head back up the steps.  There are no steps.
+24) 1) dialog: Barbara?
+24) 3) dialog: (continuing; quietly) Where are you?
+25) 1) dialog: (weakly) You saved my -- uh -- life... or whatever...
+25) 3) dialog: What?
+25) 5) dialog: (pondering that) ... Hmmm?
+26) 0) text: Barbara leads Adam into the house.
+26) 1) dialog: Anything happen while I was away?
+26) 6) dialog: (reading) Handbook for the recently diseased.
+26) 8) dialog: (he does and reads) Handbook for the Recently Deceased Press.
+27) 0) text: Adam is already in bed, reading from the handbook. Barbara is getting ready for bed -- going through a ritual of sorts that they practiced every night of their married lives.
+27) 2) dialog: This book isn't arranged that way.  What do you want to know?
+27) 4) dialog: I don't see anything about "Rewards and Punishments" or "Heaven and Hell." (frustrated) This book reads like stereo instructions!  Listen to this... 'Geographical and Temporal Perimeters... Functional perimeters vary from manifestation to manifestation."  This is going to take some time.
+27) 7) text: They look at each other, the question hangs in the air. Can't they? Adam stands and walks to the window.
+27) 8) dialog: (thoughtfully) Maybe we should set up a normal routine.
+27) 10) dialog: (continuing) I mean, let's try to nail down something in our lives.  A regular schedule.  We can keep track of time and go on with our projects up here in the attic.
+27) 13) text: ON ADAM - TIGHT - a somber look comes across his face.
+27) 14) dialog: I'm afraid not, honey.
+28) 0) text: Adam is setting up a small monument in the model town cemetery.  It reads:  ADAM AND BARBARA MAITLAND/UNITED IN LIFE/UNDIVIDED IN DEATH.
+28) 1) dialog: I wish I had a better view of the cemetery from up here.  I don't know which area is the best placement for us.
+28) 3) dialog: (continuing) Cabin fever, han?
+28) 5) dialog: Maybe this is heaven.
+28) 7) dialog: Hon... I didn't want to die, but really, this is fine with me. Look, we never have to wash dishes again.
+28) 9) dialog: But I'm not hungry, are you?
+28) 12) text: CAR DOOR SLAMS outside.  Adam and Barbara look at one another.  Run to window.
+30) 0) text: Adam, from his angle, can just barely see her.
+30) 1) dialog: God, it's Jane.
+30) 3) dialog: I don't know. (shouting) Jane, Jane, up here!
+32) 0) text: Barbara watches Adam, and shakes her head.  He stops.
+32) 2) text: Adam nods.
+32) 4) dialog: Won't?  Or can't?
+32) 6) dialog: Arrogant.  That's Jane all right...
+32) 9) text: Adam smiles and goes to his model.
+34) 0) text: The Maitlands are asleep.  CAMERA EXPLORES the room a bit.  It is getting slightly tatty.  Adam rolls over, pulling the covers off Barbara.  We see: ON BARBARA -- she is hovering off the side of the bed. An OMINOUS RUMBLE -- like a 4.0 earthquake shakes the house.  GLASS RATTLES, the ceramic horses on the mantelpiece jump around.  Barbara falls to the floor. They look at one another with horror.  They leap up and run downstairs.
+35) 0) text: The RUMBLE BUILDS TO A CLIMAX, there is a LOUD METALLIC SQUEAL, and then a CRASH... just as Barbara and Adam arrive.
+35) 5) text: Delia is relentlessly New York, relentlessly fashion- able, relentlessly thin -- totally self assured. She is also a woman with a mission -- to gut Barbara and Adam's house and remake it in her own very upscale image. Delia's gaze is on the living room, but she looks  through Adam and Barbara as if they weren't even there (which to her eyes they're not). Still holding the baluster, Delia gets up off the couch and moves into the living room, surveying it with an odd mixture of ambition, and resolution.
+36) 0) text: At one end, near the stairs leading up to the attic, Barbara and Adam are slumped against opposite walls.
+36) 2) dialog: They make Jane look good.
+36) 4) dialog: (determined) We're not completely helpless. I've been reading the book. There's a word for people in our predicament, honey.
+36) 9) text: Otho looks down the hallway.  It's empty.  Adam and Barbara are no longer there.
+37) 4) text: Otho spray-paints the word VIRIDIAN on the wall -- plus the word BLUE GREEN -- and Cr2 03, right over a picture of Adam and Barbara as kids.
+38) 3) text: There is one slight difference, however, because on the rag rug in the middle of the floor lies Adam's headless corpse.  Standing over him, holding in one hand a long knife and in the other Adam's blood-and-gore dripping head is Barbara -- with a maniacal look on her face. Behind them, Charles is thumbing through Adam's Audubon collection.  He sits up like a cornered animal protect- ing his territory.
+39) 0) text: Adam's head has a look of terror on it.
+39) 2) text: Adam's headless body jumps up off the floor and rushes out of the room.
+44) 0) text: Barbara still holding Adam's head. Charles still calmly leafing through the Audubons.
+44) 3) text: Barbara distractedly puts Adam's head on a bookshelf. His headless body fumbles with the books and finally reattaches the head.
+45) 0) text: Adam turns away from the window. Barbara, fuming, moves around Charles making wild gestures.
+45) 2) dialog: Oh, honey...
+46) 0) text: Barbara storms in, as if straight from the room up- stairs.  She heads straight for the back door.  Just as she opens the door, Adam rushes up.
+46) 1) dialog: Barbara, honey!  Don't go out there.  You don't know --
+46) 4) dialog: Barbara!
+47) 2) dialog: Barbara!
+47) 4) text: Adam is trudging towards her.  Behind him, hovering isolated in the air, is the kitchen door.
+47) 13) dialog: grabs Barbara and tries to escape, but they slip and sink in the sand. They make it to the door just in time, swing it open and hurl themselves through.  The door shuts with a BANG just in front of the ROARING SANDWORM.
+48) 0) text: Barbara, weeping, throws herself in Adam's arms.
+48) 2) dialog: You left me.
+48) 8) dialog: You can't say that for sure.  It could be a transitional thing. Like a post-life crisis.  We just have to be tougher with them. Come on.  Have some brandy. Spirits?
+49) 0) text: Adam has his arms around Barbara's shoulder.  They walk in the door and stumble upon the Deetzes at their dinner.  Lydia's back is to them.  Barbara and Adam back out of the room but stop to listen.
+51) 0) text: Adam and Barbara are lying down on the floor, peering out of one of the small windows overlooking the front yard of the house.  The handbook open in front of them.
+53) 0) text: Adam and Barbara just look at one another as if to say "We're next!"  Adam leafs through the handbook furi- ously.
+53) 2) dialog: Not really...  what's this?
+53) 3) text: Adam pulls from the book an ancient, yellowed, crumbling handbill.  He carefully opens it. ON handbill -- very primitive, crude, red printing.
+53) 4) dialog: (reading) Having difficulty adjusting? Is death a problem and not a solution?  Unhappy with eternity? Troubled by the living?  Call Betelgeuse, the bio-exorcist. That's Betelgeuse,  Betel...
+53) 7) dialog: Nothing.  The bio-exorcist?  I don't get it...
+54) 4) text: When her gaze reaches to top of the house, she suddenly glimpses Barbara and Adam's faces in the window.
+56) 2) dialog: She couldn't have.  We can't make them see us.
+56) 4) dialog: (pause, thinking that over) That's all we need.
+59) 0) text: Adam works on his model.  He hears the SQUEAK, looks up confidently.
+59) 1) dialog: (whispering) Don't worry.  I've locked it.
+61) 0) text: Barbara and Adam, surprised by the key, look at each other, carefully, very quietly, stand up and tiptoe toward door.
+61) 5) text: CAMERA TILTS DOWN a flashing tombstone with "BETELGEUSE" written on it.  Adam rushes over to shut it off.  He can't find a plug.  He looks around behind set... no workings inside at all.  He peers around to the screen.  It is blank.  Suddenly -- Betelgeuse POPS ON AGAIN.
+61) 7) text: He POPS OFF.  Adam and Barbara stare at each other.
+63) 0) text: Adam is holding on tight to the knob of the door.  With her knitting needle, Barbara has poked the key out. The two stand absolutely still, listening, terrified of the living intruders.
+65) 0) text: Barbara and Adam tighten.
+66) 0) text: Barbara and Adam have moved away from the door.
+66) 1) dialog: (looking through the handbook) We need some help.  I found something this morning.  Here. Emergencies. (reads) "In case of emergency, draw door."
+66) 3) text: Adam takes a piece of chalk and draws a little door on the exposed brick of the chimney.
+66) 5) text: Adam draws a doorknob.  Then he tries to turn it.  The door, perhaps to his surprise, fails to open.
+66) 7) dialog: Wait.
+66) 8) text: He looks at book, then writes on the door:  KNOCK AND ENTER.  He exchanges a glance with Barbara.  She's even more skeptical than before.  Turns away in disgust. Adam knocks on the door, and turns the knob.  Nothing. She is more disgusted.  Adam goes back to the book.
+66) 9) dialog: (continuing) Aha!  Knock three times.
+66) 10) text: He knocks three times.  Turns knob.  The chalked door swings magnificently open. Behind is an eerie light source, SOARING MUSIC, maybe even a heavenly choir singing pear-shaped syllables. Barbara and Adam look at one another again.  They hold hands and step tentatively through. Their figures are lost in the blinding light. They start to shut door after them.
+67) 0) text: Charles, fiercely intent on relaxing, paces like a catfish out of water.  Ralph Lauren in K-mart.  He stretches.  He sits uneasily in an easy chair, tries like hell to get comfortable.  Finally, he puts a book under his bottom to get sitting straight.  Looks around tapping his fingers.  What to do?  Looks at watch. He takes down a book from Adam's library, it is an Audubon book of birds.  He whips through it like it's the comics and then looks around for more. He finds the "Illustrated Walden" by Thoreau.  He speed reads it. He is now really bored.  Goes to the fireplace, tries to light it.  Cannot do it.  Goes to desk and writes:
+67) 25) dialog: ... Not what I expected when we walked through that door.
+67) 27) text: CAMERA DRAWS BACK and we find that Adam and Barbara are in:
+68) 3) dialog: W... We didn't know how to make one.
+68) 8) dialog: Nine months?  What difference does that make?
+68) 10) dialog: Help vouchers?
+68) 17) dialog: Wait for who?
+68) 19) text: The waiting room is now filled with people.  Dead people, some in fairly awful states.  A cornucopia of carnal shreddage. Adam and Barbara look around for a moment, then very quietly, they reach out to grasp hands.
+71) 0) text: Barbara and Adam are still holding hands, as if they hadn't moved.  Like waiting for an IRS audit.
+71) 6) text: Barbara and Adam look at them.  Corpses resume doing what they were doing.  A GRINDING NOISE O.S. -- The Receptionist looks up. Barbara and Adam also look O.S.
+71) 7) text: A Message delivery wire GRINDS along loudly on a pulley.  The actual message is held in the hand of the MESSENGER, a flattened corpse, suspended as if on a shirt clothesline, tire marks on his face and clothing. A major roadkill.  Dust and gravel ground into him.  He smiles wanly at Barbara and Adam as the Receptionist takes a message on a piece of paper and reads it.
+71) 9) text: Barbara and Adam upset at the loss of their handbook...
+73) 2) text: Adam and Barbara walk through a door.
+74) 0) text: A vast room of desks arranged in a grid, straight out of "How To Succeed In Business"... Each desk is occupied, too, but most of the secretaries are merely skeletons, or mouldering corpses slumped over their typewriters. Only one secretary, somewhere in the vast grid, is typing slowly, with long pauses between words. The Messenger on his return trip, parallels Barbara and Adam as they walk along.  Barbara can't look at him.
+74) 2) dialog: (trying to be pleasant) Fine, you look fine.
+74) 4) text: He laughs at his own joke as he goes back through the very, very narrow slot in the wall where the line runs.  Adam and Barbara look to the right and left. A vast stack of files slips off a desk and spills out onto the floor.
+75) 0) text: Barbara and Adam enter corridor. Empty, like a hotel corridor, but all the doors are of different types -- a revolving door, a dutch door, church doors.  They walk past a waist-high window, covered by a roll-up shade.
+75) 2) text: She bumps into the shade and it rolls up FLAPPING.  She stares in through the window.  Adam peers in it too.
+75) 10) text: The man scuttles off.  Adam and Barbara walk on sadly, until they come to a door that looks exactly like the swinging door between the kitchen and dining room of their house.
+75) 11) dialog: This is it... the sixth door.
+76) 0) text: Everything is dark, quiet -- but the furniture is obviously not theirs, and neither is the decoration. Adam and Barbara exchange glances, and push on through into the living room.
+77) 1) dialog: My God, we're back home.
+77) 3) dialog: How long do you suppose we were waiting?
+77) 10) dialog: Are you available?
+77) 14) dialog: We'd like some help in getting rid of the people who moved in here. Barbara and I worked very hard on this house.
+77) 18) dialog: But these people --
+78) 0) text: The following conversation takes place as Barbara and Adam follow Juno as she looks around the house and ends up in their attic space.
+78) 2) dialog: We tried.
+78) 7) dialog: We have to start simpler, is that it?
+78) 14) text: Adam and Barbara look at each other.  Puzzled.
+78) 15) dialog: Well... We might...
+79) 5) text: Adam and Barbara look at each other.  Juno continues.
+79) 7) text: Adam and Barbara attempt to interrupt --
+79) 10) dialog: And if we need you again, how do we...?
+79) 13) dialog: (holds her shoul- ders, calms her) Look, she's right.  We'll just start simple, honey, be tougher. I feel... confident.  C'mon.
+83) 0) text: Adam helps Barbara on with her sheet.
+83) 2) dialog: Think of them as death shrouds. And the moaning is important. Really moan! (imitating Juno) Practice, practice, practice.
+84) 0) text: Television still going, Delia asleep with curlers. Adam and Barbara glide inside, go over and stand beside the bed.
+84) 1) dialog: Deep breath... and...
+86) 0) text: Adam and Barbara moan and groan.  Delia doesn't stir.
+86) 2) dialog: It's not stupid.  We're ghosts. Do you want this woman for breakfast for 125 years?  Moan louder!
+86) 3) text: Barbara moans louder and more weirdly. Delia stirs, sits up, but doesn't open her eyes. Adam and Barbara are excited then... disappointed as Delia fumbles on the bedside table for the remote con- trol device, and without opening her eyes, turns off the television set.  Then she turns over, and is lost to the world totally. Barbara sighs.  She and Adam walk toward the door. When they open it however, Lydia is standing there in her pajamas -- she snaps a FLASH Polaroid -- and Adam and Barbara jump backwards with yelps of fright.
+86) 7) text: She screams.  Adam and Barbara scream.  Lydia rushes back toward them, starts flashing pictures. Adam and Barbara run around and are pushed into a corner.  Polaroids fly everywhere. Lydia runs out of film.  She stares at them, panting with fear.  A standoff.
+86) 9) dialog: (fake terror voice) We're ghosts.
+86) 12) text: Adam and Barbara pull shut bedroom door, go out into the hall -- as if to keep from waking Delia with their conversation.
+87) 1) dialog: Aren't you scared?
+87) 3) dialog: What?
+87) 8) dialog: You can actually see us?  Without the sheets?
+87) 12) dialog: Nobody else can.
+87) 16) dialog: You read our book?  Could you follow it?
+87) 19) dialog: We were trying to scare your mother.
+87) 23) text: Adam and Barbara look at each other.
+88) 0) text: Adam's rigged up the moon, and stars, too.  Adam and Barbara and Lydia stand just beyond the fringes of the town, dimly lighted giants.
+88) 2) dialog: (pleased) I certainly did.  I'd finish it too, but... I don't get out much.
+88) 4) dialog: We want to frighten you away. (a little embarrassed) So that you'll move out.
+88) 9) dialog: We weren't there.  The handbook says funerals aren't for the dead.
+88) 11) dialog: Well, I don't know... We don't get many visitors.
+88) 17) dialog: Unless you think it would scare them off.
+88) 19) dialog: (continuing) You tell them that we are desperate horrible ghoulish creatures who will stop at nothing to get back our house.
+93) 14) text: Lydia exits, with determination.  Charles looks up on the wall and runs his finger over a plat map of Winter River, just like Adam's in the attic.
+93) 16) text: Adam peers at the map, puzzled.
+93) 17) dialog: What is this guy doing?
+93) 18) text: Barbara follows Lydia out.  Adam thinks, intrigued. Exits.
+94) 4) text: Lydia exits angrily. CAMERA HINGES.  Barbara is watching, horrified at Delia's occupation of her (Barbara's) kitchen.  Adam appears.
+94) 6) dialog: She's got photos, Barbara.
+94) 8) dialog: This is different.  Eventually she'll take someone to the attic. And then what?  We've got to try to contact this guy Betelmyer.  We gotta get some help, hon.
+95) 0) text: Adam looks intently through the book. Barbara's eye is caught by something in the model cemetery.  She moves over and sees a small gravestone lit up by neon.
+95) 2) text: Adam comes over.  Looks.
+95) 3) dialog: I didn't do that one... Hmmm.
+95) 5) text: She looks at Adam, "should I?" Adam chews his lip thoughtfully.
+95) 6) dialog: Go ahead... third time's a charm.
+96) 0) text: WIND BLOWS --  With shovels and lanterns, Adam and Barbara are unlikely gravediggers.  The mechanized clouds move in the sky across the mechanical moon, throwing weird shadows everywhere.  Ground fog creeps slowly along the graves.  It is so eerie.
+96) 2) dialog: Three times.  Powerful number.
+96) 4) text: Adam cringes too.
+96) 6) text: Adam looks down at the grave.  Knocks on the stone. Nothing.
+96) 7) dialog: Has anything been simple so far? From the look of the shovel, we dig.
+97) 0) text: They're almost down six feet.  By now they are both almost out of sight in the grave.  Inside the grave -- Adam suddenly hits wood.
+97) 3) dialog: I guess we open it.
+97) 12) dialog: Aren't you dead?
+97) 14) dialog: You don't kill anyone.
+97) 21) dialog: ... acts like she's thirty-five.
+97) 26) dialog: But... the Deetzes are destroying our house.
+97) 28) dialog: Can you scare them off?
+97) 33) dialog: Go?  What d'ya mean?  We need help.
+98) 0) text: A small tree falls in the model.  Adam, across the room, walks over and straightens it. He looks at Barbara who is poring over the handbook. Making notes.  Counting out procedures.
+98) 1) dialog: Honey, I think that was a mistake.
+98) 3) dialog: How'd you do that?
+98) 5) dialog: I think we really pissed him off.
+98) 7) dialog: But we let him out.
+98) 9) dialog: turns to look down at the model again.  Straightens the tree.  Turns away.  We can see a tiny light moving through the tiny model forest towards the house.
+98) 10) dialog: Okay.  But that Betelgeuse sure seemed mad.
+102) 0) text: Adam and Barbara with huge smiles on their faces, dance the bugaloo then hug and kiss on the landing in front of the attic.  Door is open.
+102) 2) dialog: Let's watch 'em scatter.
+102) 5) dialog: Any minute now.  They'll all run screaming.
+102) 8) text: Adam smiles proudly.
+102) 9) dialog: And your shrimp was remarkable.
+102) 11) dialog: N... No, I just did the Ink Spots.
+102) 13) text: Timid KNOCK at the door of the attic. Barbara glances at Adam.  They don't know what to do.
+102) 15) text: Adam, puzzled, goes to the door and opens it.  Lydia is standing there, sheepish.
+106) 0) text: Barbara and Adam are hanging outside the window. CAMERA EASES BACK to see that instead of hanging from the house -- They are hanging from a ledge over The Inferno --
+106) 3) dialog: Juno, help!  Juno!
+106) 4) text: After nearly falling, Adam barely saves Barbara and they finally make it up, and disappear into the window.
+108) 0) text: Adam and Barbara are exhausted.  Agitated.
+108) 1) dialog: Great choice we've got here.  We get to spend the next century either hanging out that window or doing parlor tricks.
+108) 2) text: Adam is working with the model town.  Barbara is pac- ing.
+108) 3) dialog: Maybe they'll leave now.  That snake was a pretty nasty customer.
+108) 5) dialog: But he didn't.  We've got him where we want him.
+109) 0) text: Betelgeuse has run a beat-up old pickup into a fire hydrant.  He stands nearby, hopping mad; shakes his fist at Adam.
+109) 6) dialog: This is my town.
+111) 2) dialog: I didn't --
+111) 3) text: He doesn't finish -- a strong WIND blows through the attic, nearly knocking Barbara and Adam over.  They close their eyes against the gale. When they open their eyes again, they're no longer in the attic.  They're in --
+112) 2) text: She exits.  There are other special workers.  The place is really, really busy.  Adam and Barbara sit down to wait.  Juno storms through with a sheaf of papers.  She sees them.  She is steaming mad.
+112) 6) dialog: Handbook?  When...?
+112) 8) dialog: Well, we didn't know --
+119) 2) dialog: Out.
+119) 7) text: Adam stands to go.
+119) 11) text: Barbara looks at Adam.
+119) 12) dialog: I'll do the hard part, hon.
+119) 13) dialog: reluctantly pulls on his face, and contorts it into a living, breathing, horror.  Juno is even a little repulsed.
+119) 15) text: She reluctantly does with her face a minor version of Adam's horror.
+119) 17) text: Barbara and Adam slowly stand and walk out the door. Barbara/Monster looks back pleadingly.  Football players flood into Juno's office.  One PARTICULARLY DUMB PLAYER has a revelation.  (He's pretty grisly, maybe sat too close to the engine.)
+119) 19) text: Barbara and Adam look at each other and continue out the door.
+120) 4) text: Adam/Monster runs to grab her.  Lydia is terrified. Screams.
+121) 0) text: Lydia screams, Adam/Monster tries to calm her.  Lydia struggles and, thinking she is being attacked, runs out the door.  Smack into Barbara/Monster. Barbara catches her, frightens Lydia even more. Barbara holds onto her as she struggles.  Barbara/ Monster slowly changes back into regular Barbara. Lydia sees who it is and she hugs her.  Like mother and daughter. ON ADAM - slowly returning to himself.  He smiles slightly at the scene.
+121) 10) text: Barbara hugs her.  She fumbles for words.  This is an unusual situation, a dead person talking a live person out of killing herself.  She rocks Lydia a little. Barbara looks at Adam.
+121) 12) dialog: (in the style of the dead receptionist) ... we wouldn't have had our little accident.
+121) 17) text: Without noticing Lydia, Otho and Charles push in through the door and grab the model.  They take it out the door. Adam is beside himself.  Doesn't know what to do. Barbara stops him from taking action.
+121) 18) dialog: What is going on?
+121) 20) text: Adam looks suspiciously at her.
+125) 2) dialog: Little black party dresses?
+125) 4) dialog: (huffy) Let's see if she can get my model back.
+125) 6) text: Adam isn't convinced.  Barbara motions him to sit next to her.
+126) 2) text: Lydia stands to see:  Delia carefully lays out Barbara's white wedding dress.  Then next to it, Adam's wedding tux. Lydia looks at it.  A chill runs through her.
+128) 0) text: Barbara with her arm on his shoulder, talks to Adam.
+128) 2) dialog: (after a long thought) What makes you think she likes me?
+129) 7) text: Lydia screams for Adam.
+130) 0) text: In a lightning flare we see: Adam searching for Barbara.  He rushes out into the hallway.
+130) 1) dialog: Barbara!  Barbara?  Ba...
+132) 0) text: Someone, or something, like the figure of death in the Goya drawing, is perched atop the gravestone of Barbara and Adam Maitland.  The graves beneath him are open. The figure turns... it is Betelgeuse.  He is filing his talons casually. He speaks with a ghastly rasp.
+134) 36) text: Adam's eyes widen.
+134) 42) text: Betelgeuse shifts his glare to Charles and Delia. From Behind, Delia's horrid sculptures come to life and attack Charles and Delia.  The sculptures twist around them, forcing them to watch the hideous spectacle. Adam and Barbara are rapidly trying to recover as the ceremony begins.
+134) 53) text: Adam, now fully regenerated, moves toward them.  He shouts the incantation.
+134) 54) dialog: Beetle...
+134) 55) text: Betelgeuse turns to him and with a sweep of his hand, Adam's teeth (as if they were false), fly out of his mouth and CLATTER to the floor.  Adam, toothless, musters up his ghost powers and -- ON TEETH - TIGHT -- they rare back and continue shouting...
+134) 85) text: The truck is racing up to Betelgeuse's foot.  Adam bails out just in time as the truck hits Betelgeuse's foot and EXPLODES, giving him a distracting hot foot, then --
+134) 89) text: Barbara leaps off, as the Sand Worm continues down through the floorboards of the house Betelgeuse is gone.  Adam is back to full size. Charles and Delia are no longer held by the sculptures. Lydia runs back to her family and Adam and Barbara. The dust settles.
+143) 0) text: SOUND OF SWEEPING -- CAMERA eases up -- Barbara is sweeping.  Adam working on his model.
+143) 1) dialog: What time is it?
+143) 3) dialog: Give or take a year.
+143) 4) text: Barbara smiles. The KITCHEN DOOR SLAMS.  Barbara looks up at Adam. They smile.
+143) 5) dialog: Did you get the paint?
+143) 10) text: Adam frowns a little.
+143) 13) dialog: We studied all day yesterday. Don't tell me...
+143) 17) dialog: (shaking his head) Uh-uh.  Only if you got above a C on science.
+143) 20) dialog: All right.
+143) 22) dialog: (continuing) Okay.

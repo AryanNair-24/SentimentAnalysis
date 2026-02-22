@@ -1,0 +1,90 @@
+0) 89) dialog: Hello?
+0) 93) dialog: Hello Son! Thanks for the text last night.
+0) 99) dialog: As tempting as that sounds... this place would be a mess without me today. (beat)
+0) 102) dialog: Yes, and can you pick some... are you driving?
+0) 104) dialog: You wearing your earpiece? Oscar hesitates for a beat.
+0) 106) dialog: Don't lie to me. That's all you need is to get pulled over right now. Put your earpiece on, Oscar. Oscar sighs... this is nothing new.
+0) 111) dialog: It's on now?
+0) 113) dialog: Okay pick up a couple of packets of dried shrimp too. Come by on your way, I'll give you the money.
+0) 115) dialog: Alright I'll pay you back tonight.
+0) 117) dialog: Okay, so you're buying this, with Farmer Joe's money... right?
+0) 119) dialog: Because that's the only kind of money you have right now... right?
+0) 123) dialog: Okay, well let me run in here. I'll see you later tonight.
+0) 125) dialog: Love you too.
+0) 126) text: Wanda hangs up the phone. She looks at it for a beat. The puts it back in her purse and heads into the warehouse.
+5) 5) dialog: What happened to your face?
+5) 8) dialog: We played board games.
+5) 11) dialog: Of course.
+5) 16) dialog: Do you remember that microwave popcorn you bought a while back?
+5) 18) dialog: Yes, kettle corn. I popped some of that for us, and I was putting it into a bowl. Tatiana's looking up at me, like she wants something. Wanda starts to chuckle a bit again.
+5) 20) dialog: She looks up at me and says,"Grandma, do we have any dark butter?" Oscar looks at Wanda with a confused look.
+5) 22) dialog: Yeah, I'm thinking she saw "Food Network" or something. So I say, "what's dark butter sweetheart?" She says, "When Daddy took me to see WALL.E he asked for light butter, so I want to try some dark butter this time." Oscar looks at Wanda with a bright eyed expression.
+5) 30) dialog: Oscar!
+5) 38) dialog: Oscar, Calm down. Wanda's voice snaps the anger off of his face. He looks back to Wanda, and his anger subsides.
+5) 39) dialog: What happened to your face?
+5) 43) dialog: I'm not coming to see you anymore. Oscar stops in his tracks.
+5) 45) dialog: I'm not coming here, to these visits anymore. This is the last time.
+5) 49) dialog: You want to keep putting Sophina through this... go ahead. But Tatiana doesn't deserve this. She didn't have a choice. Oscar takes this in.
+5) 51) dialog: I guess that's why she asked me why you love taking your vacations more than being with her. Oscar cut his eyes from Wanda.
+5) 53) dialog: So I'm the liar now. Oscar takes a beat to think about this.
+5) 57) dialog: Tell her yourself. Next time you call. Tell your daughter how much you love her over the phone. Or better yet, just let her come visit you?
+5) 59) dialog: Like what?
+5) 61) dialog: But this is how you are right now.
+5) 63) dialog: You've already exposed her to it! Wanda leans back in her chair- she's done.
+5) 67) dialog: I love you Oscar, I'm praying for you, and I'll see you when you get home. Wanda scoots back in her chair, stands up, and heads towa the exit.
+5) 80) text: Let me just give her a hug right quick before she leave! We pull back with Wanda as she walks away, trying to hide pain. Another Corrections Officer sprints past her toward Oscar, who we can still see in the distance.
+5) 82) text: Get the fuck off me! (to Wanda)
+5) 83) text: Ma! Ma! Oscar looks on at Wanda as she leaves, growing small in t distance.
+8) 86) dialog: Hey baby. You guys are just in time. Oscar sits the crabs down on the counter next to the sink gives his mother a big bear hug. She smiles, hugs him bac just as tight. Oscar lets go and moves on to his grandmot Sophina and Tatiana come give Wanda hugs.
+8) 87) dialog: Oh my god, you guys got a cake too? Sophina blushes. Everyone laughs at this... even Ceephus. Wanda and Grandma Bonnie begin to take the groceries out the plastic bag. Wanda pulls out two massive crabs. Looks the bag and sees the third.
+8) 88) dialog: Osc. You know all I needed was two, you didn't have to spend so much money.
+9) 1) text: Wanda and Sophina clean the crab with brushes and differe utensils. Grandma Bonnie starts up a roux in a large skil Uncle Daryl makes a large pitcher of lemonade from concentrate. Sophina and Oscar pull out glasses, dishes, utensils for everyone. Tatiana watches Oscar closely.
+9) 14) dialog: Well, I'm happy the did win. If the country really is as messed up as you say, I think he's our best chance of fixing it.
+9) 19) dialog: You'd make a great politician. You can talk your way out of anything. Sophina and Oscar share a look.
+9) 26) dialog: I know, I still feel like it's just too good to be true.
+10) 0) text: Wanda stands over the sink washing the dishes. Oscar stan next to her, drying them.
+10) 1) dialog: Thanks for your help tonight.
+10) 4) dialog: I enjoy washing dishes. It's relaxing.
+10) 7) dialog: I really enjoyed having you here. (beat)
+10) 10) dialog: You guys got plans for tonight?
+10) 12) dialog: You guys gonna go OUT OUT?
+10) 14) dialog: Roll around?
+10) 16) dialog: You guys gonna be drinking?
+10) 20) dialog: Why don't you catch BART out there? That way you can drink and hang out, and not have to worry about anything.
+10) 22) dialog: No traffic either. You know its gonna be crazy. Going and coming back.
+10) 24) dialog: Promise me, if you and your friends go, you'll catch the train. (beat)
+10) 27) dialog: Aight. Don't make me follow you guys to make sure... you remember Prom. Oscar laughs at this so hard he has to sit the bowl. He p out his phone and starts to text.
+11) 0) text: Oscar, Sophina, and Tatiana say their good-byes to Grandm Bonnie, and Uncle Daryl and Uncle Ceephus. Oscar walks up to Wanda.
+11) 2) dialog: Love you too, son. And Happy New Year. Oscar gives her a big hug and kiss, then turns and leads family out of the door. Wanda watches them, and shuts the door behind him.
+59) 3) dialog: Sophina?
+59) 5) dialog: Sophina, baby calm down. I can't hear you. Is Oscar there with you?
+59) 7) dialog: Where are you?
+59) 9) dialog: Did Oscar get arrested?
+59) 11) text: Wanda closes her eyes for a beat, this hurts. She gets ou bed and starts putting on her clothes.
+62) 1) dialog: Sophina baby, what's going on?
+62) 3) text: Horror flashes over Wanda's face.
+63) 9) dialog: (out of phone speaker) Sophina, Sophina!
+64) 0) text: Wanda screams. She prays to herself and regains control a bit.
+64) 1) dialog: Where are they taking him?
+64) 3) dialog: I'm on my way.
+64) 4) text: Wanda hangs up the phone, and rushes out of the bedroom. Goldenrod (7/19/2012)
+67) 5) dialog: My son is Oscar Julius Grant III. He's been shot, and they told me to come here-
+67) 8) text: Wanda nods.
+67) 10) text: Wanda nods and walks over towards the chairs.
+67) 11) dialog: (under her breath) Lord please let him be okay. Please watch over him with your healing hands Lord. Keep him Safe Lord. Keep him safe so that I can hold him once again.
+67) 18) text: Wanda nods, and stands up.
+67) 20) dialog: His lung? How is he... How is he going to be able to breathe?
+67) 24) dialog: But he's going to make it right?
+67) 26) dialog: Okay, okay. Please do whatever you can, okay? My son is a good boy.                        
+67) 27) dialog: Please do what you can. Please.
+67) 28) text: He nods and pats Wanda on the shoulder for a beat, then t and heads back into the ICU. Wanda walks back over to the group. She gives them the news from the doctor.
+68) 0) text: Early morning daylight streams into the waiting area. Whe Wanda, Sophina, Chantay, Ceephus, Daryl, and Oscar's frie hold hands. Wanda, leads them in prayer.
+68) 3) dialog: --and we ask that you may put your healing hands around your child, we ask that you may operate through these doctors, and breathe strength into their hands as they work on him. Heal him lord so that we may one day see his smile again.
+69) 8) dialog: Can I see him?
+69) 11) text: Wanda nods.
+69) 13) dialog: Just me.                                              
+69) 15) text: Wanda nods. Nurse looks at the Surgeon.
+69) 17) text: He heads towards the exit doors with Wanda.
+69) 22) dialog: I told him to catch the train. I told him to catch BART! I didn't know they were gonna hurt him. I didn't know. I should have just let him drive. I should have let him drive. I wanted him to be safe. Please please let me hug him.
+69) 26) dialog: Please let me go hug him. He didn't like to be alone!! I let my baby                       die alone!
+69) 30) dialog: 

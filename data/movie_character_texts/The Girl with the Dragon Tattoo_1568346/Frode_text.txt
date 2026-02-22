@@ -1,0 +1,41 @@
+11) 2) dialog: You called her, I thought.     You spoke to her.
+11) 4) dialog: I don't understand.
+11) 6) dialog: But you told her I wanted to meet her.
+12) 4) dialog: But you like her.
+13) 1) dialog: But.
+13) 3) dialog: In what way.
+15) 3) dialog: How do you do?
+15) 6) text: She doesn't shake Frode's hand, but does address him:
+15) 8) dialog: No. It seems quite thorough. There's a wealth of data here. But I'm also interested to know what's not in it.
+15) 10) dialog: Your opinion of him isn't.
+15) 12) dialog: So you don't have one? Salander sends Armansky a weary look. His look back begs her not to say anything unpleasant. Eventually -
+15) 14) dialog: He's - excuse me?
+15) 16) dialog: There's less in his asset column after his conviction today.
+15) 19) dialog: Are you saying he was set up?
+15) 23) dialog: You're quite right he made a fool of himself professionally. How big of a fool did he make of himself financially?
+15) 26) dialog: Your report is light in another area. His personal life. Anything you chose not to include?
+15) 28) dialog: I'm not sure if that means yes or no.
+15) 30) dialog: Not in this case. I have to know if there's anything about him I might find unsavory - even if she doesn't. Armansky's look to her at once apologizes for Frode, and encourages her to speak. She finally relents but puts no more spin on it than any other piece of raw data -
+15) 35) dialog: You were right not to include that.
+15) 37) dialog: Anything else?
+15) 39) dialog: Please think before you say no.
+15) 41) dialog: I don't want to be surprised by something later. Salander offers nothing more.
+15) 42) dialog: So. Nothing else. In the personal department. You're sure.
+24) 13) text: Hello. FRODE O/S
+24) 15) text: Yes. FRODE O/S
+24) 16) text: Forgive me for intruding on your Christmas. My name is Dirch Frode. I'm an attorney. I represent Henrik Vanger. Perhaps you've heard of (him) - BLOMKVIST
+24) 17) text: Of course. FRODE O/S
+24) 23) dialog: I'm sorry. I'm about to sit down to Christmas dinner myself.
+24) 25) dialog: You're referring to your recent legal trouble. That has provided Mr. Vanger with some entertainment.
+24) 27) dialog: He doesn't care for Wennerstrom either. Frode, in his polite, deliberate way, is reeling Blomkvist in like a perch.
+24) 29) dialog: He'd like to meet in person if that's okay. Up north. Hedestad.
+24) 31) dialog: He's much too old to make a trip to Stockholm, Mr. Blomkvist. Please. If you'd be so kind as to consider. Blomkvist isn't sure what to do, or say.
+24) 32) dialog: Hedestad is lovely in winter.      Like a Christmas card.
+28) 0) text: Blomkivist disembarks to find Frode - who he can only assume is Frode - beyond a veil of snow, waving to him from outside a Mercedes. Unlike Blomkvist, he's dressed for this God-awful weather in a fur-collared topcoat.
+28) 2) dialog: First time in Hedestad?
+28) 4) dialog: It's lovely in the spring.
+28) 6) dialog: This is unseasonable.
+28) 8) dialog: Unless we get snowed in ... I'm joking. You'll be home tonight, if that's what you wish.
+29) 2) dialog: Mr. Blomkvist would like to be on the 4:30 train back to Stockholm.
+32) 3) text: She types Dirch Frode in the search window. Clicks on the top result which takes her to Frode's bio on Vanger Industries' site with its distinctive V.I. logo. His official company photo accompanies his profile: Uppsala University Law School ... Assistant Counsel, Vanger Industries, 1965-1972 ... Head Counsel, 1972- present. She types in another search - Hans-Erik Wennerstrom. Clicks on his Wikipedia page, which shows a photo of him alongside his bio. She skims it - President of the investment firm, Wennerstrom-gruppen ... personal wealth of 12 billion dollars (80 billion kronor) ... 82-foot yacht, villa on the island of Varmdo ... She does a third search, types: Wennerstrom+Vanger Industries - and hits the `cached' option - There are only a couple of results that include both terms. She goes to one of them, a body of text of some old page with the cached terms highlighted in yellow and blue, and reads - ... Hans-Erik Wennerstrom, CPA, Vanger Industries Accounting Dept., 1971-1972 ... Hmmm.
+56) 0) text: The depot thermometer reads 0. Blomkvist disembarks with two suitcases. This time, Frode isn't there to meet him. He struggles with his luggage through the snow to a taxi stand.

@@ -1,0 +1,59 @@
+11) 0) text: We see an old man's face, staring down at the battle.  Th face is weather-beaten, ailing.  The roaring flames from the battlefield below flicker in his sad eyes. MARCUS AURELIUS, the Emperor of Rome, is on a horse.  A metal brace extends from the back of his saddle.  He is strapped to the brace with thick, leather straps. He watches as the Felix Regiment below concludes the battle.  The cheering of the Regiment can be heard as the final, isolated pockets of Germans are cut down. Behind Marcus the sun is setting, painting the world bloo red.
+12) 0) text: Maximus, bloody and spent, walks through the aftermath of the carnage.  The Wolf of Rome is at his side.  Dead and dying by the hundreds are scattered everywhere.  Roman surgeons are attending to the wounded. Marcus walks to him, embraces him warmly.
+12) 2) dialog: Maximus, you prove your valor again. Let us hope for the final time here.
+12) 4) dialog: There are always people left to fight... Marcus takes Maximus' arm and they walk through the masse of bodies.  Maximus holds Marcus' arm firmly, quietly supporting him as they walk.
+12) 5) dialog: But this night, at least, Germania is at last defeated... What will you do now, my friend?
+12) 9) dialog: (to Soldier)
+12) 15) dialog: No.  Let him speak... (to Prisoner)
+12) 19) dialog: Now it is Rome.
+12) 21) dialog: No... Release him.  Give him safe passage.  Let him go to his family. The soldier leads the German Prisoner away. Maximus and Marcus continue walking in silence for a beat Then:
+12) 22) dialog: Tell me again, Maximus, why are we here?
+12) 24) dialog: (quietly)
+13) 0) text: Maximus and Marcus are now walking along a road through the dense forest.  Slaves follow behind them, leading their horses. Both sides of the road are filled with the men of the Felix Regiment.  As Maximus and Marcus pass, the battered and bloody soldiers drag themselves to their feet, raisin their swords, paying silent homage.
+13) 2) dialog: I don't think they're standing for me, Maximus.  They honor you. Just then Commodus canters into view with his Praetorian Guard escort.  He watches the army honor Maximus with ran envy as he nears. He rides up to Maximus and Marcus.
+13) 5) dialog: You've missed the war.  We're done here. Commodus embraces him, awkward.
+13) 7) dialog: Spare the doves and honor Maximus, he won the battle. Commodus embraces Maximus, even more awkward.
+13) 12) dialog: (ignores this)
+13) 15) dialog: (smiles)
+13) 19) dialog: It's a foolish old cobra who doesn't recognize his own off-spring... (he suddenly stops, not feeling well)
+13) 20) text: I think... I should ride now. Maximus waves for Marcus' horse.  It is brought up. Several soldiers carefully help the old man into the saddle.  He is then tethered to the brace on his saddle. It is a slow, graceful and embarrassing ordeal for the Emperor of Rome. When at last he is strapped in, he looks to Maximus.
+13) 21) dialog: So much for the glory of Rome. Without a word to his son, Marcus nods and the horse is slowly lead away. Commodus and Maximus watch him go.
+16) 0) text: An immediate swirl of noise.  The grand mess tent is crowded with soldiers.  They are still filthy with caked- on mud and blood.  Wounds are bandaged and tankards are raised in celebration of the victory. Marcus sits in a central position and receives visitors. Currently two Senators, FALCO and GAIUS, are bowing befor him.
+16) 2) dialog: Stand up, Senators.  That unfamiliar posture doesn't suit you.
+16) 4) dialog: All the while conspiring with that fat man in Rome.  How is the old monster?
+16) 6) dialog: Still damning me to the four winds?
+16) 8) dialog: I would have silenced him decades ago -- but I just like him too much. Meanwhile, Maximus stands with his lieutenants, Titus and Quintus.  A wound on Maximus' arm has been bound.
+17) 0) text: Marcus is helped out of the mess tent into a tent corrido attached. He sees his daughter Lucilla in the corridor, spying in through the slit in the tent wall.  He watches her, smiles.
+17) 1) dialog: If only you had been born a man... She turns to him.  He leaves his body slaves and goes to her.
+17) 3) dialog: What a Caesar you would have made.
+17) 5) dialog: I think you would have been strong. I wonder if you would have been just?
+17) 7) dialog: Well, pretend to be my loving daughter tonight and walk with me to my chamber. She smiles and takes his arm.  They slowly walk down the tent corridor as:
+17) 8) dialog: This is a pleasant fiction, isn't it? They disappear into darkness.
+19) 0) text: Maximus enters Marcus' darkened tent.  Flickering brazier provide the only light in the enormous Imperial tent. Heavy beams support the canopy and they creak like the timbers of a ship as the tent sways slightly in the wind. Marcus stands before a map of the Roman Empire.
+19) 2) text: Caesar. Marcus holds out a scroll.
+19) 3) dialog: Read this.
+19) 5) dialog: Of course.  No matter.  In this letter I denote my intention to nominate you to stand for the Emperorship after my death. A stunned pause.  Maximus stares at him.
+19) 6) dialog: My son is not a moral man.  You have known this since you were young.  He cannot rule.
+19) 8) dialog: For twenty years I have been spilling blood.  For twenty years I have written philosophy and ruminated and conquered.  Since I became Caesar I have only had four years without war.  Four years of peace in twenty.  So perhaps I can be... forgiven. A long beat.
+19) 9) dialog: While I have been fighting, Rome has grown mad and corpulent and diseased.  I did this.  And now I shall make it right.
+19) 11) dialog: (fierce)
+19) 12) text: I have brought the sword -- nothing more!  Rome is far away and we shouldn't be here.  What matter is it to the Gods if we subdue one more tribe of Parthians or Gauls?  What matter is it to Rome if a thousand more barbarians bend to our lash? A beat. Marcus sits.  He doesn't look at Maximus. A pause.
+19) 13) dialog: Winter, Maximus.  It's winter now... A beat.
+19) 14) dialog: There was a dream that was Rome.  I can only whisper of it now. Anything more than a whisper and the dream vanishes.  It's so... fragile. The true glory of Rome is in a very fragile idea.  Imagine a place devoted to the rights of the citizen.  Where every free man has a voice.  That was the dream... And I fear it will not survive the winter. He holds out a hand to Maximus.  Maximus takes his hand, deeply moved, kneeling.
+19) 15) dialog: Let's just whisper here, you and I.
+19) 17) dialog: If the dream is ever to live again the people must have a true voice. The voice I took from them.  That all the Caesars took from them, bit by bit, conquest by conquest.  And now that I am dying I am going to give them that voice again.
+19) 19) dialog: I am, Maximus.  It's strange... I find as I near the end I think little of the waning moments around me... instead I think much of the past... and of the future.  How will the world speak my name in years to come?  Will I be known as the philosopher?  The warrior?  The tyrant?  Or will there be a more golden sounding to my name?  Will I be the Emperor who gave Rome back her freedom? A beat.
+19) 20) dialog: Before I die I will give the people this final gift.  I will give them the Senate reborn.  The voice of the people empowered again, as it was always meant to be.  It is my design that they will elect the next Emperor.  And I would put forward your name with my backing.
+19) 22) dialog: You are the son I should have had... Although I fear in my deepest heart that if you had truly been my son my blood would have polluted you as it did Commodus.  We're a cursed bloodline.  We have lived so long in power and depravity that we no longer remember a life without it. We can no longer even imagine a life without it. A beat.
+19) 23) dialog: Look at me, son. Maximus looks at him.
+19) 24) dialog: Son... I know that one grove of your vineyard is worth more to you than all the treasures of Rome.  I know one loving word from your wife is worth more than the accolades of an Empire.  But... a fond old man, who loves you more than he can say, begs you to at least think about what he has said tonight.
+19) 26) dialog: I'll keep this letter to myself.  I hope that with the sunrise you will agree.  And embrace me as a father. Maximus nods and rises.  He begins to go.  Stops.
+20) 0) text: Maximus emerges from Marcus' tent into a long tent corridor, deep in thought.
+22) 0) text: Commodus' eyes are red with weeping.  He sits, head down, at the foot of Marcus' bed and speaks to his father.
+22) 2) text: I search the faces of the Gods for ways to please you... to make you proud... and I can never do it.  One kind word -- one full hug where you pressed me to your chest and held me tight -- would have been like the sun on my heart for a thousand years... What is it in me you hate so much?  My eyes are your eyes.  My hands are your hands.  All I have ever wanted was to live up to you. Caesar.  Father. He stands.  We see that he is holding the scroll denoting Marcus' intention to nominate Maximus as Emperor to the Senate.  Commodus cannot control his tears.
+24) 0) text: Dead of night.  Maximus and Quintus stride quickly throug the sleeping camp toward Marcus' tent.
+25) 0) text: Maximus and Quintus stride into the tent -- Maximus slams to a halt.  Stunned. Commodus stands before him.  Lucilla stands in a corner o the tent, head down. And Marcus Aurelius dead, lying on his bed. Maximus stares at Marcus.
+52) 0) text: Emperor Commodus is standing before a group of male children and their tutors in his throne room. The throne room is still very much the province of his father.  Manuscripts and astronomical charts and papyrus scrolls and wax tablets litter the heavy desk.  A large bust of Marcus Aurelius is in one corner. Lucilla and Senator Falco are present.  So too Senators Gracchus and Gaius and Captain Marcellus. A well-rehearsed child presents Commodus with a laurel wreath.
+52) 8) text: Very well... Commodus moves to the desk, standing over it and gazing a Marcus' scrolls as:
+56) 25) text: Our great father Marcus Aurelius looked into my eyes and touched me on the shoulder.
+61) 0) text: Maximus cranes for a sight of the Eternal City through a hole in the wooden slats that cover the slave cart. He can see only glimpses of Rome as they pass.  But the images are not what he expected.  Alongside the undeniabl glory of the city, the madness and disease Marcus Aureliu spoke of are readily apparent. Maximus sees flashes of plague victims being tossed on carts heaped with bodies -- he sees getting and spending and commerce everywhere -- he sees fascist Praetorian Guard units trooping past -- he sees the magnificent architecture of the city -- he sees starving children begging from filthy gutters -- he sees rich citizens out for a stroll -- he sees a swirling combination of sophistication and depravity, of civilization and corruption. He sits back in the cart, deep in thought.  Vibius looks at him.

@@ -1,0 +1,25 @@
+29) 0) text: GENERALS, ADMIRALS, and other advisors sit around the polished table -- all males, in suits and in uniforms. Th door opens, and the men all stand. PRESIDENT FRANKLIN ROOSEVELT appears, in a wheelchair, pu by a huge black valet, GEORGE. The President's legs are shriveled, braced with the iron supports that attach to h shoes and are apparent beneath the cloth of his pin-strip pants. From the waist up Roosevelt is heavily muscled, powerful, and handsome even in his little spectacles. The valet rolls him to the head of the table; he's speaking e before he settles in.
+29) 5) dialog: Sir, our Pacific Fleet is already down to almost nothing.
+34) 0) text: ADMIRAL KIMMEL is Commander of the American Pacific Fleet Two members of his staff are standing uncomfortably in fr of him, having delivered a message from the Joint Chiefs Staff.
+34) 1) dialog: ...transfer twelve more destroyers to Atlantic Fleet, and all the available anti-aircraft weaponry?! Washington has gone insane! Kimmel's STRATEGIC ANALYST speaks up.
+34) 3) dialog: You left out Hawaii.
+34) 5) dialog: Step up surveillance of Japanese communications. They're gonna do something somewhere. I can feel it.
+55) 0) text: ADMIRALS and other OFFICERS are gathered around a giant m of the Pacific.
+55) 1) dialog: The attack seems inevitable. The question is where? The way to answer that question is to ask: if we were the Japanese, how would we do it? He nods to a VICE ADMIRAL, who stands over the map.
+55) 3) dialog: So they pop out and attack where?
+61) 0) text: Admiral Kimmel is settling into the barber chair when his AIDE enters and nods for the barber to move a few paces a so that he can speak privately.
+61) 2) dialog: Someone from Tokyo asks a dentist how the ships are sitting... What are we supposed to do about that?
+61) 4) dialog: Have intelligence keep monitoring him. The Admiral sinks back into the chair.
+112) 0) text: The Admiral, dressed in his golf clothes, is leaving his when a naval LIEUTENANT appears at his door.
+112) 2) dialog: Relay that to Washington...and cancel my golf game.
+113) 1) dialog: Any response from Washington?
+113) 3) text: A telegram, addressed to Admiral Kimmel, lands in the regular, not urgent, dispatch box. The messenger handles promptly, hopping on his motorbike to deliver it.
+206) 2) dialog: Mr. President, Pearl Harbor caught us because we didn't face facts. This isn't a time for ignoring them again. There are no planes in the entire American arsenal capable of covering the distance to Japan from any land base we control while carrying enough bombs to do any damage whatsoever.
+206) 4) dialog: The navy's planes are small, carry light loads, and have short range. We would have to get them within a few hundred miles of Japan, and therefore risk our carriers. And if we lose our carriers, we have no shield against invasion.
+206) 7) dialog: Mr. President...with all respect...what you are asking can't be done. Roosevelt places his hands on the arms of his wheelchair, struggles to lift himself. Aides jump to help him, but he waves them off. With inhuman physical effort, that has hi neck veins bulging and sweat popping on his face, Rooseve stands on his withered legs.
+229) 1) dialog: The Enterprise will ride shotgun when we launch the bombers. They wanted our carriers at Pearl, and now we've come to them. If the Japanese get us, they'll be having dinner in San Francisco next month.
+232) 0) text: The message is handed to Admiral Halsey.
+235) 0) text: Doolittle hurries up to the command bridge, with the nava officers sent by the Admiral to fetch him. Doolittle sees the cruisers next to the carrier firing its guns -- at Japanese boats in the distance.
+236) 0) text: Doolittle finds the Admiral gathered with his staff, thei mood is grim.
+236) 2) dialog: Seven hundred miles.
+242) 0) text: Admiral Halsey, on the deck of the ENTERPRISE, watches as last plane takes off. The planes recede in the distance, racing just a few feet over the water, toward Japan.

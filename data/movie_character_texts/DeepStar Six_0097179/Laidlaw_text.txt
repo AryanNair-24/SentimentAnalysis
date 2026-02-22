@@ -1,0 +1,90 @@
+2) 5) dialog: Can it wait until I get back from the lab?
+3) 0) text: Norris enters the medical bay followed by Laidlaw, she closes the hatch after he is in.
+3) 2) dialog: No. Valdez says they’re on the verge of a major breakthrough. He just needs a few more days...
+3) 6) dialog: What’s another week?
+3) 8) dialog: (shrugs) Look, Doctor...it’s your call...
+3) 10) dialog: Tell you what...why don’t we review these requests on a case by case basis?
+3) 12) dialog: (reading over the list) Why do you want to transfer Collins?
+3) 14) dialog: Does he know?
+3) 16) dialog: I said, does he know. Does Pierce know?
+3) 21) dialog: (surprised) Why not? ° NORRIS I don’t know. He’s not my friend. Laidlaw is cut off by the videocom BUZZER. He crosses to the panel and punches the XMIT switch.
+3) 22) dialog: (into videocom) Laidlaw... Pierce’s face blinks on the tiny monitor.
+3) 24) dialog: I’m on my way. (to Norris) Let’s talk about this when I get back.
+4) 0) text: Laidlaw enters the hatch to the DSRV.
+5) 0) text: Laidlaw crawls into the mini-sub. It’s very cramped. Pierce is in the pilot’s seat in the conning tower, donning a headset. He starts flipping switches, humming quietly to himself. Collins sits directly beneath Pierce, surrounded by video monitors, sonar equipment, recorders, etc. To her left is the cluster of forward viewing ports. They are covered to protect them from scratching.
+5) 2) text: In the passenger section in back, Drs. Valdez, Craven, Abernathy, and Jerkins are already strapped in. Laidlaw takes his seat next to Collins, activating his monitors. Three screens labeled: PORT FORWARD STARBD flicker to life. Pierce calls down to Richardson.
+5) 5) dialog: Oh, God please. Not again.
+7) 4) dialog: Contact in five-hundred meters and closing. Laidlaw concentrates on the constantly shifting sonar display.
+7) 5) dialog: Two hundred meters. Pierce backs off on the throttle, the engine WHINING down as he hits the navigation lights.
+9) 1) dialog: (continuing) Fifty meters...forty... Pierce keeps one eye out the viewport and one eye on his instruments as he carefully maneuvers the minisub alongside the station.
+9) 2) dialog: (continuing) ..-thirty...twenty...ten...
+11) 0) text: The DSRV mates to the docking ring with a reverberating CLANG. Laidlaw presses the AIRLOCK PURGE switch and we HEAR the ROAR of compressed air.
+16) 0) text: Laidlaw and Valdez watch through the control room window as Abernathy and Jerkins go to work, setting up the day’s experiments.
+16) 4) dialog: How close are you, John?
+16) 6) dialog: Norris is putting a lot of pressure on me to rotate your team out.
+16) 8) dialog: She’s threatening to go over my head.
+16) 10) dialog: I can’t run interference for you much longer. Let’s go, Pierce. Pierce and Laidlaw head for the docking bay.
+17) 0) text: Pierce and Laidlaw are crossing the docking bay, headed back for the minisub.
+17) 1) dialog: Look, I don’t like butting into other people’s problems...
+17) 3) dialog: More like nosey fuck to dickhead. Pierce "ahhhs" in recognition.
+17) 5) dialog: (continuing) It seems to me that you had something nice going with Collins and then you just let it die. Collins is great gal and she’s crazy about you, so I ask myself "why is Pierce acting like an asshole?" Pierce scowls.
+17) 7) dialog: Don’t you think you owe her an explaination?
+17) 9) dialog: Drew, I was there when you got married, I was there when she died, I was there when you put her in the ground. I know how much you loved her, but you can’t let Kathy’s death hold up the rest of your life. You’ve got to get on with...
+17) 11) dialog: Want some advice?
+17) 13) dialog: Tough, here it comes anyway...give the thing with Collins another chance.
+17) 17) dialog: No, it’s just advice...good advice. Just then, Craven enters the docking bay from the control room.
+18) 0) text: Craven, Laidlaw, and Pierce re-enter the control room. Valdez and Collins watch Jerkins storm around the bio-lab through the window.
+18) 1) dialog: Okay John, what’s the problem?
+18) 3) dialog: (to Collins) Can you get into the lab?
+18) 5) text: Let me talk to hin. Laidlaw presses the intercom button.
+18) 6) dialog: Robby. This is Captain Laidlaw.
+18) 8) dialog: Just settle down, Robby. Dr. Norris has already told me you want to go home and I’ve been working on that.
+18) 12) dialog: I know, Rob. I know. And we are going to send you home...
+18) 16) dialog: Okay, Rob! Okay! (to Valdez) John, just butt out a second...Collins, patch me into the airlock.
+18) 18) dialog: I just want to make sure he’s okay, Rob. Let me do that, okay...just let me make sure he’s okay. (to Collins) Tie in the airlock. Collins flips some switches.
+18) 20) dialog: Eddie, are you okay?
+18) 24) dialog: Hang on. We're going to get you out of there as soon as possible.
+18) 28) dialog: Dr. Abernathy, I want you to promise not to play your harmonica in front of Dr. Jerkins, okay?
+18) 30) dialog: Now Dr. Jerkins, how about letting Dr. Abernathy out of the airlock. He’s promised not to bother you with his harmonica anymore. Okay?
+18) 32) dialog: I told you...we’re working on it. Abernathy rakes his lips across the harmonica, SCREECHING up and down the scales several times in quick successsion.
+20) 2) dialog: Jerkins!
+20) 5) dialog: What do you want me to do, John? All I can do is try to talk him into coming out.
+20) 9) dialog: (to Valdez) Okay...you try. Valdez switches the speaker back on.
+23) 0) text: Laidlaw, Collins, and Pierce watch helplessly.
+28) 0) text: Laidlaw is the first to get over the shock. He turns to Collins and Pierce.
+28) 1) dialog: Okay, get him out of there. cuT To:
+30) 0) text: As Pierce enters, Valdez, Craven, and Laidlaw watch Jerkins in the bio-lab through the window.
+30) 1) dialog: Is she cutting through the hatch?
+32) 0) text: Laidlaw punches the intercom button.
+32) 1) dialog: (into videocom) Collins, are you through that hatch yet?
+34) 1) dialog: (into videocom) Step on it. : (to Craven) Do we have something to knock him out when she cuts through?
+34) 3) dialog: Get it ready. Laidlaw then turns to Pierce.
+34) 4) dialog: (continuing) Get a couple of shotguns out of the sub.
+34) 6) dialog: Just do it! Pierce exits, shaking his head.
+40) 0) text: Laidlaw and Valdez are pulling up on the hatch, Dr. Craven stands behind then. As soon as the hatch is high enough, Pierce props it open with his shotgun and steps inside.
+40) 5) dialog: You’ve got a fire in there.
+41) 0) text: Pierce steps down into about two feet of water, his flashlight stabbing through the thick smoke that fills the "Hot Box". As he starts wading through the knee-deep water, Laidlaw comes up behind him.
+41) 1) dialog: Goddamn it! You’ve compromised the whole station. There’s procedures for dealing with...
+41) 7) dialog: (under his breath) You had to ask. Suddenly, Pierce freezes as his flashlight beam picks up something floating in the water.
+41) 11) dialog: What the hell is that?
+41) 14) text: Pierce and Laidlaw SHOUT in fear, staggering back.
+42) 2) dialog: Here’s the cause of the fire.
+42) 5) dialog: Pierce...
+42) 7) dialog: I’m sorry, Pierce. A beat as Laidlaw looks for something else to say. He looks around.
+42) 10) dialog: (sighs) Norris was right...Christ, what a mess. I better go call topside...tell them we have a problen. He looks at Pierce.
+42) 11) dialog: (continuing) You okay?
+42) 13) dialog: Okay,..stay sharp. Laidlaw turns and leaves the lab. Pierce watches him go. He leans up against one of the larger plex specimen containers, the back of his shirt wiping away some of the foam and carbon.
+43) 0) text: Laidlaw sits at the computer console, typing in a communication to the surface.
+43) 3) dialog: 
+43) 8) dialog: 
+43) 14) dialog: I’m not sure. Looks like some plan for dealing with escaped lab specimens.
+43) 19) dialog: 
+43) 22) dialog: Looks like we’re on our own,
+46) 8) dialog: Can it get through the hatch?
+46) 14) dialog: Saddle up.
+46) 28) dialog: Give us some room! (to Pierce and Collins) On three...one...
+46) 30) dialog: (continuing) o+etwo...
+46) 32) dialog: (continuing) ...three! They heave, forcing the hatch up with a sickening SCREECH.
+46) 44) dialog: Forget it!’ My back is broken!
+46) 47) dialog: Pierce! That thing’s going to break through any second! Save yourselves! Get out of here! That’s an order!
+46) 55) text: 37 Pierce dives for the Laidlaw’s arm, but too late -- Laidlaw punches the FLOOD switch on the airlock control. WOOSH! Sea-water starts to pour into the airlock.

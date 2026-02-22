@@ -1,0 +1,208 @@
+5) 0) text: Among the squatting men a single one STANDS UP. FRANK JAM is tall with a dark, thoughtful face. He looks sadder tha his 23 years should allow.  His hand is wrapped around a longbarrel Enfield 30.
+5) 1) dialog: Jesse.
+5) 3) dialog: Watch Web.
+6) 0) text: Loose shots spitting up dirt and wood chips everywhere. Frank crawls up, nods to the Youngers, peers through the stacked wood. Another EXPLOSION from the cannon.
+6) 1) dialog: Cannon or Gatling?
+6) 3) dialog: Soon as I hit one, the other'll know and beat us up.
+6) 5) text: Frank raises his head just high enough to poke the Enfiel over the stacked fenceposts. Everyone else is flinching f the suppressing fire. Frank is perfectly still. Squinting aiming, perfectly centered ... BANG.
+8) 0) text: Frank and the others hit the dirt as the Gatling shreds t fenceposts, fells trees, churns the ground, stitching a p of destruction across the bulwarks and into the woods whe
+10) 0) text: Frank, the Younger brothers, Comanche Tom and the Captain are all still there. Captain Malcolm peers through the wa
+10) 5) dialog: Every time I put my head up to hit that Gatling, they try to shoot it off.
+10) 8) dialog: I can hit those boys from here. We just need a distraction.
+10) 10) text: Jesse sprints back into the woods. Cole, Bob, and Frank exchange looks.
+10) 13) dialog: This ought to be interesting.
+12) 0) text: Frank sees the Gatling swing away from him. He stands and
+17) 2) dialog: Pff. They hardly even noticed you.
+17) 4) dialog: Mm-hmm.
+17) 6) dialog: You could have worn one of those big, floppy woman's Easter Sunday hats.
+17) 8) dialog: I figure.
+17) 10) dialog: No, Jesse, your problem is you're always doing stuff before I'm finished figuring it out.
+17) 22) text: Jesse and Frank watch them go, then start walking again.
+17) 24) dialog: I reckoned.
+17) 26) dialog: I'm sure it seemed like a good idea at the time.
+18) 6) dialog: Yesterday.
+18) 13) text: -- Jesse, Frank, the Youngers and Comanche Tom riding har down country roads, past burned out farms.
+19) 0) text: Jesse, Frank, Cole, Bob, and Comanche Tom are looking dow on the frontier town of Liberty, Missouri.
+19) 1) dialog: Hello, Liberty Missoura!
+19) 8) dialog: Nope.
+20) 4) dialog: Must be a garrison in town. We're in occupied territory, boys.
+20) 11) dialog: Jesus mercy, that's Charlie Higgins, Dave Laller ...
+20) 16) dialog: We better go to Doc's, see what's going on here.
+20) 24) dialog: Stop by our spread after that, tell our Ma we're all right. We'll go to Doc Mimms.
+21) 0) text: Jesse and Frank ride toward a handsome white two-story frame house that stands in a grove of elm trees.
+21) 15) dialog: You're doing just fine.
+21) 19) text: A LONG SHOT of the Mimms house. We can see, but not hear, Jesse talking. A beat, then we hear Zee CRY OUT.  Doc Mim staggers, SLUMPS DOWN in the door frame. Jesse and Frank rush to help him.
+22) 0) text: The room is comfortable and elegant in a simple way. Doc Mimms is slumped in a big chair. Zee, her eyes red, is pushing a glass of sherry into his hands. Jesse and Frank sit across from him.
+22) 4) text: Jesse looks at Frank, urging him on.
+22) 5) dialog: Whyyyy... he took down the Gatling gun and the cannon all by himself.
+22) 13) dialog: I thought there was general amnesty.
+22) 15) text: Jesse and Frank don't understand.
+22) 18) dialog: You're saying the railroad's got the Army doing it's dirty work?
+22) 21) dialog: Think about this. If we just come up with a story and stick to it, we should be all right.
+22) 26) dialog: Maybe, maybe...
+23) 0) text: We see Frank and Jesse mount up. Zee is at the door seein them off.
+23) 1) dialog: We'll be back on Saturday with Cole and Bob, give you a hand with the repairs.
+23) 7) dialog: That Zerelda turned into a hell of a woman, eh --
+23) 8) text: WIDEN TO REVEAL Jesse's not next to him. Frank turns. Jesse's still staring at the door.  Frank rides back, tak Jesse's horse by the reins.  As Frank turns Jesse's horse and leads it away, Jesse's head keeps pivoting, fixed on door. After a moment, Jesse turns to look forward, taking his reins. The brothers ride away slowly.
+23) 9) dialog: "Big and older"?
+23) 11) dialog: You are a charmer.
+23) 13) dialog: Next time try "fat and haggard."
+24) 0) text: Jesse and Frank ride up. Out of the farmhouse bursts MA JAMES, a big, rugged frontier woman who is absolutely hysterical.
+24) 2) text: She hauls Jesse and Frank clean out of their saddles.
+24) 4) dialog: (strangling) Not if you don't ease up a bit, Ma...
+24) 9) dialog: Every night, Ma.
+25) 0) text: Jesse and Frank enter, surprised to find Cole, Bob, Comanche Tom, and a gawky 15 year old JIM YOUNGER all eat at their kitchen table.
+25) 1) dialog: Well look at Jimmy Younger. You're all grown up.
+25) 10) dialog: She's still talking to Jesus.
+27) 0) text: Like a time-lapse film we see the surrounding trees have filled out, the stone fence is repaired, the shabby paint redone in sparkling white. Jesse and Cole, shirtless, are driving a post into a hole. Frank STEPS OUT of the house joins them.
+27) 3) dialog: I think one of 'em's glass.
+27) 5) dialog: The brown one.
+27) 7) text: Frank laughs as Cole raises the shovel to strike Jesse.
+27) 8) dialog: Oh, Lord, the dance hall girl at Bunty's...
+27) 13) text: Jesse and Frank swallow their laughs.
+27) 15) dialog: Your Zee? Hmm. (quoting) "From women's eyes this doctrine I derive: they sparkle still the right Promethean fire; They are the books, the arts, the academes, that show, contain, and nourish all the world."
+27) 17) dialog: Shakespeare. (pause) He's European.
+27) 28) text: Frank looks at Jesse thoughtfully. Then all three notice
+27) 29) text: A BUGGY that stops at the edge of the property. Ma STEPS OUT onto the porch next to Frank to meet: A man in a suit, ROLLIN PARKER, and three riders who dismount and flank Parker: two DETECTIVES and a big Scot with a beard and no moustache, ALAN PINKERTON. Pinkerton wearing a suit and a gun in a high waistband. All four advance to the house.
+27) 36) dialog: You know him?
+27) 49) dialog: Yeah, I am. What about it?
+27) 55) text: Frank takes the contract from Ma and hands it back to Parker.
+27) 56) dialog: Good day, Mr. Parker You can tell Mr. Thaddeus Rains to put this where the sun don't shine. (to the boys) Shakespeare.
+27) 60) text: CLICK CLICK and we see Jesse's drawn and cocked two Colts from out of thin air. Frank has pulled his rifle from the doorway. Parker and the detectives are furious, but Pinkerton seems no more than curious.
+27) 66) dialog: Why don't we just let them go for today, Ma. We'll bury them out back next time.
+28) 0) text: Dozens of men and a few women are packed into the one roo school house. Among them are Frank and Jesse. Doc Mimms i leading the meeting.
+28) 1) dialog: I went up to the courthouse and looked at the right of way documents for the rail bed. The railroad doesn't even need our land, they're just taking the land on both sides for as far as they can.
+28) 6) dialog: That's only if we don't stick together.
+28) 14) dialog: Harlan, you can't.
+28) 18) dialog: It would be, if the courts were on the up and up.
+28) 24) text: Jesse and Frank are next to Bob. Zee puts a hand on Jesse shoulder. He notices.
+28) 26) dialog: (rubbing his forehead) Oh no...
+28) 30) dialog: Damn!
+28) 32) dialog: The Army can hang him.
+28) 41) text: Doc Mimms nods, EXITS. Jesse walks to the other end of the school house. Bob, Frank, Clell and Loni fall in behind him. The door SWINGS OPEN again and Comanche Tom enters with Jim Younger sport six-guns way too big for him.
+28) 45) dialog: Jim, it was just a matter of time before they tried to hang somebody else to scare off the other farmers.
+28) 61) dialog: Very.
+30) 0) text: We see it is FRANK JAMES in the suit, who WAVES BACK and then kneels and sights down his long rifle. Tucked away behind him, out of sight from the street, is a bound-and-gagged PINKERTON SNIPER in his underwear.
+34) 0) text: SMASH! From the nearby GENERAL STORE, the other masked rescuers CRASH through the big front window on horseback ride into the Army men, FIRING AWAY. TOTAL CHAOS! The Army men and Pinkertons fight towards th gallows. As Jesse untangles himself from the Hangman, the Union Lieutenant reaches for the lever but BANG drops as Frank opens fire. Frank starts picking off soldiers. The detectives and remaining soldiers are completely disoriented.
+36) 0) text: The soldiers have totally broken ranks. One riderless hor led by Comanche Tom pulls up by the scaffold. Jesse LEAPS and Cole jumps on behind him. Jesse puts the spurs to it the horse SURGES into a gap in the crowd. Allen Pinkerton steps past the panicking troops, squarely in the path of the charging horse. He draws his gun and FIRES. The bullet PLOWS into Jesse just as the terrified horse lurches forward, TRAMPLING Pinkerton. Cole holds Jesse up and the riders take off down the street. We see Frank has disappeared from the water tower The soldiers fire at the fleeing liberators. One of the detectives runs over to the injured Alan Pinkerton.
+42) 13) text: They look at each other warmly. Frank DRIVES UP in a carriage.
+42) 14) dialog: You ready to stop loafing around with this young lady and get back to farming?
+42) 16) dialog: Would you get in the carriage? Until Ma has you home so she can fuss over you herself, she's gonna make me miserable.
+42) 21) dialog: You're looking a bit more spry now that somebody --
+42) 26) dialog: Don't worry, sir, I'll make sure they're always properly chaperoned.
+42) 27) text: Jesse slooooowly turns to glare at Frank.
+42) 29) dialog: Army's leaving town, so Cole can stop hiding up in the woods and come back to his farm. Everybody's getting together at the Younger place for a to-do.
+42) 30) text: Frank tips his hat, and the carriage MOVES OFF.
+43) 0) text: Dozens of people are milling about happily in the lantern light of a Western party. Some are dancing to the small banjo-led band. A small knot of men are comparing war stories. Cole Younger is wandering among them, people clapping his shoulder, shaking his hand. Jesse -- formally accompanying Zee -- and Frank arrive at the edge of the light. Immediately the entire group burst into applause and crowds Jesse. Cole cuts through and bea hugs Jesse, making him wince.
+45) 0) text: The partygoers are RUNNING from the YARD to the BARN, whi is ON FIRE in several different places. As the Younger brothers and Frank get close, they see a squad of masked riders disappearing down the road. Some of the men SHOOT the riders, but the distance is too great. Jim makes a run for the BARN, but Bob grabs him.
+45) 2) dialog: Get buckets!
+45) 3) text: Some of the crowd starts to form a bucket line to the wel Jesse and Zee RUN UP. Frank turns to him.
+45) 4) dialog: Pinkertons. It's the railroad.
+45) 6) text: Frank and Jesse bolt for their horses, swing into the saddles and GALLOP OFF.
+46) 0) text: From a bit down the road, looking just fine. Jesse and Frank reign in as relief rushes across their faces -- AN EXPLOSION tears the house apart like a pile of matchsticks! Jesse and Frank urge their horses into a ful gallop.
+47) 0) text: Jesse and Frank leap from their mounts, trying to get clo to the house. The flames are too strong.
+47) 2) text: Jesse's ventured so close his coat catches fire. Frank tears it from him and stamps it out. Jesse ignores him, still pacing back and forth in front of the inferno.
+47) 6) dialog: Jesus mercy --
+47) 7) text: They reach her just as she collapses. Jesse is cradling her, Frank with his arms around both of them.
+47) 11) text: Jesse is openly crying. Frank has tears silently streamin down his face.
+48) 0) text: Frank and Jesse are staring at the smoking ruins of their lives. Other townsfolk are milling nearby, including Zee the Youngers.
+48) 1) dialog: ... We could move on. Rebuild. Make a decent life someplace else.
+48) 3) dialog: Didn't think you would. (turning away) I'm going to go make the coffin.
+48) 5) text: Frank is gone.
+51) 0) text: Frank James, Bob and Jim Younger, Clell Miller, Loni Packwood, Comanche Tom and several new GANG MEMBERS wait along both sides of the street in this medium sized mid-western town. Some are standing next to their horses, some mounted.
+51) 1) text: An OLD MAN with a cane is walking shakily towards the ban Frank jerks his head and Jim intercepts him.
+51) 8) text: Frank sighs.
+53) 5) text: Frank hangs his head.
+57) 1) dialog: How'd it go in there?
+57) 3) dialog: We're gonna have to talk...
+58) 14) dialog: Now, let's think about this. We create some good will with the folks hereabouts, make it easier to dodge the law.
+58) 22) dialog: And that's why you both lead the gang. Two of you went into that bank together, right?
+58) 24) dialog: Two heads are better than one. All Jesse was doing was making a suggestion.
+58) 26) dialog: So we're waiting to hear what you think of the suggestion. As the other leader of the gang.
+58) 31) dialog: Strategically.
+59) 0) text: The crowded saloon is alive with music, card-playing, and dancing girls. Various James Gang members are playing car and drinking. Jesse, Cole, and Frank are at the bar.
+59) 3) dialog: And it's guarded by Pinkerton detectives.
+69) 0) text: Jesse and Frank walk into a large bank dressed in suits. Just inside the door, Frank notices something odd and nudges Jesse. It's a "Wanted" poster. "Frank and Jesse James. $5,000 reward." They look back and forth at the artist's sketches and eac other. They shake their heads "no." Jesse walks over to the teller's window. He hands a bill the TELLER.
+69) 3) text: Jesse draws. Frank whistles and Cole, Bob and Jim burst i
+69) 5) dialog: It's the scientific method. It's all the rage.
+71) 2) dialog: They were admirably persistent.
+72) 17) dialog: Nice performance, Tom.
+73) 25) text: Loni pockets the charm. -- JESSE, FRANK, AND THE YOUNGER BROTHERS Sit heads bowed in a small country church as the collection plate is pass Jesse drops in a handful of twenty dollar gold pieces.
+74) 0) text: Jesse, Cole, Frank, and Bob are in the middle of a stick-up. All the BANK PATRONS have their hands up.
+74) 3) text: Jesse, Frank, and Cole look at Bob.
+74) 16) text: Frank arrives.
+74) 17) dialog: Gents, we are in the middle of something here.
+74) 19) dialog: The posters?
+74) 22) text: Frank, Jesse, and Cole exchange looks. They turn back to the now puzzled crowd.
+74) 23) dialog: Pardon the delay, folks, but we had to get Mad Bob Younger under control!
+74) 28) dialog: Now, we would like to get back to the robbery.
+75) 3) text: He raises his lucky rabbit's foot in toast to Jesse, who at the bar nursing a bottle of whisky with Frank.
+75) 4) text: Jesse and Frank at the bar.
+75) 6) dialog: Jesse, we're outlaws.
+75) 8) dialog: It got to you, didn't it. All the killing in the war. You need it now.
+75) 10) dialog: If I could go back to farming --
+75) 12) dialog: I can't quit and leave you alone. I can't quit until you quit. Ma would've wanted it that way.
+75) 14) dialog: Maybe it started out that way. But now...
+75) 16) dialog: A better life than the one you could have had with Zee?
+75) 17) text: Jesse HURLS the whisky bottle against the wall. At the CRASH the saloon falls silent. Every eye turns to the Jam boys. Frank stands up.
+75) 18) dialog: I'll bet you every dollar we've stolen that she hasn't read a single one of the letters you've sent her.
+75) 20) dialog: You going to throw down on me, Jesse?
+75) 23) text: Frank nods, embraces his brother. The saloon noise STARTS UP again. Frank steps away.
+75) 24) dialog: We're drunk.
+75) 26) dialog: Just do me a favor. Think about what this is costing everybody. Not just the railroad.
+75) 27) text: Jesse nods and Frank EXITS. Jim Younger, also drunk, step up.
+80) 3) text: Jesse and Frank step from the shadows. Cole tosses them a newspaper.
+80) 11) dialog: (calming him) Jesse.
+80) 13) dialog: Cole, he didn't mean that.
+80) 15) dialog: No, I --
+80) 23) text: Frank hesitates a half-second too long.
+80) 30) text: Cole LUNGES for Jesse, and in a flash they're streetfighting, all elbows and knees and rib punches, GRUNTING and SWEARING. Frank and Bob try to break it up, it's too fierce.
+80) 36) dialog: (edging in) Boys, we don't want this.
+80) 51) text: The Gang CHEERS. Frank watches Jesse cross to the WINDOW and sag against it, exhausted.
+81) 0) text: The James Gang rides up to the bank. A WATER TOWER can be seen behind the building opposite the bank. Jesse, Cole and Frank dismount and move swiftly to the ba doors. Comanche Tom, Jim Younger, Clell Miller and Loni Packwood dismount and take defensive positions. The few other Gang members stay on their horses, looking sharp.
+81) 1) text: Cole holds up at the door, produces his shotgun. Frank an Jesse draw six guns. On Cole's lead, they KICK OPEN THE DOORS AND RUSH IN.
+83) 0) text: Loni is whistling away, rubbing his lucky rabbit's foot. squints up at the sun, turns, then stops. He slowly turns back... HIS POV reveals a dozen men APPEARING at the edge of the opposite rooftop, aiming rifles... Loni lets his rabbit's foot drop... The FIRST GUNSHOTS PLOW INTO LONI! As he falls back, we s the rabbit's foot hit the dusty ground... The Gang leaps for cover as a HAIL OF BULLETS begins to tear up the bank face around them. INT. HYPERION BANK Jesse, Frank and Cole whirl to face th door.
+83) 2) text: JESSE'S POV in a mirror by the door reveals all twelve of the men in the bank drawing guns, shotguns, one rifle -- Jesse shoves Cole and Frank down. He KICKS a stool at the man with the rifle, dives right and ROLLS across a big oa desk. The men begin to FIRE. As BULLETS PING around him, Jesse FIRES from between his legs as he rolls across the desk. The assassins start to drop. Jesse completes his roll at a railing separating the manager's area from the bank floor. In one smooth move he up and RUNNING ALONG THE RAILING, defying gravity, drawin his shoulder Colts and shooting... The gunmen are crossing into each other's line of fire, Jesse's movement confusing them. Jesse's killed another five, only four left, but he's out of railing and -- CRASH! Through a teller's cage, disappearing behind the counter. The gunmen turn and BLAST the wooden counter, so screaming in panic.  CLICKS are heard as hammers fall on empty magazines. The gunmen stare at where Jesse disappeared, panting heavily. CLICK. They forgot about Cole and Frank.
+85) 3) text: Cole turns. Jesse is moving the surviving cowboys into th Vault. As the last one steps in, Jesse SLAMS the door closed. WE HEAR MORE GUNFIRE. Frank runs in from the back the bank.
+85) 4) dialog: Another dozen out back.
+85) 6) dialog: They're just insurance in case we run.
+87) 0) text: Frank and Cole are shooting through the windows.
+87) 2) dialog: Got any ideas, little brother?
+87) 4) dialog: Oh Lord.
+89) 1) dialog: Oh Lord.
+98) 2) text: Frank and Cole rush out from the bank. The Gang leaps ont the horses and put the spurs to them hard.
+100) 0) text: Sunset is heavy in the sky. Jesse stares off at it. His anguish is palpable. Frank comes over.
+100) 2) dialog: Jim was old enough...
+100) 4) dialog: Railroad burned him out too. You couldn't have stopped him.
+100) 6) dialog: Yeah.
+100) 8) dialog: I'm sure it seemed like a good idea at the time.
+100) 9) text: Jesse remembers the first time Frank said that. He crosse
+100) 20) text: Frank nods. He's leaving too.
+100) 22) text: Bob embraces Frank. Jesse goes to shake hands with Cole, but the guilt and rage make his once-best friend unapproachable. Jesse smiles sadly and walks away.
+112) 0) text: A dank, black cell far in the bowels of Fort Jefferson. W HEAR CLANKING. WIDEN TO REVEAL Jesse doing push-ups. They come easily, despite Jesse being chained up like the Frankenstein mons The DOOR OPENS. Jesse looks up in mid-push-up. Alan Pinkerton is looking down at him. Jesse moves to the bed. Pinkerton, flanked by two guards, ENTERS. He sits on a stool provided by one of the guards.
+130) 0) text: CLOSE ON a smoking CANNON sitting on the tracks. WIDEN TO REVEAL Frank and Cole on horseback shading their eyes. Ze is daintily blowing out a fuse lighter.
+130) 1) dialog: Nice shot.
+132) 0) text: Frank and Cole riding toward them. From the woods ride Comanche Tom and Bob Younger, folding into perfect formation. The four THUNDER toward the train.
+134) 0) text: Frank draws a gun and FIRES.
+137) 14) text: Jesse thumbs the hammer forwards, lowers the gun. Rains falls to his knees, numb from the tension. Frank rides up. Jesse empties Pinkerton's gun and hands i to him. Pinkerton holds him for a second.
+137) 21) text: Zee RIDES UP. Jesse SWINGS UP onto her horse, and then th RIDE OFF with Frank. We PULL UP AND AWAY, centering on Pinkerton, Rains, and revealing the smoking, burning wreckage of the train.
+138) 0) text: Most of the Gang is mounted. Frank, Cole and Bob are standing there, watching.
+138) 21) text: Jesse looks at Zerelda and Frank.
+138) 25) text: Jesse getting back on his horse with Zee. Frank stands there and watches them.
+138) 26) dialog: I'll meet you down there in a few weeks.
+138) 28) dialog: Hell, they hardly even noticed us.
+138) 29) text: Jesse and Frank grin.
+138) 31) text: Jesse flips the reins and he and Zee RIDE OFF, the GANG with the Youngers RIDES OFF in the opposite direction. Frank watches them ride away. WE HEAR faintly:
+138) 34) text: Then it's Frank alone on the hill. WE CIRCLE around behin him, come around, see he's AGED a little, CIRCLE AGAIN an now he's AGED MORE, we come around one more time and...
+139) 0) text: ...we COMPLETE THE CIRCLE and see young Frank James is no an older FRANK JAMES. Still lean, a few wrinkles, a littl grey in the hair, dressed in expensive turn-of-the-centur western clothes. A young man who looks remarkably like Jesse, JIMMY JAMES, 16 years old, is waiting patiently. T two are looking down on the town of Liberty, Missouri, wh is now swollen five sizes larger. The Wild West is disappearing under roads and telegraph wire.
+139) 2) dialog: Yeah, Jimmy?
+139) 4) dialog: I know. But that's how it should have ended. Your Dad and Mom, riding off into a new life, growing old together, happy.
+139) 6) dialog: Allow a man his version of the past. When you get to be my age, you've got enough painful memories, you're allowed to soften a few of the edges up.
+139) 8) dialog: (chuckling) That he was.
+139) 10) dialog: Saved a lot of folk from the railroad.
+139) 12) dialog: Can't argue that.
+139) 14) dialog: I think... he was just a real interestin' fella to have around.
+139) 15) text: Frank chuckles again at the memories, claps his hand on Jimmy's shoulder.
+139) 16) dialog: Come on, your Ma's probably holding dinner for us. Once saw the woman blow up a train, don't want to tick her off...
+139) 19) dialog: Yeah Jimmy?
+139) 21) dialog: Everything but the boring parts.

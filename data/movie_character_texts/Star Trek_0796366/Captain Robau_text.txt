@@ -1,0 +1,24 @@
+4) 0) text: With URGENCY, we MOVE DOWN a corridor with CAPTAIN ROBAU
+4) 4) dialog: Report. -- turning to the ship's FIRST OFFICER: 32, all-American swiveling in a console chair to FACE US:
+4) 8) dialog: Any response?
+4) 10) dialog: Maybe they're incapable -- any identifiable damage?
+4) 13) dialog: Confused?
+4) 16) dialog: ... oh my God... (to himself, boggled) A lightning storm... then this... (to deck) Signal all departments: first contact protocols. Looks like we have someone new on the block. All Stop.
+6) 2) dialog: That could be seen as an act of provocation -- all readings passive--
+11) 0) text: Captain Robau helps a fallen CREW MEMBER up from the floo then, on his chair com.:
+11) 1) dialog: Damage report! INTERCUT with:
+17) 5) dialog: All remaining power to forward shields! Prepare the shuttles f--
+17) 9) dialog: Walk with me.
+18) 1) dialog: If I don't report within fifteen minutes, execute general order 13.
+18) 3) dialog: (frightened, but firm) There is no help for us out here. If we're going down, we're taking them with us -- you save as many as you can.
+18) 8) dialog: You're Captain now. Mr. Kirk.
+20) 0) text: TILT DOWN as the TURBO-LIFT DESCENDS -- we PUSH IN as the open and Captain Robau gets out -- moves quickly -- hurri a SHUTTLE BAY catwalk --
+21) 1) dialog: Computer, initiate departure sequence. A LOUD HISS and the craft SHUDDERS as it disembarks --
+30) 2) dialog: Who is your commander? (silence, then re: Nero)
+30) 5) dialog: Then ask your commander what right he has to attack a Federation vessel.
+30) 7) dialog: I've never seen it. Or any ship like it.
+30) 9) dialog: I am unfamiliar with Ambassador Spock.
+30) 12) dialog: (the fuck?) ... Stardate? ... it's 2233.04. (finally) ... hey, where are you from--?
+253) 1) dialog: ... oh my God... (to himself, boggled) A lightning storm... then this... (to deck) Signal all departments: first contact protocols. Looks like we have someone new on the block. All Stop.
+253) 5) dialog: That could be seen as an act of provocation -- all readings passive--
+257) 0) text: Captain Robau helps a fallen CREW MEMBER up from the floo then, on his chair com: CAPTAIN ROBAU

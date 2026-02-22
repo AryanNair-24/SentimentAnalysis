@@ -1,0 +1,119 @@
+19) 18) text: Across from Walter, sits ROSEN, young, awkward and clearl new to the profession, jotting something down in a notepa
+19) 20) dialog: Good. I'll talk to your physician about the headaches. Maybe he can change the prescription.
+19) 22) text: ROSEN (cont'd) And how's your job?
+19) 39) dialog: Do I take "okay" to mean you feel good about working there?
+19) 43) dialog: (smiling) That's right, you did. pause) Have you made any friends there?
+19) 47) dialog: (pause) You seem a little hostile today.
+19) 50) text: Rosen jots something on his notepad. Walter reaches over taps on the notebook.
+19) 51) text: WALTER (cont'd) It's called sarcasm, Dr. Rosen.
+19) 53) dialog: No need to call me doctor. I'm a therapist, not a psychiatrist.
+19) 56) text: Rosen looks at Walter for a long moment. Walter avoids hi gaze.
+19) 58) dialog: Walter, I'd like you to try something for me.
+19) 74) dialog: I'd like you to keep a journal.
+19) 78) dialog: That's right.
+19) 82) dialog: Why not?
+19) 86) dialog: I don't understand.
+19) 90) dialog: Oh. It never crossed my mind.
+19) 94) dialog: It was just an idea.
+19) 98) dialog: I thought a journal would encourage you to reflect.
+19) 102) dialog: That's right.
+19) 115) dialog: It's very good, indeed.
+19) 119) dialog: By reflection we can derive a deeper meaning from our experience in life. We gain greater understanding about ourselves that can lead to making better choices in our relationships, our careers, and our goals.
+19) 123) text: Rosen blushes.
+19) 125) dialog: Try it.
+19) 129) dialog: Then think about it.
+37) 1) text: Walter sits in the chair across from Rosen, looking at hi hands.
+37) 7) dialog: I wish you'd give it a try.
+37) 9) text: ROSEN (cont'd) You don't like coming here, do you?
+37) 13) dialog: But you don't like coming here. Be honest, Walter.
+37) 35) dialog: Good. That's an honest answer. And why don't you like coming here?
+37) 39) dialog: (stung) Is it just my cheery personality that makes your skin itch?
+37) 43) dialog: Maybe it's the way I look. Or the sound of my name.
+37) 47) dialog: Because if you did, I know a therapist named Ryan. I also know a therapist named Chung.
+37) 52) dialog: Fine.
+37) 53) text: Pause. Walter looks at Rosen.
+53) 1) text: Walter sits across from Rosen.
+53) 3) dialog: How do you feel about that?
+53) 12) dialog: Then why are you talking about this?
+53) 16) dialog: What are you afraid will happen?
+53) 26) dialog: Have you talked to Carlos about your concerns?
+53) 30) dialog: Do you think you're crazy?
+53) 34) dialog: Why do you think you're here?
+53) 38) dialog: Is that what you are angry about?
+53) 42) dialog: That is a marvelous image, Walter. Because by going in circles we find the things we missed the first time around.
+53) 43) text: Walter looks at Rosen.
+53) 60) dialog: (checking the clock) We have a few more minutes.
+53) 64) dialog: (pause) We have a lot of work to do.
+53) 68) dialog: I couldn't say.
+53) 72) dialog: I'm afraid not.
+53) 81) dialog: I don't.
+53) 85) dialog: They usually tell me.
+53) 105) dialog: What is your idea of being normal?
+53) 109) dialog: (controlled) Whatever my ideas are of being a Jew is not going to help you. looks at the clock) Why don't we continue this on Thursday.
+53) 113) dialog: Then go see a therapist who will tell you you're normal!
+53) 117) dialog: I know --
+53) 121) dialog: I know you're frustrated, Walter, but --
+53) 124) text: ROSEN (cont'd) -- you really are making progress.
+69) 26) dialog: Did she know that you were following her?
+70) 1) text: Walter sits in Rosen's office.
+70) 5) dialog: What did you think would happen?
+70) 9) dialog: What did you want to happen?
+70) 13) text: Walter is agitated. Rosen calmly writes.
+70) 20) text: WALTER (cont'd) I can't believe I took such a risk. (looks at Rosen) Will you stop writing in that fucking pad!
+70) 21) text: Rosen stops and looks at Walter.
+70) 24) dialog: Is this the first one?
+70) 28) dialog: I want you to calm down.
+70) 30) text: ROSEN (cont'd) You followed a girl. One girl. Perhaps you wanted to see what it felt like after so many years. Maybe unconsciously you were testing yourself. You followed her and nothing happened. And here you are talking about it with me. This is positive.
+70) 31) text: There is a pause. Walter looks down, unconvinced. Rosen checks the time.
+70) 32) text: ROSEN (cont'd) Walter, we'll pick up here next time.
+70) 49) dialog: We'll talk about it more on Thursday.
+79) 1) text: Walter and Rosen sit in their usual places.
+79) 7) dialog: Please don't do it again.
+79) 11) dialog: I can't move my patients around to accommodate one person.
+79) 12) text: Walter silently stares at his hands. Rosen looks at him closely.
+79) 13) text: ROSEN (cont'd) Walter, I want to ask you a question. Will you try to answer it?
+79) 15) text: ROSEN (cont'd) When did it all start?
+79) 29) dialog: If by "problem" you mean your desire for prepubescent girls, yes.
+79) 33) dialog: That's not a helpful answer.
+79) 36) text: Rosen looks at Walter.
+79) 38) dialog: lose your eyes.
+79) 42) dialog: I'd like you to close your eyes.
+79) 46) dialog: To relax.
+79) 50) dialog: Close your eyes and let your mind be blank.
+79) 65) dialog: No, I am not going to --
+79) 68) text: Rosen gets up so he's positioned directly in front of Wal
+79) 70) dialog: When I say the word "girl" what is the earliest image that you can remember?
+79) 74) dialog: No. When I say the word "pretty," when I say the word "pleasure," what is the earliest memory you see?
+79) 78) dialog: In your mind, Walter. Take your time.
+79) 80) text: ROSEN (cont'd) (watching closely) Who do you see?
+79) 83) text: Rosen is excited by this "breakthrough."
+79) 85) dialog: Where is she? What is she doing? ow old --
+79) 95) dialog: Sorry. (pause) Where is she?
+79) 99) dialog: Where?
+79) 103) dialog: Where are you?
+79) 107) dialog: How old are you and your sister?
+79) 111) dialog: But roughly, how old?
+79) 114) text: Rosen walks around Walter and paces behind him.
+79) 116) dialog: And what are you doing?
+79) 134) dialog: A nap?
+79) 139) text: He sees Rosen behind him.
+79) 142) dialog: Did you and your sister often take naps together?
+79) 145) text: Rosen stumbles back to his chair.
+79) 148) dialog: All right.
+79) 152) dialog: I'm sorry. I shouldn't have been there.
+79) 165) dialog: Did you touch her? Did you take off her clothes? Did you take off your clothes?
+79) 169) dialog: I'm only asking questions.
+79) 173) dialog: What else?
+79) 177) dialog: You felt pleasure.
+79) 180) text: Rosen writes a few notes.
+79) 182) dialog: Did you get an erection?
+79) 194) dialog: I meant later... when you two took naps.
+79) 196) text: ROSEN (cont'd) When the two of you held each other. When you were ten or eleven and she was eight or nine. When your parents were out and the two of you were alone... completely alone in that big house.
+79) 200) dialog: All right. A small house... with small rooms.
+79) 203) text: Walter presses his face into his hands. Rosen watches him silently. When Walter lifts his face...
+123) 1) text: Walter sits in his usual seat across from Rosen.
+123) 4) text: Rosen is silent.
+123) 12) dialog: Accept you?
+123) 14) text: ROSEN (cont'd) It's going to take time, Walter.
+123) 18) dialog: How do you feel about that?
+123) 21) text: Walter looks at Rosen who nods. There is a moment of sile between them.

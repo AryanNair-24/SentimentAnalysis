@@ -1,0 +1,47 @@
+11) 0) text: Dr. Sevard walks down the hallway with Eve.
+11) 2) dialog: They're pharma reps, not doctors. And like it or not, this is a business. Dallas Buyers Club / Green Revision / Dec 2, 2012 / P. 8A DR. SEVARD
+11) 3) text: How the hell did they get permission to go to human trials? DR. SEVARD
+12) 0) text: Ron, head and eyes bandaged, lays on a bed. After a few beats, he peels off the eye bandages, gets up. He opens a cabinet, then a drawer. Finds a bag of sucking CANDY, pop piece in his mouth, puts some in his pocket. He sees his jacket on the back of the door, searches his pockets for cigarette. He's about to light one when Dr. Sevard enters with Eve Sakes. Both wear surgical masks and latex gloves
+12) 1) dialog: Mr. Woodroof. I'm Dr. Sevard.
+12) 3) dialog: We saw something that concerned us in your initial blood work so we ran some additional tests.
+12) 9) dialog: You've tested positive for HIV --
+12) 10) text: Ron looks at Dr. Sevard blankly.
+12) 11) dialog: ...the virus that causes AIDS.
+12) 14) dialog: Have you ever used intravenous drugs or had any homosexual --
+12) 17) text: Look at me, doc. Come on now, look at me. What do you see? DR. SEVARD
+12) 19) text: What the fuck's a three-Cell?! DR. SEVARD
+12) 24) text: That's some information on HIV and AIDS you may find informative and your test results. Ron flips through the papers. Becomes frustrated by terminology he doesn't understand. DR. SEVARD
+12) 27) dialog: Based on your condition, we estimate that you have about thirty days to get your affairs in order --
+32) 11) text: Dr. Sevard steps forward. Dr. Sevard Mr. Woodroof I'm doctor Sevard. Ron I remember you. Dr. Sevard I need you to tell me where you obtained AZT from.
+32) 13) text: Who said I was on AZT? DR. SEVARD
+32) 15) text: I don't know what you're talking about. Dr. Sevard shakes his head and walks out. EVE
+57) 0) text: In mid-conversation, Eve follows Dr. Sevard down the hall
+57) 3) dialog: It's Barrow Wilkem's call, Eve. So we can get the drug to the people who need it.
+57) 5) dialog: Their trial results are overwhelmingly positive. AZT is working.
+57) 7) dialog: These people die, Eve.     There are no long-term effects.
+57) 9) dialog: It's still being written.    Here. He produces a two page document and hands it to Eve.
+81) 0) text: A CUSTOMS OFFICER looks at Ron dressed with Dr. Hiroshi's coat, and wearing Dr. Sevard's hair style as he talks int large first generation cell phone.
+84) 1) dialog: We don't know what the drugs are.    He's got HIV.
+85) 2) dialog: Mr. Woodroof. Dallas Buyers Club / Green Revision / Dec 2, 2012 / P. 53 RON
+85) 3) text: Doc-tor Sevard!   You must be surprised to see me. DR. SEVARD
+85) 5) text: (re: I.V. tube) And I need to know what you're pumpin' into me here. DR. SEVARD
+85) 8) text: I'm gonna sue you for attempted murder! Where's my stuff? DR. SEVARD
+85) 10) text: Go to hell. I say what goes in my body, not you. Final. Period. End of story. DR. SEVARD
+85) 13) text: Mr. Woodroof, we tolerate the Buyers Clubs. Now, every other organization in the country is dancing with us but for some reason, either you don't understand what we're saying or you just don't give a shit. DR. SEVARD
+86) 0) text: Eve sits behind her desk, Dr. Sevard standing across from
+86) 1) dialog: You're his physician and you can't tell me what medications he's on?
+86) 3) dialog: Well the FDA confiscated over two thousand vials of alpha interferon... that he was about to sell to AIDS patients. Our patients! Dallas Buyers Club / Green Revision / Dec 2, 2012 / P. 54
+86) 5) dialog: Without controlled trials, we'll never be able to cure this thing because we'll have no legitimate data. Tell your patients to stay away from him. With that, Sevard exits.   On Eve.
+90) 1) dialog: Where the hell are my trial patients?
+102) 0) text: Eve is at her desk when suddenly Dr. Sevard barges in.
+102) 1) dialog: Who gave you permission to lower your patients' AZT doses?
+102) 3) dialog: I want those doses readjusted immediately. The study protocol does not allow dose reductions.
+102) 5) dialog: It's a different kind of virus.
+102) 7) text: Dr. Sevard stares at Eve, who stands her ground.
+127) 4) text: Ron pushes open different doors looking for Dr. Sevard.
+128) 5) dialog: What are you talking about?
+128) 8) dialog: Leave or you will be arrested.
+135) 2) dialog: Barrow Wilkem gave us the green light on the AZT pediatric trials.
+135) 5) dialog: We're starting very slowly with a fifth of a dose.
+139) 1) dialog: We think it is in everyone's best interest that you resign.
+139) 2) text: Eve looks at Dr. Sevard who meets her gaze with calculate coldness.

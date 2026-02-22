@@ -1,0 +1,128 @@
+42) 5) dialog: And you'll not lay a hand on those under the protection of parlay!
+42) 7) dialog: My apologies, miss. As you were saying, before you were so rudely interrupted?
+42) 9) dialog: There was a lot of long words in there, miss, and we're not but humble pirates. What is it you want?
+42) 11) dialog: I am disinclined to acquiesce to your request. (helpfully) Means' No. '
+42) 14) dialog: My holds are bursting with swag. That bit of shine matters to me ... Why?
+42) 16) dialog: (interested) Did you, now? Elizabeth glares at him. She's getting nowhere.
+42) 18) dialog: 
+42) 20) dialog: You have a name, missy?
+42) 22) dialog: You've got sand, for a maid.
+42) 24) dialog: And how does a maid come to own a trinket such as that? A family heirloom, perhaps?
+42) 26) dialog: No, no, nothing like that. (comes to a decision) Very well. You hand that over, we'll put your town to our rudder and ne'er return.
+42) 28) dialog: It's you who invoked the parlay! Believe me, Miss, you'd best hand it over, now... or these be the last friendly words you'll hear! Elizabeth hesitates, but she has no choice. She holds out the medallion. He grabs it, clutches it in his fist like hope.
+42) 32) dialog: First. Your return to shore was not part of our negotiations nor our agreement, and so I 'must' do nothing. Secondly: you must be a pirate for the pirate's code to apply. And you're not. And thirdly... the code is more what you'd call guidelines than actual rules. (grins gold and silver) Welcome aboard the Black Pearl, Miss Turner. Elizabeth stares in speechless terror -
+59) 0) text: Barbossa enters, followed by PIRATES carrying trays of food, wine, table setting, etc. Elizabeth stands at the small table in the dress -- lovely.
+59) 1) dialog: Maid or not, it fits you.
+59) 3) dialog: Now, none of that. Please dig in. The table is set. Elizabeth sits, cuts a tiny piece of meat, eats it daintily.
+59) 4) dialog: No need to stand on ceremony, and no call to impress anyone. You must be hungry. Elizabeth drops the pretense: she's starving, and begins eat like it. Barbossa watches her intently.
+59) 5) dialog: Try the wine. Elizabeth does, a huge swig; she tears off a hunk of brea devours it.
+59) 6) dialog: And the apples -- one of those next. She starts to bite into the apple -- stops. She is sudden aware of Barbossa's gaze -- and that he is not eating.
+59) 8) dialog: Oh, there would be no sense in killing you, Miss Turner.
+59) 10) dialog: Would that I could. He produces the medallion, lets it dangle from his finger
+59) 11) dialog: Do you not know what this is, then?
+59) 13) dialog: It's a piece of the treasure of Isla de Muerta . Elizabeth gives an infinitesimal shrug, intrigued despite herself.
+59) 14) dialog: Ah, so you don't know as much as you pretend. Back when Cortes was cutting a great bloody swath through the New World, a high priest gave. him all the gold they had, with one condition: that he spare the people's lives. Of course, Cortes being Cortes, he didn't. (nods) He'd've made a great pirate, that one. Barbossa stands, moves to a shelf. Puts a key to a medium sized polished wooden box -- the Captain's chest. Opens i
+59) 15) dialog: So the priest, with his dying breath, called on the power of the blood of his people, and put on the gold a curse. If anyone took so much as a single piece, as he was compelled by greed, by greed he would be consumed. Inside the chest are charts, some gold, a sextant -- and few pages of a Mayan CODEX, pieces of tree bark inscribed with Mayan glyphs. Barbossa removes them carefully, sets them on the table. Pours over them.
+59) 16) dialog: Within a day of leaving port for Spain, the treasure ship carrying the gold ... something went wrong. The ship run aground, every man aboard dead, save one. He survived long enough to hide the gold ashore. (beat) Over time, the dark magic of the curse seeped into the place, making it a cursed island. An island of death. Isla de Muerta. He looks up. Elizabeth has been rapt, involved in the sto -but feigns a dismissive attitude.
+59) 18) dialog: You idiot girl! It's no make- believe! My crew and I, we found the gold, and we did more than take one piece, we took it all. Rich men we were and we spent it and traded it and gave it away in exchange for drink and food and pleasant company. But we found out the drink could not sate us, and the food turned to ashes in our mouths, and no amount of pleasant company could ea our torment. (regains his composure) We are cursed men, Miss Turner, condemned, to be forever consumed by our own greed. Gold calls to UB, always, and we are driven, always, to find more, and add it to the treasure. Barbossa picks up the priceless Codex. Crushes them in hi fist.
+59) 19) dialog: There is but one way to remove the curse. All of the scattered pieces of the treasure must be restored in full, and the blood repaid. (he throws the pages aside)
+59) 21) text: And that's why there's no sense in killing you. Yet. Elizabeth stares at him, horrified. Using the toe of his boot, Barbossa flips an apple up off the floor, catches i extends it to Elizabeth.
+59) 22) dialog: Apple? Elizabeth slowly reaches for the apple -- and then comes out of her chair, trying to run around Barbossa_ They struggle briefly, and then suddenly he shoves her away- Elizabeth's stolen KNIFE is buried in Barbossa's chest, t the hilt -- Barbossa is completely unaffected. He opens his shirt to get a better look at the knife, pulls it out with little effort. There is BLOOD on the blade, but none anywhere else.
+59) 23) dialog: I'm curious -- after killing me, what is it you were planning to do next? Elizabeth backs away, whirls and barrels out the door -
+60) 0) text: -- Elizabeth comes to dead stop. She stares, her jaw working, trying to scream but unable to - The pirate crew works at their stations, coiling lines, navigating the ship, swabbing decks -- but where the moonlight falls across their bodies, they are nauqht but SKELETONS. . Elizabeth turns away from the sight - Barbossa stands just inside the doorway, out of the moonlight. He grabs her roughly by the shoulders and jerk her back around -- Elizabeth shuts her eyes - BARBOSSA
+60) 1) text: Look! (shakes her) LOOK! The moonlight shows us for what we really are! We are not among the living and so we cannot die - He spins her back around to face him -- he leans forward, putting his face in the moonlight, turning it into a gleaming SKULL with gold and silver teeth - BARBOSSA (CONT'D)
+60) 2) text: -- but neither are we dead! We have all the desires of the living, but cannot satisfy them! Ten years I have been parched of thirst, and unable to quench it! Ten years, I have been starving to death -- and haven't died! (raises his hand) BARBOSSA (CONT'D)
+60) 5) text: You'd best start believing in ghost stories, Miss Turner. Because now you're in one. He tilts the bottle and drinks -- it runs over his jaw, through his rib cage, drenching his clothes. Elizabeth darts around him, back into the cabin, and shut the door. Barbossa hurls the bottle away.
+67) 10) text: Aye, and that's why I know where it's going to be, and that's why I know what Barbossa is up to. All I need is a crew. GIBBS
+71) 1) text: Isla de Muerta! Isla de Muerta, off the port bow! ON DECK, Barbossa moves to the rail. The storm clouds are breaking up. On the horizon is a dark, ominous shape: ISL MUERTA. Mostly sheer unfriendly cliffs that shoot straigh the water. It is surrounded by a slate grey sea. Barbossa grasps the rail with both hands, his expression mixture of loathing and fear. Jacoby approaches, hesitant JACOBY
+71) 2) text: Orders, Captain? BARBOSSA
+71) 3) text: Bring her in, not too close. I won't brave the reef, not until high tide. We lay anchor before dark. Jacoby nods, backs away. Barbossa continues to stare - BARBOSSA (CONT'D)
+73) 19) text: Barbossa. Jack shoots a glance at Will -- nods, and moves away.
+74) 0) text: On Barbossa, face upturned. No expression in his eyes. Around him a group of pirates, Elizabeth among them, stan as still as stones, in front of a dark cave opening. Thei faces look upward, their total lack of movement disconcerting. Above the cave, on a hillock, the pirate Koehler gazes ou toward the horizon. Slowly he TRANSFORMS, head-to-toe, fr pirate to SKELETON- The MOON has climbed free of the storm clouds, rising large. and full on the horizon. The skeleton turns - KOEHLER
+74) 1) text: Moonrise, Captain! First night of full. BARBOSSA
+75) 0) text: The group keeps together under the firelight. The path leads between boulders on a slope downhill. From the echo and shadows, it's clear the cave system must be huge. Elizabeth glances over -- the torches illumine caverns of to the side -- and just the edge of a mound of coins. Clearly there is more, but the rest is lost in darkness. Twigg, gazing upward in wonder, moves a few feet away fro the group. Barbossa grabs him as he nears a chasm. BARBOSSA
+75) 1) text: Careful, mate. Fall down there, you'd die and miss Judgement Day -- for not even the Lord himself'll come look for you here. Barbossa lets go, and moves on, descending down, twisting and turning, but always down -
+77) 2) text: The curse drove you to gather this? BARBOSSA (O.S.)
+81) 0) text: -- and then emerge into the largest cavern of all, also crammed with treasure, including several mountains of gol coins that reach the ceiling. Treasure everywhere - Except for one spot in the center. A hole in the ceiling lets in a column of moonlight, which illumines: A stone chest, lid pushed back, decorated with carved Azt glyphs, filled with gold coins identical to Will's medallion. A sharp stone knife lies on top. In front of it, buried in the sand is a skeleton -- and this one doesn't look like it's going to move ever again, judging by the sword in its back. A crab scurries away fr it as the group approaches. BARBOSSA
+81) 2) text: What did you expect? We're all gentlemen here, right and proper. The pirates laugh. Barbossa takes the medallion, grins at Elizabeth.
+81) 3) dialog: You know the first thing I'm going to do after the curse is lifted? (grins) Eat a whole bushel of apples. Barbossa approaches the chest, shining in the beam of moonlight.
+81) 4) dialog: What was begun by blood, let blood now end! He tosses the gold medallion onto the others. The pirates tense, waiting, expectant. A long beat. They all look at each other, look at themselves. Nothing happens.
+81) 12) text: No. The pirates cry out in alarm. Barbossa gathers himself, getting his rage under steely control. BARBOSSA
+81) 13) text: Where's his child? The child that sailed from England eight years ago, the child who is the real owner of that medallion, the child in whose veins flows the blood of William Turner?! Where? Barbossa SLAPS her hard across the face, sending her sprawling. JACOBY
+81) 16) text: (to Barbossa) You brought us here for nothing? Barbossa whirls on him -- BARBOSSA
+81) 17) text: If you had sailed with Morgan for ten years like I have, you'd know not to question me! Elizabeth sits up, watching the pirates argue, for a mome unnoticed. Suddenly, a scabbard comes down, right above her. Startled, Elizabeth looks up -- -- Will is at the top of a mound of coins, reaching down with his scabbard for her to grab onto. Elizabeth quickly leans forward, takes the bloodied medallion from the pile. Reaches back, grabs the scabbard Will pulls her up - BARBOSSA (CONT'D)
+82) 3) text: You're in league with Barbossa! JACK
+85) 0) text: Jack stands before Barbossa, surrounded by pirates. Jack has a wide smile on his face -- and Barbossa doesn't like it. BARBOSSA
+85) 1) text: I'm inclined to kill you now, Jack Sparrow, without so much as a word, if you don't lose that grin from your face. Jack's smile remains. Barbossa puts a hand to his cutlass JACK
+85) 2) text: The woman's blood didn't work, did it? Barbossa hesitates. JACK (CONT'D)
+85) 3) text: I know who's blood you need, to end the curse. BARBOSSA
+85) 5) text: No you won't. Barbossa nods. Pintel steps forward, puts a blade to Jack throat. Jack's smile widens. PINTEL
+85) 6) text: Now? BARBOSSA (NODS)
+85) 7) text: Now. (Pintel grins) No, don't kill him. Surprised, Pintel lowers his cutlass. Jack's expression hasn't changed. BARBOSSA (CONT'D)
+85) 9) text: Simple. I have something you want more than anything. The way to free you from the curse of the treasure. You have something I want -- more than anything. BARBOSSA
+85) 11) text: You give me the Pearl. Then I tell you who you need. Barbossa stares at him, incredulous. BARBOSSA
+85) 13) text: That's right. BARBOSSA
+85) 16) text: You see, I've got this honest streak in me -- in its own way, a sort of curse. Oh, and there's the fact that you have no choice. BARBOSSA
+85) 18) text: You left me on a desert island -- what worse can you do? Jack is still smiling, intentionally smug now. Barbossa sees his options dwindling, begins to pace. BARBOSSA
+85) 20) text: Wait as long as you like. BARBOSSA
+85) 22) text: Let's say I tell you the wrong person. What would you do? BARBOSSA
+85) 24) text: And if I tell you the truth, you become mortal, and you won't come near me because you know I'd kill you. Barbossa hesitates. The pirates are amazed at how the tid has turned; Barbossa has gone past considering the idea, and might even do it. BARBOSSA
+85) 26) text: See, that's where we're different. I trust you ... to do what it takes to get what you want. BARBOSSA
+85) 28) dialog: Pintel ... set sail. If this fool plan is to work, we'll need the medallion, and that means catching the ship which brought 'em here. Jack is caught completely off guard. For the first time, his smile fades.
+85) 30) dialog: That fool woman took it. You be careful around her, Jack -- she's pretty enough, she'll steal your heart -- but pure evil inside.
+85) 32) dialog: Bosun! Set up Mr. Sparrow's quarters, nice and fine ... in the brig. (to Jack, a smile) Meaning no disrespect, of course. Jack nods, and is taken away. Barbossa stares after him, not hiding his mistrust.
+88) 0) text: Barbossa and Pintel eye the Interceptor, two hounds chasi the fox. PINTEL
+91) 0) text: Barbossa and Pintel watch as the huge ship brings its cannons to bear right in front of them. BARBOSSA
+94) 0) text: Barbossa laughs. BARBOSSA
+95) 0) text: Another round of fire; Barbossa shows no mercy. ANAMARIA
+95) 4) text: We're not going to just surrender! GIBBS That we are. The Black Pearl fires again, a double-ball shot with a chain connecting the two. It hits the main mast dead ani CRACKING, SPLINTING sound as it breaks, falls to the deck Barbossa moves his ship alongside, preparing to board. WILL
+96) 0) text: The top masts of the H.M.S. Interceptor sink into the smooth' crystal waters of the Caribbean - -- as Will and Elizabeth, held by pirates, are brought before Barbossa -- and see that Jack stands beside him, manacled. Gibbs, AnaMaria and Cotton and the other crewmembers hudd together. Barbossa's wrath falls on Elizabeth. BARBOSSA
+96) 2) text: She goes free! Will leaps onto the ship's rail. He steadies himself with hand on the rigging. Points the pistol at Barbossa. BARBOSSA
+96) 4) text: She. Goes. Free. BARBOSSA
+96) 10) text: It's true - he's the spittin' image of old Bootstrap. Even talks the same! Jack drops his head. Barbossa grins at him. BARBOSSA
+96) 12) text: And hers got Old Bill's courage. A curse on him, and you! Barbossa steps forward. BARBOSSA
+96) 14) text: Elizabeth goes free! BARBOSSA
+96) 16) text: And Jack. And the crew. Free and unharmed. I f you agree... then... I will remain with you. Barbossa considers; his crew waits. Finally - BARBOSSA
+96) 19) text: You must swear by the Holy Bible. BARBOSSA
+96) 20) text: Eh? You have my word, then -- on the Good Book, I do swear, and the Lord spare my worthless soul. Barbossa crosses himself, as do many of his men. Will lowers the gun ... steps down -- the pirates surroun him. They snatch away the pistol. BARBOSSA (CONT'D)
+96) 21) text: Boatswain! Take your captives belowdecks. Chain them in the galley, and teach 'em how to row. Gibbs, AnaMaria, Cotton and the rest are led away under guard. Barbossa looks out to sea, toward the islet. BARBOSSA (CONT'D)
+96) 23) text: (dejected) Amen to that... BARBOSSA
+96) 24) text: Jack, Elizabeth ... I'm a man of my word and you're to be set free, right quick. (loudly) Men, break out the plank! A CHEER goes up from the pirates. Will realizes what Barbossa intends to do, struggles with his captors. WILL
+96) 25) text: No! You gave your word! BARBOSSA
+98) 1) text: It's pure evil to make a Captain walk the plank of his own ship, twice in one lifetime. No good can come of it. BARBOSSA
+98) 3) text: Someone needs to cut these bonds, then. Barbossa smiles, shows a pistol. Points it at Jack. BARBOSSA
+98) 6) text: That's proper, sir, according to the code. BARBOSSA
+98) 8) text: A gentleman might give us two pistols, seeing as there are two of us, this time. A pirate hands Jack's pistol to Barbossa. BARBOSSA
+98) 9) text: Tell you what. I'll   give you one pistol, and let you   be the gentleman, an' shoot the lady,   and starve to death yourself! (grins) That is, presuming   you're not both drownded. The pirates laugh. Barbossa tosses Jack the pistol -- but over his head, and down into the water with a splash. BARBOSSA (CONTID)
+98) 11) text: You can go to your grave not knowing. BARBOSSA
+98) 12) text: That's fair. Jack glares at Barbossa. Then he's prodded with a cutlass takes a step out. Reaches the end of the plank -- steps off. Jack plunges down into the water. Appears on the surface, floundering, struggles to stay afloat. Will and Elizabeth exchange helpless looks; there is nothing they can do. BARBOSSA (CONT'D)
+98) 14) text: Here -- it will go well with your black heart ! Barbossa indicates the plank. ELIZABETH (CONT' D)
+98) 15) text: I will not walk into the ocean. You'll have to throw me in! Barbossa raises an eyebrow, grins, nods. BARBOSSA
+106) 5) text: That's a nice thought, to be sure, and I wager your da wishes he'd thought it hisself. But, no. See, what he'd done, _ didn't sit too well with Captain Barbossa ... so he chained a cannon to his legs and dumped him over. Will reacts with shock at the account of his father's fat PINTEL (CONT'D)
+106) 6) text: Yep, last I saw of Bootstrap Bill, was his face looking up, as he sank down to the crushing black oblivion of Davy Jones' locker. (sighs) It was only after, we found out we needed his blood to solve the curse. That's what you call ironic. Barbossa appears behind Pintel, flanked by several other pirates. He regards Will for a moment, then:
+106) 7) dialog: Bring him.
+108) 0) text: Torches are lit. Barbossa leads Will, guarded by Pintel a a band of pirates, into the caves.
+110) 1) text: No reason to fret. It's just a prick of the finger and a few drops of blood. BARBOSSA
+112) 0) text: Lit by torchlight. Will notices: a crack runs between the floor and the wall of the cave, widening into a ravine. BARBOSSA
+112) 2) text: You deserve to be cursed -- and remain cursed! He steps to one side -- and drops into the ravine. The wa of the ravine becomes a loose gravel slope; Will hits it, and tumbles down, disappears into black. BARBOSSA
+116) 2) text: It's the right way. Will join him -- and see what Jack is staring at: Treasure piled on treasure, sparkling, glowing, seemingly endless. At the center is the moonlit clearing, and the stone Aztec chest. BARBOSSA
+116) 3) text: Thank you, Jack Sparrow. The jump -- Barbossa is standing right behind them, flank by his men. The trio whirl to run - - more pirates emerge from hiding. Nearly the entire crew of the Black Pearl is there. The pirates grab Will and Jack. Will struggles, but Jack does not fight at all. BARBOSSA (CONT'D)
+116) 5) text: You did know where you were going! You did lead us directly to them! (Jack's silence confirms it) Why? Jack looks away -- as Will is manhandled toward the chest Barbo8sa steps up to him (becoming skeletal in the moonlight) and puts the medallion around Will's neck. He picks up the stone knife. BARBOSSA
+116) 7) text: You don't want to be doing that. Barbossa pretends to think about his words. BARBOSSA
+116) 9) text: (shrugs) All right then. That makes Barbossa pause. He steps out of the moonlight. BARBOSSA
+116) 14) text: Do you believe him? BARBOSSA
+116) 16) text: You've no hope of surviving Norrington's attack ... that is, if you're mortal. BARBOSSA
+116) 17) text: What're you suggesting? Jack shakes off the hands holding him, strolls toward Barbossa, Will, and the chest of coins. JACK
+116) 19) text: (drops the coins one-by- one back into the chest) Like after you've killed... Every... Last ... One ... of Norrington's men. BARBOSSA
+116) 21) text: The situation has changed. BARBOSSA
+116) 24) text: I sail for you as part of your fleet, I give you fifteen percent of my plunder, and you get to introduce yourself at tea parties and brothels as 'Commodore Barbossa.' (sticks out his hand) Do we have an accord? Barbossa licks his lips. It's tempting ... JACK (CONT'D)
+116) 25) text: Now, you can take care of the Dauntless, right? BARBOSSA
+116) 26) text: Men! Are you up for it? The pirates yell to the affirmative. BARBOSSA (CONT'D)
+116) 28) text: There's ... another exit? BARBOSSA
+125) 3) text: Use it well. He draws his own sword -- and clobbers the Pirate. Barbos and the other pirates stare in shock - BARBOSSA
+130) 0) text: Only two pirates left: Barbossa and Jacoby. Jacoby rounds on Will; Barbossa faces off against Jack. BARBOSSA
+130) 2) text: Remarkable how often those two traits coincide. Jack drives him back, making Barbossa laugh. BARBOSSA
+130) 6) text: They're so pretty, I just couldn't resist stealing one. It's a curse, I guess. Barbossa grabs up his sword, and rushes Jack. Both men ar in moonlight now, two skeletons in pitched battle. BARBOSSA
+130) 8) text: Or you could surrender. He shoves Barbossa back, out of the moonlight. Barbossa stalks the room, his attention focused on Jack. BARBOSSA
+130) 9) text: Or I could chain you to a cannonball and drop you in the deepest part of the ocean, where you can contemplate your folly forever. Barbossa charges -
+130) 12) text: He didn't waste it. Will stands over the Aztec chest, holding a bloody sword, his left hand in a fist. He opens the fist - -- the medallion, blood covering it, drops from his hand, revealing the cut in his palm. Barbossa stares, then looks down at his chest. Blood blossoms on his shirt around the bullet hole. It spreads quickly. Barbossa clutches his chest, his face registering pain fo the first time in years. Barbossa falls heavily to the ground, dead. Jack blows the smoke from the barrel of his pistol... tosses it away.

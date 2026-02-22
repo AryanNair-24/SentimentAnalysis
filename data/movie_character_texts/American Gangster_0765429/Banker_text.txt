@@ -1,0 +1,8 @@
+4) 3) dialog: How you doing, Frank?
+4) 5) dialog: What a loss. (Frank nods)
+4) 11) dialog: Bumpy set something up for you? Frank excuses himself without an answer, crosses to where Tango left the glass, and sets it on a coaster.
+37) 0) text: Keys turn the locks of a safety-deposit box. The lid lift revealing decks of cash. Frank takes it all out, slips on slender packet into Bumpy's banker's jacket pocket.
+100) 1) dialog: You got a stockbroker, Frank?
+100) 3) text: The banker jots down a name and phone number on the back one of his business cards.
+100) 4) dialog: This one couldn't be more honest. Ask around. He's got a lot of clients in the business. You can't leave all your money in safety deposit boxes; give him a call.
+100) 5) text: The banker hands him the card and moves on. Frank's tryin to have a good time, but the level of noise and revelry i beginning to make him uncomfortable.

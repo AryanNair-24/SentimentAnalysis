@@ -1,0 +1,8 @@
+63) 0) text: Wilson is at the head of eight servants lined up on the f steps. Two black PLYMOUTH SEDANS pull up and park. EIGHT in grey business suits get out. One of them, WOLTZ, goes directly to Wilson.
+63) 1) dialog: Good morning, Mr. Wilson.
+63) 3) dialog: Thank you. How have you been?
+63) 6) dialog: (reads list)
+70) 0) text: Woltz and Wilson wait by the library door. Woltz takes a small metal detector from his pocket as Rand and Chance approach.
+70) 1) dialog: Good morning, Mr. Rand.
+70) 3) dialog: (passes detector over Rand's body)
+70) 7) dialog: (passes detector over Chance)

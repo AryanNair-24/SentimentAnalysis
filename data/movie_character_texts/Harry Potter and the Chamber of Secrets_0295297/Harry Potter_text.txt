@@ -1,0 +1,352 @@
+0) 0) text: WIDE HELICOPTER SHOT. Privet Drive. CAMERA CRANES DOWN, DOWN, OVER the rooftops, FINDS the SECOND FLOOR WINDOW of NUMBER 4. HARRY POTTER sits in the window.
+1) 0) text: Harry pages through a SCRAPBOOK, stops on a MOVING PHOTO of Ron and Hermione. SQUAWK! Harry jumps. HEDWIG pecks at the LOCK slung through her cage door, then glowers at Harry.
+1) 1) dialog: I can't, Hedwig. I'm not allowed to use magic outside of school. Besides, if Uncle Vernon -- At the sound of the name, HEDWIG SQUAWKS again, LOUDER.
+1) 3) dialog: Now you've done it.
+2) 0) text: While AUNT PETUNIA puts the finishing touches to a PUDDING of WHIPPED CREAM and SUGARED VIOLETS, UNCLE VERNON struggles with DUDLEY'S BOW TIE, all the while glowering at Harry.
+2) 2) dialog: She's bored. If I could just let her out for an hour or two --
+2) 6) dialog: But I haven't gotten any messages. From any of my friends. Not one. All summer.
+2) 18) dialog: I'll be in my bedroom, making no noise and pretending I don't exist.
+3) 0) text: Harry enters, turns, and stops dead: a tiny CREATURE with bat-like ears and bulging green eyes is jumping on his bed as if it were a trampoline. This is DOBBY.
+3) 3) dialog: What... Who are you?
+3) 5) dialog: I see. Not to be rude or anything, but this isn't a great time for me to have a house-elf in my bedroom.
+3) 7) dialog: Why don't you sit down?
+3) 9) dialog: Shhhh! I'm sorry. I didn't mean to offend you or anything --
+3) 11) dialog: You can't have met many decent wizards then. Dobby shakes his head, then without warning, LEAPS off th bed and starts to BANG HIS HEAD FURIOUSLY ON THE FLOOR.
+5) 0) text: Dobby gets back to his feet, wobbling, eyes spinning dizzily. Harry regards him with a mixture of concern... and wariness.
+5) 1) dialog: Are you... all right?
+5) 3) dialog: Your... family?
+5) 6) dialog: Not go back? But... I have to.
+5) 10) dialog: What terrible things? Who's plotting them? Dobby makes a funny CHOKING and GAGGING noise.
+5) 11) dialog: Okay! I understand. You can't say -- Too late. Dobby grabs the bedside lamp and starts beating himself about the head and YELPING LOUDLY.
+7) 0) text: Harry wrestles the lamp away from Dobby.
+7) 1) dialog: Stop! Stop! FOOTSTEPS THUNDER on the landing. Quickly, Harry grabs Dobby by the pillowcase and pitches him into the wardrobe... just as the door FLINGS OPEN.
+7) 5) dialog: See why I've got to go back? I don't belong here. I belong in your world -- at Hogwarts. It's the only place I've got... friends.
+7) 7) dialog: Well, I expect they've been -- hang on, how do you know my friends haven't been writing me? Guiltily, Dobby takes out a STACK of LETTERS.
+7) 9) dialog: Give me those. Now. Dobby frowns sadly, then DASHES out the door. Panicking...
+8) 0) text: ... Harry flies desperately after, Dobby bouncing like a ping-pong ball down the stairs and into the kitchen. As Harry races in, he finds Dobby on the counter, waving his arms. Aunt Petunia's masterpiece of a pudding RISES, then floats into the living room, HOVERING over the Mason's heads. The Masons don't see, but the Dursleys -- goggle-eyed--do.
+8) 1) dialog: Dobby... Please... No...
+8) 3) dialog: I can't. Hogwarts is my home. (CONTINUED )
+10) 0) text: Uncle Vernon runs back into the living room, extends the letter to Harry.
+10) 2) dialog: ‘Dear Mr. Potter. We have received intelligence that a Hover Charm was used at your place of residence at twelve minutes past seven this evening. As you know, underage wizards...'
+11) 1) text: Uncle Vernon fits IRON BARS to the inside of Harry's window. Drills a METAL FLAP to the base of the bedroom door. Fits a FAT, GREY LOCK to the door itself. Soaking with sweat, he casts Harry a nasty grin and pulls shut the DOOR. It closes with the DULL CLANK of a cell.
+12) 0) text: Harry stares gloomily out the window. The METAL FLAP RATTLES and Dudley's pudgy hand slides a BOWL of TINNED SOUP onto the floor. He grins cruelly through the opening.
+12) 2) dialog: Well done, Dudley. Finally learned the days of the week, have you.
+12) 4) dialog: It's no good turning your beak up. It's all we've got. Harry feeds a piece of bread to Hedwig... as we...
+12) 14) dialog: Ron?
+13) 1) dialog: Fred? George? What're you doing here?
+16) 0) text: Harry pushes the trunk over the sill into the Anglia's boot, then scrambles through the window himself, when...
+16) 2) dialog: Hedwig! Harry clambers back, grabs Hedwig's cage, swings it onto the ledge, when... BAM! The bedroom door CRASHES OPEN.
+18) 0) text: The boys sneak inside, gently close the door. Harry stops. Magical objects surround him: A CLOCK displays different chores for each family member. A pair of NEEDLES knit a sweater by themselves. And a stack of PLAYING CARDS that. A stack of PLAYING CARDS SHUFFLE themselves, providing a cooling breeze for Ron's aging rat, SCABBERS. Ron shrugs, averts his eyes self- consciously.
+18) 2) dialog: I think it's... brilliant! Ron looks up. Sees Harry's mesmerized face. Slowly... GRINS.
+18) 14) dialog: (to Ron) Raids?
+18) 16) dialog: The Misuse of Muggle Artefacts...? (CONTINUED )
+18) 33) dialog: Diagon Alley!
+19) 3) dialog: Floo Powder? Just then, Ron's older brother PERCY enters.
+19) 11) dialog: (nodding, unsure) D-Dia-gon Alley!
+20) 0) text: The SOUND is DEAFENING as Harry hurtles forward, squinting against the sting of WHIRLING SOOT and the mad, flickering lights of passing fireplaces. He falls face forward...
+21) 0) text: ++. onto a stone hearth. Dizzy and dirty, Harry reclaims his shattered glasses. He's tumbled into a wizard's shop, but a decidedly creepy one. He starts to exit, when a WITHERED HAND in a GLASS CASE catches his eye: The Hand of Glory. Nearby, an OPAL NECKLACE gleams: Caution: Do not touch. Cursed--Has Claimed the Lives of Nineteen Muggle Owners to Date. Oddly transfixed by it all, Harry drifts toward the exit, when... (CONTINUED )
+22) 0) text: Once outside, Harry fits his broken glasses to his face, eyes a STREET SIGN: "KNOCKTURN ALLEY." (CONTINUED )
+22) 4) dialog: I'm fine, thanks. I'm just --
+22) 6) dialog: Hagrid! Hagrid knocks the tray from the cursing Witch's hands, then seizes Harry by the scruff of the neck and steers him away.
+23) 0) text: Hagrid swats at Harry's sooty clothes.
+23) 2) dialog: I was lost, I -- Hang on. What were you doing down there?
+23) 11) dialog: I need to remember that one.
+23) 16) dialog: Who?
+25) 0) text: Harry and the others thread their way through a CHATTERING THRONG of MIDDLE-AGED LADIES, all craning their necks for a view of Lockhart, who sits signing books at the rear of the shop. At the sight of him, Mrs. Weasley pats her hair.
+25) 8) dialog: Thank you. Slipping free, Harry drifts back into the crowd and, red with embarrassment, drops the books into Ginny's cauldron.
+25) 9) dialog: You have these. I'll buy my own! --
+25) 17) dialog: He was a murderer.
+25) 19) dialog: His name is Voldemort. Those within earshot gasp as Harry utters the word.
+27) 0) text: The Weasleys and Harry -- pushing large TROLLEYS -- dash under the LARGE CLOCK which reads two minutes to eleven.
+29) 3) dialog: Sorry. Lost control of the trolley. (to Ron) Why can't we get through?
+29) 5) dialog: The train leaves at exactly eleven o'clock. We've missed it.
+29) 7) dialog: Maybe we should go wait by the car.
+30) 0) text: Pushing their trolleys madly before them, Harry and Ron dash to the car, load their belongings into the Anglia's boot. (CONTINUED )
+30) 3) dialog: This is mad. We can't drive to Hogwarts.
+30) 5) dialog: You don't mean -- Ron, no.
+30) 7) dialog: Something tells me we're going to regret this.
+31) 1) dialog: No offense, Ron, but are you sure you know how to fly this.
+31) 4) dialog: Uh, Ron. I should tell you. Most Muggles aren't accustomed to seeing a flying car.
+32) 3) dialog: There! Up ahead! Look... Along a STEEP BRIDGE, a single line of TRAIN TRACKS appear.
+32) 6) dialog: Do you hear that? Then, at precisely the same moment, Harry and Ron register the DIRECTION of the sound. They glance at each other, turn as one and see the train GROWING HUGE in the rear window.
+32) 7) dialog: Aaaahhhhh! Ron SPINS THE WHEEL, puts his foot to the gas and -- at the last possible second -- whips the Anglia out of the train's path. The car WAFFLES, TOPPLES upside down briefly, before... (CONTINUED )
+32) 12) dialog: I'm trying! Your hand's all sweaty! Straining, Ron yanks him inside, levels off the car. As Harry falls heavily into his seat, he BUCKLES his safety belt.
+32) 13) dialog: I think we found the train.
+33) 2) dialog: Just out of interest, Ron. Have you ever landed a car before?
+33) 9) dialog: 
+33) 11) dialog: 
+33) 13) dialog: 
+33) 18) dialog: Be thankful it's not your neck. THWUNMP! Something HEAVY HITS Harry's door, sends a SHUDDER through the car.
+33) 22) dialog: Aaaaahhhhh! The Anglia tilts crazily, slides backwards and FREE-FALLS through the air and... LANDS on lower grid of branches.
+33) 24) dialog: Aaaaahhhhh! The tree PITCHES the car into the air. As the Anglia SLAMS DOWN again, bobbing on its SQUEALING SHOCKS, the ENGINE BURBLES BACK TO LIFE. Harry LOOKS UP, peering through the shattered windscreen. The willow's branches, as one, rear back, ready for one last punishing blow. Harry CRIES OUT.
+33) 25) dialog: Reverse! Reverse! Ron SHIFTS, the CAR SHOOTS BACKWARDS, and the willow PUMMELS THE TREAD-MARKED GROUND they just vacated. Safely clear, the doors fly open, the seats tip sideways, and Ron and Harry are ejected. As they hit the ground, their trunks fly from the boot, Hedwig's cage rockets out the back window, and Hedwig herself flaps into the night. Taillights blazing angrily, the BATTERED car speeds off, fishtailing into the Dark Forest.
+34) 0) text: Filthy and bruised, Harry and Ron drag themselves up the steps. Behind them we see the mountain of student trunks and caged pets already brought up from the train. (CONTINUED )
+34) 3) dialog: A house elf shows up in my bedroom, we can't get through the barrier to Platform Nine and Three Quarters, we almost get killed by a tree... clearly someone doesn't want me here this year.
+35) 0) text: CLOSEUP: The Evening Prophet ENTERS FRAME. The HEADLINE reads: FLYING FORD ANGLIA MYSTIFIES MUGGLES. Below the fold a PHOTO shows Harry and Lockhart at Flourish and Blotts. CAMERA PULLS BACK, PROFESSOR SEVERUS SNAPE stands at his desk, newspaper in hand as Harry and Ron stare with dread. Filch lurks in the doorway, eying them with pleasure. (CONTINUED )
+35) 7) dialog: Professor Dumbledore. Professor McGonagall...
+35) 15) dialog: Mr. Filch. You dropped this... Filch turns, eyes the envelope with embarrassment, then snatches it from Harry's hand and stuffs it into his pocket.
+37) 0) text: As Harry and Ron enter, SEAMUS, NEVILLE and some of the other Gryffindors hover nearby.
+38) 5) dialog: You're doomed. FLASH! -- a LIGHT BLINDS Harry. He blinks, finds a small boy (COLIN CREEVEY) standing before him with a CAMERA.
+38) 7) dialog: Hello, Colin. Nice to meet --
+38) 28) dialog: Look at it this way. How much worse can things get? 42
+39) 5) dialog: ‘What is Gilderoy Lockhart's favorite color?'
+39) 7) dialog: ‘When is Gilderoy Lockhart's birthday and what would his ideal gift be?'
+40) 0) text: Fresh from the pixies, Hermione, Ron, Harry and Neville walk. Hair askew. Robes shredded.
+40) 3) dialog: Hands on? Hermione, he didn't have a clue what he was doing. (CONTINUED )
+41) 0) text: The Gryffindor Quidditch team -- Harry, Fred, George, ALICIA SPINNET, KATIE BELL, and ANGELINA JOHNSON -- trail Oliver Wood through the courtyard, toward the distant Quidditch pitch. Several students are outside, studying. woOoD I spent the summer devising a whole new Quidditch program. We're going to train earlier, harder, and longer! (squinting) What the... I don't believe it! Crossing the courtyard from the other side are SEVEN BOYS in GREEN ROBES, also carrying broomsticks. At their lead is MARCUS FLINT, trollish Slytherin Captain. Ron, sitting at a table with Hermione, looks up. (CONTINUED )
+41) 6) dialog: Draco?
+41) 18) dialog: Get out of the way, Colin! (to Hermione) Let's take him to Hagrid. He'll know what to do.
+42) 6) dialog: Malfoy. He called Hermione, well, I don't know exactly what it means...
+42) 11) dialog: That's horrible.
+43) 0) text: CAMERA PANS the walls of Lockhart's office, lined with FRAMED PHOTOGRAPHS of... Gilderoy Lockhart. Harry and Lockhart work by candlelight at an ornate desk. Bleary- eyed, Harry addresses envelopes, while a cheery Lockhart puts his signature to the stack of GLOSSY PHOTOS bearing his image.
+43) 8) dialog: What?
+43) 10) dialog: No... not you, that... voice.
+43) 12) dialog: That... voice. Didn't you hear it?
+43) 14) dialog: Spooky.
+44) 0) text: Harry passes quickly through the lengthening shadows of the empty corridor, when...
+44) 6) dialog: Did you hear it?
+44) 8) dialog: That... voice.
+44) 10) dialog: (eyes darting around) I heard it first in Lockhart's office and then again, just --
+44) 13) dialog: It's moving. I think it's going to... kill. Harry runs off. Hermione and Ron exchange a glance, follow.
+45) 0) text: Harry dashes madly, taking the steps three at a time. makes the landing, rushes through the archway, and...
+46) 8) dialog: That's Filch's cat. Mrs. Norris. The cat hangs stiffly by her tail from a torch bracket, eyes open and blank. Harry's eyes shift to the adjacent WINDOW: near the topmost pane, SPIDERS scuttle up a silvery thread, fight to get through a crack in the glass.
+46) 22) dialog: It's not true, sir! I swear! I never touched Mrs. Norris -- And I don't even know what a Squib is.
+46) 33) dialog: When I said I wasn't hungry. We were heading back to the Common Room and... found Mrs. Norris. Snape eyes Harry coldly, knowing he's lying. Harry looks away... and finds Dumbledore studying him as well.
+47) 0) text: Harry, Ron and Hermione walk down the corridor.
+47) 3) dialog: Yes.
+47) 5) dialog: He said he didn't.
+47) 10) dialog: You do believe me, don't you?
+47) 12) dialog: I can't explain it -- it was... scary. (frowning) D'you think I should've told them! -- Dumbledore and the others, I mean.
+48) 0) text: Harry, Hermione, and Ron thread their way through the teeming corridor. Up ahead, Malfoy walks with Crabbe and Goyle.
+48) 3) dialog: But if there really is a Chamber of Secrets, and it's really been opened, that means...
+48) 9) dialog: Maybe Ron's right, Hermione. I mean, look at his family. The whole lot of them have been in Slytherin for centuries.
+49) 0) text: In a dark nook, Harry, Ron and Hermione huddle round a book entitled Moste Potente Potions. The spotted pages are littered with DISTURBING ILLUSTRATIONS.
+49) 9) dialog: How long will it take to make?
+49) 11) dialog: A month? But if Malfoy is the heir of Slytherin... he could attack half the Muggle-borns in the school by then.
+50) 4) dialog: Harry wheels and at the last possible moment, slips the WHISTLING Bludger. CRACK! George swoops down, BATS it away. Harry turns, watches it soar away, then blinks: the Bludger turns, streaks right back at him. Harry JETS OFF. (CONTINUED )
+50) 16) dialog: No... no... not you. (CONTINUED )
+51) 0) text: A dazed Malfoy slumps out with Crabbe and Goyle. Ron, standing by Harry's bed with Hermione, grins, then watches MADAM POMFREY pour out a STEAMING BEAKERFUL OF LIQUID from a bottle of SKELE-GRO. A group of Gryffindors, including some of his teammates, stand nearby.
+52) 0) text: Harry fidgets in the darkness, half-asleep, then... his eyelids flutter slowly open...
+52) 3) dialog: Dobby!
+52) 5) dialog: (pushing the sponge away) It was you! You stopped the barrier from letting Ron and me through!
+52) 7) dialog: You nearly got Ron and me expelled! (CONTINUED )
+52) 12) dialog: Your Bludger? You made that Bludger chase after me? (CONTINUED )
+52) 17) dialog: You'd better clear off before my bones come back, Dobby, or I might strangle you!
+52) 19) dialog: I don't suppose you could tell me why you're trying to kill me?
+52) 21) dialog: Why do you wear that thing, Dobby?
+52) 26) dialog: Repeat itself? You mean, this has happened before? Dobby seizes the Skele-Gro, BEATS himself about the head.
+52) 27) dialog: Tell me, Dobby? When did this happen before? Who's doing it now?
+52) 29) dialog: No, Dobby! Tell me! Who is it? CRACK! Dobby is gone. SHADOWS flicker beyond the CURTAIN encircling Harry's bed. Harry slumps down... peers through a slit in the curtains. Dumbledore, ina nightcap, and McGonagall, in a tartan robe, heave a SMALL STATUE onto an empty bed. Seconds later, Madam Pomfrey bustles in.
+54) 0) text: A gloomy place. Cracked mirrors. Chipped sinks. Guttering candles. Harry and Ron huddle over a SMALL, BUBBLING CAULDRON, as Hermione adds STRANGE INGREDIENTS.
+55) 0) text: NOTICE-BOARD: DUELING CLUB! First Meeting Tonight. A GOLDEN STAGE has been erected. Lockhart struts atop it. Harry, Ron, Hermione and good number of other students watch.
+55) 3) dialog: Nice to meet you. I'm --
+55) 10) dialog: (eyeing Snape) I wouldn't bet on that.
+55) 14) dialog: Who cares?
+55) 23) dialog: You wish. They turn, walk ten paces, then WHIRL, wands poised.
+55) 25) dialog: Rictusempra! A jet of SILVER LIGHT hits Malfoy dead in the stomach. He doubles up, WHEEZING.
+55) 32) dialog: (in Parseltongue) Leave him! The snake looks into Harry's eyes, then turns for Justin.
+55) 33) dialog: (in Parseltongue)
+56) 0) text: Ron and Hermione usher Harry inside. Harry glances up, sees Ginny Weasley staring down at him from the top of the stairs. As their eyes meet, she turns for the girls' dormitory.
+56) 4) dialog: I'm a what?
+56) 6) dialog: I know. I mean, I accidentally set a python on my cousin Dudley at the zoo once. But so what? I bet loads of people here can do it.
+56) 8) dialog: What's bad? If I hadn't told that snake not to attack Justin --
+56) 10) dialog: You were there! You heard me!
+56) 12) dialog: I spoke a different language? But I didn't realize -- how can I speak a language without knowing I can?
+56) 18) dialog: But I'm not. I... can't be.
+57) 0) text: A heavy snow falls. Harry sits atop one of the towering hills facing Hogwarts. Hedwig sits beside him.
+57) 1) dialog: Who am I, Hedwig? What am I?
+58) 0) text: The trio study. Harry, burdened by dark thoughts, looks up at Ron. He smiles at Harry, then, seconds later, Hermione does the same -- something forced about it all. Unable to bear it, Harry gathers his books, gets up from the table. As Harry walks, students glance up, meet his gaze, then look away. Even MADAM PINCE eyes him from her desk. Ginny Weasley, tired and pale, scribbles furiously in a SMALL BLACK BOOK. Harry exits, walks into the hallway and pauses. From inside a room, the VOICES of a group of Hufflepuffs can be heard.
+59) 0) text: MUTTERING, Harry storms straight into Hagrid, who stands covered in snow, a DEAD ROOSTER dangling from his hand.
+59) 2) dialog: Hagrid... what're you doing here? (CONTINUED )
+59) 6) dialog: It's nothing. I'd better get going. I've got a lot of studying...
+60) 0) text: Harry enters, slows. Up ahead, in the light of a FLICKERING TORCH, something DARK lies. A WINDOWPANE RATTLES in the WIND and the torch... goes out. Harry steps closer, finds... Justin-Finch-Fletchley. Lying rigid on the floor, a look of shock on his frozen face. Nearby, an inert Nearly Headless Nick floats, body teeming with BLACK SMOKE. Kneeling, Harry notices a TRAIL OF SPIDERS scuttling away from Justin's body and out the loose windowpane... when suddenly... ... Harry senses someone watching him, wheels: McGonagall.
+60) 1) dialog: Professor, I swear I didn’t -- PROFESSOR McGONAGALL This is out of my hands, Potter. Mr. Filch, will you take care of this, please? Harry's eyes shift. Filch lurks in the shadows beyond McGonagall. He steps forward, HISSES QUIETLY.
+61) 0) text: McGonagall marches Harry down to an UGLY STONE GARGOYLE. PROFESSOR McGONAGALL Sherbet lemon. The Gargoyle SPRINGS TO LIFE, its wings opening. PROFESSOR McGONAGALL Professor Dumbledore will be waiting for you. McGonagall ushers Harry inside. It's an elevator. The Gargoyle's wings close. Harry rises to an upper floor.
+62) 0) text: Harry steps out of the Gargoyle's embrace and enters a large, circular room. STRANGE SILVER INSTRUMENTS WHIR quietly. On a nearby shelf, the SORTING HAT sits. Harry casts a wary eye at the PAST HEADMASTERS snoozing in the PORTRAITS around him. In the last portrait, the Headmaster is awake, reading a book. He is PROFESSOR DIPPET. Harry approaches the Sorting Hat, glances around, then places it atop his head.
+62) 2) dialog: Well, you see, I was wondering... (CONTINUED )
+62) 6) dialog: You're wrong! The hat sits motionless. Silent. Hearing a GAGGING SOUND, Harry wheels, finds an OLD, DECREPIT BIRD (FAWKES) sitting on a GOLDEN PERCH. It wobbles, then... BURSTS INTO FLAMES. As Dumbledore enters, Harry looks horror- struck.
+62) 7) dialog: Professor, your bird... I couldn't do anything... He just caught fire.
+62) 19) dialog: You don't think it was me, Professor?
+62) 21) dialog: No, Professor. Nothing.
+63) 0) text: Students drift into the snow with their trunks, heading home for holiday. As Harry, Ron, and Hermione appear, Ernie and few others cast wary glances.
+63) 5) dialog: He's the only one.
+63) 7) dialog: Maybe they're right.
+63) 9) dialog: (frustrated) I didn't know I could speak Parseltongue. What else don't I know about myself? Maybe you can do something... even something horrible... and not know you did it.
+64) 0) text: The Christmas Feast. The Hall glimmers grandly as snowflakes tumble from the ceiling. Harry and Ron sit with Hermione. (CONTINUED )
+64) 3) dialog: Crabbe and Goyle.
+65) 0) text: Harry and Ron, lurking behind a SUIT OF ARMOR, watch Crabbe and Goyle exit the Great Hall. Goyle spies the cakes instantly, perched on the end of one of the banisters. Grabbing them, he reluctantly surrenders one to Crabbe and, in unison, they stuff them into their mouths. They pause. Look at each other. And keel flat onto their backs. Harry and Ron dash out, drag Crabbe and Goyle across the floor and into a cupboard.
+66) 0) text: Hermione, wearing a Slytherin robe, hovers over a smoking cauldron. Harry and Ron enter. (CONTINUED )
+66) 16) dialog: Ron?
+66) 18) dialog: We still sound like ourselves. You need to sound more like Crabbe.
+66) 20) dialog: Lower.
+66) 22) dialog: Less intelligent.
+66) 24) dialog: Excellent.
+66) 27) dialog: Hermione, are you okay?
+67) 0) text: Harry and Ron hurry down the staircase.
+68) 0) text: Harry and Ron trail Draco inside, glance around warily.
+68) 10) dialog: You're wrong!
+68) 12) dialog: Harry Potter.
+68) 14) dialog: Then you must have some idea who's behind it all?
+69) 0) text: As Harry and Ron race toward the stairs, the BROOM CLOSET bursts open and a woozy Crabbe and Goyle stagger out. They freeze -- watch themselves run up the staircase.
+70) 0) text: Harry and Ron sprint toward the desecrated wall, their bodies metamorphosing, until, finally, as they hit the door...
+71) 2) dialog: Hermione, come out. We've got loads to tell you!
+72) 0) text: Staggering under the weight of the LIBRARY BOOKS in their arms, Harry and Ron make their way to Hermione's bed, which is covered in... BOOKS.
+72) 11) dialog: Nothing.
+72) 13) dialog: Neville asked to borrow a tubeworm in Potions yesterday. I suppose that's something. a GET-WELL CARD from under Hermione's pillow.
+73) 0) text: Harry and Ron mount the stairs, emerge.
+73) 4) dialog: Looks like Myrtle's flooded the bathroom. As Harry sploshes off toward the bathroom, Ron lightly.
+74) 0) text: HUGE, WRACKING MOANS echo off the dreary tile. 84a. 92 streams can be steps 93 All the taps are running, streaming like tiny waterfalls. As Harry and Ron step to the last cubicle, Myrtle accusingly. spins (CONTINUED )
+74) 4) dialog: Why would I throw something at you?
+74) 8) dialog: Who threw it at you anyway?
+75) 0) text: Harry examines the book as he and Ron walk.
+75) 1) dialog: This is a diary. And it's old... (CONTINUED )
+75) 6) dialog: I'll take my chances... (opening it) Ahhh! MY EYES! MY EYES! Ron freezes, terrified, when... Harry grins, ending the ruse. At the end of corridor, Ginny stands, looking from the diary to Harry -- utter terror on her face -- then dashes off.
+75) 7) dialog: Ginny! I was only joking -- Brilliant. Even your sister thinks I'm the monster now.
+75) 10) dialog: That's odd. He never wrote in it.
+76) 4) dialog: Special Services to the School or something --
+76) 6) dialog: Yes. Why?
+76) 8) dialog: Fifty years ago! That means --
+76) 10) dialog: That's a brilliant theory, Hermione. With just one tiny little flaw. There's nothing written in this diary.
+76) 15) dialog: You don't think I'm dangerous, do you, Hermione? I mean, you're not scared. Of me.
+77) 0) text: CAMERA STARTS OVERHEAD, looking down on the boys' dormitory. Seamus, Neville, Ron and Dean sleep. One bed is empty. CAMERA CRANES TO the Common Room, finds Harry sitting alone, flipping through the blank pages of the diary. Harry starts to set the diary aside, then notices a BOTTLE OF INK sitting on the desk. An idea flickers. Taking his QUILL, Harry dips it, and hesitates. As he does, a DROP of INK hangs, suspended like a tear, then... DROPS. The ink BLAZES briefly, then... VANISHES... as if it were sucked into the page. Excited, Harry dips his quill again, and, this time, writes: My name is Harry Potter. The words blaze, VANISH. Slowly, oozing out of the page, comes a response: Hello, Harry Potter. My name is Tom Riddle. Harry's mind races. Deciding, he MUTTERS the words he writes:
+77) 1) dialog: Do... you... know... anything... about... the... Chamber... of... Secrets? Yes.
+77) 2) dialog: Can... you... tell... me? No. (CONTINUED )
+78) 0) text: .».. in torch-lit corridor. Everything is de-saturated, save for Harry, who retains the true, rich colors of the present. He glances about, disoriented, then spies a BOY (TOM RIDDLE) at the end of the corridor, peering around a corner. A FLURRY of SHADOWS dances on the wall beyond the boy, revealing the presence of others, unseen, in an adjoining room. As Harry advances, LOW VOICES emanate from the shadows. As he reaches the boy, Harry speaks in a WHISPER:
+78) 1) dialog: Excuse me. Could you tell me where I am? Hello...? The boy doesn't respond, eyes staked to the activity in the adjoining room... which Harry sees now is the Entrance Hall. A group of ELDER WITCHES and WIZARDS -- Hogwarts Professors -- talk amongst themselves, then... abruptly go silent. Make way for two YOUNG WIZARDS, bearing a STRETCHER.
+80) 0) text: Harry rushes to Ron, shakes him awake, WHISPERING INTENSE
+80) 1) dialog: Ron! Ron!
+80) 3) dialog: It was Hagrid. Hagrid opened the Chamber of Secrets fifty years ago.
+82) 0) text: Harry, Ron and Hermione walking together across the groun
+82) 3) dialog: The monster had killed someone, Ron. What would any of us done?
+82) 9) dialog: No! Hagrid looks at them curiously. Harry nods to the STRANGE CANISTER in his hand.
+82) 10) dialog: What's that you've got, Hagrid?
+83) 0) text: Harry's space is a disaster: trunk riffled, drawers flung open, bedclothes strewn on the floor.
+83) 6) dialog: And they found it... Tom Riddle's diary is gone.
+85) 0) text: Harry, dressed in his Quidditch robes, dashes down the staircase with Ron and Hermione. Down below, Ron spies Ginny.
+85) 6) dialog: What do you understand! (CONTINUED )
+85) 9) dialog: The library?
+86) 0) text: Harry and his teammates march toward the Quidditch tower. The CHEERS of the CROWD are heard. woOoD Listen up now. We play our game, Hufflepuff doesn't stand a chance. We're stronger, quicker, smarter.
+87) 0) text: McGonagall pauses outside the door, turns to Harry and Ron. (CONTINUED )
+88) 6) dialog: We've got to talk to Hagrid, Ron. I can't believe it's him. But if he did set the monster loose last time -- even by accident -- he'll know how to get inside the Chamber of Secrets. And that's a start.
+88) 8) dialog: I think it's time to get my Dad's old Cloak out again.
+89) 0) text: CLOSEUP: A drawer opens, a HAND reaches in, takes the INVISIBILITY CLOAK. CAMERA PULLS BACK, REVEALS Ron and Harry. All around them, the other boys sleep. Harry pitches the cloak over himself and Ron. They're gone.
+90) 0) text: Harry and Ron, beneath the cloak, sneak by an unaware Snape.
+92) 0) text: FANG, Hagrid's enormous BOARHOUND, THUMPS HIS TAIL at the sight of Harry and Ron. Harry points to the crossbow.
+92) 1) dialog: What's that for?
+92) 3) dialog: Are you okay? Hagrid? Did you hear about Hermione?
+92) 5) dialog: Look... we have to ask you something. Do you know who's opened the Chamber of Secrets? Hagrid takes a fruit cake, stops, about to answer, when... there is a LOUD KNOCK. The fruitcake SMASHES to the floor. Panicked, Harry and Ron throw the cloak over themselves. Sweating, Hagrid grabs his crossbow, points it at the door.
+92) 35) dialog: Look... At the windowsill, a TRAIL OF SPIDERS escapes through a crack in the glass. Harry grabs Hagrid's LANTERN.
+92) 36) dialog: C'mon. 115 thru 118 119 120 121 103.
+93) 0) text: Harry illuminates the TRAIL OF SPIDERS. They run from the window to the ground, to the dark trees in the near distance. As Harry moves to follow, Ron hesitates.
+93) 2) dialog: You heard Hagrid. Follow the spiders.
+94) 0) text: Fang crashes through low-slung branches and sharp brambles as Harry follows. Ron gingerly picks his way, the JUMPS... as FANG HOWLS. BRANCHES SNAP. A RUMBLING NOISE sounds, then... SILENCE. Harry spies something, points 0O.S.
+94) 1) dialog: There's something moving over there... something big. Just then a BLAZE of LIGHT splinters the trees, blinding them. They start to flee... when Ron stops.
+94) 6) dialog: It's been here all the time! Look at it. The Forest has turned it wild. Harry nods, then glances back up the slope.
+94) 7) dialog: C'mon, we don't want to lose the trail.
+95) 0) text: Harry and Ron enter a hollow ribboned with shadows. Enormous trees tower over them, strewn with strands of white webbing. Ron steps on a strand, kicks it off queasily. Harry peers up ahead: at the far end of the hollow, the spiders stream toward a DARK OPENING. As Harry and Ron approach the opening, a CLICKING SOUND emanates from within, ECHOING in the branches of the tall trees. GROWING LOUDER. Ron falters, glancing about nervously.
+95) 2) dialog: Don't panic. As Harry steps to the mouth of the cavern, the AIR suddenly CRACKLES with MOVEMENT. TWIGS SNAP. A HUGE SHADOW emerges, slowly engulfs Harry. He peers up.
+95) 6) dialog: (breathing finally) Yes. We're friends of Hagrid's. And you... you're... (as it comes to him) ... Aragog, aren't you? (CONTINUED )
+95) 10) dialog: He's in trouble. Up at school, there've been attacks. They think it's Hagrid. They think he's opened the Chamber of Secrets. Like before. As Harry talks, Ron's eyes dart warily about, then... RON'S POV - a pair of long legs -- SPIDER'S LEGS -- curl slowly around the trunk of the tree to his left. Terrified, Ron NUDGES Harry, but Harry ignores him.
+95) 12) dialog: But if Hagrid never... that means... you're not the monster.
+95) 15) dialog: Shhh! (to Aragog) But if you're not the monster, what did kill that girl fifty years ago?
+95) 17) dialog: But have you seen it? (CONTINUED )
+95) 21) dialog: (annoyed) What! Ron points. Harry looks. Pales. Turns slowly back to Aragog.
+95) 22) dialog: Well... thank you. We'll just go...
+95) 29) dialog: Let's go! Harry, Ron and Fang LEAP INSIDE. Ron SHIFTS FRANTICALLY. A SPIDER appears at Harry's open window.
+95) 30) dialog: 
+96) 0) text: The Anglia jets out of the hollow, lands with a THUD. Harry turns. The other spider is PULLING RON from the car. Harry points his wand, utters a spell and a BLINDING FLASH OF WHITE LIGHT BLASTS the spider into the shadows whipping past.
+96) 6) dialog: Don't mention it. They stop. Both hear it: a DISTANT CLICKING. As the car flies over a ridge, they see them: a SEA OF SPIDERS heading straight for them like a herd of raging wildebeest. Ron puts his foot to the floor, SPINS the wheel and sends the car sliding away. The spiders STAMPEDE after.
+97) 0) text: The Anglia SLALOMS through the forest, skimming past trees as the spiders CHARGE after. Harry peers ahead, SEES an area of FALLEN TREES. There is an OPENING, one narrow escape route.
+97) 1) dialog: That way! It's the only way out! (looking back) Hurry! They're catching up! Ron JAMS the accelerator... just as a GIANT TARANTULA drops in front of the escape route. Harry and Ron are as good as dead.
+97) 2) dialog: Can you get us in the air?
+98) 0) text: As they LAND, Fang bolts free. Harry and Ron exit the CAR wearily, then watch it turn and RUMBLE BACK INTO THE FOREST. (CONTINUED )
+98) 4) dialog: We know one thing. Hagrid never opened the Chamber of Secrets. He was innocent.
+99) 0) text: Madam Pomfrey bars the door, frowns at Harry and Ron.
+99) 7) dialog: Wish you were here, Hermione. We need you. Now more than ever... Just then, the mirror in Ron's hand CATCHES the LATE AFTERNOON SUNLIGHT and casts a jagged FLAME across Hermione's hand. Harry watches the light dance over her fingers... then looks closer. Sees the paper clutched there.
+100) 0) text: Harry and Ron duck into an alcove, take out the CRINKLED paper, which, we see now, is TORN from a library book.
+100) 1) dialog: ‘Of the many fearsome beasts that roam our land, none is more deadly than the Basilisk. Capable of living for hundreds of years, instant death awaits any who meet this giant serpent's eye. Spiders flee before it and only the crowing of the rooster can kill it.' (looking up) Ron! This is it! The monster in the Chamber of Secrets is a Basilisk. That's why I can hear it speak. It's a snake.
+100) 4) dialog: Because no one did look it in the eye. Not directly at least... (in a rush) Colin saw it through his camera. Justin -- Justin must've seen the Basilisk through Nearly Headless Nick! Nick got the full blast of it, but he's a ghost -- he couldn't die again... (MORE ) (CONTINUED )
+100) 7) dialog: .-+. And Hermione... had the mirror! I bet you anything she was using it to look round corners, in case it came along.
+100) 9) dialog: The water... there was water on the floor that night. She only saw the Basilisk's reflection... (scanning the page again) The crowing of the rooster is fatal to it! That's why Hagrid's roosters were killed! Spiders flee before it! It all fits!
+100) 11) dialog: Hermione answered that too. Harry points. Scribbled, in Hermione's hand, is: "Pipes."
+100) 13) dialog: Remember what Aragog said? About that girl fifty years ago? She died in a bathroom. What if she never left.
+101) 0) text: McGonagall stands before the desecrated wall, surrounded by the rest of the staff. Harry and Ron creep up the stairwell. PROFESSOR McGONAGALL As you can see, the Heir of Slytherin has left another message. Our worst fear has been realized. A student has been taken by the monster. Into the Chamber itself. (as the teachers react) I'm afraid we shall have to send the students home. I'm afraid... this is the end of Hogwarts.
+102) 0) text: Harry and a very upset Ron walk with desperate purpose.
+102) 2) dialog: (pulling him away) C'mon. Let's go see Lockhart. He may be a brainless git, but he's going to try and get into the Chamber. We can tell him what we know...
+102) 4) dialog: We'll find her, Ron. Ginny's going to be fine. (CONTINUED )
+103) 0) text: Harry and Ron DASH inside.
+103) 1) dialog: Professor, we've got some information for you -- Harry and Ron stop dead. Lockhart's office is stripped to the shelves. Two LARGE TRUNKS stand open.
+103) 2) dialog: Are you going somewhere?
+103) 11) dialog: You're running away? After all that stuff you did in your books?
+103) 13) dialog: You wrote them!
+103) 15) dialog: You're a fraud! You've just been taking credit for what a load of other wizards have done!
+103) 21) dialog: Expelliarmus! Lockhart BLASTS backwards, toppling into one trunks, his wand flying across the floor.
+103) 22) dialog: Looks like those Dueling Lessons came in handy after all, Professor.
+104) 0) text: Lockhart walks ahead of Harry and Ron, their pointed at him. Moaning Myrtle floats above
+104) 2) dialog: To ask you how you died.
+104) 4) dialog: Who was it, Myrtle?
+104) 6) dialog: Just like that? How? 116. 128 of the open 129 130 wands the cistern. (CONTINUED )
+104) 10) dialog: This is it, Ron. This is the entrance to the Chamber of Secrets.
+104) 12) dialog: Open up. Ron shakes his head. Harry's spoken in his regular voice.
+104) 15) dialog: Oh, yes there is. You first. Harry points his wand at Lockhart, then the opening.
+104) 21) dialog: All right. Let's go.
+104) 23) dialog: Thanks, Myrtle. Harry turns. Jumps. Seconds later, Ron follows.
+105) 0) text: Harry and Ron slide wicked fast, in a hair-raising vertical plummet, catching glimpses of other, smaller pipes branching off in all directions, twisting and turning until the pipe levels off, dumps them onto the damp floor of a stone tunnel.
+106) 0) text: Lockhart stares miserably at the muck dripping from his robes. Harry takes a TORCH from the wall, poises his wand.
+106) 1) dialog: Lumos! The torch blooms with a BRIGHT ORANGE FLAME.
+106) 2) dialog: Remember. Any sign of movement, close your eyes straight away. Harry leads the way down the tunnel. CRUNCH! They look down: a rat's skull. All around them, the ground is littered with TINY SKELETONS. Ron squints, sees something HUGE and CURVED lying ahead. When he speaks, his voice is hollow with dread. (CONTINUED )
+106) 7) dialog: Maybe it's asleep. Ron draws his wand as they approach, squinting. Harry shines his light, revealing... a gigantic COIL of EMPTY SKIN.
+106) 11) dialog: Ron? Are you okay? (CONTINUED )
+106) 16) dialog: Wait here. I'll go on. I'1l go on and... find Ginny. If I'm not back in an hour... He leaves it there.
+106) 18) dialog: See you in a bit. Harry glances at the snake skin at his feet, moves off. He steps carefully through the shadows until he reaches a TOWERING STONE WALL, carved with TWIN SERPENTS.
+106) 19) dialog: (Parseltongue) Open. The serpents part and the GIANT WALL SLIDES OPEN. Harry removes his wand and ENTERS.
+107) 0) text: A vast chamber stretches ahead. Along the path are rows of STONE SERPENTS. The serpents rest in pools of black water. Ahead is an enormous STATUE of SALAZAR SLYTHERIN. Several feet in front of the statue, Ginny Weasley lies motionless. As Harry dashes and takes her into his arms, her head lolls to one side, cheeks white as marble. A pale hand clutches TOM RIDDLE'S DIARY to her chest. Harry DROPS the torch, RACES to Ginny, places his wand on the floor and kneels beside her. (BOLD ITALICS INDICATE
+107) 2) dialog: Ginny! Please don't be dead. Ginny! Wake up! Wake up! (CONTINUED )
+107) 6) dialog: Tom... Tom Riddle? What d'you mean, she won't wake? She's not...
+107) 8) dialog: Are you a ghost?
+107) 10) dialog: She's cold as ice. You've got to help me, Tom. There's a basilisk --
+107) 12) dialog: Give me my wand, Tom.
+107) 14) dialog: Listen, we've got to go! We've got to save her!
+107) 16) dialog: But she's dying! (CONTINUED )
+107) 21) dialog: No... she couldn't -- she wouldn't.
+107) 23) dialog: But... Why?...
+107) 25) dialog: (getting angry) And why did you want to meet me? (CONTINUED )
+107) 29) dialog: Hagrid's my friend. And you framed him, didn't you?
+107) 31) dialog: I'll bet Dumbledore saw right through you.
+107) 33) dialog: Well, you haven't finished it this time. In a few hours Mandrake Draught will be ready and everyone who was petrified will be all right again.
+107) 35) dialog: Ginny stole the diary from my room? But why? (CONTINUED )
+107) 40) dialog: Like what?
+107) 42) dialog: Why do you care how I escaped? Voldemort was after your time.
+107) 45) dialog: You. You're the heir of Slytherin. You're Voldemort?
+107) 50) dialog: Albus Dumbledore is the greatest sorcerer in the world!
+107) 52) dialog: He'll never be gone! Not as long as those who remain are loyal to him! Suddenly, MUSIC... EERIE and UNEARTHLY... ECHOES deep within the chamber and a small, swift SHADOW ribbons over the rock. Flying from above is FAWKES, the Phoenix. The bird SWOOPS into the chamber, clutching a RAGGED BUNDLE in its golden talons.
+107) 53) dialog: Fawkes. Fawkes flies toward Harry, drops the ragged bundle, which is the SORTING HAT, at his feet. Riddle picks it up.
+107) 62) dialog: (to himself) Don't look. Don't look into its eyes. Harry RACES along the stone path, but the giant serpent is FASTER. Harry TRIPS. FALLS. The Basilisk RISES. Harry looks to the wall, sees the serpent about to strike Suddenly FAWKES SCREECHES, soaring toward the Basilisk and circling its blunt head, confusing it. The SNAKE SNAPS furiously, when... Fawkes drops like a knife, driving its talons deep into the serpent's glittering eyes. As Harry watches the angry play of shadows on the wall, the BASILISK ROARS, HISSING in pain. Fawkes wings away, its talons dripping with blood and Harry turns, LOOKS: the Basilisk's eyes are a blind, bloody mess.
+108) 0) text: Harry RACES HEADLONG into the shadows, then looks back, sees the snake eclipse the light at the far end of the tunnel and SLITHER QUICKLY inside. (CONTINUED )
+109) 0) text: Harry DASHES back into the main chamber. Ginny looks frighteningly pale. Riddle GRINS cruelly, almost SOLID now. (CONTINUED )
+109) 14) dialog: Ginny. You need to get yourself out. Follow the chamber... You'll find Ron...
+109) 15) text: There is a RUSH OF WINGS and Fawkes circles down, lays his head onto Harry's arm.
+109) 16) dialog: You were brilliant, Fawkes. I just... wasn't quick enough. Then Harry blinks, looks down. Thick pearly TEARS are trickling down Fawkes' face and onto his arm. Almost instantly, his wound... begins to heal itself. (CONTINUED )
+109) 19) dialog: Of course. Dumbledore told me. Phoenix tears have healing powers. (looking up at Ginny) It's all right, Ginny. It's over. It's just a memory...
+110) 0) text: With Fawkes gliding gracefully ahead of them, Harry and Ginny make their way back. Up ahead, SHIFTING ROCK can be heard and a jagged fissure of LIGHT GLIMMERS. Ron's face appears.
+110) 5) dialog: Where's Lockhart? Harry eyes Lockhart, sitting by himself, HUMMING placidly.
+110) 14) dialog: I think... I think he's telling me he can take us out of here.
+111) 0) text: A CURIOUS, GLIDING SHADOW RIPPLES across the cavernous wall, and then Harry, Ron, Ginny and Lockhart soar out of the darkness, linked hand in hand. Fawkes is flying them home.
+112) 0) text: Harry and Ron, covered in muck and slime -- stand in Dumbledore's office. Fawkes perches on a pedestal behind Dumbledore, who sits at his desk, examining the charred diary. He looks up, regarding Harry and Ron gravely.
+112) 9) dialog: Yes, sir.
+112) 11) dialog: Yes, sir. (CONTINUED )
+112) 17) dialog: (grinning) Thank you, sir.
+112) 20) dialog: It's just, you see, sir, I couldn't help noticing certain things. Certain similarities. Between Tom Riddle and me. (CONTINUED )
+112) 24) dialog: Voldemort put a bit of himself in me?
+112) 26) dialog: So the Sorting Hat was right. I should be a Slytherin.
+112) 28) dialog: Only because I asked it to.
+112) 30) dialog: 'Godric Gryffindor.’
+112) 33) dialog: Dobby! This is your Master? The family you serve is the Malfoys! Dobby nods, chagrined. Lucius Malfoy brushes past Harry.
+112) 43) dialog: Sir? I wonder if I could have that. Dumbledore looks up, follows Harry's eyes to the diary.
+113) 0) text: As the elevator opens, Harry dashes out.
+113) 1) dialog: Mr. Malfoy! I have something of yours. Harry comes up running, thrusts the diary into Malfoy's hand.
+113) 3) dialog: I think you do, sir. I think you slipped it into Ginny Weasley's cauldron that day in Diagon Alley. Malfoy shoves the diary into Dobby's face, then leans close to Harry and, with a nasty grin, WHISPERS:
+113) 14) dialog: Just promise me something.
+113) 16) dialog: Never try to save my life again. Dobby grins then and -- CRACK! -- is gone.
+114) 4) dialog: With loads of help from you. She turns to embrace Ron. They pause, an awkward moment between them and... shake hands instead.
+114) 13) dialog: There's no Hogwarts without you, Hagrid. Just then... Dumbledore gets to his feet and... slowly... brings his hands together. The others join him. Soon, everyone is on their feet and the Hall ROARING. As the students surround Hagrid, he blinks, wipes at his eyes, and... CAMERA PULLS BACK, THROUGH the window, leaving the celebration. WE CONTINUE TO CRANE BACK... BACK... TO a WIDE SHOT OF HOGWARTS... glittering gloriously in the night. FADE TO BLACK.

@@ -1,0 +1,56 @@
+27) 0) text: GENE approaches. He notices a flurry of movement, a small GROUP OF PEOPLE moving determinedly through the lobby. It GOVERNOR ELEANOR GRANT with a small entourage!  She is a  handsome woman in her fifties. The entourage consists of  KRISTA BROOKS, Eleanor's, late-twenties assistant, a few  assorted POLITICAL AIDES and a couple of PEOPLE WITH NAME TAGS. GENE is not sure what to do. The group reaches the  elevator. KRISTA pushes the button.
+27) 2) dialog: How much did we pay for that room?
+27) 5) text: KRISTA turns to an Aide.
+28) 3) dialog: We'll just walk through, do a little  grip-and-grin, then get ready for  the press con.
+28) 27) dialog: I've got the pen if you've got the  paper.
+28) 29) dialog: How about that?
+28) 31) dialog: Is that something precious?
+28) 33) text: He gives it to ELEANOR GRANT. KRISTA hands over the pen.  GENE's eyes flick over to MR. SMITH who is staring at the envelope.
+28) 37) text: ELEANOR GRANT writes the autograph. MR. SMITH'S eyes dril into him. GENE looks over. MR. SMITH raises a hand to his face, pretends to scratch an itch. His other hand taps hi wristwatch. GENE's hand slides toward his jacket pocket. Sweat beads on his forehead. He's barely aware of KRISTA  talking to him.
+28) 38) dialog: It's funny. I don't even keep a pad  of paper with me anymore, everything's  gone so electronic.
+28) 40) dialog: If it wasn't for double A batteries  I'd be in big trouble.
+48) 51) dialog: Feeling better?
+48) 52) text: KRISTA BROOKS, the young woman from the elevator is next him, smiling. He looks at her in confusion.
+48) 54) dialog: The elevator. You weren't feeling  well.
+48) 57) dialog: Are you better now?
+48) 60) text: GENE looks at KRISTA, studies her intensely. She's a bit  unnerved.
+48) 64) text: ELEANOR GRANT raises her arms. A perfect target. The CROW roars as GENE turns back to KRISTA. He leans into her, sp
+48) 66) dialog: Well, you can trust Eleanor Samara  Grant.
+48) 68) text: Krista looks at Gene.
+48) 69) dialog: Yes, you're right, I don't understand.
+48) 71) text: Krista assesses Gene, his desperate tone of voice. Obviou a nut case. A well-dressed nut case, but a nut case  nevertheless. Krista, nervous, looks around for help.
+48) 72) dialog: Sure, sure, I'll help you. Let me  get Mr. White. I'm sure he can assist  you, he's our...
+48) 73) text: Gene pulls the gun, holding it in Krista's sight only,  unnoticed by anyone else.
+48) 75) text: Krista stares wide-eyed at the gun, at Gene.
+48) 76) dialog: I'm listening, I'm listening.
+49) 0) text: Hidden by potted plants and campaign posters at the fring of the CROWD, GENE confronts KRISTA, covering her with th pocketed gun. In the background, ELEANOR GRANT delivers a ringing speech, accented with applause.
+49) 2) text: KRISTA tries to edge away.
+49) 3) dialog: All right, let's just...let's get  security in on this.
+49) 5) dialog: I don't see how they could be in on  it. They're the best. They're hand- picked.
+49) 10) text: KRISTA stares at the gun. She can't deny the fact.
+49) 11) dialog: I don't know.
+49) 13) dialog: It's a little hard to trust you under  the circumstances.
+49) 16) text: GENE offers KRISTA the gun. She is surprised, to say the  least. She takes it gingerly, with only the tips of her  fingers.
+49) 19) dialog: I guess I'll have to. Come on, there's  one person we can go to.
+49) 22) dialog: He'll think you're in the crowd until  the end of the speech. Wait a minute.
+49) 25) text: KRISTA checks her watch. 12:48.
+49) 27) dialog: We've got about ten minutes.
+49) 29) dialog: I've heard this speech a lot. Come  on. We'll take care of him.  We will.
+49) 31) dialog: Trust me. You asked me for help. Let  me help. Trust me.
+49) 38) dialog: I think you're right.
+51) 0) text: The elevator doors open. GENE and KRISTA bolt out and hur down the hall.
+52) 0) text: KRISTA leads GENE past the SECURITY GUARD stationed in th hallway at a small table. GENE tries to keep his face tur away. The GUARD glances up.
+52) 2) dialog: Is he in?
+52) 4) text: They walk past him. He's a bit curious about GENE, but sh it off. GENE and KRISTA reach a door and knock.
+52) 6) dialog: I'm sure. It's her husband. He's her  Campaign Manager.
+52) 10) dialog: We need to see you, Brendan.
+53) 0) text: Upscale suite. BRENDAN GRANT'S coat is draped on a chair. KRISTA moves past him, pulling GENE.
+53) 2) dialog: I know. Brendan, listen to me. Someone  is trying to kill Eleanor.
+53) 4) dialog: We need people we can "trust. We  only have a few moments...
+53) 8) dialog: I had to. Her Security people may be  involved...
+53) 17) dialog: He brought a gun onto the pool deck.
+53) 19) dialog: He got onto the pool deck with a  gun. How did he get past her Security  carrying a
+53) 21) dialog: Have it.
+53) 23) dialog: It looks real. I don't know anything  about guns.
+53) 25) text: KRISTA gets out the gun, wrapped in the handkerchief, han it to him. It lays in the palm of his hand. He unwraps it awkwardly, examines it.
+89) 27) text: Very slowly, she moves to the table, lifts the phone ELEA GRANT My assistant, Krista Brooks, takes care of  constituent...

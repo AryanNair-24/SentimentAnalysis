@@ -1,0 +1,54 @@
+44) 3) dialog: 
+44) 5) dialog: (relaxed) Maintain one-five thousand, Delta. Patrick releases his mic, sips his coffee in time to finally hear.
+44) 7) dialog: Okay, Cactus 1549, turn left heading two-two-zero. (beat) Which engine did you lose?
+44) 9) dialog: Supe, I have an emergency. Supervisor hustles to Patrick’s console. Plugs his headset into the console above Patrick's.
+44) 11) dialog: Both engines.
+44) 15) dialog: Both engines gone. No thrust.
+44) 17) dialog: (into radio) Cactus 1549, if we can get it for you, do you want to try runway one- three?
+46) 0) text: Patrick works the touch screen to carve out a path to Teterboro. Supervisor is on the phone calling for rescue support from the Coast Guard, police helicopters, any and everyone. Patrick demands the rest of the controllers’ attention.
+46) 1) dialog: I’ve got an A320 diving for the river. Patrick turns to his colleague, Al, at the next console.
+46) 2) dialog: Al, stack all the inbounds to LaGuardia.
+46) 4) dialog: (into radio) Teterboro Tower, I need a runway. (MORE) (CONTINUED)
+46) 7) dialog: Cactus 1549 needs to go to the airport right now. Newark Tower, what have you got?
+46) 9) dialog: Yes. Patrick looks back at the radar screen just as -- The L.A. (low altitude) light flashes on-screen and the data block spells out the rapid descent. The MSAW plays out the beep-beep-beep alarm of a plane in altitude danger. On the screen, the plane drops as if off a cliff.
+46) 10) dialog: Shit. (into radio) Cactus 1549, turn right two-eight- zero. You can land runway one, Teterboro and I also got you Newark, off your two o’clock.
+48) 1) dialog: Cactus 1549 radar contact lost. You also got Newark off your two o'clock in about seven miles. Silence. Patrick’s heart is in his throat.
+48) 2) dialog: (off radio) Don’t go in the river. (MORE) (CONTINUED)
+48) 5) dialog: (into radio) 1549? You... still on? No response. Patrick works the touchscreen, the radar screen, anything to bring the plane back.
+48) 6) dialog: (into radio) Cactus 1549, if you can... you got * runway two-nine available at * Newark it’1l be two o’clock and * seven miles. * Patrick’s whole being wills contact. None comes.
+48) 7) dialog: (off radio) Come on. Please, God. * Supervisor looks at Patrick’s blank screen. Hangs up his phone line.
+48) 9) dialog: He’s inbound to Newark, I know it. He just went off the box to focus.
+48) 11) dialog: He’1l come back up. He’s on his way to Teterboro. We need other eyes and ears. (into radio) Attention, all aircraft in * vicinity of the GW, we have an * A320 on emergency descent... *
+50) 4) dialog: Cactus 1549 is low level, above the Hudson. Just as 1549 comes INTO VIEW... two hundred feet below them. Male Pilot increases altitude to create space and keys the radio.
+50) 6) dialog: Okay, okay.
+51) 1) dialog: I’ve got a chopper with visual. I’m staying on this. Supervisor backs off a few feet.
+51) 2) dialog: He’s out there, he’s headed to Newark. Seven miles, only seven miles. Patrick changes transmitters to the “REMOTE TRANSMITTER.”
+51) 3) dialog: (into radio) Cactus 1549, do you read? Silence. Patrick hits another button.
+51) 4) dialog: He’s on emergency. That’s it. Call Newark, see if they see him. Supervisor knows what’s waiting, but he calls Newark anyway. (CONTINUED)
+51) 7) dialog: (into radio) Cactus 1549, this is departure control on guard, do you read?
+53) 1) dialog: .».. Cactus 1549, do you read me?
+53) 5) dialog: His voice was so calm. When he said the Hudson, I didn’t believe it. This isn’t happening. (beat) People don’t survive water landings, Henry. Sudden tears. He can’t wipe them away. 51. 57
+53) 14) dialog: All those people. God help them.
+109) 0) text: Patrick, the ATC guy in charge of 1549, sits in this windowless room, head in his hands. He looks like he’s had the longest hour of his life. Tears still pool in his eyes. The door opens and a ATC #1 pops his head in.
+109) 3) dialog: I guess you didn’t hear. Lost Cactus 1549. In the Hudson.
+109) 5) dialog: What?
+109) 7) dialog: I thought I lost them all. Man, still being hugged, scans the barren room.
+128) 15) dialog: Okay, you need to return to LaGuardia. (beat) Turn left, heading of two-two- zero.
+130) 1) dialog: Tower, stop your departures, we got an emergency returning. 1549. Bird strike. He lost both engines. Returning immediately. LaGUARDIA TOWER (V.O.) Which engine?
+130) 2) dialog: He lost thrust in both engines. He said. Patrick’s face pales. “Both engines” begins to sink in.
+131) 1) dialog: Cactus 1549, if we can get it for you, do you want to try to land runway one-three? The alarm chimes punctuate Patrick’s transmission. (CONTINUED)
+132) 5) dialog: Cactus 1549, it’s gonna be left traffic for runway three-one.
+132) 9) dialog: Okay. What do you need to land?
+133) 0) text: Patrick checks his time readout.
+133) 1) dialog: (to himself) Been ten seconds, Captain. Come on. Talk to me. (into radio) Cactus 1549, runway four’s available if you wanna make left traffic to runway four.
+135) 1) dialog: (relieved) Okay, yeah, off your right side is Teterboro airport. Patrick works his touchscreen like a magician. Gets the number he needs and dials. (CONTINUED)
+135) 4) dialog: LaGuardia departure, got an emergency inbound.
+135) 6) dialog: Cactus 1549 over the GW bridge, wants to go to the airport right now.
+135) 8) dialog: Yes. Bird strike. Can I get him in for runway one.
+137) 3) dialog: You wanna try and go to Teterboro? (CONTINUED)
+138) 1) dialog: (excited) Cactus 1549, turn right, two-eight zero. You can land runway one at Teterboro.
+138) 3) dialog: Okay. Which runway would you like at Teterboro?
+139) 3) dialog: I’m sorry, say again, Cactus 1549. Sully doesn’t key the radio. His only focus now, landing the plane on the roiling river. (CONTINUED)
+141) 9) dialog: Cactus 1549, radar contact lost. You also got Newark off your two o'clock in about seven miles.
+141) 15) dialog: Cactus 1549. You still on?
+141) 17) dialog: Cactus 1549, you got runway two- nine available at Newark, it’1ll be two o’clock and seven miles. (CONTINUED)

@@ -1,0 +1,79 @@
+117) 0) text: The cheering continues as another Messenger races along a similar stone corridor and bursts in on the haggard Duke of BEDFORD.  He is the English regent, and is in council with several others, including the Bishop of Beauvais -- one Pierre CAUCHON.  As Bedford hears the news, the cheering FADES.  He rises from his chair...
+139) 2) dialog: Good day, sir.  I trust my honorable Duke of Burgundy is feeling well?
+139) 4) dialog: Thanks be to God.
+139) 6) dialog: Not so well, I regret to say.  This business with the Maiden... it's caused him endless grief and torment.  That's why he's entrusted me with the task of... shall we say...
+139) 8) dialog: This word is -- regrettably appropriate for the situation.  In fact what we -- the Church -- wish to do is determine whether or not this girl is sent by God, as she claims.  You understand that we cannot allow just anybody to abuse God's name in this manner...
+139) 16) dialog: 20,000?!  But... I heard King Charles was... financially embarrassed.
+140) 4) dialog: I will hear you... but not now, not here.
+140) 6) dialog: Pierre Cauchon, Bishop of Beauvais. As you were captured in my diocese, the duty of conducting the trial falls upon me.
+140) 8) dialog: Your trial, Jeanne.  On a charge of heresy.
+140) 10) dialog: It seems that the English care more about you than the French.
+140) 12) dialog: Yes.  They paid your ransom... tomorrow you will be transferred to their great castle at Rouen. The door slams shut, and she is left alone.  Jeanne is utterly distraught.  She looks round the bleak cell, then moves over to a small window... just wide enough for her to squeeze through.
+148) 0) text: Cauchon enters a large, gloomy courtroom and sits down, surrounded by clerics, assessors, doctors of theology and other churchmen.
+148) 1) dialog: Let the prisoner be brought in. The door opens and Jeanne is led in, her wrists and ankle fettered, her face pale and drawn.  She stands in the center of the room, isolated, alone.  A scribe dips his quill in the ink and prepares to write on a blank sheet o parchment.
+148) 2) dialog: Our most serene and Christian King Henry the Sixth, King of England and France, has handed this girl over to us, accused of a number of heretical deeds, to be tried in a matter of faith. Jeanne is hustled closer to Cauchon, who leans forward, peering at her intently.
+148) 3) dialog: Take the Holy Gospels in your hand and swear to tell the whole truth concerning everything you will be asked.
+148) 5) dialog: You will swear to tell the truth about whatever you are asked.
+148) 7) dialog: You must take the oath!  Not even a king, would refuse to take an oath to tell the truth in a matter of faith.
+148) 9) dialog: So... begin by telling us your name -- assuming you're allowed to tell us that much?
+148) 11) dialog: Show us a little more cooperation first.  Where were you born?
+148) 13) dialog: How old are you?
+148) 14) dialog: Nineteen... or thereabouts...
+148) 15) dialog: Were you baptized?
+148) 17) dialog: Recite the Lord's Prayer.
+148) 19) dialog: Jeanne, listen to me very carefully. We are all men of faith, and we shall earnestly strive for the salvation of both your soul and body as though it were our own.  We do so in the name of our Holy Mother Church, who never closes her arms to those who would return to her.  But we cannot help you unless you submit to our learned judgment and authority.  Take heed of this charitable admonition, for if you persist in refusing our help, then we shall have no choice but to abandon you to the secular powers, and I think you know well enough the punishment that would await you.  So now... will you please recite Our Lord's Prayer?
+148) 21) dialog: Jeanne -- be careful -- you're not helping yourself by refusing to submit to our judgment...
+148) 23) dialog: Guards!  Take the prisoner away! Clear the room! Armed Guards hustle the clerics from the room while Jeann is led away, watched by the Duke and Duchess of Bedford.. Bedford turns to his aide (Buck) --
+149) 0) text: The assessors look extremely uncomfortable, not least Pierre Cauchon, who does his best to conceal it.
+149) 1) dialog: Well... in the future I think we should conduct our enquiries in private -- away from public pressure -- so we can all be more... level- headed...
+149) 4) dialog: Because it's... it's our clear duty to root out heresy wherever it occurs. (to the Old Priest)
+149) 7) dialog: That's what I'm trying to ensure!
+149) 9) dialog: This is ridiculous!  Now I'm the one who's on trial and being judged?!
+149) 12) dialog: What are you doing?  This is an ecclesiastical court -- you have no right to do this!
+151) 0) text: We are now in a smaller, more intimate courtroom.  The Duchess of Bedford is at the back, shielded behind the theologians and doctors of the church.  Beaupere is questioning Jeanne:  a cooler man than Cauchon.
+151) 11) dialog: Jeanne, you are not helping yourself.  If you don't answer our questions properly, your refusal will be taken into account.
+151) 13) dialog: I assure you they do.  So... answer me... when was the last time you heard this voice?
+151) 15) dialog: When exactly?  A day, a week -- when?
+151) 17) dialog: What were you doing when the voice came?
+151) 19) dialog: The voice was in your cell?
+151) 21) dialog: What did it tell you?
+151) 23) dialog: Did it give you advice? (Jeanne hesitates)
+151) 30) dialog: Tell us, Jeanne... do you often hear this voice?
+151) 32) dialog: Is it here?  Now?  In this room? Jeanne slowly looks at the assessors, staring at each in turn.  They all look acutely uneasy, holding there breath...
+152) 0) text: Buck paces in front of Cauchon and a dozen clerics.
+152) 2) dialog: She's loyal to her king... it's only to be expected that she... Buck explodes with fury --
+152) 4) dialog: I understand your impatience, but if you want this trial to be acknowledged as legal we must follow correct procedure and...
+152) 6) dialog: But if this trial seems fixed, I fear you'll have the very opposite result to the one you want...
+152) 8) dialog: But in order to do so, the church must first prove her heresy, or else you'll be burning a martyr...
+154) 9) dialog: Let me clarify things for you, Jeanne.  On the one hand there is the Church Triumphant, that is to say God, his saints, and the souls that are saved.  And then there is the Church Militant, that is to say our Holy Father the Pope, the cardinals, the prelates of the Church, the clergy, and all good Catholic Christians.  Moreover this Church, when assembled, is guided by the Holy Spirit and therefore cannot be in error.  That is why we ask you to submit to the Church Militant... that is to say, us.
+154) 11) dialog: It is for us to determine whether you are a good Christian, not you.
+159) 0) text: -- and sits on a bench, doing his best to look inconspicuous.  He guardedly glances at Jeanne who seems to be asleep on her feet.  Beaupere is whispering to Cauchon, document in hand.  Beaupere beckons to the Guard...
+160) 0) text: Buck sweeps everything off the table in a fit of anger. Alone with him, Cauchon looks troubled.
+160) 1) dialog: Calm down, my lord, I beg you!
+160) 3) dialog: Be patient, my lord... you've seen how it is.  This girl has a way with people... but everyday we're making progress...
+160) 5) dialog: It is not for us to burn her, my lord.  That is your prerogative.
+160) 7) dialog: But we can't do that unless she admits to blasphemy...
+160) 9) dialog: You won't be able to drag anything from her that way.  You also must realize that many of my colleagues are... well, scared...
+160) 11) dialog: Scared to make a mistake.  Supposing she's right... supposing she really has been sent by God?? Buck narrows his eyes.
+160) 13) dialog: I'm on the side of our Mother Holy Church.  Besides, a confession under torture will never convince anyone of her guilt.
+160) 15) dialog: One small problem, my lord.  The girl is a virgin. Buck has a horrible glint in his eye.
+162) 0) text: The Duchess storms into a room where Cauchon is talking with Bedford and Buck.  She walks up to him...
+163) 0) text: A masked Executioner stands beside a stake, piled high with faggots.  Jeanne, her hands bound, stands nearby, facing a podium filled with the usual assembly of priests and prelates, headed by Cauchon.  He rises to address Jeanne.
+163) 1) dialog: Jeanne, my very dear friend in Christ, we, your judges and assessors, desirous of reaching a true and lawful verdict, submitted a transcript of your trial to the University of Paris in order to obtain their opinion.  After careful consideration, the learned scholars have concluded with us that you have committed many grievous sins, and I ask you to listen most carefully to their opinion as contained in these articles. Cauchon hands a manuscript to one of the assessors, Canon Pierre Maurice, then resumes his seat.  Among the monks w spot Aulon, who slowly tries to make his way toward Jeanne.
+163) 10) dialog: Wait!    Cauchon grabs the document from Chatillon and holds it up to Jeanne...
+163) 11) dialog: Jeanne, I beg of you... sign! (Jeanne looks dazed)
+163) 14) dialog: Sign this, and I will confess you myself if you want.
+163) 16) dialog: As often as you like -- now, please -- for the love of God -- sign!! Again Jeanne looks about for the Man... but sees only the Executioner, waiting to conduct her to the stake.
+163) 17) dialog: Sign, and you'll be free from your chains... free from the fire, Jeanne... now... sign! The Crowd begins to chant... Sign, sign, sign!  Aulon, wh has managed to get closer, joins them...
+163) 23) dialog: You have nothing to regret... She tries to grab it from Cauchon, but soldiers pinion her.
+163) 25) dialog: Silence her! (soldier clamps hand over her mouth)
+163) 26) text: Take her away...! The Soldiers hustle her away as Cauchon walks back to the podium.  Aulon is relieved, and yet strangely apprehensive.  Cauchon hands the Duke the document signed by Jeanne.
+163) 27) dialog: There... she has recanted, and we accept her repentance, for the church never closes her arms to those who return to the fold.  She's yours to do whatever you want with her, but the church has nothing to do with it anymore.  She's your prisoner -- your martyr -- not ours. Bedford can't answer as the Duchess is next to him.
+166) 0) text: Cauchon is alone, lost in his thoughts.  A young monk run in, out of breath...
+167) 0) text: Cauchon and the Monk hurry across the castle courtyard. Aulon sees them pass, anxious at their apparent concern..
+168) 0) text: Cauchon arrives in Jeanne's dungeon, out of breath.  It i full of people:  Bedford, his Aide, priests and soldiers.
+168) 3) dialog: And by what miracle did these clothes find their way in here?
+168) 5) text: Have the stake prepared in the market place...! Jeanne doesn't say a word.  She stands with her back to us, gazing up at the dim crack of light bleeding in through the high window-slit.  Bedford exits with the others, leaving Cauchon alone with Jeanne.
+168) 6) dialog: I don't understand, Jeanne... why did you do it?  Why?
+168) 8) dialog: I know, Jeanne... it was the only way to save you from the fire!
+168) 11) dialog: I -- I can't Jeanne... I can't hear your confession... I'm sorry... He hurries out of the cell.  A Guard locks the door behin him, and Jeanne is alone.  But not for long.  The Man materializes and sits next to her...

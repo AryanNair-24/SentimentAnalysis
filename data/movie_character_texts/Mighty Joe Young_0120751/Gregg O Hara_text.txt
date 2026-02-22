@@ -1,0 +1,312 @@
+12) 0) text: A tiny African village, just a main square with a bar, a school, an infirmary and a gas station. Standing smack in the middle of the road is an East India with a goatee, wrap-around Black Flys, and a Nike workout suit. Gregg's HUMVEE SKIDS to a sharp stop in front of him.
+12) 1) dialog: You must be Pindi. Pindi flashes him a broad smile.
+13) 0) text: Pindi is leading Gregg down a row of vehicles: two Land Rovers, one with a strange-looking seat attached to the front hood, and an old, flatbed lorry. A surly-looking group of men lounge around on them.
+13) 5) text: Gregg holds an envelope filled with cash in Pindi's face. He nods towards the nasty-looking men.
+13) 6) dialog: Sweet-looking bunch of guys.
+13) 7) text: Pindi snatches the envelope -- but Gregg holds onto his end.
+13) 8) dialog: I asked for experienced trackers.
+13) 10) text: Gregg allows Pindi to pull the envelope away. He immediately rifles through the cash, checking to make sur it's all there. Gregg eyes Pindi's men suspiciously, then walks around to the back of his humvee and flips open the storage boot, revealing an array of animal-tracking gadgetry. Pindi looks over his shoulder as Gregg loads a menacing-looking rifle.
+13) 12) dialog: We're not hunting anything.
+13) 13) text: Pindi sees that Gregg is loading the rifle with tran- quilizer darts. This confuses him, but he pretends to approve.
+13) 15) dialog: (indicating tranquilizer gun) Your men know how to use this, right?
+13) 20) text: Gregg carefully puts the rifle back, then grabs a pair of Minolta 10x20 binoculars.
+13) 22) text: ON Gregg, panning across his field of vision with the binoculars. He stops.
+13) 23) dialog: There.
+13) 27) text: Gregg's back to checking his equipment.
+13) 28) dialog: 'N'Gai Zamu.' The sacred guardian of Mount Pangani.
+13) 29) text: Pindi looks at Gregg, surprised he knows this.
+13) 31) text: Gregg looks from Pindi's nervous face to the serious faces of the trackers. They are all watching him.
+13) 35) dialog: Looking for a legend?   No.   Why would I do that?
+13) 36) text: Gregg takes the car keys from Pindi's hand.
+13) 40) dialog: Gimme those.
+16) 0) text: Gregg has earphones on, plugged into a backpack with a Sony digital recorder, listening. The sound is ambient and mysterious. Pindi stands behind Gregg, watching him carefully.
+16) 2) dialog: Sounds.
+16) 5) dialog: Yup.
+16) 11) text: Gregg puts his hand up to signal for quiet. He hears something. He listens intently for a moment, then the WHOOSH of a SPRING TRAP BLASTS his ears, followed by shouts and the sound of an ANIMAL SCREECHING. Gregg throws off the headphones, grabs a strange-looking pole called a DNA plug gun, and crashes with Pindi through the woods. Gregg runs INTO FRAME to see several of Pindi's men closing the cage on a lithe, young leopard.
+16) 13) text: Gregg kneels to inspect the leopard. He finds it beautiful -- his face softens at the sight of it.
+16) 14) dialog: (soothing, to leopard) You're a beauty.
+16) 16) dialog: (stands) Okay, set him free.
+16) 17) text: Gregg and Pindi stand over the leopard.       Pindi offer ersatz smile.
+16) 19) text: Gregg releases the vial of blood from the DNA gun.
+16) 20) dialog: Because I'm only keeping this.
+16) 27) text: Still no response from Gregg -- he's logging notes into a book.
+16) 29) text: The men bend over and hoist the cage up -- but now Gregg blocks their way.
+16) 30) dialog: Put the cat down... now.
+16) 31) text: Gregg is one scary-looking bastard.     The men drop the cage. Pindi back-pedals.
+16) 37) dialog: quickly puts on his headphones and listens to the amplified sound again. HIGH-PITCHED SCREAMS -- then the rhythmic rondo of sharp POK-POK-POK-POK CHESTBEATS. Pindi is on the verge of panic.       He forces his trade smile.
+16) 40) dialog: Don't anybody move.
+16) 46) dialog: Come on!!   We're going after him!
+16) 48) text: Gregg yells to the paralyzed trackers:
+16) 49) dialog: (in Swahili) Three times your price. (in English) Triple your fee.
+17) 4) text: The caravan, looking like the cavalry in a Western, comes charging over the hill. Gregg's humvee comes crashing over a ridge in pursuit of Joe. Gregg yells out to the cars around him:
+17) 5) dialog: Herd him towards me!   I gotta get close.
+17) 6) text: Gregg grabs his DNA stick and grins at Pindi.
+17) 7) dialog: Real close.
+17) 8) text: Pindi realizes with a sickening feeling that Gregg is having a major rush.
+18) 5) dialog: Experienced trackers, my ass!
+18) 7) dialog: tries to yell across at him.
+18) 8) dialog: No, we don't want to...
+18) 14) dialog: Hold the wheel!
+18) 23) dialog: Pindi!   Look out!
+18) 33) text: The LORRY SCREECHES to a halt, right next to Gregg, who i stumbling towards them.
+18) 35) text: Pindi watches as Gregg stumbles around to the back of the truck. But instead of getting in, he grabs a silver case and pulls it off.
+18) 37) text: Gregg flips opens the case, revealing a video camera. hoists it up, and barely able to walk, takes one last look at Pindi and the bruised and busted-up trackers.
+18) 38) dialog: Get those men down the mountain. They need help.
+18) 39) text: Gregg takes off after Joe.       Pindi can't believe it.
+18) 47) text: FOLLOW Gregg DOWN a wide trail of broken limbs leading into the densest part of the mountain. Thorns and stingers scratch Gregg as he fights his way through.
+18) 50) text: Gregg climbs over a fallen tree. Ducks under some low branches. Stops to catch his breath. He listens intently. Takes another step forward. Hears a TWIG SNAP.
+18) 52) dialog: screams as he's jerked helplessly into the air. Joe shakes Gregg viciously -- then whips him back and forth, knocking him against a sapling. Gregg fights to free himself but he's no match for Joe's strength. He knows Joe is going to hurt him badly -- maybe kill him. Joe cocks his arm -- to crush Gregg against a wide tree trunk.
+18) 60) dialog: Oh, wow.
+18) 62) text: ON Jill -- she looks at Gregg like he's the lowest form of life on earth.
+18) 64) text: And Joe does, dropping Gregg hard to the ground.   On his head.
+19) 2) text: Bruised and bandaged, Gregg blinks, trying to bring his eyes into focus.
+19) 6) dialog: Where am I?
+19) 8) text: Gregg winces as he slowly raises himself to his elbows.
+19) 9) dialog: Strange, I don't feel lucky.
+19) 12) dialog: You're an injury behind. The kicker was getting dropped on my head by N'gai Zamu.
+19) 14) dialog: Think that's funny? You should try it?
+19) 16) dialog: No, he's a giant gorilla with a mean backhand. There was also a woman...
+19) 17) text: Gregg tries to get up.     It's an ordeal.
+19) 22) dialog: Out in the jungle. She saved my life. A beautiful woman.
+19) 25) dialog: No.    I never remember my dreams.
+19) 26) text: Gregg sits up in bed and swings his feet to the floor. Kweli turns and heads for the door.
+19) 28) dialog: Don't need one.
+19) 30) text: Kweli walks out of the room. Gregg squints after him, sensing that something is up.
+20) 0) text: Gregg walks gingerly out of the infirmary, looking like crap. He squints in the bright midday sun, then spots... The humvee, a mere shadow of its former self, parked right near the infirmary, covered with a tarp. Gregg pulls the tarp back to find all his expensive equipment, a good deal of it broken, pitchforked into the back. He scowls. He starts rummaging through the stuff, looking for some- thing in particular. Then he finds it -- his video camera, covered with mud, but seemingly in good condi- tion. He pushes the record button. Light goes on. Still works. He pops open the tape slot, and his face falls.     The video cassette has been removed.
+20) 4) dialog: Damnit.
+20) 5) text: Just then, a   group of village schoolchildren dash by Gregg. They    are giggling, as if they had dared each other to run   up to the stranger. They sing out the one English word   they know as they pass:
+20) 7) text: Gregg shakes his head, smiling, and follows them with his eyes as they fly by like a flock of birds. He watches as they dart into the open air market, playfully knocking aside a familiar individual: Kweli.    We watch from...
+20) 8) text: as Kweli steps into a fruit stall, letting the kids fly by him. Then Gregg's eyes widen as a tall and lovely young woman steps INTO VIEW next to Kweli.
+21) 2) text: Jill looks up toward the infirmary and sees Gregg leaning against his truck, watching them.
+21) 11) text: Jill looks at Kweli sharply, then back across the street at Gregg, whose eyes continue to assess her. She looks straight back at him, locking into his gaze.
+21) 14) text: Jill and Gregg are still holding each other's eyes.
+21) 16) text: Across the street, Gregg is breaking into a big, slow smile. It unnerves Jill. Kweli, always Jill's protector, catches the action between the two of them and bristles a bit -- but Jill has already turned her back and taken off through the back of the market.
+22) 1) dialog: watches this bizarre ritual, wondering what Jill could possibly be doing.
+22) 35) dialog: Standing there, completely exposed, filming all this with his dented video camera. He looks up at Joe towering over him.
+22) 36) dialog: Oh boy.
+22) 46) text: Joe looks back at Gregg, still curled into a tight ball. He gives him a playful, parting swat for good measure before obeying Jill and running into the forest. The "little swat" is powerful enough to send Gregg rollin like a croquet ball into a thicket of bushes. Painfully, he uncurls, plucking nettles out of his legs as Jill approaches.
+22) 47) dialog: (pulling out a nettle) Nobody better try and tell me I imagined this.
+22) 48) text: Jill reaches down to Gregg.        He thinks she's offeri a hand up.
+22) 50) dialog: (checking himself) No... no. I think I'm... oh.
+22) 51) text: Gregg's voice trails off as Jill reaches for the video camera, not him. She examines the camera.
+22) 53) dialog: (relieved) Oh -- good.
+22) 58) dialog: (calling after her) Hey -- wait a minute!
+23) 0) text: Jill is making good time down the rough terrain of the river bank. Gregg catches up to her.
+23) 1) dialog: Hang on a second -- what's the problem?
+23) 3) dialog: (appeasing) You saved me. I'm grateful. Now I just want to talk to you -- Miss Young.
+23) 4) text: Jill stops in her tracks and shoots Gregg a surprised look. He explains gently.
+23) 5) dialog: I know who you are. I read all your mother's work. Books... notes... everything I could get a hold of.
+23) 7) dialog: So it's why I'm here.
+23) 8) text: Jill gives a short nod, accepting this tribute. She turns back around and resumes walking. Gregg follows, bursting with questions.
+23) 12) dialog: She knew about Joe? Did she have a theory on him? How old is he? I can't believe you kept him a secret all these years. How'd you manage that?
+23) 14) dialog: You got this all wrong.   I want to help you.
+23) 16) dialog: How's that?
+23) 18) dialog: The word is out. It's done. I'm not the only one who saw him, remember? Rare animals mean big money and Joe's as rare as they come. It's going to be tough to protect him here. Maybe impossible.
+23) 21) dialog: That's not true. Place that sent me could take care of Joe. They got the facilities...
+23) 26) dialog: Not a cage, a preserve. A place where he'll be free from poachers, free from land development...
+23) 28) dialog: How long do you think Joe will stay free here? I'm telling you there's gonna be a hunt starting on this mountain tomorrow. And I don't expect they'll give it up until one of them bags the prize. You should think about it.
+23) 29) text: Jill hates the ring of truth in Gregg's words.     She tu and takes off down the mountain alone.
+30) 0) text: A poacher's truck, carrying six rowdy poachers, speeds down the main street, kicking up a cloud of dust. The dust cloud envelops Gregg, making him cough as he repacks some of the damaged equipment in his truck.
+30) 5) text: Gregg nods, continuing packing.
+30) 6) dialog: I'm gonna head up the mountain. See if I can throw some of the poachers off the trail.
+30) 8) dialog: Not for long. Just trying to buy you a little time, that's all. With more of these bastards arriving every hour, I suggest you get Joe as deep into the jungle as you can -- as fast as you can.
+30) 9) text: Across the street at the bar, a chorus of CACKLES rises from a group of drunken poachers. The mere sound of them makes Jill dig her fingers into her arms with anxiety. She looks across at the poachers -- and then back to Gregg, packing up. If she doesn't say this right now, this second, she never will. She snaps.
+30) 11) dialog: Okay what?
+30) 13) text: Gregg turns and looks at her.
+30) 14) dialog: We?
+30) 19) dialog: You're sure about this?
+30) 21) dialog: Name it.
+30) 23) dialog: Done.
+30) 25) dialog: You're not a very trusting soul are you, Miss Young?
+30) 27) dialog: (sarcastic) Tough, isn't it? Trying to measure me up -- decide if I'm a fraud...
+30) 29) text: Gregg smiles, half sour, half amused.
+30) 30) dialog: Well, I'd like to know if you're a bona fide lunatic or just a mixed up monkey girl but -- but I guess we'll have to take our chances and figure it out as we go along.
+30) 31) text: Jill snorts.    Gregg looks her straight in the eye.
+30) 35) dialog: Come on, Jill. Trust it.      You'll be in charge of Joe. (extends hand) Let's shake on it.
+30) 37) dialog: (growing impatient) Alright, how do you make pacts around here?
+30) 39) dialog: A what?
+30) 41) text: Gregg nods to himself, considering.
+30) 42) dialog: A spider bite and hallucinations?
+30) 44) dialog: Then you'll trust me and let me have Joe?
+30) 46) text: Gregg cocks his head.
+30) 47) dialog: Well... I think... that's the biggest load of crap I've ever heard.
+30) 53) text: Gregg scoffs, realizing she was only testing him. Jill turns and starts walking away. Gregg calls after her.
+30) 54) dialog: Get your things together. Fast. We're getting out of here as soon as we can.
+30) 55) text: Gregg watches her go, head held high like a queen. He chuckles to himself. It's hard not to appreciate this girl.
+30) 56) dialog: (to himself) Makiki spider.
+35) 0) text: Gregg drives. Jill, almost bouncing with anxiety and excitement, rides shotgun.
+35) 2) dialog: Welcome to L.A.
+35) 9) dialog: (soothing) Don't worry. He's doing fine.
+35) 11) dialog: Good.    Thanks for the update.
+35) 17) dialog: Beach is that way, mountains are that way, Mexico's that way, Canada's that way. Don't worry about the rest -- you'll never see it through the smog.
+35) 18) text: Gregg glances over at Jill. She is drumming her fingers in her lap with nerves, not listening to a word he's saying. Gregg smiles with empathetic amusement.
+35) 19) dialog: Maybe you better check and see if Joe's okay back there.
+35) 20) text: Jill obediently whips around in her seat to check for Joe -- then realizes Gregg was teasing. She settles back down, facing front again.
+36) 0) text: A livestock truck, same conservancy labels, travels right behind Gregg and Jill's vehicle. Heavy, open air slats obscure the truck's occupant, but we know who it is.
+38) 0) text: Gregg and Jill's car pulls onto the grounds of the California Animal Conservancy. A sprawling campus of stucco buildings and lifelike habitats, the conservancy is a state-of-the-art preserve. The car passes the main gate, where a worker in a conservancy uniform waves Gregg through. As the live- stock truck pulls in behind them, the worker picks up his walkie-talkie.
+39) 11) dialog: Hello, Harry.     Cecily.
+39) 14) dialog: Let me introduce you to...
+39) 18) text: Harry wasn't prepared for somebody this young and beautiful. Neither was Cecily. They raise their eyebrows at Gregg.
+39) 19) dialog: Jill Young, Dr. Harry Ruben -- he run the place -- and Dr. Cecily Banks, who makes sure he doesn't screw it up.
+39) 28) text: Jill and Gregg look at each other, excited. This is the moment they've been waiting for. They grin at each other.
+39) 29) dialog: Harry?   I think it's time you met Joe.
+39) 36) text: Gregg steps forward.
+39) 37) dialog: Harry -- you and I made an agreement. The lady's in charge of Joe.
+40) 6) dialog: She knows.
+40) 18) text: Vern picks up a camera and scrambles to get into position -- but he's so nervous that he trips, sprawling on the ground and startling Joe. Joe turns and scampers back into the trailer. Vern gets back on his feet, red-faced. Jill glares at Harry. Gregg just chuckles at the stupidity. Harry blames Vern.
+40) 30) dialog: (under his breath) Go on, Joe. Go on.
+40) 31) text: Everyone holds their breath as Joe completes the crossing Gregg looks over at Jill. Her eyes are glistening. Joe heads up through the back of the habitat, already investigating his new home. Everyone exhales.
+40) 37) dialog: Harry...
+40) 43) text: Jill looks over at Gregg, distraught. Gregg shakes his head, disgusted -- he sees exactly where this is going.
+41) 0) text: Jill and Gregg are at a door that Gregg is unlocking. Jill paces angrily and storms through the door as Gregg opens it. CAMERA FOLLOWS Gregg in. He's carrying her bags.
+41) 2) dialog: Probably not.
+41) 4) text: Gregg is grim and quiet. He thinks what she's saying is true. He sets her bags down, detesting the antiseptic space as much as she does. Feeling claustrophobic, Jill dashes to the window and tries to open it. It's a double-paned window. The top doesn't open at all -- the bottom cranks open three inches, barely letting in air. Jill pushes on the window, horrified?
+41) 11) text: It only takes a second. Gregg grabs a pillow from the couch and lays it against the top portion of the window. He gives it one swift karate chop, breaking out the glass He methodically breaks out the remaining shards, dusts of the pillow, and carefully replaces it on the couch. Jill just stares at him, open-mouthed.    Gregg looks her straight in the eye.
+41) 12) dialog: (quietly) I'll do everything I can for you.
+41) 15) text: Gregg walks out.
+47) 2) text: Cecily shoots a look at Harry. She's not going to let him grab the glory away from Gregg.
+49) 0) text: Jill runs out of the building and almost collides with Gregg, who is rushing in..
+49) 1) dialog: I was coming to get you.
+49) 3) dialog: Come on! The two of them rush off across the compound.   As they do, they pass...
+50) 0) text: Jill and Gregg drive up to the habitat.   As they come close, Gregg finds Cecily.
+50) 1) dialog: What the hell is going on?
+50) 10) dialog: Stop!
+50) 11) text: Jill and Gregg come running up behind them.   Jill yells to Harry.
+50) 18) dialog: Do it, Harry!
+50) 26) text: He screams with delight, and spins in a circle again. As it dawns on everyone that she's actually right, and that he's really playing, the guards start to lower their guns. Then they start laughing. An embarrassed Harry slinks by Gregg, who can't help but chuckle as he leaves.
+52) 0) text: Gregg and Cecily watch as Jill plays hide and seek with Joe. Jill dashes away and runs over to Gregg. She is absolutely glowing, bouncing around with happiness.   She grabs both his arms, jumping up and down.
+52) 2) dialog: (laughing)
+52) 5) dialog: It's great. Jill surprises Gregg by giving him a hug. Gregg looks ove her shoulder and sees that Joe is giving him the evil eye He's jealous. Gregg stares back, equally challenging. Jill, unaware of the competition, lets go of Gregg and happily runs back to Joe. Gregg and Joe continue to hold each other's eyes. Cecily sighs and shakes her head.
+52) 10) dialog: What are you talking about?
+52) 12) dialog: You've got an active imagination, Cecily.
+52) 14) text: Gregg scoffs. But from the look on his face, it's clear she's hit a nerve.
+53) 0) text: A KNOCK at Jill's apartment door. She opens it and lights up to see Gregg standing there. Gregg looks past her into the room. She's made some changes; the bed's on the floor and a few large potted ferns crowd the room.
+53) 1) dialog: Like what you've done with the place.
+53) 4) dialog: I just came by to tell you that I think Joe looks real good out there...
+53) 6) dialog: ... and that I'm hitting the road.
+53) 7) text: Jill looks at Gregg keenly.    He's acting like he's got something to tell her.
+53) 12) dialog: Back to Africa. (pauses) For a couple of months.
+53) 15) dialog: Now.
+53) 16) text: Jill just nods. Gregg is struggling -- this is more difficult than it's ever been for him. He tries to be nonchalant...
+53) 17) dialog: It's the job, y'know. Always on the road. It's what I like, anyway -- can't stand to be caged up...
+53) 19) dialog: You and Joe will be okay...
+53) 22) dialog: Yeah.   Well...
+54) 0) text: Gregg turns and heads back down the hall.    Jill sticks head out and calls after him.
+54) 2) text: Say hello to Africa for me. She slams the door to her apartment. Gregg freezes for a moment, then continues down the hallway alone.
+58) 19) text: Jill smiles to herself. She turns to get back to her other business, and almost walks right into: Gregg. He's been leaning against a wall, and he's caught the whole thing.
+58) 20) dialog: Lobelia leaves. Should have called me in Africa. I would have brought 'em back for ya.
+58) 21) text: Jill just stares for a moment, trying to decide how to handle Gregg's sudden reappearnce. His clothes look travelled in, and another month in Africa has put a deeper shade of brown on his face. He's got the ragged look of someone who's just gotten off a 16-hour flight.
+58) 22) dialog: Nice to see you running the place, Jill.
+58) 23) text: Jill nods and starts walking like someone with urgent business to attend to. Gregg falls in beside her.
+58) 28) dialog: No -- just wanted to get back.
+58) 30) dialog: Guess I missed Harry.
+58) 31) text: Gregg smiles teasingly at Jill but she's in no mood to melt that easily. He continues.
+58) 32) dialog: They want me to show my face at the fundraiser tomorrow night... and I guess I got my mind fixed on a good meal in a fine restaurant. Thought you might like to join me.
+58) 34) dialog: 'Still'? Haven't you been out of here yet?
+58) 36) text: Gregg reaches out and slows her down.    He wants to see her eyes.
+58) 37) dialog: Come on. Have dinner with me, Jill. (tenderly) You won't find a better excuse to brush your hair.
+58) 38) text: Gregg reaches out and pulls a piece of straw from Jill's tossled locks. She can't help herself anymore -- and breaks into a slow smile.
+58) 40) dialog: (grins) Deal.
+60) 0) text: It's a beautiful and lively night on Venice Beach. A few people have made bonfires along the water's edge, and the MUSIC of a DISTANT bar band wafts through the air. It's a magic night. Gregg and Jill walk away from a funky food shack, festooned with tiny lights. They share a carton of fish and chips.
+60) 2) dialog: (thinks about it)
+60) 3) text: Yeah. Gregg grins at Jill, all boyish charm. She stiffles a smile, struggling to hold on to her pervious indignation.
+60) 8) dialog: (guilty) I'm sorry -- I had things I had to do...
+60) 10) dialog: Besides, you weren't all alone. You had Joe.
+60) 14) dialog: Growing up with him around -- what's it been like for you? I mean -- most guys are afraid of girls' fathers. I can just see a guy telling Joe he'll get you home by midnight...
+60) 16) dialog: All what 'stuff'?
+60) 18) dialog: (smiles) Well -- it's kinda like getting bit by a makiki spider.
+60) 23) dialog: (stepping closer to Jill) You'll get a kind of a fever...
+60) 25) dialog: Pretty high.
+60) 27) dialog: Oh yeah... and you'll, uh -- find yourself saying things. Lots of things.
+60) 28) text: Gregg is very close to Jill. He wants to kiss her right now. Jill smiles. She knows what he's doing. Maybe she'll let Gregg kiss her. Just then:
+60) 34) text: Jill and Gregg bolt for the car.
+62) 0) text: Gregg, Jill, Cecily and Harry watching Joe's rampage from outside the gate. Jack and Vern run over, covered in mud and overly exited.
+62) 4) dialog: (to Cecily)
+63) 0) text: Jill has done her job.    Joe is calm but spent, leaning against a tree. Jill sits in his lap, softly singing the same lullaby we heard her mother sing to her 12 years ago. She caresses the palm of Joe's giant leathery paw, her tiny white hand almost disappearing in its black folds. Gregg watches, leaning against a tree not ten feet away. It is the most intimate moment between Jill and Joe that he has seen yet. The tableau invokes myth: the beauty in the service of the beast; the man who has come to free her.
+67) 3) dialog: Cecily -- you're ravishing. Harry -- you got shrimp on your shirt. Harry looks down at his shirt smeared with cocktail sauce
+67) 15) dialog: Brilliant.
+67) 16) text: Gregg picks up a glass of champagne for Jill and starts crossing the room to her.
+67) 20) dialog: (reassuring) They're not staring at you. (looks around) They're staring at that... uh... banana tower.
+67) 21) text: Jill turns and sees a ridiculous-looking decorative mountain of bananas sitting on a table top just behind her. It's the creation of an over-zealous caterer. Jill blushes, realizing Gregg's joking.
+69) 12) text: There is a tremendous CRACKING sound from behind the curtain. The audience murmurs. Harry sweats. Jill grabs Gregg's hand tightly.
+69) 14) text: CRASH! Before Harry can say "Young," a TREE comes CRASHING through the curtain. Gregg leaps forward, knocking Harry out of the way just as the tree crushes the podium into kindling. Joe comes blasting through the hole in the curtain.    He has joined the party. Joe stands on the stage, his chest heaving. There is total silence. The party guests are frozen with fear, literally speechless. A few of them laugh nervously, wondering if this is really just part of the show. But Jill knows better. She and Gregg exchange glances -- what the hell is going on? Jill rises, trying to stay calm herself, and slowly approaches Joe, speaking in a soothing voice. She wants to get his attention.
+69) 24) dialog: We've got to bring him down.   I'm going for the tranq guns.
+72) 0) text: A holding room.    A cage criss-crossed by six-inch steel bars. Joe stares out through one narrow window. He sees a bar-striped slice of blue sky. He reaches up one hand towards the window -- he can't even fit it through the bars. He still looks drugged and despondent. Hunched over. His head almost scrapes the ceiling. His breathing raspy. On the other side of the bars, Jill and Gregg hover like distraught parents. Jill pets Joe's fur through the bars.
+72) 7) dialog: What do you think happened out there?
+72) 9) dialog: Something.   Or someone.
+72) 10) text: Jill looks at Gregg, considering this for the first time.
+72) 14) text: Jill nods. She takes one last look at Joe, then walks out of the room, leaving... Gregg, alone with Joe for the first time since Joe held him upside down in the jungle. Gregg leans against the cage next to Joe. They have never been in such close proximity before. The expressive-ness in Joe's eyes is uncanny -- Gregg feels almost as if he could understand what he's saying.
+72) 15) dialog: (deeply sorry) Well this wasn't in the brochure, was it?
+72) 16) text: Gregg looks around at the claustrophobic space.
+72) 17) dialog: I promised you wouldn't be put in a cage. I'm sorry, Joe. I helped put you here. And now I'm going to do everything I can to get you out.
+72) 18) text: Gregg reaches out for Joe's paw and lays his hand in it. Joe gently curls his fingers around Gregg's hand.
+73) 17) dialog: You got it.
+74) 0) text: An ANIMAL CONTROL OFFICER stands guard outside the bunker Gregg, Cecily, and Jill walk casually towards the Officer The Officer straightens up and looks tough. He comes forward halfway to meet them.
+74) 5) text: Gregg hangs back with the A.C. Officer as Cecily and Jill disappear inside. To buy time for Cecily and Jill, Gregg pretends to take the big lug into his confidences.
+74) 6) dialog: (confidential) We're conservancy doctors. Do me a favor -- stay here and guard the door.
+74) 7) text: The guard nods and looks confused.    Gregg disappears inside.
+75) 10) dialog: (friendly voice) Officer, you don't want to point that gun at him, believe me.
+76) 2) text: Now Jill and Gregg lead Joe outside as Cecily opens the doors to the trailer. Joe climbs inside.
+77) 5) text: Strasser holds his hand up in salute to Gregg and Cecily that's about as close as he wants to get to them. Using urgency as an excuse, he jumps back into the trailer before anyone can engage him in further conversation. It's time to say good-bye.    Cecily looks into the back the trailer.
+77) 19) text: Cecily moves off, leaving Gregg and Jill alone to say good-bye. They look into each other's eyes, hating to part, everything they have to say to each other still unsaid.
+77) 21) dialog: (strained) I think I better stay here and keep people away from that bunker. Give you a head start before they realize he's gone.
+77) 24) text: She doesn't get the rest of her sentence out because Greg is kissing her mouth. It's the kiss he's been wanting to give her since the day he first laid eyes on her. He lets go of her again, leaving her breathlessly looking after him. He walks to the back of the trailer. Gregg and Joe make serious eyes contact.
+77) 25) dialog: (pointedly, to Joe) Take care of her for me, will ya?
+77) 26) text: Gregg shuts the trailer door and walks off, not daring to look back. Jill is about to call after him when Strasser steps back out of the passenger's side of the trailer. He whispers urgently:
+79) 0) text: Gregg stops and turns around for one last look at the trailer as it drives off. Cecily exhales -- this love stuff is too hot to handle -- and follows Gregg.
+81) 0) text: Gregg and Cecily walk back through the conservancy.
+81) 3) dialog: Five. How many minutes do you give it before we're both lookin' through the want ads?
+81) 8) dialog: What're you guys doing here so late?
+81) 15) text: Digging in the box again, Vern innocently pulls out the poacher's dog collar. It means nothing to him, but Gregg instantly grabs for it.
+81) 16) dialog: (alarmed) Where did you find this?
+81) 18) dialog: (urgent) What two guys?
+81) 23) text: It takes less than a second. Gregg springs into action, grabbing the keys to the Blazer out of Jack's hand. He sprints to the car. Jack and Vern watch him go.
+82) 14) text: Strasser and Garth chuckle -- they think they're just sharing a private joke. But Jill has a troubled look in her eyes -- the foreign epithet has struck a chord from long ago... she struggles to remember... Then she gets it. She sees herself crouching in the forest with Joe over 12 years ago, overhearing Strasser's curses, and her blood runs cold. She glances at Strasser, everything dawning on her at once. The hand... the face... it all comes together for Jill. Strasser catches the look on Jill's face and knows some- thing is wrong. Adrenaline is pumping through her. Unsure of how to make her next move, Jill tries to hide the realization that is crashing down on her... She glances in the side view mirror of the truck and sees: Gregg, driving up behind them in the Conservancy vehicle. Jill's face reacts ever so slightly, but Strasser catches it. He follows her eye line, looking where she looked, and as he also spots Gregg, Jill knows the game is up. She loses it and screams:
+87) 0) text: Gregg sees Jill up ahead and SLAMS on the BRAKES. He jumps out of his car and races to her side. He reaches her and scoops her away, narrowly saving her from being hit by another passing car.
+89) 0) text: Gregg checks Jill over. She is bruised and bloody, but she doesn't seem to notice. She just stares after the trailer and moans...
+89) 2) text: What have I done? Mother, oh, God, what have I done... (to Gregg)
+89) 4) dialog: I know. Gregg half-carries her to the truck.
+89) 5) dialog: Come on.   Let's go get him back. They see the trailer disappear around the corner...
+95) 0) text: Gregg and Jill pull up to the overturned trailer, see the wreckage... but no sign of Joe. Stunned, they whirl around, hoping he'll still be somewhere in sight...
+95) 4) dialog: He couldn't have gotten far.
+95) 7) text: Gregg sees a group of EXCITED NEIGHBORS run down the stre towards Mann's Chinese screaming to each other:
+95) 9) text: Jill hops down and she and Gregg tear off down the street towards the gathered crowd at the Chinese Theater.
+98) 0) text: As Jill and Gregg run up, Cops are interviewing witnesses to Joe's flight. One CREW-CUT COP speaks into his walkie- talkie.
+98) 4) dialog: (to Officer)
+98) 5) text: She didn't mean that. Gregg drags Jill away before she gets arrested.
+98) 8) dialog: Better cool it, baby.
+98) 10) dialog: Not if we find him first. POLICE HELICOPTERS BUZZ by overhead.
+98) 11) dialog: Let's follow them. They run back towards their car. 107   EXT. ALLEY NEAR HOLLYWOOD BLVD. Garth and Strasser watch as Jill and Gregg head off after Joe.
+104) 0) text: Gregg and Jill arrive on the scene. They look down from the overpass and see cops swarming around the area where Joe was, shining their flashlights into the brush and talking to motorists.
+104) 1) dialog: Any idea where he might've headed?
+104) 8) text: Gregg steps on the accelerator. As their car pulls away, PAN TO Strasser and Garth following a few car lengths behind.
+107) 0) text: Jill and Gregg run under the archway. People rush past them. They fight their way through the crowd.
+107) 2) text: Gregg and Jill scan the amusement park, looking for the source of all the commotion.
+108) 14) text: He raises the gun again, gets the sight lined up just as Gregg and Jill pass near the klieg light. Garth grabs the gun, just as Strasser is about to pull the trigger.
+111) 0) text: Jill and Gregg pick themselves up off the ground.
+111) 2) dialog: Go find Joe, get him out of here. (looking towards the wheel)
+111) 3) text: I'm gonna see if I can help. Gregg moves off towards the Ferris wheel.
+112) 10) text: Gregg -- sees the girls, their bucket having come to a stop about fifteen feet off the ground. Thinking quickly, he jumps up on the guard railing, then leaps across to their bucket. He just grabs onto the bottom. The bucket shakes back and forth violently, causing the two girls to scream. Gregg looks up at them.
+112) 11) dialog: Don't be scared. Climb down my back.
+112) 12) text: The girls look at Gregg, too nervous to move.
+112) 13) dialog: Come on.
+112) 14) text: Tentatively, Jenny and Emma climb out of their bucket and onto Gregg's back, using him like a human ladder. They shimmy down to his feet, then drop off, one by one, into the waiting arms of their mother. Gregg lets go of the bucket, drops a good fifteen feet, landing roughly. The girls' mother looks down at Gregg, thankfully.
+112) 16) text: Gregg, winded, just nods.
+115) 6) dialog: I know.   I just hope they do.
+115) 18) dialog: Stop!
+115) 19) text: Gregg and Jill run into the crosshairs, waving their arms.
+115) 20) dialog: Don't shoot him.
+115) 21) text: Commander Gorman comes forward, yelling at Gregg.
+115) 29) text: The cops are about to move on Gregg and Jill when Jason's Mother, panic-stricken, runs up to Gorman.
+116) 6) dialog: It's going to tip! Everyone back up!
+116) 23) text: Jill is beyond comfort. She's in another world. Humming their lullaby, she rests her soft cheek in Joe's giant pa for the last time. Her blonde hair spills on his fingers... And then, SLOWLY ENTERING FRAME, a giant finger reaches f Jill's cheek and strokes it gently... It takes Jill a moment to realize she hasn't imagined this... she opens her eyes, sees the moving fingers, turn to look into Joe's face, just as his eyes open... Elated, Jill moves up to Joe's head and kisses his face a thousand times. Gregg takes a deep breath, privately thanking God. Jason's Mother is tearful -- Jason is all smiles. Jill tearfully blathers soothing words...
+116) 25) dialog: (checking Joe over) We've got to get him checked out. (looking around at crowd) And get him somewhere safe.
+116) 26) text: Jill looks at Gregg with a heavy heart.
+116) 33) text: Jason pushes in front of his mother. He reaches out his little hand and pets Joe. He looks up at Jill and Gregg with a shining face and smiles hopefully. (ALTERNATE END OF SCENE)
+116) 36) text: Jason's mother nods hopelessly, comprehending the difficulty of the situation. But Jason has also heard Jill's words. He pushes in front of his mother, reaches into his pocket and pulls out a crumpled dollar bill. He hands it to Jill and Gregg with a shining face and smiles hopefully.
+116) 38) text: Gregg and Jill are moved by the gesture. Gregg respect- fully takes the dollar from the little boy while everyone looks on.
+116) 39) dialog: Thanks.
+116) 40) text: Gorman and his men exchange glances, also touched by the little boy's deed. Now Gorman reaches into his pocket and pulls out a ten. He comes forward and hands it to Gregg.
+116) 44) text: Gregg's hands and pockets are being stuffed with money as dozens of people begin to come forward with whatever they can afford. Gregg looks at Jill, overwhelmed by what's happening, and her face echoes his emotions...
+122) 0) text: The blue sky above Africa.    CRANE DOWN to see: An entry gate with the words "Joe Young Wildlife Park" printed across the top. Beneath the gate: Kweli, standing with Jill and Gregg, is blowing a ceremonial horn, sending an ancient blessing into the air. As he finishes, we hear applause. PULL BACK to reveal 35 people -- locals, villagers, friends -- applauding the opening of the park. Voiceover begins:
+122) 3) dialog: Hey, Joe -- come on, big guy... Joe comes walking INTO FRAME. Gregg smiles at Jill, very pleased with himself that Joe responds to him now, too.

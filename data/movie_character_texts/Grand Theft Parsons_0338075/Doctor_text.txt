@@ -1,0 +1,10 @@
+4) 94) text: Phil wheels the gurney down the corridor towards the exit A doctor in green scrubs approaches and glances down at a clipboard.
+4) 96) dialog: Can I help you?
+4) 99) text: The doctor reads the tag on the body's toe.
+4) 101) dialog: What are you doing?
+4) 108) dialog: We don't have a neurology department.
+4) 111) text: The doctor grabs the end of the gurney. Phil tugs and the doctor tugs back. After a moment, Phil sighs and shakes his head in frustration.
+4) 114) text: The doctor holds up his clipboard.
+4) 115) dialog: I have the paperwork.
+4) 118) text: He slips through the exit. The doctor waits awkwardly a few seconds, and then pushes open the door.
+4) 120) dialog: Hello?   Hello...

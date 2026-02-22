@@ -1,0 +1,65 @@
+2) 0) text: HANK, the dam control officer, is on the radio with the  Sheriff.
+2) 1) dialog: Not right now. But I'm gonna have to  let out a little more.
+40) 0) text: Hank is on the can reading a copy of "American Survivalis magazine. An odd reaction comes over his face. He feels  something weird. He looks down.
+40) 2) dialog: Holy shit!
+41) 0) text: The bathroom door flies open and Hank waddles out, pants  around his feet. He shuffles fast to the control wheels a starts spinning them.
+43) 0) text: Hank pulls up his pants as he gets on the radio.
+43) 1) dialog: Sheriff! Sheriff!
+45) 1) dialog: (on the radio) Sheriff, come in!
+86) 0) text: Hank is on the radio.
+86) 1) dialog: I'd love to help you, Sheriff, but I  can't leave! If the water goes over  the top again it's bye-bye, dam! Bye- bye, town! In fact, I could use a  little help up here myself.
+87) 3) dialog: Hey, I was the one who got the dumb  son-of-a-bitch to come out.
+90) 57) dialog: Anyone mind telling me what the hell  is going on?
+90) 59) dialog: In his boat, right behind them, all dressed up in hunting gear, rifle at the ready.
+90) 61) text: Hank is stunned. He doesn't answer.
+90) 63) dialog: Seven hundred and fifty thousand  dollars? (beat, grins) Damn straight I'm okay with that.
+90) 66) text: Hank nods. He motions for Wayne to go one way; he'll go t other. They start off. A blind shot comes from Jim behind the crypt. The Sheriff shoots back. Phil finally musters the courage to say something.
+90) 75) dialog: Motor into view.
+90) 77) dialog: Shoots back.
+90) 86) dialog: Curses and pulls back, too.
+90) 97) dialog: Whistles and gets Wayne's attention. He motions Wayne to it again.
+92) 14) dialog: Has his rifle resting on his boat's windshield and is fir off a clip on automatic as he, Wayne and the Sheriff clos in.
+92) 17) dialog: Keeps up his stream of gunfire.
+95) 0) text: Wayne and Hank are alongside the Sheriff, engines idling they look at the church.
+95) 2) text: Hank nods, guns his engine.
+95) 7) text: Hank nods in agreement and takes off.
+96) 0) text: Jim and Tom are by one of the stained glass windows, look out through a pale-colored pane at the Sheriff and his me across the street. They watch Hank race off.
+101) 0) text: Hank motors up to the Sheriff and Phil.
+101) 1) dialog: Where's Wayne going?
+101) 3) dialog: Yeah, but --
+101) 5) dialog: Aren't we gonna wait for Wayne?
+103) 10) text: The Sheriff, Phil and Hank are heading toward the church, flaming Molotov cocktails in their hands.
+104) 0) text: The Sheriff, Phil and Hank heave the flaming Molotov  cocktails.
+111) 2) dialog: The fire's not catching. The rain's  too --
+115) 13) dialog: Looks up, realizing that Tom will be able to shoot down o him. He reverses his boat fast under the balcony as...
+117) 6) dialog: Is firing up at Tom through the floor of the balcony.
+117) 12) dialog: Is still shooting up as...
+117) 14) dialog: Dives to the floor of his boat as Tom's shotgun blasts bl plate-sized holes in the church doors.
+117) 17) dialog: Starts to get up from the bottom of his boat, searching f a clip for his gun.
+117) 23) dialog: Fumbles with the bullet clip.
+117) 24) dialog: (to Phil) Kill him!
+117) 26) dialog: Kill him!
+117) 28) dialog: Slams the clip into his gun and levels it at Tom.
+117) 31) text: BANG! and hank shoots Phil. Phil pitches back out of the  Sheriff's boat.
+117) 35) dialog: Draws a bead on Jim and is about to shoot when...
+117) 37) dialog: Is rocked back, thrown off balance. He starts to spin and bring his gun around when...
+117) 39) dialog: In the side of the head. Hank crumples and falls into the water, taking his rifle with him.
+121) 3) dialog: (woozy but okay) It's topped out.
+121) 5) dialog: How should I know?
+121) 7) dialog: It's an old dam! Not long.
+123) 0) text: Jim keeps his gun leveled at the Sheriff and Hank, standi in the water, as he pulls the money bags up from the forw hold.
+125) 0) text: Jim, the Sheriff and Hank react to the silence. Jim looks off.
+127) 0) text: Phil is grabbing for the Sheriff's boat as the Sheriff an Hank zoom out of the church, leaving him behind.
+128) 2) dialog: We gotta go faster!
+128) 4) text: The Sheriff pushes Hank out of the boat.
+128) 5) dialog: Goes skipping over the water and slams into a streetlight post.
+132) 0) text: Hank, groggy in the water, also hears the distant roar.
+135) 0) text: Hank unwraps himself from around the lamp post. He looks  back.
+135) 2) dialog: Oh my God.
+135) 3) text: Hank looks around for safety. He sees it.
+135) 5) dialog: Swims for the alley.
+137) 0) text: Hank swims into the alley. Hank looks for something to cl up on, to hold onto. There's...
+137) 2) dialog: Swims for it. He hears the rushing roar of the advancing  flood. He expects the flood to blow by the end of the all Wrong.
+137) 5) dialog: Dives clear just as...
+137) 7) dialog: Relief in his eyes. He gets to the fire escape and is cli to safety when...
+137) 9) dialog: Barely has time to scream.

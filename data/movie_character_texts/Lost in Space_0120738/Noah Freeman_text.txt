@@ -1,0 +1,16 @@
+4) 0) text: Welcome to the future. Banks of monitors manned by gum-ch haired technicians. A giant monitor shows the Jupiter on pad. The CONTROLLER (NOAH FREEMAN) pulls in to his consol
+4) 1) dialog: Jupiter Two this is Mission Control. You are at T-minus two minutes and counting. We're opening the dome. MONITOR-CLOSE. The dome begins to part.
+7) 1) dialog: Jupiter One you are at ninety five percent.
+10) 1) dialog: We have lift off.
+12) 1) dialog: Major, your escape vector in clear of all military and commercial traffic. Op in go on your command.
+14) 2) dialog: Jupiter One, you are clear Earth's atmosphere. A CHEER goes up in the control room.
+20) 1) dialog: Sleep well, old friend.
+27) 1) dialog: This mission's over. Wake them up. The Techies begins working the controls.
+31) 0) text: Noah stands over the Com. The room is a madhouse.
+31) 1) dialog: Give me a telemetry projection. Noah looks up at the main monitor. The graphic of the Jup heading towards the graphic of the sun.
+32) 1) dialog: You're way off course. We show you in the sun's gravitational pull.
+32) 3) dialog: We count seven minutes before your outer hull begins to melt. DON straps himself into the pilot's chair.
+33) 1) dialog: Major West we are unable to provide contingencies. (a beat) I'm sorry, Don. ON SCREEN-THE JUPITER TWO is heading towards the sun.
+38) 2) dialog: Let me see those numbers, Annie. The Techie hands him a sheet. Noah looks for a beat.
+38) 3) dialog: Son of a bitch. He's powering up the hyperdrive.
+42) 2) dialog: Godspeed.

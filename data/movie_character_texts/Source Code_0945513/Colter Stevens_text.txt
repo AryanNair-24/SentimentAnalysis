@@ -1,0 +1,420 @@
+0) 0) text: COLTER jolts awake. Sunlight hits his face. He blinks. A stunned beat. He's disoriented. Slowly he turns his head to one side... PASSENGERS. Filling most of the seats. Office workers on their morning commute into a city. Turning the other way, he's confronted with a window. Tre flash by, splitting the rising sunlight into a hypnotic strobe pattern. Colter looks to be thirty years old. A military buzz cut. disciplined physique, lean and spare, almost gaunt. Skin burnished by years of desert sandstorms and equatorial su His expression, prematurely aged by combat, is perpetuall wary, sometimes predatory, accustomed to trouble. Despite his military bearing, Colter wears a button down shirt and navy sports coat. On his wrist is a digital wat It reads 7:40 a.m. He swallows. A strange, creeping panic. He has no idea where he is.
+2) 0) text: Colter hasn't moved. By his side he sees a canvas MESSENG BAG. Is that his? Tentatively, he lifts the edge of the bag to look inside. red APPLE rolls against two LIBRARY BOOKS. The bag's leat NAME TAG reads: "SEAN FENTRESS." It's not coming back to him. This whole experience is starting to freak him out. He catches the scent of something. A passenger walks by w a STEAMING CUP OF COFFEE. CHK-THOCK! Two rows back, an OVERWEIGHT MAN opens a can o soda. Sitting opposite Colter, facing him, is a WOMAN in her la twenties (CHRISTINA). In contrast to the corporate suits around her, her appearance is thrift store funky: black n polish, dark lipstick, black hair with blue streaks, a bu down blouse edged in black funeral lace with silver skull bones cufflinks. She's busy writing in a journal.
+2) 1) dialog: Ma'am? Nothing.
+2) 2) dialog: Excuse me... ma'am? She looks up. Blank stare.
+2) 3) dialog: What is this?
+2) 5) dialog: Where am I?
+2) 7) dialog: What's Newark? A city?
+2) 14) dialog: Woah.
+3) 3) dialog: I don't think I...
+3) 10) dialog: Is this...? From inside his sports coat he pulls out a TRAIN TICKET. conductor snips his ticket and brushes past.
+3) 11) dialog: Wait a sec. I'm a little out of it here. Where's this train headed?
+3) 13) dialog: New York? Why would he be going to New York? How can this be happening? Fear starts to grip him as the hallucination simply continues.
+3) 14) dialog: Do you know where I got on? The conductor examines his ticket again.
+3) 16) dialog: Where's that?
+3) 18) dialog: But I've never been to Princeton Junction. See... I don't remember waking up or buying a ticket or getting on the train or anything else. It's just a blank.
+3) 25) dialog: Okay. You're gonna figure this out.
+4) 7) dialog: Sean Fentress? Who the hell's that? And why does he have this guy's wallet? He leans forward speak with Christina again.
+4) 8) dialog: Ma'am? She lowers her journal, annoyed. We see she hasn't been writing but DRAWING. A well-executed sketch of a face.
+4) 10) dialog: I'm having a little problem here. I'm trying not to freak out, but I think something's happened to me.
+4) 12) dialog: Like, total memory loss. Complete. I don't know how I got here.
+4) 14) dialog: That's not it. See... I'm a pilot. I fly helicopters in Iraq. I'm in the army. She waits for more. As if he's telling a joke.
+4) 15) dialog: I was on a mission. Right before I woke up here I was in the middle of a mission...
+4) 22) dialog: I'm telling you the truth.
+4) 24) dialog: These aren't my clothes. And this wallet here... He holds up the driver's license. One final attempt to convince her.
+4) 25) dialog: You see this? This isn't me.
+4) 27) dialog: What?
+4) 29) dialog: This can't be happening. The train lurches to a stop.
+5) 0) text: A fluorescent light flutters on as Colter shuts the door. He's in a tiny space with prefab restroom fixtures in stainless steel. He SHOUTS in surprise. Recoils backwards. Eyes locked on
+5) 2) dialog: Wake up! The restroom rattles and tilts with the motions of the tr obliging him to hang on. This isn't a dream. At least not one he can wake up from. The other guy's face stares back at him. Blinks when he blinks.
+6) 0) text: Warehouses go by in a blur. The train is entering New Jersey's industrial zones on the outskirts of New York Ci From her seat, Christina stares at the messenger bag whic Colter left behind. Then up at the closed restroom door.
+7) 0) text: Colter sits on the closed toilet seat. Head buried in his hands. Scared. Desperate for it all to end.
+8) 0) text: Christina's holding Colter's messenger bag. She talks through the closed door.
+9) 0) text: Colter stares into the mirror at the stranger's face. Practically catatonic at this point. And then her voice -
+9) 2) dialog: 
+11) 0) text: On the verge of opening the door, Colter hears a METALLIC RATTLING. Two SCREWS are rattling around in the sink. Colter picks up a screw. Turns it over and over in his ha What are they doing in the sink? He looks UP. An overhead VENTILATION PANEL has been PRIED OPEN. Above is the darkness of a CRAWL SPACE. Something is sitting up there. From outside comes a TRAIN HORN.
+13) 0) text: Colter looks up into the crawl space. Can't quite see the object up there. Moving carefully in the tiny space, he stands up on the toilet. Grabbing onto the ventilation panel, he WRENCHES all the way open. Then PULLS himself uncomfortably upward On tip-toes, he looks into crawl space and discovers
+13) 2) dialog: Jesus.
+16) 0) text: We're VERY CLOSE on Colter's UPSIDE DOWN face. His eyes flutter open. He's surprised to find himself alive. Consternation flashes through him as he discovers that he tightly strapped in. He now wears a military flight suit.
+16) 3) dialog: Where am I?
+16) 6) dialog: I'm dizzy.
+16) 14) dialog: What is this? Who am I talking to? More confusion. No idea how to react. Just as on the trai
+16) 16) dialog: When?
+16) 18) dialog: I was on a train.
+16) 20) dialog: And... There was a bomb.
+17) 0) text: Later. We're still in the tiny chamber. It's stabilized. As has Colter, but in the manner of a dangerous wild anim given a sedative. Embedded into the controls is a two inch-square VIDEO MONITOR. It shows the face of GOODWIN. He's a middle-aged communications officer. Although we know him as Goodwin, military name badge and rank insignia have been covered u He wears a headset and sits surrounded by banks of electr equipment and keyboards. He peers in at Colter, exuding t blandness of a military flight controller.
+17) 7) dialog: Who are you?
+17) 9) dialog: Goodwin?
+17) 11) dialog: How do I know that? I have no idea how I know your name's Goodwin.
+17) 13) dialog: Listen to me. Something's wrong. I was flying a mission. I was in a chopper. Then I woke up on a train. Now I'm here. Can you explain that? What unit is this?
+17) 15) dialog: Who?
+17) 26) dialog: I don't get it. Is this a Red Flag exercise?
+17) 31) dialog: A... Acknowledge. End of pattern. How did he know to say that? A conditioned response?
+17) 33) dialog: Go for pattern recall. The response comes to him more quickly. Like lines from a old script. Even if it still baffles him.
+17) 40) dialog: Queen, two nines, four and a three.
+17) 42) dialog: Laurie.
+18) 0) text: Over DARKNESS, the SOUND of BACKGROUND CONVERSATION. Engineers speaking in technical jargon. Click. The unit's VIDEO MONITOR comes on again, illuminat Colter in its glow. He's still strapped into the capsule. The tiny monitor shows an out of focus view of a LAB. Lik movie camera inadvertently left on between takes. ENGINEERS wander past, oblivious. Their disjointed conversations continue at low volume. Abruptly, a MAN SMOKING A PIPE sits down in front of the camera. His graying hair is windblown and unkempt. His ey are piercing blue. He wears a track and field warm-up jacket. He looks in at us with an unsettling Cheshire-cat grin. He puffs on his pipe. Winks. Pressing a button he - Click -- shuts the whole thing off again. Sound and pictu vanish. Leaving us suspended.
+19) 3) dialog: Is someone going to tell me what's going on here?
+19) 5) dialog: The UH-60 Blackhawk Helicopter weighs 20,250 pounds with a maximum exterior load capacity of 8,000 pounds. It has a range of 320 nautical miles and is armed with two 7.62 millimeter machine guns.
+19) 8) dialog: The train.
+19) 10) dialog: I have no idea.
+19) 17) dialog: I don't know!
+19) 19) dialog: Will you tell me what the hell is going on here?
+19) 21) dialog: I don't know. Just tell me --
+19) 23) dialog: What does this have to do with the train?
+19) 25) dialog: Twice.
+19) 27) dialog: I don't know who bombed the train! Colter is seething now. Had it with these games.
+20) 0) text: Colter opens his eyes... SUNLIGHT hits his face. In flickering patterns. He turns
+20) 8) dialog: It's a goddamn simulation. Christina's pen stops sketching. She glances up.
+20) 9) dialog: A three dimensional, completely immersive scenario. Touch, taste, sound, sight and smell. A measure of relief. A way to think about all this.
+20) 11) dialog: Complete with pretty girl.
+20) 13) dialog: Every combat simulator has one. In the middle of a fire fight a pop-up window starts playing a porno.
+20) 16) dialog: Find the bomber. Find the bomber. The conductor approaches him.
+20) 23) dialog: Everything okay today, chief?
+20) 25) dialog: Anything out of the ordinary? The conductor frowns at him. Who is this guy?
+20) 33) dialog: How's it going? Colter stands in front of him, arms crossed. Behind his d glasses, Guzman ignores him, but he's visibly uncomfortab
+20) 34) dialog: What's your name? Guzman is stock still. Beads of sweat on his forehead. Th conductor appears, accosting Colter.
+20) 36) dialog: Goodwin? Where are you? It's over. I found him. Appealing to Goodwin's invisible presence. But nothing happens.
+20) 38) dialog: Sorry. This guy seemed a little... anxious. I was worried about him.
+20) 49) dialog: Okay. I'm sitting down. Turning away, he finds a seat. He studies Guzman out of t corner of his eye.
+20) 60) dialog: 
+22) 0) text: Entering, Colter stops. There's no sign of Guzman. Just a empty marble lobby. A lone CLERK restocks timetable brochures at a display.
+22) 6) dialog: A guy just came through here. Did you see where he went?
+22) 8) dialog: He was just here. A Middle Eastern- looking guy. Through the platform doors comes Derek, followed by the College Kid. Derek heads for the parking lot, while the College Kid mills around the newspaper stand. A muffled COUGH. Colter spins. Sees a door marked "MEN'S ROOM."
+23) 0) text: Pushing open the door, Colter discovers a row of 1930's-e sinks and stalls. An intercom crackles to life:
+23) 2) dialog: All better now? Guzman's face hardens. He goes to the sink to wash his hands.
+23) 3) dialog: Don't much care for trains myself.
+24) 0) text: Colter emerges in the lobby. Guzman is nearby. A bit indecisive. Colter wanders over to the newspaper stand. The STATION CLOCK reads 7:54 a.m. Colter looks down at HIS WATCH: THREE MINUTES remaining. What will Guzman do? Guzman glances over at Colter, then heads through the doo and back out on the train platform.
+25) 0) text: Guzman sits on a bench. Colter stops nearby him.
+25) 3) dialog: How are you going to pull this off? That bomb has a cell phone detonator. And I don't see a pay phone around here. So I'm betting you got a phone on you with the number already programmed in.
+25) 5) dialog: Open your briefcase. Prove to me there's no phone in there.
+25) 13) dialog: 
+25) 16) dialog: Where the hell's your phone? Another look at HIS WATCH -- 20 SECONDS. Grabbing Guzman, Colter goes through his suit pockets. He triumphantly pulls out GUZMAN'S CELL PHONE and steps back Guzman looks up at him, eyes moist with humiliation and malice.
+25) 17) dialog: I thought so. Now let's see you try to -- A distant THUD rattles the station windows. Colter pivots looks down the tracks. The first thing he sees is
+25) 24) dialog: You didn't do it. Disbelief. As the din of the distant explosion is drowned out by the ROAR of
+26) 0) text: The SOUND of MACHINERY STRAINING. Colter is SLAMMED back into his seat -- back in the capsule. All he can do is ha on and gasp for air.
+26) 1) dialog: Holy fuck!
+26) 4) dialog: A fucking train just ran over me.
+26) 11) dialog: How are you doing this? Am I on some kind of drug?
+26) 13) dialog: I didn't find the bomber. You fooled me with the Middle Eastern guy. I went for the diversion. What kind of freaky simulation is this? Let me out of here!
+26) 15) dialog: Guzman. Shell Oil. Look, I don't have intel experience. Why do you have me doing this?
+26) 17) dialog: Irrelevant? Killing me each time is irrelevant?
+26) 19) dialog: How? How can you do that? Silence.
+26) 20) dialog: Who's the man with the pipe?
+26) 27) dialog: There was a man smoking a pipe. I saw him on the monitor. Who's he? How does he fit into this?
+26) 29) dialog: Let me talk to him. This isn't right. I'm not your prisoner. Goodwin makes technical adjustments to dials and gauges.
+26) 31) dialog: What is this? Why are you talking like that? Is this some kind of script?
+26) 33) dialog: Who cares? I'm tired of this.
+26) 35) dialog: Then what is it? Don't you already know who the bomber is? Don't you have all the answers?
+26) 37) dialog: Corpses? Whose corpses? The passengers?
+26) 46) dialog: These were real people?
+26) 48) dialog: This really happened?
+26) 50) dialog: When?
+26) 52) dialog: Today?! The train blew up today?
+26) 54) dialog: You're lying. I don't believe it.
+26) 56) dialog: Where am I, right now, as we speak?
+26) 58) dialog: My unit's still in Iraq. I'm flying missions in Iraq. I flew one yesterday!
+26) 65) dialog: Then why do I still have Iraqi dirt underneath my fingernails? Goodwin simply makes another adjustment on the controls.
+26) 66) dialog: Talk to me! Three weeks? I've been back three weeks? How'd I get in here? Have I seen my family? Does my father know I'm home? "Cause I'd kinda like to tell him if that's the case.
+26) 70) dialog: I'm listening.
+26) 79) dialog: Wait. If I'm somehow on that train before it blows up, why don't I just dismantle the bomb?
+26) 81) dialog: But all those people dying...
+26) 83) dialog: I didn't volunteer for this shit.
+26) 85) dialog: 
+26) 87) dialog: I don't believe in time travel, Goodwin. There's no such thing.
+26) 94) dialog: Why seventeen? Why me? Why anything? The capsule begins to SHAKE.
+26) 95) dialog: Let me out! Don't send me back there! SFX: UP ON a HUGE ROAR as --
+28) 0) text: Landscape flies by. Colter's forehead rests against the glass window. Piercing sunlight.
+28) 1) dialog: Shit. This is not happening. He leans back in his seat, as if just another beaten down office worker on the train.
+28) 3) dialog: You an artist?
+28) 5) dialog: Can I see what you're working on?
+28) 12) dialog: You don't look like you belong here. The way you're dressed.
+28) 14) dialog: I'd really like to see what you're working on. Unless you're worried I won't like it.
+28) 16) dialog: So you scribble away on that thing so as not to deal with people. She scowls. Tosses the sketch pad onto his lap. Surprised Colter opens it. It's full of faces -- thumbnail portrait of other passengers riding the train. They're exquisitely observed, darkly stylized into expressions of loneliness.
+28) 17) dialog: They're amazing.
+28) 19) dialog: Seriously, they're really good, Miss...?
+28) 21) dialog: My name's Colter. How many of these passengers have you drawn?
+28) 29) dialog: You know all about them?
+28) 32) dialog: 
+28) 36) dialog: Dangerous?
+28) 38) dialog: You see anything unusual happen this morning? Anything out of the ordinary?
+28) 45) dialog: Has anyone else come out of that bathroom that you remember? She takes a closer look at him. A puzzled smile.
+28) 47) dialog: Don't you know? Haven't you seen me here every day for, what, three months?
+28) 49) dialog: If I told you that there's a terrorist on this train, that I was sent here to catch him, would you believe me?
+28) 51) dialog: Then tell me which one you'd arrest. Christina pages through her sketch pad again. Considering different faces.
+28) 59) dialog: Never mind. He gets up. Foolish of him to confide in her. His watch n reads THIRTEEN MINUTES.
+28) 63) dialog: 
+28) 66) dialog: I don't know. Thirty two? Her icy glare tells him he's guessed too high.
+30) 0) text: The train is moving again. In the exit area, Colter watch the station disappear. He's doing this all wrong.
+31) 0) text: The two screws rattle in the sink. Colter gazes up at the half-opened ventilation shaft -- and at the edge of the sinister bomb planted there. Back down to the mirror. Sean Fentress's face. The most baffling mystery of all.
+31) 1) dialog: What happened, Fentress? Who are you? How can I be you? FLASHCUT -- Back in the isolation unit. On the monitor, t glimpse of Goodwin's SHOULDER PATCH INSIGNIA. The unit initials "CAOC-N." Back to scene. Colter churning over the thought.
+31) 2) dialog: "CAOC-N." What unit is that? A KNOCK on the door.
+32) 0) text: Through the windows comes the blur of the EXPRESS TRAIN whizzing past (the same train which previously ran over Colter). Emerging from the bathroom, Colter discovers Christina th
+32) 2) dialog: Leave me alone. Colter walks off. Irked at his change in tone, she follow him, carrying his messenger bag.
+32) 9) dialog: Terrorist? Why did you say that?
+32) 11) dialog: Stop joking. Who are you? Are you an operative?
+32) 13) dialog: Why do you have sketches of everybody on board? Are you part of this?
+32) 15) dialog: I can have you arrested. Maybe that's the only way you'll drop the bullshit and talk. Stay put. I'm getting help. She sees he's serious and drops her arch playfulness. Spe in a flat, sober voice.
+32) 24) text: Above the row houses, a COMMERCIAL AIRLINER is climbing serenely into the blue after take-off out of Newark Airpo The view is wiped away as the FREIGHT TRAIN comes surging past the windows. But the sight of the plane has already caused something to click in Colter's head.
+32) 25) dialog: Son of a bitch. "CAOC-N." That's not army. That's Air Force. Combined Air and Space Operations Center. Nellis Air Force Base!
+32) 27) dialog: They're running this whole thing out of Nellis Air Force Base in Nevada. Fucking Nevada! Tears in Christina's eyes. That Colter would persist in t delusion after what she's confessed about herself.
+32) 28) dialog: (racking his brain) What's there? What's on that base? B-52s. KC tankers. Air Combat Command. Predator Drones. Remote operations. (something to this) This a remote operation.
+32) 35) dialog: What did he say? A WARNING ALARM begins beeping. Passengers look around uneasily. Christina, however, focuses her anger on Colter
+32) 37) dialog: Christina! He grabs her -- she struggles against him --
+33) 0) text: Click -- click. Click -- click. The video monitor is malfunctioning. It flickers on and off, revealing Colter' face in and out of darkness.
+33) 6) dialog: Goodwin? What's happening? Come in. Can you read me? It's goddamn cold in here. He hits a few buttons. Almost at random. The VENTS which had been blowing in air FALL SILENT.
+33) 7) dialog: Goodwin, I'm losing oxygen. The monitor fizzles out. The light from the controls FADE
+33) 8) dialog: Goodwin! It's now COMPLETELY DARK. He BANGS on the side of the capsule. Just a muffled thump A terrifying silence. The SNAP of a harness releasing. A THUD as Colter falls t the floor of the capsule. Cursing. Some sounds of thrashi around. Then... The SPARK of a BLUE FLARE illuminates Colter's face. He's activated a miniature signal light on his flight suit. It begins to BLINK. Like a beacon for downed pilots afloat i the sea. It is the only light in the otherwise dead capsu Up on his knees, he grasps the release handles of the EXI HATCH. Using all his strength he TURNS... But the handles don't budge. The hatch remains sealed. He gets to his feet. Can't stand up fully. The capsule is incredibly cramped. Rifling through a cabinet, he discovers OPERATIONAL MANUA in small, almost illegible type. And a small set of TOOLS He spreads them out on the tiny ledge. Taking a wrench, h BANGS on the escape hatch. A deep, clanging ECHO in the hull.
+33) 15) dialog: Come on! Another SPARK. It shocks him. There's a puff of blue smok He's burned his fingers. But the battery now has a tiny BLINKING GREEN LIGHT. Working fast, Colter attaches the copper wires to the lea on the battery. From inside the engines comes a faint electric HUM. FFFT. The monitor awakens. Like a film projector it throw the image of a PLAYING CARD onto the opposite side of the craft. Colter begins replacing the monitor components. As he doe a pre-recorded AUDIO FILE comes on:
+33) 22) dialog: Hello? Anyone out there? It's me. He toggles an audio jack. Then a MAN comes walking up. Frowns into the camera, as if through the foggy lens of another world. It's the MAN WITH THE PIPE. The elusive Bohemian scientis whom Colter glimpsed once before. He will be known as RUTLEDGE.
+33) 23) dialog: Can you hear me? Rutledge is tinkering with the camera. The image shakes f a moment as he adjusts it. Then puts on a headset.
+33) 25) dialog: I'm here! I'm okay! Rutledge checks his headset. Not sure he heard right.
+33) 27) dialog: Yeah. It's me. Colter. Rutledge blinks in surprise. The blue eyes sparkling.
+33) 29) dialog: The capsule lost power. It's still pretty cold in here.
+33) 36) dialog: I think so. Who are you?
+33) 38) dialog: They wouldn't let me talk to you before.
+33) 40) dialog: You're the inventor of this thing.
+33) 43) dialog: I don't want to deal with Goodwin anymore.
+33) 45) dialog: Don't you understand? He's torturing me. I'm helpless. Can't you get me out of here? Rutledge looks uneasy. As a scientist, he's ill-equipped deal with personnel issues.
+33) 52) dialog: He's a remote operator. And remote operators are risk averse pussies who sit at control screens in the rear while actual pilots like me put their asses on the line in the field.
+33) 54) dialog: And just what kind of mission is this? Talk to me, man. Why won't he let me save those people on the train?
+33) 56) dialog: Why not? I know what's going to happen. I could take apart the bomb. Stop the train.
+33) 58) dialog: What's the difference?
+33) 60) dialog: Telling me what? Coaxing the scientist in him.
+33) 62) dialog: Is Source Code time travel?
+33) 69) dialog: Why can't I save those people on the train?
+33) 71) dialog: So...
+33) 73) dialog: What happens to the Source Code world after I leave it?
+33) 76) dialog: What about the bicycle?
+33) 78) dialog: I see it each time. Right after the bomb goes off. Like an after image.
+33) 85) dialog: There's a bicycle and a stone wall and a girl. It's a girl from the train. I don't know where any of it is supposed to be, but -- Rutledge removes the pipe from his mouth.
+33) 87) dialog: Yeah. Just for a split second. Rutledge is stunned. Like he's discovered some strange ne property to his invention.
+33) 89) dialog: No. It's there. What do you think it means?
+33) 93) dialog: Rutledge, wait. Don't leave me. Rutledge steps away. A pointed look at Colter. Goodwin settles back into his seat, donning the headset.
+33) 95) dialog: I'm alive. No thanks to you.
+33) 102) dialog: You're a brick wall, Goodwin. A fucking brick wall.
+33) 105) dialog: What do you mean? Let's keep going.
+33) 107) dialog: I can give you more. Let me think for a second. But Goodwin ignores him. Absorbed in paperwork.
+33) 108) dialog: The freight car blows up from the fire. It spews gas, or what could be gas -- it might be chlorine, so they can't take any chances. Anxious now. Trying to make up lost ground. Whatever it takes to get sent back in.
+33) 109) dialog: So they decide to play it safe and evacuate parts of New York City. And maybe that's part of the terrorists' plan, right?
+33) 117) dialog: Wall Street. That's what they're going to hit next. The financial markets. Goodwin considers this. For the first time, slightly impressed.
+33) 121) dialog: Did she die, too?
+33) 123) dialog: You sure she's dead?
+33) 125) dialog: 
+33) 138) dialog: I told you I didn't want to see her! The camera ZOOMS IN on a corpse. Its burned face, like a piece of rotted fruit, fills the screen. Nevertheless, we recognize it. And it's not Christina. It's someone else.
+33) 139) dialog: That's...
+33) 141) dialog: He died on the train.
+33) 149) dialog: You still have Christina's body? The other things she was carrying?
+33) 151) dialog: I want to know about her. Everything I can. She's not just another victim. She's connected to all this.
+34) 0) text: The rich smell of steaming coffee. The glint of a polishe leather shoe. The crisp click of someone uncapping a fountain pen. The scenery rushing by -- the blur of trees the soft lavender of the morning sky. The swell and pull the mighty machine coursing over the rails. If a train ride could ever be a sensory delight, this is To Colter, every sensation has become even more pronounce more intensely real than ever. CLOSE ON - HIS WATCH - A beep as he sets it to countdown again from seventeen minutes. The duration of his freedom Across from him is Christina. Absorbed with her sketching
+34) 1) dialog: Thirty six dollars and eleven cents. She looks up at him.
+34) 2) dialog: In your wallet. Right now. Thirty six dollars and eleven cents.
+34) 9) dialog: Yes. In five seconds, a guy's going to open a can of soda. 4... 3.. 2... 1...
+34) 11) dialog: We're about to pass a street with willow trees. Two girls will be jumping rope. A white dog's going to run out behind them. A Dalmatian mix. In a moment, they pass a scene exactly as Colter describe Christina's befuddled smile.
+34) 13) dialog: Close observation. You could say I'm a collector of moments.
+34) 15) dialog: Yes.
+34) 17) dialog: You trained to be an artist. No response.
+34) 18) dialog: You got A's in line drawing and oil painting. But your work didn't sell. You took a job answering phones in a law firm.
+34) 25) dialog: Six months ago you moved back in with your parents. Two weeks ago you put your paints away for good. The sketch book is all you have left.
+34) 27) dialog: You.
+34) 29) dialog: But we have, Christina. You've drawn all these people here. You know their routines. At one point you thought you were different from all of them. But now you're not so sure. Christina has gone white. Utterly incredulous.
+35) 2) dialog: I need your help.
+35) 4) dialog: Listen to me. I can't use up any more time trying to convince you. I just need you to believe everything I'm about to tell you.
+35) 11) dialog: Bear with me. (beat, where to begin?) Your sketch book. Is there a drawing of me in there?
+35) 13) dialog: Please, Christina.
+35) 16) dialog: The thing is, that's not me.
+35) 18) dialog: No. You drew what you saw, but the person you're seeing now is someone else. I'm not Sean Fentress. I'm not really on this train.
+35) 21) dialog: I'm taking someone's place. Borrowing it. My name is Colter. I'm a soldier. And I'm being held prisoner. And this is the only way -- the only time and place I have -- to figure out how to escape. She gives him a blank look.
+35) 28) dialog: I'm serious. Elements in the American military are using me for an experiment. I'm not sure exactly how it all happened, but I'm at a facility on Nellis Air Force Base in Nevada. Right now. As we speak. It's a project called Source Code.
+35) 30) dialog: It's a program. It shifts identities. It also performs small amounts of time travel. Or "time engineering." I don't know the jargon. He's not getting through to her. It's too bizarre.
+35) 31) dialog: I've been put on this train to look for someone. A criminal. And I need to find out just enough about him to keep them putting me back on this train. Because right here's only place I can figure out what's really happening. But I have very little time. And each time I come back, you won't remember me and I'll have to go through this all over again.
+35) 33) dialog: Then how do I know all those things about you if we've never spoken before? She doesn't have an answer. Can't easily dismiss him.
+35) 35) dialog: Because I think you have the answer to this whole thing.
+35) 42) dialog: There's a vision. I keep having it. It's very powerful. And you're in it. And there's a bicycle. And this... old stone wall. And it's very peaceful. Does this sound familiar? Like where you live, maybe?
+35) 44) dialog: The vision must mean something. It's the only time when I'm not on the train or in the capsule. Why else would Rutledge be so interested?
+35) 46) dialog: Someone who was trying to help me understand something. Until they got to him. He lowers his head. A dead end. No answer. The train begins to slow down.
+35) 49) dialog: I don't believe in that shit.
+35) 59) dialog: Most of my friends are in the military. My dad runs a melon farm in Alabama.
+35) 61) dialog: Me and my dad, we don't see eye to eye. We're just two different people.
+35) 63) dialog: Are you always this sarcastic?
+35) 65) dialog: What day is it?
+35) 72) dialog: June? One more thing to puzzle him. The call connects. An OLDER MAN, DONALD STEVENS, answers. The gravelly voice of a Midwestern farmer.
+35) 74) dialog: Dad? Donald doesn't respond.
+35) 75) dialog: Dad, it's me. It's Colter. Again, silence.
+35) 76) dialog: Been a while, huh? I'd been meaning to call you, but -- Click. The line goes dead. Colter looks at Christina.
+35) 77) dialog: He wanted me to stay on and take over the farm but... I had other ideas.
+35) 79) dialog: What?
+35) 81) dialog: The hell I am. Challenged, he redials. Braced for conflict. The call connects.
+35) 82) dialog: Dad, don't hang up. We're going to talk. I need your help.
+35) 91) dialog: No... it was like he didn't even know who I was. Troubled, he hands back her phone. Outside, the EXPRESS TRAIN flashes by.
+35) 93) dialog: Sorry to have bothered you. He gets up to go. Christina stays where she is.
+36) 3) dialog: Forget it.
+36) 12) dialog: Thank you, ma'am.
+36) 15) dialog: Twenty five? She smiles, pleased.
+36) 23) dialog: I just do.
+37) 0) text: Colter enters the tiny space. Christina is reluctant to follow him into the bathroom.
+37) 1) dialog: You said you wanted to know.
+37) 4) dialog: Shut the door. As she shuts the door, Colter gets up on the sink.
+37) 6) dialog: It's up here. He holds out his hand. She grabs hold and steps up on the sink. She's not quite tall enough to see into the crawlspace, so he steps up behind her and lifts her the r of the way.
+37) 9) dialog: Just look. Her blouse brushes his face as he holds her up. A long be as she looks inside the overhead space at the bomb.
+37) 16) dialog: Acetone Peroxide. It's a liquid explosive. There's fourteen cannisters of it. Simple detonator. Cell phone signal closes the circuit and boom. He lowers her. An incredulous beat.
+37) 18) dialog: No. It was someone else. They don't know who. That's why I'm here. To find out. Watching her. Will she believe him?
+38) 0) text: The bathroom door opens and Christina walks quickly away. Mounting fear. Colter falls into step behind her.
+38) 1) dialog: It won't matter. The train's already...
+38) 3) dialog: I've been sent here. It sounds crazy, but it's true. I've been sent from the future -- from five hours in the future. This train's already been blown up. She backs up. Scared of him. Every right to be.
+38) 4) dialog: You wanted to know. Now you know. She turns and hurries for the exit doors.
+39) 9) dialog: Look. Now the fucking thing can't go off.
+39) 13) dialog: Source Code's classified. It wouldn't be in a newspaper.
+39) 15) dialog: She found me? What does that mean? She stops. Not wanting to go on. From outside comes the HORN from the approaching freight train.
+39) 16) dialog: Jesus Christ, Christina, are you going to spit it out? In his hand, the CELL PHONE RINGS. Colter's eyes light up amazement -- the DISPLAY SCREEN is showing the name and number of the bomber. But before he can read what's there Christina's voice finds its way to the back of his brain:
+44) 0) text: On Colter's face. A deep, cold knot in his stomach. Shuddering in fear. The truth before him now. Crouching there, a nightmare, ruling over him. On the MONITOR, Goodwin looks into the camera. Assessing situation.
+44) 25) dialog: Let me talk to Rutledge.
+44) 27) dialog: Rutledge. Get him.
+44) 34) dialog: Will you let me out of here? Goodwin ignore the question. Continues making notations.
+44) 36) dialog: Find Rutledge! Now!
+44) 38) dialog: Stop! Stop reading from your goddamn script!
+44) 40) dialog: I swear to fucking Christ!
+44) 42) dialog: I don't need your criticism and I don't need your memory exercises, you gutless freak. And by the way, that bomb is detonated by a cell phone. When activated, the phone's display screen displays caller ID information. Caller ID. I wonder if that information would be useful to Beleaguered Castle. For a split second, Goodwin looks thrown. But the mask of the cold clinician goes back up.
+44) 49) dialog: You'll have to send me back. I didn't get a good look at it. But I will next time. Goodwin hesitates. Skeptical.
+44) 51) dialog: Goodwin, there's no time left. Send... me... back. Goodwin's pale, inscrutable face fills the monitor. His e are unblinking. Unfeeling. Nothing behind them.
+45) 0) text: Colter prowls the aisle feverishly. He scans the overhead luggage rack. Peeks inside a bag. Doesn't see what he wants. He looks all around... up the rows of passengers.. intently scanning... There. The Computer Engineer. He's asleep. But clutched i his hand is what Colter wants -- a CELL PHONE.
+45) 2) dialog: Who's walking off with the guy's cell phone. Behind him, Computer Engineer gets up.
+46) 0) text: The Computer Engineer hurries in. Colter is nowhere in sight. He RUNS down the aisle and towards the next car. PAN OVER to the DOOR of the CONDUCTOR'S COMPARTMENT as it CLICKS SHUT.
+47) 0) text: Breathless, Colter has just finished shutting the door an about to use the cell phone when sees THE CONDUCTOR and a TRAIN OFFICIAL Looking over at him in surprise.
+47) 1) dialog: Sorry. Wrong turn. Reversing gears, Colter backs out of the compartment.
+48) 0) text: Just as the befuddled Computer Engineer disappears into t third car, Colter steps back into the aisle and walks the other way.
+49) 0) text: Sweating a bit now, Colter is keying in a number on the c phone as he walks.
+49) 2) dialog: Las Vegas, Nevada. Nellis Air Force Base.
+49) 10) dialog: Is this... Nellis Air Force Base?
+49) 12) dialog: I'm trying to reach... Captain Colter Stevens. Calling himself. Strange. No idea where this is going.
+49) 14) dialog: Then give me the Combined Air and Space Ops Center.
+49) 17) dialog: Who is this?
+49) 19) dialog: I'm calling for Rutledge. It's urgent.
+49) 21) dialog: This is Captain Colter Stevens. An eerie pause.
+49) 28) dialog: Colter Stevens. Captain Colter Stevens.
+49) 33) dialog: Let me talk to Rutledge.
+49) 35) dialog: I'm on the train. The train pulls to a stop.
+49) 38) dialog: 
+49) 46) dialog: The explosion.
+49) 49) dialog: Don't you understand? I'm in it, Goodwin. I'm calling you from inside the mission. Inside the Source Code. A beat of stunned silence. The train begins moving.
+49) 52) dialog: Goodwin, I'm trapped in this and I can't get out.
+49) 54) dialog: No! Wait! Don't hang up! Forget authorization. There's no time. Soon you're going to find out what happened on this train. And then your own day is going to start. But not until then. Right now it's just you and me talking. And you're a different Goodwin than the one I'm going to go back to in a few minutes. You're separate from him. Separate worlds. Do you understand?
+49) 56) dialog: Good. Now there's a lot of secrecy in all of this, and you have your reasons for that.
+49) 63) dialog: But here and now, just this once, I need to ask you something. And you need to tell me the truth.
+49) 65) dialog: I'm going to ask it.
+49) 67) dialog: Jesus, Goodwin, how can I get through to you? You're not just a soldier. Somewhere inside you're a human being, too. Somewhere inside you've got to know that this is wrong. Source Code is wrong. And if you can't grasp that, if you just follow orders, then you're just as much a prisoner as I am. The car SHUDDERS as the EXPRESS TRAIN FLASHES BY. Quiet returns as it recedes.
+49) 69) dialog: Did I survive that helicopter crash in Iraq? Silence. Colter shuts his eyes.
+49) 70) dialog: Answer me. Did I survive that crash? Another pause. This is crushing Colter.
+49) 71) dialog: Goodwin.
+49) 73) dialog: What?
+49) 80) dialog: Not physically? Fuck. At least give me an answer I can understand.
+49) 82) dialog: But... the capsule I'm in...
+49) 84) dialog: You had no right.
+49) 86) dialog: I was a soldier. Then. But now?
+49) 90) dialog: You really want to know?
+49) 92) dialog: That's what we do. Keep stuff from each other. Will this ever end?
+49) 99) dialog: How can I get out of this?
+49) 101) dialog: How?
+49) 103) dialog: And then what?
+49) 105) dialog: How many times have I done this?
+49) 107) dialog: No one knows I'm here. No one can help me.
+49) 109) dialog: You can't do this. I served my country. I already gave my life.
+49) 116) dialog: What?
+49) 118) dialog: Military court or civilian court?
+49) 121) dialog: Does that make it any less wrong? No answer. Colter looks down at his watch. Time is runnin out. And there's absolutely nothing he can do.
+50) 0) text: Its appearance has altered slightly, given Colter's new awareness of what this really is. The capsule is even mor claustrophobic. There are fewer controls. Even less light A shadow world. The monitor is blank. He shouts from the void --
+50) 1) dialog: Goodwin?! Rutledge appears. Drops into the seat and puts on the headset. Fiddles with his pipe as a way to avoid looking the camera.
+50) 8) dialog: I finally get it, Rutledge. You're the good guy, Goodwin's the bad guy. Working together, you get what you want out of me. Why didn't I see it before?
+50) 10) dialog: Drop it. I know about the helicopter crash. I know what they've done with me.
+50) 13) dialog: What's in it for me?
+50) 15) dialog: You can do better than that. They sent you here to offer me a deal.
+50) 17) dialog: What's their offer? What can they possibly threaten me with after so colossally fucking me? Spit it out, you spineless turd. Rutledge's face goes red. Quite possibly no one has ever spoken to him like this before. After a sputtering pause, Rutledge's mouth hardens.
+50) 24) dialog: Those after images I saw. You never knew about them. They weren't part of Source Code architecture, were they?
+50) 27) dialog: You don't believe that. I've been to places you haven't. I've crossed and recrossed that line between living and dying. And when I do, that veil gets lifted for just a second. And what's there is real. Maybe it's a vision of the next world, but I can see it.
+50) 29) dialog: Get there? What do you mean?
+50) 39) dialog: You'd never do it. You wouldn't have to. You could just flip the switch and start me back up again unaware. For all I know, you've made this deal with me before.
+50) 42) dialog: I'm going to find you, Rutledge. Someday. Somewhere.
+50) 45) dialog: You hear me? Somehow, I'm going to find you.
+50) 56) dialog: I think so. But there wasn't time to read the screen. As soon as it rang the bomb went off.
+50) 59) dialog: I was unable examine the phone without separating it from the detonator -- which I was instructed not to do. His delivery is different now. Impersonal. Distant.
+50) 66) dialog: Wait. What are you -- THUNK. Again, he convulses and goes limp. Click. Darkness. Everything POWERS DOWN... ... And BACK UP again -- controls, monitor, machinery. Colter GROANS and opens his eyes. Gripped by another terr Returning from yet another trip on the train. Another bom blast. Death and resurrection. Rutledge looks in on him with impatience.
+50) 68) dialog: Please... I don't feel good...
+50) 70) dialog: I don't know... I honestly... I can't keep... The HUMMING again. He's helpless. An insect on a pin. Colter tears at his restraints, ready to bash his brains against the controls. He SCREAMS...
+51) 8) dialog: Go ahead! Open your fucking soda! CHK-THOCK! The Overweight Man complies. Some half-muttere reproaches, then most people go back to what they were do
+51) 13) dialog: Ma'am, please... return to your seat. Footsteps. The sound of jangling KEYS.
+51) 28) dialog: Why did you just do that?
+51) 30) dialog: Will you do me a favor?
+51) 37) dialog: Get off the train.
+51) 40) dialog: Please. Just get off the train. Her puzzled look. The train begins to SLOW DOWN.
+51) 42) dialog: You shouldn't have been on this train, Christina. You should be living another life. Not spending it answering phones for lawyers.
+51) 52) dialog: Everyone has a destiny. And this isn't yours. He steps out onto the platform. Holds out his hand for he to join him. A coaxing look. She's incredulous. This guy. His words. This whole moment
+51) 54) dialog: Just do it. Stop being afraid. Believe in yourself. He waits for her. Only two steps away.
+54) 2) dialog: Believe me, he's our guy. He tossed his own wallet back on the train. Only reason he'd do that...
+54) 12) dialog: You saw that terrorist video -- they said it was one of us. One of our own.
+54) 14) dialog: How?
+54) 16) dialog: Torture him, you mean.
+55) 0) text: Christina is absorbed in her sketch book. Across from her Colter watches. A stranger to her again. It hurts too muc She feels his eyes on her. When she looks up, he's gone.
+56) 7) dialog: Assalam'alaikoom. Squeezing past, Guzman does a double take to hear the standard Arabic reply.
+57) 0) text: Reaching into the overhead crawl space, Colter once again unhooks the cell phone detonator from the bomb. Sitting down on the toilet seat, he dials 4-1-1 on the ce phone.
+57) 2) dialog: The New York Times.
+61) 0) text: The doors stand open to the platform. Just then Derek's WALLET goes skidding back on board, disappearing under th wall panel. A second later, Colter reaches the exit area.
+62) 0) text: The train doors shut. Colter is now out on the platform. Christina is not there. Concerned, walking quickly forwar Colter looks through the windows... And finds her staring back at him. Still on the train. A strange moment between the two of them. Once again he's failed to save her. They watch each other for as long as possible, until the train pulls away.
+65) 2) dialog: You forget something?
+66) 0) text: Behind the closed door at the end stall comes the sound o GUZMAN VOMITING. BANG - The men's room DOOR flies open -- Colter DRAGS Der inside.
+66) 2) dialog: You see this? Colter pulls out the DETONATOR CELL PHONE -- the one he t off the bomb. Holds it inches from Derek's face.
+66) 3) dialog: Now you can't blow it up.
+66) 10) dialog: Believe me, I'm very accurate with one of these things.
+66) 12) dialog: Stay there, my man.
+66) 14) dialog: Stop acting, for Chrissakes.
+66) 17) dialog: Shut up! Tensing. This isn't supposed to happen like this.
+66) 19) dialog: What about those other passengers? Don't you think they had families?
+66) 26) dialog: This man's a terrorist. He planted a bomb on the train.
+66) 29) dialog: What's the next attack? Who else are you going to kill today, huh?
+66) 32) dialog: One more step, asshole.
+66) 35) dialog: Piss all you want. You took eighty million dollars to kill hundreds of people today.
+66) 37) dialog: Then what about the wallet, huh? Why the fuck did you twice try to leave your wallet on board?
+66) 45) dialog: Time's up! What is it?! What is the next attack! So help me, I'll put this bullet through your brain.
+66) 47) dialog: I'm going to do it. Tightening his finger around the trigger. Tears are streaming down Derek's face. But he's not going to talk.
+66) 52) dialog: Hello.
+66) 54) dialog: 
+66) 62) dialog: How can you be calling this number?
+66) 64) dialog: I was trying to warn you.
+66) 66) dialog: I'm not sure that it matters now.
+66) 68) dialog: I'm right here, okay? Don't be afraid.
+66) 72) dialog: What did you say?
+66) 82) dialog: "By one o'clock, the bridge is going to be jammed." That's what you said. You knew. You knew there was going to be an evacuation. You knew before it happened. All those people walking across the... The realization hits.
+66) 83) dialog: They're going to bomb the bridges. While they're full of people.
+66) 86) dialog: Christina? Just hang in there. You'll be okay. A HAND closes over his gun. Before Colter can react, Dere
+67) 0) text: The monitor is dark. Everything is still. Colter in his seat. For long seconds we watch his face.
+68) 0) text: A jarring transition. We are now away from Colter's P.O.V and in the real, physical environment of the Source Code operations center. Military and civilian personnel work a mysterious scientific equipment.
+70) 0) text: Inside the capsule, the silence continues. Colter thinks himself. The MONITOR then comes on.
+72) 0) text: Colter looks out at Goodwin. A beat of difficult silence.
+72) 2) dialog: Just do it.
+72) 4) dialog: Just do it. I knew they wouldn't let me die. At least you can make me forget all of this. I hope. Goodwin stares at his hands. Unmoving.
+72) 5) dialog: What are you waiting for? You're just doing your job. I'd do the same thing if I was you. At least you've got a shot at saving those people on the bridges.
+72) 7) dialog: You don't think they'll save them?
+72) 14) dialog: Look, someone had to be where you're sitting, and someone had to be in here. Turned out it was you and me.
+72) 17) dialog: I don't understand.
+72) 19) dialog: 
+72) 22) dialog: Prisoner?
+72) 30) dialog: No... There's no way... There's no way you could have... Goodwin just smiles.
+72) 31) dialog: 
+72) 34) dialog: But...
+72) 36) dialog: You're saying I could have saved those people?!
+72) 39) dialog: Man. Just when I think I understand this...
+72) 47) dialog: They'll nail your ass for this.
+72) 49) dialog: Roger that. MACHINERY BEGINS TO HUM.
+72) 51) dialog: Final transmission acknowledged.
+74) 0) text: Colter is back on the train. It is morning again, sevente minutes before the destruction. He's back in the navy blazer. The slacks. The commuters, caught up in their individual concerns, ignore Colter. But he looks on them with an appreciation approaching joy. For a moment he just sits there. Simply being alive in th world. Attuned to the motion of the train. The sun on his face. And across from him, oblivious, working away on her sketch pad, is Christina. The best sight of all.
+76) 0) text: Colter drinks in the sight of Christina. Finally he gets and walks off down the aisle. As soon as he's gone, Christina looks up. She's observed interest in her. Doesn't quite know what to make of it.
+77) 0) text: Colter is by himself in the exit door area. From his jack he takes out a CELL PHONE.
+79) 0) text: Colter walks down the aisle. Looks at HIS WATCH -- 12 minutes, 40 seconds. The train begins to SLOW DOWN.
+88) 10) dialog: Ain't life grand? Looking over, she notices him.
+88) 12) dialog: Maybe that's a good thing. She gives him a sharp look.
+93) 3) dialog: That train was taking you to a place you didn't want to be. But then you got off. And maybe that's a sign.
+94) 0) text: The noise from the outer door grows louder. The MPs are o seconds from getting inside. Goodman moves towards the li support equipment. As he does, we glimpse a horrifying sight: the upper half Colter's body -- his real body -- inside a sterile tent o transparent plastic. His skull has been removed. A massiv apparatus has been infused directly onto his brain. Goodwin takes a long, last look.
+95) 1) dialog: Hey. She turns. Colter gets up.
+95) 2) dialog: You can do anything you want with your life. Starting right now. She's taken aback. He starts walking off.
+95) 12) dialog: Maybe some other time. Disappointment flickers on her face. She turns to go. Behind her is a STONE WALL. A BICYCLE is parked against i Colter's breath catches in his throat. This is it! This i the mysterious scene he's been seeing! HIS WATCH - Hits ZERO.
+97) 0) text: Christina walks past the bicycle parked against the stone wall. She's about to enter a TUNNEL that goes under the tracks. The same tunnel from Colter's vision. She stops. Something tells her to turn around. The bench where Colter sat is empty. But three feet away... Colter is standing there. Still he Dumbfounded, he looks at his watch -- it remains at ZERO. He looks all around. Trees stirring in the breeze. A bird flies overhead. The crowd of passengers outside the stati
+97) 2) dialog: You're right. The least I can do is buy you coffee. This pleases Christina, although she tries not to show it

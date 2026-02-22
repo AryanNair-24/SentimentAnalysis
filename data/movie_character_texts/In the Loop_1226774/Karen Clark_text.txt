@@ -1,0 +1,151 @@
+8) 7) text: Look, I've got a leg up for you. I think we could get Simon into the big meeting with Karen Clark?
+11) 0) text: Chad's dual horse-shoe is packed with people. The room's pretty much full. KAREN CLARK from the State Department is surrounded by ten or so aides and functionaries, security people and assistants. (Including Chad and LIZA one of Karen's senior aides.) Then there is Bob Adriano's gang of advisors, smaller but sitting separately. Next to them is a Pentagon delegation, including uniformed members of all three services. Lots of hubbub. SUZY leads SIMON, TOBY and JUDY in, and shows them to their seats. 
+11) 8) text: Simon and Judy swap seats. The meeting is now underway. We're with Karen Clark.
+11) 9) dialog: We all agree this is a very tough time, but I don't want a consensus to form around the premise that conflict is necessarily the primary option at this point.
+11) 14) text: Simon and Judy swap seats again. Back with Karen. She's holding up a paper in a red folder. 
+11) 16) dialog: This paper, authored by one of my aides, Liza Weld. You don't mind me fore- grounding this do you Liza? Liza reacts. Her paper? In a big meeting. Is this good or bad?
+11) 17) dialog: Illuminates the logistical factors we face. She highlights a number of reasons why, in practical terms, we can't envision a theatre deployment for twelve months.
+11) 19) dialog: Really - such as what?
+11) 21) dialog: Which committee?
+11) 24) dialog: You did.
+11) 26) dialog: Have you accidentally alluded to some secret committee? A war committee?
+11) 28) dialog: Have you heard of this committee?
+11) 35) dialog: Look - I just think it's worth noting that Ministers in The UK Government, (Liza whispers - Simon's over there)
+11) 39) dialog: Simon Foster ...
+11) 41) dialog: Has made it clear that for them currently war is unforeseeable. Isn't that right Simon?
+13) 0) text: We're with Karen Clark's delegation who have just walked downstairs from the meeting room into a ground floor lobby area. KAREN is talking to LIZA, her right-hand woman. TOBY, SIMON and JUDY are above them standing round a circular viewing area that looks down on the lobby. The UK and US delegations are aware of each other, throwing furtive glances each other's way.
+13) 1) dialog: Whichever committee they don't want me to be a member of, I want to be a member of that. It's a confused Groucho Marx.
+13) 3) text: Chad arrives. Karen talks to someone else.
+13) 15) text: Liza walks off, over to Karen.
+15) 0) text: Karen is back, huddled up with Liza.
+15) 1) dialog: My teeth hurt. I think the veneers are chipped. Do they look chipped?
+15) 2) text: Liza stares into Karen's mouth.
+15) 4) dialog: Oh, don't look at my teeth.
+17) 1) dialog: (looking up at the Brits, off Simon's smile)
+19) 1) dialog: Linton has set up a secret war committee, I just know it. I mean, Linton is an absolute lunatic, Liza. He is dangerous. The voices in his head are now singing barbershop together.
+23) 0) text: Liza, Karen and Chad arrive in the buzzing State Department offices, knackered but in action mode.
+23) 1) dialog: Okay - so, priorities are: take a shower, get me on Linton's War Committee, get me a dental appointment. Not necessarily in that order. Karen walks past various desks covered in tons of Post- Its. Stops a STAFFER as he passes. KAREN (cont'd) (CONT'D)
+23) 2) text: What's Linton been up to while we've been away....have we declared war on California yet? But before the staffer can answer they run right into Linton. Karen stands her ground.
+23) 4) dialog: Linton.
+23) 6) dialog: Great hotel, thank you.
+23) 10) dialog: Yes. We had some good discussions. The time at Number Ten could possibly have been better spent but then...
+23) 11) text: Karen realises that Linton is reading a message on his cell phone and not listening.
+23) 13) text: Linton heads off to his office. A beat later so does Karen. Chad goes off a little towards Linton's office.
+23) 14) dialog: Is Chad coming... ?
+23) 22) dialog: So listen, Liza, I need you to find out the names of the ten dullest committees currently operating on the hill.
+23) 25) dialog: Because Linton is not going to call it the big horrible scarey war committee...they'll have buried the war committee under the most boring name they can think of. 'Diverse Strategy Committee'- not that, I'm on that. But it'll be a committee that sounds so tedious you want to self-harm. They glance over into Linton's area. He is glancing into theirs.
+23) 26) dialog: Can you get me General Miller at the Pentagon? (as she leaves)
+23) 30) text: Hi. I'm calling from Karen Clark's office about a paper written by a staffer here. We need to know if 'Post War Planning: Parameters, Implication's and Possibilities' has reached Assistant Secretary of State Linton Barwick yet? (listens)
+24) 0) text: Looking over at Karen. Now alone, who is still stealing glances over.
+26) 0) text: 34 Karen, Liza and Linton are among those seated round the table. Various staffers are standing, including Chad. And Bob Adriano.
+26) 1) dialog: Which brings us on to Any Other Business.
+26) 4) dialog: (putting her hand over her mouth, mocking Linton's gesture from earlier) Or everything you're prepared to discuss.
+26) 6) dialog: I understand you've started up a new committee, what's it called?
+26) 8) dialog: It was mentioned in our London meeting.
+26) 10) dialog: I misheard the word committee?
+26) 12) dialog: You're sitting on a new Khomeini?
+26) 19) dialog: Ok. Why don't you just recap for me all the committees that you're currently sitting on? 
+26) 22) dialog: Oh don't try to change the subject Linton.
+26) 26) dialog: Okay, Liza come with me.
+26) 28) text: Go, Buffy - you belong to the vampire queen now. Liza follows Karen out. Chad takes Liza's seat.
+26) 31) text: Yes! Ha ha! Exactly. Linton sees his chance to take advantage of Karen being out of the room.
+27) 0) text: They head into the bathroom. Liza is pulling handfuls of tissue. Handing them to Karen who is dabbing her teeth.
+27) 1) dialog: Where are at you at with the committees?
+27) 3) dialog: Well, it's not the first one. I set that one up. Does that really sound dull to you? I thought that was a good name.
+27) 5) dialog: Okay, find out if it is definitely the Future Planning Committee.
+27) 7) dialog: I'm not a fucking monster Liza, okay? Will you stop implying I'm some kind of monster?
+28) 9) text: Liza smiles. Runs back into the toilets and gives a thumbs up to Karen.
+36) 0) text: A smart private cocktail party in a fancy Georgetown house. Karen and General Miller spot each other. They each take a glass of champagne from a waiter.
+36) 2) dialog: I bet you say that to all the girls.
+36) 4) dialog: That's why you shouldn't run for Senate. Too many skeletons in your enormous closet.
+36) 6) dialog: That's right, you're passionate about education and housing and what's the other thing?
+36) 9) dialog: That's right.
+36) 11) dialog: I'd forgotten about that. Are you still allergic to that dog?
+36) 13) dialog: Oh my god, they do have memdication for that.....but a beautiful ball sack, though. And how's the pentagon?
+36) 15) dialog: Is there somewhere we can talk?
+37) 0) text: General Miller and Karen are in Caulderwood's kids' play room. Toys are piled up everywhere.
+37) 1) dialog: What if someone comes in now?
+37) 3) dialog: No. Just be careful. Don't mess stuff up.
+37) 10) dialog: Er - you've lost me.
+37) 12) dialog: Your military hardware is impressive.
+37) 15) dialog: Thousand?
+37) 17) dialog: You're shitting me.
+37) 19) dialog: Uh-huh. Tomorrow I've got to meet these Brits. Simon Foster. He's the guy that said war was unforseeable, and I think he could very useful on the committee because he could internationalise the dissent. 
+37) 37) dialog: Liza, where are you?
+37) 39) dialog: Make yourself more visible.
+37) 42) dialog: You can stop talking on your phone now. Look, I have to leave. Phone Simon Foster's guy. Tell them to come to the war committee. I'll give them some face time around ten o'clock. It'll be coffee and Danish...tea..they're going to want tea. Tea and sympathy. Tea and a handjob, whatever.
+49) 0) text: Toby running. 61   INT. KAREN CLARK'S OFFICE. DAY. Karen, Liza and Simon are making small talk.
+49) 3) dialog: You should go to La Taverna, the Greek place. It's fantastic.
+49) 7) dialog: There's the aerospace museum, the National Gallery.
+49) 11) dialog: (re Toby) And this is your guy?
+49) 14) dialog: (turning to Toby) I'm Karen. And I believe you already know Liza.
+49) 16) dialog: Pulled an all-nighter?
+49) 19) dialog: Oh who by?
+49) 21) dialog: Not Penny Grayling?
+49) 23) dialog: Right. Wow. I didn't know you had so many delegations in town. 
+49) 27) dialog: Well, I need to just check out a couple of things ... this seems like a good point to break things up.
+49) 31) dialog: I really appreciate this.
+53) 0) text: Simon and Toby are looking through magazines and papers. Karen is exiting her office with an entourage.
+53) 3) dialog: See you at the committee.
+53) 9) dialog: Hello?
+53) 11) dialog: Are you joining me or shall I see you there?
+53) 13) text: Karen goes into the toilet. Simon and Toby head off looking sheepish. As they head out of the vestibule. There is a gaggle of Karen hangers-on. Chad-type staffers looking to get in with Karen.
+57) 11) text: General Miller is sitting next to Karen. They're watching Linton having angry words with Adriano.
+57) 13) dialog: "And your mother only ever kept your baby clothes for the purposes of voodoo."
+59) 2) dialog: Assistant Secretary -- here on point 6, it feels like there's an assumption that we'll be invading. Should we talk about the practical? I mean this is the war committee after all?
+59) 4) dialog: Unofficially it's known as the war committee.
+59) 6) text: Unofficially, this is a shoe. But it's not a shoe, Karen, it's a glass of water, and this is the Future Planning Committee.
+60) 3) dialog: But what I'm asking is has a decision been reached in principle to advocate invasion?
+60) 5) dialog: What makes you say that?
+60) 7) text: Simon is texting under the desk and not really paying full attention. He hears his name, looks up, waves to the group. He doesn't clock Karen's intense look that says `You are going to rebut that, aren't you?'
+60) 8) dialog: Perhaps Mr. Foster would have something to say about that?
+60) 12) dialog: (furious) That's just ridiculous. You have no basis for saying that.
+66) 0) text: General Miller (and an aide or two?) marches into Linton and Karen's section of State. He's got a meeting scheduled. He's a man on a mission. He marches straight past Bob Adriano ...
+66) 11) text: He finds himself heading into Karen's office. It's empty. He stands there for a beat. Shuts the door. Looks around. Picks up a hole punch. Kicks the couch. Karen enters, surprised to find him there.
+66) 12) dialog: Hey, what is it?
+66) 14) dialog: Er. Sure. Why?
+66) 16) dialog: Look, I was going to order food, do you want to eat.
+68) 1) text: Later. General Miller is with Karen. They're surrounded by cartons of Chinese take-out.
+68) 4) dialog: (re the paper in it's red folder)
+68) 9) dialog: Yes I want that. (points to various packages) I want that, that, that, that and that. Those I don't care about. And these let's pack up and drop on North Korea.
+68) 12) dialog: Someone maybe shaped a little bit like you.
+68) 14) dialog: You have more gravitas.
+68) 16) dialog: I'm not sure he reads. You're a General. Have him killed.
+69) 0) text: Simon is talking to Karen.
+69) 3) dialog: This is a private call right -- unrecorded, secure line etc etc?
+69) 7) dialog: What's going on Simon?
+69) 9) dialog: Gaza?
+69) 11) dialog: Where were you in the committee? I called for back-up, you sat there like a dumb sack of shit. Maybe worse, cos at a molecular level a bag of shit is probably fizzing with energy.
+69) 13) dialog: There is no long game. They've bounced us into a short game. You looked like a...what do you call it in England? A 'wanker
+71) 2) dialog: Also - the war committee got leaked, and that leak came from your department. 
+71) 5) dialog: I want action to be taken. I want a head. On a plate. To go.
+74) 0) text: Karen runs out of the lifts. There's even more of a buzz than usual, people running around. She sees Bob Adriano, Linton and Chad in a huddle in Linton's air. Hurries over to Liza.
+74) 1) dialog: Liza, what's up? Why is everyone running around? This better be a fucking fire drill.
+74) 3) dialog: Shit. Karen calls over to a staffer, ABBEY.
+74) 4) dialog: Abbey, get me the president's statement.
+74) 6) dialog: You work to me, Abbey, you fucking work to me. Get me the statement. Or I will call security and have you escorted off the premises via the window. Karen crosses quickly to her office. Liza follows.
+74) 8) dialog: He needs them to at least abstain in the security council. A beat.
+74) 10) dialog: Yes, we're going to the UN.
+74) 14) dialog: I should be told this fucking stuff! I'm going into Linton's office and pulling the pin on his grenade.
+74) 16) dialog: I'm fucking joking.
+74) 18) dialog: Why didn't you know about this?
+74) 20) dialog: Don't get funny with me. I am not in the mood.
+87) 0) text: Lots of delegates drinking and eating and chatting. We glimpse Linton, Karen, General Miller. Sir Jonathan is there, mingling. Malcolm approaches Simon, Toby, Judy and Sir Jonathan.
+89) 0) text: Karen and Miller are looking at a computer screen, presumably reading about Simon's floated resignation.
+89) 1) dialog: (looking at computer)
+89) 8) dialog: You're still playing the hawk?
+89) 15) text: Karen and Miller go into a confab. Karen and Miller immediately go into a huddle and start planning Simon's future.
+89) 16) dialog: (to General Miller, as if Simon's not there) We could just tell the press he's going anyway. Say he's confirmed to us that he's resigning.
+89) 21) dialog: During. Then he can't do anything about it.
+89) 25) dialog: Be realistic. You're being used. We all are. The one thing we can do now to influence things is to resign. Sacrifice ourselves. That's our only weapon. 
+105) 0) text: 119 Karen enters. Chad is there too with General Miller.
+105) 1) dialog: So, I emailed my resignation ten minutes ago. (to Miller) Yours should come right after the President's announcement, to have the biggest media impact. 
+105) 4) dialog: What the fuck George. Seriously? You said that the war was intolerable and we'd go together.
+105) 6) dialog: You're not a soldier.
+105) 8) dialog: You're a politician. You live on canapes and white wine and you have three anecdotes you wheel out at every party and you scour the national papers for mentions of your name. You're a fucking politician.
+105) 10) dialog: When was the last time you shot a guy?
+105) 12) dialog: You know this is an unnecessary war. It's a war you don't believe in. Show me some balls, George.
+105) 15) dialog: Oh sure, It just so happens they're sitting pretty in a pair of Egyptian cotton Ralph Lauren shorts on a Government salary.
+105) 17) dialog: Come on Chad, let's leave the General and his over-stuffed scrotum. We're going to draft our resignation announcements.
+105) 18) text: Karen turns away from him.
+105) 20) dialog: Okay. General Shrek and his faithful talking donkey.

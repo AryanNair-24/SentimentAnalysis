@@ -1,0 +1,120 @@
+2) 0) text: GERALD CARVER, 36, an ambitious government lawyer with a  relaxed, vaguely hip manner, looks over the file of the  ingratiating BLACK OFFICER sitting across the desk from h
+2) 1) dialog: Officer Leland? You know the  difference between a black man and  nigger?
+2) 3) dialog: (continuing; pleasant  smile) Yeah, most niggers don't.
+2) 4) text: Stung, Leland tries to laugh. Carver puts his file aside, picks up another.
+2) 5) dialog: (continuing) Nice to meet you.
+3) 0) text: A SECOND BLACK OFFICER is powerfully built, politically  conscious, takes no shit. Carver's leafing through his fi
+3) 1) dialog: So, Winston, what's the difference  between a black man and a nigger?
+3) 2) text: Winston is out of his chair before the question is finish drags Carver by the shirt front halfway across the desk a hisses into his face:
+3) 4) text: Carver smiles cheerfully past Winston's cocked fist.
+3) 5) dialog: Thanks for coming in.
+4) 0) text: Joe Stevens watches Carver reading his file and waiting f an answer. When none is forthcoming, Carver glances up, f Stevens looking right back at him.
+4) 2) text: He says it pleasantly, without belligerence. Carver smile he's found his man. He offers his hand.
+4) 3) dialog: Gerald Carver, United States District  Attorney. Call me Gerry.
+5) 0) text: ON A TV SCREEN: a grainy black-and-white tape, date and t stamped at the bottom. A grungy street, palm trees. The l from the monitor dimly illuminates Carver and Stevens. On SCREEN the CAMERA finds: A MAN in jeans, sneakers and  sweatshirt on a street corner.
+5) 2) dialog: You can tell he's a cop?
+5) 5) dialog: Then why's he taking him to the room?
+5) 7) text: Carver studies Stevens in the darkness, impressed. ON SCREEN: The figures disappear into the motel. We hear  their voices. DEALER: "Here, try some of it." UNDERCOVER  COP: "Uhh... No, I don't..." DEALER: "Why not, you  sonofabitch?" Two bursts of SOUND DISTORTION. A plainclothes cop, TAFT, (black, stocky, powerful) bolts from behind the CAMERA, sprints toward the motel. The CAM wobbles after him.
+5) 11) text: He slams the wall, starts past the CAMERA. Carver pushes pause button; the tape freezes on a jerky image of Taft's face.
+5) 13) dialog: Charles Taft. LAPD Narcotics.
+5) 15) dialog: He's a great cop. Two [names citation]  and a [another citation]. As tough  as they come and twice as honest.
+5) 16) text: Carver watches Stevens watch Taft, smiles at something.
+5) 20) dialog: You are. If you want to be. (off Stevens) Most undercover guys don't know what  they're doing because it's a day  gig. (indicates dead cop  on TV) I need somebody who goes under and  stays there; six months, a year,  five years...
+5) 22) dialog: Buy drugs. Sell drugs. Feed me  information.
+5) 24) dialog: He's a drug dealer. A criminal. A  scumbag. But for the right side. (beat) I want you to come to Los Angeles on  loan to the Justice Department as a  federal agent. Your experience there  will be credited toward your seniority  here. And you'll come back to  Cleveland a P3 or higher.
+5) 26) dialog: You're separated from your wife,  she's filled for divorce. You see  your kids every other weekend.
+5) 29) dialog: (tolerant) Come on, a little grass...?
+5) 31) dialog: What's to understand? You saw your  father killed when you were ten, and  you decided you wouldn't be like  that. (off Stevens' surprise,  Carver grins) I'm God, I know everything. You wanted  to be a good boy, so you became a  cop. Hiding out in uniform... That's  why you got the hard-on for Taft.
+5) 33) dialog: (opening Joe's file;  as if reluctantly) I'll tell the truth, Joe. You're  never going to be a Taft.
+5) 36) dialog: (looks at MMPI results) You ever take a look at your  psychological profile? You score  almost like a criminal. (reading) "Resents authority..."
+5) 38) dialog: "...Exaggerated moral standards, but  with no underlying value system."  Look at the anger, the repressed  violence, it's almost off the scale...
+5) 40) text: Carver hands him the scores which are, of course, just  clusters of numbers. Stevens is upset, though oddly  unsurprised, as if this only confirmed his secret fears.
+5) 41) dialog: Why'd you join the force?
+5) 43) dialog: Well, now you can be. You won't be  Taft, but maybe you'll be something  more... interesting. (sits back) There's a man named Ramon Gallegos  who supplies 60% of the cocaine to  the West Coast. He's smart, smooth,  and sufficiently elusive that we  don't even have an adult photograph  of him. However, his uncle is Hector  Guzman, an important Latin American  political figure. Gallegos uses  Uncle's connections to get product  into the country, and everyone we've  sent after him has ended up like  that...
+5) 46) dialog: You already are, that's the point... (indicates file, test  scores) You've got the ability and the  personality to go underground and  blend in completely. That's what the  others couldn't. Some part of them  showed. That's why they're dead.  See, there's only one rule in this  game.
+5) 48) dialog: (continuing) Don't blow your cover.
+16) 0) text: Hull drops eleven foil balls on a green blotter. Carver c out money for him.
+21) 0) text: (NOTE: Hull invariably meets Carver in this anonymous roo distinguished only by the green blotter and a view of the city. This simple regularity suggest visits to a psychiat Carver probing, testing, teasing, trying to draw Hull out And they feel like therapy, at once a respite and a torme More foil balls on the blotter beside boxes of 3x5  photographs. Photos of Eddie and David Elias are up on a  corkboard, the beginning of a pyramid.
+21) 2) text: Carver produces a photo of a handsome Latin in his 50s, p it on the board above Elias.
+21) 3) dialog: Barbosa, Felix.
+21) 5) text: Carver shrugs: these things happen. He hands Hull a lot o cash, much more than expected. Hull does understand.
+21) 6) dialog: Get to Elias. Then to Barbosa.
+21) 8) dialog: Rush it, please. I want art, John,  not reality. Budget hearings start  in April, and I need Gallegos by  then. They won't give us funding for  three ounce buys.
+21) 10) dialog: Without funding, we aren't doing it  at all.
+27) 0) text: Three men: FELIX BARBOSA (whose photo we saw in Carver's  office). Barbosa is a veteran of the coke business, but h doing too much of the drug now; he's sweating, paranoid,  unstable. With him is GOPHER, early 60s, a wizened high-v old con who Barbosa keeps the way Spanish kings kept dwar for amusement and luck; like the court jester, Gopher can say anything he wants without fear. Behind them is an His kid, CHINO, 17, a thug. Elias knows them all, but is not happy to see them at his door.
+31) 22) text: He closes the door, takes the money Carver gave him out f behind the mirror, dashes back outside. As he rushes by:
+33) 0) text: Hull is led in with other handcuffed PRISONERS. Carver is here, catches Hull's eye. Hull shakes his head; doesn't w Carver to intercede. A woman PUBLIC DEFENDER (26, attract harried) addresses the prisoners.
+37) 1) dialog: I can't buy this much shit. I haven't  got it in the budget.
+37) 3) dialog: You're a drug dealer, John. Deal  drugs.
+37) 4) text: Hull just looks at him. Carver doesn't blink.
+37) 6) dialog: Don't blow your Carver.
+37) 7) text: Hull: a moment of horror as he realizes what Carver is sa
+38) 1) dialog: You're still thinking like a cop,  John. Forget that. Cross the line.  Be what you are. You're a criminal.  You don't give a shit about other  people. You're just trying to survive.
+40) 1) dialog: But you want to be of use. You want  to get drugs off the street, don't  you?
+41) 1) dialog: Well, this is the cost. Pay it or go  grow flowers someplace.
+62) 1) dialog: (dismissive) Synthetic shit?? Sounds like a 20/20  segment...
+62) 2) text: Hull shrugs: it's not that important. Carver turns to his real interest.
+62) 3) dialog: (continuing) So, what was it like?
+62) 5) dialog: Popping Ivy...
+62) 7) dialog: I'm God, remember?
+62) 9) text: Carver smiles, but he's non-plussed by Hull's new detachm
+62) 10) dialog: You didn't clear it with me. You're  getting independent. That's good.
+62) 12) dialog: (continuing) How're we coming on Gallegos?
+62) 14) dialog: Then you've got to --
+62) 16) text: Carver's impressed.
+62) 18) dialog: (seeing him to the  door) I want you to get a new apartment.  Something expensive.
+62) 20) dialog: That shithole? You're big time now.  Act it. And get some clothes. Spend  money. Have fun. That's an order.
+72) 0) text: Hull jacked up, excited, pleased with himself. As he pace Carver observes his beautiful suit, shoes, expensive watc He looks much better than Carver.
+72) 2) dialog: You run Elias.
+72) 4) text: Carver sits up fast. Hull likes that.
+72) 6) text: Carver sits back, grimaces.
+72) 8) dialog: (looking out window) My problem? My problem is that you  don't really know what's happening.
+72) 10) dialog: Barbosa is setting you up tonight.
+72) 12) dialog: He's dealing you to Taft and  Hernandez. You're going to be taken  down as you receive the drugs. They're  putting together the arrest team  right now.
+72) 15) dialog: You stay away. We're going to take  them down.
+72) 17) dialog: My boss wants a bust right now. He  goes before the oversight committee  next week. He needs something to  justify the budget.
+72) 19) dialog: Too late. The whole thing's set up.
+72) 21) dialog: It's out of my hands.
+72) 23) dialog: (continuing) John, don't go near that bust.
+96) 6) text: Elias gets in the car and drives off. Hull turns and a da American sedan pulls up alongside. Carver behind the whee
+96) 7) dialog: (an order) Get in.
+97) 2) text: Carver peels away fast. He's very angry, frightened, too, but that's hidden.
+97) 3) dialog: Where the hell have you been?
+97) 5) text: There's an indifference to Carver's authority we haven't  heard before. Hull isn't even aware of it, but Carver is.
+97) 6) dialog: You violated a direct order to stay  away from that bust. As a result, a  police informant is dead, a state  senator was critically injured in  the tunnel pile up and a city  policeman was subsequently murdered.
+97) 8) dialog: Don't get smart with me, motherfucker.
+98) 2) dialog: Never have, never will. (puts the flask away) I want you to give me your gun. You're  coming in right now.
+98) 4) dialog: Your assignment has been terminated.  You're not going out there again. If  I have to, I'll put you in custody.
+98) 6) text: Carver says nothing. Suddenly Hull understands.
+98) 8) text: Carver snorts: ridiculous.
+98) 10) dialog: You violated orders, so you're  through. Don't make a conspiracy  theory out of it.
+98) 12) text: Surprised, Carver reaches for the flask. As he does, Hull grabs him, pushes him out over the edge of the building,  holds him there.
+98) 14) text: Carver struggles. Hull pushes him out farther. Carver dan
+98) 15) dialog: You're insane.
+98) 17) dialog: All right!
+98) 19) dialog: It's the State Department.
+98) 20) text: Hull pulls him back in. Carver slumps against the wall, d greedily. Hull lets him for a moment, then takes the flas away.
+98) 21) dialog: (continuing) I told you, Gallegos's uncle is a  big deal down there.
+98) 23) dialog: Guzman, right. Our government supports  Guzman because he's a moderate. That's  a right-winger who's pro-U.S. (he doesn't like it  either) If Gallegos got busted here, it would  hurt Guzman's political career there.  It's politics, John, not drugs.
+98) 25) dialog: I'm going to Washington, John. I'll  bring you with me. We'll have clout,  money...
+98) 27) dialog: We tried.
+98) 29) dialog: But you can't do that, John. It's  not you.
+98) 31) dialog: It's not that simple.
+98) 34) dialog: Don't blow your cover.
+98) 35) text: Hull drives off, leaving Carver alone on the roof.
+116) 13) text: He leaves. Hull turns to Betty who is still holding the p of his children. He gently takes it, looks at it, seems t draw both succor and pain from it. He gets out Carver's flask and tries to drink, but it's e
+128) 0) text: Hull, bandaged, wearing prison blues, walking with Carver
+128) 2) dialog: He vanished, thank God, or we'd both  be in deep doo-doo. At least you got  Gallegos.
+128) 4) dialog: That's the drug game. Plus a change...  I want you to come back to work for  me. You'll beat all charges on a  technicality and go back to who you  were.
+128) 6) dialog: Does anyone really know?
+128) 8) dialog: Like travel? Tangiers, maybe?
+128) 10) dialog: (continuing) I'm God, remember?
+128) 13) dialog: Go back to work, she walks out of  here. Otherwise, she's up on multiple  counts, and I'll see to it the judge  runs them consecutively.
+128) 14) text: Hull just looks at him. Carver shrugs apologetically.
+130) 0) text: Carver takes his eye from the now obscured peephole.
+131) 0) text: A funeral. Taft's wife and children (from the wallet phot leave the graveside with the rest of the funeral party. When everyone is gone, Hull approaches the grave. From hi pocket, he removes the four blood-soaked bills his father gave him, and wedges these among the stems of flowers tha already cover the plot. He's silent a moment, then he gets up. He joins Carver wh standing with Hull's children. The kids each take his han they walk together.
+131) 1) dialog: Betty walked out of court free this  morning. That's my side of the deal.
+131) 4) dialog: Her probation gets revoked the minute  you fuck up. I want you to stay away  from her altogether.
+131) 6) text: Carver smiles, shakes his head. He likes a good joke. Hul punches him so hard in the stomach that he goes to his kn
+131) 8) text: He walks away. Still on his knees, doubled over, Carver  whispers after him:
+131) 9) dialog: Don't blow your cover.

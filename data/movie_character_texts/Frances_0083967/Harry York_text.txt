@@ -1,0 +1,212 @@
+5) 0) text: The screen erupts into violence. A large unruly MOB skirm with POLICE in a cobblestoned square. On a truckbed addre the crowd -- which carries placards reading: "Organize No "Workers of the World Unite!", and "Elect Kaminski!" stan MARTONI KAMINSKI. By his side, leading the crowd's respon stands a younger man with sharp piercing eyes, HARRY YORK
+5) 5) text: The crowd cheers. Harry York gives Kaminski the thumbs-up sign as a banner unfurls: "Today Seattle -- Tomorrow the  World."
+6) 6) text: Frances hesitates, then turns to look: A man in his twenties whom we recognize as Harry York,  Kaminski's compatriot, leaves a group of men in front of union hall and walks toward her.
+6) 7) dialog: (friendly) C'mere. I wanna talk to you.
+6) 8) text: Frances keeps walking. Harry hurries after her.
+6) 9) dialog: Momma told ya not to speak to  strangers, huh? (reaches her, grabs  her arm) Hey!
+6) 11) dialog: I'm not gonna hurt you. I just wanna  talk.
+6) 14) dialog: Well... you're causin' trouble, you  know that?
+6) 16) dialog: Not me. But other people seem to.
+6) 18) dialog: Now wait a minute, sweetie. Do I  look like a newshound to you?
+6) 20) text: Harry laughs.
+6) 21) dialog: That's rich. Hey, if I was a cop,  I'd be packing, right? (holding coat open) You see a gun? Go on, search me. Pat  me down.
+6) 24) dialog: Harry York. I work for Martoni  Kaminski, he's running for Congress  here.
+6) 26) dialog: (embarrassed) Yeah, well --
+6) 28) dialog: Now you're catchin' on. Don't wanna  get your Daddy in hot water, do you?
+6) 30) dialog: Well... see the papers've got us  pegged as pinkos, then you come along,  the friendly neighborhood atheist --
+6) 32) dialog: Right again. You're no more an atheist  than my man's a Red, but what they're  doin', see, they're addin' up their  version of your ideas with their  version of ours. Could look bad for  your Daddy.
+6) 35) dialog: Sure don't talk like you're sixteen.
+6) 37) dialog: I suppose not. Gotta ask you this,  though: for all our sakes, you better  keep your trap shut.
+6) 39) dialog: Harry.
+6) 41) text: They half-smile, awkwardly, as if neither really wants th encounter to end. Then Harry doffs his hat.
+6) 42) dialog: Bye.
+6) 44) dialog: (admiring her) Sure don't walk like sixteen, neither.
+13) 0) text: Opening night. Harry is reading a playbill displayed in a theatre lobby: "1934 Spring Production... University of  Washington Players Present: 'Uncle Vanya' by Anton Chekho Frances is playing Sonia. Harry turns and enters the thea
+14) 4) text: Curtains close. AUDIENCE bursts into applause. As the curtain opens and the players take their bows, we in the audience: Lillian and Ernest, Lillian clapping mad crying, nudging Ernest to clap harder. And in the back stands Harry York.
+14) 5) dialog: (to himself) Not bad, Farmer. Not half bad.
+16) 7) text: A door opens quietly and Harry slips in. He smiles at Fra who disentangles herself from her teacher and rushes over
+16) 9) dialog: You think I'd miss it?
+16) 11) dialog: (shrugs) I just wanted to see how you looked.
+16) 13) dialog: (teasing) Enh.
+16) 15) dialog: You looked okay. (glances around) Joint's pretty dead. How 'bout I  take you home?
+16) 16) text: She hesitates, looks around and sees Chet passed out, sno in a chair. She takes Harry's arm.
+18) 0) text: Frances and Harry are sitting in the back seat.
+18) 1) dialog: Honest. When you were up there, you  were really... there, know what I  mean? Everyone else looked stupid.
+18) 3) dialog: Yeah, it's a gift. You gotta do  something with it.
+18) 5) dialog: What?
+18) 7) dialog: You're not the quiet type, Frances.
+18) 9) dialog: You know, my old man was an inventor.  Spent his whole life down in the  basement trying to design  transcontinental underground  railroads, stuff like that. Well, I  was supposed to be his partner. When  I told him the smell of his workshop  made me sick, I thought he was going  to die right there.
+18) 11) dialog: He retired to Florida... made a  killing in vending machines.
+18) 13) dialog: I kick myself sometimes, but the  thing is, I would have been miserable  living his life.
+18) 15) dialog: Sure. Try this acting thing. You can  make good money at it.
+18) 17) dialog: You don't know what you want.
+18) 21) text: She starts to unbutton her blouse. Harry is pleasantly  surprised, but unnerved.
+18) 22) dialog: Frances...
+18) 24) dialog: Well... don't you think it's up to  me to...
+18) 26) text: Harry can't believe his good fortune.
+30) 0) text: Frances smiles and eases shut the screening room door. We HEAR the Laughing Man inside shout: "Let's see that again Frances puts a cigarette in her mouth and fishes for a ma A man's hand appears, holding a lighter. She looks up: It Harry, wearing a garish Hawaiian shirt and a Panama hat.
+30) 3) dialog: How ya doin', Farmer?
+30) 5) dialog: Came to get a tan.
+30) 8) dialog: (staring out) Kaminski.
+30) 10) dialog: Since when do you believe the papers?  They killed him, kid.
+30) 12) dialog: They killed him. They threw him out  that window.
+30) 14) dialog: Eight stories.
+30) 17) dialog: (also staring down) Yup. Poor bastard lay there on the  sidewalk and he couldn't die. Too  god damn much heart. He just didn't  want to die.
+30) 19) dialog: (shrugs) He wouldn't play ball. What can I  tell ya... it's done. (brightening) Anyway, I didn't want to be next, so  I skipped town; came down here to  work for some big-wig. Tail and nail  job. (confidentially) I'm sort of a non-gentleman's non- gentleman. (turns around,  displaying his shirt) How d'ya like the camouflage?
+31) 0) text: Harry and Frances walking arm in arm.
+31) 2) dialog: I always told ya, Frances. You got  real ability.
+31) 4) dialog: Hey, I'm a man, aren't I? Whattaya  say we have dinner, then maybe head  out to the beach, rub some of this  tan off each other. (off her sober  expression) For old time's sake.
+31) 6) dialog: (stiffens slightly) Yeah? What is he -- muscleman?  Lifeguard?
+31) 8) dialog: Actor?
+31) 10) dialog: Good. Then it's temporary. (whispers) All actors are phonies.
+31) 12) dialog: Serious, huh?
+31) 14) dialog: Hey that's great, Farmer, just great.
+34) 2) dialog: (puffing his cigarette) Not bad, Farmer.
+39) 0) text: The two limos pull up, the second emptying first. As Fran gets out, the CROWD cheers wildly. She walks past them, e glazed. She doesn't see Harry, who is held back by cordon Lillian is posing and signing autographs. In her tight, f dress, Frances looks radiant but constricted. As she walk voices assault her:
+41) 0) text: We TRACK along the side of the theatre. An exit door is t open, and Frances storms out. As she does, she trips over OLD INDIAN BEGGAR. She stops and looks at him. He peers u at her with large forlorn eyes... then holds out his hand connection is made. All the anger drains out of her. She  gives him money, several bills. He breaks into a wonderfu crooked grin. She starts away, hesitates, then hands him key to the city. He stares at it, bewildered. She strides away toward her limousine, which is now parke with several others at the end of the alley. The CHAUFFEU are talking and smoking a cigarette. Her chauffeur sees h and hurries to his limo. As it pulls into the street, we Harry drift back to the curb and stare after it.
+42) 0) text: Frances sits on the old wood jetty staring out at the wat the lighthouse... Harry approaches.
+42) 1) dialog: ...It's one thing to marry the guy,  but did you have to sleep with him?
+42) 2) text: She cracks up. Harry laughs at his mistake.
+42) 3) dialog: Shit. I meant the other way around.
+42) 5) dialog: Is that why you did it?
+42) 7) dialog: You're telling me.
+42) 9) dialog: Well, she's back to earth now. They're  all pretty huffed up about your  leaving. I think you better go back,  kid.
+42) 13) dialog: If they say they love it, they'll  probably love it. Not everybody lies,  you know?
+42) 16) dialog: Frances, you're a movie star now. If  you give them what they want, you  can get anything.
+42) 18) dialog: Some people starve, kid. Until we  can do something about it, they might  as well see a movie. Makes 'em feel  better.
+42) 20) dialog: What're you gonna do, waste your  talent? Why not use it to make  something worthwhile. You can do  that, you know?
+42) 22) text: They start to walk now along the beach. We see Harry's ca and the chauffeured limousine parked above.
+42) 23) dialog: Tell you what. Let's ditch the limo.  Let me drive you up to that red carpet  in my beat up Chevy.
+42) 25) dialog: Come on, Cinderella, your pumpkin  awaits.
+42) 29) dialog: Don't start, Farmer.
+42) 31) dialog: (nervously) The chauffeur. He's watching.
+42) 33) dialog: I'm serious, Frances. This is  important.
+42) 35) text: She kicks off another shoe, sailing it into the water. Frances is zipping off her dress. Harry bends to pick up the first shoe.
+42) 37) text: Harry watches her, mesmerized. The dress is off.
+42) 39) text: She skips off down the beach, her dress strewn on the san After a moment, from the darkness, we SEE her underclothe fly into view. Harry can restrain himself no longer.
+42) 40) dialog: (excited) Hot damn!
+60) 0) text: Plain room. A few tables with phones, men on the phones  writing down numbers. Behind them are blackboards with ho names and prices. Off to one side Harry is conferring wit the OWNER.
+60) 1) dialog: Of course it can be done, "Mr. Jones,"  but it's how you do it. There's a  way to pay off L.A. cops and a way  to get yourself arrested. First you  gotta know who to approach --
+60) 4) text: Harry nods, startled. The Man at the table holds up the p and goes to his next call. Harry takes the phone.
+61) 2) dialog: Jesus, Frances, how'd you find me?
+62) 1) dialog: Calm down, Frances.
+63) 2) dialog: Frances...
+64) 1) dialog: I know, Frances... I know.
+76) 1) dialog: Got any ginger beer?
+76) 6) dialog: Animal magnetism! (she laughs) No ginger beer. What's this red stuff?
+76) 8) dialog: Think I'll have a glass.
+76) 10) text: Harry returns, sipping the drink.
+76) 11) dialog: Very tasty.
+76) 13) dialog: (looking around) Nice joint. Can you afford it?
+76) 15) dialog: What for?
+76) 17) dialog: Well, I would have, you know? I just  didn't know how to cook it.
+76) 19) dialog: Six months' probation...? You gotta  learn when to do battle, Farmer.  You're not going to win many bouts  with 200 pound cops.
+76) 21) dialog: (laughs) I'll bet.
+76) 23) dialog: So you drink, and you fight with a  cop...?
+76) 25) dialog: Beats me.
+76) 29) dialog: Hey look, I got some business down  in San Diego. Whattaya say you come  with me, stay a few days?
+76) 31) dialog: You're coming.
+77) 0) text: Waterfront bar, full of SAILORS, WHORES, and HEAVY DRINKE Hanging over the bar is San Diego paraphernalia. Frances and Harry sit at a table. Heavy boozing has led t philosophizing:
+77) 4) dialog: And?
+77) 7) dialog: Well, like the man said: "You can  make a fresh start with your last  breath."
+77) 13) dialog: Take a walk, pal.
+77) 16) dialog: Hey!
+77) 18) text: The Sailor goes berserk, takes a swing at Frances. Harry  leaps in to protect her, starts to fight with the Sailor. Frances joins in; she's not going to let anyone fight her battles. The Sailor's BUDDY enters the fracas. Everyone's getting hit. As the melee continues we:
+89) 2) text: In the next phone booth we SEE Harry listening to the  Reporter's spiel. He regards the confusion around him wit calm eyes.
+90) 8) text: Frances pounds at the door a few more times, then moves t the next booth... into the arms of Harry.
+90) 10) text: Harry shakes his head. Before he can speak, Frances is gr from behind and dragged toward the elevator.
+90) 13) text: Harry opens the door to his booth. The Reporter looks up him.
+90) 15) text: Harry says not a word, but punches the Reporter hard in t face. The Reporter sags, out like a light. In the confusi no one has noticed a thing. Harry pulls the door shut.
+99) 1) dialog: Hi there. How 'bout a walk in the  woods?
+99) 4) dialog: (friendly) You've looked a whole lot better.  C'mon.
+100) 0) text: Frances and Harry walking in a relatively secluded area. glances around continuously... suspiciously.
+100) 2) text: She breaks down and weeps on Harry's shoulder. Harry look around warily.
+100) 4) text: Harry nods, squeezes her arm firmly -- a warning -- as a  white-coated ATTENDANT APPROACHES. Frances straightens up
+100) 6) dialog: (urgent whisper) Listen: to the left. Straight through  the trees and over the wall to your  left. My car is there.
+100) 11) text: Frances starts to move off with the Attendant. For an ins Harry -- and we -- wonder if she really is crazy.
+100) 12) dialog: Frances! Did you hear what I said?
+100) 15) text: The Attendant is between her and Harry. We SEE her face t dark. She shoves the Attendant toward Harry and shouts:
+100) 17) text: She runs. The Attendant staggers toward Harry, who knocks him down with two punches. ANOTHER ATTENDANT runs up. Har whips out an icepick and brandishes it at them:
+100) 18) dialog: You want crazy? I'll show you crazy!
+100) 19) text: The Attendants hold their ground. Harry runs after France
+101) 0) text: Frances and Harry crash through bushes, come to a high wa
+101) 1) dialog: (offering to lift her) Here.
+101) 2) text: Frances hugs him tightly, kisses him. He lifts her by the waist, and she grabs the top of the wall and hauls hersel up. Harry joins her. We SEE, over the wall, a Lincoln Zep waiting on a dirt road. Harry and Frances jump down as we HEAR the Two Attendants burst through the underbrush and  haul themselves up. As their heads pop over the top of th wall, they see the Lincoln disappearing down the road in cloud of dust...
+102) 0) text: Harry, eyes bleary and shoulders hunched, tries to concen on the road ahead. The RADIO DRONES quietly, a lazy saxop ballad. After a while, there's movement in the back seat Frances sits up. She yawns and stretches as Harry watches her in the mirror.
+102) 1) dialog: Evening, gorgeous.
+102) 3) dialog: Forget it, Frances. You're not  driving.
+102) 5) text: Harry smiles. Frances climbs over the seat and starts to  fiddle with the radio.
+102) 7) dialog: Couple hours from Idaho. We'll cut  across to Montana. I've got friends  there with a ranch.
+102) 9) dialog: What?
+102) 11) dialog: That's right.
+102) 13) text: Harry laughs. They pass a poster: "BUY WAR BONDS!" Frances stares at it
+102) 15) dialog: Whattaya think you're in now?
+102) 17) dialog: Huh?
+102) 19) text: Harry looks at her quizzically.
+102) 20) dialog: Who to?
+102) 23) dialog: Frances, you're fulla drugs. You  don't know what you're saying. Who  do you think put you into Meadow  Wood? Your mother thinks you're crazy  and she'll keep on thinking it as  long as it suits her.
+102) 25) dialog: Yeah? She's a shark, Frances. I'm  not taking you there, and that's  that!
+102) 28) dialog: I guess.
+102) 30) dialog: What's that?
+104) 0) text: Frances and Harry sit at a table cluttered with empty gla The JUKEBOX PLAYS, a few COUPLES dance. Frances is gulpin down a tall Scotch.
+104) 2) dialog: (calling drunkenly) Hey! Another shot for the lady and a  double for me!
+104) 4) dialog: Hey, you're a good quarter-horse,  kid, but you can't go a route of  ground.
+104) 6) dialog: No. To thoroughbreds.
+104) 10) text: Frances squeals with delight when she hears the song. She holds Harry forcefully and starts to lead him around the  floor. Harry starts to sing along: BING &amp; HARRY Makes you sentimental, Makes you  kinda gentle Ouch! (Frances pinches Harry) Terrific thing.
+104) 13) dialog: Huh?
+104) 15) dialog: Look, Frances, I'm only gonna ask  this one time. I mean it. I swear  after this, I'll never ask again:  Will you marry me?
+104) 17) dialog: (a bitter smile) Well... I'll act like I do until I  do.
+104) 19) dialog: There's just one more thing.
+104) 21) dialog: Will you marry me?
+105) 0) text: The Lincoln, Harry at the wheel, drives up and stops. Har shakes his head.
+105) 1) dialog: It's not too late to keep going, up  to Vancouver? Be the smartest thing.
+105) 3) dialog: You give up on her?
+105) 5) dialog: (smiling warmly) Frances, You're crazy.
+105) 8) dialog: Anyway... if you need me...
+107) 0) text: Harry pulls up at a stop sign. He rubs his forehead weari as a car crosses the intersection. It stops dead in front him. Another pulls up alongside. Another behind. Harry th about this. His hand slides down slowly under the seat. W SEE the handle of his ice pick. Harry turns to smile at t MAN in the next car. The Man flashes an FBI badge, points revolver:
+107) 2) dialog: You got the wrong guy. Name's Slocum.
+107) 4) dialog: Look, I'm tellin' you...
+108) 0) text: Judge Hillier walking... out of the chamber and down a  corridor. His stride is long, his demeanor purposeful. Th corridor leads into a courtroom. Harry standing at attent We hear Hillier climb onto the bench and be introduced by the court official. Harry stares up at the judge.
+122) 0) text: Two dark FIGURES move stealthily along the shadow of the  main building. A little ways ahead, a door opens, sending shaft of light across the ground. The two Men duck back i the shadows. Five young SOLDIERS EXIT, paying off and wav goodbye to one of the Orderlies. The door closes. They he off down the road laughing and joking together. The two Men emerge from the shadows and approach the door They try the handle. It opens. The first one in is Harry, followed by the other Man carrying a rolled-up bundle.
+123) 0) text: We SEE Harry and the other Man, now wearing a white Docto coat, walking quickly down a dim hallway. They come to a  large door with a barred window. The Man fiddles with a  keyring and unlocks the door. They enter. We HEAR the doo lock behind them.
+124) 0) text: Just inside the door the Doctor flicks on a flashlight an they walk down the center of the room. The beam of light  sweeps over women PATIENTS in their cots, crammed side-by side. Some are asleep, others stare blankly at the ceilin A few smile invitingly at the two Men, whispering obsceni The light falls on a bedraggled woman hunched over in a c between the wall and a cot. It is Frances. Harry goes to  her, putting his arms around her. She is very heavily sed Tears spring to Harry's eyes.
+124) 1) dialog: (whispering) Frances! Frances!
+124) 3) dialog: Frances, it's me, Harry?
+124) 6) text: Harry is on the verge of tears.
+124) 7) dialog: Oh, God! Let's get her out of here  tonight, right now! Let's take her  with us!
+124) 9) dialog: Look at her! She'll never pass that  sanity test tomorrow...
+124) 11) text: Harry holds her around the shoulders and straightens out arm. Frances starts to struggle and moan loudly.
+124) 13) text: Harry glares at the Doctor, but puts a hand over her mout and the Doctor injects her. Her arm is covered with sores
+124) 14) dialog: (tenderly) You'll be okay, honey. He's just  givin' you something to make you  think, so that tomorrow you can tell  'em what they want to hear, okay?  Tell 'em you were crazy as a loon  and they cured you and you're  grateful.
+124) 20) dialog: Frances, we gotta do it this way.  Just remember tomorrow, remember  what I told you. What're you gonna  tell 'em?
+124) 24) dialog: I gotta go now.
+125) 2) dialog: All square, Doc.
+125) 6) dialog: I love you too, Frances.
+125) 7) text: Behind Frances we HEAR the Women screaming: "I love you,  Harry!" The Doctor takes Harry's arm and pulls him down t corridor.
+129) 0) text: The porch light goes out. Shadows pass over the curtained windows. Across the street a match flares. Harry is leani against a tree. He lights a cigarette and settles back to wait.
+132) 0) text: Frances rounds the corner, then sees him: Harry, standing his car, smiling.
+132) 1) dialog: Where to?
+132) 4) dialog: This is it, kid. This is our chance.  When you got a chance, you better  take it.
+132) 6) dialog: You don't need to screw around  anymore. You don't need Dwayne Steele  or Odets or your mother. You need  me.
+132) 11) dialog: Been a lot of years, you know. A  long time waiting. For what? End up  feeling like a sap.
+132) 13) dialog: I don't know.
+132) 15) dialog: Right. Except... time has a way of --
+132) 17) dialog: (smiles wistfully) I hope so, Frances.
+132) 21) dialog: I'll be seeing you, kid.
+142) 17) text: We MOVE AWAY from the screen to see that the TV set is in the living room of a comfortable, tastefully furnished ho On the couch in front of the set sits Harry York. He stil looks athletic, young for his age. Tears stream down his  cheeks.
+143) 4) dialog: Hey.
+143) 5) text: She turns. Harry is leaning against the side of a buildin looking much as he did when they first met. But there is  very little light of recognition in Frances' eyes.
+143) 6) dialog: C'mere. I want to talk to you.
+143) 8) text: Harry is a little puzzled by her reaction.
+143) 9) dialog: How... how ya doin', Farmer?
+143) 11) dialog: Sure I did, that's why I'm here.
+143) 13) dialog: Oh, you... (smiling) ...ennh.
+143) 17) dialog: Yeah. Yeah, I heard about that.
+143) 19) dialog: Why do you say that?
+143) 21) text: Harry is alarmed now.
+143) 22) dialog: (taking her by the  arm) Frances!
+143) 25) text: Beat. She takes his hand as if to shake it. Harry clasps hers tenderly. She holds on like an old woman, stroking his hand. For an instant she gets lost in time, just holding his hand. The she looks up.
+143) 27) dialog: I'm not sure.
+143) 29) dialog: No.
+143) 33) dialog: Yes. Would you like me to walk a  little way with you?
+143) 35) dialog: Just a little way.

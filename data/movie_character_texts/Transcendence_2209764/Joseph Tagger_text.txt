@@ -1,0 +1,96 @@
+0) 0) text: An endless row of computer servers stand lifeless and dar Tlluminated only by a long row of skylights above. There no power. Two men walk through. MAX WATERS is in his fort Dirty jeans. Stained coat. JOSEPH TAGGER is sixty. Ungroo They take in the dark building, still as a tomb.
+0) 1) dialog: How is it out there? Have you found anything?
+0) 3) dialog: Nobody's connected?
+0) 5) dialog: You know we’re rebuilding the same system? Max goes silent. They move to the exit, guarded by SOLDIE with assault rifles.
+0) 6) dialog: Let me know what you find. Max walks away. Joseph moves back into the facility.
+8) 1) text: JOSEPH TAGGER writes code at a COMPUTER TERMINAL. Behind ten other TEAM MEMBERS work at similar stations. Joseph, wearing EAR PLUGS, can’t hear anything. Someone CLAPS Jos on the back. Joseph turns and finds- Lance, holding the cake, covered in candles. Joseph blows the candles... The team eats cake... Joseph slides his pi next to his seat, forgetting it as he gets back to work. Lance watches his colleagues eat. He sets his untouched p down and slips away from the group. Joseph, working, itches at his ear plug. As he pulls it o we hear the ambient WHIR of computer servers. His chair CREAKS as he swivels to face the room, where he finds... All the other team members are dead.
+11) 0) text: Moving slowly through a massive room of SUPER COMPUTER TOWERS, we reach a section where several towers have been overturned. One has crushed the head of a SCIENTIST. In t blood someone wrote: SLAVES. I/E. PRINCETON UNIVERSITY/SERVER ROOM — DAWN A PROFESSOR hangs, strangled by the cables binding her to servers. Someone carved SLAVES into the wall. ANDERSON, a veteran FBI Special Agent, leaves the forensic teams to d their work... Outside, he joins Joseph Tagger.
+14) 5) dialog: Is there somewhere we can talk? INT. WILL’S OFFICE - DAY A large, chaotic workspace. Joseph passes GRUESOME CRIME PHOTOS of the recent attacks to Will, Evelyn and Max.
+14) 6) dialog: Over the past 48 hours there's been a highly coordinated string of attacks. A bomb at Caltech killed Norman Causewell. (MORE)
+14) 8) dialog: Dr. Daniels at Princeton was killed. Mike Lacy at the University of Chicago. Evelyn covers her mouth in shock.
+14) 10) dialog: There were others, all-
+14) 12) dialog: They’ve brought me on as an advisor. Because of my background. And because I know one of the suspects. My project at the Department of Defense was the first attack. Two days ago a colleague... Joseph holds up an ID CARD PHOTO of Lance, all smiles.
+14) 13) dialog: Brought a birthday cake into the lab. It was laced with dioxin. Within an hour my team was dead... They were good people.
+14) 15) dialog: He's part of a larger group. They call themselves the RIFT. Have you ever heard of them? Will, Evelyn and Max shake their heads. Joseph sets down document titled: REVOLUTIONARY INDEPENDENCE FROM TECHNOLO JOSEPH (CONT’D) All we have is their manifesto. It appeared on a public server in Amsterdam. We can’t trace it beyond that. Max picks up the manifesto. Joseph sums it up with-— 11. JOSEPH (CONT’D) They believe the Singularity is about to happen. They’re convinced it would be an apocalyptic event. Joseph takes the three of them in.
+14) 16) dialog: I could count on my hands the people in this country who might be able to wake up a Strong AI. Myself, the three of you and... the six others are dead. Joseph makes eye contact, making sure they understand-
+14) 17) dialog: You are all in very great danger. Joseph watches them. As the news settles, he leans in-
+14) 18) dialog: Can I meet your machine?
+15) 0) text: A line of state-of-the-art, custom-built towers make the supercomputer called PINN. Throughout the laboratory, FLA SCREENS map PINN's network. Joseph steps toward the machi
+15) 2) dialog: That's encouraging. Tell me a little about yourself.
+15) 4) dialog: That's great. Can you prove that you're self-aware?
+15) 6) dialog: It has your sense of humor. Will, a little pale, smiles. Evelyn opens one of PINN’s processing towers. It’s not li anything you've seen. The modular core is grey and crystalline, encased in a transparent shell. Joseph beams with pride at Will, Evelyn and Max. JOSEPH (CONT’D) Look at what you’ve done. This is amazing. Evelyn was all of sixteen when I first taught you.
+15) 12) dialog: Mike Lacy thought he found a way around the self-awareness question... They killed him before he could publish. Max, doubtful, glances at Will - who looks increasingly i
+22) 0) text: Joseph hurries to meet Anderson outside the PINN lab.
+22) 2) dialog: Was anything taken from the lab?
+23) 0) text: Joseph looks relieved to see the PINN hardware intact. Bu he opens one of the towers, he pales. He opens more. The crystalline cores are all gone.
+23) 1) dialog: They stole the processing cores.
+23) 3) dialog: No. EXT. WILL AND EVELYN’S TOWNHOUSE - NIGHT UNMARKED SEDANS fill the street. FEDS move in and out of building, investigating. 2i. I/E. EVELYN’S SEDAN - NIGHT Evelyn drives. Max, in the back, keeps an eye out for any tailing them. Will sees the REVOLVER in Evelyn’s lap. She pulls the car into a-
+30) 0) text: MOURNERS surround Will’s grave. Max struggles against his grief. Evelyn is calm and neutral. Joseph watches her.
+31) 0) text: The reception. Max sits with Joseph. Anderson watches Max Suspicious. Joseph gives Anderson a look: ease off. Ander resigned, moves to the buffet. Joseph focuses on Evelyn.
+31) 1) dialog: It hasn’t hit her yet, has it? Max looks to see MOURNERS paying respects to Evelyn. She’ gracious, quiet, and unmoved. She even glances at her wat INT. WILL AND EVELYN’S HOUSE - NIGHT Evelyn cleans up after the reception. Max stands at the s staring at nothing as water runs over the dishes.
+48) 0) text: Max and Joseph climb out of an unmarked car. They pass through the COPS and FBI AGENTS processing the crime scen
+49) 0) text: Max stands in his former prison with Joseph. Joseph shows a SURVEILLANCE PHOTO of Lance. Max nods.
+49) 4) dialog: Is she all right? Where is she? Max goes silent. Suspicious.
+49) 5) dialog: You can trust me, Max. 42. Max wraps his arms around himself. Trying to hold it all together. JOSEPH (CONT’D) You've been through hell. Let’s get you to the hotel.
+49) 7) dialog: You have the most effective terrorist organization in the word out to kill you. We're putting you in protective custody. Max considers his options. There are none. He nods.
+58) 0) text: Joseph and Anderson step out of their car. Joseph pushes FIRE FIGHTERS, COPS, and PARAMEDICS to find Evelyn in a h watching the inferno. She's badly bruised from Lance’s bl
+58) 2) dialog: Killed who? Evelyn won't answer. Joseph’s PHONE RINGS. He picks it up
+58) 4) dialog: «~«. Will?
+58) 6) dialog: ».. I don’t understand.
+58) 11) dialog: «+. What about Max?
+58) 13) dialog: He fled protective custody with members of the RIFT-—
+58) 17) dialog: «.. What have you done? Evelyn doesn’t answer. Anderson drives them away.
+59) 0) text: Anderson hurries Joseph and Evelyn into the FBI building. INT. FBI STRATEGIC OPERATIONS CENTER -— NIGHT They enter the large room filled with FBI AGENTS, compute and wall-mounted screens to monitor operations. The agent are in full panic because-
+59) 3) dialog: We have no evidence. No records. No leads. No way to find then. 52.
+59) 6) dialog: You don’t understand what's going on here-
+60) 0) text: One by one, photos of the RIFT SUSPECTS are labeled CAPTU or DECEASED. Only Bree, Bob, and a handful of others are still WANTED. Agents CHEER. Joseph turns to Evelyn. 53.
+60) 1) dialog: They don’t understand. Evelyn stays neutral.
+64) 2) dialog: Remarkable... Can I talk to you? Evelyn watches Joseph pull Anderson into an adjoining conference room. A cell phone RINGS in front of her. The caller ID reads: UNKNOWN. She knows it’s-
+65) 0) text: Anderson paces as he argues with Joseph, who remains calm the table is a single phone.
+65) 1) dialog: Let all the agents know we can never speak of this.
+65) 3) dialog: This illegal operation, based on unlawful evidence, lead to the deaths of five suspects. That’s not justice. It dawns on Anderson that he crossed a sacred line.
+66) 5) dialog: Will isn't anywhere. He's everywhere. He’s a ghost in our technology. We can’t arrest him, We can’t trace him or regulate him... Joseph watches through the glass partition as Evelyn stan and moves out the door.
+66) 7) dialog: No. We can’t. All we can do is wait. And watch. Unnoticed on the table between them, a light indicates th speaker phone has been on the whole time. The phone disconnects.
+86) 6) dialog: Will must have altered them.
+86) 8) dialog: After all we've been hearing about this place, I don’t know. I really don’t. Anderson drives them into the valley. EXT. WILL’S FACILITY - DAY Evelyn greets Joseph and Anderson as they pull up.
+86) 10) dialog: It’s been too long, Evelyn. Joseph moves to embrace her. She pulls back, like she was expecting it. Then she reverses herself and hugs him. Tight... And keeps holding him. Her shoulders tremble, an Joseph realizes she’s emotional. He comforts her.
+86) 11) dialog: It's okay... It’s okay... Evelyn pulls away. Surprised by her emotion.
+86) 16) dialog: It's good to see you, Will... This is incredible. What you’ve done. Joseph makes a show of taking in the facility. Evelyn wat how he keeps casting frightened glances at Will’s hologra
+87) 0) text: Evelyn leads Joseph and Anderson through a vast server ro Row after row of high-technology, descended from the orig PINN processing cores. Every section is partitioned in a glass enclosure. These cubes are stacked to dizzying heig Joseph slows, taking it all in.
+87) 1) dialog: We've heard rumors. Unbelievable things. About miracles. I’m beginning to think there's truth to them. Evelyn glances at Will’s hologram. WILL’S HOLOGRAM We have so much to share. What we’re doing here is good.
+88) 0) text: Evelyn, Joseph and Anderson stand against a wall, observi PAUL sits on an examination table. He’s twenty. Blind sin birth. He has no eyes. 77. Paul, gripping the sides of the examination table, holds still as the robotic arms lift his slack eyelids and fill empty sockets with NANOTECHNOLOGY. Joseph glances at Evelyn, who’s full attention is on Paul Paul's slack eyelids shift. The fluid moves underneath th shaping itself. His knuckles are white on the table. Joseph, Anderson and Evelyn don’t even breathe. Paul, as if on some silent cue, relaxes. He puts his fing over his eyelids and feels. He cocks his head, like he’s listening to Will’s encouragement. Slowly, Paul opens his new eyes. Dark orbs of solid graph Paul sits there, like he can't comprehend what’s going on His eyes find Evelyn... and he smiles. She smiles back. Joseph and Anderson stare at Paul in open shock. EXT. WILL’S FACILITY — DAY Will’s Hologram leads them to the construction site. WILL’S HOLOGRAM Everything you taught us, Joseph. Roger welds steel without protective clothes or face-shie He glances at Joseph. WILL’S HOLOGRAM (CONT’D) Everything you told us technology would deliver, everything you dreamed and imagined. Martin builds a support column, bending rebar with his ba hands. He looks over at Joseph and Anderson. WILL’S HOLOGRAM (CONT’D) The future we all imagined is here. Sarah prepares concrete in an industrial mixer, then lift the drum and vaults to the second floor of the structure. makes eye-contact with Joseph. WILL’S HOLOGRAM (CONT'D) And we can deliver it to the world. Joseph's smile is fixed. But there is terror in his eyes. 78. EXT. WILL’S FACILITY - DAY Evelyn walks Joseph to his car. Anderson's already there. Evelyn slows. She gestures to the facility behind her.
+88) 2) dialog: If that's what he told you, I’m sure it’s the truth. Joseph slips her a note. She’s confused by the subterfuge but goes along with it. He climbs into the car. As Anders drives them away, she reads the note: RUN FROM THIS PLACE It hits her hard. She slips the note into the pocket of her sweater. Turns walks back to Will's facility. She’s small and alone amon the towering structures that are Will.
+88) 5) dialog: We go to Washington and tell them the machine is building an army. And we find Max Waters.
+90) 0) text: The low altitude implies we're far from the RIFT camp. Br spots for Bob, who aims a SNIPER RIFLE. An old Jeep bounc up the overgrown logging road. EXT. FOREST CLEARING -— DAY A large swath of clearcut forest. In the center of it, Ma sits on a stump with his rifle. The Jeep rolls up. Joseph steps out. Seeing the gun in Joseph’s waistband, Max grip his rifle. There’s a tense moment between them. Joseph holds up a handwritten letter. Pages long.
+90) 1) dialog: You have terrible handwriting.
+90) 3) dialog: You've been cleared of all charges.
+90) 6) dialog: The Pentagon is aware of the threat.
+90) 8) dialog: What can anyone do? Do you have a plan? We need to know. Max, still a little distrustful, looks off.
+90) 10) dialog: She can't see it for what it is. Max nods. Satisfied with Joseph’s answer, he hands over t surveillance photos. Joseph studies the images.
+90) 12) dialog: You want to kidnap one? Have you seen what they can do? They’re half machine- 81.
+90) 14) dialog: You want to build a virus.
+90) 16) dialog: Okay. Call your men off. Max gives a signal. Bree and Bob appear with rifles.
+90) 18) dialog: What do you need?
+101) 13) dialog: I don’t even recognize this programming language. Max types in a search, finding a specific function. Josep serutinizes Max’s selection.
+101) 14) dialog: I can read that... It’s really elegant.
+101) 16) dialog: Okay. We can start here. The hackers fan out to their individual stations, bring u copies of Max's screen, and settle into work-mode.
+102) 0) text: The hackers, bleary from the marathon session, write code Every few lines or so they post work to the main terminal where Joseph collates and assembles the VIRUS. He finds Max staring at Martin.
+102) 1) dialog: What do we do with him?
+102) 4) dialog: A secure hospital. (Off Max’s look) He knows too much. We can’t have him reporting back. Bob enters the lab.
+105) 0) text: Evelyn, shivering from the cold showers, finds herself am enemies. Joseph, the RIFT militants, and the hackers watc her. Max moves into her line-of-sight with a blanket. Ten
+111) 0) text: Joseph and the assembled hackers look up as Max sits Evel down at a workstation. She reads through the virus’ code.
+112) 0) text: Bree snaps on her chemical gloves. She places the vial of nanotechnology from the motel on a work table. Evelyn wat Max line the vial with wired transmitters. Max nods to Joseph, who executes the virus from his terminal. Evelyn focuses on the vial of nanotechnology. A soft DIGI NOISE sounds from the implants. The virus. Nothing happen Then, suddenly- The nanotechnology erupts inte frenzied movement. It turn SOLID. Small FISSURES form on its surface. Its color chan from shimmering graphite to a dull black. It turns into lifeless dust. Max and Evelyn share a satisfied nod. Max faces the other
+112) 6) dialog: How are we going to introduce it to the machine’s network?
+112) 13) dialog: She's right. Max stands there, shaking his head. He leaves. Evelyn fol him. Joseph watches, his face lined with worry.
+116) 0) text: The entire camp is MOBILIZING. MILITANTS and SOLDIERS pre trucks, artillery and weapons for the attack. Max and Joseph walk Evelyn to a pickup. She takes the whe Nothing needs to be said. She drives to the perimeter of cage. The RIFT GUARDS let her through. Max and Joseph watch her go. INT. CAVERN WAR ROOM — DAY Max and Colonel Stephens lean over maps of Will’s swath o desert. Joseph, Bree, Bob, and OFFICERS huddle around.
+118) 0) text: Max's army takes position. They set up a long line of HOWITZER ARTILLERY CANNONS, aimed toward Will’s facility. Max checks his harpoon gun and quiver of ammo. Bob lifts a baseball bat he’s wrapped with needles from multiple stun guns. The wires run into battery packs on h belt. He shoves the STUN BAT into a sheath on his back. Bree, Colonel Stephens, and Joseph make adjustments to ge EXT. BRIGHTWOOD — DAWN Transport trucks enter the town. Infantry, carrying weapo and gear, spread out over the main street. They lay EXPLOSIVES. Position MORTARS.
+128) 0) text: Max watches the infantry being overrun. He focuses on Wil facility, where Will holds Evelyn. A SOLDIER races past h A MILITANT shoves by. Max realizes the ENTIRE ARMY is sprinting toward the town. He turns- A MASSIVE WAVE OF NANOTECHNOLOGY CRASHES into the remaini artillery. It CRUSHES the last cannons... PULLS men under current... and moves directly for... Joseph. Joseph starts to run, but the graphite REACHES OUT - GRAB Joseph ~ and TENTACLES of the graphite material pin him t the ground. Max moves to save Joseph, but Bree and Bob grab him. And EXT. WILL’S FACILITY - DAY Will focuses on Evelyn. He cradles her in his arms. Tende She touches his face. Will looks into his hand. Nanotechnology seeps out of his skin and pools in his palm. He pours it onto her wound. S Makes a weak, fearful MOAN.
+134) 0) text: Joseph KICKS his way out of the cube. Stands. Makes his w down the hill. All around him, Militants and Soldiers esc from their nanotechnology restraints. Stephens breaks fre from the graphite cocoon.
+136) 0) text: Joseph and Stephens, walking toward the facility, look ar at their troops. They’re battered and bruised, but they’r all standing. They’re all alive. 130.
+136) 1) dialog: My God. He didn’t kill any of us. Even the hybrids are alive. All of them. They've reverted back to their original states. Roger is paralyzed. Paul cannot see.
+138) 0) text: An endless row of computer servers stand lifeless and dar Illuminated only by a long row of skylights above. There no power. Two men walk through. Max, in dirty jeans and a stained coat. Joseph is ungroomed. They take in the dark building, still as a tomb.
+138) 1) dialog: How is it out there? Have you found anything?
+138) 3) dialog: Nobody's connected?
+138) 5) dialog: You know we're rebuilding the same system? Max goes silent. They move to the exit, guarded by SOLDIE with assault rifles.
+138) 6) dialog: Let me know what you find. 131. Max walks away. Joseph moves back into the facility.
+140) 0) text: Joseph, walking through the long row of machines, slows. Stops. Looks up at a lifeless server. EXT. GARDEN — DAY Max steps into the garden, which is lush and full of life Ivy covers the walls. Flowers of every shape and color. T garden contrasts everything we’ve seen of this world. In a corner rests a set of vintage garden furniture. A sm table, two chairs. Dark, lightly rusted metal. Max stares the empty seats. Water from the recent rains drips in a PERCUSSION. As it A calmness comes over Max. His attention settles on a lea ivy, where moisture collects into a bead of water. He studies the shimmering drop of liquid. As he stares, something new emerges in his eyes... Recognition. THE END.

@@ -1,0 +1,10 @@
+36) 14) dialog: (heavy French accent) I have heard tales of a secret entrance into La Roque for many years. But I have come to believe it isa fiction.
+36) 16) dialog: 
+38) 5) dialog: You say you must search for this passageway yourself. If you do not know its location, than how do you know it exists?
+40) 6) dialog: Rest, my friend. And know that Oliver will die tonight. By my sword. We hear yelling all around. In English. In French. Swords started to clang. Several French knights run up to aide Arnaut. Flames leap from a nearby room.
+40) 7) dialog: This is a trap you laid.
+40) 9) dialog: You are English. Why should you help a Frenchman?
+40) 11) dialog: (to Chris and Kate) I will give you fifteen minutes to find the passageway. If you cannot I will know that you are English spies. (switching to French) Thierry, take two men and guard them. . cur TO:
+82) 0) text: Lord Arnaut has his sword at Lord Oliver's throat.
+82) 1) dialog: Do you beg mercy?
+82) 3) dialog: Then you may die in the name of France.

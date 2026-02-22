@@ -1,0 +1,161 @@
+5) 7) dialog: Athos -- is that any way to greet our guests?
+5) 8) text: Aramis leaps to his feet and bows graciously.    He is th epitome of politeness.
+5) 9) dialog: Don't be shy, gentlemen. Come in. Your friends have been expecting you.
+5) 12) text: Athos and Aramis exchange looks.
+5) 14) dialog: Or the Cardinal.
+5) 19) dialog: (with an edge of contempt) The Devil is more ethical than the Cardinal.
+5) 26) dialog: We can't refuse Rochefort's invitation. It would be impolite.
+5) 36) text: Athos and Aramis sheathe their swords, put on their hats, wrap their capes around them and cross the room to join Porthos.
+5) 37) dialog: Congratulations, Porthos.   You brought down the house.
+5) 41) text: Jussac turns to watch Athos, Porthos, and Aramis step to the street. He mutters as if to curse:
+8) 0) text: Athos, Aramis, and Porthos sweep into the now deserted courtyard. Silence -- the last thing they expected -- stops them in their tracks. The place is a cemetery, haunted by the ghosts of generations of Musketeers. Porthos is visibly distraught. Rochefort enters from behind an archway.
+8) 4) dialog: He said he'll take those tunics.
+8) 7) dialog: Conduct Unbecoming a Musketeer. Wasn't that the charge?
+8) 20) dialog: We are refusing to serve the Cardinal.
+8) 22) dialog: France has one King too many.
+8) 35) dialog: Are you going to visit them alphabetically or in order of preference?
+8) 37) dialog: When it comes to you and women, fairness rarely applies.
+8) 40) dialog: Citizens of France.
+12) 0) text: PAN ACROSS the Virgin Mary and many lit candles to a BEAUTIFUL DAMSEL sharing a love seat with the third Musketeer, the dashing Aramis. Aramis has a book open and is reading from it. The Damsel suddenly grabs Aramis and kisses him on the mouth. Aramis politely extricates himself. He's not the least bit embarrassed, only slightly amused.
+12) 1) dialog: Madam, I'm flattered but I thought you wanted me to tutor you in theology.
+12) 6) dialog: There's nothing unholy about expressing one's emotions. On the contrary. Religion should be experienced in a passionate, all- embracing way. We should feel free to express our spirituality.
+12) 11) dialog: Your husband!?
+12) 13) text: But Aramis' heart is too noble.         He gets down on h knees.
+12) 14) dialog: First we must pray to God for forgiveness.
+12) 15) text: That's when the door bursts open and the lady's husband, an irate MARQUIS enters with a pistol. His eyes blaze with madness. He aims the pistol at Aramis' head.
+12) 16) dialog: On second thought, God's often busy.
+12) 17) text: Aramis leaps to his feet and sprints for the open window. As the Marquis aims and FIRES, Aramis puts one foot on the ledge and leaps into space. The shot misses him by inches.
+12) 20) dialog: Thanks. You broke my fall perfectly. But I do apologize for the inconvenience...
+12) 22) text: Get off me! D'Artagnan pushes Aramis aside. Aramis grabs d'Artagnan by the scruff of his neck and pulls him back.
+12) 23) dialog: If there's one thing I can't abide, it's rudeness.
+12) 25) dialog: And I apologized for it.
+12) 27) dialog: I'd be honored. D'Artagnan brightens.   Another duel!
+12) 29) dialog: If that's where you wish to die, I won't disappoint you. Until then... Aramis takes off.   d'Artagnan swells with pride.
+21) 13) text: Porthos and Aramis arrive on horseback. They dismount, view d'Artagnan with amazement. D'Artagnan reacts with similar surprise, smiles sheepishly.
+21) 18) dialog: (amused) Wait a minute. I've got a duel with him, too.
+21) 30) dialog: Jussac.   Again.
+21) 35) text: Porthos huddles with Athos and Aramis.
+21) 37) dialog: It hardly seems fair. Let's give them the chance to surrender.
+21) 47) dialog: A poet.
+21) 52) dialog: Impossible.
+21) 70) text: Damn monks. Always spoiling everybody's fun. Aramis replies while shifting from one foe to the next.
+21) 71) dialog: They are nearer to God...
+21) 73) dialog: Pagan.
+21) 77) dialog: I'm fine, thank you. And Porthos returns to his original foe. Meanwhile, Athos' heavy strokes take their toll. Cahusac staggers, wounded in arm, shoulder, grazed at the head -- and falls to the ground with a thud. Aramis calls out to him, indicates d'Artagnan:
+21) 78) dialog: Take a look at our young friend.
+21) 96) dialog: Don't encourage him. By killing Jussac, the boy's made himself an outlaw too.
+21) 101) text: Aramis and Porthos look to Athos.      As always, he will decide.
+21) 103) text: It's hard to say whether he's acting out of concern for the boy... or he simply doesn't give a damn. Whatever the case, d'Artagnan is crestfallen. The Musketeers mount their horses, Porthos and Aramis adopt a friendlier tone.
+21) 104) dialog: I know Athos may seem cold and unfriendly, but don't let that fool you.
+21) 106) dialog: But he's also right. This is our fight, not yours. Go on, get out of here.
+21) 126) dialog: You can't just leave him. Athos spurs his horse, rides away. Aramis and Porthos exchange sad looks and hopeful comments.
+21) 127) dialog: He has a plan.
+29) 17) text: The Priest raises his face, reveals it... and winks. is Aramis. He whispers:
+29) 18) dialog: All for one, and one for all...
+29) 23) text: The Captain of the Guards gives Aramis a suspicious look.
+29) 25) dialog: The good father is... all tied up.
+30) 0) text: Aramis and Porthos have settled in comfortably.      Port spies a wicker hamper on the floor.
+30) 7) dialog: Hello.
+30) 8) text: Aramis opens the box, reacts.        It is filled with go coins, jewelry.
+30) 9) dialog: How is it that a man of God becomes a man of gold?
+30) 11) dialog: Let's share.
+30) 13) dialog: Would you be so good as to distribute these? Your generosity will be greatly appreciated.
+30) 15) dialog: (to the point) Throw the coins, boy.     The people are hungry.
+30) 16) text: D'Artagnan grabs a handful of coins, and tosses them into the air. Aramis smiles approval, drops back to the carriage interior. Pedestrians see the gold, shout, and leap after. Their hurried steps impede the Guards' pro- gress, horses rear up, soldiers tumble. But several of the Guards manage to avoid the obstacle, pursue the carriage with renewed determination. D'Artagnan hears a LOUD POPPING sound, ducks.
+31) 8) text: D'Artagnan hurries to the horses. Porthos and Aramis climb from the cab. Porthos emits a contented belch.
+31) 10) text: Aramis hands Athos a sack of powder, and his pistol. Athos tosses the sack into the carriage, takes aim with the PISTOL, and SHOOTS it -- igniting the powder inside.
+31) 15) dialog: Ten!
+32) 0) text: D'Artagnan and the three Musketeers rest against tree trunks in a hidden glade, polish off the last of the Cardinal's food and drink. Their usual cynicism replaced by something approaching camaraderie. Aramis smiles as d'Artagnan attacks a turkey wing.
+32) 2) dialog: Your trip from home has been an eventful one.
+32) 7) dialog: A good man, I'm told.
+32) 21) text: D'Artagnan isn't listening. He stands suddenly, turns, and walks away. He doesn't want the Musketeers to see the tears forming in his eyes. Aramis shouts after:
+32) 22) dialog: D'Artagnan.
+33) 0) text: D'Artagnan stands at a flowing stream, wipes the tears from his eyes. Aramis appears at his side, offers silent comfort, a hand on d'Artagnan's shoulder.
+33) 7) dialog: A man is better measured by his life than by his death. Your father was bold, and brave.
+33) 9) dialog: He lives in you.
+33) 10) text: That's all the evidence Aramis requires.       D'Artagnan pauses to reflect. Then wonders:
+33) 12) dialog: I was orphaned at a young age. The church took me in.
+33) 14) dialog: But I did. He was a great man, a leader of the church. And his example inspired me to dedicate my life to God's service.
+33) 15) text: Aramis opens his cloak, reveals a priestly cloth.       A secret he carries near to his heart.
+33) 17) dialog: I was a fool. (eyes on the cool water) This great man, this father, betrayed the church, and turned his back on God. To worship power and gold.
+33) 22) dialog: (quietly) It broke my heart to see it.
+33) 24) dialog: I joined the Musketeers and a strange thing happened. I got my faith back.
+33) 26) dialog: (turns to face him) All of France knows him. His Eminence, the Cardinal Richelieu.
+35) 4) dialog: What?
+35) 9) dialog: He rules England the way Richelieu rules France. D'ARTAGNANj A ship called the Persephone waits for the Cardinal's agent at Calais. To take him to England. Tuesday, midnight.
+35) 10) dialog: (figuring) Calais is over two hundred leagues from here...
+38) 11) dialog: Gentlemen, I beg you. Please put away your weapons and remove these kegs from the road. We'd prefer to ride on without having to kill you.
+38) 12) text: D'Artagnan and the "Farmers" gape at Aramis in surprise.
+38) 15) text: The Farmer laughs, contemptuously. He raises his pistol and aims it at Porthos' head. But before he can pull the trigger, THREE EXPLOSIONS ERUPT from under the cloaks of Athos, Porthos and Aramis. When the smoke clears, d'Artagnan is startled to see the three dead "Farmers" sprawled in the road and the three pistols emerging from beneath the cloaks of the Musketeers.
+38) 18) text: Aramis swings out of the saddle and begins to perform last rites over the bodies. D'Artagnan still can't be- lieve what just happened. He turns to Porthos. Porthos raises the barrel to his lips and blows away the gunsmoke
+39) 7) dialog: (bitter) In the name of God, I'm sure.
+39) 10) text: The sound of SLIDING STEEL as Athos, Porthos, Aramis and d'Artagnan draw their swords, ready to fight. They stand back to back in a circle, ready for attack. But there is no attack. Quite the contrary.       The peo here are thrilled to see them.
+39) 16) dialog: I think we've found a home.
+39) 23) text: Still no response.    Aramis and d'Artagnan hide smiles.
+39) 24) dialog: It's hard to believe they haven't heard of the great Porthos.
+39) 28) text: And with that, the three Barmaids desert Porthos and scurry across the room to attach themselves to Aramis. Porthos shakes his head and flops down in a chair.
+40) 11) dialog: Only if you don't know which words to say.
+40) 12) text: All turn to regard Aramis. He'll play along too. Porthos reacts with delight. D'Artagnan with interest. Aramis continues:
+40) 13) dialog: Words may make a more lasting impression than a thousand of Porthos' kisses.
+40) 15) dialog: I'll demonstrate. Please.   Sit beside me.
+40) 16) text: Aramis' courtly behavior is as out of place in these en- virons as it is persuasive. The Barmaid slips from Porthos' lap, sits down on the bench beside him. Aramis does not touch her. He simply looks into her eyes... and begins to speak.
+40) 17) dialog: 'Shall I compare thee to a summer's day? Thou art more lovely and more temperate: Rough winds do shake the darling buds of May, And summer's leash hath all too short a date; Sometime too hot the eye of heaven shines, And often is his gold complexion dimmed; And every fair from fair sometimes declines, By chance, or nature's changing course untrimmed; But thy eternal summer shall not fade.
+40) 22) dialog: Nor lose possession of that fair thou owest, Nor shall death brag thou wanderest in his shade, When in eternal lines to time thou growest; So long as men can breathe, or eyes can see. So long lives this, and this gives life to thee.'
+40) 23) text: The Barmaid, once skeptical, sits silently. Her face covered with tears. Aramis pauses, almost embarrassed by the outcome. He turns to d'Artagnan, cites:
+40) 24) dialog: Shakespeare.
+40) 32) text: D'Artagnan takes the Barmaid into his arms, delivers a powerful kiss. As previously demonstrated. Porthos and Aramis smile proudly. The Barmaids cheer.
+40) 37) dialog: So little time, so much to learn.
+40) 39) dialog: In all the years I've know him... I have never seen Athos smile.
+40) 85) text: Aramis launches into something appropriate. Porthos and a Barmaid get up and begin a festive folk dance. Porthos is damned good. His joie de vivre is infectious and soon everyone in the inn is clapping and encouraging him. Every once in awhile, another WEAPON -- a dagger or something -- drops out of Porthos' clothing and hits the floor with a CLATTER. That's when Porthos, dancing with abandon, spins out of control, trips and falls on Athos' table, crushing it to the floor. Porthos lies in the wreckage, staring up. Athos, totally unperturbed, looks down and offers him the bottle.
+41) 10) dialog: I hear it too. It sounds like...
+41) 15) dialog: (to d'Artagnan) How's your head now?
+41) 24) dialog: We'll see you in Calais!
+41) 26) text: Athos and d'Artagnan take off in one direction, Porthos and Aramis in the other. The pursuing horsemen soon race INTO VIEW, break in half to give chase.
+47) 0) text: Porthos and Aramis ride hard, look back over their shoulders. They crest the top of a bluff, rein their horses to a stop. They can afford to rest for a moment. Their pursuit is at least a mile behind them.
+47) 1) dialog: My horse will not survive another league.
+47) 3) dialog: (in kind) Ten, twenty at the most.
+48) 0) text: The ferry is an open flatboat -- a wooden platform, about fifteen-by-twenty feet. It travels from one shore to the other by means of a ferry rope. Transport is slow, the trip to the other shore takes nearly five minutes. As Porthos and Aramis arrive, the flatboat is just re- turning, piloted by its FERRYMAN, a hunched and weather- beaten gnome. Four passengers wait to be carried across -- TWO GENTLEMAN CAVALIERS on horseback, and a country WOMAN and her child. As the flatboat enters its slip, the two Cavaliers urge their horses on board, rudely jostling the Woman and her child to the rear. The Ferryman, an experienced boot-licker, bows and scrapes to the Cavaliers, collects the coins they toss to his way.
+48) 7) dialog: Put away your money, madame. You and your child will cross the river under our protection. For free.
+48) 12) dialog: (waits for the tirade to cease; simply) Musketeers.
+48) 15) dialog: Porthos!
+48) 17) text: Aramis takes Porthos by the shoulder and turns him so he can see their pursuers pouring over the top of the hill on their horses.
+48) 29) dialog: There are those who would call that treason.
+48) 39) dialog: Well said. I'm impressed. Ninnyhammers.
+48) 43) dialog: (courtly) By all means.
+48) 45) text: The Cavaliers have already pulled out their swords. Porthos and Aramis now reach for their own. Porthos deadpans:
+48) 52) dialog: (eyes on the opposite shore) Porthos...
+48) 54) dialog: Porthos...
+48) 56) text: Aramis indicates the opposite shore as the flatboat approaches it. There, waiting patiently, swords and muskets already drawn... is a patrol of Cardinal's Guards.
+48) 57) dialog: Can you swim?
+48) 59) dialog: That'll do.
+48) 64) dialog: You go first and I'll watch your progress.
+48) 66) text: Stalemate. Then, they can't help it, Aramis and Porthos grin. Life is an adventure, lived to the fullest. They count...
+48) 67) dialog: One, two -- three!
+48) 68) text: And with that, as the Woman and child, the Ferryman look on, Aramis and Porthos guide their horses into the raging river. The Woman whispers after:
+48) 73) dialog: A nice relaxing boat ride...
+61) 9) text: That's when Porthos, and Aramis -- come swooping down from above like avenging angels. They swing on the ends of ropes, slicing through the air, then dropping feet first on top of Milady's Bodyguards. D'Artagnan stands open-mouthed, as his three friends draw their swords.
+61) 10) dialog: (calling to him) You look like you've seen a ghost.
+61) 23) text: He winks at d'Artagnan, returns to the fray. D'Artagnan follows. The Musketeers confront Milady's evil Bodyguards in the night and fog. Athos with brutal perfection. Porthos with strange weapons and a healthy sense of the absurd. And Aramis with familiar grace and artistry -- and a marked determination to disable, not kill, his opponents. Milady views the latter with alarm. As the battle rages around her, she retreats into the shadows.
+61) 32) text: Aramis kneels at a dying man, delivers muttered last rites. A Bodyguard races INTO VIEW, means to kill him where he kneels. Aramis doesn't miss a beat -- he shifts, rises, delivers a punch and kick, knocking the man off th ship to the water below. A SPLASH is heard. And Aramis resumes a priestly pose, continues the litany.
+65) 21) text: As d'Artagnan, Porthos, and Aramis arrive on the scene...
+66) 0) text: The public room is empty, save for d'Artagnan and the three Musketeers. They gather around a table. Aramis holds the treaty in his gloved hand. The mood is somber and tense.
+66) 4) dialog: The treaty outlines Richelieu's plan to forge an alliance with Buckingham.
+66) 6) dialog: He is not mentioned directly. But the agreement is contingent on a 'demonstration' of the Cardinal's power.
+66) 8) dialog: I don't know.
+66) 11) text: D'Artagnan, Aramis, and Porthos watch in grim silence as Athos crosses the room to an imposing door.
+68) 0) text: A hundred feet below, waves crash on a rocky shore. On the jagged cliff above, a black mass of trees is outlined against a stormy sky filled with copper-colored clouds, surreal in effect. A sinister procession approaches the cliff. Porthos leads Milady. She wears a simple white shift, her hair pulled back into a long braid. She looks years younger, the girl she used to be. The Executioner walks behind them. Followed by Armand de Winter, Aramis, d'Artagnan. And Athos. He watches every step. The procession stops at the cliff's edge. THUNDER RUMBLES. Lightning slashes the sky. The Executioner ties Milady's hands behind her. The Executioner removes a bright scimitar from beneath his cloak. Milady catches Athos' eye. He holds her gaze. He stares at Milady unflinchingly, as if to burn her image into his eyes, so that he might keep it there until the day he dies. Aramis reaches inside his cloak, removes the sacred priestly cloth he carries.
+68) 7) text: Aramis comes forward, intones:
+68) 8) dialog: I am the resurrection and the life, sayeth the Lord. He that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me shall never die...
+68) 27) text: D'Artagnan sadly lowers his head. Porthos puts a consoling hand on his shoulder. Aramis stands to the other side, mutters:
+68) 28) dialog: Amen.
+68) 30) text: D'Artagnan, Porthos, and Aramis turn. Athos has regained his former self. Stoic, in command. And hiding a broken heart.
+86) 0) text: Pandemonium, inside and outside the Palace. Athos, Porthos, and Aramis emerge from the crowd at the entrance draw their swords, and prepare to rush the long line of Guards protecting the doors. The Guards cannot believe what they are seeing. Three men against a hundred. It's ridiculous. But then... the looks on Guards' faces begin to change, subtly at first, from amusement to horror.
+86) 1) text: Behind Athos, Porthos, and Aramis, something incredible happens. Musketeers appear from every direction. Some from the surrounding crowd. Some from buildings, roof- tops. Others appear on horseback, a few disguised as monks. And all defiantly wearing their blue and gold tunics. The murmur of the crowd becomes an excited roar. The corps of Musketeers line up behind Athos, Porthos, and Aramis. Porthos and Aramis exchange a smile. Athos keeps his usually dour expression. But his eyes are charged with excitement. They raise their arms, and face the long line of Guards. A hundred sabers flash in the sunlight.
+88) 7) text: Get behind me. Rochefort takes confident steps toward the King. But one last BOOM and the great DOOR comes CRASHING down on the Guards, revealing a tide of Musketeers on the other side. Athos, Porthos, and Aramis at the lead.
+88) 16) text: Anne looks up. Constance tosses the goblet to her. Anne catches it neatly, brings it down on the head of the hapless Guard. Constance smiles, leaps forward. Aramis cuts down a Guard. As another man comes at him from behind, Porthos intervenes, runs the man through. The two Musketeers pause to exchange deadpan thanks, and continue. Athos and Rochefort slash at each other. It is a mighty confrontation. But Athos soon gains the upper hand. Rochefort shouts to a nearby Guard for help. Now it's two on one. Athos receives a wound in the shoulder, he staggers... and the treaty falls from his tunic to the floor. Rochefort reacts with a start, he grabs the treaty, stuffs it into his doublet. Athos shakes off the sudden pain, disposes of the Guard. Rochefort and Athos face each other a second time. Athos wounded, Rochefort confident he can finish the injured Musketeer. But Athos merely changes sword hands. Rochefort reacts. Their SABERS CLASH as they draw together. Rochefort grabs a dagger from his belt with his free hand. But Athos sees it coming, and smashes Rochefort across the face with his fist.
+88) 22) dialog: D'Artagnan.   Kill him where he stands.
+89) 41) text: D'Artagnan stands, transformed from boy to man. BELLS RING in the distance. Constance smiles brightly, tears gleam in her eyes. Athos, Porthos, and Aramis surround their young friend, and happily present him with the bright blue tunic of the Musketeers. They slip the tunic over d'Artagnan's head, react with a cheer. D'Artagnan hugs each of the three. For each has given him gifts more valuable than gold. Porthos, Aramis, and last... Athos.       Who, to the sur of all who know him... smiles.
+89) 43) dialog: I find it hard to believe myself.
+89) 45) dialog: It was spectacular. And what teeth.
+89) 48) text: Porthos and Aramis exchange a glance.       They're not s sure themselves.
+89) 50) dialog: (helpfully suggests a third) And freedom.

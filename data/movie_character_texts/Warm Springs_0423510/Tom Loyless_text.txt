@@ -1,0 +1,121 @@
+3) 0) text: 3 The crane swings around with the MAN in the net. He is EMPTIED out onto the deck like a fish. AHIVERING on the rotting wooden planks he FLIPS himself o on his stomach. Slowly, using the palms of his hands, he DRAGS his trunk and withered limbs across the deck in a labored lobster-walk. He uses his chest muscles to swing his legs around the ed of the boat. They dangle like pieces of rope, his feet wh and flaccid. A towel, a bottle and a glass are wordlessly placed next him by a CREW PERSON. He pours himself a generous amount scotch and begins drinking.
+23) 14) text: If they don't have any symptoms by now then they have been spared. Sara stands -- her bearing once again erect and proud. SARA
+34) 0) text: 35 TOM LOYLESS, 39, stands waiting by a car dressed in a whi suit. Laconic, with a dry sense of humor, Tom is a man of words whose poker face hides a true desperation. He holds telegram from Franklin in his hand. As the train pulls in Tom looks for Franklin among the passengers making their exit. There are two different exits on the platform clearly mar WHITE and COLORED. Whites exit from the front of the trai and Blacks from the rear. LIONEL PURDY, tiny, and dressed in a mailman's uniform, approaches Tom. Of indeterminate age and dubious intellec his mail bag is almost as big as he is.
+34) 2) dialog: You might say so, Lionel.
+34) 4) dialog: A Mr. Roosevelt.
+34) 6) dialog: (patiently)
+34) 10) dialog: (to Lionel)
+35) 0) text: 36 Franklin exits the train slung in a fireman's carry over shoulder of ROY COLLIER, African-American, 29. His brothe PETE, 27, is close behind, carrying luggage -- both hover around 6' 4". Tom approaches. Franklin attempts to hide his embarrassme with good cheer.
+35) 2) dialog: Tom, Mr. Roosevelt.
+35) 4) dialog: Franklin.
+35) 7) dialog: Pleased to make your acquaintance. Roy then carries him over to Tom's car and gingerly place him inside. Pete follows.
+35) 10) dialog: I'll send a wagon right over.
+36) 0) text: 37 Tom drives Franklin in front, Eleanor sits in the back.
+36) 5) dialog: Not long. They BANG over a large pothole. They all fly up and land
+36) 7) dialog: No we don't.
+37) 0) text: 38 Tom's car turns into a driveway. Franklin has a brochure "The Meriwether Inn" opened in his lap. He tries to spy t building through the trees but cannot. He looks back at the brochure. The picture is of a lavish Victorian Hotel and the words, "Our renowned mineral hot springs can cure whatever ails you!" Franklin looks up and sees a three-story hideous green an yellow monstrosity leaning slightly to one side. Paint is peeling everywhere. What once were flower beds are overgr with weeds. The car pulls to a stop.
+37) 1) dialog: You'll have a great deal of privacy. There are only a few guests right now as it's the off- season... I'm hoping to make some improvements by next Spring -- Franklin puts out his arm preventing Tom from getting out the car.
+37) 8) dialog: Look on the bright side. Most of your time will be spent in the water. (a beat)
+37) 11) dialog: Yes, we've seen better days. (a beat)
+37) 12) text: But then I imagine so have you. Franklin blinks incomprehensibly at Tom and what he has j said.
+37) 13) dialog: I'm happy to drive you back to the train station right now, if that's what you want. They lock eyes. Franklin wonders if Tom's bluffing, but h can't tell.
+37) 16) dialog: We've got options.
+38) 0) text: 39 Tom's car is now parked in front of a group of small cottages. Roy and Pete's horse drawn wagon is behind it.
+39) 0) text: 40 Tom and Pete open a set of shutters over the windows of a tiny cottage. Franklin and Eleanor sit in the car, watching.
+40) 0) text: 41 Sheets cover the furniture, cobwebs span the beams and du particles fill the air. As Tom maneuvers the wheelchair through the front door, Franklin notices a broken window.
+40) 6) dialog: (politely)
+43) 0) text: 44 Roy wheels Franklin while Tom walks in front of them lead the way.
+44) 2) dialog: Mr. Roosevelt, I'd like you to meet Aunt Sally.
+44) 6) dialog: Now give it a minute. You'll see that the mineralization makes the water more buoyant. The crippled boy who swam here was actually able to walk in the water. Franklin's legs flop as his useless feet touch the shallo bottom. Crushed, all hope drains from his face.
+52) 0) text: Franklin is seated on the ramshackle porch in his chair. cigarette hangs from his lip as he mixes martinis in a gl milk bottle. He pours one for Tom, then himself.
+52) 2) dialog: Warm Springs. They clink their glasses. Tom takes a polite sip, then ch back the bad taste.
+52) 4) dialog: Haven't been in a drinking mood lately.
+52) 6) dialog: Actually, its the most god-awful martini I've ever tasted.
+52) 9) dialog: Well, I never tasted a martini this bad before. Franklin takes another sip, checking. It tastes fine to h
+52) 12) dialog: So they say.
+54) 0) text: 55 Aunt Sally is seated, talking with Roy while Franklin lie his back in the water, swimming. All his movement comes f his shoulders and arms. The morning sun streams down on h Tom sits off to one side reading the newspaper.
+54) 11) text: I'm standing. His laughter gets stronger. Tom, Aunt Sally and Roy look
+55) 0) text: 56 Tom, who's been mixing cocktails, hands Franklin a drink lifts his glass.
+55) 1) dialog: To standing on your own two feet! They clink and drink.
+55) 15) text: If you must know, she's my social secretary. (to Tom) I'm having her come down. Lionel reaches into his bag. LIONEL
+58) 0) text: Franklin is attempting to walk in the water, working diligently. Tom watches him from a few paces back.
+58) 1) dialog: Morning.
+58) 3) dialog: Congratulations. Listen, Franklin, I got word a local reporter wants to do a story on you.
+58) 6) dialog: Small town -- word gets out. It probably won't amount to more than a provincial puff piece but it might give us some free publicity for the Inn. Franklin looks at Tom knowing full well he's arranged thi
+58) 7) dialog: All right, I know the gentleman. I'm doing him a favor. You know, I used to be a journalist.
+58) 10) dialog: Not anymore. I got in a bit of trouble in Atlanta. Seems some of the editorial pieces I wrote offended the sensibilities of a local civic group. So I needed to lay low for a while.
+58) 12) text: You mean the Klan? Good God, Tom...
+58) 16) dialog: Rat-trap?
+61) 4) text: Tomorrow will be fine. MISSY
+63) 0) text: 64 A bookshelf with four books. A few FARMERS and their WIVES sit with large groups of fi children. They look at Franklin askance. Prendergast stands proudly beside three GRADUATES-TO-BE. Tom stands in the back observing. Franklin, in his wheelchair, sits uncomfortably before th gathering. He notices a FATHER staring at his legs.
+64) 2) dialog: They welcomed your company, Franklin.
+64) 4) dialog: Don't patronize them. These people go to bed night after night with half-empty stomachs -- your legs are the least of their worries. They continue to drive in silence. 66
+65) 0) text: It's a cold day and Franklin is swimming in the pool. Roy is wearing a sweater. Aunt Sally is there, too, weari patched up coat with a scarf around her neck. Tom is near raking leaves.
+65) 5) dialog: Franklin, we need to talk... Normally we close up this time of year and the staff goes home for the holidays. Franklin looks at Tom, then at Roy and Aunt Sally, acknowledging. The sound of a TRAIN WHISTLE is heard.
+68) 0) text: 69 Franklin is being lifted out of Pete's wagon by Roy and placed into his wheelchair. He sees Tom approaching.
+68) 6) text: Tom, are you all right?
+68) 7) dialog: It's just an ulcer. I can't eat anything I like anymore. Roy carries the luggage into the cottage.
+68) 10) dialog: Yes, they are. A silence hangs in the air.
+68) 11) dialog: Ready to swim?
+69) 0) text: 70 Franklin now dressed in his bathing suit is being wheeled Roy. Tom follows.
+69) 1) dialog: We've got some new guests. Some paying, some non-paying... As they get closer, Franklin is stunned by what he sees - A DOZEN PEOPLE -- all in different groupings -- some on crutches, others in wheelchairs, are gathered around the pool.
+69) 3) dialog: The interview you gave was syndicated in Sunday papers all over the country. Franklin looks up at Tom, dumbfounded.
+69) 4) dialog: They're here to see you.
+70) 0) text: 71 Franklin is pushing the chair himself along the dirt path his anger propelling F him away from Tom.
+70) 2) dialog: This isn't your personal spa! I have a business to run.
+70) 4) text: Exactly. You have a business to run, not I! TOM
+70) 6) text: Of course they are! TOM
+70) 8) text: It's not my concern. I want to be left alone! TOM
+70) 10) text: Afraid? What you're talking about? TOM
+70) 12) text: Don't be ridiculous. I resent your trying to -- TOM
+70) 14) text: God damn it! Tom comes to his aid but he is brushed off by Franklin. FRANKLIN
+71) 2) dialog: Good evening. Franklin nods in Tom's general direction. Tom has a teleg in his hand which peaks Franklin's curiosity.
+71) 4) dialog: Yes. The train comes to a complete stop. A CONDUCTOR steps out onto the platform. A single ELDERLY WOMAN gets off the tr
+71) 5) dialog: (to the Conductor)
+71) 8) dialog: I expect he would be in a wheelchair.
+72) 0) text: 73 Tom, Franklin and Roy are in front of the large door as t Conductor pushes it back slowly.
+73) 2) dialog: His pulse is slow. 75
+74) 11) text: Roy, take him to the car. As Roy lifts Fred in his arms, Franklin wheels himself to engine car. Tom follows as they approach the CONDUCTOR. FRANKLIN
+74) 16) text: You ignorant son of a bitch. If I could, I'd get up right now and lock you in that box car! See how you like it! TOM
+74) 18) text: Get this lunatic off me! Franklin wheels himself towards Tom's car where Fred is n lying across the back seat. The sight of Fred drains all anger from Franklin's face. FRANKLIN
+74) 21) dialog: Atlanta.
+74) 23) dialog: Closer, but not by much. The train whistle BLOWS.
+76) 0) text: 77 Franklin sits at a card table with his check book in fron him. Tom stands before him, shifting uncomfortably.
+76) 2) dialog: Fewer than half. Franklin opens the check book and begins writing.
+76) 4) dialog: Well, it's the way it has to be.
+76) 6) text: What do you mean? TOM
+76) 8) text: Such ignorance! Don't they know that after the fever breaks we are no longer contagious? TOM
+76) 10) text: They don't want us to eat in their presence? TOM
+76) 12) text: (a beat) That won't be necessary. Franklin goes back to writing out the check. Tom stands waiting, the sound of the pen scratching seemingly interminable. Their mutual discomfort is obvious. Franklin rips the check from the ledger and holds it for
+76) 13) dialog: Thank you. FRANKLIN
+76) 15) dialog: For Fred?
+80) 19) text: Go ahead now, do your best! Their legs barely rise up to splash the surface. Undeterr Franklin leads them on, spiritedly. In the distance we see Tom, leaning against a tree, watch everything.
+81) 0) text: 82 Tom oversees the dinner service of paying guests -- none whom have disabilities.
+91) 0) text: 92 Tom is pushing Franklin in his wheelchair.
+91) 4) text: epidemic over 16,000 people got polio in the New York area alone? TOM
+91) 6) text: I wish there was more to read. Damn few things being written about any of this. To think of someone like Fred... locked away... his mind and heart so vibrant... TOM
+91) 8) text: What's the acreage here? TOM
+91) 10) text: I want to buy it. I think it would make one hell of an investment. TOM
+91) 12) text: Twelve hundred acres? Enough for two resorts, don't you think? TOM
+91) 14) text: (undeterred) Do you think old Peabody will sell? TOM
+91) 16) text: How can you be so sure? TOM
+92) 2) text: Peabody you old reprobate! How are you? Tom is pacing back and forth
+93) 6) text: I was a dancer... Tom and Franklin come out. Franklin gives a questioning l to Helena, pondering how these boys have suddenly appeare
+93) 12) dialog: Want to tell them your good news? Franklin is smiling like the cat that ate the canary.
+94) 0) text: 95 A free wheeling game of poker. Heavy with cigarette and c smoke, Franklin, Tom, Fred, Jake and Pat are playing.
+94) 10) dialog: I'll see your twenty-five and raise you twenty-five.
+94) 13) dialog: It's twenty-five cents not twenty- five dollars.
+94) 18) dialog: Take it. I was bluffing. Gleefully, Jake slaps his hands together and rakes in the
+95) 0) text: 96 The sun is about to rise. Tom's car is parked in front of Inn, pulled up very close to the main entrance. The trunk open.
+95) 2) text: Where do you think you're going? Franklin is being pushed by Roy in his wheelchair. They a both dressed in pajamas and bathrobes, though Franklin ha blanket around his shoulders to shield him from the morni chill. Tom is caught. This is everything he wanted to avoid. TOM
+95) 3) text: Going to Asheville to see my parents. From the sight of Tom's car stuffed with luggage, it is c he is not coming back. FRANKLIN
+95) 4) text: I can't do this without you... we're only just beginning. TOM
+95) 6) text: I... I'll take you to the best doctors. We'll go to Atlanta right now -- TOM
+95) 7) text: I've seen the best doctors. When you were in New York they opened me up for the second time. Now I just want to die in the bed I was born. Franklin is struggling with this. TOM
+95) 10) dialog: Take care of yourself, Roy.
+95) 13) dialog: On the contrary, I envy you.
+95) 15) dialog: Good luck, Franklin. With a wave he slowly lurches down the long driveway and turns onto the main road. Franklin watches the car until is out of sight.
+97) 2) text: Excellent, Fred! Keep going... They are surrounded by many others, Franklin, Eloise, Woodhall, Pat and Jake. The BEEPING of a car horn gets their immediate attention. Roy leaps off the porch, skipping the stairs as his broth Pete drives up in Tom's car. He parks it and steps out. PETE
+97) 4) text: Peter, what are you doing with Tom's car? PETE
+97) 10) text: Get on in and I'll teach ya'! He begins showing off a system of pulleys and levers that have been attached to both pedals. They thread through ho in a second dashboard, attached to polished wood knobs. It's a hand-controlled automobile. PETE
+106) 8) text: But the real problem is no one is interested. The annual Orthopedics Convention is being held in Atlanta this weekend and I offered to speak. (his anger surfacing) They turned me down flat. Eleanor takes Franklin's pajama bottoms off the bed and w tender care pulls them up his legs.

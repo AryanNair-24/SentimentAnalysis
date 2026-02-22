@@ -1,0 +1,18 @@
+30) 6) dialog: Sage?
+30) 8) dialog: I’m Dr. Ng. I heard there was some drama outside. Is your grandmother doing alright?
+30) 10) dialog: (to Elle) Got it. So, I’d like to take a look at you.
+30) 12) dialog: I know, I’d like to look at you as well.
+30) 14) dialog: Sage, we're going to have you talk to our counselor for a little bit, just to go over everything.
+30) 16) dialog: It’s supposed to be private, to make sure you’re fully comfortable and it’s your decision.
+30) 18) dialog: It’s just to make sure she’s not feeling any outside pressure or any fear about the procedure. Our counselor is very well-trained and sensitive.
+31) 0) text: Elle sits on an examining table. The Doctor is shining a light in first one, then the other, of Elle’s eyes.
+31) 1) dialog: You feeling any dizziness?
+31) 3) dialog: Ha-ha. No dizziness? Nausea?
+31) 5) dialog: I will.
+31) 7) dialog: I’m not going to hurt her.
+31) 9) dialog: We don’t do curettage at this stage of pregnancy. Not at this clinic.
+31) 11) dialog: We do vacuum aspiration.
+31) 13) dialog: It causes less trauma to the uterus.
+31) 15) dialog: No.
+31) 17) dialog: It’ll be a bit uncomfortable. She may cramp a fair amount afterwards. But the procedure shouldn’t hurt.
+31) 19) dialog: Well...like you said. This isn’t the dark ages. Not here at least. Okay, I’m going to take you to the Well Woman waiting room.

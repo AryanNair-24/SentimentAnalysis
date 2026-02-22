@@ -1,0 +1,51 @@
+27) 3) dialog: Hello, Letitia. I'm Dr. Emlee, and I have some questions to ask you...
+27) 7) dialog: It's hospital policy...
+27) 11) dialog: I'm the only doctor making rounds this morning.
+27) 19) dialog: This doctor, was he tall, with dark hair?
+27) 22) text: Dr. Emlee shifts uncomfortably.
+27) 24) dialog: I'm afraid Lhe's not a doctor.
+27) 28) dialog: Patient.
+27) 32) dialog: Michael, the man who came to see you, is a patient.
+27) 36) dialog: I apologize for the inconvenience, but I must ask you some...
+27) 40) dialog: We discourage family visits for the first 48 hours after an emotional trauma like the kind you've experienced.
+27) 48) dialog: You'll have to. Your family agreed to the conditions not to see you when they admitted you to Hillview, Letitia. (beat) We can talk about how that makes you feel, but we can't change the rules.
+27) 51) dialog: Dr. Stone's evaluation from last night indicates you're experiencing a great deal of anxiety, probably related to depression...
+27) 54) text: Dr. Emlee continues to talk. His words become more and mo distant as the RINGING in Letty's head grows louder.
+27) 56) dialog: We need to talk about starting you on drug therapy. Most depressive personalities benefit from a drug like Prozac or maybe Zoloft...
+37) 6) dialog: And how's that make you feel?
+37) 34) dialog: Maybe you'd like to share some of your feelings about OCD or depression with us, Letty.
+37) 39) dialog: I think in the spirit of group therapy, it's beneficial for each of us to open ourselves up to the others.
+37) 40) text: Michael reaches his hand behind Dr. Emlee's head, catchin Letty's eye in the process. Michael pulls a silver dollar of Emlee's ear.
+37) 43) dialog: You never know, Letty, how the person sitting next to you may be able to shed light on one of your problems...
+37) 50) dialog: ...by revealing something that's going on in his or her own life.
+37) 53) dialog: (responding to her smile) There, now, I knew you'd feel better once we discussed group process. Let's talk a little about your OCD.
+43) 1) text: Dr. Emlee and Letty sit across from each other.
+43) 5) dialog: We'll see about adjusting the dosage if that doesn't clear in the next (week. beat) How are other things going?
+43) 9) dialog: The question, Letty, is how are you feeling?
+57) 3) dialog: I think it's a problem that you never told me about Michael. I had to hear it from another patient.
+57) 7) dialog: Well, Letty, this does present a liability issue for the hospital.
+57) 15) dialog: Go ahead and put the guard back up, Letty. But you need to know what you're dealing with.
+57) 19) dialog: Then that's even more reason to listen. Look, schizophrenics tend to withdraw from reality. They experience emotional disturbances that result in personality changes.
+57) 26) dialog: Drugs can help suppress symptoms. But lots of patients stop taking them when they're on their own because the side effects are so harsh. (beat) And, Michael's condition is often worsened by periods of stress. He's been in and out of...
+57) 30) dialog: I'd like you to promise you won't carry on a relationship with Michael. Otherwise, I'll consider moving one of you to another ward.
+57) 34) dialog: All I want you to do is think about what's best for you. Really think about it.
+60) 3) dialog: But how does that make you feel, John, what Letty said about your hostility?
+60) 10) dialog: What seems to be the problem?
+60) 20) text: She runs out. Nurse Gates follows her. A moment passes. patients look expectantly at Dr. Emlee.
+60) 22) dialog: Oh, fine, let's see.
+61) 6) dialog: Mrs. Hallstrom, you ordered all this?
+61) 10) dialog: You must have spent thousands of dollars.
+61) 13) text: Mrs. Hallstrom hands Dr. Emlee a fake ruby hair comb.
+61) 15) dialog: Mrs. Hallstrom, you can't possibly afford to pay for this. It must go back.
+61) 24) dialog: It's going back. We'll contact the company this afternoon. (to patients) Take the jewelry off, please.
+61) 30) dialog: Let's go back to group, and discuss it there. Back to group, everyone.
+61) 31) text: The patients head back to group.   Dr. Emlee turns to Nur Gates.
+61) 33) dialog: (to Nurse Gates) Increase her lithium to 600 milligrams, three times a day. Oh, and Nurse, let's see about canceling the cable.
+73) 1) text: Letty is curled up in a chair opposite Dr. Emlee.
+73) 9) dialog: Have you been in contact with the principal about your job?
+73) 13) dialog: Then, you should call.
+73) 17) dialog: I think it's about that time, Letty. The charges against you have been dropped, the drugs have evened out and you seem to be dealing with your life quite well.
+73) 21) dialog: Let's not be hasty. (beat) I'm saying we should plan a release date for early next week.
+77) 3) dialog: So, we'll meet every Tuesday and Friday. And if you have any kind of emergency, you can page me.
+77) 7) dialog: It was just a little going-away gesture.
+77) 11) dialog: Oh?

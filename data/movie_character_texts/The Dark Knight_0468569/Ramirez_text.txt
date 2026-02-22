@@ -1,0 +1,43 @@
+20) 0) text: DETECTIVE RAMIREZ, female, rookie detective, 30's, makes  coffee, watching a news show on the television. ON SCREEN: The host, MIKE ENGEL, lays into the MAYOR.
+20) 5) dialog: Hey, Wuertz- the Mayor says you're  closing in on the Batman.
+21) 0) text: Ramirez comes out onto the roof.  LIEUTENANT GORDON sits a SEARCHLIGHT.  She hands Gordon a cup of coffee.
+21) 1) dialog: Ever intending to see your wife again,  Lieutenant?
+21) 3) dialog: They checked her back into hospital.
+21) 5) dialog: (making light) Least there she's got someone round  the clock.  Unlike your wife. (looks at bat-signal) He hasn't shown?
+21) 8) dialog: Why wouldn't he come?
+29) 0) text: FORENSIC SPECIALISTS work the room.  Ramirez hands Gordon PRINTS- indicates the surveillance cameras.
+29) 1) dialog: He can't resist showing us his face.
+29) 6) text: Gordon approaches a FORENSIC PHOTOGRAPHER shooting Grumpy body.  Gordon crouches to look at his clown mask.  Batman steps from the shadows.  Gordon nods at Ramirez.
+29) 7) dialog: Give us a minute, please, people!
+29) 8) text: The Forensic team and Ramirez leave.  Gordon hands Batman the blow-up of the Joker.
+46) 0) text: Gordon sits in a SWAT van outside a bank.  Stephens is ou another.  Ramirez a third... SWAT teams CHECK WEAPONS and prepare move...
+80) 0) text: Gordon is looking through case files.  Ramirez walks in.
+80) 1) dialog: You're gonna want to see this.
+81) 0) text: Gordon follows Ramirez through a CROWD of excited cops. the ground, trussed like a chicken- Lau.  A sign taped to his chest: 'Please deliver to Lieutenant Gordon.'
+97) 0) text: Ramirez catches up to Gordon, holding paperwork.
+97) 1) dialog: That Joker card pinned to the body?   Forensics found three sets of D.N.A..
+97) 3) dialog: All three.
+97) 5) dialog: The D.N.A. belongs to Judge Surrillo,  Harvey Dent and Commissioner Loeb.
+97) 9) dialog: City hall.
+120) 0) text: An UNMARKED and a SQUAD CAR screech to a halt.  Gordon an Ramirez get out, lead two UNIFORMS into the building.
+121) 5) dialog: Harvey Dent.
+121) 7) dialog: Us contaminate it?  It's because of  you that these guys are dead in the  first place-
+121) 12) text: Ramirez looks at Gordon.  Is he serious?  Gordon points-
+213) 0) text: A small army of cops have sealed off the roadway.  Gordon pulls away in the squad car containing the Joker. REPORTERS clamor for an interview with Dent, who is being helped out of the van by the SWATS.  Ramirez pushes throu the pack, shoving reporters aside.
+213) 1) dialog: Let him be!  He's been through enough-
+213) 2) text: Dent follows Ramirez to a squad car- Wuertz is in the dri seat.  Dent smiles at Ramirez as she opens the rear door.
+213) 4) dialog: I figured, counselor.
+213) 5) text: Ramirez shuts the door on Dent.  Signals Wuertz to pull o
+218) 2) text: Ramirez shakes her head.  Gordon PUSHES through a door...
+286) 0) text: Gordon's phone BEEPS.  He looks at a text: WATCH OUT.  CO WITH RELATIVES IN GOTHAM HOSPITALS- BURKE, RAMIREZ, TILL.
+332) 1) dialog: Barbara, it's Anna Ramirez-
+332) 3) dialog: Listen carefully, there's no time.  Jim needs you to pack up and get the  kids in the car right away.
+332) 7) dialog: Barbara, those cops can't be trusted. Jim needs you away from them as soon  as possible.  I'll call them off for 10 minutes, you'll have to move fast-
+332) 9) dialog: I'm going to give you an address-  Jim will meet you there...
+333) 0) text: Ramirez is holding the phone.
+333) 1) dialog: 250, 52nd street.  Leave as soon as  the patrol car pulls out.
+333) 2) text: Dent is holding a gun at Ramirez's head.  She hangs up.
+333) 4) text: Ramirez nods.
+333) 6) dialog: I didn't know-
+333) 8) dialog: I'm sorry- they got me early on.  My  mother's medical bills and my-
+333) 13) dialog: I took a little from them- once  they've got you, they keep you.  I'm  sorry.

@@ -1,0 +1,27 @@
+3) 0) text: ADMIRAL OHSUGI, forties, waits patiently on the beach along with his OFFICER STAFF MEMBERS. Finally, the war-torn plane drones in for a landing. It lands safely on the landing strip. Kuribayashi steps off onto the tarmac. LT. FUJITA, twenties, Kuribayashi’s personal aide, follows behind him. . They makes their way to Ohsugi and exchange salutes.
+3) 1) dialog: Welcome, General Kuribayashi. I’m Admiral Ohsugi. They bow politely.
+3) 11) dialog: Three hours, ~sér.
+3) 13) dialog: I understand, sir. Kuribayashi turns to Lt. Fujita.
+3) 16) dialog: Oh, it’s nothing, sir. The water here does not agree with me.
+3) 18) dialog: This way to your quarters.
+3) 20) dialog: Shall I fetch a jeep?
+5) 0) text: Kuribayashi inspects a map of Iwo Jima with defense plans marked. Admiral Ohsugi and a stern looking Naval officer, LIEUTENANT ITO, are in the room with him.
+5) 2) dialog: 41 Zekes and 13 bombers.
+5) 4) dialog: We sent 66 planes to reinforce the fleet at Saipan. Kuribayashi looks grave.
+5) 7) dialog: Yes, sir.
+5) 9) dialog: Well, sir, I don’t know exactly. They are under the command of Col... Adachi. Kuribayashi looks at him, surprised.
+5) 18) dialog: Col. Adachi prefers that we do not interfere*with each other’s chain of command.
+6) 0) text: Admiral Ohsugi walks briskly with Lt. Ito, annoyed. ADMIRAL OHSUGI . This one’s trouble. Lt. Ito nods in agreement.
+24) 0) text: Kuribayashi walks along the hillside with a gaggle of Officers struggling to keep up with him. Admiral Ohsugi, aging 57-year-old COLONEL ADACHI and MAJ. GENERAL SATO are among them. Finally, Kuribayashi comes to a stop and turns to the officers. ‘ KURIBAYASHI Our strategy will be to take a defensive position and use the terrain to our advantage. We will build caves and tunnels in the mountains, place our artillery along this ridge and Suribachi.
+24) 20) dialog: It will be a futile waste of time. a The men cannot dig through a fos mountain. Besides, what kind of war is fought in caves?
+24) 24) dialog: I agree. That makes the most sense. We will have support from our Combined Fleet. Kuribayashi is quiet for a beat.
+24) 26) dialog: What do you mean?
+29) 20) dialog: This is ridiculous. Why waste time digging these impossible caves when they are all going to die anyway? Lr. ITO At least he has conceded to the pillboxes on the beaches. Kuribayashi continues to walk on. INT. OFFICER’S QUARTERS - NIGHT 37 General Kuribayashi sits at his desk, writing a memo. Admiral Ohsugi enters.
+29) 21) dialog: You wanted to see me, sir?
+29) 24) dialog: It’s the water. It has never agreed with me.
+29) 32) dialog: General, the island won’t last more than five days without fleet support. I’m not alone in thinking the cave work is... i futile. Kuribayashi stands up from the table, angered.
+29) 35) dialog: I’m sorry, General. I was mistaken.
+30) 0) text: Admiral Ohsugi walks in the direction of the airstrip. Behind him, his AIDE follows, carrying his bags. General Sato sees him on the way. They stop and salute each other.
+30) 2) dialog: I’m glad to be gone from this island.
+30) 4) dialog: General Sato, it’s up to you now. I hate to say it, but Kuribayashi belongs back behind a desk at the Imperial Palace, not commanding a war. Baron Nishi emerges from the horse pen and overhears the two talking. General Sato nods.
+43) 3) dialog: (on the radio) Begin firing.

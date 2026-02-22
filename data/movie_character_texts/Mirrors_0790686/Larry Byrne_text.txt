@@ -1,0 +1,40 @@
+0) 51) dialog: Sorry, I'm late... Have you been                       waiting long?                                         
+0) 53) dialog: You look awful.                                      
+0) 55) dialog: You know, you should sleep at night.                   Come in...                                             Ben follows him into the office.
+0) 57) dialog: So did you find an apartment yet?                     
+0) 59) dialog: You need a place to stay?                             
+0) 61) dialog: I didn't know you had a sister. What                   does she do?                                          
+0) 63) dialog: That's not too good for you! Anyway,                   you know you are always welcome to                     stay at our house.                                     Larry looks up at Ben, slightly uneasy-
+0) 67) dialog: I ran into Amy the other day. How are                   things going between the two of you?                    Ben remains silent. He obviously doesn't want to get into subject.
+0) 68) dialog: So, why did you want to see me Ben?                    
+0) 70) dialog: Listen Ben, I can't bring you back on                   the force. Nobody in the squad wants                    you around right now. I'm sorry but I                   have to be honest with you. You                         understand, right?                                     
+0) 72) dialog: If it was up to me, I would bring you                   back tomorrow, but I'm not the only                     one who decides. Listen, I think I've                   got something else for you. I know a                    guy at the Mayflower corporation and                    they need someone to watch over one of                  their department stores.                               
+0) 74) dialog: Hey! I'm just trying to help here. I                    know you're over qualified for that                     position but it's a good opportunity                    for you for the time being...until the                  situation here quiets down. Also the                    money is not that bad.                                  Ben is having a hard time to contain his anger.
+0) 75) dialog: You need the money, Ben. You're in the                  middle of a divorce and you've got                      child support to cover. If you want to                  see your kids, you've got to get a                      job, any job.                                           Deep inside, Ben knows Larry's right.
+0) 79) dialog: Do you know the Mayflower on West 38th                    Street?                                                  
+0) 81) dialog: Yes, their night watchman hasn't shown                    up for work in several days. They need                    someone right away. Take it, relax,                       and we will talk about your situation                     again in a couple months.                                
+0) 83) dialog: I didn't.                                                
+10) 60) dialog: What is it?
+10) 62) text: Larry exits the bathroom. The police inspector in the liv room holds a picture frame in his hands. He turns towards
+10) 66) dialog: The water has obliterated most of the marks. No trace of struggle or broken entry, the entrance door was locked.
+10) 71) dialog: The person who did this must have had                    the keys to her apartment, or                            otherwise it was somebody she knew...                   
+10) 73) dialog: Listen, so far, his statement is                         pretty consistent with the facts... We checked it out, he did place a call from work at 12:30, and the woman's                      downstairs neighbors claim they started noticing the water leakage at around two in the morning. The daytime security guard, Lorenzo Sappeli, confirms he came on after Ben's shift at seven a.m. The only strange thing, and it may just be a coincidence, is that Ben told Sappeli that he had decided to quit his job, as if he was planning to go away somewhere... Did he mention anything about it to you?
+10) 75) dialog: I figure we'll let him go. At this                       point we haven't got any real reason                     to keep him here. And, I think he's                      had his share for the day.                              
+10) 77) dialog: Listen, where we stand now, we got                       nothing, not a single clue. I'm sure                     he can help us.                                         
+10) 82) dialog: He's still the best one I know, even if he's one of the suspects. Amy comes closer to the two-way mirror. She looks at her husband on the other side. He seems overcome with grief a confusion. She can see the distress in his eyes.
+10) 83) dialog: Try to keep an eye on him.
+16) 22) dialog: Come on, Ben... For Christ's sake! What are you doing?
+16) 24) dialog: How am I supposed to know that?!
+16) 26) dialog: I've got others things to do. I can't go to City Hall today. I've -
+16) 28) dialog: Ben, for god's sake, what are you trying to prove?
+16) 30) dialog: You know you're a real pain in the ass.
+17) 0) text: Under the pouring rain, the police patrol cars come and g front of the police station. A bit further away we recognize Ben's Oldsmobile, parked adjacent street. Ben is waiting inside. A man approaches, knocks on the car window and enters the vehicle. It's LARRY- The rainwater drips down his raincoat. Under his arm he h file of documents, wrapped in a plastic bag.
+17) 1) dialog: This ought to make you happy...                          (handing him the file)                               Anna Esseker...                                         
+17) 5) dialog: I wasn't quite sure what you needed,                    so I got all of her medical records.                   
+17) 8) dialog: Everyone's real edgy up there. You're                   still a fuckin' murder suspect.                         People are wondering why I let you                      out. You have to tell me more. What                     does the history of the Mayflower have                  to do with the death of your sister?                   
+17) 10) text: Larry notices the broken rear-view mirror-
+17) 11) dialog: What happened? Did you have an                          accident?                                              
+17) 14) dialog: No, you were wrong about that, they                     had nothing. All the medical records                    from St. John's Hospital are still up                   there with the unclassified cases.                     
+17) 16) dialog: She was a patient at St. John's in the psych ward run by a Dr. Kane, between March and September 1952. She was only twelve years old when she died...                      
+17) 22) dialog: When the nurses went on their rounds, first thing on the morning of October 6th, they discovered that all the patients had left their rooms during the night and gathered in the main room. All of them were dead, including the girl. Apparently, they had killed one another... A slaughter house... After that they shut down the place. Nobody ever found out what really happened.
+17) 24) dialog: He was arrested. They found him dead on the first day of his hearing. He had slit his wrists with a piece of his cell mirror!

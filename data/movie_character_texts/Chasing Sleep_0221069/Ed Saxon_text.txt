@@ -1,0 +1,540 @@
+0) 0) text: Ed lies awake in bed.  He is sweaty and nervous.  His eye He picks up his bedside clock which is ticking loudly.  I He looks over at the other side of the queen-size bed. It is still made. He picks a long, blonde pillow and examines it curiously. There is a noise outside and Ed gets up to investigate.
+1) 0) text: Ed walks through the dark hallway and into the living roo
+2) 0) text: By the front door, hanging on the wall, is a framed picture of Eve, Ed's wife. Ed passes by it and loo through the window. There is some wind outside, but nothi
+3) 0) text: Ed looks longingly at his reflection. Ed Saxon, 45, is a morbid, insecure man. His frustration with his l his sense of humor with an acerbic bite. His early succes publications of his poetry, has given him a professorship University. He is well-read, intelligent, a bit pompous a occasionally condescending. But mostly, these qualities a and his outward appearance is a little sorrowful. There i unquestionable charm about him, and its effect is evident around him. He searches through the medicine cabinet, which is full of women's items, and takes out a Cosco-sized bot sleeping pills. He reads the back and takes two. He hears something bang against the front door.
+5) 0) text: He looks down by his feet and finds the morning paper, wrapped in blue plastic, lying on the doormat. He and goes back inside.
+6) 0) text: Ed stands helplessly in the empty living room.   Ed's desk sits on one side of the living room, crammed into the corner. He searches quickly through the desk and finds a small address book. He finds a name in t dials the number.
+6) 2) dialog: Susie.  Hi, it's Ed.  I'm sorry I woke you up.
+6) 4) dialog: Eve isn't there, is she?
+6) 6) dialog: No.  She didn't come home after work.
+6) 8) dialog: No.  She was supposed to be home around six.  I cooked he
+6) 10) dialog: I don't think so.  Do you?
+6) 12) dialog: I'm a little worried.
+6) 14) dialog: No.  Do you think I should?
+6) 16) dialog: You don't think that's overreacting?
+6) 18) dialog: Alright.  But if she comes home later and it turns out to
+6) 20) dialog: Alright. Ed finds the Yellow Pages and finds a page of "non-emergency" numbers. His finger runs down the list: T Disaster, etc. until he comes to Hospitals and then Harbo dials the number.
+6) 22) dialog: Hello.  I wanted to find out if someone had come in.  In
+6) 25) dialog: I wanted to find out if someone had been brought in.
+6) 27) dialog: Saxon.  Eve Saxon.
+6) 29) dialog: She's my wife.
+6) 31) dialog: Are there any other hospitals that I could check?
+6) 33) dialog: OK.  Thank you. He calls Susie back.
+6) 35) dialog: Nothing.
+6) 37) dialog: No.  No.
+6) 39) dialog: Yeah, a while ago.  No one answered the phone there.
+6) 41) dialog: No, she would have called.
+6) 43) dialog: The police?
+6) 45) dialog: It's going a little far, don't you think?
+6) 47) dialog: I guess.  OK.  I'll call you tomorrow.  Sorry to wake you
+7) 0) text: Ed looks around the kitchen, searching lazily for something to eat. He opens a cabinet that is full of fat-free Skin-EE( chocolate-marshmallow cookies. He opens the fridge, looks around and takes the plate of food he made for his wife. He takes off the cell starts to eat. He sits at the table, but after a few more bites, he lose
+8) 0) text: Ed sits at his desk, staring at the phone.  He takes a br
+8) 2) dialog: Hi.  I don't think this is an emergency.
+8) 4) dialog: My wife hasn't come home and, I don't know..I wanted to c
+8) 6) dialog: This morning.  She was supposed to come home from work, b
+8) 8) dialog: Around six.  Usually.
+8) 10) dialog: No.
+8) 12) dialog: I don't think so.  I called the only place I could think
+8) 14) dialog: Yes.  I cooked dinner.
+8) 16) dialog: Do you think that's necessary?  Maybe I should wait.
+8) 18) dialog: Maybe she went somewhere.
+8) 20) dialog: I don't know.  Should I be worried?
+8) 22) dialog: Yes, I'm worried.
+8) 24) dialog: I don't think so.  I think I should wait.
+8) 26) dialog: I hope so.
+8) 28) dialog: A little longer.  I think I may be overreacting.  She mig
+9) 0) text: Ed takes the sleeping pills from the medicine cabinet and
+10) 0) text: Eve has a small room in the house that Ed is cautious about entering. He walks in and looks around, as been in there for a while.
+11) 0) text: The room is painted sky-blue and the ceiling has clouds p On one side of the room, there is a console piano with so On the other side of the room is a small, antique writing desk. Ed sits down and looks at some of t on it. There are a couple of letters and an address book. box containing paper clips, etc. There is an open box of cookies. There is a drawer in the desk which he tries to open, but finds that it is locked. He searches around the key, but can'' find one. He presses a little harder at th it won't budge. He takes a letter opener from a jar on th starts to fidget with it, but he still can't open it. Then he hears some distant voices coming from outside. He looks out the window where he can see the hou There is a light on in the neighbor's window, where the v coming from, and some vague shadows move around inside. E the lights in Eve's room, so that he can see more clearly From the muffled sounds, it is soon clear that the couple Only the woman's voice is clear.
+12) 0) text: Ed picks up the phone and dials 911.
+12) 2) dialog: Hi.  I called before.  I think I was talking to Paul.
+12) 5) dialog: Hi.  I called before.  My wife hasn't come home.
+12) 7) dialog: Yes.
+12) 9) dialog: 4523 East Street.
+12) 11) dialog: Yes.  Thank you.
+12) 14) dialog: Yes.  It was me.  That was fast.
+12) 16) dialog: Come in. Stewart is led a few steps into the living room.  He look
+12) 18) dialog: Yes.
+12) 20) dialog: When she left for work this morning.  She was supposed to
+12) 22) dialog: Yes.  I think so.  I don't know.
+12) 24) dialog: Yes.  Usually.
+12) 26) dialog: She's blonde, straight hair.
+12) 28) dialog: I think it was a red sweater and a dress.
+12) 30) dialog: A Volvo.  Gray.  '85, I think. Stewart lets out a sigh of relief.
+12) 32) dialog: She drove a Volvo.  Drives a Volvo.
+12) 34) dialog: I called the only place I could think of.  And I called t
+12) 36) dialog: Yes. Stewart takes a couple of pills from a bottle and takes t
+12) 38) dialog: 72 hours?
+12) 40) dialog: Yes.  Actually, it's easy to remember.  007 FEC.
+12) 42) dialog: Right.  And FEC, For Every Child.
+12) 44) dialog: Eve.  Eve Saxon.
+12) 46) dialog: Ed.  Saxon.
+12) 48) dialog: Not at all.
+12) 50) dialog: Yes.  Thank you.
+12) 52) dialog: Yes.  Thank you.  I feel much better now.  Thank you for
+12) 54) dialog: Yes.  You too. Ed shuts the door. He's a little wired so he sits at his desk and picks up a pile of his students' pap the one on top, marking it with a red pen as he does. He hears a gurgling noise coming quietly from the bathroo
+14) 0) text: When Ed comes out to answer the door, it is now bright da The sun is streaming in through the windows. Through the washed-out sunlight outside his window, Ed ca car parked in front of his house.  Someone knocks again and Ed answers the door. As he does, he picks up the mail that has been dropped th in the door. DETECTIVE DERM, 46, stands outside in plain clothes. Derm is, above all, a nice man. Experience has g knowing stare, but he is affable, not suspicious. He is c professional and genuinely concerned.
+14) 1) dialog: Hello.
+14) 3) dialog: Yes.
+14) 5) dialog: I wasn't asleep.
+14) 7) dialog: What time is it?
+14) 9) dialog: 3:30?  Maybe I did fall asleep.  Damn.
+14) 11) dialog: Yes.
+14) 13) dialog: Running?
+14) 15) dialog: No.
+14) 17) dialog: I don't know.  I haven't called.
+14) 19) dialog: Sure. Ed picks up the phone and dials from memory.
+14) 23) dialog: My God.
+14) 25) dialog: No.
+14) 27) dialog: I must have been asleep.
+14) 29) dialog: I was up late last night.  
+14) 31) dialog: Alright. Ed pushes the button on the machine. The first message is from Eve's work.
+14) 33) dialog: That's the school where Eve works.  She's a piano teacher Then there's a message for Ed.
+14) 35) dialog: Damn.
+14) 37) dialog: A professor at the University. The next message is Derm.
+14) 40) dialog: Sure. Ed goes into the -
+16) 0) text: When he comes back, he sees Derm casually looking over the woman's magazines on the coffee table. D filled-in New York Times Sunday Crossword and looks it ov
+16) 2) dialog: Yes.
+16) 7) dialog: Yes.
+16) 9) dialog: No, but they all have my number. The next message is from Susie.
+16) 11) dialog: I thought she might have gone over there last night.  Exc The next message is Detective Derm again and it plays beh
+16) 12) dialog: Hi, Mrs Mastrioni?
+16) 14) dialog: This is Ed Saxon.
+16) 16) dialog: I guess not.
+16) 18) dialog: Yes, I know.  It's a personal matter.
+16) 20) dialog: That's right.
+16) 22) dialog: Yes, tomorrow.
+16) 24) dialog: Or I'll call, yes.  Hello?  Hello? Ed hangs up, having been hung up on.  He turns around to The next message is from George Simian, a man who works with Eve. His cautious voice makes it known tha that he is calling. Ed pays special attention to this cal
+16) 27) dialog: Some guy she worked with.  P.E. teacher, I think.
+16) 29) dialog: Yes.
+16) 31) dialog: Certainly. Ed heads into -
+18) 3) dialog: Yes.
+18) 5) dialog: Really?
+18) 7) dialog: I suppose.
+18) 9) dialog: Yes, thank you. Derm leaves.  Ed shuts the door and locks it. The phone rings and Ed picks it up.
+18) 10) dialog: Hello.
+18) 12) dialog: Yes?
+18) 14) dialog: Oh, yes.  Hi.
+18) 16) dialog: No.  It's alright.
+18) 18) dialog: No, well, a little.
+18) 20) dialog: No, I don't think so.
+18) 22) dialog: No, but...
+18) 24) dialog: Really, I don't know if it's a good idea.
+18) 26) dialog: No, don't be.  It's just that I don't feel too well.
+18) 28) dialog: Really?
+18) 30) dialog: You're kidding.
+18) 32) dialog: Yeah?  OK.
+18) 34) dialog: 4523 East Street.
+18) 36) dialog: 
+18) 39) dialog: No.  I eat anything.
+20) 0) text: Ed takes off his clothes and walks back into the -
+21) 1) dialog: Eve?
+23) 0) text: He comes back into the bathroom.  The music has stopped a The water is about ankle-deep.
+23) 1) dialog: Damn. Ed reaches into the drain and pulls out a clump of Eve's hair. He throws it into the toilet and then gets shower. The drain is obviously still clogged up. He is up in soapy water.
+24) 0) text: As Ed comes out of the shower, he sees that it is complet
+24) 1) dialog: Hold on!  One second! Ed grabs Eve's robe from the back of the bathroom door.
+25) 0) text: Ed answers the door. SADIE, 18, is the kind of girl who always has something to say in class, who has always done her homewo definite ideas about her future and the future of the pla innocent and naГЇve, nice and well-mannered. But also pus manipulative, used to getting her way.
+25) 2) dialog: Oh, hi.
+25) 4) dialog: I didn't think you'd be here so fast.
+25) 6) dialog: Oh.  I seem to be having a little trouble with time.
+25) 8) dialog: Come in.
+25) 10) dialog: It's nice.  Kindness.  Very refreshing.
+25) 12) dialog: I better get some clothes on.  Make yourself at home.
+26) 0) text: Ed gets dressed. As he does, he notices a pile of Eve's clothes on the floor. He picks them up and puts closet, on top of a pile of Eve's dirty laundry.
+27) 0) text: When Ed comes out, Sadie has put the soup in a bowl and s
+27) 2) dialog: Thank you. Ed sits down and tastes the soup.
+27) 3) dialog: It's good.
+27) 5) dialog: No.  I could use the company.  Like I said, I haven't bee Sadie notices the pile of papers on Ed's desk.
+27) 7) dialog: Some of them.
+27) 9) dialog: Sure. Sadie looks through the papers.  She finds hers marked wi
+27) 11) dialog: What is it?
+27) 13) dialog: Let me see. Ed looks over the paper for a second.  He takes a pen and
+27) 14) dialog: I was in a bad mood when I graded these.
+27) 16) dialog: It's just a grade.
+27) 18) dialog: Sorry.  I didn't mean to.
+27) 20) dialog: How long has that been?
+27) 22) dialog: You're kidding.
+27) 24) dialog: What did you think?
+27) 26) dialog: Which one?
+27) 28) dialog: My wife like that poem.
+27) 30) dialog: Yes.
+27) 32) dialog: She's at her mother's.  She's gone for a while.
+27) 35) dialog: Sure.  Go ahead. Sadie takes her purse and goes into the bathroom.  Ed fin
+27) 36) dialog: Hello.
+27) 38) dialog: Yes.
+27) 40) dialog: Yes.
+27) 42) dialog: Why do you want to talk to Eve?
+27) 44) dialog: Excuse me?
+27) 46) dialog: What are you talking about?
+27) 48) dialog: Maybe it's because you were fucking her.
+27) 50) dialog: Look, she disappeared.  I haven't seen her.  Why do you t
+29) 0) text: Ed walks over to the bathroom door.
+29) 1) dialog: Sadie? There is no answer.  He knocks on the door.
+29) 2) dialog: Sadie?  Is everything alright? There is still no answer.
+29) 3) dialog: I'm coming in.  OK?
+30) 0) text: Ed opens the door. Sadie is lying on the floor, passed out. Her pants are around her knees, as if she pas standing up from the toilet. Her nose is bleeding, like she might have hit it on the w The air from the open door wakes her up, but she is in a
+30) 1) dialog: Are you alright?  My God.  What happened? Ed comes over to her and lifts her head.  She stares at h
+30) 2) dialog: Can you stand?  Do you understand me?  I'll help you to t Sadie notices her pants are down.
+30) 4) dialog: I'll wait outside.
+31) 0) text: Ed waits outside and, a second later, Sadie comes out, still reeling, clutching her purse. She leans leads her into the bedroom.
+32) 0) text: Sadie lies down on the bed.
+32) 1) dialog: You want some water.
+33) 0) text: He takes a glass from the cupboard and fills it up. He stops, having noticed something on the glass. He h up to the light.  Eve's lipstick is clearly marked on the rim. He puts that glass down and fills another.
+34) 0) text: When he comes back, he finds Sadie digging through her pu Then she sits on the bed and drinks a little water.  
+34) 2) dialog: No, don't be.
+34) 4) dialog: Does it hurt?
+34) 6) dialog: Maybe you hit it when you fell.
+34) 8) dialog: Sometimes you can hear the neighbors.
+34) 10) dialog: Just relax.
+34) 12) dialog: I can't let you leave like this.
+34) 14) dialog: I'll get you a towel. Ed leaves and then comes back with a wet towel. He starts to wipe the blood off her nose.
+34) 16) dialog: Do you want me to drive you home?
+34) 18) dialog: Maybe you want me to call your roommate.
+34) 20) dialog: Your friends, then.
+34) 22) dialog: You get along with me.
+34) 24) dialog: You can borrow this, if you want.  It's my wife's.
+34) 26) dialog: No.
+34) 29) dialog: That's my mother.  That picture is older than it looks.
+34) 31) dialog: She was young when that was taken.  She died a few years
+34) 33) dialog: Cancer.  It was quite an ordeal.  She died very slowly.
+34) 35) dialog: It's getting late.
+35) 0) text: Ed walks her to the door.
+35) 2) dialog: Don't be sorry.  I'm glad you came.
+35) 4) dialog: Tomorrow?
+35) 6) dialog: Oh, yes.  I'll be there.
+36) 0) text: Ed looks at the tub in the bathroom which is full of wate He sticks his finger deep into the drain, trying to free whatever is in there. There is another tuft of ha he throws it into the toilet. The gurgling sound that he heard before has come back, re
+37) 0) text: Ed follows the gurgling sounds into the basement. He takes a flashlight from behind the basement door and shines it at the pipes that lead from the bathtu can hear the gurgling sound running through them. It soun ate something they can't digest. He reaches up and touche seems to be leaking a little, or maybe it is condensation Ed traces the noise to a larger sewage pipe that runs down into the basement floor. He watches the pi slowly, his attention is drawn to the shadow next to the As he stares intently into the darkness of the shadow, a figure begins to emerge in the distance. The da to change into a long hallway. A small figure is walking his footsteps echo in the distance. Ed watches, mesmerized. The basement fades into the blackness, and now, the hallw
+38) 2) dialog: Yes.
+38) 4) dialog: I see.  Can she understand me?
+38) 6) dialog: Whatever you think is best. The doctor nods, then walks into the hospital room where, we see now, Ed's MOTHER is lying in a hospita up to a digital IV. She is old, but looks older - she's b chemotherapy and radiation and they have all taken their She stares at Ed with confused and desperate eyes.  It is The doctor, at the door, has a few words with the NURSE, Ed sits next to his mother and takes her hand.  She stare The nurse comes in and pushes a button on the digital IV. Ed watches the LED numbers on the digital IV nurse smiles an attempt at comfort, then leaves the room. Mother reacts to the higher dosage of morphine. Her eyes get wider and more delirious. She sits up a litt her muscles. She lets go of Ed's hand and starts moving h down. She starts shouting something.  At first, it is completel
+39) 0) text: As Ed opens the basement door, he sees that it is bright
+40) 0) text: Ed opens the front door and before he can react, a fist h Ed falls to the ground, next to a pile of letters that ha GEORGE SIMIAN walks in, wearing a track suit. George, 35, is a stronger man than Ed. He is better looki at least, younger. He has a genuine honesty about him, li It is this boyish quality that makes his anger seem uncon
+40) 7) dialog: Don't hit me again.
+40) 10) dialog: What did you think would happen?  Nothing?
+40) 12) dialog: I did what I always do. I woke up, went to my shitty job, came home and cooked dinner for my wife, who was too up and down on your bedsprings to cook it herself. Not ex had planned for my life. The same boring shit as always. leave?
+40) 14) dialog: What? Am I supposed to feel sorry for you now? Well, I won't. People think they can just carry on. They don't th might be consequences to their actions. You won't find sy Why don't you just leave?
+40) 16) dialog: I didn't do anything.  She didn't come home after work. George gets up and starts to leave.
+40) 17) dialog: Don't come back here again. George stops when he hears this and turns towards Ed with and angry look on his face. He grabs Ed's him up from the couch and slugs him hard across the head. the floor, stunned and not moving.
+41) 0) text: He looks in the mirror. His eye is swelling up already and his lip is bruised. He washes his lip off, an towel from the bathroom.
+43) 1) dialog: Hello.  Detective?
+43) 3) dialog: Yes.
+43) 5) dialog: You found her.
+43) 7) dialog: Detective.  George Simian was just over here.  He hit me.
+43) 9) dialog: I think so.
+43) 11) dialog: I don't need an ambulance.
+43) 13) dialog: 
+45) 0) text: He hurries to the edge of the couch with a sponge and cle
+47) 0) text: Much of the ice has melted and the towel it was wrapped i
+48) 0) text: He takes the towel into the bathroom and rings it out. Then he looks over at the toilet. The finger is still there, floating like a cigarette butt. The water is blood, the tissue is gone, but the finger floats there de He flushes the toilet again, but this time stays to watch There is a knock on the front door. Ed takes a bunch of toilet paper from the roll and tosses it over the finger. He flushes again, but the filled up yet and, if anything, this makes it longer unti up again. There is another impatient knock at the door.
+48) 1) dialog: One second! Ed sits there waiting, listening to the toilet tank filli The knocking outside is becoming more impatient. The tank finally fills. Ed flushes and watches. This time the paper he threw in clogs the toilet and the fills up with water. Ed reaches behind the toilet and turns off the water, sto He looks in the toilet and can't see the finger through t There is another knock on the door.  Ed closes the toilet lid.
+49) 0) text: Ed shuts the bathroom door firmly, takes a breath, and hu
+50) 0) text: Ed answers the door.  Derm comes in with two assistants,
+50) 2) dialog: I was just putting some ice on it.
+50) 4) dialog: It's not necessary.
+50) 6) dialog: Hi.
+50) 9) dialog: Thanks.
+50) 11) dialog: Yes, he did.  He came barreling in here and hit me.  Seve
+50) 13) dialog: Because he's a fucking asshole.
+50) 15) dialog: What kind of history?
+50) 17) dialog: You think he did something to Eve?
+50) 19) dialog: But Eve's car.  You said you found her car near his house
+50) 21) dialog: I guess I misunderstood.
+50) 23) dialog: Fine. Derm turns to Snyder, who has heard this conversation, an
+50) 25) dialog: Yes.
+50) 28) dialog: With George Simian?
+50) 30) dialog: The P.E. teacher.  I guess I should have known.
+50) 32) dialog: A year?
+50) 34) dialog: I don't know. Normal relationship. We get on each other's nerves, have sex a few times a year, order pizza We've been married for ten years. It doesn't stay rosy fo it isn't paradise, but that doesn't mean that I don't lov
+50) 36) dialog: No.
+50) 38) dialog: No.  She isn't the type.
+50) 40) dialog: Yes.  Please.
+50) 42) dialog: My God.
+50) 44) dialog: I understand.
+50) 46) dialog: Of course.
+50) 48) dialog: I'm sure I can find whatever it is that you want.
+50) 50) dialog: Alright.
+50) 52) dialog: The bedroom.
+50) 54) dialog: Right.  I'll show you. Ed stands up and leads them into the bedroom.
+51) 0) text: They pass by the bathroom. The gurgling noises from the plumbing echo around the hallway, and while the seem to pay it any mind, Ed can definitely hear it.
+52) 0) text: Ed looks around the bedroom quickly before they go in.
+52) 1) dialog: Here you go.  It's sort of a mess.
+52) 3) dialog: Yes.  Sure.  This way. Ed leads Derm to Eve's room, leaving the two assistants i
+53) 0) text: Ed goes over to Eve's writing desk and looks over the pap
+53) 2) dialog: You like it?
+53) 4) dialog: I guess it is.  I always through it was more of a conserv
+53) 6) dialog: Right. She plays in here sometimes. It's nice. We always wanted to fix up the whole house, but, this is the got to.
+53) 8) dialog: Yeah, I don't know what happened.  Anyway, we share a cre
+53) 10) dialog: I think she keeps the receipts in here, but I don't have Derm looks at the lock.
+53) 13) dialog: I could have done it if I wanted to break it.
+53) 15) dialog: She won't.  I promise. Ed sits back down and searches through the drawer.  He fi
+53) 19) dialog: No.
+53) 21) dialog: Yes, I know. A student. Detective, this is going to sound awkward, I guess, but a student of mine came to the yesterday, after you were here. She was nervous, I suppos bloody nose.
+53) 23) dialog: I don't know, but she seemed nervous.
+53) 25) dialog: I suppose it is.  I gave her one of my wife's sweaters to
+53) 27) dialog: I don't know.
+53) 29) dialog: Sadie.  Sadie Crumb. Derm finds a small, printed name-tag reading Sadie Crumb sewn into the collar. Derm shows it to Mazure indicates for him to go back to the bedroom. Derm shows the label to Ed.
+53) 31) dialog: I don't think so.  Maybe. Ed gets up and walks into the -
+54) 2) dialog: Sure.  Here. He hands him the phone.  Derm dials the number.
+54) 3) dialog: I didn't tell her about my wife.  I didn't see any reason Derm reaches into his pocket and pulls out a roll of Tums. He takes a couple and chews them and it obv bad taste in his mouth.
+54) 5) dialog: Sure. Ed walks into the -
+55) 0) text: He passes by the bathroom and stops by the bedroom door. He looks into the bedroom where the officer searching through his stuff. They find a copy of Hustler they chuckle about it, before they notice Ed watching the As he watches, he can hear Derm talking to Sadie.
+55) 2) text: Hi. May I speak to Sadie Crumb, please? This is Detective Derm of the Seattle Police Department. Can I as questions? The officers turn and stare at Ed until he leaves.
+56) 0) text: Ed takes a glass from the cupboard. He takes it over to the sink and fills it with water. The tap makes e that he can't hear anything else.
+57) 0) text: As Ed passes the bathroom door, the gurgling noises from the plumbing get louder. He makes sure the do shot and then brings the glass of water to Derm.
+58) 2) dialog: Well?
+58) 4) dialog: Why would she do that?
+58) 6) dialog: I see. Derm sees an open box of Skin-EE( cookies.
+58) 8) dialog: I know.  I hate them.  Sometimes I think she eats them ju
+59) 2) dialog: No.  I guess I didn't.
+59) 4) dialog: I don't think it's necessary.
+59) 6) dialog: It's just that, I don't want them to know anything about
+60) 6) dialog: I didn't know.
+60) 8) dialog: Yes.  Can I look at that?
+61) 0) text: Ed flips through the last pages of the diary. He reads for a minute. Some distant noises are coming from t house. While we can't hear exactly what is being said, it a man is saying something funny and a woman is laughing h Ed reads for a minute until, astonished, he puts it down
+61) 1) dialog: I guess you never really know anyone.
+61) 3) dialog: No.
+61) 6) dialog: Excuse me?
+61) 8) dialog: No.  The toilet is stuffed up.  Actually.  Do you mind le
+61) 10) dialog: The press?
+61) 12) dialog: I don't know if I'm comfortable with that.
+61) 14) dialog: I want to be helpful, but I really don't see how, if you think she was kidnapped, I don't see how it helps you around our things.
+61) 16) dialog: I just don't see how it helps.
+61) 18) dialog: I understand.
+61) 20) dialog: I don't want to get in the way. I just would like some time alone. You can comes back tomorrow, but, please. I'm know it might seem irrational, but I haven't slept in a l this is all extremely overwhelming. Please. I need to be
+61) 22) dialog: Sure.  Here.  Take them all. The receipts are on the desk in front of him and he hands Derm reaches out for the diary.
+61) 23) dialog: I'd like to keep this.
+61) 25) dialog: I can give it to you tomorrow, if you still want it. Ed leaves the diary on Eve's writing table and walks the
+62) 2) dialog: Yes.  It broke when I fell on it.
+62) 4) dialog: It hasn't rung. Derm looks at the phone and sees the ringer is turned off
+62) 6) dialog: Oh.  I must have turned it off.
+62) 10) dialog: Yes.  I thought I was.  OK.  Thank you.
+62) 12) dialog: Yes.  Thank you. Derm and the officers leave. Ed lets out a sigh of relief.  He touches his forehead an He goes back into the bathroom.
+63) 0) text: He opens the medicine cabinet and searches through the plethora of over-the-counter medicine crowdin He takes a bottle of Midol, or some other feminine pain-k takes a few of them and chases them down with a handful o Then he turns to the toilet, lifts the lid and looks at t He rolls up his sleeve and sticks his hand in the bowl. The phone rings.  He gives up searching and, with some we
+64) 0) text: Ed picks up the phone.
+64) 1) dialog: Hello.
+64) 3) dialog: Yes?
+64) 5) dialog: Yes.  I know.  I'm just having some personal problems.
+64) 7) dialog: The Dean?
+64) 9) dialog: No.  What does he want to see me about?
+64) 11) dialog: Is it about me missing classes?
+64) 13) dialog: What's that supposed to mean?
+64) 15) dialog: What kind of bullshit is that?
+64) 17) dialog: Am I being fired?  Is that it?
+64) 19) dialog: Well, I can't see him.
+64) 21) dialog: That's right.  Yes.
+64) 23) dialog: Yes it is too bad.  Because I know what you're trying to
+64) 25) dialog: You know what?  Why don't you tell the Dean to go fuck hi
+64) 27) dialog: And you go fuck yourself too.
+64) 29) dialog: Fuck you! Ed slams the phone down.
+65) 0) text: Ed takes the bottle of Midol from the medicine cabinet an Then he notices a trail of pink water leading from the to He follows the trail.
+66) 0) text: The trail leads up to the pinkie finger. Ed watches while the finger moves, inchworm-like, across the Eve's room, leaving a wet trail behind it. Ed watches for a second while he decides what to do. He quickly grabs the finger and takes it to the kitchen sink. He drops it in the sink, pushes it down the flicks the garbage disposal on. He turns the water on and running until it sounds like there is nothing left of the When he turns it off, he sticks his hand in, searching fo He takes the sponge and wets it.
+68) 0) text: He looks at the toilet, which is still stuffed up.
+69) 0) text: Ed searches around the basement for a plunger.  The basem He finds a plunger among some other tools and starts back upstairs, but on his way upstairs, he finds t puddle of water on the floor. He traces the source of the pipe that was only moist before. It is now dripping slowl pool of dirty water is collecting in the shallow recess o floor. Ed stares into the murky, black pool. There is a knock on the door upstairs and Ed turns to ans
+70) 0) text: Ed answers the door and sees that it is now dark outside. GEOFFREY COSTAS stands outside. Geoffrey, 54, is a wise, patient man. He is formal and calm in his manner, qualities belie a warm emotional vulnerability. Physicall small or weak. One gets the impression that he wasn't alw
+70) 2) dialog: Yes.
+70) 4) dialog: I'm not interested.
+70) 7) dialog: I'm fine.  I don't need a doctor. He tries to hand the card back.
+70) 9) dialog: This is a personal visit?  I don't understand.
+70) 11) dialog: What kind of assistance?
+70) 13) dialog: Why would I want to cry on your shoulder?
+70) 15) dialog: No.  I don't think so.
+70) 17) dialog: Actually, there is something you can help me with.  I've
+70) 19) dialog: Is there something you can give me?
+70) 21) dialog: You're a doctor, aren't you?
+70) 23) dialog: I can't seem to find anything strong enough.
+70) 25) dialog: Yes.  I can't sleep.  It makes me anxious.  Or maybe I ca
+70) 27) dialog: A long time.
+70) 29) dialog: Oh, yes.
+70) 31) dialog: Maybe I do. But I don't seem to get the benefits. I never feel rested. There just doesn't seem to be the time anymore. I'm always two steps behind. I have to stop the longer I stay awake, the more my thoughts become frantic, If I don't get some sleep soon, nothing is going to make
+70) 33) dialog: Yes.  Come in. Geoffrey comes in and places his briefcase on the table i
+70) 35) dialog: Can you help me?
+70) 37) dialog: Yes, through work. Geoffrey takes a prescription pad from his briefcase and
+70) 39) dialog: Will it help me sleep?
+70) 41) dialog: Yes.  Thank you. Geoffrey shuts his briefcase and starts to leave.
+70) 43) dialog: Tomorrow?
+70) 45) dialog: I don't know.
+70) 47) dialog: Tomorrow. Ed shuts the door behind Geoffrey.
+71) 0) text: Ed works the plunger in the toilet. The water is still pink from the finger, but also might be pink from t paper that is now broken up and mixed in with the water. He plunges the toilet a few more times and then stops to see if it is working. The water slowly goes down behind the toilet and turns the water back on. He flushes seems to be working again, albeit weakly. He sits on the edge of the bathtub and takes a breath. The water in the tub hasn't gone down, so he take and starts to work it over the drain. After a minute, he sees that it isn't working. He reaches into the drain and pulls out a huge clump of s hair. It is repulsive to Ed. He throws it into the toilet The water in the bathtub still hasn't gone down.
+73) 0) text: He reads the back of the container quickly, then pours th He watches it for a second, waiting for it to go down. Slowly, then softly, the piano can be heard playing in th Ed listens to it before following it down the hallway.
+75) 0) text: Ed comes in and looks around the room.  There is no one p Ed's attention turns to the diary, which is still sitting on the desk where he left it. Ed sits in th starts paging through Eve's diary. The piano continues pl We hear Eve's voice as it must have been when she was wri
+75) 2) text: More than three weeks late. Damn. I'm so stupid. I haven't told George because I'm sure he would use this as pressure me to leave Ed. And how can I tell Ed. There's n be the father. We haven't had sex in months. He would kno Ed flips back a few pages. As he does, the camera starts to travel around the room, passing the piano, and then a few pictures from then some souvenirs on a shelf.
+75) 4) text: Saw a movie last night with George. It was awful; just the kind of movie Ed hates. I wanted to tell him about it couldn't. I told him I was at Susie's. George loved it, o think he likes every movie. Still, it was nice to go out that. It was fun.
+76) 0) text: Now the camera has turned to the empty hallway.  It slowl
+76) 2) text: Ed came home in a shitty mood and started picking a fight with me about a coffee cup I broke last week. It wa thing I needed, today especially. Sometimes I fucking hat be such a shit.
+77) 2) text: I can't believe what a jock George is. I knew he worked out, but he really takes car of himself. After we had sex embarrassed to let him see me naked. How could I have got I'm going back to the gym tomorrow. I've really let mysel Maybe I'll get him a softball bat for his birthday next w
+78) 2) text: Ed doesn't sleep anymore. He's beginning to scare me. He takes all these pills to help him sleep, but they only worse. And he hates me. I can see it in his eyes. He blam everything that went wrong in his life. Maybe he's right. my fault. I feel so guilty about George that I can't argu anymore. I can't keep this up much longer. Fuck it. I'm g him about George tomorrow. He knows anyway. He must know. acting so weird. Poor Ed. He used to have so much ambitio talented. I just wish things had turned out better. The camera turns toward the bathtub, and focuses slowly in on the drain. A few bubbles pop out fro water and the water starts to drain out. As the camera do the drain, the last of the murky water disappears. Ed, now standing in the bathroom, strikes a match and holds it up to the diary until the corner final fire. He fans out the pages so that it will catch more.  When he can't hold it anymore, he drops it into the bathtub and watches it burn. He watches it until itself out, burning into a pile of thick, black ashes.
+79) 0) text: Ed looks up at the smoke alarm.  He tries to pull it down Ed grabs a chair from the living room and stands on it so that he can reach the alarm. He pulls the cover and then the battery out and the alarm is finally silence Then he hears voices coming from outside the front door. He approaches the front door cautiously, then puts his ear up to the door and listens. The voices are m whispered, but Ed can still hear what is being said, alth hard to tell who is talking.
+79) 12) text: God, you are being such an asshole. Ed opens the door quickly.
+80) 0) text: Sadie and Harvey freeze like caught children. HARVEY, 19, looks younger than his is; his facial hair isn't capable yet of filling out his meager g seems hurt, like a spoiled child who hasn't gotten his wa
+80) 1) dialog: What's going on?
+80) 6) dialog: Excuse me?
+80) 13) dialog: You little shit. Ed makes a move toward Harvey, but Harvey backs away quic
+81) 2) dialog: He followed you?
+81) 4) dialog: Somebody hit me.
+81) 6) dialog: I'm fine.
+81) 8) dialog: I really don't want to get into it.
+81) 10) dialog: What did they ask you?
+81) 12) dialog: But nothing happened.
+81) 14) dialog: They found your sweater.  It has blood all over it.
+81) 16) dialog: You left it under the bed.
+81) 18) dialog: What if my wife had found it?
+81) 20) dialog: No.  Look, Sadie.  I don't want you to get the wrong idea
+81) 22) dialog: Actually, I'm glad you're here.  Can you do me a favor?
+81) 24) dialog: I have to get a prescription filled.
+81) 26) dialog: I'd go myself, but I'm expecting a phone call.
+81) 28) dialog: There's a twenty-four pharmacy on Market.
+81) 30) dialog: I'll give you my credit card. Ed finds his wallet and hands her the card.
+81) 32) dialog: Thank you. Sadie skips out the door and Ed shuts it behind her.
+82) 0) text: Ed turns on the shower, washing the ashes down the drain. After he's watched them go down, he takes a sponge and cleans off the burnt mark in the tub as best h turns the shower on, rinsing it out. He turns the shower off and hears the phone is ringing.
+83) 0) text: Ed picks up the phone.
+83) 2) dialog: Yes, hi.
+83) 4) dialog: I understand.
+83) 6) dialog: At the school?
+83) 8) dialog: I see.
+83) 10) dialog: Yes.  Thank you.  Did he say anything about Eve?
+83) 12) dialog: I will.  Thank you.
+84) 0) text: Ed takes a few steps into Eve's room.  He traces the nois The light is on in the neighbor's window, and there are some vague shadows moving around on the closed the noises get louder, it soon becomes clear that the nei having sex. Ed peers out at the light in the window, listening to the woman's increasing moans. The woman seem some sort of painful, orgasmic delight. In other words, i sounds like she is having a good time, but there should b suspicion that not all is right.
+84) 2) text: Oh.  Oh.  Oh!  Oh!  OH!  OH!  NO!  NO!  NO! Ed backs slowly away from the window.  He hears someone k
+85) 0) text: Ed opens the door and Sadie comes in holding a colorful p
+85) 1) dialog: Thank you. Ed takes the bag from Sadie and goes into the kitchen.
+86) 0) text: Sadie follows him in. Ed opens the pills quickly and swallows three of them wit
+86) 2) dialog: They're sleeping pills.  I've been having trouble sleepin
+86) 4) dialog: I am anxious.  Yes. Sadie takes some other stuff out of the bag. One of the items is an individually wrapped Skin-EE( fat-free chocolate, chocolate chip.
+86) 6) dialog: You put it all on my credit card, right?
+86) 8) dialog: Why not?
+86) 10) dialog: Damn.  Well, I'll pay you back.
+86) 12) dialog: No, those pills are expensive.  And my insurance will cov
+86) 14) dialog: Are you sure?
+86) 17) dialog: No.  I don't seem to feel anything.
+86) 20) dialog: I've never been hit before.
+86) 22) dialog: It's not so bad, really. It's humbling, but I like the effect it seems to have on people. It seems to make them compassionate. There's a competitive market for suffering It's difficult to stand out from the handicapped and the the politically oppressed. Sometimes a little advertising people that you're a human being.
+86) 24) dialog: Sadie.
+86) 26) dialog: What?  You think I just made it up?
+86) 28) dialog: I'm not one of those people.
+86) 30) dialog: I act weird?
+86) 32) dialog: You don't want to get involved with my problems.
+86) 34) dialog: Believe me, you don't.
+86) 36) dialog: Would you like a drink?  I'm going to have one. 1tt1He finds a bottle of wine.
+86) 38) dialog: I need all the help I can get.
+86) 40) dialog: It's just wine. I'll only have a glass. 1tt1He offers her some and she nods. He pours her a glass her glass into the living room. Ed downs his glass of win it quickly before following her.
+87) 2) dialog: No.  I don't write anymore.
+87) 4) dialog: I just don't have the time.  I have to work all day.  Tim
+87) 6) dialog: Not as much as there used to be.
+87) 8) dialog: Yes.  Before I had to work there was plenty of time.
+87) 10) dialog: Sure, but it didn't pay very much. I had a lot of debts from school that needed to be paid off. And then, credit then I got married, bought a house. Life comes with all t And poetry just doesn't pay. I thought working at the Uni at least give me summers off.
+87) 12) dialog: Not really.  No. 1tt1There is a knock on the door.  The idea that someone 1tt1Ed freezes for what seems like a long time; long enou
+87) 13) dialog: I better see who that is.
+87) 16) dialog: Oh, hi Susie. 1tt1She is about to walk in, when Ed blocks her way.  She
+87) 17) dialog: Eve's not here.
+87) 19) dialog: No, she didn't.
+88) 0) text: 1tt1Ed, rather than let her in, pushes her outside and sh
+88) 1) dialog: No.  I'm busy right now.  I called the police.
+88) 3) dialog: They're working on it.  You can call them if you want. 1tt1Ed finds Derm's card in his pocket and hands it to he
+88) 5) dialog: Of course I'm worried. I'm just working right now. This girl is one of my students. She wanted some help on an as doesn't know anything about Eve being missing.
+88) 7) dialog: George Simian hit me.
+88) 9) dialog: You know him.  It figures. 1tt1Susie starts crying.  Ed stares at her helplessly, th
+88) 12) dialog: It's late.  I just took some sleeping pills.  I haven't s
+88) 14) dialog: Good night, Susie. Ed walks back in, leaving Susie standing on the porch.
+89) 0) text: Ed waits by the door until he hears her footsteps walking Sadie stands up, looking nervous.
+89) 2) dialog: 2t2No.  It was a friend of hers.
+89) 4) dialog: 2t2No.  Why?
+89) 6) dialog: 2t2I don't think they're working at all.
+89) 8) dialog: 2t2Yeah, but, please don't go.  Please.  Time has a way o
+89) 10) dialog: 2t2So you'll stay?
+89) 13) dialog: 2t2What?
+89) 15) dialog: 2t2You've done some good work.
+89) 17) dialog: 2t2I told you, I was in a bad mood when I graded that.
+90) 0) text: Sadie turns the lights off and we can only see by the lig Ed lies on the bed and Sadie lies next to him, under the covers. Ed slips his hand under the back of her fiddles with her bra while they kiss. The gurgling sound starts up again, and while Sadie doesn't notice, or doesn't hear it, it becomes incr distracting to Ed. He looks to the bathroom where the noi from.
+92) 0) text: Sadie breaks away from him, sits up and takes off her swe Ed's kisses move around the side of her neck. As he reaches her ear, he looks up and notices Eve's clothes the chair.
+94) 0) text: Ed is trying to concentrate on Sadie, but he notices the And the noise from the bathroom is getting louder. He turns Sadie onto her back, turning himself away from the closet. His kisses run down her chest until her jeans. He unbuttons her jeans and starts to pull them as he goes. Ed has taken her pants off, but his passion and enthusiasm has faded, and he stops and stares off into sp the bathroom. He is spooked.
+94) 2) dialog: 2t2I don't know.  Maybe it's those pills.  I don't know.
+94) 4) dialog: 2t2No.  Please.  Just stop. She keeps trying until Ed is forced to push her away.
+94) 5) dialog: 2t2It's just not working.  OK?
+94) 8) dialog: 2t2No.  Please, don't.  It's my fault.  Please.  Don't go
+94) 10) dialog: 2t2No, it's me.  Please.
+95) 0) text: Ed pours a few more pills into his hand, swallowing them
+96) 0) text: Ed looks at the bathtub, which is full of the murky water. He picks up the plunger, which is still by t starts working it on the drain. More stuff is coming up, making the water darker, but as he relaxes the plunger, the water doesn't anything, the gurgling sound is louder. He works the plunger some more, more vigorously and then, again, relaxes it and watches the drain hopeful gurgling noise seems closer and the water still does not Then he hears something hit the front door.
+97) 0) text: Ed opens the front door and picks up the newspaper which has just been thrown. He puts it with the newspapers, which have piled up in their plastic wraps on
+98) 0) text: He comes back into the bathroom and looks at the bathtub. He puts the plunger over the drain and works it much harder and, this time, after a few seconds, there is in the pipes, as if he hit something. He takes the plunge watches the drain. Suddenly, a large air bubble bursts out of the drain.  He Then, slowly, blood starts to leak into the tub from the Ed is naturally terrified by this.  He watches until it i He puts plunger back on the drain and pumps it a few more frantic times. More blood seeps out of the drain be making the problem worse. He shuts the shower curtain and backs out of the bathroom
+99) 0) text: He spills the pills on the kitchen counter and counts them quickly. There are about ten left. He pours t mouth and swallows the rest of the wine. Then the ticking stops.  Ed looks at a clock on the wall. He hears voices in the other room.
+101) 1) dialog: Hello.
+101) 3) dialog: Yes.
+101) 5) dialog: Yes?
+101) 7) dialog: What is it?
+101) 9) dialog: You found her.
+101) 11) dialog: Her...
+102) 0) text: The noise coming from the bathroom now sounds more human, As Ed walks into the bathroom, he can see that there is something in the bathtub. The shower curtain is behind it, there is some sort of body moving. Ed pulls th back. He reveals a baby, just born, lying in the tub. Mos water has drained and left a dirty ring around the tub. The BABY is a newborn, except that its eyes are maybe larger than they would be. The Baby is also SIX FEE immense frame fills the bathtub. It is naked (it's a boy) Ed watches with amazement. The baby looks incredibly real, except for its size. The stare at each o minute. The baby looks a lot like George Simian. It has h Other than this, it behaves like a baby. It is lying on its back, gurgling peacefully with his feet in t left hand gripping the shower curtain. The baby reaches out for Ed lovingly. Ed backs away. Seeing this, the baby starts crying. Ed, panicking, approaches the baby. It is still crying. Ed reaches out to touch it. He touches its arm an crying starts to subside. The baby moves with typical, qu movements that, because of the baby's size, are almost th Ed puts his hand in the baby's hand. The baby grips it as baby's do, but this baby's hand is about the The baby stops crying and returns to its curious gurgling Ed tries to pull his hand back, but the baby won't let go. The baby, it seems, is incredibly strong. E harder. He still can't get the baby to let go. Ed tries t baby's fingers off, and this time manages to get his hand baby's grip. But as soon as he does, the baby starts crying again. He backs out into the hallway.
+103) 0) text: Ed is in a panic.  The baby's cries echo around him as he
+104) 0) text: Ed finds himself in the kitchen. He looks at his hands which are covered with bloody muck from the tub. He off in the sink. He looks over at the kitchen knife which drying in the dish rack.
+105) 0) text: Ed walks slowly, purposefully to the bathroom.  The cryin
+106) 0) text: He comes into the bathroom, but in the tub, instead of the baby, there is a grown man's body. It is E at himself from under the water. We only see a very tight BATHTUB ED's head and part of his neck. His head is under looks up, unable to move. We then see the reverse shot of this and it is also of Ed, so that Ed is, in effect, looking up at himse cloudy water. The baby cries continue, although the baby is no longer i From Bathtub Ed's point of view, we see the other Ed take Bathtub Ed, who can move his eyes, tries to look to his arm, where the other Ed is cutting. Soon, blood st with the water, diffusing over Bathtub Ed's face. The blood also diffuses over Bathtub Ed's P.O.V., as he looks up at the other Ed cutting him. When is finished cutting, Bathtub Ed sees him put the knife as reach down, off-camera. After a short struggle, the other Bathtub Ed's severed arm and slips it into a garbage bag prepared. The blood from Bathtub Ed's cut fills the water with dark The red dissolves into a pool of blood that is in the hal
+107) 0) text: Ed, with a bucket and sponge, is cleaning pockets of bloo He squeezes the sponge for the last time, then inspects the hallway as closely as he can, searching for might have missed. Then he picks up the bucket and takes it into the bathroo
+110) 0) text: Geoffrey stands patiently outside as Ed opens the door. He carries his briefcase and looks dressed for appearance is a stark contrast to the half-dressed, blood
+110) 2) dialog: Getting along?
+110) 4) dialog: I'm not well.
+110) 6) dialog: I don't know.  Maybe.  It's difficult to tell.  I have th
+110) 8) dialog: The pills are fucking useless.
+110) 10) dialog: Yes.
+110) 12) dialog: OK, fine. Geoffrey comes in and places his briefcase on the table. He takes a stethoscope and the rest of his blo kit and starts to take Ed's blood pressure.
+110) 13) dialog: I feel like a lab rat.  Like one of those lab rats they d
+110) 15) dialog: They put them in a maze and they give them shocks and drugs and they see what they do. They try to prod them in they want them to go.
+110) 17) dialog: I feel like a rat who took all the turns, took all the drugs, went down the right path and then, when I got to t shocked me anyway, right up the sphincter, like it was al joke. I guess they thought I'd be too drugged up to notic
+110) 19) dialog: Days?  Yes.  I guess.
+110) 21) dialog: Haven't you talked to them?
+110) 23) dialog: With others?
+110) 25) dialog: What happened?
+110) 27) dialog: She was murdered.
+110) 29) dialog: Did they ever catch the man who did it?
+110) 31) dialog: Why would somebody do that?
+110) 33) dialog: I'm sorry.
+110) 35) dialog: Why?
+110) 37) dialog: I do seem to be having problems with my conscience.
+110) 39) dialog: Do you think that's why I can't sleep?
+110) 41) dialog: Is there anything you can give me?
+110) 43) dialog: Then what's the point?
+110) 45) dialog: A shoulder to cry on?
+110) 47) dialog: The police called last night, late last night.  They foun
+110) 49) dialog: They found her buried in the woods, near where they found
+110) 52) dialog: I never knew I could feel so alone. Geoffrey takes a thermos from his briefcase, pours some h
+110) 54) dialog: No.
+110) 58) dialog: What?
+110) 60) dialog: What?
+110) 62) dialog: I don't understand.
+110) 64) dialog: The pills.  Yes.  Maybe.
+110) 66) dialog: Yes.  Hope.  But why is he coming over here?
+110) 68) dialog: What questions?
+110) 70) dialog: If he had some questions to ask me, he could have asked m
+110) 72) dialog: Why did you turn away from me when you were talking to hi
+110) 74) dialog: You're lying.
+110) 76) dialog: Don't you?
+110) 78) dialog: Because you're scared. Geoffrey does look scared.  He has quickly packed up his
+110) 80) dialog: You don't understand anything.
+110) 82) dialog: Then help me.  Please.
+110) 84) dialog: But, you'll come to see me again, won't you?
+110) 86) dialog: Hello?
+110) 88) dialog: George.
+110) 90) dialog: I didn't do anything.
+110) 92) dialog: You don't know anything about it.
+110) 94) dialog: What things?
+110) 96) dialog: She's my wife.  We fight sometimes.
+110) 98) dialog: What don't you tell it to the police?
+110) 100) dialog: You think she was some sort of angel?  She was cheating o
+110) 102) dialog: I'm sorry. There is a long pause.
+111) 0) text: The bathroom is completely clean. There is no sign of any of the activity from before. Ed finds the bot prescription sleeping pills. It is empty. He takes a coup and swallows them dry.
+112) 0) text: Ed sits down at his desk.  He looks over the papers on hi The phone rings and he picks it up.
+112) 1) dialog: Hello?
+112) 3) dialog: Sadie.
+112) 5) dialog: No.  Don't apologize.  It was me.
+112) 7) dialog: It was understandable, under the circumstances.
+112) 9) dialog: I wonder if you'll still feel the same way when you find
+112) 11) dialog: Yes.
+112) 13) dialog: Yes.
+113) 0) text: Ed backs into the hallway.  As he passes the bathroom, he
+114) 0) text: Ed backs into the kitchen. He searches around, quickly finding the kitchen knife. He grabs it out of the starts walking toward the front door.
+115) 0) text: There's another bang on the door.  Ed passes slowly throu The gurgling sounds in the bathroom are deep and resonant There is another hard crash against the door, which breaks the jamb. The door is only being held on by around the lock and George starts kicking the door with h Ed backs into the basement door.  He opens it and goes in
+116) 0) text: He hurries down the stairs into the darkness of the basement. The pipes surround Ed with hysterical, thic sounds. There are metallic creaks and strains which rever the walls of the basement as the pipes seem to expand and A couple of inches of dark, dirty water have collected on Ed finds a place to hide in the shadows behind some boxes. He stares up, as he hears the door breaking o and someone walking into the living room. With his eyes, he follows the footsteps as they search th Ed has hidden under a large pipe, which is dripping drops of dirty water onto his face. In the darkn basement, the color of the water is unclear, but as he wi his fingers, he can see it is murky and dark. The basement door opens slowly, and from the light upstairs, Ed can see the silhouette of George Simia with a softball bat. Ed grips onto his knife and watches as George comes down the stairs, step by step. The water keeps drip top of Ed's head, running down the side of his face, but still. Ed watches George come down the stairs. George reaches the bottom and steps into the shallow wate Ed withdraws as much as he can into his corner until he i He watches George approaching him and he slowly raises hi George raises his softball bat. He takes a few more steps up to Ed, but then steps blindly past him and dark shadow. Ed watches him disappear into the shadow and then, makes his move. He rushes into the shadow with his and both he and George are engulfed in darkness. After a few seconds, Ed emerges from the shadow. He drops the knife into the water at his feet. As blood runs out of the shadow, mixing with the water in th floor. Ed walks slowly upstairs.  The noises around him in the b
+117) 0) text: Ed takes a long look at himself in the mirror. He is wet with blood and dirt. He opens the medicine cabi the sleeping pills he was using before. He opens the bott it into his hand. There are only about five pills left. He takes the two toothbrushes from a toothpaste-crusty gl Unsatisfied, he searches through the rest of the medicine cabinet. The selection, though not particularly good representation of standard, over-the-counter pills a finds the Midol and takes the last few from the bottle. T bottle of cold medicine which he finishes off. He drinks full bottle of pink diarrhea medicine. He finds a bottle multi-vitamins and takes a handful of those. As he finish he drops the empties onto the floor of the bathroom. When he stops, he notices blood seeping out of the bathtub drain. It is pure, thick, dark blood. He back the hallway.
+118) 0) text: Ed backs into the wall and then, losing strength in his l Piano music starts to seep through the gurgling noises. On the other side of the house, outside the broken door, Ed can hear Derm's car pull up. Ed watches t as Derm comes in carefully, flanked by Mazurek and Snyder Derm comes over to Ed and kneels down in front of him.  E
+118) 1) dialog: It wasn't me. Derm looks at Ed's hands, which are covered in blood.
+118) 2) dialog: It wasn't me. Ed watches Derm looking at him.  Then he notices, behind Ed turns to Eve's room, where the piano can still be hear The camera continues on where Ed can't go: down the hallway to Eve's room. As it approaches, all the othe out and the piano is all that we hear. Ed watches from his position in the hall so that it all s
+119) 0) text: The camera comes into Eve's room and turns to the piano. EVE is sitting at the piano, playing some music. We watch her for a few seconds. She turns to the camera a then continues playing. Then the camera turns toward the clouds painted on the ceiling. A crack appears in the plaster and starts until there is an empty black space behind it. The sound crying seeps in from the crack. The camera zeroes in on t until it fills the frame. Over the blackness, we can hear crying until it fades out.

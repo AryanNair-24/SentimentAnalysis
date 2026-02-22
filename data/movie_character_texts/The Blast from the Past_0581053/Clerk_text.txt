@@ -1,0 +1,9 @@
+85) 2) dialog: Yes, it is.
+85) 4) dialog: Bakersfield.
+87) 0) text: Adam picks up one of those huge California cucumbers that always amaze Easterners.  He shows it to the JAPANESE- AMERICAN CLERK.
+87) 2) dialog: What?
+100) 0) text: Adam addresses the clerk.
+100) 2) dialog: Fill this out please. And I'll need a card.
+100) 4) dialog: Yes, sir.
+105) 0) text: Eve is speaking to a DESK CLERK.
+105) 1) dialog: You don't have a last name?

@@ -1,0 +1,22 @@
+39) 0) text: Dark and dingy. Formica tables, a bar. Chunky customers in K-Mart clothes sit at the bar, nursing beers and watching a football game on a big MUTED TV. Jeff enters and all conversation stops. The other patrons turn and stare. After a moment, they return to their beers. Jeff glances around.   No sign of Amy.   No sign of Red. A bored-looking BARTENDER stands behind the counter, preparing a sandwich. Behind him, a blackboard menu. Jeff approaches.
+39) 2) text: I was supposed to meet my wife here. The Bartender shrugs, gives him a look:    Yeah, so? JEFF
+39) 3) text: Dark hair, slender, about five- five. Wearing a pale blue Benetton shirt. BARTENDER
+39) 5) text: Benetton shirt. The Bartender plops the sandwich on a plate, tears off an order slip. BARTENDER
+39) 7) text: It would've been within the last half hour. She might've been with a trucker? BARTENDER
+39) 13) dialog: Don't ring a bell.
+39) 15) dialog: Hey! Man here's looking for his wife, dark hair, button-on shirt, travelin' with a guy in a baseball cap. Anybody see 'em? Jeff looks up and down the counter. Blank faces, a few disinterested shrugs, a few headshakes no. A disheveled female barfly, FLO, grins up at him.
+39) 19) text: I don't understand. Is there another Belle's Diner? BARTENDER
+41) 0) text: Jeff goes to the Bartender. JEFF
+41) 1) text: Excuse me, how far is the next town? BARTENDER
+41) 4) dialog: (shrugs, bored)
+41) 5) text: Okay. Jeff regards the Bartender skeptically.    He takes one last look around, then heads out.
+57) 0) text: Jeff enters, looks around. It's the same scene as before: same Bartender, a slightly different cast of characters. No sign of Amy.
+57) 5) dialog: (looks up, uninterested)
+57) 7) text: You didn't see her, or she didn't come in? BARTENDER
+57) 8) text: Buddy, I told you the last time. I'm busy. Maybe she came in, maybe she didn't. All I know is, I didn't see her. Jeff looks around, not particularly trusting the Bartender's skills of observation. He grinds his jaw. The other customers at the bar have been watching all this. One of them, an older grizzled BARFLY, looks up at Jeff. BARFLY
+57) 13) text: Hey -- what the hell you doing?! Jeff backs away, yanks the door shut.   The barflies chuckle among themselves. Jeff strides angrily for the exit. He stops at the door, takes one last look around. No one seems to be paying him much attention. He turns to leave... ... but something stops him. He can't put his finger on it. There's something wrong here... He stares at the other customers. Why do they avoid eye contact? Are they hiding something? He scrutinizes more closely... There is the gruff trucker, sitting at a nearby table shoveling food in his mouth. He's been averting his gaze ever since Jeff walked in. And then there's the traveling salesman. Overweight, sweaty. Popping vitamins along with his coffee. Or what about the shirtless biker, reading a comic book at the bar? Probably an ex-con. While Jeff is running these suspicions through his mind, a trucker approaches the counter to place an order. The Bartender jots it down on a pad, then tears off the carbon slip. He places one copy above the grill and another in a pile by the cash register. Jeff stares, an idea forming... He approaches the bar. JEFF
+57) 15) dialog: What? JEFF
+57) 16) text: You write down the names.   I want to see them. BARTENDER
+57) 22) text: You calling me a liar? A tense beat. Possessed by a sudden impulse, Jeff makes a grab for the receipts. Before he can reach them, the Bartender's hand clamps onto his. BARTENDER
+57) 24) text: Let me see the fucking slips. In one swift motion, Jeff overpowers the man and extracts the receipts. He starts going through them, fast, looking at names. TULLY, MARK, FLO, ANDY and... Jeff raises his eyes to face the unpleasant end of a Smith &amp; Wesson revolver. BARTENDER
+58) 25) text: Who doesn't? The bartender?      The men in the truck? Billy's expression darkens.     He starts backing away. BILLY

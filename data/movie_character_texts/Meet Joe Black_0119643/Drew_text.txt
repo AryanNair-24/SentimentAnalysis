@@ -1,0 +1,198 @@
+4) 18) text: Drew called from the AStar, they're still two minutes away.
+5) 10) dialog: (to Susan)
+5) 14) dialog: Well, it's a big day.  Wanted to line up a few ducks before kickoff. Any thoughts?  Last minute refine- ments or variations?
+5) 16) dialog: A voice?
+5) 18) dialog: What'd it say?
+5) 20) dialog: 'Yes' to the deal?
+6) 0) text: The configuration of seats has Drew beside Parrish, in fr of them Quince and Susan opposite each other in single se Just as Drew removes color-coded folders from his attache case and spreads them out for Parrish on his tray table, pilot waves to Drew, indicating 'phone call'.  Drew gets and heads for the cockpit, Parrish scans the folders, gla over at Susan who is making some notes on a file of her o He motions to her to please come sit beside him, she chec that Drew is still busy in the cockpit, tucks her papers her carryall, and crosses over to Parrish who folds away work that Drew set before him into his tray table, locks
+6) 3) text: Do you love Drew?
+7) 0) text: The AStar lands, an attendant, waiting with a luggage car rushes to open the door and unload the bags.  The passeng Parrish paired with Quince, Drew with Susan, file off the rooftop through a door which opens into an elevator.
+8) 0) text: Parrish, Susan, Drew and Quince face forward as they ride downwards.
+8) 3) dialog: Quince, m'man, thanks for the offer, but it's all set for just me and Bill. More people might --
+8) 7) dialog: I was saying to Quince we won't need --
+8) 9) dialog: Why yes, Bill, I was saying to Quince --
+10) 1) dialog: ...Tomorrow we sign off -- photo opportunity, you and Big John, it'll lead network news.  Okay so far?
+10) 3) dialog: It's going to be great --
+10) 5) dialog: Bill, after this deal, you'll be able to afford one. Parrish smiles, they step into the elevator.
+11) 0) text: Parrish and Drew emerge from the elevator, Parrish observ the overkill decor.
+11) 1) dialog: Their PR guy asked me, what did I think Parrish Communications stood for, that's principle and ethics- wise?  I came up with something, but then it occurred to me, why don't I ask Bill?  What do you think? A moment, Parrish shrugs.
+11) 3) dialog: That's great!  Wait 'til I show it to Bontecou. Drew opens a door, a conference room, a circle of top exe utives, now stepping out from the group is a huge, white- haired man, JOHN BONTECOU, 55.
+11) 5) text: And how're you doing today, Drew? (to Parrish)
+15) 0) text: Parrish and Drew enter, no particular fanfare but an awar ness the 'Chief' has arrived, everyone giving Parrish the appropriate wide berth, Drew right beside him.
+15) 1) dialog: I'm all excited --
+15) 3) dialog: I thought it was great, I thought you and Big John would be like a couple of bulls in a china shop -- (faltering)
+15) 6) dialog: You have a way with words. They stride to the main bank of elevators.
+16) 0) text: Parrish, Drew beside him, proceeds through a high tech, b tasteful, maze, spiffy executive secretaries at burnished desks.  Neither looking right or left, somehow Parrish ma ages to acknowledge their bright smiles and deferential n despite his swift entrance. He passes through an open set of doors and he is into his own suite, commanded by JENNIFER, his assistant.
+16) 3) dialog: So... Board convenes tomorrow, you'll recommend, we close and it's a deal, right?
+16) 5) dialog: (bursting)
+16) 6) text: Olympic. Parrish disappears into his office.  Drew, on his way out glides past Jennifer's desk. DREW (cont'd)
+16) 7) text: This is our lucky day. Jennifer acknowledges Drew with a smile, rises and moves Parrish's doorway, waiting for the day's instructions, bu Parrish only nods to the door and Jennifer quickly closes it, returns to her desk.
+19) 0) text: A beautiful space adjacent to the dining room, it has a glass roof which offers a superb view of the Manhattan sk line.  The hour is before dinner: gathered on one side of the room are Allison and Parrish, on the other side Drew Quince.  COYLE, a butler, and LUISA, the housekeeper, pas hors d'oeuvres and drinks.
+19) 18) text: Chow-time, you guys. Parrish is confounded.  Blindly and disconcerted, he foll Allison and Drew and Quince.
+20) 6) dialog: He's coming.
+20) 8) dialog: Unfortunately.  I sat between them at the Bronx Zoo benefit -- it was better than Seconal.
+20) 16) dialog: Good, maybe they'll drown him out. Parrish is still not hearing a word, preoccupied with the return of Luisa.
+20) 26) dialog: (to Allison)
+23) 13) dialog: (pleasantly, going along with the joke)
+23) 17) dialog: Yeah, Bill, the suspense is killing me.
+23) 19) dialog: What?! PARRISH (cont'd)
+23) 23) dialog: Just plain 'Joe'?
+23) 26) dialog: 'Joe...'
+23) 28) dialog: Is there any more to it?
+23) 31) dialog: Like 'Smith' or 'Jones --' Parrish's face reveals a desperate searching for a last n a furtive glance at Joe.  Parrish's brow darkens and a na tumbles from his lips:
+23) 47) text: Joe knows what you're saying, just being polite -- Drew is studying Joe.
+23) 48) dialog: (to Joe)
+23) 53) dialog: You and Bill old friends? Parrish jumps in:
+23) 55) dialog: (to Joe)
+23) 58) dialog: What side of the industry did you say you were on?
+23) 60) dialog: (to Parrish)
+23) 61) text: Joe sounds like a ringer, Bill.  I have the feeling you guys got the broad strokes already.  Need any help with the details? Parrish falls silent again, looking for an answer. DREW (cont'd)
+23) 76) dialog: Joe, you do get around. Joe is happily confounded by all the interaction.
+23) 79) dialog: Incidentally, Joe, where're you staying?
+23) 81) dialog: 'Here'?
+23) 89) text: Cat got your tongue?  You weren't so silent this morning. Drew reacts to this allusion of intimacy.
+23) 93) dialog: (to Joe)
+23) 104) text: Quince. (to Drew)
+23) 105) text: Drew. (to Parrish)
+23) 110) dialog: That was 'Joe'.
+23) 112) dialog: Very. Susan's eyes are still on the door where Joe exited, her face reflecting her irritation and bewilderment, as well a tinge of excitement.
+37) 2) text: -- This is Joe Black, a personal associate of mine - uh - he'll be joining us today.  I know it's -- uh -- unusual, and my apologies -- and Drew -- uh -- carry on. Immediately indications of surprise on Board members' fac Parrish bringing in an 'observer', Drew's reaction guarde but intense.
+37) 3) dialog: (after a moment, to Joe)
+37) 6) dialog: (to the Board)
+37) 11) dialog: Anything else, Mr. Black?  How about some water?
+37) 13) dialog: Hot or cold.
+37) 15) dialog: And a glass. Drew indicates to the Board's Stenographer to arrange Joe refreshments.
+37) 19) dialog: To review -- we're really crossing the 't's and dotting the 'i's here. Bill had a great and conclusive meeting with John Bontecou yester- day, all that remains for us is to put it to a vote. Smiles and murmurs of a congratulatory receptiveness from the Board at Drew's news.
+37) 21) text: Thank you, Drew. Parrish takes a moment, draws himself up to say something official then stops himself, what follows is spontaneous, reflective, deeply felt. PARRISH (cont'd)
+37) 22) text: Umm -- I did enjoy -- or rather I was interested in meeting John yes- terday -- impressive... I suppose... But it did get me to thinking.  I started in this business because this is what I wanted to do.  I knew I wasn't going to write the Great American Novel, but I also knew there was more to life than buying something for a dollar and selling it for two.  I wanted to give the news to the world, and I wanted to give it unvarnished.  The more we all know about each other, the greater the chance we will survive. Sure, I want to make a profit, you can't exist without one but John Bontecou is all profit.  If we give him license to absorb Parrish Communications, and he has his eye on a few others after us, we'll be appointing him to the position he craves -- Gatekeeper.  In order to reach the world you will have to go through John Bontecou.  And not only will you have to pay him to do this, far more expensive, you'll have to agree with him.  Reporting the news is a privilege and a responsibility and it is not exploitable.  Parrish Communications has earned this priv- ilege, John Bontecou wants to buy it.  As your chairman, I urge you to agree this company is not for sale. A silence, everybody shifts, the Board is in shock, Drew trying to maintain his balance.
+37) 23) dialog: (carefully)
+37) 27) dialog: That's your privilege, Bill.  But given our needs, given the absolute necessity for growth, given the fu- ture, the truth is... joining John Bontecou is every bit as certain as - Death and Taxes. Joe interjects:
+37) 29) dialog: Yes.
+37) 31) dialog: Yes.
+37) 33) dialog: It's just a saying, Mr. Black,
+37) 35) dialog: It doesn't matter.
+37) 37) dialog: You're not familiar with the phrase, "In this world, nothing is certain but Death and Taxes"?
+37) 39) dialog: Glad I could be of some help. The Board is provoked and mystified by Joe and even more his presence, they cast meaningful glances at Parrish, Dr coolly grasps the irritation of the members.  Parrish bre the silence.
+37) 41) dialog: But the matter's still on the table, Bill -- EDWARD SLOANE, a contemporary of Parrish's, has been wari silent, but extremely observant.  Protective of Parrish, sensing his burgeoning difficulty, he interrupts: SLOANE
+37) 46) dialog: Who is that guy? Drew grabs a telephone: DREW (cont'd)
+37) 49) dialog: Get me a Field Background check on Joe Black.  Litigations. Bankrupt- cies.  Credit ratings.  The works. Got it? Drew hangs up.
+40) 20) text: -- I couldn't get enough of her -- and gradually -- or maybe it wasn't gradually -- I realized I couldn't live without her. A KNOCK, the door opens and Drew enters, looks at Parrish then at Joe, stands poised in the doorway.
+40) 21) dialog: May I interrupting?
+40) 24) dialog: (to joe)
+40) 27) dialog: Before I do -- (glances at Joe)
+40) 30) dialog: (to Joe)
+40) 31) text: How nice for you both. Drew takes a moment, then plunges in. DREW (cont'd)
+40) 34) dialog: I was hired, you told me, to help bring Parrish Communications into the 21st Century.  This merger is the vehicle -- Joe interrupts:
+40) 37) dialog: (to Parrish)
+40) 40) dialog: Okay. Drew heads for the door, turns around. DREW (cont'd) (to Parrish)
+40) 45) dialog: (to Joe)
+40) 46) text: Damn decent of you. Drew exits.
+41) 5) text: ...When Daddy walked in with him, he couldn't even remember his name.  Now he's his house guest.  And you know how he hates house guests.  What is going on? Drew, whose eyes have also been on Joe across the room, t back.
+41) 6) dialog: (to Susan and Allison)
+41) 35) text: Across the room, Quince has pulled Drew aside:
+41) 37) dialog: Thanks, Quince.
+41) 39) dialog: Are you?
+41) 41) dialog: 'It's up to Joe'?  Those were his words?
+41) 43) dialog: 'It's up to Joe', huh?
+41) 45) dialog: Well, that's very interesting. Drew gazes intently over at Joe who is crossing to Susan, for the moment by herself near the piano.
+41) 47) dialog: Yeah.  Neat.
+41) 59) text: Drew crosses over to Parrish.
+41) 61) dialog: As much as Joe's? Parrish doesn't answer. DREW (cont'd)
+41) 64) dialog: For how long?  And why?
+41) 66) dialog: Boss's orders, huh?  I'm great at following them.  And I think I'll start right now. Allison calls out from the other side of the room:
+41) 68) dialog: I have a confession to make to you, Joe. Joe just smiles in response. DREW (cont'd)
+41) 72) dialog: Well, I'm going to tell you anyway. I did cheat on that exam at Groton. But so did twenty-six other guys, and nobody ever mentioned it until today.  And I'm expecting you won't mention it again.  I don't know who you are and where you're getting your information, but I'm willing to pretend I did not hear it, and let bygones be bygones.  But can I tell you something else, it'd be nice to see the big guy without you next to him.  What are you, his shadow?  Do you hold his dick for him when he goes to take a leak?  You know some- times somebody would like a few min- utes alone with W.P.  That means without you.  Okay, pal?  Let's eat.
+42) 0) text: Everyone eating silently but looks are exchanged, glances averted, Allison notices Susan and Joe looking at each other, Drew observes Parrish watching Joe, Quince, on the other hand, just eats. Breaking the silence, Parrish chinks his glass, stands.
+42) 40) dialog: Mind if I throw up?
+42) 42) text: Please, Drew.
+42) 49) dialog: Who are we talking about?
+42) 52) dialog: Is this a state secret or are we being excluded just for the fun of it?
+42) 57) dialog: Well, maybe next time Joe goes, he'll take us along.
+42) 59) dialog: I'll make a note of it.  Anything else?
+42) 61) dialog: You're on, Quin-cee.  Destination Hospital.  Joe, you'll be the Tour Guide.  Okay?  How's that sound to you? Silence.  Parrish regards Joe, then Susan, his face refle a sudden concern with their relationship.
+43) 0) text: After dinner, the family and guests file back in from the dining room, Drew alongside Parrish.
+43) 1) dialog: I have to go, Bill -- it's been a helluva day.  Need a few minutes to sort everything out.
+43) 3) dialog: Sure. Drew peels off, heads for the foyer and front door, Susan follows him. Parrish corners Joe.
+44) 0) text: Drew is putting on his coat, Susan with him, a tension be them, a heavy silence finally broken.
+44) 2) dialog: Include me out.  I've had enough of the conversations.
+44) 4) dialog: Daddy'll do fine.  Besides, he's got Joe. (a moment)
+44) 7) dialog: That may be.  But I don't like the fucker.  I don't like the way he looks at you and talks to you.  And vice versa.
+44) 9) dialog: No, not okay.  I thought we had a good thing going here. (a moment)
+44) 12) dialog: Yeah.  Goodnight. Drew goes, Susan turns to find out at the far end of the he's been observing them.  She walks up to him.
+45) 0) text: A large suite, room service carts creaking with pots of coffee and half-eaten pastries.  The Board of Parrish Communications is gathered, absent are Parrish and Quince Felicia, Drew's secretary, takes notes.
+45) 1) dialog: ...I know you're all as uncomfor- table as I am to be meeting without Bill, but I got a call last night from John Bontecou.  Not only is he still interested, he is sweetening his offer. (a moment)
+45) 3) text: Oh yes, there is one additional element: Bontecou is so anxious to get us, he said he'd take Parrish Communications with our Chairman or without. The Board falls silent.  Sloane, a peer of Parrish's, fidgets.  Drew milks the moment. DREW (cont'D)
+45) 4) text: It's no surprise if I suggest to you that the Bill Parrish we know is not the Bill Parrish you saw yesterday. You heard that speech -- some strange emotional rationale to buttress a knee-jerk rejection of a legitimate offer.  Does it not strike you that something is possibly affecting this man's judgement?  More specifically -- his judgement to make a critical business decision? Silence, the Board clocking Drew's argument. DREW (cont'D)
+45) 7) dialog: Bill's birthday is the day after tomorrow.  There is a provisory by- law in our charter.  Per the discre- tion of the Board, Corporate off- icers can be retired at age sixty- five.
+45) 9) dialog: Am I not obligated to? Drew leans over to Felicia, speaks quietly and she leaves the room. DREW (cont'd)
+45) 12) dialog: Thank you for coming.
+45) 17) dialog: (to Quince)
+45) 18) text: I hope you'll respect its nature -- What we're trying to do here is gather our thoughts -- in light of Bill's rejection of Bontecou's offer -- and make an appropriate presenta- tion to him as to how we think the company might proceed.  Won't you share with our Board the information you gave me last night? Quince hesitates, then realizes what Drew has on his mind He nods confidently to Drew, then turns importantly to th Board.
+45) 20) dialog: How did Bill react to the leads you've developed?
+45) 22) dialog: (prompting)
+45) 25) dialog: 'It's up to Joe'?
+47) 9) text: Drew appears unannounced in the doorway, exchanges a tens glance with Susan, then heads straight for Parrish who se surprised to see him.
+47) 10) dialog: (to Parrish)
+47) 11) text: Sorry to intrude, Bill, but we've got a bit of a crisis downtown -- it's not something we could talk about on the phone. Parrish takes Drew aside. DREW (cont'd)
+47) 14) dialog: Yes, you made your feeling abun- dantly clear.  Now they want to do the same with theirs.
+47) 16) dialog: If I read this Board right now, they want you to accept Bontecou's offer.
+47) 18) dialog: What do you think the Board is going to say when I tell them that?
+47) 20) dialog: With all due respect, you damn well better care because if you try to stonewall them again, there'll be blood on the floor. Silence, Parrish carefully calibrating Drew's remark.
+47) 22) dialog: Yours.
+47) 24) dialog: I'm just giving you the truth.  There was a time when William Parrish liked the truth. Joe, although across the room, is all attention.
+47) 26) dialog: Certainly.  Goodnight. Drew goes, everybody is in shock, Susan pursues him out i the hallway.
+47) 29) dialog: Don't worry about it.  There's a beginning and a middle and an end to everything.  And I think I've come to the end of my chapter with the Parrishes. Joe has followed them into the hallway. DREW (cont'd)
+47) 30) text: And the end began with this guy. Drew looks down towards Joe. DREW (cont'd)
+47) 33) dialog: Not good, not bad, you know what we got?  Nothing.  No credit, no cars, no mortgages -- no wives.  Nothing. Joe waits. DREW (cont'd)
+47) 34) text: All of a sudden a guy appears on the scene with the Chairman of one of the greatest communications corpora- tions of the world, the boss makes him privy to all the company's secrets, he attends the Board meet- ings, and us working stiffs with MBA's up the ass and years and years and years of experience, we're left outside with our noses pressed against the window. Joe doesn't respond. DREW (cont'd)
+47) 39) dialog: Oh, you're the great Joe's attorney now?  Are we going to go to court? Or are we going to go to bed?  And I don't mean you and me.  I mean you and him.
+47) 41) dialog: So I guess a blowjob's out of the question? Joe clears his throat. DREW (cont'd)
+47) 45) text: I said get out. Now Drew wheels, heads right for the front door and exits a SLAM.
+49) 0) text: Parrish and Joe enter, the entire Board is assembled, inc ing Drew, Quince and Sloane.
+49) 2) dialog: Did you want to have a cup of coffee or something, Bill?
+49) 4) dialog: (to Parrish)
+49) 7) dialog: Bontecou wants a quick response and --
+49) 9) dialog: Don't you want to hear the details?
+49) 11) dialog: So I am to understand from your re- sponse that you do not want to hear the details of Bontecou's offer?
+49) 13) dialog: Certainly, Bill.
+49) 16) dialog: Bontecou wants a speedier response than that.
+49) 20) dialog: Before we do, while we're here, there is a second question the Board would like a response to, a far simpler one. Parrish waits. DREW (cont'd)
+49) 23) dialog: But who is he?  What are his creden- tials?  What is his relationship to you? No response from Parrish. DREW (cont'd)
+49) 24) text: The feeling of the Board is this: we fear Mr. Black is not only influenc- ing your decisions in regard to this company, but that you are relying on him to make them for you. Quince flinches at these words, his hands clasped in fron of him, his knuckles white as Parrish regards Drew, but s does not answer. DREW (cont'd)
+49) 25) text: The lack of response, Bill, is not appropriate.  We are your Board, we have a right to know how you are managing the operations of this company, and most importantly, that you have not delegated someone to do it for you. Parrish squirms, desperately uncomfortable but still does not speak. DREW (cont'd)
+49) 26) text: Okay, one more time. Drew regards Joe. DREW (cont'd)
+49) 27) text: Who is Joe Black? Parrish stares stoically into the middle distance as Quince's head sinks into his hands. DREW (cont'd) (to the Board)
+49) 30) dialog: Mandatory retirement upon our Chairman's sixty-fifth birthday. Parrish is expressionless. DREW (cont'd)
+49) 31) text: At which time, the Chairman will be named Emeritus, he will be welcome to attend all meetings, and will serve as International Spokesman for the corporation plus, of course, a settlement, a golden parachute of such magnitude that his feet will never touch the ground. Drew pauses. DREW (cont'd)
+49) 32) text: Please indicate your vote by a "Yes" or "No". A "Yes" is heard, now another "Yes", now more "Yes"es, al reluctant, "No" from Sloane, "No" from Quince who realize he is the instrument of Parrish's dismissal. DREW (cont'd)
+49) 35) dialog: (to the Board)
+49) 36) text: The other motion before us is the acceptance of John Bontecou's offer to merge this corporation with Bontecou International -- Parrish stands, Drew stops speaking.
+51) 0) text: The Board meeting has broken up, clusters of members have lingered, exchanging post-mortems.  And enraged Quince ha cornered Drew, out of earshot of the others.
+51) 2) dialog: That we did.  Thanks to you.  He was wobbling, mind you, but you stupid the coup de grace. Quince falls silent, aquiver with this reality.
+51) 4) dialog: Quince, you can't unscramble scrambled eggs.
+51) 6) dialog: The train's left the station, pal, and you're aboard.  Would you like to hear the silver lining?  Check that, gold.  I've been working with John Bontecou all along.  We had a game plan -- acquire Parrish Communications then break it apart and peddle it piece-by-piece to the highest bidder.  I set it up for him, he smacks it out of the park. Quince is struck dumb. DREW (cont'd)
+51) 9) dialog: Go right ahead.  Tell William Parrish how you betrayed him at a secret Board meeting.  And tell Allison how you got her father fired -- and he lost his company. Quince goes ashen. DREW (cont'd)
+51) 10) text: It's just life, Quin-cee. Drew hails an employee across the hall. DREW (cont'd) (to Quince)
+51) 11) text: Wake up and smell the thorns. Drew joins the employee as Quince slumps against the wall
+63) 29) text: I told Drew and the Board that Bill depended on you.  Drew led me on, but I had no business telling him in the first place.  He was setting up Bill from day one.  Drew and Bontecou are going to chop up the company and sell it off for parts. Bontecou was outside, Drew was Mr. Inside.  And I was the fool who made it all happen.  Oh God, what do I do? Joe regards Quince.
+67) 13) text: Tell Drew that Bill acknowledges that this was a contest and he's lost.  The race is to the swift, but could Drew summon a modicum of understanding and allow Bill to save face.  Tell him Bill wants it understood in the business community he has merely moved upstairs in his own company, and the executive continuity is unbroken.  Tonight's the night to do it.  He'll introduce Drew to his press friends as well as some of his close acquaintances from Washington and Drew can tell them that everything's sailing along just fine. Parrish is impressed by Joe's acumen, a look of grudging admiration.  He nods to Joe, summarizes:
+67) 15) text: All in all, what Bill wants to do is build the golden bridge to Drew with no hard feelings.
+70) 0) text: An area on the fringe of the party, the helicopter blades stop spinning.  Quince hurries to the aircraft door, open it and Drew steps out.  Quince leads the way through the lights and MUSIC.  Drew, fashioning an imperial entrance himself, hails partygoers as he passes, Quince enjoying t irony.
+70) 1) dialog: This is damn big of Bill, I also think it's smart.
+70) 3) dialog: He said that?
+70) 5) dialog: Yeah, the short, gray hairs. He flashes a pleased-as-punch greeting to some unseen acquaintance as they press on to Parrish's study.
+71) 6) text: We're all ears. Drew enters with Quince, Quince nods, excusing himself, a closes the door behind him.
+71) 7) dialog: Hi, Bill, happy birthday -- A moment. DREW (cont'd)
+71) 11) dialog: I don't know where you get that idea -- the Board agreed --
+71) 13) dialog: Is this Mr. Black's fantasy?  Another one of his whoppers?  Aren't you sick of this asshole lurking around? No one knows who he is, but one thing everyone does know, he somehow got your ear and has been pouring poison into it ever since. Joe can no longer control himself.
+71) 15) dialog: (to Parrish)
+71) 21) dialog: I'm not stepping anywhere --
+71) 23) dialog: The dagger --?
+71) 26) text: Prepare yourself, Drew - I am --
+71) 33) text: IRS man. Drew's head swivels from Joe to Parrish and back again.
+71) 42) dialog: I think I'd like to talk to my lawyer --
+71) 45) dialog: And what do I get?
+71) 47) dialog: You're talking through your hat. You're offering a deal because you've got no proof.
+71) 51) text: Make no mistake, Drew, if you choose to test my resolve in this matter, you'll be looking at an outcome that will have a finality that is beyond your comprehension, and you'll not be counting the days or the months or the years, but millenniums in the house with no doors. Drew slumps.
+71) 52) dialog: All right, you win.  As soon as I get back to the city, I'll meet with the Board. Sloane's voice erupts over the SPEAKERPHONE.
+71) 58) dialog: Who would've ever believed it?  You, an IRS Agent -- Silence.  Joe shrugs, smiles.

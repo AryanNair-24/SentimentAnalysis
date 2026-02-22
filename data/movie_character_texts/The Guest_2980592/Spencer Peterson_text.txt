@@ -1,0 +1,61 @@
+2) 0) text: Anna opens the front door to the house and enters, moving quietly, as if trying to not be heard. Anna softly shuts the door behind her. She turns and see her father, SPENCER PETERSON, 40s, seated on the couch in the dim morning light, watching her. He is wearing slacks and a dress shirt and holding a mug of coffee. Anna slumps back against the closed front door, startled.
+2) 2) dialog: Not really. Where have you been?
+2) 4) dialog: It’s six in the morning, Anna. Anna moves from the door, towards the hallway.
+2) 6) dialog: If you're going to stay under our roof, you need to respect our rules. Walking down the hall, Anna replies without looking back.
+2) 8) text: Luke and Spencer sit across from each other at the dining room table. Luke is eating breakfast cereal. LAURA PETERSON, Anna’s mother, enters the room with a travel mug of coffee, which she sets in front of Spencer.
+2) 10) dialog: Thank you. Laura sits down and begins sipping from a mug of tea.
+2) 12) dialog: I think I heard her come in just before midnight. Her car’s in the driveway. Laura nods absently. Spencer turns to Luke.
+2) 13) dialog: Luke. You asked any girls to the fall dance yet? Luke flushes and looks down at his cereal bowl.
+2) 14) dialog: That’s a no?
+2) 16) dialog: Ah, well. Wait ‘til you get off to college. You done with breakfast?
+2) 18) dialog: See you later.
+10) 0) text: Laura and Spencer stand in the hallway nearby, speaking intently in whispers.
+10) 1) dialog: Laura, we can’t just invite a stranger to stay with us, even if he says he was friends with Caleb!
+10) 3) dialog: What if he’s got the, uh, the P.T.S.D. or whatever it is? A lot of these guys coming back, they have problems. 14.
+10) 5) dialog: That’s not at all fair.
+11) 0) text: Laura and Spencer's whispered conversation is just barely audible from the dining room, the words unintelligible. David and Luke sit at the table, as before. David looks towards the hallway as if Laura and Spencer's conversation is clearly audible to him.
+11) 8) dialog: Okay. Well. We’re very glad to have you here, David. Will you have a beer? I’m having one. 15.
+11) 10) dialog: Suit yourself. Spencer exits the room, towards the kitchen. Laura enters the dining room from the living room.
+13) 7) dialog: How did work go?
+13) 9) dialog: David, sure I can’t get you a beer? David looks at Spencer, then nods. 18.
+13) 11) dialog: Great.
+13) 13) dialog: Nice try. Spencer turns away.
+13) 15) dialog: And you can have all the beer you want then, assuming you buy it yourself. Spencer exits. Anna takes in David and Luke.
+13) 18) dialog: Stay here, be sociable.
+13) 20) dialog: Suit yourself. Anna exits the front room.
+14) 0) text: Anna enters the hallway, moving towards her bedroom. Anna stops at the door to Caleb’s room. She hesitates. Spencer’s voice can be heard in the front room. David says something imperceptible in reply and Spencer laughs. Anna turns the doorknob to Caleb’s room and steps inside. 19. INT. PETERSON HOUSE - CALEB’S ROOM - NIGHT - CONTINUOUS Anna walks into Caleb’s room, leaving the door behind her open. The room appears much as before. David’s rucksack rests on the floor, mostly empty. Anna looks towards the doorway, then crouches down and peers into David’s rucksack. She reaches inside, searching its contents. The bag contains only undergarments, socks, and a tube of deodorant. Anna straightens up. Anna looks around the room, taking in Caleb’s belongings. She sighs, then sits down on the bed. Anna looks down at the pillow she is sitting on. She shifts her weight and lifts up the pillow. A polished PISTOL is beneath the pillow on Caleb's bed. Anna takes this in, then carefully puts the pillow back into place over the gun, as before. Anna starts to stand up, looking to the door. DAVID IS STANDING in the doorway to the room, WATCHING HER. Anna gasps and quickly stands, taking a step back.
+15) 0) text: Spencer and David sit in front of the television, several empty beer bottles in front of them. They are watching a sports show, the volume low. Spencer’s voice is slurred.
+15) 1) dialog: You see, Allan, he’s only been there four years. But since he’s got a degree, suddenly he’s regional manager.I know Laura, she wonders what's going on, if I’m ever going to make any money. Spencer goes silent, immersed in thought.
+15) 3) dialog: Yeah. (beat) So what about you? What are your plans?
+15) 5) dialog: That's crazy. You... you should stay with us a couple more days. Look for jobs online.
+15) 7) dialog: No, that’s... and what’s with this “sir” business? My name’s Spencer.
+15) 9) dialog: Stick around, at least until you know where you’re going. Okay? David looks like he is thinking, then nods.
+15) 11) text: Great. Spencer finishes his beer, then looks at the bottle. David reaches for a bottle on the table and finishes it in several gulps, setting it down.
+15) 12) dialog: One more round to celebrate, then I’ve got to get to bed. You can hold your liquor, huh?
+15) 14) dialog: You tired?
+15) 16) dialog: Well. You have no idea what I’d give to be your age again. Spencer rises to his feet, heading towards the kitchen. David watches him leave. INT. PETERSON HOUSE - CALEB’S ROOM - NIGHT - LATER In Caleb’s bedroom, David lies on the bed, fully dressed. He is visible by moonlight coming in through the window. David lies completely still. A breeze moves the barren branches of the tree outside; they shift, CREAKING. David glances over at this sound. After a moment, David quietly rises from the bed.
+31) 35) dialog: Hey, is anyone home?
+31) 37) dialog: I need a drink. Spencer crosses to a liquor cabinet and pours whiskey out into a tumbler.
+31) 39) dialog: They found Allan, my boss. He’s been missing from work the last couple of days, and people were getting worried, so one of his friends broke into his home. Spencer takes a quick drink of whiskey.
+31) 40) dialog: They found him and his girlfriend dead. They'd both taken pills, I guess he had some prescriptions... It looks like a suicide pact kind of thing.
+31) 42) dialog: Totally normal. Yeah. The police are investigating. There was nothing in their wall safe, but it wasn’t broken into... but she had some bruises... I guess we'll have to see what the police say.
+31) 44) dialog: I guess we’ll find out. Spencer finishes his drink. 55.
+31) 45) dialog: The damned thing is, this means I’m regional manager. At least, for a while. As soon as corporate heard, I got a call. They're offering me the same salary as Allan to start right away.
+31) 47) dialog: Hey, David. I didn’t hear you come in. David is standing in the kitchen doorway, holding shopping bags. Anna takes a step back, startled.
+31) 49) dialog: That’s okay. Thank you. Care for a drink?
+47) 2) dialog: Anna? What’s wrong?
+47) 9) dialog: I’m sorry, Anna, but if they arrested your ex-boyfriend, it could be for a good reason. Zeke Hastings was never exactly a pillar of the community. Anna's eyes blaze with fury.
+47) 11) dialog: As long as you’re in this house-
+47) 13) dialog: I know he’s a druggy burn-out who started dating my daughter when she was seventeen-
+47) 23) dialog: That won’t be necessary. Anna, I think you owe David an apology.
+47) 25) dialog: You watch your mouth, young lady! Spencer stops and takes a breath. 68.
+47) 26) dialog: I am very sorry about your friend Craig. But as for Zeke Hastings and his crew, I have it on good authority that they’re a bunch of pot dealers! You know why they arrested Zeke for the murder? Because he probably did it, Anna!
+47) 28) dialog: David, I am very sorry about that.
+47) 30) dialog: (sighs) No. I understand. Beer?
+67) 0) text: Spencer looks out the windshield at Laura’s SUV speeding in his direction.
+67) 1) dialog: What the hell- The SUV swerves and SMASHES INTO SPENCER'S CAR. Spencer's airbag deploys and his windshield SHATTERS from the IMPACT.
+68) 0) text: The SUV comes to a stop, its front end crushing the front corner of Spencer's car. Smoke billows out. 90. David looks out through the cracked windshield, then kicks open his bent door, climbing out.
+69) 0) text: David walks around the SUV, to Spencer’s car. Spencer sits in the front seat, dazed. He is bleeding from a cut on his forehead. Spencer looks out his broken driver’s side window at David as David approaches.
+69) 1) dialog: David... David... What...?
+70) 0) text: Major Carver slowly drives the lurching SUV down the country road in pursuit of David. In the distance ahead of him, the wreck of Laura and Spencer's cars is visible. Another car has stopped near the crashed vehicles, its emergency lights blinking. Major Carver frowns, driving towards the accident.
+71) 0) text: Major Carver drives the lurching SUV over to the crashed vehicles. An ELDERLY MAN is standing by Spencer's car, looking in through his window. The elderly man’s CAR is in the road behind him, its emergency blinkers on. 91. Major Carver stops the SUV and climbs out of it. He walks over to the crashed vehicles. The elderly man turns towards him, his expression concerned.

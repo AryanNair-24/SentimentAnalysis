@@ -1,0 +1,15 @@
+156) 5) text: She nods her thanks as a door at the other end of the cou opens. They take their seats as a judge and two attorneys take their places, preceded by a bailiff.
+156) 8) text: They do. The judge takes his seat. The rest of the room also sits. He nods to the bailiff, who in turn opens anot door, leading to the holding area.
+156) 13) text: The bailiff forcibly turns him around to face the judge. Christine's hands grip the seat she's in until her knuckl turn white...but she doesn't allow him the satisfaction o seeing her react to his comments. The judge looks up.
+156) 17) dialog: Gordon Stewart Northcott, you have been charged with three counts of murder in the first degree, with an additional seventeen counts under review by the district attorney's office. How do you plea?
+156) 22) dialog: In light of the defendant's penchant for international travel, no bail will be set. This court will receive preliminary motions by tomorrow morning, with a trial date to be set for the earliest opening on the court's calendar. (beat) The defendant is remanded into custody. Bailiff....
+161) 0) text: Where Northcott stands before the judge, jury, and the gr family members.
+161) 2) dialog: Mr. Foreman, has the jury reached a verdict?
+163) 1) text: Quietly PUSHING IN on Northcott, the Judge, Jury, others.
+163) 3) dialog: Bailiff, will you bring me the verdict of the jury?
+163) 4) text: The bailiff complies. The judge reads it, hands it back t the Bailiff, who brings it back to the Foreman.
+165) 3) dialog: Will the defendant please rise?
+167) 3) dialog: You may read the verdict.
+167) 8) dialog: Does the defendant wish to make a statement before judgment is passed?
+167) 17) dialog: That's enough! Counsel, you will get control of your client or I will have him bound and gagged.
+167) 20) dialog: Gordon Stewart Northcott, it is the judgment of this court that you will be conveyed to San Quentin Prison, where you will be held in solitary confinement for a period of two years, until October 2nd, 1930. On that date, you are to be hanged by the neck until dead. May god have mercy on your soul.

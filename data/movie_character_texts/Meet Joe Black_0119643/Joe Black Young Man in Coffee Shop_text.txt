@@ -1,0 +1,416 @@
+23) 21) text: Joe!
+23) 35) dialog: Yes?
+23) 38) dialog: Are you?
+23) 45) dialog: No --
+23) 47) text: Joe knows what you're saying, just being polite -- Drew is studying Joe.
+23) 52) dialog: As long as it takes. Drew is provoked by the response, but remains polite:
+23) 57) dialog: We have an arrangement now.
+23) 59) dialog: I didn't say.
+23) 61) text: Joe sounds like a ringer, Bill.  I have the feeling you guys got the broad strokes already.  Need any help with the details? Parrish falls silent again, looking for an answer. DREW (cont'd)
+23) 62) text: I'm sorry -- business at dinner... (to Joe)
+23) 64) dialog: Sure. The doors to the dining room open, Susan appears.
+23) 80) dialog: Here...
+23) 86) dialog: Black.
+23) 92) text: We've got some things to discuss. Parrish stands, motions for Joe to rise.
+23) 97) dialog: It's so very nice to see you again.
+23) 100) text: You and I've got to talk.  Big day tomorrow, everybody.  Joe, let's go. Joe rises, follows Parrish to the door, stops:
+23) 101) dialog: (to Susan)
+23) 109) dialog: Thank you. Joe pivots, and he follows Parrish out the proper door.
+24) 0) text: Parrish leads the way, Joe beside him as they progress th the huge house.
+24) 2) dialog: 'Threw' you?  Where?
+24) 4) dialog: I didn't know her.  The body I took knew her.  The man she met in the coffee shop this morning.  I - uh - took him.
+24) 6) dialog: No.
+24) 8) dialog: It hadn't occurred to me until then. I was just having such a wonderful time -- Besides, isn't this what I'm here for? Parrish suddenly looks very anxious, Joe stops. JOE (cont'd)
+25) 4) text: Box springs, they're assembled in Jakarta.  Had to stay in a station manager's house there unexpectedly - best night's sleep I ever had. Ordered twenty, they filled a con- tainer and shipped them right over, I've put one in every bedroom here and in the country. Joe tests the springs.
+25) 5) dialog: What a good idea.
+25) 7) dialog: No. Parrish glances around, a room in which the occupant coul not want for anything.
+25) 9) dialog: I won't.
+25) 11) dialog: You're putting me on the spot, Bill. A moment. JOE (cont'd)
+25) 14) dialog: That's the best I can do. (a moment)
+25) 17) dialog: Your doctor? (icily)
+25) 20) dialog: I hope you realize, Bill...in your office this morning, that was your time.
+25) 24) dialog: Not at all.
+25) 26) dialog: Good night to you, Bill. Parrish gently closes the door. Joe looks around, checks out his surroundings: curious, attentive.
+27) 0) text: Joe has been examining his room, full of curiosity and wonderment at the oddest things, the handle on a casement window, the hem and weight of the fabric of a drape, hing on the bedroom door.  In the process he opens this door, steps out into the hallway.
+28) 0) text: Joe wanders down the hallway past the occasional Dufy or Miro, a Venetian tapestry cheek-by-jowl with a miniature Ming vae, and even a Bonsai garden with a trickling vein of water.
+29) 0) text: In the "back" of the house now, utilitarian paint and dec the SOUND of laughter and a glare of light.  Joe enters.
+30) 0) text: The staff is at ease, some smoking, remains of food aroun Coyle, the butler, has his back to Joe and does not see h for a moment.  In front of Coyle, an open jar of peanut b ter which he is spreading in generous hunks of Wonder Bre Joe is fascinated by the process.  Coyle suddenly hears t silence, looks up and see Joe, standing up embarrassedly.
+30) 2) dialog: Hello.  I'm Joe Black.  Nice to meet you.
+30) 4) dialog: (to Coyle)
+30) 8) dialog: (carefully)
+30) 12) text: Like a taste? Joe nods, Coyle fashions a spoonful, offers it to Joe.  J swallows it.  But he has not yet found a comfortable way masticating, his mouth and tongue go every which way, the staff observes him, fascinated. COYLE (cont'd)
+30) 14) dialog: Yes, I am.  I thoroughly enjoyed this - uh - peanut butter. (to the staff)
+30) 15) text: And I thoroughly enjoyed meeting you. Joe raises the spoonful of peanut butter in a kind of toa to the staff. JOE (cont'd)
+31) 0) text: A spectacular indoor Olympic pool, window commanding view of the skyline. Susan is swimming laps, looking very professional in a bl Speedo suit, Joe wanders in, still licking his peanut but He observes her, but she is unaware of him, however now, she makes a barrel turn, his shadow falls over a reflecti from a window, she aborts her lap, looks up to see who it
+31) 2) dialog: I'm lost.
+31) 4) dialog: I'm sorry. Susan climbs out of the pool, gets halfway up the ladder, points to a stack of towels.
+31) 7) dialog: 'Big'?
+31) 9) dialog: I am Joe.
+31) 11) dialog: That is not my intention. Joe continues to nibble at his peanut butter.
+31) 13) dialog: (mumbles)
+31) 14) text: Peanut butter. He finishes the spoonful. JOE (cont'd)
+31) 15) text: But it's gone now. He shifts the spoon from hand to hand, starts to stick it his pocket, realizes this is inappropriate.  Susan holds hand out to him, he places the spoon in it and she sets t spoon on the table with the towels.  She watches, fascina ed, as Joe licks his gums, enjoying every last bit of his spoonful.
+31) 17) dialog: I haven't.
+31) 19) dialog: Do you love Drew?
+31) 21) dialog: When you put your mouth to his, Susan, it seems a frequent thing.
+31) 23) dialog: I'm sorry.  Do you live here?
+31) 25) dialog: I guess what I'm trying to say is -- I'd like us to be friends.
+31) 27) dialog: I don't have any.
+31) 29) dialog: ...I didn't mean to offend you at dinner.  I'm not quite at home some- times with people.  I get busy doing - uh - what I do, and I don't seem to have developed -- He drifts off.
+31) 31) dialog: I have a certain function to per- form, and that seems to take all of my time.  Bu sometimes - uh - I speculate - uh - I haven't left room for - uh - anything else.
+31) 33) dialog: Susan?
+31) 35) dialog: Did you know you have a wet spot on your shoulder? She glances at her shoulder, he grabs a towel, touches th drops of water, pats them dry, hands her the towel.  She flashes a nervous smile.
+31) 37) dialog: Goodnight to you, Susan. Susan steps towards a door, Joe takes a step in the wrong direction, they almost walk into each other.  Now she tak a step in another direction, as does Joe, again they almo collide.
+31) 39) text: Joe --
+31) 40) dialog: Yes?
+31) 42) dialog: (after a moment)
+31) 43) text: Thank you. Joe redirects himself, goes to the door.  As they both ar about to exit, Joe and Susan sneak furtive looks at each other across the pool, smile at catching each other's glances.  Joe exits.  For a moment Susan's eyes remain on the door through which he has gone.  Now she grips the to over her shoulders, the one Joe gave her, pats the same s he did.
+33) 0) text: Parrish knocks, waits a courteous moment, opens the door, finds Joe in an elegant shirt and trousers trying to tie tie.
+33) 2) dialog: Good morning, Bill.
+33) 4) dialog: 'Feeling'?  I feel fine.  How do you feel?
+33) 6) dialog: Oh, I wouldn't tell them anything, Bill.  You'll ruin the good start we had last night.  I felt as if I were being treated like a person.  'Joe' this and 'Joe' that - a nice smile - Quince passed me the rolls -- no 'rapture' or 'passion' or any of those mighty things you seem so intent on imparting, but I am cer- tain, should you - uh - say - uh - who I am - our adventure would end abruptly. Parrish regards Joe, the tie is a sorry mess now, a batwi of silk stretching across his collarbone. JOE (cont'd)
+33) 7) text: But I did so enjoy your family. Parrish is startled, he regards Joe carefully.
+33) 10) dialog: And what?
+33) 12) dialog: Sounds fair enough.
+33) 14) dialog: A 'deal'?
+33) 16) dialog: Bill --
+33) 18) dialog: You've got a deal. Parrish seems relieved.  He has now, with some difficulty completed the tying of Joe's tie, adjusts it beautifully Joe's collar, then spins him around in front of a mirror. Joe, catching sight of his own appearance, rises to the balls of his feet, quite taken. JOE (cont'd)
+34) 0) text: Parrish and Joe striding downtown, Joe's jacket fits per- fectly, he blends right in and he clearly enjoys being pa of the smart Fifth Avenue crowd on the way to work.  Parr senses Joe's pleasure, his slight preening, his eyes chec ing out the good-looking women headed for the offices at top of corporate high-rises.
+34) 2) dialog: When you were shaving this morning, you weren't just shaving, right?
+34) 4) dialog: You were hatching ideas, making plans, arriving at decisions, right?
+34) 6) dialog: So you understand the concept then. When you're busy here, your work, what your task is, is being executed elsewhere.
+34) 8) dialog: So you've grasped the idea.  Con- gratulations.  Now multiply it by infinity and take it to the depth of forever, and you still will have barely a glimpse of what I am talking about. Parrish falls silent, chewing over Joe's admonition.
+34) 10) dialog: Yes, Bill.
+34) 12) dialog: Make an exception?
+34) 14) dialog: Not this. They stride on, cutting through the crowd, Joe all at hom in his new surrounding, but Parrish just the opposite, un characteristically uncomfortable, phrases forming on his lips but unspoken, then suddenly he blurts out:
+34) 16) dialog: That's what everybody says.
+34) 18) dialog: That's what everybody says. Parrish is trying to control himself, glances at Joe.
+34) 20) dialog: I understand. A moment. JOE (cont'd)
+34) 23) dialog: What do you mean?
+34) 25) dialog: Can you keep a secret?
+34) 27) dialog: So can I. They turn into Parrish's office building.
+35) 0) text: As Parrish and Joe enter, Parrish is hailed by JAIME, the Elevator Starter.
+35) 6) text: I'm sorry, not today, Jaime. Parrish and Joe arrive at the bank of elevators.  Jaime, back at his post, hits a button. PARRISH (cont'd) (to Joe)
+35) 8) text: I wonder if any of them won. The elevator materializes, Parrish and Joe step on.
+36) 0) text: Parrish and Joe emerge from the executive elevator, Jenni is waiting as usual with her pad, "Good morning"s, etc. Parrish strides down the hall, Joe right beside him, he p instructions back to Jennifer who, scribbling, hurries al behind them.
+36) 8) dialog: No.
+36) 10) dialog: I'm sure you'll see to it that it won't be a problem. Parrish hesitates, nods, conceding the point, reaches for the doorknob.
+37) 0) text: Parrish enters, Joe following right behind him.  A euphon of "Good morning"'s from the various members of the Board including Quince.  Everyone sits when Parrish does but Jo right at home, spots a tray of refreshments: coffee, pas- tries, he heads for them.
+37) 2) text: -- This is Joe Black, a personal associate of mine - uh - he'll be joining us today.  I know it's -- uh -- unusual, and my apologies -- and Drew -- uh -- carry on. Immediately indications of surprise on Board members' fac Parrish bringing in an 'observer', Drew's reaction guarde but intense.
+37) 5) dialog: Thank you.
+37) 8) dialog: (to Drew)
+37) 9) text: Do you have any more of these deli- cious cookies? A hushed silence at the inappropriateness of Joe's inter- ruption. JOE (cont'd)
+37) 12) dialog: Why yes, thank you.
+37) 14) dialog: Cold.
+37) 17) text: Would you like to sit down, Joe?
+37) 18) dialog: Yes. Joe sits.
+37) 28) dialog: 'Death and Taxes'? After a moment.
+37) 30) dialog: "Death and Taxes"? Another moment.
+37) 32) dialog: What an odd pairing.
+37) 34) dialog: Of whom?
+37) 36) dialog: Then why did you bring it up? Drew regards Joe.
+37) 44) dialog: (to Drew)
+38) 0) text: Parrish enters, Joe right on his heels.  They booth stop, Parrish regards him.
+38) 2) dialog: I don't understand. Parrish tries to gather himself.
+38) 4) dialog: Are you sad, Bill?
+38) 6) dialog: You're not thinking of going some- where, are you, Bill?
+38) 8) dialog: Of course. But Joe doesn't move.
+38) 11) dialog: Oh.  Okay. Parrish reaches into his pocket and hands Joe some cash.
+38) 14) dialog: It can't buy happiness? Parrish opens the door.
+38) 16) dialog: No thank you, Bill.  I can manage. Joe goes.
+39) 0) text: Susan is busy giving instructions to a Nurse, a patient o an examining table beside them.  As she finishes, she suddenly notices Joe down the corridor in the reception area.  She is startled for the moment, quickly makes a la notation, hands a chart to the Nurse and heads down the corridor.
+39) 2) dialog: How nice you look.  Is that your uniform? Susan regards him.
+39) 5) dialog: Oh goodness, no.
+39) 7) dialog: I came to see you.
+39) 9) dialog: Very well, I'll watch.
+39) 11) dialog: Whatever you do.
+39) 13) dialog: And I'll be a visitor.
+39) 15) dialog: I don't mind -- Visible now behind them are a Caribbean woman in her mid- thirties, TEENA, an arm around her mother, EASTER, who is holding her stomach and rocking back and forth in her sea in great pain.
+39) 29) dialog: No obeah, sister.  No duppy, no jumbie.  Evera ting gon' be irey. Susan and Teena both look at him, astonished.  Easter's fearful gaze remains locked on him. JOE (cont'd)
+39) 33) text: Momma. Susan leads Teena away.  Easter is riveted on Joe.
+39) 36) dialog: Obeah evil.  I not evil.
+39) 38) dialog: I from dat nex' place.
+39) 40) dialog: (smiles)
+39) 45) dialog: I nuttin' to do wi' dat.
+39) 47) dialog: Doctor lady make it irey.
+39) 49) dialog: Can't, sistah.
+39) 51) text: Can, mistah.  Take me to dat nex' place. Joe regards Easter, a long moment.
+39) 52) dialog: Not time yet.
+39) 54) dialog: Can't feel wi' de way tings gotta be, Easter. Susan and Teena return with an Orderly and a wheelchair f Easter.
+39) 58) dialog: Close your eyes, Easter. She does, her pained grimace melts into a peaceful smile. JOE (cont'd)
+39) 61) text: Go with her.  I'll be right there. Teena goes.  Joe remains his normal voice.
+39) 62) dialog: She's in a great deal of pain.
+39) 65) dialog: Some. Joe shifts. JOE (cont'd)
+39) 69) dialog: Thank you.  I'm so very glad to be here. Another awkward silence. JOE (cont'd)
+39) 72) dialog: Well, I could come again some other time. Susan regards him.
+39) 74) dialog: (sincerely)
+39) 75) text: Not now. Susan smiles gently. JOE (cont'd)
+39) 78) dialog: Be sorry for nothing. Another moment.
+39) 80) dialog: Good-bye, Susan. Susan waves softly to him, heads down the hall, glances b once to see Joe has not moved, is watching her depart.
+40) 0) text: Jennifer shows Joe in, Parrish is deep in thought, beside him a meal laid out beautifully on his desk with linen an silver, but untouched. Joe is more abstracted than usual, he is starting at Parrish's food.
+40) 1) dialog: Are you going to eat your lunch
+40) 4) dialog: Excellent.  What is it?
+40) 6) dialog: Truly - uh - splendid.
+40) 8) dialog: (familiarly)
+40) 12) dialog: And more.
+40) 14) dialog: Well...I don't know. Silence. JOE (cont'd)
+40) 17) dialog: This part I'm interested in. A moment.
+40) 20) text: -- I couldn't get enough of her -- and gradually -- or maybe it wasn't gradually -- I realized I couldn't live without her. A KNOCK, the door opens and Drew enters, looks at Parrish then at Joe, stands poised in the doorway.
+40) 22) dialog: Yes.
+40) 35) dialog: Perhaps a merger is a way to bring Bill's company into the 21st cen- tury.  And perhaps it isn't.  And perhaps cheating on your French Philosophers exam at The Groton School was an expedient way to get your diploma, and perhaps it wasn't. Be that as it may, Drew, a question can often be argued both ways. Drew is stunned.
+40) 44) dialog: Absolutely.
+40) 47) dialog: Why, at this juncture, are you letting yourself be so concerned by business matters?
+40) 49) dialog: Okay.
+40) 51) dialog: Easy, Bill.  You'll give yourself a heart attack and ruin my vacation.
+41) 0) text: The skyline glitters through the terrace windows.  The ho is before dinner, Coyle and Luisa weave seamlessly among family, offering hors d'oeuvres and drinks on a tray. Allison and Susan together by a piano; Parrish, Quince an distracted Joe are gathered near the terrace.  Joe's eyes are on Susan across the room.  Her eyes flicker towards h aware of his gaze.
+41) 5) text: ...When Daddy walked in with him, he couldn't even remember his name.  Now he's his house guest.  And you know how he hates house guests.  What is going on? Drew, whose eyes have also been on Joe across the room, t back.
+41) 7) text: Good question. Allison sees Susan's eyes flicker over towards Joe.
+41) 10) text: Over at the terrace, Quince buttonholes Parrish, Joe stan ing by.
+41) 19) text: It's up to Joe.
+41) 21) dialog: That's very gracious of you, Quince.
+41) 48) text: Joe approaches Susan.
+41) 49) dialog: I wanted to apologize, Susan --
+41) 51) dialog: Well, now I am sorry.  For intruding on you this afternoon.
+41) 53) dialog: I appreciate you --
+41) 55) dialog: I mean I appreciate that.
+41) 57) dialog: (delighted)
+41) 70) dialog: (pleasantly)
+42) 0) text: Everyone eating silently but looks are exchanged, glances averted, Allison notices Susan and Joe looking at each other, Drew observes Parrish watching Joe, Quince, on the other hand, just eats. Breaking the silence, Parrish chinks his glass, stands.
+42) 2) text: -- Allison and Quince, Susan -- and the other members -- He glances at Joe, stops. PARRISH (cont'd)
+42) 27) dialog: (to Coyle)
+42) 30) dialog: Toast?  No...just the butter.
+42) 33) dialog: (intimately)
+42) 36) dialog: Yes...
+42) 38) dialog: (captivated)
+42) 43) dialog: (to Susan)
+42) 46) dialog: Has her pain abated?
+42) 48) dialog: I'm sorry to hear that.
+42) 50) dialog: (to Susan)
+42) 53) dialog: (to Drew)
+42) 58) dialog: Perhaps you could remind me.
+42) 62) dialog: Susan is a wonderful doctor.
+43) 5) dialog: I don't know.
+43) 7) dialog: I guess...
+43) 9) dialog: I wouldn't put it that way.
+43) 11) dialog: You tell me, Bill.
+43) 13) dialog: Are you going to fire me, Bill? Silence, Parrish is at a loss.
+44) 14) dialog: I don't like the way Drew spoken to you.  But I feel better about it now because of the way you spoke back. A moment.
+44) 16) text: So you're not going to tell me? Joe remains silent, rendered extremely anxious by Susan's inquiries. SUSAN (cont'd)
+44) 18) dialog: Why?
+44) 21) dialog: No, I'm not.
+44) 23) dialog: No.
+44) 25) dialog: No. Susan comes closer to Joe.
+44) 27) text: I'm sorry, I don't want to pry and you don't want to tell me.  So let's leave it a mystery.  That's the way you want it, isn't it? Susan takes another step closer to Joe.
+44) 28) dialog: Thank you, I appreciate that. They are inches apart now, the smell of each other surrou them, a heaviness to the moment, now Joe turns to head up stairs.
+44) 30) dialog: (softly)
+44) 34) dialog: Yes.  I'm tired. He excuses himself with an ineffable gesture, now climbs stairs, Susan watches him disappear. She turns back into the salon just as Allison and Quince exiting, "good-byes" all around.  Susan is left alone now with Parrish who is fixing a drink at a sidebar.
+45) 10) text: How did this all come about?  Crisis -- Bill Parrish, crisis -- his com- pany, crisis for us.  I came about with the arrival on the scene of -- Mr. Joe Black.  Mr. Joe who?  Joe Black.  He attends our Board meet- int, he sleeps at Bill's house, re- sides in his office.  Never leaves his side.  And, in my opinion, is always in his ear.  Telling him what to do and Bill is listening.  Who is Joe Black?  What is his relationship to Bill Parrish?  And most important, what is behind his influence on our Chairman?
+46) 0) text: Parrish, Joe, Susan, Allison and Quince are seated at the table, dessert plates in front of them, coffee cups besid Allison and Susan's eyes are on Parrish, looking for some clue as to why has he gathered the family together yet again.  Parrish is somewhat within himself, but he peeks over his demi-tasse cup at Joe, Parrish aware of Joe's heightened interest in Susan, and Susan's reciprocation. Coyle enters carrying two imposing stemmed silver trays w cakes on them, Luisa follows with one other.  They set th down in front of Parrish.
+47) 0) text: After dinner, Parrish, Allison and Susan are gathered to- gether.  At the bar on the other side of the room, Joe watches as Quince pours himself a stiff hooker of brandy.
+47) 1) dialog: (to Quince)
+47) 4) dialog: On the other hand, Winston Churchill drank a bottle of cognac a day and lived until he was ninety-one. After a moment.
+47) 6) dialog: And you're a nice man, Quince.
+47) 8) dialog: You're welcome.
+47) 30) text: And the end began with this guy. Drew looks down towards Joe. DREW (cont'd)
+47) 32) dialog: No, I don't --
+47) 34) text: All of a sudden a guy appears on the scene with the Chairman of one of the greatest communications corpora- tions of the world, the boss makes him privy to all the company's secrets, he attends the Board meet- ings, and us working stiffs with MBA's up the ass and years and years and years of experience, we're left outside with our noses pressed against the window. Joe doesn't respond. DREW (cont'd)
+47) 35) text: This is a big-time operation, deal- ing in big-time issues, demanding big-time executives who make big- time decisions.  So, Joe, why don't you tell me exactly what it is that's big time about you? After a moment.
+47) 36) dialog: You first.
+47) 42) text: Did you say something? Joe considers him evenly.
+47) 43) dialog: Almost.
+47) 46) dialog: What an angry fellow. A moment passes before Susan realizes she and Joe are alo and Joe does as well.
+47) 48) dialog: Please.  We don't need to talk about Drew. She regards Joe.
+47) 50) text: Brave you had a chance to look at Dad's rare books?  Jefferson's Parliamentary Manual, a first edition Bleak House -- Joe comes closer, takes a deep breath.
+47) 51) dialog: I love your smell.
+47) 54) dialog: Thank you.
+47) 57) dialog: -- Could you?
+47) 59) text: Joe, may I kiss you?
+47) 60) dialog: Why, yes.  Thank you. A moment.
+47) 63) dialog: You're welcome. The clock TICKS on.  A sense of foreboding falls over Joe face, his fear that he is passing through some barrier, a point of no return.
+47) 65) dialog: Yes?
+47) 67) dialog: Well...I'm -- uh, Joe.  And you're Susan.  And I - uh - have this weak feeling in my knees --
+47) 69) dialog: Faster.  And I want the scent from underneath your ears and the taste of your lips and the touch of your tongue to stay with me -- forever. An intake of breath.  She is about to speak. JOE (cont'd)
+47) 72) text: Don't I? Her question makes Joe, almost involuntarily, smile.  Sus takes the opportunity to step back from him.  The SOUND o someone at the door, it is Parrish, Susan turns, comprehe immediately how the situation will appear to him.
+47) 74) dialog: Hello, Bill.
+47) 77) dialog: Um -- not right now. An awkward moment.
+47) 79) dialog: Goodnight. Parrish turns and exits, Joe's head inclines, he breathes the scent of his collar.
+48) 0) text: Parrish, followed by Joe, emerges from his private elevat is greeted as usual:
+48) 6) text: Yes, the members are waiting.  They are in the Board room now. Jennifer nods respectfully as Parrish doesn't cast a flic of any further surprise, heads straight for the Board roo Joe right beside him.
+49) 0) text: Parrish and Joe enter, the entire Board is assembled, inc ing Drew, Quince and Sloane.
+49) 21) text: Who is the man sitting to the right of you? Everybody's eyes are on Joe.
+49) 26) text: Okay, one more time. Drew regards Joe. DREW (cont'd)
+49) 27) text: Who is Joe Black? Parrish stares stoically into the middle distance as Quince's head sinks into his hands. DREW (cont'd) (to the Board)
+49) 38) dialog: (to the Board)
+49) 39) text: Who I am, and my relationship to Bill, will be divulged in our own good time. Joe follows Parrish out of the room.
+50) 0) text: Sloane has pursued Parrish and Joe.
+52) 0) text: Parrish enters, Joe right behind him, Coyle takes their c disappears.  Parrish hesitates for a moment, shrugs as if has a thought he doesn't want to share, then heads upstai with Joe.  He is trudging a bit, Joe senses his mood.
+52) 1) dialog: I'm sorry, Bill --
+52) 3) dialog: What's okay?
+52) 6) text: What 'okay' is, it's 'okay' it's over.  We've got bigger fish to fry, don't we, Joe?
+52) 7) dialog: 'Fish'?
+52) 10) dialog: I'm not hungry.
+53) 0) text: Midday sunlight streams into the sitting room, Joe passes through to his bedroom, sits tentatively on the bed, feel the edge of the silk spread, touches the pillow, then ris again, crosses back to the sitting room. Susan appears in the doorway, Joe suddenly senses her, tu around.
+53) 2) dialog: I am. He stands, they regard each other for the moment. JOE (cont'd)
+53) 5) dialog: How beautiful. He starts to hang Susan's coat up.
+53) 8) dialog: He's taking a nap.
+53) 10) dialog: Yes, he's tired.  I believe so. A moment. JOE (cont'd)
+53) 14) dialog: ...No.
+53) 17) dialog: Thank you. Her head nestles underneath his arm, she has a sense of h comforting her without knowing that he is doing so.
+53) 19) dialog: I loved it.
+53) 21) dialog: Yes! She laughs at the earnestness with which he answers. Joe seems to drift away now, they lie together as one but the first time, she feels separate from him, sensing him to some distant, distant land.
+53) 23) dialog: Nowhere?  I'm...here.
+53) 25) dialog: Oh, I hope a long, long time. A moment.
+53) 27) dialog: What do we do now? She smiles.
+54) 0) text: Joe and Susan are at the front door, he has helped her on with her coat, she turns around, they kiss.  The kiss lingers, Susan breaks away, reaches for the door, looks b longingly at Joe and then she is gone, Joe closing the do softly after her. He turns back into the foyer, looks up, Parrish is on the balcony, it is clear he has observed Joe and Susan.
+54) 1) dialog: Hello, Bill. Parrish, in a state of shock, doesn't answer for a moment JOE (cont'd)
+54) 4) dialog: I'm sorry to hear that. He starts up the stairs.
+54) 6) text: What's going on? Joe senses Parrish's tone, doesn't answer. PARRISH (cont'd)
+54) 8) dialog: Yes, I saw you see me.
+54) 10) dialog: I'll be the judge of that.
+54) 12) dialog: With all due respect, Bill, I'm not asking your permission.
+54) 14) dialog: 'Spooning'?
+54) 16) dialog: I picked you for your verve, your excellence, and for your ability to - how shall I say - instruct.  You've lived a first-rate life.  And I find it eminently usable. Parrish measures Joe.
+54) 18) text: Everybody wants something, Joe. You've been taking me from pillar to post here.  I thought I knew who you were, and it wasn't a whole lot of fun, however it was almost bear- able.  Now I'm getting something else from you, something very, very strange -- what is it that you want, Joe?
+54) 19) dialog: I'm only following the Parrish bywords.  Looking for that 'ounce of excitement', that 'whisper of a thrill' -- What there is no sense living your life without.  You know what I mean, Bill. Parrish's jaw sets.
+54) 21) dialog: This universe?
+54) 23) dialog: I don't like your tone, and I don't like your references.
+54) 25) dialog: May I remind you this is not just a dispute with a putative suitor, this is me.  So watch it...Bill.
+54) 27) dialog: I told you, 'watch it'. Silence.  Now Joe turns on his heel, heads right out the front door.  Parrish is left solitary, confounded, starin at the closed door.
+55) 0) text: Joe walks down a hallway, a bouquet of flowers in hand, looks around the usual feverish activity, he seems lost f the moment, but a Receptionist catches his eye.
+55) 2) dialog: Dr. Parrish.
+55) 4) dialog: Oh. He looks at the flowers, regards them for a moment, then heads for an elevator.
+56) 0) text: Easter is sitting up in bed, hooked up to an TV and moni- tors.  She glances over at the doorway, Joe is standing there, observing her.  An awkward silence, he looks at his flowers again, now sets them respectfully on Easter's bedstand.
+56) 2) dialog: Don' be facety, woman.
+56) 4) dialog: No, I come to see Doctor.
+56) 6) dialog: Nuthin'. Silence, then Easter smiles.
+56) 8) dialog: Yes.
+56) 10) dialog: Mine, too. She thinks about this for the moment, Joe grows uncomfort able.
+56) 12) dialog: Yah.
+56) 14) dialog: I am.
+56) 16) dialog: She knows how she feel.
+56) 19) dialog: (irritably)
+56) 22) dialog: Brung you flowers and all I gettin's facety back.
+56) 25) dialog: Can do no right by people.  Come to take, you wan' to stay, leave you stay, you wan' to go.  Rahtid! Silence, Easter waits, watching Joe.
+56) 28) dialog: But I not lonely here.  Somebody want me here. Easter considers Joe, she smiles sympathetically.
+56) 30) dialog: (gently)
+56) 31) text: Got enough nice pictured, Easter. She looks at him and nods gratefully and closes her eyes. Joe watches her, now his eyes close.  Easter exhales raspingly, falls still.  The monitors flatline.  A beepin alarm sound somewhere down the hall. Joe opens his eyes, takes a deep breath, he seems trouble JOE (cont'd)
+57) 4) text: Joe's not around.
+57) 7) text: Why are you looking for Joe?
+58) 0) text: Joe walking disconcertedly up the street, bumping shoulde with the rush hour crowd, trapped in the life of the city he peers intently at faces, cars, into store windows.  He stops now at the window of a Korean grocery, something ha caught his eye, he steps inside. Through the window, Joe can be seen making a purchase, he hands the Korean Clerk some money, walks out. Joe, back on the street now, unscrews the top of a jar of peanut butter, dips a wad out with his fingers.  The Kore Clerk runs out after him.
+58) 2) dialog: Why are you giving me money?
+58) 4) dialog: I am who I am.  I cannot change. Joe tries to hand the money back, but the baffled Clerk refuses it.
+58) 6) dialog: That's impossible.  You're wasting your money.  I couldn't change even if I wanted to. The Clerk, exasperated, murmurs something in his language and returns to the store.  Joe continues on down the stre
+59) 0) text: Parrish is sitting in a wing chair staring at the fire. appears in the doorway, Parrish doesn't notice him.  Joe waits, finally Parrish looks up.  They regard each other. Silence.
+59) 1) dialog: Uh --
+59) 3) dialog: -- I have the feeling that, all in all, what I made this voyage for -- has served its purpose.
+59) 6) dialog: You are?
+59) 8) dialog: Good.  Tomorrow, after the party. Parrish nods, Joe nods back.
+60) 0) text: The Parrish AStar sets down in its roped-off landing area The Butler runs towards it to open the door, Parrish and Joe disembark.  Following the Butler, they make their way through the maelstrom: tents being raised, platforms for music groups, portable pools with clusters of florists leaning over the edge to arrange lily pads within.  Parri and Joe move solemnly, observing the activity, not speaki to one another.  Although they are shoulder-to-shoulder, there is a distance between them.  They walk on past chan deliers in the garden and fake trees with lights woven through their branches.  Adding to the confusion, the ASt lifts off, the chandeliers rocking and floral pools rippl from the blast of the rotors.  May, the housekeeper, appe
+63) 8) dialog: No, thank you. Quince sips the red, now the white, now he pours some of each into one glass.
+63) 10) dialog: Do I?  I'm a little confused.
+63) 12) dialog: Love.
+63) 14) dialog: You love Allison, don't you?
+63) 16) dialog: How did you meet?
+63) 18) dialog: But she loves you? Quince smiles, nods embarrassedly. JOE (cont'd)
+63) 21) dialog: 'The deepest, darkest secrets --'?
+63) 23) dialog: What do you mean 'free'?
+63) 26) text: Do you like me, Joe?
+63) 27) dialog: Oh yes, you are one of my favorites.
+63) 29) text: I told Drew and the Board that Bill depended on you.  Drew led me on, but I had no business telling him in the first place.  He was setting up Bill from day one.  Drew and Bontecou are going to chop up the company and sell it off for parts. Bontecou was outside, Drew was Mr. Inside.  And I was the fool who made it all happen.  Oh God, what do I do? Joe regards Quince.
+63) 30) dialog: Go to Bill Parrish and tell him everything.  He'll forgive you. Quince drains one more glass of wine.
+63) 32) dialog: Because that's the kind of man Bill Parrish is. A moment.
+63) 34) dialog: -- Getting to. The orchestra behind them plays a few riffs, sound checks getting close.
+63) 36) dialog: No. Quince nods anxiously, then smiles gratefully.  They look as the pre-party activities swirl on around them.
+65) 0) text: Guests milling, emerging from the crowd Susan sees, isola by a fountain, Joe.  He looks up towards her, he knows sh has seen him, they proceed to a rendezvous that has not b prearranged but which they intuit.  Susan slants through guests, stopping here and there, excited greetings and ch tter float on the wind, "He, Susie!",  "What a party",  " look great", she keeps moving, a shimmering wraith. Joe is on the right coordinate to meet her, his graceful, unfailing step carrying him speedily to a destination he not certain of, but where he knows he will find Susan.
+66) 0) text: The very last rays of the sun setting over the wide expan of river, the light catching Susan and Joe as they enter garden, the party forming behind them, the river flowing front of them.
+66) 2) dialog: I love you in an evening gown.
+66) 5) dialog: Yes.  Your father and I, our time together has come to an end.
+66) 8) dialog: Well -- I --
+66) 11) dialog: I can tell you the when part.  Tonight.
+66) 13) dialog: No worse than it gets for me.  I'm in love with a woman whom I don't want to leave.
+66) 15) dialog: We know so little about each other --
+66) 17) dialog: But there's so much to tell you --
+66) 19) dialog: Will it?
+66) 21) dialog: What will we do?
+66) 23) dialog: 'Love will find out the way'?
+66) 25) dialog: I believe that, don't you?
+66) 29) text: C'mon honey, you're needed. (to Joe)
+66) 32) text: Let's go. She takes Susan's arm and marches her off, Joe, in thrall watches them go as the MUSIC erupts behind them, as 'up' dance tune, a lilting, catchy melody envelops them all. curtain has risen on William Parrish's 65th birthday part
+67) 3) dialog: Excuse me -- He starts to step out.
+67) 7) text: Joe knew the whole story.  I told him.  It was his idea that I come clean.  I mean I wanted to come clean but he gave me a pair of balls, you know what I mean?
+67) 12) dialog: (to Quince)
+67) 13) text: Tell Drew that Bill acknowledges that this was a contest and he's lost.  The race is to the swift, but could Drew summon a modicum of understanding and allow Bill to save face.  Tell him Bill wants it understood in the business community he has merely moved upstairs in his own company, and the executive continuity is unbroken.  Tonight's the night to do it.  He'll introduce Drew to his press friends as well as some of his close acquaintances from Washington and Drew can tell them that everything's sailing along just fine. Parrish is impressed by Joe's acumen, a look of grudging admiration.  He nods to Joe, summarizes:
+67) 20) dialog: Not at all. A moment. JOE (cont'd)
+67) 23) dialog: I was just asking, Bill.
+67) 25) dialog: -- And I'm in love with your daughter.
+67) 27) dialog: I'm in love with your daughter, and I'm taking her with me tonight. Parrish is stunned.
+67) 29) dialog: I think you heard me, Bill.
+67) 32) dialog: I'm sorry, Bill --
+67) 34) dialog: I love her, Bill.  She is all that I ever wanted, and I've never wanted for anything because I've never wanted anything before, if you can understand.
+67) 36) dialog: Then what is it?
+67) 38) dialog: Which is what?
+67) 40) dialog: So that's what love is?
+67) 42) dialog: Those were my words, Bill.
+67) 44) dialog: Susan wants to come.  She says she's in love with me.
+67) 46) dialog: No.
+67) 48) text: Susan went, in whatever way she did, for that poor sonofabitch whose body you took, and everything else since has been aftermath.  You say you love her but you don't know what love is. She 'loves' you but she doesn't know who you are.  You make a deal, you're breaking it -- the bottom line is, Joe, you're conducting a Great Romance under false pretenses.
+67) 49) dialog: I don't like what you're saying.
+67) 51) dialog: Are you threatening me?
+67) 53) dialog: Are you telling me I can't be part of it? A pause, Parrish's posture changes.
+67) 55) text: Okay? -- I've given it my best shot. I wish I could tell you to sleep on it but... Parrish lets his words drift into silence, he shrugs, Joe regards him.
+68) 0) text: Joe makes his way down the path from Parrish's study, a weight on his shoulders, his step measured, within himsel until he is hit by the lights and laughter and MUSIC of t party.  He drifts into the center and runs right into Sus couples swirl about them, the eye of a storm of gaiety.
+68) 4) dialog: There is something I do want to tell you -- He stammers into silence.
+68) 8) dialog: Did I say that?
+68) 10) text: Well, you've found one, Joe.
+68) 11) dialog: The 'coffee shop' --
+68) 14) text: Well, I got to examine you after all -- Joe blinks, at a loss. SUSAN (cont'd)
+68) 16) dialog: I - uh --
+68) 19) dialog: Don't you know, that's what I want more than anything. He touches her face.
+68) 21) dialog: May I kiss you? She waits.  He kisses her, they fall into a deep embrace.
+68) 23) text: What's going on, Joe?  I feel like we're lifting off --
+68) 24) dialog: I'm still here.
+68) 26) text: You're someone else -- Joe is struggling with a response, finally, inevitably, h drifts into a long silence.  Susan is beside herself, her emotions tossed in every direction, Joe steadies her.
+68) 28) dialog: I love you now, I'll love you always --
+68) 30) dialog: Susan --
+68) 32) dialog: Thank you for loving me. She smiles wanly, Joe leaves her.
+69) 0) text: Parrish is seated by the window, lights from the party flashing past, the MUSIC and laughter audible but muted, the fever of the celebration lost on him, within himself. Joe enters, Parrish looks up.
+69) 1) dialog: ...We should think about getting started, Bill. Parrish waits. JOE (cont'd)
+69) 8) text: How are we on time? Joe shrugs, nods gently.
+69) 9) dialog: Okay.
+71) 0) text: Parrish is at his desk, Joe in a distant corner of the ro
+71) 14) dialog: You're the poison, Drew.  You've operated behind-the-scenes to suborn the trust of a man who has stamped you with his imprimatur of class and elegance and stature.  I've seen all kinds and degrees of deception in my time, but Bill Parrish has been on the receiving end of machinations so Machiavellian that it has rarely been my experience to encounter.  And yet he has combatted them stoically, and selflessly, without revealing my identity.  Had he violated the vow of secrecy he took, his task would have been far easier, he could have turned defeat into victory, but he is too honorable a man to have done that.  And now I must release him from that vow.  Because of me, he has lost his work, his company, his reputation -- and now he's going to tell you who I am. Parrish is struck dumb.  He looks at Joe pleadingly, shak his head imperceptibly, but Joe nods to him blithely -- a then commandingly.
+71) 17) dialog: -- And now you're going to pee some more.
+71) 19) dialog: It's time to put this person where he belongs.
+71) 22) dialog: I appreciate your gentlemanliness, Bill, but what we need to do here is drive the dagger home --
+71) 25) dialog: (to Drew)
+71) 28) dialog: I'll take it from here -- (to Drew)
+71) 31) text: Yes, he is.  He's an -- IRS man. Aren't you, Joe? Joe is at a loss, Parrish's eyes are glued to his, Joe ge the hint.
+71) 32) dialog: Yes, I am. (to Drew)
+71) 33) text: IRS man. Drew's head swivels from Joe to Parrish and back again.
+71) 36) dialog: (to Parrish)
+71) 39) dialog: Undisclosed conflict of interest --
+71) 41) dialog: An indictable offense. Silence.
+71) 49) dialog: (to Drew)
+71) 50) text: And he's talking through his lips. Joe steps forward. JOE (cont'd)
+71) 57) dialog: My pleasure.  This is an IRS Agent's dream.  I'll be promoted to Chief of Section off of this. Parrish clicks the speakerphone off.  Drew is staring at Joe, shaking his head.
+71) 59) dialog: 'Death and Taxes'. The door flies open, an anxious Allison appears.
+72) 0) text: The guests have formed themselves into a huge audience, t orchestra strikes up "Happy Birthday" as Parrish appears with Allison.  An enormous cake is unveiled with one grea lit candle, Parrish beams then laughs.  He pauses over th cake, now blows the candle out.  APPLAUSE, cries of "Spee Speech!", Parrish tries to demur but the request becomes loud and rhythmic, he holds up his hand, nods, quiets the crowd.  Joe observes from the fringe.
+72) 30) text: On a distant fringe of the party, a grass terrace that st commands a view of the dance floor, is Joe.  His eyes are Parrish and Susan, he watches them admiringly yet ruefull A Waiter passes, catches sight of Joe, stops.
+72) 32) dialog: Do you have any peanut butter? The Waiter hesitates.
+72) 34) dialog: Thank you, anyway. The Waiter moves off.  Joe's attention returns to Parrish Susan, the dance number ends, a BOOM.
+72) 40) dialog: Happy Birthday, Bill.
+72) 43) dialog: Not exactly.
+72) 45) dialog: Yes. Silence.
+72) 48) dialog: I wouldn't worry about it, Bill. These things have a way of working out. Joe regards Parrish, waits until he has a sense that Parr has accepted what Joe has said, then Joe continues: JOE (cont'd)
+72) 49) text: And would you mind if I expressed my gratitude...? Parrish waits. JOE (cont'd)
+72) 53) dialog: Yes.
+72) 55) text: Down below, the party guests' faces are lit by the initia fireworks display.  Among them is Susan, but her interest isn't there.  Not something pulls her attention, an over- powering feeling that compels her to turn and see, at a distance, Parrish and Joe walking away up the meadow.  So thing about the sight saddens and at the same time fright her, she turns back to the party, dazed, tracing on the fireworks.
+72) 56) text: Up the hill Parrish's step slows, Joe slowing with him.
+72) 58) text: Should I be afraid? Joe stops, Parrish stops with him.
+72) 59) dialog: Not a man like you. Parrish smiles faintly, takes a deep breath, he strides out again, Joe right with him.  In tandem they continue on and disappear over the crest of the hill.  A barrage of fireworks lights up the sky.
+72) 60) text: Down below, Susan, in a pained reflex, again turns and lo up towards the hill.  There is nobody there.  She hesitat now glides away from the party, her step quickens as she walks up towards the hill. Susan halts, in the distance a figure is approaching from over the crest of the hill where Joe and Parrish disappea He is heading straight for her, she tries to make him out seems to recognize him, starts to walk towards him as if pulled by a magnet.  Now she stops again.  It is a man, h keeps coming, and now that he is close and recognizes him
+72) 63) dialog: -- You bet. Something about him makes Susan slightly tentative.
+72) 65) dialog: I don't know -- y'know, I don't know -- it's all blurred up and hazy.  And would y'know what I mean if I said I don't think it's worth figuring out? Some realization is dawning on Susan, it renders her lightheaded. JOE (cont'd)
+72) 66) text: ...But now I'm back. Susan regards Joe intently, searching his face for an answer.
+72) 69) dialog: Well, I don't know what else to say. It's a helluva party --
+72) 71) dialog: Yeah...and you're the prettier thing here. Susan blinks, a long silence, she touches the sleeve of h jacket, now her hand traces the outline of his face, she regards him intently and the dilemma she has been struggl with the last moments fades away. Susan slowly realizes this is the Young Man. She is shake a sudden intake of breath.

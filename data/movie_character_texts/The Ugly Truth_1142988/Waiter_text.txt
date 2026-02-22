@@ -1,0 +1,7 @@
+10) 6) dialog: Can I get you some water for the table?
+10) 14) dialog: Can I get you any cocktails?
+10) 31) text: No, but since you have nine out of ten of the necessary attributes on my checklist, I just wanted to make sure this goes as smoothly as possible. As Jim processes this, the waiter arrives with drinks.
+72) 0) text: A waiter takes Colin and Abby's order.
+72) 1) dialog: A bottle of water to start?
+72) 3) text: She starts to say something, then smiles at the waiter.
+86) 6) text: The waiter arrives with mojitos. Abby looks at him.

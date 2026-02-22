@@ -1,0 +1,15 @@
+69) 5) dialog: Yes, sir.
+81) 3) dialog: (into mike) Unit 45, Officer Pappas to Sheriff Garris.  Do you copy?
+82) 5) dialog: (over radio) Got a different vehicle that just turned tail seeing us.  Saw somebody duck down.
+82) 9) dialog: The whole enchilada.  It's an '82 orange Camaro, license...
+84) 1) text: Officer Pappas is just finishing the vehicle's descriptio when the sheriff explodes:
+84) 5) dialog: (nervous) How should we proceed, sir?
+104) 3) text: Another patrol car, with Officer Pappas and Thornton, pul up behind it.  The wind is getting stronger as it whips through the trees.
+106) 6) dialog: Like what?
+115) 1) text: The infamous lake is churning in the moonlight.  RACK FOC as Officer Pappas steps before us.  It's apparent that he getting tired of searching for God-knows-what.
+115) 15) dialog: Alright, come out of there!
+115) 22) dialog: I'm askin' you one more time ...come out of there!
+115) 37) dialog: (kindly) Hey, hey, what are you doing running around out here?  Now you get back to bed.
+115) 43) dialog: What scary man?
+118) 22) text: Rapidly, we TILT DOWN as he slams down on Officer Pappas' corpse.
+137) 6) text: As she SCREAMS, Jason's hand grips her face.  She is abou share the same horrific fate as Officer Pappas.

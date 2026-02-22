@@ -1,0 +1,203 @@
+27) 0) text: JOHN COSTA, 33, sits at the small table. Glasses, moppish hair. Laval sits across from him. Costa is sincere, and frightened. COSTA
+27) 2) text: What did you shout? COSTA
+27) 4) text: You touched him? COSTA
+27) 6) text: You removed the Garrote? COSTA
+27) 9) dialog: Away from me. INSPECTOR LAVAL
+27) 10) text: What kind of gun did he have? COSTA (frustrated)
+27) 16) dialog: Black.
+27) 18) dialog: Listen to me. I can draw a picture of his face. I saw him.
+27) 20) dialog: A sketch. I can sketch him.     I'm very good.
+27) 22) dialog: I did not do this. I saw two guys fighting and should of ran the other way but I didn't. (as if to a child)
+29) 0) text: John Costa smiles at Grace as she enters.        Sets her on the floor. The case file on the desk.
+29) 1) dialog: I hope you guys are playing bad cop smart cop.
+29) 3) dialog: Thank you. He had these real intense eyes.
+29) 8) dialog: Are you kidding me? Lady, I saw someone get killed tonight and you're asking me about grade school?
+29) 10) dialog: I don't remember any of that.
+29) 12) dialog: (writing)
+29) 15) dialog: Omigod.   That's it, isn't it?
+29) 20) dialog: The thing around his neck. Costa looking at Grace, realizes it's a mind game.
+29) 21) dialog: I told the other guy, I'll tell you. I did not do this. Grace. I saw who did this and I can show you what he looks like and you can go catch him. Costa is unambiguously sincere. Grace's attitude softens a bit. She tucks the garrote back in her bag.
+29) 24) dialog: I can draw him, thank you. Grace crosses to the door.     Costa begins drawing in earnest.
+30) 0) text: Grace emerges from the interrogation room. Reynaud hands her a printout of Costa's school records. Grace checking Costa's list against his transcripts.
+31) 0) text: Costa draws with skilled hands, delicate but strong. file is ignored.
+32) 0) text: Grace hands Laval back Costa's file. GRACE
+32) 2) text: Here's his provincial driver's license photo. He's checking out. Laval shows Grace the photo.   It is definitely Costa. beat. GRACE
+33) 0) text: Costa has finished the sketch. He holds it up to the mirror, for those he assumes are watching. REFLECTED in the two-way mirror is COSTA'S SKETCH.   Cold piercing eyes, chiseled features. The door opens, expecting Grace, Costa is disappointed to see a tough-looking PARAMEDIC unwrapping a cotton swab. PARAMEDIC
+40) 0) text: An upper floor. Grace, Reynaud and the MANAGER cross to a door. The Manager studies Costa's sketch of the attacker. SUPER
+42) 0) text: Grace watches a CRIMINALIST bag a comb from the medicine cabinet. A couple hairs entwined in its teeth. In the kitchen another CRIMINALIST dusts for prints. Reynaud taking pictures with a large still camera. Laval KNOCKS on the walls. Laval moves a picture frame. A photograph falls out. Laval picks it up with surgical gloves. INSERT PHOTO: A dead ringer for Costa's sketch, carousing in a Thai bar. Laval shows Grace.
+50) 0) text: Grace enters. Costa sees her, REACTS, genuinely glad to see her. And that throws Grace a beat. She really likes his smile.
+50) 2) dialog: You caught me.
+50) 5) text: Overpriced folk art. Is it the work of a soul that has suffered? Sure. Are his explorations as an artist groundbreaking? No. COSTA
+50) 7) text: I couldn't afford it. Costa is looking at her, looking through her. COSTA
+50) 13) dialog: Try the wine.
+50) 15) dialog: Why, thank you. Agent Vanderholt. (gives her a card)
+50) 18) dialog: Medical school. Before I dropped out. I had a moment of clarity: in anatomy class I realized I'd rather draw bodies than cut them up. And when I realized I couldn't make art, I decided to sell it.
+50) 20) dialog: It's taken me all over the world.
+50) 22) dialog: At first I thought I was interrupting something, you know?
+50) 24) dialog: I thought they were hugging. Then the gun came out when he saw me.
+50) 31) dialog: Okay. Think about Friday. Please, Grace? Grace will; she exits.
+72) 6) dialog: (filtered)
+72) 9) dialog: Yes.   My office here.
+72) 11) dialog: No.
+72) 13) dialog: You told me to call you if anything happened.
+74) 0) text: Wooden painting crates everywhere. A table saw for making frames. Costa is distressed. Grace looking at a message typed onto his computer screen.
+74) 1) dialog: I do all my calls to Europe and shipping stuff at night. My address book was on the screen when I went out for coffee. I came back and this was on the screen.
+74) 3) dialog: Ten minutes. Maybe. When I returned, that was on the screen.
+74) 6) dialog: Is this about the strangling?   Is that guy after me?
+74) 9) dialog: No.  Everything's here. (a beat)
+75) 1) text: How do we know Costa didn't stage this? For attention or something. INSPECTOR LAVAL
+75) 2) text: He's happy to see you. But the alarm was jumpered. Do you think Costa knows how to jumper an alarm? GRACE
+75) 3) text: We should take the computer. Costa who has followed them out, overheard. COSTA
+75) 4) text: Don't take the computer.    That's my brain. Costa turns to Grace. COSTA
+75) 7) text: Or should I believe this. COSTA
+76) 0) text: Being fast forwarded. COSTA exits his office.        Lock door. He walks TOWARD CAMERA and EXITS FRAME. A MAN'S SILHOUETTE in the alley. Crossing towards the office door. An ATM CUSTOMER blocks the shot. The ATM customer moves on.
+77) 0) text: Costa, Grace, Laval and Reynaud. Costa stands there looking at Asher's image on the video monitor.
+77) 2) dialog: I must of walked right past him.
+77) 4) dialog: Yes. That's him. That is the man I saw murder Todd Ford in the parking lot outside my gym. No doubt. Now will you go catch him, please?
+77) 6) dialog: Who is this guy? He's like a Ninja. Sneaking into my office. How dangerous is he? Does he want to kill me?
+77) 11) dialog: How many people have you killed? Reynaud shrugs.
+77) 14) dialog: No. I'm not meeting him. Absolutely not. You ever go fishing? The bait always dies.
+77) 16) dialog: (adamant)
+78) 0) text: Costa gives Grace a look as Reynaud tapes a microphone to the BODY ARMOR he is wearing.
+78) 1) dialog: What if he shoots me in the head?
+78) 3) dialog: You're good. You could move a lot of art if you wanted to. Their eyes meet for a beat.
+78) 4) dialog: And inspire some too, I'm sure. Right then something very rare happens; Grace blushes.
+79) 0) text: Ultra-hip. The dance floor THROBS with CLUBGOERS.      TH DJ THUMPS a EUROBEAT. Costa sits at the bar. PEOPLE all around him, jostling to buy drinks. Two busy BARTENDERS sling booze. Costa finds the noise and crowd absolutely nerve- wracking. He twirls the ice in his Scotch with a finger. Staring at the clock. 1:31 AM. He's nervous, sweat beads his forehead. A big BARTENDER, an undercover cop, pours Costa a Scotch. BARTENDER
+79) 1) text: Don't worry.   You're doing fine. COSTA
+79) 3) text: What? COSTA
+79) 4) text: Could I have some water?    I'm cooking in this thing. Costa scratches around the neck of the hot BODY ARMOR. The Bartender gives him a Dasani. VARIOUS ANGLES: A half-dozen UNDERCOVERS are mixed in with the CLUBGOERS. CAMERA FINDS Reynaud sitting at the bar near Costa, gives Costa a reassuring nod through the crowd.
+80) 0) text: Parked outside the club. Grace and Laval watch Costa via the TV built into the dash. GRACE
+80) 1) text: Costa fits Asher's choice of victims. Travels the World looking for art. Single. No kids or anything. (looking around)
+81) 0) text: Costa looks miserable. Overheating, anxiously nursing his water. He looks around. Then REACTS. A note sits on the bar top. Right in front of him. Costa looks around. Only sees strange faces. Costa carefully unfolds the note.       It reads:   "MEET
+82) 0) text: Costa walks down a narrow hallway. Paint peeling. MUTED. Red light bulbs hanging from the ceiling. Approaching the men's room, Costa looks over his shoulder. No one is watching.
+83) 0) text: Costa cautiously pushes open the door. Stepping inside. Dingy tiles. DRIPPING FAUCET. Several stalls. The room seems empty. Costa swallows, bends down. Checks under the stalls. Nothing. Nothing. Nothing... Then. Something. At the far stall. A pair of men's shoes. Black. Polished. Facing the stall door. Waiting... Costa freezes.     Backs away as... The stall door slowly swings open. HINGES CREAK.        A foot, a trouser cuff. A leg stepping out...
+83) 5) dialog: What?
+84) 0) text: Costa bursts from the fire exit, fed up. He rips off the wire, he struggles out of the body armor. Grace and Laval watching.
+84) 1) dialog: I have a life. I can't play superhero for you. I don't handle stress very well. I have an art show to open tomorrow and I don't know what I'm putting on the walls yet.
+84) 3) dialog: Grace, I've been cooperating. I even drew you a picture. You can't put your responsibility on me. You have a badge, not me.
+84) 8) dialog: I want to help you guys but I don't have time to hang out and listen to bad techno. A beat.
+84) 10) dialog: Scared? I'm off-the-charts terrified. There's a pissed-off serial killer after me. I mean, what did I do to him?
+84) 12) dialog: Until he's caught?
+84) 14) text: I can't promise you that. Costa is torn, Grace empathizes with him.
+84) 15) dialog: I have a lot of work to do.
+88) 3) text: Mr. Costa, some men in that car have been watching this place all morning. The Carpenters looking out the window. COSTA
+88) 5) text: Yessir. Costa hears a POLICE RADIO. Spins around. Grace and Reynaud have entered. Costa is apprehensive. What now? Grace gives him a reassuring smile. GRACE
+88) 6) text: Security is going to be very solid tonight. She waves him out of earshot of the Carpenters.     Their faces are close. Grace gets butterflies. COSTA
+88) 8) text: He won't show. But we want to be here in case he does. Four plainclothes officers will form a perimeter watching the four corners. COSTA
+88) 10) text: Yes. And four plainclothes officers will be in here. Mingling. COSTA
+88) 16) dialog: With my thing.    Will you be mingling?
+88) 18) dialog: Much safer.
+90) 5) dialog: You look a little anxious.
+90) 11) dialog: It's all you. Grace gives Costa a look.       She sips her drink, nods the painting.
+90) 13) dialog: Mangos.   Ripe mangos hanging on a branch. Now she sees it.
+90) 15) dialog: Most people don't notice. This is from his prison series. He could see a mango grove through his cell window. He made some of the pigments himself. From flowers. From his own blood.
+90) 17) dialog: He attacked his neighbor with a machete. There was a woman involved.
+90) 20) dialog: Dozens. He was a consumer of life's pleasures.
+90) 25) dialog: His children formed a corporation, I take ten percent. I'm not a buccaneer, Grace. Grace looks at Costa and smiles.
+90) 26) dialog: What?
+90) 28) dialog: You're very sensitive for...
+90) 33) dialog: What are you doing?
+90) 40) dialog: Dick, they're yours. The Older Man smiles, shakes Costa's hand. The Elegant Woman looking at Grace, arms crossed, enjoys her victory. Grace plays along, stalks off, hiding a grin.
+91) 0) text: A few minutes later Costa finds Grace at the turntables looking through the DJ's records.
+91) 2) dialog: You helped me close the biggest sale of the night.
+91) 4) dialog: What do you want? Grace smiles coyly.
+91) 6) dialog: Let me know when you do.   Excuse me. Costa walks away.     Grace REACTS; she didn't want that.
+92) 0) text: Costa takes a leak.     He's in a good mood.
+92) 7) dialog: Please be cool with that.    I don't wanna get hurt.
+92) 9) dialog: Yessir. I apologize for everything you think I may have done.
+92) 11) dialog: Stop it!
+94) 0) text: The door opens. Costa hits the deck. Asher spins, aims at Reynaud and FIRES. POP-POP-POP-POP! Reynaud drops and rolls out of the line of fire.
+97) 0) text: Costa is stunned, Reynaud checks him for bullet holes.
+97) 1) dialog: I'm okay. From Reynaud's radio: INSPECTOR LAVAL (V.O.) (filtered, subtitled French)
+108) 0) text: It's late. Costa has a beer, his nose bandaged. INSPECTORS finish up questioning PATRONS. Grace enters, crosses to Costa. She's tense, wound tight.
+109) 1) dialog: The night started out great. Everything gelled. Everyone was happy. You helped land a big fish and the feeding frenzy started. Six figure pieces were flying off the wall. (shivers)
+109) 2) text: He said he was going to blow out my spine. I was thinking surgery. Six months in bed. Exercise pools. Never walking again. Grace looks at him.     Costa is worried.
+109) 6) dialog: He was in my bathroom and none of you could stop him. I need to leave town.
+109) 8) dialog: I would appreciate that very much. (a beat)
+109) 11) dialog: Thirty-something, single white female. Best schools best grades. Discovers adrenaline policing the inner city.
+109) 14) dialog: Okay. Are you going to my funeral when Martin Asher cuts my throat? They both know she's been lowballing the threat. We can tell Grace is truly concerned for Costa's welfare.
+109) 15) dialog: You let him get away. Grace takes that hard.
+109) 17) dialog: I meant you in the general sense. (a beat)
+109) 23) dialog: Sooner, please.
+110) 0) text: Spacious, lofty.     Costa and Grace enter.
+110) 1) dialog: Careful. Costa scoots aside a pile of clothing.       The newspape Cool art, sketches, images all over the walls. Reminiscent of Grace's hotel room. And a very cool view of downtown. Grace taking everything in. Art books, sketch pads. Piled high on the desk. She looks at the ceiling. SEES notes and sketches taped up. Grace laughs to herself.
+110) 2) dialog: I'm sorry. It's a sty.    Must be a profiling mother lode.
+110) 4) dialog: A failed healer, a failed artist. Grace looking at a drawing on the wall.       Costa wince didn't want her to notice it.
+110) 6) dialog: No. That's you. I did it last night.
+110) 8) dialog: No. It's how I think you see yourself.
+110) 13) dialog: That would be out of bounds. Grace looking at him. Costa looking at her. A staring match. Costa and Grace try not to laugh. They end up giggling.
+110) 14) dialog: What was that?
+110) 16) dialog: Then keep your head out of it. A beat.   Grace shrugs, back to business.
+110) 18) dialog: I don't know what your deal is. One second you're so there, then all I get is the badge.
+110) 20) dialog: Yeah.   Relocate where?
+110) 22) dialog: This monster comes into my life and I have to leave? A UNIFORM SERGEANT enters.
+110) 28) dialog: This is surreal. What do I pack?
+110) 30) dialog: I need tomorrow morning to finish up my business here.
+110) 32) dialog: I thought you were going to check under my bed. Grace smiles, plays along, crosses, looks under the bed, stretching for Costa. Driving him nuts.
+110) 34) dialog: Thank you. Grace holds out her hand.      They shake.
+110) 36) dialog: Goodbye, then. Costa leans across her, braces himself against the wall. A bold move. Now they are eye to eye. Grace kisses Costa for a long beat. Grace breaks the kiss. Holds a finger to her lips; shhh. She turns and exits. The door shuts behind her. Costa is going to miss Grace.
+111) 0) text: The next morning. Laval pulls up in UNMARKED #1, next to the patrol car that has been guarding Costa's apartment. With a wave the UNIFORM behind the wheel drives off. Laval exits his car. Crosses to Costa's door.
+113) 0) text: Laval RINGING the bell. A white PLUMBER'S VAN pulls up behind Laval's unmarked. A PLUMBER gets out.    Coveralls, clipboard.    Crosses t another apartment. Costa opens the door. With two packed bags.       Laval t one. Costa takes one last look at his home.       Locks t door. Laval watches the plumber KNOCKING a couple doors down. Costa and Laval cross to unmarked #1. The plumber approaches them.     Costa looking at him, REACTS. The plumber is MARTIN ASHER. A gun in his hand.       Lav drops Costa's bag, reaches for his holster... POP-POP-POP!    Asher drops Laval with three to the face.
+115) 0) text: Costa behind the wheel.        Asher in the passenger sea
+115) 1) dialog: You just shot a cop.
+117) 0) text: Costa driving. Scared to death. Asher has the gun in his lap aimed at Costa's face. Asher looks exhausted. Hounded. Asher notes the police radio.
+117) 5) dialog: Which way?   Left, right?
+117) 9) dialog: I'm flooring it.
+117) 12) dialog: Are you going to kill me?
+119) 0) text: Costa gets stuck behind a slow-moving truck. ASHER
+119) 2) dialog: God help me. Costa swings out to pass the truck.
+120) 0) text: Grace watches Costa's unmarked SCRAPE past the truck. side mirror is knocked off. The oncoming Buick swerves back onto the asphalt. Overcompensates, now heading right for Grace... Grace REACTS, swerves. BAM!   The cars hit.   Grace gets a face full of airbag.
+122) 0) text: Costa is driving towards the mountains.        Driving th the pine forest.
+122) 3) dialog: Okay. Sorry. Sorry.      You don't want to do this.
+122) 5) dialog: Please be cool. C'mon, we don't even know each other.
+122) 10) dialog: Don't, man. I got money. You want money, I'll give you money. I got paintings. What do you want? Talk to me, Martin.
+122) 12) dialog: Of course. No Martin. What do you want? What's my life worth to you?
+122) 14) dialog: Okay, please, Martin.   Martin.   Be cool. Asher aims his pistol at Costa's head.
+122) 16) text: Who the fuck is Martin? Costa sets his brow in determination; he is driving straight at a large tree... Asher REACTS. Costa jams his thumb into the release button of Asher's seatbelt... Asher angrily pulls the trigger of his pistol.
+124) 1) dialog: Rot in hell, Martin Asher.
+126) 0) text: Costa undoes his safety belt.       Grabs the door handle The door pops open. Costa pulls himself from the wreck.       Flames spread u the car.
+130) 0) text: Costa lays by the road.     Motionless, he may be hurt ba
+131) 1) text: Nothing broken? COSTA
+131) 8) dialog: God yes.   Stop that.
+131) 10) dialog: Is he dead?
+134) 0) text: Costa's scalp is being stitched shut. Costa's wrist is in a splint. She watches the DOCTOR sew flesh for a beat. A KNOCK.     Grace enters.   Grace smiles warmly at Costa
+134) 5) dialog: Hey. (winces)
+134) 9) dialog: I'm okay.    Thank you for rescuing me.
+134) 11) dialog: To my grave.    He was going to kill me.
+134) 14) dialog: What's fun for you? You want to go to the shooting range or the morgue? Grace is hurt by that.
+134) 15) dialog: I'm sorry.
+134) 17) dialog: I know a place. You drive.
+135) 0) text: Ultra mellow. Grace and Costa chill on throw-pillows and tapestries. Persian trip-hop and hookahs. Grace and Costa have melted into a corner where they sip tea. Nobody has been more comfortable. Costa pours beer from a pitcher. COSTA
+135) 2) text: You'll fold this experience into your life and be stronger for it. COSTA
+135) 4) text: I can stop monsters, John.     And because I can, I have to. COSTA
+135) 6) text: Neither.   It's just my job. COSTA
+135) 8) text: Roy Wilson. COSTA
+135) 9) text: The man on the Harley. Costa REACTS.   Sighs. COSTA
+135) 15) dialog: You threw me in a tiger cage like a piece of meat.
+136) 0) text: Grace is in manic cleaning mode. She pulls papers off the walls. Shoves a pile of clothing in the closet. Sweeps coffee cups into a wastebasket. She opens the door for Costa. He enters.        The room still a mess, but it feels safe, cozy.
+136) 2) dialog: I don't trust anyone who's too organized. Grace puts some MUSIC ON the CLOCK RADIO.
+136) 4) dialog: Please. She grabs a couple cold ones from the mini-fridge.
+136) 5) dialog: Which is it, are you a runner or chaser?
+136) 7) dialog: People like you --
+136) 12) dialog: Yeah, people like you. Hardcore. Gung-ho people like you. And you know what I mean. People like you are either runners or chasers. Grace looks at Costa.
+136) 15) dialog: I'm sorry.   I didn't know.
+136) 17) dialog: How'd you get your voice back?
+136) 19) dialog: You are very intense, you know that?
+136) 26) dialog: Why did your Uncle do it?
+136) 29) dialog: That's a hell of a lot of responsibility for you to put on the shoulders of an eight-year-old girl. Grace blinks, looks at Costa.     That's exactly what she needed to hear.
+136) 32) dialog: Can we please forget about him?
+136) 37) dialog: We haven't done anything. That's about to change. Grace stands, pulls him off the couch. Begins undressing him. She finds horrible dog-bite scars.
+136) 39) dialog: In college we tried to make my friend's German Shepherd take a bong hit.
+136) 41) dialog: Let them watch. Grace looking deep into Costa's eyes.        Nods her hea Costa flips her onto her stomach...
+137) 0) text: Grace and Costa spoon. Grace stirs.       Kisses the back Costa's head. He's utterly still.
+139) 0) text: Grace shakes Costa.     Tears well in her eyes.
+139) 2) text: Mmmmm.   Morning. He sees the blood.    Doesn't really react. COSTA
+139) 4) text: I thought you were scared of blood? COSTA
+141) 0) text: The Doctor staples Costa's scalp.
+141) 1) dialog: Is that going to hold?   I'm not coming back. Grace enters, in a serious mood.
+141) 2) dialog: What's wrong?
+141) 7) dialog: Washington, DC has some of the best art in the world. Georgetown would be a great place to open a gallery. Grace realizes what he's saying.     Smiles.
+142) 13) dialog: Grace, I'm John. Okay?      I'm John. Costa hoping against hope everything is okay.          Bu not okay. Grace has a calamitous expression.
+144) 0) text: Costa takes the gun from her purse, pockets it, along with her FBI credentials and car keys. Costa backs away from Grace. Costa's physicality transforms from hip art dealer to something much more menacing. The monster Martin Asher. Grace looks him dead in the eye, more angry than scared. (NOTE:   Costa will now be called ASHER.)
+160) 1) text: Let me guess, Costa was selling stolen art for Hart and never gave him the money. Now Hart is just another one of Asher's victims. Director Gillet. DIRECTOR GILLET
+160) 2) text: Costa owed him eight thousand. Those are E-mails off Hart's computer. GRACE (reading)

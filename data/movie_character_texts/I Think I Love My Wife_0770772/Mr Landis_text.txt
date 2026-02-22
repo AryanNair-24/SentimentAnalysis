@@ -1,0 +1,14 @@
+14) 11) dialog: Too late. I’m here. ‘Morning everyone. Cooper, can you bring those contracts to my office ASAP?
+14) 13) dialog: Tracy, send somebody to Starbucks.
+14) 15) dialog: Alright. Let’s get to work, people. cur TO: 02.15.06 - ITILMW 11.
+61) 0) text: Mr. Landis, George and some CLIENTS are waiting. Mr. Land looks at his watch. It reads 4:05PM.
+61) 1) dialog: Did he say anything ‘to your, | Where the hell is he?
+63) 0) text: Mr. Landis, George and the clients are still waiting.
+63) 1) dialog: Okay, I think we should start. They all start opening their folders to begin.
+68) 0) text: Richard on his way to work. He’s listening to his iPod. H looks tired and slightly disheveled. INT. RICHARD’S OFFICE - THE NEXT DAY 02.15.06 - ITILMW 70. Richard walks into his office, taking off his coat. He reaches in the pocket and is startled to find the boardin pass from the night before. He holds it in his hand, considering what if it’d been found. He sits at his desk, ripping it to pieces and lets out a breath of relief. Jus then Mr. Landis walks in.
+68) 1) dialog: Okay, Cooper, what happened to you yesterday? You look like shit.
+68) 3) dialog: Did your mother die?
+68) 5) dialog: Did your father die?
+68) 7) dialog: Did your wife or child pass away?
+68) 9) dialog: And I can see that you’re breathing which means you have no fucking excuse, Cooper! You’re on probation. If you mess up one more time you’re fired. You fuck up my money, I’ll fuck up yours. AmTI understood?!
+72) 5) dialog: How you doing, Richard? How’re the wife and the nigglets?

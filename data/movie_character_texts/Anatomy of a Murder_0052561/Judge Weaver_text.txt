@@ -1,0 +1,141 @@
+25) 58) dialog: (after a careful study of the people before him) For those of you I haven't met, my name is Weaver. I'm from downstate and I'm sitting temporarily while your good Judge Maitland is recovering from a severe illness, There's no need to dwell at length upon my methods. One judge is much like another, The only differences may be in the state of their digestions or their proclivities for sleeping on the bench. For myself, Ican digest pig iron, and while I might appear to doze occasionally, you'll find that I keep ore éye open for tricky lawyers, ee
+25) 61) dialog: (consulting his docket) We will take up the call of the criminal docket, People versus Clarence Madigan, breaking and entering _ in the night, Mitch ‘Lodwick rises and takes’a record of crirninal info the Court Reporter's desk, :
+25) 65) dialog: Will the prisoner stand?
+25) 67) dialog: Does Mr, Madigan have an attorney?
+25) 69) dialog: Mr. Madigan, if you're impoverished it's my duty to appoint an attorney in your behalf. MADIGAN’ I wouldn't bother, Your Honor. I stole the whiskey, I'm guilty as hell,
+25) 72) dialog: Do you plead guilty or not guilty to the offense charged against you?
+25) 74) dialog: Did you sell this whiskey? .
+25) 76) dialog: All of it? (CONTINUED)
+25) 81) dialog: Are you aware that it will be necessary to punish you for this crime?
+25) 83) dialog: I'll accept your plea of guilty, Mr. Madigan, You'll be sentenced later, You may now return to your place. ~
+25) 85) dialog: You're quite welcome, Mr. Madigan, {he consults the docket) People versus Frederick Manion. The charge -- murder,
+25) 87) dialog: Which of these men is your client, Mr, Biegler? PauL None of them, your honor,
+25) 88) dialog: Sheriff Battisfore, will you produce the prisoner?
+25) 90) dialog: Perhaps someone should explain, I'm not clairvoyant, (CONTINUED)
+25) 94) dialog: I'l take it from Mr. Biegler.
+25) 96) dialog: Sheriff Battisfore, shouldn't the Court have been consulted before the defendant was allowed to leave its jurisdiction?
+25) 98) dialog: What does the Attorney for the People say to this?
+25) 100) dialog: I've always heard that this Upper Peninsula of our fair state was a queer place. If it's. customary here to allow a man.charged first degree murder to:wander'abi ‘will, I don't suppose it behooves an outsider to point out that the law makes no provision for such quaint liberalism,
+25) 105) dialog: Well, since I am an outsider and outnumbered, I'll stretch a point for the local team,
+25) 112) dialog: A plea of not guilty will be entered, The case of Frederick Manion will be placed first on the docket, (again consulting his docket) People versus Peter Finnley and Lois Green -- lewd and lascivious co~ habitation, As the defendants, Peter and Lois, a poor shabby pair, sh forward to the Judge's bench, the Sheriff mops his face i relief, Paul sits and Parnell leans to him,
+26) 0) text: The SOUND of distant church bells over the town as the congregation of this church streams out into the morning Women in bright hats, men in dark Sunday suits, children scrubbed and starched, the minister at the door shaking h Among the people coming from the church is Judge Weaver. He shakes hands with the minister, puts on his hat, strid away down the street toward the Courthouse. No loiterers here on the lawn this Sabbath morning. The J arrives,,.cartying his weight lightly, hat square on’his head, face-at:peace. He enters:the deserted building. ~~
+27) 0) text: In the high, silent rotunda the Judge crosses to the wide
+28) 0) text: The Judge peers through the small oval window in the clos library door. He smiles a tiny smile and ambles on toward his chambers.
+29) 28) dialog: Now ladies and gentlemen of the jury, before we proceed further I must examine you for qualifications to sit here as jurors, Please remember you are under oath.
+29) 32) dialog: Are all of you citizens? Raise your hand if you are not. .
+29) 34) dialog: (continues) Are any of you deaf or in poor health? (a mumble of "no's") Are any of you over seventy and wish to be excused? A mumble of "no's," Dancer has entered the bar where Mitc rises to meet him, shakes his hand, presents him with a c at the Prosecutor's table. JUDGE WEAVER a. (continues) - Te Have any of you served on a jury in a Circuit Court in the last twelve months? (a mumble of "no's"') Are any of you government or SoS municipal employees and wish to be excused? A mumble of no's,". Parnell, who sits with Maida on the spectators' bench immediately behind Paul and Manion, has seen Dancer's entrance. As the Judge's questions proceed, Parnell takes a note pad from his pocket, scratches a not hands it to Maida who leans forward, passes it to Paul. P scans the note.
+29) 41) dialog: (continues) Do any of you know Mrs, Manion? (a mumble of no's") Thank you, Mrs, Manion, You may be ‘seated,
+29) 42) text: Laura sits rather stiffly and surreptitiously inches her her thigh, gives her girdle a jerk, glares at Paul as he grin. Judge Weaver has continued,
+29) 44) dialog: (continues) Were any of you intimately acquainted with the deceased Barney Quill of Thunder Bay, Michigan? (a mumble of "notst!) a ______ Counsel may challenge the jury.
+29) 53) dialog: Your reputation precedes you, Mr. Dancer, It's a privilege to have you in my Court,
+29) 58) dialog: {going to his desk) I must apologize for my disparaging remarks about the Upper Peninsula and its customs, I have rarely seen a murder jury selected and sworn in only half a day. You have won my heart completely, gentlemen. Now, Mr. Dancer, you asked for this recess, What's on your mind?
+29) 65) dialog: By all means,
+29) 77) dialog: Do you wish to file the petition or not, Mr. Dancer?
+29) 93) dialog: The witness will state the necessary eS facts. RASCHID. The body of Quill had sustained five gunshot wounds. One of the bullets had passed through the heart, Death in my opinion was almost instantaneous and was directly caused by this wound,
+29) 98) dialog: So received and marked,
+29) 108) dialog: So noted,
+29) 115) dialog: Overruled, Mr. Lodwick, Take the answer, So RASCHID . Yes, I made that examination on the deceased,
+29) 126) dialog: Objection overruled. Take the answer.
+29) 142) dialog: Mr. Biegler, you're aware that the question is highly improper,
+29) 182) dialog: The point is good, Mr. Biegler, Continue, (CONTINUED)
+29) 192) dialog: Sustained,
+29) 195) dialog: (cutting him off) The jury will disregard the remark made by the attorney for the defense, There is no reason to believe that the prosecution has not acted in good faith,
+29) 200) dialog: Mr. Biegler, you seem to be batting a thousand with a bat in each hand, but your point is well taken. Whichever attorney opens with the witness, he alone shall continue with that witness until the witness is excused,
+29) 202) dialog: Have you finished with this witness, Mr. Biegler?
+29) 205) dialog: Witness may step down, It's five o'clock and we have had a full day. I will admonish the jury that they ; must not discuss this case among themselves, with their families, | friends or anyone else, The Court : is adjourned until nine a,m, tomorrow morning. He raps his gavel and steps down to his chambers, followe Court Clerk, The Sheriff, "Hear ye - hear ye - this honor is adjourned until nine a,m, tomorrow morning." Immediate newspaper photographers are inside the bar, flash bulbs p catching pictures of all participants, of Laura, Manion a who poses readily,
+30) 28) dialog: We will again take up the case of People versus Frederick Manion, Is the defense ready?
+30) 37) dialog: (rapping) Call the first witness,
+30) 105) dialog: Let's see where he is going before we object, Mr, Lodwick, Proceed, Mr. Biegler. eee
+30) 146) dialog: * Sustained, I suggest you get off this, Mr, Biegler,
+30) 154) dialog: (rapping his gavel) Just answer the question, Mr. Paquette, The attorneys will provide the wisecracks,
+30) 158) dialog: Take the answer. PAUL . Can you think of another name, Mr, Paquette?
+30) 174) dialog: Sustained. The question was answered, he couldn't say.
+30) 209) dialog: Perhaps so, Mr. Lodwick, but there seems-to-be no real offense. Take the answer,
+30) 223) dialog: I'm sure Mr, Biegler has not forgotten that fact, Mr. Lodwick, Take the answer.
+30) 235) dialog: Witness may step down.
+30) 270) dialog: Strike the answer and the jury will disregard, Take the question again, Mr. Biegler,
+30) 279) dialog: Mr. Biegler, you're an experienced attorney and you know better than to make such an outburst, (MORE) (CONTINUED)
+30) 283) dialog: The witness! answer will be stricken and the jury will disregard the answer. Now you may proceed, Mr, Biegler,
+30) 291) dialog: I see no reason for objection yet, Mr. Lodwick,
+30) 303) dialog: Witness may step down, Call your next witness, - wa Te The next witness is SERGEANT DURGO of the Michigan State As he is called and sworn, Paul, at the counsel table, wh Maida over the railing which separates them, — PAUL When we break you'd better phone that Army psychiatrist. Tell him to be here day after tomorrow,
+30) 352) dialog: This is a sore point, Mr. Biegler, and it's getting sorer, I'd like to hear what the prosecution has to say. Mitch and Dancer confer for a moment. Then Mitch rises, eo : (CONTINUED)
+30) 360) dialog: I'll take the answer.
+30) 361) text: A wave of muted excitement travels through the courtroom. gratified and triumphant, rises to continue the cross-exa Mitch rises, intending to protest the judge's decision, b by a touch on his arm from Dancer,
+30) 383) dialog: Will the attorneys from both sides approach the bench please? Paul, Dancer and Mitch come to the Judge's bench, The Jud leans over to look down at them and their conversation is in a low monotone.
+30) 384) dialog: (continues) Mr. Biegler, you finally got your rape into the case and I think all the details should be made very clear to the jury. Do you agree, - Mr, Lodwick?
+30) 386) dialog: What exactly was the undergarment Oo just referred to?
+30) 388) dialog: Do you expect this subject to come up again?
+30) 390) dialog: There's a certain light connotation : attached to the word ‘panties. ' Can we find another name for them?
+30) 394) dialog: Mr. Biegler?
+30) 400) dialog: OQ That's a great help. Mr. Dancer?
+30) 402) dialog: Most French words are. All right, go back to your places, The attorneys return to their tables.
+30) 403) dialog: (continues) For the benefit of the jury, but more ' especially for the spectators, the — eS eeettsundderrgarment referred to in the ‘ testimony was, to be exact, Mrs. Manion's panties. A snicker goes through the room, Judge Weaver waits for q again.
+30) 404) dialog: (continues) : Oo I wanted you to get your snickerin, over and done with. This pair of panties will be mentioned again in the course of the trial and when that happens there will not be one laugh, one snicker, one giggle or even one smirk, in my courtroom, There isn't anything comic about a pair of panties which figure in the violent death of one man and in the possible incarceration of another,
+30) 406) dialog: (continues) Proceed, Mr. Biegler,
+30) 420) dialog: Take the answer,
+30) 430) dialog: Objection sustained. Ladies and gentlemen of the jury, a polygraph or lie~detector test is not admissible evidence because no one has ever been sure but what some people can lie even to a lie-detector and get away , with it, Go ahead with your field day, Mr, Biegler,
+30) 460) dialog: Witness may step down, Paul glances at Dancer, Dancer smiles and nods as if to s "Yes, I've caught on,"
+30) 462) dialog: Can you get the witness in that length of time ?
+30) 528) dialog: Witness may step down.
+30) 530) dialog: You're still under oath, Mr. Paquette. Paquette goes to the witness box.
+30) 555) dialog: (rapping) Jury will ignore Mr, Biegler's oration.
+30) 621) dialog: ° (restoring order) The Court has had about all of this dogfight it can take for one day. And I'm sure the jury is immensely confused, tired and hungry. (CONTINUED)
+30) 626) dialog: Very well, Mr. Lodwick. Tomorrow the defense will take over and, with expedition, prayer and a little self- discipline on part of counsel, perhaps we can reach an end by Saturday night. The Court stands adjourned until nine tomorrow morning,
+33) 140) dialog: I don't approve of the question, Mr. Biegler, but on the other hand I don't see how I can turn it down, Let's see what Mr. Dancer is going to do with the information. Take the answer,
+33) 162) dialog: (rapping for silence) The defendant will confine himself to the seriousness of his present situation,
+33) 175) dialog: You may step down, Lieutenant, Call your next witness please.
+34) 14) dialog: Do the People have objections?
+34) 16) dialog: (wearily) A créature that cannot talk will be a welcome relief, Produce the dog. (CONTINUED)
+34) 33) dialog: Remove the dog please. Witness will return to the stand. Sheriff Battisfore gathers up Muff, returns him to the De Laura steps into the witness box and Dancer moves in for cross~examination, Dancer smiles and makes a little bow.
+34) 89) dialog: Mr. Dancer, will you be careful not to place yourself between Mr. Biegler and his witness?
+34) 92) dialog: (banging his gavel) This back~biting has got to stop. The next one of you that speaks out of turn is going to have me to deal with. Now get on with the cross-examination., . O The courtroom becomes quiet and Dancer continues.
+34) 139) dialog: Sustained, Ask the question again, Mr. Dancer. :
+34) 150) dialog: Witness seemed rather slow to me, Mr. Biegler. However, I'd let the witness complete a statement if she can, Mr, Dancer, before you interrupt,
+34) 155) dialog: Attorney for the People will save his comments for the arguments,
+34) 159) dialog: Mrs. Manion, did you hear the question?
+34) 183) dialog: 
+34) 194) dialog: Take the answer, Mrs. Manion.
+34) 199) dialog: I'll sustain the objection. Strike the last two questions and Mrs. Manion's answer, Now get off the subject of panties, Mr. Dancer, You've done enough damage.
+34) 212) dialog: Can you put your question in another way, Mr. Dancer?
+34) 216) dialog: Can you nail your questions down a little more, Mr. Dancer?
+34) 255) dialog: No, I think I'll take the answer, Mr. Biegler.
+34) 263) dialog: Sustained,
+34) 279) dialog: The witness may step down, We will recess until after lunch, He raps his gavel and steps down from the bench toward hi In the flash of photographers' bulbs and hubbub in the co comes down from the stand. Manion is quickly beside her, around her.
+35) 73) dialog: Mr, Biegler?
+35) 75) dialog: Court will stand in recess for ten minutes.
+35) 81) dialog: One day I'm going to horrify tradition and lay a blue pall of good Virginia burley on that hallowed precinct out there, (he gets his pipe lighted) All right, Mr. Dancer,
+35) 90) dialog: It appears to be a lawbook, Mr. Lodwick. (CONTINUED)
+35) 94) dialog: (inspects the lure) For perch?
+35) 97) dialog: {absorbed by lure) We gig frogs in my part of the country.
+35) 100) dialog: I'll be darned.
+35) 105) dialog: Thanks. I will, ~ . (he's suddenly reminded of the 4 business at hand) Oh <- yes, page 106 I believe you said, He bends over the book and reads slowly. Mitch comes back desk and hovers over the Judge.
+35) 106) dialog: (continues; finally) Hummp!
+35) 108) dialog: Precedent. People versus Durfee -~ year 1886. Would you like to read it, Mr. Dancer?
+35) 131) dialog: Sustained. Do you want to straighten this out, Mr. Dancer? (CONTINUED)
+35) 136) dialog: 
+35) 187) dialog: Get off of it, Mr. Biegler. Do you have any questions?
+35) 190) dialog: (continues) Does the prosecutor have other rebuttal witnesses?
+35) 245) dialog: Do you have the record, Mr. Lodwick?
+35) 262) dialog: (snapping him off) Overruled. Take the answer.
+35) 278) dialog: Take the witness away. Miller steps down grinning and is led away by Sheriff Bat
+35) 279) dialog: (continues) Mr. Biegler, would you like to have a conference with your client? I can see that Miller was very much of a surprise.
+35) 303) dialog: Sustained,
+35) 313) dialog: I will sustain the objection. Do you want to re-phrase your question, Mr. Dancer?
+35) 323) dialog: Step down, Lieutenant.
+35) 328) dialog: (watching Parnell) Does the prosecution have any other rebuttal witnesses?
+35) 331) dialog: Does the defense have any rebuttal witnesses?
+35) 333) dialog: Well, I suppose if it's important we can be at ease for a minute.
+35) 335) dialog: Mr. Lodwick, there is no reason, as the saying goes, to make a federal case out of this. You're excused, 5 Mr. Biegler. (CONTINUED)
+35) 340) text: Q . Paul and Parnell hurry up the aisle, their heads clos talking as they go, hastening through the main doors into All eyes in the courtroom remain on the doors. The silenc | tempered by a low mumble of conversation. A few moments Dancer glances at his wristwatch, shrugs his impatience t Judge Weaver takes out his watch, winds it, motions to Sh Battisfore to approach the bench.
+35) 341) dialog: {in undertone) Sheriff, will you see if Mr. Biegler's gone fishing? Sheriff Battisfore trots up the center aisle and disappea main doors. Almost immediately he returns, followed by Pa Parnell and Mary Pilant.
+35) 345) dialog: (sighing gloomily) Swear the witness. Mary is sworn and takes the stand. (CONTINUED)
+35) 390) dialog: If there are no objections the exhibit will be received in evidence.
+35) 414) dialog: Use the proper form of objection, Mr. Biegler. (CONTINUED)
+35) 420) dialog: Witness may answer,
+35) 433) dialog: Yes, Mr. Dancer -- I'd like to know what you're getting at myself.
+35) 449) dialog: The witriess may step down, Mary leaves the stand, bravely, head up, Paul escorts her beside Parnell and Maida. :
+35) 450) dialog: {continues) We will recess for fifteen minutes ~~ after which we will hear the closing arguments. I hope the attorneys will be brief and to the point, If it's possible, I would like to charge the jury before nightfall. ‘ As the Judge is speaking, the CAMERA PULLS BACK to take i of the courtroom,
+36) 39) dialog: You may be seated. Is everyone present, Mr. Sheriff?
+36) 42) dialog: Allow the jury to come in please. Sheriff Battisfore opens the door to the jury room, sayin right, folks, '' and the jury files in, tired, rumpled, t needing shaves,
+36) 43) dialog: (continues; when the jury is seated) I warn all of these present not to interrupt the taking of the verdict. I will stop the proceedings and clear the courtroom if there is any demonstration, Proceed, Mr. Clerk.
+36) 46) dialog: The defendant will rise. Manion stands at the counsel table.

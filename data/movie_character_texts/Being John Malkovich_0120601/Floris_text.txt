@@ -1,0 +1,27 @@
+28) 0) text: All furniture is scaled down to fit into this low-ceiling space. A few other short men sit reading tiny magazines. Craig approaches Floris, the receptionist.
+28) 1) dialog: Welcome to LesterCorp. May we meet your filing needs?
+28) 3) dialog: Please have a seat, Mr. Juarez...
+28) 5) dialog: Pardon?
+28) 7) dialog: I'm sorry, I'm afraid I have no idea what you're saying right now.
+28) 9) dialog: Money, Miss Warts?
+28) 12) dialog: (calling across the room) Fork ah did?
+28) 13) text: The intercom buzzes. Floris picks it up.
+28) 14) dialog: (to Craig) Mr. Juarez?
+28) 16) dialog: Yex?
+28) 18) dialog: You suggest what? I have no time for piddling suggestions from mumbling job applicants, my good man. Besides, Dr. Lester will see you now. I think that's what he said.
+29) 15) dialog: Gehginnis ondah foam?
+29) 17) dialog: Fork ah did?
+40) 0) text: Craig in a cream colored suit, pours over the file cabine Floris watches from the doorway.
+40) 1) dialog: You're good.
+40) 4) text: Floris shrugs, shakes her head.
+40) 5) dialog: You're not like the other boys we've had here. Granted, I can't understand what you're saying either, but your soft palette resonates tremendously well and you never ever constrict your epiglottis.
+40) 7) dialog: (swooning) Music to my ears! Whatever you said. Speak, speak, speak, my magnificent friend, speak!
+45) 0) text: Craig files. Floris watches him from the doorway. Dr. Lester watches Floris from behind a cabinet.
+45) 1) dialog: Oh, what magic those fingers could work on the right В“cabinet.В” (strokes Craig's neck) Alphabetize me, baby. And don't forget, I comes before U.
+45) 2) text: Floris laughs long and hard. Too long and too hard.
+45) 4) dialog: (upset) I'm afraid I... have no idea what you are saying... you bastard!
+45) 5) text: Floris runs from the room. Lester pokes his head out from behind the cabinet.
+99) 2) dialog: (intercom voice) Someone names A Lot of Warts on line two.
+99) 4) dialog: (intercom voice) Think, Jew florist?
+164) 3) dialog: Great things, my lonely subtext?
+164) 5) text: Floris shrugs, picks at her finger nails.

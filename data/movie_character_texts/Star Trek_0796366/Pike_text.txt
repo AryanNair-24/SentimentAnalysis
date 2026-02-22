@@ -1,0 +1,89 @@
+67) 38) dialog: Outside, all of you!       NOW! The cadets file out, in for it. Pike moves to a dazed, se conscious Kirk, now upside down on a table.
+67) 39) dialog: Y'alright, Son?
+68) 0) text: HIGH WIDE OVERHEAD SHOT of the almost-closed bar. Only Ki Pike sit here at a table. Kirk's bloodied, tissue in his
+68) 1) dialog: I couldn't believe when the bartender told me who you are.
+68) 3) dialog: Your father's son. (then, smiles)
+68) 6) dialog: Depends on how you define winning. You're here, aren't you? (off Kirk's look)
+68) 10) dialog: I looked up your file while you were drooling on the floor. Your aptitude tests were off the charts-- what is it, d'you like being the only Genius Level repeat-offender in the midwest?
+68) 13) dialog: So your daddy dies... you can settle for a less-than-ordinary life. (beat) Or do you feel like you're meant for something better? Something special?
+68) 14) text: And that just hangs there for a beat. Because Pike just h nerve. Kirk does his best not to show it -- still absent- mindedly fiddling with STARFLEET SHIP SALT AND PEPPER SHA
+68) 16) dialog: Enlist in Starfleet.
+68) 18) dialog: If you're half the man your father was, Jim, Starfleet could use you. You could be an officer in four years, have your own ship in eight.
+68) 21) dialog: Riverside shipyard. Shuttle for new recruits leaves tomorrow, 0800. (Kirk turns, Pike grabs him) Your father was Captain of a Starship. For twelve minutes. I dare you to do better.
+68) 22) text: Eyes lock... and it's now Pike who stands and walks off. that's where it hangs. Off Kirk, brooding...
+70) 0) text: Kirk pulls up to us, kills the bike. Camera starts to MOV AROUND HIM -- he's dramatically BACKLIT and we COME AROUN an INCREDIBLE REVEAL of a SHIPYARD -- at its center, the skeletal frame of a NEW SHIP under arclights. UNMISTAKABL U.S.S. ENTERPRISE. Unformed, raw, like its future captain MUSIC SWELLS, we PUSH IN ON HIM, considering Pike's offer future, his fate.
+71) 0) text: The shipyard is abuzz with activity -- cadets loading int shuttle -- and Pike, staring off, waiting. The PILOT approaches:
+71) 2) dialog: ... No.   Guess not. He climbs in. The pilot rapidly flips through switches, r a pre-flight sequence. Pike straps in. Glances through th viewshield... SEES SOMETHING... and he smiles. From his P KIRK on his MOTORCYCLE, driving into the shipyard --
+71) 3) dialog: Hold her a second... Kirk rides past a WATERFALL of cooling tanks -- stops the near the shuttle -- steps off, has nothing -- no bags -- the clothes on his back.
+82) 45) text: Cadet Kirk -- you are on academic probation pending the result of your hearing. Cadets, report to Shuttle Hangar One immediately -- this hearing is at recess until further notice -- dismissed. Everyone's on their feet, MOVING QUICKLY, Kirk suddenly irrelevant. PIKE passes by him, all fucking business, but before he goes --
+82) 46) dialog: Cheating isn't winning. And as that settles on Kirk, McCoy now joins him. The two exiting with the rest of the cadets as Kirk eyes SPOCK --
+90) 0) text: Spock walks through the glorious, gleaming new space, tak position at the SCIENCE CONSOLE. PIKE at the command chai
+90) 2) dialog: The maiden voyage of our newest flagship deserves more pomp and circumstance than we can afford today, but her christening will have to be our reward for a safe return-- (toggles intercom) All decks, this is Captain Pike. Prepare for immediate departure. Helm, thrusters.
+93) 2) dialog: Set course for Vulcan.
+93) 4) dialog: Maximum warp.    Punch it.
+95) 0) text: Pike -- and the others -- look at Sulu, who is confused - concerned -- searching the controls. Finally:
+95) 1) dialog: Lieutenant, where's Helmsman McKenna?
+95) 3) dialog: (fucking with him)
+95) 6) dialog: Is the parking brake on?
+95) 11) dialog: The external inertial dampener. That's... the parking brake.
+95) 14) dialog: (laughs)
+103) 3) dialog: Russian whiz kid-- what's your name again? Chanko? Cherpov?
+103) 6) dialog: Fine, Chekov, Pavel H.: begin shipwide mission broadcast.
+107) 3) dialog: -- Mr. Kirk! How the hell did you get on board the                 This man is under th Enterprise?!                         influence of a sever
+107) 6) dialog: Cadet Kirk, I think you've had enough attention for one day -- Dr. McCoy, return to medical, we'll have words later.
+107) 14) dialog: And you know of this prison escape how? Kirk just points to Uhura.
+107) 19) dialog: (to Comm Officer)
+107) 22) dialog: (to Uhura)
+107) 26) dialog: Uhura, relieve the Lieutenant -- Mr. Hannity, hail the U.S.S. Truman.
+107) 31) dialog: (long, tense beat) Shields up. Ready all weapons.
+109) 0) text: Spock snaps to Pike as images FLASH on his console --
+109) 2) dialog: Full reverse, come about Starboard ninety degrees! Drop us down underneath them! Prepare to fire all weapons!
+112) 2) dialog: Get me Starfleet Command!
+112) 7) dialog: All power to forward shields -- prepare to fire all weapons!
+116) 0) text: Pike on the comm:
+116) 1) dialog: Divert auxiliary power from port nacelle to the shields--! But Pike stops when he sees, on the viewscreen
+116) 4) dialog: I am Captain Christopher Pike, to whom am I speaking?
+116) 8) dialog: You've declared war against the Federation. Withdraw, and I'll agree to arrange a conference with Romulan leadership at a neutral loca--
+116) 10) text: All eyes on Spock.   Spock looks to Pike, who nods permis
+116) 15) dialog: I understand that -- (loud, to the bridge) I need officers who have been trained in advanced hand-to-hand combat!
+116) 19) dialog: Then come with me -- Kirk, you too-- you're not supposed to be here anyway. (to Chekov)
+116) 22) dialog: Let's go. Bridge doors WHOOSH open -- they EXIT.
+117) 0) text: WE TRACK FAST with Pike, Kirk, Spock and Sulu as they HUR through the Enterprise toward the shuttle bay:
+117) 1) dialog: Without transporters, we can't beam off the ship, can't assist Vulcan, can't do our job. I'm creating an opportunity: Mr. Kirk, Mr. Sulu and Mr. Olson will space-jump from the shuttle. You'll have chutes -- you'll land on that machine they've lowered into the atmosphere that's scrambling our gear-- you'll get inside, disable that thing then beam back to the ship. Kirk and Sulu share a HOLY FUCKING SHIT look --
+117) 3) dialog: Mr. Spock, I'm leaving you in command of the ship. Once we have transport capability and communications back up, you'll contact Starfleet and report what the hell's happening here.
+117) 6) dialog: Something you've got only precious few minutes to figure out. If all else fails, fall back and rendezvous with the fleet in the Laurentian System. (Spock is freaked, then) Kirk. I'm promoting you to First Officer. KIRK                               SPOCK
+117) 8) dialog: While I'm gone we need to keep the chain of command. And you two make a swell team.
+117) 10) dialog: It's not a prank, Spock.   And I'm not the Captain. You are.
+117) 13) dialog: I guess you'll have to come get me. (turns; to Spock) Careful with the ship. She's brand new.
+117) 15) dialog: Suit up, Gentlemen.
+122) 6) text: ... fencing. In the COCKPIT, Pike works the controls -- MOTORS WHINE a craft LURCHES --
+125) 0) text: A KLAXON SOUNDS, signalling depressurization of the cargo the guys ready their equipment, snatching for handstraps, standing on the lip of THE AIRLOCK -- Kirk and Sulu meet through their helmet faceplates, the point of no return - PIKE'S VOICE over their headsets:
+125) 1) dialog: Pre-jump on one: Three, two, one.
+125) 4) dialog: Good luck. Pike hits another control -- as the shuttle BOMB BAY DOOR - and KIRK, SULU, AND RED SHIRT ARE INSTANTLY PULLED OUT,
+129) 0) text: Pike's SHUTTLE DOOR OPENS. Pike steps out. Surrounded by dozen of Nero's men. Ayel steps forward. Pike stands firm knowing this is the end for him:
+129) 1) dialog: I'm Captain Christopher Pi-- WHACK! He's cut off by a PUNCH to the face. Drops to his knees. Looks up at Ayel with blazing eyes, wipes a trickl blood from his lip:
+129) 2) dialog: So much for diplomacy. He's DRAGGED AWAY as --
+163) 0) text: On PIKE'S FACE, strapped to a TABLE.    Nero looks down u
+163) 7) text: I only have one for you. I need the subspace frequencies of Starfleet's border detection grids. Specifically those surrounding Earth. Pike looks up at him -- quiet rage.   Then --
+163) 8) dialog: Christopher Pike -- Captain, U.S.S. Enterprise, registry NCC-1701.
+163) 11) dialog: No. You answer for the genocide you just committed on a peaceful planet--
+163) 14) text: I sit here now... knowing you as enemies. Not just of today. But of tomorrow. I watched as your Federation did nothing. They let us burn to death... as our planet broke in half. Curiosity behind Pike's eyes.
+163) 15) dialog: Then Nero, you're confused. Romulus has not been destroyed. How can you blame the Federation for something that hasn't happened--?
+163) 21) text: A feeling that every surviving Vulcan now shares. Pike just looks at him.   Sees how fucking far GONE he is
+163) 22) dialog: If what you say is true... you can save Romulus. You have a second chance to --
+163) 25) text: ... but to create a Romulus which exists, free of the Federation. Only then will she be saved. And the "she" could refer to the planet... or to Nero's l love. Either way, Pike knows a losing battle when he's fi one. Ever so nobly, he quietly says --
+163) 26) dialog: Then we have nothing more to discuss. Nero reaches for something under the counter Pike lies up Retrieves A FAMILIAR GLASS CONTAINER -- inside -- DOZENS CENTAURIAN SLUGS, the very ones used on Nero.
+163) 28) dialog: How reassuring. Nero opens the container, reaches for a pair of TONGS
+163) 30) dialog: Christopher Pike -- Captain, U.S.S. Enterprise, registry NCC-1701. Nero sad-smiles.   What he expected.
+193) 49) text: ON MCCOY. The CREW -- confused. Sulu just fucking POINTS Kirk and they all realize HOLY SHIT -- Pike made KIRK the Officer before he left!
+213) 0) text: A ROTATING SHIP SCHEMATIC -- Spock typing at a console, searching -- accesses two inter-cam windows: on one, SPOC PRIME'S SHIP, THE JELLYFISH -- in a lower containment hol the other: PIKE, unclear if he's dead or alive.
+214) 0) text: Captain Pike's shuttle and the Jellyfish sit parked among equipment. Kirk and Spock stealthily board the Jellyfish
+228) 0) text: Kirk moves through the space -- into the TORTURE ROOM, wh finds PIKE, CLOSE TO DEATH -- Kirk begins unfastening his Pike sees him through his fog -- amazed --
+228) 1) dialog: ... Kirk?
+248) 0) text: Spock is seen in a medical office with Pike, who lies in recovering -- McCoy monitors him - Spock exits -- walks t the corridor -- sees a VULCAN in silhouette, staring out Academy. Sarek. Spock moves to him -- says quietly:
+250) 6) text: Kirk turns. Walks to... PIKE. In a wheelchair now, wearin ADMIRAL'S UNIFORM. Overnight, his hair's turned totally g but despite his trauma, his pride's overwhelming. They SA
+250) 8) dialog: I am relieved. Congratulations, Captain.
+250) 9) text: Pike containing a smirk, pins the medal to Kirk's chest.
+260) 5) text: I relieve you, Sir. PIKE
+260) 6) text: ... I am relieved. He opens a BOX in his lap -- glorious in repose, a MEDAL: PIKE (CONT'D)
+260) 7) text: And as Fleet Admiral, for your... unique solution to the Kobayashi Maru, it's my honor to award you with a commendation for original thinking. Pike containing a smirk, pins the medal to Kirk's chest.. PIKE (CONT'D) (a touch choked)

@@ -1,0 +1,18 @@
+81) 0) text: SID COURTNEY, a Black man in his fifties, wears a rumpled wool jacket, smokes a pipe.
+81) 1) dialog: Hello, Mr. Gardiner. This is Sid Courtney, Washington Post.
+81) 4) dialog: I'm sorry to disturb you, Mr. Gardiner, I know you must be very busy.
+81) 7) dialog: Then, I'll be brief. I covered the President's speech at the Financial Institute today, and since the Post would like to be as exact as possible, we would appreciate your comments on the meeting that took place between Mr. Rand, the President and yourself.
+81) 9) dialog: Good, sir. And so, it seems, did the President - but we would like to have some facts; such as, uh... What exactly is the relationship between yourself and that of the First American Financial Corporation?
+81) 11) dialog: Of course. But since he is ill I'm taking the liberty of asking you.
+81) 13) dialog: I see. Then one more quick question, Mr. Gardiner; since we at the Post would like to, uh - update our profile on you - what exactly is your business?
+81) 15) dialog: (to himself)
+91) 0) text: Courtney heads a meeting of his four staffers. One man, KINNEY, a research assistant, sits behind a stack of paperwork, has a downcast expression as he listens to Courtney.
+91) 1) dialog: ... Gardiner is laconic, matter-of fact. The scuttlebutt is that he's a strong candidate for one of the vacant seats on the board of First American. But before we can do any sort of a piece on the man, we're going to need facts on his background... (turns to Kinney)
+91) 5) dialog: (sighs, taps pencil on table)
+91) 8) text: ... I realize this sounds banal but there is no information of any sort on Gardiner. We have no material on him - zilch... The room is quiet except for the tapping of Courtney's pencil.
+115) 8) dialog: Try again.
+115) 10) dialog: Try again.
+115) 12) dialog: I said - try again. Kinney stands, shoves his paperwork across the table.
+128) 0) text: The same lounge as before. Sidney Courtney sits at the sa table as earlier, only this time with the editor of the Washington Post, LYMAN STUART. Courtney puffs on his pipe he speaks.
+128) 1) dialog: ... It's strictly rumor at this stage, Lyman - just something in the wind... 
+128) 3) dialog: I don't know. Like I said, it's just rumor so far, but we should start nosing around, see if we can talk to some people... The CAMERA begins to slowly MOVE AWAY from their table.

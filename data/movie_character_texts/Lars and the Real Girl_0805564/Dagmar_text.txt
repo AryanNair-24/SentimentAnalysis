@@ -1,0 +1,109 @@
+35) 0) text: Gus, Karin, Lars and Bianca drive through town to DAGMAR’ office. Gus is grim. Lars gives Bianca a tour, Karin list
+36) 0) text: Lars and Bianca sit with DAGMAR, a woman in her 60's, understated and humorous, with a carefully controlled intensity. She’s seen everything, but Lars and Bianca rea interest her. Dagmar checks the cuff on Bianca’s arm.
+36) 1) dialog: Well, her blood pressure’s low.
+36) 3) dialog: Could be. We'll have to wait and see. Lars is distressed though he tries not to show it.
+36) 5) dialog: I want you to bring her in every week for a special treatment. will you do that?
+36) 8) dialog: You set that up with Joanne at the desk, while I talk to Gus and Karin. I assume they’1l be involved...
+37) 0) text: Karin and Gus sit in front of Dagmar, arguing, with some heat.
+37) 6) dialog: If I may. Karin and Gus subside.
+37) 7) dialog: Has Lars been functional? Does he go to work, wash and dress himself?
+37) 16) dialog: There isn't a pill for lonely, Gus. This quiets both of them.
+37) 17) dialog: Of course I encourage you to get a second opinion. But I don’t believe he's psychotic or schizophrenic. I don’t think this is caused by genes er faulty wiring in the brain. sus So what the hell is going on?
+37) 19) dialog: That's what we have to find out. Chances are he’s been decompensating for some time. They look at her, perplexed.
+37) 20) dialog: Losing his psychological balance. Karin and Gus look at each other, both full of guilt for noticing.
+37) 22) dialog: Have there been changes in the family in the past year or so? (CONTINUED)
+37) 25) dialog: You know, this isn’t necessarily a bad thing. They look at her in disbelief. DAGMAR (CONT’D) What we call mental illness isn’t always just an illness. It can be a communication or a way to work something out. The delusion.
+37) 27) dialog: When he doesn’t need it any more. @ Gus and Karin try to take it in.
+37) 29) dialog: Go along with him.
+37) 31) dialog: She IS real. I mean, here she is.
+37) 33) dialog: You won't be able to change his mind anyway. Bianca's in town for a reason. (CONTINUED)
+37) 36) dialog: It’s not really a choice.
+37) 39) dialog: (matter-of-fact) Him AND you. Gussuffers. INT. DR. BERGEN’S WAITING ROOM -- MOMENTS LATER Karin and Gus return to find the toddler in Bianca‘s lap. kid is captivated by Bianca, making kid sounds that have e everybody laughing. Lars looks at Karin and Gus with pr
+56) 0) text: Bianca lies on the table. Dagmar looks at her, thinking. There’s a tap on the door and Lars steps in. They keep th voices low.
+56) 2) dialog: After the treatment, she has to rest. It doesn’t work without the resting. They watch her for a few seconds. DAGMAR (CONT’‘D) Keep me company? They tiptoe out. INT. DAGMAR’S OFFICE -~ LATER They sit together, it doesn’t feel like a therapy session all.
+56) 4) dialog: Iocan see that. She doesn’t have any parents?
+56) 6) dialog: Oh, that‘s not fair.
+56) 12) dialog: Yes. He died.
+56) 14) dialog: No. Lars touches the frame, compassionate. LARS. You must get lonely. Dagmar tells him the truth.
+56) 16) dialog: How about you?
+61) 7) dialog: Tell me about Karin, I don’t know her very well.
+61) 9) dialog: We don’t have to talk. Let’s find you something to read.
+61) 11) dialog: Of course.
+61) 13) dialog: Oh. Maybe you shouldn’t tell me.
+61) 15) dialog: Angry?
+61) 17) dialog: Hm.
+61) 21) dialog: Like a cut? Or a bruise? Lars has to think about it.
+61) 23) dialog: Happen with everybody? Lars shrugs, not wanting to admit.
+61) 25) dialog: So you don’t let people touch you. Isn't that a little hard to get away with?
+61) 27) dialog: You‘re right. Well, we can’t change Karin, but there is a cure for the burning. Lars is skeptical and hopeful.
+61) 29) dialog: Sure.
+61) 31) dialog: Especially at first. Lars considers.
+62) 0) text: Dagmar tests Lars by touching him. She pushes him with on finger.
+62) 2) dialog: Hurt?
+62) 5) dialog: Okay. That’s too much.
+62) 7) dialog: We'll try this. She holds his hand lightly. He winces- DAGMAR (CONT’D) It'll get easier.
+73) 0) text: Lars sits with Bianca. Across the hall he sees Karin who doing something in her bedroom. He notes her swelling bel his face unreadable. INT. DAGMAR‘S OFFICE Lars and Dagmar sit next to each other, arm in arm, light
+73) 1) dialog: Pain?
+73) 5) dialog: You must be excited about a baby on the way.
+73) 7) dialog: Don’t you want to be an uncle?
+73) 10) dialog: That's a shame. He gets up and paces.
+73) 12) dialog: Like yours.
+73) 14) dialog: You have a lot in common. He sits down with her again, agitated, wringing his hands
+73) 19) dialog: Things are different now. We've learned a lot, we haven’t lost a mother in years.
+73) 21) dialog: Yes. It could.
+73) 24) dialog: Put your head between your knees. He does. She rubs his back in circles, gently. He reacts pain, but lets her continue. DAGMAR (CONT’D) That’s a lot of pressure, Lars, to be the only one who knows the danger. Maybe we could talk to them about it.
+73) 26) dialog: But what about you? Lars keeps his head between his knees trying to catch his breath. (CONTINUED)
+73) 31) dialog: Most of us walk around in a dream, taking everything and everyone for granted. It’s hard to be the person who knows it’s a dream. Because YOU understand we're not just talking about a baby here. We‘re talking about life and death. Lars raises his head.
+73) 32) dialog: You see the big picture.
+73) 34) dialog: I know. But somebody has to. Lars sits up a little more.
+73) 36) dialog: That’s what it’s all about. Everything comes and goes. Can't be summer all the time. Lars sits up more, stubborn.
+73) 38) dialog: Oh, yeah? Ask Bianca about the rainy season. Lars hasn’t thought about this.
+73) 39) dialog: This is life, Lars. Mother Nature. She has to take her course. (CONTINUED)
+93) 0) text: Lars looks at Bianca. Dagmar looks at Lars, sensing somet different about him. They keep their voices low.
+93) 1) dialog: My office?
+93) 3) dialog: We'll both stay. She watches Lars who watches Bianca, troubled.
+93) 5) dialog: Congratulations! When's the happy day?
+93) 7) dialog: Oh, my.
+97) 0) text: Gus puts clothes from the washer into the dryer. Gus You should ask Dagmar.
+99) 0) text: Bianca leans against the tree trunk. LARS sits in the treehouse and looks at things from above. INT. DAGMAR’S OFFICE Lars moves around, restless, as Dagmar pretends to read a magazine. For a little bit he says nothing, then speaks abruptly. (CONTINUED)
+99) 4) dialog: No?
+99) 7) dialog: I'm not sure. I'm sorry. We knew it was a long shot. It’s the answer he expects, but it still hurts.
+99) 9) dialog: You tell me. Lars thinks. Dagmar waits, interested.
+99) 11) dialog: You could take her to the city and see different doctors who might know more.
+99) 13) dialog: We can always keep trying. (CONTINUED)
+99) 19) dialog: She might.
+109) 0) text: Dagmar takes Bianca’s blood pressure as Lars watches. She leoks at him and shakes her head slightly. Lars rubs his face.
+114) 0) text: Thoughtful, Dagmar looks at Bianca on the table. INT. HALLWAY —- CONTINUOUS Lars waits nervously. JOANNE walks by him. He catches her and blurts, desperate for reassurance.
+115) 0) text: Dagmar holds both of Lars’s hands, which doesn’t seem to bother him at all now. She’s very serious.
+115) 2) dialog: I think you're right. Bianca’s not responding to the special treatments. It hits Lars hard. DAGMAR (CONT’D) How's she been with you? (CONTINUED)
+115) 7) dialog: I don’t think there's anything we can do. (cautious) Have you thought about sending her back to the tropics? LARS. No! She doesn’t want to go, she doesn't want to leave me.
+115) 8) dialog: I understand.
+125) 0) text: Lars sits, pale and waiting. As in the time before Bianca seems far away. Dagmar enters and sits with them. She loo serious. Karin senses bad news.
+125) 2) dialog: Bianca‘s very sick. @ Karin looks at Lars. She and Gus are alarmed.
+125) 13) dialog: That’s up to her.
+125) 15) dialog: She knows. She’s a brave girl. No one knows what to say.
+125) 16) dialog: We'll observe her till she’s stable, but she wants to go home with you tonight. They all try to absorb this. Lars stands.
+128) 0) text: Karin, Gus and Dagmar in discussion. Dagmar is excited in own calm way.
+128) 2) dialog: We're not letting it happen, it’s Lars. It‘s always been Lars. Gus defends him.
+128) 4) dialog: No, no, of course not. But do you see? He’s making the decisions. He’s the one who found her unconscious, he’s the one who said she’s terminal.
+128) 6) dialog: Partly, I think it’s your mother. I think he’s reliving the greatest loss of his life. Only he's not a helpless infant now, this time he has a chance to come through it whole.
+128) 12) dialog: Everything connects. INT. GUS AND KAREN‘S CAR -- NIGHT Karin and Gus are quiet in front, holding hands as Gus dr home. Bianca reclines against Lars in the back.
+145) 0) text: Walking down the street from opposite directions, deep in thought, each bearing casseroles, Dagmar and Margo meet e other on the walk to the Lindstrom front door.
+145) 1) dialog: oh, hello.
+145) 3) dialog: I’m Dagmar. They go up the walk together.
+145) 6) text: Dagmar is
+145) 8) dialog: Unfortunately, we all have to go sometime.
+146) 0) text: Karin and Dagmar try to fit the casserole dishes into a refrigerat lurks at t All Margo’ They look eyebrows. or already filled with casserole dishes. Margo he door to the rest of the house, her mind on Lars.
+146) 1) dialog: Darn it. I thought about a ham.
+146) 3) dialog: You should freeze them, for when the baby comes.
+146) 7) dialog: (to Karin) Should I go up there? I trust your judgment.
+146) 12) dialog: (amused) Then you outrank me. They both look to Karin for advice.
+146) 14) dialog: Okay. He knows what he’s doing.
+152) 0) text: A funeral on a beautiful, sunny spring day. Around the gr people stand or sit in folding chairs. No one wears black Almost everyone we've seen is present except children. La sits with Karin, Gus and Dagmar. He has just finished a crying spasm, is distant and quiet for the moment, in the space between waves of grief. The mourners are a little restless, unsure of how to behave at such a curious occas
+153) 0) text: The service is over, people disperse, talking. Gus and Ka talk to various configurations of friends and neighbors. Dagmar watches Lars as he accepts condolences, hugs, shak hands, reaches out. Margo, too watches Lars from a distan
+153) 7) dialog: of course. cus What comes next?
+153) 8) dialog: @ As usual, I have no idea. They marvel at the strange and wonderful person Lars is.
+153) 10) dialog: The most creative, resourceful--and he’s strong, Gus, he's really strong. cus I never knew. I never knew him. Gus is full of emotion.
+153) 12) dialog: e It's a privilege. (CONTINUED)
+153) 16) dialog: I'll be there. He hugs her warmly, he goes. Dagmar stays in the backgrou watching, as people leave. She is amused and moved by the whole experience.
+154) 0) text: The cemetery is empty except for Lars, Margo and Dagmar, stand quite apart from one another. Margo and Lars are unaware of Dagmar. Lars looks at the headstones, his moth his father and “Bianca, Beloved Friend.” Dagmar starts to him, but from another direction, Margo joins Lars at the grave. Dagmar stops and watches.

@@ -1,0 +1,372 @@
+0) 3) dialog: Good morning.
+0) 5) dialog: Daniel Ocean.
+0) 7) dialog: As you say, ma'am, I was never charged.
+1) 0) text: Three PAROLE BOARD MEMBERS sit opposite Danny, behind a table.
+1) 2) dialog: My wife left me. I was upset.    I got into a self-destructive pattern.
+1) 6) dialog: She already left me once. I don't think she'll do it again just for kicks. Glances dart between the Board Members.
+1) 8) dialog: (deadpan)
+2) 6) dialog: My wife's. He opens the letter, and as his eyes gaze over the papers within, he smirks just a little.
+2) 10) dialog: I'm a free man.
+3) 0) text: Danny pulls on civilian clothes and there's not a bare thread among them. He tugs his cuffs and smiles: The old skin feels good. One last item to don: a silver wedding band. Danny considers it. Will he put it on?
+4) 0) text: A sign reads: "NEW JERSEY STATE MINIMUM-SECURITY CORRECTIONAL FACILITY." Someone has graffitied below it: "If you were in prison, you'd be home now." The great metal door opens, and Danny stands within its frame, ready for release. (If it matters -- and if you notice -- he's wearing his wedding ring.) He hovers   there for a moment, on the precipice of freedom.    The WIND WHISTLES a little on the other side the gate,   and the view ahead is not pleasant (New Jersey):    Life is hard out there. But Danny musters his courage, then takes his first step into free America...
+6) 0) text: ... And his wingtip lands squarely on plush red carpeting. As we PULL UP TO Danny's face and SPIN AROUND him, we hear, then see the BUZZ of a CASINO floor: the HUM of CONVERSATION, the DING-DING-DING and THUNK-THUNK-THUNK from the SLOTS, the brisk WHIR of SHUFFLED CARDS. And to Danny, it's a hearth and fire and a comfy chair and a snifter of brandy. He's home.
+6) 4) dialog: Hello, Frank. The new dealer (FRANK CATTON) glances up at Danny, and his eyes go wide, like a priest who's discovered he's dealing communion wafers to the pontiff himself. He quickly hides his astonishment. FRANK
+6) 5) text: I beg your pardon, sir. You must have me confused with someone else. My name is Ramon. See? He taps the name embroidered on his vest, although he is the most African-looking Ramon you've ever seen. A pit boss circles close by and glares at them both. DANNY
+6) 9) dialog: (as he goes)
+7) 0) text: Danny checks his watch -- 12:58 -- then the lounge around him: prison had more nightlife. He nurses a bourbon, folds back the New York Times and scans.
+7) 4) dialog: Ramon?
+7) 7) dialog: This afternoon.
+7) 10) dialog: (directly, this is why he's here)
+7) 14) dialog: You kidding? I just became a citizen again. Frank stares at Danny a moment, finally catches his eye, and Danny can't help but grin: of course he has.
+8) 0) text: MOVING WITH Danny and Frank.
+8) 2) dialog: That would be criminal.
+8) 4) dialog: Casinos.
+8) 6) dialog: Oh, yes...
+8) 8) dialog: Soon.   Interested?
+8) 9) text: Frank smiles.    Danny has his answer.
+9) 0) text: Danny pulls a business card from his jacket, picks up the phone again, and dials the card's number.
+9) 3) dialog: Yes, Officer Brooks? My name is Danny Ocean. I'm just out, I'm supposed to check in with you within twenty-four hours. (listens) No, sir, I haven't gotten into any trouble. No drinking, no sir. (listens, finishes his bourbon) No, sir, I wouldn't even think of leaving the state.
+14) 5) dialog: The bouncer mentioned there was a game in progress. I hope I'm not intruding.
+14) 8) dialog: I don't remember.
+14) 12) dialog: Why should I mind? Two cards, please... (long beat) I just got out of prison.
+14) 19) dialog: I stole things.
+14) 25) dialog: Gallery.
+14) 27) dialog: Headmasks.   Some.
+14) 29) dialog: My fence seemed confident enough.
+14) 31) dialog: Some people just lack vision.
+14) 35) dialog: Well, that's all behind us now.
+14) 37) text: Danny smiles, icily -- of course, it's not -- then pulls out his wallet.
+14) 38) dialog: I raise you five hundred dollars.
+14) 39) text: A hush in the room. Danny has thrown down the gauntlet. He and Rusty hold each other's stares.
+14) 53) dialog: (off Josh's further hesitation) What? Your girlfriend holding your purse?
+14) 54) text: That does it. Josh is in. The bet's to Danny. He checks his hand, and Seth starts to whisper to Topher.
+14) 55) dialog: Contrary to what Mr. Ryan may say, Seth, I always check my cards before I make a bet. But be cafeful. I could tell from your face you're holding three of a kind or better. (digging his wallet out) Five hundred to call. And two grand more.
+14) 56) text: Danny stares Rusty down.      The others look a little pa
+14) 60) text: Danny sets down his hand. Four nines. It's a winner. The others, jaws dropped, throw in their cards. For the first time tonight, Rusty blanches.
+14) 64) text: As Rusty plummets in the estimation of all the guys around him, Danny rakes in his pot.
+14) 65) dialog: Thanks for the game, fellas. (then) Hey, I hate to ask this, but could you sign something for me? It's for the guys in the joint. They just love all your shows.
+15) 0) text: A queue of clubgoers erupt in a frenzy as Topher and company exit, and they begin signing autographs. Danny and Rusty exit, too, but of course nobody gives a shit about them.
+16) 2) dialog: Unprofessional.
+16) 5) dialog: Why do you think I came to see you first?
+16) 6) text: Danny pulls out a wad of bills from his jacket, peels off half, and hands it to Rusty.
+16) 7) dialog: Ten grand.   Half of it's yours.
+16) 11) dialog: I've got something better for you.
+17) 2) text: Danny stares at him:       next subject, please.
+17) 4) dialog: It's tricky. No one's ever done it before. Needs planning, a large crew.
+17) 6) dialog: Not loaded ones. It has to be very precise. There's a lot of security. But the take...
+17) 8) dialog: Eight figures each.
+17) 13) dialog: (deep breath, then) When's the last time you were in Vegas?
+17) 15) text: Danny puts down his coffee. And shakes his head. And lifts three fingers: three casinos. Rusty must put down his coffee, too.
+19) 0) text: Lights out on the 40th. Engraved brass announces:     J.A KUEHN &amp; ASSOCIATES, ARCHITECTS. Two flashlight beams strafe wood-paneled, elegant offices: Danny and Rusty on late-night reconnaissance. As Danny prowls a cabinet full of blueprints, Rusty passes the time switching papers from a desk's in box to its out box. At last, Danny finds the right set of blueprints and drapes it across the desk; we, however, never see it.
+19) 1) dialog: The vault at the Bellagio.
+19) 4) dialog: Yep.
+19) 9) dialog: (flips to next blueprint) These feed into the cages at both the Mirage and the M.G.M. Grand. (tapping vault) But every dime ends up here.
+19) 11) dialog: Yes, they are.     Think he'll mind?
+19) 16) dialog: Like what, you think?
+19) 20) dialog: As long as we're hitting these three casinos, we'll get our bankroll. Terry Benedict has a list of enemies.
+19) 22) dialog: (smiles, too) Aha.
+19) 26) dialog: So...
+19) 28) dialog: Uh-huh.    So what are you saying?
+19) 30) dialog: Really? I thought it was much harder than that --
+19) 31) text: Suddenly the Security Guard's flashlight beam hits them square in the eyes. Danny and Rusty put their hands up to block the light.
+19) 32) dialog: Jesus, Oscar, lower it a little, will ya?
+19) 36) dialog: Yeah, thanks. You mind if we borrow a couple drawings for the night? Make some copies.
+19) 38) text: Danny withdraws his money clip, peels off a couple hundreds, and buries them in the Security Guard's hand.
+19) 39) dialog: 'Preciate it.
+19) 42) dialog: Why not do it?
+19) 44) dialog: Because yesterday I walked out of the joint wearing my entire wardrobe and you're colddecking TeenBeat coverboys. (beat) Because the house always wins. You play long enough, never changing stakes, the house takes you. Unless, when that special hand comes around, you bet big. And then you take the house.
+19) 50) dialog: A little. Did I rush it?   It felt like I rushed it.
+19) 54) text: Danny and Rusty look at each other.
+20) 0) text: REUBEN TISHKOFF, the grimace of a man in mid-movement, forever cemented on his face, scrutinizes his two lunch guests (Danny and Rusty) at his poolside.
+20) 2) dialog: It's never been tried.
+23) 2) text: Both Danny and Rusty look chastened.
+23) 4) dialog: Reuben, you're right. Our eyes are bigger than our stomachs.
+23) 7) dialog: Thank you so much for setting us straight. Sorry we bothered you.
+23) 10) dialog: It was our pleasure.
+23) 16) text: Danny and Rusty begin to circle the pool to leave. Tishkoff, of course, won't let them go that easily.
+23) 18) text: Danny stops, almost as if he's been waiting for this question, which of course he has.
+23) 19) dialog: The Bellagio, Mirage, and the M.G.M. Grand.
+23) 24) dialog: What do you have against him? That's the real question.
+23) 30) dialog: That's why we've got to be very careful. We have to be precise. We have to be well-funded.
+23) 32) text: Danny and Rusty both smile; they've hooked their fish. And so it begins...
+23) 34) dialog: Frank C. is in.
+24) 1) dialog: Frank C. has developed a bad case of bronchitis and is putting in for a transfer to warmer climates.
+25) 1) dialog: What about drivers?
+26) 2) dialog: The Mormon twins?
+26) 4) dialog: Electronics?
+27) 4) dialog: How are his nerves?
+29) 0) text: With a view of Livingston on the boardwalk...       Danny Rusty wait for him over espressos.
+29) 2) dialog: Phil Turentine.
+29) 6) dialog: No shit?   On the job?
+29) 8) dialog: You send flowers?
+29) 10) dialog: (onto next candidate) Basher...
+33) 0) text: The Chinese National Circus, currently on tour in the Western United States. Trapeze artists, gymnastic teams, and trampoline daredevils fly, somersault, spin, and swing through the air. A full house applauds every feat. Danny and Rusty sit in the bleachers, surrounded by parents and kids munching on spindles of cotton candy. Tough guys in toyland.
+33) 3) dialog: So he can walk on a rope.
+33) 5) dialog: So he can juggle. We need a grease man, not an acrobat. Who else is on the list?
+33) 9) dialog: Who else?
+33) 11) text: Halfway across the wire, the funambulist sits. And very slowly, but without hesitation, he contorts himself into a ball, never losing his balance. Even Danny is impressed.
+34) 0) text: Danny and Rusty exit the circus tent, head for their car.
+34) 1) dialog: We need Saul.
+34) 3) dialog: He get religion?
+34) 5) dialog: You can ask him.
+34) 6) text: Rusty stops, stares at Danny, sighs.
+36) 19) dialog: And Saul makes ten.
+37) 0) text: Danny and Rusty look weary from all this recruitment.   A nearby TV with the sound off plays a promo for an upcoming Tyson fight.
+37) 1) dialog: Ten should do it, don't you think? (as Rusty shrugs) You think we need one more? (as Rusty shrugs) You think we need one more. (as Rusty shrugs) Okay. We'll get one more.
+38) 6) text: The Stockbroker resumes his yacketing, oblivious, as Linus tucks his prize into his own jacket pocket, face betraying nothing. Only Danny appreciates the artistry performed here today. He folds the Sun-Times under his arm as...
+39) 0) text: ... The SUBWAY SQUEALS to a stop. Linus jumps out, leaving his prey aboard, and a few moments later, Danny steps off, too.
+42) 0) text: On a tabletop: the Gucci wallet beside a half-drunk Guinness. Linus enters the front door, cases the joint, spots the wallet on the table, and Danny behind it.
+42) 1) dialog: Hi, Linus.   Sit down.
+42) 3) dialog: A friend of Bobby Caldwell's.   Sit down.
+42) 5) dialog: Bobby told me about you. Said you were the best set of hands he ever saw. Didn't expect to find you working wallets on the subway.
+42) 7) text: Danny reaches into his jacket and sets a plane ticket on the table. He keeps his hand over it.
+42) 11) dialog: You're either in or out, right now.
+42) 13) dialog: A plane ticket. A job offer.
+42) 15) dialog: Bobby has every faith in you.
+42) 17) dialog: You do this job, he'll be trading on yours.
+42) 19) dialog: We'll get someone else who won't be quite as good. You can go back to feeling up stockbrokers.
+42) 20) text: Linus considers. He looks down at the ticket, then at the wallet. It's one or the other. A waitress passes, and Danny signals her for his bill. When his attention returns to Linus, the wallet remains... but the ticket beneath his hand is gone. Linus is reading it.
+42) 21) dialog: That's the best lift I've seen you make yet.
+42) 25) dialog: America's playground.
+44) 8) dialog: Gentlemen:    welcome to Las Vegas.
+44) 9) text: Danny stands at the top of the stairs leading into the room, flanked by Rusty and Tishkoff. He starts down...
+44) 10) dialog: Everybody eaten? Good. Everybody sober? Close enough. Most of you know each other already. You probably haven't met Linus Caldwell before, he's Bobby's kid outta Chicago.
+44) 12) dialog: Okay. Before we start, nobody's on the line here yet. What I'm about to propose to you happens to be both highly lucrative and highly dangerous. If that doesn't sound like your particular brand of vodka, help yourself to as much food as you like and safe journey. No hard feelings. (pauses, soberly) Otherwise, come with me.
+45) 1) dialog: Gentlemen: the 14000 block of Las Vegas Boulevard. Otherwise known as the Bellagio, the Mirage, the M.G.M. Grand. Together, they're the three most profitable casinos in Las Vegas...
+45) 4) dialog: Gentlemen: the Bellagio vault. Located below the Strip, beneath two hundred feet of solid earth. It safeguards every dime that comes through each of the three casinos above it. (beat) And we're going to rob it.
+45) 8) text: Danny picks up a remote control and flips on a panel of Tvs.
+45) 9) dialog: Courtesy of Frank Catton, new blackjack dealer at the Bellagio, security tapes from the three casinos.
+45) 14) dialog: Okay.    Bad news first. This place houses   a security system which rivals   most nuclear missile silos. First:    we have to get within the casino   cages --
+45) 16) dialog: -- which anyone knows takes more than a smile. Next: through these doors, each of which requires a different six-digit code changed every twelve hours. Past those lies the elevator, and this is where it gets tricky: the elevator won't move without authorized fingerprint identifications --
+45) 18) dialog: -- and vocal confirmations from both the security center within the Bellagio and the vault below - -
+45) 20) dialog: Furthermore, the elevator shaft is rigged with motion detectors --
+45) 22) dialog: Once we've gotten down the shaft, though, then it's a walk in the park: just three more guards with Uzis and predilections toward not being robbed, and the most elaborate vault door conceived by man. Any questions?
+45) 28) dialog: (smiles, happy someone asked) The Nevada Gaming Commission stipulates: a casino must hold in reserve enough cash to cover every chip at play on its floor. As I mentioned, this vault services each of the three casinos above it. That means: during the week, by law, it must hold anywhere from sixty to seventy million dollars in cash and coin. On a weekend, between eighty and ninety million. On a fight night, like the one two weeks from tonight, the night we're going to rob it, at least a hundred and fifty million. Without breaking a sweat. (gazing about room) Now there are eleven of us. Each with an equal share. You do the math.
+45) 35) dialog: (off everyone's astonishment) Oh, right. Sorry. I forgot to mention that.
+45) 37) text: Danny smiles, his broad, sure-of-himself grin, the one Rusty couldn't deny earlier and these guys won't deny now.
+45) 38) dialog: Yeah.
+45) 40) dialog: Alright.   Here's how we'll begin.
+46) 4) dialog: First task: reconnaissance. I want to know everything that's going on in all three casinos. From the rotation of the dealers to the path of every cash cart...
+47) 1) dialog: I wanna know everything about every guard, every watcher, anyone with a security pass. I wanna know where they're from, what their nicknames are, how they take their coffee...
+48) 1) dialog: Most of all, I want you guys to know these casinos. They were built as labyrinths, to keep people in. I want you guys to know the quick routes out.
+49) 1) dialog: Second task: power. On the night of the fight, we're gonna throw the switch on sin city. Basher, it's your show. Basher drops into the hole, pulling the cover over him, as we PULL UP OVER the Bellagio and...
+50) 1) dialog: Third task: surveillance. Casino security has an eye and ear on everything, so we'll want an eye and ear on them. Livingston...
+51) 8) text: Danny looks to Rusty who, behind them, tampers with Livingston's audio-video setup: several portable monitors, a laptop and modem, telephone headset, etc.
+64) 0) text: ... and transmits all the views of the cages onto the monitors upstairs. Danny and Rusty witness their appearance.
+64) 1) dialog: Why do they paint hallways that color?
+66) 1) dialog: Uh-oh.
+70) 0) text: Danny and Rusty simultaneously lean forward.
+72) 0) text: Danny and Rusty exhale.
+72) 1) dialog: Well...
+72) 3) dialog: Fourth task:    construction...
+73) 1) dialog: We need to build an exact, working replica of the Bellagio vault.
+73) 3) dialog: Something like that.
+73) 4) text: As Linus hauls in materials, Danny takes him aside.
+73) 5) dialog: Fifth task: intelligence. We need those codes, Linus. From the only man who has all three.
+73) 7) dialog: Learn to love his shadow. (back to the team) Sixth task: transport...
+73) 11) dialog: For now. You gotta walk before you crawl.
+73) 13) dialog: (toward the Malloys) Sixth task: transport...
+75) 1) dialog: ... Power, surveillance, transport...
+75) 6) text: Danny's eyes flash from Tishkoff to Saul, behind him, dressed in his usual frumpy attire: that's what he missed.
+75) 7) dialog: Get your wallet.
+76) 2) dialog: It's Armani, Saul.
+76) 4) text: Saul's not fooling anyone: he's scared, right down to his Florsheims. Danny nods to the tailor: "Give us a moment."
+76) 5) dialog: Saul, you sure you're ready to do this?
+76) 6) text: Saul turns away, and when he faces Danny again, his entire aspect has changed: His features stone, his eyes icicles.
+76) 9) dialog: You're ready.
+76) 10) text: Danny signals Tishkoff: let's pay, and Saul immediately slumps into his old self. To a mirror, he practices...
+77) 2) dialog: There's a little over twenty grand there, Saul. Try to make it last. Saul pats down his pockets for something he can't find...
+77) 4) dialog: (handing him Rolaids)
+77) 7) dialog: Good luck, Lyman.
+84) 15) text: Rusty looks up as... ... a beautiful woman (the one Danny saw on Benedict's arm in the New York Times photo) appears. Elegantly dressed, a knockout, she moves very much in her own private space. And Rusty's face just about drops at the sight of her.
+86) 4) dialog: 29:47.   Everything okay in there? Yen responds. Of course, Danny doesn't understand him. But Rusty does, appearing behind him.
+87) 0) text: Danny and Rusty adjourn from the warehouse.
+87) 4) dialog: What is it?
+87) 6) dialog: Ex-wife.
+87) 8) dialog: It's not.   About that.   Entirely.
+87) 10) dialog: You said you needed a reason. Well, this is mine. (beat) When we started in this business, we had three rules. We weren't gonna hurt anybody. We weren't gonna steal from anybody didn't have it coming. And we were gonna play the game like we had nothing to lose. Well, I lost something. Someone. That's why I'm here.
+87) 14) dialog: If things go to plan, I won't be the one who has to make that choice.
+87) 19) dialog: How'd she look by the way? Tess...
+91) 4) dialog: (standing over her, grinning) Hello, Tess.
+91) 6) dialog: I'm out.
+91) 8) dialog: Of prison. You remember. The day I went for cigarettes and never came back. You must have noticed.
+91) 10) dialog: (but he does) They said I'd paid my debt to society.
+91) 12) text: Danny smiles.    Tess stares daggers.
+91) 17) dialog: You're not wearing your ring.
+91) 20) dialog: My last day inside.
+91) 22) text: Danny reaches his hand (ringed) for hers (ringless), but she removes it from the table.
+91) 24) dialog: Benedict?
+91) 25) text: She freezes: Danny knows.       He smiles:   it's okay. to a passing waiter:
+91) 26) dialog: (his fingers two inches apart) Whiskey and -- (then one inch apart) -- whiskey.
+91) 28) dialog: You're doing a great job curating the museum.
+91) 30) dialog: The Vermeer is quite good. Simple but vibrant. Although his work definitely fell off as he got older.
+91) 34) dialog: And I still get Monet and Manet confused. Which one married his mistress?
+91) 36) dialog: Right.   Manet had syphilis.
+91) 39) dialog: You don't know how many times I played this conversation out in my head the last two years.
+91) 41) dialog: Yes.
+91) 43) dialog: You were never easy. (as she shrugs) Okay. I'll make this quick. I came here for you. I'm gonna get on with my life, and I want you with me.
+91) 45) dialog: I only lied about being a thief. But I don't do that anymore.
+91) 47) dialog: Lie.
+91) 51) dialog: No, he's very clear on both.
+91) 53) dialog: Year and a half.
+91) 56) dialog: I only have one?
+91) 58) dialog: Does he make you laugh?
+93) 2) dialog: You can't. But what you can do is not throw away another five years.
+93) 4) dialog: (leaning in) Listen, you don't love me anymore, you want to make a life with someone else? Fine, I'll have to live with that. But not him.
+93) 6) dialog: I'm not joking, Tess.
+93) 8) text: Danny exhales and leans back.
+93) 11) dialog: Yes. But that doesn't mean I'm wrong.
+93) 14) dialog: You said: you better know what you're doing.
+93) 16) dialog: I know what I'm doing.
+93) 19) dialog: Catching up.
+93) 21) dialog: (extending his hand) Danny Ocean.
+93) 27) dialog: I was shocked myself.   Imagine the odds.
+93) 29) dialog: About the same. Everything you want is still on the other side.
+93) 32) dialog: I just wanted to say hello.   For old time's sake.
+93) 35) dialog: (simultaneously) -- I can't.
+93) 38) dialog: You never know.
+93) 40) dialog: So I should put those towels back.
+93) 44) dialog: (smiles, rises) Good seeing you, Tess.
+93) 46) text: Danny goes.    When he's out the door...
+95) 0) text: Just down the block from the Terry Benedict Trinity stands (for a few remaining moments) the edifice of the Paradiso, Reuben Tishkoff's bankrupted hotel-casino. A crowd has gathered to witness its destruction: Terry Benedict, for one, his finger on the button and his face in the spotlight; Tess another, standing (near)by her man; Danny, too, hidden within the masses, eyes fixed on his ex; and Linus, who keeps a steady bead on Danny.
+100) 8) dialog: (as he hardly understands this either) Basher. What happened?
+101) 1) dialog: So...
+101) 3) text: Danny rises and paces, frustrated.      He's come too far things to go awry now.
+101) 7) dialog: By tomorrow?
+101) 8) text: Danny keeps pacing; Rusty hangs his head and thinks; Basher dries his hair.
+101) 10) text: Danny stops; Rusty looks up.
+101) 11) dialog: What -- is a pinch?
+103) 5) dialog: Could a pinch take out the power of an entire city? Like, I don't...
+103) 7) text: Danny and Rusty trade a look:        They have their answ
+103) 8) dialog: Where?
+105) 0) text: Turk and Virgil man the front seats as Danny, Basher, Yen and Linus huddle in the back. Basher and Yen both prepare equipment for their raid: hooks and a rope for Yen, a small blowtorch and a drill for Basher.
+105) 1) dialog: (to Basher and Yen) You two ready?
+105) 2) text: They nod and, with Danny, start out the van's rear door. Linus starts to follow but...
+105) 3) dialog: What are you doing?
+105) 5) text: Danny smiles and shakes his head.
+106) 0) text: Danny picks a lock, then he, Yen, and Basher disappear into the lab's interior.
+108) 0) text: Turk and Virgil are still wrestling as the trio appears. Danny, Basher and Yen pile in the back...
+108) 1) dialog: We got it.   Let's go.
+108) 5) dialog: Wait a minute.
+108) 7) dialog: Where's Linus?
+108) 8) text: Everyone realizes:    he's not here.   Just then: SIRENS and ALARMS and lights come to life.      Uh-oh. Danny spins to look out the back of the van, Basher by his side. His eyes scan the compound, then:
+108) 9) dialog: There he is.
+108) 10) text: of the lab, and its beveled-glass stairwell. Linus scrambles up its steps, a flight ahead of a duo of chasin guards. As he ascends out of sight... Danny shifts his focus to -
+108) 15) dialog: He knows where we are.
+110) 1) dialog: Alright, back it up, back it up!
+111) 3) dialog: (appearing from the rear doors) C'mon, c'mon...
+111) 4) text: Linus scrambles back over the van, and Danny and Yen pull him in. Virgil hits the gas for a quick getaway, but he does so before the rear doors are closed, and one of them slams shut right on Yen's hand -- CRUNCH!
+112) 0) text: as it hurtles away. Basher tends to Yen, cradling his hand, and Danny stares down Linus, breathless.
+112) 1) dialog: I say stay in the van, you stay in the van, got it? 'Cause you lose focus for one second in this game, and someone gets hurt.
+120) 2) text: Rusty, smiling, looks to Linus, glowering, then to Danny. Before Danny can explain the doors part at the Mirador Suite, where Livingston greets them urgently.
+121) 0) text: A mug-shot of Danny, complete with vital information: height, weight, criminal history.
+121) 2) dialog: This is a problem.
+121) 12) text: Before Danny can answer...
+121) 14) dialog: Who told you to do that?
+121) 18) dialog: My wife.
+121) 26) text: Danny and Rusty face off, furious with each other.
+121) 27) dialog: This isn't your call.
+121) 29) dialog: This is my job.
+121) 31) text: Danny stares daggers at Rusty. But he can see: everyone in the room is on Rusty's side. Defeated, he stalks out of the room, onto a balcony, but not without staring down Linus.
+121) 35) text: Linus's eyes drift to Danny outside -- whatever acrimony he felt before, he never meant to kick Danny off the job. He nods, half-cocksure/half-scared-pissless: he's up for it.
+121) 37) text: Livingston exits. Everyone else in the room staggers about, like witnesses after an execution. Rusty steps out onto the balcony, perhaps to console Danny, but (as Linus watches them from inside) their words cannot be heard.
+126) 2) text: Lookin' like a bad night for the house. MOVING WITH Benedict as he spies out of the corner of his eye Danny, lurking at a slot machine. To one of his guards...
+126) 20) dialog: Pops, you won.
+141) 9) text: Reuben pivots; it's Danny, and he strolls past Reuben and his lady friends and into the restaurant...
+141) 12) dialog: Try to keep your tongue in your mouth.
+141) 14) text: ... Reuben gets brushed from behind by the two Plainclothes Goons following Danny.
+141) 18) dialog: I'll just be a moment.
+141) 22) dialog: Tess...
+141) 24) dialog: I just came to say good-bye.
+141) 28) dialog: Good-bye.
+141) 29) text: Danny starts for her cheek, stops to see if it's alright with her -- she, sad-eyed, does not recoil -- and then gently kisses it...
+141) 30) dialog: Be good.
+141) 31) text: Danny leaves her.       Tess watches him go.
+141) 35) dialog: (resignedly, these men are much too big to tangle with) I thought he might.
+141) 36) text: The Plainclothes Goons escort Danny away, right past Reuben who frowns, concerned.
+145) 0) text: On a monitor: The sentry pushes the cart down a cage corridor. On another: Saul's briefcase is escorted by another guard to the vault elevator. On another: Danny is escorted inside the cage by the Plainclothes Goons.
+150) 0) text: Danny sits opposite two Plainclothes Goons in absolute silence, waiting.
+150) 1) dialog: How much longer do you think Mr. Benedict will be?
+150) 3) dialog: No cameras in this room, huh? Don't want anyone seeing what happens here? The Goons say nothing.   Danny checks his watch.
+150) 4) dialog: He's not coming, is he? The Goons look at each other; Danny has called their bluff.
+150) 5) dialog: Who is? There's a KNOCK at the door, and the Goons smile: Danny's about to find out who. One Goon rises to usher in... ... the BRUISER, come to beat the shit out of Danny Ocean. The guy's at least six-six, three hundred pounds, but it's not his size that draws attention, it's his teeth...
+150) 8) dialog: I guess Mr. Benedict didn't like me talking to his girl.
+150) 9) text: The Goons shake their heads. Danny smiles at the Bruiser, and the Bruiser snarls back, showing off those gums. He rolls up his shirtsleeves, itching to tear a hole in this man. The Goons head for the door.
+150) 11) text: The Goons exit. Danny and the Bruiser face off. And as Danny opens his mouth to speak, Bruiser's fist flashes out and knocks him down. Danny rises, wiping a little blood from his lip.
+150) 12) dialog: Jesus, Bruiser, not 'til later.
+150) 14) dialog: S'okay. (shaking it off) How's the wife?
+150) 16) dialog: Then we better get to work.
+151) 0) text: ... Danny climbs onto Bruiser's shoulders and pushes through the ceiling rafters, groaning every time Bruiser slaps his fist into his hand. OCEAN'S 11 - Rev. 1/8/01
+161) 0) text: Linus immediately reaches up to the elevator's ceiling, rips down its panel to reveal a trap door. As he starts to push it open... ... a hand yanks it free from above.    It's Danny.
+161) 1) dialog: You didn't really think I was gonna sit this one out, did you?
+161) 3) dialog: I do now. He reaches down and pulls Linus, wide-eyed, up to the roof of the elevator.
+164) 0) text: Danny rips off his jacket and shirt to expose a rappellin line wrapped around his torso. Linus does the same.
+164) 2) dialog: Crawlspace. And I had to give away a couple mil.
+164) 5) dialog: You think the kid bought it?
+164) 8) dialog: (nods)
+165) 2) dialog: Well, where's the fun in that? (starting toward elevator shaft ladder)
+167) 0) text: As Danny and Linus work, affixing suction-cupped anchors to their rappelling lines...
+167) 1) dialog: Who do you like tonight?
+167) 3) dialog: Tyson or Lewis.
+167) 7) dialog: You looking for action?
+167) 9) dialog: A buck it is.
+167) 11) dialog: (into his mike) Livingston, we're set.
+172) 0) text: Peering down into blackness, Danny and Linus prepare to let go any moment...
+172) 2) dialog: Never.   You?
+174) 1) dialog: Now! And he and Linus lean forward and fall...
+174) 8) text: And SNAP -- the CORDS reach their full extension, and Danny and Linus bounce up, watching the floor recede.
+176) 0) text: Coming to a rest about ten feet from the floor, Danny quickly pulls a slim blade and slashes the two coils straight across. He and Linus go tumbling to the floor as their drop lines recoil lightning fast to their elevator anchors, just before... ... the infrared lights go back on-line.
+179) 0) text: Linus and Danny arise from where they've fallen, clutching their heads and rubbing bruises. Danny doesn't recover as quickly.
+179) 2) dialog: No, but you're sweet to ask.
+184) 0) text: Danny and Linus pry open the elevator doors and squeeze out. Just beyond the next doorway stand... ... three UZI-CARRYING GUARDS, hovering outside the vault door and wondering what the hell just happened to the lights.
+186) 0) text: The Uzi-Carrying Guards turn their backs to the elevator shaft... ... and Linus and Danny appear in the doorway; they both snap gas pellets and slide them into the corridor.
+186) 3) dialog: Not yet. (a beat; another beat; then) Okay.
+187) 0) text: Danny and Linus enter, waving the faint remnants of the gas from their noses, tiptoeing past the guards' bodies.
+187) 2) dialog: I'm sure he's fine.
+189) 2) dialog: There's a Chinese man with a hundred sixty million dollars behind that door. Let's get him out.
+189) 3) text: Danny takes a flat hand and slaps the door hard.
+190) 0) text: Yen now sits perched atop the cash cart, Saul's briefcase opened beside him (he has removed half of Lyman's "emeralds"). He hears the muffled Danny's slaps and he knows: it's time for his leap. It's the same distance as the leap he made in the practice session, but this time he's only got one good hand.
+193) 3) dialog: Okay.
+194) 0) text: As Basher enters, Livingston and Frank watch on a monitor Linus punching in the combination he stole from Benedict as Danny unravels a thin electrical wire connected to a detonator.
+195) 2) dialog: Counting down from twenty -- (checking watch) -- now.
+196) 2) dialog: -- seventeen, sixteen, fifteen --
+197) 2) dialog: -- eleven, ten, nine --
+199) 2) dialog: -- one --
+200) 3) dialog: I don't know.
+200) 6) text: Danny blanches.    Linus shoots him a look. OCEAN'S 11 - Rev. 1/8/01
+202) 0) text: As Danny checks his batteries (the types with built-in power meters: both at zero percent), Linus ransacks the Uzi-carrying Guards' gear for replacements. He finds AA's in their flashlights.
+202) 2) dialog: -- and someone gets hurt, yeah yeah. I don't hear Yen complaining.
+204) 4) dialog: Do it.
+205) 0) text: Danny and Linus enter. Silence. The cash carts have crumpled, and the vault gratings, blackened, have held.
+205) 1) dialog: Amazing?
+213) 4) dialog: Good-bye. Danny starts for her cheek, stops to see if it's alright with her -- she, sad-eyed, does not recoil -- and then gently kisses it... ... as he slips the cell phone into her handbag, unnoticed.
+243) 0) text: Bruiser throws a mean left hook across Danny's face as the door swings open and Benedict steps in. Bruiser sees him and steps away, toweling off his bloodied knuckles. Benedict studies Danny: the man is a bloody mess, head rolling, eyes puffed up.
+243) 2) text: The Goons step in, slap Danny alert.       At last, Danny recognizes Benedict in the room.
+243) 3) dialog: (a little punchy) Heya, Benedict... How's the other fight going?
+243) 6) dialog: Did I have a hand in what?
+243) 7) text: Benedict scrutinizes Danny: Is he bluffing?       He look Bruiser, then Danny again, and decides: no.
+243) 9) text: As the Goons scoop him up and drag him out, Danny catches Bruiser's eye for just a moment. And barely winks.
+244) 5) text: CLICK.   Tess does so. On her TV: A security-angle of the cage hallway.   The Goons appear, escorting bloodied Danny out. As Tess gasps, we go live to...
+245) 0) text: Where Benedict follows the Goons and Danny out, brooding: what's his next step? Walsh approaches.
+245) 1) dialog: You get robbed or something, Benedict? Geez, that's a shame.
+245) 4) text: The Goons stop, spin Danny around to face Benedict.
+245) 7) dialog: What would you say if I told you you could get your money back... (beat) ... if you gave up Tess? (beat) What would you say?
+247) 1) dialog: Well, that's very interesting... (beat) ... but I didn't have anything to do with it.
+248) 0) text: The Goons haul Danny out. Tess has left, heartbeats ago: the room's door is just closing.
+253) 0) text: Tess exits, searching for Danny.   She rounds the buildin to...
+254) 0) text: Where a LVPD squad car has just arrived to take goon-held Danny away. She runs toward it.
+254) 2) text: They do. As Danny is handcuffed and prepared for loading in the back, he and Tess hold each other's glance.
+254) 6) dialog: I knew what I was doing.
+254) 12) dialog: (shrug) Three to six months, I should think.
+255) 3) dialog: Thirteen million and you drive that piece of shit cross country to pick me up?
+255) 5) text: They shakes hands.    Rusty looks Danny over.
+255) 10) dialog: Your eyes got closer together. (beat) How's life?
+255) 12) text: MOVING WITH Danny and Rusty toward the Mercedes, together again.
+255) 14) dialog: To a phone.
+255) 17) dialog: My what?
+255) 18) text: Danny gets to the passenger door and looks in to see Tess sitting in the back. She smiles at him.
+255) 19) dialog: (smiling back, then) I'm not sure these belong to me.
+255) 21) text: Danny and Rusty get in.      Danny kisses Tess.   Rusty S the CAR.
+255) 22) dialog: We need to find Rusty a girl.
+255) 26) dialog: You said you sold this.
+255) 28) dialog: Liar.

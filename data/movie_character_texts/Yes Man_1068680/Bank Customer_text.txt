@@ -1,0 +1,18 @@
+7) 3) dialog: Hey, I need to speak to a loan specialist and there's no one on the floor.
+7) 8) dialog: But there's no one around.
+7) 12) dialog: You're really not going to help me?
+7) 15) text: The Bank Customer sits down in the sectioned off waiting as Carl stands in the middle of the floor. It is very awkward. No one comes in. Carl slowly moves so a column blocks the customer's view of him.
+7) 38) text: The Bank Customer comes around.
+7) 40) dialog: Can you help me now?
+33) 5) dialog: I need to speak to a loan specialist.
+34) 7) dialog: I want to refi my house and spend the capital on my personal business. I see you've got a 5.25 7 year ARM, but over at Chase they're offering 5.00 7 year ARM. Can you refi lower, like at 4.85 par example, or am I going to have to bring my beeswax elsewhere?
+34) 11) dialog: Yes?   That's it?
+34) 15) dialog: Selling beanie babies online.
+34) 19) dialog: More like highly profitable.    I've crunched the numbers.
+34) 50) dialog: (NERVOUS) So, what'd he say?
+34) 54) dialog: I can't afford the payments on ten. You can't do five thousand? This is the fifth bank I've been to. Please?
+34) 71) text: The Bank Customer HUGS Carl.
+34) 73) dialog: Thank you so much! I promise I won't let you down, Mr. Kendall. On me.
+34) 74) text: The Bank Customer hands Carl a panda beanie baby.
+34) 78) dialog: Of course.     Aren't you just a dear?
+34) 79) text: The Bank Customer leaves.    Carl can't help but be touch

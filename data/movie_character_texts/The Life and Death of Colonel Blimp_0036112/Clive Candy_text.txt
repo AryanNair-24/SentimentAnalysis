@@ -1,0 +1,471 @@
+0) 25) dialog: Half a mo'! Those belong to Theo.  Put them with the alarm-clock. (EDITH does so.) How's your own packing going? (Looks at watch.)
+0) 27) dialog: Well, you'd better hurry up then.
+0) 29) dialog: Don't be so sure. We've only got  half an hour if we are going to call  at the Embassy first. I can manage  here. Come on, stop mooning about!
+0) 31) dialog: Keep your hair on! (He stares.) I say, old girl, what's up?
+0) 32) text: She turns away. He revolves round her with a bewildered l peers in her face. She looks back at him. She is crying. CLIVE is frightfully taken aback and quite helpless.
+0) 33) dialog: Edith! I say - Edith! What's the  matter? It's not because I didn't  call for you yesterday, is it? You  know В— Frau von Kalteneck left last  night for the South.
+0) 35) dialog: But you knew she was going!
+0) 37) dialog: I can't help it if you don't like  horses, can I?  We went to see her  racing-stables - she has some fine  [[horses]] [beasts] but they're too  fat. Edith! do stop crying! Suppose  somebody comes in.
+0) 39) dialog: Look!  I promise to take you out the  first night we're back in London!   [[We'll go to]] 'Her Majesty's'  [Theatre] - 'The Last of the Dandies' -  they say it's [an] awfully good  [show].
+0) 41) dialog: What paper? What do you mean? Is  that what's making you cry? 
+0) 46) dialog: You'd better! We'll meet in the hall!
+0) 48) text: CLIVE looks after her with a frown for a moment. Then his face clears. Girls are strange and anyway there will be l of time to find out what's wrong. He looks ruefully at th books, which are all German editions.
+0) 49) dialog: What am I going to do with them? I  don't read German.  Miss Hunter got  them for me.
+0) 51) dialog: Clever Nurse Erna. (The [[Brunhilde]]  [Mignon] Aria is  whistled outside.) So Clive Candy's name will always  live in a corner at Stolpchensee! (Changes tone.) But I must write my name in them. (He hears the whistle.) Hullo, Theo!
+0) 52) text: THEO appears at the window. During the first part of the  scene CLIVE is writing his name in the books.
+0) 54) dialog: Kann ich come in?  
+0) 55) dialog: Certainly, [come in] my old horse. (As THEO climbs  through.) My old steeplechaser!
+0) 58) dialog: Packing.
+0) 60) dialog: Well, of course! Und Sie? How much  longer Sie?  
+0) 62) dialog: Eh?
+0) 67) dialog: Now look here, don't disturb her,  she'll never be ready! (To THEO) Ich mussen call at Embassy, old man -  get my ticket nach London.
+0) 70) text: NURSE KONIG leaves the room. CLIVE does not understand at all. He shrugs despairingly points to the drinks.
+0) 71) dialog: Drink? 
+0) 73) dialog: All right. What the blazes is up  with everybody?
+0) 75) dialog: Of course we're friends! 
+0) 77) dialog: (Stares) Where's your dictionary, old chap?  You must have got two pages stuck  together!
+0) 79) dialog: (Can't believe his  ears) Say that again!
+0) 81) dialog: You're cuckoo! 
+0) 83) text: CLIVE stares. Gets up. Examines THEO again.  THEO nods. C suddenly smiles.
+0) 84) dialog: Congratulations! (He grabs THEO'S hand.) When did it happen? Why don't I know  about it?  
+0) 86) dialog: Duel? I- (Thumps chest.) Ich!  Fight anyone who tries, to  stop it! Now will you have a drink?  
+0) 88) dialog: (Pouring) But you know, old man, Edith was  never my fiancee.
+0) 90) dialog: (Handing drink) Not my fiancee! ( (Chinks glasses.) Lovely girl! Sweet girl! (They drink.) But not my fiancee!
+0) 93) dialog: Have a drink, Nurse Konig! Where's  the fiancee?
+0) 96) dialog: Then we go up. Come on, Theo!
+0) 100) dialog: Edith!  
+0) 103) dialog: Edith, my child! I feel like a proud  father! 
+0) 105) dialog: I have to give you away, don't I? 
+0) 107) dialog: Theo told me in fluent Double Dutch.
+0) 109) text: They all dissolve in laughter.  CLIVE hands round drinks.
+0) 110) dialog: A toast! This to the happiness of my  fiancee who was never my fiancee and  of the man who tried to kill me before  he was introduced to me.  Prosit!
+0) 112) dialog: (Puts down glass) May I kiss the bride?
+0) 114) text: EDITH looks at CLIVE. He steps swiftly forward and takes in his arms for the first and last time. They kiss each other. It is an important moment. It is a  brotherly and sisterly kiss; but for a fraction of a seco both close their eyes. When CLIVE'S eyes are open his whole expression has chang Suddenly he has realized the truth.
+0) 116) dialog: Goodbye, Edith - old girl. I hope  we'll meet again sometime -
+0) 118) text: CLIVE turns to THEO and takes his hand. He still holds  EDITH'S. He is just a little drunk.
+0) 119) dialog: Now look here, you son of a gun! You  won't understand a word of what I'm  going to say - but I came to Berlin  to find a rat and found two of the  grandest people I ever met. [[I'm a  little bit drunk.]] I leave to you,  you Prussian stiff-neck, this girl  in trust; and if you don't take care  of her I'll raise the whole of England  against you! The Navy will steam up  your stinking Stolpchensee!  I shall  lead the Army down Unter den Linden!  and we'll -
+0) 121) text: CLIVE stops, stares, finishes his drink and pours out ano one for himself and THEO. THEO has an inkling of how the land lies. He looks gaily tenderly at them both before he speaks.
+0) 130) dialog: So would I, sir.
+0) 132) dialog: Well, sir, I suppose I thought I'd  take a chance.
+0) 134) dialog: No, sir.
+0) 136) dialog: Thank you, sir.
+0) 138) dialog: Sorry, sir, I'm taking someone to  the theatre.
+0) 140) dialog: I haven't met her yet, sir.
+0) 142) dialog: Yes, sir.
+0) 163) text: CLIVE, at last, responds.
+0) 170) dialog: (Whispers to his  companion) [[What is the world coming to?]]  [Wonders will never cease.]
+0) 172) dialog: (Indicating girl with  Hoppy) Sybil Gilpin out without her mother!  [And with Hoppy too.]
+0) 174) dialog: Hoppy! Sybil!  
+0) 176) dialog: [[And to think that I sent Hoppy to  take my place - ]] [I know,] I seem  to be a born matchmaker.
+0) 180) dialog: [[Good evening]] [Hello], Pebble! 
+0) 182) text: She half closes the door, slips the chain and opens it wi CLIVE steps in. They talk in low tones as she closes the  door and takes his things.
+0) 184) dialog: [[Never mind, Pebble. Don't wake  her.]] [All right, don't disturb  her.] I didn't feel like going to  the Club tonight.
+0) 186) dialog: I say, Pebble, how did you feel when  you buried Mr Pebble?
+0) 188) dialog: No. From the theatre. But it was the  same thing, in a way.
+0) 190) dialog: On the contrary. It was a musical  play. Is the bed in my Den made up?
+0) 193) text: [[CLIVE signs to PEBBLE not to give him away.
+0) 198) text: CLIVE smiles and comes running up the stairs to her.
+0) 199) dialog: All right. I'm going.
+0) 202) dialog: Very well. Let's go!
+0) 205) dialog: And I can stay?
+0) 207) text: CLIVE at once runs upstairs and puts his aunt down on the landing again.
+0) 208) dialog: How are you, Aunt Margaret?  
+0) 214) dialog: Am I staying?
+0) 216) dialog: I say? Who put up my South African  heads?
+0) 218) dialog: They don't look half bad, do they?
+0) 221) dialog: Good night.
+0) 224) dialog: You're on.
+0) 226) dialog: No.
+0) 228) dialog: Not exactly.
+0) 230) dialog: I went to the theatre tonight.
+0) 232) dialog: With a girl.
+0) 234) dialog: Oh, it's nothing to do with her.
+0) 236) dialog: I saw Hoppy with Sybil Gilpin. They're  married!
+0) 238) dialog: With Sybil? Oh, no.
+0) 240) dialog: (Judicially) Hoppy could give her a couple of  stone.
+0) 242) dialog: A Miss Hunter. I met her sister in  Berlin.
+0) 244) dialog: Very. I mean the sister.
+0) 246) dialog: The one that stayed in Berlin.
+0) 248) dialog: ([Pauses]) No.
+0) 251) dialog: I know. It's awful.
+0) 253) text: CLIVE looks around the big cosy room. He looks gratefully his aunt [[and puts his arm round her shoulders]]. Both of them look up at the heads on the wall. [Clive casts a growing shadow on the wall.] We see the heads, each with its plate, bearing the date a place where the late owner came face to face with the Bri acquisitive instinct. Music starts to play.  The walls become covered with trop from all parts of the British Empire: Trophies: Rhinocero Onyx, Lion, Tiger, Indian Elephant, Sambhur, Tarpon, Mahs Crocodile; Places: British East Africa, Sudan, Rhodesia,  Mysore, Upper Burma, United Provinces, St Helena, Kashmir Ganges Delta;  Dates: 1903, 1905, 1906, 1907, 1910, 1912,1914.  After 19 the wall is blank. The camera shows the bare wall, then swings to show a new trophy. A German spiked helmet, covered in khaki cloth, o the type used in the Great War. The inevitable plate says simply: 'HUN.  FLANDERS, 1918.
+0) 259) dialog: (Mutters) The question is: whether that is the  Church with the double tower, or the  'Estaminet du Pont'?
+0) 261) dialog: Damn it, Murdoch, you're supposed to  know the road!
+0) 264) dialog: Eh? Got a scent?  
+0) 266) dialog: For'ard then!  
+0) 273) dialog: You've a marvellous eye for loot,  Van Zijl.
+0) 275) dialog: (Chuckles) Where d'you get 'em?
+0) 280) dialog: (Saluting) Good evening.
+0) 282) dialog: Can we get through to the R.T.O. in  Dupuis-sur-something?
+0) 286) dialog: Tell him to hold a place on the leave- train. When can I leave here?  
+0) 288) dialog: Right. Will someone look after  Murdoch?
+0) 291) dialog: If any of you have got an important  letter or message home, I'll take  it.
+0) 293) text: CLIVE goes across. VAN ZIJL follows, calling over his  shoulder:
+0) 297) dialog: What are these prisoners?  
+0) 299) dialog: The Second Regiment of Ulans? I'd  like to question them.
+0) 302) dialog: Any officer with them?
+0) 304) dialog: Where did you nab them?
+0) 306) dialog: How the blazes did they get to know  about that?
+0) 308) dialog: (Stares) Are you suggesting our fellows talked?
+0) 310) text: A little pause follows.  CLIVE is thinking, a fact betray by a heavy frown and an occasional 'Hm!' He shakes his head as if unwilling to believe something. ZIJL watches him, half affectionately. The slim, dark Sou African is a contrast to the solid Englishman. He produce paper from his pocket.
+0) 311) dialog: (Finally speaking) [Well if they are,] They're cracking,  my dear chap. It's a sure sign. Nobody  starts to fight foul until he sees  he can't win any other way. I quite  believe Hindenburg, who I hear said  the other day that until now ' Germany  has used her arms with honour - (After a slight pause.) I admit he said nothing about her  legs.
+0) 314) dialog: What?
+0) 316) dialog: Let me see it.
+0) 318) dialog: Oh! Well, read it.]]
+0) 321) dialog: (Grim smile) What else?
+0) 324) dialog: (Thoughtfully) There's a rumour that the Kaiser  abdicated yesterday.
+0) 326) text: CLIVE smiles and walks over to the line of prisoners. The have heard VAN ZIJL reading Ludendorff's appeal but they  have given no sign of having understood.] GENERAL CANDY walks down the line, examining each prisone closely. He stops and walks back to a commanding position front of them.
+0) 327) dialog: Do any of you know Oberst Kretschmar- Schuldorff?
+0) 329) dialog: Don't play deaf! He was an Oberst in  your Regiment the last time I heard  of him - Oberst Kretschmar-Schuldorff,  Second Regiment of Ulans!
+0) 331) dialog: Which of you can speak English?
+0) 335) dialog: Ah! Now [[I want to tell you  something]] [listen to me]. We don't use the same methods that I  hear you use on your prisoners. But  I assure you that we have means to  get what we want. (Pause.) What was this explosive found on you  intended for?
+0) 337) dialog: (Blusters) Don't lie!  
+0) 340) dialog: You took three of our men prisoner  two days ago.
+0) 342) dialog: Then how did you know about the  bridge?
+0) 344) dialog: (Bellows) Then why were you carrying dynamite?
+0) 348) dialog: What have you got?
+0) 350) dialog: Beastly stuff!
+0) 352) dialog: Thanks. I'll take my chance in Dupuis.  Pity I've got to go. I'd like another  [[try]] [shot] at those prisoners.
+0) 354) dialog: Right! Make your report to Brigade.
+0) 359) dialog: Dirty night! I prefer Natal to  Flanders! Don't you, Van Zijl?
+0) 361) dialog: (Laughs) Good luck with your new enemy!
+0) 363) dialog: Not much chance of that.
+0) 366) dialog: He only lost his way three times  coming here!  Carry on, Murdoch.
+0) 427) dialog: (Shouts) Sentry!
+0) 429) dialog: (Shouts) SENTRY! (To MURDOCH) There must be somebody there! Who  opened the gate? SENTRY!!  
+0) 433) dialog: 11.15. How far are we from Dupuis?  
+0) 435) dialog: (Jumping out into the  mud) Now then, Murdoch! (To SENTRY) Come on, man, come on! Give us a  hand! I don't want to spend the night  here!
+0) 438) dialog: Don't waste stamina talking nonsense,  my boy. Push!
+0) 442) dialog: (Indomitable) I shall walk to the village. Murdoch,  wait here for a truck and then follow  me.
+0) 444) dialog: (To SENTRY) Which way, sentry?  
+0) 446) dialog: Hm!
+0) 449) dialog: (Calls) Ask at the R.T.O.'s office!]] 
+0) 458) dialog: I am Brigadier-General Candy.
+0) 460) dialog: Are you a Railway Transport Officer?
+0) 462) dialog: Did you get my chit?
+0) 464) dialog: Yes.
+0) 466) dialog: [A] message, man, [a] message! [I  want transport to London. It's  urgent.]
+0) 468) dialog: Thanks. (He shows his papers.]]
+0) 470) dialog: Well - never mind. I've got a spot  of leave. Going to London. Want to  touch Paris.]]
+0) 474) dialog: [Yes, very.] When does my train leave?  [[When do I get to Paris?]] Where do  I change? And where can I get some  food?
+0) 476) dialog: (Explosively) [[Ami-le-Bon!
+0) 478) dialog: Thank you, I know that. Now look  here, my boy - I've been to that  blasted Estaminet- ]] I've come from  Ami-le-Bon to catch a train here!   [My motorcar is stuck ...] 
+0) 480) dialog: I'm glad you think so.]]
+0) 482) dialog: What do you mean?
+0) 484) dialog: [[What news?]] [What's what?]
+0) 487) dialog: [[Old trick]] [Nonsense]. German  propaganda. [Old trick to] Put us  off our guard.
+0) 489) dialog: [[Well, what about trains?]] [What  about my train?]
+0) 491) dialog: (Stands up) In this war I've seen ammunition  dumps without ammunition, field- kitchens without cooks and railway  stations without rails, so I suppose  I shouldn't be surprised at anything. (Raises his voice.) But let me tell you, young man, that  in the Boer War or in Somaliland  this sort of inefficiency would not  have been tolerated for a second!  Not for a second! (He changes his tone.) Now where can I get some grub?  
+0) 493) dialog: Food, man, food.]]
+0) 495) dialog: What is it? A pub?
+0) 497) dialog: A-a-dash it, I don't speak your  language, sir - a cafe?
+0) 499) dialog: [[Good. Well,]] show me the way,  will you [[- what's your name - er -  Lieutenant]]?
+0) 501) text: CLIVE: Schmidt, eh. German name?  
+0) 510) dialog: Poor show I couldn't get a train  tonight.
+0) 520) dialog: I can manage, thank you.
+0) 527) dialog: Ici le Convent, Madame?
+0) 529) dialog: Je suis [[une Colonel]] [un General]  anglais.
+0) 534) dialog: Merci, madame, [[je suis - je suis  mange - ]][... les Americains ...  j'ai mange ...]
+0) 537) dialog: Oui-mange -
+0) 542) dialog: Bonsoir, Madame.]
+0) 545) dialog: (Smiles) I was beginning to think so.
+0) 547) dialog: (Startled) Trouble, Matron?  
+0) 549) dialog: She got it wrong - I want to eat.  I'm hungry!  
+0) 551) text: Everyone smiles. The NUN titters. The MOTHER SUPERIOR and the MATRON have a hurried conference out of which the MAT emerges with an invitation. While they have talked, GENER CANDY looks down the crowded tables. He sees a girl. She is seated about halfway down the table. She has eaten and, like several of the nurses, has fallen asleep. CLIVE stares and stares. He knows that face and we know i too. The girl wears her hair differently, she is much you than Edith Hunter - but her face is very like Edith's. CL longs to see the colour of her eyes. [[The MATRON turns to him.
+0) 553) dialog: Thank you. (To MOTHER SUPERIOR) Merci, ma mere.]]
+0) 555) text: The MATRON leads the way down the table. CLIVE will pass  quite close to the girl.
+0) 557) dialog: (Absently) Good heavens! What insect powder do  you use, Ma'am?
+0) 558) text: MATRON laughs heartily. As they pass the sleeping girl, CLIVE CANDY stops  involuntarily. Yes, the girl is strangely like Edith Hunt The MATRON is now at the head of the table.
+0) 560) dialog: Splendid! (He still can't take  his eyes off the  girl.)
+0) 562) dialog: Matron! Have you ever seen the Indian  Rope trick?  
+0) 564) text: CLIVE nods.
+0) 566) text: A plate is put before CLIVE loaded with macaroni. We see with CLIVE'S eyes the girl start to wake up. She s sleepily.
+0) 568) dialog: (Slowly) But I never [[met]] [heard  of] anybody who saw it unless he  [[first]] heard [[that]] he was going  to see it [first].
+0) 570) dialog: You hear about the thing. You hope  to see it - and you - see it.
+0) 571) text: He eats his macaroni, never taking his eyes off the girl. The MATRON puts CLIVE'S vague way of talking down to  tiredness. The nurses around are all starting to get up a a general exodus starts towards the door. The girl stands with the others as the bench is pushed back. 
+0) 573) dialog: (Trying to see his  girl in a sudden  panic) [[Can you - who is that girl, please,  Matron? - The one who just got UP -  ]] [One moment, Matron, do you know  that girl over there?]
+0) 576) text: CLIVE is standing now, [[his fork still in his hand. He i strangely near panic. He turns to his neighbours who are  also going. He just manages to stop one of them. Already the others are streaming towards the door. The NURSE he h stopped looks at him with frank interest.
+0) 577) dialog: Tell me, who was that girl who was  sitting there?]] 
+0) 578) text: [As the nurses leave, CLIVE speaks to a NUN.
+0) 579) dialog: Ou est le matron?
+0) 581) dialog: (To one of the nurses) Nurse, do you know the name of the  girl who was sitting at the end of  that table?]
+0) 583) dialog: (Moving down to the  place) Here. She was sitting here asleep.]]
+0) 585) dialog: Fair.
+0) 587) dialog: She's - fair. I couldn't see the  colour of her eyes. [Slim.]
+0) 589) dialog: (A last attempt) Where do you come from tonight?   What detachment are you?
+0) 602) dialog: Come on, Murdoch, come on!
+0) 604) dialog: Am-Ile-Bon!
+0) 609) dialog: ((For the tenth time) How long now?  
+0) 611) dialog: You've said that ten separate times.
+0) 613) dialog: Well, hurry! The train leaves at  10.30.
+0) 615) dialog: [[It's 9.30 now.]] I need extra time  in Ami-le-Bon. I'm going to G.H.Q.
+0) 617) dialog: [[Don't talk]] [Stop talking] like  an infernal parrot, Murdoch. How do  you know?
+0) 619) dialog: Who told you?
+0) 621) dialog: What did he say?
+0) 623) dialog: (Controlling himself) Your misinformation, Murdoch, is  typical.
+0) 625) dialog: The reason I am 'up in the air', as  your informant grotesquely describes  a very natural emotion, is because  this information was obtained by  intimidation!  By mental torture! By  firing squads!  By the same methods  that the Boches use!  If we are  fighting gangsters that is no reason  why we should behave like gangsters,  too.
+0) 627) dialog: (Reads report) Bah! Four pages of 'confessions'!  Not worth the -
+0) 628) text: He breaks off. Something in the report has caught his eye He reads it with interest. MURDOCH straightens up and wip his hands. He has finished. He watches his officer. INSERT: Item in the official report [(only the name is  visible). [['On being questioned about their senior offic the prisoners admitted that, among others, Oberst]] Krets Schuldorff [[had been taken prisoner by the British, and believed now to be a prisoner of war in England...' CLIVE is so interested in this news that he quite forgets how it was obtained.
+0) 629) dialog: Hm! Kretschmar-Schuldorff! There  can't be two of them with a name  like that, eh, Murdoch?
+0) 631) dialog: You have no idea what I'm talking  about.
+0) 633) dialog: Haven't I told you about that time I  was in Berlin in 1902.?
+0) 635) dialog: And yet you[['ve never heard]] [can't  remember the name] of Kretschmar- Schuldorff. You know, [[Murdoch,]]  you should bequeath your brain to  Guy's Hospital, [Murdoch]. 
+0) 637) text: CLIVE suddenly remembers the girl of the previous night. is silent for a moment. Then he speaks in an entirely  different tone, which very few people have heard.
+0) 638) dialog: Last night, Murdoch, I saw a girl -  a nurse straight from England...  I've never seen a more striking  resemblance...
+0) 640) dialog: She was a most uncommon - what the  devil d'you mean, Murdoch? 
+0) 644) dialog: Yes. (Signs pad.)
+0) 646) text: CLIVE reads it.
+0) 648) dialog: No. No answer.
+0) 651) text: CLIVE shakes his head. They are alone in the immense  landscape, battered and trampled by four years of sensele stalemate war. CLIVE takes a flask from his pocket, unscr the little cup and fills it with brandy. He hands this to MURDOCH. CLIVE stands holding the flask.
+0) 652) dialog: Murdoch - the war is over.
+0) 654) dialog: The Germans have accepted the terms  of the Armistice.  Hostilities cease  at ten o'clock. (He looks at his watch.) [[It is now a quarter to ten.]] [It's  nearly that now.] 
+0) 656) dialog: Yes, Murdoch, may God bless us in  peace as He has in Victory.
+0) 657) text: He turns full of emotion and walks a step or two.  He turns and listens. Far away, born on the wind, there comes the sound of a mi cheering, louder and louder as every moment passes.  CLIVE turns to MURDOCH. He is exultant.]] 
+0) 658) dialog: Murdoch! do you know what this means? 
+0) 660) dialog: For me, Murdoch, it means more than  that. It means that Right is Might  after all. The Germans have shelled  hospitals, bombed open towns, sunk  neutral ships, used poison-gas - and  we won! Clean fighting, honest  soldiering have won! God bless you,  Murdoch.
+0) 673) text: A beautiful, large garden. The great pile of 'The Hall' i the distance. The tiny figure of the HOUSEKEEPER on the  terrace. Faintly her voice is heard calling: 'Barbaraa! [Lunch is ready.] Miss Barbaraaaaaaaa!!'   In another part of the grounds, BARBARA WYNNEand CLIVE CA are talking together. A great sweep of country is visible beyond a great yew hedge. They have the copy of the Yorkshire Telegraph and Argus w them. BARBARA is, of course, the same girl whom we have seen in nurse's uniform in the Convent of the 'Crown of Thorns'. is dressed in what, in 1919, was considered a ravishing  creation: rather like a badly tied sack. CLIVE is in uniform. He is a full Brigadier now. He looks very strong and fit, far less than his forty-three years. Distantly we hear 'Barbaraaaa!'  
+0) 674) dialog: Oh dear.
+0) 676) dialog: Can I ask you a question first? 
+0) 678) dialog: How can you be so sure?  I'm twenty  years older than you - and I'm a  soldier. When other people are  thanking God the war is over, I am  going to the War Office to ask: Where  is another war where you can use me?
+0) 680) dialog: I'm asking you again because I want  to hear it again [and again].
+0) 683) text: CLIVE looks at her.
+0) 684) dialog: Same here! That's how I imagined my  future wife!
+0) 687) dialog: I hope he's tender.
+0) 694) text: During the BISHOP'S speech, CLIVE and BARBARA have glance at each other several times. CLIVE is guiltily rolling br pills. At the finish, after a little hesitation, he gets and stumbles into a speech replying. He starts to tell hi story as a good joke but as he sees it is falling flat, h gets more and more self-conscious, while as he speaks the faces of his listeners get more and more embarrassed. Onl BARBARA is unperturbed.
+0) 695) dialog: [[Your Grace]] [My Lord Bishop], I  want to make a confession. You see,  I first saw Barbara in Flanders on  the last night of the war. ((He glances at MRS 
+0) 697) text: There is a painful silence. The BISHOP does not rise to t occasion. But BARBARA does. She reaches for CLIVE'S hand holds it, smiling up at him.
+0) 701) text: A car of the period drives up and stops outside. It is an piled with luggage and dogs.  BARBARA is driving. CLIVE s beside her. They both look radiantly happy. She wears a  wedding ring. They both look up at the house; she Critically, he affectionately. It is the first time she s it.
+0) 703) dialog: Wrong. Next floor is the Den. That's  the bathroom. 
+0) 706) dialog: ((Nods) His idea of greeting the conquering  hero, I suppose.
+0) 708) dialog: [[(Looks at her I do.]] (He kisses her.) Aunt Margaret would have loved you  for that! (They go on talking  as idiotic lovers  do.)
+0) 710) dialog: No fear. Even if there is a second  Flood, this house shall stand on its  solid foundations and we'll have a  private lake in the basement.
+0) 712) dialog: (Raising his hand,  repeats) ... till the floods come...
+0) 714) dialog: (Repeats solemnly) ... and this is a lake!
+0) 715) text: MURDOCH appears at the entrance and stares in surprise at CLIVE standing there with his hand raised. He runs smartl down the steps. His manner, like his costume, is an Armis one: half-military, half-civil.
+0) 719) dialog: The first time I've ever heard him  answer anything but: 'Yes, sir!'  Well, Murdoch, this is [[my]] [the]  wife.
+0) 725) dialog: That's all right, Murdoch, but we're  not staying this time. Off tonight.
+0) 727) dialog: Paris for eight weeks. When we get  back we'll give a big party and put  our feet up for a bit.
+0) 731) text: CLIVE crosses to the table. MURDOCH continues to BARBARA:
+0) 738) dialog: I say, Barbara - ! (She crosses to him.) Here's an answer from the Prisoners  of War Committee -
+0) 740) dialog: (Very excited and  pleased) Yes. Theodor Kretschmar- Schuldorff,  Oberst, 2nd Regiment of Ulans of the  Guard.  That's him! Camp VII Hardwick  Hall, Derbyshire. Poor old Theo!
+0) 743) text: CLIVE looks up, worried. His face lights up as he sees he expression.
+0) 766) dialog: He said 'No [answer]'?  (He frowns  incredulously) What else? 
+0) 770) dialog: (BARBARA reads it, passes it to the  Major. 
+0) 771) text: INSERT: message.  'Dear Theo, I am in the Commandant's Of I want to see you, "very much ". Clive Candy.'
+0) 773) dialog: It was a joke we had...
+0) 780) dialog: Hm - mm - [[something in that - good  deal in fact - ]] 
+0) 782) dialog: Perhaps I should have written in  German.
+0) 785) dialog: Major Davies, would you mind if I  went down and had a try?  Perhaps it  was because of the music - there's  an interval now.
+0) 787) text: BARBARA, who has risen, sits again.  She and MAJOR DAVIES understand each other.  CLIVE nods and moves to the windo
+0) 788) dialog: (Half to himself) Can't understand it.  I've written  to him before the war and he has  written to me...
+0) 794) text: In the interval of the concert, the audience has broken u into groups, individuals are pacing up and down, some are smoking and talking. There is no loud chatter or laughter. The general effect serious, even solemn. Depression bangs over the stiff-nec assembly. CLIVE comes down from the house, walking quickl looking about him for THEO. He comes among the groups of officers. Nobody takes direc notice of him. The orchestra starts to tune up. People start to move bac to their places. CLIVE stops one group and addresses a senior officer.
+0) 795) dialog: Oberst Kretschmar-Schuldorff?
+0) 797) text: He moves off. CLIVE whirls round.  He stands directly in between THEO and his place. THEO is advancing straight towards him, separated by two or three groups, also moving to their places. Seeing CLIVE, THEO stops. Not a muscle of his face or lig in his eyes betrays his thoughts. CLIVE, on the contrary, advances with a broad smile that  overflows his whole being. He is coming to his friend. He puts out his hand...
+0) 798) dialog: Theo!
+0) 799) text: THEO turns and walks away.  It is the greatest shock CLIVE has ever had. He stands  petrified, staring after his friend. THEO throws away his cigarette, treads on it and returns his place in the audience. Nearly everyone has settled  himself. CLIVE is left standing alone. [[The Conductor takes his place amid polite applause.]] [The music starts again.] CLIVE shakes his head as if he still can't believe what h happened to him. He looks ten years older. He turns and slowly walks away. THEO never looks after him. The orchestra plays the opening chords of [[Beethoven's F Symphony]] [Mendelssohn's Hebrides Overture].  CLIVE goes towards the house. He again shakes his head. For the seco time, there is something 'blimpish' in his behaviour. He stops and looks back, almost as if he is expected to s the figure of his friend, hastening after him.  But the l between him and the distant audience is empty.
+0) 805) text: CLIVE appears at the window. He has recovered himself a  little. He comes in.
+0) 806) dialog: Well, it's true. I saw him and he  wouldn't speak to me. (He looks at BARBARA  and sits down.) I wouldn't have believed it possible.  He was as close as I am to you and  he turned away without saying a word.  You could have knocked me down with  a feather!  (BARBARA gives him  his tea. He stirs  it.) I kept on looking back, you know. I  couldn't believe he wasn't joking. (To MAJOR DAVIES) What on earth is wrong with him?
+0) 808) dialog: What 'Dignity', what 'Honour'?  Who  has hurt his 'Ehre'? They lost, we  won. What of it. We've been defeated  too sometimes. Fortune of war!  
+0) 810) dialog: I was taught to be a good loser. (He stirs his tea.) When are they going to be repatriated?
+0) 814) dialog: If you're passing through London,  drop in!
+0) 823) dialog: Ah, Davies.
+0) 825) dialog: (Smiling) [[Awfully sorry, old man.]] [I'm  afraid] You haven't read the  invitation properly.
+0) 827) dialog: We'll find you something.
+0) 829) dialog: On leave?
+0) 831) dialog: Come and have a glass of port.
+0) 839) text: He obviously hasn't got the name but is too polite to say so. He puts down the receiver and goes to get his master. We go close to the receiver. The man at the other end of wire is whistling - the Mignon Aria. CLIVE and MURDOCH co from the dining room.
+0) 840) dialog: Couldn't he 'phone tomorrow? Where's  he speaking from?
+0) 842) dialog: What name? 
+0) 844) dialog: Kretschmar-Schuldorff!  Murdoch,  that brain of yours ought to be in a  bottle! 
+0) 846) dialog: Theo! [[You old son-of-a-gun! Where  are you?...  Victoria? What are you  doing there?]]
+0) 850) dialog: Cut the cackle. What have you to say  for yourself?]
+0) 853) dialog: [[Wait a minute! Don't hang up!   It's only a quarter past nine, now,  I want to see you... Who says I can't?  I've got the G.S.O.I. in charge of  all military transport here to dinner,  as well as your Camp Commander.]]  [Major Davies. Come here a minute,  will you?] (To THEO) I'll send you back to Derbyshire if  you're not careful! - Now you just  sit tight and we'll come and get  you.
+0) 855) dialog: You've got to come and have a glass  of port! You can't leave England  without having a glass of my port.  Where did you learn that perfect  English of yours?]]
+0) 873) dialog: Sorry to have dragged you out like  this, Piggy. 
+0) 881) dialog: Now look here - I can't leave you  two.
+0) 883) text: The door is opened by CARTWRIGHT and THEO appears, a doub smile on his face. He carries his suitcase and greatcoat. CLIVE goes to him and this time THEO doesn't turn away.
+0) 885) text: [[They are travelling through brightly-lit London streets CLIVE sits opposite THEO to see him better. [They are sit side by side. Both are friendly, but THEO is more reserve
+0) 886) dialog: [[Theo!]] You Prussian stiff-neck!  The only way is to kidnap you!
+0) 888) dialog: (Introducing) OberstKretschmar-Schuldorff-Major-  General Blomfield - Major Davies,  you know.
+0) 890) dialog: (Examining him) [Now, let's have a look at you.]  You've worn well, old chap. Still  got my mark on you, I see.
+0) 895) dialog: Home. Come on! I've a taxi waiting.
+0) 897) dialog: When were you captured?  
+0) 899) dialog: You were lucky. You missed the worst  of it.
+0) 901) dialog: [That's what you think.] (Changing subject.) Have you heard from home?  Have you  any children? How is Edith?  
+0) 903) text: He passes across one of a bundle of [[Red Cross postcards [photographs] he has in his pocket. CLIVE looks at them. [[INSERT: typical Red Cross postcard from Germany filled and signed by Edith in German.]) 
+0) 904) dialog: Boys, eh? Now that one's exactly  like Edith.
+0) 906) dialog: (Tolerantly) [Oh] You Germans are all a bit  [[mad.]] [crazy. You wait till you  meet] Barbara [[will]] [ - she'll]  tell you what's what.
+0) 908) dialog: [[Did I tell you I was married? By  the way, old man, you're going to  get a bit of a shock when you see  Barbara - ]] [My wife. Oh, of course,  you don't know I'm married. You'll  get a bit of a shock when you see  her.]
+0) 910) dialog: (Chuckles) [[She's more than that!  You'll see!   She's out now - taken her mother to  the theatre. But she'll be back in  time.]] [I don't mean that. You wait  and see. Of course, you won't see  her. She's gone out to the theatre  with her mother. Never mind.]
+0) 913) text: They get out, THEO clinging to his bag and coat. MURDOCH  appears. THEO looks up at the house as CLIVE pays the tax
+0) 916) dialog: You're right about the draughts, my  boy. That's what blows us English  out of our houses and all over the  world - eh? - he? (Roars with laughter.) I must tell that to Barbara!
+0) 920) dialog: D'you like it?  It was left me by my  Aunt. Murdoch: leave the Oberst's  things there and have a taxi at  eleven. Come on, Theo!
+0) 922) dialog: Now leave everything to me. I want  you to meet some of the men you've  been fighting with!
+0) 926) dialog: Gentlemen, this is [my friend] Oberst  Kretschmar-Schuldorff. (There is a murmur of  acknowledgement.) [Sir Archibald Blair, shining light  of the Foreign Office. General  Beveridge...
+0) 928) dialog: Major-General Taylor-Grant - General  Keen - Major Michael Cornish and his  brother Major John Cornish -[[Rear]]  Admiral Sir Merton Barrow of the so- called Senior Service - Commodore  Brandon-Crester, ditto - [Major Davies  you know. 
+0) 930) dialog: [[Sir Terence Blair, from the Colonial  Office - Lord Clement-Selby,  Lieutenant Governor of Gibraltar]]  [Colonel Hopper, aide to the Governor  of Gibraltar] - Sir William Rendall,  [[First Secretary to the Viceroy]]  [on the Viceroy's staff] - George  Metcalf of Uganda - Sir John  Bembridge, just back from Jamaica - Colonel Mannering, [known to the  press as] the uncrowned king of  Southern Arabia - Mr Christopher  Wynne, of Bradford, England, my father- in-law. [Embodiment of all the solid  virtues.]
+0) 932) dialog: [[Drink, Theo?]] [Sit down, Theo.  What will you have to drink?]
+0) 936) text: CLIVE pushes boxes towards him.
+0) 937) dialog: Cigar? Cigarette?  [They're both on  the table - thousands of them.]
+0) 939) dialog: Turkish! Virginian!]]
+0) 944) dialog: Ah, Barstow. (To THEO) Colonel Barstow of the Royal Air  Force.
+0) 955) dialog: [[We nearly had a lot! Ha! Ha!]]  [Bit too thorough for us!]
+0) 962) dialog: Oh, we're not too bad. [Drink up,  gentlemen.
+0) 965) dialog: At [Victoria, in the bar of] the  Grosvenor. [[They're]] [He's]  hostage[[s]] [for the Oberst].
+0) 968) dialog: [[Defend]] [Protect]? Against what?
+0) 970) dialog: (What people?]])
+0) 974) dialog: Do you [[think]] [mean to say] our  people would attack you in that  uniform?
+0) 977) dialog: You've got the wrong end of the stick,  old man. The war's over. There's  nothing to bear malice about. You're  a decent fellow and so are we!
+0) 981) dialog: You'll feel different when you're  home again.
+0) 983) dialog: Who says so?
+0) 989) dialog: Of course not.] Read the papers,  man! The English papers!  [[I]] [We]  can't ask you to be [[my]] [our]  friend, if [[I]] [we] rob you and  humiliate you first. That's how we  all feel. We want to be friends!
+0) 994) dialog: How is the old German scepticism?
+0) 998) dialog: Give my love to Edith!  Tell her -  no, don't tell her anything! Come  and see us sometime in London, or  wherever we are!
+0) 999) text: A whistle blows. THEO'S luggage is passed in. CLIVE shake him warmly by the hand.  THEO looks out at the smiling fa He shakes his head in amazement.)
+0) 1002) dialog: Well, I think we made an impression  on him!
+0) 1011) dialog: [[... so I told]] [The last thing I  said to] him: 'My dear old chap,  [don't you worry,] we'll soon have  Germany on her feet again!'
+0) 1013) dialog: Theo? I believe so. I hope so. [[Don't  you?]]
+0) 1016) dialog: Was I humming?
+0) 1018) dialog: (Pauses) What'll I do if I don't hum?
+0) 1019) text: They laugh and hold hands in front of the fire. He kisses her hand. An album of snapshots, Embassy invitations, mementos. INSERT: Times death notice, 'Clive Candy wishes to thank kind friends who have written o sympathize with him in hi irreparable loss.  He hopes to answer them all personally due course' The album's pages are all blank after this.] The camera moves up to the trophies on the wall. [New ones start to appear, dated up to 1938.  A map of  Germany, focusing on Munich.]
+0) 1084) text: The door opens and CLIVE appears.  [[During his last words a disturbance has started outside and has gradually grown in intensity, doors are slamming, voices are raised and, as everyone looks around at the do it bursts open and, flanked by awed policemen, MAJOR-GENE WYNNE-CANDY enters the room]]. He is, of course, three years younger than when we met hi in the Turkish Bath at the beginning of our story, but he physically much the same and he is much more self-assured and pompous now, before the disappointments of the next t years have deflated him. He talks very loudly and goes  straight to the JUDGE as the only person worthy of his  attention, beside THEO.
+0) 1085) dialog: By gad, sir, Lord Prendergast was  right!  He told me I'd never find  this blasted school!  My card, sir!
+0) 1086) text: He flings his card down on the table. INSERT: visiting card. 'Major-General Clive Wynne-Candy,  V.C., D.S.O. 33 Cadogan Place, s.w.i. Boodles Club.']] 
+0) 1087) text: CLIVE has grabbed THEO, pleased and bewildered[[, turned to the light and slaps him on the back]].
+0) 1088) dialog: [Theo, my dear chap,] Let me have a  good look at you, [[old bean - my  old German bean - eh? - dashed good!]] (Roars with laughter.) By gad, you've kept your figure better  than I have! (He slaps his tummy.) Bit of a bay window, eh? [[But there's  life in the old dog yet! (He turns to the JUDGE.) Sorry, sir, to butt into your court- martial, unpardonable intrusion and  all that sort of thing, but I only  got down from the North yesterday  and I'm off to France - well, mustn't  say when, but damn soon!  В— Found  this idiot's letter waiting for me,  put Sherlock Holmes on his track,  got his address - (To THEO) Don't think much of your choice in  digs, old chap - they said you had  to come here В— the war, I suppose -  so I dropped Buggy Prendergast at  the Club - he'd had enough - and  came along myself to take you home  with me - (To JUDGE) If it's all right with you, sir.
+0) 1089) text: CLIVE obviously takes it for granted that it is.
+0) 1091) dialog: Why not? 
+0) 1093) dialog: (Explodes) Pooh! Ridiculous!
+0) 1096) dialog: (With great charm) Gad, sir, I'm awfully sorry. I come  bursting in like a bull in a china  shop! You're absolutely right, sir,  you're absolutely right! I apologize!
+0) 1097) text: He extends his hand, the JUDGE has to take it. CLIVE shak it vigorously and points to THEO, who is looking admiring at his friend's easy authority.
+0) 1098) dialog: I know him well, sir, and I'd go  bail for him anywhere.  You can have  all the credentials you want. I know  everybody in London who is anybody!  Is this a Home Office or a Foreign  Office do? Can I use your telephone?  Hullo! Hullo! Operator! (Jerking at THEO.) He's just exactly the opposite of  the men we ought to be interning!   Hullo!  Operator!]] [You see, sir, I  wouldn't be surprised if this fellow  really dislikes us. He comes to  England twice in his life: the first  time he's a prisoner and the second  time he's about to be one.  May I  talk to him, sir? I haven't seen him  for nineteen... er...
+0) 1100) dialog: Twenty years and a bit.
+0) 1102) dialog: You mean to say that I've travelled  eleven miles from В— mustn't say where -  and you won't allow me to have a  word with a condemned man? 
+0) 1104) dialog: Tomorrow morning, sir, and infernally  early too. 
+0) 1106) dialog: And can I take him with me?
+0) 1108) dialog: Do I know him? 
+0) 1110) dialog: With everything I have, sir.]
+0) 1115) dialog: [[Why midnight?]] [The night is young  yet.]
+0) 1117) dialog: (Blimpish nod) Ah-yes...
+0) 1121) dialog: Early parade, eh?  
+0) 1125) dialog: Yes, they put me on the retired list  in '35. But I knew they'd want me  again. Back I went on the active  list like a shot. (Changes the subject.]) I mean, why don't you stay here?  I've eighteen rooms. (Bellows.) Murdoch!
+0) 1129) dialog: All right, Murdoch, it was nothingВ—no!   [[As you were!]] (To THEO) Stay a little longer, I'll send you  back by car. Murdoch, tell Miss Cannon  to be here at quarter to twelve.
+0) 1133) dialog: [[Johnny]] [Miss] Cannon, my driver.  [[A.T.S.]] [M.T.C.]
+0) 1135) dialog: (Nods, then says  suddenly) You never met my wife. Do you want  to see [a picture of] her?
+0) 1137) dialog: You got further with it [then] than  I ever got.
+0) 1139) dialog: My dear fellow, don't tell me you  [[never knew]] [didn't know]...
+0) 1141) dialog: [[That I - dash it, don't]] [you]  make me blush!
+0) 1143) dialog: Well - I thought it was written all  over my face when I left Berlin in  [[19]]02.
+0) 1145) dialog: (It is a great secret) I was in love with [her - ] your  wife.
+0) 1147) dialog: She never knew.
+0) 1149) dialog: Dash it - I didn't know then. But on  the train I started to miss her - it  was worse on the boat - and by the  time I was back in London -well, I'd  got it properly. My Aunt Margaret  got on the scent [[right]] [straight]  away, women have a nose for these  things. Besides I did a stupid thing!   First night back I took out her  sister... 
+0) 1151) dialog: Edith's.
+0) 1153) dialog: Yes. Martha.
+0) 1155) dialog: (Gruffly) Thinking her sister would be like  she was.
+0) 1157) text: CLIVE nods.
+0) 1158) dialog: Yes.] 
+0) 1160) dialog: That's just it, I [[didn't]] [never  did get over it]. Theo, this may  sound a damn silly thing to say to  you but I never got over it. [[I  suppose you could]] [You may] say  she was my ideal - if you were some  [sort of] sickening long-haired poet  В— all my life I've been looking for  a girl like herВ—so now you know В—
+0) 1162) dialog: Yes... dreadfully. She was exactly  like Edith. I'll show her to you...
+0) 1168) dialog: Isn't she like Edith? Eh? See the  resemblance?
+0) 1169) text: Now actually it is quite hard for THEO to see any resembl at all. CLIVE'S memory of Edith is different from THEO'S. She has always stayed young to him as he last saw her. TH continues to stare at the picture.
+0) 1171) dialog: (Blimpish agreement) Hm! -yesВ— [[suppose so]] [of course]  В— but she was [[very]] [exactly]  like her -
+0) 1173) dialog: She wanted it. I call this my Den,  you know. She knew I always used to  come back here, we had a joke about  it - all my stuff is here. It would  be an awful gap without her ... 
+0) 1175) dialog: Have a peg - what?  
+0) 1177) dialog: (Pouring out drinks) It wasn't a foreign country. It was  Jamaica.
+0) 1180) text: CLIVE stands in the half-open door, a bright light stream from the hall. THEO is beside him in an overcoat of obvio Continental cut. MURDOCH stands half-way with a torch.  The car, JOHNNY CA at the wheel, is waiting. CLIVE shakes hands warmly with THEO.
+0) 1182) dialog: [[Nothing to worry about!]] [Don't  worry about anything.] Everything  under control.
+0) 1186) dialog: Oh, shut up, Murdoch.
+0) 1190) dialog: (Bellows) You know the way, [[Miss Cannon]]  [Angela]?  
+0) 1194) dialog: Did you see the Warden? 
+0) 1247) text: UNDERGROUND CORRIDOR Crude functional architecture. Crude glaring lighting. An impression of great depth and streng Many people are bustling to and fro with papers. The lift has just arrived down. CLIVE comes out with several other He looks tired and worn, but otherwise all right. He glan at the ultra-modern clock on the wall. It shows 20.45. CL is accompanied by a GUIDE.
+0) 1251) dialog: (Turns a terrifying  eye on her) [[Mm!  - ]] [Yes.]
+0) 1254) dialog: Never heard of him!
+0) 1256) dialog: [[Mm! - Mm - Ah, yes!]] [Oh, has he?   Good. (Following her.])
+0) 1258) dialog: Lead on!
+0) 1260) dialog: When does my [[ - ah!]] broadcast  start precisely?
+0) 1263) dialog: [[Lots]] [Plenty] of time [[-good- ]]!
+0) 1266) dialog: Regular rabbit warren, eh?
+0) 1268) dialog: Beehive of industry. D'you like  working here? 
+0) 1270) dialog: You can tell that from the  programmes.]
+0) 1271) text: They arrive at a door: 'H. Marsh, Acting Director'.  With knocking, the GIRL opens the door. [SECRETARY opening door to MARSH'S office General Wynne- Candy.] CLIVE walks innocently in. She closes it with relief behi him.
+0) 1274) dialog: I don't think I've met you, sir.
+0) 1276) dialog: (Accepting) Very snug quarters here. And deep!
+0) 1278) dialog: Quite agree!  Back to the Stone Age,  what? (He puts down his  cigarette.) Think I'll leave this, if you don't  mind. Bad for speaking. Makes my  throat dry.
+0) 1280) dialog: [[Can't be worse than Dunkirk.]]  [Well, I'm used to trouble. I'm a  soldier.]
+0) 1282) dialog: (Stares, goes purple) [[Considered? Considered? Who is  considering? Why?]] ['Think it's a  little ill-timed.' Who has been saying  that? Why?]
+0) 1284) dialog: Don't talk to me about war! (He stands up.)
+0) 1286) dialog: I have been asked to describe in  this broadcast my views of the cause  of the Retreat and its aspects for  the future. There they are!  I have  been serving my country for forty- four years. What was your position  before this one, sir?
+0) 1288) dialog: What? A lawyer!  Well, I was a  soldier. And before that, I suppose  you were at college. And I was a  soldier. And I was a soldier when  you were a baby, and before you were  born, sir, when you were nothing but  a toss-up between a girl's and a  boy's name - I was a soldier then! (He suddenly stops,  collects himself,  stares at Mr Marsh.) I'm deeply sorry, sir. I know it's  not you.
+0) 1290) dialog: I will make the necessary enquiries  through the War Office. I'll have a  light for this cigarette now, if you  please.  [[Thanks. Pity I sent my  car away.]]
+0) 1307) dialog: Hullo, Theo. If supper's ready, you  can serve it, Murdoch.
+0) 1309) dialog: Hm? Why?
+0) 1312) dialog: Cancelled! At the last minute. Pity  we hurried like we did, Angela. (To THEO) We didn't leave the War Office until  [[twenty-five]] [five and twenty] to  nine.
+0) 1314) text: (CLIVE holds out his hand. MURDOCH gives him the letter. op ens it.)
+0) 1315) dialog: Paul Reynaud [has] resigned. Petain  is Prime Minister.
+0) 1317) dialog: What? (He has started reading  the letter.) Oh, yes - bad news.
+0) 1319) dialog: (Looking up) Ah - yes! (Goes on reading.)
+0) 1330) text: She looks towards CLIVE. He is still reading. He turns ba to the first page and starts re-reading the whole thing.  THEO and JOHNNY continue to talk in low tones.
+0) 1338) text: CLIVE mechanically folds the letter. He is only half  listening.
+0) 1339) dialog: Ah-yes.
+0) 1342) dialog: (Absently) All right. Sit down, Angela. Theo!
+0) 1344) dialog: Sit down, both of you.
+0) 1348) dialog: (In a normal voice at  last) If you're worried about sitting down  with your General, then stop worrying.  I'm not a General any more.
+0) 1350) dialog: Retired [again]. Axed!  They don't  need me any more. 
+0) 1353) dialog: No you don't! 
+0) 1355) dialog: Different kettle offish!  [[Your  country was]] [You were] made to do  it. [But] We're not finished - nor  am I! Just starting! (Bites moustache.) - I've often thought - somebody like  me dies - special knowledge - awful  waste В— Well, am I dead? Is my  knowledge worth nothing?  Skill  experience В— eh? You tell me -
+0) 1357) dialog: [[Have you gone]] [Are you] mad? I  know what war is!
+0) 1359) dialog: So I would! 
+0) 1361) dialog: (A little shaken) I[['ve]] heard all that in the last  war. They played foul then. And who  won it!
+0) 1363) dialog: (He is defeated. He  knows Theo is right  but cannot say so) Well, you see, Angela - eh?  Even  one's best friend lets one down...
+0) 1364) text: JOHNNY has been the silent witness of the scene. She is t young to be detached. Her respect for the GENERAL makes i quite painful for her to listen. She, of course, agrees  entirely with THEO. She does not know where to look until directly appealed to by CLIVE. She looks miserably up at and af THEO.
+0) 1366) dialog: (Grunts) You, too, eh? Kick a fellow when  he's down - what?
+0) 1368) dialog: Change over? To what? (He already speaks in  a stronger voice.)
+0) 1370) dialog: Hm! Think so, do you? Swop horses in  midstream - eh?
+0) 1373) dialog: (Depressed again) Nobody wants you - and you're an  expert. I don't know anything but  soldiering - (Looks at letter.) В— not even that, apparently.
+0) 1376) dialog: (Looks from one to  the other with great  suspicion) EH? - HOME GUARD-?
+0) 1378) text: He looks reproach fully at JOHNNY and puts down some chee and the Cona. CLIVE gapes at him.
+0) 1379) dialog: You're drunk, Murdoch. Tell me what? 
+0) 1381) dialog: You?
+0) 1383) dialog: (With gathering  momentum) How should anyone know if nobody's  touched it. Take it away, [[Private]]  [Lance- Corporal] Murdoch!
+0) 1385) dialog: (Seizing carving knife  and steel, sharpens  it) Nothing, you blockhead, except talk! (Seizing carving fork.) But watch now!
+0) 1393) text: He shakes and bangs the hairy object which gradually reve itself as the pride of Clive's Den: 'Buffalo Head' -  'Nigeria''- '1924'.
+0) 1403) text: HALL CLIVE hurries towards the exit. He is now a General the Home Guard and wears their insignia. He is full of  enthusiasm for his new career. He wears a coat, it is sti chilly. The PORTER (the same rugged individual whom we have seen  confront SPUD at the opening of our story} salutes him. 
+0) 1404) dialog: Still here?
+0) 1406) dialog: Don't be late! 
+0) 1408) dialog: By gad!  what on earth's that? 
+0) 1411) dialog: That's the ticket!  Load with No. 4!   We'll soon have rifles В— tommy-guns,  too. Know which end is which В— eh?
+0) 1413) dialog: [[Hah!]] [That's right.]
+0) 1414) text: CLIVE bustles out. The PORTER hurriedly takes his Home Gu armband and steel helmet from a hook. He has no proper un these were the early days.
+0) 1417) dialog: Break it up, chaps. (To other driver) Good afternoon.
+0) 1420) dialog: War Office.]]
+0) 1423) text: CLIVE is talkative. He scowls menacingly.
+0) 1424) dialog: By gad, we'll have proper weapons or  I'll know the reason why!  I won't  leave their damn doorstep!  I'll  make a sit-down stroke - or a stay- in strike - or whatever they call  it! I'll show'em! Angela! Eh?
+0) 1425) text: ANGELA smiles at the volcano. He can't see her.  The car  turns down by St James's Palace into the Park.  The sentr salutes.  CLIVE nods.
+0) 1426) dialog: A real army - eh? The men are all  right- keen as mustard! -  Organization, General Staff, Offices,  General Headquarters-that's what we  [[need]] [want] and, by gad, we'll  get 'em! D'you hear, Angela?  
+0) 1428) dialog: [[One thing at a time.]] Give me  [[a]] [one] year [- six months]!  I'll show 'em!
+0) 1434) text: The Union Jack flies above the building.  It is 1942: a y later.  At the entrance, two [[smart and formidable]] [yo sentries are guarding the door. [[Each has rows of medal  ribbons and their combined ages would total about 140 yea A sign says: G.H.Q. HOME GUARD. General Wynne-Candy's car comes out of the park gates. Be we see Hyde Park.  Camera pans with the car past the Marble Arch. The General's car stops outside the Home Guard H.Q. The t [[smart Methusalehs]] [young soldiers] slope arms.   JOHNNY jumps out and opens the car door. CLIVE wears a lightweight uniform as it is now summer, he in very good spirits. We are back on the afternoon of the day on which we first saw him.
+0) 1435) dialog: (To JOHNNY) Take the afternoon off.
+0) 1437) dialog: Club - 7.30.
+0) 1439) text: CLIVE goes in. The [[Methusalehs]] [young soldiers} prese arms [[like guardsmen В— which they were]].
+0) 1442) dialog: Gentlemen! This is Der Tag! What! (Laugh.) [[I've been conferring with the G.O.C.  of the 6th Army Corps.]] This is the  most vital and comprehensive exercise  in which the Home Guard have yet  taken part. Defence of London! We've  trained for it. We can tackle it!   We'll put up a good show, eh?  [[I  know you're all as keen as I am.]]  We'll show these youngsters there's  life in the old dog- eh? Gentlemen!  War starts at midnight!
+0) 1571) text: We hear Big Ben continuing to strike in the distance. The railing round the private gardens has been removed some t ago. On a bench is seated GENERAL CLIVE WYNNE-CANDY. He is alo He sits waiting. The birds are singing in the trees. A car approaches and stops near the gardens. [[The GENERA stands up; it is not so simple standing up this morning.] The car is his own. THEO and JOHNNY are the only occupant [[CLIVE crosses the grass and steps into the road over th stumps of the former railings.]]
+0) 1573) dialog: (Looking down at the  stumps]) You couldn't do that either in my  time. (He means step over  the vanished railings.) Hullo, Theo!]]
+0) 1575) dialog: [[Nice of you to come.]] [Hello,  Theo. I'm glad you've come.] I  couldn't have stood anyone else.
+0) 1577) dialog: You heard, I suppose? 
+0) 1579) dialog: And? 
+0) 1581) dialog: It is. That's the worst of it.
+0) 1583) dialog: [[I suppose]] [Officially] this young  [[officer]] [fellow] will be [[court- martialled]] [brought before a court  of inquiry] and the Exercise [[will  be]] repeated on some other date. ([[With a change of  tone.) They won't find the Home Guard so  easy next time!]]
+0) 1585) dialog: [[Yes.]] [No, there won't. I'll see  to that. Where is he now?]
+0) 1587) dialog: Have to.]]
+0) 1589) dialog: (Gruffly) [[He'll be all right.]] [Did you see  them?]
+0) 1591) dialog: (To ANGELA) Did you see 'em, Angela?
+0) 1593) dialog: (To THEO) How [[do]] [did] they look? Eh?
+0) 1596) text: From a great distance we hear the sound of military bands approaching nearer and nearer. [[CLIVE points towards]] [They go to] where his house onc stood.
+0) 1597) dialog: They've cleaned up my place [[quite]]  [rather] nicely.
+0) 1600) dialog: I've been thinking this over all  night. I don't want to get this young  fellow into trouble. I think I'll  invite him to dinner instead. Wasn't  I just as much of a young fool as he  is? Of course I was.
+0) 1602) dialog: When I was a young chap, I was all  gas and gaiters with no experience  worth a damn. Now, tons of experience  and nobody thinks I'm any use. I  remember when I got back from Berlin  in '02. Old Betteridge gave me the  worst wigging I ever had. And when  he invited me to dinner, I didn't  accept - often wish I had. Yes, I  think I will invite him to dinner.  And he'd better accept, d'you know!]
+0) 1606) dialog: (Grunts restlessly) Hm! Better go!
+0) 1607) text: THEO puts his arm round CLIVE.
+0) 1609) text: A little pause. CLIVE stays where he is. The sound of the band and the rumble of the machines is very close. The mo wind makes little waves on the tank. Suddenly CLIVE smile
+0) 1611) dialog: (Slowly) Now here is the lake - and I still  haven't changed... (He shakes his head,  his smile grows  broader) ... Hopeless!
+0) 1613) text: The music blares out. Somewhere close by the New Army is passing[[: tanks, guns trucks, men, fast-moving... hard-hitting]]. Pan from JOHNNY to THEO and finally CLIVE, who salutes.

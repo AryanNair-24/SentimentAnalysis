@@ -1,0 +1,336 @@
+1) 15) dialog: a hard man with hawk eyes now focused on killing. Even th he is a warrior, there is something humane about John Gar He knows there is no glory to what he is doing. His rock- exposed arms hold the bow's tension like the cables of a suspension bridge, and shake with the load. He releases. Lead Rat faces death and drops. Limping Rat is already scurrying away, weapon drawn, when Garth's second arrow catches him. He drops. Chortling Rat, whining fearfully, scuttles around debris, hiding his silhouette. He pulls a nasty looking automatic looks up to find a target when an arrow slams into him. H falls. (CONTINUED )
+1) 18) dialog: Your mother's worried. Mandy shakes her head crazily. Yes, I know. Garth kneels beside her. Mandy bursts into his arms. He h her like a father until her sobs diminish.
+1) 19) dialog: You shouldn't go out by yourself. Mandy buries her head in his chest, safe now.
+1) 21) dialog: I know... Garth releases her and steps past to harvest the arrow th took Lead Rat's life. He takes the switchblade as well. Mandy scurries to where the dinner roll lies and retrieve it. She tries to bite into it. Hard as stone.
+1) 24) dialog: (understanding her meaning) No.
+1) 26) dialog: You stay here. I have to get my other arrow. Garth moves to get the arrow. (CONTINUED )
+2) 0) text: It's a hovel bandaged with debris. Campfires burn with constant complaint, sizzling embers and hissing wood once shaped by hand. Mist clouds everything. Men and women guard the ramparts, some with guns, some wi bows like Garth's.
+2) 6) dialog: She's okay. I found her about six blocks south, near Pico.
+2) 8) dialog: It's okay. (CONTINUED )
+3) 0) text: An often-repaired tent. Garth throws the entry flap back, enters to find his father, MATTHEW, Garth grown older and weaker. He lies in a hammock, recovering from a broken le
+3) 2) dialog: Not yet. How's the leg?
+3) 4) dialog: I killed six men... three this morning over these... (presents the cans) ... three tonight over the Parker girl.
+3) 8) dialog: Alive. She wouldn't have stayed that way long... I hear they've got stew. Did anybody bring you some? Matthew snorts.
+3) 10) dialog: How 'bout some Campbell's soup? M'M-M'M- Good... (reads labels) Cream of mushroom... chicken noodle... and cream of tomato.
+3) 12) dialog: No, dad. I'll take care of it. You stay off that leg. Garth pulls his survival knife and begins to open one of cans.
+4) 0) text: Garth and Matthew lie asleep after their repast, Matthew his hammock, Garth on a bed made of old clothes.
+6) 0) text: Garth exits his digs. His father hobbles after. A camp citizen climbs to the top of the walls.
+6) 7) dialog: You must be pretty busy... elsewhere. (CONTINUED )
+6) 11) dialog: What do you want with him?
+6) 13) dialog: What gift? Who sent it? LaPiere allows the question to dangle a moment, then step aside and gestures to the cop holding the crate to set it down.
+6) 15) dialog: Who sent it?
+6) 18) dialog: Who's Anton Reich? And what does he want with me? Mandy steps through the crowd and kneels beside the box. is in awe of it.
+6) 20) dialog: Signing bonus? Then it's not a gift? (CONTINUED )
+6) 26) dialog: Share this... (to LaPiere) Let's go.
+7) 0) text: The helicopter looks shiny new as Garth, LaPiere and the trudge through debris-ridden terrain. Garth uses his surv knife to open the can of peaches.
+7) 1) dialog: (of chopper) I didn't think there were any of those left.
+8) 0) text: The chopper flies through the rainy night. Garth pushes the can lid back and drinks thirstily before lifting a peach slice out and swallowing it whole, like a bear with a fish just caught from a stream. LaPiere looks with amusement. Garth sees his look, offers the can.
+9) 0) text: The lights work, even if the sign has been damaged: UCL(A M(ed) ICAL CEN(t)ER. The chopper sets down. Garth, Lapiere and the attending cops exit and make for t big hospital building as Garth tosses the empty can of peaches into an empty wire receptacle.
+10) 0) text: Garth, LaPiere and the uniformed cops make their way into building, which obviously is no longer in use as a hospit Even though it appears abandoned, the lights work. Garth stops to look around. He hasn't seen electric light months.
+10) 1) dialog: What's powering these lights?
+11) 0) text: An immense open bay. At one end are stacked platform afte platform of canned goods, ammunition, oil, military weapo in cases, liquor, medical supplies. At the opposite end, mansion in miniature with unblemished furniture, Persian carpets, drapes over the windows, stands of famous artwor paintings, sculpture, and a huge oak desk stolen, certain from a rich man's office. Men in uniform stand guard beside the elevator door, one LAPD, the second MTA. One uniform is as good as another, apparently The elevator opens. Garth and LaPiere exit, followed by t two cops.
+11) 7) dialog: Oh no, I just finished dinner. Steak and lobster, a good chardonnay, and chocolate mousse for dessert.
+11) 9) dialog: I'm not a major.
+11) 18) dialog: Well, Adolph... you can tell me what you want so I can blow this bunker.
+11) 20) dialog: I'm not for hire.
+11) 25) dialog: Who do you want me to kill? (CONTINUED )
+11) 29) dialog: stands before one of a dozen paintings, many recognizable but not this. It's a map of the earth with a vast storm, unlike the Red Spot of Jupiter, swirling across the world Reich presents Garth with a brandy.
+11) 32) dialog: Suicide doesn't exactly distinguish him, does it?
+11) 34) dialog: I thought I recognized some of them.
+11) 36) dialog: I told you. I'm not a major anymore. EnCrypt by Richard Taylor 15.
+11) 40) dialog: The Vincent estate.
+11) 42) dialog: Just that he's rich.
+11) 46) dialog: (cynical grin) Protective custody?
+11) 48) dialog: You could say the same thing about gold... (eyes drifting toward the palets of food) -.. while other valuables are consumable.
+11) 52) dialog: You tried it?
+11) 54) dialog: Why not assault it from the side?
+11) 58) dialog: With just the equipment you have over there... (gestures crates across room) ++. you could take out something like that.
+11) 60) dialog: Go in a window, then.
+11) 62) dialog: The computer reasons? Like a human being?
+11) 67) dialog: She controls all of the security systems?
+11) 69) dialog: Is she programmed to kill?
+11) 71) dialog: How do I defeat her... the system, I mean?
+11) 73) dialog: Obviously.
+11) 75) dialog: What kind of research? Reich considers not telling him. He delays, sipping wine, cutting another bite of meat. Then:
+11) 79) dialog: You want me to save the world? Reich smiles too.
+11) 82) dialog: stands and walks to the window. The city lights are fires consuming furniture and dreams. Reich joins him.
+11) 83) dialog: The world's dying while you play potentate inside these walls. Hell, it's already dead. What you see out there is nothing more than the death rattle.
+11) 88) dialog: I do nothing... until this is delivered to my camp.
+12) 0) text: The room is splendidly attired, subtly illuminated. LaPie allows Garth in, then closes the door behind him. Garth begins to remove his clothes. Movement in the corner of the room. A WOMAN steps out of shadows. She is lovely. Her greek gown insinuates that sh possesses nothing else, just this garment. Clearly, this situation is new to her and she's afraid.
+12) 4) dialog: Who were you?
+12) 7) dialog: A civilized man.
+12) 15) dialog: Many times.
+12) 20) dialog: (disdainful) Who went in? LaPiere? (CONTINUED )
+12) 24) dialog: I trained him...
+12) 27) dialog: Mercy factor...
+12) 33) dialog: No.
+12) 36) dialog: I follow.
+12) 39) dialog: I get the concept.
+12) 51) dialog: You son-of-a-bitch, you didn't warn me!
+12) 53) dialog: I feel... SWELL. Garth drops the Armorer and surges past as Reich and LaPi share a look of amusement.
+13) 0) text: twists the pack for Garth to see.
+13) 4) dialog: How many recharges?
+13) 8) dialog: What do you got?
+13) 10) dialog: Then what do you recommend?
+13) 14) dialog: I'll take it. What else?
+13) 18) dialog: I'll take two. What else?
+13) 21) dialog: What else?
+13) 23) dialog: The stiletto and the survival knife. What else?
+13) 25) dialog: Too bulky.
+13) 27) dialog: Let me see it. The Armorer removes a metal pen from his shirt pocket, presses a button. The shaft elongates to four times its original length, bow arms pop out at one end, a handle at other. He places it in Garth's hand.
+13) 32) dialog: Just kidding. How do you feel? Do you feel swell? (on Armorer's emphatic gesture) I thought you would.
+14) 0) text: Garth, Reich and LaPiere on the passenger bench. Reich ha Garth a hand radio. (CONTINUED )
+15) 0) text: The chopper maneuvers carefully to avoid the top of the mansion. The structure is huge, a competitor of the Getty itself, three stories high and god knows how many stories below ground, its style inspired by Frank Lloyd Wright's Hollyhock House. The helicopter lands in the field outside the mansion grounds. Garth drops out with his equipment. The chopper rises and speeds away.
+15) 3) dialog: Nice doggy... I'm outside the wall. See? The dogs bark menacingly. (CONTINUED )
+15) 6) dialog: Can't attack anything outside the perimeter, can you? Ah, the wonderful world of insurance companies. Garth replaces the magazine. Aims it at the remaining dog Considers.
+15) 7) dialog: Ciao, Fido. Fires. The dog staggers back beneath the CONCUSSIVE FORCE THE STREAM OF BULLETS, then EXPLODES. Everything is startlingly quiet. Garth replaces the magaz reholsters the gun, stares out at the grounds.
+15) 16) dialog: (hurting) Damn! Damn it! Body armor hell! (CONTINUED )
+15) 21) dialog: paces back to the huge door, removes an explosive charge one of the packs, adheres it to the lock and steps away. A small EXPLOSION. The door swings open.
+16) 0) text: Garth carries his equipment into the room. The door swings shut behind him. Garth drops his packs, tests the door with a shove. Locke
+16) 1) dialog: Thought that was too easy. Garth turns to survey the room.
+16) 3) dialog: hefts his packs and marches to Jupiter, drops them at the god's feet. He turns to the shadows.
+16) 4) dialog: (calling out) Take a potshot at me here, Jupiter is gonna get a hotfoot! Nothing. No response.
+16) 5) dialog: (softly) You can come out now, Diana. I know you're here. Silence. Garth shrugs, turns to unload his packs.
+16) 7) dialog: watches for a moment... returns the gun to its holster... removes a tin of food, pulls out a wafer and takes a bite opens the notebook computer.
+16) 9) dialog: looks up from the screen at the still welding robot.
+16) 10) dialog: (reading) E-sixty-five-thirty... Repairbot... Secondary weapons platform... No shields, (MORE ) (CONTINUED )
+16) 13) dialog: Thanks for the prompt service. See you soon. The robot lumbers into the shadows down the vast hall.
+16) 15) dialog: keeps the flashlight aimed with one hand, brings a S&W pi up, aims, fires.
+16) 16) dialog: A little to the left... (fires again) ++. once more, with feeling...
+16) 18) dialog: returns the pistol to its holster.
+16) 19) dialog: Let's see you repair that. He moves down the hall, shining the flashlight high looki for more monitoring stations. He finds one just as the SO of a miniature helicopter whisks past overhead. Garth pivots and aims the light.
+16) 21) dialog: scrambles back.
+16) 22) dialog: Shit. Spoke too soon. Aiming the light with one hand, the gun with the other, h follows the movement of the helicopter near the ceiling.
+16) 24) text: lowers the weapon and the light. He turns, quickly survey the dark ceiling down the hall, then moves. Garth returns to the second camera site... aims... fires. moves on. A third site, opposite wall. The same. A fourth site, same wall. He aims both light and weapon.
+16) 26) dialog: is thrown ten feet back and to the ground. STEAM RISES FROM HIS BODY ARMOR. Garth's closed eyes twitch. Slowly he comes to. He glances at his body armor wrist read-out. EnCrypt by Richard Taylor 37.
+16) 28) dialog: realizes that another blow like that will penetrate his b armor and kill him. Should he move? Carefully, Garth moves one arm back several inches, then other. A leg rises, seeks footing. He shoves himself a fo farther away from the weapons in the walls and ceiling. Again. Again. Slowly. Trying not to draw fire. Again. Garth freezes.
+16) 32) dialog: pushes himself along the floor again. Diana's feet seem t grow out of his stomach.
+16) 33) dialog: Go away. (CONTINUED )
+16) 37) dialog: There are no police.
+16) 39) dialog: Talk to them lately? This shuts her up. Garth flips over and begins to crawl.
+16) 41) dialog: Yeah. Like I'm going to believe you. Diana BLINKS OUT OF EXISTENCE. The shoebox whisks away, engine WHINING. Garth continues to crawl... rises to his feet... runs.
+16) 44) dialog: Pulls a nightscope from his pack, clicks it into place on of the pulse rifle, brings it to eye level, takes a look. EnCrypt by Richard Taylor 39.
+16) 51) dialog: takes out the final three sensors. Digs out a pair of nightgoggles.
+16) 52) dialog: Hate these goddamn things. Pulls them on. Stands. EnCrypt by Richard Taylor 40
+16) 54) dialog: moves down the hall along one wall, looking up, pistol dr He passes where he was knocked unconscious by the laser beams.
+16) 56) dialog: pulls off the nightgoggles, hangs them by the strap to th unused pistol on his belt, wipes sweat away from his brow He moves back toward his camp at Jupiter's feet.
+16) 58) dialog: So, Jupiter, you're a god. What are you going to do next? (god's voice) I'm going to Disneyland! Garth sees the control panel door imbedded in the pedesta
+16) 75) dialog: So that's what you were like... in life. No one answers. Garth shrugs off the mood, moves.
+16) 77) dialog: looks up.
+16) 78) dialog: Eenie-meenie-minie-moe...
+16) 85) dialog: watches the ghost show thirty yards distant.
+16) 86) dialog: (sotto) ‘Classic' means 50s rock'n'roll. (begins singing: ) One-two-three o'clock, four o'clock rock... five-six-seven o'clock, eight o'clock rock... (etc. ) Pulls the nightgoggles down over his eyes. Leans in to th farthest line of the threshold, looks up.
+16) 90) dialog: removes the goggles. Brings the rifle with nightscope up. FIRES.
+16) 92) dialog: steps back quickly as THREE LASER BEAMS STRIKE the inside perimeter of the threshold.
+16) 94) dialog: (sotto - as he fires) B.C?... Before Cher?... Before Cher there was Sonny.
+16) 96) dialog: lowers the rifle.
+16) 98) dialog: (sotto) No! Wait! I didn't say, ‘Final answer.'
+16) 103) dialog: Maybe that's why women think guys are heels. Garth replaces his body armor battery with one from the p
+16) 105) dialog: Shut up! Goddamn it! The shout echoes through the marble hall.
+16) 109) dialog: Christ...
+16) 113) dialog: with the nightgoggles shoved high onto his forehead, walk down the gallery, carrying the pulse rifle lazily in one hand. The repairbot lies a jumble of twisted metal and smoking circuit boards. Helen stares down at him from her pedestal. Garth stops to appraise her.
+16) 114) dialog: That kid doesn't know anything, Helen... You're a hotty. Helen's pose does not change, although the flashlight in Garth's hand shifts her shadows as he moves forward. Garth crosses the sealed beam that activated the film bef DIANA AND THE CHILDREN APPEAR.
+16) 117) dialog: Oh, christ, not again...
+16) 126) dialog: I'm alive. You're dead. That's all either of us needs to know.
+16) 128) dialog: You're a program, a doppelganger... You're not real anymore.
+16) 130) dialog: Are you sure? Diana has no answer for this.
+16) 132) dialog: That should be obvious.
+16) 136) dialog: I told you — there are no police.
+16) 138) dialog: The same as you... Worse. Garth begins to gather up his equipment and supplies.
+16) 140) dialog: Is that right?
+16) 145) dialog: finishes gathering his supplies, carts everything down th gallery. As he crosses the sealed beam mid-gallery:
+16) 152) dialog: You have a point. Get to it.
+16) 154) dialog: You care about what happens to me?
+16) 156) dialog: And your boss, Vincent... he cared when he installed all these killing machines to protect his expensive trinkets?
+16) 158) dialog: So he never expected anyone to get killed?
+16) 160) dialog: Or hurt someone, even?
+16) 162) dialog: Then I should be dodging blanks now... You were Vincent's Chief of Security even before you died, right?
+16) 165) dialog: You don't strike me as the kind of person who winds up being Chief of Security.
+16) 167) dialog: You and Vincent were friends, correct?
+16) 169) dialog: And you're a good looking woman... or were.
+16) 171) dialog: Not a new observation... So you were lovers for awhile... then he rewarded you.
+16) 175) dialog: yanks the nightgoggles down, brings the rifle up.
+16) 180) dialog: checks his wrist read-out: 04. Garth slams another battery into his body armor. A PULSE ROUND SLICES THROUGH HIS ARM before the power jer on. He grimaces in pain. Garth's rifle is empty. The read-out, in red: 0. Garth tosses the rifle and pulls both S&W autopistols. He swings the fully automatic pistols together, creating minigun, AND FIRES. The remaining HELICOPTERS EXPLODE within the sweep of bullets. Silence. Garth shakes marble dust from his clothing, kicks chunks Helen away. Part of her face lands on his shoulder. On hi look:
+16) 181) dialog: Must be a fake. EnCrypt by Richard Taylor 53.
+16) 183) dialog: Now that wasn't so bad, was it? Takes stock. His left arm is bleeding. Clothes ripped. Hungry. Tired. Thirsty. Licking his dry lips, he turns to retrieve his canteen — WHEN A STREAM OF BULLETS HITS HIM, slip-sliding his body uncontrollably across the floor.
+16) 185) dialog: slides behind the statue of Achilles. It must be real. Th bullets stop. Garth pulls himself from a stupor, takes stock. Arm still bleeding. Clothes still torn. Fingers move. Fee too. Wrist read-out: 03. Another battery shot. Garth reaches to pull a fresh battery from his belt, expo an arm WHERE BULLETS RIDDLE THE WALL AN INCH TO THE RIGHT Carefully now, he replaces the body armor battery. The movement causes the machine gun to track him. Up-down left-right, servos whining. Only the statue keeps the uni from firing.
+16) 189) dialog: Go away.
+16) 191) dialog: I said... GO AWAY!
+16) 193) dialog: (preoccupied) You do?
+16) 195) dialog: So you found my goddamn records!
+16) 197) dialog: There are no more honorable human beings — just hungry ones.
+16) 199) dialog: Tons of it?
+16) 203) dialog: And you're going to show me how to get at it... without getting my dick shot off. Diana says nothing for a long moment. Then:
+16) 205) dialog: You mean... if I surrender, I can walk around here without being shot at?
+16) 207) dialog: The police.
+16) 209) dialog: There is no police.
+16) 211) dialog: Why don't you just... turn the machines off?
+16) 213) dialog: Aren't you the Chief of Security? Aren't you the soul of the machine? Why can't you just stop shooting at me?
+16) 217) dialog: Your mind controls everything, doesn't it?
+16) 219) dialog: You aren't breathing. You're a goddamn ghost. Diana thinks about that for a second. Yes, that's exactly what she is.
+16) 221) dialog: Where is Vincent, by the way? Diana turns away, considering the question.
+16) 222) text: throws the spent battery. The tank gun tracks the flight of the battery into the darkness. Garth leaps out from behind the statue and lands on the t The tank gun barrel tries to find Garth, who stands above beyond its tracking range. Garth pulls a survival knife, begins to pry open the tank metal access plate. The tank's treads SQUEAL as it accelerates toward the nea unadorned wall. Garth hangs on, prying with the knife. The tank slams into the wall, almost throws Garth, backs slams into the wall again. Garth clings to the machine gun barrel, yanks off the acc plate, stabs the knife deep into a row of circuit boards. (CONTINUED )
+16) 225) dialog: study one another for a long moment before:
+16) 226) dialog: If you can't shut the damn things off... maybe you can warn me.
+16) 228) dialog: You know where everything is, don't you? You know which machines are operational, which ones are in stand-by mode, which ones—
+16) 230) dialog: So you can hold me for the police?
+16) 232) dialog: That might be a long wait.
+16) 234) dialog: You might save my life... if you briefed me on what to expect. Diana considers that possibility for a moment. Then: (CONTINUED )
+16) 239) dialog: If I cut the power, what becomes of you?
+16) 241) dialog: Death as a blackout. I've feared worse things.
+16) 243) dialog: Yeah, I've heard that before, too. Diana considers this exchange a moment, then DISAPPEARS.
+16) 245) dialog: gathers up the rest of his equipment, drinks from the canteen, limps back to the pack. EnCrypt by Richard Taylor 59.
+16) 249) dialog: makes sure that he's within the four-foot fire-free zone around the gun, then removes the gunbelt and makes himsel comfortable. He searches the pack for fast energy food. T bite-sized snacks fall through his fingers like coins.
+16) 250) dialog: (reading labels) Chicken gumbo... (tosses it)... Steak Tartar with red dye number seven... (tosses it)... allergic to red dye number seven... Brandy Mousse... (unwrapping the plastic) Combat is getting elegant. (chews - reacts) Think ya got enough sugar in there, Butch?
+16) 256) dialog: stands before her. He is not wearing torn combat clothes, a suit styled by future hands.
+16) 258) dialog: Elaine, let me take you home.
+16) 260) dialog: I searched for you, Elaine, I did!
+16) 264) dialog: Elaine! God, no! The pain is more than he can bare. Garth drops to his kne tears and snot and saliva spewing from him as he bellows pain.
+16) 266) dialog: I'm not alive, Elaine. None of us is alive anymore!
+17) 0) text: Garth snaps awake beside the wall. Nothing has changed fr when he went to sleep. Except a haunting SOUND drifting f a far place. Garth turns off the Automatic Defense Unit, grabs his rifle, moves for the far double doors.
+17) 3) dialog: pushes the goggles up, considers. The haunting SOUND is closer, but still not close. Garth leaps into a run down the gallery toward the noise. As he passes a closed beam mid-gallery, DIANA AND HER THI CHILDREN APPEAR as 3-D projections. (CONTINUED )
+17) 9) dialog: advances into the hall. The SOUND is closer now, a haunti otherworldly wail. Gath brings the pulse rifle up, checks the charge (100 in green), advances. The SOUND grows louder, louder yet, increasing in volume emotion, a noise so terrifying that its existence seems impossible.
+17) 11) dialog: grins.
+17) 12) dialog: Ah, a ghost... Garth brings the pulse rifle up, takes his time aiming. H FIRES. The ghost TWISTS IN THE HOLD OF SUCCESSIVE ROUNDS, writhi and bellowing its unearthly, artificial SOUND until its
+17) 14) dialog: is so preoccupied with the ghost that he doesn't see the sized robot roll toward him from behind. The robot grabs with huge pincer-arms, causing Garth to drop the pulse ri The robot's momentum carries them past the sealed beam wh ACTIVATES YET ANOTHER DIANA 3-D projection.
+17) 16) text: in crystal understanding: If the robot continues, Garth w destroy the painting. Moments pass as Garth's lungs suck air and sweat cascades from his brow. The blade moves a millimeter in the canvas flesh, a woman bosom. The robot's eyes move to the painting, back to Garth. One robot hand relaxes. On Garth's movement, the other. Garth slowly pulls himself from the robot's grasp, steps down. While the steel hands are empty, GUN BARRELS LOCATED IN T ROBOT'S CHEST follow Garth's every movement. (CONTINUED )
+17) 20) text: begins firing immediately. So do the ghosts — PULSE BOLTS THAT STRIKE GARTH'S ARMOR FLASH. The FIRST GHOST IS DESTROYED, the child. The SECOND, the crone. The THIRD, closing with Garth, DIES IN AN EXPLOSION of metallic flesh. But by the time he turns the pulse rifle on the fourth, t woman, the rifle is depleted. Garth retreats. EnCrypt by Richard Taylor 65
+17) 21) text: as they move through the Gallery of Landscapes to the Gal of Roman Statues, Garth MERE FEET AHEAD OF THE SCREAMING
+17) 23) text: dives for his waiting S&W pistols as the GHOST CONTINUES FIRE PULSE ROUNDS at him. Garth brings the PISTOLS UP AND STARTS FIRING. The ghost ABSORBS THE ROUNDS AGAINST ITS METAL SKIN, its ‘ghost' persona fading to reveal the stainless steel mons beneath. Both weapons are emptied of bullets. The ghost floats menacingly before Garth for seconds, THE DROPS LIKE SCRAP TO THE FLOOR. Garth sags to his knees, finally begins reloading the weapons.
+17) 28) dialog: Elly? (CONTINUED )
+17) 40) dialog: When the breakdown occurred... we were visiting Elaine's mother in Santa Monica. My father is dying of cancer. He lived in Burbank. I went to get him. There were riots, people killing each other, fires... I was gone days. When I finally got back... there was no one there.
+17) 42) dialog: No. The 3-D FILM ENDS.
+17) 43) dialog: Is that all there is?
+17) 45) dialog: Play it again!... PLAY IT AGAIN!
+17) 47) dialog: Bitch! Garth sits on his knees for moments, sweat and tears commingling, breathing hard, trying to fathom what has be of everything and everyone he loved. DIANA REAPPEARS, projected by the tour lenses that previo showed Elaine and Garth's son.
+17) 48) dialog: Now you know.
+17) 52) dialog: Lower your security systems. Let Reich steal all your trinkets. I'll take the food, for the people... then you can go back to what you —
+17) 54) dialog: Why not?
+17) 56) dialog: Then show me how to defeat them.
+17) 58) dialog: Why not?
+17) 60) dialog: That earthquake food... it could feed a lot of people, save a lot of lives.
+17) 62) dialog: So I say? SO I SAY?! People are eating each other out there! Diana is stunned by this revelation, made mute by it.
+17) 63) dialog: When was the last time you were hungry? Diana can't answer that. So long ago, it seems forever...
+17) 64) dialog: I'm going to take this place, like any military objective — one obstacle at a time... then I'm going to bring my people up here and we're going to live off those (MORE ) (CONTINUED )
+17) 67) dialog: earthquake supplies until... (dreaming of it, thinking of it) ++. until...
+17) 69) dialog: Until I can think of something! We're not going to die, not all of us! We're not going to die! But he is speaking to darkness. DIANA HAS GONE.
+17) 73) dialog: Because all of the doors are unlocked... (gestures toward Diana) -.. that way.
+17) 76) dialog: quickly shoves the nightgoggles from his eyes and rubs th DIANA MATERIALIZES before him, projected by a new shoebox
+17) 78) dialog: I sometimes feel the same way when a bullet whizzes past my head. Garth pushes through her into the gallery.
+17) 84) dialog: look up at the light carving.
+17) 87) dialog: You can stop calling him 'Mr.' now.
+17) 89) dialog: Was he that good... or were you that good? Diana looks away angrily. Then:
+17) 91) dialog: You're lying.
+17) 93) dialog: He bought you. He bought you with a job and he bought you with a laser statue. You want me to believe he didn't buy the rest of you too?
+17) 97) dialog: Vincent's not the kind of guy who doesn't get what he wants... unless...
+17) 99) dialog: When you were diagnosed as terminal, did you get a second opinion?
+17) 101) dialog: Not one of Vincent's doctors?
+17) 103) dialog: He won you after all, didn't he? I mean, he got to keep you, young and beautiful, in his one-of-a-kind supercomputer... never to grow old... never to die... immortal and his, forever...
+17) 104) text: Diana charges Garth. Just as HER 3-D HAND WOULD MAKE CONT with his face, SHE DISAPPEARS.
+17) 107) dialog: hefts his equipment and enters the hallway. EnCrypt by Richard Taylor 73.
+17) 109) dialog: moves down the hall toward the elevator, flashlight beam leading the way. He drops the pack, surveys the elevator controls.
+17) 111) dialog: drops the pack, removes the computer, runs a line from a port to a card, inserts it into the card slot adjacent to elevator. The computer begins running numbers through the card key. Garth finds a small case in the pack, opens it: Burglary tools. Garth begins to pick the standard lock.
+17) 114) dialog: (working) Uncommon. For the CIA.
+17) 116) dialog: I'd argue the point... but it doesn't really matter anymore, now does it? Diana allows the vitriol to recede. Then: (CONTINUED )
+17) 120) dialog: John, is it? I hadn't realized we'd become so chummy.
+17) 122) dialog: Get on with it.
+17) 124) dialog: Protect me?!
+17) 126) dialog: Bullshit.
+17) 128) dialog: (returning to work) Bullshit.
+17) 132) dialog: You're lying... First, your defense mechanisms were designed to deal with terrorists — plural — more than one. They're set to activate individually, as needed. That's why you didn't send them all at once... Second, you'd say anything — do anything — to keep me from going down there. Am I right? Garth gathers his equipment, turns away from the elevator
+17) 134) dialog: That elevator opened too easily... and you control it.
+17) 137) dialog: hefts his equipment, enters.
+17) 140) dialog: swings the door open with the barrel of his pulse rifle, revealing:
+17) 148) dialog: Vincent certainly knew how to live, didn't he? Diana says nothing, but her image follows him.
+17) 149) dialog: Where'd he sleep? Diana gestures: Over there.
+17) 153) dialog: When you have this kind of money... this kind of power... I guess you can have anything you want.
+17) 155) dialog: You didn't pose for this one too? Coital cries erupt from them. (CONTINUED )
+17) 159) dialog: She looks a little like you... here and there.
+17) 161) dialog: (gesturing other statuary) Who were all these people?
+17) 163) dialog: The man in the sculpture... that was Vincent?
+17) 165) dialog: For a woman who's spent the last twenty years inhabiting this place, you don't seem to know a lot about it.
+17) 167) dialog: Why not?
+17) 169) dialog: Yours... or Vincent's? (CONTINUED )
+17) 181) dialog: If you're so concerned about my welfare, then tell me how to protect myself against this machine.
+17) 185) dialog: Why should you care so much about me?
+17) 187) dialog: If you can't tell me how to defeat this thing, then tell me about it.
+17) 189) dialog: What are its weaknesses?
+17) 201) dialog: retrieves a battery from his belt, renews the body armor HUMMM — tries to stand, slips, finally reaches his feet.
+17) 202) dialog: Where is it? Diana gestures toward the end of the stairwell. Garth staggers several steps in that direction, stops.
+17) 203) text: pushes debris from his body and sits up. Garth draws the two Smith and Wessons. By the time HE'S FIRING the Rook is moving on him. Garth retreats up the steps. (CONTINUED )
+17) 206) dialog: gasps for air, sucking oxygen into his lungs like water through a busted dam. After several long moments he stagg to his feet and descends the stairs, stepping carefully around the Rook's burning torso. Diana waits at the foot of the steps. (CONTINUED )
+17) 209) dialog: Are there any more where he came from? Diana looks at the carnage a moment before:
+17) 211) dialog: Then I've defeated every security device?
+17) 223) dialog: You're on my side now, is that the idea?
+17) 225) dialog: Vincent was supposedly on the verge of a discovery that would return the earth to its original weather pattern. Do you know anything about that? No.
+17) 226) dialog: That secret is supposed to be contained in Vincent's computer... in you.
+17) 228) dialog: Can you access the computer?
+17) 230) dialog: Look. Diana's eyes shut. When they open: (CONTINUED )
+17) 234) dialog: Can you decrypt them? Diana would rather not answer the question. She's obfuscating:
+17) 236) dialog: Maybe I can...
+17) 252) dialog: Vincent? Yes.
+17) 253) dialog: Tell me what happened. Tears well in her eyes. She fights them.
+17) 255) dialog: Why? Diana looks away. Moments fall like broken glass to the floor.
+17) 256) dialog: (a shout)
+17) 281) dialog: You didn't murder him... You protected yourself. Justifiable homicide. Diana listens. She's not so sure.
+17) 283) dialog: What?
+17) 285) dialog: That was the plan from the beginning... Show me how to access Vincent's files.
+17) 291) dialog: Do any of these names mean anything to you?
+17) 293) dialog: Search for what?
+17) 299) dialog: Here we go. Diana looks over his shoulder.
+17) 302) dialog: 
+17) 303) dialog: What's Praetor?
+17) 323) dialog: Diana...
+17) 325) dialog: You took your revenge on him.
+17) 342) dialog: What? What something?
+17) 345) dialog: What do you mean you've never seen it before? Diana has no answer.
+17) 346) dialog: Where?
+17) 351) dialog: What does it look like?
+17) 353) dialog: Let me see it. Diana sends the video feed to a monitor.
+17) 356) dialog: It's a man. Suddenly the creature TRANSMORPHS into something ghastly inhuman, and reforms as a man.
+17) 357) dialog: Vincent has another weapons system, one you don't know about.
+17) 366) dialog: Diana? (CONTINUED )
+17) 386) dialog: I watched on the monitor.
+17) 389) dialog: Did he release the seeds?
+17) 397) dialog: The federal government collapsed before it could respond... Why didn't he release them? Diana doesn't say.
+17) 398) dialog: (a shout)
+17) 401) dialog: He allowed the world to be destroyed... because he wasn't paid? Diana's expression almost asks: He allowed me to die, did he?
+17) 403) dialog: Maybe there's something wrong with the seeds. Check his data.
+17) 405) dialog: I DON'T CARE!... Check the files. Diana's eyes close. The HUM of the great computer's synap circuits fills the room. ON THE PROJECTED SCREEN, file na stream down at an unreadable rate. Graphs, blueprints, representations of the new plant's DNA flicker into and o of existence. Then: (CONTINUED )
+17) 409) dialog: Release the seeds! Now!
+17) 411) dialog: I'll do it! Show me how! Diana pulls her gaze away from the door just as its color begins to change.
+17) 415) dialog: It was Vincent! But Diana sees this awful creature for what it is.
+17) 419) dialog: Diana — stairs to the roof?
+17) 421) dialog: Shut off the surface to air missile batteries on the roof.
+17) 423) dialog: Just do it! Diana gestures assent. They share a brief moment eye-to-e then Garth turns and rushes for the far reaches of the hu room.
+17) 425) dialog: slides to a stop beside the door, twists its knob, finds locked and jams his survival knife deep into the wood of jamb. It splinters. Garth rises and slams through the door.
+17) 436) dialog: (radio) Reich, come in.
+19) 0) text: Garth leaps through the door onto the roof. The STORM IS ALMOST UNBEARABLE. Above the noise of the wind:
+19) 1) dialog: (radio) Reich, bring your people in! Reich throws LaPiere a 'I told you so' look.
+19) 3) dialog: surveys the roof looking for the seeding devices.
+19) 5) dialog: moves for the closest globe as, in the distance, Reich's chopper begins to wing in. Garth opens the control panel.
+19) 7) dialog: takes the remote controller out, snaps it onto his belt, studies the seeding device controls as Reich's chopper la near the center of the roof. Reich, LaPiere and six men with weapons exit the chopper.
+19) 9) dialog: The last defensive device is coming up those stairs right now. Send your people to take care of it.
+19) 14) dialog: You were right. Vincent developed a way to fix the weather. I'm setting the timers that will blow the roof and seed the incoming storm. Reich thinks about this a moment.
+21) 0) text: Reich watches Garth type in '5:00' in the timer.
+21) 2) dialog: Of course I'm going to activate it. (CONTINUED )
+21) 10) dialog: With you as emperor, I suppose? Reich grins. Emperor is too strong a word... Garth presses the ‘activate’ button, bringing this globe line.
+21) 17) dialog: My way is now.
+21) 27) dialog: No. Now.
+21) 35) dialog: Goddamn it! Goddamn it! He must start all over again. The form behind him is larger. Finished, Garth stands. He notices the dark form behind h He turns. EnCrypt by Richard Taylor 111.
+21) 38) dialog: retreats a step, removes the remote control from his pock presses the ‘activate button' and tosses it into the darkness.
+21) 43) dialog: Hey! Hey! This way, slime ball! The creature looks at him briefly, then moves for the pod (CONTINUED )
+21) 46) dialog: leaps to the pod, breaks a faceplate, stabs ACTIVATE NOW.
+21) 48) dialog: leaps away.
+21) 50) dialog: runs for the next pod. He slides headfirst into the mechanism, pops the cover open and breaks the face plate. Finger on the ACTIVATE NOW button, Garth looks back over shoulder.
+21) 54) dialog: is running for the next pod when the flying goo SLAPS HIM THE SHOULDERS and back. The goo causes the BODY ARMOR TO SPARK. Garth checks his wrist read-out:
+21) 56) dialog: reaches for another battery in his belt. Empty. Garth hits the buckle, snapping the armor loose, and thro it aside, the GOO CLINGING TO IT as it falls away.
+21) 59) dialog: removes the last two clips for the pistols, loads one, th the other. He stares off across the roof.
+21) 71) dialog: (coughing) I'm dying.
+21) 73) dialog: (laughs - bubbling blood) No. I don't think so. The robot scoops him up, pivots and moves for the stairwe door, DIANA PROJECTED ON TOP and seeming to tend to Garth
+22) 0) text: The robot carrying Garth, crazily descends the steps, dropping from step to step. Smashes through the second landing door. Crashes through the third. Careens around the corner and through the final door.
+22) 2) dialog: almost tumble from the robot as it throws a track and gri to a halt. Garth's left arm is almost ash. (CONTINUED )
+22) 9) text: surges through the door. Diana snaps around to look, as does Garth. The creature too is not what it once was. The beast fight retain its form and motion, but moves forward. Garth tries to crawl faster, but can't. DIANA DISAPPEARS from the computer, and REAPPEARS at the robot. Standing on its top, she directs it to turn around The remaining track spins the machine around. Garth forces himself to go faster. (CONTINUED )
+22) 12) text: REAPPEARS beside the computer. She watches with mute horror as the creature absorbs the robot, rises to its full height, and then FLINGS A PORTIO ITS MASS AT GARTH. The GOO HITS GARTH just as he rises to push Vincent's bod from the couch. The body topples onto the floor as Garth screams in pain. The GOO SETTLES INTO HIS BACK, sizzling. Garth loses control of his body, collapses to the floor. Portions of his back, waist, one leg, one arm are already lifeless.
+22) 14) text: its mass increased by conquest, has risen to its full hei less than five feet away. Garth rises on one leg as the other drops away from his b a fallen cigarette ash. One last Herculean effort, Garth jumps up onto the couch. The CREATURE FALLS UPON HIM, swallowing him whole. (CONTINUED )
+23) 0) text: Wild flowers are in bloom. The sea wind gusts gently. Garth stands staring out to sea. He wears casual clothes, clean, carefree. A hand reaches out for him. Garth takes it. PULL BACK to reveal Diana. Wearing a sun dress and holdin hat on her head against the wind. She smiles. PULL BACK TO REVEAL that this is a television screen in t EnCrypt computer room.

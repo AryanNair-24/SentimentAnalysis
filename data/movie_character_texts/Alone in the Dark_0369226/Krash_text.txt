@@ -1,0 +1,15 @@
+48) 2) text: AGENT "KRASH" KRASHINSKY (mid-30s), a cool and collected female tech-geek, scans through data on the monitors. She always wears a headset.
+48) 6) dialog: Electromagnetics off the scale, Commander.
+71) 24) dialog: Confirmed.
+71) 31) dialog: Losing readings.
+72) 3) dialog: Readings gone. You lost them, Barr.
+88) 0) text: Burke stands behind Krash at the monitor banks, surveying incoming information.
+99) 1) text: Krash monitors the 713 unit from the Control Room. Banks monitors stream data at her.
+99) 2) text: Krash speaks into her head-set comm-link, cool and collec
+99) 4) dialog: Multiple readings confirmed. Back-up's on the way.
+100) 25) dialog: Landing.
+100) 103) dialog: Negative.
+102) 3) dialog: We're practically off the scale, Commander. This is unprecedented. Should I initiate Contingency Nine-Alpha?
+102) 7) dialog: Is that a negative, Commander?
+119) 17) dialog: Electromagnetics around the mine are off the scale.
+119) 18) text: Krash's voice starts to DISTORT with STATIC.

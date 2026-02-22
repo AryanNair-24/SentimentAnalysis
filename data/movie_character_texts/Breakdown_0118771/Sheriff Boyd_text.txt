@@ -1,0 +1,37 @@
+48) 39) dialog: What's your problem? JEFF
+48) 40) text: I don't know, this guy has my wife! SHERIFF BOYD
+48) 44) text: Don't lie, you son of a bitch! The Sheriff unsnaps the safety strap on his holster... just a precaution. SHERIFF BOYD
+48) 47) dialog: (turning to Red)
+48) 52) text: I don't know, officer. I'm driving along, suddenly this fella runs me off the road and starts hollering about his wife. I swear, I never seen the guy before. SHERIFF BOYD
+48) 58) text: My permits are all current. You can check 'em out. SHERIFF BOYD
+50) 0) text: Jeff and Red keep a careful eye on each other as the Sheriff climbs down from the cab, wiping his hands. SHERIFF BOYD
+50) 1) text: (to both of them) All right, let's see your license and registration. Jeff and Red fish into their wallets and hand over I.D.'s. The Sheriff examines them, comparing faces to pictures and writing down names. SHERIFF BOYD
+50) 3) text: Nothing, empty load. I'm heading to Fresno for a pick up -- ball bearings or something. SHERIFF BOYD
+50) 6) text: (to Sheriff, impatient) Are we gonna keep looking or what? The Sheriff hands back the I.D.'s. SHERIFF BOYD
+51) 3) text: Yeah. Personal stuff. Clothes and whatnot. You want to take a look? The Sheriff considers it, shakes his head. SHERIFF BOYD
+51) 5) text: (reacts) Whoa, whoa -- wait a sec. That's it? You're not going to question him anymore? SHERIFF BOYD
+51) 12) dialog: Hey! Hey! You want to get arrested? Now the man has a point. This is a plain-looking, John Doe truck. Maybe you did get them mixed up. Jeff stares at the Sheriff a beat, then bolts suddenly for the front of the truck. He yanks open the door and leaps up into the cab.
+51) 13) dialog: Hey! The Sheriff jogs after him.      Red walks to the cab, unconcerned.
+53) 0) text: Sheriff Boyd looks up sternly as Jeff continues searching the cab. Red watches calmly. SHERIFF BOYD
+53) 10) dialog: Mr. Taylor, did you by any chance have a beef with your wife today?
+53) 12) dialog: Well, for starters, maybe she left you.
+53) 16) text: (cuts in) Officer, I'm sorry, I'd like to stay and help, but I really got to make it to Fresno... SHERIFF BOYD
+53) 18) text: This is insane. You're just going to let him go? SHERIFF BOYD
+53) 23) text: Much obliged. (to Jeff) Good luck findin' your wife, mister. No hard feelings. Red climbs into the cab. Jeff watches helplessly, resigned to the fact there's nothing more he can do. Sheriff goes to the cruiser and speaks on the radio. the truck drives off, Jeff goes over to the cruiser. SHERIFF BOYD
+53) 24) text: Sir, I believe you that your wife is missing. Maybe you got confused about what truck she got into, maybe you had a fight -- you don't have to tell me. The point is I'm trying to help. He hands Jeff a card with an address printed on it. SHERIFF BOYD
+53) 25) text: The town of Brackett's 31 miles that way. My deputy's name is Len Carver. He's a good man. He'll help you fill out the necessary forms if you want to report your wife missing. Jeff clenches his jaw as the words sink in.    The Sherif softens, his tone sympathetic. SHERIFF BOYD
+53) 28) dialog: (into mike)
+53) 34) dialog: Sheriff Arthur Boyd. 226-93. This really isn't necessary -- JEFF
+53) 35) text: Don't tell me what's necessary, goddamnit. I'm noting the exact time of this conversation. 10:52 A.M. SHERIFF BOYD
+88) 0) text: Traveling in the opposite direction, Sheriff Boyd is returning toward town. As he rounds a bend in the road, he sees --
+90) 1) dialog: What the hell?
+91) 0) text: As the Ram passes, Sheriff Boyd throws the cruiser into a SCREECHING 180-degree turn. He flicks on the SIREN and takes off in pursuit.
+93) 0) text: Sheriff Boyd jerks the wheel to avoid a collision with the pickup as it slows and accelerates in rapid spurts. SHERIFF BOYD
+95) 0) text: Boyd reacts in amazement to what he sees -- SHERIFF BOYD
+97) 0) text: Sheriff Boyd swerves to avoid a crash as the RAM SCREECHES to a halt in front of him!
+98) 0) text: The cruiser skids to a stop. Jeff leaps from the pickup with the pistol in his hand. He rushes toward the cruiser. Sheriff Boyd hops out, levels his service revolver.
+98) 2) dialog: (ignoring him)
+98) 4) text: You don't understand!      She's been kidnapped! SHERIFF BOYD
+100) 0) text: Jeff is spread-eagled on the ground. Sheriff Boyd calls out to Earl in the cab. He keeps his gun leveled. SHERIFF BOYD
+100) 2) text: Yeah! Just don't shoot me, officer! He's crazy, I tell you! SHERIFF BOYD
+100) 5) dialog: (glances down at Jeff)

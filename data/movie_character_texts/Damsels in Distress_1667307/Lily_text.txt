@@ -1,0 +1,284 @@
+0) 5) dialog: Yes.
+0) 7) dialog: Help me? What do you mean?
+1) 4) dialog: I’m not actually a freshman. I'ma transfer student.
+1) 6) dialog: Yes.
+1) 11) dialog: Yes. Sure.
+1) 13) dialog: You don’t like my clothes?
+1) 15) dialog: What's it about?
+1) 20) dialog: What’s wrong?
+1) 22) dialog: No, what?
+1) 26) dialog: (smiles) Just from some b.o.?
+1) 27) text: “Just some b.o.?!” Omigod, Lily, you must have a very high threshold for pain! That’1ll serve you well here at Seven Oaks!
+1) 28) dialog: What do you mean?
+1) 32) dialog: I’ve got to get to the housing department -- it seems they lost my rooming assignment.
+1) 36) dialog: No, there were more acceptances than they anticipated and not enough rooms to go around. Violet exchanges quick looks with Rose and Heather.
+1) 38) dialog: Really?
+1) 41) dialog: What dynamic are you talking about?
+1) 43) dialog: Of what?
+1) 49) dialog: But aren’t they the same age as we are?
+1) 52) dialog: Omigosh it’s beautiful.
+2) 3) dialog: What’s a “sad-sack?”
+2) 5) dialog: (to Violet) You like losers?
+2) 11) dialog: You mean, someone you can really help? Not just thinking of yourself?
+3) 1) text: Frank, this is Lily, she’s just come to Seven Oaks as a transfer student. Isn’t she great?
+5) 2) dialog: That was really fun.
+5) 7) dialog: Really?
+6) 8) dialog: What?
+6) 10) dialog: The guys you know, are they all Greeks?
+6) 12) dialog: Are all the guys you know Greeks?
+6) 14) dialog: (more slowly) Are. All. The. Guys. You. Know. Greeks? Violet looks to the others.
+6) 17) dialog: “Greeks” -- frat boys. Blank looks all around.
+6) 19) dialog: Like last night. A pause.
+6) 22) dialog: How?
+7) 1) dialog: What house is this?
+7) 3) dialog: Those are cliches, aren’t they?
+8) 2) dialog: Really?
+8) 6) dialog: I don’t see the connection.
+8) 10) dialog: No... Well, there’s this grad student whom I met over the summer - - Xavier [pronounce Zav-ee-yay]. We became pretty good pals.
+8) 12) dialog: Well, he has a girlfriend whom I met -- she’s very nice. Violet looks around to the others.
+8) 14) dialog: Of what?
+8) 16) dialog: What do you mean?
+8) 18) dialog: No, I think it’s with an “xX.”
+8) 20) dialog: It’s an “xX.” 14.
+12) 14) dialog: Could I join you guys?
+12) 16) dialog: Uh, no.
+12) 18) dialog: Have we suffered?
+13) 1) dialog: Why do you think he’s such a jerk?
+13) 3) dialog: I mean what’s he done that’s so jerky?
+13) 5) dialog: But, Violet, don’t you think...
+13) 7) dialog: Well, don’t you think that the way you talk be considered arrogant too? They walk in silence for a moment.
+13) 8) dialog: I mean, a little...
+13) 10) dialog: Well...wouldn’t that be hypocritical, criticizing Rick DeWolfe for something you could be criticized for yourself? Violet considers this with complete equanimity.
+13) 12) dialog: I’m sorry, I know your intentions are good--
+13) 14) dialog: Yes, but not exactly a humble one.
+13) 16) dialog: I’m sorry, I didn’t mean to--
+14) 3) dialog: What? Violet just shakes her head but Rick looks and sees Viole contemptuous stare. A Ceausescu moment. Then he recovers.
+14) 25) dialog: I thought you handled it well.
+14) 29) dialog: I’m sorry--
+15) 4) dialog: (whispering) Is it really such a good idea to call him “freak”?
+15) 6) dialog: He’s already depressed; constantly calling him “freak”--
+15) 22) dialog: I’ve become friends with this really nice group...
+15) 25) dialog: Yeah.
+15) 27) dialog: What do you mean?
+15) 30) dialog: What?
+15) 32) dialog: Oh, yeah, sure. Lily follows their movements as they prepare the meal. Xavier lifts a lid revealing three artichokes in a cloud steam.
+15) 33) dialog: What's that?!
+15) 35) dialog: Those.
+15) 37) dialog: Is that what they look like?
+15) 40) dialog: They look so weird! Like little Martian space vehicles. Xavier laughs.
+16) 3) dialog: If someone were really determined to destroy themselves, I don’t think they’d stop for coffee. 31.
+16) 5) dialog: Where are we going?
+16) 7) dialog: Why?
+16) 9) dialog: How would that be helpful? They’re morons.
+16) 11) dialog: No, they are. They’re morons.
+16) 15) dialog: Bye.
+16) 17) dialog: Over to Xavier's.
+16) 19) dialog: Why wouldn’t it be?
+16) 21) dialog: Of course -- gosh you’re nosy.
+16) 23) dialog: “Foreboding?” Violet reconsiders.
+16) 26) dialog: Bye.
+17) 0) text: In the golden light of the day’s end Lily approaches Xavi house. A guy on a bike passes her.
+17) 3) dialog: Yeah, is Alice home?
+17) 5) dialog: Oh, she is?
+17) 7) dialog: I thought Alice would be back.
+18) 2) dialog: She’s actually quite a good person. I mean, her entire identity revolves around helping people.
+18) 4) dialog: Well, she thinks the editor, Rick DeWolfe, is completely egotistical.
+18) 7) dialog: Hey! 34.
+18) 13) dialog: She thinks the editor, Rick DeWolfe, is conceited and, in fact, quite mean.
+18) 15) dialog: Yes, he wants to close Seven Oaks’ Roman-letter clubs.
+18) 17) dialog: No.
+18) 19) dialog: The point that Violet makes is that they can’t be elitist, they’re morons.
+18) 21) dialog: But you’ll grant that they’re morons and that’s a handicap -- such people should be helped, not hounded and persecuted. 24 35.
+18) 23) dialog: Yes. Losing the roof over your head, being thrown out into the street, that’s about the worst thing that can happen to anyone. Xavier shrugs, cruelly indifferent.
+18) 24) dialog: Violet thinks that there could be some risk of... suicide.
+18) 26) dialog: It’s a factor to be taken into consideration.
+18) 38) dialog: Yes.
+18) 47) dialog: Omigosh--
+20) 0) text: The lights are low. Some cool music is on. The camera swoops up the stairs, passes through a doorway and enters club “nest” area -- finding Priss and Frank in passionate embrace. Their kiss goes on and on. Reverse angle: Violet, Rose, Heather and Lily at the doorway, shocked. Violet turns and flees, the others foll
+21) 3) dialog: He’s a monster. 4l.
+21) 6) dialog: Moron.
+21) 9) dialog: Jerk.
+21) 13) dialog: Come on, Violet, Frank’s a moron. You're well rid of him.
+21) 15) dialog: What, Frank’s not a moron?
+21) 17) dialog: Well, there’s a mutable barrier then.
+21) 20) dialog: Well, I’d stop.
+21) 25) dialog: No! He’s worthless!
+21) 32) dialog: Your eyes are blue.
+22) 0) text: Lily walks with the guy who sent the drinks over to them the bar, CHARLIE WALKER.
+22) 1) dialog: Poor Violet.
+22) 3) dialog: Yeah -- but now she’s a wreck... But there’s no logic to the algebra of love.
+22) 5) dialog: Well, it’s a title, but the book’s not lame at all.
+22) 7) dialog: Okay, the title’s not good, but the book is.
+22) 11) dialog: Yes, and whether it will continue to do so...
+23) 2) dialog: Just to find the nearest package store you had to drive forty miles. (sips) These aren’t so strong--
+23) 4) dialog: I think I'd like another.
+23) 6) dialog: Why not?
+23) 8) dialog: Are you trying to stifle me?
+23) 11) dialog: Oh, hi! 31 45.
+23) 13) dialog: I’m with Charlie.
+23) 15) dialog: Why?
+23) 17) dialog: But why?
+24) 0) text: Lily walks slightly ahead and separate from Xavier and Al silent and angry. She might be a little tipsy.
+24) 5) dialog: That was so rude. He’s a nice guy and you embarrassed him.
+24) 7) dialog: No, he wasn’t.
+24) 9) dialog: I was plying myself with martinis--
+24) 11) dialog: You don’t know anything about him--
+24) 14) dialog: I just had no idea Xavier could be so mean. While the chat centers on Lily, the camera also observes Violet’s post-jilt pain.
+24) 18) dialog: He’s not like that at all, he’s actually a really nice guy. 33 34 47.
+24) 20) dialog: No, he dresses well but he works in strategic development.
+24) 22) dialog: “Strategic Development” -- he works at “S.D.A.” -- Strategic Development Associates. He’s an associate there.
+24) 24) dialog: Violet? Are you okay? For a while Violet says nothing.
+25) 6) dialog: (alternating) Violet!
+26) 0) text: Violet walks back from the wood; Lily and Rose find her.
+26) 1) dialog: Violet omigosh-- what happened?!
+27) 2) dialog: How long were you gone for? Violet is still slow to reply.
+31) 0) text: The boorish shouts of moronic male students on a walkway the otherwise deserted Quadrangle a forlorn air. INT. GIRLS’ ROOM -- NIGHT 42 Lily looks down onto the scene, then turns to the others.
+31) 1) dialog: I can’t imagine where she could have gone? Wherever she went, she should be back by now. Rose turns to Heather. 51.
+31) 4) dialog: still? Heather nods.
+31) 6) dialog: I’m beginning to wonder about Violet. How can someone so smart continue mooning over a dope like that.
+31) 8) dialog: But Violet’s so great, how could she go berserk over an idiot like that?
+31) 10) dialog: You met Violet in Seventh Grade?
+32) 8) dialog: “Tweeter?” Like a bird?
+32) 10) dialog: Not at any age. What was she like?
+32) 12) dialog: What do you mean?
+32) 18) dialog: Why was she so unpopular?
+32) 20) dialog: Tasks?
+32) 24) dialog: My God that’s insane!
+32) 27) dialog: What compelled her?
+32) 31) dialog: Omigod.
+37) 14) dialog: You really thought you were going to find the answer to whatever you were looking for in Villafranca?
+37) 17) dialog: Soap? Violet bends over her cupped hands and inhales deeply.
+37) 19) dialog: How?
+38) 0) text: Very late afternoon: Lily, with shopping bag, rings, then knocks. No one answers. She knocks again. Then tests the door. It’s open and she hesitantly enters.
+39) 1) dialog: Hello?... Hello?... Is anyone here?... Lily walks through the house -- it seems spare, as if furnishings have been removed. A rhythmic sound comes fro somewhere in the apartment. Passing the washer-dryer she 59. it’s the agitated spin cycle. She gets to the kitchen and puts the bag down on the counter.
+39) 3) dialog: Omigosh, I couldn’t understand where everyone was!
+39) 5) dialog: Where’s Alice?
+39) 7) dialog: What do you mean?
+39) 9) dialog: But when you called you said--
+40) 0) text: LATER, CUT TO CLOSE ON: Vegetables saute in a pan. Xavier cooks, Lily helps.
+40) 2) dialog: Really? What was she jealous of?
+40) 4) dialog: No... what? 55 60.
+40) 6) dialog: She was jealous of me?
+41) 0) text: The coffee table has been set with two places and low candles. Lily brings in their plates as Xavier looks thro some dvds.
+41) 2) dialog: Yes, what would you like to see?
+41) 4) dialog: No, is it new? Xavier shakes his head.
+41) 6) dialog: But, it’s in color?
+41) 9) dialog: No. 56 57 61.
+41) 13) dialog: I don’t know -- apparently they had a lot of problems.
+41) 21) dialog: What’s it say? Heather, taking a look, reads it:
+41) 23) dialog: What's a “gif”?
+41) 26) dialog: But he wrote “gif.”
+41) 33) dialog: How thoughtful.
+41) 37) dialog: Gosh, Violet, you’ve really got to stop thinking about Frank.
+41) 40) dialog: I’m ready. Xavier smiles.
+41) 42) dialog: What?
+41) 44) dialog: I’ve never been anywhere.
+41) 46) dialog: Uh... No, I don’t think so. He shows her a postcard of Carcassonne.
+41) 47) dialog: It's fascinating, I'd like to visit it.
+41) 50) dialog: Really? Why?
+41) 52) dialog: Omigod, the Catholic Church is, like, always bad. Xavier nods.
+41) 54) dialog: So, you’re a Cathar? 59 60 65.
+41) 56) dialog: That's so impressive. I can tell you -- we didn’t have any Cathars back home.
+42) 0) text: Lily washing her hands, checking herself in the mirror.
+43) 0) text: Xavier goes between the bedroom and living room lighting candles and rearranging things, placing a lotion near the bed, adjusting the music. Lily, coming out, walks into Xavier’s arms. Xavier leads her to the bed where they continue kissing, finally coming up for air.
+43) 2) dialog: I should hope so!
+43) 4) dialog: Sure -- condoms, right?
+43) 6) dialog: What do you mean? 61 62 63 66.
+43) 8) dialog: From the other side?
+44) 0) text: Time lapse of the turning from night to morning, when Xav lets Lily out, giving a last kiss.
+45) 0) text: Lily walks down the street, pensive, looking somewhat uncomfortable, her gait odd.
+46) 3) dialog: Charlie? No. Lily, looking around, shakes her head. 67.
+46) 5) dialog: Yeah, he calls from time to time.
+46) 7) dialog: Why should I introduce you?
+46) 9) dialog: So?
+46) 11) dialog: You’re crazy.
+46) 13) dialog: Guys do that all the time.
+46) 16) dialog: Charlie’s a friend. He’s a nice guy.
+46) 18) dialog: I just hate to think what would happen if one of you got her claws into him. 68.
+46) 20) dialog: Charlie’s not pathetic.
+47) 0) text: Lily approaches the house. INT. XAVIER’S HOUSE -- EVENING Xavier comes to the door and walks with her inside.
+47) 2) dialog: I was getting drinks at the Oak Bar.
+47) 4) dialog: Just my roommates -- I’ve hardly seen them lately.
+47) 6) dialog: I’m sorry.
+47) 10) dialog: What is it?
+48) 0) text: Lily lets herself out and walks down the path and then th sidewalk, her gait careful and pretty awkward.
+49) 2) dialog: What’s that?
+49) 8) dialog: Charlie! Charlie! Charlie stops in his tracks and turns to her.
+49) 9) dialog: Hey! What are you doing here? Charlie pauses for thought.
+49) 10) dialog: Have you the day off?
+49) 12) dialog: This is my friend -- Charlie -- whom I think I’ve mentioned. Charlie, these are my roommates -- this is Rose, this is Heather and Violet. Charlie works at Strategic Development Associates -- he’s an Associate there.
+49) 21) dialog: But only businesses pay the big bucks.
+49) 28) dialog: “Flit Lit?”
+49) 31) dialog: Bye!... God, Violet, what was that about?
+49) 33) dialog: That’s not possible -- he’s got a full-time job at Strategic Development Associates.
+49) 35) dialog: Why would he lie about something like that?
+53) 2) dialog: Omigod, how crazy. He’s completely insane -- and I almost dated him.
+53) 5) dialog: Making up an entirely fictitious identity? That’s not crazy? It’s insane, psycho, weird...
+53) 8) dialog: This is different. It’s pathetic... All that about “strategic development” he just made up -- don’t tell me that’s not weird.
+53) 10) dialog: Omigod, Violet you’re not going to start going out with him? (watching her face) You’re not, are you?
+53) 12) dialog: Not to the stacks, I hope. Violet nods.
+53) 14) dialog: Omigosh, do you realize how dangerous that is?
+53) 16) dialog: Yes. The stacks -- they’re dark and deserted. Anything could happen.
+53) 18) dialog: Promise you won’t go with him into the stacks. Please.
+53) 21) dialog: And please not at night.
+55) 0) text: Lily walking looking thoughtful.
+56) 0) text: Just off campus a tall, thin fresh-faced California-type PAMPHLET GUY stands in the sidewalk as Lily approaches.
+56) 2) dialog: Hi.
+56) 4) dialog: What’s the “A.L.A."? She examines the text more closely.
+56) 5) dialog: oh!
+56) 8) dialog: So, a fellow was passing these out on the street and invited us to a meeting on Tuesday.
+56) 10) dialog: I thought it was something related.
+56) 12) dialog: No.
+56) 15) dialog: Talked about?...
+57) 0) text: Lily is out the door and heading down the walkway, Xavier comes out after her.
+58) 0) text: Later, beyond Xavier’s neighborhood, on Lily as she walks
+59) 0) text: Close on: feet during a line dance, lots of boots and hea footwear -- just a couple pairs of light “Repetto” slippe amidst all the clomping. A wider view -- Violet, Rose, Heather, Jimbo, Fred amidst more “Western” dancers: Jimbo keen on a reserved Rose, Violet with Fred. Across the roo Lily enters looking sad. From the sidelines she watches t dancers. After a bit, the others notice her, Violet wavin for her to join them. Lily shakes her head and dodges the looks. Finally, Violet breaks away from the line.
+59) 2) dialog: It’s okay.
+60) 7) dialog: No, I don’t mind.
+60) 10) dialog: Because Cathars don’t believe in procreative sex, they don’t have intercourse the usual way.
+60) 13) dialog: No, it’s okay. Yes, the normal way, from the front -- where you can have procreation -- not from the other side... where you can’t. A light goes on in Jimbo’s head.
+60) 15) dialog: Not exactly but that’s the direction their beliefs head in -- when they want to express love, that’s what they do.
+60) 18) dialog: It got pretty uncomfortable.
+60) 21) dialog: I don’t know.
+64) 0) text: Violet walks back to the dance floor and rejoins the danc Fred and Lily already seem uncomfortably close.
+69) 0) text: The girls (minus Lily), elegantly dressed in plausibly Ro style, watch. Violet, though still sad, comments indulgen
+76) 55) dialog: It’s me.
+76) 57) dialog: Hi.
+76) 59) dialog: Why?
+79) 0) text: Tight on Lily eating, widen on the whole group having breakfast. Violet seems somewhat sad, Heather a bit high. 105.
+79) 4) dialog: The highest suicide rate?
+80) 6) dialog: Fred! Hi! Lily runs up to fall in by Fred just as they turn the cor and see: Outside Doar Dorm and pouring out of its doors D Dorm guys and a few Doar Dorm “women” throw small oval di back and forth in an enormous frisbee-like free for all. of the discs falls at Violet’s feet: it’s the oval packag they used for the Wonder Bar, never opened. The girls loo to each other, appalled. Two guys jump for the same disc, bashing into each other, one dropping like a stone as if dead.
+81) 1) dialog: I guess it wasn’t realistic to expect Doar Dorm to turn into “Dior Dorm” overnight. 107.
+81) 7) dialog: Yes, I’d like to but I have several papers to finish. But I’d like to...
+84) 0) text: Lily and Fred study and talk at one of the bar’s corner booths. Fred checks his watch.
+84) 2) dialog: You want to go to that?
+84) 4) dialog: You’re kidding.
+84) 6) dialog: Gosh, you’re strange...
+84) 8) dialog: No, it’s later on, like 10 I think... I have to confess I’ve started losing patience with Violet. Depression calls for serious treatment -- medication, psycho-pharmaceuticals, talk therapy-- 110.
+84) 10) dialog: A little off-beat! Omigod. I don’t know how much you know about Violet but there’s some pretty weird stuff. “Violet,” “Violet Wister” is not even her real name.
+84) 12) dialog: No. It’s “Emily Tweeter.” Apparently when she was eleven years old she went completely crazy and has had several relapses since, so it’s a little worrisome to have her counsel nearly suicidal individuals-
+84) 14) dialog: What?
+84) 16) dialog: You remember that?
+84) 18) dialog: What?
+84) 20) dialog: Could, uh--
+84) 22) dialog: And you think this girl was Violet?
+84) 24) dialog: In Portland? Fred nods. The barman arrives with a tray of cocktails -- much to their surprise.
+85) 2) dialog: It wasn’t just that...
+85) 5) dialog: How’s that possible?
+85) 14) dialog: Why are you so concerned about that?
+86) 0) text: Fred, Lily and Xavier hurry down the sidewalk -- semi- Jogging.
+88) 5) dialog: Violet, did you spend any part of your education at a school called Willamette Montessori?
+89) 6) dialog: Violet, can I talk to you? Lily, having silently followed all this, stands and nods Violet, who gets up too. As they walk to the coffee count Lily whispers to her confidentially.
+89) 7) dialog: What’s the plural of doufus?
+89) 9) dialog: Not doufuses?
+89) 11) dialog: You’ve thought a lot about this.
+89) 13) dialog: Hmmm.
+89) 15) dialog: I like Fred -- he’s a nice guy and I can see why you like him... Any mass of people, such as you might find in a large university or high school, divides into many different 116 117 118 119 116. groups. Normally there’s a “cool crowd,” and then variously less cool crowds. When I first met you and Rose, I thought you were the “cool crowd” -- and, in many ways, you are. I find your perfume and fashion sense excellent.
+89) 17) dialog: But...there’s a reason, I think, why you are so strongly attracted to doufi. And it’s not an accident. How different groups divide up... While Lily speaks Violet notices something.
+95) 0) text: Lily and Violet come down a path, both in frilly “Damsels costumes.
+95) 1) dialog: I’m sorry what I was saying before - - of course you’re not irretrievably linked to the doufi or even that such distinctions are valid--
+95) 3) dialog: Oh, so you think cool people have less humanity?
+95) 5) dialog: In our society there’s all this propaganda in favor of uniqueness, eccentricity, etc, but does the world really want or need more of such traits? Aren’t such people usually terrible pains in the neck? What the world needs to work properly is a large mass of normal people -- I'd like to be one of those -- sorry.
+95) 7) dialog: Yeah. Of course.
+96) 0) text: In the long dance mirror first Lily then Violet appear, i their extravagant costumes for the musical.
+96) 1) dialog: Omigod we look ridiculous. Violet looks at their reflection, serene.

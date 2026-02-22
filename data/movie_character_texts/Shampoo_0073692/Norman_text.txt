@@ -1,0 +1,16 @@
+8) 276) dialog: (the shop's owner)
+8) 281) dialog: You're late, we're all backed up and you're supposed to go to Buffums.
+8) 285) dialog: Yes, Buffums.
+8) 289) dialog: You promised you'd do the show.
+8) 293) dialog: Don't use that tone of voice with me... never mind, I'll take Gordon.
+8) 313) text: See, Norman expects me to get in here, take care of all the customers and then do his show out in Norwalk. I gotta have my own shop, just out of self defense.
+20) 18) text: The PHONE RINGS. Norman brings it to George.
+20) 20) dialog: George... Jackie Shawn.
+71) 1) text: Norman is by the front desk.
+71) 3) dialog: You're late, George.
+71) 16) text: Norman! (to Devra)
+71) 21) text: Norman from upstairs shouts down.
+71) 23) dialog: What!
+71) 27) dialog: You do it.
+71) 30) text: Look, Norman, I'm not the shampoo girl.
+71) 32) dialog: You are today.

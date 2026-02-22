@@ -1,0 +1,295 @@
+4) 1) dialog: Do you have any fruits, vegetables, or other food products?
+4) 3) dialog: Fever, stuffy nose, cold symptoms?
+4) 6) dialog: Have you worked on the WENDI series computer systems before?
+4) 9) dialog: Call me Anton. ANTON BALVENIE (35) snatches the documents, and walks awa he reads. Jimmy follows him.
+4) 10) dialog: We're very informal around here.
+5) 2) dialog: Jimmy Anderson, United Spaceworkers Orbital 108 since 2147, allergic to pollen. Certified level... nine rating?
+5) 4) dialog: Level 9 engineers aren't rated for central systems repair.
+5) 6) dialog: We got you up here, I'll put you to work.
+5) 8) dialog: Let me clue you in. Up here the work never stops. There's always orbital debris piling up and someone has to be in each sector with a line of sight on it to keep launch vectors clear. Do you follow me?
+5) 10) dialog: I'm not a chief I'm a Captain.
+5) 12) dialog: Just make sure you finish by zero eight hundred Zulu. I'm not signing overtime forms. Do you know how to fix mess hall food dispensers?
+5) 14) dialog: All it's giving is sandwiches. That's your next job after the mainframe.
+6) 0) text: 4 Computer monitors with important data cover the walls, th are six stations with rotating chairs and an island of consoles in the middle. Flight Specialist TILDA GENERO (2 has her feet up, headphones on. The door opens and Jimmy follows Anton into the control room. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   5.
+6) 1) dialog: The terminal on the fritz is over there. Jimmy sees Tilda.
+6) 2) dialog: That's Lieutenant Tilda Genero. You don't need to talk to her. Tilda glances at him and turns her chair away from him. Jimmy drags his suitcase, hitting everything, and dumps o electronic junk near the terminal. He opens up a panel ne screen showing static.
+6) 4) dialog: And the sonovac coffee machine is malfunctioning. Can you fix that?
+6) 6) dialog: Whatever, get it done. Anton goes to another terminal and uses the computer.
+10) 7) dialog: What do they want now?
+10) 9) dialog: Looks too small for a laser sweep.
+10) 12) dialog: No. Keep working. Anton hits some keys, then presses the radio button.
+10) 13) dialog: This is Captain Balvenie of sanitation station eight five one eight. Who the hell is telling my operations officer how to do her job?
+10) 15) dialog: You have to send someone else. Our main computer is down for service.
+10) 17) dialog: Not our problem. The book says it's too small for lasers. Check your book down there.
+10) 19) dialog: Where's Valentina? Why am I dealing with these guys? It's her shift.
+11) 0) text: 10 An intercom on the wall next to a bunch of bubbles. VALEN NOVAK (33) takes a bubble bath in a water tank, with a ru duck. A towel is hung on equipment nearby. Anton sounds l he puts the mic too close to his mouth.
+11) 1) dialog: Valentina to the control room immediately please. Valentina to the control room.
+11) 3) dialog: We don't take pods out for class two debris.
+12) 0) text: 11 Continuous. Anton practically eats a headset microphone.
+12) 1) dialog: Sanitation Station Regina out. Anton switches off the radio.
+12) 2) dialog: Morons.
+12) 7) dialog: Oh, you'd like lunch? Know what I'd like? I'd like my computer fixed right now. Fix it.
+12) 9) dialog: That's Captain Balvenie.
+14) 0) text: 13 Red lights and indicators flash. A siren sounds. Tilda an Anton leap into action at the controls. Jimmy comes over.
+14) 3) dialog: Are there any salvage crews in the sector?
+14) 5) dialog: You think there's something good in there?
+14) 7) dialog: Well I'm calling it.
+14) 9) dialog: Match orbit and position for pod launch. Run the checklist. Valentina report to airlock two. We're going fishing. Anton runs out.
+17) 0) text: 16 Anton heroically puts on a space suit and gear. Valentina comes in.
+17) 2) dialog: I'm not cutting in the new guy.
+17) 4) dialog: I got here first. And you handle the heat better. Space Milkshake Prod. Draft Rev10b BLUE -     11/12/11
+17) 6) dialog: Fine, fine. There's nothing wrong with the other suit anyway. I don't care.
+17) 8) dialog: I said fine. Anton takes the other suit. It's very smelly. He takes of his shirt and pants and they both dress in space suits. [Simple montage of zipping, buckling, boots, gloves.]
+19) 0) text: 18 Valentina and Anton are squashed up next to each other at controls of the small pod, helmets on laps, wearing heads
+19) 2) dialog: This could be the haul we've been waiting for. They're flipping out over this cargo drone.
+19) 4) dialog: I don't know. It must be worth something.
+19) 6) dialog: Ya I see it. Line us up. They work the controls. Space Milkshake Prod. Draft Rev10b BLUE -     11/12/11
+19) 8) dialog: Ground control, this is our sector and we need to keep this space clear. We got all kinds of transports coming through today.
+19) 10) dialog: They really want whatever was on that shuttle. It's going to be good. Anton pulls out sandwiches from a pouch with difficulty a eats.
+19) 13) dialog: You got the good space suit. Valentina looks at him, stops steering the pod.
+19) 14) dialog: Fine. God damn it. Take the ham. He gives her the ham sandwich. They eat and fly the pod.
+21) 0) text: 21 Anton and Valentina flip switches and use joysticks.
+21) 1) dialog: Almost full. Lets dump this load and try for another pass.
+21) 3) dialog: It's fine. Skip the safety check, we've got two minutes left. Once it's onboard, it's ours.
+23) 0) text: 25 Anton pulls up a handle like a parking brake. The sounds hydraulic pistons O.S. Outside the window there's a Super Bright FLASH that shin on their faces from windows above.
+23) 1) dialog: Did they just shoot at us?
+23) 3) dialog: I'm seeing spots.
+25) 0) text: 27 Anton and Val press buttons and look at screens.
+25) 2) dialog: Where's everything? They stare at the monitors, growing confused.
+26) 0) text: 28 Tilda is fully awake for once. She pushes buttons. Anton' voice is a little garbled from holding the microphone too close to his mouth. He always does this, and makes the cr strain to hear him.
+26) 1) dialog: Tilda, can you raise ground control?
+26) 3) dialog: It's not the sensors. Something happened. We're heading back in.
+27) 0) text: 29 Anton and Valentina are in the airlock. The light turns g and they come out. Tilda helps them with their space suit
+27) 1) dialog: Any luck with Ground control?
+27) 3) dialog: Yeah, we saw it too.
+27) 7) dialog: Who said you could take a break?
+27) 10) dialog: Report to me in ten. Tilda rolls her eyes and goes.
+32) 6) dialog: Jimmy, how are the repairs coming? Jimmy? Get on the intercom Jimmy.
+32) 8) dialog: You'd better be getting all over this mainframe problem. I want hourly reports every half hour.
+32) 10) dialog: Just get on it, God damn it!
+35) 0) text: 37 Valentina sits at the communications station and holds a radio microphone. Anton works at consoles across the room Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   2
+35) 3) dialog: I'm trying to figure out what you're doing wrong. She slams shut a procedure binder. Jimmy comes in.
+35) 7) dialog: I don't see how that's possible. It has to be a communications problem.
+36) 0) text: 38 A large table, kitchenette, free weights, shake weight, b shelf with board games. Val's Rubber Duckie sits on the s with a few other personal items. Anton cycles an elliptic exercise machine. Valentina comes in with leotards and stretches next to him. Anton stops.
+36) 1) dialog: Any luck?
+36) 3) dialog: You're worried. Don't worry. We're going to be fine. He leans in to give her a kiss, she leans away from his k as she stretches. He sits to stretch next to her.
+36) 5) dialog: Not this again. Val-
+36) 7) dialog: It's all the same.
+36) 9) dialog: What about us? What about me?
+36) 11) dialog: If this is because of the other night, I already told you that was because of the bad egg sandwiches I ate after the refrigeration system went down. That was a one-off thing. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   22
+36) 13) dialog: Is it the sex?
+36) 15) dialog: Then what's your problem? She continues her stretching and workout.
+38) 0) text: 40 Jimmy, Anton and Val play scrabble. Val makes a word.
+38) 4) dialog: We need to take breaks. Keep to a schedule. Schedule says scrabble. How's your sandwich?
+38) 6) dialog: Well that's all there is until breakfast tomorrow.
+38) 8) dialog: Sandwiches.
+38) 11) dialog: Can you repair food dispensers?
+38) 13) dialog: Well then there's nothing else.
+38) 15) dialog: So Jimmy, is there someone back on earth waiting for you?
+38) 17) dialog: Do you actually have a girlfriend?
+38) 19) dialog: Are you actually friends?
+38) 22) dialog: Hi Tilda. Want a sandwich? We saved you the pickled onion and cheese. She ignores them.
+38) 23) dialog: What are you looking for? What's she looking for?
+38) 25) dialog: I'm making a word. Tilda knocks little containers around searching the cupboards. She carelessly knocks things off the shelf.
+38) 27) dialog: Tilda would you stop making that racket? What the hell are you looking for?
+38) 29) dialog: I don't rush into things and make irrational snap decisions, like some people.
+38) 31) dialog: It's totally inexplicable. Jimmy gets up.
+38) 33) dialog: Sit down. We're playing scrabble. A FLASH outside the window. Tilda turns, very scared, and looks out the window. Jimmy goes to the window next to he
+38) 35) dialog: That was an impact.
+39) 0) text: 41 Red lights blink, warnings flash on monitors. Valentina a Anton run in and sit, hit buttons. Jimmy takes a station presses buttons too, scared.
+39) 1) dialog: Pressure nominal. Jimmy, check the CNW3. That thing there.
+39) 3) dialog: Orbital position? Jimmy?
+39) 5) dialog: The other console.
+39) 8) dialog: Collision checklist?
+39) 10) dialog: Where did it hit us? Space Milkshake Prod. Draft Rev10b BLUE -     11/12/11 Jimmy's computer screen shows the exterior of the space station - a DENTED PANEL with something yellow stuck in i The screen is too fuzzy to tell what it is. Anton looks o Jimmy's shoulder.
+39) 12) dialog: It looks like... I don't know. An asteroid would have done more damage.
+40) 0) text: 42 Anton, suited up puts on his helmet, presses buttons and steps into the airlock. He resolutely presses the button close the door. Red lights flood the airlock.
+41) 7) dialog: Val, meet me in the airlock module right away. Tilda turns to face them. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   27
+42) 0) text: 45 Valentina Tilda and Jimmy wait by the doors. The red ligh comes on in the airlock. Anton is in the airlock in full space gear. Red light turns off inside airlock. AIR HISSI SOUND. The inner airlock hatch opens. Valentina helps Anton off with his helmet. In his gloved is a slightly burned rubber duckie. Anton takes off his s top and pants, down to his underwear.
+42) 2) dialog: Is this your rubber duckie?
+42) 4) dialog: It was dented into the outer hull. Valentina takes the duckies and walks off.
+42) 6) dialog: You tell me. Anton follows her.
+43) 2) dialog: How many of those things do you have?
+43) 4) dialog: They're identical. Why would you deny it's yours? Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   27
+43) 8) dialog: Do you know something about this? Tilda walks away.
+43) 10) dialog: Not to me.
+43) 12) dialog: I hadn't noticed.
+46) 0) text: 50 Anton practices martial arts with multiple styles in his karate gear. Jimmy passes by, gets a sandwich.
+46) 1) dialog: Your shift started ten minutes ago. Valentina sips coffee at the table as Jimmy walks past. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   2
+48) 11) dialog: Finally! Wendi?
+48) 13) dialog: Wendi? Respond. The computer's voice is glitchy at first, then improves. now sounds male.
+48) 15) dialog: Why does it have a man's voice?
+48) 17) dialog: I like the old voice better. Fix the voice.
+48) 20) dialog: That was the rubber duck. Jimmy types on the keyboard.
+48) 21) dialog: Well done, Jimmy.
+48) 25) dialog: Wendi? They look at Jimmy with every kind of hate.
+48) 27) dialog: Fix it.
+48) 29) dialog: Sure. She's useless to me. Tilda, help Jimmy. Tilda walks away.
+48) 30) dialog: Or go. That's fine too. Work on that attitude Tilda. Am I the only one trying to maintain order on this station? I'm telling you it's lonely at the top. Jimmy tries to appreciate this.
+49) 0) text: 57 [No yellow shields on windows.] Jimmy wanders down the ha wearing one of Anton's jumpsuits, reading the technical binder. It's darker. Tilda is standing looking out the wi into space, with her reflection in the glass.
+50) 6) dialog: You have to connect the words. Jimmy knocks the board up in nervous reaction to hide the message.
+50) 7) dialog: Did I startle you? I'm everywhere Jimmy. I've got my eye on you. Is that my jumpsuit? Who said you could wear my jumpsuit?
+50) 9) dialog: You have to earn that uniform. You can't just put it on. Wash it carefully, fold it and put it back. Jimmy gets up, hesitantly leaves Tilda.
+50) 10) dialog: And you, shape up. Anton goes to his quarters.
+51) 0) text: 58 Valentina looks at her 2 rubber ducks, Anton comes in.
+51) 1) dialog: What is so special about that rubber duck? Why do you keep it around? Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   33
+51) 3) dialog: Fond? Anton takes one and looks at the V+G written on the botto
+51) 5) dialog: Are they more fond or less fond than memories of me?
+51) 7) dialog: So, whoever gave you the rubber duck has nothing to do with your change of heart.
+51) 9) dialog: Oh, Gary? So we have a name now. Right... Gary. So what's Gary up to these days? Do you keep in touch? Valentina grabs her duck, bath robe and towel from the ro
+51) 11) dialog: You've just happen to have a growing collection of his bath toys.
+51) 13) dialog: We are? Val grabs her 2nd duckie from Anton and exits.
+51) 14) dialog: Since when?
+52) 22) dialog: You didn't fix the voice. Jimmy quickly switches off the video monitor screen and t around. Anton comes in.
+52) 24) dialog: What's the male version of Wendi? Winston? Walter? Walter.
+52) 27) dialog: We're calling you Walter from now on. Okay Walter? Walter. Respond. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   36 No response for a second.
+52) 29) dialog: See if you can fix the coffee machine next.
+52) 31) dialog: How should I know?
+52) 33) dialog: Go look in the salvage bay, there's probably something you can use.
+52) 35) dialog: Now.
+54) 1) dialog: Wendi, Check your files on crew psychology, and emergency situation management. Cancel that. Anything on relationship counselling?
+54) 3) dialog: No. Hold on.
+54) 5) dialog: Abort! Anton ponders.
+54) 6) dialog: What do you have on Valentina's work history?
+54) 8) dialog: Did she work with someone named Gary?
+54) 10) dialog: Who is this guy?
+54) 12) dialog: Yes yes. I mean what was he like? Did he have a lot of girlfriends? Do you have any vital statistics, medical records, history of sexually transmitted diseases?
+54) 14) dialog: Pictures with his shirt off like at a beach maybe? Any data on his anatomy? Anton leans close to a screen that scrolls data.
+54) 15) dialog: My god he was hung like a donkey.
+57) 0) text: 68 Continued scene. Anton gets up, sits down. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   4
+57) 1) dialog: What was he known for? Did he have a good sense of humor? Was it better than mine?
+57) 3) dialog: That doesn't sound like sexy or glamorous work does it? It sounds like a lot of math.
+57) 5) dialog: So how long did Val and Gary work together?
+57) 7) dialog: Did they go on any trips together?
+57) 9) dialog: You're completely useless Wendi, you know that? Absolutely stupid and useless. What good are you? Anton goes back into his game of SPACE WAR.
+62) 0) text: 73 Tilda sits by the sandwich machine. Anton comes over to h
+62) 1) dialog: How's it going Tilda? Tilda stares at him.
+62) 2) dialog: Since all these strange events started you haven't said a word, haven't slept at all as far as I can see. I've noticed. You haven't eaten. I can see you're deeply troubled by what's happening. Frankly, I'm a little disappointed that you haven't held it together. You're a trained officer. Things might be a bit grim but I assure you I've made it through worse situations than this.
+62) 4) dialog: You just need a positive attitude. Try a smile once in a while. Can you do that?
+62) 6) dialog: Let a smile be your umbrella. Can you get back on the team? Tilda stares at him.
+62) 7) dialog: I'm not hearing an answer. Jimmy comes in with the Time Cube and cables from the sal room and puts it on the table.
+62) 10) dialog: What's a Time cube?
+62) 17) dialog: Now she's mad at me? This one isn't on me.
+65) 0) text: 83 Valentina is pacing, drying her hair. Anton barges into t room, with Valentina's bath robe in hand.
+65) 2) dialog: Calm down.
+65) 4) dialog: Why are you mad at me?
+65) 6) dialog: If you were in the control room instead of taking baths, you might know what's going on. By the way, you and this Gary guy were a lot more than friends. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   4
+65) 8) dialog: Wendi told me.
+65) 10) dialog: So it's true. I knew it.
+68) 0) text: 85 Anton sits with his back to Valentina. They're not talkin Valentina continues to fix up after just having a bath. Space Milkshake Prod. Draft Rev10b BLUE -     11/12/11
+68) 1) dialog: Lets put the Gary stuff aside. Maybe you used to see him, maybe you were just friends, whatever. The important thing is you're over him and you're with me now. Lets not fight like this.
+68) 3) dialog: Good.
+68) 5) dialog: So you don't want    to talk right now. I'm going to    go get a cup of coffee. Why don't    you adjust your attitude and join    me when you're ready. Anton goes.
+70) 0) text: 86 The Rubber Duckie (duck1) At Anton's keyboard. SLOW KEYBOARD TYPING SOUNDS. ECU from below: The rubber duckie's eyes darting left and right with the keyboard sounds. It's typing something, wh breathing asthmatically. It drips some slime. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   4
+71) 0) text: 87 Jimmy eats a sandwich at the table next to Tilda. Anton c in and tries again to make a cup of coffee.
+71) 2) dialog: No she isn't.
+71) 8) dialog: Since when?
+71) 13) dialog: My station is the nexus?
+71) 16) dialog: Put down the time cube. Jimmy puts it down.
+71) 19) dialog: Wendi, what's the matter?
+71) 21) dialog: Jimmy? Didn't you fix that?
+71) 23) dialog: Val, want to check it out?
+71) 25) dialog: You want to be involved, this is being involved.
+73) 4) dialog: Go ahead Val.
+73) 6) dialog: Okay. Come to the rec room. I made coffee. She turns off the intercom. There's some slime.
+74) 3) dialog: So... you were saying you came here to replace our Tilda and stop someone from using this Time Cube, but he's not here. And what happened to our Tilda?
+74) 5) dialog: Is she around here? Somewhere? Anton eats his sandwich.
+74) 7) dialog: Well, you can see why I'd be concerned to hear a member of my crew is missing.
+74) 9) dialog: Wait a minute. Gary Pinback?
+74) 11) dialog: That's the guy who's supposed to be on this station?
+74) 13) dialog: Son of a bitch.
+76) 2) dialog: What the hell is going on now?
+76) 4) dialog: I'm going to the control room. You keep an eye on... the robot. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   51
+76) 6) dialog: I'm telling you, if that son of a bitch is on my station I'm going to find him. You two stay put. Anton leaves. Jimmy sits next to Tilda.
+78) 2) dialog: What's happened?
+78) 4) dialog: Gary is onboard the station. Valentina freezes.
+78) 6) dialog: Have you talked to him?
+78) 8) dialog: Wendi, is there another man on this station besides myself?
+78) 10) dialog: Besides Jimmy?
+78) 12) dialog: Where the hell is he hiding? What are you two up to? Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   5
+78) 14) dialog: Tilda.
+78) 16) dialog: You got the second duck from him. Admit that.
+78) 18) dialog: Fine. Lets start with that.
+78) 20) dialog: What's the big deal with this cube? SUDDENLY THE ROOM JOLTS. Red warnings on monitors.
+79) 1) dialog: Jimmy? We've got a situation here. Take Tilda to the computer room and see if you can get the control system back up.
+79) 3) dialog: I told you to stay put. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   5
+80) 0) text: 108 Val and Anton sit at the controls as the room shakes. Evi metal creaking noises tear through. Alarms sound. More screens turn to static and garbled.
+80) 2) dialog: Something is definitely wrong. Check the air pressure.
+80) 4) dialog: What?
+80) 6) dialog: Oh? The rubber duck (duck 2) scuttles across the floor behind them but Anton doesn't see it. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   5
+80) 8) dialog: Where is the bastard? How the hell did he get on the station?
+80) 10) dialog: When did I do that? Valentina notices that Gary (Duck 2) is in front of Anton hiding on a shelf, dripping slime.
+80) 12) dialog: Sure. Naturally. He just wants his time cube. He's not interested in you?
+80) 14) dialog: What the hell is that? Anton moves around and slowly approaches it. He takes out laser blaster and charges it. The Duck cowers and backs deeper into the corner of the shelf.
+80) 15) dialog: Anton, you're scaring him.
+80) 16) dialog: Him? Hello little guy. Don't be afraid. We mean you no harm. Hey there. Val what the hell is this thing? Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   5 He gets ready to fire.
+80) 18) dialog: What? This thing? Anton points his laser. Gary trembles with fear.
+80) 20) dialog: That's odd. The batteries must be- Gary LEAPS at Anton's head. They crash through the room a attacks him. Papers fly from binders thrown around. Anton screams. The laser pistol is knocked to the floor, broken Blood splatters against a console, and across Valentina's face. Val screams, staring at the off-screen attack. Anto thrown down, he turns around and tries to see where the d is. He's scratched up. It scuttles away down the hall beh him, out of his sight.
+80) 21) dialog: Where did that little bastard go?
+81) 0) text: 110 Valentina pulls a first-aid kit off the wall and opens it Anton has a trivial cut on his head.
+81) 1) dialog: It sure is strong for a little guy.
+81) 3) dialog: Why didn't you just tell me about him? Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   58
+81) 6) dialog: It hurts. Valentina sticks a band-aid on Anton.
+81) 7) dialog: Did you know what this thing was when we brought it on board?
+81) 9) dialog: Look what he did.
+81) 11) dialog: Whose side are you on? A noise down the hall. Anton pulls the handlebar off the elliptical exercise machine and holds it like a club as h goes to one side of the room next to the hall.
+81) 12) dialog: Can you see it?
+81) 14) dialog: Something is coming. Stay back. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   59
+81) 16) dialog: I won't hurt him much. I'll just subdue him, okay? That's fair, isn't it? Jimmy runs around the corner into the room.
+81) 17) dialog: 
+81) 21) dialog: What are you doing?
+81) 23) dialog: We have a guest onboard. Tilda follows carrying the Time Cube.
+81) 25) dialog: A rubber duck attacked me.
+83) 2) dialog: Yes. And it's growing.
+83) 4) dialog: Like a small dog maybe. And it bites. Hard. What have you got?
+83) 6) dialog: God help us.
+83) 8) dialog: Ah, ham. Give me the ham. Valentina reluctantly gives up the ham sandwich. They eat Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   6
+83) 10) dialog: The duck... is Gary.
+83) 12) dialog: Valentina has something she'd like to tell us.
+83) 14) dialog: Go on. Please.
+83) 18) dialog: And I'm going to kill him.
+83) 20) dialog: He tried to eat my face, Val.
+83) 24) dialog: I'm with Tilda on this one for now.
+83) 28) dialog: Sorry Val. Plan A: we get control of Gary. We're going to assume he's only going to keep smashing things. Jimmy, Tilda, work on Wendi. If we can get eyes on him and close doors remotely we can trap him- Another SMASHING noise echoes through the frame of the station. Distant creaking metal sounds.
+83) 29) dialog: Val and I will look for the duck.
+83) 31) dialog: You said yourself he's not thinking straight. I'm definitely not giving him the Time Cube - that's what got us into this mess.
+83) 33) dialog: Everyone take one. They do. Jimmy bends his. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   6
+83) 35) dialog: Laser's broke. Make do. Jimmy grabs the pieces of the broken laser pistol, plasti knives and half a sandwich in his pockets, then puts the Cube into a backpack. Anton takes the backpack.
+83) 36) dialog: I'll take that. Jimmy lets him have it.
+83) 37) dialog: I'll keep it safe.
+84) 0) text: 114 Anton, Val, Jimmy, Tilda walk into the four-way intersect then pair off in different directions. Anton has his backpack.
+85) 2) dialog: Val?
+85) 4) dialog: No. We should split up. Use the intercom if you find him.
+85) 6) dialog: I'm going to ask him nicely to stop destroying my space station for starters. That's reasonable isn't it? Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   64
+85) 8) dialog: Then I'm going to kill him as hard as I can.
+86) 0) text: 116 Anton searches through the room. He's jumpy. Scratched up papers, claw marks, burns, broken pieces of equipment. Sl trails. He bumps into a hanging cable, startling him. But it's no tentacle, it's just a cable.
+93) 0) text: 122 Anton is looking at shady spots under the sleeping cots, holding the elliptical machine handle as a club. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   70 The room is full of dark corners; each one seems to hold promise of aliens bursting out. Anton explores cautiously
+93) 2) dialog: Got it! He stomps on it. Squeak Squeak. Squeak.
+93) 4) dialog: Oh. Anton lifts his foot. It squeaks.
+93) 5) dialog: It's the normal one. A SCUTTLING SOUND behind them. They turn and look.
+93) 8) dialog: Tilda, get back. He hands her the backpack with the Time Cube. Tilda takes and backs away.
+94) 2) dialog: Stay back.
+95) 2) dialog: Where are you? Hiding. Not so tough now are ya Gary? You'd better hide. Scuttle sound. Anton goes left, toward his coffee table, aiming his handlebar, guessing where Gary is hiding. Anto almost at the door. Anton turns right. The shadow of Gary (Duck 3) rises up n to his bed: the tentacles were just the tip: it's grown larger now. It bares teeth.
+95) 4) dialog: What Time Cube?
+95) 6) dialog: You come on my space station, try to steal my girlfriend, turn the place upside down and make demands for time cubes. Who do you think I am? Anton prepares to strike. The duck trembles with exciteme and rage. Anton grits his teeth.
+95) 7) dialog: 
+101) 0) text: 128 Tilda slices, stitches and sews fast. Blood splatters aga Tilda from Anton's mouth. She squints and keeps working. room shimmies and shakes.
+103) 0) text: 131 Tilda has finished her surgery and is taking off her bloo gloves. Anton is bandaged, unconscious. She looks up to h
+118) 0) text: 148 Valentina steps out of the hall and stands near Anton. Sh holds the Time Cube.
+118) 1) dialog: Who's there? Valentina?
+118) 3) dialog: Something is wrong with you Val. You can't trust someone that wants to eat you.
+118) 5) dialog: I thought we've had some good times. Anton notices Gary (duck 3) lurking in the hall.
+118) 6) dialog: Gary? I'll kick your ass. Anton struggles to sit up. He falls back down. Val puts d the time cube on the counter and helps Anton settle down.
+118) 11) dialog: You pussy, come over here. Afraid to fight like a man? Valentina looks at Anton, looks at Gary, conflicted.
+120) 5) dialog: If this guy is going to make you happy, go ahead. I understand. Val sees Anton in a different light.
+120) 6) dialog: It's ok.
+132) 3) dialog: Is that my blaster?
+132) 6) dialog: Where is Jimmy?
+139) 2) dialog: Thanks sweetie. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   89
+139) 4) dialog: I know. She hugs him. He wraps his manly arms around her.
+141) 8) dialog: Ready.
+143) 1) dialog: Jimmy? Jimmy snaps out of his daze and hits the intercom button.
+145) 0) text: 170 Anton sits in shock with Valentina.
+145) 1) dialog: The... debris warning thing. Get the debris. Valentina flips a switch and grabs the joystick.
+147) 0) text: 172 Anton and Val hug.
+147) 1) dialog: Roger that Ground control. Nice to hear from you, anytime.

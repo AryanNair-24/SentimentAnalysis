@@ -1,0 +1,29 @@
+28) 0) text: A NIMBLE GIRL hurries past SERVANTS hanging laundry in the atrium. She's PESHET, handmaid to Princessa Andromeda. She has a feline quality -- eyes, grace, agility. She raps on the scullery door.
+28) 1) dialog: Princess... Princess!
+28) 4) dialog: The Queen approaches!
+28) 6) dialog: Andromeda! You'll care enough if you're caught! Remember last time... From inside we HEAR complaining, more kissing and moaning.
+29) 0) text: Peshet faces the Queen.
+29) 1) dialog: Is she not in her chambers, ma'am?
+29) 5) dialog: Princess, it's the King as well!
+56) 0) text: Tiamat's storm is pounding Joppa. LIGHTNING stabs through the dark clouds. RAIN POUNDS the tiles outside Andromeda's lavish bedroom. Peshet glides to Andromeda, who's wide awake, red-eyed, distressed.
+56) 1) dialog: You must sleep. (off no reaction) Princessat You must take care of yourself. A CRACK OF THUNDER. Andromeda looks over at her, thinking.
+56) 3) dialog: I'm sure that is not so.
+56) 16) dialog: Go to sleep, my lady.
+68) 0) text: A CADRE of REVOLUTIONARIES led by Fantasos is gathered. Agenor, the handsome scullion who made love to Andromeda, leads Peshet in from the rain. She is frightened; Agenor has misled her.
+68) 1) dialog: Where have you brought me?
+68) 5) dialog: You are the Priest of the Streets.
+68) 14) dialog: Some do...
+68) 18) dialog: I have always served the royal family.
+73) 0) text: Peshet comes into the dark room and looks at the lump on Andromeda's bed. On instinct, she hurries to the bed and throws off the covers -- a pile of cushions, no Andromeda. Peshet races out.
+74) 0) text: Peshet sprints through the RAIN, dodging the REFUGEES and CITIZENS like a cat, peering under each hood, searching for her mistress.
+76) 0) text: Peshet rounds a corner, frustrated. Andromeda is gone. A hand grabs Peshet's shoulder, startling her. It is Fantasos.
+121) 0) text: The GONG sounds a THIRD TIME. Peshet opens a lock and sets the heavy gate ajar. She looks at the dagger in her palm and hurries inside. After a moment, four CLOAKED REBELS slip through the open gate.
+121) 8) dialog: My lady? Princess Andromeda? She goes deeper into the rooms, then GASPS, looking off,
+121) 11) dialog: My lady, please --
+121) 13) dialog: Princessa, give me your hand. Andromeda, please. Please.
+121) 16) dialog: I won't allow it, my lady. Today, you are only a Princess. One day your people may need a Queen ready to die for them. Peshet snatches up the dagger from where she dropped it.
+121) 17) dialog: Come, we have to hide you... right now.
+121) 25) dialog: Good.
+122) 0) text: Peshet leads Andromeda out.
+122) 4) dialog: Come and get her. Agenor and the other two circle Peshet. She moves with feline agility, but is separated from the Princess. To the Second Rebel --
+122) 6) dialog: Run, Princess! Save yourself. Peshet leaps on the Third Rebel. Andromeda runs away from the Second Rebel, who easily closes the gap.

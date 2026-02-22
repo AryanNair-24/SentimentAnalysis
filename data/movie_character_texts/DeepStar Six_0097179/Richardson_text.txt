@@ -1,0 +1,41 @@
+1) 5) dialog: Letter from Julie.
+1) 8) dialog: Well, it ain’t Rembrandt, pal...but to me it’s priceless.
+1) 11) dialog: I told her it was beautiful down here. With flowers and trees... Snyder starts laughing, his mouth gorged with food.
+1) 14) dialog: After six months, it’s the only thing that keeps me going.
+1) 20) dialog: Yeah, I got ’em. You gonna fax my letter to Julie this morning?
+1) 24) dialog: (somewhat disgusted) Yeah, yeah.
+5) 2) text: In the passenger section in back, Drs. Valdez, Craven, Abernathy, and Jerkins are already strapped in. Laidlaw takes his seat next to Collins, activating his monitors. Three screens labeled: PORT FORWARD STARBD flicker to life. Pierce calls down to Richardson.
+51) 0) text: Richardson is stacking cases of equipment and luggage by the docking bay airlock when he hears the SOUNDS of the the DSRV arriving. Richardson punches the videocom.
+51) 1) dialog: (into videocom) They’re back.
+56) 9) dialog: I’1l get the gear! He runs off into the docking bay.
+59) 0) text: Richardson is gathering some equipment together when the shock of the explosion knocks him to the deck.
+62) 0) text: ALARMS go off as water begins to spray from the cargo sub’s hatch. Richardson jumps to the hatch, fighting the water as he tries to re-seal the hatch.
+64) 0) text: Collins has seen the strut fall. She runs to help Richardson. She stumbles across Snyder, still on his hands and knees, looking for his pills. Norris gropes her way through the hatch from sick bay.
+65) 0) text: Collins drags the torch set over to the broken support strut. As Richardson lifts the strut, she fires up the torch.
+71) 0) text: Richardson jams a packing case against the wall, Collins jumping up on it with her torch. He holds the strut in place as she starts to weld the strut to the bulkhead.
+72) 10) dialog: (continuing) Well, that’s the ballgame, folks.
+72) 15) dialog: Pierce, look here. Pierce turns as he points to the board.
+72) 16) dialog: (continuing) This indicates that the exchanger is still functioning.
+72) 18) dialog: So what’s the problem? We could reroute the main through the bypass and patch the oxygen through the airlock pressure system.
+73) 4) dialog: (off her look) For luck... Then Richardson hoists himself inside as Norris steps up.
+73) 6) dialog: (squirming into the suit) It’s a walk in the park. 117 INT. DIVE SUIT il Richardson has "customized" the interior of his dive suit. Taped to the inside of the helmet are photos of his wife and daughter. A pair of miniature, pink fuzzy dice hang near the atmosphere controls.
+74) 0) text: Collins checks that Richardson’s tool basket is loaded and secure. At the monitoring panel, Snyder switches on the diving suit’s video assist system. The camera mounted on Richardson’s helmet comes to life.
+76) 2) dialog: (filtered) Let her rip. Collins steps over to a panel: AIRLOCK CONTROL. CLOSEUP - FLOOD button, as Collins presses it.
+78) 0) text: The airlock door slides open and Richardson steps out onto the ocean floor. Work lights on the diving suit cast pools of brilliant light. lies the absolute blackness of the deep ocean.
+79) 0) text: Beyond Norris, Craven, and Snyder watch the Richardson’s P.O.V. monitor as his voice CRACKLES speaker.
+79) 1) dialog: (filtered) I’m clear of the airlock.
+80) 0) text: As Richardson moves away from the airlock, the lights on the station grow dimmer. Soon he is surrounded by total darkness. His breath is labored, each step is an-effort. Suddenly, a large black object begins to materialize in his path...
+81) 1) dialog: (filtered) ..-Something up ahead... But the monitor only shows a grey-black muddle.
+82) 1) dialog: ...it’s the oxygen exchanger.
+82) 3) dialog: (filtered) Okay, I’m at the recirculation mains. Where do I cut? Pierce looks over the blueprints.
+83) 0) text: Richardson scans the exchanger, his light coming to rest on a large main -- ENZ-6538 -- nestled in between smaller pipes.
+83) 1) dialog: Yeah...I’ve got it.
+84) 0) text: As Richardson’s torch cuts through the main, Pierce starts to reroute the bypass. ("Hand me that wrench, etc.")
+85) 1) dialog: (filtered) Yeah, I’m through. Now what?
+86) 4) dialog: Affirmative.
+87) 0) text: Richardson is patching the main when something gets his attention. He looks over at a filter vent. The cover has been torn off (blown off) and a tiny trickle of bubbles slip from the opening.
+87) 1) dialog: What was that?
+89) 0) text: Richardson shuts down the torch, turning towards the vent.
+89) 1) dialog: I thought I heard something. He peers over into the vent.
+89) 4) dialog: Richardson curses under his breath, shutting down the vent.
+89) 9) dialog: Nothing. Just a bypass venting. He turns back back to the pipe... -»-AND SOME BIG UGLY MOFO JUMPS IN HIS FACE!!!!

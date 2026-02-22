@@ -1,0 +1,473 @@
+0) 32) dialog: Kopi Luwak. It’s the rarest beverage in the world. At a thousand bucks a pound it better be.
+0) 33) text: Across the aisle, the COUNTY DIRECTOR is flanked by five fellow BOARD MEMBERS who go through the minutiae of beginning the meeting. Edward is in his mid to late 50’s. He’s immaculately dressed and groomed, though his Italian suit appears slightly too large for his gaunt frame. He unscrews a matching cup from the bottom of the thermos and pours a small amount of the brew before handing it over to RICHARD, one of several executives in Edward’s retinue.
+0) 34) dialog: (coaxing with his hand) First the aroma. Richard bends his head to the cup, sniffing it.
+0) 35) dialog: Note the earthy tones and the complexity of the body.
+0) 38) dialog: (to Richard) It’s not ‘just coffee.’ Watches Richard take a tentative sip.
+0) 40) dialog: (focused on Richard) Well?
+0) 44) dialog: Thank you, Mister Director, fellow board members. Very much appreciate you taking the time... I’m not big on sugarcoat, so you'll forgive me if this comes across as somewhere south of warm and fuzzy... (looks directly at them) All of you should be immediately and pointedly fired. They should haul you up by your boot-straps and dump your bloated salaries into the street. The appalling decline of Jefferson Hospital is a direct result of your gross incompetence and utter lack of fiscal erudition.
+0) 46) dialog: Okay, I got a deal. I’m going to talk for a few minutes, and the moment I speak the slightest untruth you can shout me down. Good? Fair? Good... Your shop is hemorrhaging cash. Overhead costs are in the stratosphere. Your lease and land costs were criminally overbid. One of the board members raises his hand to protest but the County Director waves him off.
+0) 47) dialog: Donations have atrophied to the point that you’ve fallen hopelessly behind the tech curve in research, pediatrics, oncology, MRI... He pauses and savors a long sip of his Kopi Luwak coffee, eyeballing the board over the rim of the cup until his eyelids close in ecstasy from the flavor.
+0) 48) dialog: Mmmm... Put simply, your hospital loses money every time a patient walks through the door. The board members range from uncomfortable to furious, though none say a word.
+0) 49) dialog: More truths... The Cole Group is the largest private hospital management firm in the region. We have a proven track record of corporate governance and exceed every requirement of the Sarbanes-Oxley Act... Our shops maintain state-of-the- art technology systems, and wield unparalleled clout in negotiating with unions and the insurance companies... What’s more we've privatized fifteen other public hospitals in the past seven years, each of which now provide the highest standard of medicine to their communities. He pours a second cup of coffee and brings it to his lips.
+0) 51) dialog: (pausing before drinking) We employ the best of the best of the best. The stronger the staff, the less need there is for-- Suddenly, he coughs into the cup, spraying coffee onto the table.
+0) 52) dialog: Excuse me. Pulls a silk handkerchief to his lips as his suits search their pockets for tissues to wipe the table.
+0) 54) dialog: (wiping coffee) That’s because I run hospitals, not bed and breakfasts. The sole concern of my company is to provide the best health care in the world, which we do. (MORE)
+2) 4) dialog: (from his gurney) And tell Holcomb I want to know more about this bleo-maya-something.
+2) 6) dialog: Bleomycin. Thomas says it eats your lungs. How do I stoke fear in the hearts of my employees if I’m breathing through a hole in my throat for the rest of my life.
+2) 9) dialog: I can do it myself goddammit. I’m not dead yet. 11. Then a huge clattering is heard as Edward falls off the gurney. He swears bitterly as the doctors and nurses grab him quickly and lift him into the bed.
+2) 10) dialog: Where the hell is Thomas?
+2) 12) dialog: You ditched me again.
+2) 14) dialog: You let these people drop me. Did you see them drop me?
+2) 16) dialog: That’s funny. That’s absolutely, goddamn hysteri-- Lapses into a coughing fit which doubles him over, allowing him a look through the curtains at Carter.
+2) 17) dialog: Who the hell is that?
+2) 22) text: INT. HOLCOMB’S OFFICE - DAY DR. HOLCOMB is tall and ultra-confident with a runner's physique and shoulder-length hair. He examines Edward's brain scan on a light board.
+2) 24) dialog: I just gave you my left nut, if you think I’m going to let you crack my head open and--
+2) 26) dialog: (glowering) Beg your pardon?
+2) 28) dialog: You’1l understand if I want a second opinion. He heads for the door.
+2) 30) dialog: Go fuck yourself. Walks out.
+3) 0) text: Electric clippers shave smooth avenues onto Edward's scalp. His mood has not improved. 13.
+3) 1) dialog: There’s a guy in my room. NURSE SHING continues shaving his head without a response. She’s Asian, late-thirties with a quiet confidence born of years comforting the sick and dying.
+3) 2) dialog: I said there’s a guy in my room. (points to the curtain) Right in there.
+3) 4) dialog: I want him moved.
+3) 7) dialog: It's not a question of-- Not to pull rank, but this is my hospital. Which, at the very least, should rate me my own room. (to Carter) No offense.
+3) 10) dialog: What’s “Mmmm?” Is that some kind of secret cancer code? Why don’t you run down and tell doctor what’s his nuts that I want to see him ay-sap. 14.
+3) 12) dialog: (catching himself ina mirror) Jesus... Yeah, those are my rules, (checking her name tag) Phyllis. I wrote the rules.
+3) 15) dialog: (grumbling) Mmmm. Carter chuckles some more...
+4) 0) text: Edward's bald cranium has been clamped into a large, steel halo. A laser marks a point on his forehead and Dr. Holcomb marks corresponding dots on his skin with a Sharpie.
+4) 2) dialog: Oh yeah, what’s that?
+4) 4) dialog: What?
+4) 6) dialog: The young lion waits in a dream beneath the cold white lantern. What the hell does that mean?
+4) 8) dialog: (seething) The young lion waits in a dream...
+5) 0) text: As Holcomb and his surgical team operate on Edward who lies in fragile stasis.
+6) 0) text: Peering down at Edward as his eyes open slowly, wandering in their sockets before focusing on the perfect visage hovering over him. Her name is ANNA, she’s 26.
+6) 4) dialog: How...? Did it...?
+7) 0) text: Edward opens his eyes to see the television is turned on to Jeopardy. Carter is sitting up in bed, firing the answers back at the screen.
+7) 1) dialog: (barely a whisper) Excuse me... (stronger) Excuse me. (a hoarse shout) I beg your pardon!
+7) 4) dialog: The dumbass lion waits in a dream beneath the stupid white lantern. Dr. Holcomb nods approvingly. Marks the chart.
+7) 6) dialog: Like someone took a dump in my chest.
+7) 8) dialog: I can’t wait. Dr. Holcomb’s expression does little to hide the fact that Edward has no idea what he’s in for. Holcomb surges for the door...
+7) 13) dialog: I have a choice? 20. Carter turns back to Jeopardy. Edward takes a moment to accept his situation, then turns his head and studies Carter.
+7) 14) dialog: How long have you been here?
+7) 16) dialog: Has it been uncomfortable?
+7) 18) dialog: The chemo.
+7) 20) dialog: (paling slightly) Fantastic.
+7) 22) dialog: It's a siphon. Makes coffee. Fumbles his hand for the nurse call button.
+7) 24) dialog: Nothing. Just coffee. 21.
+7) 27) dialog: It’s called Kopi Luwak.
+7) 29) dialog: You’ve tried it?
+7) 31) dialog: Why not, it’s the most expensive--
+7) 33) dialog: Your wife’s a nurse?
+7) 35) dialog: Retired?
+7) 37) dialog: What happened?
+8) 2) dialog: Guidea. And the meat?
+8) 5) dialog: I'm a bottomless pit. It’s true, I could eat twice this much if some people weren’t such goddamn nursema-- He’s cut off as Thomas clears his throat loudly. 23.
+8) 6) dialog: What? (to Carter; off Thomas’ look) Oh. Uh, you want Thomas to make you a plate? Tommy, fix a plate for mister, uh--
+8) 8) dialog: Right.
+8) 10) dialog: Yeah? It’s the best in New York.
+8) 12) dialog: You know what they say, living well is the best revenge.
+8) 14) dialog: Whadd’ya got?
+8) 16) dialog: 
+9) 1) dialog: I feel like I’m dying. 24.
+10) 0) text: Edward is in bed and covered in sweat as he shivers uncontrollably. His eyebrows are gone and the first chemo burn blooms above his right eye. Carter is curled up in his own bed as he turns the last page of Vladimir Ilyich Lenin: A Poem by Mayakovsky then places it atop a stack of completed books on the floor.
+11) 0) text: Carter stares up at the collage of photos and cards taped to the wall above his head. He removes a photograph of his daughter's soccer team. He’s seen standing proudly in the back row wearing a coach’s hat and a whistle around his neck. Edward groans in his sleep and wrestles with his sheets. The bandages have been removed from his head, which is now scarred and littered with uneven patches of stubble. Carter looks over at him until he settles.
+12) 8) text: Edward pauses in his typing. Glances over at Carter...
+12) 9) dialog: Do you ever miss one?
+13) 0) text: Edward kneels on the floor, head resting on the toilet seat, fast asleep. He’s woken by VOICES coming from the room. He weakly pushes open the door to see who it is.
+14) 6) dialog: Sorry. He’s a mess as he slowly makes his way around the bed as Virginia walks in from the hallway...
+14) 8) dialog: Excuse me. -..as he shuffles over to his bed and wrestles with the cables and tubes. She watches him for a moment then, despite herself, moves to help him.
+14) 10) dialog: Thank you.
+14) 12) dialog: Mmmm. Don’t you people use words anymore? 27.
+14) 14) dialog: Nurses. I meant-- Forget it.
+14) 16) dialog: I beg your pardon.
+14) 18) dialog: How dare you talk to me that way.
+15) 0) text: The copper coffee maker reflects a single light source in the otherwise darkened room. Edward stares at the machine from his bed, eyes lost in the gleaming metal. The reflection shifts and Edward rolls over to see Carter adjusting his reading light.
+15) 1) dialog: What are you reading?
+15) 3) dialog: Never heard of him.
+15) 5) dialog: Quite a life.
+15) 7) dialog: I don’t like books. 29.
+15) 9) dialog: I never saw the point. History’s just... history. I'd rather make it than read about it.
+15) 11) dialog: I've done alright for myself.
+15) 13) dialog: Pretty much, yes. What about you?
+15) 15) dialog: Would you change it?
+15) 17) dialog: I’m sure you do. But you’re a smart guy, must have had a plan for your life before they came along. Carter thinks a moment, then reaches into the drawer of his bedside table and removes his well-worn wallet. He pulls a small square of yellowed paper out from a pocket and unfolds it gently in his hands.
+15) 19) dialog: (reading) “Carter's Bucket List”... You weren't much on penmanship.
+15) 21) dialog: I don’t understand what this is.
+15) 23) dialog: (still reading) “Make a million dollars. Run for president.”
+15) 25) dialog: “Help a complete stranger for the good?” How philanthropic.
+15) 27) dialog: What’s the one about the mountain? Hands the list back.
+15) 29) dialog: (shrugs ) I’m a millionaire a dozen times over. (MORE)
+15) 31) dialog: I grew my company from the ground up, built my own house, sold it, built a bigger house.
+15) 33) dialog: No, but it sure takes the edge off being miserable all the time.
+15) 35) dialog: Which one? We’re talking about dreams, not nightmares.
+15) 37) dialog: Dreams are for teenagers. Let’s face it, we've had our time and we did what we did with it. We’re all out of wishes. The genies left our magic lamps a long time ago.
+16) 1) dialog: Come on you pansies, it’s one out, how hard can it be? 32. Carter lowers the paper just enough to reveal Edward lying on his stomach with his head propped on a pillow at the foot of the bed, stretching his tubes and cables to the limit as he yells at the Yankee game on the TV. A Red Sox player bloops a single. Edward is beside himself.
+16) 2) dialog: That's just... That’s... I can’t take much more of this! Carter's feelings are commensurate as he puts on a pair of head phones and listens to Mozart’s Requiem Lacrymosa. He finishes the article and reaches down for a second newspaper when he sees Holcomb standing at the foot of Edward's bed. Holcomb’s face is pinched and somber as he speaks... Edward listens implacably, his face impossible to read. Carter slides the headphones off to listen...
+16) 4) dialog: Doc.
+16) 6) dialog: Doctor Holcomb.
+16) 8) dialog: You're blocking my view.
+16) 10) dialog: (eyes never leaving the screen) One question.
+16) 12) dialog: Carter?
+16) 14) dialog: ‘Something you needed from Dr. Holcomb?
+16) 16) dialog: You are now. Holcomb stares at him but Edward’s attention never leaves the screen. Finally, Holcomb lifts Carter's chart from the foot of the bed and flips through several pages. After several moments, his shoulders drop and he looks up at Carter and shakes his head slowly.
+17) 0) text: CLOSE ON CARTER; fast asleep. A square of sunlight moves across his eyes until he opens them and squints into the white light. He rolls over, away from the window and face to-face with a single sheet of yellowed paper propped up against his tower of books. He pulls the paper close to his eyes and sees the title: “EDWARD'S BUCKET LIST.”
+17) 2) dialog: Thought you'd never get up.
+17) 4) dialog: Six twenty-four. I’ve been up since-- I’ve had a lot on my mind.
+17) 6) dialog: Not bad, huh?
+17) 8) dialog: That’s one of the tough ones. We’1l figure it out.
+17) 10) dialog: You're out of your mind, there’s some great stuff on there. What kind of tattoo do you think I should get?
+17) 12) dialog: No, I understood you perfectly. Your whole unfulfilled dreams thing is great for someone with a few decades in front of him, but I’m looking at weeks, months if I’m lucky. (as Thomas enters, bewildered) About time. Thomas turns and walks out. Edward goes after him, pushes him back into the room.
+17) 13) dialog: Pack it up, Tommy. We’re blowing this popsicle stand. (to Carter) (MORE)
+17) 15) dialog: Your list was a little unrealistic so I took the liberty of paring it down a little. Turns the paper over revealing Carter’s original list which now has several of the items crossed off in red ink - “Run for President”, etc.
+17) 17) dialog: I got them both down to ten a piece so if we budget our time properly we should be able to bang ‘em all out before one of us kicks it.
+17) 19) dialog: Forget ‘em. I’m only about comfort from here on out. I dunno, give ‘em to some orphans or something.
+17) 22) dialog: Blah, blah, blah. Metaphors are for tea- drinkers who read poetry out loud to their sister. You said yourself you haven't done anything. This is your last chance.
+17) 24) dialog: To have your own life. To spend what time you have left remembering what it feels like to have a future, rather than wallowing in the past as a guinea pig in Holcomb’s bullshit science experiment. 37. Carter stares at the floor, his mind racing...
+17) 26) dialog: You know it is... What do you think, Tommy. You're in our shoes, what would you do? Carter looks up at Thomas who thinks for a moment...
+18) 0) text: Empty save for a slow-moving nurse or two until Edward bursts out of the room with a full head of steam followed by Thomas, once again laden with luggage, and Carter who carries a small bag and an armful of books. Edward makes for the elevators as Carter struggles to catch up to him.
+18) 2) dialog: What about them?
+18) 4) dialog: Why, because you’ve been doing such a great job supporting them from the cancer ward?
+18) 7) dialog: (not breaking stride) We're checkin’ out. Tell Holcomb he can take his experimental program and shove it where the sun don’t shine. Nurse Shing comes out of the Nurses Station.
+18) 9) dialog: Without a doctor’s written authorization. Also my rule.
+18) 11) dialog: Certainly. In fact, Tommy here’s got a doctorate in... What the hell’s it in again?
+18) 13) dialog: Education, fantastic! (to Thomas) Really, education? What the hell you doing working for me again?
+18) 15) dialog: Anyway, Nurse Phyllis. Seeing as section fourteen, paragraph three of Cole Medical’s operations guidelines fails to stipulate the kind of practitioner necessary to facilitate a release, Doctor Tommy promises to return with a note granting us our freedom post haste. She stops at the elevator door as the other three pack inside.
+18) 16) dialog: (taking Carter's books) You won't be needing those. 39.
+19) 0) text: Edward helps Thomas load the luggage into the trunk of the waiting limousine.
+19) 1) dialog: It’s not like we’re flying off around the world, at least not at first. I figure we knock out the ones we can do locally before heading over to Europe, then Africa and--
+19) 3) dialog: Why not? I thought all black people dream of going back to the homeland.
+19) 5) dialog: (climbing inside the limo) You're joking me.
+19) 7) dialog: You should've put that on the list. He pulls Carter inside and the door closes.
+19) 11) dialog: 
+19) 12) text: Edward is electrified with nervous energy while Carter looks like he'd rather be anywhere else.
+19) 13) dialog: Okay, so I figure middle of three then we go. You ready?
+19) 15) dialog: Good. He, along with everyone else around them, looks off in the distance.
+19) 17) dialog: Forget it.
+19) 19) dialog: Of course it’s not rational, that’s why it’s so exciting. (the crowd groans) That’s our cue. You ready?
+20) 0) text: As the Yankee outfielders jog out to their positions. The crowd suddenly ROARS as the left fielder passes a naked man who is jogging and waving across the grass. Carter holds Edward's clothes, staring in disbelief as Edward takes a victory lap towards right field.
+21) 0) text: Edward streaks after Carter, whooping and hollering. Carter is actually beginning to enjoy himself until he pulls up short. Edward comes to a stop next to him.
+23) 2) dialog: For the record it was my fault. I talked him into it.
+23) 4) dialog: Even so, I'd like to pay you back for the bail, if--
+23) 6) dialog: Really, it’s the least I can-- 43.
+23) 8) dialog: He hasn’t told you. The door to the holding cell opens with a CLANG as Carter is ushered out by a guard. He’s dressed in prison pajamas and clings to a blanket as he shivers uncontrollably.
+24) 0) text: Virginia wipes tears from her face as she walks resolutely to her car. Carter follows her, watching Edward as Thomas helps him to the limo.
+26) 7) dialog: (to Kyle) You'll have to forgive him, Kyle. He’s on the outs with the wife.
+26) 10) dialog: I understand. The CO-PILOT comes out and straps himself to Edward's back.
+26) 12) dialog: (to Carter) She’s tough, your wife. That’s good. The Sequel was tough like that.
+26) 14) dialog: The second Mrs. Edward Cole. God that woman hated me.
+26) 18) dialog: Know what I learned? That independence is the only true gauge of human virtue; what a man is and what he makes of himself. Not what he has or hasn’t done for others. As the Co-Pilot pulls the door open, filling the cabin with whipping wind. Kyle stands and moves them closer to the door. Carter eyes the abyss outside. Edward is nonplussed.
+26) 20) dialog: (to Carter) There's no substitute for personal dignity.
+26) 24) dialog: Sure you can.
+27) 0) text: As they leap from the plane, free-falling into the ether. Everything goes quiet save for the flapping of their jump suits. The Co-Pilot dives towards Kyle and Carter, whose scream grows louder as they approach, and lock hands so that Carter and Edward are once again face to face.
+27) 1) dialog: This is amazing! Carter’s too busy being terrified to respond.
+27) 6) dialog: Amazing. Nine toes in the grave he’s still afraid to let go.
+27) 8) dialog: Right there’s the piss of it. When you’re living for someone else you can’t help but be careful... No progress in careful.
+27) 10) dialog: I was in love once.
+28) 0) text: The furious, muffled swearing of the Co-pilot is heard from within the building as Edward and Carter walk towards the limo. Edward has taken out The Bucket List. With the red pen he crosses off “Jump out of a perfectly good airplane” just below “Streak Yankee Stadium,” both on his side of the list.
+28) 1) dialog: Two down. Eighteen in the pipe. How you feeling?
+28) 3) dialog: (oblivious) Me too. Who'd believe that only yesterday we were rotting in a cancer ward? 49.
+28) 5) dialog: We live to die another day. (to Carter) I’m hungry. Are you hungry?
+29) 0) text: It's the annual Nathans Famous Hot Dog Eating Contest. Participants and onlookers mill beneath a striped tent. Edward wears a contestant’s badge. Carter watches as Thomas massages Edward’s shoulders.
+29) 1) dialog: I’m telling you, I got it in the bag.
+29) 3) dialog: Goddamn right I am. (to Carter) ‘Sure you don’t want in?
+29) 5) dialog: Suit yourself. Hey, when I’m done here, we'll go to that Russian place. Get some of that caviar you were talking about.
+29) 9) dialog: You're going down, sister. The whistle sounds and the contestants dive in.
+30) 0) text: Edward lags behind Carter and Thomas as they head back to the car. Edward is griping over the outcome...
+30) 1) dialog: And what is this dipping the buns in water crap. If you’re going to eat it, eat it... Screw this, I’m going back. Turns back towards the tent then stops cold.
+30) 3) dialog: I don’t feel so good.
+30) 5) dialog: Go fuck yourself, Tommy.
+31) 1) dialog: I don’t know. The skull is kind of cool but maybe I’m more of a Confederate flag kind of guy.
+31) 3) dialog: Connecticut actually. Our side won, I can wear any flag I want. What’re you going to get?
+31) 5) dialog: What’s meaningful? We’re gonna be dead in five minutes. The heavily inked TATTOO ARTIST looks up at them from behind the counter.
+31) 6) dialog: Not literally.
+31) 8) dialog: You can’t keep passing on things. We're supposed to be in this together.
+31) 10) dialog: So what did you have in mind? Something metaphorical? Something life-changing? Oooh. Ahhh... Lighten up, already. This is supposed to be fun.
+31) 12) dialog: Nine year old’s don’t have tattoos.
+31) 14) dialog: (to the Tattoo Artist) Am I right?
+31) 16) dialog: You must be incredibly proud... That’s it! I got it!
+32) 0) text: Edward winces in pain as the Tattoo Artist inks his shoulder blade. Carter’s reading one of his books.
+32) 1) dialog: So fine, we’ll do a “grown-up” one next.
+32) 3) dialog: Then what is? He suddenly erupts into a coughing fit.
+32) 5) dialog: Sorry, I'll tell the cancer to take the day off.
+32) 7) dialog: Don't worry, it’s the non-contagious kind... Chop chop, we don’t have much time.
+33) 0) text: Edward examines the reflection of his tattoo in the window of a pristine Mustang Shelby GT.
+33) 1) dialog: It's not bad, it’s just... Do I really look that--
+33) 3) dialog: I was going to say tired. Still, it’s a pretty good likeness. For the first time we see the tattoo - it’s Edward, scowling out from his own shoulder.
+33) 4) dialog: And you can’t tell me it’s not meaningful.
+33) 6) dialog: (looking at the car) This what you wanted? Carter grins as he nods and pulls on his helmet.
+33) 8) dialog: We'll see. 54. He walks around the Mustang to the waiting Lamborghini Murcielago Roadster. Nearly one of a kind, it’s more rocket than automobile.
+33) 9) dialog: First one to a hundred miles. Loser buys dinner.
+33) 11) dialog: Of course you are. Slips into the car, closing the gull-wing door behind him.
+34) 2) dialog: (filtered) Grown-up enough for you? Carter pulls on his helmet. Adjusts the microphone in front of his mouth.
+34) 4) dialog: It’s taken care of. Why, you want to pass again? Carter turns the ignition on the Mustang. It’s growl is guttural and primal.
+36) 0) text: Windshield wipers clear the dirt as Edward struggles to put the car in gear.
+36) 1) dialog: So it’s like that, is it? The gears grind as he works the stick. Finally gets the car in gear as Carter is heard over the headset, cackling for joy. ON THE TRACK; where the Mustang screams around a turn, taking a line close to the infield where the Lamborghini hiccups in fits and starts towards the track. IN THE LAMBORGHINI; Edward wrestles with the stick...
+36) 2) dialog: Come on, you stupid-- The car jerks forwards onto the tarmac, right in the path of the oncoming... IN THE MUSTANG; Carter hits the gas, taking the car low across the infield, narrowly missing the Lamborghini before he roars back onto the track. Carter grins into his rearview mirror, sees Edward's car swerving across the track behind him. IN THE LAMBORGHINI; Edward’s trying to control the car.
+36) 4) dialog: Which one’s the throttle? He’s about to hit the wall until he mashes the gas and the car suddenly launches down the track. DOWN THE TRACK; Edward pulls even with the Mustang.
+36) 5) dialog: So we’re having fun now?
+36) 7) dialog: You know what your problem is?
+36) 9) dialog: You're the guy behind the chairs at the poker table.
+36) 11) dialog: You know, the one who stands there with his hands in his pockets, peering over the players’ shoulders, studying the game like he’s learning something, when all he really wants to do is walk away.
+36) 13) dialog: So why’s he in the casino in the first place? He’s dying to get in the game. What’s keeping his hands in his pockets?
+36) 15) dialog: I’m not talking about money. I don’t think he’s afraid to lose, everybody loses sometimes. But what I think? I think that deep down, you’re afraid to win. Now the Lamborghini takes the lead, clipping the front of the Mustang as it pulls in front.
+36) 17) dialog: That’s between you and your shrink, I just call ‘em where they fall. 57.
+36) 19) dialog: My work done my way. Personal, selfish, egotistical motivation. Look where it’s gotten me.
+36) 21) dialog: Depravity’s in the eye of the beholder. At least I’m not chicken. IN THE MUSTANG; Carter rolls his eyes, knowing he shouldn't take the bait. He drives evenly for a moment. Then, despite himself...
+37) 1) dialog: Do you have any idea what these cars cost me?
+37) 4) dialog: Are we really?
+38) 0) text: As Thomas emerges followed by Edward and Carter. Thomas carries the police paperwork. Edward's marking up the list.
+38) 2) dialog: Chump change. My tab. He crosses off “RACE A VINTAGE MUSTANG” on Carter’s list, then flips it over, putting a line through “GET IN A POLICE CHASE” on his side.
+38) 4) dialog: You gonna tell the wife about this one?
+39) 0) text: Carter reaches for the door. Edward is sprawled out across the opposite seat watching the Yankee game.
+39) 2) dialog: And face Darth Vader, I’m sure she’d love that. Tommy’s got family to get to and I’ve got six innings left.
+39) 5) dialog: Superlative. Despite his sarcasm, he watches Carter talking to the street kids before climbing the steps to his door.
+39) 6) dialog: Why aren’t we moving?
+39) 8) dialog: Thomas.
+39) 10) dialog: Yahtzee. (to the TV) Oh, come on!
+40) 0) text: Floor to ceiling bookshelves. Edward slouches in a large, leather couch. Heaves a sigh of displeasure as he switches off the losing ballgame. 60. He stands and stretches while looking around the room. Unsure of what to do, he stuffs his hands in his pockets and moves to a wall of books, browsing the titles.
+40) 1) dialog: Oh, who cares.
+41) 0) text: Immense and unused with glowing hardwood floors and a pristine grand piano covered in empty silver picture frames. He walks in like a stranger, hands still in his pockets and stops just inside the door. He stares for a long moment then turns and walks out. INT. EDWARD’S KITCHEN - NIGHT Edward is on the phone. Holds a take-out menu.
+41) 1) dialog: What do you mean you don’t deliver past six, what kind of business is that?... I don’t care what day it is, you--
+41) 3) dialog: Now what? Slams the phone down.
+42) 0) text: Edward emerges through double stained-glass doors into the marble foyer just as the elevator doors open revealing Carter, Virginia and their kids.
+42) 2) dialog: (to Carter) What are you doing?
+43) 1) dialog: Okay, just let me get a tablecloth or something. Balances the potatoes as he rummages through some drawers he’s probably never opened before.
+43) 3) dialog: Just me... And don’t touch anything. This stuff costs more than your education.
+43) 5) dialog: Oh. The boys are too polite to laugh.
+43) 6) dialog: You know what, screw it. Just dump it all down there. Drops the potatoes with no small amount of relief.
+43) 7) dialog: I don’t know about you guys, but I could eat a station wagon. The boys smile openly.
+43) 9) text: A HI-TECH RECORD PLAYER; as Edward lays a platter down on the turntable and drops the needle. Louis Armstrong's Autumn in New York plays over the following SERIES: -- IN THE DINING ROOM; Rachel organizes the place settings. Fork and spoon on the left, knife on the right. Opposite her, Edward tries to mirror the layout. Gets it right the second time. -- Carter sits with eyes closed and hands pressed together, saying grace. Edward watches him, eyes flicking around the table to see the rest of the family have their eyes closed. -- JUMP CUTS as Carter hands Edward the carving knife; Edward attacks the meat while the others look on; Virginia watches as her perfect roast is hacked to pieces; a blockish chunk lands on Lee’s plate. -- Edward is a wallflower as the family tucks into the meal, passing steaming dishes back and forth through a lively discussion. -- Edward’s on his second plate. He’s talking now, telling a story that has Virginia mildly on edge. The kids seem to love it, except Rachel who makes eyes at him. Edward returns the look until she points to her closed mouth. He gets the picture and snaps his mouth shut, swallowing his food before continuing. -- Carter stares glumly at the tiny slice of apple pie sitting on his plate. Virginia is marking the size of Edward's slice with a pie cutter. Edward motions for a bigger piece. Virginia moves the cutter. Edward’s still not satisfied. She moves it again. -- IN THE KITCHEN; Edward coaxes a steaming cup of coffee from the copper siphon. He puts it on a saucer and carefully offers it to Virginia who has a chain-gang of dishes going at the sink with Carter and the boys. She allows a thin smile as she moves to accept the coffee, then notices Carter behind Edward, shaking his head not to take it. She looks back at Edward and politely demurs. -- IN THE LIBRARY; Edward waits for the last bars of the song to end before lifting the needle and carefully sliding the record back into it’s sleeve.
+43) 11) dialog: You were married in the city?
+43) 13) dialog: They tend to do that these days.
+43) 15) dialog: Health care’s a perilous industry. The only way we can keep the hospitals from closing is to reduce the overhead so--
+43) 17) dialog: Not to the people we let go.
+43) 19) dialog: Only when you meet them. Which I try very hard not to do.
+43) 21) dialog: We keep them from closing.
+43) 23) dialog: Still, I’d like to--
+43) 25) dialog: I’m not sure I can-- 64.
+43) 27) dialog: I don’t understand.
+44) 0) text: Carter enters ahead of Edward. He whistles at the sumptuous cabin.
+44) 2) dialog: It’s the best.
+44) 4) dialog: I’ve got enough. This is just a time- share so--
+44) 6) dialog: Didn’t anyone tell you it’s rude to talk about money?
+46) 2) dialog: Maybe we should go back?
+46) 4) dialog: I just think you should-- It’s easy for me, but you've got your family to think about, and--
+46) 6) dialog: She wants you back. You can’t blame her for--
+46) 8) dialog: Because I talked you into it.
+46) 13) dialog: It’s a few acres. Beach all around. Palm trees. Some kind of a small house, I think.
+46) 15) dialog: I think so.
+48) 0) text: Edward and Carter walk from the trees out onto the sugary beach surveying the reef and gently lapping waves.
+48) 2) dialog: Yeah. They sit in the sand. Carter scoops up a handful and lets it run through his open fingers. He sighs contentedly... Edward sighs as well... Several long, empty moments pass. Carter sighs again. Edward nods in silent agreement. Several more moments pass until...
+48) 4) dialog: God, I hope so. 67. Whips out his satellite phone as they run back towards the trees, brushing the wet sand off their butts.
+49) 0) text: A WAITER passes with a tray supporting an enormous bowl of caviar which he deposits in the center of a table where Edward sits with Carter and Rachel. All are dressed for the occasion and Edward now sports a freshly waxed pencil-thin moustache.
+49) 2) dialog: Thanks.
+49) 7) dialog: Some of this is just so... “Laugh until you cry?” How you figure on that?
+49) 9) dialog: That’s Tommy’s department. What about number seven?
+49) 11) dialog: Being a contestant on Jeopardy? Carter takes his first bite, closes his eyes and savors the flavor. Rachel eyes him carefully, still not convinced.
+49) 13) dialog: You realize that could take months. What if you can’t--? Forget it. You figure that one out. (to Rachel) How’s the caviar?
+49) 15) dialog: Of course.
+49) 17) dialog: Couldn’t have said it better myself.
+49) 19) dialog: (still laughing) She sounded just like Emily.
+49) 21) dialog: My little-- Well, she’s not so little anymore, she’s--
+49) 23) dialog: Yeah...had a daughter...we don’t--
+49) 25) dialog: (pause) Carl Okafor.
+49) 27) dialog: I'd really rather--
+49) 32) dialog: (slamming his hand down) Stop it!
+49) 34) dialog: Because “some things are not up for discussion.”
+49) 36) dialog: You don’t know me. 70.
+49) 38) dialog: He’s not the most tractable man, your father.
+49) 40) dialog: That’s how it should be.
+49) 42) dialog: Of course.
+49) 45) dialog: What’s wrong?
+49) 48) dialog: (to Rachel) Stay here. INT. PETROSSIAN MEN’S ROOM- NIGHT Edward bursts in. It’s empty. Sees blood pooling across the sinks.
+49) 49) dialog: Carter?!
+50) 0) text: As Edward and the waiter help Carter through the dining room.
+50) 2) dialog: (to a gawking woman) Can I help you? You’ve never seen a dying man before? (to the room) Get a good look, because someday this will be each and every one of you. 72.
+50) 4) dialog: (to the room) You're fucking parasites!
+50) 9) dialog: (at the door) Don’t believe a word of it, kid. If winning isn’t everything, why do they keep score?
+50) 11) dialog: I hear you’re doing well.
+50) 13) dialog: And why aren't you going to the game?
+50) 15) dialog: So don’t get excited.
+50) 17) dialog: So don’t coach. Carter thinks about it.
+51) 0) text: The game is well underway as Edward and Carter skulk behind the back row of onlookers on the field.
+51) 1) dialog: Why don’t we stand where we can actually see the field?
+51) 3) dialog: Too late. Points up to the bleachers where Virginia stares down at them. Shakes her head angrily and turns back to the game.
+52) 0) text: It’s late in the second half and the mid-field scorer’s table shows zero-zero. Carter and Edward stand right next to it.
+52) 2) dialog: You're not supposed to get excited.
+52) 4) dialog: (pause) So this may not be the best time, but...I’m heading out of town tomorrow.
+52) 6) dialog: Spain first.
+52) 8) dialog: The festival's coming up and--
+52) 11) dialog: Pamplona.
+52) 13) dialog: The one with all the cattle. Carter turns to look at him. Realizes Edward is talking about finishing the list without him. He stares for several moments before a surge in the crowd pulls him back to the game. Four side side. of Rachel's teammates are streaking up the right of the field while Rachel quietly jogs up the left
+52) 15) dialog: I'm sorry, it’s just that--
+52) 20) dialog: Commercial.
+52) 22) dialog: Are you kidding me?
+52) 40) dialog: I‘1l bring him home. 78.
+53) 1) dialog: You okay? Carter nods as he sits back down in the seat.
+55) 0) text: Running with the crowd now as dozens pass until we find Edward and Carter whooping and hollering in the heart of the push. They’re having the time of their lives until Edward trips and falls. Carter turns back for him just as he sees the bulls roiling towards them.
+55) 3) dialog: I got it. I-- As Carter yanks him up, throwing them into the base of the wall an instant before the bulls thunder past...
+55) 4) dialog: That was close.
+55) 6) dialog: My knee’s a little--
+55) 8) dialog: For the record, I’m on my way out anyway, so don’t get all puffed up about saving my life.
+55) 10) dialog: Yeah?
+56) 0) text: Where Carter sits at the end of a long table. His eyes are wide as he stares in dumb wonder. The CAMERA TRACKS down the table to reveal his dinner companions: PAUL MCCARTNEY, MOHAMMAD ALI, LUCIANO PAVAROTTI, and ELIZABETH TAYLOR all engaged in a lively discussion. Edward sits at the far end, chatting with PRINCE WILLIAM. He shares a look with Carter who is unable to organize himself until a mechanical voice interrupts--
+57) 0) text: Carter closes the door to Mohammad Ali’s car then steps back on the curb next to Edward. Both are still starstruck.
+57) 2) dialog: Yeah.
+57) 4) dialog: Huh?
+57) 6) dialog: You really don’t want to know. Carter nods as they start walking down the street.
+58) 0) text: Bathed red in the first ray of the morning sun. Edward and Carter sit atop an ancient wall, taking in the endless expanse of desert below, though Carter’s eyes are closed. Edward has the list out. Crosses off “See the Pyramids.”
+58) 1) dialog: You know technically, we can kill two of these.
+58) 3) dialog: What are you doing?
+58) 5) dialog: To what? (Carter doesn’t answer) (MORE)
+58) 7) dialog: Anyway, I figure you want to “Witness something Majestic,” this is about as good as it gets.
+58) 9) dialog: (shrugs ) Never will if we sit around here all day. Starts to get up...
+58) 11) dialog: What were they?
+58) 13) dialog: What, you’re asking? Oh, how the hell do
+58) 16) dialog: (thinks for several moments) Yes.
+58) 18) dialog: Next question. Edward’s uncomfortable with whatever he remembered.
+58) 20) dialog: (standing) This is horseshit.
+58) 22) dialog: Haven’t I done enough for you? (getting agitated) I set everything up myself. Paid for the cars, the plane tickets. It took me a month getting that dinner set up.
+58) 24) dialog: Are you that ungrateful?
+58) 26) dialog: Thank you.
+58) 28) dialog: She was born on a Sunday. I remember because there wasn’t a single cloud in the sky and I thought it was somehow appropriate... I know, cheesy right? (Carter just listens; this is Edward's joy) I managed to push her out of my mind the last few years, but after meeting your daughter-- And sometimes when I wake up in the morning... He sits down next to Carter. Takes an angry breath... 83.
+58) 29) dialog: Carl Okafor was an activist. Emily had joined some “save the poor people” thing and I guess they met and she decided she loved him... I saw him a few times. Good looking kid. Smart. Driven. But there was something about him I didn’t... Anyway, when she said they were engaged I told her I was against it. But, being my daughter, she went ahead anyway... We had some distance for a while, she’s as stubborn as her old man, but she seemed happy... The first time he hit her she came to me. I wanted to-- I wanted to beat him into the dirt until he begged for forgiveness...but she wouldn’t let me. She said it wasn’t his fault. He was broke. Had a few drinks. Said she picked the fight... I gave her some money and she went back to him. When the money ran out he did it again. She didn’t come to me that time.
+58) 31) dialog: I did what any father would do. I got him a job. Administration in a small hospital in Great Neck. Gave him an office and a salary. Company car.
+58) 33) dialog: I let him get comfortable. Let him think he'd got it made until one night, when he was out banging one of the nurses, I had someone crack his computer and move a bunch of money around. The next morning he showed up for work and they arrested him on the spot. My lawyer’s a pitbull. Got him ten years for embezzlement.
+58) 35) dialog: She saw through me like glass. Cursed me out in front of the entire courtroom after his sentencing. Called me names you wouldn’t believe. Said I was dead to her. (MORE)
+58) 37) dialog: But I figure, if that’s what it took... I grew up with nothing. I’m not proud of everything I’ve done but I’ve played by the rules for the most part. If my daughter hates me and they don’t let me into heaven...well then I guess that’s just life, isn’t it?
+58) 39) dialog: Yeah. They stare at the desert for a beat. Then Carter stands.
+58) 41) dialog: What?
+59) 0) text: Edward follows Carter through the perfume section. Both are drinking cans of Coke as they pass wealthy, westernized Egyptians and tourists.
+59) 1) dialog: What the hell did we just eat?
+59) 3) dialog: If this is your idea of cheering me up...
+60) 0) text: Nearly full. Edward and Carter stand against the back wall.
+60) 1) dialog: Now?
+60) 3) dialog: This isn’t very adult of you.
+60) 5) dialog: Now?
+61) 0) text: As the elevator doors open and the passengers erupt outward, pinching their noses, waving their hands and twittering angrily until the elevator is empty save for Carter and Edward who are on the floor in spasms of laughter until the doors close on them.
+63) 0) text: Edward is asleep then suddenly chuckles in his dream. Carter looks over, smiling knowingly before laying a postcard of the pyramids on his seat-back table. Starts to write.
+65) 0) text: Carter and Edward walk past murals depicting the history of the monument. 87.
+65) 2) dialog: Fourteenth? That’s a lot of love.
+65) 4) dialog: So that’s true love.
+66) 0) text: Edward and Carter walk along the promenade beside the reflecting pools.
+66) 1) dialog: (trying to lighten the mood) You ever wonder why all the great historical monuments have to do with dead people?
+66) 3) dialog: Yeah, but does being dead have to be a prerequisite? We can’t put up a tomb to the unborn soldier? “He would have died for his country if only his parents had been Catholic.”
+66) 5) dialog: My family’s got this plot upstate. My parents are there. Cousins. Grandparents. The whole shebang. We even got a little monument of our own.
+66) 7) dialog: I don’t know, I’m not sure they’d have me. I was a real pain in the ass when I was little. Hard to believe, I know. I dunno, it just seems so...colloquial.
+66) 9) dialog: You mean an urn?
+66) 11) dialog: Chock Full O--? The instant coffee?
+66) 13) dialog: I wouldn’t bet on that.
+66) 15) dialog: It's the best. What do you got against it?
+66) 17) dialog: Think I might get another tattoo.
+68) 0) text: Thomas stands with a disapproving look on his face as a guard leads Edward and Carter out of the cell. They’re dressed in filthy prison smocks with several weeks facial growth.
+68) 2) dialog: (shuffling past him) Shower. 90.
+69) 0) text: Thomas waits with a towel while Edward showers. Carter is seen through the doorway, talking to his family on the phone in the living room. He’s yet to shower.
+69) 1) dialog: So what's the going rate for busting two Americans out of the Chinese clink?
+69) 3) dialog: That bad, huh?
+69) 5) dialog: Actually, I do... Don’t I?
+69) 7) dialog: You're joking me.
+69) 9) dialog: Like ‘em? One for each item on the list.
+69) 11) dialog: (after a beat) Thanks Thomas. Really, this is way above and beyond.
+71) 0) text: As Edward emerges from the shower in a billowing cloud of steam.
+71) 1) dialog: She’s all yours. He wipes steam from the mirror to reveal his new look: Kojak meets Founding Father. Admires himself appropriately. Notices the lesions have faded on his head.
+71) 2) dialog: Hey, I said-- Sticks his head into the doorway to see Carter and Thomas whispering closely.
+71) 4) dialog: He’1l what?
+71) 6) dialog: You chumps want to ride with your knees in your throat that’s your business... Shower’s up.
+72) 0) text: Where Edward and Carter take in the vista of hills rolling to the distant base of an impossibly enormous range of snow-covered mountains. 93.
+72) 1) dialog: Okay, it’s majestic.
+72) 3) dialog: What’s our mountain?
+72) 5) dialog: Why so many fatalities?
+72) 7) dialog: The air jockeys you were talking about. Ones that flew through the mountains.
+72) 9) dialog: Your uncle?
+72) 11) dialog: Lucky guy. 94.
+72) 13) dialog: What did they sound like?
+72) 15) dialog: Wow, that’s... Is there anything in this world you don’t have a story about?
+72) 17) dialog: This some kind of yoga manual? Carter’s incredulous... Thomas comes up the steps. Edward tosses him the book.
+72) 18) dialog: Here. Read this for me.
+72) 20) dialog: The first one.
+72) 22) dialog: (to Carter) Where’s your uncle when we need him. 95.
+72) 26) dialog: Definitely.
+72) 28) dialog: Maybe not.
+72) 30) dialog: Everest isn’t the only majestic thing in the world.
+73) 0) text: Spewing enormous plumes of ash and lava into the night sky while rivers of molten rock stream from the crater. Carter, Edward, and Thomas stand atop a neighboring peak. Their faces hang in awe in the light of the eruption.
+73) 1) dialog: (to Carter) What, no story? Carter just shakes his head. Edward smiles and turns back to the show. The ground rumbles. They feel it. Thomas grabs Edward's hand to steady him. Edward does the same with Carter. SEEN FROM BEHIND; in silhouette, the three friends stand hand-in-hand at the beginning and end of the world.
+74) 0) text: Driving through the suburbs of New Jersey. Edward and Carter sit side by side in the back. Taking measure of what they’ve accomplished.
+74) 2) dialog: Don’t be-- It’s nothing. It’s--
+74) 4) dialog: Dead in a month my ass. They laugh and he looks out the window.
+74) 5) dialog: Hey Tommy, this isn’t Newark. You leave your compass back in Beijing? Thomas responds by putting up the divider between himself and the back seat. IN THE FRONT; Thomas exhales a deep breath.
+76) 1) dialog: Why are we-- Thomas, you off the methadone? What the hell’s-- Stops as he sees something through the window. It’s a woman. She’s standing in the window of the ranch house, pacing back and forth as she talks on the phone.
+76) 3) dialog: (livid) This was his idea?
+76) 5) dialog: Hey Carter, will you do something for me?
+77) 0) text: Edward walks briskly through pools of light from the street lamps. The limo pulls up and Carter jumps out.
+77) 2) dialog: Telling someone a story doesn’t invite you to be a part of it. You had no right.
+77) 4) dialog: Go away. Walks past him. Carter follows.
+77) 6) dialog: I'm not afraid of anything anymore. If you took a second to think it through you'd realize-- (stops walking) How did you see it? I knock on the door. She answers. (MORE)
+77) 8) dialog: She’s surprised and angry but I tell her how much I love her and missed her, and gradually, piece by piece, the ice starts to thaw?
+77) 10) dialog: No, it’s an end. Because you left one thing out. You didn’t think-- How is it fair that I show up after all this time and inject myself back into her life when I could be dead in a week?
+77) 12) dialog: How do I tell her...without her believing that I’m only reaching out because I’m scared to die alone and didn’t care enough to consider what that would put her through.
+77) 14) dialog: I’m not everyone.
+77) 16) dialog: If I am, I’m not the only one.
+77) 18) dialog: What are you even doing here, Carter? You've got a family and a wife whose holding her heart in her hands while you’re flying around the world to “find the long way home.” Don’t you think she knows?
+77) 20) dialog: That you blame her for your lack of accomplishment. 99.
+77) 22) dialog: That you say things like you “wouldn’t trade your life with them for anything”, but deep down you question yourself, so you say those things because you know they’re the right thing to say, rather than what you really feel.
+77) 24) dialog: Maybe I don’t...but I know this. I love my daughter. If I didn’t I would be back there, knocking on her door. If you loved your wife, you wouldn’t have to go home because you’d have been there all along. He pulls out the Bucket List.
+77) 25) dialog: This is fun, Carter. That’s all it ever was. Then he tears it in half, then again, and lets the pieces flutter to the sidewalk. He sees Thomas standing by the limo.
+77) 26) dialog: Call me after you've taken him home. He walks off. Carter stands there, staring at the pavement... Music begins; Jeff Buckley’s “Hallelujah” as Thomas walks around the limo and opens the door for Carter. Carter nods and walks towards him and then stops and turns to look at the Bucket List as the pieces scatter
+78) 0) text: Edward and his date, AMERY, a pretty middle-aged woman sit at a table against the wall.
+78) 1) dialog: It’s Bruno’s specialty. It’s not on the menu.
+78) 3) dialog: I’m a bottomless pit. Besides, I’m in training.
+78) 5) dialog: For someone my age? You can say it. She's interrupted by the MAITRE’D who walks briskly to the table.
+79) 0) text: Edward emerges from the elevator and walks pointedly towards his old room. Passes Holcomb at the nurse’s station.
+79) 2) dialog: When did this happen? 104.
+79) 4) dialog: So you can operate?
+79) 6) dialog: And he'll be alright?
+80) 1) dialog: How is he?
+80) 3) dialog: Of course. Please. Is there anything I can do for you? Are the boys--
+80) 8) dialog: How they treating you?
+80) 10) dialog: I’ll talk to the owner.
+80) 12) dialog: He definitely has his moments... Edward nods. It’s all under the bridge.
+80) 13) dialog: (holds the List) What was I going to do with this?
+80) 15) dialog: It’s not a one man job.
+80) 17) dialog: No it doesn’t... I’1l be-- (heads for the door) Don’t go anywhere. Runs out. EXT. HOLCOMB’S OFFICE - NIGHT Holcomb’s packing up for the night when Edward enters, speaking on his cell phone.
+80) 18) dialog: I don’t care how, just get a hold of him and call me back. He snaps the phone shut and glares at Holcomb. 106.
+80) 19) dialog: Can he be moved without hurting him?
+80) 21) dialog: I’m taking him out of here.
+81) 0) text: Edward walks with Holcomb trailing him. Thomas stands as he sees them.
+81) 1) dialog: Pull the car up front.
+81) 3) dialog: Plain English. I’m taking my friend out of here and you’re coming with us. You've got ten minutes to pack what you need or I will personally ask Thomas to rearrange your kidneys. Thomas smiles at Holcomb who nods abruptly.
+82) 0) text: Edward enters just as Carter is standing out of bed with help from Virginia.
+82) 1) dialog: How fast can you get him dressed?
+82) 4) dialog: One more trip. (to Virginia) Can I talk to you? (to Carter) Pack it up. We’re not home yet. 107. He ushers Virginia out into the hallway.
+83) 0) text: The limo doors open and Thomas emerges along with Edward, Holcomb and the entire Chambers family. Carter is weak but shuffles along towards the waiting Gulfstream.
+83) 1) dialog: If you could step it up we’re kind of on a schedule.
+83) 3) dialog: Roger.
+83) 6) dialog: (to Lee) Does he ever stop talking?
+83) 8) dialog: Well, that I can relate to.
+84) 0) text: Zipping between large warehouses. Carter sits in the back with Virginia. He’s blindfolded and bitching and wearing a new suit. Edward’s in the front next to the driver. The golf cart pulls to a stop next to a warehouse door. Virginia helps Carter out while Edward gets the door.
+86) 3) dialog: I had a couple million lying around.
+86) 6) dialog: So go earn it back.
+87) 10) dialog: Get it together. Virginia shushes him.
+87) 20) dialog: Is he okay?
+88) 3) dialog: It’s in the bag. His grin begins to subside as he watches Carter wipe a think band of sweat from his forehead. CARTER’S POV; is blurred as his hand slips on the pen. He closes his eyes to steady himself, but his vision is blurred even further.
+88) 5) dialog: I see it. He starts circling the stage, crossing behind the cameras to get closer to the contestants. Carter scribbles loosely on the screen but drops the pen and falls just as Edward gets there to catch him. FADE TO WHITE. Voices are heard...
+88) 7) dialog: Anything you need.
+89) 6) dialog: He's probably sleeping. It’s almost midnight.
+89) 9) dialog: I’ll leave you two alone.
+89) 13) dialog: I’m all out. I can see if there’s anywhere that sells it out here, but--
+89) 15) dialog: “I'm sure you'll enlighten me.” Carter hands the paper to Edward.
+89) 17) dialog: (reading) Kopi Luwak is the world’s most expensive coffee, though, for some, it falls under the category of too good to be true. In the village where the beans are grown lives a breed of wild African tree-cats. The cats eat the beans, digest them, then... (a beat; he swallows) ...then defecate them out for the villagers to collect. It’s the gastric juices of the cat that give the coffee its unique flavor and absence of aftertaste... You’re shitting me?
+89) 20) dialog: Of course. (pulls it out along with the red pen) There’s only a few left. Which one do you want to do next? Carter runs a finger down the items, until he reaches “LAUGH UNTIL I CRY.” He crosses it off shakily with the pen. Only four remain. His finger stops on the half finished “#11) GET BACK IN TOUCH” Edward sees this.
+90) 0) text: Edward emerges through the sliding doors. He wipes the tears flowing from his face, unsure of where to go.
+92) 0) text: Edward loses himself in the raindrops sliding down the window as the plane readies for takeoff. He glances down at the envelope in his lap and turns it over. On the front is his name and address. He thinks a moment, steeling himself before he opens it.
+93) 0) text: Carter lies unconscious with a tube in his mouth as the surgeons do their work. In contrast to Edward, he looks completely at peace.
+95) 0) text: Edward reads the words as Carter speaks them. 116.
+97) 0) text: As Edward walks up the path to his daughter’s house. He knocks on the door without hesitation.
+101) 0) text: Virginia stands in the doorway, staring at her sleeping children. Rachel opens her eyes and looks at her mother. 118. EXT. EMILY’S HOUSE - DAWN Edward walks the path towards Thomas and the waiting limo.
+101) 3) dialog: (emotional) Yup.
+102) 0) text: Edward pulls the list out of his pocket. With the red pen he crosses out: “KISS THE MOST BEAUTIFUL WOMAN IN THE WORLD.”
+102) 2) dialog: Good afternoon. My name is Edward Cole and I’m not much of a storyteller.
+103) 0) text: Edward is in his business suit again. His game face on.
+103) 1) dialog: I’m a business man, a good one. I run hospitals. (MORE)
+103) 3) dialog: We take sick people and make them well again. Sometimes we succeed and sometimes we fail, but we’re getting better at it every day... I started out with nothing but cold ambition, and over the years my company grew until I had everything I ever wanted... I know now that-- I know now that I was never a wealthy man until my best friend came into my life...and from this incredible turnout, it only verifies the fact that Carter was truly the richest man I know. CAMERA TRACKS until we’re behind Edward revealing his audience of nearly a THOUSAND MOURNERS filling every last inch of the room including Carter’s family who sit in the front row. Familiar faces in the crowd include Manny, Holcomb, Nurse Shing, parents and players of the soccer team, etc.
+103) 4) dialog: I don’t know what most people say at these things, so I’1l just tell you what I think Carter would want you to know. He’s dead and I still can’t shut him up... He loved his children more than his own heart. He loved his wife more than his own soul. He took the long way home but he made it back and you took him in and made him whole again and you will never know how grateful he was. His eyes move from the family to Thomas who stands against the wall with Emily and her daughter.
+103) 5) dialog: (taking out the Bucket List) We saw the world together. Pretty amazing when you think that only nine months ago we were strangers... He saved my life, and he knew it before I did. With the pen, he crosses out: “HELP A COMPLETE STRANGER FOR THE GOOD.” Beneath it, the last remaining task lies unfulfilled: “LISTEN TO THE MOUNTAIN AND BE HEARD.” Slowly, the words on the page--
+104) 1) dialog: Carter gave me a book once. It was about a man who knew a thing or two about the world. The climber walks over to a flat stone and lifts it onto its side. He removes his gloves revealing a wedding ring on his left hand. EDWARD (V.O.) (CONT’D) The man said: “Learn as if you were going to live forever. Live as if you were going to die tomorrow.” His hands lift to his face, removing the oxygen mask and hood revealing THOMAS. He reaches down and lifts A FROZEN CHOCK FULL O’ NUTS CAN from its resting place in the hole beneath the rock. He wipes off a section of frost with his thumb revealing: A PHOTOGRAPH taped to the can -- Carter and Virginia at their second wedding surrounded by their family. Thomas sets the can on the snow then opens his backpack and reaches down to the bottom-- EDWARD (V.O.) (CONT’D) Tomorrow comes for all of us. --and removes A SECOND CHOCK FULL 0’ NUTS CAN which he places on the ground next to the first. EDWARD (V.O.) (CONT’D) It’s what we do in-between that makes us who we are. CLOSE ON A NEWER PHOTOGRAPH; taped to the second coffee can. It’s Edward. He’s old and grey.

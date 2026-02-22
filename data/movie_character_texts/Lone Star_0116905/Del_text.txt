@@ -1,0 +1,87 @@
+5) 0) text: On the door of a deluxe pickup truck is an airbrushed pic of a Pancho Villa-looking vaquero with bandoliers crossin his chest and a gun blazing in each hand. We hear LOUD MU
+7) 0) text: Sweat beads the forehead of a thin, tired-looking recent  immigrant, ENRIQUE, as he delivers platters of chile rell to a booth. MEXICAN MUSIC plays on a jukebox in the b.g. HOLD on the booth, where HOLLIS POGUE, in his 60s enterta two GOOD OLD BOYS--
+8) 0) text: COLONEL DELMORE PAYNE (DEL), a very direct, by-the-book B officer, addresses them. Artillery pieces angle toward th sky behind him--
+8) 1) dialog: --it's an honor for me to assume  command of this unit, and I look  forward to working with all of you. OFFICERS Cliff and Mikey, in uniform now, flank SERGEANT  PRISCILLA WORTH, a Black woman in her early 40s, as they  stand in formation--
+8) 2) dialog: I'm sure you're all aware of the  Army's decision to close this  installation under the Reduction in  Force plan. That does not mean,  however--
+8) 4) dialog: --that we've been sent here to mark  time until we are absorbed by another  unit.
+8) 6) dialog: You may have heard rumors that I run  a very tight operation. These rumors  are not exaggerated.
+16) 12) dialog: Have we had trouble there before?
+16) 15) dialog: They didn't come for a vacation.
+16) 18) dialog: Substance abuse?
+16) 20) dialog: I meant on the post. In general. How  are you dealing with it?
+16) 22) dialog: Why don't we make it once a week for  a while?
+16) 24) dialog: I sprint the last quarter mile. You  gentlemen don't have to keep up if  you don't care to.
+27) 2) dialog: Otis Payne was never embarrassed  about a thing in his life.
+27) 5) dialog: He didn't leave, he moved three houses  down with one of my mother's best  friends.
+27) 7) dialog: "Hey, Delmore, where's your Daddy?" Del disappears into the bedroom at the end of the hall--
+27) 8) dialog: Everybody else's business. And  everybody loved Big O-- DEL comes back out, empty-handed--
+27) 9) dialog: Big O was always there with a  smile  or a loan or a free drink.
+27) 12) dialog: Not that much.
+27) 14) dialog: I thought we already had this out?   Next year, if your grades are high  enough--
+27) 16) dialog: How many B-average students do you  think they take at West Point?
+27) 18) dialog: No, we don't. Del steps away past us, leaving Chet, defeated--
+31) 0) text: Del, in uniform, approaches the front door of Big O's, no open for business yet. We TIGHTEN as he stops to read a  handlettered sign next to it: "BLACK SEMINOLE EXHIBIT REA ENTRANCE." He steps in--
+32) 0) text: Late-50s R&amp;B plays on the JUKEBOX. Otis stands behind counter hooking the beer taps up. Del steps in and sits o stool at the far end of the bar, tense, looking around th place. When Otis sees him, he stops dead. They lock eyes a moment, then Otis turns to call.
+32) 4) dialog: Black Seminoles?
+32) 6) text: Hobby of mine. Got some artifacts,  couple pieces one of your men out at  the base made. Free admission. Del nods toward where Carolyn is mopping--
+32) 7) dialog: That where he was shot?
+32) 9) dialog: You get much of that in here?
+32) 11) dialog: Deal drugs in the bathroom--
+32) 14) dialog: Nice to meet you, Ma'am. Carolyn nods, shoots a look to Otis--
+32) 17) dialog: So tell me why I shouldn't make this  place off-limits.
+32) 19) dialog: I assume a lot of your business is  from our people. Otis pulls a tap back and it coughs before squirting beer
+32) 21) dialog: We have an enlisted man's club at  the post.
+32) 23) dialog: That's right.
+32) 26) dialog: The Army hands you a command, you go  wherever it is.
+32) 28) dialog: I hear things, too.  People call   you the Mayor of Darktown.
+32) 31) dialog: And people make their choice--
+32) 33) text: A lot of 'em choose both. There's  not like a borderline between the  good people and the bad people--you're  not either on one side or the other-- Del looks away, not wanting to believe this--
+32) 36) dialog: Why would you want to do that?
+32) 38) dialog: You'll get official notification  when I make my decision. He is out  the door--Otis pulls himself a beer  as Carolyn steps back out--
+75) 0) text: Athena stands at attention as Del sits at his desk, revie her record. He lets her stand for a long time before spea
+75) 1) dialog: Private Johnson, are you unhappy in  the Army?
+75) 3) dialog: Then how would you explain the fact  that out of one hundred twenty people  we tested, you're the only one who  came up positive for drugs?
+75) 5) dialog: When you were given the opportunity  to enlist, a kind of contract was  agreed upon. I think the Army has  honored its part of that agreement.
+75) 7) dialog: Do you believe in what we're doing  here, Private Johnson?
+75) 9) dialog: You don't sound too enthusiastic.
+75) 11) dialog: What exactly do you think your job  is, Private?
+75) 13) dialog: Who's "they"?
+75) 15) dialog: And that's the job? Nothing about  serving your country? Athena is confused, hesitates to speak--
+75) 16) dialog: These aren't trick questions, Private.  You'll be given an Article 15 and be  going into the ADCAP Program one way  or the other. What happens after  that is up to you. I'm just trying  to understand how somebody like you  thinks. Silence--
+75) 17) dialog: Well?
+75) 20) dialog: Please.
+75) 22) dialog: How do you think I got to be a  colonel?
+75) 24) dialog: Do whatever they tell you--
+75) 26) dialog: With your attitude, Private, I'm  surprised you want to stay in the  service.
+75) 28) dialog: Because it's a job?
+75) 31) dialog: Chaos. Athena is sure she's overstepped her rank--
+75) 32) dialog: Why do you think they let us in on  the "deal"?
+75) 34) dialog: Do you think you've been discriminated  against on this post?
+75) 36) dialog: Any serious problems with your  sergeant or your fellow soldiers?
+75) 38) dialog: It works like this, Private--every  soldier in a war doesn't have to  believe in what he's fighting for.   Most of them fight just to back up  the soldiers in their squad--you try  not to get them killed, try not to  get them extra duty, try not to  embarrass yourself in front of them. He is right in her face now--
+75) 39) dialog: Why don't you start with that?
+75) 41) dialog: You're dismissed, Private.
+83) 0) text: Carolyn crosses the living room to answer the RING at the front door.  Del stands there--
+83) 2) dialog: Colonel. Is uhm--is Otis in?
+83) 4) dialog: If it's too late--
+84) 4) dialog: You've been in this house for a while?
+84) 6) dialog: I never met her.
+85) 6) dialog: Where'd he get all this?
+85) 8) dialog: Uncle Al--
+85) 10) dialog: I'm a colonel.
+85) 12) dialog: It's a small post and they're phasing  it out in two years, but I moved up  in rank and--well, a command is a  command.
+85) 14) dialog: My mother said he never asked about--
+85) 16) dialog: Listen, I uh--tell him I came by.  Thanks-- We HOLD on Carolyn as he hurries out. She salutes--
+91) 0) text: Del steps in. Chet sits at the table, drawing a cartoon i panels. Del looks over his shoulder for a moment--
+91) 2) dialog: Homework?
+91) 5) dialog: Tanks, huh?
+91) 7) dialog: So you're going into the Army? Chet looks at him, not in a good mood, then goes back to drawing--
+91) 9) dialog: (Softly)
+91) 11) dialog: The Army isn't for everybody. Chet can't quite believe he is hearing this. Del crosses the refrigerator--
+91) 12) dialog: Not that I don't think you'd be good  at it, but--you know--I wouldn't be  disappointed if you decided to do  something else with your life.
+91) 14) dialog: No. Chet nods, begins to play again, considering the  possibilities. Del is making an effort and he doesn't hav much practice--
+91) 15) dialog: How's your room shaping up?
+91) 17) dialog: Good. An awkward silence--
+91) 20) dialog: My father.
+91) 22) dialog: He does. Del pulls some food out, watching Chet as he draws--
+91) 23) dialog: Maybe we'll clean that thing out  back up, have a barbecue next weekend.  We could invite him and his wife  over.

@@ -1,0 +1,66 @@
+12) 2) dialog: The one and only, bro.
+13) 0) text: Pindi is leading Gregg down a row of vehicles: two Land Rovers, one with a strange-looking seat attached to the front hood, and an old, flatbed lorry. A surly-looking group of men lounge around on them.
+13) 4) dialog: Six men, three cars... everything you ask for, Mr. Ohara. (lowering his voice) All paid for in advance, out of Pindi's pocket...
+13) 5) text: Gregg holds an envelope filled with cash in Pindi's face. He nods towards the nasty-looking men.
+13) 7) text: Pindi snatches the envelope -- but Gregg holds onto his end.
+13) 9) dialog: These men are the best -- I assure you. Very best.
+13) 10) text: Gregg allows Pindi to pull the envelope away. He immediately rifles through the cash, checking to make sur it's all there. Gregg eyes Pindi's men suspiciously, then walks around to the back of his humvee and flips open the storage boot, revealing an array of animal-tracking gadgetry. Pindi looks over his shoulder as Gregg loads a menacing-looking rifle.
+13) 11) dialog: Nice piece you got there. What are we hunting, elephants?
+13) 13) text: Pindi sees that Gregg is loading the rifle with tran- quilizer darts. This confuses him, but he pretends to approve.
+13) 14) dialog: Ah! Tranquilizer darts. I agree -- much nicer to animals than bullets.
+13) 19) dialog: Oh sure, boss.     Only professionals here.
+13) 21) dialog: So tell me, boss -- where are we going today?
+13) 26) dialog: There? Uh, boss, that is not such a good mountain. The men don't like it very much at all. You see there is a legend they believe in, that a creature lives there...
+13) 29) text: Pindi looks at Gregg, surprised he knows this.
+13) 30) dialog: You know it? How funny! (with dread) That's not, by any chance, what you are looking for, is it, boss?
+13) 31) text: Gregg looks from Pindi's nervous face to the serious faces of the trackers. They are all watching him.
+13) 36) text: Gregg takes the car keys from Pindi's hand.
+13) 41) text: OFF Pindi -- not particularly thrilled...
+16) 0) text: Gregg has earphones on, plugged into a backpack with a Sony digital recorder, listening. The sound is ambient and mysterious. Pindi stands behind Gregg, watching him carefully.
+16) 1) dialog: What are you listening to?
+16) 3) text: Pindi listens to the jungle. It is full of sounds. Something small makes a RUSTLING SOUND a few yards away.
+16) 4) dialog: Like that right there?
+16) 6) text: Pindi nods.
+16) 10) dialog: I understand completely: jungle sounds! Very important. I know a guy, he can get you a C.D. of jungle sounds, cheap. Even cheaper if you buy ten.
+16) 11) text: Gregg puts his hand up to signal for quiet. He hears something. He listens intently for a moment, then the WHOOSH of a SPRING TRAP BLASTS his ears, followed by shouts and the sound of an ANIMAL SCREECHING. Gregg throws off the headphones, grabs a strange-looking pole called a DNA plug gun, and crashes with Pindi through the woods. Gregg runs INTO FRAME to see several of Pindi's men closing the cage on a lithe, young leopard.
+16) 12) dialog: (beaming) How do you like that, boss? I told you these men were the best.
+16) 17) text: Gregg and Pindi stand over the leopard.       Pindi offer ersatz smile.
+16) 18) dialog: (testing the water) Why ask for a cage if you are not keeping the animal?
+16) 24) dialog: Yes, but I know a guy, in Botswana, he'd pay you ten thousand American dollars for that leopard. I'd be willing to split with you -- fifty/fifty.
+16) 25) text: Greg ignores Pindi. He's busy transferring the vial to a container. Pindi presses on.
+16) 26) dialog: Perhaps you're right. Sixty to you, forty to me. That's a very fair deal!
+16) 28) dialog: My goodness -- you're an excellent negotiator. Okay, boss! Seventy/thirty it is. (to his men) Take him to the truck.
+16) 31) text: Gregg is one scary-looking bastard.     The men drop the cage. Pindi back-pedals.
+16) 32) dialog: ("angry," to his men) You heard him... put it down! (to Gregg) They never understand me. I don't know what to do...
+16) 33) text: Pindi stops abruptly as his yammering is interrupted by the LEOPARD, GROWLING. SOUND CUE:    A LOW RUMBLE. Floating on the wind like DISTANT THUNDER. It seems to come as an answer to the young leopard's cry. Birds fly out of the trees above the cage. The men are spooked.
+16) 38) dialog: Uh, excuse me.     Time to flee, right?
+16) 41) dialog: (frightened out of his wits) How about... I move... just over here...
+16) 47) dialog: What is this 'we'? There is no way my men will ever agree to...
+17) 6) text: Gregg grabs his DNA stick and grins at Pindi.
+17) 8) text: Pindi realizes with a sickening feeling that Gregg is having a major rush.
+18) 6) text: Pindi shrugs. The two of them watch as Joe continues running, then changes directions and starts heading straight for them. The humvee has to swerve out of the way to avoid colliding with Joe. FOLLOW JOE as he books across the meadow in the opposite direction, now. The modified Land Rover with the hot seat attached to the hood swerves around and chases Joe. They catch up, and the tracker climbs into the hot seat, readying a metal clamp attached to a chain...
+18) 15) dialog: (terrified) Oh, sure.
+18) 22) dialog: I hope you are planning on throwing that at him, because...
+18) 24) text: Pindi looks forward again just in time to see...
+18) 32) dialog: Stop!
+18) 34) dialog: Hurry up, bro!     Get in!
+18) 35) text: Pindi watches as Gregg stumbles around to the back of the truck. But instead of getting in, he grabs a silver case and pulls it off.
+18) 36) dialog: Excuse me, boss, but please, I would like to avoid being killed.
+18) 37) text: Gregg flips opens the case, revealing a video camera. hoists it up, and barely able to walk, takes one last look at Pindi and the bruised and busted-up trackers.
+18) 39) text: Gregg takes off after Joe.       Pindi can't believe it.
+18) 40) dialog: Crazy Americans!
+18) 44) dialog: Get us out of here.
+26) 3) text: I'll set a new record with you. Strasser picks up one of the phones.   He idly plays with a rhino horn as he talks to Pindi.
+26) 5) dialog: It's about time already! You know how long I am waiting? A man can only carry so much change...
+26) 7) text: What do you want, Pindi?
+27) 0) text: A small street of stores -- all covered in brightly- painted advertisements. Outside one store is a lone pay phone -- manned by Pindi. Pindi speaks furtively, so as not to be overheard. INTERCUT conversation.
+27) 4) dialog: Not what I want, boss, what you want. How about a giant gorilla?
+27) 6) dialog: Big as three men, two thousand pounds, at least.
+27) 8) dialog: Swear to God, boss. Saw him with my own two eyes.
+27) 14) dialog: Hello?   Boss...
+27) 15) text: Now a DIAL TONE.      Pindi looks at the phone.
+27) 16) dialog: I'll catch him and charge you double, madar chode.
+27) 17) text: Pindi smashes the phone down on its cradle.
+28) 0) text: In the center of the village, two trucks of rough-looking men are gassing up their vehicles. A third truck arrives from the other direction. It's a POACHER we recognize, one of Pindi's men, accompanied by a half dozen others, all armed with rifles
+120) 0) text: Kweli walks through the outdoor bar, collecting money for Joe from a half dozen villagers. A hand, holding a few crumpled bills, taps him on the back. Kweli turns around and comes face to face with Pindi. Pindi stuffs the money in Kweli's can and grins.
+120) 1) dialog: For Mighty Joe, bro.

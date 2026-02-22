@@ -1,0 +1,36 @@
+10) 7) dialog: (pre-lap) «+. you. Yes, thank you, Captain Sullenberger, for joining us today...
+11) 0) text: Sully and Skiles are sitting in a halogen-bright room, with two glasses of water in front of them. Next to them is MIKE CLEARY, their union rep. He’s 50s, black hair, intense bearing. Across the table from them are the 3 NTSB members. ELIZABETH DAVIS, late 40s, gentle face, BEN EDWARDS, 50s, a banker’s demeanor and focus, and CHARLES PORTER, mid- 40s, Marine-tough, who is beginning the session.
+11) 1) dialog: «+. and welcome also to First Officer Skiles. Glad you could make it in this morning.
+11) 3) dialog: For the record, we have an Aircraft Systems Team on this investigation, also Aircraft Structures, MRT, Aircraft Performance, ATC, Wildlife Factors, Survival Factors, and Emergency Response. Today, we begin with our Operations and Human Performance investigation, of the crash of U.S. Air Flight 1549.
+11) 5) dialog: Captain? (CONTINUED)
+11) 13) dialog: Let’s get into how you calculated all those parameters.
+11) 15) dialog: You're saying you...
+11) 17) dialog: You eyeballed it?
+11) 24) dialog: Our computers will run return scenario algorithms to generate simulations with your exact parameters. The dual engine loss, the altitude. Everything you faced when you made your decision.
+11) 27) dialog: You stated it was a dual engine failure due to multiple bird- strikes.
+11) 34) dialog: Is it possible your blood sugar was low?
+11) 36) dialog: When was your last drink, Captain Sullenberger?
+11) 40) dialog: First Officer Skiles?
+11) 42) dialog: Captain. How about any troubles at home? A beat.
+31) 2) dialog: Seeking the facts is hardly fishing, Mr. Skiles.
+31) 4) dialog: And we appreciate your perspective...
+31) 14) dialog: There is no question that you are an experienced, dedicated, talented professional. (CONTINUED)
+31) 23) dialog: Your weight was 151,510 lbs. Wind and temperature, N-NW, 21 degrees. Speed and altitude, 200 knots at 2,818 feet. Agreed?
+31) 28) dialog: And the resulting computer simulations of U.S. Airways Flight 1549 showed that the aviation engineers... were correct.
+31) 31) dialog: The plane landed at LaGuardia. Intact. Undamaged.
+31) 34) dialog: Including attempts for Teterboro runway 19, and LaGuardia, runways 22 and 13. Every computer simulation, with the exact flight parameters, demonstrated that a return was possible. And not just possible. Probable. The room goes ghost quiet.
+31) 45) dialog: When the complete Cockpit Voice Recording is compiled, with ATC, and all on-board transcripts combined, we will call you back. The NTSB exits. So does Larry Rooney, who follows them out with hushed questions. Only Sully and Skiles remain. Sully looks stunned.
+116) 1) dialog: Before we listen to the cockpit voice recording, and we will be listening to it for the first time, along with you, gentlemen...
+121) 1) dialog: For the record, the pilot’s and the computer sims bear the same result. Sully’s expression betrays nothing.
+125) 2) dialog: A lot of toes were stepped on... in order to set this up for today. And, frankly, I’m not sure what you gentlemen planned to gain by it. Silence. The room tightening at the edges.
+125) 3) dialog: Captain Sullenberger? For a moment, it seems Sully is out of rope. Finally...
+125) 5) dialog: Captain?
+125) 7) dialog: Human-piloted simulations show that you could have made it back to the airport.
+125) 12) dialog: They may not be reacting like you did, but...
+125) 14) dialog: That is correct.
+125) 16) dialog: They had the same parameters you faced...
+125) 33) dialog: The reaction-decision time will be set at thirty-five seconds.
+126) 2) dialog: (stoic) Let’s... try Teterboro. The Pilot who successfully landed at Teterboro with the extreme 66 degree bank and sudden set down, buckles in. The flight. The madness of noise and technology. The delay and turn for Teterboro. The plane banked hard to 66 degrees, just as before, but this time the plane doesn’t make it to Teterboro. It -- (CONTINUED)
+127) 4) dialog: We’ll study all the results at a later date. Elizabeth.
+152) 3) dialog: That is, honestly, the first time I have listened to a crash recording... while actually sitting with the Captain and First Officer. Extraordinary.
+152) 5) dialog: No, it wasn’t. The NTSB board is looking for the right words. Finally...

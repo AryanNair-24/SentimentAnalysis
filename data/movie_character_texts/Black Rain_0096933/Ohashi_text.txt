@@ -1,0 +1,44 @@
+23) 0) text: Fifty identical desks.  Fifty identical phones.  Fifty identically dressed men in white shirts and ties working under the fluorescent lights of this large open room. We GLIDE PAST the rows of desk to find INSPECTOR OHASHI, mid forties, sitting behind a perfectly arranged desk. Ohashi prides himself on order. Nick and Charlie are standing in front of him.
+23) 2) text: Ohashi remains poker faced.  He continues to arrange papers and apply his hanko (personal seal) to the bottom of a stack of official papers.
+23) 6) text: Still nothing from Ohashi.  Finally:
+23) 7) dialog: (quiet rage) You lost a man we wanted for some time.  It was very incompetent on your part, officer.
+23) 9) text: Ohashi bows slightly, we're not sure why.
+23) 11) dialog: It is not allowed.
+23) 13) dialog: You're foreigners.
+23) 15) text: Pause.  Ohashi returns to his papers.  Nick can't believe it.
+23) 17) dialog: (not looking up) Do you know what this is?
+23) 18) text: Ohashi holds up the document that was handed to Nick at the airport.
+23) 19) dialog: It's a laundry list.  Go home, detective.
+23) 25) dialog: What are you doing?!
+24) 0) text: Nick and Charlie cross the street.  Charlie's trying to read the name from the piece of paper Ohashi has given them.
+27) 12) text: This is Ohashi's best man?  Well, at least he speaks English.
+34) 4) dialog: Why don't you ask your chief detective?
+34) 7) dialog: The young are eating the old, something that usually doesn't happen here.
+34) 9) text: Ohashi pauses.  Ich looks at Nick as if to warn him he can't speak to Ohashi that way.
+34) 10) dialog: There's a war, detective, between two rival groups.  The man who escaped, Kobo, leads the younger group.  They did this.
+34) 12) dialog: (in Japanese) Excellent, Officer Matsumoto.  How is your investigation going?
+34) 17) dialog: He's an officer of great distinction.
+34) 20) dialog: (ignoring him, to Nick) Have you changed your mind and decided to go home, detective?
+34) 22) text: Ohashi coolly flicks the ashes of his cigarette and we --
+36) 41) dialog: ... You ignored me.  I don't care about what you want.  Get on a plane, detective Conklin.  Go home.
+64) 0) text: A half dozen bodyguards are being frisked, then shoved into police cars. Ohashi is talking to the enraged nightclub owner.  Nick steps up to him.  Ich hurries over.
+64) 3) text: Ohashi doesn't say a word, hands Nick a document.
+64) 5) dialog: Your visa has expired.  Be on a plane in twenty-four hours or you will be deported.
+64) 7) dialog: Look.
+64) 8) text: Ohashi directs Nick's attention across the street where a SURVEILLANCE VAN is parked.  The rear doors are open revealing a van full of surveillance equipment and cops.
+64) 9) dialog: You ruined an on-going investigation that could have gotten us more than one runner. (to Ich, in Japanese) I want a full report in the morning, officer.
+64) 10) text: Ich bows as Ohashi walks off.
+64) 12) text: Ohashi ignores him, continues walking toward his waiting car.
+64) 14) dialog: (his back toward Nick) Twenty-four hours, detective.
+64) 15) text: Ohashi slips into his car.  Nick storms up to the car and slams his fist on the window.
+64) 17) text: Ohashi faces straight ahead, ignoring Nick.  Nick takes the extradition paper and spikes it on the car antenna. Ich grabs Nick by his arm, pulling him back from the car. The car pulls away.
+64) 21) text: Nick, beside himself with frustration, watches Ohashi's car disappear down the block.
+91) 0) text: The train stops.  Nick flies out and starts running, dodging the crowd. Three uniformed policemen, including Ohashi's assistant, hurry toward him; they're dismayed to find that Kobo is gone.
+91) 6) dialog: Your plane leaves at six.  Two officers will escort you.
+91) 8) dialog: You had my help, detective.
+91) 10) dialog: -- Do you know where she is, detective?  Do you know how to find her?  Even where to start?  We will find them.
+91) 12) dialog: Goodbye, officer.
+91) 13) text: Ohashi keeps walking.
+91) 15) text: The LOUD clank of metal on metal.  Ohashi's gone.
+104) 1) dialog: is at his desk studying a report. Suddenly, the lights go out.  The fan's stop, so do the electric typewriters. Ohashi looks up to see --
+104) 6) dialog: Inspector Ohashi will take charge of the prisoner.

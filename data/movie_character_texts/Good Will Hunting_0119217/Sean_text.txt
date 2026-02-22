@@ -1,0 +1,274 @@
+4) 0) text: SEAN McGUIRE (52) sits, FORMALLY DRESSED, on the roof of apartment building in a beat-up lawn chair. Well-built an fairly muscular, he stares blankly out over the city. On his lap rests an open invitation that reads "M.I.T. CL
+11) 0) text: Sean sits, exactly as we first saw him, except his tie is now loose and an empty bottle of BUSHMILLS is at his side He stares out over the City. A MATRONLY LANDLADY comes ou of a doorway on the roof.
+11) 2) text: Sean doesn't answer.
+11) 4) dialog: Yeah.
+11) 7) text: After a moment, she retreats back down the stairs. Sean  doesn't move.
+36) 0) text: This is SEAN MAGUIRE'S "Dying and Bereavement" class.  Emblazoned on the door is "room 101." While the lecture h could hold sixty students, there are less than fifteen he today. Sean Maguire lectures to the class in a resigned tone. Ti of teaching, tired of life, he finds himself resigned to tedium of teaching core classes to an indifferent student body.
+36) 1) dialog: Establishing trust is the most  important component in making  breakthroughs with a patient. Why?
+36) 3) dialog: Maureen?
+36) 5) dialog: Keep up the good work, Maureen.  Vinnie?
+36) 8) dialog: Don't bullshit me, Vinnie. Didn't  your brother give you the notes?  Okay. If a patient doesn't trust you  then they won't feel safe enough to  be honest with you -- then there's  no point to them being in therapy.  It's like saying -- "Fine, come here  and don't tell me a thing but go  home feeling like you're doing  something about your problems -- and  give me my fifty bucks before you  leave will ya'!"
+36) 10) dialog: If you don't help them trust you --  then there's no way you'll ever get  them to sleep with you. And that  should be the goal of any good  therapist. Insecure women, you know...  nail 'em when they're vulnerable,  that's always been my motto.
+36) 12) dialog: See, I got Vinnie's attention.
+36) 13) text: Laughter. Sean starts to resume his lecture, when he noti LAMBEAU standing in the back of the room. There is an awk moment.
+36) 14) dialog: Gerry.
+36) 16) dialog: (to class) Well, it seems we're in the presence  of greatness. Professor Gerald Lambeau  is a Field's Medal winner.  Combunatorial Mathematics. 1986.
+36) 19) dialog: The Field's Medal is the Nobel Prize  for math. (beat) But it's only given out every four  years.
+36) 21) dialog: Okay, that's all for today. Try and  get through Fernald by Monday.
+36) 22) text: The class starts to pack up and file out. Lambeau approac Sean who steps down from the lectern.
+36) 24) dialog: Good to see you.
+39) 0) text: Lambeau and Sean share a table at this exclusive restaura Sean seems slightly out of place in his wrinkled sport co
+39) 2) dialog: I've been busy.
+39) 4) dialog: Since Nancy died.
+39) 6) dialog: I got your card.
+41) 0) text: Lambeau and Sean, having finished their meal. Lambeau has been pitching Sean.
+41) 1) dialog: I've been busy, Gerry. I got a full  schedule.
+41) 3) dialog: Not much free time, Gerry.
+41) 5) text: Sean nods his head.
+41) 6) dialog: Yeah.
+41) 8) text: Sean finishes the joke. Lambeau chuckles.
+41) 10) dialog: And he mailed it to Hardy--
+41) 12) dialog: Where he contracted pneumonia and  died at a young age--
+41) 14) dialog: Why me?
+41) 16) dialog: My kind of background?
+41) 18) dialog: He's from Southie? How many people  did you try before you came to me?
+41) 20) text: Sean gives a slight, knowing smile.
+41) 21) dialog: Who? Barry, Henry, Rick...
+41) 23) dialog: Not Rick? You didn't send him to  Rick?
+41) 25) dialog: Can we do it at my office?
+41) 29) dialog: I got it.
+41) 31) text: Sean relents.
+43) 0) text: Sean's office is comfortable. Books are stacked against t wall. There is a PAINTING on the wall behind Sean. Sean i seated behind a desk. Lambeau sits in a chair in the back the room, next to Tom. A long beat passes, they wait.
+43) 2) dialog: I'll be okay.
+43) 4) text: Sean nods. Will walks in. Everyone stands to greet Will.
+43) 8) text: Sean and Will nod. An awkward moment as the four men stan
+43) 11) text: Lambeau is slightly embarrassed. Sean smiles at Will's jo
+43) 12) dialog: Would you excuse us?
+43) 14) dialog: You too, Gerry.
+43) 15) text: Lambeau looks at Sean, surprised. Sean's stare is unwaver After an awkward moment, Lambeau goes, leaving Sean and W alone. Will doesn't look at Sean for more than a second. seems more interested in the room. There is a long silenc as Sean watches Will.
+43) 16) dialog: Hello, Will. I'm Sean Maguire.
+43) 17) text: A smile crosses Will's face as he walks to his chair and  sits. He lights a cigarette. Sean continues to watch him. Final
+43) 18) dialog: Where are you from in Southie?
+43) 20) dialog: Have you read all these books, Will?
+43) 22) dialog: (indicating a shelf) How about the ones on that shelf?
+43) 25) dialog: What did you think?
+43) 27) dialog: I did.
+43) 29) dialog: Yeah, it did take me a long time.
+43) 30) text: Sean says this with pride. His determined stare and confi manner catch Will a bit off guard. Will rises from his ch and goes to the shelf.
+43) 32) dialog: How about Noam Chomsky's  "Manufacturing Consent?"
+43) 34) dialog: You think so?
+43) 37) dialog: (indicating cigarette) Guy your age shouldn't smoke so much. Stunt your growth.
+43) 39) text: Sean does not seem at all affected by Will's attitude. He remains behind the big desk with almost half a smile on h face. Will is aware of Sean's confidence.
+43) 41) dialog: Yes, I do.
+43) 43) dialog: Free weights.
+43) 45) dialog: 285. 
+43) 47) text: Will gets up again and moves around his chair to Sean's  painting. It is a picture of an old sailboat in a tremend storm -- by no means a masterpiece. Will studies it.
+43) 49) dialog: Yeah. Do you paint?
+43) 51) dialog: Crayons?
+43) 53) dialog: Tell me what you really think.
+43) 55) dialog: What does?
+43) 57) dialog: What is?
+43) 59) dialog: Oh, "Starry Night" time, huh?
+43) 61) dialog: Sure, how 'bout "still waters run  deep"-
+43) 63) dialog: Maybe what mea--
+43) 65) dialog: Maybe you should be a patient and  sit down.
+43) 67) dialog: Watch your mouth.
+43) 69) text: Sean is walking slowly towards Will.
+43) 71) text: In a flash, Sean has Will by the throat. Will is helpless
+43) 72) dialog: If you ever disrespect my wife  again... I will end you.
+44) 0) text: Will walks out of Sean's office past Lambeau and Tom who sitting in the hallway.
+45) 0) text: Sean stands behind his desk in his office, still very muc on edge. Lambeau walks in.
+45) 2) text: A pause, Sean is staring at his painting.
+45) 4) dialog: Thursday, four o'clock. Make sure  the kid is here.
+47) 0) text: As we pan across Sean's small apartment, we find it strew with dirty clothes and the sink full of dishes. Although, it weren't for the clutter, the place would feel pretty b A framed SPORTS ILLUSTRATED cover featuring a screaming L Bird and entitled "CELTIC PRIDE" hangs on the wall. Sean  sits at the table next to another nearly empty bottle of  BUSHMILL'S IRISH WHISKEY. He is deep in thought.
+48) 0) text: Will strolls into the office. Sean is waiting there behin his desk. He seems different. More calm. Will and Sean st at each other for a long moment.
+48) 2) text: Sean stands up.
+48) 3) dialog: Come with me.
+49) 0) text: Sean and Will sit in the bleachers at the mostly empty pa They look out over a small pond, in which a group of  schoolchildren on a field trip ride the famous Swan Boats
+49) 2) dialog: I was thinking about what you said  to me the other day, about my  painting. I stayed up half the night  thinking about it and then something  occurred to me and I fell into a  deep peaceful sleep and haven't  thought about you since. You know  what occurred to me?
+49) 4) dialog: You're just a boy. You don't have  the faintest idea what you're talking  about.
+49) 6) dialog: You've never been out of Boston.
+49) 8) dialog: So if I asked you about art you could  give me the skinny on every art book  ever written... Michelangelo? You  know a lot about him I bet. Life's  work, criticisms, political  aspirations. But you couldn't tell  me what it smells like in the Sistine  Chapel. You've never stood there and  looked up at that beautiful ceiling.  And if I asked you about women I'm  sure you could give me a syllabus of  your personal favorites, and maybe  you've been laid a few times too. But you couldn't tell me how it feels  to wake up next to a woman and be  truly happy. If I asked you about  war you could refer me to a bevy of  fictional and non-fictional material,  but you've never been in one. You've  never held your best friend's head  in your lap and watched him draw his  last breath, looking to you for help.  And if I asked you about love I'd  get a sonnet, but you've never looked  at a woman and been truly vulnerable.  Known that someone could kill you  with a look. That someone could rescue  you from grief. That God had put an  angel on Earth just for you.  And  you wouldn't know how it felt to be  her angel. To have the love be there  for her forever. Through anything,  through cancer. You wouldn't know  about sleeping sitting up in a  hospital room for two months holding  her hand and not leaving because the  doctors could see in your eyes that  the term "visiting hours" didn't  apply to you. And you wouldn't know  about real loss, because that only  occurs when you lose something you  love more than yourself, and you've  never dared to love anything that  much. I look at you and I don't see  an intelligent confident man, I don't  see a peer, and I don't see my equal.  I see a boy. Nobody could possibly  understand you, right Will? Yet you  presume to know so much about me  because of a painting you saw.  You  must know everything about me.  You're  an orphan, right?
+49) 10) dialog: Do you think I would presume to know  the first thing about who you are  because I read "Oliver Twist?" And I  don't buy the argument that you don't  want to be here, because I think you  like all the attention you're getting.  Personally, I don't care. There's  nothing you can tell me that I can't  read somewhere else.  Unless we talk  about your life. But you won't do  that. Maybe you're afraid of what  you might say.
+49) 11) text: Sean stands,
+49) 12) dialog: It's up to you.
+53) 0) text: Will sits across from Sean completely silent and takes ou pack of cigarettes.
+53) 1) dialog: No smoking.
+53) 2) text: Will puts the cigarettes away. Sean stares at Will and  occasionally at the clock. Sean continues to check the cl on the wall. It is the only clock in the room and it is B Will. Their hour is almost up. CLOSE ON: WILL'S EYES INTERCUT WITH THE CLOCK. He is counting seconds. As the second hand crosses the tw Will stands up and walks out, leaving Sean alone.
+54) 0) text: Lambeau and Sean walk down the hallway after the session.
+54) 2) dialog: No, he just sat there and counted  the seconds until the session was  over. It was pretty impressive,  actually.
+54) 4) dialog: To show me he doesn't have to talk  to me if he doesn't want to.
+54) 6) dialog: I won't talk first.
+59) 0) text: Will and Sean sit in silence. A long moment passes. Sean  casually reclines in his chair, disinterested. Will restl looks around the room and then back to Sean. An odd half  smile crosses Sean's face. After a moment:
+59) 2) dialog: (smiles) You've never been on a plane.
+59) 6) text: Sean smiles.
+59) 7) dialog: Yeah? You got a lady now?
+59) 9) dialog: How'd it go?
+59) 11) dialog: Well, are you going out again?
+59) 13) dialog: Why not?
+59) 15) dialog: Jesus Christ, you are an amateur.
+59) 17) dialog: So Christ, call her up.
+59) 19) dialog: And right now you're perfect too.  Maybe you don't want to ruin that.
+59) 21) dialog: Well, I think that's a great  philosophy Will, that way you can go  through your entire life without  ever having to really know anybody.
+59) 22) text: Sean looks directly at Will, who looks away. A beat.
+59) 23) dialog: My wife used to turn the alarm clock  off in her sleep. I was late for  work all the time because in the  middle of the night she'd roll over  and turn the damn thing off.  Eventually I got a second clock and  put it under my side of the bed, but  it got to where she was gettin' to  that one too. She was afraid of the  dark, so the closet light was on all  night. Thing kept me up half the  night.  Eventually I'd fall asleep,  out of sheer exhaustion and not wake  up when I was supposed to cause she'd  have already gotten to my alarms.
+59) 24) text: Will smiles, Sean takes a beat.
+59) 25) dialog: My wife's been dead two years, Will.  And when I think about her, those  are the things I think about most.  Little idiosyncrasies that only I  knew about.  Those made her my wife.  And she had the goods on me too.  Little things I do out of habit.  People call these things imperfections  Will. It's just who we are. And we  get to choose who we're going to let  into out weird little worlds. You're  not perfect. And let me save you the  suspense, this girl you met isn't  either. The question is, whether or  not you're perfect for each other.   You can know everything in the world,  but the only way you're findin' that  one out is by giving it a shot. You  sure won't get the answer from an  old fucker like me. And even if I  did know, I wouldn't tell you.
+59) 28) text: Sean laughs.
+59) 29) dialog: I teach this shit, I didn't say I  knew how to do it.
+59) 31) dialog: My wife's dead.
+59) 33) dialog: My wife's dead.
+59) 35) text: A beat. Sean smiles.
+59) 36) dialog: Time's up.
+65) 0) text: Sean and Will in session.
+65) 1) dialog: Really? How'd the date go?
+65) 3) dialog: No, I don't.
+65) 5) dialog: I gave that up when my wife got sick.
+65) 7) dialog: (smiles) I didn't write anything else 'cause  nobody, including most of my  colleagues bothered to read the first  one.
+65) 9) dialog: Yeah.
+65) 11) dialog: Lon? He got married. He has a kid. I  kind of lost touch with him after  Nancy got sick.
+65) 13) dialog: What? Do I wonder if I'd be better  off if I never met my wife?
+65) 15) dialog: No, that's okay. It's an important  question. 'Cause you'll have your  bad times, which wake you up to the  good stuff you weren't paying  attention to.  And you can fail, as  long as you're trying hard. But  there's nothing worse than regret.
+65) 17) dialog: Why? Because of the pain I feel now?  I have regrets Will, but I don't  regret a singel day I spent with  her.
+65) 19) dialog: October 21, 1975. Game six of the  World Series. Biggest game in Red  Sox history, Me and my friends slept  out on the sidewalk all night to get  tickets. We were sitting in a bar  waiting for the game to start and in  walks this girl.  What a game that  was. Tie game in the bottom of the  tenth inning, in steps Carlton Fisk,  hit a long fly ball down the left  field line. Thirty-five thousand  fans on their feet, screamin' at the  ball to stay fair. Fisk is runnin'  up the baseline, wavin' at the ball  like a madman. It hits the foul pole,  home run. Thirty-five thousand people  went crazy. And I wasn't one of them.
+65) 21) dialog: I was havin' a drink with my future  wife.
+65) 23) dialog: That's right.
+65) 25) dialog: You should have seen this girl. She  lit up the room.
+65) 27) text: Sean smiles.
+65) 29) dialog: I just slid my ticket across the  table and said "sorry fellas, I gotta  go see about a girl."
+65) 31) dialog: They could see that I meant it.
+65) 33) dialog: No Will, I'm not kiddin' you. If I  had gone to see that game I'd be in  here talkin' abouta girl I saw at a  bar twenty years ago. And how I always  regretted not goin' over there and  talkin' to her. I don't regret the  eighteen years we were married. I  don't regret givin' up counseling  for six years when she got sick. I  don't regret being by her side for  the last two years when things got  real bad. And I sure as Hell don't  regret missing that damn game.
+65) 36) dialog: (breaking) Well hell, I didn't know Pudge was  gonna hit the home run.
+68) 0) text: Timmy's Tap is a local watering hole, not unlike the L St Bar. Sean is at the bar, telling a joke to TIMMY (45) the owner of the place, and several other REGULARS.
+68) 1) dialog: So she goes runnin' up the aisle and  I figure "fuck it" and I yell out  "don't forget the coffee!
+68) 4) text: Timmy and Sean exchange a look.
+68) 7) dialog: Gerry! Any trouble finding the place?
+68) 9) dialog: Timmy this is Gerry, an old friend  of mine. We went to college together.
+68) 12) dialog: Could we get a couple of sandwiches? (beat, smiles) Put it on my tab.
+68) 13) text: Sean heads towards a table.
+68) 15) dialog: (pulls out lottery  ticket) I got the winning numbers right here.
+68) 17) dialog: Twelve million.
+68) 19) text: Lambeau follows [Sean]. They sit.
+68) 21) dialog: I live right around the corner.
+68) 23) dialog: I been here a couple years.
+68) 25) dialog: You wanted to talk about Will?
+68) 27) dialog: I think so.
+68) 29) dialog: We haven't really gotten into it.
+68) 31) dialog: Jobs doing what?
+68) 33) dialog: That's great, Gerry, that there's  interest -- But I'm not sure he's  ready for that.
+68) 35) dialog: What don't I understand?
+68) 37) dialog: Thanks, Timmy.
+68) 51) dialog: Isn't that a little dramatic, Gerry?
+68) 54) dialog: He married his cousin.
+68) 56) dialog: Einstein. Had two marriages, both  trainwrecks.  The guy never saw his  kids, one of whom, I think, ended up  in an asylum- possible Unabomber  addition--
+68) 58) dialog: I do.
+68) 62) dialog: Just... take it easy, Gerry.
+68) 64) dialog: Maybe he doesn't care about that.
+68) 67) dialog: Now wait a minute, Gerry--
+68) 69) dialog: Personal rivalry? I'm not getting  back at you.
+68) 71) dialog: Is it Gerry? 'Cause I don't think  it's fine with you. Give him time to  figure out what he wants.
+82) 0) text: Will picks up a FRAME from Sean's desk. It is CARLTON FIS BASEBALL CARD. Will has to smile. Lambeau looks up.
+85) 0) text: Will sits across from Sean.
+85) 1) dialog: So you might be working for Uncle  Sam.
+85) 3) dialog: Gerry says the meeting went well.
+85) 5) dialog: What did you think?
+85) 11) dialog: Do you think you're alone?
+85) 13) dialog: Do you have a soul-mate?
+85) 15) dialog: Someone who challenges you in every  way.  Who takes you places, opens  things up for you. A soul-mate.
+85) 17) text: Sean waits.
+85) 19) dialog: They're all dead.
+85) 21) dialog: But you can't give back to them,  Will.
+85) 23) dialog: That's what I'm saying, Will. You'll  never have that kind of relationship  in a world where you're afraid to  take the first step because all you're  seeing are the negative things that  might happen ten miles down the road.
+85) 25) dialog: Don't give me your line of shit.
+85) 27) dialog: It's not about that job. I'm not  saying you should work for the  government. But, you could do anything  you want. And there are people who  work their whole lives layin' brick  so their kids have a chance at the  kind of opportunity you have. What  do you want to do?
+85) 29) dialog: Nobody gets what they ask for, Will. That's a cop-out.
+85) 31) dialog: You're right, Will. Any man who takes  a forty minute train ride so those  college kids can come in in the  morning and their floors will be  clean and their trash cans will be  empty is an honorable man.
+85) 33) dialog: And when they get drunk and puke in  the sink, they don't have to see it  the next morning because of you.  That's real work, Will. And there is  honor in that.  Which I'm sure is  why you took the job.
+85) 35) dialog: I just want to know why you decided  to sneak around at night, writing on  chalkboards and lying about it. (beat) 'Cause there's no honor in that.
+85) 37) dialog: Something you want to say?
+85) 38) text: Sean gets up, goes to the door and opens it.
+85) 39) dialog: Why don't you come back when you  have an answer for me.
+85) 41) dialog: If you won't answer my questions,  you're wasting my time.
+85) 45) text: Sean has finally gotten to Will.
+85) 47) text: Sean lets this play out. Possible "shepard" change.
+85) 49) dialog: I been there. I played my hand.
+85) 51) dialog: Look at me. What do you want to do?
+85) 53) dialog: You and your bullshit. You got an  answer for everybody. But I asked  you a straight question and you can't  give me a straight answer. Because  you don't know.
+85) 54) text: Sean goes to the door and opens it. Will walks out.
+90) 0) text: Lambeau stands across from Sean, seething.
+90) 2) dialog: Now wait a minute--
+90) 4) dialog: --Gerry--
+90) 6) dialog: Hold on!
+90) 8) dialog: I know what I'm doing and I know why  I'm here!
+90) 10) dialog: "Undermine?"
+90) 12) dialog: He is at a fragile point. He's got  problems--
+90) 14) dialog: Why do you think he does that, Gerry?
+90) 16) dialog: Why is he hiding? Why is he a janitor? Why doesn't he trust anybody? Because  the first thing that happened to him  was that he was abandoned by the  people who were supposed to love him  the most!
+90) 18) dialog: And why does he hang out with his  friends? Because any one of those  kids would come in here and take a  bat to your head if he asked them  to. It's called loyalty!
+90) 20) dialog: And who do you think he's handling?   He pushes people away before they  have a chance to leave him. And for  20 years he's been alone because of  that. And if you try to push him  into this, it's going to be the same  thing all over again. And I'm not  going to let that happen to him!
+90) 22) dialog: --I'm not angry at you--
+90) 24) dialog: --I don't have any anger at you--
+90) 26) dialog: That's it. That's why I don't come  to the goddamn reunions!  Because I  can't stand the look in your eye  when you see me! You think I'm a  failure! I know who I am. I'm proud  of who I am. And all of you, you  think I'm some kind of pity case!  You with your sycophant students  following you around. And your Goddamn  Medal!
+90) 28) dialog: I don't want your trophy and I don't  give a shit about it! 'Cause I knew  you when!! You and Jack and Tom  Sanders. I knew you when you were  homesick and pimply-faced and didn't  know what side of the bed to piss  on!
+90) 30) dialog: I don't blame you! It's not about  that!  It's about the boy! 'Cause  he's a good kid! And I won't see  this happen to him- won't see you  make him feel like a failure too!
+90) 32) dialog: If you push him into something, if  you ride him--
+90) 34) dialog: He's not you!
+90) 35) text: A beat. Lambeau turns, something catches his eye. Sean tu to look, IT'S WILL. He is standing in the doorway.
+90) 40) dialog: Look, a lot of that stuff goes back  a long way. And it's between me and  him and it has nothing to do with  you.
+90) 42) text: Sean smiles. A beat. Will sees a FILE on Sean's desk.
+90) 44) dialog: Oh, this is your file. I have to  send it back to the Judge with my  evaluation.
+90) 46) text: Sean smiles.
+90) 48) dialog: You want to read it?
+90) 50) dialog: Twenty years of counseling you see a  lot of--
+90) 52) dialog: Yes.
+92) 1) dialog: (after a pause) My dad used to make us walk down to  the park and collect the sticks he  was going to beat us with. Actually  the worst of the beatings were between  me and my brother. We would practice  on each other trying to find sticks  that would break.
+94) 1) dialog: Gotta go with the belt there...
+94) 3) dialog: The wrench, why?
+94) 7) dialog: I didn't know you had. Do you want  to talk about that? (beat) I don't know a lot, Will. But let me  tell you one thing. All this history,  this shit... (indicates file) Look here, son.
+94) 8) text: Will, who had been looking away, loos at Sean.
+94) 9) dialog: This is not your fault.
+94) 11) dialog: It's not your fault.
+94) 13) dialog: It's not your fault.
+94) 15) dialog: It's not your fault.
+94) 17) dialog: It's not your fault.
+94) 19) dialog: (comes around desk,  sits in front of  Will) It's not your fault.
+94) 21) dialog: It's not...
+94) 23) text: Sean takes Will in his arms and holds him like a child. W sobs like a baby. After a moment, he wraps his arms aroun Sean and holds him, even tighter. We pull back from this  image. Two lonely souls being father and son together.
+102) 0) text: Will sits across from Sean.
+102) 1) dialog: Which one did you take, Will?
+102) 3) dialog: That's what you want?
+102) 5) dialog: Good for you. Congratulations.
+102) 7) dialog: We're done. You did your time. You're  a free man.
+102) 10) dialog: You're Welcome, Will.
+102) 12) dialog: I'm gonna travel a little bit, so I  don't know where I'll be.
+102) 14) dialog: I just... figured it's time I put my  money back on the table, see what  kind of cards I get.
+102) 15) text: Will smiles. Sean hands him a piece of paper.
+102) 16) dialog: I'll be checking in with my machine  at the college. If you ever need  anything, just call.
+102) 17) text: Sean smiles.
+102) 18) dialog: Do what's in your heart, son. You'll  be fine.
+102) 21) dialog: No. Thank you.
+102) 23) dialog: Only if you grab my ass.
+102) 26) dialog: Good luck.
+103) 0) text: Will comes out of Sean's office and sees Lambeau walking
+104) 0) text: Sean is packing his office. Lambeau opens the door.
+104) 2) dialog: Come in.
+104) 4) dialog: (a beat) Me too.
+104) 7) dialog: Yeah. Summer vacation. Thought I'd  travel some. Maybe write a little  bit.
+104) 9) dialog: I don't know. India maybe.
+104) 11) dialog: Never been.
+104) 14) dialog: (picks up a flyer  from his desk) I got this mailer the other day.  Class of Sixty-five is having this  event in six months.
+104) 16) dialog: You should come. I'll buy you a drink.
+104) 21) text: Sean smiles.
+104) 22) dialog: Hell, I know that.
+104) 25) dialog: Sounds good.
+104) 27) dialog: It's on you though, until eight  o'clock tonight when I win my money.
+104) 28) text: Sean pulls out his lottery ticket. They start out down th hall.
+105) 2) dialog: I don't know... Gotta be at least  four to one.
+105) 4) dialog: You're pretty quick with those  numbers.  How about the odds of me  buying the first round?
+107) 0) text: Begin final sequence. A wide, establishing shot of Sean's apartment complex as sun is setting. The lights are on in one unit. A tighter  shot reveals Sean, in his apartment, packing his belongin in cardboard boxes.
+108) 0) text: The camera cranes down from Sean's window and onto the st where we pan to reveal Will, sitting in his car and looki up at Sean as he packs his things. Will's car is packed f of clothes and books.
+110) 0) text: Will holds an envelope which he slips in Sean's mailbox. puts the flag up and smiles as he looks up at Sean in his apartment who is still unaware that Will is there.
+112) 0) text: Will drives away from Sean's house. Sean hears the car pu out and looks out the window. Sean sees Will's car pullin away. Curious, he investigates.
+114) 0) text: Sean walks out to the sidewalk and looks around. Seeing t mailbox flag has been raised, he walks over to it.
+116) 0) text: Sean opens the card Will left for him. It reads:
+118) 0) text: We pan up from the letter to Sean. A broad smile comes ov him. This is a look we haven't seen. Sean is truly happy.

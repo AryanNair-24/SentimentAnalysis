@@ -1,0 +1,75 @@
+0) 13) text: Ulrich, startled from his trance, slaps the water out of basin and turns to confront his student. Galen is taken a by the old man's grim countenance.
+0) 15) dialog: I've just seen something. Something  of consequence to you.
+0) 17) dialog: (calm) Yes. My own death.
+0) 19) dialog: Perhaps we had better hasten your  training.
+0) 23) dialog: (stern and troubled) This wood, these leaves, the birds,  the very dome of heaven, once they  all rang with one great chord: and  philosophers like me kept it all in  tune. Now, new voices are singing  new songs. (sharply) Have you mastered the threefold  transmutation?
+0) 25) dialog: (skeptical) You have?
+0) 27) dialog: It's very difficult. Have you  committed to memory undying the Codex  de Profundis?
+0) 29) dialog: It's long. And what about the Ritual  of Banishment as prescribed by my  late master Balisarius?
+0) 31) dialog: The point? The point is you don't  know it, and you're no magician  without it. It was my hope to school  you, to mold your faculties and  wits... I still believe you have  some talent. Somewhere.
+0) 33) dialog: There's no time now. When I'm gone,  half the powers in the universe will  vanish with me. And what's the use  of a few lingering skills if they're  left in the hands of a child? (pause) Listen!
+0) 35) text: Ulrich gauges the young man standing before him and makes decision. Reaching under his cloak he lifts off a fine si chain with an amulet dangling from it. He drapes it aroun Galen's neck.
+0) 36) dialog: Here, wear this.
+0) 39) text: He hastens forward to a promontory, eager to have a look. Ulrich does not follow. Instead, doffing his cloak, he wh it before him, where it magically floats a few feet off t ground. Awkwardly, the old man clambers aboard.
+0) 44) dialog: (a shout) We have visitors!
+0) 48) dialog: Looks forbidding enough, don't you  think?
+0) 50) dialog: No -- they'll think me infirm. You  know, Balisarius wore this whenever  he changed lead into gold. He could  really do that, you know. I never  could. Too bad -- you'd stand to  inherit some real wealth.
+0) 52) dialog: (tying on a sash) You still wearing that amulet? (Galen nods) Good. Don't lose it. It still belongs  to me.
+0) 54) dialog: Now, adeptus minor, get yourself a  handful of that sulphurous ash over  there...
+0) 57) dialog: Nunc habeus lux!
+0) 59) dialog: Et calor!
+0) 61) dialog: Welcome to Cragganmore. I am Ulrich.  Which one of you calls himself  Valerian?
+0) 64) dialog: I know why you're here. You're a  delegation from Urland, from beyond  Dalvatia. Let's see the artifacts.
+0) 65) text: The travelers exchange nervous glances. Valerian motions one of his companions. The man steps forward and hands ov a leather pouch. One by one, Valerian places the contents the table for Ulrich's inspection.
+0) 67) text: At this, Ulrich advances and closely examines three shimm irridescent disks as big as saucers.
+0) 68) dialog: All right. How did you come by these?
+0) 70) dialog: (grim) What else?
+0) 73) dialog: That's no claw. It's a tooth. By the  gods!
+0) 75) dialog: And you want me to do battle with  that?
+0) 78) dialog: Did you try the Meredydd sisters?  What about Rinbod? I've heard it  said he killed a dragon once.
+0) 80) text: With a sigh, Ulrich lowers himself into a chair. He rubs withered legs and shakes his head.
+0) 81) dialog: It's a long way to Urland.
+0) 86) dialog: All women?
+0) 90) dialog: Silence!
+0) 93) dialog: No. Sorcerers and dragons go back a  long long time together. If it weren't  for sorcerers, there wouldn't be any  dragons. (pause) All right. I'll go.
+0) 96) dialog: I know of this dragon. Vermithrax  Pejorative: she's four hundred years  old. As far as I can tell she's the  last of her kind. Very appropriate  that I'm the one to finish her off,  don't you think? (he tries out the  crutches) There. Flatten the highest mountain.  What say you, Galen? (no answer) Speak up. (still no answer) You, Hodge.
+0) 98) dialog: (to Galen) While I'm gone see you keep your  nose in your books and your hands  out of my reagents. Leave my  instruments alone too.
+0) 101) dialog: I'm not worried about the road.
+0) 103) dialog: Don't mock me.
+0) 110) dialog: You're not ready.
+0) 112) dialog: (wan smile) Don't be so hasty. Your time will  come.
+0) 120) text: Sensing trouble, Galen moves forward. Ulrich touches his  arm.
+0) 121) dialog: (under his breath) Say nothing.
+0) 134) text: When Ulrich finally speaks, his voice is low and  authoritative.
+0) 135) dialog: (to Galen) Go to the conjuring room. The iron  box. Fetch me the dagger within.
+0) 137) dialog: The dagger. Be quick.
+0) 138) text: Galen dashes into the castle. Ulrich gazes almost shyly a Tyrian.
+0) 139) dialog: You shall have your test.
+0) 144) dialog: The very one. Let it fall.
+0) 147) dialog: Vita regula, vita hieratica!
+0) 149) dialog: Go on. Don't worry, you can't hurt  me.
+0) 823) text: Galen comes up with what he's looking for -- the leather  sack. When he replies, it is not to her, but to Ulrich:
+0) 874) dialog: (looks at him) Not so loud. I'm not deaf, you know.
+0) 876) dialog: Sic redit magus ex terra mortis.
+0) 879) dialog: Glad to see you, too. You didn't  bring along anything to eat, by any  chance?
+0) 881) dialog: No? Oh well, no time anyway.
+0) 883) dialog: Come along. There's much to be done.
+0) 885) dialog: It can wait.
+0) 887) text: He hangs his head. Ulrich regards him steadily.
+0) 888) dialog: Well said. Now hurry.
+0) 892) dialog: There is the sorcerer, leaning on Galen, coolly regarding the creature. The old man's expression hardens.
+0) 893) dialog: Draco draconis...
+0) 898) dialog: Where's my amulet? Give it to me,  please.
+0) 900) dialog: Be quick!
+0) 901) text: Galen hands his treasure over. Ulrich closes his hand aro it.
+0) 902) dialog: Come close to me.
+0) 905) dialog: Don't be afraid. You have served me  with great courage. Now you must  show me you have even more.
+0) 908) dialog: You must destroy the amulet, and me  along with it.
+0) 910) dialog: You brought me from the flames, you  must send me back.
+0) 912) dialog: When the time comes, you'll  understand. Here.
+0) 915) dialog: I know what you're thinking. You  have learned much and done well.  Don't worry, you won't need it any  more.
+0) 924) dialog: Nimbus! Tempestas! Fulmen!
+0) 925) text: From over the horizon roiling inky-black clouds churn dow upon them. Thunder booms and echoes. A bitter wind whips  their clothing. As the storm gathers fury, the dragon  reappears, circling in the distance. Finally it homes in the mountain crag and dives at Ulrich. The conjurer makes gesture and strokes of lightning explode against the beas scaly flanks. It emits a high thin scream and rockets pas GALEN &amp; VALERIAN Valerian crawls away and comes back with a hefty chunk of granite.
+0) 928) dialog: He resolutely waits as the dragon banks against the cloud and starts another pass. Again, the sorcerer summons ligh bolts. But the dragon keeps coming; this time a talon spl the old man's cape. GALEN &amp; VALERIAN Valerian wrestles the amulet away from Galen. It falls to the ground.
+0) 933) dialog: Galen!
+0) 934) text: Galen and Valerian are horrified to see the dragon circli upward with the sorcerer writhing in agony in its grip. A the monstrous thing flies high over them, they can hear  Ulrich's faint screams.

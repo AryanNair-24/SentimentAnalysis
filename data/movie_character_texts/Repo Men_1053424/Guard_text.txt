@@ -1,0 +1,9 @@
+8) 0) text: A long line of customers waits outside this storefront, t words CREDIT UNION #418 emblazoned atop the double doors. That circle-and-arrow logo sparkles in brightly lit neon. HARRY THE HEART, Larry’s cardiac counterpart, jumps rope with his own aorta. CHILDREN laugh at the mascot’s antics Down the line, most customers use crutches, walkers. Some have portable IV bags. A few are wheeled along on hospita gurneys. Everyone waits his turn... Except for Remy. He strolls past the line and gives a nod to the GUARDS manning a metal detector. Remy walks throug Setting off a SCREECHING ALARM. No one seems to care.
+79) 0) text: Remy sneaks by a sleeping GUARD, then turns --
+111) 4) text: But the guards and alarm aren’t for him. They're . surrounding a FREAKED-OUT MAN in a white shirt, his voice high, crazed.
+111) 6) dialog: (into radio) We've got an eight month past due pancreas out here. The man unbuttons his shirt.
+111) 8) dialog: Sir, just calm down and you can come inside, talk to a credit supervisor. But the guy’s too far gone to talk anything out.
+111) 15) dialog: The customer, sir. He did it himself.
+111) 17) dialog: Yes, sir. This one did, sir. Frank stands in the doorway, looking at the bloody mess. Shaking his head. Disgusted.
+143) 0) text: Jake and Remy run for the stairs -- To find two guards already running up. They turn back to the other exit -- To find three more guards coming their way, guns drawn. Jake and Remy go back-to-back. This is it --
+143) 8) text: Remy looks to find Beth at the exit. It’s all clear. He runs down the stairs to her, turns -- To see Jake, still on the second floor, fighting off thre more guards.

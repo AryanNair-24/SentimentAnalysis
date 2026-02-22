@@ -1,0 +1,223 @@
+2) 14) dialog: Sir.
+2) 16) dialog: Yes sir. Beat.
+2) 19) dialog: Yes, Captain. Everything's fine.   Here. (standing up)
+3) 2) dialog: We're moving out. Beat.   He shuts the door again.
+4) 0) text: Raymond waits. Another beat.     Then some LAUGHTER from inside the vehicle. He shifts his shoulders, walks back into the darkness.
+5) 0) text: Marco, bug-like in night goggles, drives the infamous Highway of Death -- a macabre landscape of abandoned cars trucks, minivans, shopping baskets, broken wooden pushcar and festering fires; pots and pans and clothes and person belongings are scattered out into the desert on either si of the road. Laurent rides shotgun. Raymond is in the back, facing forward, rifle at ease.
+5) 1) dialog: Captain?
+5) 3) dialog: Why don't I ever ride in the Bradley with the other enlisted personnel?
+5) 7) dialog: Sir, I don't want to be singled out for special treatment because of my mother's position --
+5) 9) dialog: (worried)
+5) 13) dialog: That's absolutely correct, Captain.
+11) 0) text: The Hummer weaves through the wreckage, one of its tires WHIRLING IN FLAMES -- Raymond has the machine gun SPITTIN BULLETS recklessly at the helicopters like a cartoon hero
+14) 8) text: Yeah. Kuwait. You and me. Mavole, and Baker. Raymond Shaw. (beat) See, I remember it happened the way you just said. And then I don't. MARCO
+20) 0) text: The same speech continues, largely ignored by Congressman RAYMOND PRENTISS SHAW. Still intense and moody, the new
+20) 2) dialog: (murmurs)
+20) 5) dialog: ... I am ... a professional politician. Not. KNOCKING on his door -- it opens, and Secret Service AGEN EVAN ANDERSON removes his key while SEN. ELEANOR SHAW, pretty and ageless, sweeps in -- closing the door on her aide (GILLESPIE) --
+20) 8) dialog: No.
+20) 12) text: (the tie) Something a little less busy. RAYMOND
+20) 14) text: Oh. You're not interested? I thought you were. Did I miss my cue? RAYMOND
+20) 15) text: Of course I'm interested -- I wouldn't be here if I wasn't -- but not if it means attacking the reputation of a statesman like Thomas Jordan, which I'm sure was your plan. Let democracy run its course, mother. Let the people decide. Now Ellie stares at him, mouth agape. RAYMOND
+20) 17) text: I'm sorry, for a second there I thought it was your father speaking -- that dreaded Shaw blood rising -- and the stink of defeat made me nauseous. RAYMOND
+20) 19) text: And excuse me, when have I ever attacked the honorable Mr. Jordan, despite the shameful way his daughter misled you that summer at the shore. RAYMOND
+20) 21) text: If that's how you want to remember it. RAYMOND
+20) 27) dialog: I'm wearing the one I have on. No response.
+21) 0) text: Marco, on the sofa, stares hard at the televised Raymond Shaw, as: TV45                       RAYMOND/T.V. ... and some of you no doubt remember my father ... the late Senator John Shaw. (he seems to want to say more, but doesn't)
+22) 0) text: Ellie in the f.g., intently watching a monitor while, in deep b.g., slightly out of focus, we can SEE Raymond speaking, and his convention audience beyond ...
+23) 0) text: Raymond's speech plays, low, on a television, and half a dozen DELEGATES and POWER PLAYERS with "Arthur For President" buttons grimly watch Ellie breeze in. Party Chairman VAUGHN UTLY anticipates her:
+23) 9) text: Governor Arthur has agreed to consider Raymond for a cabinet post. A cold silence.   Ellie stands --
+25) 4) text: -- like a long shot catching the favorite on the back stretch of the Derby ... TV50B A STACCATO FLURRY OF IMAGES -- Raymond and his moth clips, still photos -- appear behind a MAJOR MEDIA ICON:
+25) 44) text: Sgt. Shaw. Ever killed anyone? IMPRESSIONS of RAYMOND -- hyper-alert -- frighteningly engaged, and agreeable.
+25) 45) dialog: No ma'am.
+25) 47) dialog: No ma'am.
+25) 50) dialog: Captain.
+26) 2) text: ... Wisconsin makes it official. Raymond Shaw is the vice-presidential nominee ...
+29) 16) text: Yes. (almost angry) Glad for him. He deserves it. Raymond Shaw is probably the kindest, bravest, warmest --
+30) 17) text: (arriving:) Raymond -- (to the couples) -- sorry to interrupt -- But she's not.   Slipping her arm through his and steerin him away... ELLIE
+30) 18) text: You must learn not to let yourself get cornered by the bottom-feeders. RAYMOND
+30) 23) text: Eleanor! Congratulations, Raymond. Your grandad would be so goddamn proud of you. RAYMOND
+30) 25) text: -- Raymond, this is J.B. Johnston, from Manchurian Global -- RAYMOND
+30) 27) text: -- and David Donovan, their Managing Director. RAYMOND
+30) 30) text: Go away, mother. You've earned your fee. Raymond flashes a dazzling Kennedyesque smile, as the men chuckle appreciatively. ELLIE
+30) 34) text: Good, Raymond. Business is good. JOHNSTON
+30) 35) text: Could always be better. RAYMOND
+30) 42) text: (low) If you can't behave yourselves, Generals, we're gonna spend the rest of the day watching the Orioles game back at the hotel. Whereupon Raymond parades past, with his Secret Service handlers, oblivious to Ben until he calls out. MARCO
+30) 43) text: Congressman -- Sergeant Shaw -- Raymond turning, but not stopping --
+30) 46) dialog: I know. (strange, dreamy)
+31) 0) text: has found Raymond with Jocie -- outside -- but hangs back overhearing Raymond's earnest and intense conversation wi Jocie, who is slightly uncomfortable with this but trying make light of it --
+31) 2) dialog: I've changed too.
+31) 4) dialog: -- But my feelings haven't.   Changed, I mean ... Jocie starts to say something, is at a loss for words --
+31) 5) dialog: ... I guess I've never stopped -- feeling -- wondering -- how it might have turned out, you know, between us, if --
+31) 7) text: Raymond -- people can't rewrite their lives --
+31) 8) dialog: Jocie, I haven't even been with another girl since we ... stopped seeing each other -- doesn't that say something to you?
+31) 12) text: Sergeant Raymond Shaw -- Raymond turns -- RAYMOND
+31) 14) text: I want to talk to you too. RAYMOND
+31) 17) text: I saw Al Melvin the other day -- remember Corporal Melvin? Raymond yanks his arm away -- RAYMOND
+31) 19) text: Okay -- sorry -- but -- Melvin, he's extremely disturbed about what happened to us, on the recon patrol, back in Kuwait -- RAYMOND
+31) 21) text: Sorry. Raymond's secret service agent, ANDERSON slips himself between him, smiling politely, easing Marco away: ANDERSON
+32) 18) text: (ignores) -- No, no, I'm sorry -- you're saying an entire squad of U.S. Army soldiers was hypnotized into believing that Raymond Shaw deserved the Medal of Honor. And somehow you're the only one who knows the truth. Silence.   Marco looks down at his hands.
+33) 0) text: FAVOR Raymond, at a podium, his VICE PRESIDENTIAL OPPONEN slightly out of focus at his identical podium in the near b.g., mid-rebuttal:
+35) 1) dialog: There are gaps in this country. Ugly chasms that we need to bridge ... THE SIDE OF A BUS with a HUGE SKIN of Gov. Arthur and Raymond Shaw and the ARTHUR/SHAW "SECURE TOMORROW" campai icon -- it SLIDES away, revealing: MARCO -- crosses the street, walks along a row of dilapidated apartments --
+35) 2) dialog: ... the gap between rich and poor, between government and people -- -- the area is desolate, depopulated, an economic wastela Under a crumbling awning and into
+36) 3) dialog: ... between what is real and what is not.
+38) 0) text: Raymond comes down the brightly-lit, elegant hallway, tir trailing Anderson and his SECRET SERVICE entourage.
+38) 1) dialog: ... The enemy is among us. The wolf is at the door ... the fox is in the henhouse ... the weasel is ... the weasel is ... They take his room keycard from him, open the door --
+39) 0) text: Anderson and another AGENT move through the suite, securi it -- Raymond losing steam:
+39) 1) dialog: The weasel is a weasel.    Frog and Toad Are Friends. -- returning to the door and handing Raymond his keycard. The PHONE BEGINS TO RING --
+39) 3) dialog: I know.   Good night. He closes the door after them. Breathes out.    Glances a his watch. Then crosses to answer the phone:
+39) 5) dialog: You have thirty seconds, Mother.
+39) 8) dialog: You have no idea.
+39) 11) dialog: I happen to believe in it.
+39) 13) dialog: Goodnight, Mother.
+41) 0) text: Raymond stares --
+41) 3) dialog: punches the line, lifts the receiver -- RAYMOND
+41) 5) text: (British accent) Sergeant Shaw? RAYMOND
+41) 6) text: (irritably) Who is this? CLOSE on RAYMOND'S EAR -- VOICE ON THE PHONE
+41) 7) text: Sergeant Raymond Shaw? Beat. Raymond's puzzled. Cocks his head, eyes searching the corners of the room. SOUND: a distant desert wind, building. Then: RAYMOND
+41) 8) text: Yes ...? CLOSE on RAYMOND'S EYE -- VOICE ON THE PHONE
+41) 9) text: Raymond Prentiss Shaw? -- Raymond's senses appear to QUICKEN NOW, as the LIGHTIN in the room changes, morphing somehow -- even as SOUNDS o steady percussion, and the zaghareet -- the wailing cry o the Arab women -- rise out of the wind -- RAYMOND
+42) 0) text: Double sinks, walk-in shower, and a huge closet which Raymond opens to reveal --
+43) 0) text: -- where Raymond is met by TECHNICIANS in sterile gear, surgical gloves. He's entered some kind of portable, surreal operating theater, filled with monitoring device and computers ... one-way video-conference camera is aimed at a big examination chair in one corner, surrounded by I.V. racks and more techno-medical equipment. The man who is obviously in charge here, starts a digital timer and turns to face Raymond. It's NOYLE.
+43) 2) dialog: No sir.
+45) 0) text: Raymond sits in a chair, rigged up with wires and tubes (much like he was ten years ago) -- a TRANSLUCENT BOX aro his face overlaid with a METRIC GRID, his head held motionless by a semi-circular BRACE, curved calibration offering precise positioning for a MICRO-DRILL that Noyle moves into place -- and then a long, tiny drill bit WHIRS DOWN through STERILE LATEX stretched very tight across Raymond's head -- -- and plunges precisely and effortlessly through Raymond skull, then STOPS -- he has no reaction, feels nothing -- LCD screens -- show a VIRTUAL MAP OF RAYMOND'S BRAIN, in full range of primary colors -- sections morphing as thoughts and memories race through his mind, as MINISCULE, INTERWOVEN WIRES -- are threaded down through HOLLOW core of the surgical drill, deep into Raymond's brain. Noyle plays to one of the cameras:
+45) 3) text: Raymond can you remember the deaths of Mavole and Baker?
+45) 4) dialog: Yes. The LCD SCREENS show activity in areas of Raymond's brain
+47) 7) dialog: (fades up:)
+48) 1) dialog: ... An incoming mortar shell kills both of them instantly, before I am able to --
+49) 0) text: flips compulsively ahead through the notebook, lit by the harsh beam of the penlight. Endless, repetitive writing. FEVERISHLY RENDERED IMPRESSIONS of the dreamscape, medica apparatus, choppers, guns -- MORE and MORE images of Raym Shaw -- of Raymond strangling Mavole -- -- and A DRAWING OF A MAN WHO MIGHT BE MARCO, unfinished, uncertain except for the eyes -- Marco with a GUN in his hand --
+65) 0) text: Same. Raymond, his handlers, his Secret Service escort wa a gauntlet of news cameras, REPORTERS lob questions from behind a barrier:
+65) 2) dialog: We can't clean up the world with dirty hands.
+65) 3) text: as he keeps pace with Raymond, walking, moving behind the reporters, weaving through the crowd.
+65) 5) dialog: Guys, I gave up a long time ago trying to second guess my mother. I'm just surprised the rest of you haven't.
+65) 7) dialog: I can never remember my dreams. MORE QUESTIONS lobbed out, overlapping, but Raymond ignor them. Marco pushes through as Raymond assures Anderson:
+65) 8) dialog: -- it's okay. I know him, it's okay.
+66) 0) text: Raymond and Marco in the back seat facing forward. Anders and campaign handler MIRELLA FREEMAN sit facing them, talking low, on a cell phone, as:
+66) 1) dialog: I saw Mavole's Mom and Dad in St. Louis. I still visit them -- and Baker's mom -- when I can. Do you keep up with anybody from the unit besides Al Melvin?
+66) 3) dialog: Why did you ask me about Kuwait?
+66) 8) dialog: No. (to Marco)
+66) 12) dialog: He wants to talk about my mother.     No. He looks at Marco --
+66) 14) dialog: Well, we've got about five minutes, right now. And this is as private as it gets for me anymore, so ... Beat.   He waits.   Anderson staring at Marco.
+66) 17) dialog: Including you?
+66) 19) dialog: That's easy. (almost automatic)
+67) 0) text: Through the windows SEE a crowded clutter of desks, phone volunteers, stacks of pamphlets. A giant SECURE TOMORROW logo looms above, flanked by beaming likenesses of Robert Arthur and Raymond Shaw. Anderson comes out and opens the limo door for Raymond. Marco struggles out behind him:
+67) 1) dialog: Am I in your dreams?
+67) 3) dialog: Doing what?
+67) 5) text: -- You know. Raymond steps just outside the entrance to his office.
+67) 6) dialog: Saving everybody? PEDESTRIANS pass between them on the crowded sidewalk.
+67) 9) text: People just don't have the same dreams accidentally -- (holds out the notebook) -- Melvin made drawings, he wrote down what he dreamed, this is one of his notebooks -- it's all in here. -- and Raymond's staring at the notebook without taking i the way Marco once did with Melvin. Anderson and Mirella the staffers in the office -- are all staring at Marco th same way the Boy Scouts once stared at Melvin. RAYMOND
+67) 13) text: I'm not crazy, Shaw. He jams the notebook back into his folder, starts to walk away. RAYMOND
+67) 14) text: (calls after) Captain -- (then) -- Major. (then) Ben. Marco stops, turns. RAYMOND
+68) 0) text: Huge posters featuring Raymond's face, emblazoned with SECURE TOMORROW, stacked against the wall. A desk covered with papers and enough take-out Chinese food for ten peop and Raymond sits behind it, nursing a glass of wine, and pointedly ignoring Melvin's notebook, while:
+68) 1) dialog: I kill Mavole?
+68) 3) dialog: No.
+68) 5) dialog: No.
+68) 7) dialog: -- I killed the enemy. I didn't know them, either. So it was okay. And, anyway, I remember what we did in Kuwait, I remember it perfectly. But now that you mention it, I don't remember doing it ... exactly.
+68) 9) dialog: NO.   What a thought. Now he picks up the dream book. Marco watches. Raymond flips through the pages for a moment, dismissively. Then stops at something Melvin has drawn. Frowns. Raises his eyebrows. Closes it, sets it down:
+68) 10) dialog: Life is so bizarre, isn't it? This absurd campaign, the sordid world of politics, my whole public life and persona -- sometimes, occasionally, for an instant, the fog clears and I look and I think, what am I doing? I mean, what the fuck am I doing? Posing and grinning like a goddamn sock puppet, shaking hands with total strangers who must be blind if
+68) 13) text: they can't see what I am, at the core. What my mother has made me. Raymond looks steadily at Marco ... who nods, interested: RAYMOND
+68) 15) text: Why did you come back, Raymond?   What happened? RAYMOND
+68) 16) text: What? Seeming startled, Raymond's reverie is broken.     His ey harden as he refocuses on Marco. RAYMOND
+68) 18) text: (lost) Which? RAYMOND
+68) 22) dialog: I don't have the dreams, Ben.
+68) 24) dialog: I do.   I said I did.
+68) 26) dialog: Ha ha, don't mix me up, I'm tired, and -- Fine. It's like this. It's as if I know what will happen, Ben, but I never get to the part where I feel that it actually did happen. But I think that's probably perfectly normal.
+68) 28) dialog: What? No. Who would I ask? My old Army "buddies," who love and adore me for saving their pathetically unimportant -- present company excluded -- asses?
+68) 30) dialog: I'm sure the press would have a field day with that.
+68) 32) dialog: (horrified) Nobody's put anything in me.
+68) 34) text: Great. Let's prove it. We can go get an x-ray -- we can check it right now -- Marco moves toward him, Raymond backs away -- RAYMOND
+68) 36) text: Just check your back, Raymond -- RAYMOND
+68) 38) text: What are you afraid of?   See if there's a bump. RAYMOND
+68) 40) text: -- just check -- RAYMOND
+68) 41) text: (without checking) There's nothing there! Marco LUNGES at Raymond -- they fall, together, over the desk, onto the floor -- Chinese food scattering. MARCO
+68) 44) text: -- you don't even know what they did! You don't -- you can't CONCEIVE what they did to you -- and you're worried about some lame-ass reporters!? -- where Marco (stronger, better-trained) wraps Raymond i headlock, RIPS Raymond's shirt from the shoulder --
+68) 48) dialog: Ben --
+68) 51) text: He bit him. (at Raymond)
+68) 53) dialog: No. MARCO -- shoved to the floor -- twisted -- handcuffed -- blood SMEARING across the carpet -- his eyes wild with adrenaline and fear -- RAYMOND -- his hand goes to his back -- his eyes LOCK wit Marco's for an instant -- then Marco is hustled out the door.
+68) 55) dialog: 
+70) 0) text: Raymond and Ellie. Through the wavy glass we see a crowde dining room, the ever-present Secret Service.
+70) 1) dialog: No. That'd be political suicide. Of course not. I want you to help him.
+70) 3) dialog: Because I feel sorry for him.   Because I said I would.
+70) 5) dialog: Mother. Look. My campaign people are getting a restraining order, he's going on all the security watch-lists -- but I won't lock him up. I'm not pressing charges.
+70) 7) dialog: It's complicated -- I don't know. It's just complicated and I don't want to talk about it, I want to get back to the campaign and focus on --
+70) 9) dialog: No. But he does. And he's a fine soldier and ... my friend. And if his slim hold on sanity requires that I tolerate his delusions until he can get help, I'll do it. It doesn't diminish me. And I'm not afraid of him.
+70) 11) dialog: Yes I think telling people you want to "round up all the towelheads and throw
+70) 14) dialog: them in a deep pit" probably tips your hand.
+70) 16) text: That was a joke, you dreadful boy. A BUSBOY delivers Ellie her meal: a thick steak stuffed w viscous grey -- off Raymond's disgust:
+70) 18) dialog: Stuffed.   With oysters? She starts to cut meat into child-like, bite-sized pieces and put them on a side plate, for Raymond.
+70) 20) dialog: My God. In the world's literature of food could there possibly be a more vulgar dish?
+70) 22) dialog: Promise me that you'll help him. Ellie stops, sighs, puts her fork down and reaches for th oversized-satchel that doubles as her briefcase and purse
+72) 15) text: What's your obsession with Raymond Shaw? AGENT RAMIREZ
+73) 0) text: Ellie eats, while Raymond flips through Marco's extensive file: cross-agency surveillance, Army psychological profiling, FBI updates. Repeated buzzwords like: "mentall unstable," "obsessed with Raymond Shaw," "delusional," "borderline functional," "acute stress disorder ..."
+73) 2) dialog: -- I don't care.
+73) 4) dialog: I know him. I served under him.   He was a good man.
+93) 0) text: A limousine pulls up in front, followed by a car full of Secret Service. Anderson floats out and opens the door fo Raymond ...
+94) 0) text: An argument in progress as Raymond shrugs off his overcoa into the hands of a SERVANT. The low murmur of Jordan's voice, then INCREDULOUS LAUGHT
+95) 0) text: Raymond entering, closing the door behind him as Ellie throws documents across the room at Jordan:
+95) 5) dialog: Hello Senator. How's Jocie? Jordan picks up a picture of Noyle and smoothes it onto t desk for Raymond to see, as:
+95) 8) dialog: No.
+95) 12) dialog: Sir, Ben Marco is sick.   Delusional.
+95) 14) text: Nevertheless he's pulled from his mad hat some remarkably lucid connections between his dreams of your exploits in Kuwait, and this Dr. Noyle, and the private equity fund Manchurian Global -- Raymond frowns, looks from Jordan to Ellie. JORDAN
+95) 16) text: Christ, Tom. They contribute to half the Senate, for God's sake. Silence. RAYMOND
+95) 18) text: At the time of Desert Storm, Dr. Atticus Noyle was working under a research grant from Manchurian Global. Your mother's friend. The color suddenly drains out of Ellie's face. RAYMOND
+95) 20) text: Rogue scientists. Mind control. Manchurian Global. Your mother. You. Connect the dots, Raymond. Possibly, your mother's blind to them, because they pay their way -- ELLIE
+95) 21) text: Possibly the Senator's motives are colored by his desperation to get himself back on the presidential ticket now that the heavy lifting is done -- RAYMOND
+95) 27) text: Everything you stand for is upside down! If this were to come out, true or no, it would be catastrophic for the campaign. (beat, a threat?) And it will come out. RAYMOND
+95) 28) text: What are you saying? Silence.   The question hangs there. RAYMOND
+95) 31) text: ... and then surrender yourself to federal authorities who can help you address the damage that may have been inflicted on you. -- and walks out. Raymond and Eleanor have hardly moved. Sound of the front door opening, closing. RAYMOND
+95) 33) text: Raymond, remember when -- RAYMOND
+95) 34) text: NO, never mind -- don't bother. Don't lie. Don't say anything. No more lies. There are actual tears in Ellie's eyes.   Raymond just st at her, coldly. RAYMOND
+95) 38) dialog: I never want to see you or speak to you again --
+95) 40) dialog: -- I mean it this time. Raymond heads for the door --
+100) 2) dialog: It's me, sir.
+100) 4) dialog: sloshes down into the water, wades out waist-deep --
+100) 6) dialog: I came to apologize, sir.
+100) 8) dialog: I'm sorry.
+100) 10) dialog: I'm sorry, sir. -- Jordan goes under, legs trapped in the kayak --
+102) 5) dialog: turns, grabs her by the hood of her sweatshirt -- -- and whipsaws her out into the deeper water, shoving he under it. Jocelyn's hands claw at him, but he's stronger, and the water has no effect on him. She thrashes wildly ... and he looks down at her through water, hair flowing, utterly beautiful ... as if in a dre
+102) 6) dialog: (far away)
+104) 0) text: SLOWING MOTION: the world a blur around Raymond as he wal a gauntlet of reporters shouting questions: about policy, about Jordan. Expressionless, he just keeps walking, but his lips move -- -- "tragedy" -- "senseless" -- "great loss" --
+106) 11) text: Raymond Shaw murdered Senator Jordan and his daughter. ROSIE
+107) 1) dialog: Aaaahhhhhhh --! Raymond awakens with a startled about, face flushed, sweating. Terrified --
+107) 5) dialog: Yeah.    Yes. Bad dream.
+107) 7) dialog: Okay.
+108) 0) text: Raymond emerges to cameras and fanfare -- it's election d and he's going to vote. Anderson and other agents clear a path up the steps into ELEMENTARY SCHOOL VOTING SITE. Reporters shout questions that Raymond just answers with his professional smile.
+109) 0) text: A temporary polling place. Flags, tables, not too crowded VOTERS stepping out of the way. POLL VOLUNTEERS pressing to shake hands and wish Raymond Shaw good luck. And
+110) 0) text: pulls the giant lever, the curtains close, finds -- A NOTE -- folded, taped to the machine. RAYMOND -- opens it, reads it.
+110) 3) dialog: I was on the fence when I walked in there ... but then I saw my name on the ballot and I knew what I had to do. Laughter. He whispers to a poll volunteer, and she points him down a hallway --
+111) 0) text: Raymond, Rosie and his Secret Service detail -- Rosie lea them to a doorway, holds it open for Raymond, but puts he hand lightly on Anderson's chest when he starts to go in sweep the room --
+112) 0) text: Small, and private. Raymond turns on the light. Marco is in the corner, waiting. His Noyle File in one hand.
+112) 2) dialog: It hurts.
+112) 4) dialog: I've been having the dreams, Ben.
+112) 6) dialog: Good? They're inside my head. They got inside, the way you said they would --
+112) 9) dialog: They're all ... twisted together -- and I dream things, terrible things, that can't possibly have happened. I'm gone, Ben -- I'm losing it --
+112) 11) dialog: Of what?
+112) 13) dialog: Jocie's dead.
+112) 15) dialog: -- and the Senator.
+112) 17) dialog: Did I do it?
+112) 19) dialog: I don't remember.     I don't remember it. Raymond looks up at Ben.     Emotionless.   Uncomprehendi
+112) 23) dialog: I'm all inside-out. KNOCKING on the door.
+112) 25) dialog: Just a minute. Raymond's cell phone RINGS.
+112) 26) dialog: All I've ever done is what I was supposed to do. What I was told to do --
+112) 28) dialog: -- What others want me to do.
+112) 30) dialog: You don't think they saw this coming? You don't think they factored you in? (matter of fact)
+112) 33) dialog: I'm the enemy, Major Marco, and the only way to stop me is to kill me. I thought you were smarter than this.
+112) 35) dialog: Are we friends?
+112) 38) dialog: I want to believe we're friends.
+112) 40) dialog: I dream you, Ben. You kill Private Baker. (into the phone, pleasant:)
+112) 43) dialog: (into the phone)
+112) 48) dialog: (into the phone)
+112) 49) text: Yes, he's right here. Raymond extends the phone to Marco.
+112) 50) dialog: She wants you. Marco hesitates.   Me?   But takes the receiver --
+113) 0) text: The happy chaos of screaming kids. Raymond emerges, smiling. Surrounded immediately by Anderson and his secre service detail, and escorted out of the building.
+117) 0) text: TVA185News footage of Raymond emerging from voting, wavin heading back to his car --
+120) 0) text: where Raymond sits, stripped to the waist, watching the mirror as his mother looms over him, in a beautiful Chine silk dress, combing his damp hair.
+120) 4) text: paranoid, lone gunman -- is trying to kill you. RAYMOND
+120) 5) text: The Major is an excellent marksman. She touches his bare shoulder, leaves her hand there. RAYMOND
+120) 8) text: I'm sure you will never entirely comprehend this, darling, and I know, the way you are right now, this is like trying to have a whimpered conversation with someone on a distant star ... but it must be said, Raymond -- I did this for you -- so that you could have what I could not, what your father didn't want -- what your grandfather dared to dream possible -- She runs her hands through his hair.   Tears fill her eye ELLIE
+120) 9) text: -- when you ran away to join the Army, after that girl, after Jocie -- when you swore you'd never speak to me again, I felt your father's shadow pass across us, and I couldn't let him run you the way he ruined himself. (beat) That's when Mark Whiting came to me with talk of extraordinary scientific breakthroughs ... Attitude adjustment ... Reconciliation ... Greatness. So I let them take you, and change you. Not too much. Not so much that you'd notice. Just enough to bring you back to me. RAYMOND
+120) 11) text: And look what you have, now! Look how far we've come! It's working, darling -- they think they own you, but they are very, very wrong. You're not something they can buy and sell, Raymond, not for (MORE)
+120) 14) dialog: Yes, mother. She straightens his tie.   Her hands caress her son's shoulders.
+120) 16) text: When you smile -- when you smile -- Raymond moves to her -- their embrace is all consuming --
+135) 0) text: A few of the camera monitors have empty frames, waiting f Raymond to arrive, but --
+136) 2) text: Frowning. Raymond has made Marco's shot impossible -- kil Arthur, and he kills Raymond too.
+142) 2) text: ... the FBI today released security footage of the assassin of Raymond and Eleanor Prentiss Shaw entering the hotel two hours before the fatal shooting ...

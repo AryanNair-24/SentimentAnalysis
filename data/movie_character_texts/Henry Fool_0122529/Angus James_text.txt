@@ -1,0 +1,54 @@
+61) 0) text: Same time. Angus is at a big table with two other men, Steve and Bar
+61) 2) dialog: So you're telling me to get out of  the publishing business?
+61) 5) dialog: Yes, Laura?
+61) 7) dialog: Did I say that?
+61) 11) dialog: Well, OK. Make an appointment, Laura.  Sometime next month.
+61) 14) dialog: (returning) So, anyway, how is the digital  revolution going to help me sell  books?
+63) 1) dialog: I don't think people are going to  prefer reading books on television,  Steve.
+63) 11) dialog: (thinking) Pretty damn marginal, I'd think.
+63) 13) dialog: How's he strike you?
+64) 0) text: Moments later. Angus comes out to the water cooler and glares at Simon a he gets a drink.
+64) 1) dialog: Hello, and why do you think I should  take valuable time out of my busy  schedule to read...
+64) 3) dialog: This?
+64) 4) text: Simon is stumped. He looks over at Laura, who purses her  lips and tilts her head. He twists a button on his shirt, thinking, then returns to Angus.
+64) 6) dialog: Really?
+64) 8) dialog: (to Laura) Are you hearing this?
+64) 11) dialog: I'm sure you wouldn't and I appreciate  you being so straightforward.
+64) 13) dialog: I assume you can take straightforward  criticism?
+64) 17) dialog: Get him a coffee, Laura.
+64) 19) dialog: Hold my calls for the next half hour.
+64) 21) dialog: He doesn't drink coffee. Steve, do  you drink coffee?
+66) 0) text: Angus throws on his coat and thrusts the poem at Simon as they walk down the hall.
+66) 1) dialog: This is really quite unbelievably  bad, my friend. I mean, I'm all for  experimentation and I've made a career  out of a healthy disregard for  convention, but... Look, this is  profoundly irrelevant material. This  is only my opinion. But it's an  opinion I value highly. Goodnight,  Laura. Call Norton Press. We're still  on for tomorrow.
+66) 2) text: Simon looks pale as Angus strides towards the elevator.
+66) 3) dialog: I've been wrong before as a publisher.  But I refuse to admit I've ever been  wrong as a reader. You have talent,  I admit. You have an innate sense of  the musicality of language. A good  ear, maybe. But you do nothing  significant with it. And this twisted  reasoning that poses as... conviction  or insight, it's... well, it's  embarrassing.
+66) 5) dialog: Why did you bring this thing to me,  anyway?
+66) 7) dialog: Yes, well, of course, I do. But I'm  not crazy, am I? Who is this person?  Do I know him?
+66) 10) text: Angus looks back at him. Simon waits. Angus looks aside, thinks, then shakes his head.
+66) 11) dialog: Never heard of him.
+66) 12) text: Simon just looks at him blankly, confused. The doors slide open and Angus gets in the elevator. He's gone. Simon sinks into a chair and stares at the carpet. is so surprised and hurt he gasps for breath. His poem slips from his hand and falls to the floor.
+103) 0) text: A huge crowd of kids are pressed up against the doors, tr to get a peek at their hero, Simon Grim. Angus comes away from the window. He stands and regards S who is sitting at a table tearing a napkin to shreds.
+103) 1) dialog: I'm willing to negotiate, Simon.
+103) 3) dialog: You've had other offers.
+103) 5) dialog: What?
+103) 7) dialog: Because I think your writing will be  tremendously successful.
+103) 9) dialog: It's growing on me.
+103) 12) dialog: Other people's responses. I don't  live in a vacuum, you know. Two months  ago I didn't have the proof of your  poem's appeal. Now I do.
+103) 13) text: Simon thinks this over, but says nothing. Angus comes ove and lays his hand on his shoulder.
+103) 14) dialog: Consider my offer carefully. Get  some professional advice. I'll call  you tomorrow.
+104) 0) text: Moments later. Angus emerges and has to fight his way through the throng excited adolescents. He reaches his limo and gets in. But pauses before closing the door and considers the crowd. Simon emerges from the store and kids begin screaming and shouting for autographs. Angus shakes his head, impressed
+117) 0) text: The 'Confession' lies on the big desk. Angus' hand comes  down upon it.
+117) 1) dialog: You've read this?
+117) 3) dialog: And you want me to consider publishing  it?
+117) 5) dialog: As part of our deal?
+117) 7) dialog: Simon, this book, it's... It's really  quite bad.
+117) 9) text: Angus pauses and figures. He changes the subject.
+117) 10) dialog: I'm offering you a very real  expression of my faith in your  writing. Two hundred thousand dollars  and a sixty/forty split.
+117) 12) dialog: Look, Simon, you don't require my  admiration. You require my experience  as a publisher. And that experience  leads me to believe your poem will  make more money than any book of  poetry ever published. In history.  Virtually make you a household name  within two years. You'll never have  to work on a garbage truck again, I  assure you. Or do anything else for  that matter. Whereas this 'Confession'  by Henry Fool...
+117) 14) dialog: The most I can say for this is...  The man is a scoundrel.
+117) 16) dialog: No! He encouraged all that was  expressive in you to become manifest.  He inspired you to act. He influenced  your perception.
+117) 19) dialog: It's not about money, Simon.
+117) 21) dialog: I will not publish Henry Fool's  'Confession'.
+117) 22) text: Simon sits and lets this sink in. Angus waits, then...
+117) 23) dialog: Will you sign the contract?
+117) 24) text: Simon continues looking out at the city. Angus waits, but there is no response. Finally, Simon turns, pauses and sl crosses the room. He sits at the table and looks down at the contract. He signs.

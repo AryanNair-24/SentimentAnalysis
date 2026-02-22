@@ -1,0 +1,19 @@
+52) 4) dialog: Well, sir -- it crashed. That, I can confirm. (condescending) We've been here just about one hour. These events take months to analyze. So if you'll excuse me --
+52) 7) dialog: (a little cowed) You'll be the first to know.
+72) 0) text: Treasury agents sift debris as Davis runs up to Stuart.
+72) 2) dialog: Let's have it.
+72) 4) dialog: That's really, really interesting, but -- (gestures around) -- kind of old news, don't you think?
+72) 6) dialog: (waves it off) Sounds like they got it wrong. Next time you interrupt my work make sure it's something I can use.
+77) 12) dialog: (over radio) Calling Rocky Mountain Rescue -- come in, Rocky Mountain Rescue -- over --
+78) 0) text: Wright, davis, and an irritated Stuart huddle over a radi
+78) 1) dialog: This is Ross Stuart, Federal Aviation Administration -- please identify -- over --
+79) 2) dialog: We have an unconfirmed report of an air crash in your area, and a distress call on this frequency -- can you confirm -- over --
+80) 0) text: Stuart gestures with exasperated triumph.
+80) 1) dialog: Please repeat, Rocky Mountain Rescue -- distress call was a false alarm? -- over --
+80) 3) dialog: Not from you. Thanks, Rocky Mountain Rescue -- over and out --
+80) 4) text: Stuart shuts off the radio with finality.
+80) 5) dialog: I don't want to say I told you so. But I did. Can I go back to work now?
+85) 7) dialog: Oh, give me a break. Your pilot lost it when the flight started going south, and he bailed --
+85) 11) dialog: (grabbing it away) I've heard a thousand of these, Wright -- whoever was at the stick is going to begin by screeching the Lord's Prayer and wind up screaming "Oh, shit" at ground zero --
+85) 12) text: Stuart clicks the recorder on with a flourish, but his sm look melts as the voice of FBI agent Matheson explains --
+85) 16) text: Wright, Davis and the pilot scramble into a helicopter -- Stuart pauses, but goes after them.

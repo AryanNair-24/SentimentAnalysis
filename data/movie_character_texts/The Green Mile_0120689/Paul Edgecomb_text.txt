@@ -1,0 +1,593 @@
+2) 0) text: Paul stands at his bathroom mirror, meticulously buttonin his shirt. He picks up a hairbrush, starts tidying his ha
+3) 0) text: THE OLD AND INFIRM haunt these corridors like ghosts. A W inches along on a walker. A MAN shuffles by with a rollin I.V. stand. The floor is a limey, institutional green. Paul comes into view, spry for his age, murmurs an occasi greeting.
+4) 0) text: DOZENS OF RETIREES are having breakfast, sipping weak cof or tea. Some chat and gossip, other are content to keep t own company, some just stare slackly into space. Paul enters, sees ELAINE CONNELLY sitting with a few othe ladies, sipping tea. She's 80, refined and elegant, his b friend here. She gives him a good-morning smile. He gives a rakish wink in return, which makes her smiles all the m Paul reaches past the people at the counter and sneaks tw pieces of cold leftover toast off a serving plate. He tos Elaine another look--catch ya later--and exits.
+5) 0) text: Paul slips to the back door unnoticed. Identical red plas rain ponchos line the wall on pegs. He helps himself to o and eases outside, making good his escape.
+7) 0) text: ...as CAMERA BOOMS DOWN through the trees to find Paul wandering a wooded path, munching a tidbit of toast, look for all the world like Red Riding Hood in his plastic pon It's silent here, like a church. The only sounds we hear the twittering of the birds and the hammering of the woodpecker. A RUSTLING SOUND makes Paul freeze. He turns, becomes transfixed. Softly:
+7) 1) dialog: Oh, my...
+7) 2) text: Reverse angle reveals a magnificent BUCK, not twenty feet away, misty breath punching the cold morning air. They watch each oth for an endless moment, both standing stock still... ...and then the animal bounds away, vanishing into the foliage. Paul lets out a breath, shakes his head in wonde He takes another bite of toast, moves on... ...and WE PAN WITH HIM to reveal a pair of old wooden sto shacks along the path up ahead.
+8) 0) text: Dark in here, cobwebby and decrepit. We see Paul approach outside the grimy window. He steps up to the glass and sh his eyes, peering curiously in as we
+9) 0) text: Paul approaches the back door, returning from his walk. H reaches for the knob...and a figure in white lunges from behind the dumpster to grab his wrist. He whirls, gasping fright--it's Brad Dolan, wearing his orderly's uniform.
+9) 2) dialog: Let go...
+9) 3) text: Paul tries to pull away, but Dolan's got him tight.
+9) 5) dialog: I got it off the wall there. There's a whole row of them.
+9) 7) dialog: I just borrowed it. Don't see what harm it does.
+9) 10) dialog: I'm sorry if I broke the rules.
+9) 12) dialog: You're hurting me!
+9) 14) dialog: Nothing. I just walk, that's all, I like to walk!
+9) 15) text: Brad lashes out and grabs Paul's other hand, which he's b holding tightly clenched shut.
+9) 17) text: Paul uncurls his fingers, revealing the crushed remnants a bit of toast, his palm slick with a greasy oleo smear.
+9) 21) dialog: Mr. Dolan and I were...chatting. About the weather. I think we're through now.
+9) 22) text: Brad lets Paul loose, leans close:
+9) 24) text: Brad walks off. Paul turns, watches him go. The screen do opens and Elaine steps out, her face pale. Paul gives her strained, though grateful, smile as we
+10) 4) text: ...and WE CONTINUE PANNING to Paul and Elaine sitting nea the back, talking quietly as Paul rubs his bruised hand:
+10) 6) dialog: That might just provoke him all the more, make things worse for everybody.
+10) 8) dialog: Ellie, please...
+10) 13) text: Paul idly shifts his gaze to the TV...and his expression goes slack with recognition and dismay. Elaine sees the look i his eyes. He glances away...even briefly considers walking out...bu the end, he can't help himself. The past just caught up w him with a freight-train wallop, and, for one, he decides ride the rails... He looks back at the TV. On screen, Fred and Ginger have begun their famous "Cheek to Cheek" number, with Astaire singing in that sublime, easy-go-lucky way of his:
+10) 15) text: SLOW PUSH IN on Paul, watching. He'd like to take his eye off the screen, but the movie has him in a grip tighter t Brad Dolan's. Elaine is watching him with puzzled concern
+10) 17) text: No response. All he can hear is that music, all he can se are those dancers. The figures on TV are gliding with ghostlike grace in their silvery, phosphor-dot world of l ago... Paul abruptly bursts into tears. The room goes quiet, everything comes to a standstill. Al eyes turn, some concerned, others merely curious. Paul ju sits sobbing into his hands, shoulders heaving.
+10) 20) dialog: It's okay...I'll be okay...
+10) 21) text: Another orderly appears--Brad Dolan. He puts his hand on Paul's shoulder and leans close, feigning concern.
+10) 25) text: Brad back off with a "hey, suit yourself" gesture. Elaine helps Paul to his feet and leads him out.
+11) 0) text: Paul is staring out the windows, pensive and drained. It' raining now, pattering the glass and the lawn beyond. Ela waits across from him, wishing he would speak. Softly:
+11) 1) dialog: I guess sometimes the past just catches up with you, whether you want it to or not. It's silly.
+11) 3) dialog: I haven't spoken of these things in a long time, Ellie. Over sixty years.
+11) 6) dialog: Yes. Yes you are.
+11) 7) text: Paul wonders if he's even up to talking about it after al this time...and decides that perhaps he is:
+11) 8) dialog: I ever tell you I was a prison guard during the depression?
+11) 10) dialog: Did I mention I was in charge of death row? That I supervised all the executions?
+11) 12) dialog: They usually call death row the Last Mile, but we called ours the Green Mile, because the floor was the color of faded limes. We had the electric chair then. Old Sparky, we called it. (beat) I've lived a lot of years, Ellie, but 1935 takes the prize. That was the year I had the worst urinary infection of my life. That was also the year of John Coffey, and the two dead girls...
+14) 0) text: ...while Paul Edgecomb, early 40's, stands in a cramped toilet in his guard's uniform, trying to piss. His face i pained, his forehead beaded with sweat.
+15) 2) dialog: Christ. Gimme a minute.
+15) 5) dialog: For a man pissing razor blades.
+15) 6) text: The door opens, revealing Paul's pale and sweaty face.
+15) 8) dialog: With a new arrival? You know better. Besides, it's not as bad as it was. I think it's clearing up.
+15) 9) text: They hear the truck HONKING as it rumbles up outside. Pau gives them a nod to resume their positions. Paul walks do the Mile, passing the cells where two inmates reside--the first is ARLEN BITTERBUCK, a Washita Cherokee; the second EDUARD DELACROIX("DEL"), a skinny Cajun.
+15) 11) dialog: Never you mind, Del, you just keep your nose quietly on your business.
+15) 12) text: Paul arrives at the end of the Mile, takes up a position an empty cell. (Down at this end, past the cells, is E Block's version of the "hole" -- a padded room where viol inmates are sent to cool off. It isn't used very often... fact, at the moment, it's doubling as storage space.) Brutal peers out the viewing slot as the truck stops outside.
+15) 16) dialog: Why's that?
+15) 18) dialog: Can't be bigger than you.
+15) 21) text: Inside the cellblock Paul can't see them approach from where he stands, but he certainly hear Percy:
+15) 22) dialog: Jeezus, pleeze-us, what the hell's he yelling about?
+15) 27) dialog: Percy, that's enough.
+15) 28) text: Percy falls reproachfully silent. Paul doesn't dignify it just motions for them to come on. The procession comes do the Mile, with Brutal and Dean bringing up rear.
+15) 30) dialog: (looks to Coffey) Am I gonna have trouble with you, big boy?
+15) 31) text: Coffey shakes his head slowly. Paul takes the clipboard transfer papers from Harry, turns and enters the cell. Coffey just stands outside the cell and waits, as if he doesn't understand the concept. Paul motions him to come in. Coffey starts to comply, but Percy raps him smartly w the tip of his hickory baton to get him moving faster. Coffey flinches, enters the cell. Paul stares angrily at Percy, who stands slapping his hickory baton against the of his hand like a man with a toy he's itching to use.
+15) 32) dialog: Percy. They're moving house over in the infirmary. Why don't you go see if they could use some help?
+15) 34) dialog: Why don't you just go make sure? (off his look) I don't care where you go, Percy, as long as it's not here at this very moment.
+15) 38) dialog: Goddamn it, Percy! Get the hell off my block!
+15) 39) text: Percy throws Paul a look of disdain--your block, huh? He swaggers out. Del's on his knees, weeping from the pain:
+15) 41) dialog: We'll get it looked at, Del, now keep yourself quiet like I said!
+15) 42) text: Del falls silent, moaning over his hand. Paul turns to Coffey, who looks unsettled by all the commotion.
+15) 43) dialog: If I let Harry take those chains off you, you gonna be nice?
+15) 45) dialog: Your name is John Coffey.
+15) 47) dialog: So you can spell, can you?
+15) 49) dialog: My name is Paul Edgecomb. If I'm not here, you can ask for Mr. Terwilliger, Mr. Howell, or Mr. Stanton...those gentlemen there. (beat) This isn't like the rest of the prison. It's a quiet place, we like to keep it that way.
+15) 52) dialog: (eyes narrowing) You having a joke on me, John Coffey?
+15) 54) text: Paul sees he isn't joking, continues:
+15) 55) dialog: Your time here can be easy or hard, depends on you. If you behave, you get to walk in the exercise yard every day. We might even play some music on the radio from time to time. Questions?
+15) 58) text: Paul blinks. It's the last thing he expected. Coffey smil uneasily, as if they might think him foolish for asking.
+15) 60) text: Paul looks to his men. The guards are trading glances.
+15) 61) dialog: It's pretty bright in here all night long. We keep half the lights burning in the corridor.
+15) 63) text: Coffey looks confused. Paul points to the lights lining t ceiling of the Green Mile in wire mesh cages.
+15) 64) dialog: Right out there.
+15) 65) text: Coffey nods, relieved. Then he surprises everybody by offering Paul his hand, as if to show proper manners. Pau hesitates, oddly touched, then surprised his men even mor accepting. Coffey's hand swallows his. Coffey shakes gent lets go. Paul steps from the cell. Brutal slides the door shut, lo it. Coffey stands a moment as if unsure what to do, then sinks onto the cot with his hands clasped between his kne He looks up at Paul, his voice soft as a whisper:
+15) 67) text: Paul turns, leads his men up the Mile...
+15) 69) dialog: Dean, run Delacroix up to the infirmary and see if his fingers are broken.
+15) 72) dialog: How could I miss it, Harry? The whole prison heard.
+15) 75) dialog: I'll chew that food when I have to. Right now I wanna hear about the new inmate...aside from how big he is, okay?
+15) 77) dialog: Seems meek enough. Looks like they sent us an imbecile to execute.
+15) 79) text: Harry tosses a pair of manila envelopes bound with rubber bands on the desk before Paul--Coffey's file.
+16) 0) text: A small are reserved for inmates of the Mile, fenced-off the main prison yard. Arlen Bitterbuck walks the perimete under the watchful eyes of guard BILL DODGE. We find Paul sitting by himself on the bleachers with Coffey's file on his knees, thoughtfully unwrapping his b bagged sandwich. PUSH SLOWLY IN as he begins to read...
+20) 6) dialog: Jesus.
+21) 9) dialog: I'm just about done.
+21) 10) text: Paul stows the file as Hal settles onto the bleachers.
+21) 11) dialog: How's that pretty gal of yours?
+21) 13) dialog: Doctor still think it's migraines?
+21) 16) dialog: If it's something they can see with an X-ray, maybe it's something they can fix.
+21) 18) text: He pulls a letter, hands it to Paul.
+21) 20) text: Paul glances toward Bitterbuck, scans the letter, nods.
+21) 21) dialog: You didn't come all the way down here just to hand me a D.O.E.
+21) 23) dialog: It is.
+21) 25) dialog: Little Percy called his aunt and squealed like a schoolroom sissy. (Hal nods) He also mention he assaulted a prisoner this morning out of sheer petulance? Broke three fingers on Eduard Delacroix's left hand.
+21) 27) dialog: The man is mean, careless, and stupid. Bad combination in a place like this. Sooner or later, he's gonna get somebody hurt. Or worse.
+21) 29) dialog: Easy enough to say. We can't watch him every minute, Hal.
+21) 31) dialog: The mental hospital?
+21) 33) dialog: Then why's he still here? He could get that application pushed through...hell, with his connections, he could have any state job he wants.
+21) 34) text: Hal has no answer. Paul look off toward Bitterbuck.
+21) 35) dialog: Tell you what I think. I think he just wants to see one cook up close.
+21) 36) text: Hal follows Paul's gaze, takes his meaning.
+21) 38) dialog: Of course.
+21) 41) dialog: You give Melinda my love, okay? I bet that X-ray turns out to be nothing at all.
+21) 42) text: Hal walks off looking like he's got the weight of the wor on his shoulders. Paul looks at the letter again...
+22) 0) text: Paul is at the kitchen table in the wee hours of the morn drinking buttermilk and listening to SOFT MUSIC on the ra JANICE EDGECOMB appears, shuffling sleepily downstairs.
+22) 2) dialog: Hey, you. Music too loud?
+22) 4) dialog: He said to tell you he's having a little trouble with that tonight.
+22) 7) dialog: Yeah, that. Things.
+22) 10) dialog: Got a new inmate today. Big, simple-minded fella.
+22) 12) dialog: No. One sleepless member of this family's enough. (softly) The things that happen in this world. It's a wonder God allows it.
+22) 15) dialog: Don't I wish. I've still got something wrong with my waterworks, I don't want to pass it on.
+22) 17) dialog: No, because he'll want me to take sulfa tablets and I'll spend the rest of the week puking in every corner of my office. It'll run its course all by itself, thank you very much for your concern.
+23) 0) text: ...as maintenance is performed on Old Sparky by JACK VAN and a small crew. Paul is carefully sanding a connector p Dean is waxing Old Sparky's wooden arms to a gleam. Paul and Dean pause, thinking they hear a LAUGH drifting from E Block...and then Brutal calls softly to them:
+24) 0) text: Paul and Dean enter to find Brutal trying not to wake the cons in their cells by laughing too loudly. They follows gaze down the Mile, see nothing, turn to him like he's cr
+24) 2) text: Paul and Dean look again and this time they see it: A tiny brown mouse is coming up the Mile. It trots a shor distance, peers right and left as if checking the snoring inmates in their cells, then makes another forward spurt.
+24) 3) dialog: He's doing a cell check.
+24) 8) text: That does it--Paul and Brutal burst out laughing. The mou stops before them and peers up, curling its tail primly around its paws as if to wait. The guards fall silent, fascinated. Bitterbuck stirs in his cell, sits up to watc Brutal tears off a piece of his half-eaten corned beef sandwich, holds it delicately out with two fingers. The m rises up, appraising the morsel with shiny black eyes.
+24) 11) text: Paul shrugs. Brutal drops the scrap. The mouse grabs it a eats, sitting up like a dog doing a trick. The mouse turns and scurries back down the Mile, vanishin under the restraint room door at the far end. Dean throws Paul an "I told you so" look.
+24) 13) text: Brutal give Paul a sheepish look--well? Paul sighs.
+24) 14) dialog: All right. Let's get the damn mouse.
+24) 17) dialog: It was a dream. Go back to sleep.
+24) 19) dialog: Can't put anything over on you.
+24) 20) text: Paul unlocks the door, revealing a padded room filled wit storage: cleaning supplies, buckets of paint, mops and ladders, you name it. Brutal shrugs off his jacket. Paul grabs a mop from a steel bucket, hands it to Dean.
+24) 21) dialog: Dean, watch the door. He tries to get past you, whack him.
+24) 24) text: Brutal and Paul start doing the heavy lifting, muscling a unused filing cabinet out the door...
+24) 26) dialog: You let him get past you.
+24) 32) dialog: Yeah, that's right. That's the last we'll see of him...
+25) 7) dialog: You little son of a bitch.
+25) 35) text: Paul stops Brutal with a look--don't you dare stop him.
+25) 37) text: Paul crosses his arms and smiles, leans back against the to wait...
+25) 40) text: Percy keeps scanning the restraint room. The others all l to Paul, waiting for him to speak--you're the boss.
+25) 41) dialog: Percy. You want to think about what you were doing just now.
+25) 47) dialog: Men under strain can snap. Hurt themselves. Hurt others. That's why our job is talking, not yelling. You'll do better to think of this place like an intensive care ward in a hospital--
+25) 51) dialog: We all know who your connections are, Percy... (steps close) ...but you ever threaten a man on this block again, we're all gonna have a go. Job be damned.
+25) 53) dialog: Get all this shit back in the restraint room. You're cluttering up my Mile.
+27) 0) text: Paul appears at Bitterbuck's bars with a group of guards.
+27) 1) dialog: Arlen? Your daughter and her family are here.
+27) 3) dialog: Let's move. I want at least two rehearsals before he gets back.
+29) 2) text: He glances to Paul--okay, hit it.
+29) 3) dialog: Arlen Bitterbuck, step forward.
+29) 7) dialog: Is his head properly shaved?
+29) 9) dialog: I'll take that for a yes. All right, Arlen, let's go.
+29) 14) dialog: Toot, you have to wait till I tell you to pray. (Toot waits) Okay, pray.
+29) 17) dialog: Well, actually--
+29) 21) dialog: As I was saying, I don't believe they actually shake their dicks, Harry. Be that as it may, Mr. Bitterbuck is a Christian, so we got Reverend Schuster coming in.
+29) 23) dialog: On your feet, Toot. You've prayed enough for one day.
+29) 27) dialog: Watch and learn.
+29) 28) text: Paul motions Percy behind the wall. Percy sighs, takes hi spot next to Jack Van Hay, peers through the wire mesh as Toot plops into Old Sparky, wriggling his skinny ass to g comfy.
+29) 30) text: Paul and Dean kneel to apply the ankle clamps. Brutal ste in from the side, pressing down on the condemned man's le arm to keep him in place until the ankle clamps are secur Harry moves in from the other side, securing the right ar clamp.
+29) 32) text: Paul signals "ankles secure." Brutal holsters his pistol, applies the final clamp to the left arm.
+29) 39) text: Brutal tries to hold on, but it's impossible--he cracks u Everybody falls apart, howling helplessly with laughter. Jack Van Hay is guffawing behind his partition. Only Paul is reining it in--he's a little too pissed to g with it. He waits until the laughing fit starts to pass,
+29) 40) dialog: Shut up, Brutal. That goes for everybody. I want quiet in here. (turns) Toot, another remark like that, I'll have Van Hay roll on two for real.
+29) 42) dialog: That's why I don't like it. Tomorrow night we're doing this for real. I don't want somebody remembering a stupid joke like that and getting going again. (off their looks) Ever try not laughing in church once something funny gets stuck in your head. Same goddamn thing.
+29) 54) text: Paul rolls his eyes at Brutal. Brutal shifts his gaze pas him and nods--look behind you.
+29) 56) text: Paul turns. Sitting on the door sill, watching them with beady eyes, is the mouse. Paul turns back, addresses the
+29) 57) dialog: All right, let's go again and do it right this time! Get that idiot out of the chair...
+30) 0) text: Bitterbuck, the top of his head now shaved, is speaking quietly as Paul listens:
+30) 2) text: Paul doesn't think so--but that's not what Bitterbuck nee to hear, so the lie comes easy:
+30) 3) dialog: I just about believe that very thing.
+30) 6) text: Brutal appears at the door, checks his pocketwatch, nods Paul. Bitterbuck takes a deep breath, getting himself rea
+30) 7) dialog: It'll be fine. You'll do fine.
+31) 2) text: WHAM! The switch is thrown. Bitterbuck surges forward aga the straps, riding the powerful current. Some witnesses turn away. Paul and Brutal maintain grim e contact with each other, waiting. Behind the partition, Percy watches through the mesh with gleaming eyes, wishing he could see better. Van Hay kills the current. Bitterbuck goes limp. A DOCTOR steps forward, checks for a heartbeat, shakes his head.
+32) 4) text: He draws the sheet over Bitterbuck's face, wheels the gur down the tunnel. Percy throws a look to Paul.
+32) 6) dialog: You, Percy. Always you.
+32) 7) text: Paul brushes past him, but:
+32) 9) dialog: (turns back) Why not just move on? Go to Briar Ridge. (off his look) Yeah, I know about it. Sounds like a good job.
+32) 11) text: Paul cocks his head--excuse me?
+32) 13) dialog: (beat) What's with you? Seeing a man die isn't enough? You gotta be close enough to smell his nuts cook?
+32) 15) dialog: If I say no?
+32) 17) text: Paul just shakes his head in wonder and walks away.
+33) 3) dialog: Delacroix? That you?
+33) 4) text: No answer. Just more giggling. Paul rises, walks down the Mile to Delacroix's cell--and stops, staring in through t bars.
+33) 6) dialog: You are not gonna believe this.
+33) 9) dialog: We see that.
+33) 13) dialog: Mr. Jingles?
+33) 15) dialog: I notice your English gets better when you want something.
+33) 19) text: He tosses the spool across the floor, bounces it against wall. The mouse goes after it like a dog after a stick--a proceeds to push it back to the bunk, rolling it with its front paws all the way to Delacroix's feet. By now, the guard's jaws are hanging open. Paul's got a f little chill running up his spine.
+33) 29) text: Percy shrugs as if to say "no skin off me", looks to Paul
+33) 31) dialog: (level) Yes, that's the one. Only Del says his name is Mr. Jingles.
+33) 33) text: Paul trades a look with the others, everybody wondering j what the hell's going through Percy's mind.
+33) 34) dialog: Del was just asking for a box. He thinks the mouse will sleep in it, I guess. That he might keep it for a pet. What do you think?
+33) 36) text: Percy walks away, leaving them dumbstruck. Paul turns to others. Of all the things they've seen in the last few minutes, Percy being nice is the most amazing of all.
+33) 37) dialog: Man said get a cigar box.
+34) 0) text: Paul comes up the stairs to the warden's office...
+35) 1) dialog: Hal? You wanted to see me?
+35) 7) text: He trails off, no longer able to focus on the words. Paul shocked to see tears spill silently down his cheeks.
+35) 8) dialog: Hal?
+35) 10) text: Paul doesn't know what to say. Hal looks at him.
+36) 0) text: Paul lies awake, watching Jan sleep. He looks troubled--n to mention feverish. It occurs to him how badly he has to pee. He sits up, clutching at a queasy stab of pain in hi groin...
+37) 1) dialog: ...oh God...oh God...
+38) 0) text: Paul looks feverish and clammy as he buttons up his unifo jacket. Jan is packing his lunch, throwing him looks, kno how sick he is.
+38) 1) dialog: I'm going.
+38) 3) dialog: To the doctor. I'm going. (off her look) Today. Just as soon as we get the new inmate squares away.
+38) 5) dialog: Oh yeah.
+40) 0) text: Paul is trying to piss. Except for a few drops hitting th bowl, excruciating pain seems to be the only result. He g up, grabs a towel, wipes the sweat from his feverish face
+41) 2) text: Paul shoots him a baleful look--no kidding. Another voice calls softly from further down the Mile:
+41) 4) dialog: Got things to tend to just now, John Coffey. You be still in your cell now, y'hear?
+41) 5) text: Coffey falls silent. Paul goes to the entrance door and p through the viewing slot, anxious to have this over with.
+43) 0) text: Paul watches the truck pull in. He draws away from the sl proceeds toward the empty cell which used to be Bitterbuck's...
+43) 7) text: Paul hears him, glances back with a puzzled look. Coffey' gaze is directed at the door, which is being unlocked...
+43) 10) text: --and he drops his wrist-chain down over Dean's head, jer it tight, begins to strangle him. Dean lurches forward, B riding/propelling him through the door onto the Mile. Percy stands frozen in the doorway, stunned. Harry shoves aside and jumps on Billy from behind, trying to get him o Dean. Dean is choking, turning purple. Paul rushes from the cell to join the fray. Billy whirls, delivering a stunning kick to Paul's groin. Paul's bladde pain goes nuclear--he falls back in agony, clutching hims and sucking air through his teeth, unable even to scream. Billy rams an elbow into Harry's face, knocks him sprawli on the desk, screaming and laughing and howling all the w
+43) 12) text: Paul forces himself to his feet, pulls his revolver, draw down on Billy...
+43) 13) dialog: LET HIM GO!
+43) 16) text: Dean is choking, dying. Paul is shifting his aim, trying a clear shot, not getting one. Percy's still just inside doorway, pressed against the wall with fear...
+43) 17) dialog: HIT HIM, PERCY! GODDAMN IT, HIT HIM!
+43) 23) text: Everybody's reining in their adrenaline. Paul glares at H
+43) 25) text: Percy nods, still numb. Paul is furious:
+43) 26) dialog: You didn't ask? I guess that's not a mistake you'll be need to make again anytime soon, is it?
+43) 27) text: Harry shakes his head miserably. Paul grabs Billy by the
+43) 28) dialog: Grab his arms! You too, Percy! (off Percy's hesitation) Percy, goddamn it, get your feet out of cement and help us out here!
+43) 29) text: Percy finally unfreezes. The three of them hoist Billy up a dead-lift, get him in his cell, toss him on the cot. Th step out, slam the door, lock it. Paul looks to Harry and Brutal.
+43) 30) dialog: Get Dean looked at right away, make sure he's all right. Percy, you go make a report to the warden for me. Start off by saying the situation is under control-- it's not a story, he won't appreciate you drawing out the suspense.
+43) 32) dialog: I've got the Mile till you all get back. Go on now.
+43) 33) text: They all exit. As soon as he's alone, Paul gives in to th pain, holding his crotch and sinking to his knees with a moan. It's so bad he actually lays down on the Mile, face pressed against the cool linoleum, wishing he were dead. stretch of silence...and then:
+43) 35) dialog: This is not a good time, John Coffey. Not a good time at all.
+43) 37) text: Paul sighs. Things couldn't get much worse than this. He rises with a supreme effort, walks painfully down the Mil
+43) 40) dialog: I'm alone here right now, John. Figure this is close enough.
+43) 42) text: Paul blinks. Maybe it's the fever clouding his brain, or maybe...hell, is this what being hypnotized is like? He t to shake the sensation off, comes a little closer.
+43) 44) dialog: Mind your business, Del. What do you want, John Coffey?
+43) 46) text: His hand shoots out, grabs Paul by the collar, jerks him close. Paul makes a panic-grab for his revolver... ...but Coffey lays his free hand atop Paul's, eases his g from the gun--no need for that. Coffey's hand then drifts slowly down, easing to Paul's crotch...
+43) 47) dialog: (stunned, frozen) What are you...doing?
+43) 48) text: ...and something goes WHUMP through Paul's body. He arche back with his mouth agape and arms outstretched as a rush energy seems to pass from Paul through Coffey's hand... ...and then it's over. Paul comes back to the real world, weak against the bars, realizes Del is hollering in his c
+43) 50) dialog: Del, Chrissake, settle down, I'm fine...
+43) 52) dialog: John? John, what's wrong?
+43) 53) text: Paul fumbles his keys to the lock, unsure if he should op the door, watching the big man's contortions grow stronge like a cat trying to cough up a hairball... ...and then comes an unpleasant, gagging/retching sound a Coffey's lips draw back from his teeth in a kind of godaw sneer...and he exhales a cloud of what look like tiny bla insects. They swirl furiously in front of his face, turn white...and disappear. Paul just stares, stunned. Softly:
+43) 54) dialog: What did you do, big boy? What did you do to me?
+43) 56) dialog: Yes, but...how?
+43) 59) text: He rolls onto his bunk, faces the wall. Paul just stares him, stunned. He turns and walks up the Mile, his stiffne and pain now gone. Del watches him go by, also stunned:
+43) 61) dialog: You're imagining thing. Lie down, Del. Get you some rest.
+43) 62) text: Paul continues up the Mile...
+44) 0) text: Paul comes home from work, still looking numb about the w thing. He drifts to the kitchen door. Jan's at the counte slicing vegetables for dinner. She glances at him.
+44) 2) dialog: Um...not too bad.
+44) 3) text: She turns back. Paul's eyes drift down to admire her ass.
+44) 6) dialog: Oh, you know doctors. Gobble-de- gook mostly.
+44) 10) dialog: What's it feel like?
+47) 0) text: Jan falls back, exhausted after the latest go-round. She catches her breath, looks over at Paul, and finally:
+47) 2) dialog: Well...thing is...I never actually got to the doctor yesterday...
+48) 0) text: Paul is on the phone:
+48) 1) dialog: Brutal? Listen...I'm thinking of taking the morning off sick. You cover the fort for me? (beat) That's swell. Thanks. Yeah, I'm sure I'll feel better. Okay.
+48) 4) dialog: I'm not sure what I'm sure of.
+49) 0) text: Paul's model T comes putt-putting up the road past a sign "Trapingus County Welcomes You."
+50) 0) text: BURT HAMMERSMITH, public defender for Trapingus County, s with a cold soda and a magazine, watching his TWO CHILDRE playing on a swing at the far end of the backyard. The sc door opens and CYNTHIA HAMMERSMITH ushers Paul out.
+50) 2) dialog: Yes, ma'am, a cold drink would be fine. Thank you.
+50) 4) dialog: Mr. Hammersmith. Your office said I'd find you at home today. I hope I'm not troubling you.
+50) 6) dialog: Paul Edgecomb. I'm the E Block superintendant at Cold Mountain.
+50) 8) dialog: That's why I'm here. I'd like to ask you about one of them.
+50) 11) dialog: John Coffey.
+50) 13) dialog: No, can't say he is. He doesn't like the dark. He cries on occasion. Other than that...
+50) 15) dialog: (nods) I read the court transcripts.
+50) 16) text: Cynthia reappears, hands Paul a cold root beer.
+50) 17) dialog: Thank you, Missus.
+50) 21) dialog: I've wondered if he ever did anything like that before.
+50) 23) dialog: No. But a man who does a thing like that has often developed a taste for it over time. Occurred to me it might be easy enough to follow his backtrail and find out. A man his size, and colored to boot, can't be that hard to trace.
+50) 25) dialog: How do you explain that?
+50) 27) dialog: He's...strange, I admit. But there doesn't seem to be any real violence in him. I know violent men, Mr. Hammersmith. I deal with 'em day in and day out.
+50) 30) dialog: Do you?
+50) 32) dialog: Yet you defended him.
+50) 37) text: The kids start this way. Burt turns back to Paul.
+50) 39) dialog: I'm listening.
+50) 45) text: The boy races inside after his sister. Paul follows Burt' gaze off toward the rear of the property, where an unoccu doghouse stands weathered and sad in the weeds.
+50) 47) dialog: I'm sorry for your trouble.
+50) 52) text: Paul says nothing. Burt gazes out again. Softly:
+51) 0) text: Paul drives back to Cold Mountain, his heart conflicted..
+52) 1) dialog: No, it's not for you.
+52) 2) text: Paul continues down the Mile. Whatever he's carrying, the smell of it brings Del to his bars. Even Mr.Jingles comes skittering out of his cigar box, sniffing.
+52) 4) text: Paul arrives at Coffey's cell. Coffey's on his bunk facin the wall. His head comes around, drawn by the aroma. He s up, wipes the tears leaking from his eyes, looks at Paul.
+52) 6) text: Paul speaks softly so the others can't hear:
+52) 7) dialog: It's from my missus. She wanted to thank you.
+52) 10) dialog: You know. For helping me.
+52) 12) text: Paul motions discreetly to his crotch.
+52) 14) dialog: Several times.
+52) 15) text: Paul hands him the bundle through the bars. Coffey takes uncovers the cornbread reverently, gazes back up.
+52) 17) text: Paul nods. Across the way, Del is pressing his face longi through the bars while Mr. Jingles crawls on his shoulder
+52) 20) dialog: It's yours, John. You do with it as you please.
+52) 21) text: John carefully scoops a big chunk of cornbread out with h enormous hand, holds it through the bars to Paul.
+52) 24) text: Coffey looks to Paul--do I have to?
+52) 25) dialog: It's yours, John. As you please.
+52) 28) dialog: Courtesy of the gentleman across the way.
+52) 32) text: Paul's temper flares--he steps to Billy's cell.
+52) 33) dialog: You'll keep a civil tongue on my block.
+52) 34) text: Beat. Billy spits in Paul's face and follows it up with a grin--what are you gonna do about that? Paul is seething he wipes the spit off, but keeps his temper where it belo
+52) 35) dialog: You get that one for free. But that's the last one.
+52) 36) text: Paul walks away. Billy laughs, hollering after him:
+53) 2) text: Paul and Brutal come running. Harry's just flabbergasted:
+53) 5) text: Paul stays calm, turns to Brutal, nods at the restraint r
+53) 6) dialog: We've been looking to clear that room out anyway.
+53) 9) text: ...and he pauses as Paul and Brutal step to the bars. Pau has a canvas straitjacket. Brutal pulls his nightstick.
+53) 11) text: Brutal unlocks the cell--and sidesteps, revealing Harry pointing a fire hose. The hose erupts, driving Billy acro the cell with bone-jarring force. They batter him half- senseless, then cut the water. Billy collapses in a heap. Paul and Brutal drag him semi-conscious from his cell and the straitjacket on him. He comes around as they draw the straps tight and pull him to his feet.
+53) 12) dialog: C'mon, Wild Bill. Little walky walky.
+53) 15) text: Billy lets out a scream of rage and throws himself at Bru Brutal, bored, shoves him back toward Paul, who then prop him down the Mile toward the open restraint room door. Bi sees where they intend to put him, resorts to pleading:
+53) 19) text: Paul reaches down and unceremoniously starts dragging Bil kicking and writhing the rest of the way.
+53) 20) dialog: He'll be fine, boys. Trust me on this one.
+53) 21) text: Brutal helps Paul toss Billy headlong into the padded roo They slam the door...
+54) 0) text: Paul and Brutal unlock the restraint room. Billy looks up from the corner, pale and drained. Softly:
+55) 7) dialog: The Moon Pie thing was pretty original. Gotta give him that.
+56) 0) text: Paul and Brutal appear at Del's bars with Harry and Dean.
+56) 1) dialog: Del, grab your things. Big day for you and Mr. Jingles.
+56) 3) dialog: Important folks heard about your mouse, wanna see him perform. Not just guards, either. One of them's a politician all the way from the state capital, I believe.
+56) 9) text: Brutal leads Del up the Mile, Paul and the others at thei heels. Percy's at the duty desk. He smirks and rolls his as Del goes by. The moment Brutal and Del are out the doo ...Toot emerges from Paul's office where he's been hiding
+56) 10) dialog: Let's move along briskly, folks. There's not much time.
+58) 4) text: A pause. Percy looks anxiously to Paul, who's trading gla with the other guards. Finally:
+58) 5) dialog: Very good. Very professional.
+59) 1) dialog: Well?
+59) 10) text: Billy kisses Percy's ear--and his hand drops down to sque Percy's crotch. Paul pulls his sidearm, taking aim...
+59) 11) dialog: Wharton!
+59) 18) text: Paul steps to Percy, puts a hand on his shoulder. Percy shakes his hand off, looks around at their faces, whisper
+59) 20) dialog: What happens on the Mile, stays on the Mile. Always has.
+60) 0) text: Paul is sitting with Delacroix. Brutal is leaning against bars. Del is throwing the spool. Mr. Jingles is fetching The silence is thick. Just the clack-clatter of the spool and the skitter skitter of tiny mouse paws on concrete. I getting on Paul's nerves in a big way. Softly:
+60) 1) dialog: What about Dean? He's got a little boy would love a pet mouse, I bet.
+60) 5) dialog: All right, I'll take him.
+60) 7) dialog: He whisper that in your ear?
+60) 8) text: Del nods, tosses the spool again--clack-clatter, skitter skitter. Paul is completely out of ideas. But then:
+60) 12) dialog: (level) Yeah, that's right. Tallahassee. Just down the road apiece from the dog university.
+60) 13) text: Brutal's mouth twitches, but he manages to keep a straigh face. He gives Paul a look--don't blow this.
+60) 15) dialog: Might. He's pretty smart.
+60) 25) text: Percy stomps the heel of his heavy work shoe down on Mr. Jingles. There's a SOFT SNAP as the mouse's back breaks. Del screams in horror and throws himself at the bars, sob the mouse's name. Percy looks to Brutal and Paul, smiles.
+60) 31) text: Paul hesitates, scoops the mouse up off the floor, wincin the feel of it. Splintered bones are poking at the hide.
+60) 33) text: Paul doesn't answer, just lays Mr. Jingles into Coffey's hand. Coffey pulls the mouse in through his bars and lays other hand gently over it, cupping the creature. All we s now is the tail hanging out the side, twitching weakly.
+60) 35) text: Paul motions him quiet. Del is pleading softly at his bar
+60) 45) text: And with that, he lies back on his bunk and faces the wal The others look to Paul, don't even know what to say.
+60) 46) dialog: Brute, come along with me. (to Harry and Dean) You fellas go on back to you cribbage game.
+60) 47) text: Harry nods numbly. Paul leads Brutal up the Mile...
+60) 50) dialog: The mouse is fine. Just fine. You're no better at mouse-killing than anything else around here.
+60) 52) text: Paul steps closer, angry as we've ever seen him:
+60) 53) dialog: Aren't you glad Mr. Jingles is okay? After all our talks about how we should keep the prisoners calm? Aren't you relieved?
+60) 55) dialog: No game. See for yourself.
+60) 60) text: Brutal grabs him , slams him bodily into the electric cha Paul bends close, gets right in Percy's face.
+60) 61) dialog: We're the people you work with, Percy, but not for long. I want your word.
+60) 63) dialog: I put you out front for Del, you put in your transfer to Briar Ridge the very next day.
+60) 65) dialog: Go ahead. I promise you'll leave your share of blood on the floor.
+60) 67) dialog: No. But four men will swear you stood by while Wild Bill tried to strangle Dean to death. About that people will care, Percy. Even your uncle the governor will care.
+60) 70) dialog: I put you out front, you put in your transfer. That's the deal.
+60) 71) text: Percy thinks it over, nods. He tries to get up, but Paul him pinned...and pointedly offer his hand.
+60) 72) dialog: You make a promise to a man, you shake his hand.
+60) 73) text: Percy hesitates, shakes Paul's hand...
+61) 0) text: Del sits with Mr. Jingles in his lap, stroking the mouse between the ears. Paul, Brutal, and Harry appear at the b
+61) 2) dialog: Eduard Delacroix, will you step forward?
+61) 4) dialog: Yes, Del?
+61) 6) text: Paul nods--I promise. Del rises, steps to Paul.
+61) 8) text: Del lifts his hand. Mr. Jingles steps off onto Paul's shoulder with no hesitation. Gently:
+61) 9) dialog: Del. I can't have a mouse on my shoulder while...you know.
+61) 13) text: Paul moves to Coffey's cell. The mouse skitters off Paul' shoulder onto Coffey's hand.
+61) 32) text: Paul and Brutal nod--and are stunned as:
+61) 34) text: The stricken look in Del's eyes tells us a part of him ha known all along. Paul and Brutal would both like to deck Percy right about now, and he knows it--he gives them a " are you gonna do about it" smile. Nothing they can do. Paul nods to Harry, who takes the bl mask from the back of the chair and rolls it down over De head, leaving the top of his shaved head exposed.
+61) 39) text: Van Hay flicks the switch. WHAM. The electricity hits hom and Del rocks forward, riding the current. Then things start to go horribly wrong. The HUMMING loses its steadiness and starts to waver with CRACKLING SOUND. Tendrils of smoke begin curling from und the cap, a mixture of burning hair and sponge. Brutal sho Paul a horrified look. Paul responds with a harsh whisper
+61) 40) dialog: It's dry!
+61) 41) text: Delacroix begins twisting and jittering in the chair, his masked face snapping violently from side to side, his leg pistoning up and down in his restraints. There's a MUFFLED POP from under the cap, like a pine kno exploding in a hot fire. Smoke starts coming through the fabric of the mask, puffing upward. Del is being cooked alive. Paul spins to the partition, hollering--
+61) 42) dialog: JACK!
+61) 45) text: Paul turns back, helpless. The other guards are trading w looks, unable to believe what's happening. Even Percy loo aghast--he was expecting something, but not this. Del begins SCREAMING--the wild, hysterical sound of an an being shredded alive in a hay baler. The HUMMING goes une and ragged, the lights rising and falling...
+61) 52) dialog: NO! ROLL, FOR CHRIST'S SAKE, ROLL!
+61) 54) dialog: No water! No water! You crazy?
+61) 57) text: Hal grabs Paul by the shoulder, spins him around.
+61) 59) dialog: He's still alive! You want me to shut down while he's still alive?
+61) 60) text: Hal is horrified at the thought. Del is jittering and screaming, rocking from side to side, smoke pouring from nostrils and mouth, his tongue sizzling purple-black. The witnesses are crowding and shoving to get out, but th back door is locked. All they can do is cluster there. Paul sees Percy with his head turned away. He grabs him, forces his head around.
+61) 61) dialog: You watch, you son of a bitch!
+61) 63) dialog: Kill it!
+61) 68) dialog: Dean, get doc's stethoscope.
+61) 69) text: Dean drops to the doctor's bag, digs through it, hands up stethoscope. Paul plugs them into his ears. People are moaning and sobbing at the back of the room:
+61) 71) text: Paul wipes some foam away from Delacroix's chest, places stethoscope pad to the raw flesh. He nods to Brutal--it's over.
+62) 0) text: Paul and the others bring the stretcher down, lay the cor on the gurney. Percy starts stammering excuses:
+62) 3) dialog: Brutal, no!
+62) 5) dialog: Delacroix's dead, nothing can change that, and Percy's not worth it!
+62) 9) dialog: (quietly) Can he carry a tune, Hal?
+62) 17) dialog: Percy fucked up, Hal. Pure and simple.
+62) 19) dialog: Don't you think it should be?
+62) 21) dialog: He'll be putting in a transfer request to Briar Ridge tomorrow. Moving on to bigger and better things. Isn't that right, Percy?
+63) 0) text: Paul returns to find Wild Bill making up a song in his ce
+63) 2) dialog: You're about ten seconds away from spending the rest of your life in the padded room.
+63) 3) text: Billy falls silent. Paul continues down the Mile to Coffe cell. Coffey's on his bunk, face streaked with tears. He wipes his eyes with the heels of his hands like an exhaus child.
+63) 5) dialog: Yes. Poor old Del. John, are you okay?
+63) 7) dialog: What do you mean? You could hear it? Is that what you mean?
+63) 9) text: Paul realizes he won't get a coherent answer.
+63) 10) dialog: Where's Mr. Jingles?
+63) 13) dialog: Me too, John. Me too.
+64) 0) text: Paul enters in darkness, hangs his hat. He drifts into th kitchen, clicks on the radio. SOFT MUSIC BEGINS: Gene Aus singing "Did You Ever See A Dream Walking?" He pours a drink at the kitchen table, takes a sip, lays glass down. Jan sleepily appears from the darkness behind him, entering the kitchen. He realizes she's there, glanc back. She can sense the weight on his soul. She comes to him, f his head into her arms. They stand that way, he drawing strength and she giving it, as the music plays on...
+65) 0) text: CAMERA TRACKS the pews to find Paul and Jan seated togeth in the congregation, voices raised in hymn...
+66) 0) text: Paul's Model T comes sputtering up the road. He and Jan a taking a drive, still in their Sunday best...
+67) 0) text: Paul and Jan wait at the front door. Jan holds a baking d
+67) 1) dialog: I hate this.
+68) 0) text: ...and they walk outside to find MELINDA MOORES sitting i the sun, frail and wasted, a blanket on her knees. She'd beautiful if not for the cancer killing her. Paul is shocked at her appearance, hides it as best as he can. Jan covers this for him--she drops to Melinda's side with a warm smile and a kiss, takes the woman's frail han in hers. Paul catches Jan's eye. The look he gives her says it all don't know what I'd do without you...
+68) 3) dialog: What a bad day?
+68) 5) dialog: Swears.
+69) 0) text: Paul is wide awake, staring at the dark. Jan can sense hi brooding. She rolls over sleepily.
+69) 2) dialog: I'm thinking I love you. I'm thinking I don't know what I'd do if you were gone.
+69) 4) dialog: (beat) I'm also thinking I'd like to have the boys over tomorrow.
+69) 9) text: Paul softly interjects:
+69) 10) dialog: You saw what he did with the mouse.
+69) 14) dialog: He did it to me too. He put his hands on me and took my bladder infection away.
+69) 18) dialog: I am.
+69) 20) text: Jan looks to Paul, realization starting to dawn:
+69) 23) text: Paul nods--that's who we're talking about.
+69) 25) dialog: It's not a bladder infection, or even a busted-up mouse. But there might be a chance.
+69) 27) dialog: Hal would never allow that. You know him, he wouldn't believe something unless it fell on him.
+69) 34) dialog: What's happening to her is an offense, Brutal. To the eyes and the ears and the heart.
+69) 36) dialog: That's why it's a lot to ask.
+69) 38) dialog: I don't think that'll happen... (beat, softly) ...in fact, I don't think he did it at all.
+69) 40) dialog: I just can't see God putting a gift like that in the hands of a man who would kill a child.
+69) 43) dialog: I understand.
+71) 0) text: A MORPHINE PILL is being crushed to powder on the stainle steel gurney. TILT UP to Paul crushing the pills. Brutal carefully scrapes the powder onto a small sheet of paper.
+72) 0) text: Percy is parked in Paul's chair with his feet up, reading book titled: "CARING FOR MENTAL PATIENTS."
+73) 0) text: Harry and Dean are playing cards at the duty desk, tensio thick, cards slapping softly as the seconds tick by. Paul Brutal finally show up toting bottles of RC cola:
+73) 7) dialog: You think you deserve any?
+73) 10) text: Paul shrugs to Brutal--why not? Brutal pops the top off a bottle, passes it to Paul. Paul grabs a tin cup, sets it the desk...and we see it contains the morphine powder. He pours the cola, swirls it around...
+73) 11) text: ...as Coffey looks up, sensing something happening. He pe up the Mile as Paul walks to:
+73) 13) dialog: You gonna stay behaved?
+73) 15) dialog: You promise me, or I'll drink it myself right here in front of you.
+73) 17) text: Paul lets him take the cup. Billy knocks it back, drainin in three huge swallows. He lets out an awesome belch.
+73) 18) dialog: Cup.
+73) 23) dialog: Anybody wants to back out, now's the time. After this, there's no turning back. (off their looks) So? We gonna do this?
+74) 0) text: Percy looks up from his book as the door opens. Paul ente with Brutal and Harry, ominously hemming the desk.
+74) 2) text: Paul pulls the canvas straitjacket from behind his back.
+74) 3) dialog: Payback.
+74) 6) dialog: Settle down, Percy!
+74) 10) dialog: So you've said. C'mon, stick out your arms like a good boy.
+74) 15) dialog: The man's ripping your ears off, Percy. I'd do as he says.
+74) 16) text: Percy jerks his arms up before him. They get the straitja on him within seconds. Percy turns to Paul on the verge o tears. Softly:
+74) 18) dialog: You would think that.
+74) 19) text: Paul gives him a hard, angry shove...
+75) 3) text: Paul steps forward with a roll of strapping tape.
+75) 4) dialog: Let you in on a little secret. We can and we are.
+75) 6) dialog: You're going to have a few hours of quiet time now, so you can reflect on what you did to Del.
+75) 10) dialog: One more time--what do you say if somebody comes by?
+75) 14) dialog: That's right.
+75) 15) text: The cell is unlocked. Coffey emerges. Paul motions them along, still grilling Dean:
+75) 16) dialog: What about us?
+75) 23) text: Paul plucks Billy's hand off Coffey's arm--and Coffey flinches back as the circuit is broken.
+76) 3) dialog: John, come along! Right now, y'hear? C'mon! Toward that door!
+77) 0) text: ...and they come down the steps. They realize Coffey will have to stoop all the way down the tunnel. Paul pats the gurney.
+77) 1) dialog: Lie down on this. (off Coffey's look) It'll be easier for you and no harder for us.
+78) 0) text: A massive iron door SQUEALS open onto a little-used fence enclosure. Paul and the others bring Coffey up from the tunnel below, emerging into the night. Coffey's breath catches as he gazes wondrously up at the stars, pointing:
+78) 2) dialog: Shhh. John, you have to be quiet now.
+79) 1) dialog: C'mon, big boy, keep moving.
+79) 10) text: The men stand gaping. The fireflies are flitting to Coffe if to a beacon. He waves his hands slowly, fireflies blin and trailing from his fingertips like magic dust. They begin orbiting his shiny bald head like tiny glowing planet orbiting a sun, their light kicking a mellow sheen his ebony skin. Coffey's eyes meet Paul's.
+79) 11) dialog: They seem...drawn to you.
+79) 13) text: The men don't know whether to be enchanted or terrified. Harry gives Paul a look--can we go? Please?
+79) 14) dialog: C'mon, big boy. Upsy-daisy.
+79) 15) text: Coffey clambers up on the stakebed. Paul and Brutal join Harry gets in behind the wheel, jabs the starter button..
+79) 17) dialog: John? Do you know where we're taking you?
+79) 19) dialog: That's right. Help a lady. But how did you know?
+80) 4) text: Paul hesitates, wanting to do just that, but:
+80) 6) text: Lights are coming on inside the house. Coffey rises and s down from the truck, pulling Paul along. Brutal follows t
+80) 8) dialog: Too late now. Harry, keep John here until we call you.
+80) 9) text: Paul and Brutal walk to the front door as the lights insi the house keep clicking on. The last one finally comes on over the stoop, the front door opens a crack...and the tw barrels of a shotgun poke out into the night.
+80) 11) dialog: Hal, it's us! It's Paul and Brutal--it's us!
+80) 14) dialog: Hal, God's sakes, take your finger off the trigger...
+80) 21) text: A frozen moment. Hal mortified. Paul gives him a look--is that Melinda? Hal's shotgun shifts back to Coffey--but Paul steps in fr of the muzzle.
+80) 22) dialog: No one's hurt. We're here to help.
+80) 24) dialog: I can't explain what it is. You just have to trust me.
+80) 25) text: Coffey comes up the steps, brushes Paul aside, stops befo the warden. Hal blinks, his thoughts suddenly fuzzy--it's that benign hypnotic effect Coffey has.
+80) 31) text: Coffey pulls the shotgun gently from Hal's grasp, hands i Paul. Coffey moves past Hal into the house...
+82) 0) text: Coffey enters, trailed by the others. Paul pauses, horrif The woman propped in bed barely resembles Melinda Moores anymore--she looks made up like a Halloween witch, her li skin hanging in a loose trail of wrinkles, one corner of mouth twisted. Yellowish bile stains her chin and the fro of her nightgown. Her hair has gone white and straw-like, eyes glowering at Coffey with lively, irrational interest
+82) 22) text: Paul starts toward them. Coffey crawls away, pressing him into a corner with his face against the wallpaper. He's s making gruesome deep hacking sounds, but getting it under control. He weakly waves Paul off--let me be. Paul looks to the bed. Hal sits with Melinda, stroking he brow. Color is blooming in her cheeks even as we watch.
+82) 26) dialog: Yes.
+82) 28) dialog: It was clear. There was no tumor.
+82) 32) dialog: John? Can you turn around? Can you turn around and see this lady?
+82) 42) text: She undoes her necklace, holds it up for him. He hesitate glances to Paul. Paul nods--it's all right. Coffey lowers head. Melinda affixes the delicate chain around his neck.
+83) 0) text: Paul and the men hustle Coffey out the front door toward truck, helping him as best they can. He's weak as a baby, knees threatening to give out at any moment.
+83) 1) dialog: C'mon, John, stay on your feet.
+83) 5) dialog: If that's his choice, he's earned it. (beat) Let's get him back on the Mile.
+84) 4) dialog: John, we're gonna set you on your bunk now. Ready?
+84) 7) dialog: Yes. Yes it was.
+84) 8) text: Paul scans their faces. Smiles are traded. An exultant be
+84) 11) dialog: Get his stuff.
+84) 12) text: Dean hurries off to retrieve Percy's holster and baton. Brutal unlocks the restraint room door, swings it open. P is revealed sitting against the wall, glaring, his mouth still taped. Paul crouches down. Brutal joins him.
+84) 13) dialog: I want to talk, not shout. I take the tape off, you gonna be calm.
+84) 14) text: Percy nods. Paul takes hold of the tape, preparing to yan
+84) 16) text: Paul rips the tape off. Percy's eyes water with pain.
+84) 19) dialog: In a minute.
+84) 21) text: Paul slaps him hard, knocks him sideways. Percy looks up, blinking in surprise. Paul grabs him, yanks him back up.
+84) 22) dialog: You shut up and listen. You deserved to be punished for what you did to Del. You'll accept it like a man, or we'll make you sorry you were ever born. We'll tell people how you sabotaged Del's execution--
+84) 24) dialog: --and how you pissed yourself like a frightened little girl. Yes, we'll talk, that's a given--but, Percy, mind me now...we'll also see you beaten within an inch of your life.
+84) 26) dialog: We know people, too, are you so foolish you don't realize that? People with friends and loved ones doing time in this prison. People who'd be happy to amputate you nose or your penis just so someone they care about could get an extra three hours in the exercise yard every week. (off Percy's look) Let bygones be bygones. Nothing's hurt so far but your pride...and nobody need ever know about that except the people in this room.
+84) 33) dialog: Think it over, Percy.
+84) 35) text: Percy exits the restraint room. Brutal whispers to Paul:
+84) 37) text: Paul nods with weary resignation--yeah, I know.
+84) 39) dialog: Easy, easy. You all right?
+84) 42) text: Nothing for the longest moment. Percy just staring... ...and then he pulls his gun and empties it into Wild Bil fast as he can pull the trigger. BAM!BAM!BAM!BAM!BAM!BAM! Bill takes all six rounds in the chest, reeling back acro the cell. He hits the wall and slides down, leaving a sme his face registering a final look of stunned surprise. Paul and the other tackle Percy and bring him down, wrest the gun out of his hand. Dean is almost weeping:
+84) 44) text: Percy is flat on his back, staring up at nothing. The bla "bugs" come drifting out of nose and mouth, swirling in t air over his head. They turn white and disappear. The men are speechless. Paul turns, sees Coffey sitting o the floor at his bars, watching.
+84) 46) dialog: Why Wild Bill? Why?
+84) 48) dialog: What? Saw what?
+84) 52) text: Paul hesitates, torn between reason and Coffey's pleading eyes. A whisper:
+84) 54) text: Paul can't help it. He has to. Their hands come together. Paul lurches wildly as that circuit starts blazing betwee them...
+84) 55) dialog: No...please...
+84) 57) text: ...and Paul sees: The Detterick twins. Kathe and Cora. Laughing and playing hopscotch in the dust under a later afternoon sun... A dinner table. Family having supper late in the day, bas of biscuits being passed. Twelve year old Howie Detterick taking it, passing it on... An hand with a paint brush slopping bright red paint on t side of a barn... Kathe skipping to the head of the hopscotch squares, turn and starting back, laughing in the sun... The paint brush slopping more paint, dripping like blood. Paul jerks and twists, trying to pull away, trying to bre the circuit, but he can't, not till all is seen and done: Marjorie Detterick calling from the porch for everybody t come eat, supper's ready... A hammer pausing. Klaus looking down from atop the barn.. The Detterick twins finishing their hopscotch, gathering their jump ropes from the dust, running across the yard.. The basket of biscuits being passed to little Cora, who t a biscuit and passes it on... Klaus coming down the ladder, calling to his daughters. T little girls running past the man with the paint brush, w turns and smile as they go by...it's Wild Bill. The basket of biscuits is passed one last time. A hand pu one out, raises it for a bite. It's Wild Bill, smiling at little girls as conversation flows around the table... Paul screams, trying to pull away, but: The porch door is kicked off its hinges just before dawn, figure looming in the doorway. Kathe wakes, her scream cu short as the man's fist punches her hard in the face... Paul trembles violently as if riding the lightning himsel pleading for it to stop, but there's one last thing: Wild Bill looms over the terrified little girls like a horrendous boogeyman, whispers to Kathe:
+84) 59) text: And he drags them out into the coming dawn... ...as Coffey lets Paul go. Paul is gasping, back in the r world where his men are staring at him with wide eyes.
+84) 61) text: Paul nods, numb. Tears are flowing down Coffey's face. So
+85) 12) text: Paul looks Hal in the eye. As with Bitterbuck, the lie co easy:
+85) 13) dialog: No.
+88) 0) text: TIGHT ON PAUL as softly:
+88) 1) dialog: It makes sense. I read the file. Hal even said it himself. Wharton rambled all over the state last few years, causing trouble. Hell, longer than that. Been at it since he was ten. Vandalism. Petty theft. Setting fires.
+88) 4) dialog: Their father hired him on for a few days last spring, help repair the barn. Cheap labor, just another drifter...
+88) 6) dialog: Sick bastard came back a month later, just before dawn. Took the girls...did what he did. Coffey found them afterwards and tried to help. It was too late.
+88) 8) dialog: Based on what, honey? Some kind of magical vision I had?
+88) 11) dialog: They got their killer as far as they're concerned. Hell, Coffey's own lawyer would come throw the switch if we let him.
+88) 13) dialog: Lie? About what?
+88) 18) dialog: All the more reason he might take credit for the crime. He's gonna fry anyway, so why not boast?
+88) 29) dialog: Because he's a six-foot-eight-inch baldheaded black man with barely enough brains to feed himself. How long you think it'd be before he was recaptured? Two hours? Six?
+88) 32) text: Paul tries to take her hand. She wrenches away, furious.
+88) 38) dialog: Even that time we went camping and you called me Old Stinky Sam?
+88) 41) dialog: No.
+88) 43) dialog: I won't.
+88) 45) dialog: No. I've been thinking about it, too, believe me. (beat) Tell you the truth, honey. I've done some things in my life I'm not proud of, but this is the first time I've ever felt in real danger of hell.
+89) 0) text: Coffey sits quietly in his cell, a solitary firefly flitt in circles around his finger. Paul and the men appear. Th firefly flits away, vanishing through Coffey's tiny windo
+89) 2) dialog: Hello, John.
+89) 3) text: Brutal unlocks his cell. Paul enters.
+89) 4) dialog: I guess you know we're coming down to it now. Another couple of days. (beat) Is there anything special you'd like for dinner that night? We can rustle you up most anything.
+89) 7) dialog: What about a preacher? Someone you could say a little prayer with?
+89) 9) dialog: Me?
+89) 11) dialog: S'pose I could, if it came to that.
+89) 12) text: Paul sits, working himself up to it:
+89) 13) dialog: John, I have to ask you something very important right now.
+89) 15) dialog: I do. I do have to. (beat) John, tell me what you want me to do. You want me to take you out of here? Just let you run away? See how far you can get?
+89) 17) text: Paul hesitates, emotions swirling, trying to find the rig words.
+89) 18) dialog: On the day of my judgement, when I stand before God, and He asks me why did I kill one of his true miracles, what am I gonna say? That is was my job? My job?
+89) 20) text: Coffey hesitates--now he's the one trying to find the rig words, trying to make Paul understand:
+89) 22) text: By now, Paul is blinking back tears. Softly:
+89) 23) dialog: Yes, John. I think I can.
+89) 31) text: Paul and the men are scattered about in the otherwise emp auditorium, also watching.
+90) 3) text: Paul indicates St. Christopher medal around John's neck:
+90) 4) dialog: John, I should have that just for now. I'll give it back after.
+90) 5) text: John lets him take the necklace. Paul pockets it. They st to walk the Mile as:
+90) 7) dialog: Did you, John?
+90) 13) dialog: What should we pray for, John?
+90) 15) text: Paul nods--strength it is. Dean surprises Brutal and Harr also kneeling. Brutal and Harry hesitate...then join them
+90) 16) dialog: God, please help us finish what we've started, and please welcome this man, John Coffey--like the drink, but not spelled the same-- into heaven and give him peace. Please help us to see him off the best we can and let nothing go wrong. Amen.
+90) 17) text: Paul starts to rise, but Coffey takes his hand.
+90) 19) dialog: You go right ahead, John. Take all the time you need.
+90) 22) text: And Paul sees: Kathe and Cora Detterick kneeling together in the enclose porch that night, just before their bedtime:
+90) 26) text: Coffey rises, offers Paul his hand, helps him up.
+90) 34) text: She dissolves into tears. Klaus pulls her against his shoulder, looking dazed by the whole thing. Paul and Brutal turn John around, sit him down. Paul noti Dean crying again, his back to the witnesses. They kneel apply the leg clamps, while Brutal and Harry secure the a
+90) 35) dialog: Wipe you face before you stand up, Dean.
+90) 36) text: Dean nods, wiping his face with the sleeve of his coat. T rise, stepping back. This time, Paul's out front:
+90) 37) dialog: Roll on one.
+90) 40) dialog: John Coffey...you have been condemned to die in the electric chair by a jury of your peers...sentence imposed by a judge in good standing in this state. Do you have anything to say before sentence is carried out?
+90) 44) text: Brutal takes the mask from the hook to draw it over Coffe head. Coffey looks to Paul with terrified, pleading eyes.
+90) 46) dialog: All right, John.
+90) 52) dialog: is staring at Coffey, unable to say the words.
+90) 54) text: Paul can't. He reaches out and touches Coffey's hand. The fingers clasp. In that moment, staring into his eyes, Pau hears the last thought that ever goes through Coffey's he
+90) 56) text: Their fingers disengage. Paul steps back, eyes still lock with Coffey's, and says the hardest words he's ever spoke
+90) 57) dialog: Roll on two.
+90) 58) text: Van Hay throws the switch. Coffey surges forward, fingers splayed and jittering past Old Sparky's arms. Lights begin blowing out all over the Mile, raining shatt glass and sparks. Some of the witnesses scream. A thin line of blood comes trickling out of Klaus Detteri nose. He reaches up, absently wipes it away. Coffey's eyes are locked on Paul's, riding the lightning the way. He finally slumps. Van Hay kills the current. Coffey's expression is peaceful, as if sleeping. A final of tears drift gently down his cheeks.
+91) 0) text: Paul ever so carefully replaces the St. Christopher's med around Coffey's neck. They wheel him down the tunnel.
+92) 0) text: Paul drives home, his heart numb.
+93) 0) text: Paul pulls in, cuts the engine. He sits for a moment, the gets out and heads for the house. The door opens. Jan steps out in her nightgown and robe t meet him on the stairs. She takes him in her arms. Paul can't hold it back anymore. He breaks down sobbing against her as we
+94) 1) dialog: That was the last execution I ever took part in. Just couldn't do it anymore after that. Brutal either. We both transferred out, took jobs with Boys' Correctional. (beat, nods) That was all right. Catch 'em young, that became my motto. Might even have done some good.
+94) 3) dialog: You don't believe me.
+94) 5) dialog: ...It's quite a story.
+94) 7) dialog: The math doesn't work, does it?
+94) 8) text: She shakes her head. Paul thinks for a moment, comes to a decision.
+94) 9) dialog: You feel up to a walk?
+96) 0) text: ...while Paul and Elaine watch from a window.
+98) 0) text: Paul brings Elaine along the wooded path into view of the storage shacks. They're both wearing ponchos.
+98) 1) dialog: There. It's in there.
+98) 3) dialog: Scary? No. Not really.
+99) 0) text: We see Paul approach through the grimy window as before, time bringing Elaine. ANGLE SHIFTS to the door as they arrive, creaking open on rusty hinges to reveal them. They enter. Elaine looks around at the musty nooks and crannies, wondering what they're doing here. Paul toucher arm, directs her attention:
+99) 1) dialog: There.
+99) 3) dialog: Hey. Wake up, old boy. Wake up.
+99) 6) text: Paul gets down on the floor, holds out his hand.
+99) 7) dialog: Come over here, boy. Come on over her and see this lady.
+99) 8) text: The mouse tries several times to get over the side of the cigar box before he finally makes it. He comes to them, hobbling and crippled with arthritis. Paul pulls a slice toast from his pocket, breaks off a small piece for the m
+99) 10) text: Paul says nothing, just pulls a spool from his pocket. Mr Jingles might be old, but he's as obsessed as ever. He ge ready to fetch, eyes riveted to the spool. Softly:
+99) 11) dialog: Messieurs et mesdames. Beinvenue au cirque du mousie.
+99) 12) text: Paul tosses the spool. The mouse limps painfully after it reaches it, goes around...and has to lay down to catch hi breath. Elaine starts forward, but Paul holds her back. After a moment, Mr. Jingles finds his feet again. He rise and starts nosing the spool back to Paul.
+99) 14) dialog: (softly) But he loves it so much.
+99) 16) dialog: This isn't exactly the Mouseville we had in mind...but we make do, don't we, old fella?
+99) 22) dialog: Don't hurt him, okay? Okay?
+99) 26) text: Paul rushes in front of Brad, fists clenched, yelling:
+99) 27) dialog: You leave him alone, Percy! You leave him alone, or by God I'll--
+99) 28) text: Brad gives Paul a hard shove, pins him against the wall.
+99) 38) text: Brad eases his grip on Paul...and backs off.
+99) 43) text: And off he goes. Paul tries to control the shaking in his hands, looks to Elaine.
+99) 45) dialog: Is your grandson really Speaker of the House?
+99) 47) text: Paul bends down, picks Mr. Jingles up.
+99) 48) dialog: You gonna thank the lady? She just saved your old mousie hide.
+99) 49) text: The mouse stretches his neck forward, nose twitching, smelling Paul's breath. Paul looks to Elaine. Softly:
+99) 50) dialog: I think Mr. Jingles happened by accident. I think when we electrocuted Del, and it all went so badly...well, John could feel it, you know...and I think a tiny part of whatever was inside of him just leapt out... (beat) Me, I was no accident. John had to give me a little part of himself...a gift, like...so I could see for myself what Wild Bill had done. When John did that, a part of whatever power worked through him spilled into me.
+99) 52) text: Paul looks at the mouse, strokes him gently between the e
+99) 53) dialog: That's as good a word as any. He infected us both, didn't he, Mr. Jingles. With life. (beat) I'm a hundred and five years old, Elaine. I was forty the year John Coffey walked the Green Mile.
+99) 55) text: CAMERA PUSHES SLOWLY IN on Paul as:
+99) 56) dialog: I haven't even had a cold since 1935. I've had to watch my friends and loved ones die off through the years...Hal and Melinda...Brutus Howell...my wife...my son... (beat) ...and you, Elaine. You'd die, too, and my curse is knowing I'll be there to see it...
+100) 0) text: Paul, dressed in a dark suit, comes up the aisle. ANGLE SHIFTS to reveal Elaine Connelly lying in the open casket
+100) 1) dialog: ...that's my punishment, you see? My punishment for letting John Coffey ride the lightning...for killing a miracle of God...
+100) 2) text: Paul lays a rose atop the casket.
+100) 3) dialog: ...you'll be gone, like all the others, and I'll have to stay...
+101) 0) text: Paul stands at the graveside as the casket is lowered.
+101) 1) dialog: I'll die eventually, I imagine. I have no illusions of immortality. But I will have wished for death long before death finds me.
+101) 3) dialog: In truth, I wish for it already.
+102) 0) text: Empty and silent. Young Paul walks the Mile alone, listen to the quiet. He pauses, seeing something. A whisper:
+102) 1) dialog: Mr. Jingles?
+102) 3) dialog: Where you been, boy? I've been worried about you. You hungry?
+102) 4) text: Paul turns and head back up the Green Mile, carrying the mouse cupped in his hands as we
+103) 0) text: Young Paul transforms into Old Paul in the dissolve, the corridor of the Green Mile becoming the corridor of the nursing home. He's walking along, holding the little mous the same way he did over sixty years ago.
+103) 1) dialog: I lie in bed most nights, thinking about it. And I wait...
+104) 0) text: Paul lies awake, staring at the moon outside his window.
+104) 1) dialog: I think about all the people I've loved, now long gone. I think about my beautiful Jan, and how I lost her so many years ago. I think about all of us walking our own Green Mile, each in our own time. But one thought, more than any other, keeps me awake most nights... (beat) ...if he could make a mouse live so long, how much longer do I have?
+104) 3) dialog: We each owe a death, there are no exceptions, but sometimes, oh God, the Green Mile is so long...

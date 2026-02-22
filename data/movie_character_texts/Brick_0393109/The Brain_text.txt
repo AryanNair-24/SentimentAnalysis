@@ -1,0 +1,125 @@
+3) 9) dialog: Hey Brendan. It's been awhile. Where you been eating?
+3) 13) dialog: Huh. Yeah, no one's seen you. What's it been, a couple months?
+3) 17) dialog: A few days ago. Was I wrong?
+3) 21) dialog: To give it?
+3) 25) dialog: It's been so long, I don't know you two's stats.
+3) 28) dialog: (uncomfortable) I dunno. It's hard to keep track.
+3) 32) dialog: (shrugs) Can be.
+3) 33) text: The Brain avoids Brendan's gaze.
+3) 40) dialog: She hasn't been doing too good.
+3) 44) dialog: Help with what?
+3) 48) dialog: Well. I know she was poking in with the Ivy-bound cheerleading elite. Laura Dannon's crowd.
+3) 53) dialog: Yeah. Brad Bramish with her. Cream on the upper crust.
+3) 58) dialog: Know him?
+3) 62) dialog: I won't argue then. Anyway Em tagged after them for a bit, but it didn't work. So she picked her way down the food chain. Last I seen she was with whasshername, that drama vamp. Small time dealer, augh, the evil one, the one you dated-
+3) 66) dialog: That's my bus.
+3) 70) dialog: Kara's?
+3) 74) dialog: 239.
+3) 78) dialog: Sure.
+3) 79) text: The Brain trots off. In the distance Brad and Laura laugh and he kisses her. Her hair blows in the wind.
+31) 1) text: The Brain studies the paper. Busses pull into the parking lot behind them. Brendan is distant, lost in thought.
+31) 3) dialog: Hm. Do you know anything else about this?
+31) 13) dialog: Slim pickings. Why'd you let Dode fly when he came back to whose-her-name, at the theater?
+31) 17) dialog: Hm. Well, if this is what I think it is, it didn't come straight from Dode, less he's playing out of his league. (beat) I can only give you my best guess.
+31) 21) dialog: When the upper crust does shady deeds they do them in different spots around town. I know under the pier's one, down by the bike trails in the state park's another. There's alot of them. The pitch is they've got little symbols for each one, and that's how they tell each other the place, so word won't get around. So this might be that.
+31) 25) dialog: This is upper crust. Dode's pie pan grease.
+31) 32) dialog: How many places start with 'A'? Or if it's a shape, or just a random symbol. Anyway, even if you figured it out, what good could you do? She's smart, she knows the play, she's gunning to square things.
+31) 36) dialog: You said her business was none of yours, so she's alright, forget it now. Go home, sleep.
+41) 1) text: Warmly lit, sheltering the few souls scattered here and there at tables. The Brain sits at one of them reading an impossibly large book. He watches curiously as Brendan approaches him.
+41) 3) dialog: Hey, Brendan.
+41) 4) text: Brendan falls into a chair. The Brain looks him over.
+41) 5) text: THE BRAIN (cont'd) You're up early.
+41) 9) dialog: (nods, back to his book) Find Emily?
+41) 11) text: THE BRAIN (cont'd) You alright?
+41) 15) dialog: Nah, I gotta take the early bus, cause the others don't run by my street.
+41) 19) dialog: Eh. Time to read's nice. So what's the word with Em?
+41) 23) dialog: Can't raise her?
+41) 27) dialog: So what now?
+41) 35) dialog: You think you can help her?
+41) 39) dialog: You think you can get the straight, maybe break some deserving teeth?
+41) 43) dialog: Well.
+41) 48) dialog: Walk from it. Drop it. (grins) You're thick as what-all, Brendan.
+41) 54) text: The Brain barely smiles.
+41) 56) dialog: What first, tip the bulls?
+41) 61) dialog: So what first?
+41) 65) dialog: In her car.
+45) 1) text: Brendan and the Brain lean against a wall. The Brain slip him a piece of paper.
+45) 3) dialog: There's the cell number.
+45) 7) dialog: (pats his jacket pocket) Yeah.
+45) 11) dialog: Trueman asked for you. Wants words in his office.
+45) 15) dialog: I'll try. So what's first?
+45) 19) dialog: No.
+45) 28) dialog: No.
+45) 32) dialog: Tug... that might be a drink.
+45) 36) dialog: Vodka and milk or something, or maybe not.
+45) 40) dialog: Frisco. Frisco Farr1 was a sophomore last year, I think. Real trash, maybe hit a class a week. Didn't know him then, and haven't seen him around.
+45) 44) dialog: Pin... the Pin?
+45) 48) dialog: The Pin's kind of a local spook story. You know the Kingpin?
+45) 51) dialog: Same thing. Supposed to be old, like 26, lives in town.
+45) 59) dialog: Big time... maybe. Ask any dope rat where their junk sprang they'll say they scraped it from that who scored it from this who bought it off so, and after four or five connections the list'll always end with the Pin. But I'll becha you got every rat in town together and said 'show your hands' if any of them've actually seen the Pin, you'd get a crowd of full pockets.
+45) 63) dialog: (shrugs. Beat) But what's first?
+49) 1) text: The Brain walks out of a classroom and Brendan swings beh him.
+49) 4) text: The Brain turns and Brendan's gone.
+53) 3) dialog: (on the phone) You didn't call.
+53) 6) dialog: Yeah, but she stopped at a payphone and made two calls that she didn't want on her phone bill.
+53) 10) dialog: No. Sorry.
+53) 14) dialog: All the buzz. You really do that?
+53) 18) dialog: Why? Is Brad the Pin?
+53) 28) dialog: I told you before I don't know the car. Those types are a nickel a pound, but nobody I know that you don't. And Trueman again-
+53) 32) dialog: Okay.
+57) 3) dialog: No, Dode's MIA all around.
+57) 9) dialog: No more job offers? So she's got a play.
+57) 13) dialog: Some. Laura Dannon came to me looking for you.
+57) 17) dialog: Fourth period, nearly shook me upside down. Can't say I didn't enjoy it, but why'd she come to me?
+57) 21) dialog: Yeah, well. She's some piece of work. If I had known where you were I might have told her.
+68) 3) dialog: (on the phone) So what happens now?
+68) 6) text: The Brain is quiet for a beat.
+68) 8) dialog: I think she's with us, Brendan.
+68) 13) dialog: Okay.
+72) 5) dialog: (on the phone) Yeah I know him, I just can't pin him to any crowd. He's definitely not muscle for anyone. He taps the Carrows crowd but doesn't hang with them. If you've got a guess I could check it out-
+72) 9) dialog: I'll check it. I'm in third now-
+74) 34) dialog: (on the phone) Brendan?
+74) 38) dialog: You alright?
+74) 42) dialog: Alright. Trueman was looking for you.
+74) 46) dialog: No, just Trueman.
+74) 50) dialog: No, but looked.
+76) 3) dialog: (on the phone) Don't go to class.
+76) 7) dialog: Fifth period Trueman and the VP come in asking for you.
+76) 11) dialog: Did they call your mom?
+76) 15) dialog: Get out of there too, then. Meet me behind the library. I've got some stuff.
+77) 0) text: A cold gray morning. The Brain hands Brendan a photocopy a newspaper clipping, "LOCAL YOUTH HOSPITALIZED"
+77) 2) dialog: Frisco Farr was found on a sidewalk outside Pinkerton's Deli three weeks ago. He was in a coma, his stomach contained a sausage sandwich, a horse dose of Heroin and traces of Choleric Tricemate, a poisonous chemical found in laundry detergent. Frisco's still under
+77) 9) dialog: No, the chem the junk must have been cut with put him down.
+77) 13) dialog: No -- it was a concentrated powder, its street handle's 'whip' or 'rock' or 'brock'. (fishes a note from his pocket) Here. From Laura.
+77) 17) dialog: You tell her to stay clear of me?
+77) 24) dialog: No.
+77) 25) text: The Brain lays out a local newspaper with Emily's picture "LOCAL GIRL MISSING". Uncomfortable silence.
+77) 28) text: The Brain looks hard at him. Brendan stares off into spac for a beat, then takes the Brain's cell phone and dials.
+77) 45) dialog: What?
+77) 49) dialog: What are you going to do?
+77) 56) dialog: How?
+95) 5) dialog: (on phone) Brendan?
+95) 9) dialog: Are you - what, man, have you heard about Dode-
+95) 13) dialog: You-
+95) 17) dialog: Kasprzyk took my phone, turned it off. I just now got it back.
+95) 21) dialog: Are you okay?
+95) 25) dialog: No.
+95) 28) dialog: Yeah. What do you mean?
+95) 34) dialog: If it's late enough I could take my mom's-
+95) 38) dialog: Alright.
+104) 3) dialog: (on phone) Yeah.
+104) 8) dialog: Yeah.
+104) 12) dialog: Okay.
+112) 7) dialog: (on phone) Library. Where are you?
+112) 11) dialog: No. Stayed there till six thirty, then walked to school.
+112) 15) dialog: No.
+112) 19) dialog: Yeah.
+112) 23) dialog: Yeah. Not with me, but here.
+112) 27) dialog: Alright.
+117) 18) text: Metal jangles. Brendan turns to see the Brain hopping a chain link fence. Brendan turns his eyes back on Laura.
+117) 22) dialog: Yeah. I wouldn't have-
+117) 26) dialog: Yeah, well. Chuck Burns came to. The knife guy. Spilled it all to the bulls, guess Brad Bramish hired him. On his own, just a grudge thing.
+117) 30) dialog: Yeah, you too.
+117) 33) text: The Brain starts to walk away, but turns back.
+117) 34) text: THE BRAIN (cont'd) What'd she whisper to you?
+117) 39) dialog: Alright, you don't have to tell me. Thick.

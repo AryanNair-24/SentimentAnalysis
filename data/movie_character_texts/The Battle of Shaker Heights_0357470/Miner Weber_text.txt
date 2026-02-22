@@ -1,0 +1,21 @@
+23) 27) text: Bart rolls his eyes, indicating what he thinks of good ol Miner. Kelly nods, doesn't say anything.
+59) 23) dialog: 
+59) 25) text: Miner opens the door. See Kelly. Smiles like the stockbro he is and crosses to him.
+59) 26) dialog: Miner Webber.
+59) 27) text: Miner holds out his hand for a good old-fashioned shake. Kelly takes it.
+59) 29) text: Miner looks confused.
+59) 32) dialog: Quite all right. (smiles as an  afterthought) So, what do we have here, a little  painting class?
+59) 34) dialog: Oh? What's your real job?
+59) 35) text: Kelly smiles eagerly at Miner over the edge of his canvas
+59) 37) dialog: That's quite an image.
+59) 39) dialog: What?
+59) 42) text: Miner stares at Kelly. He can't tell what he might be mak fun of, or if it might be him.
+59) 43) dialog: Whatever it takes to get you through  the day.
+59) 44) text: Kelly rolls his eyes at this uninspired response, though  Miner doesn't see it. He grabs Tabby's paintbrush and pul her to him.
+59) 45) dialog: I have the afternoon off. Come away  with me.
+59) 47) dialog: Oh, come on. They'll still be here. (to Kelly) I know you'll still be here.
+59) 50) dialog: But everyone will be coming soon.  And it will get all crazy, and we  won't have any time to ourselves.
+59) 52) text: Tabby kisses Miner. He realizes there's no convincing her and sighs.
+59) 53) dialog: Like tonight? We can practice  honeymoon suite.
+59) 55) text: Miner looks at Kelly, who looks away. Then he puts his hands in his pockets and leaves. Tabby and Kelly paint in silence for a while. Kelly moves around to look at his canvas from different angles, like  he's copying what he thinks a painter would do.
+78) 2) text: He stops when he sees Tabby and Miner sleeping together o the couch. Tabby opens her eyes.

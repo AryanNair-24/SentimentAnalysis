@@ -1,0 +1,51 @@
+15) 0) text: There are several cop cars now, an ambulance, a police barrier, cops everywhere and a crowd of onlookers. Lisa i giving a statement to DETECTIVE MITCHELL. She is complete drenched in blood. Her clothes, boots,' everything. A FEW YARDS AWAY the Bus Driver, very shaken, is giving his statement to another cop (MOS), but also trying to hear w Lisa is saying. Lisa keeps looking over at him.
+15) 1) dialog: OK, Lisa? Lisa? I just want to ask you a couple of questions, OK?
+15) 8) dialog: Now I want to ask you where you-were, and what you saw when the accident took place. Just tell me everything you saw, even if you think it might not be important. OK? Think of it like a movie. Like you're watchin' a movie in your head, and all you gotta do is tell me exactly what you see in the movie. OK?
+15) 12) dialog: OK, so you're on the corner? Northwest  corner? 
+15) 14) dialog: So, you're standing across the street.  Northwest corner. 
+15) 16) dialog: So the bus goes by and you start running. 
+15) 18) dialog: Whoa whoa whoa whoa. Slow down a sec. So you're tryin' to catch the bus --
+15) 25) dialog: I'm sorry Lisa, but we gotta ask you this while it's still fresh in your mind. I know this is hard for you. I'm just tryin' to do my job, OK?
+15) 27) dialog: OK, Lisa, hang in there. You're doin' great. 
+15) 29) dialog: We already called your Mom; but I'm gonna have 'em put another call into your mother right now, OK?
+15) 31) dialog: I'm not tryin' to patronize you. I'm just tryin' to get the information down while
+15) 34) dialog: Well, that's what I'm doin'. Now: I'm gonna ask you: From where you're standing could you see the traffic light? (Pause) Could you see if it was red? Green? Yellow? Just picture it in your mind. What color was the light? Lisa looks over at the Bus Driver. He looks back at her.
+45) 0) text: Mitchell walks Joan and Lisa into the interview room. MITCHELL
+45) 5) text: Yes. MITCHELL
+77) 2) text: Accident Investigation. Detective Mitchell. LISA
+77) 3) text: Hi, my name-is Lisa Cohen. I was a witness in a bus accident case a few weeks ago... MITCHELL
+77) 5) text: Well, this is probably gonna sound a little weird, but are you allowed to tell me how to get in touch with that woman's family? I'm obviously probably too late to go to the funeral, but I really wanted to send some flowers or something. MITCHELL 
+77) 7) text: Or is that like classified information?  MITCHELL 
+77) 9) text: She mentioned she had a daughter... MITCHELL 
+77) 12) text: 66 85 CONTINUED: 85 MITCHELL
+77) 15) text: No Criminality. MITCHELL
+77) 17) text: Wow. That's a -- great system you got. OK. Wow. MITCHELL
+106) 2) text: Um, yeah. Is Detective Mitchell here?
+106) 11) text: And I filled out a report with Detective Mitchell, but wanted to amend the report, so I thought I should --
+106) 17) text: Yes. I know. That's why I asked to see  Detective Mitchell. Who said he'd be here  now. Which he's not. So... 
+106) 47) text: No... MITCHELL
+106) 49) text: Nothing. I don't know if you remember me... I'm Lisa Cohen. I called you on  Monday? MITCHELL
+107) 0) text: Lisa sits across from Mitchell. MITCHELL
+107) 2) text: Yes. He wasn't even looking at the road. And I was definitely trying to get his attention... MITCHELL
+107) 5) text: 100 120 CONTINUED: 120 MITCHELL
+107) 7) text: Do whatever you want. I know what I did.  MITCHELL
+107) 9) text: Even if he kills someone? MITCHELL (SIMULTANEOUS) 
+107) 11) text: (On 2nd "red") So he's not liable to be prosecuted for manslaughter? Or second degree murder? MITCHELL
+107) 13) text: That's unbelievable! What does he have to do? Kill her on purpose? MITCHELL
+107) 15) text: No. Pause. MITCHELL
+107) 19) text: You're kidding. MITCHELL
+111) 3) text: Someone named Emily called. And Detective Mitchell called from the Accident Investigation Squad. Is that the one you talked to? LISA
+116) 1) text: Yes, Detective Mitchell please? . My name is Lisa Cohen? C 0 H -- Yes, I'll hold. (On hold) Fuck you...    
+117) 0) text: Mitchell picks up the phone. WE CUT BETWEEN THEM.    
+117) 1) text: 113 130 CONTINUED: 130 MITCHELL
+117) 2) text: Detective Mitchell. LISA
+117) 3) text: Oh, hi, it's Lisa Cohen calling. MITCHELL
+117) 5) text: Well, I was just wondering what ever happened, if anything, with the case. You said you might re-interview the bus driver... MITCHELL 
+117) 7) text: You did? What happened? MITCHELL
+117) 9) text: But how did you ask the questions? MITCHELL
+117) 12) text: statement if you just ask him like really politely: Why would he? We already know he's a liar. MITCHELL 
+117) 14) text: Yeah, not to white people. MITCHELL
+117) 17) text: You don't do it to white people. Anyway,  I'm not saying you --  MITCHELL 
+117) 19) text: Oh my God... MITCHELL
+117) 21) text: Yes, thank you, yes. MITCHELL
+118) 3) text: But how do you know Detective Mitchell interrogated him aggressively enough if you weren't there? JOAN

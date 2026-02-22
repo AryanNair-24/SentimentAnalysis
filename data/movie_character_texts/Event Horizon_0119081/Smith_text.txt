@@ -1,0 +1,105 @@
+15) 0) text: MOVE IN on thick quartz windows near the ship's nose: the bridge... Split level. Above: avionics, navigation, flight control. STARCK (female, Navigator, sharp mind, sharp tongue) chec the navigation data on her screen as SMITH (male, Pilot,  wrapped too tight) punches in the course.
+15) 1) dialog: I can't believe this, I haven't gotten  more than my hand in six weeks and  now this shit. Why not Mars, Cap,  Mars has women...
+15) 5) dialog: Locked and cocked.
+30) 0) text: Weir sits huddled in a blanket. Miller takes a seat next him. Starck and Smith enter. Starck sits next to Miller.
+30) 1) dialog: 30 hours to Neptune orbit.
+30) 23) dialog: Let the dead rest, man...
+30) 29) dialog: You can't do that.
+30) 35) text: Weir thinks of another way to explain it. He rips a pin-u from Smith's locker.
+30) 36) dialog: Hey...
+32) 3) dialog: What the hell is that?
+32) 7) dialog: Jesus...
+34) 3) dialog: (echoing) Heading three-three-four...
+34) 5) dialog: One-four degrees...
+36) 1) dialog: We have a lock on the Event Horizon's  navigation beacon. It's in the upper  ionosphere, we're in for some chop.
+36) 4) dialog: (over Starck) Matching speed... now. Range to target  ten thousand meters and closing...  Skipper, I got a bad feeling about  this...
+36) 6) dialog: That's not it. That ship was built  to go faster than light... That's  just wrong, it goes against everything  we know...
+36) 8) dialog: Something like that, yeah.
+36) 11) dialog: Yes, sir.
+36) 17) dialog: Dead ahead, 5000 meters.
+36) 18) text: Suddenly, the ship SHUDDERS VIOLENTLY. Weir braces himself in the doorway, staring out the forwa window into the roiling azure clouds. Smith grimaces, his knuckles white at the controls.
+36) 19) dialog: We've got some weather.
+36) 22) dialog: Range 3000 meters and closing.
+36) 25) dialog: 1500 meters. We're getting too  close...
+36) 28) dialog: 1000 meters...
+36) 30) dialog: Proximity warning! 900, 800 meters,  700... we're right on top of it,  we're gonna hit!
+40) 1) dialog: Jesus, that is one big ugly fat  fucker...
+40) 3) text: Miller reaches over Smith's shoulder, turns off the proxi warning. Smith snaps back to business.
+40) 4) dialog: Range 500 meters and holding.  Turbulence is dropping off...
+40) 7) dialog: (he is not) Love to.
+42) 0) text: Smith keeps a tight hand on the controls. The crew stare the viewport at the abandoned craft.
+42) 4) dialog: Shit, Doc, any closer and we're gonna  need a rubber...
+42) 6) text: Smith grimaces. His hands move carefully over the control
+46) 1) dialog: (to Weir) It is now. (to Miller) We're locked in.
+50) 0) text: Weir has taken over Justin's station. He watches the POV  monitors like a kid watching Christmas. Smith and Starck  keep tabs over his shoulder.
+81) 2) dialog: Explosive decompression.
+87) 1) dialog: What the hell is that?
+95) 5) dialog: Something's wrong...
+104) 2) dialog: Get them back --
+104) 4) text: An equipment rack IGNITES. Smith grabs an extinguisher, f the blaze...
+113) 0) text: Weir, Starck and Smith continue to hold on tightly as the vibration builds... and builds...
+113) 5) dialog: The safety circuit's failed!
+113) 8) text: Starck pushes Weir ahead of her, Smith follows hard as th run the length of the ship for the airlock bay.
+116) 5) dialog: (radio) Captain Miller...
+116) 7) dialog: We have a situation here...
+117) 0) text: Starck and Smith already in suits. DJ assists Weir. Smith has already locked his helmet into place.
+117) 1) dialog: (continuing) We lost the starboard baffle and the  hull cracked. Our safety seals didn't  close, the circuit's fried --
+118) 2) dialog: (radio) We don't have time to fart.
+119) 1) dialog: We're losing pressure at 280 liters  a second and our oxygen tanks are  cracked. In three minutes, our  atmosphere will be gone. We are  fucking dead.
+120) 2) dialog: (radio) They're gone.
+121) 3) dialog: What?
+121) 6) dialog: I don't think this is a good idea,  we don't even know what happened on  that ship...
+122) 2) dialog: (radio) But...
+125) 0) text: Miller meets the crew as they evacuate the Lewis and Clar Weir leads the way, eager; Smith hangs back.
+130) 0) text: It's Smith, EVA in full protective gear. His magnetic boo hold him to the Lewis and Clark's hull. He kneels over a  hole in the hull, where the metal has buckled and torn. V still leaks from the hole into space.
+130) 1) dialog: Captain Miller, you copy?
+130) 3) dialog: I've found a six inch fracture in  the outer hull. We should be able to  repair it and re-pressurize, it's  gonna take some time.
+130) 5) dialog: Understood.
+130) 6) text: Smith uses a foam applicator to fill the hole. The gel fr in place. Smith reaches to his belt, pulls out a ZERO-G  NAILGUN. Presses it to the patch and begins to rivet it i place.
+132) 0) text: Gravity has scattered debris and freeze-dried blood about the room. The crew (Justin and Smith excepted) tries to r on the chairs of dead men. Their faces are wan and haggar Weir relaxes at the table. Unlike the others, he seems al at ease. DJ remains forever stoic; Starck, animated and  nervous. Cooper bounces the handball on the floor, a refl action. Miller stares at a video monitor, watching Smith repair t Lewis and Clark. He turns from the window.
+137) 0) text: The Airlock light turns red -- a warning. The Inner Airlo door control flashes: "LOCKED." The Outer Airlock door op Smith enters. He closes the Outer Airlock door. Atmospher HISSES into the chamber. The Inner Airlock door flashes: 
+138) 0) text: Cooper in EVA, getting ready to go outside. The Inner Air door opens. Smith enters. Takes off his helmet.
+138) 2) dialog: I'd rather spend the next twelve  hours Outside than another five  minutes in this can. This ship is  bad. It watches you.
+138) 4) dialog: You heard me. This ship, it's crazy:  trying to go faster'n light, that's  like the Tower of Babel.
+138) 6) dialog: You know what happened to the Tower  of Babel, don't you? It fell down.
+156) 15) text: Smith, leaning against the doorway:
+156) 16) dialog: I didn't see anything and I don't  have to see anything. This ship is  fucked.
+156) 18) dialog: (exploding) Hey! You don't need to be a scientist  figure it out...
+156) 21) dialog: ...you break all the laws of physics,  you think there won't be a price?  You already killed the first crew...
+156) 23) text: DJ lays one hand on Smith's shoulder to calm him... Smith reacts violently, turning on DJ, shoving him back. uses Smith's momentum to spin the pilot into the wall. He presses his scalpel just below Smith's ear...
+156) 25) text: DJ freezes. The scalpel falls from his hands. He releases Smith.
+156) 28) text: Smith goes for Weir.
+156) 29) dialog: He's fucking lying, you know  something...!
+156) 32) text: Smith calms.
+156) 33) dialog: Sir.
+156) 35) text: Smith leaves.
+169) 0) text: Miller, Smith and Cooper cling to the Lewis and Clark's h They carefully remove an access panel, revealing scorched wiring.
+169) 2) dialog: What about the accumulator...?
+201) 0) text: Cooper looks at Smith.
+202) 1) dialog: (radio) It's holding... She's holding...!
+207) 0) text: Peters enters, carrying heavy CO2 scrubbers. Smith stops  her.
+207) 1) dialog: What's going on, sweethearts?
+207) 3) text: Smith smiles.
+207) 4) dialog: About goddam time.
+212) 0) text: Smith and Peters finish removing CO2 scrubbers from panel in the walls.
+212) 1) dialog: Let's go, let's go, this place freaks  me out...
+213) 0) text: Peters follows Smith down the First Containment towards t Main Access Corridor, carrying the last case of scrubbers She begins to lag behind. A GIGGLE echoes down the First Containment.
+215) 2) text: Peters turns, but Smith is already out of sight. She  hesitates. Moves back towards Second Containment. Again, Peters hears the GIGGLE of a child. The SCRAPE of  metal on metal. She slowly moves forward...
+219) 2) dialog: (radio) Captain, we got a problem.
+220) 2) dialog: She was right behind me, I turn  around, she's gone. She could be  anywhere.
+244) 2) dialog: Roger that.
+244) 3) text: Smith carries another load of supplies. Movement out of t corner of his eye... He turns in time to see Weir disappear around a corner in the Event Horizon.
+244) 4) dialog: Dr. Weir! Hey, get your ass back on  board! Dr. Weir!
+244) 5) text: No response. Smith keys the radio.
+244) 6) dialog: Skipper, come in...
+245) 1) dialog: (intercom) Skipper...
+245) 3) dialog: (intercom) I just saw Weir, I think he was  messing around on the Clark.
+245) 6) dialog: (intercom) Come again, Skipper?
+246) 0) text: Smith's eyes open wide.
+246) 2) dialog: No, no, we just got her back  together...
+246) 4) text: But Smith has already left the airlock...
+247) 1) dialog: Where is it, where is it...
+249) 0) text: A BEEPING sound catches Smith's attention. He follows the sound to a storage compartment. Rifles through it.
+249) 1) dialog: I gotcha... I gotcha...
+249) 2) text: The BEEPS are coming closer and closer together. Smith grabs a duffel.
+249) 3) dialog: I gotcha.

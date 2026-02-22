@@ -1,0 +1,125 @@
+1) 0) text: A black sedan with tinted windows glides in through the  police cruisers. AGENT SMITH and AGENT BROWN get out of the car. They wear dark suits and sunglasses even at night.  They  are also always hardwired; small Secret Service earphones in one ear, its cord coiling back into their shirt collars.
+1) 1) dialog: Lieutenant?
+1) 3) dialog: Lieutenant, you were given  specific orders --
+1) 5) dialog: The orders were for your protection.
+1) 8) text: Agent Smith nods to Agent Brown as they start toward the hotel.
+1) 10) dialog: No, Lieutenant, your men are dead.
+3) 0) text: Agent Brown enters the hotel, while Agent Smith heads for the alley.
+6) 0) text: In the alley below, Trinity sees Agent Smith staring at  her.  She can only go up.
+8) 0) text: Trinity emerges from the shadows of an alley and, at the  end of the block, in a pool of white street light, she sees it. The telephone booth. Obviously hurt, she starts down the concrete walk, focusing in completely, her pace quickening, as the PHONE begins to RING. Across the street, a garbage truck suddenly u-turns, its  TIRES SCREAMING as it accelerates. Trinity sees the headlights on the truck arcing at the telephone booth as if taking aim. Gritting through the pain, she races the truck -- Slamming into the booth, the headlights blindingly bright, bearing down on the box of Plexiglas just as -- She answers the phone. There is a frozen instant of silence before the hulking  mass of dark metal lurches up onto the sidewalk -- Barreling through the booth, bulldozing it into a brick wall, smashing it to Plexiglas pulp. After a moment, a black loafer steps down from the cab of the garbage truck.  Agent Smith inspects the wreckage. There is no body.  Trinity is gone. His jaw sets as he grinds his molars in frustration. AGENT JONES walks up behind him.
+8) 1) dialog: Did you get anything from the room?
+8) 4) dialog: We'll need a search running.
+18) 2) dialog: As you can see, we've had our eye on you for some time now, Mr. Anderson.
+18) 4) dialog: It seems that you have been living two lives.  In one life, you are Thomas A. Anderson, program writer for a respectable software company.  You have a social security number, you pay your taxes and you help your land lady carry out her garbage.
+18) 6) dialog: The other life is lived in computers where you go by the hacker alias Neo, and are guilty of virtually every computer crime we have a law for, including the unauthorized use of the D.M.V. system for the removal of automobile boots.
+18) 8) dialog: One of these,lives has a future. One of them does not.
+18) 10) dialog: I'm going to be as forthcoming as I can be, Mr. Anderson.  You are here because we need your help.
+18) 12) dialog: We know that you have been contacted by a certain individual. A man who calls himself Morpheus. Whatever you think you know about this man is irrelevant to the fact that he is wanted for acts of terrorism in more countries than any other man in the world.  He is considered by many authorities to be the most dangerous man alive.
+18) 14) dialog: My colleagues believe that I am wasting my time with you, but I believe you want to do the right thing.  It is obvious that you are an intelligent man, Mr. Anderson, and that you are interested in the future.  That is why I believe you are ready to put your past mistakes behind you and get on with your life.
+18) 16) dialog: We are willing to wipe the slate clean, to give you a fresh start and all we are asking in return is your cooperation in bringing a known terrorist to justice.
+18) 21) text: Agent Smith puts his glasses back on.
+18) 22) dialog: You disappoint me, Mr. Anderson.
+18) 24) dialog: The irony of your situation is that you have no choice.
+18) 26) text: Agent Smith smiles.
+18) 27) dialog: And tell me, Mr. Anderson, what good is a phone call iy you are unable to speak?
+18) 29) dialog: You are going to help us, Mr. Anderson, whether you want to or not.
+55) 8) text: He laughs, shoving the steak into his mouth. The restaurant is located on the top floor of a Chicago skyscraper where the view is breathtaking and the menu has no prices. Sitting across from Cypher is Agent Smith.
+55) 9) dialog: Do we have a deal, Mr. Reagan?
+55) 16) dialog: Then we have a deal?
+55) 18) dialog: Whatever you want, Mr. Reagan.
+55) 21) dialog: Access codes to Zion.
+55) 23) dialog: Morpheus.
+94) 0) text: Agent Smith pauses, his hand going to his earpiece.
+96) 0) text: Agent Smith hears the LINE CLICK dead.
+96) 1) dialog: Eighth floor.  They're on the eighth floor.
+106) 0) text: The Cop keeps FIRING, his flashlight strapped to his gun barrel, lighting up the wall until -- A BULLET spits out his forehead.  Agent Smith watches the BODY fall with a THUD.
+106) 1) dialog: Are orders that hard to follow? I'll say it again.  Morpheus must be taken alive.  Understand?
+108) 0) text: Agent Smith looks into the open wall, at the exposed intestines of the building, and realizes where they are going.
+108) 1) dialog: How like a rodent.
+115) 0) text: Cypher is carried out, hand-cuffed, his body still shaking, mucus bubbling out his nose.  As he is led past Agent Smith, it almost seems that both men smile.
+115) 1) dialog: We have them now.
+117) 0) text: Morpheus shoots out of the sewer but the police are waiting for him.  The closest cop is armed with a tranquilized gun.  He fires -- But Morpheus' is too fast, using the manhole cover as a shield, blocking the darts, then -- Frisbee-ing it into the cop's armored chest, knocking him off his feet. The cops lunge at him but every part of his body is a deadly weapon moving with impossible speed. It seems he might fight his way out when he throws a spinning back fist that is caught by -- Agent Smith.
+117) 1) dialog: So, we meet at last.
+117) 3) dialog: Smith.  I am Agent Smith.
+117) 5) dialog: I've been waiting for this noment.
+117) 8) text: Agent Smith smiles.
+119) 0) text: Smith and Morpheus exchange a furious serious of blows that is witnessed but not believed by the surrounding police. Agent Smith delivers a punishing kick that staggers Morpheus.
+119) 1) dialog: You can't win.
+119) 5) dialog: Take him.
+121) 0) text: Cuff ed and beaten, Morpheus is thrown into a caged transport vehicle.  The DOOR CLANGS shut. Agent Jones finds Agent Smith.
+121) 2) dialog: You've taken care of Reagan?
+121) 4) dialog: Then the others do not matter.
+147) 0) text: Inside, he finds Agent Smith.
+147) 2) text: Agent Smith stares out the window.
+147) 3) dialog: Never send a human to do a machine's job.
+147) 5) dialog: Haven't you learned by now, that it is impossible to understand why they do the things they do?
+147) 7) dialog: Continue as planned.  Trace his signal to locate their position and deploy an extermination unit.
+149) 0) text: Agent Smith stands in the bedroon of the enormous suite, staring out the windows at the city, below, shimmering with brilliant sunlight.
+149) 1) dialog: Have you ever stood and stared at it, Morpheus?  Marveled at its beauty.  Its genius.  Billions of people just living out their  lives... oblivious.
+149) 3) dialog: Did you know that the first Matrix was designed to be a perfect human world?  Where none suffered, where everyone would be happy.  It was a disaster.  No one would accept the program.  Entire crops were lost.
+149) 5) dialog: Some believed we lacked the programming language to describe your perfect world.  But I believe that, as a species, human beings define their reality through suffering and misery.
+149) 7) dialog: The perfect world was a dream that your primitive cerebrum kept trying to wake up from.  Which is why the Matrix was re-designed to this:  the peak of your civilization.
+149) 9) dialog: I say 'your civilization' because as soon as we start thinking for you, it really becomes our civilization, which is, of course, what this is all about.
+149) 11) dialog: Evolution, Morpheus.  Evolution.
+149) 13) dialog: Like the dinosaur.  Look out that window.  You had your time.
+149) 15) dialog: The future is our world, Morpheus. The future is our time.
+151) 0) text: Agent Smith sits casually across from Morpheus who is hunched over, his body leaking and twitching.
+151) 1) dialog: I'd like to share a revelation that I've had during my time here. It came to me when I tried to classify your species.  I've realized that you are not actually mammals.
+151) 3) dialog: Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment.  But you humans do not.  You move to an area and you multiply and multiply until every natural resource is consumed and the only way you can survive is to spread to another area.
+151) 5) dialog: There is another organism on this planet that follows the same pattern.  Do you know what it is? A virus.
+151) 7) dialog: Human beings are a disease, a cancer of this planet.  You are a plague.  And we are... the cure.
+154) 0) text: Agent Smith is again at the window.
+154) 1) dialog: Why isn't the serum working?
+154) 4) dialog: Of course he knows.  He's resisting.
+154) 6) dialog: I don't know.  If I knew...
+154) 7) text: Agent Smith hides his knotting fist.  He is becoming angry.  It is something that isn't supposed to happen to agents.
+154) 8) dialog: Leave me with him.
+154) 10) dialog: Now!
+158) 0) text: Agent Smith leans close to Morpheus, whispering to him.
+158) 1) dialog: Can you hear me, Morpheus?  I'm going to be honest with you.
+158) 3) dialog: I hate this place.  This zoo. This prison.  This reality, whatever you want to call it, I can't stand it any longer.  It's the smell, if there is such a thing.  I feel saturated by it.  I can taste your stink and every time I do, I fear that I've somehow been infected by it.
+158) 5) dialog: Repulsive, isn't it?
+158) 7) dialog: I must get out of here, I must get free.  In this mind is tlie key. My key.
+158) 9) dialog: Once Zion is gone, there's no need for me to be here.  Do you understand?  I need the codes.  I have to get inside Zion.  You have to tell me how.
+158) 11) dialog: Tell me!  Tell me!
+158) 12) text: The skull is about to shatter when Agents Jones and Brown burst into the room.  Agent Smith releases Morpheus.
+158) 14) text: Agent Smith recovers, replacing his ear piece.
+158) 16) dialog: Know what?
+158) 17) text: Agent Smith listens to his earphone, not believing what he is hearing.
+166) 0) text: An enormous EXPLOSION THUNDERS above them, shaking the building.  The ALARM SOUNDS, emergency sprinklers begin showering the room. Agent Smith smashes a table.
+166) 1) dialog: Find them and destroy them!
+171) 0) text: Agent Jones throws open the bedroom door and enters, walking through the puddles pooling in the carpet. Over the RUSHING WATER and the ALARMS, Agent Smith hears a SOUND and understands the seriousness of the attack. He turns to the wall of windows as the helicopter drops
+171) 2) dialog: No.
+171) 3) text: The GUN jumps and BULLETS EXPLODE through the WINDOW in a cacophony of CRASHING GLASS -- As the Agents go for their weapons. But Neo is too close, the .50 CALIBER too fast and BULLETS are everywhere, perforating the room. Agent Smith is hit first, his body jack-knifing back, blood arcing out with a sudden flash of light -- Then Agent Brown, his GUN still FIRING as his body falls. And finally Agent Jones. Neo stares at Morpheus, trying to will him into action.
+173) 0) text: Morpheus lifts his face into the room's rain.  His eyes, still white, begin to blink, twitch, then close. And when he opens them, they are again dark and flashing with fire. The Agents knife into the room, FIRING even as Neo's BULLET TRAILS chase them. Morpheus strains at his handcuffs. The Agents and the marines turn the tide, BLASTING LEAD, RICOCHETING, POCK-MARKING the COPTER. FIRING wildly, Neo turns to see Morpheus rising, snapping the handcuffs, starting for the window. Agent Smith stops and sees Morpheus run past the open bedroom door.
+173) 1) dialog: Nooo!
+173) 6) text: Trinity is already pulling the copter up and away. As Agent Smith grabs the M-16 from the nearest marine. He'll bring them all down.  Targeting the helicopter, he aims at something only he can see: the oil line. PONK.  PONK.  PONK.  The rear HULL is PUNCHED full of holes and smoke and oil pours out like black blood.
+177) 0) text: The rope is all that remains.  Agent Smith can barely control his anger.
+177) 5) text: Agent Smith can't stand listening to them.  He moves to the edge of the building, looking out at the surrounding city.
+177) 6) dialog: They're not out yet.
+179) 0) text: Agent Smith stares, his face twisted with hate.  He will never be free of the Matrix. He starts to turn from the edge of the building when he suddenly hears it, his head whipping back around, staring --
+180) 9) text: She pulls herself away and gets into the booth when something catches Neo's eye and he looks to where the Old Man had been. She hears him SCREAM and sees Agent Smith emerge as if formed by congealing darkness, charging with a fistful of metal. The GUN FIRES, the BULLET flying at her, BURSTING through the plastic WINDOW just as -- Trinity disappears. The handset hanging in the air as the BULLET HITS, SHATTERING the EAR-PIECE.
+182) 0) text: GUN REPORT THUNDERS through the underground, both men BLASTING, moving at impossible speed. For a blinking noment we enter BULLET-TIME. Gun flash tongues curl from Neols gun, bullets float forward like a plane noving across the sky, cartridges cartwheel into space. An instant later they are nearly on top of each other, rolling up out of a move that is almost a mirrored reflection of the other -- Each jamming their gun tight to the other's head. They freeze in a kind of embrace; Neo sweating, panting, Agent Smith machine-calm. Agent Smith smiles.
+182) 1) dialog: You're empty.
+182) 4) text: The smile falls.  Agent Smith yanks his TRIGGER. CLICK. Agent Smith's face warps with rage and he attacks, fist flying at furious speed, blows and counters, Neo retreating as -- A knife-hand opens his forearm, and a kick sends him slamming back against a steel column. Stunned, he ducks just under a punch that crunches into the beam, STEEL CHUNKS EXPLODING like shrapnel. Behind him, Neo leaps into the air, delivering a neck- snapping reverse round-house.  Agent Smith's glasses fly off and he glares at Neo; his eyes, ice blue.
+182) 5) dialog: You can't win.
+182) 7) text: He attacks with a vicious series of blows but the Agent seems to absorb them, waiting for his opening. And this time Agent Smith's attack is too much, an unrelenting fury, fists pounding like jackhammers.
+184) 0) text: Agent Smith grabs hold of him, lifting him into the air, hurling him against the curved wall of the train tunnel, where he falls inches from the electrified third-rail. The Agent is about to jump down, and press his attack when he hears sonething.  From deep in the tunnel, like an animal cry; a burst of high-speed METAL GRINDING against METAL. The sound of an ON-COMING TRAIN.
+187) 0) text: Neo tries to get up.  Agent Smith jumps down onto the tracks and drop-kicks him in the face. The world begins to shake, RUMBLING as the TRAIN NEARS.
+187) 1) dialog: Do you hear that, Mr. Anderson?
+187) 2) text: Agent Smith grabs Neo in a choke-hold, forcing him to look down the tracks, the train's headlight burning a hole in the darkness.
+187) 3) dialog: That is the sound of inevitability.
+187) 5) dialog: It is the sound of your death.
+187) 6) text: There is another METAL SCREECH, MUCH LOUDER, closer, as Agent Smith tightens his hold.  Neo is unable to breathe.
+187) 7) dialog: Goodbye, Mr. Anderson.
+187) 8) text: The TRAIN ROARS at them, swallowing Agent Smith's words. The veins bulge in Neo's head, as he grits through the pain. He is not ready to die.
+187) 10) text: Impossibly, he hurls himself straight up, smashing Smith against the concrete ceiling of the tunnel. They fall as the sound and fury of the TRAIN EXPLODES INTO the station. Neo back-flips up off the tracks just as -- The train barrels over Agent Smith. Neo stands, knees shaking, when the train slams on its emergency brake.  With an ear-splitting SHRIEK of TORTURED RAILS, the train slows, part of it still in the station. Neo turns, limping, starting to run, racing for the escalator -- As the train comes to a stop and the doors of the last car open; Agent Smith bursts out in furious pursuit, his glasses again intact.
+189) 0) text: A man sits in his Mercedes, talking on his car phone when his door is thrown open.  Neo yanks him out and jumps in. Further down the street, Agent Smith slows, calmly touching his ear-piece. Neo throws the car across traffic, rocketing down a side- street.
+194) 7) text: Neo drops the phone as his car bucks into the opposing lane -- Directly into the charging path of an enormous truck driven by Agent Smith. Neo dives from the Mercedes as the truck plows into it, rending metal and GLASS, crushing through, totaling other cars, as it EXPLODES. Neo is up and running even as orange and black clouds billow up behind hin.
+203) 0) text: Three holes in his chest, Neo falls to the blue shag carpeting, blood smearing down the wallpaper. Agent Smith stands over him, still aiming, taking no chances.
+203) 1) dialog: Check him.
+205) 2) text: Agent Smith smiles, standing over him.
+205) 3) dialog: I told you, you couldn't win.
+211) 0) text: Neo struggles, holding his chest, sitting up.  Down the hall, he sees the elevator closing and -- Agent Smith staring at him as if he were looking at a Cypher. Neo gives him the finger.
+211) 1) dialog: Nooooo!
+211) 2) text: Agent Smith pounds on the elevator door.

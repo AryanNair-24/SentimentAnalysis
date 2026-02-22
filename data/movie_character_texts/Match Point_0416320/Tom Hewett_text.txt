@@ -1,0 +1,158 @@
+5) 0) text: Townsend walks with Tom Hewett and introduces him to Chri
+5) 2) dialog: Very nice to meet you. How do you do.
+5) 7) dialog: Okay.
+5) 9) dialog: Thank you very much. @ Townsend shakes Tom's hand, then turns and walks away.
+5) 11) dialog: Brilliant. Cur TO:
+6) 0) text: Tom and Chris play tennis. Cur TO:
+7) 0) text: Tom and Chris sit at a table.
+7) 1) dialog: Okay, so who was better, or @ tougher? Henman or Aghassi?
+7) 7) dialog: No, no, no, no,
+7) 9) dialog: No, no, no, no, na, no. Get your dirty great forehand off. Tom looks down at the bill.
+7) 11) dialog: So, do you need a lift after this?
+7) 13) dialog: Music around here?
+7) 15) dialog: . I think there's one on the Fulham Road.
+7) 19) dialog: Popa gives loads to the Royal in Covent Garden. I know this is gonna sound a bit weird but...would you like to go to the opera tomorrow night?
+7) 21) dialog: Yeah. We've got a box and someone's hot coming. It's La bloody Traviata.
+7) 23) dialog: It's not an imposition, it'd be an absolute pleasure. I just like the fact that we both share a love for opera. Brilliant. curT TO:
+9) 3) dialog: Evening all.
+9) 5) dialog: (to Eleaor) Hello, mum. He leans in and kisses her on the cheek.
+9) 8) dialog: Oh, this is, this is Chris, Chris, this is my father, Alec...
+9) 12) dialog: Oh rubbish. Anyway...
+9) 17) dialog: And this is my sister... Tom kisses Chloe's head.
+9) 20) dialog: +--Chloe, Chris and Chloe shake hands.
+9) 25) dialog: (into phone) Yeah, well, the olds say thank you very much for the er, lovely flowers. They said it was very thoughtful and totally unnecessary. (MORE )
+9) 26) text: 10 TOM (cont'd) But, er, off the record well done, A plus, ‘cause they love that sort of thing.
+10) 0) text: Chris talks to Tom on his mobile phone,
+11) 1) dialog: {into phone) Frighteningly so at times...But er, anyway, she thought you were terrific and she wanted to invite you to cur house with the parents on Sunday. Er, ‘cause they're having a party, there’1ll be some good people. And, er, I'll play you some great music because dad's got an epic collection... cuT TO:
+12) 0) text: Chris and Tom play tennis. Chloe watches from afar, clutc a tennis racket.
+12) 1) dialog: Chlo-Chlo, do you wanna have a knock with Chris for a bit? It's just that it's five o'clock somewhere darling, and I've got some serious cocktail'’s to start making. : (to Chris) Irish ~- Have you ever had a Cuba Libre or a Caipirinha? 11
+12) 3) dialog: Well it's really boring for him to play with me but he’s a good sport. And anyway...you've got better legs than I've got. Chop-chop.
+14) 15) dialog: Bh, there you are. I wanted to introduce you to Chris Wilton... Tom enters, clutching a drink.
+14) 16) dialog: : Chris Wilton this is Nola Rice. My fiancee.
+14) 18) dialog: .--Hello, darling. He kisses her on the cheek.
+14) 21) dialog: Oh really? Yeah, well, you'd better watch out for this one. He's made a living out of hustling.
+14) 24) dialog: Oh yeah. She exits.
+14) 25) dialog: (sighs) She's quite something, isn't she.
+14) 27) dialog: Oh, six months...Jesus, yeah, six months! She came over to study acting and I met her at a party that I'd crashed and she'd crashed and one thing led to another. Obviously it's taken mother quite a long time to get used to the idea that I'm serious but to be honest with you, mother’s always had this - funny little agenda for me which doesn’t really involve marrying a struggling actress. Especially an American one. But I am crazy about her. (MORE)
+14) 28) text: 16 TOM (cont'd) Anyway, I think we should all go to dinner next week. What do you think?
+14) 30) dialog: Excellent. Now, Irish, how about a little drop of Scottish before supper?
+14) 32) dialog: Lead on. Quickly.
+19) 45) dialog: Hi, guys. Chloe and Nola begin chattering. cur TO: SAME -—- A FEW MINUTES LATER 22 Chris pulls the chair out for Chloe as she seats herself table. Tom nods,
+19) 47) dialog: It's my fault. I dragged Nola to the classic car show at ExCel.
+19) 49) dialog: It was unbelievable. I swear my trousers have barely dried.
+19) 51) dialog: Well you love your cars, though, don't you Chris?
+19) 53) dialog: Ah.
+19) 57) dialog: Really? 23
+19) 62) dialog: Well, when we're married we'll collect vintage cars. Just as long as I can have a DB9 with all the e@ trimmings. Okay? He kisses her.
+19) 63) dialog: In fact, Hedley is perfect for keeping all those cars. In fact, speaking of Hedley...
+19) 65) dialog: Oh, frightfully sorry.
+19) 66) dialog: I’1l have the baked potato with truffles. That'll be lovely. Yum- yum.
+19) 77) dialog: He'1l have the blinis.
+19) 81) dialog: Oh Christ.
+19) 83) dialog: God. Sorry, but it just doesn't seem like a fair trade.
+19) 85) dialog: Oh, papa’s invited us for some shooting.
+19) 87) dialog: Mmm—hmm.
+19) 89) dialog: I think that was your swimsuit. She's just used to slightly more fabric.
+19) 91) dialog: True.
+19) 94) dialog: But your eyes went straight to her, if you know what I mean.
+19) 96) dialog: Oh, you just need a break.
+19) 100) dialog: Mmm.
+19) 104) dialog: What was it...the, er...the vicar used to say? "Despair is the path of least resistance." It was something odd, wasn't it. It was very strange...
+19) 106) dialog: Oh God.
+19) 108) dialog: Oh God.
+19) 110) dialog: Mmm. 27
+19) 113) dialog: Two bottles of Puligny-Montrachet. Thank you. cuT TO:
+23) 1) dialog: (getting out of taxi) . Thank you so much, fella. Oh, hang on. I'm having problems with the door. There we go.
+23) 2) text: (to Tom) Hello Sweetie.
+23) 3) dialog: Hi guys. One second. Tom reaches in his trouser pocket for some money and hand to the driver.
+23) 4) dialog: There you go, fella. Thanks very much. Good luck with the sky blues.
+23) 7) dialog: Nola got a migraine at the last Moment and unfortunately she can't make it --
+23) 9) dialog: ~- but she sends her love... Yeah, she's gonna be fine. (beat) Hell with her. Motorcycle Diaries!
+28) 0) text: Chloe, Tom, Nola, and Chris walk through the stables.
+28) 2) dialog: Second one, over there.
+28) 4) dialog: Well, yeah, Carmichael came and a had a look at him the other week and he said that...
+28) 6) dialog: Basically, the problem with the right hind is gonna, well, it should have dissipated fully already but...
+28) 8) dialog: Yeah, yeah, wack him some hay.
+28) 11) dialog: I mean, we're just having a bloody nightmare with injuries.
+28) 17) dialog: Oh, excuse me.
+28) 19) dialog: We're nearly ready.
+28) 21) text: A clay pigeon flies through the air, then crashes to the ground. Tom clutches a shotgun. Chloe, Alex, and guests stand watching.
+28) 22) dialog: (to Chris) Never mind, fella. Chris lowers his shotgun and removes his ear defenders. H turns, looks at Tom.
+28) 23) dialog: This is basically a tune-up for the grouse season which is starting up.
+28) 25) dialog: But it's, um, bloody good fun.
+28) 28) dialog: Quite right, papa.
+30) 0) text: Tom and Nola play chess. Alec enters.
+30) 3) dialog: It's her own fault, bless her. She just tightens up.
+30) 9) dialog: I hardly think Nola’s reached that point, mother. Al cur TO:
+30) 18) dialog: Well your take on these realities is your own opinion and nothing else. And frankly, not everybody else is interested in hearing about then.
+30) 21) dialog: I'm not raising my voice. And I'm sorry, papa, but she's always on Nola'’s case, continually discouraging her via...innuendoes, 43
+30) 24) dialog: Nola ~-
+30) 26) dialog: (to Eleanor) Well thank you very much. And I'm sorry if I'm raising my voice now but you know that's her Achilles’ heel emotionally.
+33) 0) text: Chris and Chloe sit next to one another watching a female performer on the stage below. Tom, seated behind them, reaches into his jacket and takes out a mobile phone. 45
+33) 1) dialog: Hello? (to Nola, nearby) Darling, I think it's for you. Nola takes the phone from him.
+33) 2) dialog: But take it outside. Nola stands and steps through the doorway into the corrid outside.
+36) 0) text: Tom and Nola kiss passionately in the pantry. Nola remove her underwear.
+36) 1) dialog: Um, um, um, um, darling, one second. I just think we, um... Startled, she straightens her top and gestures -~ Chris stands outside in the garden, watching through a window.
+36) 2) dialog: You two have met, haven't you? I'm sure you've met... cur TO:
+37) 0) text: Tom and Nola greet Chris.
+37) 2) dialog: What? That we were hiding in the pantry? It was all her fault you know. Like how can I help if she gets turned on by sexual intimacy in places where we know we're gonna get caught?
+37) 4) dialog: All men who see you want to attack you. Isn't that right, Christopher? (Chris frowns) Oh God, are you all right?
+40) 23) text: | Chxis play tennis. Tom accidentally hits the ball net,
+40) 25) dialog: I know, I know. I'm sorry. Not good. Listen, I've got to tell you something.
+40) 27) dialog: Well, Nola and I -- broke up.
+40) 29) dialog: Yeah. Or I should say I called it off.
+40) 31) dialog: Yeah, well, it's rather @ embarrassing to say but I think mother rather poisoned the well on that one. Not that I have any intention in marrying Olivia-~ sodding-Allred who's her main candidate. God, no.
+40) 33) dialog: I suppose “the whole truth, nothing but the truth, so help me God” part of the situation is that...I've met someone else. Yeah. I've met someone and I fell in love and I just knew right away. Although the fact that my mother is in seventh heaven about her...I keep trying to tell myself it isn’t a factor, but...you know what I mean. cut TO:
+41) 0) text: Chris dials Nola's phone number but receives an automated message:
+44) 0) text: Heather and Tom stand at the altar.
+54) 0) text: Heather and Tom are seated with Chris and Chloe. 68
+54) 1) dialog: But I think that Bruton Street would be perfect for the gallery because it's just right in the thick of things and...it'1ll just be a natural success I think, because you're great at picking out paintings and bric-a~brac.
+54) 4) dialog: Yeah, well, you can manage both. I mean, Heths didn't have a problem giving up Adair when we first had Rosie.
+54) 6) dialog: Hmm.
+54) 10) dialog: Oh, actually, you know, you know who we bumped into the other day? Obviously you know but...
+54) 12) dialog: »-.Nola.
+54) 15) dialog: Yeah. Well I think she's now working in a boutique on Ledbury Road. I think it's Paul or Joe's or something.
+54) 17) dialog: But she’s just such an odd girl. I mean she still looks great. Sorry but it's true. Er -- but something's just...changed in her face. I mean I, we barely spoke.
+54) 19) dialog: Yeah, well, she's always, you know, been a lady of the sauce so to speak. And I think it kind of runs in the family, but...I don’t know. I mean she’s still got that "come hither” look.
+54) 21) dialog: Strangely, I forgot to ask. Burt and Phoebe approach.
+54) 24) dialog: Hello, fella.
+54) 26) dialog: We just popped in for a bit of, you know, local tagliatelle. 70
+54) 30) dialog: 7e+a sextet. We could have had one of those.
+54) 38) dialog: Where's Melcombe Street?
+54) 45) dialog: Quite right.
+54) 48) dialog: I think the only thing that comes out of this conversation is that you're both nuts.
+54) 50) dialog: Or drunk.
+54) 52) dialog: I will do. 72
+54) 56) dialog: (to Heather/Chloe/Chris) «Nuts. cuT TO:
+57) 0) text: Tom, Chloe and family are seated around a Christmas tree.
+57) 1) dialog: Merry bloody Christmas.
+57) 4) dialog: A million, at least.
+57) 8) dialog: Come on, just a little one.
+59) 0) text: Chloe and others are seated around a table. Burt stands behind Phoebe, toying with her hair. Chris and Tom clutch cups of tea.
+59) 4) dialog: Ah,.boat. Every time.
+59) 8) dialog: - What?
+59) 13) dialog: Oh, that reminds me, we have to go to Sardinia to pop in on Brook and Dougie Winston.
+59) 17) dialog: No, Brook's fine, Dougie's a nightmare, but...
+59) 20) dialog: Yeah.
+59) 22) dialog: Ok God.
+59) 27) dialog: They think he's firing blanks.
+59) 37) dialog: Oh, she's meant to be really lovely. She's with that other American fella. 79
+59) 48) dialog: Do you remember when Chris came here first and he had some serious qualms about riding?
+59) 50) dialog: No?
+59) 54) dialog: (to Alec} Tomorrow morning then?
+59) 57) dialog: I know.
+61) 6) dialog: I thought Samantha said she was going to her parents this weekend? 82
+61) 8) dialog: That's a shame.
+61) 14) dialog: Slave driver. cuT TO: INT. NOLA'S FLAT --— LATER Chris paces.
+65) 0) text: Chris, Chlee, Alec, Eleanor, and Tom are seated together watching the opera below.
+90) 1) dialog: Well, yeah, yeah, I know. I mean, wrong place at the wrong time. I mean, I, I suppose she must 've..,I mean, disturbed a burglar or, or burglars or whatever. I mean, it doesn't, it doesn't say how many of them there were... cur TO:
+94) 5) text: Granny would have loved it. I wish she could be here. Tom and Heather enter. EXT. HEDLEY ESTATE PATIO/LANDSCAPED GARDEN -— DAY
+94) 6) dialog: Thank God. Thank God.
+100) 2) dialog: oh, chill out, dad. 123
+100) 8) dialog: (toasting) My nephew.
+100) 10) dialog: No, he does look like Christopher. Actually, speaking of which, didn't you move into Alan Sinclair's old office.
+100) 14) dialog: (to Heather) Let's work on number two. Come on.
+100) 17) dialog: Yeah, he’s gorgeous.
+100) 23) dialog: Thank you, mummy. Do you know what, I don't care if he’s great. I just hope that he’s lucky.
+100) 29) dialog: You haven't had any for months, Chloe. I'd get it down you now while you can.
+100) 38) dialog: And all that sail on him.

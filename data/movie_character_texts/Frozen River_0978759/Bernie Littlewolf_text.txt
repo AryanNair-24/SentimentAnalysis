@@ -1,0 +1,45 @@
+35) 13) text: Does Bernie Littlewolf run your whole life? MIKE
+59) 0) text: The camper is buried in snow. A shiny SUV pulls up out front. BERNIE LITTLEWOLF, 35, burly, well-dressed, Mohawk man gets out. He yells across the yard
+59) 1) dialog: Lila. Get up. I got a job for you!
+60) 0) text: Lila is sound asleep on her cot under three blankets next to the propane heater. Bernie's snow balls THUMP against the side of the camper.
+60) 1) dialog: Lila! Get up. Lila opens her eyes and looks out the window, squinting at the snow glare.
+60) 2) dialog: They got two people out sick today, so if you get down there you got the job.
+60) 4) dialog: Get dressed, I got coffee. Let's go! He holds up a paper cup. She slips on her jeans with a sweatshirt...
+61) 3) dialog: Get in, I'll tell you on the way. She grabs her coat and trudges across the yard.
+62) 0) text: Bernie hands her a paper cup of coffee.
+62) 1) dialog: Rita said you quit.
+62) 3) dialog: That's not what she said.
+62) 5) dialog: Then get some glasses.
+62) 7) dialog: Gimme a break. She sips the coffee.
+62) 9) dialog: The Tribal Council needs someone to answer phones.
+62) 11) dialog: Why not? You can answer a phone, can't you?
+62) 14) dialog: (suspicious)
+62) 17) dialog: From who?
+62) 20) dialog: What do you need a car for?
+62) 22) dialog: You'll live. And you know what I'm talking about.
+135) 0) text: Billy Three Rivers sits down at a long conference table. A middle-aged Mohawk woman, "BARBARA" sits behind a name plate reading "CHIEF". At the end of the table Bernie sits behind another name plate: "SUB-CHIEF." Rosalie comes in wearing her coat over her bathrobe and takes her place behind the "GRAND CHIEF" name plate.
+135) 14) text: What about Lila Littlewolf? BERNIE
+135) 17) text: Maybe we should. BERNIE
+135) 19) text: We can expel her. BERNIE
+135) 23) dialog: But she has a Mohawk son.
+135) 25) dialog: Jake was a big boy. He knew what he was doin'
+135) 27) dialog: We've had smuggling on the Rez since Al Capone.
+138) 3) dialog: Hi, Lila.
+138) 5) dialog: You're in a lot of trouble. Lila looks at him, unfazed.
+138) 6) dialog: The council voted to expel you.
+138) 8) dialog: For five years. You can appeal, but you'll never be able to change Rosalie's mind.
+138) 10) text: They can't do that. BERNIE
+138) 12) text: They've already done that. BERNIE
+138) 14) text: I thought this was all legal on the reservation. Bernie ignores her. RAY (CONT'D)
+138) 15) text: (to Lila) Look, I gotta get home. She moves for the door, but Bernie blocks her. BERNIE
+138) 17) text: But, she's a Mohawk. BERNIE
+138) 19) text: Listen, my kids got no one but me. BERNIE
+138) 20) text: If you leave she won't see her son again. Ray and Bernie stare at each other. LILA
+138) 21) text: Let her go. BERNIE
+140) 0) text: Lila and Bernie sit on the old sofa by the big oven.
+140) 2) dialog: Jake wouldn't agree with that.
+140) 4) dialog: He wanted to keep you and little Jake safe. The back door opens. Ray is there.
+140) 13) dialog: Sure.
+143) 0) text: Bernie waits in the car. Lila walks to the front door. Thunder looks up from beside the front step.
+145) 0) text: Bernie stands by the car holding a CAR SEAT.
+145) 1) dialog: She's gonna kill me for taking this out of her car.

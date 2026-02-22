@@ -1,0 +1,33 @@
+12) 77) dialog: (to Sally) Sally Hollar?
+12) 79) dialog: I’m Doctor Fong. Sorry about the wait. (beat) I was golfing.
+12) 81) dialog: I looked over your cat scans. You have a pretty big brain tumor in the center of your frontal lobe.
+12) 84) dialog: It means...big.
+12) 86) dialog: We're going to have to remove it. Soon. I’ve scheduled a craniotomy for the end of next week. (CONTINUED)
+12) 92) dialog: You're free to do as you wish. But I suggest you do it quickly. We can give your mother steroids to reduce the size of the tumor. But the seizures will continue if nothings done.
+12) 94) dialog: (a little confused) No.
+12) 98) dialog: We won’t know that until we biopsy a piece of the tumor.
+12) 100) dialog: It could be any number of reasons. We have no way of knowing right now. I will say this, it’s not a young tumor. I'd say it’s most likely been growing inside Mrs. Hollar’s head for over ten, maybe fifteen years. To be honest I’m surprised there haven’t been more symptoms. Don looks very nervous.
+12) 106) dialog: Possibly.
+12) 108) dialog: Probably.
+12) 110) dialog: Well, definitely.
+12) 121) dialog: Yes, well. You guys seem like you have some stuff to work out so... Dr. Fong tries to quietly leave the room. John stops him in the hallway. (CONTINUED)
+12) 125) dialog: She has a tumor the size of a softball in her head.
+12) 127) dialog: Not necessarily. We won't know until we get in there to remove the tumor.
+12) 129) dialog: Honestly? John nods. Dr. Fong looks into Sally’s room at Don and Ron.
+12) 130) dialog: I'd try to keep them away from her as much as possible.
+28) 25) dialog: I have to be in surgery in a few minutes, but, how can I help you?
+28) 28) dialog: Thank you.
+28) 30) dialog: Ah. That’s...nice.
+28) 35) dialog: Mmm, well.
+28) 37) dialog: None. Ron is blown away!
+28) 40) dialog: Yeah. Pretty busy.
+65) 0) text: John paces around while Rebecca sleeps and Ron and Don talk. Dr. Fong comes out into the waiting room. Everyone looks at him.
+65) 1) dialog: Well, the operation was a success. Everyone cheers.
+65) 2) dialog: We were able to remove 95 percent of the tumor.
+65) 7) dialog: The tumor is putting a good deal of pressure on the brain stem. You don’t want to mess with the brain stem.
+65) 9) dialog: It could. We’ll have to watch it.
+65) 11) dialog: We're moving her to intensive care. You can visit her once she’s settled. But she’s still heavily sedated.
+65) 13) dialog: Let’s just keep an eye on her. See how she progresses. We’re not out of the woods yet. She’s been living with that tumor for a long time. We have to see how the brain responds to it’s removal.
+71) 6) dialog: I'm sorry. There was just nothing we could do. She had lived with that tumor a long time. Her body just couldn’t adjust to the change.
+71) 8) dialog: It was.
+71) 11) dialog: (flustered) Look, I understand this is a hard time for you. I did everything I could.

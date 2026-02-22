@@ -1,0 +1,242 @@
+29) 0) text: A CONGREGATION is gathered in pews, facing a pulpit unlike any other -- built to exactly replicate the bow of a ship. Its towering platform forms the mock ship's sharp prow. Ishmael and Queequeg enter quietly and take a rear seat, Queequeg drawing stares. Among the worshippers sits STARBUCK (30's), a sharp, good-looking, experienced seaman with a pragmatic way about him, full of watchful curiosity. Beside him, his seasoned WIFE and TWO beautiful CHILDREN. Nearby sit Bulkington and his Fiancee, their hands clenched tight. Starbuck's Wife glances toward Bulkington's bride: the girl looks tense and anxious. Up front sits Ahab's weary Wife, red-eyed from long nights of tears. And her son, a fixed, distant gaze. From the high pulpit looms FATHER MAPPLE, a patronly, messiah-like figure. In the rear pews, Ishmael recognizes the minister and nudges Queequeg, whispering aside.
+32) 0) text: NANTUCKET WIVES in their bleak dresses and shawls run in scattered groups to a high vantage point. They collect to on the promontory, all eyes cast seaward to catch a last glimpse of their husbands' dwindling ship. Among them is Starbuck's Wife, a face of sad remorse. Stubb's two Doxies, gushing tears. Ahab's grieving Wife, who has no more tears left to cry. All bear the look of women who have become widows in their men's lifetimes. Standing alone, Bulkington's Fiancee gazes forlornly out, hugging herself with anxious dread. Starbuck's Wife approaches and lays a comforting arm around her. From their view, the Pequod shrinks into the horizon.
+34) 0) text: A pitching deck, alive with activity. Sailors scurry about, climbing ladders, reefing sails, trimming yards under the calm commands of First Mate Starbuck.
+34) 1) dialog: Back the main yard there! Up helm! Hearts alive now! Struggling on a taut halyard from middeck, Ishmael pulls with difficulty. Queequeg pulls with powerful ease. Third Mate Flask, pulling rank to make up for his low stature and ignorance, shouts at those on the rope.
+35) 1) dialog: 
+37) 0) text: By the deckhouse, Starbuck watches all that goes on around him. He glances toward the closed door of the Captain's cabin. No Ahab in sight. He calls out: 34.
+37) 1) dialog: Mister Bulkington! Give us a good song to speed us on! Alighting down on deck, Bulkington turns with reserved manner. Then BELTS OUT a song with unexpected relish:
+41) 0) text: Starbuck and Stubb are on watch, gauging the wind and the luff of the sails. Starbuck shouts up:
+41) 1) dialog: Helm there! Luff a point! The SHIP'S STEWARD rings a bell for the morning watch. Stubb booms down into the forecastle:
+43) 0) text: Queequeg waves to urge him on. By now, most of the crew are watching Ishmael's virgin climb. Starbuck sidles over beside Stubb with amusement and concern.
+43) 1) dialog: You are a cruel taskmaster, Mister Stubb.
+49) 2) dialog: Stowaways, it looks like. 45.
+50) 0) text: Scanning faces, Ahab finally spots Starbuck. He hobbles vigorously forward with a fixed glare.
+50) 2) dialog: Sir!
+50) 4) dialog: Yessir! All hands aft! Ahab THUNK-CLOPS along the bannister, glancing aloft.
+52) 0) text: Ahab climbs down and paces the deck with a familiar PEG-LEG SOUND. A restless, dark-spirited figure. Starbuck comes before him, followed by the crew.
+52) 1) dialog: All men assembled, Captain! Ahab keeps pacing, deep in thought. Looking on, Stubb whispers aside to Flask. 46.
+53) 0) text: Ahab struts the full length of the ship, moving from peghole to peghole to anchor himself whenever he stops, the long deck his actor's stage. The volcanic fire inside him burns the air all about him. AHAB (cont'd) Look closer, mates! D'ye see it? All eyes shift back and forth between the gold piece and Ahab's fiery eyes. Starbuck glances toward Fedallah, immobile in b.g. Puzzled by it all. Ahab reaches the awestruck Carpenter with his toolbox. AHAB (cont'd) Carpenter, hand me yon hammer! And one strong iron nail! The Carpenter produces the hammer from his belt and digs quickly into his box. Ahab turns to scan the gruff faces all around him. Men avoid his eyes, looking only at the coin. The Carpenter offers the hammer and a nail. Ahab snatches them and half-strides back across the deck to the main mast. His voice begins with a low, 48. intense growl, building to a roar: AHAB (cont'd) Whosoever of ye raises me a white-headed whale...aye, white-headed with a wrinkled brow and a crooked jaw... whosoever raises me that snow-white whale with holes punctured in his starboard fluke, I say...whosoever among ye raises me that
+53) 9) dialog: I have heard of Moby Dick, Captain. Was it not Moby Dick that took off your leg? Ahab spins around to face Starbuck, his face aflame.
+53) 11) dialog: It's common knowledge, sir.
+53) 18) dialog: Oh, I am. I'm game for the jaws of death, if it's part of the business we're here for. I came to hunt whales, not my commander's vengeance. How many barrels of oil will your vengeance yield, I ask ye? Ahab studies Starbuck with a colder, narrower eye.
+53) 20) dialog: What d'ye wish of me, Captain?
+53) 22) dialog: May God help us all.
+55) 1) dialog: Permission to enter, Captain. Ahab grunts an affirmative, too preoccupied to look up. Starbuck enters and waits respectfully, a little tense.
+55) 2) dialog: You sent for me, sir?
+55) 4) dialog: I do not wish it, Captain, I am tied to thee.
+55) 7) dialog: Time and tide flow wide, sir. Moby Dick has the round watery 56. world to swim in.
+55) 9) dialog: Where lies Nantucket? Ah here... (points on map) ...where our wives and children will carry the wee babes up the hill to catch first glimpse of these sails. Your wife and son will be among them, sir. Ahab's face flinches. A sensitive chord has been struck. STARBUCK (cont'd) We must not disappoint them. I am no crusader after perils, Captain. My course is set to return safely home -- with a full hold. 'Tis the object of our endeavor. Ahab looks up impatiently, eying him with darkened brow.
+55) 11) dialog: The white whale is this mask, sir, this wall? Ahab paces the room, his peg leg scraping the floor.
+55) 13) dialog: But vengeance on a dumb brute, sir! That took your leg from blindest instinct?!
+55) 15) dialog: "Tis madness to be so enraged! To seek vengeance on a dumb thing -- 'tis blasphemy! Ahab turns to confront him, his words charged with fury.
+55) 18) dialog: Sir, I'm not much for fighting a fish that too much persists in fighting me. I'm here to 58. kill whales for my living, not to be killed by them for theirs. But...you are the Captain.
+59) 0) text: A quiet, more civilized scene. Starbuck reads alone from a bible. Stubb and Flask play a game of Draught.
+66) 3) dialog: There go flukes!
+70) 0) text: Ahab snaps the eyeglass closed, disappointed. He pulls out a small book from his pocket and jots down the hour. Starbuck hurries up to him.
+70) 1) dialog: Ready to lower boats, sir! 62. Ahab glances aside, disinterested in the whole business.
+71) 0) text: Cranes are thrust out, line tubs fixed in their places and whaling boats swung over to be lowered, sailors working frantically. Three boats lower fast, chains CLANKING, ropes HISSING, and splash onto the water. A clamor of SHOUTS, rowers, ha and the three mates scrambling down ladders, into their respective boats. A fourth spare boat is lowered by Fedallah's crew, aloof from the others, working silently and efficiently. In Starbuck's boat, Ishmael mans the oars with others, br with anticipation of his first whale hunt. Queequeg attaches rope lines to his harpoons. The boat casts away from the ship. Stubb cries out from his boat, as they too cast off.
+75) 0) text: Ishmael rows arduously, working up a sweat. He looks over the rise of a long swell, just in time to see great Queequeg, the lead rower, rows like a dynamo, guiding the pace. Starbuck works the tiller.
+75) 1) dialog: There she blows again, right ahead, boys...lay back! He watches the school of whales, then glances back at the other two boats behind his: Flask's boat fast approaches, Dagoo at the bow, rowing with as much power as Queequeg.
+76) 0) text: Flask shouts to Starbuck, pointing toward the Arabs' boat.
+77) 1) dialog: Never mind them! Give way, pull out more to leeward! Stubb's boat, Tashtego at the bow, pulls ahead.
+79) 0) text: Ishmael, rowing exhaustedly near Starbuck, turns to him.
+79) 2) dialog: Smuggled on board to do Ahab's personal bidding, I warrant... (urging them on) Spring, men, spring! There's a fortune of oil out there, swimming right ahead of us! That's what we came for and that's our duty! Duty and profit, hand in hand! Pull! 65. Their boat drops into a deep trough. Just then, one of the sperm whales breaches directly in front of them. STARBUCK (cont'd) Queequeg! Quick! Queequeg tosses his oar and jumps up to the bow with his harpoon. Before he has a chance to do anything...
+84) 0) text: A second whale suddenly breaches next to Starbuck's boat, too close -- its huge body striking the hull! The boat tips precariously.
+84) 1) dialog: There! There! Give it to him! Queequeg manages to thrust out his harpoon from the violently rocking boat. The harpoon misses.
+87) 0) text: The whale's tail jerks upward, catching Flask's boat -- flipping it skyward! Flask and his crew are thrown high into the churning sea, far from view! Too close to Starbuck's boat, thrashing flukes slap down against the water with crashing power -- and send a wave that almost tips his boat over!
+89) 0) text: Starbuck's men flail about in the turbulent water, trying to reach their boat. Ishmael splashes frantically in the watery chaos, whales all around him. Waves from the slapping tail plow over him, frothing up water like an eggbeater. Losing strength, Ishmael sinks beneath the surface!
+92) 0) text: A dead, blood-soaked sperm whale floats, fluke out. Fedal kill. A distance off, Starbuck's boat, men climbing back into her. But not a sign of Flask's boat. Stubb's boat drifts into view toward Fedallah's boat.
+97) 0) text: Fedallah leaps on deck, as Pip dances and tambourines around him. The old Carpenter bangs a bell with his hammer, applauding him. Stubb and Tashtego climb aboard and shoot dagger looks at the Arab, a mix of admiration and resentment. Fe casually picks his teeth with a tapering, knife-long fingernail. They help aboard Ishmael...wet, shivering, in shock. Then come Starbuck and Queequeg, both soaked to the bone but composed as if nothing had happened.
+98) 0) text: Starbuck reports to Ahab at the taffrail, the Captain gazing seaward as if oblivious.
+98) 1) dialog: Lost a boat, sir. Permission to send out a search party.
+98) 3) dialog: Beg pardon, sir?? Ahab slowly raises his arm and points a bony finger far out to sea, toward the top of a big swell. Starbuck strains to see out: 69.
+102) 0) text: Starbuck and Flask change clothes, while Stub lights his pipe and Pip collects their wet garments. Flask strips off a shirt and tosses it sourly.
+102) 3) dialog: A creature from our dreams.
+102) 5) dialog: A devil, perhaps.
+102) 9) dialog: Striking up a bargain, I'd say. 71.
+102) 11) dialog: Or his soul.
+114) 0) text: Ahab sets the charts and book on a capstan, raises the quadrant to his eye. Then he spreads the charts out, opens the log book, reads from it, checks the charts and reads again. All with a frantic edge. Giving up, he paces like a caged beast, PEG-LEGGING from port to starboard, ignoring the middeck hustle and bustle. Starbuck approaches him, clearly agitated.
+114) 1) dialog: Sir! I must request that ye put those foreign boys to work. Their slovenliness is affectin' the morale of the crew. Ahab keeps pacing, as if not hearing him, scanning the sea with murderous frustration. Starbuck shifts over to block his way, adamant. 78. STARBUCK (cont'd) Did ye not hear me, Captain? Ahab stops to glare at him, his jaw tight.
+118) 3) dialog: Permission to lower boats, sir. The boys deserve a short gam. 80.
+118) 5) dialog: (surprised) But, sir. It's expected... Ignoring him, Ahab faces the Enderby Captain climbing aboard with a one-handed grip. A stout-bellied man of relaxed authority, island garlands around his neck.
+118) 32) dialog: No offense, I'm sure, sir... it's no doubt the pain in his bleeding stump.
+118) 37) dialog: Man the sheets! Jump to it! The deck becomes a flurry. Sailors scramble about and climb the masts to unfurl sails. Many of them glance toward the Enderby with open discontent. As everyone works, a tense undertone of mutiny.
+121) 0) text: Starbuck draws near Ahab, determined to speak his mind.
+121) 1) dialog: Captain Ahab, sir--
+123) 0) text: Drawn to the commotion, Ahab leans over the bridge rail with Starbuck.
+123) 3) dialog: The men are out of sorts. We may not see another ship for months, Captain, and it does not bode well that we deprive ‘em of even a little recreation.
+125) 1) text: Starbuck stares intently at the Captain's back. Ahab turns and gives him a dismissing look.
+125) 3) dialog: Aye, aye...SIR.
+126) 0) text: Fetching a bucket, Perth extracts a hidden flask from under his bunk. He sneaks a long, deep swig. Starbuck barrels downstairs, in a foul state of mind.
+126) 1) dialog: Perth! Perth quickly reconceals his cache and grabs the bucket. STARBUCK (cont'd) Get aloft to the lookout!
+126) 3) dialog: I want ye where I can see ye. Perth drops the bucket and ambles disgruntledly toward the stairs, a little drunk. STARBUCK (cont'd) Get along, ye shabby rascal, or I'll give ye a whale-bonin'!
+126) 5) dialog: On your way!
+127) 1) text: High aloft, Perth climbs the main mast to the lookout, GRUMBLING to himself all the way. He looks down to see Starbuck crossing the deck and scowls down at him.
+128) 0) text: Crossing the deck, Starbuck stops to hear... A sudden SCREAM from above! Everyone looks up at... Perth's plummeting figure! He CRASHES DOWN on the deck with full impact -- right in front of Starbuck! Deckhands rush to Perth, lying in a twisted sprawl. His neck broken. Starbuck looks on in horror.
+130) 0) text: A sail-swathed corpse rests on a bulwark board. A somber crew gathers around the ship's side, their set faces aglow in the sunset. The Captain and the three mates stand by the bulwark around the body. 89. Ahab opens a bible to begin reading. Strangely, he can't bring himself to speak the printed words before him. He gruffly hands the bible over to Starbuck. Frowning at him, Starbuck reads the last rites:
+130) 1) dialog: "They go down to the sea in ships, that do business in great waters. These see the works of the Lord and his wonders in the deep"...
+132) 0) text: In the spare whaleboat, Fedallah and his Arabs pass around a hooker pipe, oblivious to the Christian ceremony. Fedallah exhales smoke with languid disregard. Starbuck finishes the rites in his own words:
+132) 1) dialog: Lord of all the seas, we here commend this mariner's spirit into thy hands... He nods to Stubb and Flask, and they tip the bulwark board...Perth's body drops into the sea with a small SPLASH. And disappears into its watery grave. A long beat, as the men gaze down.
+132) 3) dialog: To what end might that be, sir? To a "blasphemer's end," as the English captain said? Ahab glares at him with a blackened brow. Starbuck shuts the bible and gazes back, trying nobly to contain himself. STARBUCK (cont'd) Life holds US, sir. We do not hold IT. Ahab faces him, raising his voice for all to hear.
+132) 5) dialog: I don't dare, sir, I only think. I blame myself for this good sailor's death...
+132) 7) dialog: Perhaps. But the men see it as an ill prophecy.
+136) 0) text: Pacing around Starbuck, Ahab raises his fist to the heavens. AHAB (cont'd) Swerve me?! Never! The path to my purpose is laid with iron rails -- on which my very soul is grooved to run! (to Starbuck) And NAUGHT will stop me, Mister Starbuck!... Suddenly Ishmael's VOICE BOOMS OUT at the top of his lungs:
+146) 2) dialog: In the night, Captain?!
+146) 4) dialog: Ye want us to give him chase in the NIGHT?!
+146) 6) dialog: Aye, aye sir... (to the men) Prepare to lower away boats!
+148) 2) dialog: Crack on! Pull those oars! 88 Ishmael takes an oar, Bulkington beside him.
+151) 0) text: Starbuck turns to Stubb's boat, shaking his head.
+151) 1) dialog: He's possessed, I tell ye! God has shipwrecked his soul! The boats plunge into a fog bank, enveloped in a moonlit mist. STARBUCK (cont'd) Look at this! A fog! Where did it come from?! An' look at us -- rowin' blind in the night, after a whale as white as this fog! Was it a whale we saw, or a ghost?! 89 Rowing before him, Ishmael looks up at the moon: An opaque eye in the thick mists, its glow surreal.
+152) 0) text: Flask's boat passes beside Starbuck's.
+154) 0) text: Starbuck stares ahead at Ahab with deep chagrin. Ishmael rows, his sweaty face glistening under the boat lamps. Behind the basket next to him, Pip crouches in hiding. The sea becomes strangely still. Starbuck glances around him.
+158) 1) dialog: Stop! The rowers lift their oars and freeze. Ahead in the fog: Ahab's boat drifts soundlessly. Ishmael listens, unsettled by the stillness around him. He turns nervously to Starbuck.
+158) 3) dialog: Hist! Eyes sharp... Everyone watches and listens. A long, tense beat...
+160) 0) text: Starbuck spins his head around -- whales everywhere! Ishmael stares amazed, slack-jawed. Queequeg bolts to the bow with his harpoon.
+164) 1) dialog: Stern all, stern all! Quick! The oarsmen immediately row away from the agonizing whale and its deadly flukes. STARBUCK (cont'd) Give him another, Queequeg! Queequeg aims, throws another harpoon into the mountain of thrashing blubber -- another deadly hit!
+164) 4) dialog: Wet the line! Wet the line! Queequeg dumps a bucket of water over the smoking rope. The boat vibrates with the power of the drag. Gripping the tiller, Starbuck quickly scans around him.
+165) 0) text: The circle of panicking whales tightens around the three boats, Ahab's moving beyond it. Starbuck's boat is pulled deeper into the fray.
+166) 2) dialog: NO! Not yet...look! He points forward.
+170) 0) text: Ishmael turns to Starbuck in a panic.
+175) 2) dialog: Sit down! SIT, I tell you, before ye wind up in the water too!
+175) 4) dialog: Take back that oar, sailor! We've got other business to attend to. We can't just drop everything and set off 96 on a salvage mission! SIT! He turns his attention back to the becalmed water. Ishmael glances helplessly at Bulkington. Queequeg hauls in the lines as fast as he can. The struck whale surfaces...missing the boat by a few feet. It spins slowly in the water, its massive jaws opening and closing with dwindling energy. Queequeg and two oarsmen pull together on the slack lines until they're taut with the harpoons imbedded in the whale. They tow the boat toward the dying creature. As they pull up alongside it, Ahab's boat appears.
+176) 0) text: Ahab guides his craft behind Starbuck's boat. He scans the whale with a grave look. Subdued now, but storming inside. In a quiet voice:
+176) 2) dialog: I did, sir. Ahab turns a fierce expression on him, but his voice remains low.
+177) 0) text: Starbuck is silent for a beat.
+177) 1) dialog: I'm a whaler, sir.
+178) 0) text: Long, silent eye contact. Ahab abruptly turns away 97 and waves at his Arab oarsmen. His boat pulls away from Starbuck's. Ahab calls back over his shoulder:
+179) 0) text: Starbuck glances at Ishmael. He quickly shouts to Ahab's retreating boat.
+179) 1) dialog: What about the boy, sir?!
+181) 1) dialog: Pip, sir. He's lost at sea. Stubb's boat steers side by side with Starbuck's.
+181) 4) dialog: Stowed away, sir, where he wasn't supposed to be. He's just a shipkeeper, Captain, a tender-hearted jolly boy... and I fear we've lost ‘im. Ishmael waits expectantly, full of worry. Queequeg too looks concerned and steps forward.
+181) 7) dialog: Organize a search party, Mister Bulkington. And take Queequeg and Ishmael.
+182) 0) text: 99 Starbuck jumps across from his boat into Stubb's.
+182) 1) dialog: Let's bring this fish in, Mister Stubb. Stubb glances at Starbuck's boat, Bulkington now in command. Stubb shakes his head.
+182) 3) dialog: It's the rightful thing to do. A child's life is worth more than a whale's hide.
+183) 2) dialog: I'1l bust open a hogshead of brandy to the man who finds the boy! Will ye spit fire, men?! AYE, AYES all around. They row away from the other boats, Queequeg perched at the bow, scanning the sea like a hawk. FADE OUT. 100
+187) 0) text: Starbuck dozes over an open bible on his bunk, a flickering candle beside him. The room tilts, timbers GROANING and CREAKING. The candle burns down...a TIME-LAPSE EFFECT, as hours pass in seconds...to a melted, dead stump by the light of dawn.
+191) 0) text: The suspended whale's head, stripped of blubber, is hoisted overboard from the lower mast cranes. Almost a skeleton, it's a ghastly sight. Starbuck oversees crewmen gathered around the port side, working the chains and pulleys and about to drop it into the sea. A SHOUT from the lookout:
+193) 0) text: 106 Queequeg boards with little Pip in his arms, the boy dazed but alive. Bulkington takes him and hands him to Flask, who gives him to Stubb. The men pass the boy between them like a bucket brigade...to Starbuck, who sits Pip atop an oil barrel.
+193) 1) dialog: We missed ye, lad! Bring ‘im his music! Pip stares vacantly, disoriented. Stubb turns to Bulkington with a laugh.
+194) 2) dialog: Right away, sir. Up sails, mates, let's catch a breeze! Men disperse to their duties, too demoralized to jump to it, slowly climbing the masts. Ahab booms at them:
+197) 0) text: By the helm, Starbuck squints toward the horizon and checks his compass. He turns to the wheelman.
+197) 1) dialog: Two points east southeast. Steady before the breeze.
+198) 0) text: Starbuck steps down to middeck before a curious sight at the bottom of the main mast: Ahab stands on the flat seat of a custom-made cradle suspended a few feet off the deck. Stubb and Flask rig pulley lines beside him. Starbuck approaches Ahab.
+198) 1) dialog: If the wind holds up, sir, we should be around the Cape in two days hence.
+203) 0) text: Stubb shakes his head up at him. He turns to peer closely at the doubloon. Starbuck, Flask and Ishmael join him.
+203) 3) dialog: It's the ship's navel, I tell ye. And everyone's on fire to unscrew it. But unscrew a navel and see what happens. Stubb and Flask look at him, uncomprehending. Ishmael nods understandingly.
+203) 5) dialog: Perception? How d'ye mean?
+207) 0) text: Deckhands rush to man the pulley ropes, while others hasten to the bulwarks to sight the whale. Starbuck and Ishmael gaze up at Ahab, tiring of all this madness.
+207) 2) dialog: Damnable coin! It's put here to blind us all! Ahab lands on the deck before them. He quickly THUNK-CLOPS to the bulwark with feverish energy.
+207) 4) dialog: It's not white, Captain, it's grey. Probably a humpback. Ahab snatches his eyeglass from the Steward and peers out. He can't see well enough and angrily tosses it.
+207) 6) dialog: Lo, sir! Sperm whales, to the starboard beam!
+209) 0) text: Ahab keeps his eyes glued to the bow, refusing to even glance starboard. Starbuck turns to him.
+209) 1) dialog: Shall we lower away, sir?
+209) 3) dialog: There's barrels of gold out there, sir -- worth far more than a Spanish coin!
+209) 5) dialog: But SIR!--
+209) 8) dialog: Steady on course, helmsman! Sail onward... (to himself) 114 Nowhere.
+216) 0) text: The tri-works furnace burns, billowing black smoke. The Cook pulls out a baked loaf of bread on the blade end of a harpoon. The Blacksmith dumps in a bucket of whale oil to fuel the tri-works' blaze. Bundled in winter coats and scarves, Stubb, Flask and others huddle close to the warmth of its open hearth. Ishmael paces nearby to ward off the cold. Starbuck steps over to watch the Blacksmith dip his bucket into an open oil cask.
+216) 1) dialog: Burning the cargo, are we now? Wasting our profits?
+222) 0) text: Ahab stares wearily forward, his face frostbitten, his energy sapped by the cold. Starbuck approaches him, hugging his coat, chilled to the bone. Weary irony in his voice:
+222) 1) dialog: Captain. Might I be so bold to suggest that we turn north now. Back on course, sir, toward the Cape. Ahab offers no reply, eyes fixed forward.
+222) 2) dialog: There are no whales in these waters, sir.
+222) 5) dialog: Aye, but not THIS time of year. The ice is too thick for such a gamble -- it can break this ship up into matchwood!
+222) 7) dialog: But Moby Dick's trackings are due EAST, sir -- you told me yourself! Around the Cape! Ahab's will almost weakens, but he won't give in.
+224) 0) text: Starbuck and Stubb stare over the side with worrisome frowns.
+224) 1) dialog: Pack ice.
+224) 3) dialog: (a bitter smirk) Captain's orders.
+226) 0) text: 118 Starbuck and Stubb stare grimly forward: dead ahead, the passage between ice floes narrows into a twisty water lane through solid sheets of whiteness.
+233) 0) text: Starbuck and Stubb rush to the side and look down. Ahab THUNK-CLOPS furiously forward and stares out in despair, crewmen behind him.
+233) 2) dialog: Lost HIM?! Dammit, we're losing our SHIP! He leaps down to middeck, shouting orders. STARBUCK (cont'd) Quick, men, lower the sheets! Dump the anchors! Carpenter, fetch timber! You harpooners, come below deck!
+234) 0) text: Starbuck and others clamor downstairs. Walls around them GROAN from the weight of wedged ice.
+236) 0) text: A bulkhead GROANS and CREAKS from the crushing pressure outside. Starbuck, Bulkington and the harpooners lift a heavy mast timber to shore up the bow walls, its length spanning the full width of the hold. The old Carpenter carries in another huge timber on his back, crouched over like Christ bearing the cross.
+239) 0) text: Starbuck, Bulkington and the harpooners brace the ends of a timber under their shoulders, pushing and grunting with herculean strength, leaking water streaming over them.
+239) 1) dialog: Push, damn ye! Harder!! A new leak gushes into Dagoo's face. He lets go in panic.
+244) 0) text: Ahab watches the approach of the widening gap onto the open sea, Starbuck behind him. Ahab towers tall in the frozen gloom, proud as Lucifer, victorious. He gazes yonder. 124
+244) 2) dialog: No, Captain. I shall not yield to it.
+247) 0) text: 125 Ahab nods triumphantly at them, aside to Starbuck:
+249) 0) text: Sailors tumble aloft to man the sails. Starbuck takes over the helm. Stubb mans the rigging with Ishmael and Queequeg. Ahab hurries toward his cabin, shouting orders all around.
+253) 0) text: Starbuck and Stubb peer out from the port bulwarks, expectancy on their faces.
+256) 0) text: Ahab balances himself atop the bow gunwale and stands 128 tall above his crew, looking down on the Rachel's deck. Starbuck approaches, Stubb and Ishmael in tow.
+256) 1) dialog: Shall we reef the sails for boarding, sir?
+258) 4) dialog: The boy's drowned, Stubb. You know it as well as I do.
+260) 0) text: Stubb and I Unsurprised to budge. AHAB (cont'd) I will not do it, Captain Gardiner! Even as we speak, I am losing time and I'1l not lose any more! (turns quickly) Mister Starbuck! Prepare to turn windward! shmael stare at him in utter disbelief. , Starbuck just glares at him, refusing Ignoring him, Ahab bellows at his crew: AHAB (cont'd) Man the yards, we're sailing on! ON THE DOUBLE! 131 Fearful of his wrath, the deckhands rush to their duties. Starbuck stands there fixed, hatred in his eyes. Ahab shouts across the water: AHAB (cont'd) Goodbye, Captain Gardiner! Goodbye and may God help ye, man! May I forgive myself, but now I MUST GO!
+261) 7) dialog: Captain! Ahab presses on, refusing to hear him. STARBUCK (cont'd) Captain Ahab, sir!
+262) 0) text: Ahab storms in, starts to shut the door -- Starbuck blocks it open. Ahab reacts with angry surprise.
+262) 2) dialog: Permission to speak with ye--
+262) 4) dialog: I WILL speak, sir!
+262) 7) dialog: I AM in hell, sir! Ahab eases his grip, taken back by that. Starbuck faces him with calm fortitude, a voice of reason:
+262) 8) dialog: Capt'n, we've sailed thousands of miles to stock oil. We're breakin' a solemn oath chasing this...mirage of a whale! What will the OWNERS say if we return with an empty hold?
+262) 10) dialog: Your conscience, Capt'n, is drawin' water. In the end it'll sink ye down -- and drag US down in your wake!
+262) 12) dialog: 134 In Jesus' name, think of your MEN! No more of this madness! The angels mob ye with warnings, sir -- do ye not SEE them?! Ahab cocks the musket threateningly, ready to use it.
+262) 14) dialog: Nay, sir, not yet! (with forced calm) I only ask that we try to be reasonable men...
+262) 17) dialog: As you wish, Captain. You needn't beware of Starbuck... (eyes burning back) But let Ahab beware of AHAB! Beware of YOURSELF, old man! Stunned by his words, Ahab's rage dissipates. He lowers the musket, regarding him curiously.
+262) 19) dialog: 135 I wish I were not. He quickly exits.
+263) 7) dialog: What the devil is this?
+263) 9) dialog: Queequeg, put out that flame! You'll set the whole ship on fire! Queequeg suddenly looks up, as if foreseeing a vision.
+263) 14) dialog: What on earth is he saying?
+267) 0) text: Strong winds buffet the deck. Queequeg sits rigidly 139 under the mast in the same spot, as if in a frozen coma. A squall whips away the ashes before him. Ishmael sleeps close by his friend, huddled in a blanket. MUFFLED FOOTSTEPS stirs him awake. Not moving, he watches a shadow streak across the deck. A small dinghy drops overboard, SPLASHES down, its tow line strung to the deck above. A figure leans over the landward railing, feeding out rope. Bulkington, his back turned to us. He starts to climb over -- a hand clamps on his shoulder. Starbuck behind him. Bulkington stiffens defensively.
+267) 1) dialog: Clutch my soul! Have ye gone mad too, Bulkington?
+267) 4) dialog: It's for my missus. If ye make it to Nantucket, I'd be grateful if ye'd pass it on. Bulkington nods and takes the letter. A moment of communion between two reasonable men. They look at the silhouetted African vista against the dusky sky.
+269) 0) text: Starbuck gazes longingly after him. His eyes sweep along the expanse of land beyond, then turns back on Bulkington
+271) 0) text: Starbuck looks on in abject horror. He shuts his eyes fro the doomed sight, slamming a fist against the bulwark top with angry despair. He lowers his head in grief and opens his eyes. His grim gaze falls on: The big Bowie knife, protruding from the top.
+273) 2) dialog: Sorry to disturb ye, sir. Ahab goes back to his maps without reply, his usual sever Starbuck steps in and stands by the door, acting polite to hide his contempt. STARBUCK (cont'd) The oil barrels are leaking, sir. The cask wood's rotten.
+273) 4) dialog: It would be more prudent to ship into the next port and replace the lot of ‘em.
+273) 6) dialog: We're losin' our profit, sir. Would ye wish to strip the men of all hopes of cash?
+273) 8) dialog: That won't be good enough- -
+274) 2) dialog: A word with you, Stubb! You too, Flask!
+274) 4) dialog: Now! The three hurry away. Under SHRIEKING wind, a SOUND from below deck: the BANGING of the Carpenter's hammer. At the foot of the main mast, Queequeg is still frozen in the same position. Chanting prayers, oblivious to the blasting wind and tossing deck. Kneeling beside him, Ishmael prods a cup of steaming 143 chowder at him.
+275) 0) text: The dark bowels of the ship. Oil barrels are piled high against the hull. The three mates stand in an 144 inch of leaking oil covering the floor, balancing themselves to the ship's lilting sway. Starbuck illuminates the sinister hold with a lamp, Stubb and Flask staring at him.
+275) 2) dialog: A captain cannot use a ship for ill-gotten gains, other than for the purposes of her owners. It's in the code of merchant seamen.
+275) 4) dialog: Are ye that blind to what's happenin' here? All that we toiled for is bein' wasted -- and HE'LL not lift a finger to save it! He doesn't CARE! Disturbed by him, Stubb starts to lights his pipe with a cinder. Flask leans forward urgently.
+275) 7) dialog: We have the legal right to refuse all further obedience. We can even wrest command of this ship. Stubb trades disconcerting looks with Flask. 145
+275) 9) dialog: Open your eyes, man! We're not whalers any more, we're just sheep followin' a madman! Wanderin' from all mortal reason!
+275) 12) dialog: Listen to me well, mates: a fearless man is far more dangerous than a coward. No storms nor whales can match the terrors menacing us from the brow of an angry man! We MUST NOT let Ahab's fatal pride drag this ship down to doom with him!
+275) 16) dialog: I can no longer stand by to the willful murder of this good crew. I cannot obey my God by obeying HIM! Do ye understand me, Stubb?
+278) 3) dialog: A storm, Captain.
+280) 2) dialog: Avast, mate! Let the storm do the singin'! Be a braver man and hold your tongue! Stubb laughs -- a gigantic wave washes over them! He shakes the sea water from his eyes.
+280) 4) dialog: Well, jump overboard and sing away, if you must! Ahab appears on deck, face illuminated by a blinding flash of lightning. A deafening THUNDER CLAP! Starbuck and Stubb regard him warily. Stubb grips the wheel harder, trying to control it.
+280) 6) dialog: We'll go no further in this squall! We must turn round! He struggles his way toward the Captain.
+282) 0) text: Ahab clings to a rail, unbending in the wind, his eyes fixed outward to the boiling sea. Starbuck hurries desperately over.
+282) 1) dialog: 150 Captain, sir! We could turn this gail into a fair wind if we TURN ABOUT -- let it drive us toward home! Leeward, sir, and homeward!
+282) 3) dialog: 
+283) 0) text: Ishmael clings to the mast, gripping Queequeg, trying to keep him from washing away. Queequeg sits there, making no move to save himself from the onslaught. Starbuck rushes over and grabs a handhold by the mast.
+283) 1) dialog: Get 'im below!
+283) 3) dialog: Let's raise 'im up...against the mast! 151 The two struggle to lift the limp giant to a standing position, flat against the mast. Starbuck lashes him to it, wrapping the rope around his chest and waist.
+287) 0) text: Holding on, the men turn seaward. They see nothing. Starbuck shouts up from the mast:
+287) 1) dialog: Captain -- leave that whale to his ghostly wanderings! We must save our ship!! A lightning bolt strikes a life raft at the stern with a violent CRACK -- the raft flies overboard and falls burning into the sea!
+296) 5) dialog: Of course ye don't! The old man's blastin' all reason straight out of their heads! Another tidal wave plows over them with piledriver force -- Starbuck and Ishmael topple over each other! Queequeg stands secure, like Ulysses bound to the mast, chanting dazedly. Starbuck rises determinedly and bounds up the quarterdeck steps.
+297) 0) text: Starbuck takes the wheel from Stubb and turns it full circle with all his might. The deck lurches to port. Ahab wheels around in rage.
+297) 2) dialog: We must turn about or we'll
+297) 5) dialog: 
+300) 0) text: Struggling with a halyard, Starbuck and Ishmael glance up at a bizarre phenomenon: A green, ghoulish flash skips along the top rigging, sparking out veins of electrical discharge!
+300) 2) dialog: St. Elmo's fire!... The other men don't see it, their eyes glued on Ahab...
+302) 4) text: The men GASP in unison, trembling before him. Starbuck, the lone disbeliever, gazes hard at Ahab's grand performance. Ishmael gapes.
+302) 6) dialog: Oh, he knows exactly what he's doing! 156 Ahab laughs defiantly, scans the awestruck faces of his crew then stares deep into the crackling light.
+302) 8) text: Starbuck can stand no more. He dashes over.
+302) 9) dialog: No, Ahab! Don't do this! Enough witchcraft, old man, God will turn against you! T'is an ill voyage, ill begun and ill done! Stop this blasphemy, Captain --
+305) 0) text: By flickering lamplight, a chaos of scattered casks broken by the storm. Cracked barrels bleed oil... six_inches over the flooded floor now. Holding the lamp, Starbuck stares appalled at the damage. A total loss.
+307) 0) text: Starbuck sits hunched over the edge of his bunk and leafs through his bible, brooding distractedly. Ishmael appears in the doorway, looking troubled.
+307) 2) dialog: What is it, Ishmael?
+307) 4) dialog: They don't see his madness, Ishmael...they can't. HE won't give 'em a chance to think! Only to feel. And 160 they feel they must obey him. (a resigned nod) Oh, I'll obey him as well... but I'll hate him for it!
+307) 6) dialog: Don't. Don't give in. At least not in your heart!
+316) 0) text: A distance apart on the port bow, Starbuck and the Captain view the seals. Ahab turns to give Starbuck a half-smile. Starbuck doesn't smile back, turning his eyes to the horizon. Ahab sidles over beside him, both looking out. He breathes deep, sucking in the sea air.
+316) 2) dialog: My Captain! In these eyes are MY wife, MY children -- and I fear I'll never see them again! He tightens his grip on him, begging earnestly: STARBUCK (cont'd) Let's sail away from these wretched waters! Leave right now, sir! Let me alter the course -- head us back to old Nantucket again! Ahab pulls away, dark and stormy again. Frustrated beyond reason, Starbuck prays to the sky with clenched fists. STARBUCK (cont'd) Great God in heaven -- SHOW yourself to this man! Impulsively, he yanks out the knife from his belt. STARBUCK (cont'd) Or give ME the strength to do your bidding! He turns toward Ahab, his teeth clenched, the blade 169 pointed to strike. Ahab looks at the knife and regards him deeply, torn with new conflicting emotions. He stares grimly to sea, as if suddenly realizing his folly.
+318) 0) text: The tense tableau between Ahab and Starbuck is suddenly broken by a bellowing cry above:
+321) 0) text: Ahab and Starbuck stare dead ahead over the bow, their eyes wide. Starbuck's knife lowers in his hand.
+324) 0) text: Whalers' faces gape seaward. Starbuck, Stubb, Flask, Ishmael, Queequeg, Tashtego, Dagoo, Fedallah. With anticipation or dread, this is the moment they've all been waiting for. Ahab stands rigid, focused and still -- until murderous rage explodes full force from his face.
+324) 3) dialog: In stunsails! Down the topgallants! Chaos on deck! Shouts and whistles, the BANGING of wood blocks, RINGING of chainlinks, BEATING of boots running over the plankings. Fedallah stops by the gold coin on the mast, SLAPS it greedily with a fist, dashes on. Others follow suit, slapping the coin as they run by. Queequeg, Tash and Dago snatch up their harpoons in quick order. Whalers pile into the swinging boats like pirates on the attack -- some leaping from the deck. They man the oars and rope lines. Ahab storms out his cabin door, his two polished harpoons in each hand. Pip runs frantically behind him, trips on the oversized length of his robe. He screams hysterically after Ahab:
+336) 0) text: Starbuck is dumbstruck, like the rest. Ishmael shuts his eyes, foreseeing his doom. Queequeg gazes stoically, accepting his. Stunned for a beat, Ahab mutters a seaward growl:
+336) 2) dialog: God in heaven!! He and the others recoil in humbled terror. Ahab leans forward and shouts with demonic triumph:
+336) 4) dialog: Captain, it's not too late to stop this madness! Let's turn back--
+336) 7) dialog: I cannot! I'm under orders to obey you, not to DIE for ye!
+337) 0) text: The chase is on again, building momentum. Starbuck's boat closes in on the mountainous whale, Stubb's and Flask's boats right behind them.
+341) 0) text: As the boat plows behind him, the rowers watch in open-jawed amazement. Starbuck stares, inspired by the heroic, horrific scene before him.
+343) 0) text: Starbuck leaps forward to the bow and leans out, screaming in despair...
+343) 1) dialog: My Captain! !
+344) 0) text: From Starbuck's viewpoint: MOBY DICK resurfaces, still dragging the boat. Fastened to the whale, dead Ahab sprawls upright across his hump with a ravaged face -- wrapped up in coils and coils of harpoon rope! His glazed eyes wide open in fossilized fury, staring directly at us!
+345) 0) text: Starbuck's direful face fixes on Ahab.
+345) 1) dialog: My Captain...my Captain... He suddenly turns with a savage heart, transformed, exhorting the others with Ahab's own mighty rage: STARBUCK (cont'd) Come on, men! Let's not let him die in vain! Let's gash that whale's heart -- let's SPILL HIS GORE!! Seizing hold of the taut line, he pulls furiously to drag the boat closer to their prey. Shouts back: 178 STARBUCK (cont'd) Damn yer eyes, pull! PULL! Queequeg grips a line and pulls with him. Caught up in Starbuck's fever, the others take the lines. Only Ishmael hangs back, too petrified to move.
+348) 0) text: Stubb's and Flask's boats advance rapidly toward MOBY DICK -- the giant whale heading their way, dragging Starbuck's boat behind him.
+349) 0) text: Starbuck and his men pull fiercely on the lines, battling the racing tide, drawing closer and closer to the whale's stern...twenty feet away! Queequeg leaps to the bow. Fighting for balance, he raises and aims his harpoon... 179
+351) 0) text: The boat lurches up over a wave -- Queequeg tumbles off the bow with his harpoon, Ishmael spills out the stern! Airborn for a split second, the boat plunges downward! Starbuck SCREAMS before a wall of water rushing up at him -- the last image he sees!
+352) 0) text: Starbuck's boat plummets down into the deep with a violent SPLASH -- disappears! It's over in seconds.

@@ -1,0 +1,100 @@
+4) 5) dialog: (Inside) Yeah, come in!
+4) 6) text: Sammy swings open the door. BRIAN EVERETT, the new branch manager, is unpacking a box. Sammy is surprised to see he in his early thirties and very good-looking in a boyish s of way; he wears shirt-sleeves and tie, and a wedding rin
+4) 8) dialog: Yeah: Brian.
+4) 10) dialog: Yeah, hi, how are you? Come on in.  Sit down.
+4) 13) dialog: Yeah, we missed you before...
+4) 15) dialog: I'm sure it's not. Actually -- could  you just, could you close that door  for me? Thanks.
+4) 19) dialog: Well -- Samantha -- I realize that  Scottsville is not exactly a major  banking center...
+4) 21) dialog: No -- I know it's not... But it's  kind of a personal challenge to me  to see what we can do to bring local  service up to the same kinds of  standards we'd be trying to meet if  we were the biggest branch in the  state. And that means I don't want  anybody running out at 3:15 or 3:30,  or whenever the bus happens to come  in that day. Now is there anybody  else who can pick your son up after  school? Does your husband work in  the area? Do you --
+4) 23) dialog: Well, I can give you a couple of  days to make some other arrangement,  but...
+4) 25) dialog: I'd really prefer it if you would  make some other arrangement. OK?
+4) 27) text: Brian kicks back in his chair and puts his hands behind h head.
+4) 28) dialog: How old's your son?
+4) 30) dialog: That's a terrific age.
+16) 5) dialog: Yeah! (Looks up) Hi, Sammy. What can I do for you?
+16) 7) dialog: Oh, yeah, end of the day'll be fine.
+16) 9) text: Brian hesitates, shrugs and smiles.
+16) 10) dialog: I like paperwork.
+20) 3) text: A MOMENT LATER: Brian, talking to an employee, sees Sammy across the bank, hurrying out the employees' exit.
+20) 4) dialog: Hey, Sammy?
+20) 23) dialog: Yeah. I was kind of wondering what  happened to you today.
+20) 25) dialog: Yeah, I kind of thought you were  gonna work that out.
+20) 27) dialog: Then why're you running outta here  in the middle of the day without a  word of explanation to me, Sammy?
+20) 29) dialog: I'm -- I'm not yelling. I'm just  gettin' a little frustrated here.
+20) 31) dialog: Sorry, could you close the door  please?
+22) 0) text: Sammy listens to Brian.
+22) 1) dialog: Yeah. This doesn't apply to you  directly, Sammy, but I've noticed  that some of the employees have their  PC monitors set with all kinds of  crazy colors... Purple and polka  dots or what have you. And it's not  a big deal, but really, this is a  bank. You know? It's not really  appropriate. So I'm just asking that  people stick to a more quote unquote  normal range of colors in future...
+22) 3) dialog: Like I say, it doesn't really apply  to you.
+29) 0) text: The RAIN runs down Brian's office window. BRIAN, in a wet raincoat, turns on his light. A MOMENT LATER: Brian turns on his PC. The SCREEN lights The COLORS are a garish GREEN and ORANGE.
+29) 3) dialog: Excuse me?
+29) 5) dialog: Well, that's all you gotta say!
+29) 8) dialog: I didn't say there was. Could I please --  Could I please -- May I respond?
+29) 10) dialog: May I respond? (Beat) First of all, I don't appreciate  being spoken to with that kind of  language. That's not the way I talk  to you, and I'd appreciate it if you  wouldn't talk that way to me --
+29) 12) dialog: Second of all, if you say you didn't  change the colors on my computer  screen, then of course I accept your  answer. But you and I are gonna have  to find a way to work together --
+29) 14) dialog: But that's not gonna happen with the  attitude, it's not gonna happen with  the lateness, it's not gonna happen  by fighting me every step of the way --  OK, well not you, you're not late,  but too much of that stuff goes on  around here --
+29) 16) dialog: I'd really like to finish!
+29) 17) text: OUTSIDE BRIAN'S OFFICE: The whole staff is listening to t muffled raised VOICES from inside the office. MABEL especially is listening guiltily.
+31) 5) dialog: This is Chuck. Chuck, this is my  wife, Nancy.
+31) 8) dialog: This is Mabel...
+31) 11) text: SAMMY, at her desk, watches Brian and Nancy make their  progress through the bank. Nobody is being very friendly, and Brian suddenly seems awkward and vulnerable. Brian an Nancy reach Sammy's desk.
+31) 12) dialog: This is Sammy, our lending officer.  Sammy, this is my wife, Nancy.
+31) 15) dialog: Sure -- Let's go in my office.
+31) 22) dialog: Yeah.
+32) 0) text: Sammy walks through the empty bank hall and into Brian's  office. Brian is at his desk.
+32) 1) dialog: You're working late.
+32) 3) dialog: Oh, fine. She wasn't feeling so great.
+32) 5) dialog: No -- I don't mean -- She's not ill.  She's just... I don't know...
+32) 7) dialog: That's it. She's pregnant.
+32) 9) dialog: Yeah...
+32) 11) dialog: Listen, I'm sorry we've been stepping  on each other's toes -- I -- I'm not  actually that bad a guy --
+32) 13) dialog: Well, I -- I'm just trying to do my  best here -- And I'm gettin' it from  all sides.
+32) 15) dialog: Anyway... We'll work it out...
+32) 17) dialog: I could use a tranquilizer.
+32) 20) dialog: Must be so tough raising a kid on  your own... Although I'm beginning  to get the idea my wife wouldn't  mind a crack at it.
+32) 22) dialog: Well, no, it isn't. But never mind.
+32) 23) text: The waitress brings them two boilermakers. SAMMY and BRIAN Thanks. She leaves. Sammy and Brian pick up their shots.
+32) 24) dialog: Well, here's to improved employee- management relations.
+32) 28) dialog: Well -- Let's -- Let's not talk about  the bank.
+32) 30) dialog: Let's just forget about the bank for  tonight.
+32) 34) dialog: Sammy?
+32) 36) dialog: I want you to tell me who changed  the colors on my computer screen.
+32) 38) text: They start kissing again in the cramped space. Brian bang his head. They laugh.
+34) 0) text: TRACKING SAMMY, coat off, carrying a stack of folders, as she walks from her desk, around the corner, down the hall past a couple of employees and to BRIAN'S OPEN DOOR. She  taps on it. Brian is at his desk.
+34) 2) dialog: Yeah, good morning. Could you get  the door?
+34) 3) text: OUTSIDE THE OFFICE: Sammy shuts the door. MABEL and DORIS standing near the door, look at each other: i.e., Sammy's trouble again. INSIDE THE OFFICE: Sammy stands by the closed door. Brian comes out around his desk.
+34) 5) text: Brian kisses her. She drops her folders and they make out against the door. OUTSIDE THE OFFICE: The employees click away at their PCs Mabel exchanges a quiet word with Chuck. INSIDE THE OFFICE: Brian has Sammy pressed against the wa with her skirt hiked up and is trying to get both of thei underwear out of the way. It's not so easy in their offic clothes. Sammy tears away.
+34) 7) text: BRIAN falls back, breathless.
+34) 8) dialog: OK. Sorry.
+34) 27) dialog: (On phone) It's Brian.
+35) 0) text: Brian is on the pay phone outside a gas station.
+35) 1) dialog: I'm buying milk. I just thought I'd  say hello.
+35) 3) dialog: Look, I know it's probably too late,  but is there any way you can come  out for a little while?
+35) 5) dialog: I know I am. Can you meet me?
+42) 52) dialog: Yeah, I was just about to give up on  you.
+42) 56) dialog: Hey, that's what I've been trying to  tell you guys at the bank.
+42) 58) dialog: OK.
+42) 61) dialog: Mmmm.
+43) 73) dialog: (Startled awake) What's the matter?
+43) 76) text: A FEW MOMENTS LATER: Sammy and Brian are on opposite side of the bed, getting dressed.
+43) 77) dialog: Hey, you know, Nancy's gonna be gone  for the rest of the week...
+43) 79) dialog: Yeah?
+43) 82) dialog: Um -- Yeah. Sure. If you want to.
+43) 84) dialog: Yeah. Sure. OK. You're right.
+43) 87) dialog: (Nods tersely) Mm hm. Sure.
+48) 2) dialog: Anyone hear from Sammy this morning?
+48) 4) dialog: Uh huh. Well, if anyone ever hears  from her ever again, will you let me  know?
+48) 13) dialog: Yeah, it's Brian.
+48) 15) dialog: What the hell happened to you today,  lady?
+48) 16) text: SAMMY is about to answer, but she just HANGS UP instead. BRIAN is stunned into sheer gaping fury. Feverishly he ha up and dials again. It RINGS. Sammy picks up.
+48) 18) dialog: You're fired!
+48) 81) dialog: Well... I'm sorry you're havin' all  this trouble...
+48) 83) dialog: But you made a pretty good speech to  me yesterday about people sticking  to their commitments...
+48) 85) dialog: Well... you made a commitment to  this bank, Sammy. To this job.
+48) 87) dialog: And to working things out with this  tough new son of a bitch boss of  yours. And whatever might have passed  between us after hours doesn't mean  you just walk away from that  commitment -- yeah, even when you  have a legitimate family emergency.
+48) 89) dialog: Which is why I think in the calm  cold light of day, we should both  think real hard about whether or not  you really want to continue on here  at Merchants National Trust.
+48) 91) dialog: ...you're not happy, I'm not happy,  it's not good for you and it sure as  heck isn't good for the bank.
+48) 94) dialog: Come on, Sammy...
+48) 96) dialog: ...I don't wanna trade insults with  you.
+48) 98) dialog: Well --
+48) 100) dialog: That's -- Don't threaten me, Sammy:  I'm not threatening you. I -- It's  just an area I think we should  explore.
+48) 104) dialog: Yeah. Fine. Why don't you just take  over the whole bank?

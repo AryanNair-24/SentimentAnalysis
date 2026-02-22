@@ -1,0 +1,36 @@
+1) 0) text: Mail-clad HORSEMEN gallop headlong through the dark, bent low over their saddles. A bestial scream is heard, and suddenly a saddle is empty, the rider sprawled face down a pool of blood. At the head of the band, COLWYN, a boy of twenty-two, rai his shield to ward off an unseen assailant. We hear a horrendous tearing sound, and Colwyn's father, TUROLD, riding beside him, looks over at the boy. Colwyn is unhar - but his shield is deeply gouged, as if by a huge claw.
+4) 0) text: Turold and Colwyn lead their men through the gate and dismount. Waiting for them are LORD ROWAN, a man of Turol age, and an elderly COUNCILOR. Rowan notices the gouges i Colwyn's shield.
+4) 2) dialog: Yes. We lost five.
+5) 0) text: Turold and Rowan walk down the corridor, followed by Colw and the Councilor.
+5) 2) dialog: How many did you lose?
+5) 4) dialog: We will have to try again. His knowledge is great. Without it, we cannot hope to win.
+6) 3) dialog: Middling well. Colwyn stands and we see that he is several inches taller than his father.
+6) 4) dialog: Though a touch too tall for my taste. Colwyn smiles somewhat sheepishly.
+6) 9) dialog: Barak is still strong in the north, and Tendo holds the high passes. But the great desert forts have fallen.
+6) 11) dialog: It has been taken, Freylag and all his people slaughtered.
+6) 13) dialog: The attacks are unceasing: by night, the Dark Ones; by day, those of our people who have sold themselves to them, those traitors who are called the Slayers.
+6) 15) dialog: We will hold. Their power is not unlimited.
+11) 0) text: Turold and Rowan at the Queen's bedside.
+11) 2) dialog: Modred has treated with the Dark Ones.
+11) 4) dialog: He leads a group of Slayers, under the leopard banner.
+11) 6) dialog: It is important to assure the succession.
+11) 9) dialog: I knew.
+11) 11) dialog: (smiles) That I am, my lady. Turold looks out the window at the North Tower.
+11) 12) dialog: And, it seems, so is my son.
+12) 5) dialog: A girl of some spirit, your daughter.
+12) 7) dialog: A fine match.
+13) 9) dialog: You'll both wait. At least for five hours. The wedding is at three.
+13) 11) dialog: Of course it was. Turold snorts down a laugh. Colwyn and Lyssa begin to giggle. Then all three break into laughter.
+14) 0) text: The occupants of the castle - servants, soldiers, minor nobles, and retainers - stand in two parallel lines, form an aisle. Turold and Rowan, on horseback, face each other at opposi ends of the aisle. Midway between them stand Colwyn and Lyssa, side by side, Colwyn facing Rowan, Lyssa facing Turold. The two fathers are not armored, but they hold longswords balanced across their pommels. Colwyn glances up toward the Queen's balcony.
+15) 4) dialog: (shouts) You shall not! The two men spur their horses toward the wedding couple, stand perfectly still as the horses thunder down on them. Turold and Rowan swing their swords directly above the he of the young couple, the blades striking with a clang. Th they wheel their horses to a stop. Colwyn and Lyssa, almo obscured by the whirling dust, have not moved a muscle.
+15) 5) dialog: Let it be done then. He hurls his sword at the ground beside the wedding coupl
+15) 7) dialog: (shouts) Slayers! To arms! Men and women arm themselves as Slayers descend the walls They mount a fierce counterattack against the Slayers, wo fighting beside their men, Lyssa fighting beside Colwyn. But suddenly the main gate is rammed open and a dozen Slayers on horseback, led by Modred, attack the defenders from the rear. In the melee, Colwynn and Lyssa are separated.
+17) 2) dialog: You can't reach her! (opens a door in the wall) Through the door. (as Colwyn hesitates) Quickly! They go through the door, and are followed shortly by two Slayers.
+18) 0) text: Colwyn and Turold back down the dark corridor, fighting t two Slayers. They kill the Slayers but, in the exchange, Turold is badly wounded. He leans against the wall, holdi himself erect by force of will.
+18) 1) dialog: The passage. Open it. Colwyn pressed one of the rough-hewn stones and a door swings open in the wall: A staircase leads to an undergro passage. He moves to help his father through the door.
+18) 2) dialog: (shaking his head) You will go alone.
+18) 4) dialog: You will do as I tell you. You will try to reach Ynyr, the old one.
+18) 6) dialog: (sharply) You will not follow the Slayers, you will obey my command! (softer) You have no chance alone, boy. You must try to break through to Ynyr. He has great knowledge. Only with his help can you save Lyssa. They hear footsteps in the corridor.
+18) 7) dialog: Go now. (as Colwyn hesitates) Go! I command you! As Colwyn enters the passage and begins swinging the heav door shut, Modred appears, advancing on Turold with drawn sword. Turold places himself in front of the door, but he weak from his wound and goes down under Modred's first bl Modred thrusts his sword into the crack of the door, preventing it from closing. Turold, slumped against the wall, looks up at him with pleading eyes.
+18) 8) dialog: Spare him, Modred. Have you never loved anyone?
+18) 10) dialog: He is your godson now. He and Lyssa were married. Modred stares at him for some moments, then withdraws his sword, allowing the door to close. Turold flashes a look gratitude, then dies.

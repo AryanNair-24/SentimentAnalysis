@@ -1,0 +1,67 @@
+6) 8) dialog: Thank you, Colonel; I've been looking forward to meeting you. So how was the trip -- no problem? Rambo shakes his head "no."
+6) 9) dialog: (continuing) None except for this damn heat, right? Never felt anything like it. Anyway, let's get down to business -- Rambo, I glanced through your files and I must say it provided interesting reading. (he opens a folder) Rambo, John J., born 7/6/47 Bowie, Arizona of Indian-Italian-German descent. Joined army 8/6/64. Accepted, Special Forces specialization, light weapons, crossed-trained as medic. Helicopter and language qualified -- 59 confirmed kills -- Ericson eyes Rambo, who remains impassive.
+6) 10) dialog: (continuing, reading) two Silver Stars, four Bronze, four Purple Hearts, Distinguished Service Cross, and the Medal of Honor... You did get around, didn't you... incredible. Now you're probably aware that there are still nearly twenty-five hundred Americans missing in action in Southeast Asia. Most of these boys are presumed killed. But to the League of Families -- Congress, and to a lot of Americans, it's still a very emotional issue. (to Ericson) Get me something cold, please. Ericson opens a Coke machine by turning the key that is the front of the machine and reaches inside.
+6) 11) dialog: Rambo, you certainly don't know as much about me as I do about you, but I was honching with the Second Battalion, Third Marines at Kom Tum in sixty-six and lost a lot of good men, so I know what you and every Vet feels. Maybe the government didn't care, maybe certain sectors of the public didn't care but my committee cares. It may have been a bad war, but the men weren't bad. Rambo nods.
+6) 13) dialog: (overriding) And once done, you can be assured we'll get our men back... (rapidly) If there's any of our men left at the P.O.W. targer camp you'll confirm their presence by taking photographs.
+6) 15) dialog: Just photographs. Then you turn those photos over to me.
+6) 17) dialog: (to Ericson) Not exactly -- the phrase two Delta Force assault team led by Colonel Trautman will handle the extraction. Murdock steps up and is backlit as he confronts Rambo. He shakes Rambo's hand.
+6) 18) dialog: (continuing) Anyway, I want to say that with your participation I feel this mission has a better than average chance of succeeding where others have failed... I'll meet you both at the operations center in one hour. Murdock and Ericson exit. Rambo stares at him exiting. The tension is broken by Trautman's voice.
+7) 9) dialog: Impressed? Rambo looks around.
+7) 10) dialog: (continuing) Besides the monitoring devices you see here, you'll be issued every ultra-modern piece of equipment to insure your safety. (gestures at the humming equipment ) Rambo, you can feel totally safe because today we have the most advanced weapons in the world available to us.
+7) 12) dialog: Times change.
+7) 15) dialog: This is true -- Don't let me interrupt, Colonel -- Rambo gazes around as if in another world.
+7) 17) dialog: Is he listening?
+7) 19) dialog: Colonel, are you sure he's not still unbalanced from the war? We can't afford to have anyone involved who might crack under pressure in that hell.
+14) 0) text: Everyone sits at their respective stations -- tension penetrates the room. Murdock is flanked by a pair of army communications TECHNICIANS.
+19) 0) text: Trautman watches the jet start its takeoff and slowly ascend into the night. Murdock steps INTO FRAME next to him.
+19) 2) dialog: P.O.W.'s... doubtful... but there's people to satisfy. Questions that have to be answered.
+19) 4) dialog: It wasn't my war, Colonel. I'm just here to clean up the mess. Murdock looks up at the sky and reports as Trautman continues to watch the plane disappear into the night.
+22) 1) text: Murdock and Trautman are hunched at the main console.
+32) 0) text: Murdock has the headset on.
+34) 1) dialog: What do you mean "hung up"?!
+36) 1) dialog: Ericson, abort mission! Pull out!
+48) 0) text: The chief TELECOM TECH turns to Murdock.
+50) 0) text: Trautman looks at Murdock.
+53) 0) text: Trautman stands with Murdock.
+53) 1) dialog: Maybe the smart thing to do is abort the mission now before there's any more complications. I mean who could've survived something like that?
+53) 3) dialog: Of course we do -- but understand in 36 hours we pull out.
+67) 0) text: Murdock sits behind his desk. Lifer sits in the corner nearby drinking a soda... Trautman enters... Murdock look up. Ericson is present.
+67) 4) dialog: Denied.
+67) 6) dialog: It's too dangerous.
+67) 8) dialog: Colonel, we're a team here. It's everyone's worry -- I just think all things considered it's an unnecessary risk.
+67) 10) dialog: With who? We don't even know if Rambo's alive.
+67) 13) dialog: But, if you want to go through with it, we will! (to Ericson) The Colonel will be joining the extraction team... You're a good man, Trautman. Trautman gives him a curious look and exits.
+154) 0) text: Murdock is pacing behind the main console.
+154) 2) dialog: What did you say?
+155) 1) dialog: (loudly) This station is now on Condition Bravo. Harrison! Meyers! Goodell! Out... now! The puzzled Techs drop their headsets and leave.
+155) 2) dialog: (continuing, to Tech) Go to your COMINT priority push. Give me the mike... Dragonfly, this is Wolf Den Six. This is an Alpha- Kilo-Victor command priority.
+155) 4) dialog: I want you to abort the operation immediately. I say again, abort. This is a recall, confirm, over.
+162) 0) text: Murdock is pouring scotch over ice in a glass as the DOOR behind him BANGS OPEN. Trautman is furious.
+162) 2) dialog: Don't act so innocent, Colonel. You had your suspicions, and if you suspected then, you're sort of an accessory, aren't you? Trautman smashes the glass from his hand.
+162) 4) dialog: What are you talking about?
+162) 6) dialog: Who do you think you're talking to, Trautman?
+162) 8) dialog: Not just mine, Trautman, a nation's! It was your hero's fault. If your "warrior" had done what the hell he was told, we'd be out of this clean and simple. All he was supposed to do is to take pictures!
+162) 10) dialog: Look, I don't think you understand what this is all about, Trautman!
+162) 12) dialog: (exploding) And what the hell would you suggest we do if some burnt-out P.O.W. shows up on the six o'clock news -- fight the war all over again? Have an invasion! Bomb Hanoi? Do you think anybody is going to get on the floor of the United States Senate and ask billions of dollars for a couple of forgotten ghosts!
+162) 14) dialog: Enough, I'm going to forget this meeting ever took place, and I'd advise you to never make the mistake of bringing this subject up again. Trautman turns, starts out, then turns back to Murdock.
+162) 16) dialog: What "mistake?"
+190) 11) dialog: What is it?!
+194) 4) text: Murdock moves forward, his body stiff with apprehension - Trautman hands him the microphone. Murdock looks around as all eyes are riveted on him.
+194) 5) dialog: Rambo -- This is Murdock -- we're glad you're alive... where are you? Give us your position and we'll come and get you, over.
+203) 0) text: Murdock pacing in front of the computers.
+219) 0) text: Trautman is there, nervously pacing, agitated. Murdock sits solidly behind his desk... Ericson sits on the other side of the room.
+219) 1) dialog: Do you really think that you can threaten me, Colonel?
+219) 3) dialog: (almost amused) You're risking your career, your reputation and your family's security -- do you think any one person is worth that, Trautman?
+219) 5) dialog: I'm giving you a direct order to withdraw from this project.
+219) 7) dialog: Colonel, it's time you understand I'm in charge here -- here you're a tool, we're the machine -- (to Ericson) I want him placed under arrest. He's not to leave the base.
+219) 9) dialog: Like you said, he went home.
+275) 0) text: Murdock looks like he hasn't slept in days. Ericson approaches.
+275) 2) dialog: Yeah. Alert everyone, start packing, we're pulling out now. Trautman walks in and hears the above.
+275) 4) dialog: It's finished, Colonel... Murdock exits.
+294) 0) text: Trautman and Murdock who have been waiting for further transmission suddenly hear Rambo's transmission.
+296) 0) text: Everyone freezes as they wait for orders from Murdock... He remains silent -- eyes are shifting. Ericson looks at Trautman who yells...
+297) 0) text: Rambo's burning Huey descends toward the landing field. As the techs and other camp personnel stand watching, Murdock raises a pair of powerful field glasses.
+298) 0) text: He slowly lowers the glasses. Face ashen, Murdock heads into the operations hanger.
+305) 0) text: He shoves the equipment aside that is blocking his path t Murdock, who is seen retreating. Ericson stands in his way. Rambo, without breaking stride, clubs him with the butt of his knife.
+306) 0) text: Rambo moving, silhouetted, closer to the HUMMING communications area, reeking of jungle, blood and death.. Murdock is against the wall... no where to hide.
+307) 0) text: Rambo closes in on Murdock, looming. Murdock starts to move away, Rambo grabs him from behind, spins him down on top of a crate and raises his knife.

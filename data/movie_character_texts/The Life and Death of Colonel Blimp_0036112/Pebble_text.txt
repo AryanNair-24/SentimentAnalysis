@@ -1,0 +1,11 @@
+0) 181) dialog: Master Clive!
+0) 183) dialog: Your Aunt is asleep.
+0) 185) dialog: You're not sick, Master Clive?
+0) 187) dialog: It wasn't so bad at the time, Master  Clive, there was so much to do. It  was after that it got bad, if you  understand me. (CLIVE nods gloomily.) I hope you haven't come from a  burying, sir.
+0) 189) dialog: Was it a sad play?  
+0) 191) dialog: No, sir, but it won't take a minute  if you don't mind sleeping in  blankets. There isn't time to air  the sheets. Lady Margaret has made  some changes, Master Clive, you'll  see when В—
+0) 193) text: [[CLIVE signs to PEBBLE not to give him away.
+0) 194) dialog: Nothing, Lady Margaret.
+0) 200) text: He scoops his aunt up in his arms before she realizes his intention. PEBBLE passes up the stairs smiling.
+0) 220) dialog: Good night, Master Clive.
+0) 222) text: PEBBLE leaves.]

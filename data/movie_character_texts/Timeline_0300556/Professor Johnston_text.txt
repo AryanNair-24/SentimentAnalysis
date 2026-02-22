@@ -1,0 +1,59 @@
+2) 0) text: Chris sprays a guard in the face with the knockout gas. T guard swings his sword wildly, then falls over. Kate, Chris, the Professor, and Gordon run through the fr and toward a fallow field next to the small village.
+3) 0) text: Chris, Kate and the Professor race toward the open field. Soldiers are a few seconds behind them. Two knights on ho emerge from the manor house. Gordon is way ahead of the others. And he’s not looking b He’s almost at the field. A few more feet. A few more-- He's there. He hits the button on his marker-- --and bears an annoving beep like vour computer makes whe pur_inia command it won't accept. He looks down at the marker. Hits the call button again. BEEP-- A little red light flashes through the white ceram
+3) 10) dialog: What‘s going on? Why don’t they--
+3) 12) dialog: “Down”?!
+8) 0) text: Gorden rushes through the trees. The Professor is falling and Gordon isn’t slowing down to‘help him. | : STAY with the Professor as he runs. A knight on horseback is right behind him. Gaining fast. knight lifts a heavy wooden mace and slams the Professor behind with it. The Professor collapses. He shakes off the pain and tries to get up. The knight wh knocks him over circles. Another knight arrives and unshe his sword, preparing for the coup de grace.
+18) 2) dialog: Dungeon of the manor house at Castelgard. You've got a pretty deep wound, Andre. You lost consciousness. |
+18) 5) dialog: Just bruises.
+18) 9) dialog: Half hour. (trying to bolster Marek) Enough time for Lady Claire to tell us about your daring rescue attempt. She says you have the bravery of ten men. Those are her words, not mine.
+18) 18) dialog: Who are you?
+18) 20) dialog: Both...I guess. :
+18) 30) dialog: Stuck?
+18) 32) dialog: Arrow wounds? Why does that...? DE KERE . The transcription errors would kill me if I tried to go back. 10/25/00
+21) 0) text: Marek and the Professor, in chains, listen to De Kere.
+23) 0) text: La Roque is visible atop a high cliff in the distance. Th epitome of a medieval fortress. Massive. Impenetrable. The Professor and Marek sit in chains on a horse drawn ca They look pale, exhausted, on the verge of collapse -- me physical. Marek looks at another cart in front of them. Lady Claire on it, also in chains. They watch each other. Both carts are surrounded by armed men on horseback.
+23) 5) dialog: De Kere was wearing it. All that stuff Doniger said about losing it himself was just bullshit. Johnston pulls up the sleeve of his tunic and reveals the tracking device. A message reads: “deactivation achieved.
+23) 7) dialog: That's good for the world.
+23) 10) dialog: We'll get out of here, Andre. Believe that. The Professor glances at his countdown clock. It reads th pours. Three hours until their markers expire. And, for the record, Oliver will die tonight. Arnaut will win the siege. You know why? Because he’s going to catch Oliver off guard. He's going to sneak his best knights into La Roque through the secret passageway that runs from that monastery right there... (points) ...into La Roque.
+23) 17) dialog: History’s about to be rewritten. The Professor smiles.
+23) 18) dialog: Take another look at the monastery. Marek tries to see whatever the Professor is trying to ge see... But he can‘t see it...
+23) 19) dialog: Southeast tower. Marek looks at the Southeast tower and then he spots it. the flagpole is an orange and black flag.
+23) 21) dialog: { ) The colors of Princeton University.
+23) 23) dialog: There isn’t a noble family in all of France which uses orange on its flag. I think’ Kate and Chris made it to the monastery.
+23) 25) dialog: The monastery is aligned with Arnaut. Kate knows where the secret passageway begins. She‘ll show them. Twenty- three years early....
+23) 33) dialog: Which means two time machines. Doniger said each one holds two people. (beat) We're going to make it through this, Andre. We're all going to make it home... Marek’s eyes show excitement -- but then something melanc creeps into them. Now we see that he is looking at Lady Claire.
+23) 36) dialog: Arnaut’s lead knight -- Bujold -- rescued her during the attack. Got his ear chopped off during the fighting. She marries him. Marek nods. A mixture of emotions on his face.
+24) 0) text: Claire stands. Still defiant. FIND Marek and the Professor thirty feet away, also in ch Four guards stand with them. Marek is watching Claire. Her defiance moves him, involve
+26) 0) text: Oliver watches two horseman gallop across the plateau fro French lines. The lead rider flies a white truce flag. A forms on Oliver's face. Marek and the Professor watch the horsemen too. Oliver turns to Lady Claire.
+27) 3) text: Marek and the Professor look down at the scene from the battlements.
+28) 0) text: Marek and the Professor watch in horror. Thirty feet away from them Lady Claire watches too...
+30) 0) text: The Professor winces as the French messenger’s head rolls puddle. He turns away, disgusted by the sight. Marek, on the other hand watches, almost dispassionately. now he has seen so much of this, and he has killed severa himself...
+33) 0) text: Lord Oliver, splattered in the French messenger’s blood, to the Professor and Marek. De Kere is behind him. Oliver looks his two prisoners over...
+33) 3) text: 10/25/00 The Professor and Marek look back at him. Afraid to respo Afraid to make things worse.
+33) 5) dialog: It is, my Lord. Oliver looks at the Professor. Then at Marek. Considers their fate....
+33) 7) dialog: Well, that certainly makes an impression... Now in the distance we see Arnaut’s huge catapults launch projectiles. A huge boulder seems to be heading right for them-- Everybody hits the deck. Except Oliver and De Kere.
+36) 5) text: The Professor and Marek mix various elements together in stone bowls. De Kere watches them. A loud CRASHING in the background. The professor jumps as sound. Then shakes it off.
+36) 9) dialog: It's not the recipe we’re changing. It's the way we mix it. It has to be ground extremely fine. Especially the saltpeter. Northern Europe doesn't catch on to this for another fifty years.
+37) 0) text: A huge flaming stone slams into the top of the battlement smashing off the crenellations and dropping into the cour A few feet away, the Professor and Marek stand with Lord and De Kere. Oliver‘s troops have set up small catapults and primitive atop the battlements.
+37) 1) dialog: Because he is not confined by a fortress, the enemy is able to build larger catapults, catapults with the range to hit you, while you are unable to hit him with your small catapults. The Professor nods to one of Oliver's troops who sticks a metal arrow into a cannon and lights it. BOOM. There is a puff of black smoke and the arrow shoots out - travelling only about halfway to Arnaut’s lines.
+37) 2) dialog: Your cannons are, likewise, impotent because your gunpowder does not explode with sufficient force. Marek looks at Lady Clairé who is still chained up near L Oliver. Their eyes meet....
+37) 3) dialog: My powder is in that cannon. And on the tip-- The Professor takes a heavy metal arrow, dips the tip in mixture.
+37) 5) dialog: No, my lord. Better. The fire of Athenaios of Naukratis, which ds called “automatic fire.”
+37) 14) dialog: My Lord, that’s not all. Oliver looks at him, confused. The Professor points out a catapult. Arnaut’s men arrive with buckets of water and begin dousi flames. Only the water does nothing to quench the fire. R it seems to it. With each new dousing the flames leap higher. Arnaut’s me back, confused. In the end they just watch helplessly as the catapult bur the ground... .
+37) 16) dialog: Twenty will do. But fifty would be better.
+41) 0) text: It is located atop the keep, the strongest part of the ca the final refuge. Dozens of soldiers grind and mix powders on the floor of armory under the supervision of Marek and the Professor. Marek looks through a narrow ‘arrow-loop* window out at t battlements -- out at Lady Claire, who is still chained t near Arnaut.
+41) 4) dialog: (to De Kere) If one of those hits the roof-- If it’s on fire this.whole place will go up.
+47) 2) text: We've got under a half hour. | The Professor looks at him.
+52) 0) text: Marek and the Professor hand bowls of gunpowder and Greek Oliver's soldiers, who carry it along the parapets to the masters. When they have a brief moment out of earshot of the soldi Professor and Marek look at each other. And they look worried....
+52) 2) dialog: We'll be lucky if we're alive twelve minutes from now. When Oliver realizes that we did the bait and | switch with him -- that we gave hima bunch of inert mud...
+62) 1) dialog: What now?
+62) 4) dialog: He’s calling your bluff, Andre... A beat...
+62) 6) dialog: Andre!
+62) 13) dialog: Andre!!! KA=-BOOOOMI Lit The armory explodes with a ferocious explosion... The shingle roof bursts into the sky. Wood beams go flyin And stones shower the courtyard. Sections of walls collapse... FIND Marek and the Professor -- the explosion shoots out window that they are crouching beneath... The overpressure escaping through the window prevents the from collapsing on top of them... Debris rains down on top of them, shingles, wood, chips o stone.... The force of the explosion knocks De Kere and Oliver off feet.
+68) 0) text: Chris and Kate crouch down with the Professor. Kate looks her countdown clock.
+74) 0) text: Chris leads Kate and the Professor up toward the south wa battlements, where the siege tower is located. Their esca route.
+80) 2) dialog: My God--
+81) 11) dialog: I‘ll explain. Come on! We're almost out of time. Sixty-five seconds! Let's go!
+83) 0) text: Chris, Kate, and the Professor clamber out the bottom of siege tower and onto the ground. i seconds...26...25...24... i . It is illuminated only by moonlight, and the flickering fires in the castle behi
+84) 0) text: Chris, Kate, and the Professor rush toward open space. DT seconds. ..6...5...4..-3...2.6%
+86) 2) dialog: I‘m sure of it... (beat) Speaking of which...

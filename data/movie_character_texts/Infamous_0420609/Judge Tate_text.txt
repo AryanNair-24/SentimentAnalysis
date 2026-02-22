@@ -1,0 +1,13 @@
+56) 2) dialog: In the matter of the State of Kansas  v. Richard Eugene Hickock and Perry  Edward Smith this Court has been  informed by counsel -- Mr. Weeks --  that defendants wish to waive their  right to Preliminary Hearing. Mr.  Hickock, is that your wish?
+56) 7) dialog: Mr. Smith.
+56) 9) text: Judge Tate looks at him for a moment --
+56) 10) dialog: So noted. (bangs gavel) We're adjourned.
+63) 2) text: Truman shrugs. Nelle raises her eyebrows. Judge Tate GAVE loudly, looks to the jury.
+63) 3) dialog: Members of the jury. Have you reached  a verdict?
+63) 5) dialog: Defendants rise.
+63) 6) text: Perry and Dick stand. Judge Tate turns back to the Forema
+63) 7) dialog: Perry Edward Smith and Richard Eugene  Hickock stand accused of four counts  of the crime of murder in the first  degree. Have you reached a unanimous  verdict?
+63) 9) dialog: What is your verdict?
+63) 11) dialog: Have you unanimously reached a  sentence.
+63) 13) dialog: What is the sentence?
+63) 16) dialog: Perry Edward Smith and Richard Eugene  Hickock. You've been found guilty of  four counts of murder in the first  degree. You will be taken to the  state penitentiary at Lansing. No  later than midnight, May 13 of this  year, nineteen hundred and sixty,  each of you will be hanged by the  neck until dead. So ordered.

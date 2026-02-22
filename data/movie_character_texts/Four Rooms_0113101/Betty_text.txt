@@ -1,0 +1,62 @@
+0) 0) text: The big empty lobby of the Mon Signor. You can tell that one point this used to be a swank place. It still is, kin It's also kinda decrepit. The concierge -- a snappy, fast talking, red-haired young woman in a blue blazer named Be stands behind the reception desk. The old man, suitcase i hand, makes a beeline through the lobby, heading toward t front door. Betty sees him.
+0) 1) dialog: Sam! Hey, Sam, wait a minute!
+0) 4) text: Betty comes from behind the desk.
+0) 5) dialog: I just want to say good-bye.
+0) 7) dialog: Uhhh, Betty. The concierge. Your  boss.
+0) 10) dialog: Yeah, sure.
+0) 12) dialog: I just want you to know, from the  owner and all the staff, your fifty  years of service have been an  inspiration to us all. You're a legend  in your own time, and the Mon Signor  will never be the --
+0) 14) text: Betty is left standing in the lobby. Ted appears behind h in his bellbody uniform, sans cap.
+0) 16) dialog: Yeah. Oh, hi, Teddy. Ready to start  the night shift?
+0) 18) dialog: Well, let me buy you a drink.
+0) 20) dialog: You're not an alcoholic, are you;  one drink won't kill you.
+1) 0) text: Betty and Ted sit in the back room, both with drinks in t hand. This dialogue is to be delivered rapid fire, Howard Hawks style.
+1) 1) dialog: After fifty years, Sam retires, and  you're taking over the night shift.
+1) 3) dialog: You're filling some mighty big shoes.
+1) 5) dialog: Sam was a legend in the hotel  business.
+1) 7) dialog: A bellhop's bellhop.
+1) 9) dialog: He ran the night desk for fifty years,  all by himself.
+1) 11) dialog: No desk clerk. No night man. No help.  Just fuckin' Sam, and his wits.
+1) 13) dialog: And you're gonna do the same.
+1) 15) dialog: Tonight.
+1) 18) dialog: Yes, tonight.
+1) 20) dialog: Yes, you can.
+1) 22) dialog: Oh night shift -- smight shift.
+1) 24) dialog: I know, but I can't.
+1) 26) dialog: I'm having a New Year's Eve party.
+1) 28) dialog: Actually, I'm not having it. My  roommate is. And there's this guy.  German guy. He's gonna be there. And  so am I.
+1) 30) dialog: Oh, sure ya can.
+1) 32) dialog: Sam ran this place by himself for  fifty years.
+1) 34) dialog: Look, Teddy, calm down --
+1) 36) dialog: Ted, the night's cake. It's easy.  The day's when it's busy. During the  night there's nothing to do.
+1) 38) dialog: Which'll make it less busy than  normal. Ever worked on Christmas?  Unless you sell turkeys, business is  dead. You just got butterflies, that's  all.
+1) 40) text: Betty slows the scene down.
+1) 41) dialog: Okay, let's calm down a minute. Slow  it down, cool it off. Let's just  talk.
+1) 43) dialog: -- Ted? I thought we were calming  down? I thought we were cooling off?  No hostility. Say good-bye to  hostility. We're just talking.
+1) 45) dialog: Ted, in a nutshell, all you have to  do is hold the fort. It's New Year's  Eve. Most of the guests are going  out. You'll just be giving them a  little nod as they come staggering  in at three... four... five... in  the morning. Nobody's having any  parties, a few get-togethers, but no  parties. You got about three people  checking in tonight, that's it. The  only variable is Chester Rush in the  penthouse.
+1) 47) dialog: Yeah, him and his entourage checked  in last night. They're in the  penthouse. The only reason I refer  to it as a variable is that he's a  movie star. Ya never know about movie  stars. I'm tellin' ya, Ted, it's  cake.
+1) 48) text: Betty takes a piece of paper and writes her number down.
+1) 49) dialog: (continuing) And look, if you have any problems,  call me at the party.
+1) 52) dialog: Great --
+1) 54) dialog: Fifty bucks!
+1) 56) dialog: One, Horst is not a Nazi. Two, that's  not a fair price. You're taking  advantage of the situation. Twenty  bucks. Now, twenty bucks is a fair  price.
+1) 58) text: Betty begrudgingly digs in her purse.
+1) 59) dialog: Okay, but don't be a pussy. You don't  bother me unless it's an emergency.  In fact, for fifty bucks, you better  not call me unless the fuckin'  building's burning down.
+1) 61) dialog: Get ready to take the desk.
+1) 62) text: Betty leaves. Ted sits in the chair, takes another drink, and prepares  himself for the night.
+7) 24) text: CLOSE ON photo: a Blond Bombshell in full-on Betty Page  attire, a bare-tittied pinup girl, playfully spanking a g in bondage with a spiked high heel.
+26) 56) text: The sleepy room stirs. Betty wakes up from the floor.
+26) 57) dialog: Yeah, whatcha screamin' about?
+26) 59) dialog: Yeah, I'm Betty, it's my fuckin'  place, who the fuck are you?
+26) 61) text: Betty takes the phone.
+26) 62) dialog: Ted, what's the problem?
+26) 64) dialog: (yawning, wiping sleep  from her eyes) Sure.
+26) 66) text: A RINGING SOUND happens that we haven't heard before. Ted head turns toward it. It's the guest board. And the top light, the penthouse, i ringing. It rings where all the others buzzed. Betty can hear it distinctly on her side of the line. The sound fully wakes her up. They start talking Howard Hawks style again.
+26) 67) dialog: (suddenly alert) Is that the penthouse?
+26) 69) dialog: That's the Chester Rush party, they  want something.
+26) 71) dialog: (panicking) Now, Ted, wait a minute. I know you're  freaked, I know you're stressed.  You've had a real bad night --
+26) 73) dialog: -- You say there's a dead body in a  room?
+26) 75) dialog: No problem, this is a hotel, we've  had dead bodies before, it's just  the price of doing business. You  said the hotel was on fire. Is it  still on fire?
+26) 77) dialog: Good, sprinkler system worked like a  charm. Now, you wanna leave, you've  had enough. Perfectly understandable.  I'll take care of everything else.  The only thing I ask is that you  take care of Chester Rush. Then you  can leave.
+26) 79) dialog: Ted, he's a very important guest of  this hotel. In fact, he is the most  important guest at the hotel. The  Mon Signor used to be a haven for  movie stars. Through the thirties  and forties, and the first half of  the fifties, more movie stars -- if  you break it down on a night-by-night  basis -- stayed at the Mon Signor  than any other hotel in Hollywood.  Now, we had some hard time in the  eighties, even though we were the  official hotel of Cannon Pictures,  but we're coming back strong in the  nineties. And a movie star clientele  is important to that comeback. If we  can keep stars of his magnitude happy,  we're on our way. So, Ted, just take  care of him, then you can leave.
+26) 81) dialog: He probably just wants some champagne!  You can do that, can't you? Please  just take care of him, the entire  staff of the Mon Signor is begging  you!
+26) 84) dialog: You're a good man, Ted. Thanks.

@@ -1,0 +1,209 @@
+0) 46) dialog: Finishing up the diagnostic, everything checks out normal, we still have to take a look at the starboard suite on B  deck.  We've relocated her and she doesn't seem to be that upset about it. Seated across the bridge, second mate ALEX BARNES turns a
+0) 51) dialog: Yes sir. Reynolds leaves the room -  Barnes then gets up and stretches - 
+0) 53) dialog: Sounds like you've been talking to Mac too much. Barnes heads toward the door - 
+0) 96) dialog: Hey Barnes. Barnes stops working for a beat, then answers his watch -
+0) 99) dialog: I'm getting a very strange command on the life pod status check. Did anything come up on the last diagnostic?
+0) 102) dialog: Well it's a good thing that I  did.
+0) 104) dialog: It's telling me fail mode confirmed.  Did you see this?
+0) 106) dialog: Yes I'm sure I hit the right commands.
+0) 109) dialog: You're certain of that?
+0) 113) dialog: All right, I'll give it a shot. Taylor presses the button on his watch and resets the com Just then Dawn Taylor enters the bridge - Taylor turns an The two look at each other for a beat - 
+0) 116) dialog: Oh right, right you're on that research grant.
+0) 118) dialog: Ryan Taylor, first mate.  Welcome aboard.  First time in space?
+0) 120) dialog: This is my second commercial flight. (Beat)
+0) 123) dialog: Well, plus the money ain't that bad.
+0) 125) dialog: Well, let me put it this way.  Most of the cost is due to safety reasons. Most people are not familiar with space travel, so we have to take extra precautions in the event they do something careless.
+0) 127) dialog: Well I don't think there's a  chance of that happening.  It's usually the moon walks.  Sometimes you feel like a kindergarten teacher.
+0) 130) dialog: I'm sure you'll be all right.
+0) 132) dialog: Really?
+0) 135) dialog: Well then you'll have nothing to worry about at all.   (Beat)
+0) 136) text: You're dealing with a trained professional. I guess. Dawn and Taylor smile at one another - 
+0) 190) dialog: Well, everything's running smoother than a baby's ass.
+0) 192) dialog: So, are you on for the next one?
+0) 194) dialog: Why, didn't they say?
+0) 196) dialog: You want to go back to shuttle work? 
+0) 199) dialog: That's very pragmatic of you, Barnes.
+0) 201) dialog: Man, I'm hungry.  I'm going to call the steward, you want anything?.
+0) 204) dialog: What, and leave you here all by your lonesome?
+0) 207) dialog: Well, maybe I will. (Beat)
+0) 210) dialog: Well, maybe I'll surprise you.
+0) 216) dialog: Mac.  What's shaking?
+0) 218) text: I don't understand. Taylor heads to the bar - 
+0) 220) dialog: Yes Mac I know that.   Taylor walks away - 
+0) 221) dialog: Jeez...hall monitor. Mac watches him leave, then heads over to another passeng
+0) 257) dialog: Are you all right? Dawn looks up at Taylor - 
+0) 259) text: I don't know.  I guess so. Taylor addresses his wrist communicator - 
+0) 260) dialog: Bridge? (Beat)
+0) 262) text: Hello Bridge!                 Taylor taps the device - he then rushes over to the INTER with his fist - 
+0) 263) dialog: Bridge! (Beat)
+0) 266) dialog: Bridge!  Can anyone hear me?!
+0) 270) dialog: If anyone can hear me please respond!
+0) 275) dialog: Barnes, can you hear me, are you all right?
+0) 277) dialog: What is the condition of the bridge?
+0) 280) dialog: Transmit the code 3 emergency and take us offline.  Override the airlock sensors and hurry!  We're running out of time, we have to get  to the pods!
+0) 282) dialog: What are you talking about!   Can you transmit the code 3 - 
+0) 284) text: I just don't think it's a prudent move at this juncture. Dawn approaches Taylor with a worried look on her face - 
+0) 286) dialog: Barnes have you flipped your wig?
+0) 291) dialog: You better start making sense!                
+0) 293) dialog: Then we've got to get to the  lifepods!
+0) 298) dialog: Why are you doing this!
+0) 314) dialog: (to Barnes)
+0) 320) dialog: It's still not going to work!   They'll detect you upon re-entry in an emergency vessel!
+0) 329) dialog: I don't know.  
+0) 331) dialog: I think we should do what he tells us. Barnes leans back and watches them, smiling -
+0) 334) dialog: We don't.        
+0) 336) dialog: Fat chance of that.  Even if we had C4 and a laser torch these  doors wouldn't budge. (Beat)
+0) 338) text: Carlo and Dawn talk with Taylor - 
+0) 340) dialog: Probably come through the wall I suppose.
+0) 342) dialog: I don't think you know what you're talking about.  Besides, what could  we use for tools?  A steak knife?  A corkscrew?
+0) 345) dialog: You're right. Taylor looks at the CONTROL PANEL next to the door - 
+0) 346) dialog: If only I could override this thing. At the other end of the room Mac approaches Delbert who n cigarette - 
+0) 369) dialog: Look, people, listen to me.  As the first mate, I know a lot about this ship.  Now I don't know what's going on outside these doors, I don't know where the captain is, I don't know who's left out here.  What I do know is that if what he's saying is true, we're in serious trouble.  So I  suggest we collect the information he wants, and give it to him.
+0) 371) dialog: We don't have a choice!  Now let's write them down, OK?
+0) 373) dialog: It depends on the condition of  the ship.  If I could get to  one of the suit compartments I could check the exterior air locks for a possible entry.
+0) 375) dialog: With what?  How am I going to  interface with it?  I need to be able to talk to the system and to have the system talk to me. Dawn looks at Taylor, who looks down at the ground - 
+0) 377) dialog: A way to talk to the system... Taylor then looks up at Mac - Dawn watches Taylor -  Taylor turns to Carlo - 
+0) 378) dialog: Carlo, get me the cable off the menu register. Carlo walks off -
+0) 379) dialog: We're going to have to be quick.
+0) 398) dialog: Is that all of them?
+0) 401) dialog: Well we are, so get used to it. Taylor then approaches the Wall-mounted CAMERA LENS -  The others watch him - 
+0) 402) dialog: Barnes.  Can you hear me?
+0) 404) dialog: Barnes? Barnes takes a puff of the cigar, and looks at the monito
+0) 406) dialog: We have the codes here.  How do you want to receive them?
+0) 410) dialog: Will you transmit the distress signal?
+0) 414) dialog: Here.  Take this. Carlo does so and Taylor walks over to Mac -  Dawn undoes the front of the WALL PANEL with a knife - 
+0) 417) dialog: Seen one like it before?
+0) 420) dialog: Great. Taylor then turns and looks at Mac - 
+0) 421) dialog: Mac, I have a favor to ask you. Mac looks at Taylor - 
+0) 423) dialog: Yes I know all that.  Mac, I need you to help us out with a little technical problem.
+0) 425) dialog: Right, I understand that... Taylor looks at Mac's face - Jack approaches -  Dawn begins to connect one end of the wire to the wall co
+0) 426) dialog: I need you to actually do something for me.  I need to access your CPU, directly. 
+0) 429) dialog: Yeah but the ship's mainframe doesn't. I need you to tell it something.
+0) 431) dialog: I know but we're in a bind. Mac waits a beat before saying anything - 
+0) 437) dialog: That is what I thought... Taylor and Jack look at Mac's face - 
+0) 438) dialog: Now which one was it again?
+0) 448) dialog: Ok, the first thing we need to  know is the status of this floor. Taylor then gently moves the other end of the cable towar approach we see Mac's LEFT EYE removed, with a socket for
+0) 449) dialog: Here goes nothing. Taylor slowly inserts the cable into the socket -  Everyone waits for a beat - 
+0) 450) dialog: Now Mac, can you tell me the status of this deck?
+0) 452) text: one moment please... Dawn examines the EYEBALL then looks at Taylor - 
+0) 454) dialog: It should.  Mac? Mac sits, motionless, with the cable hanging out of his  eye -  The others watch apprehensively - 
+0) 457) dialog: But the corridor outside this door is open, correct?
+0) 460) dialog: Mac, what about the suit  compartments on this level?  Can they be accessed?
+0) 462) text: I'm sorry.  The suit compartments are in a non-oxygenated, zero gravity atmosphere.  I'm afraid that's off limits to all passengers. Taylor sits back - 
+0) 463) dialog: Damn it.  If only we could get to  those suits... Dawn then thinks of something - 
+0) 465) dialog: I don't know the condition of the compartments.  Depending on damage, debris...could be a fatal mistake.
+0) 467) dialog: And suppose you couldn't hold out?
+0) 470) dialog: You're right. Taylor then looks at Jack - he raises his wrist - 
+0) 471) dialog: Jack, let me have your walkie. Put it on channel 10. Taylor than looks around, walks over to a chair, and SMAS picking up one of the steel legs -  Taylor then looks at Mac - 
+0) 472) dialog: Open the door, Mac.
+0) 475) dialog: Ok Mac... (shows Mac his walkie)
+0) 479) dialog: (to Mac)
+0) 480) text: Close every door behind you! Mac looks at Taylor, then heads around the corner -
+0) 482) dialog: How is it looking, Mac?
+0) 485) dialog: Is it safe for human transport?
+0) 488) dialog: Yeah, let's hope he can find a way through. Taylor cues his walkie - 
+0) 489) dialog: Mac please check the status of  the suit compartment on this level I want you to go in there and get a suit.
+0) 493) dialog: What the hell was that?
+0) 497) dialog: Mac.  Mac!
+0) 531) dialog: Mac, can you hear me?  Come in?
+0) 536) dialog: I don't know what you're talking about!
+0) 538) text: Or maybe he's just a little drunk. Were you partying with a robot Taylor? Taylor begins to lose his patience - 
+0) 539) dialog: Look we gave you what you asked  for.  It checks out didn't it?! What more do you want from us!
+0) 542) dialog: Look you said it doesn't matter to you anyway!  Why do you want  to kill more innocent people!  Why! Barnes gets up - 
+0) 574) dialog: He might still be playing a game with us.  But at this point the odds are slim, he's already killed too many others. Dawn approaches Taylor - 
+0) 578) dialog: It's a question of getting to the  lifepod.  Before Barnes does. But even then, the pod has a maximum capacity of seven adults.   (Beat)
+0) 581) dialog: It doesn't work that way! There's only so much oxygen, only so much  fuel, only so much mass it can handle on re-entry!
+0) 582) dialog: If I could get to the bridge I could send the distress signal.  
+0) 584) dialog: Then I have no other choice. (Beat)
+0) 587) dialog: I'm not letting him get away with this.  It's our last chance. Taylor heads toward the door - 
+0) 588) dialog: Everyone just stay put.
+0) 591) dialog: I can't let you do that.
+0) 593) dialog: Simulated space walking.
+0) 596) dialog: All right come on. Taylor looks at the others - 
+0) 597) dialog: Everyone just stay calm.  Everything's going to be all right. Taylor looks at Jack - 
+0) 598) dialog: Jack, keep it together in here. Jack looks at him -
+0) 613) dialog: Watch your step. Taylor approaches a sealed door - he looks at it for a  beat -
+0) 614) dialog: It's through this door. Taylor then looks at Dawn - 
+0) 615) dialog: I don't know what we're facing.  
+0) 617) dialog: Are you ready?
+0) 619) dialog: Here goes nothing. Taylor hits the button -  CLOSE on the doors - they SWOOSH open -
+0) 621) dialog: Are you all right? Dawn looks at the suit, and presses the button on her for Taylor - 
+0) 624) dialog: So we did. Taylor then heads over to the gaping hole in the wall - 
+0) 625) dialog: Now that's what I call an emergency  exit. Taylor inspects it and looks out into space - he then tur
+0) 626) dialog: You're ready for the real thing?
+0) 647) dialog: Be careful, you don't want to  puncture the suit.
+0) 651) dialog: To the other side.  There's an airlock close to engineering. If it's intact, I can get to  the pressure vents. Suddenly Taylor sees something - 
+0) 652) dialog: What the hell is that? Taylor approaches a section of the ship and scrutinizes i Dawn looks in that direction - POV Taylor grabs a chunk OF C4 PLASTIC EXPLOSIVE attached
+0) 654) dialog: One of Barnes' duds, luckily for us.  Take this out of the equation right now... Taylor puts the C4 into a STORAGE POUCH on his suit - 
+0) 655) dialog: That psychotic bastard... Taylor looks back a Dawn - 
+0) 656) dialog: Come on, let's go. Dawn follows him - they look at each other - 
+0) 658) dialog: Yeah?
+0) 660) text: What do you think's going to  happen to us? Taylor looks back at Dawn - 
+0) 661) dialog: Well, Dawn, I'm an optimist by nature.
+0) 663) dialog: Do you want some advice?
+0) 665) dialog: Don't worry about what will happen, just concentrate on what is happening.  You'll live longer.
+0) 671) dialog: Good news.   (pointing)
+0) 672) text: Look. Dawn looks in the direction Taylor is pointing -  POV coming into view on the other side of the ship is an
+0) 673) dialog: It's intact.  We're one step closer.  Come on. Taylor and Dawn make it closer to the airlock - 
+0) 691) text: Taylor looks back, sees this - 
+0) 692) dialog: Dawn!  Dawn!
+0) 694) dialog: You're safe.  Grab my hand -  CLOSE on Dawn's glove clutching Taylor's -
+0) 707) dialog: It was no time to lose my partner. We're going to have to hurry, he's  on to us.
+0) 710) dialog: The room is filled with poison gas.  The hydraulic system must have blown. Taylor looks at the men for a beat - he then heads over t
+0) 711) dialog: That sick bastard... Taylor hits an AUXILIARY POWER switch on the console - th lights up - 
+0) 713) dialog: A schematic of the ship.  Looking for a lifeline to the pods.
+0) 715) dialog: That's why we need a safe passage. remember what you said earlier, about getting through the wall? That might just be our ticket. Taylor brings up the floor plans of the ship - functionin others in red - 
+0) 716) dialog: No look, see that.  One deck up will take you across the damaged lower decks.  There's a bulkhead  here, then over that, one deck down, is a storage room.  That room is adjacent to the dining room. We get through that wall, we get them out to here -  Taylor points to the LIFEPOD AREA on the map - 
+0) 718) dialog: Take this flare.
+0) 720) dialog: No... Taylor takes the C4 out of the pouch on his suit - 
+0) 721) dialog: But this will. Just attach it to the flare. Taylor hands the C4 to Dawn - 
+0) 722) dialog: The flare is self igniting, it has a short fuse, so be careful. And remember... Taylor breaks off a tiny piece of the C4 - 
+0) 723) dialog: A little dab'll do ya. Now you know how to get there, right?
+0) 725) dialog: I'm not going with you.
+0) 728) dialog: There's only room on that pod for seven.  That's you and the  others.  I'm counting on you to get them out of there. Dawn stares at him, dumbstruck - 
+0) 730) dialog: I'm going to try and buy you some time.  I can get to the  bridge from here.
+0) 732) dialog: Don't worry about me.  There's still a chance I can issue a  distress signal.
+0) 734) dialog: I can't! Taylor takes Dawn by the shoulders - 
+0) 735) dialog: Listen, Dawn.  You have to  stay focused.  Don't unravel on me.  Now you've got to get them to safety!  I'm counting on you. Dawn looks at Taylor - 
+0) 736) dialog: Don't worry about me. (Beat)
+0) 738) dialog: Now hurry up.  We're running out of time. Dawn heads over to the door -  Taylor approaches a PANEL on the wall -  Dawn pauses at the door -  Taylor and Dawn look at each other for one last beat -  Dawn gestures to the COMMUNICATOR in her helmet - 
+0) 740) dialog: I will once I get past the bulkhead. (Beat)
+0) 776) text: Taylor come in.  Can you hear  me?                                 There is no response - 
+0) 780) text: I know that! Taylor likes what he hears - he begins to crawl faster to
+0) 801) dialog: Good help is hard to find... Barnes SPINS around -  He is face to face with Taylor, who SMASHES Barnes across laptop -  Barnes spins around and collapses to the floor, blood run Taylor gives him a ferocious KICK to the head for good me He then looks over and sees Reynolds, dead - 
+0) 802) dialog: Oh Jesus...
+0) 804) dialog: Dawn.  Come in.
+0) 807) dialog: I'm in the bridge.
+0) 809) dialog: He's out of the equation.   (Beat)
+0) 813) dialog: Hurry.  You have to get them  out of there!
+0) 816) dialog: Uh, it's ok, everything's going  to be ok...now I'm counting on you, and whatever you do keep calm, we don't want them to panic.
+0) 820) dialog: I'm staying with the ship.  I'll be all right.  Now hurry.
+0) 822) text: Thanks for everything, Taylor. Will I see you again?
+0) 824) dialog: Hopefully sooner than later.
+0) 826) dialog: Over and out. Taylor shuts off the communicator - he reflects on the co then approaches the destroyed distress signal panel - 
+0) 827) dialog: That son of a bitch...
+0) 860) dialog: Goddamn it... Just then, behind him, Barnes slowly begins to come to - bearings -  He spots the gun close by -  Taylor continues to work on the console -  Barnes gets hold of the gun - he raises it up and aims at BARNES' POV through double vision, he sees Taylor  working -  Barnes holds the gun out and BLAMMMM!! He fires, missing Taylor - Taylor spins around and POUNCE
+0) 885) dialog: What the hell are you doing?
+0) 887) dialog: What do you mean?  What happened!
+0) 914) dialog: And so far. Taylor looks at Dawn - 
+0) 915) dialog: There's only one thing left  to do.
+0) 920) dialog: Strap yourself in!  Hurry!
+0) 931) dialog: Dawn... Slowly, she comes to -  Dawn slowly opens her eyes and looks around - the only th of a bridge engine -  Taylor and Dawn look at each other - 
+0) 932) dialog: Are you all right? Dawn gets her bearings, then looks at Taylor - 
+0) 934) dialog: Well...we made it.  There it is. Dawn looks out the window - 
+0) 937) dialog: Shhhh... Taylor holds her tightly, Dawn does the same as she cries Taylor presses the side of his face against hers - 
+0) 938) dialog: Shhh... Slowly their faces get closer to one another -  They pull back slightly and look at one another - Taylor Dawn's eye -  He then gently kisses her forehead, then her cheek -  They then look at one another for a beat -  Then, very softly, they kiss - the kissing becomes more i and hug each other for dear life - 
+0) 940) dialog: It did.  It is.  There's nothing we can do about that.
+0) 942) dialog: I'd like to do something before that. Dawn looks at Taylor, not quite sure what he means -  Taylor looks directly into Dawn's eyes - 
+0) 943) dialog: Will you marry me?
+0) 946) dialog: That's right.  Will you marry me? Dawn looks at him for a beat - 
+0) 948) dialog: It would matter to us. They look at each other for a beat - 
+0) 950) dialog: Good.  In that case, I pronounce us man and wife. Taylor and Dawn then kiss - Dawn wipes some tears away - 
+0) 952) dialog: It's all I could do on such  short notice. The two look at each other gravely - then embrace as if f
+0) 953) dialog: Let's go for a walk. Dawn looks at him - 
+0) 954) dialog: You know, for our honeymoon.
+0) 958) dialog: Try not to think about it. Dawn looks at Earth and lets out a long, forlorn sigh -  Just then something catches her eye - she turns - 
+0) 960) dialog: Oh my God... The two begin to walk toward the direction of the approac Like little ants on the surface, we see Taylor and Dawn a landscape -  The ship gets closer and closer -  Taylor and dawn rush toward it -  The ship gets closer and closer - soon a small WINDOW bec
+0) 962) dialog: I don't know.  Wave to them! Taylor and Dawn begin flailing their arms -  The ship gets closer and closer - soon the image of some becomes visible -  Taylor and dawn rush toward the craft, which prepares to
+0) 963) dialog: They see us!  They know we're  here! The ship's landing gear lowers, and a series of boosters final landing -  Taylor and Dawn continue to wave -  The people in the window become visible -  POV we see a SHIP'S CAPTAIN look at them and wave -  Taylor and dawn wave back, elated -  Then Taylor notices something in the window - he squints his eyes widen - 
+0) 964) dialog: It can't be... POV we see MAC looking out the window - he sees Taylor an smiling faintly - 

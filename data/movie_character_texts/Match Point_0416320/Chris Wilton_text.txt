@@ -1,0 +1,495 @@
+0) 0) dialog: The man who said "I'd rather be lucky than good" saw deeply into life. People are afraid to face how great a part of life is dependent on luck. It's scary to think so much is out of one’s control -- there are moments in a match when the batl hits the top of the net, and for a split second it can either go forward...or fall back. With a little luck, it goes forward...and you win. Or maybe it doesn't...and you lose.
+1) 0) text: Chris walks along a fence. He carries a letter and @ familiarizes himself with the tennis club manager's nam
+1) 1) dialog: (mumbles } Mr. Townsend. He glances around at club members playing tennis.
+1) 8) dialog: (sighs) Thank God every day I don't have to do it. I hate the whole tennis tour thing. Constant travelling and I was never going to be Rusedski or Agassi. You have to really want it. Not that I have their talent.
+1) 10) dialog: Very much. Very much.
+1) 12) dialog: Thank you. Thank you very much, cUuUT TO:
+2) 5) dialog: This is two hundred and twenty-five a week?
+2) 7) dialog: No, no, no...
+2) 9) dialog: I'll take it.
+2) 11) text: Chris is seated at a table, eating. He looks at a magazin reaches for a drink. cUuT TO:
+3) 0) text: A montage of male and female club members play tennis wit Chris, who instructs.
+3) 1) dialog: «..Very good... cur TO:
+4) 0) text: Chris is on the sofabed, reading Dostoyevsky's "Crime and Punishment". He sets it down and picks up another book: “ Cambridge Companion to Dostoevskii".
+5) 3) dialog: Good morning, Tom. Pleasure.
+5) 6) dialog: Don't worry, it comes back. What you can’t do is rush in, he discouraged.
+5) 10) dialog: (gestures to the other side of the court) Over here.
+6) 0) text: Tom and Chris play tennis. Cur TO:
+7) 0) text: Tom and Chris sit at a table.
+7) 2) dialog: They were both great.
+7) 4) dialog: For a while. Tom lights a cigarette.
+7) 6) dialog: I'll get this.
+7) 8) dialog: No, please Tom. I insist, I insist.
+7) 10) dialog: Thank you. I'll get the next one.
+7) 12) dialog: Actually, I'm looking for a music store. I want to buy some CD's.
+7) 14) dialog: Mmm—hmm.
+7) 16) dialog: And they'll have a decent opera section?
+7) 18) dialog: Yeah, I love opera.
+7) 20) dialog: To the opera?
+7) 22) dialog: My God. I'd love to. Are you sure it's not an imposition? Can I at least pay for my seat?
+9) 10) dialog: Hello, good to meet you.
+9) 13) dialog: I'm sure Tom exaggerated my game.
+9) 15) dialog: (to Eleanor) Hello. Good evening. How are you?
+9) 18) dialog: My pleasure.
+9) 22) dialog: Hello, Chloe. Hi.
+10) 0) text: Chris talks to Tom on his mobile phone,
+10) 1) dialog: {into phone) Oh, they're lovely people. And your sister's very bright. cur TO:
+12) 0) text: Chris and Tom play tennis. Chloe watches from afar, clutc a tennis racket.
+12) 4) dialog: Don't be silly. I teach people who have never held a racket.
+12) 6) dialog: That's how you get better. Playing with a stronger player. Come on.
+12) 7) dialog: Okay. They begin playing.
+12) 10) dialog: Not at all. You have a very unique style,
+12) 12) dialog: For me, it was a way out of a poor existence. Caught the eye of a good coach. I don't know. It all came so easy at first. 12
+12) 14) dialog: Not really. I mean, it’s okay for now but I'd cut my throat if I thought I had to do it forever. I'd like to do something with my life. You know, special. I'd like to make a contribution.
+12) 16) dialog: I love it. It’s so exciting and alive. I've never seen so much art or theatre. Not that I've taken much advantage of it yet.
+12) 18) dialog: That'd be great. On one condition: I buy the tickets.
+12) 20) dialog: I'm afraid it is, I'm very old fashioned. But actually I did read something about the exhibition in the Saatchi Gallery.
+12) 22) dialog: You're very kind to offer this. Can I at least give you some free tennis lessons?
+12) 24) dialog: I can do that.
+12) 26) dialog: Tt's a date. I'd better get ready. Your guests will be arriving soon.
+12) 28) dialog: A sweaty tennis player's hardly what they expect. cuT TO:
+14) 0) text: Chris enters, brushing off his suit jacket. He passes thr a doorway and into the library, then down another corrido and approaches a ping pong table.
+14) 2) dialog: I haven't played table tennis in quite a while.
+14) 4) dialog: What did I walk into? They play. Chris smashes the ping pong ball across the ta He smiles.
+14) 8) dialog: You have to lean in...and hit through the ball.
+14) 10) dialog: Ah, the story of my life. So tell me...what's a beautiful young American ping-pong player doing mingling amongst the British upper class?
+14) 12) dialog: Did anyone ever tell you you've very sensual lips? NOLA. Extremely aggressive.
+14) 13) dialog: I'm naturally competitive. Is it off putting?
+14) 19) dialog: ...My pleasure.
+14) 26) dialog: How long have you been together?
+14) 29) dialog: I'd love to.
+14) 31) dialog: Why not.
+15) 0) text: Chloe and Chris walk together.
+16) 0) text: Chris and Chloe are seated in a near empty auditorium.
+16) 2) dialog: Yes, it's fun. Although it wouldn't hurt to have a few more pupils.
+16) 4) dialog: God, no. I'm fine. It's very sweet of you to ask but I don't.
+16) 7) dialog: I don't think mine's quite what you're used to.
+17) 0) text: Chloe and Chris make love on Chris's sofabed. cur To:
+19) 20) dialog: Hello. Not at all.
+19) 22) dialog: One of your father’s associates spoke to me today about the possibility of a job. Did you say anything?
+19) 25) dialog: God, no. It's extremely thoughtful of you. The waiter brings Chloe's drink.
+19) 26) dialog: Thanks.
+19) 28) dialog: I'm gonna have to think about it. I've never really seen myself in the business world.
+19) 30) dialog: I don't know really. I mean, I'm sure its a great opportunity.
+19) 32) dialog: I've always felt so-so about office work.
+19) 34) dialog: To...?
+19) 36) dialog: Of course. I mean -- it's strange but coming where I come from, I've always admired men like your father. Wealthy but not stuffy. Enjoying his fortune. Having a grand time, supporting the arts.
+19) 38) dialog: He's a very generous man.
+19) 40) dialog: I'm sorry. I hope my hesitation isn't upsetting.
+19) 42) dialog: I will. I promise. Chloe sees Tom and Nola enter the restaurant. She waves.
+19) 43) dialog: Oh good.
+19) 52) dialog: I think the old ones are beautiful.
+19) 56) dialog: I drive an Aston Martin.
+19) 58) dialog: Yeah, I used to work for a man and I used to wash his cars for him. He was very, very particular about... Chloe turns and takes a menu from the waiter.
+19) 60) dialog: .».taking care of them so I had to wash them every day with a toothbrush.
+19) 70) dialog: Er, roast chicken.
+19) 72) dialog: That's okay. He passes her the menu.
+19) 74) dialog: So-so.
+19) 79) dialog: Er, he was kind of austere.
+19) 82) dialog: After he lost both his legs he found Jesus. 25
+19) 92) dialog: Have you done many movies?
+19) 98) dialog: I think it's important to be lucky in anything.
+19) 101) dialog: Oh, hard work is mandatory, but...I mean, it seems scientists are confirming more and more that all existence is here by blind chance. No purpose. No design.
+19) 103) dialog: And I envy you for it.
+19) 105) dialog: I think that faith is the path of least resistance.
+20) 1) dialog: Good morning. Chris Wilton.
+20) 3) dialog: Good to meet you. cuT TO:
+21) 0) text: Rod introduces Chris to Alan Sinclair.
+21) 2) dialog: Hi Alan. How are you?
+21) 7) dialog: I'm sure the salary won't be a problem. Chris and Alan shake hands.
+21) 8) dialog: Good to meet you, Alan.
+21) 10) dialog: And Rod. Chris and Rod shake hands.
+21) 12) dialog: I'm sure I will.
+22) 0) text: Chris and Chloe enter.
+22) 2) dialog: Here, I brought you this to celebrate. 29 He hands her a gift.
+22) 4) dialog: It's very rare -- He points to the CD case as she pulls it from the wrappin
+22) 5) dialog: It has some beautiful arias on it. And his voice expresses -- everything that's tragic about life.
+22) 7) dialog: And you? They kiss passionately.
+22) 9) dialog: Ah, Puligny-Montrachet. I never heard of it before Tom ordered it. Now I'm addicted.
+22) 11) dialog: . Oh...? But we have no plans. Well, no special plans.
+22) 13) dialog: Yeah, but it wasn't written in stone? We could've joined them.
+22) 15) dialog: It's not a case of preferring it. It's just we always have fun with them and -- you love films.
+22) 17) dialog: I mean, sure, unless you'd rather not.
+22) 19) dialog: Mmmm...Absolutely. I just figured, we can stay in any, any night and...they’re free and suggested a film. What’s the film?
+22) 21) dialog: I am in the mood for a film. cur TO:
+23) 0) text: Chloe and Chris stand beneath an illuminated marquee that reads THE MOTORCYCLE DIARIES. A taxi pulls up.
+24) 0) text: Chloe and Chris lie on the sofabed, embracing. 32
+24) 3) dialog: Hey.
+24) 5) dialog: Hi.
+24) 7) dialog: I was, er, just looking for a Sweater.
+24) 9) dialog: The kind Tom has. It it cashmere?
+24) 11) dialog: Vicuna? Right.
+24) 13) dialog: Where are you going?
+24) 15) dialog: Why?
+24) 17) dialog: Don't worry, you'll be great.
+24) 19) dialog: Yeah, sure.
+24) 21) dialog: Would you like me to come along for moral support?
+24) 23) dialog: Sure. It's not a problem. No, it’s not a problem.
+24) 25) dialog: I used to get really tense before big tennis matches.
+24) 27) dialog: Um, have you ever tried yoga?
+24) 29) dialog: No? 33
+25) 0) text: Chris paces, waiting for Chloe to return from her auditio
+25) 2) dialog: Oh, hey. How was it?
+25) 4) dialog: You will. You will.
+25) 6) dialog: Sure.
+25) 8) dialog: This way...
+26) 0) text: Chris and Nola are seated at a bar. Nola drains her wine glass and hands it to a waitress.
+26) 2) dialog: I'm sure she's not more beautiful that you are. 35
+26) 4) dialog: So you are aware of your affect on men?
+26) 6) dialog: Mmm—hmm.
+26) 8) dialog: What did your father do?
+26) 10) dialog: No?
+26) 12) dialog: Mmm. How did you meet Tom?
+26) 14) dialog: Very. And he asked you to marry him?
+26) 16) dialog: Mmm.
+26) 18) dialog: Who?
+26) 20) dialog: And was it love at first sight for you too?
+26) 22) dialog: She's very sweet.
+26) 24) dialog: I don't think her mother would approve of that either.
+26) 26) dialog: Mom.
+26) 29) dialog: And how am I going to blow it?
+26) 31) dialog: And what makes you think that's gonna happen?
+26) 33) dialog: And are you?
+26) 35) dialog: Where was ali this confidence when you needed it in the audition?
+26) 37) dialog: Sure. cur TO:
+28) 0) text: Chloe, Tom, Nola, and Chris walk through the stables.
+28) 14) dialog: I don't know.
+28) 16) dialog: I'd hate to disappoint you. Reveal Tom standing in the doorway.
+28) 20) dialog: Thanks Tom. cur TO:
+28) 24) dialog: Oh.
+29) 0) text: Chris enters to find Chloe lying on the bed reading a boo
+29) 1) dialog: Hi, darling. Have you seen my Strindberg book? 40 cur TO:
+31) 0) text: Chris wanders the estate looking for Nola. Finally, he spots her.
+31) 1) dialog: I was looking for you.
+31) 3) dialog: I don't mean to intrude.
+31) 5) dialog: I like you when you drink. You get flirtatious.
+31) 7) dialog: Yeah. Confident.
+31) 9) dialog: Do you feel guilty?
+31) 12) dialog: I know. Again, they kiss.
+32) 0) text: Chris, seated in the classroom with other students, looks from his studies and admires his surroundings. cur TO:
+33) 0) text: Chris and Chloe sit next to one another watching a female performer on the stage below. Tom, seated behind them, reaches into his jacket and takes out a mobile phone. 45
+33) 4) dialog: Why have you been so cold to me?
+33) 6) dialog: Yes you have. Ever since we came back from the countryside, you've been distant, evasive.
+33) 8) dialog: Oh, stop rationalizing.
+33) 10) dialog: You’re not such a good actress, you know. It's not possible. 46
+33) 13) dialog: Thanks. Unexpectedly, he sees Henry across the street.
+33) 14) dialog: Henry! Hey, how are you?
+33) 16) dialog: Good to see you. They approach one another.
+33) 18) dialog: Thanks. Are you still doing the tennis tour?
+33) 23) dialog: Yeah? Oh don’t worry. It's not mine. It's the company's.
+33) 25) dialog: I just couldn't stand it.
+33) 27) dialog: I'm a wheel in an office if you can believe it.
+33) 29) dialog: It's who you know, Henry. I got involved with a woman. Very nice. Family's got nothing but money, big estate, servants, polo ponies. All quite lovely.
+33) 31) dialog: Isn't it amazing how much of life turns on whether the ball goes over the net or comes right back at you?
+33) 33) dialog: Thanks. 48
+33) 35) dialog: I lost to you as much as I beat you.
+33) 37) dialog: Listen, can I buy you lunch?
+33) 39) dialog: Certainly. Um, I'm moving into a new flat so this is my business card. You should call me any time.
+33) 41) dialog: So good to see you, Henry. You look very, very well.
+33) 43) dialog: I can buy us lunch. Put it on the expense account, so...
+33) 45) dialog: ++edo call. 49
+34) 7) dialog: «+.-Can you play the piano?
+34) 22) dialog: Er, look, it's a reasonable question. Chloe and I have discussed it.
+34) 24) dialog: I appreciate that.
+35) 0) text: e@ Chris wanders down stairways and through corridors, si his drink.
+37) 0) text: Tom and Nola greet Chris.
+37) 1) dialog: I'm sorry. Um, who'd have thought?
+37) 5) dialog: I'm fine. I shouldn't be drinking . on an empty stomach... cuT TO:
+39) 0) text: Chloe and Chris stand at the altar.
+40) 0) text: Chris and Chloe enter the flat.
+40) 1) dialog: Oh my god. This is incredible.
+40) 3) dialog: What's up here?
+40) 5) dialog: Mmmm.
+40) 7) dialog: Wow.
+40) 9) dialog: Oh, it's breathtaking. I just -~ wish I could afford it.
+40) 11) dialog: It's beautiful. It's huge, I'm gonna get lost in here or something. Did I tell you I'm scared of heights?
+40) 13) dialog: Yeah.
+40) 15) dialog: Chloe ~- we discussed this. It's very quick.
+40) 24) dialog: Heyl Where are you? 54
+40) 26) dialog: What?
+40) 28) dialog: No?
+40) 30) dialog: I thought you were gonna get married.
+40) 32) dialog: I'm sorry. I don't understand.
+41) 0) text: Chris dials Nola's phone number but receives an automated message:
+42) 0) text: Chris walks along the pavement, then climbs the steps to apartment building where a custodian stands repairing the intercom.
+42) 1) dialog: Excuse me. Chris presses the intercom button.
+42) 3) dialog: Yes.
+42) 5) dialog: Did she say where?
+42) 7) dialog: Thanks.
+43) 0) text: Chloe and Chris are lying in bed. 56
+43) 2) dialog: Nothing. Just business.
+43) 4) dialog: Oh, Chloe, I'm beat.
+43) 6) dialog: Of course not.
+43) 8) dialog: Look...It'll happen. I'm just really tired. Kiss? They kiss.
+43) 9) dialog: Sweet dreams. He lays back and switches off the light. cut TO:
+45) 20) dialog: Well, our lawyers are going over it as we speak...You'll have a draft by Friday. I promise. If I have to work all night...Okay. Thank you. Thanks.
+45) 21) dialog: Samantha, can I have two aspirin, please?
+45) 22) dialog: Thanks.
+45) 23) dialog: Tell me, Samantha -~- do you ever feel claustrophobic in here?
+45) 27) dialog: Oh Christ! I’ve got to meet my wife at the Tate Modern. There's a new painter she wants to show me. If they call back, Samantha, tell them Friday. Not before. Goodnight. He exits. cur TO:
+46) 0) text: Chris enters. cur TO:
+47) 0) text: Chris wanders around the gallery, looking for Chloe. She spots him first.
+47) 2) dialog: Oh, I was looking for you. Hi Carol.
+47) 4) dialog: How are you, darling?
+47) 7) dialog: Yeah?
+47) 10) dialog: Look, where are you going to be?
+47) 12) dialog: I have to make a phone call and I can't get any reception down here.
+47) 14) dialog: I’m coming.
+47) 16) dialog: e Okay. Chris walks across the galley to Nola.
+47) 17) dialog: Hello. What a surprise.
+47) 19) dialog: I didn't know you'd left town.
+47) 21) dialog: I thought you hated that place.
+47) 25) dialog: You're still so angry. Where are you living?
+47) 27) dialog: You live alone?
+47) 29) dialog: Can I meet you for a drink? Where can I reach you? Come on... Chloe approaches. e CHLOE My goodness. Hello.
+47) 30) dialog: My darling. Look who I bumped into.
+47) 48) dialog: (to Nola) Say your phone number.
+47) 50) dialog: Just say your phone number.
+47) 52) dialog: Please...Say your phone number. 62 63
+47) 55) dialog: I'll call you. He exits. Cur TO:
+48) 0) text: Chris follows Chloe down the steps.
+48) 2) dialog: To me, fertility doctors are a cut above witch doctors.
+48) 7) dialog: No, it's okay. It's nearby. I'11] walk.
+48) 9) dialog: See you at home.
+49) 0) text: 64 cur TO: Nola and Chris lie together on the bed kissing passionate INT. NOLA'S FLAT -— LATER Chris is now seated on the edge of the bed. They kiss.
+49) 1) dialog: You have a very charming flat. The area's not as run-down as you said it was.
+49) 3) dialog: Mmm-hmm.
+49) 5) dialog: Mmm. What time is it.
+49) 7) dialog: It's so hard to leave you... cur TO: cur T0; 65
+50) 0) text: Chris and Chloe are seated at either end of a dining tabl
+50) 2) dialog: Good.
+50) 4) dialog: Mmm. Terrible.
+50) 6) dialog: Yeah?
+50) 10) dialog: Mmm—hmm.
+50) 12) dialog: Darling, I’m gonna be late.
+51) 0) text: Nola and Chris walk along the pavement.
+51) 2) dialog: Let me come up.
+51) 4) dialog: I'm sorry. I can't help it. You drive me crazy.
+52) 0) text: Chris and Nola kiss as they climb the stairs to her flat. door opens to reveal Mrs. Eastby.
+52) 6) dialog: Good afternoon. How are you?
+52) 8) dialog: Good to meet you.
+53) 0) text: Chris tosses Nola’s handbag to the floor and pulls off hi jacket. Nola pushes the door closed, removes Chris‘ tie, blindfolds him with it as she unbuttons his shirt. cur TO:
+54) 0) text: Heather and Tom are seated with Chris and Chloe. 68
+54) 14) dialog: Mmm.
+54) 37) dialog: I was?
+54) 39) dialog: No, not me. 71
+54) 42) dialog: No, I'm afraid you‘re mistaken. But people are always taking me for other people. So...
+54) 47) dialog: No, you are mistaken. But...thank you for thinking of me.
+54) 53) dialog: Enjoy your supper.
+55) 0) text: Chris enters.
+55) 1) dialog: Good afternoon, Ingrid... Samantha, what do we have for this afternoon?
+55) 3) dialog: Can we push it an hour? I should be back in time but if I'm not, please make them comfortable.
+55) 6) dialog: I‘m sorry, Rod. I've got an appointment.
+55) 8) dialog: I should be back in time but if I'm not, please start without me.
+55) 10) dialog: It's okay. It’s important. Trust me. cUT TO:
+55) 13) dialog: Look, it's not that I'm miserable with Chloe, it's just...
+55) 15) dialog: Listen, it's just I'm bored! I mean, she's very nice but...
+55) 17) dialog: Are you in a bad mood?
+56) 0) text: Chris and Nola sit at the bar. 74
+56) 2) dialog: It's a hard field. You have to keep plugging at it.
+56) 4) dialog: Hey, look -- let's not go into one of those, okay?
+56) 6) dialog: Maybe I will.
+56) 8) dialog: Chloe's just so desperate to get pregnant. I mean, it's mechanical. T don't know what I'd do if I couldn't see you. Really, I mean it.. cur TO:
+57) 0) text: Tom, Chloe and family are seated around a Christmas tree.
+57) 10) dialog: (to Nola) I wanted to wish you a Merry Christmas. I’ve been thinking about you...I may be able to get away tomorrow for an hour or so...Okay. See you then. Bye-bye.
+57) 13) dialog: Well, I guess I've been a little bit careless, not concentrating. And of course I thought I made good decisions but...
+57) 15) dialog: You're too generous, sir.
+58) 0) text: Chris rubs baby oil onto Nola’s back. They kiss.
+59) 0) text: Chloe and others are seated around a table. Burt stands behind Phoebe, toying with her hair. Chris and Tom clutch cups of tea.
+59) 2) dialog: Yes.
+59) 12) dialog: No. I have been to Athens but I hear the Islands are paradise.
+59) 25) dialog: I'll never forget.
+59) 29) dialog: (into mobile phone) Hello?
+59) 31) dialog: I can't get away right now.
+59) 33) dialog: Tomorrow. No, Monday. Look...it's a three day weekend. Tuesday.
+59) 34) text: Chris, I need to see you.
+59) 35) dialog: I'il see what I can do. I'11 call you right back. the phone and ends the call.
+59) 39) dialog: Oh, I'm such an idiot. I forgot to sign some papers. I have to drive into town.
+59) 41) dialog: I don't mean today.
+59) 43) dialog: Yes, I'm sure it can...
+59) 53) dialog: Excuse me,
+60) 0) text: Chris follows the housekeeper to the phone. He picks up t receiver.
+60) 1) dialog: Hello?
+60) 5) dialog: I'm trying to make it for tomorrow.
+60) 7) dialog: What the hell’s the matter?
+60) 9) dialog: I'll...talk to you tomorrow. He slowly lowers the receiver.
+61) 0) text: Chris enters.
+61) 3) text: Well, they only had biscuits. Well, that's where Rose's Lime Cordial originated... Chris sits down beside Chloe.
+61) 7) dialog: I know it, it's all my fault. Poor girl. It's no big deal. I'11 pop back into town. The whole thing'1l take a few hours and it'll be off my mind. I promise.
+61) 15) dialog: How the hell did you get pregnant?
+61) 17) dialog: What unbelievably bad luck, Christ, I can't get my wife pregnant no matter how hard I try. (MORE)
+61) 18) text: 83 CHRIS (cont'd) And the minute you're unprotected, I knock you up.
+61) 20) dialog: Is that your interpretation?
+61) 22) dialog: Well I'll go with you and we'll get it sorted.
+61) 24) dialog: Again? What's that supposed to mean?
+61) 26) dialog: Nola, I really can't see any other way.
+61) 28) dialog: And then what? NOLA. And we'll raise it together.
+61) 29) dialog: That’s obviously not possible.
+61) 31) dialog: Look, Nola. I have to go. I'm juggling six things at the same time just to make this trip to the city look legit. I'l1 talk to you on Tuesday.
+62) 2) dialog: I wanted to talk to you.
+62) 4) dialog: Us.
+62) 6) dialog: Yeah. There is.
+62) 8) dialog: I can't keep leaning cn your father, Chloe.
+62) 11) dialog: Am I having an affair?
+62) 13) dialog: (beat) No.
+62) 15) dialog: Of course I'm not. Don't be silly.
+62) 17) dialog: Oh course I love you.
+62) 19) dialog: I just feel like I'm letting you down.
+62) 21) dialog: I just...feel so guilty. So terribly guilty.
+62) 23) dialog: Oh, Chloe. Chris kisses her forehead.
+62) 25) dialog: I had to talk to somebody. I'm really suffering.
+62) 27) dialog: I'm contemplating leaving my wife for another woman.
+62) 29) dialog: But when the time came to tell her..-I couldn't do it.
+62) 31) dialog: It's crazy. I can see no real future with this other woman, and I . have a very comfortable life with my wife.
+62) 35) dialog: Maybe it's finally the difference between love and lust. But what the hell am I going to do if I leave Chloe, I don't fool myself that I haven't gotten used to a certain kind of living. Am I supposed to give it all up? For what?
+62) 37) dialog: fo live how? Where? To work as what?
+62) 39) dialog: Let's face it. I'm the boss's son- in-law. And he loves me.
+63) 0) text: Chris and Nola are seated at a table.
+63) 1) dialog: We're going away for three weeks. When I get back, I'l] tell her. 87 Cur TO: 88
+63) 3) dialog: I'm not playing games with you.
+63) 5) dialog: Look -- it’s not easy.
+63) 7) dialog: I don’t wanna mess this holiday up for everybody, okay? It's a big blow. And it's gonna make a huge impact on everyone.
+63) 9) dialog: Shh! Keep your voice down.
+63) 11) dialog: Hey. Keep your voice down. You know I make love to her. And you know it's routine. For God's sakes, can't you wait a few weeks?
+63) 13) dialog: It will. (beat) It will.
+64) 0) text: Chris enters to find Chioe clutching a notebook.
+64) 2) dialog: Why? What happened?
+64) 4) dialog: Why?
+64) 6) dialog: Mmm—hmm.
+64) 8) dialog: Yeah. Chris's mobile phone rings. He answers.
+65) 0) text: Chris, Chlee, Alec, Eleanor, and Tom are seated together watching the opera below.
+66) 0) text: Chloe folds laundry while Alec confers with Chris.
+66) 2) dialog: Really?
+66) 10) dialog: Your birthday?
+66) 12) dialog: I didn't actually. I bought you something already...
+66) 15) dialog: Hello?
+66) 17) dialog: Excuse me.
+67) 0) text: From afar, Chris watches over Chloe, Alec, and Eleanor as speaks secretively into the mobile phone.
+67) 1) dialog: I told you not to call me, I'd call you.
+67) 3) dialog: Well, there's always people around and I can't talk.
+67) 5) dialog: In about two weeks.
+67) 7) dialog: Yeah, right. Three weeks.
+67) 9) dialog: Okay, okay.
+67) 11) dialog: I told you. I’m in Greece. And there's always people around so I can't talk. I said I'd be home soon and I will call you.
+67) 13) dialog: Okay. Bye, bye. From below, Chloe calls up to him.
+67) 15) dialog: Yeah, everything's fine. Are you leaving already?
+68) 0) text: Nola exits a shop clutching several bags. She stops when sees Chris, unaware of her, getting into his car. Nola watches, stunned, as the car pulls away. cur TO:
+68) 3) dialog: Sardinia. I'll be back in five or Six days, okay?
+69) 0) text: Chris exits his apartment building. His chauffeur, John, stands nearby.
+69) 1) dialog: Good morning, John.
+69) 3) dialog: Yes. The chauffeur goes to fetch the car just as Nola arrives unexpectedly.
+69) 5) dialog: Oh Jesus. Quiet!
+69) 9) dialog: Look, Christ, Christ. No, no, ho, listen. Listen, I can explain.
+69) 11) dialog: * I can explain. I can explain. I...taxil Chris hails a taxi. 95
+69) 13) dialog: Taxi! Okay, calm down. Calm down, Nola. Nola, calm down. Calm down.
+69) 15) dialog: Calm down. I came home deliberately, I came home early. Sshh!
+69) 17) dialog: Sshh, sshh.
+69) 20) dialog: ++.-I decided to cut the trip short because all this is eating away at me. I only came back the day before yesterday because I need a week in the city to deal with Chloe without . you breathing down my neck.
+69) 22) dialog: Please believe me, Nola.
+69) 24) dialog: I was about to when you called.
+69) 26) dialog: I got flustered.
+69) 28) dialog: I was all set to tell her and then you called and then I felt guilty about telling you that I'm still in Greece.
+69) 30) dialog: I, I was talking fast. I, I didn't want her to know what I was talking about.
+69) 32) dialog: I can't tell her.
+69) 34) dialog: Nola, stop!
+69) 36) dialog: We don't have to have a child together. It would make life a hell of a lot simpler if we didn't.
+69) 39) dialog: It occurred to me that even if you had the child, I could help you out financially.
+69) 41) dialog: Nola, be reasonable.
+69) 43) dialog: So you're threatening me? If I don't do what you say, you're gonna go to my wife?
+69) 45) dialog: Of course I wasn't lying.
+69) 47) dialog: Okay, okay. I'll do the right thing. cut TO: 98
+70) 0) text: Chris lies in bed awake next to Chloe, who is sleeping. Distraught, he sits up on the edge of the bed and rubs hi face. cur TO:
+71) 0) text: Chris enters the darkened room and places his tennis bag a bench. He approaches a gun cabinet and unlocks it. He opens the glass door, takes out a shotgun, dismantles and places gun parts and ammo into the tennis bag. cuT TO:
+73) 0) text: Chris zips the tennis bag shut and closes the gun cabinet door.
+73) 8) dialog: I'm telling Chloe tomorrow.
+73) 12) dialog: My God, it seems like you’ve had this whole thing checked out by some psychiatrist. 100
+73) 14) dialog: I'm telling her tomorrow, Nola. What more do you want me to do?
+73) 16) dialog: I can't, not before she goes to sleep. It wouldn't be the right time. Nola, tomorrow is fine. What time will you get back from work?
+73) 18) dialog: So you'll be home by a quarter to seven?
+73) 20) dialog: We will be. cUT TO:
+74) 0) text: Chris enters, followed by Chloe.
+74) 2) dialog: No, I‘m just all out of sorts.
+74) 5) dialog: Low blood sugar. I'll be better soon.
+74) 7) dialog: ow. She looks down at Chris's tennis bag, then crouches and unzips it.
+74) 9) dialog: No. What are you doing?
+74) 11) dialog: No. Look, I'11 check. I'1]1 check. I've got everything arranged in there.
+74) 13) dialog: Is this it? He realizes that a shotgun cartridge has fallen out of th bag and onto the floor. Chris picks it up and places it i his pocket.
+74) 16) dialog: Oh, it’s just my pill box.
+74) 18) dialog: A pill box. You know what a pill box looks like.
+74) 20) dialog: No -- they're just my pills. I need them. No, no, no, it's for stress, ‘cause you stress me so much. (changing the subject) Guess what?
+74) 22) dialog: I got tickets for the theatre for tomorrow night.
+74) 26) dialog: "The Woman in White”.
+74) 28) dialog: No, that’s not sc. And anyway, you love his music.
+74) 31) dialog: Mmm.
+74) 33) dialog: Why don't you take the chauffeur? I'll grab a taxi and with any luck I can get an hour of tennis in.
+74) 35) dialog: Mmm.
+74) 37) dialog: Okay I will... cur TO:
+75) 0) text: Nola stands behind the counter speaking to Chris on her mobile phone. Elsewhere, on the other end of the call, Chris walks alon the pavement of a street.
+75) 2) dialog: Hello, Nola? When you get off work today come right home. I have some good news. Everything's taken care of but I'm reluctant to talk on the phone. You've got to meet me right - after work. We have, er, plans to make. 104
+75) 7) dialog: Mmm. Er, yes. A half year should do it, maybe less.
+75) 10) dialog: Arigato...Arigato... The businessmen turn to leave.
+75) 12) dialog: I'm excited about this venture, Rod.
+75) 15) dialog: Yes. Yes.
+76) 0) text: Chris enters Nola‘s apartment building carrying the tenni bag.
+77) 0) text: Chris climbs the steps and stops off at Mrs. Eastby‘’s e@ apartment. He knocks on the door.
+77) 2) dialog: Er, hello. Um, I'm Chris. I'ma friend of Nola's, your neighbor from next door. Er, we met here last, er...
+77) 4) dialog: But, but you do not remember? We met, er...she asked you something about your trouble with your mice, and you mentioned something about peanut butter.
+77) 6) dialog: Yes. Yes. I'm Chris Wilton. The tennis instructor. 106
+77) 8) dialog: Er, no trouble at all really and I, I don't mean to disturb you. I was wondering if I could look at your Tv, TV reception. Er, we seem to have trouble next door.
+77) 10) dialog: Yes. Um, we're getting some interference and it's Nola's favorite TV night, so, um, I don't know if it's the aerial on the roof or if it's us.
+77) 12) dialog: Thank you. Chris enters the flat.
+79) 0) text: Chris positions himself at the top of the stairway and ta aim with the shotgun. Below, Nola enters.
+79) 1) dialog: Nola... She turns. Chris fires. CUT TOs;
+80) 0) text: Chris exits hurriedly with the tennis bag, and bumps into passerby.
+80) 1) dialog: Excuse me... cur TO:
+82) 0) text: Chris is seated in the rear of the taxi with a mobile pho
+82) 1) dialog: I'm almost there. I'll be two minutes. cUT TO:
+83) 0) text: Chris and Chloe enter.
+83) 1) dialog: (to cloakroom attendant) Good evening.
+83) 3) dialog: How much?
+83) 5) dialog: Two pounds... The attendant lifts the tennis bag and places it beneath counter as Chris carefully places two pound coins onto th counter.
+83) 6) dialog: My tickets?
+84) 0) text: Chloe and Chris watch the play. cur TO:
+88) 3) dialog: Yeah, I did. It was good fun. Pretty music.
+88) 5) dialog: Good.
+88) 7) dialog: What? What is it?
+88) 9) dialog: What?
+88) 11) dialog: What? Here, let me see that. Jesus Christ!
+88) 13) dialog: oh my God. A cordless phone rings. Chloe answers.
+90) 4) dialog: It says here that there’s been a rise in drug related crime in the area over the past year...
+92) 0) text: Chris empties the remaining shotgun shells and stolen jew from the tennis bag.
+93) 4) dialog: Sure.
+93) 23) dialog: Yes?
+93) 25) dialog: Okay...
+93) 30) dialog: Thank you, Margaret. Chris goes to the phone and lifts the receiver.
+93) 31) dialog: Sam? Cur TO: INT. HEWETT INC CHRIS‘ OFFICE ~- CONTINUOUS Samantha is seated at a desk, clutching a telephone recei
+94) 1) dialog: Banner? You better give me the number. Mmm-hmm. Okay, thanks Samantha. Bye.
+94) 8) dialog: Detective Banner, please. This is Chris Wilton. Oh, hello. This is Chris Wilton. You called?
+95) 4) dialog: In reference to what?
+95) 6) dialog: I've no reason to bring a lawyer, do I? 1193
+96) 0) text: Chris walks, glancing around suspiciously. He stops at an embankment and throws Mrs. Eastby's jewelry and other trinkets from the staged robbery into the river. The last item he throws is Mrs. Eastby's wedding ring. Ch does not notice as it bounces off the embankment railing, drops onto the ground.
+97) 0) text: Chris follows Detective Dowd to Detective Banner's desk.
+97) 2) dialog: Good afternoon. Chris shakes Banner's hand.
+97) 6) dialog: Mmm—hmm.
+97) 8) dialog: Peripherally I knew Nola Rice. 121
+97) 10) dialog: She was engaged for a time to the man who's now my brother-in~law.
+97) 12) dialog: That's correct. Er, they broke up. A year ago. More.
+97) 14) dialog: Oh God, I can't remember...At the Tate Modern. My wife and I ran into her. But that was a long time ago.
+97) 16) dialog: Not that I recall.
+97) 18) dialog: No...What is it?
+97) 20) dialog: No.
+97) 22) dialog: Yes, I can see that.
+97) 25) dialog: You can't blame me for trying to hide the fact that I had an affair with her. But you people have to protect me here. I hope you don't think IT had anything to do with her murder?
+97) 27) dialog: It began casually when she was still engaged to Tom. They broke up, she moved away. She came back and IT ran into her at the Tate Modern and it began again. God, have a heart. My wife is gonna have a baby. This will devastate her.
+97) 29) dialog: No, I did not. I mean, it's possible that she had that fantasy, And obviously she wrote that I did, but I tried to finesse that point with her. I didn't want the sexual relationship to end but I'm not gonna break up my home. My wife and I are trying very hard to have a baby. We've seen several fertility doctors. You can check that out if you like but I beg you to be discreet.
+97) 31) dialog: I tried te tip-toe around it and not lead her on but she's going to believe what she wants to believe. (MORE)
+97) 32) text: 123 CHRIS (cont'd) Look, don't irresponsibly run roughshod over this and wreck people's lives. I mean, there is no case because I would not harm anyone, much less Nola Rice. Isn't it obvious that somebody killed her neighbor and she walked in when it was happening? God, I beg you, don't go on a fishing expedition over this and wreck people's lives. My family, my marriage is at stake.
+97) 34) dialog: Okay, but I'm not your man. I know it's not the most honourable thing to cheat on your wife but that does not make me a murderer.
+97) 36) dialog: I understand. Look, if you have to get.in contact with me again, which, God in heaven, I hope you don't, please call me on my mobile. I'll leave you my number...
+97) 38) dialog: Me? No. Um, my father-in-law shoots on the estate but not me. You can check it out but, er, I beg you to consider mine and his position.
+97) 40) dialog: Thank you. Chris stands, shakes Banner's hand, then exits. Banner tu his attention to Detective Dowd.
+97) 56) text: 4! FLAT BEDROOM ~— NIGHT s in bed alone. Elsewhere, Chris sleeps slumped table in front of a laptop computer. cur TO:
+97) 63) dialog: Your actions were clumsy. Full of holes. Almost like someone begging to be found out. cur TO:
+100) 0) text: Chris, Chloe, and family enter carrying a newborn baby.
+100) 11) dialog: Mmm-—hmm.
+100) 32) dialog: Mmm.

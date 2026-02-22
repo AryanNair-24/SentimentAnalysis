@@ -1,0 +1,181 @@
+25) 4) dialog: I didn't want to bother you up here, but they're looking for you.
+25) 7) dialog: Congressman Gilly's wife's been calling. He hasn't made it home from the Wayne Foundation event.
+25) 9) dialog: Sir, I've been a cop for a year and I've only logged half a dozen arrests. When you and Dent cleaned the streets you cleaned 'em good. Pretty soon we'll be chasing overdue library books. Gordon smiles at this. Blake looks at his stack of files.
+25) 10) dialog: But here you are. Like we're still at war...
+25) 14) dialog: Or instinct.
+25) 17) dialog: Blake, sir.
+25) 19) dialog: It's that night. This night, eight years ago. The night Dent died.
+25) 22) dialog: The last confirmed sighting of the Batman. He murders those people, takes out two SWAT teams, breaks Dent's neck...then just vanishes?
+25) 25) dialog: Don't you want to know who we was? Gordon turns to look at the broken searchlight. He brushe his fingers across its rusted shell.
+30) 0) text: Blake and his partner, Ross, get out of their patrol car. DWP Man leads them down a long concrete trough.
+30) 7) dialog: Name's Jimmy. He's at St. Swithin's. (Off look.) The boys home where I...I coach some ball.
+31) 0) text: Blake looks up at the shabby building.
+32) 0) text: Blake is talking to Father Reilly.
+32) 3) dialog: Why?
+32) 5) dialog: The Wayne Foundation gives money for that -
+32) 8) dialog: He has a brother here, right?
+32) 11) dialog: I'd like to, if that's okay. 22.
+33) 0) text: Father Reilly watches as Blake sits with Mark - ten.
+33) 1) dialog: I'm sorry.
+33) 3) dialog: What was he doing in the tunnels?
+33) 7) dialog: What kind of work are you gonna find in the sewers?
+37) 0) text: Selina waltzes out - right into Blake. She feigns panic.
+37) 2) dialog: It's okay, Miss. It's okay.
+38) 0) text: Blake enters, gun drawn. Spots the Congressman.
+38) 1) dialog: 
+41) 0) text: Blake comes into the alley. Cops surround the manhole.
+41) 3) dialog: They went down there?
+43) 0) text: Blake jumps back as a fireball bursts out of the manhole.
+45) 0) text: Blake pushes forward.
+45) 1) dialog: Come on, we gotta get down there -
+45) 4) dialog: Gas? This is a sewer!
+45) 8) dialog: We know what's down there, sir. The Police Commissioner!
+49) 0) text: Alfred opens the door to reveal Blake in his dirty unifor
+49) 1) dialog: I need to see Bruce Wayne.
+49) 5) dialog: And if I go get a warrant, in the investigation of Harvey Dent's murder? Would that still count as unscheduled?
+50) 0) text: Blake is sitting, drumming his leg, nervous. Wayne enters
+50) 3) dialog: Commissioner Gordon's been shot. 31.
+50) 7) dialog: He chased a gunman down into the sewers. When I pulled him out he was babbling about an underground army. A masked man called 'Bane'.
+50) 9) dialog: I did. One of them asked if he saw any giant alligators down there. He needs you. He needs the Batman.
+50) 14) dialog: He doesn't know or care who you are. (Off look.) But we've met before. When I was a kid. At the orphanage. See, my mom died when I was small. Car accident, I don't really remember it. But a couple of years later my dad was shot over a gambling debt. I remember that just fine. (Looks at Wayne.) Not a lot of people who know what it feels like, do they? To be angry. In your bones. People understand, foster parents understand. For a while. Then they expect the angry kid to do what he knows he can never do. To move on. To forget.
+50) 16) dialog: So they stopped understanding and sent the angry kid to a boys' home - St. Swithin's. Used to be funded by the Wayne Foundation. See, I figured it out too late. You have to hide the anger. Practice smiling in the mirror. Like putting on a mask. You showed up one day in a cool car, pretty girl on your arm.
+50) 21) dialog: We were so excited - Bruce Wayne, billionaire orphan. We made up stories about you. Legends. The other boys' stories were just that. But when I saw you I knew who you really were... (Beat.) I'd seen that look on your face. Same one I taught myself. Blake gets up to leave. Wayne is lost in thought.
+50) 23) dialog: I don't know why you took the fall for Dent's murder, but I'm still a believer in the Batman. Even if you're not.
+50) 27) dialog: Because the money stopped. Might be time to get some fresh air and start paying attention to the details. Some of those details might need your help.
+51) 0) text: Wayne and Alfred watch Blake drive away.
+69) 2) dialog: Move it, now! We've got a situation.
+69) 5) dialog: That way! Blake points - but SWAT vehicles pile in, blocking. 51.
+69) 8) dialog: Get in your vehicle and stay there! Foley and the SWAT Commander, Allen, approach the entranc The Market Security Chief walks up, frantic.
+76) 0) text: Foley rushes to Blake's cruiser.
+81) 4) dialog: What's that?
+81) 7) dialog: Sir, what about the armed robbers?
+85) 4) dialog: But he's getting away!
+93) 6) dialog: Are you sure that was him? Foley looks at Blake. Thrusts the loudhailer at him.
+111) 0) text: Wayne stares out the window. Blake glances across.
+111) 1) dialog: When you began...why the mask?
+111) 5) dialog: You're a loner with no family.
+111) 7) dialog: It was damn good to see him back.
+111) 9) dialog: They'll figure it out in the end.
+111) 11) dialog: Yeah, I've got five hundred pages of tunnel records and a flashlight. I could use some help.
+112) 4) dialog: You got money?
+116) 0) text: Blake moves through the hospital corridor, looking for - 79.
+117) 0) text: Blake enters. Gordon is sitting up in bed, talking to Fol
+117) 2) dialog: John Daggett's body was found in a dumpster an hour ago. I thought you might like to know.
+117) 5) dialog: Because Daggett's name is all over the permits I pulled to map the tunnels under Gotham. Blake hands Gordon a stack of files. Foley glares at Blak
+117) 7) dialog: MTA maintenance, sewer construction...
+117) 18) dialog: This could just be a coincidence.
+130) 0) text: Blake's cruiser pulls up. He noses up to the windows. Nothing.
+131) 0) text: Blake sits in his cruiser. Selina exits, wide-brimmed hat bags. Blake recognizes her. She hails a cab.
+131) 2) dialog: 
+134) 0) text: Selina makes her way down the jetway - spots Security at far end - turns - Blake smiles at her. Badge in hand.
+135) 0) text: Selina, now in cuffs, looks up as Blake walks in.
+135) 1) dialog: I showed your picture to the Congressman and guess what?
+135) 3) dialog: Head over heels. Pressing charges, though. Blake lays a police file down with a thump. You've made some mistakes, Ms. Kyle.
+135) 6) dialog: You have an appetite. Why run? You can't hide from us with this record.
+135) 8) dialog: Who then? Bane? What do you know about him?
+135) 14) dialog: We can offer you protection... Selina looks at him with contempt. Blake shrugs, switches off the tape, moves to the door.
+135) 16) dialog: When I spotted you, I was looking for a friend...Bruce Wayne. Selina turns to look at Blake. His eyes plead with her.
+135) 18) dialog: Did they kill him?
+141) 0) text: Gordon, with a Nurse's help, pulls himself to a seated position as Blake watches.
+141) 3) dialog: 
+141) 15) dialog: So it's a training exercise.
+150) 0) text: Blake is on the phone.
+150) 1) dialog: I've been to half Daggett's cement plants, logged locations they've poured for underground construction... 97.
+150) 6) dialog: Honestly, Commissioner, I don't know anything about civil engineering.
+152) 0) text: Blake is led through a fence by a Worker.
+152) 4) dialog: Hey. The Driver turns.
+152) 5) dialog: That was you outside the stock exchange, right?
+152) 8) dialog: When? When half the city's cops were trying to pull onto Castle Street and your truck shut them out.
+152) 11) dialog: Detective, now.
+152) 13) dialog: And as a detective...I'm not allowed to believe in coincidences
+152) 15) dialog: What were you doing?! What?!
+152) 19) dialog: Commissioner, I'm at the Fourteenth Street plant with two dead witnesses and a lot of questions. Call me -
+153) 2) dialog: Oh, God.
+154) 0) text: Blake is driving furiously, shouting into the radio -
+154) 2) dialog: Patch me into Foley!
+154) 5) dialog: They're heading into a trap!
+155) 2) dialog: It's a trap! Pull everyone out! Bane's been pouring concrete laced with explosives - 100.
+155) 6) dialog: There's a ring around the tunnels - they're gonna blow it and trap the cops underground! Foley looks up with dread at the mouth of the tunnel.
+161) 0) text: Blake's cruiser swerves to avoid eruptions of asphalt. An eruption TOSSES Blake's cruiser onto its roof.
+164) 0) text: Blake squeezes out of his cruiser, reaches in for the rad
+164) 2) dialog: Foley?
+164) 5) dialog: 
+167) 0) text: Blake drives, swerving around dazed and terrified people. Flames and smoke billow from the sewers.
+168) 0) text: Blake races up to the hospital entrance.
+171) 0) text: Blake jumps into the corridor, gun raised. Shots echo dow the hall - Blake sprints.
+172) 0) text: Blake leaps into the room, gun high - freezes as warm met touches the base of his skull.
+183) 0) text: Blake drives the deserted streets. Gordon is slumped in t passenger seat, listening.
+183) 4) dialog: What does that mean?
+183) 6) dialog: Sir, they'll kill you the second you show your face -
+183) 9) dialog: Bane's not gonna let that happen -
+183) 12) dialog: And you'll be dead.
+188) 0) text: Gordon sits watching Bane's speech. Blake gathers supplie
+188) 2) dialog: We're gonna keep moving you, till we can get you in front of a camera
+194) 0) text: Blake stares at the TV, Gordon's face lowers into his hands...
+198) 0) text: Blake turns to Gordon, who stares at the TV.
+198) 1) dialog: These men, locked up in Blackgate for eight years, denied parole under the Dent Act. Based on a lie.
+198) 3) dialog: Not as much as it does now. But you betrayed everything you stood for.
+198) 6) dialog: Your hands look pretty filthy to me, Commissioner.
+209) 0) text: Snow blankets the street. A Tumbler carves tracks as it patrols the deserted street. Blake peers from behind a parked car - he is crouched, feeding a kite string down a storm drain.
+211) 0) text: Blake winds the string, picks up a jerrycan, hurries off.
+212) 0) text: The home is packed. People, not just kids, huddle in ever corner. Blake spots Father Reilly. Hands him the can.
+212) 2) dialog: For the bus in case there's a chance to evacuate. Keep it in here - people are siphoning parked cars.
+212) 5) dialog: 
+212) 10) dialog: Less you know, Father. How're the boys? 117.
+221) 20) dialog: Yes, sir - take out the mercenaries guarding the outflow south of Ackerman Park, blow the rubble, you've got a hole big enough for ten at a time. I'm in contact with my partner - they're waiting for the day.
+221) 23) dialog: Men with automatic weapons who haven't seen daylight in three months.
+222) 0) text: Blake scouts with Jones. A rumble makes them turn.
+223) 5) dialog: While Gotham lives under a warlord, like in some failed state?
+223) 9) dialog: 
+224) 0) text: Blake leads them to the door of an empty bank. 122.
+226) 2) dialog: I was up here looking for a vantage point. Found the people who run the corporation who owns it living here.
+226) 6) dialog: Captain, meet Mr. Fox. Mr. Fox, I'd like you to brief the Captain. Captain Jones indicates Miranda.
+226) 18) dialog: And here's the important part.
+226) 20) dialog: The bomb's a time bomb.
+226) 24) dialog: Bane's revolution is a sham. He's watching Gotham rearrange its deckchairs while the whole ship's going down. Your appeasement plan might not be as practical as you thought. Captain Jones throws Blake a look. Addresses Fox.
+227) 0) text: Captain Jones exits the elevator, followed by his men and Blake. Halfway across the floor, hell breaks loose. Mercenaries blast them with machine guns - the lobby beco a devastating ambush. Blake dives back into the elevator.
+228) 0) text: Blake flies out of the elevator.
+228) 2) dialog: Fox, somebody sold us out! Fox and Miranda burst into the corridor.
+239) 15) dialog: You shouldn't be out on the streets
+242) 4) dialog: 
+255) 0) text: Blake takes out a second Mercenary - moves over to the op manhole. Ross emerges - nots at Blake, who helps him clim out. BANG - Ross goes down as Blake dives for cover. Blak is grabbed by Mercenaries. They detonate the manhole, sealing it, prepare to execute Blake. A dark shape drops onto the Mercenaries... Blake watches, in awe, as Batman takes them out in a fury of punches and kicks - then it i finished. Quiet. One of the Mercenaries moves slightly.
+255) 1) dialog: You missed a spot. Batman boots him in the head as he moves towards Blake.
+255) 4) dialog: No one cares who I am.
+255) 7) dialog: Huh. And you always seem to know where those people are. How is that?
+255) 14) dialog: No offense, but you got anything bigger in that belt?
+255) 16) dialog: But how do we -? KAABOOOM! The Bat's cannons light up the night.
+255) 17) dialog: Okay.
+255) 19) dialog: What now?
+255) 23) dialog: Why?
+255) 25) dialog: Don't you need me here?
+255) 29) dialog: Thank you.
+255) 32) dialog: I might not get a chance later.
+267) 0) text: Blake leads the boys out of the home - points down the street.
+267) 1) dialog: Knock on doors, spread the word - the bomb's going to blow! Get out by the South Street tunnel, or over the bridge! Do two blocks, then get back to the bus! The boys race down the street. Father Reilly climbs into bus.
+278) 3) dialog: 
+278) 9) dialog: It's gonna blow anyway. We need this bridge open right now.
+278) 11) dialog: Whose orders? Bane's?
+278) 13) dialog: Haven't you heard the shooting? The Batman's battling it out with Bane
+278) 17) dialog: It's Detective -
+278) 21) dialog: (to the boys) Wait for me back at the bus. The Boys walk back down the bridge...
+283) 0) text: Blake turns back to the Uniform.
+283) 1) dialog: Your orders are out of date! The situation's changed! Listen, I'm a cop like you. And I'm walking out there. Please don't shoot me. Blake walks. Shots ring out at his feet. He keeps walking
+285) 0) text: Blake continues to walk, ignoring the warning shots.
+288) 2) dialog: You idiots! You sons of bitches! You're killing us!!
+291) 3) dialog: Father! Get the boys on the bus -
+300) 0) text: Blake grabs at the smallest boys, shoving them onto the b
+300) 2) dialog: Come on! On the bus!
+300) 5) dialog: Protection from the blast -
+300) 8) dialog: You think they need to hear that in their last seconds? You think I'm going to let them die without hope? 157.
+302) 0) text: Blake shouts into the bus -
+302) 1) dialog: Heads down! Heads down, now! 158.
+302) 6) dialog: They're children! They have no peace to make - An EXPLOSION from downtown Gotham. Blake looks across, startled, turns to the children on the bus. Get down! This is it! The smallest of the boys stares through the window past Blake.
+303) 0) text: Gordon is reading from A Tale of Two Cities. Opposite is Fox, arm in a sling, and Blake, grim. Another figure is there, whose face we do not yet see... 159.
+304) 4) dialog: No. What you said about structures. About shackles. I can't take it. The injustice. (Gestures at gardens.) I mean...no one's ever going to know who saved an entire city.
+308) 0) text: Blake shifts. Out of place. The Lawyer continues.
+310) 4) dialog: Blake, John.
+310) 7) dialog: Try my legal name.
+312) 0) text: Blake sits in his car looking at a GPS device, puzzled. Beside him, the sports bag, open. In it is a piece of pap with coordinates, on top of some climbing rope and shackl Blake gets out of the car with the bag. Follows the GPS i the trees. 163.
+314) 0) text: Blake finds a large waterfall... He checks his GPS, confused. Stares at the waterfall. Reaches for the climbi gear...
+317) 0) text: Moving in on the waterfall from inside... Blake bursts through, landing painfully on the shale inside. he gets t his feet, moving cautiously into the cave...
+321) 0) text: Blake lifts his head, FEELING the bats all around him... Blake RISES, and is SWALLOWED by the darkness of their wi and we - FADE OUT. CREDITS.

@@ -1,0 +1,15 @@
+20) 0) text: A short, bent SHIP'S CARPENTER with a wrinkled face oversees the loading of lumber. His body is wracked with arthritis, but for his powerful arms and hands. An old, grizzled SHIP'S COOK watches, as DOCKHANDS carry food stores and water barrels on deck. By his side is PIP (12), a black cabin boy of small stature with a playful face. Merry as a cricket and bright as a cherub. He toys with a tambourine as he watches the bustle of activity. A cheerful presence, clearly appreciated by the men at work. Overseeing the loading operation from an old wicker chair by the gangplank is a heavy-set, retired captain, PELEG, dressed in the Quaker style. He watches with sharp care at every passing item, writing them down on a thick ledger. The SOUND of Queequeg's powerful CHANTING VOICE wafts over the dock. SHIP'S CREWMEN steal glances at the curious duo down below, as they approach.
+22) 0) text: Ishmael stops before Peleg, who barely acknowledges him.
+22) 2) dialog: Supposing it be. What d'ye want with him?
+22) 4) dialog: You're no Nantucketer. What d'ye know about whaling?
+22) 6) dialog: (laughs at that) Can't you see the world from where ye stand, young man? You want to see what whaling is, do ye? Are ye man enough to pitch a harpoon down a live whale's throat, then jump after it? Well, I'll tell ye this much: there's death in this business, and it can bundle a man quite quickly into eternity. Does that frighten ye?
+22) 8) dialog: I see. Then have ye clapped eyes yet on Captain Ahab? A ripple of discreet CHUCKLING from the crewmen nearby. Pip taps his tambourine forbodingly. Ishmael's puzzled but remains undaunted.
+22) 11) dialog: 
+22) 17) dialog: You're speaking to Captain Bildad. I'm Captain Peleg. We own this fine specimen, and it's our job to see to it that she's fitted out with all her needs... (a doubtful look) Including, sir, a crew with goodly experience. Frustrated that he's failing this interview , Ishmael glances back toward Queequeg for support.
+24) 0) text: On his own, Ishmael turns back to Peleg.
+24) 2) dialog: What do ye want with him?
+24) 4) dialog: That's highly unlikely. He won't always see me, so I rather doubt he'll see you! A strange man, he is indeed... (to Bildad) A great, ungodly, god-like man, I'd say.
+24) 6) dialog: (to Ishmael) He doesn't speak much...but when he does, you'd do well to listen. A huge shadow crosses over them. Peleg and Bildad fall silent as they look up. Queequeg towers over them, standing behind Ishmael with his harpoon. He nods at Ishmael, encouraging him to introduce him. Ishmael understands.
+24) 8) dialog: "Quohog"? Doesn't look like much of a Christian to me. 21.
+24) 12) dialog: Look here...we'll give you one-ninetieth percent, that's a higher cut of the ship's whale-oil cargo than we've ever given any harpooner! So what say ye?
+24) 14) dialog: 

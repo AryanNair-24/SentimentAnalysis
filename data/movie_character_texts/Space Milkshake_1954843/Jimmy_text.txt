@@ -1,0 +1,262 @@
+4) 0) text: 2 JIMMY ANDERSON (25) wears a jumpsuit with utility belt, h small rolling suitcase, and a bunch of papers in the othe hand. Elevator music. He stands waiting in a small indust looking passage with heavy duty inner and outer doors. A light. He's sweating, pale. He presses the button repeate
+4) 2) dialog: No.
+4) 4) dialog: No. Jimmy sneezes. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   3.
+4) 5) dialog: Allergies.
+4) 7) dialog: You still have a WENDI? The light turns green and the inner door opens, Jimmy ent the space station airlock module. A sign above the airlock says: "REMEMBER ALL ACCIDENTS IN SPACE ARE SERIOUS ACCIDENTS". Jimmy sneezes again, wipes nose, offers his hand to shake. He reads Anton's name tag
+4) 8) dialog: Captain Balvenie?
+5) 3) dialog: Engineer level nine rating. Anton is unimpressed. Jimmy stops to poke a panel with a loose wire.
+5) 5) dialog: No, they are. I am. Do you want me to go back? Anton corners Jimmy. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   4.
+5) 7) dialog: Great. This is my first orbital assignment.
+5) 9) dialog: No problem chief.
+5) 11) dialog: Sorry, Captain. They keep walking, reaching the junction at the end.
+5) 13) dialog: No. Maybe. What's the matter?
+6) 0) text: 4 Computer monitors with important data cover the walls, th are six stations with rotating chairs and an island of consoles in the middle. Flight Specialist TILDA GENERO (2 has her feet up, headphones on. The door opens and Jimmy follows Anton into the control room. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   5.
+6) 3) dialog: There's your problem. Jimmy digs around in the panel with wires sticking out.
+6) 5) dialog: I don't know. I might have to take the mainframe offline to fix this-
+6) 7) dialog: What's his problem? Tilda ignores him.
+6) 8) dialog: I said, what's his problem? ... I guess you can't hear me with your headphones on.
+8) 0) text: 7 Tilda has her feet up, she listens to the radio chatter, caring in the least. She presses a few buttons. Jimmy tes circuits in the background. She adjusts her headphones. Computer monitors show generic scrolling text, radar swee and simple iconographic status displays in the background
+10) 11) dialog: Do you want me to take a look at the sensors? Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   8.
+12) 4) dialog: Do you know where can I get lunch?
+12) 6) dialog: Can you show me the way?
+12) 8) dialog: Ok Anton.
+14) 0) text: 13 Red lights and indicators flash. A siren sounds. Tilda an Anton leap into action at the controls. Jimmy comes over.
+14) 1) dialog: What's that? Is everything ok?
+16) 2) dialog: Do you get down to Earth much? Tilda turns around from her terminal.
+16) 4) dialog: Do you always share a salvage bonus with the entire crew?
+16) 6) dialog: But we're four including me.
+16) 8) dialog: Where's the sign-in sheet? Tilda points at her headphones without turning to him.
+16) 9) dialog: I'll sign in later I guess.
+26) 4) dialog: It sounds like he might be holding the microphone too close. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11    1
+27) 6) dialog: Good salvage?
+27) 11) dialog: What can I do? Valentina shoves her space suit into Jimmy's hands. She a Anton walk off in the other direction. Jimmy tries to han the space suits on the rack. They don't fit. He tries aga Jimmy drops the space suits and follows after Tilda. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   1
+30) 2) dialog: Tilda? Jimmy finds a way around a large machine just as Tilda2 z up her jumpsuit, facing away. She has strange geometric l like tatoos on her back. He's struck by her picturesque beauty and doesn't realize he's staring. She turns and me eyes with him. He's very embarrassed and ducks back behin the machine.
+30) 3) dialog: Is this the laundry room? I was looking for the mess hall. Sorry if I surprised you. I thought I heard something. I didn't see anything. The heavy machinery starts grinding and humming. CRUNCHIN SAWING AND SPLATTERING SOUNDS. The light turns from red t green. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   18
+30) 4) dialog: Okay well I'll see you on the bridge. Sorry. Jimmy turns and starts to head out, bumping into Tilda2 w a start. She's different; dissociated, laconic, very nerv
+30) 5) dialog: I was just going. Tilda2 (henceforth "Tilda") stares at him, shivering.
+30) 6) dialog: Hey, what's the matter? Jimmy pats her shoulder. She looks up and they meet eyes.
+30) 7) dialog: Are you ok? She turns and runs away. Jimmy watches her go out the hat
+30) 8) dialog: You forgot your shoes! Jimmy picks up some sneakers. He doesn't notice blood dripping out from below the organic waste reprocessor as goes.
+32) 0) text: 32 The wall is marked W.E.N.D.I. Orbital Station System Computer. Jimmy sits next to the computer with Tilda's sneakers. Wendi has a female voice this scene only. Jimmy hits buttons on the keyboard. The computer turns on
+32) 1) dialog: Wendi?
+32) 3) dialog: Where is the laundry room?
+32) 5) dialog: Does Tilda have a boyfriend? The intercom buzzes. Anton voice is distorted to the edge comprehensibility.
+32) 7) dialog: Anton?
+32) 9) dialog: I can't understand-
+32) 11) dialog: Roger that. Jimmy opens the top binder from a tall stack of binders. screen turns off.
+32) 12) dialog: Wendi? He hits buttons. It doesn't work now.
+34) 0) text: 34 Jimmy sips juice from a sippy cup and goes back to solder wires in an open panel near the screen. He wears safety goggles, reads from a technical binder marked SONOVAC SYS REPAIR. The tall stack of binders is now a mess of them opened, scattered around.
+35) 5) dialog: It's taking me a bit longer than I thought. I might need to call down for some parts.
+35) 9) dialog: Why didn't anyone tell me? I have to get back to Earth.
+35) 11) dialog: So we're stranded. The full weight of their predicament settles on them. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   2
+38) 0) text: 40 Jimmy, Anton and Val play scrabble. Val makes a word.
+38) 3) dialog: Do I have to play?
+38) 5) dialog: Not very good. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   23
+38) 7) dialog: What's for breakfast?
+38) 10) dialog: Is there anything to eat besides sandwiches?
+38) 12) dialog: No.
+38) 16) dialog: Yes. I have a girlfriend.
+38) 18) dialog: There's a girl I'm friends with, I was planning on asking her to out.
+38) 20) dialog: We know each other. I know her.
+38) 32) dialog: You guys need a minute?
+38) 34) dialog: What was that? Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   25 SMASH! The sound of an impact, like a car accident. The r trembles. METAL CREAKING NOISES. Things jiggle and fall o the shelves. Tilda stares at Jimmy, scared. Val and Anton are bracing themselves for more. The shakin stops.
+39) 0) text: 41 Red lights blink, warnings flash on monitors. Valentina a Anton run in and sit, hit buttons. Jimmy takes a station presses buttons too, scared.
+39) 2) dialog: I don't know what I'm looking at.
+39) 4) dialog: Orbital position is...
+39) 6) dialog: Got it. The fail-safe thrusters kicked in. Orbit is stable. Tilda comes in and sits at a console, hits buttons.
+39) 11) dialog: What is that?
+39) 13) dialog: It's small... and yellow.
+41) 0) text: 43 Valentina, Tilda and Jimmy watch the monitors.
+41) 3) dialog: Why don't you give her a break?
+41) 5) dialog: Take it easy.
+42) 0) text: 45 Valentina Tilda and Jimmy wait by the doors. The red ligh comes on in the airlock. Anton is in the airlock in full space gear. Red light turns off inside airlock. AIR HISSI SOUND. The inner airlock hatch opens. Valentina helps Anton off with his helmet. In his gloved is a slightly burned rubber duckie. Anton takes off his s top and pants, down to his underwear.
+43) 6) dialog: They're not identical. See? Tilda comes between them and checks out the ducks urgentl Jimmy leans in next to her.
+43) 7) dialog: What is it Tilda?
+45) 0) text: 49 Jimmy wakes up. His clock says "06:00". He has bed-head.
+46) 0) text: 50 Anton practices martial arts with multiple styles in his karate gear. Jimmy passes by, gets a sandwich.
+47) 0) text: 52 Tilda searches through the drawers and rummages around everywhere. A duckie on the table. Jimmy comes to the doo
+47) 1) dialog: Did you lose something? Tilda puts her finger to her lips like Shhhh and walks pa him out into the hall.
+48) 0) text: 55 Jimmy has a three-ring binder marked `"W.E.N.D.I." - CENT COMPUTER - REPAIR OPS MANUAL'. He peels open a foil-wrapp sandwich and eats while he reads.
+48) 1) dialog: Wendi? Nothing happens. He presses some buttons and reads more. Jimmy kicks the computer in frustration. Tilda comes in. She looks all around the room and at the computer.
+48) 2) dialog: Oh hey Tilda! What are you looking for? Tilda pokes the computer.
+48) 3) dialog: Have you worked in space a long time? I'm still getting used to it. I thought I'd like it better. A lot less excitement than I figured. I guess it's a good thing though - after what happened to Earth.
+48) 5) dialog: I mean, whatever happened out there we're still alive. What do you think happened? Tilda looks at Jimmy. She places her hand on the computer
+48) 6) dialog: I'm testing the circuits coming off the recursive logic decoupler for a memory leak. Want to help? Tilda kicks the computer. The computer screen flickers on numbers scroll on the monitor.
+48) 7) dialog: Why don't you say anything? Jimmy hits the intercom button.
+48) 8) dialog: Anton? I fixed the computer. Tilda sits down and flips through a binder. Jimmy sits cl to her.
+48) 9) dialog: I know you're looking for something. I can help. Just tell me. Tilda is about to say something- but Valentina comes in.
+48) 12) dialog: It's loading. The screen settles on the "W.A.S.S. REGINA" station logo.
+48) 26) dialog: I don't know what happened. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   32 Valentina leaves, brushing past Jimmy.
+48) 28) dialog: I think Tilda can help.
+49) 0) text: 57 [No yellow shields on windows.] Jimmy wanders down the ha wearing one of Anton's jumpsuits, reading the technical binder. It's darker. Tilda is standing looking out the wi into space, with her reflection in the glass.
+49) 1) dialog: Hi Tilda. Trouble sleeping? Tilda looks at him.
+49) 2) dialog: Want to play scrabble?
+50) 2) dialog: What's happening to us Tilda? What's with the rubber ducks? She looks at him.
+50) 3) dialog: Anton thinks you're space-crazy. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   3 Tilda makes the word "oxyphenbutazone" and looks at him.
+50) 4) dialog: Sometimes you do seem kind of distant. Tilda turns the board to face her.
+50) 5) dialog: I guess you're just dealing with things in your own way. Tilda has an idea! She grabs all the tiles and starts mak words. SECRET. INTRUDER ON BOARD. DANGER. Jimmy leans over looking. Tilda is very serious. Anton leans in (out of nowhere).
+50) 8) dialog: I didn't pack anything else.
+52) 0) text: 59 A bunch of cables run from an open panel below the comput screen. Jimmy (wearing his old clothing) shoves all the computer parts into the wall and closes the panel.
+52) 2) dialog: Wendi, can you identify me?
+52) 4) dialog: How are you doing? Jimmy types, flips switches, leafs through binders and te circuits under the following scene. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   3
+52) 6) dialog: It looks like your social interface program is back online.
+52) 8) dialog: Why do you have a man's voice?
+52) 10) dialog: Anton hates it.
+52) 12) dialog: No stay like this. Can you show me the station video monitors? A grid of grainy black and white video cameras comes up. One screen shows Valentina walking down the hall angrily her bath robe, towel and 2 rubber duckies. Another monitor shows a medium shot of Tilda kneeling in engineering area next to a wall panel marked T518. She lo around nervously and opens it.
+52) 14) dialog: Why are women so complicated? Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   3
+52) 16) dialog: What's your T518 array used for?
+52) 20) dialog: Have you ever been in love, Wendi?
+52) 23) dialog: It's stuck this way.
+52) 26) dialog: I knew a guy named Wendi. I called him Wendi once. Maybe by mistake. I think his name was Wendal.
+52) 30) dialog: What's wrong with the coffee machine?
+52) 32) dialog: I'm not sure this power converter is going to hold and we're out of spares. Wendi could go down again.
+52) 34) dialog: Ok.
+52) 36) dialog: Oh, ok. Jimmy gets up and goes.
+55) 0) text: 66 Boxes fall off the shelves with a CRASH. Jimmy moves them of the way. The wall is marked SALVAGE BAY 12. HAZARDOUS AREA. HARD HAT ZONE. Other construction site iconography. Jimmy pulls aside some junk and scrap, finding Gary's Tim Cube they salvaged from the crash. It looks useful to him The device has a control pad and sockets for plugs. It's little heavy. He turns it over and examines it.
+55) 1) dialog: What the heck is this? He fumbles and drops it. A FLASH of light whites-out the room. Jimmy rubs his eyes and looks at the box - blue lig glow inside and it starts to HUM.
+56) 0) text: 67 Valentina snoozes with a wet cloth over her eyes in the t The FLASH of light passes through. The burned space-ducki sits on the tub edge, as if watching her. Strange HUMMING from Jimmy's device is heard. THE DUCKIE'S EYES MOVE TO FOCUS ON VALENTINA. Valentina takes off a wet cloth from her face and looks around. The duckie doesn't move. She puts the cloth back The rubber duckie is definitely watching her.
+62) 9) dialog: Is that what it is?
+62) 12) dialog: What do you mean by activate? I mean it was on when I found it. Valentina comes in with her bath robe. She sees them and Time Cube.
+62) 15) dialog: I thought all life on earth ended last week. Valentina throws down her bath robe and goes to her quart
+66) 0) text: 84 Jimmy and Tilda examine the Time Cube.
+66) 1) dialog: What is this?
+66) 3) dialog: Oh yeah? He reaches for it...
+66) 5) dialog: Oh. Jimmy pulls his hand back and sits on his hands looking a the cube.
+69) 3) dialog: You are? Tilda puts her finger near Jimmy's arm. A small spark jum
+69) 4) dialog: Ow. Do that again. She does it again.
+69) 5) dialog: Ow. Stop.
+69) 7) dialog: Do it again.
+71) 0) text: 87 Jimmy eats a sandwich at the table next to Tilda. Anton c in and tries again to make a cup of coffee.
+71) 1) dialog: Tilda's a robot.
+71) 3) dialog: I'm pretty sure she is. Valentina comes in, sees the Time Cube glowing. Anton pul out a chair for her.
+71) 9) dialog: It's okay, tell them what you told me.
+71) 15) dialog: It's got some kind of port at the bottom which I haven't figured out.
+71) 18) dialog: No. Not really. It turned itself on. I might have dropped it. It was on before I found it. BEEP BEEP BEEP - a beeping sound.
+71) 22) dialog: Yes. This is new. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   48
+76) 5) dialog: She has a name. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   5
+76) 7) dialog: Hey. What's the matter?
+76) 9) dialog: We can try. Look, last week I never thought I'd be working orbit. Everyone told me it was impossible. I didn't have the training. I didn't have the stomach. People said, that Jimmy, he's never getting off Earth. But I got myself together and paid a guy a hundred and fifty bucks to forge my certification forms and the next thing you know, here I am.
+76) 11) dialog: I'm sure you didn't. Hey, lets go use Wendi's cameras to see if we can find Gary if he's on board.
+77) 3) dialog: I'm glad you can speak. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   5
+77) 5) dialog: What is it?
+79) 0) text: 100 Tilda and Jimmy brace themselves. The room trembles.
+79) 2) dialog: We're in the computer room.
+79) 4) dialog: Ok. He turns off the intercom.
+79) 5) dialog: Do you know what's happening?
+79) 7) dialog: Not much time like a few days?
+81) 19) dialog: 
+81) 22) dialog: I'm looking for you!
+81) 24) dialog: What happened to your face?
+81) 26) dialog: What?
+83) 0) text: 113 Tilda opens a compartment and locates sandwiches. Jimmy s tinkering with the busted laser pistol through the scene. Valentina takes the sandwiches.
+83) 1) dialog: So it's some kind of animal?
+83) 3) dialog: How big is it?
+83) 9) dialog: We checked with Wendi. It doesn't look like Gary is on board.
+83) 16) dialog: This is the Gary that Tilda says destroyed Earth. He's a duck?
+83) 26) dialog: Me too.
+83) 32) dialog: Do we have any weapons? Anton opens a drawer. He spills out a handful of disposab plastic knives on the table.
+83) 34) dialog: No lasers? Microwave rifles?
+84) 0) text: 114 Anton, Val, Jimmy, Tilda walk into the four-way intersect then pair off in different directions. Anton has his backpack.
+87) 0) text: 117 Jimmy walks through with Tilda. The computers buzz and li blink. They look around for Gary cautiously.
+87) 2) dialog: What is it? Tilda gives Jimmy a little kiss. Suddenly his eyes open w as something happens when their lips touch, time slows do and everything gets brighter, fades to:
+88) 2) dialog: This is cool. Space Milkshake Prod. Draft Rev10b BLUE -      11/12/11 Tilda opens her mouth and electronic synthesizer sounds c out for just a quick instant before they:
+89) 2) dialog: Woah.
+89) 6) dialog: I have a headache. But it was nice.
+89) 8) dialog: You know, we can try other   ways of showing how we feel. There   are ways we do it in this dimension   you might not have heard about   yet... The ROOM SHAKES HARD and binders fall off the shelves, th lights flicker, metal snapping NOISES O.S.
+89) 10) dialog: Right.
+91) 0) text: 120 Tilda and Jimmy try to access the computer. It's not work
+91) 1) dialog: The power system is still on. We need to locate the damaged circuits. They could be anywhere between here and the control room. Gary must have done something.
+91) 3) dialog: What are you going to do?
+91) 5) dialog: Ok. Jimmy turns around. Tilda sticks the RS232 cable down the front of her jumpsuit bottoms area and feels around with cable until she finds her socket. CLICK.
+91) 8) dialog: Can you explain what you're doing? Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   6
+91) 10) dialog: I mean what are you doing with that RS232 cable? Numbers flash on the screen.
+91) 14) dialog: Gary? What is it trying to do?
+91) 17) dialog: How long do we have?
+91) 19) dialog: Are you sure? She's sure. Jimmy hits the intercom.
+91) 20) dialog: Anton? Anton? Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   6
+91) 22) dialog: You're going to have to explain that later. Tilda reaches her hand toward Jimmy. Jimmy puts his hand A spark jumps between their hands.
+91) 23) dialog: Ow!
+91) 25) dialog: Meat that loves you, Tilda.
+91) 27) dialog: It sure would be fun to try. Tilda smiles in agreement.
+92) 4) dialog: 
+92) 8) dialog: 
+92) 11) dialog: Ow. Stop.
+92) 13) dialog: Where's Anton?
+92) 15) dialog: We're falling out of orbit. Gary's done something to the guidance system. Have you found him?
+92) 17) dialog: Then there's only one place left he could be.
+96) 3) dialog: Tilda? Tilda comes out of Anton's room, some blood spray on her face.
+97) 4) dialog: Valentina, get some water. Tilda first-aid examines Anton. He coughs up blood. Jimmy turns around and there's no Valentina.
+97) 5) dialog: Valentina? Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   7
+99) 0) text: 126 Tilda opens the medical kit, snaps on rubber gloves and straps on a surgical mask. Jimmy brings napkins. She goes monitor near the hallway. Tilda presses buttons on the screen. The monitor screen says "MEDICAL DATABASE DOWNLOA Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   7
+99) 2) dialog: Are you going to be OK here?
+102) 1) dialog: Where did you go? Anton is hurt pretty bad.
+104) 0) text: 132 Jimmy goes to the captain's central console.
+104) 1) dialog: He's in the storage bay, going towards the crew quarters. Tilda and I managed to reroute the door controls. If I can just figure out... Jimmy hits buttons.
+104) 2) dialog: Ha. Sucker. Jimmy dramatically hits a big button on the keyboard.
+106) 0) text: 134 Jimmy works on the controls. Valentina comes up behind hi a sneaky way, he doesn't notice. She's holding a toolbox.
+106) 1) dialog: He's locked in. That should buy us some time but we have to hurry. Help me figure out the thruster controls. Valentina creeps up right behind Jimmy. Jimmy turns to se her too late: she bashes Jimmy in the head with the tool and tosses it aside. Valentina uses the keyboard. Jimmy rolls over, regains fo
+106) 2) dialog: What are you doing?
+106) 4) dialog: Where are you going? Tilda appears behind Valentina and hits her in the back o her head with the toolbox. Valentina goes down. Valentina rubs her head. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   76
+106) 6) dialog: Thanks Tilda. Oh no, she let Gary loose.
+108) 2) dialog: He's a monster.
+108) 5) dialog: That's bad, isn't it? Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   7
+108) 7) dialog: There's too much damage to fix in fifteen minutes.
+108) 9) dialog: We can't allow Gary to have total control of time and space. Jimmy gets back down into the computer panel. Tilda kneel next to him, watching. Valentina looks at the Time Cube o the floor and wriggles in her duct tape bonds.
+110) 0) text: 138 Jimmy and Tilda press buttons and flip switches on the consoles as they talk. The room shimmies and shakes more more. The RUMBLE sound increases. Jimmy turns one more switch. BLEEP BLORP: the computer screen flickers on.
+110) 2) dialog: We're falling Wendi. Correct our orbital position.
+110) 4) dialog: Is anything working?
+110) 6) dialog: We have... fourteen minutes. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11    7
+112) 0) text: 140 The room shimmies and shakes. Valentina is straining agai her duct tape wrapping. It's loosening. They don't notice Jimmy is wriggling around in the confined area.
+112) 2) dialog: It's ugly in here. I don't know where the break is.
+112) 6) dialog: How's it going?! Jimmy is jammed deep in the panel, where he uses a circui tester, probing. He wipes off his sweaty brow.
+112) 8) dialog: Here? Tilda is focused on the monitors, doesn't notice Valentin loose of her duct tape and stands up behind them.
+114) 1) dialog: Is this it?
+114) 3) dialog: Here?
+116) 0) text: 145 Jimmy reaches as far as humanly possible with his logic p and touches a difficult-to-reach circuit way in the back, a maze of jumbled blinking lights, cables and circuits:
+116) 1) dialog: There's your problem. He pulls out a smoldering burned circuit.
+116) 2) dialog: The midrange data processor is burned out. I think we need it to control the thrust vector.
+116) 4) dialog: No way. No... I don't have the parts. This is serious.
+116) 5) dialog: We're dead.
+116) 7) dialog: I wish you would warn me if you're going to do something like that.
+116) 10) dialog: Don't you need it?
+116) 12) dialog: Where's Val? Tilda turns.
+116) 14) dialog: Hold on, let me plug this in. Jimmy ducks back under   the panel and stuffs the strange device into the socket   of the circuit board. Sparks fly lights start blinking!   The SOUND of the midrange data processor humming back   to life. Green lights on monitor Jimmy clamps alligator clips around a broken cable and scrambles up. The monitor screens show green blinking symbols. Tilda uses a staple gun to close her wound, show no sign of pain, tucks away her RS232 cable and zips up.
+116) 15) dialog: It worked! Jimmy sees one monitor still shows ERROR.
+116) 16) dialog: It's not working.
+116) 18) dialog: It should have worked.
+116) 20) dialog: Are you okay?
+116) 22) dialog: How?
+116) 24) dialog: You mean outside?
+116) 26) dialog: Take this. Jimmy hands Tilda Anton's blaster - Jimmy found time to repair it with wires, duct tape, and junk.
+116) 28) dialog: I'll be ok. Jimmy gets up to go, summons his courage.
+116) 30) dialog: It's go time.
+117) 0) text: 146 Cables are loose, hanging, red siren lights. The walls rattle. Jimmy walks carefully, looking for Gary. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11   83
+121) 0) text: 150 Jimmy enters the dark trashed airlock module, looking aro Space suit parts are a mess on the floor.
+121) 1) dialog: Damn. Jimmy frantically sorts through space suit parts. Space Milkshake Prod. Draft Rev10b BLUE -   11/12/11    8
+122) 2) dialog: I'm entering the airlock.
+125) 0) text: 151 Jimmy [in spacesuit] moves along the exterior of the stat Atmosphere blows past him. The air is thin but they're mo fast. Smoke trails from burning station bits stream past. station shakes. Jimmy is terrified, holds on for dear lif He sneezes in his helmet. The glass is all splattered. Space Milkshake Prod. Draft Rev10b BLUE -    11/12/11   8
+125) 1) dialog: Gah! POV Jimmy: splatter and mucus on the inside of the glass.
+126) 1) dialog: I'm outside the station.
+126) 3) dialog: Okay no problem.
+128) 0) text: 153 Jimmy clambers along the rail that he's clipped into. He comes to the thruster. We hear his rapid breathing in the space suit. Behind him is the expanse of cold space. The station rotates until the Earth takes up the view behind Everything shakes.
+128) 1) dialog: Almost there. Tilda? Tilda?
+130) 0) text: 155 Jimmy reaches a cone-shaped thruster. He clips in an extr tether to a metal ring nearby and turns a handle, opening small access panel.
+130) 1) dialog: How the hell does this work? Jimmy finds a small keypad and joystick in the panel. He buttons. Jimmy turns the joystick. The thruster next to him moves.
+130) 2) dialog: Okay. That's good.
+133) 0) text: 157 Jimmy at the thruster, he grips the joystick, feeling woo
+133) 1) dialog: Here goes nothing. He's sweating profusely. He looks at his glove - it's burning. There's orange-glowing cinders flying off his bo Jimmy hits the big red button! A BLAST OF PLASMA fires ou the thruster next to him. (Wide shot) Over the course of five long seconds, the sta stops falling. The thruster stops firing. He's burning more now. His suit POPS A LEAK! Smoke whizze out of a hole in his arm. He stares at it.
+133) 2) dialog: Oh crap.
+135) 0) text: 159 POV Jimmy: he's losing consciousness, looking at the pret sunset.
+138) 3) dialog: Are we ok?
+141) 0) text: 166 Tilda and Jimmy are sitting, eating sandwiches. The room tidy now, cleaner than it's ever been. Food wrappers arou
+141) 1) dialog: I could eat another.
+141) 3) dialog: Ham. She pulls another sandwich from the shelf.
+141) 5) dialog: Nice. The Time Cube is on the floor with cables running into it from all over. Tilda checks the cables.
+141) 7) dialog: Control room, are you ready?
+141) 9) dialog: We're activating it. Jimmy hits keys on a keyboard. All the computer screens t on. The strange HUMMING sound starts. The Time Cube GLOWS BLUE. The lights dim slightly.
+141) 10) dialog: I think it's working.
+141) 12) dialog: Wendi? What's going on? Is it working?
+141) 14) dialog: Maybe I should-
+143) 0) text: 168 The flash fades away. Tilda and Jimmy stare at the comput screens. The blinking lights slow down. The HUMMING sound dies down. They rub their eyes. The intercom clicks on.
+143) 2) dialog: Yeah. We're okay. Are you okay?
+148) 0) text: 173 Tilda and Jimmy walk into a medium shot, look out the win Tilda takes Jimmy's hand in front of the window with the Earth rotating outside, space full of lights and shuttles THE END.

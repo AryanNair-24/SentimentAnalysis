@@ -1,0 +1,24 @@
+24) 2) text: Overmeyers, Thompson? It's Sam. How goes it? I've got a full container of Helium3 ready to roll. The purity is pretty good, so assuming your last market prices are still relevant I think you are looking at getting about 3 million dollars per kilo with this load. By the time this message reaches you it should be in transit. (a beat)
+30) 0) text: Sam sits at the comms unit watching a message from his superiors, OVERMEYERS and THOMPSON, a purposeful looking woman in charge and her earnest second. The two talk RAPIDLY and trade off like a tag team. At times their tone can be almost bizarrely whimsical. Overmeyers and Thompson seem to have known Sam for a whil but even so, there is a practised casualness to the repartee. It's a professional friendliness on Overmeyers part, no more and for Thompson it's merely an eagerness t be involved.
+30) 1) dialog: Delighted to hear about the latest shipment, Sam.
+30) 3) dialog: Now in response to your question about the communications equipment, the news is not good.
+30) 5) dialog: Fixing the lunar sat is going to take some time. It's a significant operation.
+30) 7) dialog: Lunar doesn't have the budget it once did, Sam, you know that.
+30) 10) dialog: We have to go to Genesis 3 just to get a decent cup of coffee, Sam. Genesis 3. That's three buildings over.
+30) 12) dialog: You only have two weeks to go! Congrat-- Sam shuts off the message before Overmeyers can pipe out his last line. Sam sits before the dead screen -- eyes closed -- taking succession of DEEP BREATHS.
+51) 0) text: Gerty is installed at the Comms Unit. Thompson and Overmeyers are on the screen. The moment Gerty sees Sam he shuts off the monitor and th screen fizzes to black, Thompson and Overmeyers vanishing Strange: Gerty appeared to have a live feed.
+61) 0) text: Sam and Gerty are seated at the Comms Unit watching a vid message from Central. Sam is holding a carved HOUSE, examining it as he listens to the video. The familiar faces of Overmeyers and Thompson on the screen, shoulder to shoulder, the two looking more like vultures right now than lizards.
+61) 5) dialog: We don't want you to take any unnecessary risks. You're too important to us.
+61) 7) dialog: It's an order.
+61) 9) dialog: We're going to send a Rescue Unit to tend to the stalled harvester and get the base back on its feet.
+83) 0) text: Sam 1 and Sam 2 seated before the Comms Unit. Sam 1 hits the "Play" button. Overmeyers and Thompson appear on the screen.
+83) 1) dialog: Greetings, Sam!
+83) 3) dialog: You getting lots of rest?
+83) 5) dialog: Enjoy it while it lasts! We've got good news.
+83) 7) dialog: We've managed to secure you a Rescue Unit ahead of schedule.
+83) 11) text: Eliza's been in transit for the last day....we expect them to reach you in approximately 14 hours. OVERMEYERS (O.S.)
+83) 13) text: You'll be back to work in no time. Now back on Overmeyers and Thompson. OVERMEYERS
+83) 17) text: In the meantime, keep resting up, and hang in there. OVERMEYERS
+83) 18) text: Yeah you hang in there, Sam. Over and out. And the screen pops to black. A pause. For a moment there is silence, neither of the Sams knowin how to react -- going by the message Thompson and Overmeyers don't know anything about there being two Sams on the base now. SAM 1
+94) 24) text: It was a back and forth exchange. And I saw Thompson and Overmeyers up on the monitor. I was supposed to be asleep in the Infirmary. The moment I walked into the comms room Gerty terminated the transmission. Now I was a little drugged up, granted, but I didn't imagine it. SAM 1
+124) 2) text: Evening Overmeyers, evening Thompson! According to the Old Man Rescue Unit Eliza will be here in just over three hours. Not a moment too soon! I never thought I'd say this, but I want to get out there, I want to work. I feel like a kid who's been grounded. Looking forward to Eliza straightening everything out and things getting back to normal around here. Well...that's it. I'll let you know how it goes. Over and out, gentlemen. Sam 2 sends the message, his SMILE instantly COLLAPSING. mutters under his breath:

@@ -1,0 +1,23 @@
+80) 4) dialog: Now, Mack, what's the situation?
+80) 6) dialog: That's not Fred Madison?
+80) 8) dialog: Who is it?
+80) 10) dialog: Yeah, Mack?
+81) 0) text: Captain Henderson is standing in front of a desk, behind  which the Warden is seated.  A nameplate on the desk read WARDEN MARSHALL R. CLEMENTS.
+81) 2) dialog: Warden, it's not him.  It .was not Fred Madison in that cell.
+81) 4) dialog: I don't know.  The guards say they've never seen him before.
+81) 6) dialog: He's in the infirmary, being examined.
+81) 8) dialog: He... He can't talk. it appears as if he can't talk, anyway.
+81) 10) dialog: I've got men searching the building and the grounds now. The Warden stands up and comes around the desk.
+82) 0) text: The man from Fred's cell is just finishing being  fingerprinted. The doctor with serious eyebrows - DR. ROGOFF - is inspec the man's face.  The Warden enters with Captain Henderson GUARDS are standing by the door and at strategic spots in room.
+83) 0) text: Present are the Warden, Captain Henderson and TWO other  PRISON OFFICIALS.  The Warden is looking at a computer ne to his desk.
+83) 5) dialog: Nothing, Marsh.  Vanished.  There's an  APB out on him.  His photo's been faxed  nationwide.
+83) 10) dialog: One of the guards must have leaked it.
+86) 0) text: A press conference is being held.  Present are REPORTERS, cameras, et al.  The Warden and Captain Henderson represe the prison.
+88) 0) text: The Daytons are ushered in by the guard.  The Warden is  standing behind his desk.  Dr. Rogoff is standing to one  side, and next to him is Captain Henderson.  The Daytons  stand just inside the room for a moment before the Warden extends his right hand.
+88) 21) dialog: You don't know Fred Madison?
+88) 23) dialog: Do you think Pete knows him?
+88) 31) dialog: Any particular friends?
+88) 42) text: Where ... am I? The Warden and Captain Henderson look to Dr. Rogoff.
+88) 47) dialog: Do you know Fred Madison?
+88) 54) dialog: We need to find out what happened here.
+88) 60) dialog: (to warden)

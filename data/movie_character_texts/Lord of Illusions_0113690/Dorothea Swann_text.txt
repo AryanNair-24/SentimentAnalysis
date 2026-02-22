@@ -1,0 +1,137 @@
+47) 2) dialog: Thank you.  She dries off.
+47) 3) dialog: Where's Mr. Swann?
+47) 6) dialog: Why?
+48) 2) dialog: (softly)
+48) 3) text: Hey...  He looks up, startled. DOROTHEA The sun's shining out there. Dorothea is dressed a white robe now.  She literally brings light into this gloomy room.  On the shelves behind Swann are a number of brut figurines, vaguely recalling the idols outside Nix's "temple."
+48) 4) dialog: Bad show last night?
+48) 7) dialog: (distastefully)
+48) 11) dialog: Sure.
+48) 13) dialog: Oh God.
+48) 17) dialog: Sure.  You want me to find out about Quaid?  I mean, the funeral?
+49) 2) dialog: Valentin?
+49) 4) text: Good.  There. (to Dorothea)
+49) 6) dialog: (gives him the newspaper)
+49) 8) dialog: I want you to find this man D'Amour for me. She passes the newspaper to Valentin.  He looks down at i
+54) 11) dialog: I want you to help me help my husband.  I know he's in some kind of trouble.  And it's something to do with the man you saw murdered.
+54) 13) dialog: Yes.  They weren't close, but they saw each other once in a while.  I think Philip believes all that stuff with the tarot cards.
+54) 15) dialog: I think we make our own futures. Harry makes an approving MURMUR.
+54) 17) dialog: (covering now, but well)
+54) 20) dialog: He's a secretive man.
+54) 22) dialog: We don't share our lives the way a lot of people do.
+54) 24) dialog: We haven't slept in the same bed for years.
+54) 26) dialog: We wouldn't be having this conversation if I didn't. Swann's one of the most remarkable men alive. Harry, frowns.
+54) 27) dialog: You don't believe me.
+54) 30) dialog: No.  You're right.  He could have been something more. Maybe a lot more.  But people get lost.  Even good people. Too much fame.  Too much money,
+54) 32) dialog: Will you take the job, Mr. D'Amour?
+54) 34) dialog: Harry.
+54) 36) dialog: That's not what I'm asking for. I want somebody who can find out what Philip saw in those damn cards.  And stop it from happening.
+54) 38) dialog: Come to the show with me. Tonight I want you to see him with an audience.  They love him.
+54) 40) dialog: I didn't marry him for love, Mr. D'Amour.  Tonight?
+58) 0) text: The atmosphere, is closer to a rock concert than a conventional stage show.  Security people with walkie- talkies roam the aisles; the audience buzzes with barely controlled hysteria.  Harry heads down the aisle, eyes on the stage.  A star-li CURTAIN covers it.  Six rows from the stage is Dorothea, already in her seat.  She smiles lavishly, happy to see h
+58) 1) dialog: I'm glad you could make it.  Harry takes a seat beside her.
+60) 0) text: The LIGHTS are DIMMING.  Harry glances across at Dorothea whose gaze is intent.  The LIGHTS go OUT.  The MUSIC SWELLS, and the CURTAINS fl apart.  A spectacle worthy of Seigfried and Roy is about blast our senses!  Magic for the 90's:  a wild, erotic ri into mystery.
+60) 4) dialog: You haven't seen anything yet.
+62) 0) text: A new musical motif hangs in the air:  MUSIC announcing danger.  The AUDIENCE watches intently, nervously.  ON HARRY and DOROTHEA.
+62) 1) dialog: (a whisper)
+62) 5) dialog: No. . . ON THE STAGE, Swann raises his head and looks out at his wife, his eyes already glassy with imminent death.  He reaches out towards her, and then sags on the wheel, dead There are GASPS now from the audience.  Murmurs of disgus sobs of horror.
+62) 9) dialog: (to Harry)
+62) 10) text: I've got to get to him! The AUDIENCE is rising now, as the horror of what they've seen sinks in.  There is panic.  A few people have fainte One or two are even praying.  Harry carves out a path down to the stage for Dorothea against the flood of the exiting crowd.
+65) 0) text: Dorothea kneels at Swann's side.  A few yards from her, H examines the mechanism of the wheel.
+65) 1) dialog: (softly)
+67) 0) text: Dorothea sits alone, staring at the wall.  Harry enters.
+67) 2) dialog: (nods)
+67) 5) dialog: I don't know where you'd start.
+67) 7) dialog: They won't tell you anything.
+67) 9) dialog: (a beat)
+67) 13) text: ...my gamble.  Either way... I get to spend some time... here. The way he says this, it's plain "here" doesn't mean L.A. means near -Dorothea.  And by the tiny smile on her face, it's also plain she knows it.
+74) 1) dialog: ... I want somebody who can find out what Philip saw in those damn cards...  Harry frowns in his semi-doze.
+77) 1) dialog: Harry... I know it's late.
+77) 4) dialog: How did it go today?
+78) 1) dialog: They were jealous of him.
+78) 5) dialog: He... didn't have me..  I told you-
+78) 9) dialog: That's my business. Harry.
+78) 12) text: Dorothea?
+78) 13) dialog: Yes... I'm here.  And no.  I don't know the name.
+78) 15) dialog: It doesn't ring a bell.  I have to go.
+78) 17) dialog: (uneasy)
+88) 1) dialog: Who is it? Valentin puts the phone down.
+88) 3) dialog: No word from D'Amour?                             Valentin shakes his head.
+88) 5) dialog: Harm to whom?  Me?  I don't think, so.  Try him again at the hotel.
+96) 0) text: The room is a museum of Swarm's career.  Posters, and memorabilia everywhere.  And in the middle of the room, Swann's sealed CASKET, surrounded by flowers and candles. Dorothea is standing beside it, head bowed.
+96) 1) dialog: This is the way he wanted it... no autopsy, no embalming. Nobody meddling with his body... Harry approaches, slowly.
+96) 2) dialog: Flesh is a trap.  That's what he used to say.  Flesh is a trap and magic sets us free. (a beat)
+96) 5) dialog: (uneasy)
+96) 8) text: response) She threw herself in front of a car this afternoon. Dorothea can't disguise her distress.
+96) 9) dialog: Oh Christ.
+97) 0) text: Dorothea pours herself a drink, while Harry spreads the PHOTOS and the PAPERS from the repository on the table.
+97) 2) dialog: It was more than that, I think.
+97) 4) dialog: Swann said he could do stuff, yes.
+97) 6) dialog: He could get into people's heads.  Make them see things. Terrible things.  And he could levitate.  Juggle fire.
+97) 8) dialog: Some or it.
+99) 3) dialog: I told you --
+99) 5) dialog: No.
+99) 7) dialog: I wasn't.
+99) 9) dialog: I was grateful to him.  I owed him my life.  And he loved me. He couldn't always show it, but he felt it.
+99) 11) dialog: Shit! They are very close to each other.
+99) 14) dialog: No it isn't.  You can't help me.
+99) 18) dialog: (seductive)
+100) 0) text: Valentin breaks into the shadows, as Harry and Dorothea c the darkened lobby and head upstairs.  Then Valentin cros to the phone and dials.
+101) 0) text: A room of illusions.  Walls lined with mirrors, and warm, flattering lighting, bathing the naked forms of Dorothea Harry as they make love, sitting on the floor. It is a deeply passionate, but slow, sensual coupling.
+102) 1) text: Roiling, wind-filled pains with the glistening, urgent bo of Harry and Dorothea.
+103) 0) text: Harry cradles Dorothea in post-coital languor.
+103) 1) dialog: (whispers)
+103) 4) dialog: Are you sure?
+103) 7) dialog: I know.  I'm the one who shot him. ON HARRY. He's startled, to say the least.
+103) 8) dialog: I was twelve.  Nix took me hostage, to get Swann to come to him.
+103) 11) dialog: Yes.
+103) 13) dialog: And Pimm and Swann.  Only Nix was ready for them. There's a NOISE downstairs.
+103) 14) dialog: (nervous)
+104) 2) dialog: Harry?  Wait! Harry's at the bottom of the stairs now.  Across the hall a passageway, an eerie SILHOUETTE.  We can make out no de of clothing or face.
+104) 6) dialog: It's him!  It's Nix! Harry goes out into the passageway.
+105) 2) dialog: Oh my God! The Stranger looks round.  Harry snatches up the GUN, supporting his burned hand with -his good hand.  Levels t gun at the Stranger.  The FIRE raises its head, like a co
+105) 4) dialog: Who in God's name are you? She reaches for the Stranger, who simply folds up again; into darkness.  The WIND blows through the house, masking exit.
+105) 5) dialog: Are you all right?
+105) 10) dialog: Harry?
+106) 14) dialog: What about me?
+107) 0) text: WE CRANE DOWN from a high angle on a GRAVE, surrounded by MOURNERS.  The graveside service has just ended, and the Mourners are beginning to disperse.  Dorothea is there amongst them, of course.  So are several faces we recogni Vinovich, Wilder, Billy Who, Swann's Stage Manager, his Dancers, his Technicians.  There are also several members the PRESS, and thirty or fourty other Mourners, some of w to judge by their dress and manner, are also illusionists Harry stands some distance from the crowd, watching (hidd from the doorway of a mausoleum.  His eyes are on Dorothe she goes amongst the Mourners, receiving unheard words of condolesence.
+123) 0) text: A SOUND. Dorothea wakes, distressed by the dream.  She ge up and goes out onto --
+124) 1) dialog: Who's there? Silence.  Then, Valentin speaks behind her.  She jumps.
+124) 3) dialog: Jesus.  Valentin.  What did you do to your face?
+129) 0) text: Valentin drives.  Butterfield and Dorothea are in the bac Dorothea is handcuffed.  He has a bag open at his feet.  One by one he takes out a series of extraordinary instruments.  Dorothea looks on, confounded.
+129) 2) dialog: Why did you wait so long?
+129) 4) dialog: And you think he'll be in a fit state to resurrect, after thirteen years?
+129) 6) dialog: What is he?
+132) 0) text: Wide.  A few rocks, and emptiness.  The headlamps of Butterfield's sedan burn in the darkness illuminating the dig.  Valentin is in the grave, digging. ON Butterfield, as he stands at the edge of the hole, watching the work.  Dorothea stands a yard or two behind
+132) 16) text: It's him... it's him. On Dorothea, sliding down the car in despair.
+139) 0) text: HIGH, WIDE SHOT of the room, as Butterfield approaches th BODY of Nix.  It lies on a table, surrounded by bowls of Bandages, soaked in oil, are laid over its limbs.  Beside head, Butterfield's INSTRUMENTS are laid out.  ON Dorothea, crouched in the corner of the room, terrifie she watches Butterfield remove the multi- part MASK screw into Nix's face.  He works with surgical precision.
+139) 1) dialog: Listen.  You've got everything you want.  You don't need me. ..  A piece of the mask comes away from the cheek.  A subtle POWER plucks at dust around the room, disturbing it minut We CUT CLOSE to Dorothea's face throughout this sequence occasion her eyeball fills the screen) as she sees these signs of disturbance in the ether, growing in magnitude.
+141) 0) text: On Nix's emaciated mouth.  The lips TWITCH.  On Dorothea.  The DUST moves around her.  And Nix DRAWS BREATH.  On Butterfield, TEARS in his eyes.
+143) 0) text: ON Dorothea, eyes wide.
+143) 1) dialog: Christ in Heaven. ON Nix, as his body starts to thirstily soak up the oils. His withered flesh starts to REHYDRATE; his veins start t
+145) 2) dialog: Oh God! Butterfield looks up. 
+149) 8) dialog: I don't know where he is. Nix picks her up, so that her feet are inches off the gro
+153) 0) text: Hearing Dorothea's CRY, Harry looks back towards the passageway.  Butterfield pulls the instrument out of the ground and stabs at Harry a second time.  But Swann catch hold of his arm.
+155) 0) text: On Nix, Dorothea clasped close to him.  He REVOLVES as he floats over the chasm below then.
+157) 0) text: Harry is staring up at Dorothea as he very gingerly cross the still-sticky ground.  He's a yard from the edge of th pit now.  Nix swings round.
+157) 2) text: Oh... I know what you want. He lets Dorothea slip from his arms.   Harry flings himself towards the hole and CATCHES HOLD of Dorothea's arm before she falls away into the abyss.  His goes spinning across the ground, back towards the door leading to the passageway.
+157) 3) dialog: Oh God!
+157) 17) dialog: You can't.
+160) 3) dialog: Harry... Harry stops.  Dare he believe this is truly her voice?
+160) 4) dialog: It's not real, Harry- Harry turns around.  Dorothea is there. HARRY'S P.O.V. For a moment, he sees Dorothea as she is. ON HARRY, relief flooding his face.  Then -- HARRY'S P.O.V. -- the image MORPHS.  Dorothea's beauty is replaced by primeval muck.  ON HARRY, appalled.  Dorothea grabs hold of him.
+160) 5) dialog: Harry.  Listen to me. Whatever's good between us, believe it. Harry's face is deathly white, and pouring SWEAT.  He's fighting the delirium.  Or doing his best.
+160) 7) dialog: I'm here, Harry.
+160) 9) dialog: Yes. Nix steps from the shadows of the doorway behind Harry.
+160) 12) dialog: Don't look.
+160) 16) text: What are you looking at? ON DOROTHEA, who has gone to the door of the Meditation R and now slips inside.  ON HARRY, staring up at Nix. ON DOROTHEA, re-emerging from the Meditation Room.  In he hand, Harry's GUN.  Harry looks round at her.
+160) 18) text: There... there! ON NIX, as he looks up at Dorothea.  ON DOROTHEA, as she raises the GUN.  She FIRES.  The bullet STRIKES Nix's FOREHEAD.  He sinks to his knees BLOOD pouring down his face from the hole where his third used to be. ON HARRY, as Nix's mind-hold falters.  He leans against t wall, shaking.
+160) 19) dialog: Harry?
+160) 22) dialog: Oh my God. Harry and Dorothea start to get up...  Nix is no longer human.  He is a shape of gleaming DARKNE stripped of features.  He opens his mouth, the only visib element on his body is his toothed maw, which looses an utterly inhuman SHRIEK!
+161) 0) text: The pit still yawns in the middle of the floor. Dorothea backed towards it by Nix.  When Nix SPEAKS, his voice is not remotely human.  It is DEMONIACAL.
+161) 13) dialog: Harry! Harry looks round.  Dorothea's behind him, risking the flowing ground to offer him a hand.  Nix starts to fall into the pit.  At the last minute, he reaches for Harry, as --  -- Harry is pulled out of reach bv Dorothea.  Together they stumble to THE DOOR, where Swann still lies They look back to see  NIX, as he goes over the edge of the pit and FALLS SCREAM At the door, Dorothea lifts up Swann's head.  He's dead. closes his eyes.
+163) 1) dialog: Is it finished?
+164) 1) dialog: Come on... She puts her arms around him.  Kisses him, sobbing with relief.
+167) 2) dialog: Harry-?
+169) 0) text: Harry and Dorothea race for the open air, as
+171) 0) text: Harry and Dorothea stumble out, into the night --
+173) 0) text: Harry and Dorothea stumble to the car.  They look back at house, as the cacophony of destruction dies down.  ON THE RIM OF THE SUN, as it peeps over the desert horizo
+176) 0) text: Harry and Dorothea get into the car.  Harry glances back the house.  Nothing.

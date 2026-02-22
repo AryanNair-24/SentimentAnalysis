@@ -1,0 +1,187 @@
+7) 5) dialog: Tell Wright the San Francisco shipment is ready.
+7) 17) dialog: (an order) Be ready in five.
+7) 19) text: Travers looks up at Matheson, who has just arrived with Wright. Travers is instantly furious at the challenge to authority.
+7) 21) dialog: (looking down at it) Your parents must be proud. (to Wright) What the fuck is this about?
+7) 23) text: Matheson draws out a file and hands it to Travers.
+7) 25) dialog: (laughs) There isn't a hell of a lot anyone can do but observe. (beat) This is the most protected shipment we've got -- and the most useless for a thief. Those bills aren't in circulation. You think five thousand dollar bills are easy to pass? Who the fuck would try?
+7) 26) text: Matheson hands Travers a folder.
+7) 28) text: We look over Travers' shoulder at the photos, which are a blurry, all blown up from different surveillance pictures and all of them show ERIC QUALEN.
+7) 29) dialog: Who is he?
+7) 31) dialog: Could you get to the part where I'm supposed to care?
+7) 33) dialog: (turning away) Thanks for the tip. But I've got work to do.
+7) 35) dialog: You have my sympathy, but -- (exasperated) There's a reason we do things this way, all right? Armored cars can be hijacked. Trains can be derailed. But nobody can get to us in flight. The only time this is on the ground is at the mint, or on the Presidio runway in San Francisco. Either way, someone would have to shoot his way past a couple of thousand guards.
+7) 37) dialog: If you're worried about an inside job, forget it. I checked the plane from top to bottom an hour ago. And these three are my best against. Even if one of them did go skydiving, they wouldn't get far. Each case has an electronic tracer with a range of one hundred miles.
+7) 38) text: Travers pulls a tracking device about the size of a watch out of his jacket pocket. The small screen shows three re blips at rest -- matching the three currency cases.
+7) 39) dialog: (facing down Matheson) I haven't lost a bill in eight years. And I'm not scrubbing this shipment because you scare easily.
+7) 41) text: Travers, angry, turns to Wright. Wright clearly doesn't l this either, but is resigned to it.
+7) 43) text: Travers turns back to a smiling Matheson, looking like he rather kill him instead, as we --
+11) 0) dialog: who looks tense -- we MOVE AROUND the cabin and find two relaxed Treasury agents are dozing on the opposite side o plane, their arms chained to the currency cases. Matheson edgy. Another AGENT offers some condescending reassurance
+11) 7) dialog: (to other agents) Stay put! Don't panic, goddammit!
+11) 8) text: Travers moves into
+11) 11) dialog: (cool) No -- we're going too fast, and we're too high up. Push flaps forward twenty degrees and drop to five thousand feet.
+11) 18) dialog: What the hell are you doing --
+11) 20) text: Travers puts his hands out and walks forward -- slowly, backing Matheson into the cabin. Not in surrender, but as he's calming a nutcase. The other agents see this and don know which way to jump.
+11) 21) dialog: Calm down -- give the gun to me --
+11) 23) dialog: He's losing it --
+11) 26) text: The other two agents get behind Matheson and rapidly disa him. Travers pulls out his gun with a slow, leisurely mov
+11) 27) dialog: Don't make me laugh.
+11) 28) text: Travers FIRES his gun three times, one for each agent's chest -- the agents are cut down, realizing too late what happened. A fourth SHOT knocks Matheson over a seat as if been kicked. Travers puts his gun away and puts on a radi headset as he goes to a window.
+11) 29) dialog: (to mouthpiece) Move into position.
+15) 2) dialog: is also wired to a safety line by his own jet's open door
+15) 3) dialog: (into radio) More -- more -- keep it coming --
+15) 5) dialog: -- takes it in and clips it to a ring at the top of the j doorway.
+15) 6) dialog: (into radio) Locked on. Move into lateral position.
+15) 12) text: Travers pulls the two dead FBI agents out of the compartment -- one is dressed in a flying suit like the p one in a suit like Travers.
+15) 14) dialog: So what. He'll sift though a plane that went down in a storm -- (gestures to bodies) -- find enough pulverized bone for six men heroically killed in the line of duty -- (finds three suitcases) -- and just enough of the right kind of ash.
+15) 15) text: Travers opens one of the cases, which is identical to the others -- except that it's full of one dollar bills. He's thought of everything.
+15) 16) dialog: We get twenty-one gun funerals and they write off fifty million. It's perfect, as long as you hold the plane steady -- so concentrate.
+15) 17) text: Travers moves back into the cabin.
+15) 21) dialog: (into radio) On my way.
+15) 22) text: Travers steps back into the cockpit and flips a toggle sw over and LED --
+15) 25) dialog: That charge is going to blow both engines -- the plane'll go down like a rock, so clip yourself on to the end of the cable with the money as soon as I get over. (an afterthought) And make sure you bring the right cases.
+15) 26) text: Travers heads back into the cabin and hooks his harness t cable between the planes.
+15) 27) dialog: (into the headset) Dip the plane. I'm coming over.
+15) 31) dialog: (shouting too) Somehow, I didn't think you'd have waited for me if I'd sent it first.
+15) 40) dialog: (shouting to cockpit) Get underneath the jet! The cases will slide over!
+15) 47) dialog: (shouting) Lower! Get underneath it!
+18) 21) text: She speaks for all of them -- especially a still-seething Qualen. Travers pulls out the tracer monitor for the case The tracer screen shows three distinct blips -- the trace have survived the fall.
+18) 22) dialog: Now -- we call the police.
+20) 0) text: Kristel is on the radio, as Travers and Qualen hang back. Kristel's voice is panicked but she can't suppress a grin
+22) 0) text: Kristel hangs up the radio and smiles, Travers and Qualen standing behind her. Qualen lightly applauds.
+29) 3) dialog: (into mouthpiece) Have they arrived? (two beeps in response) Good. Return to the plane and cover your tracks.
+29) 18) dialog: slumped down on the cabin floor, a blanket wrapped around him -- he's shaking and is generally giving a good impres of a shock victim. Hal rushes to him.
+29) 20) text: "Weak", Travers whispers as Hal gives him some water.
+29) 22) text: Travers won't quit -- Hal leans down to hear.
+29) 23) dialog: (hoarse whisper) Where?
+29) 25) text: A gun barrel moves INTO VIEW as it presses against Hal's Heldon and Ryan are right behind him. Travers instantly d his act.
+29) 26) dialog: You said "we". Where are the rest?
+29) 29) dialog: What's for dinner? (Kynette tosses packet) Ugh. "Dried Beef Slices With Barbeque Sauce." (tosses it back) Try and make this edible.
+29) 31) dialog: Hal Tucker. (to Gabe) Where's yours?
+29) 33) text: Qualen tosses it to Travers, who glances through it.
+29) 34) dialog: Gabe Walker... (notes photo of Maggie) Very attractive.
+29) 36) dialog: Too bad. Let me tell you what's on for today. We'd like you to help settle a wager. You see, we lost some luggage --
+29) 37) text: Travers motions to Ryan and Qualen, who shove Gabe and Ha forward in the cabin. Travers takes out the tracer monito
+29) 38) dialog: (showing them the blips) See these? Now I've bet the gentlemen behind you that you know enough about this mountain range to lead us to each of these, quickly, and that you'd be happy to do so. They bet me you couldn't and wouldn't. (guns are clicked) Now tell me -- who wins?
+29) 40) dialog: Good dog. Now let's get this expedition started.
+30) 2) dialog: Okay. Connect the dots.
+31) 12) dialog: Hold it. (beat)                       It's up there.
+31) 15) dialog: Fetch.
+31) 17) dialog: (laughs) You've got to be kidding.
+31) 19) text: Travers nods -- Kynette pulls a roll of tape out of Gabe' confiscated pack and throws it to him.
+31) 21) text: Travers hesitates, but nods -- Kynette throws him the iro spikes. Gabe fastens them to his boots. Gabe looks up -- this is going to be tough, even for him. spite of the cold, he takes off his gloves -- that's how these holds are -- and he meticulously tapes up his hands his fingers.
+31) 25) dialog: (indicating wall) Where could he go?
+31) 27) dialog: (shrugs) You win. Kill him when he gets down.
+31) 32) dialog: (impatient, shouting) Lower it down -- now!
+31) 36) text: With the case, Gabe moves, back against the wall, on a le that skirts off the overhand -- from Travers and Qualen's point of view. Gabe can hardly be seen -- since the mount bulges out as it goes up. Gabe's got a slight edge of cov
+31) 37) dialog: (shouts to Heldon) Get him!
+31) 45) text: Travers pushes the barrel away from Hal, shaking his head
+31) 46) dialog: We can't. (frowning) And he knows it.
+31) 57) dialog: apoplectic, stares at seventeen million dollars worth of settling far below. He takes his gun, furious, and fires
+31) 61) text: Travers turns and pins Hal against the wall with the gun, ready to kill him too. But he's stopped by Qualen.
+31) 63) text: Travers, furious, takes the gun out of Hal's face.
+31) 64) dialog: (to Hal) Get us out of here.
+31) 65) text: Hal stares at Travers with absolute fury -- but he leads gang back along the ledge in retreat.
+34) 0) text: Travers has his gun pressed to Hal's temple.
+34) 1) dialog: No tricks, no procedural codes, no personal messages -- just tell them everything's under control and you're taking care of the wounded.
+34) 5) text: Travers yanks away the radio.
+34) 6) dialog: Have her come up.
+34) 8) text: Travers relents and hands the radio back.
+36) 1) dialog: (snatching radio away) Good. You might live longer than your friend. Now -- (takes out monitor) -- what?
+36) 4) dialog: (suspicious) It looks like a winding route.
+36) 6) text: Travers digests this, and motions Hal to move on as we --
+40) 0) text: Hal is leading Qualen, Travers and the others upward -- t is a comparatively easy route, but still tiring. The sun down beyond a facing, taller mountain. Ryan is huffing an puffing -- the altitude and exertion are getting to him. allows himself a smile at his discomfort.
+42) 1) dialog: Is this it?
+42) 3) dialog: Good. Get out of the way.
+42) 4) text: Travers takes out the tracer and starts following the bli
+42) 7) dialog: (smiling) This way.
+42) 9) dialog: is excited now -- he can't even wait for Qualen's flashli he intuitively races through the trees, dividing his atte between his surroundings and
+42) 11) dialog: shoves his way through some small pines -- he can see the blinking of the red tracer light ahead through the branch
+42) 12) dialog: (calling behind) It's over here!
+42) 13) text: Travers shoves his way through the branches, and heads fo light -- but something's wrong -- Qualen comes up behind Travers and shines the light on
+42) 15) dialog: (incredulous) He's still alive. (furious) He's still alive! (to Qualen and the others) He can't be far away -- spread out!
+42) 17) dialog: (to Hal, brandishing gun) Put your hands on your head.
+43) 0) text: The expedition has holed up here for the night -- Travers Qualen look upset. Things aren't going as well as they'd hoped. Kristel tries to get some candy out of a vending machine that's obviously empty. Kynette saws at some camp with a distinctive knife -- the handle is a set of brass knuckles. Delmer guards Hal, who is bound, and seated by souvenir photo stand.
+48) 0) text: Travers, Qualen and the rest of the expedition head out o shack, a little groggy. Odds are no one got much sleep. Travers shoves Hal toward a sketchy "YOU ARE HERE" map of mountain range, and hands him the tracer monitor.
+48) 1) dialog: Still interested in staying alive?
+48) 4) dialog: Show me.
+48) 5) text: Travers shoves Hal forward -- the others follow.
+48) 19) text: Travers, Delmer, Kristel and Kynette are startled, but do immediately comply. This throws Brett off his stride.
+48) 21) text: Travers smiles and steps closer to Brett. The others walk in front of Hal. Travers actually laughs.
+48) 22) dialog: "End of the line"? That's classic. (beat) You've got style. So, I'm going to give you a three-count to figure out how to turn the safety off.
+48) 23) text: Brett doesn't even look down -- he responds by FIRING a s burst over Travers' head.
+48) 32) dialog: (turning to face Hal) Time to --
+48) 33) text: Travers sees that Hal is gone -- he's escaped in the confusion.
+49) 0) text: runs into the woods -- Qualen and Kristel, hearing Hal's retreat, run after him.  But Travers stops for a second - has spotted
+49) 2) dialog: runs in the direction of the footprints and quickly close gap between him and
+49) 4) dialog: bursts out of the woods and runs up right behind him --
+49) 9) dialog: does likewise, still firing -- his clip runs out, but thi only buys Evan an extra few seconds --
+49) 11) dialog: is right behind him, and has slapped a fresh clip in plac but before he can shoot --
+49) 19) dialog: stops firing -- but doesn't seem unhappy at all.
+49) 26) dialog: who doesn't see Gabe -- he's laughing at Evan's desperati which ends as his death scream is cut off. Hal is led over to the spur, with the other gang members behind him. Hal looks as angry as Gabe.
+49) 28) dialog: No such luck. (to Hal, smiling) Cheer up. Everyone should die in a spot this beautiful.
+51) 1) text: Hal leads the gang forward -- and keeps casting anxious glances back at them. And beyond them. Travers notices th
+51) 2) dialog: Forget about it. He's smart, but he's not invisible.
+51) 3) text: Hal looks back. Travers is right. There's absolutely no w Gabe can come up behind them without being seen.
+53) 0) text: A vista. From this point, you can see everything else in mountain range. The only thing left that's taller is the Tower, a hundred yards away. Between the two mountains li drop of a mere four thousand feet. Hal has led the rest of the gang up to the edge. Travers approaches him, furious.
+53) 1) dialog: I thought you said there was an easy way across.
+53) 7) dialog: Don't be. Lead on.
+53) 8) text: Hal is surprised to see Kynette pull a harness out of his -- the one Travers used earlier. Disappointed, Hal leads downward climb, looking several hundred yards to
+60) 5) dialog: Look -- this part is nothing, believe me --
+62) 4) dialog: (over radio) Then get the money, kill him and get back here. Now.
+67) 0) text: Qualen whizzes across the wire on the harness, easily mak it to where Hal, Travers and Kristel are waiting.
+67) 1) dialog: Don't tell me --
+67) 3) text: Travers takes a couple of heavy swings at the connecting with Hal's axe. Qualen grabs his arm before he can take a third swing -- and looks at his watch.
+68) 0) text: Hal is leading the expedition upward along a ledge -- the radio, in Travers' pack, comes to life.
+68) 2) text: Travers stares daggers at Qualen. Qualen looks to his wat
+73) 17) dialog: What happened?
+73) 19) text: Qualen gestures helplessly, putting the radio in Hal's re Hal takes advantage of this, throws off Travers, and grab radio.
+73) 32) text: Hal, stunned, looks at the radio, realizing Qualen tricke him into detonating the bomb. Travers, grinning, takes th radio from Hal and pats him on the back.
+73) 33) dialog: Thanks. We couldn't have killed him without you.
+73) 45) dialog: There's our ride out of here. Everyone out of sight -- except you, Kristel. (hands her radio) Make the distress call. You're so good at it.
+77) 9) text: As if to punctuate this, Frank -- and the now ruined pilo side door -- fall to the ground. The radio continues to s as Travers grabs Frank's discarded gun.
+77) 10) dialog: (to Kristel) Answer that.
+81) 1) dialog: I almost believed you myself.
+81) 2) text: Travers smiles and turns, looking at
+81) 5) text: Travers moves up behind Hal and kicks him.
+81) 6) dialog: Time for number three. Unless you want to have a longer conversation with him elsewhere.
+81) 8) text: Travers kicks him in the face, knocking him into the snow
+81) 10) text: Travers puts his gun at Hal's forehead and shrugs.
+81) 11) dialog: Suit yourself. You see, we just had a little interface with several branches of the federal government -- one of whose members I know has zero imagination -- and I can tell you, the cavalry just isn't going to make it by this week. (beat) No, you're taking us where we want to go. Because you want to return that favor and you want to do more than watch. You want to kill me -- more than anything, even more than you want to keep on breathing, and with a little more time you pray you'll get that chance. (tightens trigger) Am I right?
+84) 0) text: Dedicated agent Travers leans in reasonable comfort again the helicopter and keys his headset mike.
+84) 1) dialog: Qualen. How far along are you?
+84) 4) dialog: (over radio) We have less than half a tank of fuel, Eric -- if we burn it up treasure hunting we'll never get off this rock. Now -- how far away are you?
+84) 8) dialog: (over radio) Time we have -- Walker's dead, Wright's an idiot. And our guide --
+84) 10) dialog: (over radio) As soon as he becomes a convenience instead of a necessity -- kill him.
+87) 23) dialog: is trying to repair the helicopter door when the call com
+87) 24) dialog: Have you found the money?
+87) 26) text: Travers, furious, flings the door aside, jumps into the c and starts the rotor.
+87) 45) dialog: banks the helicopter around and up for another pass.
+89) 0) text: On the heat scope. The blip that represents Hal -- vanish Delmer, who has caught up, is at the edge of the tree-lin area -- he looks up at Travers.
+89) 1) dialog: (keying headset radio) He's hiding twenty yards in -- be careful.
+90) 4) dialog: (keying headset radio) He's right behind you!
+90) 9) dialog: (into radio) Something's moving fast down the hill -- is it Tucker?
+90) 11) dialog: (over radio) Answer me! Is it Tucker?
+90) 17) dialog: who is apoplectic -- he's just shot one of his own men.
+90) 19) text: Travers looks down at the heat scope -- blank.
+92) 0) text: rushes down to Delmer's body -- in the snow, he finds the discarded machine gun and holds it up, but stray bullets Travers' fusillade have made it inoperable. Hal tosses it aside and checks Delmer's bloody pockets for more weapons Nothing. Just a couple of machine gun clips, and the bolt
+93) 5) dialog: is at the controls.
+94) 0) text: Maggie finally stops -- Travers lands the copter and open passenger door, keeping his gun trained on her.
+94) 1) dialog: Hop in. I know someone who'd like to see you again before he dies.
+95) 45) dialog: (into radio) Qualen -- Kristel -- come in --
+95) 52) dialog: (into radio) You wanted to make a trade earlier, Walker -- still interested?
+95) 54) text: Travers cuts off the radio, smiles, and banks the helicop down around the mountain wall.
+95) 71) text: Travers recognizes the voice -- frowning, he snaps off th radio and banks the helicopter up over the top --
+95) 74) text: Travers helplessly flies in low, tight circles over Gabe the spur -- if he shoots Gabe, the money falls too, Trave presses his gun at Maggie.
+95) 75) dialog: (into radio) I'll kill her --
+95) 77) dialog: (into radio) All right. Drop the gun first.
+96) 0) text: Travers has no choice but to give in -- he gives Maggie t handcuff key, and she frees herself as he flies away from spur, touching the copter down on the mountain top.
+96) 1) dialog: (to Maggie) Get out.
+97) 0) text: Travers flies the copter up and over, until he and it are feet away from Gabe's position on the spur. Gabe is buffe by the copter's wind, but stands firm. Travers levels his at Gabe through the open passenger door as Gabe heaves th pack in. Travers doesn't even look down -- he just stares Gabe with hate as he prepares to shoot.
+97) 2) text: Puzzled, Travers takes his gun hand and rips open
+97) 4) dialog: stares down, incredulous -- as he does --
+97) 7) text: Travers falls back in his seat and loses control of the helicopter -- it spins around, and Gabe has to instantly flatten to avoid the tail when it swings at him -- Gabe l down as --
+97) 25) dialog: knows he has Gabe nailed -- he shoves the stick forward -
+97) 32) dialog: smiles -- nothing to worry about -- he speeds ahead --
+98) 0) text: -- Travers, who has been shaken to the opposite side of t copter, reaches into his jacket and pulls out the pistol took from Frank -- he aims at Gabe --
+98) 6) dialog: leaps from the falling copter and grabs Gabe's leg -- Gab struggles to support both of them, but Travers, weakened his wound, loses his grip on Gabe's leg -- he stares up i terror at Gabe as he clutches Gabe's snow-slick boot --
+98) 8) text: Travers slides off and away --

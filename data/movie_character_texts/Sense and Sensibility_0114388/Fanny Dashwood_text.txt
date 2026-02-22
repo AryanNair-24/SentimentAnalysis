@@ -1,0 +1,87 @@
+3) 1) dialog: 'Help them?'
+4) 1) dialog: What do you mean, 'help them'?
+4) 3) text: FANNY goes very still. JOHN gets nervous.
+4) 5) text: FANNY slowly turns back to the mirror.
+4) 6) dialog: Oh, without question! More than  amply...
+4) 8) text: A pause as FANNY turns and looks at him again.
+7) 0) text: JOHN and FANNY are on their way out of London.
+7) 2) dialog: What brother on earth would do half  so much for his real sisters--let  alone half-blood?
+7) 4) dialog: There is no knowing what they expect.  The question is, what can you afford?
+9) 0) text: JOHN and FANNY are waiting as the OSTLERS make the final  adjustments to their carriage. The LANDLORD hovers, waiti for a tip.
+9) 2) text: He displays some coins in his hand. FANNY removes one and nods.
+9) 3) dialog: But if she should live longer than  fifteen years we would be completely  taken in. People always live forever  when there is an annuity to be paid  them.
+11) 0) text: JOHN and FANNY joggle on.
+11) 2) dialog: Indeed. Although to say the truth, I  am convinced within myself that your  father had no idea of your giving  them money.
+11) 4) dialog: --and what on earth can four women  want for more than that? Their  housekeeping will be nothing at all  they will have no carriage, no horses,  hardly any servants and will keep no  company. Only conceive how comfortable  they will be!
+13) 0) text: JOHN and FANNY's carriage approaches Norland.
+13) 1) dialog: They will be much more able to give  you something.
+14) 0) text: JOHN and FANNY are about to get out.
+14) 2) dialog: Your father would be proud of you.
+15) 2) dialog: My mother is always in excellent  health, thank you. My brother Robert  is in town with her this season and  quite the most popular bachelor in  London! He has his own barouche.
+15) 3) text: In the brief silence which follows this, FANNY surreptiti checks the hallmark on her butterknife.
+15) 5) dialog: Indeed, yes. Edward is the eldest  Mamma quite depends upon him. He is  traveling up from Plymouth shortly  and will break his journey here.
+15) 9) text: FANNY looks about, barely able to conceal her satisfactio
+17) 0) text: FANNY, MRS DASHWOOD, ELINOR and JOHN are at breakfast.  MARIANNE enters. ELINOR catches her eye and indicates FAN with a slight motion of her head. MARIANNE makes a face.
+17) 2) text: FANNY is rather startled.
+17) 3) dialog: Good morning, Marianne.
+17) 8) dialog: Edward is due tomorrow. And my dear  Mrs Dashwood, in view of the fact  that he will not be with us for long,  I wondered if Miss Margaret would  mind giving up her room to him the  view is quite incomparable from her  windows and I should so much like  Edward to see Norland at its best.
+20) 0) text: Everyone except MARGARET is present. EDWARD has just shak bands with ELINOR. He behaves with great respect to the  DASHWOODS and seems embarrassed by FANNY's pro prietorial air.
+20) 1) dialog: But where is Miss Margaret? I declare,  Mrs Dashwood, I am beginning to doubt  of her existence! She must run  positively wild!
+20) 7) dialog: Stables! Edward--your windows overlook  the lake.
+20) 9) text: MARIANNE and ELINOR look at each other in surprise. FANNY looks furious. MRS DASHWOOD smiles warmly at EDWARD. CLOSE on ELINOR. She is impressed.
+21) 0) text: FANNY is walking with EDWARD, who looks at the pictures w interest.
+21) 1) dialog: They are all exceedingly spoilt, I  find. Miss Margaret spends all her  time up trees and under furniture  and I have barely had a civil word  from Marianne.
+21) 3) dialog: That is no excuse.
+22) 0) text: FANNY leads EDWARD in. She sniffs with distaste.
+22) 1) dialog: I have never liked the smell of books.
+22) 3) text: As they speak, EDWARD notices a large atlas retreating  apparently all by itself across the floor. Someone is  obviously under the table, pulling it out of sight. He  registers it and immediately moves in such a way as to sh it from FANNY. He turns back, searching for something to  divert her.
+22) 5) dialog: Oh yes! I shall have it pulled down  to make room for a Grecian temple.
+22) 8) text: And he ushers FANNY out, flicking a quick glance over his shoulder at the fugitive's foot.
+24) 0) text: EDWARD is standing outside keeping a discreet lookout. Th door is half open and he can hear ELINOR trying to coax  MARGARET out. FANNY walks by with a BUTLER to whom she is giving instructions. EDWARD pretends to examine the mould and she passes on unsuspecting.
+26) 0) text: JOHN is reading a newspaper. MRS DASHWOOD sits across fro FANNY, who thumbs through a fashion-plate magazine. ELINO is at a desk by the window writing a letter we see the wo 'of course we should like to leave as soon as possible'.  Suddenly she hears a commotion outside. MARGARET runs pas the window brandishing a stick. EDWARD follows, and proce to teach her the first principles of sword-fighting. They feint and parry, EDWARD serious and without a hint of  condescension, MARGARET concentrating furiously. EDWARD  suddenly turns, as though feeling ELINOR's gaze. She smil but looks away quickly.
+27) 14) text: CAM tilts up to find MRS DASHWOOD on the middle landing o the staircase, smiling down at them. CAM tilts up yet fur to find FANNY on the landing above, watching EDWARD and E with a face like a prune.
+30) 0) text: Dinner is over. JOHN and FANNY are examining plans of the Norland estate, looking for somewhere to build a hermitag EDWARD is reading out loud. ELINOR embroiders and listens MRS DASHWOOD and MARIANNE make up the rest of the audienc the latter in a state of high impatience.
+33) 0) text: FANNY is standing by the window looking out. We see her P of ELINOR and EDWARD walking in the garden. MRS DASHWOOD enters, pauses for a moment and then joins F at the window. FANNY pretends not to have been watching b MRS DASHWOOD looks down at the lovers and then smiles swe at her.
+33) 2) text: FANNY does a bit of quick thinking.
+33) 3) dialog: We have great hopes for him. Much is  expected of him by our mother with  regard to his profession
+33) 5) dialog: And in marriage. She is determined  that both he and Robert will marry  well.
+33) 7) dialog: Love is all very well, but  unfortunately we cannot always rely  on the heart to lead us in the most  suitable directions.
+33) 8) text: FANNY lowers her voice confidingly.
+33) 9) dialog: You see, my dear Mrs Dashwood, Edward  is entirely the kind of compassionate  person upon whom penniless women can  prey--and having entered into any  kind of understanding, he would never  go back on his word. He is quite  simply incapable of doing so. But it  would lead to his ruin. I worry for  him so, Mrs Dashwood. My mother has  always made it perfectly plain that  she will withdraw all financial  support from Edward, should he choose  to plant his affections in less...  exalted ground than he deserves.
+35) 2) text: He is devastated. FANNY is thrilled. MRS DASHWOOD looks a him with compassion and then at ELINOR, who is trying to  keep calm.
+35) 6) dialog: Oh, a cottage! How charming. A little  cottage is always very snug.
+35) 11) dialog: Edward has long been expected in  town by our mother.
+35) 12) text: MRS DASHWOOD ignores FANNY.
+35) 38) dialog: Edward! Edward!
+35) 39) text: They turn to find FANNY powering down upon them, waving a letter. EDWARD steps back, glancing almost guiltily at EL who is as confused as we are.
+35) 40) dialog: I have been all over for you! You  are needed in London this instant!
+35) 42) dialog: No, no, that will not do. Family  affairs are in chaos owing to your  absence. Mother is quite adamant  that you should leave at once.
+35) 43) text: FANNY is determined. She obviously has no intention of le him alone with ELINOR. EDWARD turns to ELINOR, frustratio in every muscle, his jaw set tight.
+35) 45) text: FANNY drags EDWARD off, leaving ELINOR to gaze sadly afte them.
+96) 0) text: The PALMERS, MRS JENNINGS, JOHN, FANNY, LUCY, ELINOR and  MARIANNE are walking through the arcade. Additional wealt has evidently encouraged FANNY sartorially and she sprout as much fruit and feathers as a market stall. LUCY is hol ELINOR's arm in a pinionlike grip. MRS JENNINGS is gossip with CHARLOTTE. MARIANNE's good looks are heightened by her feverish  expectation of seeing WILLOUGHBY at every step, and many  young men raise their hats to her and turn as she passes.
+96) 2) text: FANNY stiffens. LUCY's sharp eyes dart hither and thither MRS JENNINGS senses gossip. ELINOR steels herself.
+96) 5) text: FANNY smiles glacially.
+96) 6) dialog: My brother, Mrs Jennings--Edward  Ferrars.
+102) 2) text: MRS JENNINGS then spots FANNY, who is conducting a desult conversation with an overpowdered ACQUAINTANCE. She drags ELINOR, MARIANNE and LUCY over to her.
+102) 4) dialog: Indeed not. John is just gone to  fetch my brother--he has been eating  ices.
+102) 9) text: FANNY has seen JOHN threading his way towards them and wa at him. There is someone behind him. LUCY preens. JOHN bo to them.
+102) 16) text: ROBERT looks ELINOR up and down. He exchanges glances wit FANNY before he speaks.
+102) 42) text: WILLOUGHBY looks extremely uncomfortable and glances towa a group of very smart PEOPLE who are watching him closely Central to this group is a SOPHISTICATED WOMAN who frowns him proprietorially. WILLOUGHBY shakes MARIANNE's hand briefly. Behind her, MR JENNINGS is giving an animated commentary to FANNY and JO while LUCY whispers in ROBERT's ear as they go past to jo the set.
+102) 57) text: They almost have to drag MARIANNE away. MRS JENNINGS turn back to the DASHWOOD party. FANNY and JOHN have practical imploded with embarrassment and are distancing themselves much as possible from the source. LUCY and ROBERT are dan nearby.
+106) 0) text: FANNY, JOHN and ROBERT are drinking chocolate together.
+106) 2) dialog: Miss Grey has fifty thousand pounds.  Marianne is virtually penniless.
+106) 4) text: He trails off. FANNY exchanges an alarmed glance with ROB She thinks fast.
+106) 5) dialog: My love, I would ask them with all  my heart, but I have already asked  Miss Steele for a visit and we cannot  deprive Mrs Jennings of all her  company at once. We can invite your  sisters some other year, you know,  and Miss Steele will profit far more  from your generosity--poor girl!
+113) 0) text: LUCY is sitting with FANNY, who is doing some pointless  basketwork. LUCY hands FANNY rushes.
+113) 2) dialog: Nonsense. You will marry far better  than either of the Dashwood girls.
+113) 4) dialog: You have ten times their sense and  looks.
+113) 6) dialog: There are qualities which will always  make up for that, and you have them  in abundance. It would not surprise  me if you were to marry far and away  beyond your expectations.
+113) 8) dialog: Ah ha! I am glad to hear of it. Is  he of good breeding and fortune?
+113) 10) dialog: Tush! They will allow it as soon as  they see you, my dear.
+113) 12) text: FANNY looks up, curious to know more.
+113) 13) dialog: My dear, I am the soul of discretion.
+113) 15) dialog: I can assure you I am as silent as  the grave.
+113) 16) text: LUCY leans forward to whisper in FANNY's ear.
+114) 1) dialog: Viper in my bosom!
+115) 0) text: FANNY is trying to drag LUCY out of the house. ROBERT and JOHN are trying to reason with her. FANNY loses her grip falls backwards. LUCY flings herself into ROBERT's arms.  ROBERT falls over.
+186) 0) text: A large wedding party is gathered outside the church. The entire village is present--CHILDREN, FARMERS, LABOURERS,  SHOPKEEPERS, and all our PRINCIPALS. We see MRS JENNINGS a gigantic mauve bonnet, CHARLOTTE and MR PALMER, SIR JOH MRS DASHWOOD, MARGARET, THOMAS, JOHN and FANNY, who is dr in a fantastically inappropriate concoction, and some MEN regimental uniform. The path to the church is strewn with wild flowers and  everyone holds a bunch of their own. The church bells sta to peal, and a great cheer goes up as the door opens and  BETSY comes out holding the bridal cake aloft. The bride and groom appear: MARIANNE, in white lawn, and  COLONEL BRANDON in full uniform. Behind them come EDWARD his parson's garb and, on his arm, ELINOR as matron of ho CLOSE on them as they watch the party moving away. MARIAN and BRANDON make their way forwards, everyone throws thei flowers over them, whooping and singing. An open carriage decked with bridal wreaths comes to meet them, and BRANDO lifts MARIANNE in. His melancholy air is all but gone and radiates joyful life and vigour. MARIANNE also looks extr happy - but there is a gravity to her joy that makes her  seem much older. According to the custom of the time, BRANDON throws a lar handful of six pences into the crowd, and the VILLAGE CHI jump and dive for them. The coins spin and bounce, catching the sun like jewels. hits FANNY in the eye. She reels and falls over backwards into a gorse bush. CAM pulls back as the wedding processi makes its glorious way from the church. We draw away into the surrounding countryside. Then we see, on the far edge of frame, very small, a MAN  sitting on a white horse, watching. It is WILLOUGHBY. As draw back further still, he slowly pulls the horse around and moves off in the opposite direction.

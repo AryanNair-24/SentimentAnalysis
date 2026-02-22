@@ -1,0 +1,30 @@
+64) 17) dialog: I don't think you understand, Blade. Whistler meant for us to help you.  When he died, he activated an emergency protocol.  All his knowledge --
+64) 19) dialog: --was transferred to our servers here.
+67) 0) text: CLOSE ON King buttoning his collar back up.  Blade, Abiga and Sommerfield are gathered around him.
+83) 0) text: Sunlight slices down through skylights, bathing Blade, Ki Abigail, and Sommerfield in its warmth.  Zoe has joined t She's still cautious and shy, but she's also curious.
+83) 7) dialog: A biological weapon.
+83) 8) text: Sommerfield moves to her Braille keyboard, types.
+83) 10) dialog: For the last year I've been~working with synthesized DNA in order to create an artificial virus targeted specifically at vampires.  We're calling it DayStar.
+83) 13) dialog: (sighing) We've tried it on a number of captive subjects.  We've got the disease vector worked out fine -- it's easily transmittable.  But the lethality in vampires is still spotty.
+83) 15) dialog: Vampire DNA is a hodge-podge of different genes, mixed in with all sorts of useless junk DNA.  Because Dracula's the progenitor of the vampire race, his DNA is still pure.  It hasn't been diluted by a hundred generations of selective mutation.  It still has all the necessary cellular compounds for the virus to code to.  We get his blood, we can boost Daystar's viral efficacy to a hundred percent.
+117) 0) text: Later, Sommerfield and Hedges consult with Blade and Abig
+117) 5) dialog: The virus is harmless to humans.  So we decided to go after the vampires' food source.  The one thing we know for sure about vampires is that they have to drink blood.  If we manage to pull this off, we'll be able to contaminate every blood source on the planet.  They won't have anyone left to feed on.
+117) 7) text: Sommerfield lowers her head, thinking.
+117) 8) dialog: If the vampires are trying to isolate the hereditary factor in Drake that makes him immune to sunlight, they'll require certain kinds of laboratory equipment and provisions.  For instance, there's an enzyme called Taq Polymerase.  And there are only a limited number of suppliers. (beat) Give me a few hours.  I'll see if I can't hunt us up some leads.
+120) 7) dialog: I think I've got a lead.
+121) 0) text: Sommerfield stands at her computers, reading a tactile Br display.  Blade and Abigail are nearby.
+121) 1) dialog: Biomedica Enterprises.  They've been buying up all sorts of supplies -- Taq polymerase, bone marrow growth supplement, genetic sequencing enzymes.
+126) 2) text: At the same time, Sommerfield is reading aloud to Zoe, wh sits nearby.  The book is The Emerald City of Oz and it's Braille.  Sommerfield scans with her fingers.
+126) 3) dialog: 'The reason most people are bad is because they do not try to be good.  Now, the Nome King had never tried to be good, so he was very bad indeed.  Having decided to conquer the Land of Oz and to destroy the Emerald City and enslave all its people, King Roquat the Red kept planning ways to do this dreadful thing, and the more he planned the more he believed he would be able to accomplish it --'
+130) 2) text: Sommerfield looks to the storage area.  The silence is unnerving.  She turns off her voice-synthesis program.  T closes the book.
+130) 3) dialog: Guys?  You okay --?
+130) 5) dialog: Zoe, go find some place to hide, sweety.
+130) 6) text: Zoe hesitates.  Sommerfield senses it and lashes out with cane, BANGING a rack of equipment, startling the girl.
+130) 7) dialog: Damnit, go!  Get out of here, Zoe!
+130) 8) text: The girl scurries away.  Sommerfield TAP-TAPS with her ca moving towards the storage area.  She finds a gun cabinet feels around with her hands, locates an electronic pistol
+131) 0) text: Sommerfield enters.  Dex and Hedges are sprawled on the f before her, having been slaughtered.  Blood is everywnere She doesn't see them, of course.  But we do.
+132) 0) text: As Sommerfield's AGONIZED SCREAMS echo through the wareho Zoe rushes into the bathroom, looking for a place to hide considers the lockers, discounts them.  Then settles on -
+135) 0) text: Blade and Abigail enter.  The place is dark.  They know instinctively that somethong is wrong. Blade tries a nearby light.  The power is out.  They both their weapons.  Blade turns on a FLASHLIGHT.  They move o the darkness -- SHADOWS loom everywhere.  It's like a tornado touched dow inside.  Equipment lies smashed, tables and chairs have b overturned.  Sommerfield's lab area has been destroyed.
+145) 4) dialog: (on video) If you're watching this, I'm already dead. If Zoe's still alive, I want you to promise you'll take care of her.  I've been reading her The Oz books every night.  We just started The Emerald City of Oz, the one with the Nome King --
+145) 6) dialog: I think I've managed to cultivate a workable strain of the Daystar virus.  As a precaution, I transmitted the genetic sequence to Caulder, in case our main stock was destroyed.  In order for it to achieve maximum lethality, you'll need to interfuse it with Drake's blood.  If it works, any vampires in the immediate vicinity should die almost instantly.  After that, it should take only a few weeks for the virus to spread throughout the rest of the world.
+145) 8) dialog: There's one other thing, Blade.  You need to know that there's a chance the virus could destroy you too.  Because you're a hybrid, I'm not sure whether your immune system will be able tolerate it. (beat) I'm sorry.  We didn't have enough time to properly test it.

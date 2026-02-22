@@ -1,0 +1,124 @@
+21) 3) dialog: "Hey, guys, it's Susan. Matt, are you there? Pick up...
+21) 6) text: SUSAN (ON MACHINE) (cont'd) Okay, well, I'm leaving work now so you can try my cell, or just call me at home later."
+21) 8) text: SUSAN (ON MACHINE) "I just wanted to make sure Mom is okay. Yesterday was... a bit weird, and -- I'm just a little worried."
+21) 12) text: SUSAN (ON MACHINE) "Listen, just give me a call when you can, okay?"
+31) 5) text: MATTHEW Jen?   Susan?
+38) 1) text: SUSAN (American, late 20s) enters, with two bottles of wi
+38) 2) text: SUSAN Hello?
+38) 5) dialog: You guys in the kitchen?
+39) 0) text: Susan walks in, puts the wine on the table.     Looks aro
+39) 2) dialog: (calling out:) I thought you guys were gonna cook!
+39) 4) text: SUSAN Hi, Mom.    How are you feeling?
+39) 9) text: There's a CREAK from above.   Susan looks up at the ceili
+39) 14) dialog: I guess I came at a bad time, huh?
+40) 1) text: Twisting a corkscrew into a wine bottle, Susan leans into foyer, yelling upstairs:
+40) 3) dialog: I'll give you guys one minute to finish whatever you're doing up there and get your butts down here.
+40) 8) text: We CRANE BACK DOWN to see Susan in the kitchen.   She's p a glass of wine and sighs impatiently.
+40) 11) dialog: I mean it, guys.
+40) 14) dialog: Well, I warned you. Prepare to be emotionally scarred.
+40) 16) text: -- MATTHEW is sitting there, hands on his knees, looking harried. Susan YELPS.
+40) 17) text: SUSAN Matthew!   Don't scare me like that!
+40) 20) dialog: What's going on?   Where's Jennifer?
+40) 27) dialog: I hope she's not long.    I'm absolutely starving.
+40) 28) text: Matthew looks back down at his feet.      Susan misreads:
+40) 30) dialog: I knew it. You guys forgot to go shopping, didn't you?
+40) 35) dialog: Are you okay? What's going on?
+40) 40) dialog: Did something happen?    What's --
+40) 44) text: Susan watches as he repeats himself, over and over. scared, she finally SHAKES HIM.
+40) 46) dialog: What are you talking about?
+40) 48) text: He steps forward.   Susan backs away.
+40) 50) dialog: Stop it, Matthew.
+40) 57) dialog: Matthew, please --
+40) 60) text: Susan fumbles with the front door. She gets it open and r out just before Matthew reaches her.
+41) 3) text: It's SUSAN, approaching with MATTHEW, JENNIFER and EMMA.
+41) 4) text: Susan shakes Suzuki's hand and they exchange a greeting i Japanese. She turns to her brother.
+41) 6) dialog: This is Suzuki-san, he's the Real Estate broker.
+41) 11) dialog: He said: "welcome to Tokyo". And that you must be very important to your company for them to rent this place for you.
+41) 15) text: Matthew grins.   Susan rolls her eyes.
+42) 1) text: Everyone enters, checking the place out. Suzuki and Susan slip off their shoes. As Matthew steps into the foyer:
+42) 3) dialog: Your shoes.
+42) 9) dialog: Even in your own house.
+42) 10) text: Suzuki smiles as Matthew and Jennifer take off their shoe Susan says something to him in Japanese and he laughs. Th walk down the hall, and Matthew and Jennifer follow.
+43) 8) text: Susan asks Suzuki a question in Japanese, and he responds
+43) 12) text: SUSAN He says no one has lived in this house for three years.
+43) 14) text: Susan asks Suzuki in Japanese.    He shrugs.
+44) 0) text: Susan comes up the stairs, worried.
+44) 1) text: SUSAN Mom?   Where are you?
+44) 4) text: Susan looks inside -- Emma isn't there. She's about to le when something catches her attention. She walks to
+44) 5) text: THE CLOSET. The door is open. Susan kneels down, looking something inside it. She picks it up --
+44) 6) text: -- it's the CERAMIC CAT Karen found earlier. As Susan examines it, she notices something on the wall of the clo (which we don't see). Her face softens, and she smiles.
+44) 8) text: SUSAN (under her breath:) Take a pill, will ya?
+44) 9) text: Susan stands and walks out of the room. But we stay in th closet, PANNING TO REVEAL the closet wall. It's covered w BLACK CRAYON, low to the ground, the work of a child. The images are dozens of BLACK CATS.
+45) 3) text: Susan enters, placing the ceramic cat on THE SHELF where Karen found it earlier. Except Susan faces it INTO THE RO
+45) 5) dialog: C'mon, Mom. You know what the doctor said about stairs.
+45) 9) text: SUSAN Mom?   What is it?
+48) 3) text: -- SUSAN'S OFFICE. She's working late. She wears a phone headset while she types lines of code into her computer.
+48) 6) text: SUSAN (INTO PHONE) Hey, guys, it's Susan. Matt, are you there? Pick up... Okay, well, I'm leaving work now so you can try my cell, or just call me at home later.
+48) 8) text: SUSAN (INTO PHONE) I just wanted to make sure Mom is okay. Yesterday was... (MORE)
+48) 10) text: SUSAN (INTO PHONE) (cont'd) a bit weird, and -- I'm just a little worried. Listen, just give me a call when you can, okay?
+49) 1) text: Susan walks through the hallway. She hears a strange scraping sound -- it sounds as though something is being dragged.
+49) 2) text: Susan turns around, but the hallway looks normal. Is it j her imagination?
+49) 3) text: The sound starts again, coming closer. Susan gets scared opens the door to the emergency stairwell beside her.
+50) 0) text: The hallway is chilly -- Susan shivers. She's about to st walking down when she looks up, noticing THE LIGHTS at th top floor FLICKERING.
+50) 2) text: Susan looks disconcerted as she starts walking down...
+50) 3) text: Then we hear the SCRAPING SOUND again. Startled, Susan pauses and looks down, over the railing.
+50) 5) text: SUSAN (calling out:) Is anybody there?
+50) 7) text: Susan's breath catches in her throat as she looks up --
+50) 9) text: Susan nervously looks back down -- the SCRAPING is even closer. And then, for an instant, she sees A SKINNY PALE HAND on the railing two floors down.
+50) 10) text: Terrified, Susan starts to back up -- but stops as she realizes that the darkness from above is almost upon her.
+50) 14) text: Then Susan sees A FINGERTIP of the hand at the corner of floor where she stands, and A HEAD COVERED WITH BLACK HAI slowly crawling up on the wall.
+50) 15) text: Susan's mouth opens in a silent screen. With nowhere to escape, she opens the same door and rushes back into the hallway --
+50) 25) text: -- but her lucky RABBIT'S FOOT gets caught on the door la Panicking, Susan struggles to free herself --
+50) 26) text: Through the crack, she sees the darkness continuing to co down. The lights on Susan's floor FLICKER.
+50) 27) text: Susan looks up to see A PALE BOY on the landing to the hi floor. The SAME BOY is also standing on the landing of ea floor above. They're all staring down at Susan.
+50) 28) text: Susan screams as she desperately tries to yank her chain free... and then she sees THE PALE HAND clutching her rabbit's foot!
+50) 29) text: The door shuts, and Susan falls backwards into the hallwa
+51) 1) text: A cramped room. Susan stands in the doorway, animatedly talking to a young SECURITY GUARD sitting at a desk lined with VIDEO MONITORS. She's speaking rapidly, and shaking:
+51) 2) text: SUSAN (IN JAPANESE) In the stairs... there was... something... a strange person... all the lights were going out...
+51) 3) text: The Guard doesn't understand her -- in her panic, Susan's MISPRONOUNCING HER WORDS, and she knows it.
+51) 4) text: Susan takes a breath, frustrated and frightened.
+51) 5) text: SUSAN (pleading, in English) Please. Help me.
+51) 8) text: The Guard leaves.   Susan doesn't look thrilled to be alo
+51) 26) text: Susan takes a breath and sits down, trying to relax. It's obvious that she feels safer, here in the Security Room.
+51) 29) text: Susan leans toward the monitor for a better view.
+51) 31) text: ON SUSAN:   her eyes are glued to the screen.   Waiting.
+51) 33) text: SUSAN leans back, exhaling.    Relieved.
+51) 35) text: And Susan GASPS, sitting upright, as she sees --
+51) 38) text: ON SUSAN: she recoils from the screen in horror, unable t tear her gaze away. Her mouth opens in a silent scream, h eyes widening as she watches --
+52) 0) text: Susan bursts out of the security room and runs through th empty lobby, towards the front doors.
+52) 6) text: Susan rushes out of the front doors and runs to the stree She frantically hails a cab and gets in.
+52) 12) text: Susan presses herself in the corner of the back seat, pur clutched tightly in her white knuckles.
+53) 1) text: Susan rushes through the front doors, clutching her purse strap with both hands. Shaken, just wanting to get home.
+54) 1) text: Susan tries to regain her composure as the elevator rises She closes her eyes and leans against the wall --
+55) 1) text: Susan gets out of the elevator, moving quickly to her apartment at the end of the hall.
+56) 1) text: Susan enters. She takes a long, deep breath. Safe at home She sits at her kitchen table, laying her purse down.
+56) 3) text: Susan's home phone RINGS, and she jumps.    She stares at for a moment, then tentatively answers:
+56) 4) text: SUSAN (INTO PHONE) Hello?
+56) 13) text: SUSAN (INTO PHONE) Matthew!   Are you alright?
+56) 15) text: SUSAN (INTO PHONE) 702.   I'll buzz you in.
+56) 18) text: Susan goes to the door and looks through the peephole.
+56) 20) text: Susan opens the door.
+56) 22) dialog: I don't know what you're up to, but this is not cool --
+56) 25) text: Susan cries out and drops the phone. It BREAKS OPEN on th hallway floor as Susan slams her apartment door.
+57) 1) text: Susan quickly draws the chain lock. Then she builds the courage to step forward, and look through the peephole --
+57) 3) text: Susan backs away from the door, shaking in fright.
+58) 1) text: Susan enters, turning off her cell phone and unplugging t bedroom phone from the wall.
+58) 4) text: Susan's breathing slows. But she looks around the room, still anxious -- it's too quiet in here. Her panic builds But she's alone in the room, isn't she?
+58) 5) text: As we MOVE IN on Susan, the room starts to become quieter The SOUND OF TRAFFIC from outside, the HUMMING REFRIGERAT in the kitchen... everything fades to a stifling silence.
+58) 6) text: And Susan notices, all right.    Her breath, now suddenly catches in her throat.
+58) 11) text: Susan stares at it.   She finally stands, and --
+59) 1) text: Relieved, Susan turns away --
+59) 3) text: Scared, Susan turns back to the sink. Water is now GUSHIN OUT from the faucet, filling up a bowl in the sink.
+59) 11) text: Susan screams and runs back to her bedroom --
+59) 13) text: 62b   INT. SUSAN'S APARTMENT - BEDROOM - NIGHT
+59) 15) text: SUSAN Please... stop it...
+59) 17) text: Susan is so terrified that she almost faints.
+59) 22) text: Susan suddenly CRIES OUT, her head tilting back, her body abruptly going stiff. We soon see why:
+59) 23) text: A LUMP begins to rise at the foot of the bed. A big one. Moving slowly up Susan's body. Reaching the edge of the quilt, which slowly rises --
+59) 25) text: Susan SCREAMS, and is abruptly pulled under the covers --
+68) 2) text: SUSAN'S MESSAGE replays, and he listens carefully. As it ends, he turns to see NAKAGAWA standing in the doorway.
+68) 5) text: He shows Nakagawa a PHOTO of Matthew and Susan, brother a sister, grinning at the camera.
+76) 18) text: Then she notices the CERAMIC CAT on the shelf, FACING HER (where Susan left it).   Apparently she's not a big fan o felines: she uneasily turns it to FACE THE WALL instead.
+89) 6) text: ON THE SCREEN: the 10TH FLOOR HALLWAY from Susan's office building, and the door leading to the stairwell.
+89) 8) text: Then the door suddenly bursts open and Susan, terrified, from the stairwell and down the hall.
+89) 13) text: ON SCREEN: -- the SECURITY GUARD appears in the hallway. Susan saw earlier, he opens the door to the stairwell and looks inside. Then he closes the door and continues o.s.

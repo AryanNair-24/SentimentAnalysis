@@ -1,0 +1,14 @@
+38) 0) text: Matt knocks on a door.     An exhausted Scottie slouches a wall. The DORM SUPERVISOR appears in a nightgown.          The the background.
+38) 2) dialog: Yes, hello, Mr. King.
+38) 4) dialog: Did you call Administration?
+38) 9) dialog: All right, let's see what we can do.
+39) 3) dialog: Will you both keep it down?      It's around the corner.
+39) 5) dialog: That's the wrong door.
+39) 7) dialog: Go back to sleep, Yuki.
+39) 9) text: The dorm supervisor knocks on an adjacent door.         A later a ROOMMATE opens, groggy from sleep.
+39) 10) dialog: Wake your roommate, sweetie.
+39) 12) dialog: Where is she?
+40) 0) text: A coat over her nightgown, flashlight in hand, the dorm supervisor leads Matt and Scottie across glistening moist grass. They hear LAUGHTER. TWO FIGURES grow more distinct in the moonlight -- GIRLS hitting golf balls -- ALEXANDRA KING and friend EMILY.
+40) 1) dialog: Girls! What do you think you're doing out here?
+40) 7) dialog: You don't talk like that here.      This is unacceptable behavior!
+40) 18) dialog: What did I say about the language?

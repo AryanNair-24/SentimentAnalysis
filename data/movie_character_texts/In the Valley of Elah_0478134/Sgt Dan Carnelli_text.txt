@@ -1,0 +1,18 @@
+17) 1) dialog: Sgt. Deerfield?
+17) 5) dialog: (walking him in) You should have let me know you were coming; I would have cleared some time. Bet the base has changed a lot since your day.
+18) 0) text: Hank and Sgt. Carnelli sit. A corporal brings in coffee.
+18) 2) dialog: We asked, of course. (re: coffee) Thanks. (to Hank) A lot of men are just coming back today from a 72. I don't want you to think I'm not concerned, but where these boys have been, it's a miracle more of them don't blow outta here for a few days. For the last eighteen months they couldn't drink, couldn't even flirt with a woman. They touch down, the first thing they do is find a bar and a girl. I expect your son will come stumbling in looking for a shot of penicillin.
+19) 0) text: Men come and go in their Green BDUs. Sgt. Carnelli and Ha weave through the men. Carnelli spots CORPORAL STEVE PENN 22, calls to him:
+19) 1) dialog: Penning.
+19) 3) dialog: This is Specialist Deerfield's father. (CONTINUED)
+19) 8) dialog: Mr. Deerfield wants to take a look at his son's quarters.
+19) 25) dialog: (taken aback) This is Specialist Deerfield's dad, we've come to look at his bunk.
+19) 27) dialog: You report this to the CQ?
+20) 6) dialog: We lost a man. Hank nods. He opens the closet; all his son's clothes are still there. He searches the top shelf, then pulls a duff bag out of the bottom; checks the contents.
+20) 7) dialog: That's your duffel, right?
+20) 9) dialog: Tried to convince him to use the one he was issued, it was like talking to a wall. Hank walks to the small bureau, opens it, sees the very n folded, neatly pressed t-shirts and shirts squared away i the drawer. Hank suddenly stops and looks around the room just now noticing something by its absence.
+20) 11) dialog: Sorry?
+20) 13) dialog: You saw the door. (MORE ) (CONTINUED)
+20) 16) dialog: Property theft is a real problem. I guess that hasn't changed since your stint.
+20) 19) dialog: I'd like to, but I can't let you remove anything.
+132) 1) dialog: Thanks, I'll send someone over to get him.

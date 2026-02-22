@@ -1,0 +1,36 @@
+42) 0) text: Tesander, a stolid New England well-digger, the soul of  industry and candor, attacks the earth. Jim, followed by  Muriel and Bill, walks into scene, stands by, watching hi After a moment:
+42) 4) text: Tesander looks up, shuts off his motor.
+42) 5) dialog: Yep?
+42) 7) dialog: (considers a moment;  then:) It's comin'.
+42) 12) text: Tesander patiently stops his motor, looks up.
+42) 13) dialog: Yep?
+42) 15) text: Tesander looks at his equipment, considers.
+42) 16) dialog: Oh -- 'bout a hundred and ninety  feet.
+42) 18) dialog: (thinks it over; he's  not one for snap  judgments; then:) Yep.
+42) 21) dialog: Up to you.
+42) 23) dialog: (thinks it over) Hit some limestone yesterday.
+42) 25) dialog: That's bad.
+42) 27) dialog: And right now it looks like we're  coming into some shale.
+42) 29) dialog: That's good.
+42) 32) dialog: 'Course it might turn out to be  sandstone.
+42) 34) text: Tesander shakes his head, "No."
+42) 36) text: Tesander shakes his head, "No."
+42) 37) dialog: Can't tell. Might be good. Might be  bad. One thing you know -- you got  plenty of shale, sandstone and  limestone.
+42) 42) dialog: Oh, it's there, all right. (he smiles, nods,  tips his hat to Muriel) Just got to be patient.
+44) 4) text: Tesander walks into scene, looks down at the water.
+44) 5) dialog: Tsk, tsk, tsk.
+44) 7) dialog: Yep.
+44) 9) dialog: Yep.
+44) 11) dialog: Yep.
+44) 13) text: Tesander considers a moment, rubs his chin, then:
+44) 14) dialog: We-ll, way it seems to me, Mr.  Blandings, over here the water's  down around six feet and over there  it's -- uh --
+44) 15) dialog: -- down around two hundred and twenty- seven feet.
+70) 93) text: In the b.g. Mr. Tesander enters, cap in hand, stands ther nervous and embarrassed.
+70) 96) text: Tesander clears his throat. Jim turns.
+70) 99) dialog: (shyly) Well, Mr. Blandings, there's a matter  of twelve dollars and eighty-six  cents.
+70) 101) dialog: (simply) You don't understand, Mr. Blandings.  This twelve dollars and eighty-six  cents -- you don't owe me, I owe  you.
+70) 104) dialog: (taking out money) Found I overcharged you. Almost three  feet.
+70) 106) dialog: Better count it. I think it's all  there.
+70) 109) dialog: Well, I guess I'd better be gettin'  along. (looking around) Sure got a pretty place here. (at door; pauses;  looks back) I'll tell Mr. Zucca about the dinner  jacket.
+71) 0) text: As Tesander is about to exit, Bill, dressed, starts down stairs.
+71) 2) dialog: Yep.

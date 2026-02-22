@@ -1,0 +1,17 @@
+1) 0) text: - the same woman, KATHY, standing at the window of an observation room. She is absentmindedly twisting a metal bracelet on her wrist, which is featureless except for an imprinted seven digit number. Through the glass, she is watching NURSES and SURGEONS prepping a twenty six year-old man for operation. TOMMY. SHOOTING SCRIPT 24TH MARCH p2.
+91) 0) text: Through glass, we see a MALE NURSE enter HANNAH'S ward * room.
+93) 0) text: KATHY sits on a chair in a lounge area. * A few donor patients sit around watching TV, or playing * ping pong. All are damaged - with eyes, teeth, or limbs * missing. * She is asleep, dozing with her head resting to the side. Observed by one of the patients, a young FEMALE NURSE * approaches KATHY. *
+93) 1) dialog: You’re Hannah's carer, aren’t you? KATHY stirs, and opens her eyes.
+93) 2) dialog: Hannah's carer.
+93) 4) dialog: I’m sorry. It’s always hard. But there were complications.
+93) 6) dialog: Unexpected complications. Beat.
+93) 9) dialog: Please. KATHY follows the NURSE to the ward desk.
+94) 0) text: KATHY stands at the ward desk, filling out the forms that the NURSE puts in front of her. As KATHY writes:
+94) 1) dialog: Are you going to leave now? We can quite easily provide you with a bed tonight if you've got a long drive. This is not a real offer.
+94) 3) dialog: Always better to wake at home, isn’t it? KATHY smiles perfunctorily at the NURSE’S polite small talk, and starts on the next form - - then seems to notice something. SHOOTING SCRIPT 24TH MARCH p75. It’s on the COMPUTER SCREEN just behind the desk. KATHY swivels the screen in order to read it. On the screen is a medical information readout, and a sma passport-sized photo of RUTH.
+94) 4) dialog: Is it someone you know?
+94) 6) dialog: Oh. Beat.
+94) 8) dialog: .«.. Were you close?
+94) 10) dialog: Well, Ruth isn’t as strong as we would hope at this stage.
+94) 12) dialog: I think she wants to complete. And as you know, when they want to complete, they usually do.
+114) 0) text: RUTH is strapped to an operating table. She is surrounded by SURGEONS and NURSES, who are operati on her opened torso. Her eyes are open, but glazed. RUTH blinks once. The alarm on the heart-rate monitor starts to sound. No one takes any notice. RUTH flatlines. The operation continues, unaffected. Concludes. And the various operating staff finish up. Scrub down. Exit. Leaving RUTH, her cadaver, on the operating table. Alone.

@@ -1,0 +1,534 @@
+1) 37) dialog: Any chance, Your Honor, for a short recess?
+2) 0) text: Kevin heading quickly away from the courtroom.     Gettys right on his heels.
+2) 1) dialog: Lloyd, as your attorney, I'm advising you to get the fuck away from me.
+2) 3) dialog: The wife. The kid. The outrage. You definitely had me fooled.
+2) 5) dialog: You know what I'm thinking? Why don't we put you on the stand and you can jerk off for the judge.
+2) 7) dialog: Get the hell out of my way. Gettys standing aside, as we --
+3) 0) text: An ancient upstairs facility. Kevin standing at the mirror. Frozen there. Identity crisis. Morality crisis. He takes off his wedding ring. Letting cold water run in the sink. His eyes never leaving the mirror.
+3) 5) dialog: Not now, Larry.
+3) 7) dialog: Fuck off.
+4) 0) text: Kevin walking through. His game face.      A court office opening the doors and --
+5) 0) text: Barbara on the stand.   Everyone in place. KEVIN
+5) 4) text: It's not my fault. KEVIN
+5) 19) dialog: You ever pass notes in class, Barbara? Maybe a note that made fun of Mr. Gettys?
+5) 21) dialog: No? Never called him a 'disgusting pig monster'?
+5) 23) dialog: Your Honor, I've pre-marked this Defense Exhibit A...
+5) 26) dialog: (right to the note)
+5) 31) dialog: You wrote this in his class.
+5) 33) dialog: 'He's a huge hog beast. He probably eats a thousand pancakes for breakfast.' You're writing here about Mr. Gettys, aren't you?
+5) 35) dialog: Have you ever had a party at your house when your parents were away? (waiting)
+5) 38) dialog: Credibility and bias.
+5) 42) dialog: The word special came up in your testimony earlier. You claimed that Mr. Gettys asked you whether you had special feelings, if you felt special. (beat)
+5) 48) dialog: Is this game sexual in nature? (waiting)
+5) 51) dialog: This special party, Barbara, this was the first time you told the story about Mr. Gettys.
+5) 53) dialog: I've spoken to the other children who were there that day. Can you think of anything else, Barbara, they might have told me about that party?
+5) 55) dialog: (right at Barbara)
+5) 58) dialog: You threatened those children, didn't you?
+5) 60) dialog: You told them to falsely claim that Mr. Gettys had hurt them, didn't you?
+5) 64) dialog: Because if they didn't go along you were going to tell everyone about this special party.
+5) 66) dialog: So you made up a story. A special story, about a math teacher -- a disgusting pig monster -- you didn't like. That's what really happened, isn't it?
+5) 69) dialog: I have no further questions, Your Honor. Chaos -- court officers struggling with Barbara's Father and people yelling and Gettys hugging his wife and son and the gavel banging like mad and Kevin just sitting there, staring at the floor, completely drained, emotionally, morally, physically and -- In the back of the room, a man. He's black. Elegant. Amused by the scene. His name is LEAMON HEATH. MARY ANN LOMAX leans in behind her husband.      She is a doll. We love her.
+6) 0) text: It's a rock and roll joint. Florida style. But it's early and empty. Kevin at the bar with Mary Ann, two LAWYER friends, the Reporter and someone's girl friend. 12 shot glasses, two rows of six. A perfect tequila pour and --
+6) 2) text: To the best damn trial lawyer in Alachua County. Kevin, subdued, watches the rest of them drink.
+6) 5) text: I told you already, we're not gonna discuss that damn case anymore. Done. (to Kevin)
+6) 7) dialog: I'll drink to that. (as he does)
+7) 0) text: Drunk frat boys laughing as they exit. A BAR BAND in the distance. Kevin done pissing. Moving for the sink, when he suddenly stops. Freezes. A mirror above the sink. There he is. The guy that set Gettys free.
+7) 3) text: I didn't want to disturb your party. KEVIN
+7) 7) dialog: From New York. HEATH
+7) 8) text: You've never lost a case. KEVIN
+7) 11) dialog: Really. (amused now)
+7) 18) text: Kevin takes the check.    Still looking at it, as we --
+9) 0) text: Inside the church. Plain and functional. Poor but faithful. A trio -- electric guitar, accordion, tambourine -- playing a hymn. Forty-five voices raised in song. The tempo is ragged and the pitch shaky, but the feeling is strong. They mean it. The CAMERA FINDS -- MRS. LOMAX. Kevin's mother. Forty- si Singing her heart out. A woman with faith, in the presence of her Lord. The CAMERA FINDS -- Kevin. In the very back. Standing in the doorway. Halfway in. Halfway out. Shadow. Light. Waiting.
+10) 0) text: Post-service.    Mrs. Lomax and Kevin walking to her car.
+10) 1) dialog: It's two weeks at most.
+10) 6) dialog: Every dog gets a day.
+10) 8) dialog: Mom.
+10) 10) dialog: Look, how you fixed for cash?
+10) 12) dialog: (an envelope) I put a couple hundred in here...
+10) 14) dialog: Mary Ann typed out the numbers for you -- phone, the flights -- it's all in there.
+10) 16) dialog: (with a smile) Babylon.
+10) 18) dialog: (rolls with it) Couldn't forget it if I tried.
+10) 23) dialog: 'Thou mighty city. In one hour hast thou mighty judgement come.'
+10) 25) text: Kevin gathers her in.         Kissing her good-bye, as we
+11) 0) text: Darkness. Where are we? A door opens in another room -- VOICES -- KEVIN and MARY ANN. They're LAUGHING. Coming in from a big night out. For an instant -- light -- we glimpse a great hotel suite -- and then --
+11) 1) dialog: -- wait -- leave 'em off --
+11) 3) dialog: -- close your eyes -- do it --
+11) 5) dialog: Okay.    Stop.
+12) 0) text: Kevin behind Mary Ann with his hands over her eyes. takes his hands away, but her eyes stay closed...
+12) 1) dialog: Okay.    Open your eyes.
+14) 1) dialog: 'Go ahead...' (in her ear)
+14) 5) dialog: I don't know... looks to me like that dress is in your way.
+14) 9) dialog: No, ma'am. In fact, I hardly ever think at all.
+16) 8) dialog: Dump him. While you're at it let's get rid of number six, eight, and I'd say lose number twelve, except the prosecutor's gonna fuck up and do it for us.
+16) 10) dialog: She's my first pass.
+16) 12) dialog: You see his shoes?
+16) 17) dialog: He polishes those shoes every night. He makes his own clothes. He may look like a brother-with- an-attitude to you, but I see a man who's got a shotgun under his bed and woe betide the creature who steps into his garden. (beat) And number six? Your favorite? She's damaged goods.
+16) 19) dialog: No. There's something missing from her. She's wrong. (eyes to the pool) She wants on this jury. Somebody hurt her and she wants revenge.
+16) 21) dialog: (honestly) I don't know.
+16) 25) text: The defendant staring a hole into Kevin, as we --
+17) 0) text: Kevin leaving court.    In no hurry to get home.    He li it here.
+19) 0) text: Mary Ann watching TV alone. Remnants of a room service dinner. They've been living here for weeks now. The maids have started to give up. Kevin enters looking beat.    Grabs a cold french fry.
+19) 2) dialog: Every now and then she gets one right.
+19) 4) dialog: They deliberated for thirty-eight minutes.
+19) 10) dialog: Yeah.   Except one.
+19) 12) dialog: (a big ole smile) Not fucking guilty.
+19) 14) dialog: Thirty-eight minutes.     My jury.
+19) 16) dialog: Put on something that's gonna be easy to take off later. We are going out, girl!
+20) 0) text: Milton, Chadwick, Waters. Those words written in stone on the wall. The decor is stark, dramatic, awesome. The receptionist is simply stunning. Kevin, wearing his best suit, walking with Heath.
+21) 5) text: Kevin slowing as they pass an open doorway --
+23) 0) text: Heath is now far ahead.    Kevin rushing to catch up --
+24) 0) text: Kevin about six steps into it when suddenly, he looks down. Stops. Completely spooked.
+24) 6) dialog: (nonplussed) Great.
+24) 8) text: Kevin sucks it up.      Starts walking.    Up ahead, noth but an open door.
+25) 0) text: First of all it's round. And large. The walls are made of stone. No windows. There are dramatic shafts of natural light from above. Stark and clean to the extreme. No paper anywhere. Kevin standing there.      Taking in the space.
+25) 2) text: Kevin turns.       There he is.
+25) 4) dialog: No.  Please. (his hand) Kevin Lomax.
+25) 6) dialog: Nice to meet you.
+25) 8) dialog: Very well.    Thank you.
+25) 13) dialog: She sure has. It's been great. The whole thing's been great.
+25) 15) dialog: I couldn't say.
+25) 17) dialog: Out of law school. Five years in the Jacksonville D.A.'s office.
+25) 19) dialog: I like to be in court.   I didn't plea out a lot.
+25) 21) dialog: Takes a little getting used to.
+25) 23) dialog: Yes it does.
+25) 25) dialog: Prosecutor dropped the ball.
+25) 29) dialog: I didn't say that.
+25) 31) dialog: How's this? I began the case with a clear conscience.
+25) 33) dialog: The men's room. (beat) Upstairs men's room in the Duval County courthouse. There's a hole in the wall. Straight through to the next room. (smiles) I spent five years listening to juries deliberate.
+25) 35) dialog: Love it all you want, just don't repeat it. I'm not sure the Florida Bar Association would appreciate it.
+27) 4) dialog: It's peaceful.
+27) 6) dialog: I never got to know my father. He passed away before I was born. My mom raised me. Just the two of us.
+27) 8) dialog: She wasn't married the first time.
+27) 10) dialog: I don't think it's easy anywhere. (re the view) Holy shit...
+27) 12) dialog: She's a preacher's daughter. She's tough. She's worked in the same poultry plant for as long as I can remember. I think she's up to eight-fifty an hour. She's got a church she really likes, so she's usually either there or they go out, they do a lot of volunteer work.
+27) 16) dialog: So they say.
+27) 18) dialog: I'm on parole.     Early release for time served.
+27) 21) dialog: You don't have to sell me on New York.
+27) 23) dialog: Are we negotiating?
+27) 25) dialog: Why do you need a criminal department?
+27) 27) dialog: Are you offering me a job?
+27) 31) dialog: What thing is that?
+27) 33) dialog: When do we talk about money?
+29) 0) text: Turn of the Century. Elegant. Two apartments per floor. JACKIE HEATH waiting here. She is black, early thirties, and very, very attractive. The elevator doors open.     Mary Ann steps out, followed Kevin and Heath.
+29) 6) dialog: So it's just two apartments per floor?
+30) 0) text: A dream. Twelve-foot ceilings. Huge, oversized rooms. Crown moldings. A huge central hallway. And light. Kevin and Mary Ann walking through. Blown away.
+31) 0) text: French doors opening. Kevin walks out. Mary Ann just behind him. They stand there, staring at the park.
+31) 4) dialog: I sure as hell hope so.
+31) 6) dialog: Look, Mare, I'm only getting behind this if you're on board. You want to go home, I'm with you.
+31) 8) text: She smiles first.      Kevin pulling her toward him, as w
+32) 0) text: Incredible and extreme. Forty people -- SENIOR PARTNERS and department heads -- seated at the table. They've been going around the table introducing themselves to Kevin. Nearing the end now --
+32) 6) text: Christabella and another woman running in.       Taking s quickly. Christabella beside Kevin.
+32) 17) text: Kevin finds Christabella's hand at his side.
+32) 21) text: Kevin watching Barzoon fold.       Watching the circle fo
+33) 2) dialog: (kidding) I guess it'll do.
+33) 12) dialog: The Moyez case?
+35) 0) text: Kevin and his DRIVER peering across the street.
+36) 0) text: A storefront botanica. Insane colors. Rusted iron grates covering two tiny cataract windows. A steel door is open. There's a sick-looking DOG tied to the doorknob; he begins BARKING wildly, as he sees -- Kevin walking from the car.    Suit and tie.     Briefcas Turning, as he hears --
+36) 7) dialog: I'm looking for Phillipe Moyez.
+36) 8) text: She moves aside.    Kevin enters --
+37) 1) dialog: I called this morning, I'm not sure who I spoke with. (awkward silence) I'm his lawyer. I have a card... (finding it) They said he would meet me here. Phillipe Moyez.
+37) 3) text: Kevin taking a very deep breath, as we --
+38) 0) text: Darkness. A door opening above us. A BOY -- maybe ten -- standing there. Kevin behind him.
+38) 4) dialog: Look, I'm not sure I'm making myself clear here.
+39) 1) dialog: You're saying he's down here? (incredulous) In the basement? In the dark?
+40) 0) text: The Boy, still laughing, starts down the stairs -- into the darkness. Kevin hesitates. Sucks it up. Crouching not to hit his head as he goes down into --
+42) 0) text: Kevin waiting as the last light goes on --
+42) 2) text: Kevin, spooked, wheels around --
+42) 6) dialog: Mr. Moyez? (as he nods) We've never met. I'm a lawyer. I'm here about the animals.
+42) 8) dialog: I'll be arguing your case with the city. I need to ask you some questions. (gets folder) I've done a little preliminary research -- precedent -- cases in the past that dealt with Santeria and Vou--
+42) 10) dialog: Okay.   Is there a name?   Or...
+42) 12) dialog: Okay.  I'll get right into that. (scribbling away) The animals. Let's start with that, then.
+42) 15) dialog: Look, Mr. Moyez, I'm going to need your help with this.
+42) 20) dialog: Perhaps we could start at the beginning?
+42) 22) dialog: Mr. Moyez?
+42) 24) dialog: (scanning file) Merto. Assistant District Attorney Arnold Merto.
+42) 27) dialog: What are you doing, Mr. Moyez?
+42) 30) text: Moyez now with a hammer. And the nail. Driving it into the tongue. Kevin backing away, as we --
+45) 2) dialog: It's a health code case. And it's a loser. So what's the point? (watching her)
+45) 5) dialog: The smart thing to do is make a deal. Plea him out and suppress the tape.
+45) 7) dialog: Yeah, well, let him wait. (beat)
+49) 0) text: Kevin working late.   Across the hall Pam is going home.
+50) 1) dialog: That's a veal roast, Your Honor. U.S.D.A. approved and stamped. Eight days ago, in Kansas City, two men pushed a calf into a steel frame as a third man fired a high- voltage staple-gun into the animal's skull. Men kill animals and eat their flesh. Phillipe Moyez killed a goat. He killed a goat. And he did it at home, in a manner consistent with his religious beliefs. Now some people may find it bizarre.
+50) 5) dialog: It's certainly not a religious practice performed by everyone. It's not as common as, say, circumcision. It's certainly not as common as the belief that wine is transformed into blood. It's not even as common as the handling of poisonous snakes to prove one's faith. But Phillipe Moyez isn't two thousand miles away in a stockyard. He doesn't use electricity to kill. And worst of all... (holding up the roast) Phillipe Moyez is not shrink- wrapped.
+50) 7) dialog: Your Honor, the city timed this police action to catch my client exercising his constitutionally- protected right to religious freedom.
+50) 10) dialog: Exactly, Your Honor. And I'd like to move at this time for an immediate directed verdict for dismissal.
+50) 15) dialog: I'm aware of that, Your Honor, which is why I feel confident in requesting a dismissal.
+51) 0) text: Empty and dark. Kevin, Moyez and Pam leaving the courtroom. All smiles. Moyez shaking his hand and thanking him, and then, from behind them, the sound of one person CLAPPING --
+51) 4) text: Kevin, trying to look modest and failing, as we --
+52) 0) text: A street-food stall. Milton paying for Kevin's eggroll. And they're walking...
+52) 6) dialog: You gotta be kidding.
+52) 8) dialog: So what the hell are they doing?
+52) 10) dialog: I figure you came to court to make sure I didn't fuck this up.
+52) 14) dialog: What's that?
+52) 16) dialog: Never worked a jury didn't have a woman.
+52) 19) dialog: So why did you come down today?
+52) 23) dialog: What?
+52) 28) dialog: I believe in the presumption of innocence.
+52) 32) dialog: Something like that.
+52) 34) dialog: I was kidding.
+52) 36) dialog: Excuse me?
+52) 39) text: Kevin taking the token, as we --
+53) 0) text: Kevin just coming in from work. The apartment is starting to come together. Still not enough furniture, but the sparseness reads as elegance.
+53) 1) dialog: (walking through) Mare... Mare...?
+53) 5) dialog: What's all this?
+53) 9) text: Kevin smiles.    Drops his briefcase.     Drops his pants
+54) 0) text: Kevin and Mary Ann in their go-to-meeting clothes.      G up. Nervous.
+54) 2) dialog: You can handle this.
+54) 4) dialog: Something nice.
+54) 8) dialog: Promise.
+54) 10) dialog: Instinct.
+56) 0) text: Twice the size of Kevin's place. Decorated and furnished to the max. Seventy-five guests and ten in staff. The crowd is very smart, sleek, and experienced at these sort of things. Mary Ann's hand squeezing Kevin's just a bit more tightly as Diana leads them into the throng, and we begin --
+57) 2) dialog: huddled with Jackie and Mary Ann as Heath brings them drinks from the bar.
+57) 14) dialog: Excuse me?
+61) 0) text: Kevin talking with another lawyer. Looking over as Christabella glides through the room.
+63) 1) text: Kevin standing at the rail.    He looks over.   Christabe not ten feet away.
+63) 3) dialog: Sorry?
+63) 5) dialog: Sort of. Not exactly. I'm about twelve floors down. What about you?
+63) 7) dialog: Sounds like fun. Downtown, I mean. I'm just getting to know the city.
+63) 9) dialog: More.
+63) 12) dialog: Amen.
+63) 14) dialog: You mean, tonight?
+63) 21) dialog: I doubt it.
+63) 23) dialog: Excuse me?
+63) 25) dialog: Depends on the view.
+63) 30) text: Kevin can't help watching her walk away.
+64) 0) text: Getting louder and wilder. Mary Ann looking lost. Searching for Kevin... He's not here... not there...
+65) 0) text: Silence.   Going up.   Kevin, Heath, and Barzoon.
+66) 0) text: Mary Ann still looking for Kevin. Scanning faces. Stopping as she reaches a door. Opening it and --
+68) 0) text: The penthouse. One enormous room. Grand scale everything. Otherworldly. Staggering. Of special, special interest: a huge Bas Relief dominates an entire wall. Carved into the marble are human forms -- young, naked bodies swimming in a hypnotic chaos of clouds. Milton is on the phone. Two lines going. The dialogue is unimportant, we'll not understand it anyway -- he's going back and forth between Korean and Russian -- brokering some emergency deal. Heath is at the bar, mixing drinks. Barzoon has a cigar. Kevin just standing there gaping at the space.
+68) 1) dialog: Is there more to it?
+68) 3) dialog: And a bedroom?
+68) 5) dialog: Where does he sleep?
+68) 7) dialog: Where does he fuck?
+68) 27) dialog: Look, I appreciate the vote of confidence, but maybe Eddie's got a point here.
+69) 0) text: It's late. Dark. Kevin tiptoeing through the apartment -- turning the corner and --
+69) 2) dialog: Stop. Reset. I'm upstairs, I'm with Milton and Barzoon and there is a very good possibility that I'm about to catch a triple homicide defendant who also happens to be the largest real estate developer in the city. I had to bail on the party!
+69) 4) dialog: Mare... did you hear me?
+69) 6) dialog: For three whole hours... (as she's walking) You gotta be kidding, right?
+69) 7) text: No, she's leaving.    Kevin left there, alone --
+73) 0) text: ALEXANDER CULLEN turns back from the edge. Forty-five. Tan, grief-stricken, and sleep deprived. The space is huge and bare. Unfinished concrete. Wide, open views. Kevin, Milton, and Barzoon standing there.
+73) 7) dialog: You don't have time to shop, Mr. Cullen. (the newspaper) Jury selection started this morning at every breakfast table in the city. You lost round one. This is what people know. They know you and your wife were living separately. They see this maid -- Elucinda -- a sixty-eight-year-old grandmother supporting seven children. And then there's your stepson, a ten-year-old with a bullet in his brain. Those are already powerful images in the mind of the public.
+73) 9) dialog: I'm telling you how it looks. You discover the crime. You call it in. You've got blood on your person and clothes, and -- (before Cullen can cut him off) -- and -- your prints are on the murder weapon.
+73) 11) dialog: There's a second print in blood -- it's a partial of a hand -- on the wall next to th--
+73) 13) dialog: We need twelve people who can see past all that. I'd get out in front of this fast.
+73) 18) dialog: You're not happy tomorrow? The next day? We'll move over. But right now -- this moment -- you need immediate representation.
+73) 20) dialog: We need to issue a statement.
+79) 0) text: Kevin, coming out a door with Heath and an associate.
+79) 1) dialog: ... first thing -- I need this ASAP -- I want articles, clippings, TV interviews, I want everything you can get on Alex Cullen.
+80) 5) dialog: (caught) Sorry. I'm just...
+80) 7) dialog: Guilty.
+80) 9) dialog: Thank you.
+80) 11) dialog: What if I win?
+80) 13) dialog: Any advice?
+80) 15) dialog: I'll keep it in mind.
+80) 17) dialog: What a relief. I was starting to think you were perfect.
+80) 23) text: Christabella smiling as Kevin rushes off.
+81) 0) text: Mary Ann very upset.    Kevin has just come home.
+81) 2) dialog: You just left them in the store?
+81) 4) dialog: Look, calm down, all right? Listen to me... Mare? First, you do this radical thing with your hair...
+81) 6) dialog: Stop. I think it's fine. But I also think it's traumatic. You've got the pressure of fitting in with new friends, a new place... add three bottles of wine and --
+81) 10) dialog: What about Kathy?
+81) 12) dialog: Oh, and that's got nothing to do with it...
+81) 14) dialog: What about the apartment?
+81) 16) dialog: Let's make a baby.
+81) 18) dialog: I wouldn't do that. Unless you asked.
+88) 3) dialog: Right here. Mary Ann doesn't look so sure.
+89) 0) text: Huge. Opulent. Kevin and Pamela have been taking notes. Cullen is exhausted, frustrated.
+89) 1) dialog: ... because it needs to be clear, Mr. Cullen, because I need to understand exactly what happened -- you're standing there -- you look down -- there's the gun --
+89) 5) dialog: You kneeled down to pick it up?
+89) 7) dialog: Back up. Two prints by the gun. Right knee. Right hand. It's a strange move you must've made to pick it up.
+89) 9) dialog: I'm trying to picture it... (contorting) Your hand came from inside and underneath.
+89) 12) text: Kevin watching Cullen quickly retrieve the gun from the floor with this weird little motion.
+89) 14) dialog: Whose gun is that, Alex?
+89) 18) dialog: Are you out of your mind? (incredulous) You're charged in a triple homicide, you're walking around with a forty-five?
+89) 20) dialog: Give it over.    Now. Gimme the gun.
+89) 22) dialog: That's my job. When the case is over you can have it back. (strong) This is a dealbreaker, Alex.
+89) 24) dialog: Okay.   Let's wrap it up.
+89) 26) dialog: We need to talk to your assistant.
+89) 28) dialog: You feel confident she'll back you on the time.
+89) 30) dialog: So we're going to talk to her and you're not going to talk to anybody. Okay?
+90) 0) text: A large, ugly cube. Daylight through dirty windows. Kevin alone. On the table, a large, grey envelope. Printed on it:
+91) 0) text: PANNING ALONG Wall Street. The whole downtown skyline. SETTLING finally ON the 60th floor of the law firm building. Hovering at a distance. Lights on here and there and -- One window. Kevin's office. He and Pamela are talking to a young woman. This is MELISSA BLOCK, Cullen's assistant and alibi. We can't hear what they're saying, but it looks to be a collegial meeting.
+92) 0) text: Kevin and Pam walking Melissa out through the empty reception area.
+92) 2) dialog: We need her to establish the time you returned home.
+92) 6) dialog: Tell you what, Melissa, let's talk to her first. See where she stands and take it from there.
+92) 9) dialog: That's why we're all working so hard.
+92) 10) text: As Melissa exits with Pam, Kevin notices two associates carrying boxes far up the hall and we --
+93) 2) text: Barzoon stops as he sees Kevin in the doorway.
+93) 3) dialog: I thought I was the only one working late.
+93) 7) dialog: Good news. We just wrapped up with Cullen's assistant. She looks like a great alibi.
+93) 9) dialog: But it looks like you have your hands full.
+93) 11) dialog: Who would ask?
+93) 13) dialog: Who's that?
+93) 15) dialog: Sorry.
+93) 18) text: Milton in the hall behind Kevin.        Tickets in hand.
+93) 20) dialog: I'd have to call Mary Ann...
+94) 0) text: The car half full. Kevin and Milton standing near the door. Right behind them, three guys in the midst of an intense conversation in Spanish.
+94) 1) dialog: So what's this Weaver Commission?
+94) 12) dialog: Oh, shit. (stepping back) John...
+94) 20) dialog: What did you say to him?
+96) 1) dialog: (on his feet)
+98) 5) text: Meet my new heavyweight. Kevin Lomax. Kevin shaking hands with Don King, as we --
+100) 0) text: Kevin on a pay phone near the kitchen.
+100) 1) dialog: And say what? He's the senior partner at the -- (pause)
+100) 7) text: I live there, too! CLICK. The LINE is dead. He looks at the cigarette. Takes a hit. Fuck it. And then his eyes find -- The dressing room across the hall. An open door. Inside, a woman, one of the dancers, all but nude, stepping into her dress. A simply perfect body. And then she turns TOWARD us and it's Christabella -- clearly -- for a single moment -- before she slams shut the door. Kevin crosses to the door.   Knocks.   And again. The door opens.   A DANCER standing there.    It's not Christabella.
+101) 0) text: Kevin moving toward the Milton table.    Sitting down and just realizing that -- Cullen has joined the party.   He's wasted.   He waves.
+105) 0) text: Motion -- Kevin rushing down a hallway -- Heath behind him -- heading for an open door and into --
+106) 2) dialog: (hung-over and guilty) Milton got his hooks into me.
+106) 7) dialog: This transition, it's been really tough on her...
+106) 9) text: Kevin nods.    Jackie ushering them out, as we --
+108) 0) text: Pamela and three other women smoking. Looking up, as Kevin comes flying out of the building.
+108) 2) dialog: I've gotta find Cullen. (as he passes) We just got the prosecution discovery package.
+108) 4) text: Kevin just keeps going into --
+109) 0) text: Kevin needs a taxi -- bingo -- a cab -- dropping off right here -- he's got it -- opening the door and --
+109) 2) dialog: That's what they all say.
+109) 6) text: Kevin watching her go, looking up, seeing the glass bridg high above.
+110) 0) text: A limousine double-parked outside a brownstone. Kevin standing there as Cullen comes storming out of the building.
+110) 2) dialog: Your wife, the day she was killed, had lunch with a friend. She says and I quote: 'Alex is fucking around and I can prove it.'
+110) 4) dialog: Wrong answer. (listen to me) Your prenuptial agreement is on file at the firm. The contract is null and void in the event of marital infidelity. (beat) You fuck around, she gets rich. (you asshole) That's a motive, Alex. (long pause) What do I need to know?
+110) 8) dialog: And, on the night in question?
+110) 10) dialog: I've got to re-interview Melissa.
+110) 12) dialog: Juries want honesty.     Fuck with that at your peril.
+110) 16) dialog: Arthur...
+110) 20) text: Kevin watching Cullen rush away, as we --
+112) 0) text: A Towncar pulls up. Mary Ann, Kevin and Mrs. Lomax emerge. Just back from dinner. Two steps and -- A PAPARAZZI photographer nearby --
+112) 4) dialog: Welcome to Babylon, Ma.
+113) 10) dialog: Really.
+113) 12) dialog: Yes.   Mom, this is...
+114) 1) dialog: Thanks for the champagne.
+114) 3) dialog: (after a moment) Yes.
+114) 12) text: Kevin next out, holding the door, waiting --
+114) 13) dialog: Mom, we're here...
+114) 17) dialog: That's a long conversation.
+114) 20) dialog: Now?
+114) 22) dialog: Let's talk tomorrow.
+114) 26) text: Kevin left standing there as the doors close.
+115) 0) text: Mrs. Lomax, subdued, listening to Kevin and Mary Ann bickering.
+115) 2) dialog: What are we talking about?
+115) 4) dialog: That's ridiculous.
+115) 11) dialog: That's not a fight, Ma, it's marriage. Not exactly your area of expertise.
+115) 13) dialog: What?
+115) 15) dialog: You're kidding, right? Am I happy? Every now and then I look around and I think my mama must be praying awful hard for me, 'cause I died and went to heaven. Am I happy?
+115) 17) dialog: I guess I finally got there. (sensing something wrong) Look, I'm sorry about being so busy this week. Maybe Saturday I can get some time off and...
+115) 19) dialog: I love you too, Ma.
+115) 20) text: Kevin turning out the lights, as we --
+116) 4) dialog: Shit!
+117) 1) dialog: Mom?    Ma, what are you doing?
+117) 3) dialog: What?   What are you talking about?
+117) 5) dialog: You just got here. (his watch) Look, I'm late and I just got my teeth kicked in on the front page, so I gotta run. We'll talk later.
+117) 7) dialog: Ma, this is New York, there must be twenty-thousand goddamn churches. Take your pick.
+117) 11) dialog: So stay. Take care of her if you're so concerned! Help me out.
+117) 13) dialog: This is home. You understand? This is where we live! I'm not going back to Gainesville. Unbelievable.
+117) 15) dialog: It's a little early for scripture. I'm going to work. (as he walks) You can do whatever you want.
+118) 0) text: Melissa and Kevin on a bench. Kids playing. One of them is hers, but she's not paying much attention at the moment --
+118) 2) dialog: We have to bring it out, Melissa.
+118) 4) dialog: A man's life is at stake.   You're our whole case.
+120) 0) text: Busy.   Lots of traffic.   Barzoon and Kevin walking.
+120) 4) dialog: Busy.
+120) 6) dialog: (cutting her off) Mr. Cullen is innocent. He's not going anywhere. He's been released on a two million dollar bond. He looks forward to having his day in court. Thank you.
+120) 8) dialog: I'm in the middle of a meeting. Call my office. Schedule an interview. Or else forget it.
+120) 9) text: Barzoon is getting away.    Kevin hustling to catch up.
+120) 10) dialog: I'm picking a jury tomorrow.
+120) 14) dialog: You're not gonna have time to help me on Cullen, are you?
+120) 20) text: Kevin turns to see two more REPORTERS jogging over.
+120) 22) text: And a photographer -- Kevin under siege and --
+121) 0) text: Dark. Quiet. Mary Ann in her chair. She looks like hell. Eyes red from crying. Kevin has just come home and found her like this.
+121) 2) dialog: Tell me this is the medication.
+121) 7) dialog: Look, let's get you undressed and in the tub. Okay?
+121) 9) dialog: Okay.  I'm confused. (furious) Why? What is it now? What the fuck is it today, Mare? I swear to God, I'm calling this doctor, I'm gonna find out what the hell they're giving you.
+121) 11) dialog: What are you talking about?
+121) 13) dialog: Says who?
+121) 15) dialog: That's ridiculous.
+121) 20) dialog: Mary Ann...
+121) 22) text: The PHONE keeps RINGING. Kevin will finally pull away. Answering the phone O.S., quietly conducting business as Mary Ann falls apart.
+122) 0) text: Kevin on a cell phone walking with Milton.
+122) 1) dialog: Uh huh. For sleep. And she can take that during the day? (beat) No, she won't be driving. (beat) I'm gonna have the pharmacy call you right back. Thanks. (hangs up, sags against the car) He thinks, he's not sure, he thinks it could be some kind of hormonal imbalance.
+122) 3) dialog: What?
+122) 5) dialog: This case? Cullen? (incredulous) John, I've got a jury showing up this morning.
+122) 7) dialog: Yes.    Of course I do.
+122) 11) dialog: (stunned) What about Cullen?
+122) 13) dialog: I put together a great jury.
+122) 15) dialog: Hang on, we gotta talk about this.
+122) 17) dialog: You know what scares me? I quit the case. She gets better. And I hate her for it. (silence) I don't want to resent her, John. I've got a winner here. I gotta nail this fucker down, do it fast, and put it behind me. Just get it done. Then put all my energy into her.
+123) 0) text: Packed. JUDGE ARMAND POE presiding. Cullen seated with Kevin and Pam. The jury in their box. And prosecutor FRAN BROYGO on his feet, just wrapping up his opening statemen
+123) 4) dialog: If it's a choice, I'll go now. I won't be as long as Mr. Broygo.
+123) 6) dialog: We just spent our morning listening to Mr. Broygo talk about his 'evidence'. What he neglected to tell you is what this case is really about. He left out the most important fact of all: Alex Cullen was somewhere else when these murders took place. Now, Alex Cullen has done a lot of things I don't like. He's been a terrible husband to all three of his wives. He's been a destructive force in the lives of his step-children. He's cheated the city. His partners. His employees. He's paid hundreds of thousands of dollars in penalties and fines over the years. I don't like those things. I don't expect you to like them. There will be other things during the course of this trial that you will hear about and like even less. But this isn't a popularity contest. It's a murder trial and Alex Cullen hasn't killed anybody.
+123) 10) dialog: The state is going all out here. They've got a whole team over there. They're throwing everything but the kitchen sink at this case. I need one thing from you. That's it. One thing. I need you to ask yourself, 'Is not liking this man reason enough to convict him of murder?' (beat) Enjoy your lunch. We'll talk again.
+124) 0) text: Kevin thrown back against a wall --
+124) 2) text: Kevin -- one push -- Cullen sent flying.
+124) 3) dialog: Listen to me like you've never listened to anybody before. I'm going to bust my ass to make sure they hate you. Because as long as you're out boning Melissa, you're not home killing your wife.
+124) 5) dialog: Then it doesn't look spontaneous.
+125) 1) dialog: Let me put it this way, then: can you tell from a blood sample if the person were alive or dead?
+125) 3) dialog: And there's a two hour window in which to place these murders.
+125) 5) dialog: So, you've got absolutely no way to determine the condition of the victims when Alexander Cullen put his hand on that wall.
+126) 0) text: Kevin into the evening air, carrying a bag of stuff. Barzoon standing there in a jogging suit. Furious.
+126) 1) dialog: Eddie...
+126) 3) dialog: What's up?
+126) 8) dialog: It's not over yet.
+126) 10) dialog: What are you talking about?
+126) 12) dialog: What?
+126) 14) dialog: I don't know what you're talking about, but I sure as hell don't like your tone of voice.
+126) 16) dialog: You got a problem with documents, I suggest you put together one of your late-night shredding sessions.
+127) 0) text: Kevin sitting there with his bag of groceries.      Milto looking sadly perplexed --
+127) 2) dialog: I doubt it. He was going running. What the hell was he talking about?
+127) 4) dialog: Why does he think I'm after his job?
+127) 6) dialog: Not directly, no.
+130) 0) text: Kevin has a vodka in his hand.
+152) 2) dialog: I'm gonna, I'm gonna go downstairs now. Put this stuff away. (backing away with his bag of groceries)
+153) 0) text: Pam exits the room. Melissa sitting at the head of the table. Kevin pacing around her. They are alone. Practicing her testimony over early morning coffee.
+153) 1) dialog: You testified that the defendant called you at four-thirty to ask you to come to his office gym for the purposes of sex.
+153) 3) dialog: Mr. Cullen, though, he's not just your lover, is he? He's the boss.
+153) 5) dialog: So two hours go by before you act on his request?
+153) 11) dialog: Okay.  Stop. (breaking character) This prosecutor is no fool. He's gonna change tempo, attitude, tone of voice -- he's gonna come out with questions you never thought of, just to screw you up. (coaching) So what do we do?
+153) 13) dialog: Exactly. (back into it) Is it your testimony, Ms. Block, that between the hours of six-ten and nine-forty you were engaged in sexual congress with the defendant?
+153) 15) dialog: At any point during this three hour marathon, Ms. Block, did you lose sight of the defendant?
+153) 17) dialog: Did he use the bathroom?
+153) 19) dialog: Is he circumcised? (silence) You understand the question?
+153) 24) dialog: So is he cut or not?
+153) 26) dialog: Which is it?
+153) 28) dialog: You've been polishing his knob three times a week for six months and you don't know whether or not he's got foreskin?
+153) 30) text: Kevin staring at her.       Looking away.   Moving quickl the door, and into:
+154) 2) dialog: What's happened?
+154) 4) dialog: What about him?
+154) 6) dialog: When?
+154) 10) text: Kevin standing there, holding Christabella. Feeling heat on the back of his neck and turning to find Milton at the far end of the hall. Their eyes lock --
+154) 13) dialog: (turning on this) Who?
+155) 0) text: SCREAMING uptown. Kevin looking very rattled.      Milton beside him. Talking him down.
+155) 4) dialog: I can't put her on the stand.
+155) 6) dialog: I know she's lying.
+155) 8) dialog: He killed those people.
+155) 10) dialog: Cullen set me up. Melissa, the whole thing, I know it.
+155) 12) dialog: That's your advice?
+155) 14) text: Kevin unreadable.    The SUBWAY CAR RATTLING away.
+156) 6) dialog: I call Melissa Block.
+157) 0) text: Chaos! -- media madness -- Kevin pushing past dozens of reporters and camera crews -- court officers trying to clear the way -- fifteen voices screaming at once -- questions flying like shrapnel -- Cullen, all smiles, alongside Milton as they're pushed along -- Pam, waving a cell phone, fighting her way to Kevin and --
+157) 2) text: Kevin takes the phone, trying to hear above the noise.
+158) 0) text: A cab speeds to a stop. Kevin jumps out. Feeney, the doorman, standing there with Felix, his partner.
+158) 2) dialog: Where is she?
+159) 0) text: Kevin running down the sidewalk and --
+160) 0) text: Kevin enters. It's empty and dark. Two old ladies up front. Mary Ann in back, wrapped in a comforter.
+160) 1) dialog: Honey... (sitting beside her)
+160) 4) dialog: Who?
+160) 7) dialog: Who let himself in?
+160) 9) dialog: Did somebody hurt you?
+160) 11) dialog: What?     When?
+160) 15) dialog: Today? Today? Today. He was in court, Mare. He was in court, in my presence all afternoon!
+160) 17) dialog: I don't know, Mare. I don't know how much more of this I can take.
+161) 0) text: Kevin with a NURSE and paperwork.
+161) 2) text: Kevin nods.    Stands, moving now -- into --
+162) 0) text: Mary Ann on a moving gurney. Calm now, in the sway of some very strong drugs. Kevin kneels beside her.
+162) 2) dialog: They want you to go to sleep.
+164) 0) text: Barzoon's funeral. Big deal. Big crowd. An excess of flowers. ORGAN MUSIC as foreplay. Milton, up front, seating Diana and children. Kevin seated on the aisle.     Beside him, Jack Heath.
+164) 2) dialog: They don't know. It's bad.   She's falling apart.
+164) 4) text: Kevin turns to see Christabella standing beside him. Jackie's concerned expression blossoms into a private, knowing smile now that Kevin has turned away. Christabella squeezes in, as the MUSIC SWELLS and THE PRIEST walks solemnly to the altar. Kevin caught in a high-intensity sexual cross-fire between Jackie and Christabella. He's tense. He's flipping out.
+168) 0) text: Kevin out of his seat. Pushing past Christabella -- rushing up the aisle --
+169) 0) text: Milton watching Kevin flee the church.
+170) 0) text: Moments later.   Kevin hustling away --
+170) 3) dialog: No comment. I'll have something for you later.
+170) 6) dialog: Staking out the funeral?
+170) 8) dialog: I'm in a bit of a hurry right now. I need to talk to my wife.
+172) 0) text: Kevin walking faster.    Weaver right beside him.
+172) 3) text: It goes on and on, Kevin.
+176) 0) text: Kevin really striding.     Weaver right there.
+176) 2) text: Barzoon was coming in, Kevin.     He was gonna testify.
+176) 8) dialog: He's a lawyer! What the fuck do you want? (stopping there) Stay off my back.
+176) 9) text: Weaver left standing there, as Kevin rushes away -- through traffic -- across the street --
+176) 11) text: Kevin, across the street, stops.
+179) 0) text: Kevin standing there, across the street -- Weaver smiles, thinking he'll talk now for sure -- stepping off the curb and -- TIRES SCREECHING and Weaver turning and -- A car trying to stop and -- Kevin watching as -- WHAMM! -- Weaver ploughed onto the hood and -- A mother at the wheel -- her daughter beside her -- both screaming and -- The car's WINDSHIELD as it CRUMPLES and -- Kevin watching as the car stops and -- Weaver is dazed but alive -- his face buried in the windshield -- pulling himself up and -- Weaver's face THROUGH the shattered glass as he looks down to see -- Mother and child (EFX) -- transforming -- for an instant -- into monsters and -- Weaver more terrified than hurt -- scrambling off the hoo of the car -- staring back in horror and -- Mother and child -- completely freaked out -- both of the hysterical and -- Weaver holding his arm -- nose bloodied -- but moving -- backing away -- turning to find Kevin still across the street and -- It's gonna be okay. And then, a big flat-nose truck -- out of nowhere -- air BRAKES BLASTING as it just wipes Weaver OFF the SCREEN and -- Kevin falling back, flat against a wall -- STAYING ON Kevin -- as the street comes alive with the SOUNDS of EMERGENCY and he starts moving away and we --
+180) 0) text: Kevin walking through -- stopping finally at an open door --
+181) 2) dialog: What are you doing here?
+181) 6) dialog: I just... I don't know.
+182) 2) dialog: I was gonna call you, I just...
+182) 6) dialog: There's nothing you could've done.
+182) 8) dialog: About what?
+182) 10) dialog: When?
+182) 12) dialog: What are you talking about?
+182) 14) dialog: Wait.   Stop.
+182) 16) dialog: Oh, this is great, Ma... this is just perfect --
+182) 20) dialog: (total incredulity) -- Now? You do this now? -- Because, I mean, your timing -- it's superb -- you wait thirty years? -- you fly up here -- you pick today? --
+182) 22) dialog: -- obviously I'm not under enough pressure -- I don't have enough on my mind, I need this little --
+182) 24) dialog: Why are you doing this now?
+182) 26) text: Kevin overwhelmed -- walking away -- down the hall -- completely fritzed -- leaving her standing there --
+182) 28) text: Kevin just stopped walking.
+186) 4) text: Kevin jogging down the hall -- trying the door --
+186) 7) dialog: (it won't open) Mary Ann. Hey. Hey! (still no luck) Omigod... Get somebody!   Go!
+188) 1) dialog: Mare! -- Look at me! -- Stop! -- right now -- Mare! --
+189) 1) dialog: (through the glass) Mary Ann, no! No! No!
+191) 0) text: Kevin banging like mad on the glass but --
+191) 1) dialog: -- Mare! -- No! -- Look at me! -- Mary Ann raising the blade to her throat and --
+191) 2) dialog: -- Stop! -- No! -- Mare! -- Kevin grabbing a folding chair -- swinging it --
+192) 0) text: SMASH! -- GLASS SHATTERING over the floor, but Kevin stil can't get in -- wire mesh embedded in the window is bent but unbroken and he's tearing at it and --
+192) 1) dialog: -- Mare! -- Hang on! -- I'm almost there! -- Look at me! And she does.   Watching him claw at the wire --
+192) 3) dialog: Noooooooooo!
+193) 0) text: Kevin kicking full force against the door and --
+194) 0) text: The door buckles -- the chair wedged in there sent flying -- Kevin stumbling over broken glass --
+194) 1) dialog: Oh, God, Mare, what've you done? -- no... Mary Ann falling to the floor -- her bloody hand still holding the blade deep in her neck --
+196) 0) text: Kevin cradling Mary Ann -- his hand trying to staunch the wound in her neck -- blood flowing -- she isn't moving -- her eyes are starting to fix and --
+196) 1) dialog: -- no, Mare -- hang on -- please, Mare, I'm right here, it's gonna be okay, baby -- oh, God, Mare, why did you do this? -- (screaming now)
+196) 6) dialog: What are you doing? Help her!
+196) 9) dialog: -- please, baby, stay with me... it'll be okay -- it's gonna be fine just, just stay with me -- Oh God, Mare... please, baby...
+196) 10) text: Kevin holding her, but she's gone, as we --
+197) 0) text: But someplace completely different. Older.        Dark. Echoey. A fluorescent bulb sputtering out. FOOTSTEPS approaching... It's Kevin. And we know instantly that Mary Ann is dead. There's blood on his shirt. His eyes are raw. At his side, a small suitcase containing her personal effects. More than grief, more than shock, what we notice most is his frighteningly grim determination. Up ahead, a bench. Mrs. Lomax huddled here. Cried out. Empty. Holding herself more tightly as he sets down the suitcase.
+197) 2) text: Kevin sits.    If he loses his steel he'll drown.
+197) 6) dialog: Finish the story. (off silence) Nineteen-sixty-four. You're in New York. There's a waiter in a restaurant. (waiting) Finish the story.
+197) 8) text: Kevin's eyes settle on the suitcase.      Mary Ann...
+197) 10) dialog: I want to hear you say it.
+197) 14) dialog: Say it.
+197) 16) dialog: No.
+197) 18) dialog: He's always been there. I know that now. Watching. Waiting. He's been playing us like a game. Jerking us around. Destroying Mary Ann...
+197) 19) text: Kevin stands.      Quiet fury.   A machine.
+197) 21) dialog: I gotta go.
+197) 25) dialog: I can't do that. You go home. (backing away) Pray for Mary Ann.
+197) 27) text: Kevin disappearing down the stairs. Mrs. Lomax dropping to her knees as his FOOTSTEPS ECHO away, and we --
+198) 0) text: As Kevin explodes through a fire door.   Pam standing there, having a smoke.
+198) 2) text: Kevin turning and something is very wrong --
+200) 0) text: The room's only light coming from the huge bas relief. Kevin steps off the elevator, into the room.
+200) 4) text: Milton appears out of nowhere.       Walking past Kevin.
+200) 6) text: Kevin has a gun -- Cullen's gun, in his hand --
+200) 7) dialog: What did you do to Mary Ann?
+200) 9) dialog: What did you do to my wife?
+200) 11) text: Kevin FIRES the GUN -- BANG! BANG! BANG! -- bullets pass right through him -- into the wall --
+200) 13) text: Kevin lowers the gun to his side.
+200) 14) dialog: Who are you?
+200) 18) dialog: Because you're my father.
+200) 20) dialog: Who are you?
+200) 22) dialog: Satan.
+200) 24) dialog: Mary Ann, Barzoon, Weaver...
+200) 26) dialog: That's a lie.
+200) 28) dialog: What the hell do you know about love?
+200) 32) dialog: You set me up.     It's entrapment.
+200) 34) dialog: That's my job.     That's what I do!
+200) 36) dialog: What do you want from me?
+202) 8) dialog: It is a test, isn't it? The whole game, you sitting there, keeping score.
+204) 3) dialog: This is some pitch. You must need me pretty bad. What do you want?
+204) 5) dialog: Is that it?
+204) 9) dialog: What?
+204) 11) dialog: You want a child.
+204) 13) dialog: The Antichrist.
+204) 15) dialog: But I have to volunteer.
+204) 18) dialog: So what are you offering?
+204) 20) dialog: Always.
+204) 24) dialog: What are you offering?
+206) 1) dialog: You're right, aren't you? About me. I mean, I made all the choices, didn't I? Gettys. Cullen. Mary Ann. I did kill her, didn't I?
+206) 3) text: Christabella passing Kevin, handing him her bra.
+206) 6) text: Christabella lingering and Kevin leaning in... kissing her... just a moment before she pulls away --
+206) 9) dialog: You're right. I wanted to fuck her from the minute we met.
+208) 2) dialog: In the Bible you lose.   You're destined to lose.
+210) 2) text: Kevin, really, please...
+210) 4) dialog: You're right.    It's time. Kevin raises the GUN to his temple -- quick and simple -- SNAP! -- he's blown his brains out -- Milton stunned -- disbelieving for a moment and then an aura of fire and heat explodes around him --
+211) 0) text: (EFX) Kevin starting to fall in SUPER SLOW MOTION and --
+213) 0) text: (EFX) Kevin still falling and --
+215) 0) text: (EFX) Kevin still falling and --
+217) 0) text: (EFX) Kevin still falling and --
+224) 0) text: (EFX) Kevin in SUPER SLOW MOTION as he falls the final few inches to the floor and at the moment of impact we hear the sound of THUNDER and we --
+225) 0) text: The mirror. And Kevin's face. As THUNDER ECHOES AWAY and becomes nothing more than a FLUSHING URINAL. We're back in Florida. Where we started. Kevin touches his face. His body. His head. He's alive. He touches the mirror. He's insane. He's here. It's now.    WATER RUNNING in the sink.
+225) 5) text: The Reporter exits.    Kevin alone with the mirror and hi reflection. And then it's over. He's made his decision. Replacing his wedding ring. Reaching for his jacket, as we --
+226) 0) text: Kevin walking through. His game face.     A court officer opening the doors and --
+227) 0) text: Kevin entering. Standing there a moment. Searching for Heath in the back of the courtroom. He's not there. A single empty seat. Kevin moving quickly down the aisle. Mary Ann standing there, completely unprepared as Kevin comes in behind her. Embracing her. Holding her tightly to him with a fervor that we alone will understand.
+227) 2) text: Kevin nods. Smiles. Backs away. Into his seat.        Get there beside him. Kevin will not look at him.
+227) 11) dialog: Your Honor, I'm terribly sorry, but I can no longer represent my client. I need to be replaced as counsel.
+228) 0) text: As the doors open and the chaos begins to spill into the hallway. Kevin trying to rush away with Mary Ann but right behind them --
+228) 2) dialog: There is no story.
+228) 4) dialog: They're gonna disbar me, Larry. You can cover that.
+228) 12) dialog: Call me tomorrow.
+228) 14) text: Kevin nods.    Holding Mary Ann's hand as they escape.

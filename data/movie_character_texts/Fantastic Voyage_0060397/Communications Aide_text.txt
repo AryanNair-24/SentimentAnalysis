@@ -1,0 +1,23 @@
+32) 20) text: The Communications Aide with headphones moves up to them.
+32) 21) dialog: They're in the Sterilization Corridor --
+36) 0) text: A WIRELESS TECHNICIAN is writing down the message heard c tears it off his pad, hands it to the Communications Aide it to Carter.
+36) 1) dialog: Test message from the Proteus, sir. (reading) 'Miss Peterson has smiled.'
+44) 0) text: The message is coming in. The Wireless Technician writes it off the pad and the Communications Aide reads:
+44) 1) dialog: 'Proteus reports all secured.'
+47) 2) dialog: (into throat mike) Commence Miniaturization.
+91) 1) dialog: Proteus On-Power.
+98) 0) text: Reid and Carter are looking on. The Communications Aide s side. They see the clamped hypo rolled up to the side of and brought to a gentle stop.
+140) 0) text: A warning buzz from a TV Monitor. Reid and Carter respond SOUND. The Communications Aide comes over to them.
+140) 1) dialog: Proteus Off Course, sir. They've picked up a blip in Quadrant 23, Level B. Reid moves quickly to the window overlooking the Main Operations Room, followed by Carter.
+146) 7) text: The incoming message stops. The Communications Aide takes Wireless Technician.
+146) 8) dialog: (reading) Proteus reports trapped in Venous System. Requests removal, sir.
+146) 24) text: Technician presses monitor button. As Carter moves to the Communications Aide, the HEART POST flashes on the TV scr
+154) 0) text: A warning buzzer SOUNDS. The Communications Aide moves up Carter at the Tracking Station Monitor and Radarscope.
+154) 1) dialog: Ready for Cardiac Shock...
+182) 1) dialog: Proteus in Quadrant 161 Level E...
+248) 0) text: Reid and Carter are looking down at the OPERATING ROOM. T the Communications Aide announces:
+248) 1) dialog: Proteus turning in Quadrant 73.
+262) 0) text: Reid and Carter are at the window overlooking the OPERATI Communications Aide turns to them. They react with misgiv hear:
+262) 1) dialog: Report no movement of the Proteus since entering Quadrant 74, Level D.
+295) 1) dialog: Proteus proceeding toward Quadrant 75...
+301) 1) dialog: Proteus turning into Quadrant 791 Level F.

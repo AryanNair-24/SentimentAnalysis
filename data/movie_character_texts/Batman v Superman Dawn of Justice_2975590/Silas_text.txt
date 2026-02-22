@@ -1,0 +1,73 @@
+53) 0) text: The MAIN LABORATORY is a VAST room littered with COMPUTER MONITORS and SCIENCE EQUIPMENT beneath a GIANT SKYLIGHT. SUNLIGHT fills the room. HEAD SCIENTIST PROFESSOR SILAS STONE, 50's, is compiling DATA on his TABLET. T.O MORROW, a SCIENTIST in his 50's sits at his computer screen monitoring SATELLITE FEEDS. He notices something o his screen.
+53) 2) dialog: Good. Open the skylight. Morrow presses a few keys on his computer and the GLASS R opens up.
+53) 5) dialog: I'm sure he has his reasons.
+53) 9) dialog: Long night? 35.
+53) 13) dialog: Follow me. Superman follows Silas through the Laboratory and towards RESEARCH CENTER. Morrow walks over to Stewart and hands him a Tablet.
+54) 0) text: Superman is SHIRTLESS and laying on a TABLE. Attached to his CHEST are ELECTRODES which send INFORMATI to Silas' MONITOR.
+54) 1) dialog: (in awe) ) It's amazing.
+54) 3) dialog: Kryptonian physiology. So different yet so similar to our own. I can never get used to it.
+54) 5) dialog: Your vitals are perfect. Heart rate, blood pressure, brain activity. All perfect. Yet still you haven't tapped your full potential. (turns off the monitor) There is so much we can learn from you. So much that could benefit us.
+54) 7) dialog: Not everybody has vision Kal or can see past their fears. Which is understandable. Once the gods were above us and now they walk among us. It's a frightening concept for most.
+54) 9) dialog: I believe you. Silas sits down beside the Man of Steel.
+54) 10) dialog: Not everything remarkable on this Earth comes from elsewhere.
+54) 12) dialog: That we are at a dawning of a new age. An age of Gods and Monsters.
+54) 14) dialog: Not when you stand for us. Silas stands and puts his hand on Superman shoulder. Superman puts his hand on his.
+54) 15) dialog: Come on. I have something to show you. 37.
+55) 0) text: Superman follows Silas to through the RED ROOM. A TOP SEC section of S.T.A.R Labs that houses varying kinds of EXPERIMENTAL TECHNOLOGY.
+55) 2) dialog: This is the Red Room. It's where we keep our advancements that for whatever reason the greater public isn't quit ready for yet. They come to a LARGE CONTAINMENT CAPSULE.
+55) 3) dialog: Here it is. Silas inputs a code into the KEYPAD on it's side. It open with a HISS. Inside is a BLUE BODY SUIT.
+55) 4) dialog: It's a prototype for a new space suit. Highly durable yet very flexible. We'll have to make a few changes but I'd like you to have it.
+55) 6) dialog: You have to. (gestures to the tears in Superman's suit) We can't have the savior of the world in rags.
+55) 8) dialog: We'll have it finished before I leave for Washington. I do wish you'd come with me. Speaking to the President would help your cause.
+55) 10) dialog: I understand. (He closes the Capsule) The Conference. Do you think you're ready?
+55) 12) dialog: Still hopeful I see. And if they don't?
+55) 14) dialog: Of course. I was hoping to bring my son but he has other things on his mind.
+55) 16) dialog: Every game is a big game to Victor. I suppose it has to be when your a quarterback. towards the exit.
+55) 17) dialog: I'd imagine you'd have made quite the player yourself.
+55) 19) dialog: Afraid you'd hurt someone?
+55) 21) dialog: (laughs) I don't think there's anything out there that can hurt you.
+61) 0) text: The PRESIDENT OF THE UNITED STATES DIANE NELSON, a tall, slender woman in her 50's, sits behind desk. Her SERIOUS eyes drifting back and forth between the three people sitting in front of her. GENERAL SWANWICK, Head of the UNITED STATES NORTHERN COMMAND, sits to her right along with Silas Stone and to left is... AMANDA WALLER, a STERN and FOCUSED SENATOR with an INTIMIDATING PRESENCE.
+61) 13) dialog: (to Waller) You and I both know the results of Cadmus are inconclusive at best.
+61) 16) dialog: We are researching several courses of action. None of which involve weaponizing alien technology. 46.
+62) 8) dialog: Who's funding Cadmus?
+63) 0) text: Stone and Stewart leave the White House grounds and walk towards a waiting CAR and DRIVER. Standing by the Car is a Silas' Son VICTOR STONE. A STAR QUARTERBACK. He wears a METROPOLIS UNIVERSITY JACKET.
+63) 2) dialog: I know John. I didn't see this coming. Cadmus is off the books.
+63) 4) dialog: No. It's privately funded. And that's whats worrying me.
+63) 6) dialog: A big problem John. Victor opens the back passenger seat for his Father.
+63) 11) dialog: Come on Victor. Victor gets in beside his Father and closes the door.
+63) 12) dialog: (to Stewart) I'll see you in Metropolis. The Car pulls off. 49.
+91) 5) dialog: Mr. Wayne Good to see you again.
+124) 0) text: Silas Stone WAKES and sees Batman standing above him. Bef he can SCREAM Batman COVERS his mouth with his hand.
+125) 0) text: Batman leads Silas down the stairs and through his LIVING ROOM towards the kitchen. Inside he clicks on the light. He GASPS when he sees a SICK and SEMI-CONSCIOUS Superman.
+125) 1) dialog: (shocked) Oh my God! 108.
+125) 3) dialog: What happened?
+125) 5) dialog: Poisoned? Who did this?
+125) 7) dialog: We need to get him to S.T.A.R Labs. There's nothing I can do for him here. Suddenly Victor STORMS into the kitchen WIELDING a BASEBA BAT.
+125) 9) dialog: (shouts) Victor stop! Batman GRIPS Victor's forearm TIGHT.
+125) 11) dialog: They're friends.
+125) 14) dialog: Victor help get him to the car. Victor helps Batman get Superman to his feet and help him walk out of the house.
+126) 0) text: Superman is UNCONSCIOUS and lies on a TABLE while his bod is SCANNED by Silas who watches intently at the DATA on h COMPUTER SCREEN. Batman stands at his side, watching. Victor leans against the wall. He feels totally OUT OF PLACE.
+126) 2) dialog: He's lucky. I've managed to isolate the compound in his blood stream. He's severely weakened and he'll need time to recover but he'll live.
+126) 4) dialog: You did this to him?
+126) 6) dialog: This compound is unlike anything I've seen. The effect it has on Kryptonian physiology. How did you get come by it? You don't strike me as a scientist.
+126) 8) dialog: By who?
+126) 10) dialog: Lex Luthor. 110.
+126) 12) dialog: I've just seen the evidence and although I can't prove anything Lex Luthor has been the money behind several projects that from what I've seen all have one purpose.
+126) 14) dialog: What are you going to do?
+126) 16) dialog: Easier said than done. Lex Luthor buries all evidence. There's never been anything to connect him to the things he's done.
+126) 19) dialog: What do you want me to tell him when he wakes up? Batman STOPS.
+128) 11) dialog: How do you feel?
+128) 13) dialog: You were poisoned by a radioactive substance. Kryptonian in origin.
+128) 15) dialog: Lex Luthor. He must have synthesized from a by product from the World Engine's terraforming. Superman stands.
+128) 17) dialog: Matters are much worse. Superman stops.
+128) 18) dialog: (regretful) I should have told you. 114.
+128) 20) dialog: There is a Project called Cadmus. They've found a way to replicate Kryptonian DNA using your people's technology.
+128) 22) dialog: They've created a weapon with one purpose. To kill you. And Lex Luthor is behind it all. What happened last night was only a test of your weaknesses. Superman CONTEMPLATES the information for a moment.
+135) 0) text: The OFFICIALS follow Waller into a AUDITORIUM where FEDER waits. They stand behind a LARGE THICK GLASS WINDOW which separa them from a LARGE ROOM with CONCRETE WALLS and two LARGE REINFORCED STEEL DOORS. Silas reaches out his hand to Federov.
+135) 1) dialog: Dr. Federov. I've read your work. It's quite an honor to finally meet you. Federov AWKWARDLY shakes Silas' hand. 120.
+135) 4) dialog: (to Waller) I'm sure. I'm very interested in seeing the results of your project Waller.
+135) 12) dialog: Kryptonian DNA is complex. How did you bridge the gaps between sequences.
+135) 14) dialog: Human?
+140) 0) text: The Officials FLEE the AUDITORIUM. The Ultimate SMASHES through the WALL and ROARS. Stewart DRAGS Silas down the CORRIDOR as the Ultimate SMASHES through another wall. 124. Waller watches as the Creature SMASHES it's way through t Complex.
+171) 0) text: The Hamilton Room has been turned into a makeshift WAR RO Silas, looking GRAVE, is standing among the other SCIENTI watching the scene on a HUGE SCREEN. Swanwick enters the room answers Stewart.
+171) 1) dialog: (to Swanwick) We have a direct line to the Pentagon. Stewart is leading an assault.

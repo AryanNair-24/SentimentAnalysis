@@ -1,0 +1,273 @@
+3) 14) dialog: a bank teller, writes out a receipt for a customer.
+3) 20) dialog: Next.
+3) 24) dialog: I can't cash this, M'am. Your last check hasn't cleared.
+3) 26) dialog: No, M'am. I'm sorry...
+3) 34) dialog: T at's very nice, M'am. But your c eck hasn't cleared and...
+3) 37) dialog: It's not my.fault your check didn't clear, M'am,
+3) 39) dialog: I wasn't getting smart, I was...
+3) 48) text: 9 Roland looks at Billy. Billy rolls his eyes. Roland smiles.
+3) 50) text: Now,-Mrs. Deagle...I'm sure this isn't that serious. I'm sure an apology would fix things right up. Wouldn't it? The woman shrugs.' Roland turns to Billy.
+3) 52) dialog: (angry whisper) I. didn't do anything wrong. AA;
+3) 60) dialog: Next.
+4) 0) text: Billy puts on his brown winter coat and green scarf. He picks up his dog eared copy of "The Once And Future King". He walks to the bank lobby.
+4) 2) dialog: Let me. He helps her on with the coat.
+4) 3) dialog: You look very pretty today.
+4) 5) text: Thanks, Billy.
+4) 6) dialog: I mean.. .not that you don't look pretty every day...But you look especially pretty today.
+4) 17) dialog: It's a book. You read 1t. Billy exchanges a smile with Tracy. Gary isn't amused.
+4) 19) dialog: King Arthur. . .Sir Lancelot... Knights of the Round . Table... Dragons...
+4) 21) dialog: (SHRUGS)
+5) 0) text: Billy drives home from work. He moves slow. The snow still falls. The roads are icy.
+5) 8) dialog: Pete...You okay? Pete nods. Billy helps him up. Pete brushes himself off. Billy is amused by the boy.
+5) 9) dialog: You want a ride home?
+6) 0) text: Billy drives, while trying to tell a story to Pete.
+6) 1) dialog: (energetic, en-
+6) 4) dialog: Here. You can borrow it. Pete takes the book.
+6) 12) dialog: (PROUD)
+6) 15) dialog: (CHUCKLES)
+6) 16) text: I've only got about 70 pages done... But as soon as it's published, you'll get one of the first copies. Speci- ally autographed by the author. Pete smiles. Billy makes a turn. He pulls into the parkin lot of
+6) 20) dialog: Hi, Dorry. (eyes light) Is it ready yet? Dorry smiles. He reaches to a shelf behind the counter. He removes ,a long object, wrapped in a piece of green cl He rests it on the counter.
+6) 24) text: 15 Billy watches with.wide eyes. Pete is curious. Dorry slowly unwraps the object. Inside the cloth, is a long silver sword, with a gleaming blade and an engraved steel.holster.. - Pete is impressed..
+6) 28) dialog: What do I owe you?
+6) 30) dialog: Thanks, Dorry.
+8) 0) text: Billy's car pulls into the driveway. He drops Pete off. Pete thanks him and Billy drives off.
+10) 3) dialog: sighs.He hates to be called "honey".
+11) 0) text: 1 I i Furnished with a sing Ile bed, two chairs, ajdesk and dre A manual Smith-Corona, rests on the desk top. A full-size mirror is fastened to[ the;closet. A few plants hang in the window. The walls are covered with Medieval drawings, a poster of St. George fighting the dragon, Frazzeta.paintings of warriors, etc. A miniature set of armor rests on the dresser's cabinet. Billy enters. He rests the sword on his bed. He unwraps it. He picks up the sword. He turns to the mirror and poses with the sword. He holds it at a few differentangles, trying to decide which looks best for him. He takes a few swings with the sword. He stops and smiles to himself. A real warrior.
+11) 4) dialog: Okay.
+11) 12) dialog: Yeah,.well it's none of your business. Nervous,Lynn popsvalfum with her wine.
+11) 15) dialog: No. It isn't. I'm old enough to take care of that stuff myself. I'm old enough to get a place of my own.
+11) 17) dialog: Good. I think we should talk about it.
+11) 19) dialog: No, it'll put you in a bad mood. Lynn and Billy exchange a glare. They look down at their food. A few silent, uncomfortable moments pass. Lynn looks back to Billy. She smiles. Time for the tender approach. She touches his hand.
+11) 21) dialog: (moves his hand from hers) Stop calling me 'honey'.
+11) 28) dialog: Bit it's gonna take me another- year to finish my novel. . .and what if it doesn't get published?
+11) 30) dialog: But what if it doesn't? Are you gonna take care of me until I'm old and grey, working on my 25th unpublished novel?...
+11) 32) dialog: (FRUSTRATED)
+12) 0) text: Rand hugs his wife. Barney is jumping up and down, tuggin at Rand's coat. Suitcases rest on the floor.' Beside them, is, Mogwai's plastic case. Billy enters. Rand sees him.
+12) 2) text: Billy .. , Billy walks to his Father. They embrace.
+12) 3) dialog: (happy to see him) Hi, Dad. They hold each other for a second. Lynn closes the front door. Rand picks up Mogwai's case. Lynn turn's to her husband.
+13) 0) text: Rand dims the lights. He motions for Billy and Lynn to sit on the sofa. They do. Barney sits on Billy's lap. Rand sits in front of them, on a leather easy chair. He rests Mogwai's case on his lap. He opens the case. Mogwai leaps out, onto the coffee table. Lynn and'Bill are startled. They stare at the creature in wonderment. Barney hates it. He growls at Mogwai.
+13) 6) dialog: (staring at Mogwai) What is it? A.monkey? A rat?.
+13) 8) dialog: (UNCERTAIN)
+13) 10) dialog: What's that?
+13) 12) dialog: Sounds kind of creepy. Barney still growls.
+13) 20) dialog: (inching back) Maybe later.
+13) 26) dialog: Little bastard. Mogwai scurries back to Rand. He pets the creature, comforting it
+14) 0) text: Billy sits at his desk, working on his novel. His typing is fast, intense. A small desk lamp lights.his working area. Mogwai watches Billy. from the darkness of the book shelv Above Billy., The creature begins to sing. Billy tries to ignore Mogwai's singing. No good. It gets on his nerves. Billy slams his hand on the desk top. He glares at the creature.
+14) 1) dialog: Shut up. Mogwai stops singing. Billy goes back to his writing. Mogwai.hops from the shelf. Staying out of the direct light, the creature moves across the desktop and cuddles up to Billy's arm. He jumps back.
+14) 2) dialog: Get off of me. Mogwai just looks at him.
+14) 3) dialog: Get.off`my desk. Billy shines the bright.desk light into the creature's eyes. Mogwai screams and jumps. off the desk, to the floo Billy looks down at the creature.
+14) 8) dialog: Stay down there. Billy goes back to his work. Mogwai is-bored. The creature leaps up to the bed.. It sees the sword. Mogwai lifts one end, examining it. It's too heavy. The sword slips off the bed and falls to the floor. Billy turns. Mogwai takes a step back. Guilty. Frightened. Billy picks up the sword. The handle is chipped.
+14) 9) dialog: (angry, to Mogwai) You stupid little... Billy raises the sword over.Mogwai. He's ready to kill the tiny creature. Mogwai loo] .s up at Billy. The creature is shivering. It is frightened. It's big, green eyes are watery. Billy suddenly feels sympathetic. He lowers the sword and picks up the.creature.
+14) 10) dialog: (TENDER)
+14) 11) text: I'm sorry.. .just try to be more careful. Billy holds Mogwai to his chest. He's petting it, com- forting it.
+15) 0) text: Billy sleeps. The room is totally dark. CAMERA PANS to another area of the room.
+16) 0) text: Outside, the snowing has stopped. Billy drives to work..
+17) 0) text: Billy's car pulls into the lot. He gets out. Tracy is getting out of her car. Billy walks up to her.
+17) 1) dialog: Starting work early today?
+17) 3) dialog: We've got a half hour before work. Wanna go have a cup of coffee? She.pauses and smiles.
+18) 0) text: Tracy and Billy sit at a table, sipping hot. coffee.
+18) 1) dialog: .and if I sell the novel, I'll ГўВЂВўbe able to quit the bank.
+18) 3) dialog: Why Paris?
+18) 11) dialog: Hey...Don't give up on your dreams. They just might come true. Tracy shrugs and takes a sip of coffee.
+18) 12) dialog: Can I ask you a personal question? (Tracy nods) What is it with you and Gary? Is he your boyfriend?
+18) 14) dialog: Do you think he is?
+18) 16) dialog: So there's a possibility...I mean... I.just might have a chance with you?
+19) 0) text: Dimly lint with Billy's small desk lamp. Billy waters his pl)ants_ ith a.spray bottle., Mggwai's case sits on the ed. The creature is inside. Billy finishes his watering. He sits at his desk. He takes adrink from glass of milk and snacks from a plate of brownies. He proofreads some pages from his novel.
+19) 2) dialog: (SHOUTS)
+19) 3) text: n here, Pete. Billy holds the tray of brownies to him.
+19) 4) dialog: Want some?
+19) 8) dialog: A present from my Dad. Pete picks up the creature and pets it. Pete likes Mogwai
+19) 16) dialog: I dunno, Pete...
+19) 26) dialog: They must only multiply with plain tap water.
+19) 30) dialog: (still dazed) Huh? Well, yeah. I guess so. Pete grabs one of the creatures, taking it from the group It cries out. In a high, piercing scream. The other creatures leap at Pete. They grab the creature and bring it back to their group.
+20) 0) text: Rand sits in a chair, opposite Billy. The 8 creatures climb all over Rand. Playfully tugging at his hair and
+20) 8) dialog: Dad...We don't know anything about these things.
+20) 10) dialog: Yeah, but isn't that pretty weird? I mean, if I throw water onГЇВїВЅBarney over there, we're not gonna;getjten copies. A creature licks Rand's ear. He chuckles.
+20) 12) dialog: Huh?
+20) 14) dialog: (hates the idea) Oh, Christ. C'mo'i,Dad...that's ...
+20) 16) dialog: Don't you think we should have them checked out first? Just to make sure...
+21) 0) text: It's snowing., Very hard. The bank has just closed. Billy hurries to his car. Gary walks up. Billy turns to him.
+21) 1) dialog: Oh, hi Gary. Look, I'm kind of in a hurry. Gary grabs Billy by the collar and throws him against the car.
+22) 0) text: Students hurry from the school, anxious to get home. 0 Billy's car pulls into the parking lot. He gets out. Pe waits in front of the school. Billy walks up to him. They enter the school,
+23) 6) dialog: Well, you're the closest thing this town's got to a scientist... and I need some information about an animal.
+23) 8) dialog: That's what I'm trying to figure out.
+23) 16) dialog: Watch this. Billy squeezes a drop of water on one creature. Mogwa' lets out a scream. A lump appears on the creature's back. The lump gets bigger...bigger...bigger ... Roy watches with wide eyes. Suddenly, another creature bursts from Mogwai's body. NINE IDENTICAL CREATURES now stand on the desk top.
+23) 19) dialog: (nods, checks his
+23) 23) dialog: sit on the sofa, watching the T.V. Roy enters. He sits across from Billy.
+23) 34) dialog: Anything else?
+24) 0) text: Silent. Dark. Billy sleeps. Distant sounds are heard. Animal-like noises. Gurgling. Slurping. Chewing. Billy wakes. He sits up in bed. The sounds continue. He looks around the room. The creatures are gone. Billy notices his room door.
+24) 13) text: 36 Lynn and Billy stand a few feet away, in the hallway. Rand lets the creatures loose in the attic. He quickly latches the attic's trap door, securing it with a padlock He climbs down the ladder.
+26) 3) dialog: Forget it. Billy stares coldly at his Father. Embarrassed, Rand look away.
+28) 0) text: The tr p door opens. Billy and Rand climb inside. They .both carry flashlights. They s ine the lights through the attic, looking for the creatu es. They see nothing. Billy spots something. He nudges his Father. There are NINE INDIVIDUAL PODS, stuck to various places-o the floor. The pods are 16 inches long, 12 inches in dia- meter. They are wrapped with a vein-like wire and covered with a thick, syrupy glaze.
+28) 2) dialog: Damn things are stuck to the floor. Rand picks up a baseball bat. He raises it over his head and swings down, hard. Against the pod. The bat snaps in two. The pod is unblemished. Rand rubs his stinging hands. Billy and Rand just look at each other. Puzzled.
+28) 12) dialog: Why did they attack my dog?
+28) 16) dialog: (STANDS)
+28) 19) dialog: Screw'science. I want them des- troyed.
+28) 21) dialog: (stern, bitter) Dad, they killed Barney. Or have you already forgotten? Rand just looks'at his son. Lynn pops a valium in the background.
+28) 28) text: RAND. He's holding the gas torch, aiming it at the cocoon Billy stands beside him. They're inside-theattic. Rand shuts off the torch. He touches the cocoon. It appears unharmed.
+28) 31) dialog: Now what do we do?
+28) 33) dialog: I don't think we should wait. Let's do it ourselves.
+28) 35) text: The attic door is locked. There are no windows up here. Nothing can get in or out. Rand pats Billy on the back.
+28) 50) dialog: Next.
+28) 52) dialog: (forced smile) Hello, Mrs. Deagle. How are you this afternoon?
+30) 0) text: Mrs. Deagle is screaming at Billy.
+30) 2) dialog: (trying to stay
+32) 0) text: Roland stands beside Billy. Mrs. Deagle patiently waits.
+32) 2) dialog: (HONEST)
+32) 5) dialog: (forcing himself) Mrs. Deagle, I...
+32) 10) dialog: Mrs. Deagle, I... (He can't do it. He lets out his honest feelings) I think you're an-ugly old fart and I; hope yo u fall down on the ice a td breath your fucking neck! Mrs. Deagle is sho ked. fi e other customers hide their laughter. Gary smiles. Tracy is proud.
+32) 12) text: Peltzer, you:are fired! Do you understand me?!? You're fired! Billy smiles.
+36) 0) text: Billy puts on his coat, preparing to leave. In the background, Mr. Fresco consoles Mrs. Deagle. Tracy walks up to Billy.
+36) 3) dialog: Yeah?...
+36) 11) dialog: Mom...stay downstairs. I'll be right home. He drops the phone and runs out of the bank. Gary exchanges a puzzled glance with Tracy.
+36) 17) dialog: Nervous. Sweating. Behind the wheel of his car. He tries to drive fast, but the heavy snowfall and icy roads preve it. Outside, the sun is going down.
+36) 25) dialog: still driving. He tries to pass a slow truck. He hits a is spot.
+36) 28) dialog: tries to start it. Nothing happens. It's stalled.
+36) 29) dialog: No...Not now... He tries again. No good. It's dead. Frustrated, Billy slams his fist on the steering wheel. Г‚В°
+38) 2) dialog: sprints down his driveway. He arrives at the porch of his home. He opens the front door.
+38) 9) dialog: Mom?.. Scattered giggling echoes from inside. Billy flips on the'front hall..light.. A few tiny shadows scatter. They dash into other rooms. Afraid of the light. Billy'slowly enters. He's scared. He looks to the top of the stairs.
+38) 10) dialog: Mom?... More giggling. Shaking'. Nervous. Billy climbs the stairs. At the top, he quickly flips on the bright hall light. Something darts up into the darkness of the attic. Escap- ing the light. Billy spots the open attic door. He walks beneath it. He looks up into the dark attic. BILLY. (shaking voice) Mom?...
+38) 43) dialog: He clutches his sword. Tight. Two creatures leap at him. He spears one in mid-air. He quickly spins around, knocking the other Mogwai to the ground. He stabs the creature in the throat. He twists the sword until Mogwai chokes to death on its own blood. The remaining creature attaches itself to Billy's leg. It takes a bite from his calf. Billy cries out in pair. Mogwai stays on. Biting hard. Billy kicks his leg near the fireplace. Scared of the firelight, Mogwai lets go. Billy stabs the creature.. He holds Mogwai in the roaring flames of the fireplace. Mogwai screams until it burns to a crisp. Billy removes his steaming sword. The charred creature collapses into the flames. Dead. Billy checks his leg. A small bite. He walks to the kitchen.
+39) 0) text: Billy stands quietly!'in the doorway.
+39) 5) text: 54 Billy flips the oven switch to "bake". The microwave purrs. Inside, Mogwai screams and pounds against the glass door. Soon, the creature falls.' Its body quivers. The armor-,. like skin bubbles and pops. Mogwai boils to death. Bill wipes the swea from hs brow and exits the kitchen.
+39) 7) dialog: Yes, could you connect me with the Sheriff's Office?...
+39) 9) dialog: Hello? ...Is this Sheriff Lucia?...
+39) 11) dialog: (DISCONNECTED)
+39) 14) dialog: (clicking the phone) Hello?... It hisses.
+39) 34) dialog: running through the snow. Following Mogwai's footprints.
+39) 45) dialog: arrives in Peggy's backyard. He sees the young girl's legs kicking from the snowman's torso. Billy rushes over. He grabs Peggy's legs. A tug of war. Billy pulls Peggy out of the snowman. Peggy brushes the snow from her face.
+39) 47) dialog: Are you okay?
+39) 65) dialog: running through the backyards, following Mogwai's footpri The carolers' singing echoes in the distance.
+39) 74) dialog: running to the group of carolers. They are puzzled by the.sword in his hand, his tattered, bloody appearance. But they continue singing. Billy follows the creatures' footprints behind the carole into the woods. Several feet away, Billy so-es Mogwai The creature is on top of,Pete's body Billy rushes, to the scene. Mogwai sees Billy. The creature gets scared and dashes of Billy stops
+39) 82) dialog: chasing the creature through the snow covered woods.
+40) 0) text: Divided into two sections. One side: A basketball court. The other: A swimming pool. It's dark. Billy enters.
+40) 2) dialog: know you're here. The flashlight stops on the gymnasium light box. The box is attached to a.farwall, beside. the swimming pool.
+40) 11) dialog: Colme on out...you bastard... It is silent again. Billy is frightened. He walks faster, moving to the light box. Billy hears another sound. He shines the light to another area. Again. Nothing. Billy starts to tremble. He runs to the light box. gets there and quickly flips open the box. Billy drops the flashlight and sword. The creature's sharp fingernails clutch onto Billy's ches Billy falls backward, with Mogwai holding onto him. They tumble into the swimming pool. The deep end.
+40) 20) dialog: watches from the doorway.
+40) 21) dialog: (SHOCK)
+40) 24) dialog: runs outof thegymnasium.
+41) 0) text: Billy runs from the building.
+42) 3) dialog: sits in front of the two men. A serious, helpless look covers his face. Frank leans toward Billy.
+42) 6) dialog: Yes... that's right...
+42) 9) dialog: (nods, displaying the bite on his
+42) 20) dialog: It wasn't a dog, sir. (NERVOUS)
+42) 21) text: Look... these things are deadly when they're alone. but if a couple hundred get loose.. . They'll be hungry. Real hungry. They'll head straight fo the town.. You' 1 h ve a major dis ster on you hГЇВїВЅnds Frank looks at Billy.
+42) 23) dialog: My Mother is dead. So is my friend. I am not imagining things. Billy glares at Frank. The Sheriff sighs. He looks at Officer Brent.
+42) 25) dialog: (not satisfied) Sheriff... you should radio for more help. . .warn the people in
+42) 27) text: Listen P?ltzer, now you're getting me pissed off. You're lucky I don't just throw vuu out on your ass for telling me stories. Frustrated, Billy exits with Officer Brent. Frank shakes his head. He picks up the phone and dials.
+43) 0) text: Officer Brent parks the 'car. Billy silts beside him. Brent looks at the building.
+43) 2) dialog: They're inside. Brent checks his pistol. It's loaded.
+43) 3) dialog: Look...You can't go in there alone. It's'suicide. You've got to radio for more help...
+43) 6) dialog: (PLEADING)
+43) 7) text: Please... listen to me...You can't go- in there... Brent gets out of the car and walks to the building. A nervous, frustrated Billy watches.
+43) 9) dialog: waits in the car. Frightened. Restless.
+44) 4) dialog: He hears the gunshots. He moves faster, desperately hacking at the handcuff chain with his sword.
+44) 13) dialog: Sweating. Nervous. Hacking away at the handcuff chain. Brent's screams fade in the background. Billy looks out the side window. He sees
+44) 15) dialog: panics. He hacks at the chain. Harder. Faster.
+44) 17) dialog: finally breaks the handcuff chain. He quickly moves to the driver's seat and starts the car.
+44) 24) dialog: drives faster.
+44) 25) dialog: (PANIC)
+44) 31) dialog: steers the patrol car into the first driveway. The car screeches to a stop. Billy gets out. Sword in hand, he runs to the front door of the house. He knocks. Hard.
+44) 34) text: Billy Peltzer?...What's going on here?..
+44) 40) dialog: (BREATHLESS)
+44) 43) dialog: (fast, hyper) You've got to keep your wind ws locked. Or better yet...boa d them up! And your lights... You've got to leave them on! f+ MR. FUTTERS What are you talking about, boy?
+44) 44) dialog: There are these little things... animals...They're all over the place! They'll kill you and your family!... Mr. Futters starts to laugh.
+44) 46) dialog: No sir, I...
+44) 48) dialog: Yes...
+44) 71) text: I knew he was crazy from the start. (glares at Billy) I hope they lock you up for good, and throw away the key. Mr. Deagle puts his arm around his wife.
+44) 83) dialog: looks away. More creatures are. surrounding the car. They pound against the windows. They want in. A scared Billy flips on the police radio.
+44) 84) dialog: Sheriff?...It's Billy Peltzer... Can you hear me?!?...
+45) 1) dialog: Please answer! It's me;--Billy... GREiГЇВїВЅ;ГўВ–Вєooo05
+45) 7) dialog: He was kiljed by.ithe creatures. What? Whe THE POLГЇВїВЅCE C AR is blanketed by creatures, trying to get in at Billy. Billy screams into the radio mike.
+45) 8) dialog: (panic, screaming into the radio mike) The creatures are all over town... breaking into houses... killing people... You've got to get help!... THE READ WINDOW SMASHES. The creatures start to rip away at the glass. A creature's arm smashes through the passenger window. Billy drops the radio mike.
+45) 11) dialog: starts the engine. He squeals out of the driveway.
+46) 16) dialog: Shaky. Nervous. Behind the wheel of the police car.
+46) 18) dialog: looks through his windshield. Up ahead, he sees
+46) 20) dialog: steers the police car into her driveway. He squeals to a stop. He grabs his sword and gets out of the car.
+46) 22) dialog: Tracy!...It's me! Billy!
+46) 27) text: 77 Tracy shouts down to Billy.
+48) 36) dialog: I'll get him out. Billy quickly opens the police car door. He jumps out.
+48) 39) dialog: He's dead. Tears fill Gary's eyes. Billy leads Gary to the car.
+48) 40) dialog: C'mon. Just stay in the light. They're afraid of the light. Gary walks. He looks scared. Helpless. They get to the police car. Billy opens the door.
+49) 10) dialog: We're just outside of town... Doesn't look like the creature's got here yet. (a beat) Let's go inside and warm up. They exit the police car.
+49) 20) dialog: .and they originate from this marketplace in Hong Kong. Dorrystands and shakes his head.
+49) 22) dialog: (looks at everyone) You see...they''re drawn to water. Now, if my hunch is correct... They'll be leaving town, and heading for the water tower-which means they'll have to pass by here tonight. (a beat) We have to get help. These things have to be kept under control. If they get to the water tower .they could spread all over the St ate... maybe the Country. They're like inhuman divining rods.
+49) 24) dialog: I did. But nobody would listen. GARY . Maybe if you weren't such a nut people would believe you.
+49) 32) dialog: That's not true.
+49) 34) dialog: That isn't..
+49) 36) dialog: (ANGRY)
+49) 45) dialog: Yeah, and then I'd like to try and get in touch with my Dad. If we can... THE LIGHTS GO OUT. Total darkness.
+50) 3) dialog: They're here. A frightened Gary holds Tracy.
+50) 5) dialog: Do you have a place without win dows?... .A place where we could be safe? Dorry pauses to think.
+50) 11) dialog: (clutching his sword) We have to hurry. Dorry leads everyone.out of the.room...
+51) 1) dialog: We'll stay ere until daybreak. Gary sits with Tracy on an old sofa. Dorry sits beside them in anГЇВїВЅold rocking chair. Billy pulls up an old wooden'chair. LOUD NOISES, CRASHES. BANGS, THUMPS, GIGGLES.. They echo from OFFSCREEN. The creatures rummage through the antique store.
+51) 12) dialog: Help me with this. Gary and Billy slide the cabinet in front of the door.
+51) 13) dialog: That'llkeep them out. We're safe now.. Billy sits back. The ГЇВїВЅoipjs contipue. Dorrylook at ever y on
+51) 26) text: ,That how I found out there was no Sahta Claus. Everyone has a chilled look on their faces. Dorry just stares. Billy stands and clears his throat..
+51) 27) dialog: Well...I think you should all try and get some sleep. (a beat) I'll watch the door. Everyone agrees. Billy moves his chair in front of the door. .Dorry relaxes.inhis rocking chair. Gary stretches out on the sofa, expecting Tracy to cuddle with him. Instead,"she walks:over to Billy.
+51) 34) text: Dorry has fallen asleep in his chair. Billy sits. Sword on his lap. He guards the door. Sounds still echo-from downstairГўВЂВўs,.throughout the a store.
+51) 37) dialog: sleeping in his chair. His hand still holds the sword on his lap. The others are asleep. Billy's hand quivers. The sword drops to the floor. He wakes. Startled. He quickly grabs the sword. Everyone else wakes from the sound.
+51) 38) dialog: (looking at their scared faces) Everything's okay...I just dropped my sword. Gary rubs his eyes.
+52) 0) text: All of the antiques have been smashed or broken by the creatures. Dorry is shocked to see his store in this state. Billy walks to the front door. He tries to open it. It's jammed. He pulls hard. Finally., it opens.
+52) 2) dialog: Try. the phone. .see if we can get help... Dorry walks back inside. Gary flips on a transistor radio that has been sitting on the shelf.
+52) 10) dialog: Damn.
+52) 13) dialog: How? The nearest town is fifteen miles away.
+52) 15) dialog: In this? You won't get far.
+52) 17) dialog: And-what happens when it gets dark? ...And you're on the road. Alone. Gary says nothing.
+52) 18) dialog: No. We have to stick together and fight these things. At least until we can get help... Tracy folds her arms.
+52) 26) dialog: Okay. We 11 get something to eat. (a beat), Them we go 1 to wJork.
+53) 2) dialog: sit at a table in the rear of the restaurant. Away from the grisly sights.- They eat burgers and fries. Gary takes a bite of his burger and nods to Billy.
+53) 10) dialog: It's.possible. But it's more important to get at the creatures. We've got the advantage now. It's daylight.
+53) 12) dialog: No...But they're all gathered in one place. And the sun rose before they could make it to the water tower. So they must be holed up between here and there.
+53) 14) dialog: (shakes his head) Too many windows. Too much light. it's got to be someplace dark. Totally dark.
+53) 16) dialog: No. There's too many of them.. They'd need a huge area...
+54) 2) dialog: You used to work here, right?
+54) 5) dialog: You're coming in with me., You can show me around.
+54) 7) dialog: Blow up the theater. Everyone seems puzzled. Billy turns to Gary.
+54) 8) dialog: This place has some kind of boiler room...with a furnace... right?
+54) 11) dialog: (to the others) I'll use the gas lines as a bomb. The fire will destroy the creatures. Dorry looks at Billy.
+54) 18) dialog: Okay...just remember;.We've got to stick together. And keep close to the flashlight. They're scared of the light. Everyone nods. Gary turns on the flashlight. Tracy takes Billy's hand. Gary is jealous. They enter the theater.
+55) 0) text: Gary shines the flashlight. The candy counter has been smashed. All of the candy is gone. The popcorn machine is empty. The soda machine has been emptied and turned on its side. Billy walks to the theater entrance door. He looks into the small window.
+56) 0) text: Countless pairs of green eyes shine in the darkness. The creatures murmur among themselves. Billy whispers to the others.
+56) 1) dialog: They're inside the theater. The others peer into the window.
+56) 2) dialog: (to Gary) How do we get to the boiler room?
+56) 8) dialog: Damn. There's too many of those things. They'll- see us. (PAUSE)
+58) 4) text: 98 Billy and the others move through the darkness. They craw on the floor, on the outside aisle of the theater, to the Exit door. They move carefully. Slowly. Silently. They make it to the Exit. They Crawl out. safe.- The creatures still watchthe movie.
+59) 0) text: Out of the theater, BillyTracy, Dorry and Gary run to the boiler room.
+60) 0) text: Billy walks to the large gas furnace. He examines the gas line. He finds the shut-of.f valve and turns off the gas. Billy takes off his coat and shirt. He removes his T-shir He looks at Gary.
+60) 1) dialog: Give me your T-shirt. Gary reluctantly takes. off his T-shirt. Billy ties the two shirts together. He winds them into a cord. He finds a connection in the gas line. He begins to pound against it with the handle of his sword. The. sound of metal ring out. CLANG, CLANG, CLANG.
+61) 0) text: The film's reel ends. The screen goes blank. The creatures are puzzled. Distracted. They throw their candy boxes and paper cups at the screen. The CLANG of Billy's sword hitting the pipe is heard. Several of the creatures group together. They move from their seats, to the exit door. They follow the sound.
+62) 0) text: Billy gives one final hit to. the gas line. The connectio snaps. He stuffs the line with his and Gary's shirt. He turns the gas back on and lights the end of the crumpled. shirt with a match. The flame slowly creeps up the shirt, to the line.
+62) 1) dialog: We have to get out. Fast. Gary points to a rear exit.
+62) 4) dialog: Not your gun. There's too many. Use the light. Gary stops shooting and fumbles for his flashlight. A creature leaps atDorry, pinning the old man to the ground. Other creatures attack Dorry. Biting. Scratching. Tearing. Billy picks up his sword and begins to knock the creature off Dorry. Creatures come at Tracy. She picks up a section of thick lead pipe and bats off the oncoming Mogwai. Gary finally turns on the flashlight beam. It keeps some of the Mogwai at bay. Fire creeps up the T-shirt, getting closer to the gas line. Billy gets all-the creatures off Dorry. More creatures come through the door. Gary gets scared. He drops the flashlight and runs for the rear exit.
+62) 9) dialog: (screams to Gary) Get back here! We need you! .Gary runs out, leaving the others alone. Billy and Tracy continue to fight the creatures.
+63) 0) text: The fire is`o'nly a few inches from the gas line. Soon the place will blow. Billy and Tracy still fight. Billy inches back to the rear exit. His arm blindly gropes for the 'door handle. The fire isГЇВїВЅalmost at the gas line. Billy's hand reaches the door handle. He opens it. He turns to Tracy.
+63) 1) dialog: Let's go. Billy picks up Dorry's body. Tracy protects him by battin away any oncoming creatures. They hurry out of the boiler room.
+64) 0) text: Tracy closes the boiler room door. locking the creatures inside. Billy.carries Dorry's body. He and Tracy run to the exit.
+65) 0) text: Tracy and Billy burst through the door. They fall into a snow p l e
+66) 4) dialog: emerge from behind the building. They walk towards Gary. Billy walks up. He's holding Dorry's body. He lowers the body-to the ground. He glares at Gary.
+66) 5) dialog: You bastard. You ran out on us. Left us alone. To die. Billy drops his sword and jumps Gary. They fall to the ground. Fighting. Punching.
+67) 0) text: Billy and Tracy look across the street.
+68) 0) text: Tracy examines Billy's shoulder. A deep cut.
+68) 2) dialog: Wait... He looks out the rear window.
+68) 4) dialog: looks at the creature on the back seat. It still cries out in that high pitched scream.
+68) 5) dialog: (to Tracy) Hear that? He's calling his friends for help. They're following us. As long as he's alive and screaming... they'll come after him.
+68) 12) dialog: We can't kill him. He's our bait. We'll be able to lead them away from the water tower. (points to the back seat) Just keep an eye on the thing... make s re it doe n' hurt us. Tracy keeps the swo d on the cre ture. Billy guns the engine and screeches off. He looks to the rearview mirror. THE COUNTLESS GREEN EYES FOLLOW..
+69) 10) dialog: We'd better hurry. They're getting close. They.. get into the car..
+69) 15) dialog: look around. Puzzled. Confused.
+69) 16) dialog: Where in the hell?...
+69) 19) text: Billy and Tracy move to the-car's hood. Billy opens it.
+69) 26) dialog: (to Tracy) Check the garage... ee if there's a bag...a b x... something we can keep this little bastard locked up in. Tracyhurries to the garage.
+70) 1) dialog: grabs the creature. Mogwai is still wounded and dazed. But it manages to bite and scratch at Billy. Tracy holds the tool box open. Billy forces Mogwai inside He closes the tool box and locks it shut. Mogwai is trapped inside. The creature pounds against the metal. Its loud cry echoes from inside. Billy checks the car's engine.
+70) 2) dialog: Damn! He ripped out the coil wires! The car won't run without them!
+70) 4) dialog: There's no time. (grabs her
+70) 14) dialog: run up the hill, towards the Greenhouse.
+70) 16) dialog: arrive at. the top of the hill. They run to the Greenhouse entrance. They open the doors and enter.
+70) 26) dialog: climb. Billy looks to the sky. Dawn is approaching. Billy looks below him.
+70) 29) dialog: are near the treetop. They cling to a large, thick branch The creatures still chase after them. Billy keeps them at bay.
+70) 54) dialog: He lies in bed. His wounds are bandaged. An I.V. needle is in his arm.
+70) 61) text: It's okay, Billy...It's over... Billy holds his Father tightly.
+70) 62) dialog: How's Tracy? RAND. Fine. She's in a room o{f her own. You can see her tomorrow. Billy nods.
+70) 64) dialog: Oh my God! No!...No!...
+70) 66) dialog: The tool box! It's locked! I didn't open it!...It's dark inside!...
+70) 69) dialog: (fighting,

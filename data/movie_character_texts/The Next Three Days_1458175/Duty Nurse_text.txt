@@ -1,0 +1,10 @@
+46) 2) dialog: (finds name in roster)                                 
+46) 5) dialog: I'm sorry. John turns away and heads down the corridor to find her himself. The Duty Nurse sees this and takes off after him
+46) 6) dialog: You can't go down there! John shoves open a door, moves on to the next.
+46) 7) dialog: You can't be in here!!
+254) 2) text: The duty nurse checks her chart and nods to a NURSE.
+254) 3) dialog: Put her in 7725 and start an IV.
+254) 4) text: The EMT passes her over to the nurse and leaves. The DUTY NURSE picks up the phone as they move off down the hall.
+254) 5) dialog: (into phone) Can you please page Dr. Becsey?
+259) 0) text: Lara and John step out into the hall. John's eyes flick t the Nurse's Desk but he keeps walking. As they pass we no DR. LIFSON standing there with Lara's file in her hand. T Duty Nurse notices as well. It takes a second for Lifson understand what is going on. She steps out into the hall and stares after them.
+259) 2) text: John yanks Lara's arm and makes a dash for the elevator, pulling his gun from his pocket. The Duty Nurse sees what is happening and bolts down the hall, throwing open the door to room 7725.

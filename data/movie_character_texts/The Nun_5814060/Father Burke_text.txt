@@ -1,0 +1,137 @@
+0) 0) dialog: -- shouldn’t be more than a few days at most. You were recommended for the journey because of your familiarity with the territory...
+0) 2) dialog: Romania, yes.
+0) 4) dialog: No. No apology necessary. Cardinal Conroy is a man who doesn’t make mistakes. I’m sure he had his reasons for selecting you. I'll still need your help at the convent since access for anyone but nuns is extremely limited. How long will it take for you to get ready for travel? 11.
+0) 6) dialog: Good. Collect your things. And Sister -- we'll need to wear civilian clothes while traveling. This is one time we don’t need to broadcast our faith... Sister Irene nods. Turns and begins to walk back to the hospital, her head bowed. Father Burke watches her go. As from somewhere, A SCREAM --
+0) 12) dialog: Mr. Thierault? Frenchie isn’t so sure he wants to confirm this. He looks over at Sister Irene. Suddenly aware of her. To Burke --
+0) 14) dialog: I’m sorry -- what?
+0) 19) dialog: We are here, Mr. Thierault, because of the nun you found at the Abbey. Oh. Shit. A nun?! 13.
+0) 21) dialog: And she’s a nun. Immediately lets go of her hand. Smooth.
+0) 23) dialog: Mr. Thierault -- Frenchie -- the Abbey -- is it far from here?
+0) 25) dialog: We'll do our best to act quickly. Do you know someone who can take us there?
+0) 29) dialog: So then you can take us. Hold on Frenchie. His eyes. Dark and haunted. You just kn he’d rather do anything else than go back there.
+1) 0) text: Frenchie leads them to a rusted bucket of a TRUCK. As he circles around, Father Burke puts their SUITCASES into it bed. And then -- The Truck drives off with them. Revealing Frenchie standing by a HORSE-DRAWN WAGON. Both wagon and horses have seen better days.
+1) 5) dialog: Beginning. Eight letters. With a W. Shows Sister Irene.
+1) 7) dialog: Dawning. Writes it in.
+1) 9) dialog: You have a knack for this, Sister.
+1) 11) dialog: It’s not the puzzles I like as much as I like the answers. I like the certainty of the answers. We don’t get much of that luxury in the lives we've been called for...
+1) 13) dialog: Is it? (pause) How long have you been a novitiate?
+1) 15) dialog: Three years. And you still haven't taken your Temporary Vows?
+1) 17) dialog: There is a formation process to becoming a Bride of Christ.
+1) 24) dialog: Is everything okay?
+1) 26) dialog: Perhaps you should get new horses.
+1) 29) dialog: “Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.” Frenchie looks over at Sister Irene. Back to Burke.
+2) 2) dialog: The Church reaches out to me when it needs an investigation into unusual phenomenon associated with Catholicism. Unofficially they call it ‘miracle hunting’...
+2) 4) dialog: We are. But I confess that is only part of our investigation. We also have orders from the Vatican to determine if the grounds are still... Holy. And off her look -- Frenchie stops. Points through the trees:
+2) 10) dialog: A result of the war?
+2) 12) dialog: Spit?
+2) 15) dialog: Did you try to contact someone inside when you found the nun?
+2) 18) dialog: Did you mention your discovery to anyone in town?
+2) 31) dialog: Here. In the walls. But before I get to those...
+2) 36) dialog: I am Father Michael Burke. This is Sister Irene Petra. To whom do we have the pleasure of speaking to?
+2) 38) dialog: Forgive our appearance. But as you know, Reverend Mother, clothes don’t make the Catholic. We are here on behalf of Rome to inquire about the recent death in your convent...
+2) 42) dialog: Would you allow us a moment please? Frenchie nods. Throws a look to Sister Irene. Back at Bur and the Abbess. And then leaves. Okay, round two: Jab. Block. Jab. Uppercut. 24.
+2) 44) dialog: Are you saying you weren't aware of the recent passing of the Nun?
+2) 46) dialog: Rome is concerned about the safety and well-being of your cloister. I'd like to speak with the Sisters so I can offer my assurances to the Church...
+2) 48) dialog: I'm afraid that won’t suffice. They’11l just send more and perhaps less diplomatic Church Officials.
+3) 0) text: The Gray Stone of the Abbey Walls. The White Knuckles of Frenchie’s grip on his shotgun. Suspect of everything. 25. Like a castle guard, he patrols the entrance. Can’t shake feeling of being watched. Looks up at the Dark Windows. Is someone up there? Watching him? Grooco000000000000aaaan. He spins. Shotgun at the ready. Sister Irene and Father Burke exit the Abbey. Startled, Frenchie quickly lowers his aim.
+3) 4) dialog: That was the Abbess. She is the second in command of the Abbey.
+3) 7) dialog: We need to wait until morning to speak with the nuns...
+3) 9) dialog: That isn’t necessary. There are accommodations for us in the chapel... Frenchie about to protest. But bites his tongue instead. 26. FATHER BURKE (CONT’D) When you found the body, Frenchie, what did you do? Leave it?
+3) 11) dialog: Where did you move it to?
+4) 0) text: Frenchie leads Father Burke and Sister Irene around the perimeter. Stops outside Storm Cellar-like DOORS.
+4) 4) dialog: What? Pointing to Sister Victoria -- 27.
+4) 6) dialog: What do you mean?
+4) 8) dialog: He creeps over toward the Sister Victoria’s Body. Needs t get a closer look. On the shelves, food frozen with rot.
+4) 9) dialog: While unusual, there have been cases of bodies twitching or sitting up not long after death.
+4) 11) dialog: You're not helping.
+4) 14) dialog: Looks to be a key of some kind. He tugs at the KEY. But the Rosary it’s attached to is lo in Sister Victoria’s dead fingers. Pulls harder. Rosary SNAPS. Beads scatter. But the Key is free. He inspects it further. Sees an ENGRAVING in its bronze:
+5) 0) text: Overgrown with Tombstones and Tall Grass. Next to a SMALL CHAPEL that looks as if it’s still standing by faith alon Father Burke and Sister Irene stand at Sister Victoria’s Fresh Grave. Frenchie stands nearby with a shovel. Heads bowed because --
+5) 1) dialog: -- by Whose mercy the faithful departed rest, send Your holy angel to watch over this grave, through Christ our Lord. Amen.
+6) 4) dialog: You should begin heading back yourself. I imagine you don’t want to be caught on those roads when night falls... Frenchie looks up at the HEADLESS STATUE OF THE VIRGIN MA
+6) 6) dialog: We'll be fine, Frenchie. Come back tomorrow. That should give us enough time to get what we need.
+7) 5) dialog: Transferals.
+7) 7) dialog: Transferals. Thinks...
+7) 9) dialog: Not enough letters.
+7) 11) dialog: Perhaps. He continues to go over his puzzle. Sister Irene has something to say. You can tell by the wa she sneaks looks at Father Burke. Say it now? Or... now? What about... Now:
+7) 13) dialog: I was a chaplain in the war, stationed in near Eus in the south of France. There was... an incident. A child with visions. My work with the boy drew the attention of the Church and because of that I was recruited to look into the more unusual matters involving the Church...
+7) 15) dialog: How do you --
+7) 17) dialog: That they were a miracle.
+7) 19) dialog: And Bishop Form, he spoke to you about these visions?
+7) 21) dialog: And did he consider possession? 33.
+7) 23) dialog: Have you had any visions since?
+7) 25) dialog: Yes. He stands. Takes his plate over to the sink. Exits out of Kitchen. Leaving Sister Irene all alone. With only more questions.
+9) 0) text: A starless, moonless night. Feels like it’s near lifeless too. As Father Burke pauses by a crumbling tombstone. Where’d the boy go? Father Burke walks deeper into the cemetery. His eyes dar from grave to grave. Searching. The Boy could be anywhere Or maybe he’s gone entirely. Because he doesn’t seem to b anywhere. Damnit. Father Burke begins to turn back but -- The Boy. 35. There he is. Standing still in the darkness. His head hun And whoa, it looks like he’s SPROUTED WINGS from his back Who is this? Unnerved, Father Burke slowly approaches. Slow and deliberate. Doesn’t want to scare the boy away. As he draws closer, he realizes those wings. They’re ston Because the boy is standing in front of an ANGEL STATUE. Boy keeps his head down. His eyes off Burke. Father Burke uses this as an opportunity to get even closer when -- The Boy SNAPS HIS EYES up at Burke. Burke stops. Can’t believe it --
+9) 1) dialog: Daniel? The Boy begins to convulse, like he’s choking. Something caught in is throat. Something big. He HACKS. Opens his mouth. And slowly VOMITS out a LARGE SNAKE. The Snake hissssssssssses as it writhes out of The Boy’s stretched open mouth. Slithers into the grass. Startled, Father Burke backs away and start to hurry acro the cemetery. Looks back over his shoulder and -- Falls into a hole in the ground. A SHALLOW GRAVE. Burke l hard in an Open Coffin. Lid SLAMS shut and
+9) 14) dialog: Thank you... Sister... thank... Streaked with dirt and sweat, Sister Irene looks past Fat Burke and back into the coffin. It’s filled with BOOKS.
+11) 5) dialog: -- Witchcraft. He looks up from writing in his JOURNAL as Sister Irene enters the
+11) 8) dialog: There is a belief in certain circles that destroying any object of magick could release whatever power was believed to be stored inside. I suspect that’s why they were buried in the grave of the Marquis instead of being destroyed outright...
+11) 10) dialog: The original owner of the castle it seems. His seal is in each of these books... Shows her the SEAL painted on a page: It resembles the ourobouros. Only more sinister. 41.
+11) 12) dialog: I pray our talks with the Nuns will answer that for us... Sister Irene. Lost in bad thoughts. He nods. FATHER BURKE (CONT’D) Everything all right, Sister?
+11) 14) dialog: I saw something too. It’s what drew me to the cemetery... A boy. Daniel...
+11) 16) dialog: Unlike your case, after what I believed was careful evaluation, I made the judgment he was possessed and proceeded to act accordingly, within the laws of the Church. It was my first exorcism.
+11) 18) dialog: The Church thought so. They believed the evil was cast out...
+11) 20) dialog: Daniel sustained severe injuries during the exorcism. Ones from which he could not recover. He died days later. I often wonder if I was too eager with my determination. (pause) That is a puzzle. 42.
+11) 22) dialog: Territory.
+11) 24) dialog: Cardinal Conroy recommended you because you were familiar with the territory. He didn’t mean Romania. He meant your visions. You’re familiar with strange phenomenon... HOLD ON Sister Irene. If she wasn’t so pious she’d probab be screaming ‘oh fuck oh shit’ inside her head right now. Maybe she is anyway.
+12) 0) text: Everything about the Convent screams ‘Don’t Come Any Clos But there’s Father Burke and Sister Irene anyway. Trudging up the path. They stop when they come to Sister Victoria’s BLOOD STAIN because...
+12) 2) dialog: Another puzzle.
+12) 4) dialog: It’s common for evil to surround a place such as this. (MORE )
+12) 6) dialog: It is a fortress, after all. Built to keep unwanted forces out. The question we have to answer, Sister, is has it been breached? Not to give anything away but... Yeah. It has.
+14) 0) text: Candles lit. Feels like it’s always night time in here. The Chair sits empty. We hear FOOTSTEPS ECHO before we se Sister Irene and Father Burke enter the chamber. 45. Both quiet. Trying to listen for signs of life. But they hear none. Father Burke walks over to the DOORWAY blocked by the Portcullis. Beyond it, a Passageway draped in shadow. Through the Iron Grate --
+14) 1) dialog: Hello? Abbess? As requested, we’re hear to speak with the Nuns... Listens. Still no answer. He looks back at Sister Irene: Any ideas? But then -- ClinkClinkClinkClinkClinkClinkClink! Of the Portcullis. Father Burke steps back. In the walls, they hear the rusted links of an Ancient Ch clinkclinkclink as it raises the Portcullis. Sister Irene walks over and joins Father Burke at the threshold of the
+14) 4) dialog: Take this. 46. She does. FATHER BURKE (CONT’D) See what you can find out about it. It was obviously important to the deceased... Sister Irene nods. Runs her fingers along the engraving. R1:18. Wondering what it means... FATHER BURKE (CONT’D) I realized last night what it meant. Revelations 1:18: ‘I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of Hell and of death.’ Frankly, I’d rather not know that. Sister Irene I think agrees. As she gives another quick glance to the teeth above. Before she crosses steps into shadows of the Passageway. We follow. Through Narrow Darkness and into the Bright Light of a
+15) 0) text: Father Burke flips through one of the Dusty Books. On eve page, the same passage. Over and over again. He reads --
+15) 1) dialog: ‘,..And out of the ground the Lord God formed every beast of the field and every bird of the sky, and brought them to the man to see what he would call them; and whatever the man called a living creature, that was its name.’ Thump. Father Burke turns. ThumpThump. Coming from the direction of those TOMBS. He closes his journal and puts it back into his Satchel a walks over toward them. Death Masks stares back at him. Which one was it? Thump. That one. Father Burke walks over to the Tomb. He puts his ear up against its slab. Hears something moving inside. Father Burke looks around the Parlour. He sees an old FIR POKER leaning up against the Book Shelf. Grabs it and returns to the Tomb. Uses the Poke to pry op the Tomb, revealing -- A SHRIVELED, OLD CORPSE. Surrounded by coils and coils of WRITHING SNAKES. Holy shit... Horrified, Burke reels back. It’s as if the very walls of this castle are infested with these serpents. He watches a snake slither across the length of the parlo and disappear into a crack in the stone. 50. Father Burke quickly shuts the Tomb. Turns and looks back the Parlor: What is this place? And then, a flash of memo Prompts him into action. From his satchel, Father Burke pulls out one of the Ancie Texts found last night. Flips the pages and sees -- AN ILLUSTRATION. Of this Parlor. But with a symbol on the floor. Father Burke walks to the center of the room. Gets on his knees and inspects the floor. Smells it. Huh. Something t for sure. Dips his finger in it. Tastes that and yeah it’ FATHER BURKE (CONT’D) Sulphur. Reaches back into his bag. Pulls out a VIAL filled with POWDER. Pours a little of it onto the floor. Strikes a MATCH. Lights the powder with it and --
+18) 0) text: Sister Irene steps out of the Passageway. Sees the burnt outline of the Pentagram. Makes the sign of the Cross. Looks around the Parlour. It’s empty. No sign of Father Burke. She hurries for the exit.
+19) 0) text: Father Burke looks over at Sister Irene as she exits the Convent. Frenchie runs over to her.
+19) 4) dialog: Nothing. Just more remnants of the past... (to Sister Irene) What did you find?
+19) 6) dialog: Really? Oh. Shit. 55.
+19) 10) dialog: The Sisters don’t pray all at the same time. It’s done in shifts.
+19) 12) dialog: That isn’t Matthew. That’s Proverbs.
+19) 17) dialog: Who?
+20) 0) text: Frenchie leads Sister Irene and Father Burke to the entra He hesitates. Sheepishly looks over to Sister Irene.
+21) 5) dialog: Then in that way you are not unlike a Priest. We also have our stories that some would call rumors or exaggerations. But we know the truth and we protect it, so we can help others... So I assure you, Gregoro, we listen with open minds. Gregoro nods. Well said.
+28) 0) text: Father Burke, Sister Irene, and Frenchie exit The Black B Pub and walk off down the empty street. Determined --
+28) 1) dialog: We’ll need the use of your wagon and horses again, Frenchie.
+28) 3) dialog: What else would you have us do?
+28) 5) dialog: That Abbey existed for hundreds of years without incident. Until very recently. You heard Gregoro -- something changed. If there is a portal and it’s been opened we need to close it... (pause) We only need your wagon, Frenchie. We don’t need you. Frenchie looks over at Sister Irene. He can sense her une her hesitation, her fear.
+29) 0) text: Father Burke and Sister Irene sit in the Box Seat. Burke holds the reigns as the Horses clopclopclop along. Like it’s a funeral procession.
+29) 2) dialog: And it has so far, hasn’t it?
+29) 4) dialog: Faith protects. And the truth -- John 8:32 -- the truth will you set you free... ClopClopClop...
+30) 0) text: Father Burke and Sister Irene enter. Father Burke walks o to the Passageway. He is about to enter but -- wait --
+30) 2) dialog: But Sister Irene --
+30) 4) dialog: You make a good point. But I’m still going in. Yeah he is. Except for what happens next. Which happens i seconds, okay? Father Burke -- -- starts to move toward the door. But they both hear a slight click! above them. They look up right as -- The Portcullis drops. Sister Irene pushes Father Burke out of the way. He falls back as --
+30) 7) dialog: I‘1l look for another way in. Sister Irene turns to go but not before -- FATHER BURKE (CONT’D) Sister. Thank you. She nods. 66. And steps into darkness.
+31) 14) dialog: Abbess. He glances back over at the Passageway.
+31) 16) dialog: I fear something is very wrong here, Abbess... I don’t believe it began with the deceased Nun.
+31) 18) dialog: That Nun -- I found her clutching something in her hands. A key. Pulls the Rosary Key out from his side pocket. Dangles it front of him. Like bait. 72. FATHER BURKE (CONT’D) Would you happen to know what it opens? I suspect it was important to her...
+31) 20) dialog: Abbess? He strikes one. Lights a candle. The glow brightens revealing -- oh -- She's still seated there. But her head is slumped forward Like she fell asleep. Or, y’know, died. Father Burke scans the room. As if there’s been a change -- no, a charge -- in the air vague familiar feeling to him. Eyes fall back on the Abbe FATHER BURKE (CONT’D) Abbess... No answer. Shit. Father Burke lifts the candle. Holds it high, expanding i glow as much as the small flame can muster. He begins to slowly approach The Abbess. FATHER BURKE (CONT’D) Abbess? No answer. And now he stands before her. 73. He reaches out and touches her shoulder. She does not sti And is cold to the touch. Huh. His hand drops to the edge of the Parlor Veil. Is he goin to... Oh, he is. He gathers the edge of it in his hand. Deep breath. And he begins to raise the veil. So slow. Painfully so. Here it comes, her face about to be revealed but -- The Abbess’ Hand SNATCHES his arm. Don’t go any further. Startled, Father Burke steps back. Her fingers still clut his arm as he does and -- holy shit -- Her arm breaks off and comes with him. Father Burke drops the candle. It still glows. A miracle. He grabs her arm with his other hand. Her grip strong, he struggles to pry off her fingers. They look like the ends a dead tree branch. Gnarled, withered, spindly. Still stepping back, he frees himself and the arm drops. Shocked, he looks back up at the Abbess. Still seated in chair. One arm gone. Not that you can tell, really. And then -- The Abbess leaps out of her chair. Lunges at Father Burke. He falls back and The Abbess leaps on top of him. He struggles to fight her off as he hears her SHRIEK --
+33) 0) text: Father Burke approaches the Confessional. Its carvings of damned souls seem to stretch out and reach for him. One of us... One of us... One of us... His eyes dart to the shadows that surround him. The Abbes could be cloaked in any one of those. Or maybe she’s -- Behind the Confessional Curtain. Because it flutters. Eno to raise your hair and get your palms sweating. Father Burke reaches out for the curtain. Grabs the edge pulls it back, revealing -- 77. Nothing. He steps
+33) 3) dialog: Daniel?
+33) 5) dialog: Six... seven years.
+33) 7) dialog: I-I don’t know... Father Burke leans forward. Peers through the Lattice. Is really in there? Can’t see. He quickly exits back into th
+34) 22) dialog: The trail of blood.
+34) 24) dialog: Yes. He pulls out the Rosary Key. Hands it to her. She turns t Sister Ruth and --
+34) 26) dialog: Sister Irene... Sister Irene looks over at Father Burke. Both he and Fren are looking at her, like -- FATHER BURKE (CONT’D) Who are you talking to? Sister Irene looks back at Sister Ruth and the Other Nuns But they’re gone. Desperate, she looks around the room. Nowhere they could have gone. Only Sister Miranda in the Rocking Chair remains. The roc diminished. Now she just sits. 84. FATHER BURKE (CONT’D) Visions. Sister Irene. A dawn of realization appears on her face. again she approaches Sister Miranda. And this time she se The Corpse of Sister Miranda. Clearly she’s been dead for months. If not longer. Sister Irene GASPS. Father Burke grabs a BEDSHEET. Throws it over Sister Miranda in the chair. He pulls Sister Irene away. As they step back, Sister Ire gathers herself. Sign of the Cross. Begins a prayer but - Cloaked Sister Miranda springs to life. Lunges at Father Burke. STABS the Crucifix into his side, tries to dig her nails into his face. Father Burke HOWLS. As he SLAMS Sister Miranda back down onto the cot as she twists and contorts under the sheet. Pins her down. FATHER BURKE (CONT’D) Help me hold her down! Frenchie helps. Demonic WAILS and MOANS through the sheet. Not giving up. Father Burke looks around for anything that may help. See CUP of WATER near the bedside. Light bulb. Prays over it: FATHER BURKE (CONT’D) God's creature, water, I cast out the demon from you in the name of God the Father almighty, in the name of Jesus Christ, His Son, our Lord, and in the power of the Holy Spirit. May you be a purified water, empowered to drive afar all power of the enemy, in fact, to root out and banish the enemy himself, along with his fallen angels. We ask this through the power of our Lord Jesus Christ, who is coming to judge both the living and the dead and the world by fire. 85. He looks to Sister Irene. FATHER BURKE (CONT’D) Hand me the holy water. Sister Miranda moves for it. Sister Miranda flails. Knock Frenchie into Sister Irene who spills the Holy Water. Oh no... Holy Water mixes with the blood of -- Father Burke. He and Frenchie wrestle Sister Miranda back down. Father Burke looks over at the Door. FATHER BURKE (CONT’D) Go out to the hallway and get ready to shut the door. They can barely hold Sister Miranda down any longer. Her screams like a rake scraped against her throat. Sister Irene goes over to the Door. Grabs the handle. Father Burke looks over at Frenchie.
+34) 27) dialog: One... two... They release Sister Miranda. They race toward the Door. Sister Miranda close behind. They makes it out just as --
+34) 31) dialog: No. Not yet. The demon still needs a conduit -- a human host to escape these grounds. Sister Victoria must have been the last nun. I suspect that’s why she jumped from a window. It wasn’t suicide. It was a sacrifice so the demon couldn't have her soul. We need to seal the portal and contain the evil.
+34) 36) dialog: By what? 87.
+34) 38) dialog: ’,..the keys of Hell and of death.’
+34) 40) dialog: Are you certain of this?
+35) 1) dialog: --May the love of God unite you and make you a true family that united in the name of the Lord, it may be an image of Christ’s. Amen. Sister Irene rises. And now we realize she’s wearing the BLACK HABIT. The symbol of complete devotion to God.
+36) 0) text: Sister Irene, Father Burke and Frenchie hurry with the ke The Nun stares up at her from the courtyard. Oh no...
+36) 1) dialog: Keep in the shadows. 88. The only thing they can do is maneuver as best they can i the opposite direction from which the Nun approaches. Until they reach the
+36) 3) dialog: 
+36) 5) text: FATHER BURKE (CONT’D) We command you, begone and fly far from the Church of God, from the souls made by God in His Image and redeemed by the Precious Blood of the Divine Lamb. No longer dare, cunning serpent, to deceive the human race, to persecute God's Church, to strike God's elect and to sift them as wheat. For the Most High God commands you, He to Whom you once proudly presumed yourself equal; He Who wills all men to -- Nun CHARGES at Father Burke. FATHER BURKE (CONT’D)
+36) 14) dialog: 
+36) 15) text: Thwoooom! Sister Irene is yanked out of frame. She slides across the floor of the undercroft. Still hold onto the keylight as she SCREAMS. FATHER BURKE (CONT’D) Sister! She’s gone. But we go with her. Staying in the light to protect us until we find -- Sister Irene clutching to the sides of a DOOR in the wall Barely hanging on. About to get sucked into the
+36) 19) dialog: Sister Irene! The Demon Nun looks beyond Sister Irene. Locks eyes with Father Burke. A showdown of epic proportions. FATHER BURKE (CONT’D) VALAK! I cast you out! I banish from this place all curses, hexes, spells, witchcraft, black magic, demonic assignments, diabolic infestations, oppressions, possessions; all that is evil and sinful! In the name of Jesus Christ, I command you! Valak SCREECHES. His grip loosens on Sister Irene. She pulls herself out and over to the side. Scrambling sh reaches back for the Door. SLAMS it shut. JAMS the Rosary Key into the lock. Turns it and -- Holy Light floods the room. Vanquishes the evil. 93. Debris settles. And from out of a settling cloud of dust, Father Burke emerges. Bruised and beaten. But alive.
+36) 21) dialog: Are you hurt, Sister? Shakes her head. She looks over at where Frenchie lay.
+37) 0) text: Father Burke and Sister Irene walk toward the exit. Light streams in through the cracks. The darkness lifted at las
+38) 0) text: Father Burke and Sister Irene sit in a pew.
+38) 1) dialog: Are you sure you won’t come?
+38) 3) dialog: I will tell Cardinal Conroy to send the help you need.
+38) 5) dialog: Perhaps. But the greater evil was contained. If there was a demonic force attached to Frenchie it will reveal itself. (MORE )
+38) 7) dialog: I am certain someone good will be there to send it back..
+38) 9) dialog: Faith. Because I have faith, Sister... Sister Irene smiles.
+39) 0) text: Sister Irene stands in the Doorway as she watches Father Burke disappear beyond the crosses. Looks down to her han Holding a BLACK HABIT. Miranda’s, maybe. Or Sister Victoria’s. But now? It’s hers. She puts on the Habit. Wears it well. Gives one last look to the outside world before --

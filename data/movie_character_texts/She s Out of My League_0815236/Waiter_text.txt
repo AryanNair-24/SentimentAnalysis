@@ -1,0 +1,12 @@
+13) 1) text: Kirk and Molly sit across from one another in a booth. WAITER arrives.
+13) 3) dialog: Start you off with something to drink ma'am?
+13) 11) dialog: And for your... brother?
+13) 15) dialog: Oh, I'm sorry. I just figured...
+13) 19) dialog: Great.    Sorry.
+13) 20) text: The waiter exits.
+27) 6) text: The waiter brings a drink to Molly.
+27) 8) dialog: (French accent) Madame. From ze gentleman in ze grey suit.
+27) 18) text: Molly smiles and takes his hands. The maitre d is watchin and getting angry. The waiter returns with another drink.
+27) 20) dialog: From ze gentleman in ze purple tie.
+27) 25) dialog: Of course.     No more drinks, madame.
+30) 13) dialog: Madame, your bill has been covered by ze woman in ze Raiders Jacket.

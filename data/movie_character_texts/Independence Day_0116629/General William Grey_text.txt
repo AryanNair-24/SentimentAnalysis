@@ -1,0 +1,76 @@
+7) 0) text: Elevator doors OPENS revealing four star GENERAL GREY, Commander in Chief U.S. Space Command.  Understandably nervous, the COMMANDING OFFICER escorts him down the hall
+7) 1) dialog: Who else knows about this?
+8) 2) dialog: Looks like a big turd. The two Officers exchange a glance.
+8) 4) dialog: A meteor?
+8) 6) dialog: How do you know?
+8) 8) dialog: It's doing what?
+8) 10) dialog: Get me the Secretary of Defense. (pause)
+23) 3) dialog: Forgive me, but with the little information we do have, the only thing that would accomplish is turn one dangerous falling object into many. Just then the door opens and Constance enters.
+23) 8) dialog: That's not your call to make, Mr. Nimziki.
+30) 1) dialog: Where in the Pacific? (turning to the President)
+30) 6) text: ...Widespread panic has gripped the countryside as thousands have taken to the streets and clogged the highways.  Hundreds have been injured... General Grey confers with the Atlantic command CINC.  He turns to the President and whispers.
+30) 7) dialog: Mr. President, we have an AWAC on the west coast.  E.T.A. with contact point, three minutes.
+37) 0) text: The phone line goes dead.  General Grey spins to an AIDE.
+37) 1) dialog: Get them back on line.
+37) 9) dialog: (to President)
+37) 19) text: Connie, let's issue statements advising people not to panic, to stay home and take cover. Constance issues commands to her staff as they quickly exit along with most people in the room.  General Grey go over to the President.
+37) 20) dialog: With your permission, Mr. President, I'd like to remain my your side.
+37) 22) dialog: Sir, what happens if they do become hostile?
+40) 0) text: Marty stares at his television watching General Grey addressing the press.  David enters, staring at his readi
+83) 5) dialog: More ships keep arriving, fifteen in total so far.
+83) 7) dialog: We're trying to communicate with them on all frequencies but we're getting nowhere.  Atlantic Command is working on a type of visual communication.
+107) 2) dialog: But Mr. President...
+114) 0) text: The President steps inside, turns to General Grey.
+114) 2) dialog: She should be shortly. David flips open his laptop which reads: 09:07. 09:96...
+136) 3) text: You know, when I flew in the Gulf War everything is simple.  We knew what we had to do.  It's not simple anymore, Connie.  A lot of people died today.  How many didn't have to? Constance realizes there's no comforting him.  She suppor him silently by being there.  General Grey comes over.
+136) 5) dialog: The helicopter never arrived at Nellis and there's been no radio contact. The news rocks the President.  They both know what that m GENERAL GREY (cont'd)
+136) 8) dialog: All satellites, microwave and ground communications with the cities are gone.  We believe we're looking at a total loss. Maintaining his composure, the President looks up at the tracking screens.
+136) 10) dialog: (pointing)
+143) 3) dialog: Fire at will.
+162) 2) dialog: Have NORAD relay intelligence to our on board computers? The Technician nods and exits.  Defeated, the President s sullenly.
+162) 3) dialog: We've moved as many of our forces away from the bases as possible but we've already sustained heavy losses. The President nods his approval absently.  Coming out of bathroom, David overhears.
+162) 7) dialog: What's the latest from NORAD?
+162) 10) dialog: My God, the Vice President and the  Joint Chiefs...
+162) 15) dialog: (stern)
+177) 0) text: General Grey and Nimziki are in a heated argument.
+177) 1) dialog: You were the head of the National Intelligence Agency!  You knew all about this.  When were you planning on informing the rest of us!?
+177) 3) dialog: Christ, why didn't you say anything about this when they first arrived?  You could have warned us before we launched a counter attack that cost us hundreds of American pilots! Just then the President enters along with Constance and s other ADVISORS.  He examines a paper map of the United St tacked to the wall, each major city circled in black.
+177) 5) dialog: (composing himself)
+177) 6) text: And there are scattered reports of sightings over Miami, Ft. Worth, And Memphis. The President and his team take seats at the large confer table. GENERAL GREY (cont'd)
+177) 9) dialog: We're down to approximately fifteen percent, Sir. (beat)
+177) 21) dialog: Didn't anyone tell you?  I'm sorry.  El Toro was destroyed in the attack. Steve is shattered, he had no idea.
+181) 3) dialog: Wait. (to Okun)
+184) 15) dialog: (to Mitchell)
+184) 20) dialog: Mr. President, are you okay? Woozily the President sits up, a strange look in his eye.
+190) 4) dialog: The major cities have been deserted.  Civilian casualties should be at a minimum, sir. One map screen, ENLARGES, tracking the bomber on route to Houston.
+195) 2) dialog: Mr. President, do you wish to deploy. Still there is no answer.
+213) 13) dialog: How did you do that?
+213) 16) dialog: Are you telling us you can send out a signal that will disable all their shields?
+213) 23) dialog: How long would their shields be down?
+213) 26) dialog: With their shields down it might be possible.
+214) 0) text: Constance, General Grey and the President are walking dow hall.  Nimziki rushes to catch up.
+214) 3) text: But this is a mistake, I am thankful to say, I do not have to live with.  Mr. Nimziki, you're fired. The President releases him and turns to General Grey. PRESIDENT (cont'd)
+214) 5) dialog: Yes, Sir. He storms off leaving everyone stunned.
+219) 2) dialog: Better than we thought. General Grey leads the President over to the wall map.
+219) 3) dialog: We have confirmed divisions of troops from different armies all around the world.  Most of Europe, the Middle East and Asia are battle ready.
+219) 7) dialog: Pilots, sir.  We don't have enough people to get them in the air.
+224) 1) dialog: Beggars can't be choosers, sir. Nodding in agreement, the President walks among the rank file.  Slowly they turn their attention to the President.
+224) 4) text: Perhaps it's fate that today, July the Fourth, we will once again fight for our freedom.  Not from tyranny, persecution or oppression.  But from annihilation.  We're fighting for our right to live, to exit.  From this day on, the fourth day of July will no longer be remembered as an American holiday but as the day that all of mankind declared we will not go quietly into the night.  We will not vanish without a fight.  We will live on.  We will survive. The crowd erupts into applause and cheers.  The President turns and walks over to an Officer holding a bundle of clothes.  General Grey confronts the President as he begi disrobe.
+224) 5) dialog: Mr. President, just what do you think you're doing?
+235) 2) dialog: (filtered)
+236) 0) text: General Grey is standing by the large map tracking the al ships over the United States.
+236) 3) dialog: I think our secret is out. They're headed right for us.
+237) 1) dialog: (filtered)
+242) 3) dialog: (filtered)
+248) 0) text: Mitchell turns from one of the consoles to General Grey.
+248) 2) dialog: (into mic)
+249) 1) dialog: (filtered)
+252) 1) dialog: (filtered)
+253) 0) text: Mitchell and General Grey move over to a monitor showing visual from the Present's Plane.  They SEE the missile moving towards target.
+253) 1) dialog: Keep your fingers crossed.
+255) 1) dialog: It didn't work.  Disengage.  Sir, get your people out of there.
+257) 1) dialog: You did it!  A direct hit!
+267) 1) dialog: (filtered)
+269) 1) dialog: We're out of time.  Get out of there!  Get as far away as you can.
+277) 0) text: Intercepting the celebration, General Grey moves over to radio technician.
+277) 1) dialog: Let's get on the wire.  Tell every squadron around the world how to shoot those fuckers down.

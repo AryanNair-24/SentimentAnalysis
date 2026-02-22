@@ -1,0 +1,548 @@
+0) 8) text: John and Sydney (late 50s) enter. A WAITRESS greets them.
+0) 9) dialog: Good morning.
+0) 11) dialog: Two coffee's. John ‘in the booth, hands him a cigarette, lights
+0) 13) dialog: What's your name?
+0) 15) dialog: Sydney. brings the coffee.
+0) 16) dialog: You come from Vegas, Reno?
+0) 18) dialog: You lost some money? JOHN ° No.
+0) 19) dialog: You won some money?
+0) 21) dialog: You look pretty sad for someone who broke even.
+0) 23) dialog: What were you playing?
+0) 25) dialog: You know how to count cards?
+0) 27) dialog: You said you were playing blackjack: Do you know how to count cards?
+0) 29) dialog: In my experience, if you don't know how to count cards you should stay away from blackjack.
+0) 31) dialog: But not this time.
+0) 33) dialog: You know how to play craps?
+0) 35) dialog: There's a lot of money to be made playing craps. If you like to win...craps can be that way.
+0) 37) dialog: Hey, John --
+0) 41) dialog: You look like a man that could use a friend.
+0) 43) dialog: What do you need six thousand doilars for?
+0) 45) dialog: _ For what?
+0) 48) dialog: You went to Vegas to win some money --
+0) 50) dialog: You went to win some money to bury your mother, to pay for her funeral. It's very admirable. I admire the intention. I can't say that it's wise, though.
+0) 54) dialog: Is there anyone else --
+0) 56) dialog: ...family...?
+0) 59) dialog: How much money do you have left, John?
+0) 61) dialog: If I gave you fifty dollars: What would you do with it?
+0) 64) dialog: You wouldn't gamble it?
+0) 66) dialog: Why not?
+0) 68) dialog: How long can you eat, how long can you live on fifty dollars?
+0) 70) dialog: I would bet not very long. Se BEAT.
+0) 72) dialog: We'll take this coffee to go. You come with me back to Vegas, T'll loan you fifty bucks. I'11 show you what you did wrong.
+0) 74) dialog: No. I don’t think I’m St. Francis.
+0) 76) dialog: T'm not lookin' for a hooker, John. I'm offering you a ride, I'm offering to teach you something.
+0) 78) dialog: I understand that., And this is the last time I'll ask: Do you want my help?
+0) 80) dialog: Uh-huh.
+0) 82) dialog: I'm sure you do.
+0) 84) dialog: I believe you. cuT TO: Blue pages a/o 2/16/95
+3) 1) dialog: My Uncle died in 1949. He was a policeman in Boston. My Uncle worked as a policeman in Boston for thirteen years and he was fired upon twenty three times in the line of duty without being hit. (beat) One morning: He woke up, got dressed, walked outside and down the street. He went to buy his coffee and his paper. He walked fifty yards from his house...he was fifty yards from reaching the store. He slipped on a patch of ice, fell down and cracked his forehead open on the pavement. BEAT.
+3) 2) dialog: There are thirty-six possible combinations of numbers on a pair of dice. There's one way to roll a two and six ways to roll a seven. That's the math. That is what can be proven. If you want to roll a four, how can you do it? What are the combinations?
+3) 29) dialog: What number plus what number equals four?
+3) 31) dialog: What else?
+3) 33) dialog: What else?
+3) 35) dialog: One and three.
+3) 37) dialog: There are three ways to make a four, John. Two and two,three and one, one and three. That's the math. It's the only given in the situation. Only thing is: we can't control how they come up. In walking down the street to buy a cup of coffee, we relinquish the control to what? Maybe, to who? I don't know. But it doesn't matter to what or who or why, because that's the way it is. We've got nothing to do with any of it. (beat) All we can do is bet on it. HOLD. They drive for a while in silence, then:
+3) 39) dialog: Doesn't work, here... Sydney hands him a book of MATCHES.
+3) 45) dialog: The lighter there doesn't work.
+3) 47) dialog: Are you going to smoke that?
+3) 50) dialog: Why don't you use these matches?
+3) 52) dialog: Why not?
+3) 54) dialog: Tell me.
+3) 56) dialog: Yeah.
+3) 58) dialog: The matches just went off?
+3) 60) dialog: I was just thinking that.
+3) 62) dialog: That's terrible. JOHN . I thought about suing the matchbook a . company...but...I understand that these sorts of things happen. You know? I mean, shit just happens. This happens, that happens, you just deal with it.
+3) 63) dialog: That's right. That's absolutely right, John. HOLD. Sydney drags from his cig, then hands it to John.
+3) 64) dialog: Here. John takes the lit cig and uses it to light his own.
+3) 67) dialog: -+-I travel...
+3) 69) dialog: I play long enough and hard enough “to get a comped room and put food in my stomach.
+3) 71) dialog: John. I'm gonna loan you fifty dollars. Now tell me: What'll you do with it?
+3) 73) dialog: -- you could take it and play it. Play it a certain way long enough and hard enough to get a bed and a meal. You won't win six thousand dollars, I can assure you of that. And if you think that you can: Well. You just can't.
+4) 1) text: The automatic sliding doors open and Sydney and John ente
+4) 2) dialog: First thing you do is go into the bathroom, clean yourself up. The attendant in there has a razor you can use --
+4) 4) dialog: -- Once you're done, find me in the bar. Sydney keeps walking. John stops.
+5) 5) dialog: Much better.
+5) 7) dialog: . First off: I lied when I said fifty. Ko You need a hundred and fifty.
+5) 9) dialog: Just relax and listen to me: Are you listening?
+5) 11) dialog: You're gonna go over there to the slot machines, go to that woman in the cashier cage and ask her where you can find the Floorman. She'll point you to a guy in a tuxedo. The Floorman. You find this man, you approach him, you say.... cur TO:
+7) 2) dialog: ++..you take this hundred and fifty to the cashier and cash it in for dollar tokens -~
+7) 6) dialog: She'll make a note on the rate card saying the amount you've cashed and the time of day. You take those tokens and find a slot machine. John walks to find a slot machine, takes a seat and pumps
+7) 7) dialog: Find one that's off to the side a bit, but don't go unseen by the floorman. You sit at that machine and you play twenty dollars. Only twenty. Make it last, so play slow, play a dollar at a time. «+a COCKTAIL WAITRESS approaches John... cur TO;
+8) 0) text: Sydney watches John order from the Cocktail Waitress. She writes his order and leaves. Sydney stands...
+8) 2) dialog: Excuse me.
+8) 4) dialog: That man order a drink?
+8) 6) dialog: I'mhis father. He's not allowed to drink. Bring him a cup of coffee. He hands her a couple dollars. cur TO: 13
+8) 8) text: Sydney approaches John.
+8) 10) dialog: You order a drink?
+8) 12) dialog: It'll end up being a one hundred and fifty dollar cocktail, you understand?
+8) 14) dialog: It's alright. You done with that twenty?
+8) 16) dialog: Come. 15 INT. SECOND CASHIER BOOTH - CASINO FLOOR — MOMENTS LAT
+8) 17) text: Sydney and John walk to another booth, before arriving Sy
+8) 18) dialog: Give this cashier the hundred in tokens and she'll give you cash -- get a bill. John hands his hundred dollar rack cf tokens over and is ONE HUNDRED DOLLAR BILL...
+9) 0) text: Sydney and John walk back towards the first cashier acros
+9) 1) dialog: Now you're gonna give this cashier the bill and the rate card and ask for more tokens. They arrive back to the First Cashier Booth...
+9) 4) dialog: How much do you have on your rate card now?
+9) 6) dialog: And you've only spent twenty. You just circle the bill, John. Cash to tokens, tokens to cash. You build up enough on the rate card, it's gonna get you a comped room, maybe a meal. Slowly spend what's left of the fifty -- that's just for show when the floorman comes around —- but keep circling the hundred. Do it for an hour, take a break, do it again for an hour and so on. I'11 be around.
+9) 8) dialog: I’1l find you. Sydney leaves John standing. The Cocktail Waitress brings John's coffee. HOLD.
+13) 0) text: Sydney sits off to the side, watching John.
+14) 0) text: CAMERA holds on the door. John opens up, Sydney is there.
+14) 2) dialog: It works.
+14) 4) dialog: Not anymore.
+14) 6) dialog: You're welcome. John reaches in his pockets, hands Syd his one-fifty.
+14) 8) dialog: Good,
+14) 10) dialog: No thank you. Sydney pockets the money. They sit. CAMERA MOVES IN CLOSE
+14) 13) dialog: What are you gonna do now, John?
+14) 15) dialog: You can't keep doing the same thing all week.
+14) 18) dialog: You can't win six thousand dollars, John. I told you that before.
+14) 20) dialog: I have a friend in Les Angeles. Someone...maybe someone who can help. I can make a call for you, tell hin you're a friend, So on and so forth, maybe work this thing out here.
+14) 22) dialog: I am not an employer and I don't hold debtors. I live...these casinos and their benfits. You see? My expenses are minimal, I told you before, I play long enough and hard enough...I think, if you need help paying for your mothers funeral...we'll work this out. I'll help you out here best I can. I want you to see -- that my reasons are not selfish, only this: (beat) I'd hope you'd do the same for me. BEAT. They stand up.
+14) 24) dialog: It's always good to meet a new friend. cU. They shake hands. . CAMERA PANS UP INTO TIGHT TWO SHO
+14) 25) dialog: See you later. Sydney heads for the door. CAMERA DOLLIES BACK FROM JOHN.
+14) 27) dialog: Yes.
+14) 29) dialog: If it's what you want.
+14) 31) dialog: Let's go. John grabs his key, slips it in his pocket and the two me the room. CAMERA HOLDS INSIDE THE ROOM. FADE OUT. TITLE CARD OVER BLACK READS: "Two Years Later"
+14) 34) text: SYDNEY. He's sitting in a booth, drinking a drink, wearin glasses and working on a crossword puzzle.
+14) 36) dialog: Right here. Keno Girl approaches. Sydney hands her a card and twenty.
+14) 37) dialog: Play two dollars, please. Keno Girl exits. Sydney turns his attention across the ro looks over his reading glasses.
+14) 38) text: Across the Lounge, a young cocktail waitress, CLEMENTINE is serving a table of three men. We see them flirt with h as she responds fondly. Sydney turns his head, glances at the bar.
+14) 41) dialog: Hello again.
+14) 43) dialog: Clementine.
+14) 45) dialog: Like the movie. 19
+14) 47) dialog: Do you remember my name?
+14) 49) dialog: Then why call me Captain?
+14) 51) dialog: John has been a friend a long time. Keno Girl arrives back at the table, drops the change and the ticket for Sydney. He tips her.
+14) 54) dialog: Tell me something- Are you required to flirt...to behave as you do towards that table of men, maybe as some part of your job?
+14) 56) dialog: But if you don't --
+14) 58) dialog: As a rule --
+14) 61) dialog: First thing you do is go into the bathroom, clean yourself up. The attendant in there has a razor you can use --
+14) 63) dialog: -~ Once you're done, find me in the bar. Sydney keeps walking. John stops.
+15) 5) dialog: Much better.
+15) 7) dialog: First off: I lied when I said fifty. You need a hundred and fifty.
+15) 9) dialog: Just relax and listen to me: Are you listening?
+15) 11) dialog: You're gonna go over there to the slot machines, go to that woman in the cashier cage and ask her where you can find the Floorman. She'll point you to a guy in a tuxedo. The Floorman. You find this man, you approach him, you say....
+17) 2) dialog: «-.-you take this hundred and fifty to the cashier and cash it in for dollar tokens -- Cur TO: 11 12 13 12 INT. SLOT MACHINE AREA ~ THAT MOMENT ii John stands at the Cashier. She makes a notation on his r card, hands it back with two RACKS of one-fifty in tokens
+17) 3) dialog: She'il make a note on the rate card saying : the amount you've cashed and the time of day. You take those tokens and find a slot machine. John walks to find a slot machine, takes a seat and pumps
+17) 4) dialog: Find one that's off to the side a bit, but don't go unseen by the floorman. You sit at that machine and you play twenty dollars. Only twenty. Make it last, so play slow, play a dollar at a time. +-.a COCKTAIL WAITRESS approaches John... cur TO;
+18) 0) text: Sydney watches John order from the Cocktail Waitress. She writes his order and leaves. Sydney stands... cur TO:
+19) 0) text: ...Sydney approaches the Cocktail Waitress.
+19) 1) dialog: Excuse me.
+19) 3) dialog: That man order a drink?
+19) 5) dialog: I'm his father. He's not allowed to drink. Bring him a cup of coffee. He hands her a couple dollars. CUT TO;
+20) 1) text: Sydney approaches John.
+20) 3) dialog: You order a drink?
+20) 5) dialog: It'll end up being a one hundred and fifty dollar cocktail, you understand?
+20) 7) dialog: It's alright. You done with that twenty?
+20) 9) dialog: come. INT. SECOND CASHIER BOOTH - CASINO PLOOR — MOMENTS LATER Sydney and John walk to another booth, before arriving Sy
+20) 10) dialog: Give this cashier the hundred in tokens and she'll give you cash -- get a bill. John hands his hundred dollar rack of tokens over and is ONE HUNDRED DOLLAR BILL...
+21) 0) text: Sydney and John walk back towards the first cashier acros
+21) 1) dialog: Now you're gonna give this cashier the bill and the rate card and ask for more tokens. They arrive back to the First Cashier Booth...
+21) 4) dialog: How much do you have on your rate card now?
+21) 6) dialog: And you've only spent twenty. You just circle the bill, John. Cash to tokens, tokens to cash. You build up enough on the rate card, it's gonna get you a comped room, maybe a meal. Slowly spend what's left of the fifty -- that's just for show when the floorman comes around -- but keep circling the hundred. Do it for an hour, take a break, do it again for an hour and so on. I'1l be around.
+21) 8) dialog: I'll find you. Sydney leaves John standing. The Cocktail Waitress brings John's coffee. HOLD.
+26) 0) text: Sydney sits off to the side, watching John.
+27) 4) dialog: It works.
+27) 6) dialog: Not anymore.
+27) 8) dialog: You're welcome. in his pockets, hands Syd his one-fifty.
+27) 11) dialog: Good.
+27) 13) dialog: No thank you. Sydney pockets the money. They sit. CAMERA MOVES IN CLOSE
+27) 16) dialog: What are you gonna do now, Jchn?
+27) 18) dialog: You can't keep doing the same thing all week.
+27) 20) dialog: You can't win six thousand dollars, John. I told you that before.
+27) 22) dialog: I have a friend in Los Angeles. Someone..-.maybe someone who can help. I can make a call for you, tell hin you're a friend, so on and so forth, maybe work this thing out here.
+27) 24) dialog: I am not an employer and I don't hold debtors. I live...these casinos and their benfits. You see? My expenses are minimal, I told you before, I play long enough and hard enough...I think, if you need help paying for your mothers funeral...we'll work ! this out. I'11 help you out here best I can. I want you to see ~-- that my reasons are not selfish, only this: (beat) I'd hope you'd do the same for me. BEAT. They stand up.
+27) 26) dialog: It's always good to meet a new friend. cU. They shake hands. CAMERA PANS UP INTO TIGHT TWO SHOT.
+27) 27) dialog: See you later. Sydney heads for the door. CAMERA DOLLIES BACK FROM JOHN.
+27) 29) dialog: Yes.
+27) 31) dialog: If it's what you want.
+27) 33) dialog: Let's go. John grabs his key, slips it in his pocket and the two me the room. CAMERA HOLDS INSIDE THE ROOM. FADE OUT. TITLE CARD OVER BLACK READS: "Two Years Later"
+28) 1) text: SYDNEY. He's sitting in a booth, drinking a drink, wearin glasses and working on a crossword puzzle.
+28) 3) dialog: Right here. . Keno Girl approaches. Sydney hands her a card and twenty. SYDNEY . Play two dollars, please. Keno Girl exits. Sydney turns his attention across the ro looks over his reading glasses.
+28) 4) text: Across the lounge, a young cocktail waitress, CLEMENTINE is serving a table of three men. We see them flirt with h as she responds fondly. Sydney turns his head, glances at the bar.
+28) 7) dialog: Hello again.
+28) 9) dialog: Clementine.
+28) 11) dialog: Like the movie.
+28) 14) dialog: Do you remember my name?
+28) 16) dialog: Then why call me Captain?
+28) 18) dialog: John has been a friend a long time. Keno Girl arrives back at the table, drops the change and the ticket for Sydney. He tips her.
+28) 21) dialog: Tell me something. Are you required te flirt...to behave as you do towards that table of men, maybe as some part of your job?
+28) 23) dialog: But if you don't --
+28) 25) dialog: As a rule --
+28) 29) dialog: (re:twenty) Keep it.
+28) 44) dialog: Jimmy. Thank you for the drink.
+28) 46) dialog: Have a seat. John and Jimmy sit.
+28) 48) dialog: I remember. You do...what...?
+28) 50) dialog: Parking lot?
+28) 54) dialog: Did I hit it?
+28) 56) dialog: -- Excuse me. Sydney grabs his Keno slip from the table, looks up at th Electronic Keno Board. The numbers flash up on the screen 21 His card has no matching numbers -- From the Keno Board,
+28) 60) dialog: It passes the time.
+28) 64) dialog: Not here. Try again please. He hands her another two dollars and the same ticket back Jimmy watches the Keno Girl leave, focusing on her ass.
+28) 66) dialog: -- Jimmy. Blue pages a/o 2/17/95 23
+28) 68) dialog: It's not for my ears, but her's. She can hear that sort of thing across the lounge...it puts her in an uncomfortable position.
+28) 70) dialog: -- I just don't want it coming from my table.
+28) 76) dialog: You said it as she walked away. ~ The Keno Girl arrives back to drop the ticket.
+28) 91) dialog: I suppose your right, then.
+28) 97) dialog: Thank you.
+28) 100) dialog: Yes.
+29) 0) text: Sydney walks through the casino, arrives at a half full C Table and stands at the head, the boxmen greet him, the P walks over.
+29) 2) dialog: Good evening. The Pit Boss hands him a piece of paper, Sydney signs it, checks his watch and the Pit Boss wishes him, "Good luck. Sydney cashes in four hundred dollars and gets chips and to place his bets. CAMERA begins a painfully slow ZOOM ac table that eventually arrives at an EXTREME CLOSE-UP. The the casino, the game and the people begins to BLEND and B
+30) 0) text: Sydney enters, takes a seat at the bar. The BARTENDER gre
+30) 2) dialog: Scotch, please. ' The Bartender exits. Sydney glances around the bar. The B arrives back with the drink.
+30) 3) dialog: Have you seen my friend, the young man?
+30) 5) dialog: And Clementine?
+31) 0) text: Sydney exits the casino and into the cold air. He walks, paces the grounds. Snow begins to fall. HOLD. His attenti turns across the way, to a small motor-lodge bungalow.
+31) 1) text: Emerging from one of the rooms is Clementine, looking dis worn out. She carries her coat in one hand, tries to brus exits the room. Sydney watches her. She looks up, notices him and approac
+31) 3) dialog: «.-fresh air...
+31) 6) dialog: -- but you'll get fired if you tell them to leave you alone.
+31) 8) dialog: -- I understand.
+31) 10) dialog: Do you live alone?
+31) 12) dialog: Do you go to school?
+31) 14) dialog: I don't know.
+31) 16) dialog: What are you saving up for?
+31) 18) dialog: With your job. The money that you make. Are you saving?
+31) 20) dialog: What happend with your roommate?
+31) 22) dialog: It's expensive?
+31) 25) dialog: No, ho, not at all --
+31) 27) dialog: Maybe that, yes. I don't know.
+31) 29) dialog: Explain it to me, then.
+31) 31) dialog: I don't think anything.
+31) 33) dialog: \ No I don’t. BEAT.
+31) 35) dialog: No.
+32) 0) text: This is just moments before the very opening scene of the Sydney sits in his parked car, facing the highway. He adj his rearview mirror, looks at John sitting on the ground. Sydney exits the car, approaches John and the scene is RE
+32) 1) dialog: Hey... (pause) Hey...
+32) 3) dialog: . You want a cup of coffee? (beat) You want a cigarette? John looks up. BEAT. cur TO:
+33) 0) text: Sydney sips his coffee. Clementine looks across the booth
+33) 2) dialog: Yes.
+33) 4) dialog: Eventually we split the cost. 30
+33) 6) dialog: Well...we have the same tastes, I suppose. i
+33) 8) dialog: Yes,
+33) 12) dialog: I'm not sure. I haven't spoken to them in a while.
+33) 14) dialog: Yeah.
+33) 16) dialog: Maybe. The WAITRESS arrives, fills their coffee cups. They sit i silence for a moment, then:
+33) 18) dialog: What?
+34) 0) text: Sydney and Clementine enter. This is a medium sized suite an open door leading to the adjacent room. |
+35) 1) dialog: You'll feel comfortable here, you'll sleep well. Clementine sits on the bed. Sydney goes to the bathroom, a robe, a T-Shirt and some boxer shorts. He emerges, hand to Clementine.
+35) 3) dialog: Yes.
+35) 5) dialog: Do you think that?
+35) 7) dialog: Do you think that?
+35) 9) dialog: Well you should know before you ask a question like that.
+35) 12) dialog: -- so I would want that, you would think.
+35) 14) dialog: Stop saying that.
+35) 16) dialog: -- but don't let it seem that way. This is a comfortable bed for you. I want you to sleep in it, to give you something, a place to have a nice shower. A bed.
+35) 18) dialog: No, no, I'm not...because I understand how you could ask that question. then:
+35) 20) dialog: No.
+35) 22) dialog: John won't be back until very late and he won't disturb you.
+35) 24) dialog: Not tonight. He exits to the adjoining suite, closes the door. Clement FADE OUT.
+36) 0) text: Sydney wakes up to a knock at the door, he answers. A Roo Attendant holds a tray of coffee. Sydney signs the bill, From the adjacent room {OC) we hear the MUFFLED VOICES of Clementine. John is telling her his matchbook-explosion s
+37) 0) text: John is sitting on the end edge of the bed, dressed in th clothes as the night before. Clementine is sitting up in under the covers. Sydney enters carrying the tray of coff
+37) 3) dialog: John, that is a nickname that Clementine has given me, it's not for you.
+37) 5) dialog: You owe me three fifty. John reaches for his wallet, Sydney walks past him, gives a look that says, "Put your fuckin’ money away."
+37) 7) dialog: I don't know. But anything you need to do...if you need to go somewhere or get something...John will take you.
+37) 10) dialog: Here... (he offers John some cash) Go to the mall and get something new. John will take you.
+37) 13) dialog: And that's that. I'11 see you later. Sydney goes back in his room. John looks to Clementine. P
+38) 1) text: Sydney buttons up his shirt, lights a cigarette. John ent
+38) 3) dialog: Hey.
+38) 5) dialog: Fair. You?
+38) 7) dialog: You didn't show back at the bar,
+38) 9) dialog: Yeah.
+38) 11) dialog: It's not a problem.
+38) 13) dialog: It's fine.
+38) 15) dialog: I don't much.
+38) 17) dialog: what?
+38) 19) dialog: Take good care of Clementine today. Take her anywhere she wants. John steps up closer to Sydney, motions his head towards room, a reference te Clementine. Sydney turns to him.
+38) 20) dialog: What?
+38) 22) dialog: No.
+38) 24) dialog: Probably be in the sports book.
+39) 0) text: This is a huge portion of the casino with TEN BIGSCREEN TELEVISION MONITORS playing every sports event that is cu in progress. In a long row of desk, illuminated by a smal reading light is Sydney. He keeps an eye on the games, wh working a crossword puzzle. A WAITRESS approaches, bringi plate of eggs, bacon and a glass of orange juice and a fr of cigarettes. He eats his breakfast. HOLD. cur TO:
+40) 0) text: Sydney is sitting at a dimly lit, smoke filled poker table with three other men. CAMERA DOES A SLOW DOLLY TOWARDS THE TABLE. This is a fifty cent buy in, five doll cuT TO: 37 38 39
+41) 0) text: Sydney changes to a fresh white shirt, puts on his jacket He moves to a table, writes a note, walks to the next roo places the note on John's bed.
+41) 2) text: Sydney exits into the cold air, breaths ‘some fresh air, paces, finishes a cig. HOLD. cuT TO:
+42) 0) text: Sydney is at a crowded craps table. The game is in progre things are hot. He's got, about three thousand dollars in of him. He plays, as usual, without emotion. Playing at the opposite end.of the table is a YOUNG PLAYE lots of noise, playing loud and obnoxious and taunting Sy he shoots the dice.
+42) 3) dialog: Two thousand dollar hard eight. The table skips a beat. The Pit boss strains his neck. The Dealer near Sydney takes two one thousand dollar chip places them on the hard eight. (Meaning that the roll mus a 4x4 and no other combination to make an eight.) The Young Player is given the dice.
+42) 12) dialog: ..-crack... The dice land. Easy Eight. A five and a three.
+43) 0) text: Sydney, on his fifth Scotch, drunk as hell, catches the BARTENDER'S attention.
+43) 1) dialog: -.-have you seen my friend, John, my friend, the young man...
+43) 3) dialog: Clementine...
+44) 0) text: Sydney drops a dime at a secluded pay phone and dials a n
+44) 1) dialog: Hello, Arlene. It's Sydney. | ...-Yes....Yes....how are you... : (beat) : -.no, no....I'm just calling to say hello. (beat) . I'm in Reno. Yes. Yeah, well. No. I said, I said, "No." (beat) It's almost Christmas... »..just to call, I figured I'd call. (beat) .»..are my kids home, are my.... Do you have number? Uh-huh. Uh-huh. (pause) Well maybe you can give a message for me...I'm at the Pepper...Peppermill. +. -yeah...it's room number 1508...uh-huh. (beat) It would be nice. Well, it just might be nice...it doesn't... Okay. Uh-huh. Okay. Well. (beat) I guess that's...that's...Yes. Yes. Okay, well, I'm getting off the phone now. I'm getting off the phone now, Arlene. Good bye. Sydney hangs up the phone.
+45) 0) text: Sydney sleeps. The PHONE RINGS. AGAIN. Sydney wakes, pick
+45) 1) dialog: Yeah, hello. Yeah...Yes. Where? Right now. You okay? Yeah. Right now. cuT TO: 44 45 46 40
+46) 0) text: Sydney makes a quick beeline from the Casino Entrance to car in the parking lot. It's snowing now. CUT TO: i
+47) 0) text: CAMERA holds on C.U. of Sydney as he drives the car throu Reno. The bright lights reflect in the windshield and the harder. Sydney turns on the windshield wipers. cur TO:
+48) 0) text: Sydney's car parks. He exits. CAMERA FOLLOWS him as he se the small motel complex for a room. He heads up a flight a motel room: Number Six. He knocks. HOLD. He knocks agai
+48) 1) dialog: +..John..?
+48) 3) dialog: Yeah. Open up.
+48) 5) dialog: What? Yeah, everything's cool. You alright?
+48) 7) dialog: «.-you gonna open the door?
+48) 9) dialog: Yeah. So open the door, let's see what's goin' on...
+48) 11) dialog: John, it's cold, open the door.
+49) 0) text: The door opens a bit and Sydney steps in...It’s dark.
+49) 1) dialog: John --
+49) 3) dialog: Why are the lights off?
+49) 5) dialog: I'm not gonna stand here in the dark.
+49) 9) dialog: ».«-what is this...?
+49) 11) dialog: Who is this man? respond. Clementine doesn't move.
+49) 12) dialog: ...John...Who is this?
+49) 14) dialog: A hostage?
+49) 16) dialog: Why?
+49) 18) dialog: Is he dead?
+49) 20) dialog: How did he get here?
+49) 22) dialog: Clementine --
+49) 24) dialog: -- Clementine...hey.
+49) 26) dialog: Are you alright? bed. 42
+49) 28) dialog: Tell me what happened.
+49) 30) dialog: You know him? “CLEMENTINE Not before tonight.
+49) 31) dialog: Then how does he owe you money?
+49) 33) dialog: You came here...what...for sex?
+49) 36) dialog: How did John get here?
+49) 38) dialog: Clementine.
+49) 42) dialog: How long have you been here?
+49) 44) dialog: ..-alright. So why don't you just let him go...?
+49) 46) dialog: Tell me why.
+49) 48) dialog: sees, yeah.....50.,..how much money?
+49) 50) dialog: You're holding this man hostage for three hundred dollars?
+49) 52) dialog: Who knows this man is here?
+49) 54) dialog: ...ah-huh...
+49) 56) dialog: His wife.
+49) 58) dialog: I don't understand. How did you get in touch with his wife?
+49) 60) dialog: You talked to this woman, this man's wife?
+49) 62) dialog: Did you tell her where you were?
+49) 64) dialog: No, of course not. You're not stupid.
+49) 67) dialog: This man knows what you look like. John, this man knows what you look like, yes?
+49) 70) dialog: Oh, it doesn't?
+49) 72) dialog: So what do you want me to do?
+49) 74) dialog: This guy's wife has obviously called the cops...you understand that, right?
+49) 76) dialog: Yes, necessarily.
+49) 79) dialog: What did you tell her?
+49) 81) dialog: -—- No. Did you tell her that you'd kill him if she didn't, that you'd, what? What did you tell her?
+49) 83) dialog: Yeah, what John?
+49) 85) dialog: This a very...fucked up situation.
+49) 87) dialog: No I didn't. I didn't promise you anything.
+49) 90) dialog: No I don't. 47
+49) 92) dialog: Clementine: You got yourself in a situation. I didn't get you here, so humble yourself. You understand? Humble yourself. ' Sydney moves to John, holds his hand out for the gun. John hands it to him.
+49) 93) dialog: Fuck is this, John? Is it loaded?
+49) 95) dialog: Where'd you get it?
+49) 97) dialog: Did Jimmy come here?
+49) 99) dialog: What does he know about this?
+49) 102) dialog: What are you saying?
+49) 104) dialog: ...Get up... He sits her at a table, locks eyes with her. 48
+49) 105) dialog: Alright: You're gonna answer every question I ask you. You don't look to John, you look at me -- alright? Now when you left the hotel this morning, where did you go?
+49) 109) dialog: Why?
+49) 111) dialog: (to John) I told you to buy clothes.
+49) 113) dialog: And...what? Then what?
+49) 115) dialog: .»..then, yes, what?
+49) 117) dialog: I will judge that.
+49) 119) dialog: I'd just like to know how you go from being in the bar in the Sands to in here with this guy -- Where did this thing go wrong? 49
+49) 121) dialog: This is a pretty stupid situation.
+49) 123) dialog: The first thing they should have taught you at hooker school is to get the money first --
+49) 126) dialog: Don't get fresh. Don't be a wise ass.
+49) 128) dialog: John, I'm talking to Clementine -~-
+49) 130) dialog: -- John: Shut The Fuck Up.
+49) 132) dialog: 
+49) 137) dialog: Locks like you're having a wonderful honeymoon. Sydney heads for the door, John follows --
+50) 1) text: Sydney charges out, John on his heels. It's snowing.
+50) 3) dialog: I can't get involved in this, John.
+50) 5) dialog: If I stay here, I am involved. If I stay here, I am part of it, do you qet that?
+50) 7) dialog: -- you've got a guy unconscious in there, a guy...someone you've kidnapped and are holding for ransom. Do you know how fucking serious this is? Sydney stops, breaths a moment, collects a thought, then:
+50) 8) dialog: Now if you want to leave right now, if you want me to help you get as far away from here as possible, just get in your car and go, let's do that: let's go and do that.
+51) 0) text: Clementine sits at the table. HOLD. OC we hear the muffle voices of Sydney and John. Clementine looks to the man on the bed. Blood has started dripping from his ear.
+51) 1) dialog: You take her with you, she's your wife. Yes? She's your wife? .
+51) 3) dialog: -- it doesn't matter, John, you're in it. You're in it up to your fuckin' eyeballs and there's nothing to do except get away.
+51) 5) dialog: Anywhere. Away. Huh, eh, John, hey...look at me... cur TO: 50 EXT. MOTEL ROOM/BALCONY — NIGHT - THAT MOMENT 50 Sydney and John.
+51) 6) dialog: How much money do you have?
+51) 8) dialog: I've got about six thousand. I can get that to you. But let's just get you away, out from this. Maybe everything'il be fine, this quy'll wake up and he won't remember athing. But for now, for this moment...the only safe thing to do is leave.
+51) 10) dialog: That would probably happen, John. Yes. HOLD. PAUSE. Sydney looks 52
+51) 12) dialog: What? John trying to say this thing to Sydney...
+51) 14) dialog: Do you want to kill this man, John?
+51) 16) dialog: Don't say it again. That idea's over. You kill this man, you live the rest of your life knowing it. Okay? It's okay. hard at John.
+51) 17) dialog: How could you let her go off and do this? You've got money, this isn't good --
+51) 19) dialog: Did you really get married? Did you?
+51) 21) dialog: Okay. Hey...everything's gonna be alright, everything's gonna work out. 51 53 Sydney grabs John's necks and gives’ him a squeeze. They the room.
+52) 0) text: Sydney and John enter. John approaches Clementine.
+52) 3) dialog: I'm getting rid of your fingerprints.
+52) 5) dialog: Maybe he'll wake up, he won't remember.
+52) 27) dialog: ~- shut-up, John...listen, hey, my darling Clementine listen to me: If you stay here you will get caught. Okay? We're talking about kidnapping, extortion...other things, I don't know what, but not good things, honey. Listen to me here: You have got to come with us. Alright, you're John's wife now. That's something. You better hold on to that and leave here. Okay, honey, hey, look at me, look at me -- Do you love John?
+52) 29) dialog: Do you love him?
+52) 31) dialog: You've got that. You love him and he loves you. You're not gonna spoil ‘it on this bullshit. HOLD ON CLEMENTINE. Tears in her eyes.
+52) 33) dialog: Where did these handcuffs come from?
+52) 35) dialog: Give me the keys.
+52) 37) dialog: So I can unlock him. 55 52 56 She rummages her purse, finds the keys. Sydney walks to t man, unlocks the handcuffs. He takes a closer look at the listens for breathing.
+52) 38) dialog: You hit him with the gun?
+52) 40) dialog: Who is that, who's calling?
+52) 42) dialog: Who know's you're here?
+52) 45) dialog: ..eright now...let's go... As they exit, the PHONE RINGS AGAIN. They close the door. HOLD INSIDE THE ROOM ON THE MAN. More blood is coming from his nose, ear and now above his eye. The phone rings
+53) 3) dialog: We'll talk away from here. Take your car, follow me to Clementine’s. (te her) You're gonna come with me. Now tell me the man checked in I take it, yes, tell me that. !
+53) 5) dialog: Did anyone see you, the man behind the counter?
+53) 7) dialog: What about in the bar, at the Sands?
+53) 9) dialog: The guy had a specific friend, sitting at the bar with him --
+55) 0) text: Clementine locks the front door and runs from the house. She hops in Sydney's car. John follows as they drive off. cuT TO: 55
+56) 0) text: The cars are parked side by side. Clementine and Sydney wait for John. The snow fall is light now.
+56) 2) dialog: I know. She starts to cry softly. He hugs her.
+56) 3) dialog: You be strong and take good care of John.
+56) 5) dialog: ++.I remember.
+56) 8) dialog: Thank you. .
+56) 10) dialog: (touches her face) It's okay, now. John approaches carrying his suitcase.
+56) 12) dialog: Alright, listen: You just got married. You're on your honeymoon.
+56) 14) dialog: I'LL talk to the casino, tell them you've fallen in love, eloped and run off, but you'll return. You'll call me tomorrow and we'll see where things are. (to John) «».-You've got money...
+56) 16) dialog: I'll get you some more money as you need it, as much as I have, as much as you will need. (looks to Clementine) Do you understand? As much money as I have. Sydney turns back to John.
+56) 17) dialog: Alright, now: Where are you gonna go?
+56) 19) dialog: Go to...go to...what, I don’t know...
+56) 21) dialog: Jesus Christ no, don't go to Vegas, go to...Phoenix, how about Phoenix?
+56) 24) dialog: Fine.
+56) 26) dialog: Why not?
+56) 28) dialog: Jesus Christ, John.
+56) 31) dialog: JOHN: Go to Niagara Falls.
+56) 33) dialog: (to Clementine) Give me a hug now. Clementine and Sydney hug and kiss, then he hugs John.
+56) 34) dialog: Hey, John: Look at me, hey: Alright? I'm not gonna let anything happen to you. This is fine.
+56) 36) dialog: Take good care of Clementine.
+56) 38) dialog: Alright. Drive the speed limit. They get in their car and drive off. CAMERA DOES A SLOW D
+58) 0) text: Sydney walks in, takes off his coat, moves to the adjacen and cleans it up a bit. He crumples the note he wrote ear to John. He sits in a chair, lights a cigarettes. Outisde the window, the sun is coming up. HOLD. cur TO:
+61) 0) text: Sydney plays with a few other men. CAMERA DOES A SLOW DOL TOWARDS, ARRIVING CU. cur TO:
+62) 7) text: 64 65 66 67 68 64 INT. SYDNEY'S ROOM —~ NIGHT - LATER 64 Sydney gets dressed in his usual white shirt, black pants cig. The VIDEO TAPE of Clem/John's wedding plays on the T
+63) 0) text: CAMERA holds on Sydney as he plays. He ‘lacks focus on th BEAT. He collects his chips and walks off. cuT TO:
+64) 0) text: CAMERA holds on the motel (the scene of the crime) then d a SLOW BOOM DOWN. Sydney enters FRAME, sitting in his car parked across the street. He looks towards Motel Room Num cuT TO:
+67) 0) text: Sydney walks towards his room, his head in the paper, hol his morning coffee. He walks past a MAID'S CART outside h door, enters his room.
+68) 0) text: Sydney's car pulls up and parks in the lot. He gets out, follows him as he roams around -- He lights a cigarette,
+69) 0) text: Jimmy and Sydney.
+69) 3) dialog: What do you want from me?
+69) 6) dialog: -- I'm not putting out the cigarette.
+69) 9) dialog: What do you want?
+69) 11) dialog: Do you have something to say?
+69) 13) dialog: You were there.
+69) 15) dialog: You know that guy?
+69) 17) dialog: You saw him?
+69) 19) dialog: Maybe he didn't call the cops.
+69) 22) dialog: +..You're so sure...
+69) 24) dialog: What about his wife?
+69) 26) dialog: You don't think she called the cops, huh?
+69) 28) dialog: This guy see you?
+69) 31) dialog: It seems that way.
+69) 33) dialog: You gave John a gun.
+69) 36) dialog: I threw it away.
+69) 38) dialog: Why did you want to talk to me?” JIMMY . It's alright you threw my gun away. I have others -~
+69) 39) dialog: -- I was there with John and Clementine. You were there, yes. You want something now?
+69) 41) dialog: Yes. So now: what then?
+69) 43) dialog: That's right.
+69) 45) dialog: When did you talk to them?
+69) 51) dialog: Uh-huh.
+70) 0) text: Sydney gets out of the car. Jimmy follows a few steps beh
+70) 2) dialog: What, what, what? Huh? Tough guy? You can tell me? You can tell me, what?
+71) 1) text: 73 74 Sydney gets behind the wheel, drops the keys before reach ignition, he picks them up, gets the right key -- starts The PASSENGER SIDE WINDOW IS SMASHED...- ...glass sprays Sydney, whe turns, looks...Jimmy holds th pointed at Sydney through the BROKEN PASSENGER SIDE WINDO Sydney turns 71
+71) 3) dialog: Don't...
+71) 6) dialog: Yes.
+71) 8) dialog: No.
+71) 10) dialog: I don't have...I don't have ten thousand dollars, Jimmy.
+71) 12) dialog: I don't have it.
+71) 14) dialog: Please don't.
+71) 16) dialog: I'll get it.
+71) 18) dialog: When?
+71) 20) dialog: I can't now. It's impossible.
+71) 22) dialog: Right now, it's just, it's impossible. It's not possible.
+71) 24) dialog: I can get it tomorrow.
+71) 26) dialog: Please don't point the gun, Jimmy. Jimmy jams the GUN POINT BLANK to Sydney's head.
+71) 27) dialog: 
+71) 31) dialog: 
+71) 34) dialog: I can give you six thousand. That's what I have, that's all that I have. 75 76 77 73
+71) 36) dialog: When?
+71) 38) dialog: I have it. In the bank. It's in the bank. BEAT. Jimmy pockets the gun, looks across at Sydney. Jimmy walks around the front of the car, opens Sydney's d
+72) 0) text: CAMERA shooting through the lobby doors to see; Sydney's car pulls up. They get out, a young VALET takes the keys from Jimmy, hands hima ticket. Jimmy then hands the ticke over to Sydney and they enter the hotel.
+73) 0) text: Sydney and Jimmy walking. They enter Syd's room.
+74) 5) dialog: No.
+74) 9) dialog: Yeah.
+74) 12) text: 75 JIMMY (contd. ) Y'know, you can look at me sideways all you want, maybe you think I'm some asshole cr something, but I'm not a killer like you. {long pause, then;} You know you walk around like your Mr. Cool or Mr. Wisdom but you're not...you're just an old hood. The other night in the bar: Ask me a question like, "Do I do parking lot security?" I know what that means, Sydney. The answer is: No. I'm trusted with security inside the casino. I'm trusted security and I don't fuck it up.
+74) 13) dialog: It's good to see you have a sturdy sense of responsibility. Jimmy SLAPS Sydney's face hard.
+74) 16) dialog: I have the money here. BEAT. Jimmy and Sydney hold a look.
+74) 17) dialog: I have the six thousand dollars here. It's not in the bank. I have it here.
+74) 19) dialog: I'll give it to you now, but I will ask you this: {I will ask you something, a favor...something that's crucial to this transaction.
+74) 21) dialog: I don't want to die... There's a KNOCK at the door.
+74) 24) dialog: I have the money to give you. Right now, in this moment: I'll give you all that I have. Maybe before you were going to kill me. Maybe, I don't know. I know John and I love him like he was my own child, but I can tell you this: I don't want to die. I killed his father. I can tell you what it was, but this is not an excuse. I'm not begging for clemency. All that matters: I don't wish to sacrifice my life for John's well being, but I will sacrifice this money for mine. Because you have asked me...because after this I have done all I can do for John: and for myself, I will ask you, with all the sincerity and heart that I have: Please don't put a bullet in me and please don't tell John what I have done. I trust that once I give you this money you and I will have separate paths and that this negotiation will settle everything. That's what I hope. I don't want to die. Jimmy holds eyes on him. PAUSE, THEN: 77
+74) 31) dialog: Stop saying that, Arthur.
+74) 35) dialog: I just want you to calm down for Christ's sake. Your wife and child are in the next room, just calm down.
+74) 39) text: A one bedroom place- 1966. Sydney, obviously younger, sta up from a chair, walks to Arthur, picks him up from his k
+74) 40) dialog: .+-I won't hurt you. You know that. Do you believe I won't hurt you?
+74) 42) dialog: Come sit in the chair. Arthur and Sydney sit face to face. HOLD.
+74) 43) dialog: Do you have anything? If you put forth an effort...
+74) 45) dialog: You know you're not gonna get shot up over this...
+74) 47) dialog: He knows that I know you, he figured I could talk...
+74) 49) dialog: Stop it.
+74) 51) dialog: I know.
+74) 53) dialog: You've got a problem.
+74) 55) dialog: ««.I'm your friend.
+74) 57) dialog: I remember.
+74) 59) dialog: Yeah.
+74) 61) dialog: Be quiet now, They sit in silence for a moment. Sydney looks into the k through a pair of glass doors.
+74) 63) dialog: You might want to be a little harder to find, Arthur.
+74) 65) dialog: Don't put it in your arm, put it in your child's stomach. Sydney leaves. HOLD. Arthur looks to the kitchen. cUT TO:
+75) 0) text: Jimmy and Sydney. Back to the scene. QUICK DOLLY IN ON JI
+75) 2) dialog: It’s with the hotel. In the safe.
+75) 4) dialog: All that I have, I'll give you.
+76) 0) text: Sydney signs a paper and is handed the money. Jimmy stand nearby. Sydney, with money in an envelope, turns to Jimmy
+77) 0) text: Sydney and Jimmy enter through a side door and into a ser hallway area. Racks, crates and maintenance things around Sydney hands him the envelope. Jimmy takes it, looks insi BEAT, THEN. Jimmy raises the GUN into Sydney's face.
+78) 0) text: Arthur sits.on the ground, Sydney paces around.
+78) 2) dialog: Uh-huh.
+78) 5) dialog: What did they ask?
+78) 8) dialog: They ask anything else?
+78) 10) dialog: You didn’t tell them anything.
+78) 12) dialog: I know.
+78) 14) dialog: Can I ask you a question?
+78) 16) dialog: Don't lie to me.
+78) 18) dialog: Are off the drugs?
+79) 0) text: Sydney sits on the edge of his bed. A packed suitcase sit next to him. The phone RINGS. He finally picks it up.
+79) 1) dialog: Hello?
+80) 2) dialog: I can barely hear you. John closes the phone booth door.
+80) 4) dialog: Where are you?
+80) 6) dialog: Everything is fine.
+80) 8) dialog: How's Clementine? 83
+80) 10) dialog: Do the same for me.
+80) 12) dialog: I know.
+80) 14) dialog: I'1l be here for a while.
+80) 16) dialog: Maybe.
+80) 18) dialog: Sure I am.
+80) 20) dialog: Yeah.
+80) 22) dialog: Yes.
+80) 24) dialog: John, I need to tell you something --
+80) 27) dialog: I need you to know something, something important...I need to tell you... Sydney...-CAMERA DOLLIES IN CLOSE.... SYDNEY i John: I love you. I love you like you were my own son.
+80) 29) dialog: Call te tommorrow, when you get there.
+80) 31) dialog: Okay....I'11l speak to you then.
+80) 34) dialog: Rave them bring my car around, please. Bell Hop exits, Sydney walks towards the lounge. cur TO:
+81) 0) text: Sydney is talking to the BAR MANAGER (who’s also the LOUN SINGER from the opening.)
+81) 1) dialog: ...it was a last minute thing. She apologizes for not letting you know...but it was --
+81) 3) dialog: She should be back Friday, Saturday the latest. I hope it's not a problem.
+81) 5) dialog: I'm sure you understand how love works.
+81) 7) dialog: She's a good girl and she works hard. She got married. She's in love. She'll be back Saturday the latest.
+81) 9) dialog: She's a very old friend, yes.
+81) 11) dialog: Thank you.
+82) 0) text: Sydney walks out, his car is there. He tips the Valet, ge and drives off. cuT TO: INT. CLEMENTINE’S HOUSE ~ NIGHT - MOMENTS LATER
+82) 1) text: Sydney enters the dark apartment and is immediately appro 85 87
+83) 2) dialog: What was that? JOHN . Do you have any music to play? You got a stereo, right?
+83) 3) dialog: What'd you have in mind?
+83) 5) dialog: No.
+83) 10) dialog: You sure it's alright?
+83) 12) dialog: «..«you know three types of Karate. I haven't forgotten.
+83) 14) text: 90 EXT. CLEMENTINE'S HOUSE — NIGHT - MOMENTS LATER 90 OVERHEAD ANGLE ON THE FRONT DOORWAY. Sydney exits holding the TwO CATS in his arms. CAMERA PULLS BACK AND PANS WITH SYDNEY AS HE MAKES A BEELINE FOR HIS CAR. He gets inside the two cats. .
+84) 0) text: Sydney sits in his car with the CATS. He's watching acros the street, across the Sands front parking lot --
+85) 0) text: Sydney trails Jimmy's car.
+86) 0) text: Jimmy parks his car in front of his house. Sydney parks his fifty yards away, getting a safe view of Jimmy exitin his car and going into his house. HOLD ON SYDNEY. He lights a cigarette. The CATS meow and roam around the inside of Sydney's car.
+86) 1) dialog: (to the cats) C'mon...sit...kitty, sit. Sit. Stay there. Stay in one spot, kitty. Sydney finishes his cigarette, notices across the street
+86) 2) text: Jimmy exits his house in a change of clothes, gets in his and takes off. BEAT. Sydney gets out of his car, walks across the street The CATS watch him. CuT TO: 94 95 96 97 98 99 100
+87) 0) text: Sydney walks around the back, through a horribly kept yar He hops a fence with a little trouble and approaches a back door -- tries the handle. It's locked. Sydney smashes the window in the door. A DOG barks in the distance. Sydney reaches in and unlocks the lock.
+88) 0) text: Sydney enters, walks around the house. CuT TO: INT. BEDROOM — NIGHT - THAT MOMENT : 96 Sydney enters, looks around, through some drawers, he opens the closet -- inside, there is a small arsenal of g Sydney takes a .45 Automatic, checks it He scarches the c some more for a clip, finds one and loads it.
+93) 0) text: Sydney in CLOSE-UP. HOLD.
+95) 0) text: Sydney. CAMERA HOLDS A WIDE ANGLE ON THE ROOM. Sydney obs shadows. OC we HEAR the sounds of a car pulling up...head FLOAT through the room and we catch a GLIMPSE of Sydney. cUT TO: a9 Blue pages a/o 2/16/95
+96) 1) text: Jimmy and the GIRL stumble from the car to the front door curT TO: 109 INT. LIVING ROOM — NIGHT - THAT MOMENT Sydney sits with the GUN in his hand. Jimmy and the GIRL inside and turn on the lights. Jimmy and the Girl stop.
+96) 16) dialog: Go. She runs from the house. Sydney takes the gun, wipes his fingerprints from it and leaves it next to Jimmy.
+97) 0) text: Sydney walks quickly to his car, gets in and drives off.
+100) 0) text: Sydney sits alone in a booth. Coffee, cigarette. HOLD. He notices a small bit of blood has stained the cuff of h He slides his jacket over....HOLD.....He looks across the
+101) 0) text: John and Sydney, from the opening. The scene is REPRINTED
+101) 1) dialog: If I gave you fifty dollars: What would you do with it?
+101) 3) dialog: You wouldn't gamble it? 92 33
+101) 8) dialog: I would bet not very long.
+101) 10) dialog: Yes I would. cuT TO: 117 INT. NIAGARA FALLS SUITE ~ MORNING ~ THAT MOMENT _ ll John is sitting on the bed, on the phone, Clementine is d with a BELL HOP who handles their baggage in the b.g.
+102) 0) text: Sydney sits a moment.- CAMERA DOES A MEDIUM SLOW DOLLY IN
+102) 3) dialog: Hello.
+102) 5) dialog: Pack of Lucky Strike's please. She fetches the cigs, rings his tad. He pays and exits. cur TO:
+102) 8) dialog: «..excuse me...? Sydney locks at the man. BEAT. In this moment, Sydney recognizes this to be the MAN from the MOTEL. THE HOSTAGE
+102) 10) dialog: I don't know what you're talking about.
+102) 13) dialog: «+.I don't know what you're talking about, sir...
+102) 16) dialog: +..don't follow me....
+102) 19) text: Snow falls down softly...directly INTO CAMERA. Sydney holds onto his breath for another moment.
+102) 20) text: Sydney's dead body in the middle of the parking lot. END.

@@ -1,0 +1,436 @@
+1) 0) text: Miles addresses a group of young Attorneys at the firm.
+1) 1) dialog: The problem is that everyone is  willing to compromise. That's the  problem with the institution of  marriage -- it's based on compromise.  Even through its dissolution. One  attorney will try to score some  points, the opposition will try to  impeach. The process will find an  equilibrium point determined by the  skill of the opposing lawyers, and  then each party will walk away with  their portion of the "goodies." Some  say, "Life is compromise." But at  Massey Myerson we believe life is  struggle and the ultimate destruction  of your opponent.
+1) 4) dialog: Ladies and Gentlemen -- we will  continue this at the Associates  Meeting next Friday. In the meantime,  I want you to consider this... Ivan  the Terrible, Henry the VIII, Attila  the Hun -- what did they have in  common?
+1) 8) dialog: Mr. Rexroth.
+1) 10) dialog: Miles Massey. Please sit, relax, and  consider this office your office,  your haven, your war room -- for the  duration of the campaign.
+1) 12) dialog: Now Rex.
+1) 14) dialog: -- Tell me your troubles.
+1) 17) text: Miles gives an encouraging, rueful smile in return.
+1) 19) dialog: That's her job. You have to respect  that.
+1) 21) dialog: Mm.
+1) 24) dialog: Time marches on. Ardor cools.
+1) 26) dialog: Ah.
+1) 28) dialog: Gotcha. No need to get anatomically  correct with me, Rex.
+1) 30) dialog: Well, with the expanding global  population -- Let me ask you this --  your wife. Has she pursued the  opportunities which must present  themselves to the "knock-out, sexy  woman" you described?
+1) 32) dialog: Not in court you can't. Has she  retained counsel?
+1) 34) dialog: And your wife is aware of or has  evidence of your activities?
+1) 36) dialog: Mmm... And to cut to the chase,  forensically speaking -- is there a  pre-nup?
+1) 37) text: Rex hangs his head. Miles sighs sympathetically.
+1) 38) dialog: The fault, dear Brutus, is not in  our stars, but in ourselves. Well,  let me ask you this: what kind of  settlement do you seek? What are,  for you, the parameters of the  possible?
+1) 40) dialog: Nothing?
+1) 42) dialog: So, you propose that in spite of  demonstrable infidelity on your part,  your unoffending wife should be tossed  out on her ear?
+1) 44) text: Miles smiles at him.
+2) 44) dialog: Nothing.
+2) 46) dialog: Video.
+2) 48) text: Miles turns to Wrigley with a look of indignation. He ges to their surroundings.
+2) 49) dialog: Wrigley!
+2) 51) dialog: Sometimes I have serious doubts about  you.
+2) 53) dialog: Am I mentoring the wrong mentee?
+2) 55) dialog: I could be mentoring Kramer. Kramer  clerked for Scalia.
+2) 59) dialog: Anyway, I need a challenge. This --
+2) 61) dialog: -- is not a challenge. I need  something I can sink my teeth into,  professionally speaking.
+2) 64) dialog: I'm sorry, your honor, I was just  conferring with my associate...
+2) 66) dialog: Now then, Mrs. Guttman. Do you know  a gentleman named Morris Rudnick?
+2) 68) dialog: (sadly) Accountant.
+2) 70) dialog: We would like to offer these  photographs into evidence...
+2) 74) dialog: ...Ruth!
+2) 76) dialog: -- Ruth Rabinow, this is Rex Rexroth.  And you must be Mrs. Rexroth.
+2) 83) text: Miles has been staring at Marylin. She notices this, and  smiles shyly. He snaps out of it.
+2) 84) dialog: So, Ruth. How's Sam?
+2) 86) dialog: A yert. (To Rex) Ruth is a living legend, Rex. At a  time when most women are in Boca,  having early bird specials -- she's  working so her husband can be in  Montana. In a yert.
+2) 89) dialog: What?!
+2) 91) text: A tight, terse smile from Miles.
+2) 92) dialog: How nice.
+2) 97) dialog: At this point my client is still  prepared to consider reconciliation.
+2) 99) dialog: My client is prepared to entertain  an amicable dissolution of the  marriage without prejudice.
+2) 101) dialog: My client proposes a thirty day  cooling off period.
+2) 103) dialog: My client asks that you not initiate  proceedings pending his setting  certain affairs in order.
+2) 105) dialog: (conceding the point) Heh heh.
+2) 107) text: Miles lays a hand on his arm.
+2) 108) dialog: Please -- let me handle this.
+2) 110) dialog: -- So much for the icebreakers.  What're you after, Ruth?
+2) 112) dialog: Why only fifty percent, Ruth? Why  not ask for a hundred percent?
+2) 114) dialog: Why not a hundred and fifty percent?
+2) 121) dialog: Not according to Mrs. Rabinow.
+2) 125) text: She looks at him like a concerned parent. Miles and Ruth  watch the interaction.
+2) 128) dialog: Are you familiar with Kirshner?
+2) 131) dialog: Please -- let me handle this. Okay,  Ruth, forget Kirshner -- what's your  bottom line?
+2) 134) dialog: Shhh. Please. Let me do my job. (To Ruth) Buy a clue, Ruthie. Have you forgotten  about Kirshner?
+2) 137) text: Miles calls to Ruth's retreating back.
+2) 138) dialog: Fine. We'll eat all the pastry.
+2) 140) dialog: I think that went as well as could  be expected.
+2) 142) dialog: And she had private investigators  assisting her.
+2) 144) dialog: In anticipation of making you sick.
+2) 146) text: Miles looks at him. Shakes his head, sadly.
+2) 147) dialog: A superficial display of marital  solicitude, and you lose your resolve?  Rex. I underestimated you. But I'm  your attorney, and if you choose to  reward her for that mediocre charade  of spousal concern...
+3) 30) dialog: Mrs. Rexroth. Thank you for coming.
+3) 34) text: Miles glances at the wine list.
+3) 35) dialog: French? (She smiles) Bordeaux? Hmmm. Chateau Margaux '57.
+3) 36) text: Miles nods at the maitre d' who returns the nod and withd
+3) 38) dialog: Isn't everything?
+3) 39) text: Miles regards her.
+3) 40) dialog: Your husband told me you were  beautiful, but I was unprepared.
+3) 42) text: Miles leans back, props his chin on one fist, and conside her.
+3) 43) dialog: Simon &amp; Garfunkel?
+3) 45) dialog: Do you have a hard heart, Marylin.
+3) 47) dialog: Not yet.
+3) 49) text: A waiter appears and pour a taste of wine which Miles sip and -- He nods at the waiter who pours two glasses.
+3) 51) dialog: What does your lawyer think?
+3) 53) dialog: But you don't agree?
+3) 55) dialog: Why would you be here?
+3) 57) text: FLAP a menu enters frame. It is handed to Marylin; anothe is handed to Miles.
+3) 58) dialog: I'll have the tournedos of beef. And  the lady will have the same? (To Marylin) I assume you're a carnivore.
+3) 62) text: Miles looks at her with appreciation.
+3) 63) dialog: "Who ever lov'd that lov'd not at  first sight?"
+3) 65) dialog: Not really. You're not my client.  Freedom of association. Big issue  with the First Amendment fans. Want  to go to Hawaii for the weekend?
+3) 67) dialog: No.
+3) 69) dialog: As a matter of fact, I'm a huge fan.
+3) 71) dialog: No. I haven't. Have you?
+3) 74) dialog: He wants a reconciliation.
+3) 76) dialog: Gotcha.
+3) 78) dialog: Oh, I'm a lot like you -- just looking  for an ass to mount.
+3) 89) text: Miles glances over and hisses:
+3) 90) dialog: Shut! Up!
+3) 99) text: Miles soberly rises.
+3) 100) dialog: Mmmm --
+3) 101) text: He paces, hands clasped behind his back, affecting to be  lost in thought. Marylin watches him. Finally Miles, still pacing, declaims:
+3) 102) dialog: "Dismiss your vows, your feigned  tears, your flattery, for where a  heart is hard, they make no  battery..."
+3) 103) text: Marylin looks up from her handkerchief with a look of sta irritation. Miles stops pacing and turns to face her with faint smile.
+3) 104) dialog: Do you know those lines, Mrs. Rexroth?
+3) 109) dialog: Let me rephrase. Mrs. Rexroth, how  high is that wall around your heart?
+3) 114) dialog: Rephrase. Mrs. Rexroth, have you  ever been in love?
+3) 117) dialog: And you've always loved him?
+3) 118) text: Smiles slips out:
+3) 120) text: Miles returns a fleeting smile.
+3) 121) dialog: And you hoped to spend the rest of  your life with him?
+3) 125) text: Miles almost smiles. She's good.
+3) 126) dialog: That'll be all Mrs. Rexroth. Please  forgive me for causing you additional  anguish. (To the Judge) Thank you, Your Honor. No further  questions.
+3) 131) dialog: Yes, Your honor. I call Patricia  Kennedy DeCordoba Isenberg.
+3) 136) text: An attractive woman in her mid fifties advances to be swo She was a beauty, but her glory days are past and she's n taking it well. She looks tense and slightly hypo-manic. speaks in a breathy, giggly voice, and smiles frequently no apparent reason.
+3) 141) dialog: Now, Mrs. Banderas. What is your  relationship to Mrs. Rexroth.
+3) 145) dialog: And how would you define your  relationship to Mrs. Rexroth. You  know -- you are her...?
+3) 149) dialog: Her Mother?
+3) 150) text: Patricia smiles coyly. Gives Marylin a silly little wave way of greeting.
+3) 152) dialog: Hard to believe I know. I'm sure you  are frequently mistaken for sisters.
+3) 154) dialog: Have you ever met Mr. Rexroth?
+3) 156) dialog: You were never invited to meet your  son-in-law?
+3) 160) dialog: Did you know Mrs. Rexroth was married?
+3) 164) dialog: Who's "Patty."
+3) 166) dialog: I see. And what were you going to  tell us about Patty slash Marylin?
+3) 169) dialog: Divorce was her childhood aspiration?
+5) 0) text: Miles is at his weekly chess game with his college friend DR. KENNETH BECK, a disaffected plastic surgeon. Miles, C in hand, studies the board. Dr. Ken sips his Merlot. Move piece.
+5) 1) dialog: She got absolutely nothing. Zero.  Zip.
+5) 3) dialog: Not this one. Not unless her HMO  covers plastic surgery, which,  incidentally, she does not need.
+5) 5) dialog: I don't need it.
+5) 7) dialog: What the hell is Botox?
+5) 9) dialog: Why in God's name would I want...?
+5) 11) dialog: It's a LeCoultre Revers. You can  flip the face, and set it for two  time zones.
+5) 13) dialog: It was a gift from a client.
+5) 15) dialog: Botox. Christ. We had aspirations  when we were in college.
+5) 17) dialog: You were going to be a Cardiac  Surgeon. I was going to clerk for  the Supreme Court.
+5) 19) dialog: Denial is not a river in Egypt.
+5) 22) dialog: I should be in therapy.
+6) 0) text: Miles addresses BONNIE DONOVAN, a client.
+6) 1) dialog: Yes. Your husband did show remarkable  foresight in taking those pictures.  And, yes, absent a swimming pool,  the presence of the pool man would  appear to be suspicious. But Bonnie,  who is the real victim here? Let me  suggest the following. Your husband,  who on a prior occasion slapped you --  beat you --
+6) 3) dialog: Your husband, who has beaten you --  repeatedly --
+6) 5) dialog: Please -- was at the time brandishing  your firearm, trying in his rage to  shoot an acquaintance -- friend of  long standing --
+6) 7) dialog: So he says now! But if not for your  cool headed intervention, his tantrum  might have ended this schmoe's life  and ruined his own... As for the  sexual indiscretion which he imagined  had taken place, wasn't it in fact  he who had been sleeping with the  pool man?
+6) 9) dialog: Am I going to far here?
+6) 12) text: Miles is surprised.
+6) 13) dialog: Herb wants to see me?
+7) 4) text: Miles takes the man's offered hand, withered and roped wi veins, and accepts its clammy shake.
+7) 7) dialog: Thank you Herb.
+8) 0) text: Miles sits behind his desk, fingers steepled, staring at  nothing, a haunted look on his face. His intercom SQUAWKS:
+8) 2) dialog: Please! No calls! I'm feeling very  fragile.
+8) 4) dialog: Marylin Rexroth? When does she --
+9) 0) text: Miles runs his fingers through his hair, carefully examin himself in the mirror. Suavely smiling.
+9) 1) dialog: Marylin! How nice.
+9) 3) dialog: Marylin! How lovely, uh --
+9) 5) dialog: -- Marylin! What a pleasure --
+9) 7) dialog: Marylin, what a pleas -- who the  fuck are you?
+9) 11) dialog: Oh. Right. Won't you have a seat?
+9) 14) dialog: And how is Mrs. Reiser?
+9) 16) dialog: So she's uh, flourishing?
+9) 21) text: Miles is stunned.
+9) 22) dialog: Muh -- Well, uh -- Huh?
+9) 27) dialog: I... uh guess congratulations are in  order.
+9) 32) dialog: No!
+9) 38) dialog: What a touching story.
+9) 40) text: Miles flashes Marylin a "you are KIDDING" look, but she  assiduously avoids eye contact.
+9) 42) text: Miles acknowledges this with a curt nod.
+9) 50) dialog: Oh, for the love of...
+9) 52) dialog: That is correct. Not to blow my own  horn, but they devote an entire  semester to it at Harvard Law.
+9) 54) dialog: I just want to make sure that you  both --
+9) 56) dialog: -- understand what you're asking for  here. The Massey pre-nup provides  that in the event of a dissolution  of the marriage for any reason, both  parties shall leave it with whatever  they brought in, and earned during.  No one can profit from the marriage.  The pre-nup protects the wealthier  party.
+9) 58) dialog: And without it, that party is exposed --  a sitting duck. No wriggle room.
+9) 60) dialog: (slightly sickened) -- and we are sure...
+9) 62) dialog: -- we are both sure that's what we  want?
+9) 67) dialog: Excuse me, Mr. Doyle, if I could  just borrow your charming fiancee  for a moment.
+9) 69) dialog: I'd just like to have a word with  her.
+9) 71) text: Miles drags her to the side as Doyle checks his Sports Pa
+9) 72) dialog: What are you doing?
+9) 75) dialog: To him? He's a sick freak.
+9) 77) dialog: Passionate! He's a pervert. He should  have to register when he moves.
+9) 79) dialog: Marylin! Listen to me.
+9) 81) dialog: But why him?
+9) 84) dialog: The Massey pre-nup has never been  pene -- successfully challenged.
+9) 86) dialog: No, that's not all.
+9) 88) dialog: You fascinate me.
+9) 89) text: She deftly slides out of the way. Miles watches her as sh heads down the hall. As she gets on the elevator, Howard  grabs her butt with one hand, while giving Miles a high s with the other.
+10) 0) text: Miles stares at the chessboard.
+10) 1) dialog: Do you think I'm going to end up  like Herb Myerson, with a colostomy  bag instead of a family?
+10) 3) dialog: Yes. The inability to experience  pleasure.
+10) 5) dialog: What?
+10) 7) dialog: She can't really love that idiot,  can she?
+10) 9) dialog: Marylin Rexroth. She came into my  office and signed a pre-nup with  Howard Doyle.
+10) 11) dialog: He's the wrong man.
+11) 4) text: The last arpeggiated chord rings out; birds tweet, everyo sits. As Miles and Wrigley seat themselves, Wrigley is snifflin Miles is irritated.
+11) 5) dialog: What the hell is wrong with you?
+11) 7) dialog: Is she going through with it?
+11) 18) dialog: Argh.
+11) 19) text: Heads turn. Miles bites a knuckle. Birds twitter.
+11) 24) dialog: What are they?
+11) 26) dialog: Spoons! Honestly Wrigley, I'm  surprised at you. What is this? Some  Martha Stewart suggestion? Those are  the most cockamamie things I've ever --
+11) 28) text: Miles sounds wistful:
+11) 29) dialog: Why couldn't we be the club sandwich?
+11) 42) text: The crowd is murmuring--the murmurs grow in volume -- a  smattering of applause -- cheers -- more applause -- wild cheers. Slowly rhythmically, Miles starts thumping his ha together, nodding comprehension.
+11) 43) dialog: Brilliant.
+11) 46) text: Miles' hand-clapping accelerates.
+11) 47) dialog: Brilliant. It's brilliant. He's eating  the pre-nup.
+11) 54) dialog: I'd like to offer my congratulations.  That was a beautiful gesture of  Howard's.
+11) 56) dialog: Yes. He's a diamond in the rough.  And I have a feeling that someday  soon you'll be taking that diamond  and leaving the rough.
+11) 58) dialog: I am thrilled for you, but tell me  this... How'd you get Howard to do  it? I've addressed enough juries to  appreciate the power of suggestion,  but it seemed like he thought it was  his own idea.
+11) 60) dialog: Well, when this goes south -- promise  you'll have dinner with me?
+11) 62) dialog: I figure a couple of months. That's  how long it should take for the ink  on the settlement to dry.
+11) 65) dialog: Although knowing you as I do -- there  will be no settlement. This time it  will be complete and total  annihilation.
+14) 1) dialog: And of course we shall have to  litigate. Sentence. Paragraph.
+14) 3) dialog: -- Naturally the first concern for  both parties is the welfare of little  Wendell junior. Nevertheless, we  question whether the continuing  expenses for his special ed classes  are truly justified given the great  strides --
+14) 6) dialog: (Delighted) HA!
+14) 8) dialog: Ah, but is she richer than Mrs.  Croesus?
+14) 10) dialog: She deserves every penny. They pay  great athletes a fortune. Well,  Marylin Rexroth is an athlete at the  peak of her power.
+14) 12) dialog: Get me Marylin Rexroth Doyle.
+14) 14) dialog: She owes me a meal.
+14) 16) dialog: I know you would, Wrigley. But would  Kramer?
+15) 0) text: We move in on one of the tables where Marylin and Miles s as a waiter pours them champagne.
+15) 2) dialog: Thank you. I'll take care of it.
+15) 4) dialog: To victory.
+15) 6) dialog: More pictures? My God, Marylin. You  can open an erotic art gallery.
+15) 8) dialog: No. Just to comfort you, and  appreciate you --
+15) 10) text: The Waiter hands Miles a menu.
+15) 13) dialog: Not hungry, huh? Neither am I.
+15) 14) text: A long pensive moment. Miles reaches across the table and takes her hand. She le him. He strokes it.
+16) 0) text: Miles drives. Marylin sits silently looking out the windo
+16) 4) dialog: Marylin --
+16) 5) text: She puts a finger to his lips. Sadly, Miles relinquishes her hand. She exits the car and walks up to the front door. Miles  watches her go.
+17) 0) text: We hear Court TV on in the background. Miles alone in bed reading Art In America.
+17) 9) text: The woozy track finds the cadaverous hand at the end of t arm with an IV tube swinging from it. Miles stands next t the arm. He's holding an assault type weapon.
+17) 11) text: Miles shoots -- Bonnie falls. Then Mrs. Guttman. Marylin next. Miles hesitates.
+17) 13) text: Miles points the gun at Herb. RING. RING. RING.
+17) 16) dialog: Hello?
+17) 18) dialog: Yes? Marylin?
+17) 20) dialog: Marylin? When did I say...?
+17) 24) dialog: Marylin? Forgive me but are you --  drunk?
+17) 26) dialog: You shouldn't be driving. Where are  you?
+17) 28) dialog: I live right near there. The 800  Block of Maple. Come here. Marylin --  come here right now before -- just  come here.
+17) 30) dialog: No. Don't stop.
+18) 4) dialog: Thank you.
+18) 6) dialog: Yes. I just got that, actually. It  was a gift.
+18) 8) dialog: No. No. I don't have a... no. It was  from a client.
+18) 10) dialog: Rex sent me two humidors full of pre- Castro Cubans.
+18) 11) text: Marylin looks at a photograph Miles has on a side table. A WOMAN AND TWO SMALL BOYS. The Woman has her arm around one of them. The other stand close to her. Smiling, but awkward and tentative.
+18) 13) dialog: Me. Yes.
+18) 15) dialog: Yeah. Mom. Mom and brother.
+18) 17) text: Miles walks over to look at the picture.
+18) 18) dialog: Hmmm...
+18) 20) dialog: She never particularly cared for me.
+18) 22) dialog: No. She loved me. She would never  not love her son. She just didn't...  I wasn't her "type." She said I was  a very, colicky baby. You know?  Difficult. Not a good sleeper? Didn't  eat well? We got off to a bad start,  and she never seemed to recoup --
+18) 24) dialog: Apparently she was very disappointed.
+18) 26) text: Marylin looks at the picture again. And yes -- you can se how hesitant Miles was. Marylin is moved. A flash of some genuine crosses her face.
+18) 28) dialog: Your mother was.
+18) 30) text: She takes a sip of coffee. Regards Miles.
+18) 32) dialog: No, we're not!
+18) 34) dialog: That is bullshit! Mine is a bitch  and yours is a psycho. I can't believe  you're saying this, Marylin! There's  nothing wrong with us. We're  attractive and charismatic and  successful and... I like us.
+18) 36) dialog: No.
+18) 40) dialog: Don't go. Stay with me for a while.
+19) 2) dialog: I have to say -- I'm speechless. No.  I'm never speechless.
+19) 4) dialog: And I'm not used to -- Marylin --  there's something I want to ask you.
+19) 6) dialog: I want... I want to...
+19) 8) dialog: I want to be your -- your wife.
+19) 10) dialog: No... That wasn't right. I want YOU  to be MY wife.
+19) 12) dialog: Yes. I am. What else could those  words mean? I believe we belong  together and we can make one another  happy. And we should be happy because  happiness is better than the  alternative which is -- just jump in  any old time, Marylin. You have more  experience at this than I do.
+19) 14) dialog: Yes? Yes, you do have more experience?
+19) 16) dialog: You do?
+19) 18) dialog: No.
+19) 20) dialog: No ma'am. I have been asleep all my  life up to this moment. Marylin,  will you marry me?
+19) 23) dialog: I don't have a ring!
+19) 25) dialog: I have a watch.
+20) 0) text: Miles and Kenneth wait. Dressed in suits. Miles looks ner
+20) 2) dialog: Thanks, buddy.
+20) 4) dialog: Asian? No.
+20) 7) dialog: Wrigley?
+20) 9) dialog: Kenneth this is my associate, Wrigley.  Wrigley this is my friend, Dr. Beck.
+20) 11) dialog: Do you have it?
+20) 13) dialog: You have the pre-nup?
+20) 15) dialog: No. You have the ring. Wrigley has  the pre-nup.
+20) 20) dialog: You know each other? Of course you  do.
+20) 25) dialog: Hi. Hello. (To Marylin) Marylin. You know my young associate,  Wrigley.
+20) 29) dialog: Well, Wrigley brought something else  for you today, darling.
+20) 31) dialog: This -- is the Massey Pre-nup.
+20) 32) text: Wrigley hastily pulls a ballpoint from his pocket and cli it. Miles grabs the pre-nup, and as he turns to Marylin, tone softens.
+20) 33) dialog: Marylin, you're welcome to examine  it, but as you know -- it's iron  clad.
+20) 36) dialog: We wanted Ruth here for your  protection as well --
+20) 39) dialog: Yes. Short notice you know, but I  think there's nice closure to it.  Hello Judge Muson. A pleasure as  always.
+20) 41) dialog: We're getting married.
+20) 44) dialog: A gag? No.
+20) 45) text: Marylin looks at the pre-nup. Then pulls Miles aside.
+20) 49) dialog: Yes. (She isn't having the  expected reaction) It's for your protection, sweetheart.  You're the one with the -- the...
+20) 53) dialog: No. Judge -- just a sec. But Marylin,  if we sign it, I can't hope to benefit  from the marriage.
+20) 55) dialog: What I mean is, your wealth is  completely protected.
+20) 59) dialog: But?
+21) 0) text: Miles and Marylin stand before the alter.
+21) 4) dialog: I do, yah I do, uh huh --
+21) 6) text: She glares at Miles.
+21) 8) text: Chastened, Miles bows his head.
+21) 10) text: There is a long beat, through which Miles stares at his s Marylin looks at him.
+21) 11) dialog: -- I do.
+22) 0) text: Miles and Marylin asleep in bed. The ALARM RINGS. Miles w turns to his beautiful wife -- kisses her good morning. She gives him a sleepy Smile. Miles dressing for work. Marylin, in a Sabia Rosa bathrob places a tray with coffee next to him. He holds up two ti for her-approval. She selects one. He puts it on. Miles and Marylin reading Newspapers while eating breakfa She serves him a bowl of fruit and indicates Wrigley's be spoons. They laugh heartily. Marylin waves good bye as Miles backs drives to the offic She waves at the gardeners who blow palm fronds around th lawn.
+22) 3) text: Miles picks up.
+22) 4) dialog: Mom...?
+22) 5) text: He laughs and laughs. We hear Marylin's laughter coming  through the receiver. Miles exits a flower store with a bouquet of tulips. Mary at the doorway, greets Miles as he arrives home. As Miles changes into his casual after work outfit, (khak Marylin sits at the edge of the bed. He's telling her abo his day, and she is rapt with attention. The Massey's have a candlelit dinner of fish and pasta. T tulips are in the middle of the table. Miles and Marylin snuggle on a couch and watch Seinfeld.  Miles in bed on the new Frette Linen. A few too many pill but he's making it work. Marylin enters the bedroom in a  nightshirt that is the perfect combination of innocence a nastiness. He puts down his book as she gets into bed wit him. They gaze at one another -- the picture of contentment an impending lust.
+23) 0) text: Miles is addressing the young associates.
+23) 1) dialog: For the first time in my life, I  stand before you naked...  vulnerable... and in love. Love. A  word matrimonial lawyers shy away  from. Ironic isn't it -- that I have  been frightened of this emotion which  is, in a sense, the seed of my  livelihood. But today, I am here to  tell you: Love should cause us no  fear. Love should cause us no shame.  Love... is good. (He lets it sink in) Let me ask you a question. When our  clients come to us confused, angry,  hurting because their flame of love  is fluttering and threatens to die --  should we seek to extinguish that  flame, so that we can sift through  the smoldering wreckage for our paltry  reward? Or should we seek to fan  this precious flame -- this most  precious flame -- back to loving,  roaring life?
+23) 4) dialog: Should we counsel fear -- or trust?  Should we seek to destroy -- or to  build? Should we meet our clients'  problems with cynicism -- or with  love?
+23) 5) dialog: (another raised hand) Kramer?
+23) 7) dialog: The decision of course, is each of  ours. For my part, I have made the  leap of love, and there is no going  back --
+24) 0) text: Miles and Marylin watching a cable movie crowded together the small sofa.
+24) 2) dialog: No. Stay. I want you close to me.  This couch is wrong. It's not a  "married couch."
+24) 5) dialog: In fact, this is not a married house --  it's a bachelor pad.
+24) 7) dialog: I know. But I've converted most of  them into ridiculous "Guy" rooms --  a billiard room, a card room, a gym --  Honey, want you to go out, as soon  as you feel up to it -- and buy  married things. Woman things.  Personalize it. Marylinize it. Make  this your house.
+24) 9) dialog: Here's my card. Spend as much as you  want. We get mileage.
+24) 11) dialog: Good. (Beat) Are those foods?
+24) 13) dialog: Exactly. And then -- maybe -- not  right away -- There's a room right  off the bedroom -- It would be perfect  for a nursery. (He takes her hands) It's a walk in humidor right now --  but if I took out the refrigeration  unit --
+24) 15) dialog: I think a nursery should be right  off the master suite. My parents put  mine in the guest house. Apparently  they did have a Fisher Price intercom,  but my mother turned it off when I  was seven months old because I was  so --
+24) 17) dialog: You want children, don't you?
+26) 0) text: Miles is buying a huge bouquet of flowers. As he exits he stopped by a WOMAN. She is in her 40's but looks older.
+26) 2) dialog: Yes?
+26) 4) dialog: Excuse me?
+26) 10) dialog: What are you... (To the nurse) Is she yours?
+26) 13) dialog: Yes, I know Howard Doyle.
+27) 0) text: Ruth calmly watches Miles ranting around her office.
+27) 1) dialog: He divorced his wife -- he married  Marylin -- he divorced Marylin --  and he -- remarried his WIFE? What  kind of sick --
+27) 3) dialog: He never ate the pre-nup, did he!
+27) 5) dialog: Did Marylin end up with money?
+27) 7) dialog: I don't have a pre-nup
+27) 8) text: Miles hangs his head. Ruth sighs sympathetically.
+27) 10) dialog: Don't give me that crap. That's MY  crap.
+27) 12) dialog: I'll have you suspended. I'll have  you disbarred.
+27) 14) dialog: ...why did she do it, Ruth? Why?
+28) 2) dialog: Hello Marylin.
+28) 4) dialog: I bet.
+28) 7) text: Miles looks at it, expressionless.
+28) 11) dialog: (Flatly) I love you. I want to have your baby.
+28) 15) dialog: Can you Marylin? Can you return the  trust? Can you return the hopes? The  dreams? Can you just... (Bitterly) SEND IT ALL BACK FOR STORE CREDIT?
+28) 17) dialog: (Pulls himself together) I'm sorry, Darling. I love it. It's  chic and timeless and elegant and  eclectic and. It's you, Marylin. It  is YOU.
+29) 4) text: She pushes the door open. No Miles in sight. On the bed,  scrawled on a piece of mMm stationery, taped to one of th mMm Frette pillows -- a note which reads -- "If you prick us, do we not bleed? If you tickle us, do we not laugh? I you poison us, do we not die? AND IF YOU WRONG US SHALL W
+30) 8) dialog: They won't get a conviction. The  husband called it in as a suicide.  The forensic guys weren't thinking  murder. I'm sure some of the evidence  was compromised.
+30) 10) dialog: (Sadly) I already made my move, Kenneth.
+37) 0) text: Miles opens the door. Marylin is standing there.
+37) 1) dialog: Well. Well. Well. Look who made bail!
+37) 3) dialog: I don't know. Maybe I should grab my  mace. I'm a civil attorney. I have  little experience with "the criminal  mind."
+37) 5) dialog: I don't believe you have "things."
+37) 9) dialog: What do you want?
+37) 11) dialog: Are you threatening me, because I'm  sure that's a violation of the terms  of your bail.
+37) 13) dialog: The IRS? They owe me. I'm expecting  a refund.
+37) 15) dialog: I'm clean with the IRS. I've reported  every dollar I've ever made. Try  again, girlfriend.
+37) 19) dialog: What kind of "stuff?"
+37) 22) dialog: Those are gifts.
+37) 24) dialog: You can't prove anything.
+37) 26) dialog: You're out of your league, Marylin.  Rexroth was a primate. I'm a  professional.
+37) 28) dialog: Meaning my house.
+37) 30) dialog: Did our marriage ever mean anything  to you?
+37) 32) dialog: That's blackmail.
+37) 36) text: Miles sits dejectedly on the new sofa looking at the  paintings. He looks at the watch. And the cigars. And the picture of his mother.
+37) 37) dialog: Pity you can't be here. You'd enjoy  this.
+37) 40) text: A reverse shows Miles standing in front of Herb's desk.
+37) 41) dialog: Yes Herb,
+37) 45) dialog: I understand Herb... I just... for  the first time in my career -- I  don't know what to do. I'm a patsy.  A sitting duck. I'm lost.
+38) 0) text: Miles is in bed, morosely watching Court TV.
+38) 13) text: A reverse shows Miles seated across a small round table i seedy low-lit clam house. Photos of Ted Kennedy and the P adorn the walls..
+38) 14) dialog: I am here representing Mr. Dumbarton,  on a... matter of some delicacy.
+38) 16) dialog: Excuse me?
+38) 18) dialog: Well -- I, uh, that is to say Mr.  Dumbarton -- would like you to uh,  neutralize a, uh, business associate  by the name of Marylin Rexroth Doyle  Massey uh Dumbart -- uh, Massey.
+38) 20) dialog: Here's her picture...
+38) 22) dialog: ...and the address where she's  staying. It's the residence of a Mr.  Massey. Uh, Dumbarton. Massey. Uh,  it's not Mr. Dumbarton's house. Though  he's not involved. And because of an  impending legal action this needs to  happen within a certain... time frame.  Uh... on an expedited basis.
+38) 23) text: The gangster stares expressionlessly. He raises the inhal again and, with his eyes still on Miles, squeezes. WHUSH.
+38) 25) dialog: Mr. Dumbarton is, yes.
+38) 26) text: A long beat. Finally, Miles explodes
+38) 27) dialog: She won't suffer, will she?
+40) 4) text: The figure on the couch pulls away the pillow. It is inde Miles Massey. He blearily takes the offered phone.
+40) 5) dialog: Hello. Yes -- what?! Yes -- I see --
+40) 7) dialog: My God.
+40) 9) dialog: That was Marvin Untermeyer.
+40) 11) dialog: He was Rex Rexroth's personal  attorney.
+40) 13) dialog: Rex just had a massive coronary. In  the middle of a business meeting.  He's dead.
+40) 16) dialog: Marvin says that Rex's will is four  years old. He never redrafted it.
+40) 18) text: Miles voice is still flat, expressionless:
+40) 19) dialog: Everything goes to Marylin.
+40) 21) dialog: She's rich. We're still married. We  have no pre-nup.
+40) 26) dialog: Joe. This is Mr. uh... friend of --  we met. This is to instruct you it's  No Go! Do you understand me?! NO GO  on Marylin Rexroth Doyle -- No Go.
+40) 29) dialog: That was -- oh, shit. What if he's  on his way over there?
+40) 31) text: Consumed with remorse, Miles moans.
+40) 32) dialog: Marylin! What have I done?
+40) 35) dialog: Get her out, buy some time; get her  out --
+41) 3) dialog: Marylin?
+41) 5) dialog: You have to leave the house  immediately!
+41) 7) dialog: No buts. Now. Out.
+41) 9) dialog: Please! Leave the house.
+41) 11) dialog: So did I. Now pack up a few basics  and --
+41) 16) text: She shows him the picture of Miles.
+43) 0) text: We hear a key scrape in the lock. The front door swings o onto a dark foyer as Miles tiptoes in.
+43) 1) dialog: (Whispers) Marylin?
+43) 3) dialog: Joe! Thank God you're in time. You're  not in time. I'm in time. Thank God  I'm in time.
+43) 5) dialog: It's a no go! Get it? No one any the  wiser. Okay!
+43) 7) dialog: You can go home now! Goodbye! Thanks  so much!
+43) 9) dialog: No no! No contract! It's all over.
+43) 10) text: This has no effect on Joe who is unscrewing his silencer. Miles is exasperated. Suddenly -- Marylin appears.
+43) 12) dialog: Marylin!
+43) 15) dialog: Wait! He works for YOU?
+43) 17) dialog: You were going to have this thug...?
+43) 21) dialog: Nonono. Marylin -- I'm your husband.  I'd be entitled to Rex's money. No  matter what happened to you.
+43) 25) dialog: It was fifty for you.
+43) 29) dialog: Were you with a firm?
+43) 31) dialog: Kaplan? I know Kaplan. Wait. You're  Joe Gittelson? I knew you looked --  You were great -- we studied you.
+43) 33) text: Joe is raising the gun at Miles. Miles sprays him with Ma BANG -- Joe fires blindly, scrunching his eyes against th chemical, sucking for breath like a jet engine revving fo take-off. SLAM -- Marylin elbows him in the face, breaking his nose She finishes with a solid groin kick. It slows him down, doesn't stop him. Joe stumbles a bit, but regains his footing. BANG -- Joe is rampaging around the room, still firing,  thumping at his chest with his free hand for his inhaler. Marylin runs to Miles. He takes her hand and they run tow the door, seeking egress. BANG -- still firing, he pulls out the inhaler but blindl bobbles it. Joe reaches with his gun hand to keep the inhaler from  falling. He momentarily bobbles both gun and inhaler. Miles pops up in front of him.
+43) 34) dialog: Marylin. Run. I'll distract him.
+43) 36) text: Joe recovers and raises the gun to his mouth as he points the inhaler at Miles. He squeezes -- WHUSH -- Miles squints against the asthma  mist and lets out a horrified:
+43) 37) dialog: Joe!
+43) 38) text: BANG! The off-screen gunshot is followed by the sound of body dropping heavily to the floor. Silence. Marylin runs over to Miles. They look sadly down at the f
+43) 39) dialog: WE told him it was no go...
+44) 0) text: Wrigley sits bouncing the steepled fingers of one hand ag the other. Miles sits gazing sadly out the window. The room is empty. There is the whir of ventilation. The click of the door attracts both their attention and b them to their feet. Marylin walks in, chic and beautiful as ever, followed by Ruth, who sits next to her, places her attachГ© case on t table top, and snaps its clasps.
+44) 3) text: Miles and Marylin are looking at each other. Quietly:
+44) 4) dialog: Hello Marylin.
+44) 6) dialog: Hard to believe this is the way it  will end up for us.
+44) 8) dialog: But then -- I guess -- something  inside me died when I realized that  you'd hired a goon to kill me.
+44) 12) text: There is an uncomfortable shifting in seats. Wrigley look at Miles.
+44) 14) text: Miles is still looking at Marylin.
+44) 15) dialog: Where does that leave us?
+44) 19) text: Miles ignores the paper, which lies unclaimed on the midd of the table. He looks at Marylin.
+44) 21) text: Marylin looks a Miles.
+44) 23) text: Miles, staring at Marylin, cuts in:
+44) 24) dialog: You wounded me first, Marylin.
+44) 26) dialog: You're forgetting Howard Doyle?
+44) 28) dialog: Income tax evasion?
+44) 30) dialog: Murder!
+44) 32) text: Miles, with his eyes still on Marylin, reaches into his s coat. He withdraws a piece of paper, spreads it flat on t table in front of him and, still gazing at her:
+44) 33) dialog: You know... there's nothing in the  Massey pre-nup that says it can't be  executed after the parties wed.
+44) 34) text: He decisively clicks the button on a ballpoint pen, looks down at the paper in front of him and scribbles his name. He pushes the paper across the table toward Marylin. Gazing at him, seeking the truth in his eyes, she absentl picks up the paper. There is a long silence. We hear only the hum of ventilat and Wrigley's quiet snuffling. Ruth is looking down her nose through her glasses -- over Marylin's shoulder -- at the sheet of paper. Marylin howe looks only at Miles.
+44) 42) text: Miles rises slowly to his feet. He puts his knuckles on the tabletop and leans forward. Marylin rises slowly to her feet. She leans forward. They kiss.
+44) 43) dialog: Let's go home.
+46) 2) dialog: Wait. Just wait for one minute. Sweet  Jesus, are you crazy?
+46) 4) dialog: reaches under the rubble and removes one box of Cohiba  Especials.
+46) 9) text: Miles casts a rueful look at the cigars.
+46) 10) dialog: Pre-Castro.
+46) 12) text: Miles looks at the box, then at his wife. He tosses the b to the concerned construction worker.
+46) 13) dialog: Here, buddy. These are for you.
+46) 16) dialog: Well. You'd say "they devoted a whole  semester at Harvard to your Dad. But  your Mom was the one that ever only  nailed his ass."
+46) 18) dialog: I thought so.

@@ -1,0 +1,308 @@
+3) 16) dialog: (Looking down at Neff) I'm Mrs. Dietrichson. What is it?
+3) 20) dialog: Pacific all-what?
+3) 24) dialog: Is there anything I can do?
+3) 28) dialog: (With a little smile) Perhaps I know what you mean, Mr.  Neff. I've just been taking a sun  bath.
+3) 32) dialog: That's all right. If you can wait  till I put something on, I'll be  right down. Nettie, show Mr. Neff  into the living room.
+3) 45) dialog: I hope I've got my face on straight.
+3) 47) dialog: (Crossing to the mirror  over the fireplace) Won't you sit down, Mr. -- Neff is  the name, isn't it?
+3) 49) dialog: What story?
+3) 51) dialog: (She works with her  lipstick) About the insurance. My husband never  tells me anything.
+3) 55) text: Phyllis smiles faintly and covers the anklet with her dre
+3) 57) dialog: I guess he's been too busy down at  Long Beach in the oil fields.
+3) 59) dialog: I suppose so. But he's never home  much before eight.
+3) 61) dialog: You're not connected with the  Automobile Club, are you?
+3) 63) dialog: Somebody from the Automobile Club  has been trying to get him. Do they  have a better rate?
+3) 65) dialog: No, he isn't.
+3) 66) text: Phyllis rises and walks up and down, paying less and less attention.
+3) 70) text: Phyllis stops in her walk.
+3) 71) dialog: You're a smart insurance man, aren't  you, Mr. Neff?
+3) 73) dialog: Doing pretty well?
+3) 75) dialog: You handle just automobile insurance,  or all kinds?
+3) 78) dialog: Accident insurance?
+3) 82) dialog: Just my name.
+3) 84) dialog: Phyllis.
+3) 86) dialog: But you're not sure?
+3) 88) dialog: (Standing up again) Mr. Neff, why don't you drop by  tomorrow evening about eight-thirty.  He'll be in then.
+3) 90) dialog: My husband. You were anxious to talk  to him weren't you?
+3) 92) dialog: There's a speed limit in this state,  Mr. Neff. Forty-five miles an hour.
+3) 94) dialog: I'd say about ninety.
+3) 96) dialog: Suppose I let you off with a warning  this time.
+3) 98) dialog: Suppose I have to whack you over the  knuckles.
+3) 100) dialog: Suppose you try putting it on my  husband's shoulder.
+3) 104) dialog: That's what I suggested.
+3) 109) dialog: I guess so. I usually am.
+3) 111) dialog: (Opening the door) I wonder if I know what you mean.
+6) 4) dialog: Hello, Mr. Neff.
+6) 6) dialog: Aren't you coming in?
+6) 9) dialog: I hope you didn't mind my changing  the appointment. Last night wasn't  so convenient.
+6) 13) dialog: I was just fixing some iced tea.  Would you like a glass?
+6) 15) dialog: There might be some. I never know  what's in the ice box. (Calls) Nettie!... 
+6) 17) dialog: About those renewals, Mr. Neff. I  talked to my husband about it.
+6) 19) dialog: Yes. He'll renew with you he told  me. In fact, I thought he'd be here  this afternoon.
+6) 21) dialog: No.
+6) 23) dialog: (Calls again,  impatiently) Nettie!... Nettie!... Oh, I forgot,  it's the maid's day off.
+6) 25) dialog: Lemon? Sugar?
+6) 31) dialog: Fresh.
+6) 33) dialog: I didn't think you'd learned it from  a correspondence course.
+6) 35) dialog: No. Californian. Born right here in  Los Angeles.
+6) 37) dialog: I wanted to ask you something, Mr.  Neff.
+6) 39) dialog: Walter.
+6) 41) dialog: Tell me, Walter, on this insurance --  how much commission do you make?
+6) 43) dialog: I thought maybe I could throw a little  more business your way.
+6) 45) dialog: I was thinking about my husband. I  worry a lot about him, down in those  oil fields. It's very dangerous.
+6) 47) dialog: He doesn't just sit behind a desk.  He's right down there with the  drilling crews. It's got me worried  sick.
+6) 49) dialog: Please don't talk like that.
+6) 51) dialog: The other day a casing line snapped  and caught the foreman. He's in the  hospital with a broken back.
+6) 53) dialog: It's got me jittery just thinking  about it. Suppose something like  that happened to my husband?
+6) 55) dialog: Don't you think he ought to have  accident insurance?
+6) 57) dialog: What kind of insurance could he have?
+6) 59) dialog: Capital sum? What's that?
+6) 61) dialog: I suppose you have to think of  everything in your business.
+6) 63) dialog: You could try. But he's pretty tough  going.
+6) 65) dialog: He's got a lot on his mind. He doesn't  want to listen to anything except  maybe a baseball game on the radio.  Sometimes we sit all evening without  saying a word to each other.
+6) 67) text: Phyllis shrugs.
+6) 68) dialog: So I just sit and knit.
+6) 70) dialog: Maybe I like the way his thumbs hold  up the wool.
+6) 72) dialog: I want to ask you something, Mr.  Neff. Could I get an accident policy  for him -- without bothering him at  all?
+6) 74) dialog: That would make it easier for you,  too. You wouldn't even have to talk  to him. I have a little allowance of  my own. I could pay for it and he  needn't know anything about it.
+6) 76) dialog: Because I know he doesn't want  accident insurance. He's superstitious  about it.
+6) 78) dialog: If there was a way to get it like  that, all the worry would be over.  You see what I mean, Walter?
+6) 80) dialog: Is there anything wrong with it?
+6) 82) dialog: What crown block?
+6) 84) dialog: I don't know what you're talking  about.
+6) 86) dialog: Are you crazy?
+6) 89) dialog: What's the matter?
+6) 91) dialog: Get away with what?
+6) 93) dialog: That's a horrible thing to say!
+6) 95) dialog: I think you're rotten.
+6) 97) dialog: Get out of here.
+10) 5) dialog: Hello.
+10) 7) dialog: You forgot your hat this afternoon.
+10) 11) dialog: Don't you want me to bring it in?
+10) 15) dialog: It's in the phone book.
+10) 17) dialog: It's raining.
+10) 21) dialog: Long Beach. They're spudding in a  new well. He phoned he'd be late.  About nine-thirty.
+10) 23) dialog: It's about time you said you're glad  to see me.
+10) 25) dialog: Like what?
+10) 27) dialog: I must have said something that gave  you a terribly wrong impression. You  must surely see that. You must never  think anything like that about me,  Walter.
+10) 29) dialog: It's not okay. Not if you don't  believe me.
+10) 31) dialog: I want you to be nice to me. Like  the first time you came to the house.
+10) 33) dialog: I know it has. It's happened to us.
+10) 35) text: Phyllis has moved over to the window. She stares out thro the wet window-pane.
+10) 37) dialog: I feel as if he was watching me. Not  that he cares about me. Not any more.  But he keeps me on a leash. So tight  I can't breathe. I'm scared.
+10) 39) dialog: I oughtn't to have come.
+10) 41) dialog: You want me to go?
+10) 43) dialog: Right now?
+10) 47) dialog: Do what?
+10) 49) dialog: Walter, for the last time --
+10) 52) dialog: I'm crazy about you, Walter.
+10) 54) dialog: Something French. I bought it down  at Ensenada.
+10) 56) dialog: Bourbon is fine, Walter.
+10) 60) dialog: Plain water, please.
+10) 64) text: Phyllis has the glasses now. She hands them to him. He du some ice cubes into the glasses.
+10) 65) dialog: Who didn't?
+10) 69) dialog: Perhaps it was worth it to her.
+10) 74) dialog: It's nice here, Walter. Who takes  care of it for you?
+10) 76) dialog: You get your own breakfast?
+10) 79) dialog: It sounds wonderful. Just strangers  beside you. You don't know them. You  don't hate them. You don't have to  sit across the table and smile at  him and that daughter of his every  morning of your life.
+10) 81) dialog: Yes. Lola. She lives with us. He  thinks a lot more of her than he  does of me.
+10) 83) dialog: He wouldn't give me a divorce.
+10) 85) dialog: He hasn't got any money. Not since  he went into the oil business.
+10) 87) dialog: Yes, he had. And I wanted a home.  Why not? But that wasn't the only  reason. I was his wife's nurse. She  was sick for a long time. When she  died, he was all broken up. I pitied  him so.
+10) 89) dialog: Yes, Walter. He's so mean to me.  Every-time I buy a dress or a pair  of shoes he yells his head off. He  won't let me go anywhere. He keeps  me shut up. He's always been mean to  me. Even his life insurance all goes  to that daughter of his. That Lola.
+10) 91) dialog: No. And nothing is just what I'm  worth to him.
+10) 93) dialog: Walter, I don't want to kill him. I  never did. Not even when he gets  drunk and slaps my face.
+10) 95) dialog: Perhaps I do.
+10) 97) dialog: Perhaps that too.
+10) 99) dialog: The other night we drove home from a  party. He was drunk again. When we  got into the garage he just sat there  with his head on the steering wheel  and the motor still running. And I  thought what it would be like if I  didn't switch it off, just closed  the garage door and left him there.
+10) 101) dialog: But Walter, I didn't do it. I'm not  going to do it.
+12) 0) text: CAMERA MOVES SLOWLY towards the davenport again. Neff sit in one corner with his feet on the low table. He is smoki his cigarette and staring at the ceiling. Phyllis has bee sitting fairly close to him. She gets up slowly and cross to her rain coat, lying over a chair.
+12) 1) dialog: I've got to go now, Walter.
+12) 3) dialog: Will you call me, Walter?
+12) 5) dialog: Walter!
+12) 7) dialog: I hate him. I loathe going back to  him. You believe me, don't you,  Walter?
+12) 9) dialog: I can't stand it anymore. What if  they did hang me?
+12) 11) dialog: It's better than going on this way.
+12) 13) dialog: You!
+12) 15) dialog: Do you know what you're saying?
+12) 20) dialog: Walter, you're hurting me.
+12) 26) text: They have now reached the door. Neff opens it. Phyllis st in the doorway, her lips white.
+12) 27) dialog: Straight down the line.
+13) 9) text: Phyllis looks up from the checker-board and cuts in on th dialogue. Lola listens without much interest.
+13) 10) dialog: (To Dietrichson) If we bought all the insurance they  can think up, we'd stay broke paying  for it, wouldn't we, honey?
+13) 19) text: Phyllis throws a quick glance at Neff. As she looks back sees that Lola is staring down at her wrist watch.
+13) 21) dialog: Got some thing better to do?
+13) 29) dialog: It's not that Nino Zachetti again?
+13) 37) dialog: Now you're not going to take my car  again.
+13) 41) text: Dietrichson sucks down a big swallow of his drink. Neff has taken two blank forms from his briefcase. He put the briefcase on Mr. Dietrichson's lap and lays the forms top. Phyllis is watching closely.
+13) 51) dialog: He was a Stanford man, Mr. Neff. And  he still goes to his class reunion  every year.
+13) 57) text: Dietrichson signs. Neff's and Phyllis' eyes meet for a sp second.
+13) 69) dialog: I guess that's enough insurance for  one evening, Mr. Neff.
+13) 77) dialog: (To Neff) I think you left your hat in the  hall.
+13) 78) text: Phyllis leads the way and Neff goes after her, his briefc under his arm.
+13) 80) dialog: All right, Walter?
+13) 82) dialog: He signed it, didn't he?
+13) 84) text: Phyllis opens the door a crack. Both look at the stairs,  where Dietrichson is going up. Phyllis takes her hand off the doorknob and holds on to Neff's arm.
+13) 86) text: Phyllis slowly drops her hand from his arm. Both look up Dietrichson goes across the balcony and out of sight.
+13) 88) dialog: End of the month.
+13) 90) dialog: He always drives.
+13) 92) dialog: Why?
+13) 95) dialog: It's all right. Go on, Walter.
+13) 97) dialog: I see. (Her eyes widen with  excitement)
+13) 99) dialog: It's going to be a train, Walter.  Just the way you say. Straight down  the line.
+13) 100) text: They look at each other. The look is like a long kiss. Ne goes out. Slowly Phyllis closes the door and leans her he against it as she looks up the empty stairway.
+20) 0) text: Neff has spotted Phyllis. Without haste he passes through the turnstile towards the back.
+20) 2) dialog: Walter.
+20) 4) dialog: I wanted to talk to you, Walter.  Ever since yesterday.
+20) 6) dialog: But listen, Walter ---
+20) 10) dialog: Yes. We both have keys.
+20) 12) dialog: I'm not a fool.
+20) 14) dialog: Walter, that's just it. He isn't  going.
+20) 16) dialog: That's what I've been trying to tell  you. The trip is off.
+20) 18) text: He breaks off as a short, squatty woman, pushing a child a walker, comes into sight and approaches. She stops besi Neff, who is pretending to read a label on a can. Phyllis puts a few cakes of soap into her basket.
+20) 23) text: She moves away with her coffee and her child. Out of the  corner of his eye Neff watches her go. He moves closer to Phyllis again.
+20) 25) dialog: He had a fall down at the well. He  broke his leg. It's in a cast.
+20) 27) dialog: What do we do, Walter?
+20) 29) dialog: Wait for what?
+20) 31) dialog: We can't wait. I can't go on like  this.
+20) 33) dialog: There are other ways.
+20) 35) dialog: But we can't leave it like this.  What do you think would happen if he  found out about this accident policy?
+20) 37) dialog: Don't ever talk like that, Walter.
+20) 39) dialog: It's not our heads. It's our nerve  we're losing.
+20) 41) dialog: Walter maybe it's my nerves. It's  the waiting that gets me.
+20) 43) dialog: Maybe we have, Walter. Only it's so  tough without you. It's like a wall  between us.
+21) 0) text: Phyllis is on the phone.
+21) 1) dialog: I had to call you, Walter. It's  terribly urgent. Are you with  somebody?
+21) 5) dialog: Walter, I've only got a minute. It  can't wait. Listen. He's going  tonight. On the train. Are you  listening, Walter? Walter!
+21) 9) dialog: He's on crutches. The doctor says he  can go if he's careful. The change  will do him good. It's wonderful,  Walter. Just the way you wanted it.  Only with the crutches it's ever so  much better, isn't it?
+21) 19) dialog: It's the ten-fifteen from Glendale.  I'm driving him. Is it still that  same dark street?
+21) 22) dialog: 
+21) 23) dialog: The signal is three honks on the  horn. Is there anything else?
+21) 27) dialog: Color? (She catches on) Oh, sure. The blue suit, Walter.  Navy blue. And the cast on his left  leg.
+21) 31) dialog: This is it, Walter. I'm shaking like  a leaf. But it's straight down the  line now for both of us. I love you,  Walter. Goodbye.
+26) 0) text: The front door has opened and Dietrichson is half-way dow the steps. He is walking with crutches, wearing the dark  blue suit and a hat. The cast is on his left leg. There i no shoe on his left foot. Only the white plaster shows.  Phyllis comes after him, carrying his suitcase and his  overcoat. She wears a camel's-hair coat and no hat. She  catches up with him.
+26) 1) dialog: You all right, honey? I'll have the  car out in a second.
+27) 0) text: THE CAMERA IS VERY LOW INSIDE THE SEDAN, shooting slightl upwards from Neff's hiding place. The garage door has jus been opened. Phyllis comes to the car, opens the rear doo She looks down, almost INTO THE CAMERA. A tight, cool smi flashes across her face. Then, very calmly, she puts the  suitcase and overcoat in back on the seat (out of shot). closes the door again.
+28) 0) text: Dietrichson stands watching Phyllis as she gets into the and drives out to pick him up. She stops beside him and o the right-hand door. Dietrichson climbs in with difficult She helps him, watching him closely.
+28) 1) dialog: Take it easy, honey. We've got lots  of time.
+29) 0) text: Phyllis driving and Dietrichson beside her, face TOWARDS CAMERA. Dietrichson has a partly smoked cigar between his teeth. They are in the middle of a conversation.
+29) 2) dialog: Mrs. Tucker went along with her  husband last year, didn't she.
+29) 8) text: B-44 HEADS &amp; SHOULDERS OF DIETRICHSON &amp; PHYLLIS -
+29) 10) dialog: Remember what the doctor said. If  you get careless you might end up  with a shorter leg.
+29) 12) dialog: It makes you feel pretty good to get  away from me, doesn't it?
+29) 13) text: B-45 PHYLLIS &amp; DIETRICHSON - FACING CAMERA
+29) 15) dialog: Don't forget we're having the Hobeys  for dinner on Monday.
+29) 17) dialog: Maybe they do but I've already asked  them for Monday.
+29) 21) text: Phyllis does not answer. She doesn't even breathe. Her ha goes down on the horn button. She honks three times.
+29) 23) text: This is as far as his voice will ever get. It breaks off dies down in a muffled groan. There are struggling noises and a dull sound of something breaking. Phyllis drives on and never turns her head. She stares straight in front of her. Her teeth are clenched.
+29) 27) dialog: Don't worry.
+29) 29) dialog: I said don't worry, Walter.
+29) 30) text: B-49 PHYLLIS &amp; THE MAN, WALKING DOWN PLATFORM, CAMERA
+29) 33) dialog: I remember everything.
+29) 35) dialog: Walter, we've been through all that  so many times.
+29) 37) text: Phyllis nods. They go on. Over them is heard the noise of the train coming into the station and its lights are seen
+29) 40) text: Phyllis takes an envelope containing Dietrichson's ticket from the pocket of the overcoat. She reads from the envel
+29) 41) dialog: Car nine, section eleven. Just my  husband going.
+29) 43) text: Phyllis hands the overcoat to the redcap, who leads her a Neff towards car number nine. Neff still hangs back and k his head down, the way a man using crutches might natural do.
+30) 0) text: The pullman conductor and porter stand at the steps. The  conductor is checking the tickets of passengers getting o The redcap leads Phyllis and Neff into the SHOT. The cond and porter see Neff on his crutches and move to help him.
+30) 1) dialog: It's all right, thanks. My husband  doesn't like to be helped.
+30) 2) text: The redcap goes up the steps into the car. Neff laborious swings himself up onto the box and from there up on the s keeping his head down. Meantime, Phyllis is holding the  attention of the conductor and porter by showing them the ticket.
+30) 4) text: Phyllis nods and takes the ticket back. Neff has reached top of the steps. She goes up after him and gives him the ticket. They are now close together.
+30) 5) dialog: Goodbye, honey. Take awful good care  of yourself with that leg.
+30) 7) dialog: I'll miss you, honey.
+30) 10) text: Phyllis takes a quarter from her bag and gives it to the  redcap.
+30) 12) text: Redcap descends. Phyllis kisses Neff again quickly.
+30) 13) dialog: Good luck, honey.
+30) 14) text: She runs down the steps. The porter picks up the box. He the conductor get on board the train. Phyllis stands ther waving goodbye as the train starts moving, and the porter begins to close the car door. Phyllis turns and walks out the shot in the direction of the parked car.
+33) 28) text: Neff points back towards the tracks. He reaches into the and begins to drag out the body by the armpits. Phyllis c reaches past him and takes the hat off the dead man's hea She turns to go.
+33) 30) text: Phyllis moves out of the shot carrying the hat and rug.
+33) 35) text: He takes the rug from her and they move back towards the  car, Phyllis first, then Neff walking almost backwards,  sweeping the ground over which the body was dragged with rug as they go.
+34) 0) text: Phyllis is behind the wheel. Neff beside her is just clos the door. He props his wrapped foot against the dashboard and begins to tear off the adhesive tape while at the sam time Phyllis presses the starter button. The starter grin but the motor doesn't catch. She tries again. It still do catch. Neff looks at her. She tries a third time. The sta barely turns over. The battery is very low. Phyllis leans back. They stare at each other desperately. After a moment Neff bends forward slowly and turns the  ignition key to the OFF position. He holds his left thumb poised over the starter button. There is a breathless mom Then he presses the starter button with swift decision. T starter grinds with nerve-wracking sluggishness. Neff twi the ignition key to ON and instantly pulls the hand-throt wide open. With a last feeble kick of the starter, the mo catches and races. He eases the throttle down and slides  back into his place. They look at each other again. The  tenseness of the moment still shows in their faces.
+34) 2) text: Phyllis releases the hand brake and puts the car in rever Neff is again busy unwrapping the tape from his leg. The moves.
+35) 0) text: Phyllis and Neff facing towards CAMERA. Neff is bent over peeling the towel and plaster off his foot, which is out shot. Phyllis is calm, almost relaxed. Neff straightens u They are talking to each other. Their lips are seen movin but what they say is not heard. They stop talking. Phylli stares straight ahead. Neff is pulling adhesive tape off wrapped towel that was on his foot. He folds the adhesive into a tight ball, rolls the towel up, puts both into his pockets.
+35) 6) dialog: Walter.
+35) 8) dialog: What's the matter, Walter. Aren't  you going to kiss me?
+35) 10) text: Phyllis bends towards him and puts her arms around him.
+35) 11) dialog: It's straight down the line, isn't  it?
+35) 12) text: Phyllis kisses him. In the kiss he is passive.
+35) 13) dialog: I love you, Walter.
+37) 39) text: Neff stands staring at the door. He relaxes with an obvio effort of will. Phyllis comes in. She wears a gray tailor suit, small black hat with a veil, black gloves, and carr a black bag. The secretary closes the door behind her. Mr Norton goes to meet her.
+37) 44) dialog: How do you do.
+37) 46) dialog: I've met Mr. Neff. How do you do.
+37) 47) text: Norton has placed a chair. Phyllis sits. Norton goes behi his desk.
+37) 49) text: Phyllis nods silently.
+37) 51) dialog: No. All I know is that your secretary  made it sound very urgent.
+37) 54) dialog: No. I remember some talk at the house --
+37) 56) dialog: -- but he didn't seem to want it.
+37) 58) dialog: I see.
+37) 60) dialog: His safe deposit box hasn't been  opened yet. It seems a tax examiner  has to be present.
+37) 62) dialog: What sort of things?
+37) 64) text: Phyllis looks at him coolly. Keyes looks vaguely interested. Neff is staring straight at Phyllis.
+37) 66) text: Phyllis doesn't bat an eyelash.
+37) 68) dialog: Please.
+37) 70) text: He indicates a thermos on a stand near Neff. Neff pours a glass of water and carries it over to Phyllis. She has li her veil a little. She takes the glass from his hand.
+37) 71) dialog: Thank you.
+37) 74) dialog: He was perfectly all right and I  don't know of any financial worries.
+37) 76) dialog: Do what?
+37) 81) dialog: I don't know anything. In fact I  don't know why I came here.
+37) 84) text: Phyllis rises coldly.
+37) 86) dialog: Don't bother, Mr. Norton. When I  came in here I had no idea you owed  me any money. You told me you did.  Then you told me you didn't. Now you  tell me you want to pay me a part of  it, whatever it is. You want to  bargain with me, at a time like this.  I don't like your insinuations about  my husband, Mr. Norton, and I don't  like your methods. In fact I don't  like you, Mr. Norton. Goodbye,  gentlemen.
+38) 0) text: Phyllis is on the phone. She is not dressed as in Norton' office.
+38) 1) dialog: I felt so funny. I wanted to look at  you all the time.
+38) 5) dialog: At the drug store. Just a block away.  Can I come up?
+38) 8) text: He hangs up, takes off his hat and drops hat and briefcas on the davenport. He looks around the room and crosses to lower the venetian blinds and draw the curtains. He gathe up the morning paper which is lying untidily on the floor and puts it in the waste-paper basket. The door bell rings. Neff stops in sudden alarm. It can't be Phyllis. The time too short. For a second he stands there motionless, then  crosses to the door and opens it. In the open door stands Keyes.
+38) 52) text: Neff, behind him, looks anxiously down the hallway for  Phyllis. Suddenly his eye catches a glimpse of her throug the crack of the partly opened door. He pushes the door w so as to hide her from Keyes.
+38) 62) text: Keyes gets into the elevator. The door closes. The elevat goes down. Neff stands numb, looking at the spot where Keyes was las visible. Without moving his eyes he pulls the door around towards him with his left hand. Phyllis slowly comes out. Neff motions quickly to her to go into the apartment. She crosses in front of him and enters. He steps in backwards after her.
+39) 0) text: Phyllis has come a few steps into the room. Neff, backing after her, closes the door from inside and turns slowly.  They look at each other for a long moment in complete sil
+39) 1) dialog: How much does he know?
+39) 3) dialog: But he can't prove anything, can he?
+39) 5) dialog: For how long a while?
+39) 8) dialog: Yes, I'm afraid. But not of Keyes.  I'm afraid of us. We're not the same  any more. We did it so we could be  together, but instead of that it's  pulling us apart. Isn't it, Walter?
+39) 10) dialog: And you don't really care whether we  see each other or not.
+43) 0) text: The LaSalle stops in front of the market. Phyllis steps o and goes into the market, looking around.
+43) 2) dialog: Hello, Walter.
+43) 4) text: Phyllis moves close to him.
+43) 5) dialog: What's the matter?
+43) 7) dialog: What's he got to stop me?
+43) 9) dialog: Prove it how? Listen, if he rejects  that claim, I have to sue.
+43) 11) text: Phyllis looks at him sharply, sideways.
+43) 12) dialog: What about me and the first Mrs.  Dietrichson?
+43) 14) text: A customer comes along the aisle toward them. They move a The customer passes. Phyllis draws close again.
+43) 15) dialog: Walter, Lola's been telling you some  of her cockeyed stories. She's been  seeing you.
+43) 17) dialog: Yes, she's been putting on an act  for you, crying all over your  shoulder, that lying little --
+43) 19) dialog: Because you don't want the money any  more, even if you could get it?  Because she's made you feel like a  heel all of sudden.
+43) 21) dialog: Because of what Keyes can do? You're  not fooling me, Walter. It's because  of Lola. What you did to her father.  You can't take it that she might  find out some day.
+43) 23) dialog: Walter, it's me I'm talking about. I  don't want to be left out of it.
+43) 25) dialog: We have gone through with it, Walter.  The tough part is all behind us. We  just have to hold on now and not go  soft inside, and stick together,  close, the way we started out.
+43) 26) text: Phyllis takes his arm, forgetting where she is. He pulls  away.
+43) 28) text: One of the market help, pushing a small hand-truck loaded with packaged goods, comes along the aisle. He stops and  begins to restock a shelf very close to Neff and Phyllis. They go off slowly in opposite directions. CAMERA PANS wi Neff as he walks toward another shelf, one that stands aw from the wall. Phyllis appears on the opposite side of th shelf and stops, facing toward him. They now continue the low-voiced dialogue through the piled-up merchandise.
+43) 29) dialog: I loved you, Walter. And I hated  him. But I wasn't going to do anything  about it, not until I met you. It  was you had the plan. I only wanted  him dead.
+43) 31) text: Phyllis takes off her dark glasses for the first time and looks at him with cold, hard eyes.
+43) 32) dialog: Yes. And nobody's pulling out. We  went into it together, and we're  coming out at the end together. It's  straight down the line for both of  us, remember.
+43) 33) text: Phyllis puts the glasses on again and goes. Over Neff's face, as he looks after her, comes the COMMEN
+44) 64) dialog: (In foreground) In here, Walter.
+44) 67) dialog: Nobody. Why?
+44) 69) dialog: A radio up the street.
+44) 72) dialog: And what are you thinking about now?
+44) 74) dialog: Goodbye? Where are you going?
+44) 76) dialog: Suppose you stop being fancy. Let's  have it, whatever it is.
+44) 78) dialog: Maybe he's got something there.
+44) 80) dialog: So you've got it all arranged, Walter.
+44) 82) dialog: Just who are you talking about?
+44) 84) dialog: What are you talking about?
+44) 86) dialog: That's not true.
+44) 88) dialog: And what's happening to me all this  time?
+44) 90) dialog: Maybe it's not good enough for me.  Walter. Maybe I don't go for the  idea. Maybe I'd rather talk.
+44) 92) dialog: And that'd make everything lovely  for you, wouldn't it?
+44) 94) dialog: Listen, Walter. Maybe I had Zachetti  here so they won't get a chance to  trip me up. So we can get that money  and be together.
+44) 96) dialog: He came here the first time just to  ask where Lola was. I made him come  back. I was working on him. He's  crazy sort of guy, quick-tempered. I  kept hammering into him that she was  with another man, so he'd get into  one of his jealous rages, and then  I'd tell him where she was. And you  know what he'd have done to her,  don't you, Walter.
+44) 98) dialog: We're both rotten, Walter.
+44) 100) dialog: Suppose it is, Walter. Is what you've  cooked up for tonight any better?
+44) 103) text: Phyllis just stares at him. He goes quietly over to the w and shuts it and draws the curtain. Phyllis speaks to his back:
+44) 104) dialog: (Her voice low and  urgent) Walter!
+44) 105) text: Neff turns, something changes in his face. There is the r of a gun. He stands motionless for a moment, then very sl starts towards her. CAMERA IS SHOOTING OVER HIS SHOULDER Phyllis as she stands with the gun in her hand. Neff stop after he has taken a few steps.
+44) 109) text: Phyllis is silent. She doesn't shoot. Her expression is  tortured. Neff goes on until he is close to her. Quietly takes the gun out of her unresisting hand.
+44) 111) text: Phyllis puts her arms around him in complete surrender.
+44) 113) dialog: No. I never loved you, Walter. Not  you, or anybody else. I'm rotten to  the heart. I used you, just as you  said. That's all you ever meant to  me -- until a minute ago. I didn't  think anything like that could ever  happen to me.
+44) 115) dialog: I'm not asking you to buy. Just hold  me close.
+44) 118) text: Out of the shot the gun explodes once, twice. Phyllis qui in his arms. Her eyes fill with tears. Her head falls lim against his shoulder. Slowly he lifts her and carries her the davenport. He lays her down on it carefully, almost  tenderly. The moonlight coming in at the French doors shi on the anklet. He looks at it for the last time and slowl turns away. As he does so, he puts his hand inside his co and it comes out with blood on it. Only then is it appare that Phyllis' shot actually did hit him. He looks at the  blood on his fingers with a dazed expression and quickly  goes out of the room, the way he came.

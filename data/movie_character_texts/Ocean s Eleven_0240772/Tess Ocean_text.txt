@@ -1,0 +1,102 @@
+87) 22) dialog: 'Radiant' is the word. Absolutely radiant.
+88) 0) text: The painting hangs under a portrait lamp on a wall between a van Gogh and a Monet. At a distance, admiring it, are Tess, the SELLER and the seller's AIDE-DE-CAMP. A staff photographer and other personnel mill nearby. Off to the side, in a sharp blazer, Tess stands transfixed by the painting.
+88) 1) dialog: He painted it in the summer of 1912, after the break-up with Fernande Olivier.
+88) 3) dialog: You can see the conflict. He makes her both erotic and grotesque. He's hopelessly drawn to her, and yet she drives him crazy.
+88) 5) dialog: Mr. Benedict is never late.
+88) 10) dialog: Not at all, Mr. Benedict. (greeting him) Allow me to introduce to you Mr. Jean Santaniello.
+88) 14) text: Tess angles Benedict toward the painting.
+88) 15) dialog: Here it is.
+88) 16) text: Benedict moves toward the painting, and as he does he catches Tess in his glance, and his smile deepens. Then:
+88) 23) dialog: Yes, Mr. Benedict.
+88) 29) text: Tess understands: she is not to be part of the photo. Benedict and the Seller pose together and... Flash!
+89) 0) text: The Seller exits with the Aide-De-Camp in tow. Benedict remains, enthralled by the painting. Tess appears beside him.
+89) 1) dialog: You like it?
+89) 3) dialog: Oh?
+89) 7) dialog: I see.
+89) 14) dialog: What?    We're alone.
+89) 18) dialog: I'll see you tonight.
+89) 21) text: And Tess remains, thinking:         he's rich, he's hands wooing, but is she happy? OCEAN'S 11 - Rev. 10/24/00                            65.
+91) 0) text: Tess Ocean sits in a booth and sips at a glass of wine and checks her watch: Benedict is late or very close to being so...
+91) 3) dialog: (without looking at him) You're thirty seconds late. I was about to send out a search party... (recognizing the hands, she turns, stunned) Danny...
+91) 5) dialog: (thrilled and petrified and stunned to see him, but outraged mostly) What are you doing here?
+91) 7) dialog: You're out.
+91) 9) dialog: I don't smoke. (as he sits) Don't sit --
+91) 11) dialog: Funny, I never got a check.
+91) 12) text: Danny smiles.    Tess stares daggers.
+91) 19) dialog: I sold it. And I don't have a husband. Or didn't you get the papers?
+91) 21) dialog: I told you I'd write.
+91) 23) dialog: Danny.   Go.   Now. Before...
+91) 27) dialog: Danny...
+91) 31) dialog: Remind you of anyone?
+91) 35) dialog: Monet.
+91) 37) dialog: They also painted occasionally.
+91) 40) dialog: Did it always go this poorly?
+91) 42) dialog: Sounds frustrating.
+91) 44) dialog: You're a thief and a liar.
+91) 46) dialog: Steal?
+91) 48) dialog: I'm with someone now who doesn't have to make that kind of distinction.
+91) 52) dialog: Nice.   Work on that for two years, too?
+91) 54) text: A light smile from Tess.
+91) 55) dialog: Do you know what your problem is?
+91) 57) dialog: You've met too many people like you. (then) I'm with Terry now.
+91) 59) dialog: He doesn't make me cry.
+93) 1) dialog: See, the kind of people you steal things from, they have insurance to compensate them. They get made whole again. I had to leave New York to get away from what happened. How do I get my five years back, Danny?
+93) 3) dialog: You don't know anything about --
+93) 5) dialog: Spoken like a true ex-husband.
+93) 7) dialog: I'm not laughing. (beat) You have to admit there's a conflict of interest when you give me advice about my love life.
+93) 13) dialog: Do you remember what I said to you when we first met?
+93) 15) dialog: Do you? Now? Because -- truly -- you should walk out the door if you don't.
+93) 20) dialog: Terry, meet my ex-husband...
+93) 23) dialog: Danny was just walking through the restaurant and spotted me.
+93) 31) dialog: Terry, Danny was just about to...
+93) 34) dialog: He can't --
+93) 36) text: An awkward silence.    Benedict takes Tess's hand in his.
+93) 45) dialog: Take care, Danny.
+93) 47) dialog: I'm sorry --
+95) 0) text: Just down the block from the Terry Benedict Trinity stands (for a few remaining moments) the edifice of the Paradiso, Reuben Tishkoff's bankrupted hotel-casino. A crowd has gathered to witness its destruction: Terry Benedict, for one, his finger on the button and his face in the spotlight; Tess another, standing (near)by her man; Danny, too, hidden within the masses, eyes fixed on his ex; and Linus, who keeps a steady bead on Danny.
+122) 0) text: Tess, readying herself for the big evening, meets her own glance in a dressing mirror, then spots Benedict in its reflection, pacing the bedroom behind her.
+122) 4) dialog: You.
+124) 5) text: Put a guy on him. He's here for a reason. I'd like to know what it is. But if he comes anywhere near Tess, take it to the next level.
+141) 5) text: The Maitre d' turns to his next customer:         Tess. course, merits a table instantly.
+141) 7) text: Reuben can't help but stare as Tess passes by. His eyes linger a little too long and a little too low...
+141) 17) dialog: Danny:    No.
+141) 19) dialog: I'm having you thrown out of here.
+141) 21) dialog: You're up to something, Danny. What? And don't say you came here for me. You're pulling a job, aren't you?
+141) 23) dialog: Well, know this: no matter what it is, you won't win me back. I can't afford it.
+141) 27) dialog: Oh... then... good-bye.
+141) 31) text: Danny leaves her.       Tess watches him go.
+141) 32) dialog: (already missing him) Good-bye, Danny.
+162) 0) text: The boxers enter the ring before a full, cheering house. Benedict and Tess find their ringside seats, a row in front of Reuben and his "nieces."
+171) 0) text: The opening BELL RINGS -- round one. The fighters break from their corners, feinting, jabbing... Sitting ringside: Benedict looks at Tess and smiles as she winces at the first sharp blow.
+208) 0) text: MOVING WITH Benedict and Tess, pushing their way out through the crowd. A PHONE is RINGING nearby... again and again...
+208) 2) dialog: I don't have a cell phone. They keep moving, but the RING pursues them. Finally, Benedict stops, pulls Tess's purse from her shoulder and opens it: inside, he finds a CELL PHONE, RINGING.
+208) 3) dialog: It isn't mine.
+208) 5) dialog: Hello?
+208) 7) dialog: It's for you. Benedict takes the phone.
+209) 0) text: Benedict enters, and fear enters with him. And, of course, Tess. As the room buzzes with activity, he keeps the cell phone pressed to his ear.
+213) 2) text: Find out how much money we have down there. Tess, amid all this chaos, is still curious: how did that cell phone get into her handbag? And suddenly it hits her...
+213) 6) text: Alright. You've proved your point. You've broken into my vault. Congratulations: you're a dead man. Tess leaves.
+214) 1) text: Do you believe I'll simply allow you to parade bags full of my money out my casino doors? A distance beyond Rusty, Tess exits the cages. She stops, puzzling over what to do, happens to spot him. RUSTY
+220) 0) text: Tess and Rusty hold a stare as Rusty holds the phone.
+220) 1) dialog: Where's Danny?
+220) 3) dialog: (a little pissed)
+220) 7) text: Good. Here's what you do. Five minutes from now, the men in the vault are going to deposit six bags in the vault elevator. Tess isn't sure what to do. As Rusty continues on the phone, she backs off, debating: can she blow the whistle on her ex?
+227) 10) dialog: pacing in Benedict's suite, biting her nails, debating whether to blow the whistle on Danny. ON TV: a newscast of the contentious aftermath of the prize fight.
+244) 0) text: The PHONE RINGS.      Tess plucks it up.
+244) 1) dialog: Hello?
+244) 5) text: CLICK.   Tess does so. On her TV: A security-angle of the cage hallway.   The Goons appear, escorting bloodied Danny out. As Tess gasps, we go live to...
+248) 0) text: The Goons haul Danny out. Tess has left, heartbeats ago: the room's door is just closing.
+251) 0) text: As he arrives, the elevator doors open and Tess steps out. She breezes right past him.
+251) 2) dialog: You of all people should know, Terry: in your hotel, there's always someone watching.
+253) 0) text: Tess exits, searching for Danny.   She rounds the buildin to...
+254) 1) dialog: Wait!
+254) 2) text: They do. As Danny is handcuffed and prepared for loading in the back, he and Tess hold each other's glance.
+254) 5) dialog: Danny... (beat) I'm sorry.
+254) 8) dialog: I didn't.
+254) 11) dialog: How long will you be?
+254) 13) text: The squad car door closes him in and Tess stands vigil as it pulls away.
+255) 18) text: Danny gets to the passenger door and looks in to see Tess sitting in the back. She smiles at him.
+255) 20) dialog: Sure they do.
+255) 21) text: Danny and Rusty get in.      Danny kisses Tess.   Rusty S the CAR.
+255) 27) dialog: That's what I said.
+255) 29) dialog: Thief.

@@ -1,0 +1,211 @@
+0) 2) dialog: Thanks for the horse. He's a shy child, yet comfortable with Catherine.
+0) 4) dialog: He's beautiful... Edward smiles, delighted he made her happy.
+0) 5) dialog: But I thought we were going sailing. The boy frowns.
+0) 6) dialog: You promised. A devilish glint in his eye, Edward redirects the mirror. Catherine follows the flicker to a TOY BOAT in the sand.
+0) 7) dialog: We can't fit into that! Edward shines light in her eyes, momentarily blinding her then snaps the locket shut.  When her vision clears, Catherine sees a GIANT SHIP perched among the dunes.  A c weighing hundreds of tons just sitting there in the deser
+0) 8) dialog: That'll do. She walks toward it, but Edward doesn't follow.
+0) 9) dialog: (coaxing him)
+0) 11) dialog: What now?
+0) 14) dialog: (calling to him)
+0) 17) dialog: Oh no... No you don't.
+0) 19) dialog: I bet we can fix it. She opens a rusted iron DOOR.  It makes an HORRIFIC SCREECHING SOUND.  Similar to metal-on-metal, but more piercing, more pained.  As if made by a living thing.
+0) 20) dialog: (familiar with the noise, a warning to him)
+0) 21) text: Ed-ward... The boy's FACE CONTORTS, turning into something half-huma half-animal.  A monster.  Mocky-Lock.  He SCREECHES, tryi to frighten Catherine, but she cocks her head...
+0) 22) dialog: We agreed.  No more Mocky-Lock. The creature sticks its tongue out and DIVES.
+0) 23) dialog: Edward! But it's too late!  Edward/Mocky Lock slithers into the s and disappears.  Resigning herself to a failure, she open the palm of her left hand, revealing a SMALL BUMP in the flesh between thumb and forefinger.  She presses hard and
+1) 0) text: We are looking at a large SCREEN showing an electronicall generated three-dimensional view of a human brain featuri color-coded neurological activity.  In a specific section the image, cells flash from yellow to red... PULL BACK TO REVEAL HENRY WEST surrounded by computers, monitors, electronics, and keyboards.  DR. MIRIAM KENT st before a peculiar diagnostic machine scrutinizing data an images.  Both wear garb favored by surgeons or microchip assemblers.  The impressive, weird computer system HUMS a shifts programs, the unusual brain image changing colors. THROUGH A LARGE WINDOW, we see into an ADJOINING ROOM wit which a HUMAN FIGURE hangs suspended in mid-air by a seri of cables designed to simulate flotation. AT THE CONSOLE, Miriam uses a pen to hit specific areas o the touch-sensitive screen, changing the complex CHEMICAL SYMBOLS displayed there. IN THE PROCEDURE ROOM, a series of pharmaceuticals are injected into an intravenous tube feeding the sleeve/arm the figure.  A featherweight cloth MASK electronically ri revealing the sleeping face of Catherine. AT THE CONSOLE, Miriam hits a button and speaks into an intercom microphone.
+1) 3) dialog: (hoarse, groggy)
+1) 6) dialog: Baked in a pie... IN THE CONTROL ROOM, Henry hits a switch and Catherine is lowered to the pedestal.  Miriam checks Monitors displayi Catherine's vital signs and continuing what must be a routine, presses numbers on a keypad to open the PRESSURI AIRTIGHT DOOR separating the two areas. IN THE PROCEDURE ROOM, lights come on and Miriam eases Catherine out of the apparatus.  She checks her pupil dilation, pulse, throat, and reflexes.  She pokes and pro with a familiarity that would seem rude to an outside observer, but is nothing to them.  Getting to her feet, w see that Catherine's BODYSUIT is made of an unusual dark fabric almost liquid in consistency. AT THE CONSOLE, Henry moves to another section and for th first time, we see there are two elaborate neural monitor And the "brain" pictured here is smaller.  Younger...
+1) 9) dialog: Almost.  Mocky-Lock showed up.
+1) 11) dialog: Mocky-Lock is a pain in the ass. Henry communicates with them via the intercom.
+1) 13) dialog: A nursery rhyme. Catherine detaches the cables and eases Edward's frail bo into a waiting wheelchair.  Miriam takes a penlight and examines the boy's eyes... An emotionless void, oddly beautiful.
+1) 15) text: Nursery rhymes, fairy tales, the bogeyman... All preparation for the horrors of the real world. Making certain the child is comfortable, Catherine covers with a blanket, rests a teddy bear on his lap, and pushes into the CONTROL ROOM, accompanied by Miriam.  Henry type a command and moves to join them.
+3) 0) text: Although this is a hospital room filled with medical equipment, its sterility has been camouflaged with toys, posters, photographs, and drawings to make it more "homey (Some hint at aspects of Edward's fantasy world).  Every comfort has been provided and no expense spared. Henry, Miriam, and Catherine, now wearing funky/casual clothes under a lab coat, stand opposite Cooperman.  Sitt on the bed with Edward is ELLA BAINES, an elegantly dress woman in her mid-40's.  There is a soulfulness to her, bu the husband, LUCIEN BAINES, 60's, possesses the icy demea of a corporate tycoon.  One might write him off as cold, we sense a genuine love for his wife and child.  Ella smi and caresses Edward's hair.
+3) 2) dialog: I'll tell the nurse. (sensing something in Edward)
+3) 5) text: He wants to place Edward in a hospital. Seeing an unfunded future, Henry's ready to disassociate himself from Miriam and Catherine...
+3) 9) dialog: You don't know about me, though, do you?
+3) 11) dialog: There's been progress.
+3) 13) dialog: (to Cooperman, Miriam, Henry)
+3) 16) dialog: Then what is it? Introspective and solemn-eyed, Lucien takes a moment, the
+3) 18) text: You tell me... Am I doing the right thing? OFF CATHERINE'S FACE...
+5) 0) text: In the darkened procedure room, Miriam finds Catherine standing between the two suspension devices, alone.
+5) 2) dialog: He hates me.
+5) 6) dialog: She thinks I can bring Edward back.
+5) 8) dialog: I want to try it.  Please. Miriam knows what this is about.
+5) 10) dialog: Why not?  Just once.  A trial run.  What harm could it do?
+5) 12) dialog: Why is it taking so long for us to reach him?  Because we've been reactive, that's why.  And we need to be active. Miriam reaches for Catherine's wrist and takes her pulse.
+5) 13) dialog: (annoyed)
+5) 16) dialog: He creates the obstacles, he decides which games to play.
+5) 18) dialog: (frustrated)
+5) 21) dialog: I do it all the time!
+5) 23) dialog: I'd be there for him.
+5) 25) dialog: (defeated)
+5) 26) text: Okay, okay... Miriam takes a penlight and examines Catherine's eyes.
+5) 28) text: Have you been sleeping? Catherine nods.
+5) 31) dialog: (defensively)
+5) 34) dialog: Yes mother.
+5) 37) dialog: Okay. Miriam gathers her belongings.
+5) 39) dialog: (declining)
+6) 0) text: The corridors are dark and most everyone has gone home. the NURSES STATION, a staff member observes the child on closed-circuit monitor.  Further down the hall, Miriam an Henry exit.  Wearing a (chic) thrift store coat and luggi worn book bag, Catherine stands outside Edward's room, watching him sleep.
+6) 1) dialog: Pleasant dreams, Mister E.
+12) 0) text: The place is a mess.  Computer print-outs, dirty dishes, unopened mail, videotapes, and notepads cover tables, cha and floor.  On the crammed bookshelves, psychology texts next to volumes on mythology, religion, and the occult.  Totems, figurines and artifacts (Central and South Americ in origin) adorn the walls and tables. As Portishead plays on the stereo, we find Catherine suffering from insomnia, wearing goofy-yet-hip eyeglasses sweatpants and a UCSD T-shirt, sharing a late-night snack with her pet CAT.  She shuts the refrigerator door and we linger on an odd POSTCARD taped to the surface.  A kitsch postcard of a warrior/goddess.
+14) 0) text: Lying on her bed (a waterbed), Catherine sleepily stares the ceiling, rolls onto her side, and feels herself drawn into the comforter.  The folds of the fabric become rippl Ripples become dunes.
+15) 0) text: And we find ourselves in the DESERT of EDWARD'S WORLD. We fly over dunes and come up behind Catherine as she struggles through waves of sand.  The tree trunk is up ah and we glimpse someone hiding inside. Catherine reaches.  MOCKEY-LOCK ERUPTS FROM WITHIN THE TR TRUNK!  SNARLING!  Catherine retreats, silently screaming
+16) 0) text: IN HER OWN BED, Catherine's eyes are open.  In sharp cont to a typical reaction to a nightmare, she remains calm. sweaty face, no gasp, no reaction at all, really.  She mi as well have been dreaming of puppy dogs.  Wide awake, he eyes return their gaze to the ceiling.
+16) 1) dialog: Go.  To.  Sleep.
+47) 1) dialog: It's fixed! AT THE TREE TRUNK, Catherine extends her hand and suddenl Edward is there, quite close, reaching out.  Catherine's trembles.  The boy is startled.
+47) 2) dialog: (surprised, to herself)
+47) 5) dialog: (angry, to the heavens)
+47) 6) text: I'm not signalling! Edward is frightened by what's happening and runs away.  Catherine tries to call out, but her throat constricts, making speech difficult.
+47) 7) dialog: I'm not...    INT. CAMPBELL CENTER - LABORATORY - DAY
+47) 8) text: Catherine's face is covered by a cloth floating down from sky.  The sky is replaced by the ceiling and overhead lig of the LABORATORY, but Miriam's face remains constant.  N conscious, Catherine finds herself in the lab at the Camp Center, the suspension device lowering.
+47) 11) dialog: (hoarse)
+47) 16) dialog: (disappointed)
+48) 0) text: A SMALL TV SCREEN shows footage of Anne drowning in the c Catherine, Cooperman, Henry, and Miriam watch with curios disgust, pity.  Novak and Ramsey flank the portable monitor/VCR, knowing this is a disturbing but powerful to There's someone else in the room.  John Tracy.  He cannot watch the video, not again.  Catherine glances at him, uncomfortable with his presence.
+48) 14) dialog: What if...? All eyes turn to her.
+48) 15) dialog: What if he wasn't like this?  What if he was "normal?"  Conscious.  How far would you go?
+48) 17) dialog: Do you think he'd tell you what you need to know? John's discomfort is increasing and Novak is sensitive to
+48) 19) dialog: Really?  I don't work with violent cases, I work with children.  But even a kid lies.  They love it when they get you to believe something that isn't true.  Don't you think Stargher would do the same?
+48) 23) dialog: Okay.  Let's assume he wanted you to find him, that some part of him hated what he was doing... Most likely, that part is dead.  Schizophrenics with Whalen's Infraction sever all ties with the real world.  I'm sorry, I really am.
+48) 25) dialog: If he came to trust me, yes, but it takes months to build that kind of trust.  Someone like Stargher can't distinguish between fantasy and reality.  It's all the same.  He might tell me she's in Timbuktu and absolutely, one hundred percent believe it to be true, but she's...
+52) 12) dialog: I realize that...
+52) 14) dialog: The first... What?  Six or seven times I went in.   Remember what happened?
+52) 16) dialog: Like a New Year's Day hangover.
+52) 19) dialog: You don't know the procedure.
+52) 24) dialog: Then he should like this. Catherine connects Stargher to the SUSPENSION APPARATUS a it HOISTS him off the table.
+52) 25) dialog: They're comforted by the feeling of weightlessness.  Like floating in water. Henry catches Ramsey poking his nose near a THIRD SUIT AN APPARATUS in the dressing area.
+52) 30) dialog: I'll be fine.
+52) 41) dialog: No.  No. IN THE PROCEDURE ROOM, we see chemicals mix with her bloo then feed the IV.  AT THE CONSOLE, as Henry types furious at the computer keyboard, Novak asks Miriam:
+52) 45) text: When we started, there were a number of test subjects - other therapists - who acted as "receivers."  All they did was observe and report.  Nothing more.  But Catherine, she had the ability to feel what was happening.  She understood.  And the patient responded.  Edward engaged her in dialogue, took her places, showed her things.  He knew she cared. A hopeful, solemn Novak gazes through the window, watchin Catherine's body as it becomes parallel to Stargher's... IN THE PROCEDURE ROOM, Catherine takes a deep breath and the drugs take effect, feels herself losing consciousness She glances at Stargher, a man who tortures and kills wom then looks up as the CLOTH MASK descends from the ceiling
+53) 0) text: The pattern of the electronics grows into something more organic, textured, concrete.  Evolving into a world.  Bla and shadow-filled, it resembles a labyrinthine complex of vertical walls with cubicle like rooms carved deep into i core. Our journey into this bleak, grim place continues and we occasionally glimpse brief images of a boy's baptism. INTERCUT with this journey are sections of cloudy blackne and fragmented visions of CATHERINE connected to the apparatus, face masked, DESCENDING into this world. There is an abrupt SHIFT from still images to regular mot and we find ourselves gliding over a tidepool filled with tiny fish and tadpoles.  At water's edge, lying on rough, pebble-strewn ground, is a HAND. Catherine's hand.  We sense MOVEMENT, but she remains sti From the darkness comes a DOG.  Black in color and featureless, it sniffs Catherine, dismisses her, and mean into a cubicle opposite her, disappearing from view.  Aft moment of odd quiet, a DROP OF BLOOD hits the mask and we follow Catherine's hand as it moves to the cloth and remo it from her own face. IN MACROSCOPIC SUPER SLOW-MOTIONS, another BLOOD DROPLET sails 64 into the air and comes crashing down, hitting a ANT, catapulting it onto what looks like a tree, but is j a TWIG.  As the insect scurries away, MORE DROPS pound th earth, splatter against "twig trees," and explode into po of stagnant water... As we begin to realize that this miniature landscape is t world into which Catherine descended. She sits up, shivering, and breathes deeply, acclimating her surroundings.  The "floor" is covered with filth, ash pebbles, and insects.  Water is present in many forms, puddles, moisture, dripping ceilings. Eyes focusing, queasy, not fully "awake," Catherine notic the crimson stain on the cloth mask and the blood droplet showering the air.  She turns and finds the source. THE BLACK DOG stands in the opposite room next to a tub f of BLOOD, shaking himself dry after his "bath."  Satisfie the animal stops and trots away.  Still adjusting to this nightmarish realm, Catherine at first doesn't hear it, bu then realizes that somewhere, a child is CRYING.  She loo around, then through a crack in the "floor," briefly catc sight of a BOY beneath her, on a level lower than hers. he disappears into corridor ending in "nothing," we PULL to show a MASSIVE LANDSCAPE of blocks, cubicles, crawlspa walls, stairs, and ladders.  Leading everywhere and nowhe Catherine spots the boy as he crawls into a specific "roo Shortly after, a LIGHT comes on within the cubicle and sh moves to it.  We feel as though we're looking at a series interlocked tenement rooms, some walls of which have been torn away to expose rooms within, rooms with no windows o doors.  Following a path of fragile steps, Catherine make her way to the LIGHTED ROOM and enters.
+54) 0) text: A mottled HORSE stands with its head down, nose kissing t floor, allowing the BOY to caress its neck.  This sweet animal is an incrongruous vision in this hellish world an Catherine approaches with respect.
+54) 1) dialog: Hello? The frightened child retreats into a corner of the claustrophobic room, but the horse does not startle.  Surprisingly - to the boy - the horse takes an affectiona step toward Catherine, inviting her to take over.  Cather allows the mare to smell her, then vigorously scratches a the mane and shoulder, much to the horse's delight.
+54) 2) dialog: Yeah, you like that, don't you? She can see the boy hiding in the corner, stealing glance her from the shadows.
+54) 3) dialog: Is your name Carl? The boy - YOUNG STARGHER - is startled and intrigued by t question - How did she know that?! - but says nothing.
+54) 4) dialog: Another little boy I know, he has a horse, too. The boy reacts to an unusual SOUND coming from the CEILIN
+54) 5) dialog: His name's Edward.  The boy, not the horse... The boy takes a few steps toward her, out of the shadows, he seems more concerned about something in the ceiling th "connecting" with Catherine.  Very anxiously, he looks at wall behind Catherine and watches an old wind-up kitchen TIMER click down.
+54) 6) dialog: What's the matter, Carl? Again, a sharp SOUND from the ceiling.
+54) 7) dialog: What's wro---? Young Stargher RUNS at her and SHOVES her hard!  Catherin FALLS BACK just as EIGHT SHEETS OF GLASS drop from the ceiling!  Like oversize razor blades, they slice the hors into four clean sections.  They separate and compact the quadrants until four glass-contained sections of dissecte horse stand within the room.  Catherine SCREAMS, but the barely acknowledged what happened.  Betraying no emotion, boy runs.  The shaken Catherine takes a moment to collect herself, then gives chase.
+55) 0) text: Young Stargher knows his way around the landscape, but Catherine has difficulty simply keeping him in sight.  Sh runs, climbs and crawls.  Until she's utterly lost and disoriented.  Tired and having difficulty breathing, she drops to her knees and "cools down."  She hears a NOISE nearby, gets to her feet, and finds a GEARED MECHANISM connected to some kind of SHUTTERED DOOR composed of an almost metallic-looking glass.  Curious yet cautious, she examines the nearby walls, floor, and ceiling for any sig of "traps" akin to the glass blades.  Finding none, she p the mechanism and quickly steps back. The shutter opens and Catherine knows there's something a in the tiny cubicle beyond.  She retreats into shadow, hiding.  Released from the chamber is a WOMAN.  As she mo out of a darkness, we see VICTIM ONE. Ghostly pale and adorned in eerie fetish garb, she appear "sense" the presence of a stranger, targets Catherine in shadows, and ATTACKS! Catherine's had enough and moves to press the implant, BU
+56) 0) text: VICTIM ONE drops Catherine in the center of the room and, done, crawls away. Groggy, feeling sick, Catherine sits up.  Unbeknownst to she is sitting at the base of a pedestal with her back to kind of THRONE.  And someone is there.  In the dim pool o light above the pedestal, we see a MAN rise from the thro The wall behind him is covered in BLOOD RED CLOTH, and as descends, we realize it is a CAPE connected to EIGHT META RINGS pierced through the flesh of his back.  In a fluid motion, waves of red give way to harshly textured concret the man reaches the floor.  Catherine knows he is there.  Unable to stop herself, she turns.  And sees the terrifyi face of STARGHER.  But no the same Stargher. This is STARGHER KING.
+56) 2) text: Where you come from priddy thing? In a split second, Catherine presses the implant on her h
+58) 5) text: As if she were having a dream, but she knows she's dreaming.  She can "wake up" any time she wants to... As Ramsey joins them, Novak nods, understanding, but his are on Catherine, who's just coming back to consciousness
+58) 16) dialog: Is it cold in here?
+60) 0) text: Catherine sits next to the boy's bed, holding Edward's ha softly singing a lullaby (to him, to herself).  Feeling t he must speak to her, Novak intervenes.
+60) 3) dialog: Do you think that's funny?
+60) 6) dialog: It doesn't have much to do with science.
+60) 8) dialog: The soul.  The spirit.  Whatever you want to call it.
+60) 10) dialog: Agent Novak?
+60) 12) dialog: Do you feel there's a side of yourself you don't show people? The question catches Novak off-guard, but he's willing to answer.  Anything to get her talking.
+60) 15) dialog: Just like we all have fantasies, right?  Things only we know, that we don't share.
+60) 17) dialog: During the sessions.  When I'm inside.  I see those things.  What a person hides, what they despite, what they want to control.  With Stargher... This is difficult for her.
+60) 18) dialog: With Stargher I saw things...
+60) 20) dialog: (professionally)
+61) 0) text: Catherine and Novak sit on a bench in the center of the courtyard.  John Tracy is visible in the reception area, unable to sleep, desperately trying to fight frustration.
+61) 1) dialog: Why'd you bring him here?
+61) 3) dialog: (already knows)
+61) 7) text: That's when I quit the DA's office and joined the FBI. Catherine can see the pain and frustration in Novak's eye She gives him a moment and asks:
+61) 8) dialog: You thought Stargher wanted to be caught.
+61) 10) dialog: You were right.  There's a part of him that knows the truth.  About what he did, about himself. Novak's curiosity is piqued.
+61) 12) dialog: This is going to sound terrible, but... I don't think she matters anymore.  Not to him.  He never finished her.  The others...he was able to make them his.
+61) 14) dialog: He might tell me about Julia.  The part of him that wants to help, that feels shame and remorse.  Who wants to be redeemed.
+61) 17) dialog: Not Stargher, not really.  He's split himself right down the middle.  Good/evil, right/wrong, merciful/cruel.  A monster.  And an innocent child.  If I could reach the boy.
+61) 19) dialog: Don't you feel there are different sides to every personality?  Maybe even the worst of us is capable of one decent act.  We're all human.
+61) 21) dialog: Then what is he?
+61) 23) dialog: If you believe that.
+61) 25) dialog: (sensing something)
+61) 27) dialog: What happened?
+61) 29) dialog: Tell me. God, he does not want to do this.
+61) 33) text: I am convinced of one thing.  Charles Gish could've been raised by Ozzie and Harriet and the same thing would've happened. He can see Catherine doesn't accept that.
+61) 35) dialog: You're sure of that?
+61) 42) dialog: Tell them to prep him.  And that I'll be right there. Ramsey nods and heads back to the lab.
+61) 44) dialog: I need something.
+63) 0) text: As the agent brings the frightened animal into the monito area, Catherine and Valentine share a moment of "connecti Slowly, confidently, she approaches the Shepherd, kneels, removes his leash and muzzle.  She strokes him and the do instantly warms up to her.
+63) 2) dialog: You're a good boy, aren't you, Valentine? The dog picks up a scent from the procedure room and move it, Catherine and Novak following. IN THE PROCEDURE ROOM, Stargher lies face down on a gurne Now taped to the wall near Stargher are PICTURES from the basement - his dolls, the hoist, etc.  Miriam (in surgica mask and gloves) carefully re-inserts the METAL RINGS (ta from an FBI EVIDENCE BAG) into the eight straps of flesh his back.  When he sees this, Valentine whimpers and hide Catherine comforts him.  Miriam finishes her task and rem her mask.
+63) 9) dialog: Okay, okay... LIGHTS FLICKER.  Catherine's eyes shut.  FADE TO BLACK...
+63) 11) dialog: Don't kid around, Henry... Her suspension apparatus DESCENDS on the floor.
+63) 14) dialog: Yeah, yeah, yeah.  I'm not sleepy. As she moves toward the panel, everything becomes larger. the time Catherine reaches the circuit breaker, it is the size of a garage door.  Curiouser and curiouser... She turns around to see the LABORATORY IS EMPTY and DEAD QUIET.  And she sees herself - Catherine as small as a mo trapped in a giant walled space. AT THE CONSOLE, Novak, Miriam and Henry observe the proce room.  And Catherine.  Suspended in the apparatus.  Motionless...
+64) 0) text: Catherine turns to see... Catherine lying in the fetal position, locked in a BOX made of thick clean glass.  The electronic HUM becomes RHYTHMIC, AMBIENT NOISE.. INSIDE T BOX, staying calm, she searches for and finds a TRAP DOOR the floor.  She pushes out.  The camera executes a comple 180-degree perspective change. Catherine plummets.  She tries to reach out, to stop her descent, but cannot. Catherine falls through a dark CAVERNOUS ROOM resembling mammoth hollowed-out rib cage.  Below her is a DOME-LIKE STRUCTURE "growing" out of the floor, a HOLE in the cente its crest.  Dozens of other such domes are visible in the murky hell-hole, but Catherine has no choice.  She's drop into this one. Once she passes through the hole, INSIDE THE DOME, Catherine's body looks as though it's moving through wate but there is no water.  Like an aerial artist, she revers her position so she's "heads up."  Standing, stable, on t floor.  Sensing something with her.  And knows it is...
+64) 1) dialog: Valentine? Out from the darkness, moving in normal motion, comes the white German Shepherd, but in the thick haze, his face is indistinct and ghostly.
+64) 2) dialog: Hi sweetie... And as she steps toward him, his face DISSOLVES into a ST LANDSCAPE.  An ear becomes a hill, the nose a stone, mout path, and the eye a HOUSE.  YOUNG STARGHER retreats towards the bleak structure as CATHERINE ENTERS FRAME.  Seeing the invitation, she press on.
+65) 1) dialog: Need some help? As Catherine enters the claustrophobic house, the boy hesitantly pushes a towel toward her, but doesn't look. reaches the counter and starts to dry, much to Young Stargher's relief.  As he washes, Catherine hands him a MIRROR LOCKET just like Edward's.
+65) 2) dialog: Carl, I want to give you a present. He's hypnotized by the thing, his eyes lighting up.
+65) 3) dialog: If you need me, or if you feel that I'm around but can't find me, just shine it, like this. She shines reflected light onto the walls.  Carl hands Catherine the wet plate and takes the locket.  The dish s from her fingers and SHATTERS on the floor.  The boy's ey fill with dread.  The kitchen clock reads 5:30.  He PUSHE Catherine toward a broom closet and shoves her inside.
+65) 4) dialog: What's wrong honey? With a finger to his lips, he pockets the locket and shut the door.  FROM WITHIN THE CLOSET, she watches the terrif child through a CRACK in the door.  IN THE KITCHEN, Young Stargher desperately tries to hide the broken plate.  Startlingly, his father, Martin Stargher, is already in t room.  Cruel, imposing, manipulative man.
+65) 8) text: Catherine hears the child SCREAM.  But the scream comes f behind and she spins around.
+66) 11) text: Feeling the boy's shame, Catherine turns and finds a FADE POSTCARD taped to the wall.
+67) 3) text: A WEIRD NOISE snaps Catherine back to "reality."  She tur just as a door opens behind her.  Responding to the "invitation," she moves through it.
+68) 0) text: The adult Carl Stargher sits at the edge of the tub, his to us, smoking a cigarette.  A white German Shepherd PUPP clicks across the tile floor and YIPS at Catherine.  She again hears the WEIRD NOISE.  A STAINLESS STEEL BOWL wobb as Stargher's bloody rubber-gloved hands fill it with something.  Stargher knows she's there and isn't surprise her presence, but he's not sure what to make of her.  Wha do with her.  He rises and walks past her to the sink.  H pulls off the gloves and washes his hands, glancing at he the mirror. Catherine cannot resist looking in the tub.  She sees a d girl, her torso sliced open.  Disgusted and mortified, sh pulls back.
+68) 15) dialog: I want to help you, Carl. His grin broadens to a smile and he almost laughs.
+68) 17) text: Liar.  Whore.  Cunt. Catherine stands her ground.
+68) 18) dialog: You sound like your father. He gets close to her face and sneers.
+68) 20) dialog: Then help me.  Where is Julia Hickson?
+68) 22) dialog: Maybe, because you want to.
+68) 24) text: Henry sees a rapid rise in Catherine's warning meter.
+69) 0) text: A wave of fear, of impending doom, overtakes Catherine.
+70) 0) text: A SENSOR ALARM SOUNDS on the computer.  Henry and Miriam express shock at the sight of the monitor peaking in the and move to the "map" of Catherine's mind.  As it becomes "cool," Stargher's becomes "hot."
+74) 0) text: Novak emerges in a cavernous room dripping with decadence The place reeks of sex, pain, lust, and cruelty.  As he m deeper into the chamber, Novak sees YOUNG STARGHER perche atop some kind of pedestal, crouching, fingering his mirr LOCKET, bouncing sparkles of light into the dark corners the room The FLICKERING LIGHT pinpoints a FIGURE emerging from the darkness.  It is Catherine.  Altered to an image of Stargher's victims.  Her skin, face, clothing, eyes, are like the Victims'.  It's a shocking, strange image, made more disturbing by the look of pleasure on her face.  Nov is staggered by the sight.  His vision and hearing become affected by blurred vision, sharp sounds - then focus to clarity as he reminds himself...
+75) 0) text: Eyelids rise and flutter.  Novak becomes conscious.  And instantly realizes what's happened. He lies on the pedestal, face up, spread-eagle, his wrist and ankles bound to the cold stone surface with leathery cords.  Standing over him, in a pool of light, is Starghe King.  Wearing what could be seen as CEREMONIAL GARB, a silent, solemn Stargher King prepares himself for executi of a ritual by polishing and arranging an assortment of shiny, sharp, macabre TOOLS. Novak shuts his eyes and silently tells himself, Not real He opens them, breathes deeply and focuses on Catherine.
+75) 6) text: You had to work at a center for abused kids for three months.  You stayed on two years for no pay.  You give half your fucking salary to the nursing home your grandmother stays at... Stargher King grabs his throat and traces the blade down center of Novak's torso.  Novak struggles and pleads with Catherine.
+75) 11) text: Fucking FEELS real! The intensity of Novak's cries hit Catherine like a thunderbolt.  There's a glimmer of life, of recognition i her eyes.
+75) 17) text: THING THROUGH HIS THROAT!   As Stargher King stumbles awa gagging, blood pouring form his neck, we see that she has returned to normal.  The "bride" persona is gone.  As Stargher King emits animalistic growls, Catherine turns a sees an intact Novak standing next to her.  As if nothing happened. Catherine and Novak RUN out of the den, into the tunnel f which Novak gained access.  He stops, ready to press the sensor, when a FLICKER OF LIGHT dances across Catherine's face.
+75) 18) dialog: Wait...
+75) 20) dialog: He wants us to follow.  The little boy...
+75) 22) dialog: He brought you to me, didn't he?  If you want Julia to live, trust me.  Trust him.
+76) 0) text: On her hands and knees, she enters the TUNNEL, not waitin for him to respond.  She knows what he'll do... Catherine Novak crawl through the dark, grimy claustrophobic space, playing with his mirror locket.
+76) 1) dialog: Carl... He so desperately wants her affection, but fear prevents from reaching out to her.
+76) 2) dialog: This is Peter. Scared, he shakes his head "no."
+76) 3) dialog: Don't be scared.  You're my friend and I would never hurt you. She extends her hand.  Oh-so-hesitantly he takes it.
+76) 4) dialog: Will you take us to her?  To Julia? Shyly, hesitantly, he nods.  She smiles gratefully and affectionately touches the boy's face.  Clasping her hand Young Stargher leads Catherine and Novak into utter darkn
+77) 0) text: More stylized than the actual cell, it's bigger and ornat decorated, with the atmosphere of a church.  Individual IMAGES hang like SHRINES, each showing Julia Hickson from different angles. Central to the room is a WINDOW INTO THE CELL ITSELF.  Wh we find a beautiful, mermaid-like JULIA HICKSON floating water.  Peaceful, joyous. IN THE CENTER OF THE ROOM, we find Novak and Catherine, s holding the hand of Young Stargher, he stunned at the sig of Julia.  The child looks at Catherine with beatific, sa eyes, regarding her as one would a saviour.
+77) 2) dialog: Carl, do you know?  Like on a map... He shakes his head and buries his face in her shoulder.
+77) 3) dialog: It's okay, it's okay.  You helped so much already.  I'm proud of you. As a frustrated Novak searches for anything identifying, Catherine comforts the boy and looks deeply into his sad, haunted eyes.
+77) 4) dialog: Carl, I think I can help you.  Would you like that?  Even if Peter can't find Julia, I want to help you. The boy leans against her and she caresses his face.
+77) 5) dialog: I promise. Novak finds himself standing in front of the idealized ce Mounted beneath the glass is a shiny, perfect metal plaqu reading CARVER INDUSTRIAL EQUIPMENT, with a logo.  Novak recognizes it from the hoist in Stargher's basement.
+77) 7) dialog: 
+77) 11) dialog: I can't leave him! STARGHER KING APPEARS!  His throat wounded, bloody mess, descends out of dark nothingness, HOWLING with rage.  He reaches for Catherine, but Young Stargher runs in front o her.  
+82) 0) text: IN THE PROCEDURE ROOM, Miriam shines the penlight into Catherine's eyes.
+82) 1) dialog: ...a pocketful of rye.
+82) 3) dialog: Baked in a pie. AT THE CONSOLE, on a security monitor, Henry can see Nova and Ramsey exiting down the corridor.
+82) 6) dialog: What's wrong?
+82) 8) dialog: Go.  I'm fine.  Go. As Miriam hurries to catch Novak, she tells Henry.
+85) 0) text: Henry analyzes voluminous print-outs from the last proced Although his eyes are on the data, he converses with Catherine in the PROCEDURE ROOM via intercom.
+87) 0) text: A bright, deliriously colorful realm visually reflective things we saw in Catherine's home.  Unusual trees, rock formations, totems, statues, and a brilliant POOL OF WATE The pond ripples.  Visible through the crystal-clear wate YOUNG STARGHER, rising to the surface like a drowning vic suddenly breaking through to air.  Panicked, he scrambles shore and pulls himself to land.  Although the place is comforting and beautiful, he's in strange territory and i frightens him.  Shivering, he hunches down, eyes darting way and that.
+87) 1) dialog: You're all right, Carl. The boy turns toward the voice and finds CATHERINE, her h waving in the wind, skin glowing, eyes bright, cutting a magnificent figure in clothes that make her a warrior goddess.  She opens her arms and the boy runs to her, basking in th comfort of her embrace.  He shivers and she holds him tightly.
+87) 2) dialog: It's okay, honey, you're with me now.  You're safe here. She looks deeply into his eyes and reassuringly explains.
+87) 3) dialog: I promised I would help you, and I always keep my promises.
+87) 6) dialog: (regretfully)
+87) 8) dialog: But what if I told you you could come visit? He slowly turns to her.
+87) 9) dialog: I'll make sure it happens, Carl.  I'll get them to let me do it.  And maybe... maybe we can... Young Stargher's eyes open wide with silent terror.  Over shoulder, she sees a SNAKE slither through the pool.  CENTIPEDES CRAWL over her legs and hair.  She stands and brushes them off.  The atmosphere grows darker and ominou
+87) 14) text: And you.  You cumm home now, liddle cogsugger worm.  Or me god haffa punish you... Young Stargher tightens his embrace of Catherine.  She st back, away from the pond, hugging the boy tightly.
+87) 15) dialog: No.!
+87) 19) dialog: I said no. Like a vengeful Valkyrie, she emits what can only be call BATTLE CRY!  STARGHER ATTACKS!  Arms reaching for her.  Catherine BLOCKS, PUNCHES, AND KICKS.  Stargher King doub over.  Catherine grabs his ears and pulls his face into h bent KNEE, breaking his nose.
+87) 20) dialog: Welcome to my world. As blood flows from his nostrils, Stargher King grins...
+87) 23) dialog: My world... A SHIMMERING KNIFE seems to enrage from within her forear out the flesh and into her hand.
+87) 24) dialog: My rules. She SLASHES across his chest, drawing blood.
+87) 29) dialog: No one deserves it, Carl.  No one. She reaches out to him, but the child is JERKED into the by Stargher King.  In one hand, the monster holds little Carl.  In the other - a KNIFE.  His face and chest red wi crimson, Stargher King fixes his eyes on Catherine with a predator's stare.
+87) 35) dialog: Carl!
+87) 38) text: Give it here, worm... the child picks up the blade and stands between them, loo to Catherine for guidance.
+87) 43) text: Why?  What'd I do?... Stargher TWISTS the handle of the blade and Martin/Stargh King drops dead.   Dead.  Young Stargher smiles and hugs Catherine.
+87) 45) dialog: Carl...? The boy runs to adult Stargher who lifts the child into h arms and holds him close.
+87) 48) dialog: Goodbye Carl. She presses the sensor in her hand.
+92) 0) text: Shaken, but oddly transcendent, Catherine watches as Stargher's body is wheeled out of the lab on a gurney.  S comforts a whimpering Valentine and tells him...
+92) 1) dialog: Everything's alright now, Valentine.  I promise.
+105) 0) text: As a television plays THE WIZARD OF OZ, we find Catherine watching the movie from the couch, sitting up, drinking a of tea.  She looks rested and quite cute in gym shorts an T-shirt, her CAT sleeping next to her.  IN THE KITCHEN, Miriam packs up her stethoscope and blood pressure monito moves into the living room as Dorothy falls asleep in a f of poppies...
+105) 3) dialog: I don't need them anymore...
+105) 6) dialog: Thanks Miriam.  Say hi to Henry and...
+105) 8) dialog: (overlapping)
+107) 0) text: As Dorothy and her companions confront the Wizard, there' KNOCK at the screen door and Catherine sees Novak waiting
+107) 2) dialog: Ready. He opens the door and escorts a leashed VALENTINE into th living room.  Catherine's cat squirms from her arms and h under the couch.
+107) 4) dialog: Give her a minute. (smiles at the dog)
+107) 7) dialog: Absolutely. (calling for the cat)
+107) 9) dialog: I heard Julia and John got married.
+107) 11) dialog: Good for them. Valentine settles on the floor.  Slowly, Abigail's curios gets the best of her and she creeps out, sniffing the dog nose.  Patient and sweet, Valentine lies still, allowing cat to reach an acceptable level of comfort.
+107) 13) dialog: I told you.  You have to be optimistic.  Believe in them...
+107) 15) dialog: He's mine?
+107) 18) dialog: It doesn't matter...
+107) 20) text: You know, Catherine... If you ever want to talk about it.  What happened to Stargher.  That last time. It's painfully clear the thought of it still troubles her
+107) 21) dialog: Not just yet.  Okay? Novak doesn't push it.  He just takes her hand and gives gentle squeeze.  The cat dashes into the kitchen and Valentine follows.
+107) 22) dialog: They're hungry.
+107) 24) dialog: Thank you.
+107) 26) dialog: No.  Thank you. He smiles and nods, gently resting his hand on her should Catherine shuts her eyes and leans toward him, comforted simple human touch...

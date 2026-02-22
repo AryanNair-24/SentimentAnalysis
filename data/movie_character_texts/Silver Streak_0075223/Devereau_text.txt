@@ -1,0 +1,69 @@
+28) 0) text: Taking great care not to be seen, George follows Devereau Hilly down the. center aisle with roomettes on either sid
+29) 0) text: At the end of his car George waits and peers around the corner. Hilly has stopped by her door. She talks for « second to Devereau and then steps inside. Devereau walks forward to the baggage car. As soon as he disappears, Geo goes to his compartment and steps inside.
+31) 12) dialog: How do you do.
+31) 15) dialog: You! You're the one. Oh, I am happy to see you. Are you all right?
+31) 17) dialog: Well, that's good news, You know, as soon as I was told I contacted. the police in Albuquerque. [I told them to spare no expense in making sure you were safe. Reace, himself, got off the train to find you. He's like a child. He wanted to say he was sorry. Tell me, how did you manage to get back on?
+31) 19) dialog: Reace? Why, he's the man who threw you off.
+31) 21) dialog: You must remember him. A large man with not very attractive dental work.
+31) 23) dialog: He works for me, He's my chauffeur.
+31) 25) dialog: He's not very bright, of course, put very loyal. Naturally I take full responsibility for his actions and I am more than willing to pay for any damages. I'm just so relieved to see that you are not hurt. :
+31) 27) dialog: Yes. Oh, you haven't heard the story? You see, early this morning I was having breakfast with Professor Schreiner. He wanted to show me some important papers connected with his book but to his horror he couldn't find them. We searched his compartment -- twice. We sent Reace in here to get Hilly and finally we found them in his trunk in the baggage car. It was a terrible upset but then if you've met the professor, you know he can be very absent-minded.
+31) 29) dialog: Murdered?
+31) 31) dialog: How extraordinary! What makes you think that?
+31) 33) dialog: You were in this room? Devereau glances at Hilly.
+31) 37) dialog: Professor Schreiner, I'd like you to meet Mr. Caldwell. Mr. Caldwell, Professor Schreiner. .
+31) 40) dialog: Mr. Caldwell was the man Reace inadvertently threw off the train.
+31) 47) dialog: Mr, Caldwell, allow me to introduce my associate, Mr. Whiney. I'm sure if there is an apology owed he'll be happy to make it. It's too bad Reace isn't here to do the same.
+31) 52) dialog: Why don't you use my compartment?
+31) 55) dialog: Not at all.
+31) 60) dialog: Perhaps you can join us for dinner, Mr. Caldwell?
+60) 0) text: Hilly and Devereau are seated by the window with Johnson, still made up as the Professor, cleaning his rifle in the
+60) 2) dialog: That's what you told us this morning and that is becoming increasingly difficult to believe.
+60) 4) dialog: (after a long pause) No matter. (stands up to go) We'll take care of Mr. Caldwell when the time comes. He turns at the door with deadly charm.
+60) 5) dialog: Till then we'll be taking very good care of you.
+80) 0) text: Devereau's suite, the largest and plushest we have seen, located on the other side of the train but the scenery cu side of lakes Hilly's room. the Rembrandt clearing away and Hilly and and marshy delta is the same as that seen from Devereau is seated at the window, looking over letters. A black STEWARD in a white jacket is the breakfast service. Whiney opens the coor George enter.
+80) 1) dialog: Come in, come in. (to the Steward) Take this away and bring back some fresh coffee and some more toast for my guests.
+80) 3) dialog: Please sit down. The Steward exits. George and Hilly sit on the couch, fac Devereau. Whiney stands by the closed door.
+80) 4) dialog: Well, Mr. Caldwell, I've just been looking over the correspondence you brought me. Fascinating! The Professor was correct. It's a remarkable find. I suppose I should have them destroyed but I've always had a soft spot for beautiful things -- particularly if they are genuine. Whiney, put these in my safe. I don't expect they'll be a threat to me anymore. Whiney takes the letters and exits. Devereau removes his reading glasses and puts them away. He is careful to nonchalantly display the gun inside his coat.
+80) 6) dialog: I think I will, Mr. Caldwell. Admittedly this was a difficult affair and I made some errors <= bringing Reace along, for example. What happened to him, by the way?
+80) 8) dialog: Good. I'm sure he deserved it.
+80) 10) dialog: On the contrary, I had him kill the professor's secretary --. Miss Burns' predecessor -- when at the last minute she tried to double- cross us, but I knew I couldn't kill the professor himself until I had the Rembrandt letters. That's why I set up the scenario of kidnapping him and substituting an imposter to discredit him. Of course, I would have had him killed later, but his escaping the other night upset the entire scheme...° . A KNOCK at the door.
+80) 11) dialog: Yes. The man who earlier impersonated the professor enters. Hi name is JOHNSON and he is no longer wearing the professor white moustache and goatee, nor is he trying to imitate t professor's manner. He ignores George and Hilly and addresses Devereau.
+80) 14) dialog: Thank you, Johnson. (to George) You remember Johnson, Mr. Caldwell. He played the professor and was going to do so in Chicago with the ‘ assistance of Miss Burns but I'm afraid there is no longer any need for that charade. (to Johnson) How long before we get to Joliet?
+80) 16) dialog: Very good, Johnson. That will be all. Cont. 465 83 141 Cont.1 Johnson exits. Devereau smiles affably at George and Hill There is
+80) 17) dialog: Yes, this has been a rather messy pusiness...but now that I have the letters all that remains is the cleaning up of a few loose ends -- meaning the two of you. And-so I've prepared a new scenario in which you, Mr. Caldwell, will be blamed for the murder of the professor.
+80) 19) dialog: To steal. the Rembrandt, letters. Even on the black’ market they are worth a considerable sum. At any rate, evidence will'be found on the professor's body implicating you. I've already had that. arranged, Furthermore, since the police want you for the murder of that unfortunate vitamin salesman —- this new evidence. will give you a motive for his death as weil.
+80) 22) dialog: Come in. The black Steward in the white jacket enters with the tra cups, plates, toast and fresh coffee.
+80) 23) dialog: Oh, thank you. Put it down right there. Well, that's enough talk of plots and scenarios, Join me in a cup of coffee. cont. 84 141 cont.2 The Steward lays out the cups on the table in front of Ge and Hilly. George looks over at him and notices for the first time that it is Grover. Grover looks up.
+80) 27) dialog: Without the letters, my dear, the pook, I assure you, will be viewed as the crazy jottings of a revisionist crank. An ex-crank actually. You must try the marmalade. For all its inconvenience the Silver Streak does provide an excellent cuisine.
+80) 31) dialog: Steward... Grover ignores Devereau and looks over at George.
+80) 33) dialog: Steward!
+80) 36) dialog: That will be all.
+80) 42) dialog: You bDlundering fool! You stupid, ignorant nigger! Grover stops. He throws down his napkin and shoves Devere back in His seat. ,
+80) 54) dialog: (to Grover) I'll say this. I don't know who you are but I am an internationally respected public figure with a great deal of money and influence. You would be wise to think twice about aligning yourself with a killer who is wanted by the police in every state. Cont. 465
+81) 0) text: George pushes Devereau before him down the corridor. Hill walks behind him while Grover, looking back over his shou makes sure that no one is following them.
+82) 0) text: Devereau and George arrive at the baggage car entrance wh the broken door and smashed lock -- the result of Gold Te assault -- are still unrepaired. George flings open the d pushes Devereau inside and shouts to Whiney who is kneeli in front of Devereau's open safe,
+83) 2) dialog: Do what he says. Whiney steps back. Cont. 465 88 144 cont.
+83) 4) dialog: Mr. Caldwell, I take you to be a reasonable man and like all men you must place a reasonable value on your life.
+83) 6) dialog: I'm merely pointing out that life is short and the smart man hedges his bets.
+87) 0) text: Devereau is seated by the window calmly burning the Rembr letters page by page into the silver breakfast tray. ‘The train is picking up speed but he doesn't take his eyes of his methodical task. Hilly watches him seated on the couc opposite. Mr. Whiney stands at the door. Devereau says nothing. A KNOCK at the door. Whiney opens it and Johnson steps inside.
+87) 3) dialog: Is there any way of stopping this train between here and there?
+87) 5) dialog: Disconnect them.
+87) 7) dialog: And take her with you. Johnson takes Hilly by the arm and pushes her out the dec Devereau watches him close the door then turns slowly to out the window. He sits and thinks. He is all alone in that large compartment and we see he is beginning to swea 465
+102) 0) text: Since Devereau's window is on the other side of the train does not see the police or the helicopters. He is sitting we left him, deep in his own thoughts, and not seeming to have noticed that the train has stopped. Whiney bursts in He is very nervous.
+102) 2) dialog: What?
+103) 1) dialog: (pleasantly) What's going on?
+103) 3) dialog: Well then, we'd better get off.
+105) 0) text: Hilly and Johnson are looking out the window when Deverea and Whiney burst in. Johnson has several rifles laid out the couch. Devereau picks up, one along with several boxe ammunition. Whiney does the same. Devereau loads his rifl with ease, ignoring Hilly while talking to Johnson.
+105) 1) dialog: Stay here with her and cover us from the window. We're going to start up the engine and take it into Rockdzle. , He finishes loading the rifle when the door opens and Ral steps in. He is surprised to see they haven't left the train.
+108) 11) dialog: Start up the engine!
+108) 14) dialog: Okay, you. Let's get going. The Engineer starts up the engine and the train begins to move, EXT. ‘THE ENGINE - DAY 172 Whiney is crouched behind the signal box, firing at the police. He sees the train beginning to leave and he dashe for the locomotive. A policeman stands up and fires, hitt Whiney in the leg. Whiney grabs for the ladder and is dragged along by the side of the train. 465
+112) 0) text: Devereau leoks back and sees the police helicopters flyin alongside the train. He ducks for cover and takes aim.
+114) 0) text: Devereau pops up and fires several rounds at them. The helicopters fly away. INT. THE CHIEF'S HELICOPTER - DAY c-182 The Chief gives directions to one of his sharpshooters.
+114) 4) dialog: Keep your foot on that pedal! The Engineer quickly puts his foot back and wipes his bro with his handkerchier, »
+118) 0) text: The helicopter pulls out of the spin and flies over the train. INT, THE LOCOMOTIVE - DAY — A-185 The Engineer sees Devereau following the helicopter and surreptitiously takes his foot off the pedal. Devereau doesn't notice.
+120) 0) text: At the SOUND of gunfire George races to the broken window and looks out toward the engine. Hilly and Grover crowd behind him. George sees Devereau leaning out of the engin ready to fire at the helicopter. He turns back inside.
+122) 0) text: Devereau, finished with his work, grabs his rifle and lea out of the cab to shoot. From the first-class diner windo George fires. The bullet misses but Devereau turns around exposing himself to the helicopter flying overhead. A bul hits him in the shoulder. He spins around by the cabin door and begins mad and reckless firing at the helicopter Another bullet hits him in the knee. He trips and tumbles out of the engine, dropping his rifle and desperately hanging on to the ladder with one hand. His other hand swings for the steps and he grabs them. He looks ahead an we ZOOM in on his terrified face as he sees what is approaching. . 465 104
+124) 0) text: Devereau's face fills with fear. He frantically tries to crawl back into the cabin but the speeding freight trair. rushes past, knocking him off the ladder and hurling hir up into the air. His body bounces between the two trains, then falls beneath the Silver Streak's rattling wheels. A train whistle SCREAMS.
+125) 0) text: The Chief and the Rifleman wince at Devereau's death.
+126) 0) text: George too has seen Devereau's death. He pulls his head inside the window and the freight train rattles by. Hilly leans forward to see what happened but George stops her.

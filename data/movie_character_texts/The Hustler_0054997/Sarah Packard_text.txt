@@ -1,0 +1,203 @@
+26) 0) text: Near the row of coin lockers in the waiting room is a sma lunch counter and several tables. At one table, facing th lockers, is a young woman, Sarah: a book is open before h and a cup of coffee, and an ashtray filled with cigarette butts. She looks up for an instant as Eddie appears. He n has on a clean shirt and is clean and freshly shaven. He  locks his bags in a locker. Her eyes return to the printe page. Moving toward the counter, Eddie notices Sarah. He  goes to the lunch counter, still looking at her. He sniff some wrapped sandwiches.
+26) 3) text: Eddie wanders over to a table next to Sarah's and sits do She ignores him.
+26) 5) dialog: (looks up) Yes.
+26) 8) dialog: (looking up) What?
+26) 10) dialog: Since four.
+26) 11) text: Sarah goes back to reading. The waitress arrives to take  Eddie's order.
+26) 13) dialog: (shrugs) Fine, thanks.
+26) 16) dialog: What bus?
+26) 18) dialog: Eight o'clock.
+26) 20) dialog: That wouldn't give us much time,  would it?
+26) 26) dialog: Thanks. I will.
+26) 28) dialog: Give it to me.
+28) 4) text: As he looks around the bar he sees Sarah, alone at a back booth, sipping a highball. She seems amused by their  encounter. So does he. He takes his drink and joins her a the booth.
+28) 6) dialog: Fair.
+28) 8) dialog: Why not? We already know each other's  secrets.
+28) 10) dialog: Two ships that pass in the night  should always buy each other  breakfast.
+28) 12) text: Sarah nods.
+28) 16) dialog: It's the lights. And the scotch.
+28) 18) dialog: I wasn't waiting for a bus.
+28) 20) dialog: Same reason you went: at that hour  of the morning you haven't much  choice. Besides, I only live three  blocks from there. Where do you live?
+28) 22) dialog: I know where you live: in a locker,  in a bus station. What's it like  living in a locker?
+28) 24) dialog: Do you always ask so many questions?
+28) 26) dialog: Sometimes I wake up and I can't sleep,  not without a drink. The bars don't  open until eight. Mack over there  has faith in me. When I'm broke, he  trusts me. Don't you trust me, Mack?
+28) 28) dialog: When I'm not broke, I usually have a  bottle in my room, in which case I  sleep very well indeed.
+28) 30) dialog: I used to be an actress.
+28) 32) dialog: I'm a college girl. Two days a week,  Tuesdays and Thursdays, I go to  college.
+28) 34) dialog: I'm the emancipated type. Real  emancipated.
+28) 36) dialog: I'm not.
+28) 38) dialog: I've got nothing else to do on  Tuesdays and Thursdays.
+28) 40) dialog: I drink.
+28) 42) dialog: No. No more. I'm getting sleepy. (puts a scarf around  her head) Thank you very much, Mr...?
+28) 44) dialog: (studies his face) The name should be Eddie. What should  my name be?
+28) 46) dialog: I like it to be what it is. It's  Sarah. That's a biblical name. You  want to know its meaning?
+28) 48) dialog: (a little alarmed) No.
+28) 50) dialog: What do you want me to do, just step  out in the alley? Is that it?
+28) 53) dialog: All right.
+28) 54) text: Eddie finishes his drink, rises, crosses to the bar, pays the bill, and returns to the booth. As they go out, Sarah stumbles, and he catches her by the arm.
+28) 55) dialog: It's all right. (smiling) I'm not drunk... (serious) I'm lame.
+29) 0) text: Eddie goes into the liquor store. Sarah waits outside, st and uneasy. Then he comes out with the scotch and they walk off down street together. They walk slowly, with their eyes pointe straight ahead. He tries to ignore her halting gait. They pass under the awning of the neighborhood's elegant Paris restaurant.
+30) 1) dialog: Why me?
+30) 3) dialog: Please... please... please.
+30) 5) dialog: You're too hungry.
+32) 0) text: Eddie removes his bags from the locker. The sight of the  lunch counter reminds him of Sarah. But the lunchroom is  empty; only the janitor is there, mopping up. Eddie picks his bags and goes out.
+37) 0) text: Eddie sits at a table, smoking, waiting. The paper bag wi the whisky is on the table. Sarah, dressed in a dark suit limps toward him. He mashes out his cigarette in the asht When he looks up, he sees Sarah standing nearby. She seem cold and suspicious as she limps toward the table. She pa and looks at him. They stare at one another for a long mo He gets up, puts his arm around her shoulder, and walks a with her. As they walk, she hesitantly puts an arm around his waist.
+38) 0) text: A hand reaches up to open the wooden shutters. As they op we see Eddie, in his underclothes, on the bed. Sarah, in robe, walks up and joins him in bed as they both peer out the window.
+38) 1) dialog: Why did you do that?
+38) 3) dialog: A day like any other. People come,  people go.
+38) 6) dialog: What time is it?
+38) 8) dialog: Why?
+38) 11) dialog: Oh, you need a shave. You mustn't go  looking like that. There's a razor  and shaving cream in the bathroom.  Compliments of the house.
+38) 13) dialog: How did you know my name was Sarah?
+38) 15) dialog: I lied. When I'm drunk I lie.
+38) 17) dialog: Sarah. (pause) Eddie, look. I've got troubles, and  I think maybe you've got troubles.  Maybe it'd be better if we just leave  each other alone.
+38) 20) dialog: (in his arms) I'm not sure... I don't know.
+39) 0) text: Sarah emerges from a neighborhood grocery store loaded do with a Cheese Doodles carton full of food. A woman runs o of the store to give her a parcel she left behind.
+39) 1) dialog: (warmly) Thank you.
+40) 0) text: Sarah's apartment is a typical city studio apartment: one cluttered room for sleeping and eating, and a small  kitchenette. As Sarah knocks, Eddie is perched on the win sill. He goes to open the door. Sarah enters.
+40) 2) dialog: At school. It's Thursday.
+40) 5) dialog: You were asleep when I left. I didn't  want to wake you. Did you go out?
+40) 7) text: She unloads liquor and canned goods from the carton, then goes to join Eddie by the window. Sarah takes a cigarette lighter out of her purse and hands it to Eddie.
+40) 8) dialog: (off the lighter) Present...
+40) 10) dialog: You know, I've been living here for  almost three years. Now in three  days it seems as if I know everybody.  When I pass people on the street I  want to stop and say, "Listen, I got  a fella."
+40) 12) dialog: Eddie, where do you go when you go  out?
+40) 16) dialog: You want to go with me?
+40) 18) dialog: Mm hmm.
+40) 20) dialog: When I'm sober. They get a little  mixed up when I'm drunk. Most of the  time they're mixed up.
+40) 22) dialog: I'm getting treatments right here.
+40) 25) dialog: Take your choice. I've got enough so  we won't have to go out of the house  till Tuesday.
+40) 27) dialog: When you've got money, you'll pay.
+40) 29) dialog: The bills are right here. You didn't  say what you wanted.
+40) 31) dialog: Eggs. How do you like them?
+40) 34) dialog: Oh, cut my finger.
+40) 36) dialog: Oh, it's not bad.
+40) 38) dialog: Eddie, what's in that case?
+40) 40) dialog: No, why should I? It's yours.
+40) 42) dialog: From a rich old man who used to be  my lover.
+40) 43) text: They kiss. Someone knocks on the door. Sarah goes to open it. We stay on Eddie, who examines the lighter in his han
+40) 51) dialog: (to Eddie) Do you want me to go?
+40) 71) text: Eddie leans up against the wall, listening. Sarah watches them both, curious, confused.
+40) 78) text: Sarah turns to fix the drink. Eddie signals her to stay w she is. He moves forward, confronting Charlie.
+40) 97) text: A tear rolls down Sarah's cheek as she hears this. She st near the door, with her back to both of them. Charlie get up and moves toward the door.
+40) 99) text: Sarah, her cheek wet, says nothing. Charlie puts on his h and leaves. Eddie empties his glass and slaps it on the shelf next to Sarah.
+40) 103) text: Sarah hands Eddie his drink without looking him in the ey
+40) 107) text: Sarah drinks her drink.
+41) 2) dialog: You going out?
+41) 4) text: Reaching for the bottle, Sarah abruptly lurches forward o her typewriter, and knocks the bottle over.
+41) 5) dialog: (atop the typewriter) Ohhhhh...
+41) 10) text: She doesn't answer. Eddie stares at Sarah as she sways li on her knees, unmindful of her open robe. Eddie picks up bottle and sets it before her. Taking her ashtray, Eddie  rises, runs his hand through her hair for a moment, and t carries off the ashtray and empties it in the garbage bag
+42) 0) text: Sarah, still hopelessly drunk, is sprawled out on her bed futilely attempting to dial a telephone. Eddie, in a clea shirt and pants, watches her. He sets the bottle down nea the typewriter and notices the sheet of paper stuck in th typewriter's carriage. He bends down to read it.
+42) 2) dialog: (looks up from the  phone) Oh, it's a story. A story I'm making  up.
+42) 4) dialog: Give it to me.
+42) 6) dialog: Give it back to me.
+42) 11) dialog: (with a sardonic laugh) Well, what else have we got? We never  talk about anything. We stay here in  this room, and we drink, and we make  love. (sits up in bed) We're strangers. What happens when  the liquor and the money run out,  Eddie?
+42) 13) dialog: You told Charlie to lay down and  die. Will you say that to me too? (rises and stumbles  over to him) What happens, Eddie?
+42) 15) dialog: That's right! And I'm sure you'll  help me.
+42) 17) dialog: You waiting for me to cry? (stares at him coldly) You bum... You poolroom bum.
+51) 0) text: Sarah sits alone in the darkened room, dressed in her rob and slip, lost in a drunken half-sleep. There is a knock the door.
+51) 1) dialog: Who is it?
+51) 4) dialog: What happened?
+51) 6) text: Sarah is stunned and moves to him.
+51) 7) dialog: Oh, God!
+52) 0) text: Sarah watches as Eddie, both hands now encased in plaster casts, tries to sleep. He tries to move his arms, as if t to defend himself. Sarah rises, joins him, and strokes his head.
+52) 1) dialog: It's all right. I'm here.
+53) 0) text: They are seated at the breakfast table. Sarah pours him s coffee and he tries to bring the cup to his lips, but he  cannot manage it. Disgusted, he drops the cup on the floor and gets up from the table. Sarah bends down and patiently wipes up the spilled coffe
+54) 0) text: The apartment is now clean and neat. And Sarah is sober. is at her table, typing, while Eddie stands at the window trying to reach over his shoulder to scratch his back. He comes over to the table and, with his mouth, picks a ciga out of the pack. He looks quickly at her, without asking  directly for the match. She lights it and, as she does, h glances at the sheet in the typewriter.
+54) 1) dialog: You can read it, if you want to. (Eddie shrugs) You want to go out for a while? To a  movie?
+54) 3) dialog: No. You?
+54) 5) text: He starts to unbutton his shirt and Sarah immediately get up to help. But he holds her off.
+55) 0) text: Sarah and Eddie emerges from the doorway. It is a warm,  beautiful day, and Sarah has a basket with her. Eddie see happy to be out with her, almost as if he has forgotten t casts on his hands.
+57) 0) text: Eddie leans back on the grass and looks at Sarah. They bo seem easy and relaxed in the sunshine together.
+57) 2) dialog: A loser?
+57) 4) dialog: Would he know?
+57) 6) dialog: Why did he tell you?
+57) 8) dialog: What does he do, this Bert Gordon?
+57) 10) dialog: Is he a winner?
+57) 12) dialog: Is that what makes a winner?
+57) 14) dialog: Does it bother you? What he said?
+57) 16) dialog: You're not a loser, Eddie. You're a  winner. Some men never get to feel  that way about anything. I love you,  Eddie.
+57) 19) dialog: (after a pause) I love you.
+57) 21) dialog: Yes, I need them very much. And if  you ever say them I'll never let you  take them back.
+58) 0) text: Eddie is about to knock on the door to Sarah's apartment. stops for a moment to look at his hands. The casts are of He knocks on the door with his wrist, as he would if he s had them on. When she opens the door he holds them up boy before her face.
+58) 2) dialog: Yes, I'm glad.
+59) 0) text: It is a quiet, elegant restaurant, one with soft piano mu and subdued lighting. Eddie and Sarah had walked past it first day they met. Eddie and Sarah enter. She has on new dress and Eddie, looking a little ill at ease, has on a s and tie.
+59) 4) text: The headwaiter seats them at a table. Eddie and Sarah exc smiles. A waiter approaches.
+59) 7) dialog: Sherry. (to the waiter) Very old, very dry.
+59) 9) dialog: I feel pretty.
+59) 12) dialog: Your tie. I never saw you wear one  before.
+59) 16) text: The waiter pours out the sherry as Eddie and Sarah stare each other over their glasses. Then Eddie looks away. Sar proposes a toast.
+59) 17) dialog: To you, Eddie.
+60) 2) text: Eddie nods and drinks down the last of his brandy as the  waiter leaves. Sarah sees that Eddie seems somber, preoccupied.
+60) 3) dialog: What is it, Eddie?
+60) 5) dialog: What do you want to tell me?
+60) 7) dialog: (stunned) For how long?
+60) 9) dialog: A week? A year?
+60) 11) dialog: Sure. Let's go home.
+61) 0) text: It is raining heavily. Sarah emerges from the building an leans wearily against the awning. Eddie, having hurriedly paid the bill, follows after her. He catches up with Sara taking her by the arm, and stepping out into the street t hail a cab.
+61) 3) dialog: No, I want to walk.
+61) 5) text: Eddie grabs Sarah and starts to pull her back under the  awning.
+62) 4) dialog: No. (collapses into a  chair) Yes, I want to know what for. But I  don't want to ask.
+62) 6) dialog: Leave now.
+62) 8) dialog: Why should I?
+62) 10) dialog: If you were going to come back you  wouldn't have taken me out tonight.  You wouldn't have bought this dress.  You're hustling me, Eddie. You've  never stopped hustling me.
+62) 12) dialog: What do you want me to do? Just sit  here and wait? Faithful little Sarah.  Pull the shades down and sit. When  you feel like coming back, you'll  come back. And you'll love me. And  then you'll go away again. Is that  your idea of love?
+62) 14) dialog: I'd know it, Eddie. I'd know. For  God's sakes, what are you trying to  do to me? I love you.
+62) 16) dialog: No. (long pause) I made you up, didn't I, Eddie? You  weren't real. I made you up, like  everything else. There was no car  crash, Eddie. When I was five, I had  polio. I was never an actress. The  rich old man is my father. He walked  out on us when I was seven. He sends  me a check every month. That's how  he buys his way out of my life. The  men I've known... after they left,  I'd say they weren't real, I made  them up. But you, Eddie. I wanted  you to be real.
+62) 18) dialog: I'm so scared, Eddie... I'm scared.
+63) 0) text: Bert Gordon leans on the hood of a cab. His face drops wh he sees Eddie and Sarah walking toward him. Eddie cares t suitcases and his leather cue case. He sets the suitcases the curb and the cab driver moves to take them. Courteous Bert opens the door of the taxi for Eddie and Sarah.
+63) 3) text: Sarah eyes Bert distrustfully and starts to get in the ca
+64) 0) text: Eddie, Sarah, and Bert squeeze through the door of the tr compartment.
+64) 4) text: Eddie shuts the door. Bert and Sarah sit across from each other.
+64) 6) dialog: (loudly) Packard. Sarah Packard.
+64) 8) dialog: No, I'm fine.
+64) 10) dialog: I've never been to Louisville.
+65) 0) text: The Kentucky-bound train rolls down the track. Bert and E finish their breakfast coffee in the dining room. Sarah i in the washroom.
+65) 6) text: Sarah makes her way down the aisle and joins them at the  table.
+65) 7) dialog: (brightly) I'm ready.
+65) 17) text: Eddie and Sarah just stare at him.
+66) 0) text: They are at a table, sipping drinks. Bert shuffles a deck cards as he talks. Eddie, like a schoolboy, listens inten Sarah sits apart, watching them both.
+66) 4) dialog: What makes you know so much? How do  you know what Eddie was thinking?
+66) 6) text: Eddie glances at Sarah who stares mutely at Bert.
+66) 8) text: Eddie reaches across to light Bert's cigarette with the  lighter Sarah gave him. Bert's own lighter is on the tabl before him. Sarah sees it, picks it up, and sparks it int flame.
+66) 9) dialog: Doesn't your lighter work, Mr. Gordon?
+66) 14) dialog: It's all right, Eddie. I'm sure Mr.  Gordon meant no offense. It was a  figure of speech.
+66) 16) dialog: And a fact is a fact.
+67) 0) text: The lobby is thronged with gamblers and their women,  sportsmen, tourists, all there for the Derby. A jazz comb can be heard over the din of their voices. Eddie, looking excited, leads Sarah through the crowd. Behind them is Be his face now shaded by dark glasses, following a bellhop the main desk.
+67) 12) text: Eddie laughs and moves toward the open door leading to th billiard rooms. His face glows as he watches the flow of moving in and out of the crowded room, and hears the soun of clicking pool balls. He tucks his cue case under his a and turns to Bert and Sarah who join him.
+67) 20) dialog: Fifty-seven.
+67) 22) text: Sarah turns toward the elevators, with Bert behind her,  jiggling his keys.
+68) 0) text: The bellboy unlocks the door and Sarah enters. The doors the other suite are open. As she catches sight of Bert  arranging things with the bellboy she closes one door. Th bellboy leaves as she moves to close the other.
+68) 2) dialog: We're neighbors now. You can call me  Sarah.
+68) 5) dialog: Do we need words?
+68) 7) dialog: You know what's good for him?
+68) 9) dialog: For whom and for what?
+68) 11) dialog: You didn't answer my first question.  For whom?
+68) 13) dialog: No, there's no tomorrow. Not with  you. You own all the tomorrows because  you buy them today, and you buy cheap.
+68) 16) dialog: You bastard.
+68) 20) dialog: (weakly) How?
+70) 2) text: Eddie moves through the ornate racetrack bar to join Sara at a table. Sarah has been drinking.
+70) 4) dialog: He went off someplace.
+70) 6) dialog: (takes it) Why?
+70) 17) dialog: Thank you.
+70) 44) dialog: If you don't mind I think I'll stay  at the hotel.
+70) 46) dialog: (her voice slurred) I'm a little tired.
+70) 48) text: Sarah gives Bert a look.
+71) 0) text: The camera tilts upward from a Dixieland combo blaring ou bouncy tune to find Sarah, descending the stairs, looking at the party below. Holding the rail with one hand, and a champagne glass in the other, she maneuvers her way down steps. She stops a waitress on the way upstairs and excha her glass for a new one. We follow her unsteady, doll-lik descent. She moves slowly, dreamily past the combo; past  Eddie, who is cornered by a chic blonde in a low-cut dres past Findley, alone with his drink, observing his guests; past the bleary-eyed couples on the dance floor, until sh comes to the bar. Bert is there too, his head bobbing to the Dixie beat, hi eyes running over her body so plainly covered by a cotton print dress. Spinning away from him, she takes her glass goes to a corner of the room. Bert walks casually to her  side. He leans over and whispers something in her ear. He face hardens. Angrily she turns and throws her champagne his face and smashes her glass on the floor. Then she sta to cry and starts to fall, but Bert holds her up by the  shoulders. The music stops. The dance couples strain to g a look at what has happened. Eddie shoves through the gawking crowd.
+72) 0) text: A Negro maid sits patiently in the room, watching over Sa and the coats that Sarah is lying on. A woman enters and, disgusted, pushes Sarah off her fur coat. Eddie appears i the doorway. The woman takes her coat and leaves. Eddie l at Sarah for a moment, then turns and walks out.
+75) 15) text: He reaches in his pocket, then remembers that he gave his money to Sarah.
+76) 0) text: He bursts into the room, goes past Sarah, stretched out o the bed, and takes the money out of her purse. She is fac away from him but her eyes are open. She listens to him a he shuts the door loudly on his way out.
+78) 0) text: A game has just ended as Sarah quietly descends the stair She stands at the rail, listening.
+78) 9) dialog: (from the stairs) Don't beg him, Eddie.
+78) 12) dialog: Please, Eddie, don't beg him.
+78) 14) dialog: Doesn't all of this come through to  you, Eddie? Doesn't any of this mean  anything to you? That man, this place,  the people. They wear masks, Eddie.  And underneath the masks they're  perverted, twisted, crippled.
+78) 17) dialog: (moving to him) Don't wear a mask, Eddie. You don't  have to. (points to Bert) That's Turk, Eddie, the man who broke  your thumbs. Only he's not going to  break your thumbs. He'll break your  heart, your guts. And for the same  reason -- 'cause he hates you, 'cause  of what you are. 'Cause of what you  have and he hasn't.
+81) 0) text: Bert enters his suite, removes his overcoat, then looks a the door that divides his room from Sarah's. He seems  hesitant, unsure of himself. He pours himself a drink and downs it in one gulp, walks to the door, listens, and ope it himself without knocking. Sarah is there, seated priml on the bed. There is a drink in her hand, and a suitcase  beside her on the bed. Bert enters her suite and confront her.
+81) 2) text: Sarah's voice is subdued, controlled.
+81) 3) dialog: In a little while. That's what you  want, isn't it?
+81) 6) dialog: Put it on the bed. That's the way  it's done, isn't it?
+81) 8) dialog: And the way you're looking at me, is  that the way you look at a man you've  just beaten? As if you'd just taken  his money, and now all you want is...  his pride?
+81) 10) dialog: Sure, sure, just the money, and the  aristocratic pleasure of seeing him  fall apart. You're a Roman, Bert.  You have to win them all.
+81) 12) dialog: (at the door) You got a drink?
+82) 0) text: In the bathroom mirror we see Bert asleep on his bed. The sheets are rumpled and tossed about. Then we see Sarah, i her slip, enter the bathroom and shut the door. She takes out her lipstick and scrawls across the image of herself the glass "Perverted, twisted, crippled." She underlines word "crippled."
+84) 0) text: He enters, sees the money on Sarah's bed, puts down his c case, and turns to see a crowd in the adjoining room. Ber laying in bed, talks to a plainclothesman who stands over him, taking notes. A photographer with a flash camera sta by the bathroom.
+84) 7) text: The photographer's bulb flashes as he takes a picture of bathroom. Eddie pushes by the photographer, then stops as he sees  Sarah's body laid out on the tiled floor. He drops to his knees beside her.

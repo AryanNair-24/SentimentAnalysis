@@ -1,0 +1,284 @@
+3) 0) text: Toby and Suzy walking to work together.
+3) 2) dialog: No.
+3) 4) dialog: No. I didn't take the washing out of the machine.
+3) 6) dialog: It'll be fine.
+3) 8) dialog: It is fine. I'll wear stale pants.
+3) 10) dialog: Well, there we go. I could go commando, but I don't think that's acceptable in government.
+3) 13) dialog: Oh Yes. It's all here. My massive intellect. And an apple for Simon Foster.
+3) 15) dialog: Don't say that, I'm rebranding him.
+3) 17) dialog: Well I'm going to sort that out. After a week I'll have him sounding like a chicken without a wasp up its arse.
+3) 19) dialog: Have a good day at the Foreign Office. Try not to annoy Russia.
+3) 21) dialog: Yeah, alright.
+3) 26) dialog: Are you going to keep ringing me up every two minutes, because you're starting to remind me of my mum. And that could lead to all sorts of erectile dysfunction.
+3) 32) text: Back with Malcolm, Toby close by. Malc's on the phone.
+3) 34) text: Toby is now next to Malcolm in the building (or better still, in a lift). Malcolm becomes aware of him.
+3) 35) dialog: No, it's fine, it's in the fridge. I put some clingfilm over it.
+3) 38) dialog: To keep it fresh.
+3) 41) dialog: No, but it still might dry out.
+3) 47) dialog: No it isn't. That's a myth. Clingfilm is perfectly safe. Malcolm now eyeing Toby with suspicion/contempt -- who is this dick? Toby tries to smile, lowers his voice, embarrassed.
+3) 50) dialog: They wouldn't sell clingfilm if it gave you cancer. Clingfilm doesn't give you cancer. And Lasagne doesn't give you syphillis.
+4) 13) text: Malcolm walks in with Toby sheepishly behind him.
+5) 0) text: JUDY has spotted TOBY.
+5) 2) dialog: Toby.
+5) 6) dialog: Is this a normal morning, or...?
+5) 9) dialog: Rubbish?
+6) 10) text: JUDY and TOBY come in.
+6) 18) dialog: Fuck off?
+6) 20) dialog: Right.
+6) 21) text: Toby fucks off. We can see him outside, wandering around, not knowing what to do with himself.
+8) 0) text: Toby checks the phone. Sees it's Suzy -- Christ, not her again, I'm a bit busy here. He answers.
+8) 2) dialog: Hiya. You do know this is the third time you've rung? Are you on a new tariff?
+8) 4) dialog: All a bit manic. It was never like this at Agriculture. People tend not to swear so much about wheat. Apart from farmers. They swear about everything.
+8) 6) text: Can you turn that down a bit? (to Toby)
+8) 8) dialog: Right - Karen Clark from...is that the woman who went round Britain in a coracle for leukemia? 
+8) 11) dialog: Oh right. Shit. Karen Clark. Wow. Thanks.
+8) 17) dialog: Meat?
+8) 21) dialog: Likewise. Affirmative on that.
+9) 0) text: Judy is hovering as Toby finishes his call.
+9) 2) text: She starts walking away. Toby follows.
+9) 3) dialog: Um, I do just need to... 
+9) 8) dialog: Right...is that not...?
+9) 10) dialog: Look, I understand your hostility to new wood coming in..
+9) 12) text: But she's gone. Toby heads over to Simon's office. The door's open. He pops his head in.
+9) 13) dialog: Hey, boss.
+9) 15) dialog: Look, I've managed to get you into the big meeting at the Foreign Office this afternoon.
+9) 17) dialog: I did it through sheer bloody hard work.
+9) 24) dialog: Two `e's.
+9) 26) dialog: (off Judy's look)
+10) 0) text: Simon, Toby and Judy are going through security. Suzy and Michael come to meet them.
+11) 0) text: Chad's dual horse-shoe is packed with people. The room's pretty much full. KAREN CLARK from the State Department is surrounded by ten or so aides and functionaries, security people and assistants. (Including Chad and LIZA one of Karen's senior aides.) Then there is Bob Adriano's gang of advisors, smaller but sitting separately. Next to them is a Pentagon delegation, including uniformed members of all three services. Lots of hubbub. SUZY leads SIMON, TOBY and JUDY in, and shows them to their seats. 
+11) 3) text: Simon and Toby swap seats, but Simon can still barely see anything.
+11) 10) text: Back with Simon, Judy and Toby. Simon still straining to see.
+12) 0) text: The big meeting is breaking up. Simon is annoyed, leading Judy and Toby out of the room and into any private space he can find - they back into a huge huge ballroom
+12) 6) dialog: But you know you're a prime cut, you're not - offal.
+13) 0) text: We're with Karen Clark's delegation who have just walked downstairs from the meeting room into a ground floor lobby area. KAREN is talking to LIZA, her right-hand woman. TOBY, SIMON and JUDY are above them standing round a circular viewing area that looks down on the lobby. The UK and US delegations are aware of each other, throwing furtive glances each other's way.
+18) 1) dialog: (shouting)
+18) 4) dialog: Toby? It's Toby.
+18) 8) dialog: She did the Kennedy scholarship at my college. I had a small thing for her.
+18) 10) dialog: I'm not sure she remembered me.
+20) 0) text: The conversation is continuing between Simon Judy and Toby as they exit the FO.
+20) 8) text: ...loads of things that are actually very likely are also unforeseeable. Y'know, For the plane in the fog the mountain is unforeseeable, but then it, is suddenly very real and inevitable. Toby and Judy look at one another. This isn't good. 
+20) 13) text: Toby Simon and Judy on the back seat as they drive back to the Department.
+22) 0) text: Judy, Simon and Toby are walking towards Malcolm's office.
+22) 1) dialog: The thing is. On the war. With your profile.. (uncertain, but fuck it, he is a senior policy aide to a cabinet minister)
+22) 16) text: Toby and Judy leave and wait outside the door.
+25) 4) dialog: (joking) You want me to order some blinds? Or I could get some heavy curtains with swags and a pelmet.
+25) 6) dialog: Oh. Okay ...
+25) 10) dialog: I could work with that, definitely. Plus she can be a bit... you know? "Everything's a bit shit isn't it?"
+25) 12) dialog: Yeah. "My husband works in Tower Hamlets."
+29) 0) text: Simon and Toby walking past the queues at US immigration, they are being ushered through a separate channel by airport workers and diplomatic staff. As they're escorted Simon and Toby catch each other's eye.
+29) 1) dialog: This is cool.
+29) 6) dialog: Oh God yeah, of course. 
+29) 9) dialog: Me? No. I mean, Judy will have got someone to do it.
+29) 11) dialog: Hi Judy? Yeah sorry if you're in bed, but we're here and... (looks through papers) Just can't see the car? Wondered what the car situation was?
+30) 2) dialog: The airport car?
+31) 1) dialog: (to Simon) Yeah. She's really embarrassed. Sounds like a snarl up her end. I'll see what we can do?
+31) 3) dialog: Here we go.
+31) 7) dialog: (to the taxi guy) Hi we're the Simon Foster party?
+32) 0) text: Simon and Toby are heading into Washington. Their car is accompanied by two police motorcycles.
+32) 2) dialog: (thumbs up, on his mobile) Hey Gav, I'm in a fucking motorcade!
+34) 1) dialog: It's like a hangar for businessmen.
+35) 0) text: Simon and Toby enter with the porter. He hangs around for a tip. 
+35) 3) dialog: (seaching his pockets) I haven't been to an ATM yet...I've only got English....
+35) 5) dialog: It's supposed to be a dollar a bag.
+35) 6) text: Porter leaves. TOBY goes to window, opens curtain. The Capitol it just visisble through a building site.
+35) 7) dialog: Technically, you've got a Capitol Hill view.
+37) 23) dialog: (panic in his eyes)
+37) 26) dialog: I don't know, I thought tonight we'd be tired?
+37) 28) text: Well I am tired but I'm also a career politician Toby, in the political powerhouse of the world for forty-eight hours. So I thought it might be nice to, you know, go out rather than sit in my room trying to spank one out watching a shark documentary, because I'm scared if I watch a porno it'll end up in the Register of Members Interests. So what have you got?
+37) 29) dialog: Okay ... What have I got?
+37) 31) dialog: Okay - so far, we have ... one flyer under the door for happy hour in the bar - which might be interesting? And I have the number of a guy I was with at Uni who I believe now works for CNN out here.
+37) 35) dialog: No?
+39) 0) text: Toby and Simon are lying on separate beds in their underpants watching a shark documentary. Toby is the on the phone.
+39) 2) dialog: Well it is unbelievably hectic. 
+40) 0) text: Toby's ending his call with Liza.
+40) 1) dialog: Attending the war committee. That's big. I mean, I have been on a committee before. "Challenges for the cheese market" - that was a big one... but...yes, sure I'd love a drink. Forty minutes? Great. (he does that mobile thing where people sign off by repeatedly saying `bye' with increasing speed but diminishing volume) Bye bye bye-bye-bye-bye-bye bye.
+40) 3) dialog: Hello? Hi? Hello?
+40) 5) dialog: Matty, hi, How's CNN? yes -- sorry? Do I sound muffled? Can't mate. Yeah, Liza Weld's's got us on to Linton's Future Planning Committee in the morning. The war committee, to you and me. So I'm prepping...what? Yes, Future Planning Committee is the war committee. You don't know that? I thought you worked for CNN? Or is that Cartoon Network News?
+42) 0) text: Toby still on the phone.
+42) 1) dialog: No, off out now for a drink with her...yeah, yeah, ha-di-ha, but nothing's going to happen there. Little Toby's staying in his hammock tonight.
+42) 2) text: Toby checks himself in the mirror.
+43) 0) text: Toby comes out of the bathroom.
+43) 1) dialog: Simon, I've managed to get us on the...
+43) 4) dialog: (heart attack) Fuck! Malcolm! Jesus.
+43) 6) dialog: Right. (to Simon) I've got us on to Linton's Future Planning Committee in the morning.
+43) 9) dialog: It's the war committee.
+43) 11) dialog: Yeah, Liza says that...
+43) 13) dialog: Karen Clark, Liza, me and Simon. (off Simon's look) Simon and me.
+43) 15) text: Toby picks his jacket up.
+43) 16) dialog: Yeah well, I'll text you the details because I'm going to go out.for A quick drink with some State Department bods.
+43) 22) text: Toby heads out. 
+44) 0) text: Toby and Liza sit in a booth. They are by far the most formally dressed people in the club. A band are playing angry rock with a vaguely political message. A small knot of people are rocking out.
+44) 3) dialog: Yes, I don't think I've ever seen a more civilised 'mosh pit' it's more of a mosh caucus actually.
+44) 5) dialog: (beat, looks at her.)
+44) 9) dialog: I'm sorry? Pip Pip? Is this... a person or a cell phone tarrif or..
+44) 11) dialog: Yeah- I noticed you're worried, cos I saw you looking worried. I'm perceptive like that. But... (can't think of anything else)
+44) 15) dialog: Well I'm incredibly tired. It feels like my brain's eight hours behind but my liver's 12 hours ahead.
+44) 18) dialog: However, due to technological developments I no longer need sleep, but am physically rejuvenated by alcohol!
+45) 0) text: Toby and Liza are on the bed together, kissing.
+45) 1) dialog: Could I just say, you know, that what happens in Washington stays in Washington?
+47) 0) text: Toby wakes up. His mouth is parched. He feels terrible. He rolls over. Liza is gone. He can't remember where he is or what's going on. Then with a flash as he looks at the clock - 9.07 he remembers a lot of things in a rush and springs out like a Ninja and starts pulling his clothes on, while scrabbling for his phone. He heads down stairs &amp; out of the apartment.
+48) 1) dialog: Hello I need a number for a taxi in Washington DC. Straight through please. He's on the street.
+48) 2) dialog: Hello. I need a cab, right now. From? From where? From from (sees the house number )
+48) 3) dialog: It's 40, 46, that's the number, and it's a street. It's a nice street with houses and cars and a - sidewalk and it's got leaves and - hold on I'm walking, I'm walking to a sign ...
+49) 0) text: Toby running. 61   INT. KAREN CLARK'S OFFICE. DAY. Karen, Liza and Simon are making small talk.
+49) 9) text: Polite laughter. Toby comes in.
+49) 10) dialog: Hi I'm sorry I'm so late.
+49) 13) text: Toby shoots Simon a look.
+49) 15) dialog: (she can't know?) Yes. From college, in England.
+49) 17) text: Toby looks to Liza for guidance. She's not giving any.
+49) 18) dialog: Yes, I, uh, got led astray.
+49) 20) dialog: Uh, well I ran into - people. There's some people from - the MoD over and ...
+49) 22) dialog: Er - no, another - gang?
+49) 25) dialog: (weakly)
+49) 32) dialog: Brilliant.
+50) 0) text: Simon and Toby walk out into a larger office. They find a couple of seats left out for people waiting and sit down. Various staffers come and go, picking up papers and files, saying hi, looking knackered, all drinking either diet cokes or coffees.
+50) 1) dialog: Was that...?
+50) 4) dialog: (feels he's taken enough now)
+50) 9) dialog: That was just - the first bit was it? We're going back in do you ...think?
+50) 11) text: Liza comes out, passes by. Toby mouths `shit' to himself.
+50) 13) dialog: Hi Liza.
+50) 16) text: Toby gets up for a private word.
+50) 17) dialog: (re last night) You feeling okay?
+50) 19) dialog: Because...you know...you didn't wake me up. 
+50) 22) dialog: I was asleep, of course I didn't. That's how people walk out of windows.
+50) 26) dialog: Nada. Nada.. Bad-da. Nada-bada bing-bong ding-dang-dong. (beat, she looks at him)
+50) 27) text: I have no idea what I'm saying anymore I think I really am still quite drunk. Chad is passing. As Liza turns away Toby's face does a spasm of regret at his brazen lying.
+50) 32) dialog: I need to...
+53) 0) text: Simon and Toby are looking through magazines and papers. Karen is exiting her office with an entourage.
+53) 2) dialog: (as she passes, re magazine) ... and if you look ... at the line they take in Newsweek - that's very much ... another narrative.
+53) 5) text: Toby looks at him. As they get up and follow her at speed, tripping to keep up.
+53) 6) dialog: (quiet) I don't think you can say that anymore here. They don't like that.
+53) 13) text: Karen goes into the toilet. Simon and Toby head off looking sheepish. As they head out of the vestibule. There is a gaggle of Karen hangers-on. Chad-type staffers looking to get in with Karen.
+54) 4) text: Toby spots his hero.
+54) 5) dialog: There he is. General George Miller.
+54) 8) dialog: That's the second time in 24 hours I've had a partially obscured view of him.
+57) 14) text: Simon is sitting with Toby, marvelling at the numbers of people cramming into the room.
+57) 16) dialog: Oh no. I want to stay in here with Miller. Don't make me pump Chad.
+57) 18) text: Toby gets up to leave.
+57) 20) dialog: No it won't. It'll be difficult difficult lemon difficult.
+57) 21) text: Toby reluctantly leaves, trying to grab another peek at Miller. 
+61) 1) dialog: So - do you want to go out and get some lunch?
+61) 3) dialog: Yes, what an incredibly depressing motto. You see you're playing into the hands of the French saying that. Toby mooches around, peers in Linton's office. He spots a couple of A4 sheets of paper that have been printed out with `Climb the mountain of conflict!' across them as an encouraging slogan on the wall.
+61) 4) dialog: (looking in)
+61) 8) dialog: Right. And what - friends, family, novels, sexual inter-course you're going to save those for your thirties and forties?
+63) 0) text: Malcolm, Toby, and Simon are heading towards their car. They see the Washington Monument in the distance.
+63) 2) dialog: If you pull it out, America deflates.
+63) 9) dialog: Constituency surgery in Northampton.
+64) 0) text: TOBY and SIMON are with Simon's constituency agent, ROZ, she's ushering them into the small, damp little constituency office. ROZ's arm is in a sling (Jo Scanlon's arm actually is in a sling) and she has difficulty opening the door
+64) 10) dialog: And what was the White House like?
+67) 0) text: 80 Simon listens behind a desk. Roz is there taking notes. Toby is in the corner working on a laptop. 
+67) 11) text: Toby closes the laptop.
+67) 13) text: Toby exits to get coffee as Roz brings in PAUL MICHAELSON.
+67) 36) dialog: So, Paul, where are we up to? (off Paul's scary look)
+70) 0) text: Toby's still talking to Paul the wall guy.
+70) 1) dialog: Paul, look, mate... 
+70) 4) dialog: Sorry. But I'm on your side. I have to look after my Mum too. You do, or they get shafted don't they? So...
+70) 10) dialog: Full-beam?
+70) 12) dialog: So what did Karen Clark want?
+70) 14) dialog: Well, uh, no, of course not. I suppose -
+72) 0) text: Simon is getting into his office - he and Toby are back from the constituency office.
+72) 6) text: Judy punches a button on her phone. Toby's land line starts ringing. Simon comes out.
+72) 9) dialog: (to Judy) What's this? 
+72) 12) dialog: The war?
+72) 15) text: Toby answers his phone, resigned.
+72) 16) dialog: Hello. Can I help you?
+72) 17) text: Malcolm sweeps in, straight past Toby, slapping him on the back of the head as he passes.
+72) 18) dialog: You fucker. (to phone) No, not you.
+73) 2) dialog: What can I do for you Paul?
+73) 4) dialog: Right?
+73) 7) dialog: I'm sure they're not twigs.
+73) 15) dialog: Could you tell your mum to stay away from the wall just for the time being?
+73) 17) dialog: No, sure, but could she use a hose, from a distance?
+73) 19) text: Toby can still see Malcolm going ballistic at Simon and Judy in Simon's office. 
+75) 0) text: Malcolm is with Simon and Toby. Malcolm has a local Northamptonshire paper.
+75) 7) dialog: It is just a wall, Malcolm.
+75) 15) dialog: Hello.
+75) 17) dialog: How is saying "hello" a...
+75) 20) text: Simon, Toby and Jamie look at him. 
+75) 28) dialog: Look...we hired some builders. They didn't turn up when they said they would.
+76) 0) text: Simon and Judy on their way into the foreign office. Malcolm has gone in ahead. Suzy chatting on the stairs with Toby. Simon draws Judy to one side.
+77) 7) text: Two CIVIL SERVANTS get up and exit. Judy walks across the room and starts making calls, as does Toby. Michael walks off into the next room, Suzy follows. They start calling.
+78) 5) text: Toby arrives, dumps his coat, bag, puts his phone on the table.
+78) 6) dialog: Hello ladies.
+78) 8) dialog: (doing the joke again) Hello ladies. I'm just going to -
+78) 10) dialog: Great.
+78) 19) dialog: Yeah I wouldn't want to meet Jamie in a dark alley. Or a bright alley. The whole thing of just being in an alley with him would be scary, regardless of the lighting. Suzy cuts in.
+78) 21) dialog: (reading, covering)
+78) 24) dialog: What? No.
+78) 28) dialog: Could we not talk about accusations and, health issues, in the pub?
+78) 33) dialog: I don't know, it was a weird, intense time over there. It was...maybe, subconsciously, I don't know, it was a kind of last ditch attempt to stop this, awful...war. 
+78) 37) dialog: In the broad sense. (to Judy and Michael)
+79) 0) text: Toby lets himself into the flat. Goes through to the kitchen. Suzy is there with Michael.
+79) 1) dialog: What the fuck is he doing here?
+79) 3) dialog: Well I live here.
+79) 5) text: I'll go make that tea. Suzy and Toby go into the kitchen.
+79) 6) dialog: (beat)
+79) 13) dialog: You putting this in your memoirs as well?
+80) 0) text: Toby is in the bedroom. A few boxes are lying around. He's putting clothes into bin liners. Suzy is hovering. Michael brings through some teas. The atmosphere is very frosty and awkward.
+80) 1) dialog: Where's my needlecord jacket?
+80) 3) text: Toby thinks better of responding. Starts folding some shirts. Michael takes over
+80) 5) dialog: Michael, this is one of the more humiliating moments of my life. I can pack a bag.
+80) 7) dialog: I'm not going to fucking Fiji Michael, I'm being chucked out of my house.
+80) 9) dialog: There is no other end.
+80) 10) text: Toby moves through to the kitchen to get his jeans. Suzy and Michael follow. 
+80) 13) dialog: Massive. Enormous. You can see them on Google Earth. They've got their own postcode.
+80) 14) text: Toby gets his jeans and some other clothes. He's laden down with boxes and bags and can hardly see. Comes out into the hall. Suzy is there without Michael.
+80) 15) dialog: See you then.
+80) 17) text: Toby struggles to open the front door. Suzy opens it. Toby goes to leave then stops.
+80) 18) dialog: Look, Suzy, this is probably going to sound odd under the circumstances.
+80) 20) dialog: No. Thank you. But no. It's about Liza.
+80) 22) dialog: Listen, Suze, Liza wrote a paper, Pwip- Pip. I think, if it got leaked, it could stop the war.
+80) 26) dialog: Does such a thing exist? 
+81) 0) text: Simon, Toby and Judy are on the way to Heathrow.
+81) 5) dialog: Though -- maybe? What's brave about doing the `right thing'? Nothing. Doing the wrong thing is braver. In a way. I mean, you know, wars sometimes work. The War of Independence, that worked. For the Americans. Second World War. That was a good idea. I mean not a good idea but ...
+81) 7) dialog: Nurses are good.
+82) 0) text: Judy, Simon and Toby are walking past a baggage carousel.
+82) 2) dialog: You want hookers? You like hooky fucky?
+82) 4) dialog: Still?
+83) 0) text: Simon and Toby looking very uptight. Malcolm's with them.
+83) 4) text: Simon looks to Toby for help.
+84) 0) text: 97 Malcolm, Simon, Toby and Judy are being led through a bleak, soulless basement corridor in the UN by Sir Jonathan Tutt, the British ambassador to the UN.
+84) 10) dialog: Fuck the nibbles, what was with the homoerotic tension? Malcolm gets a call. 
+87) 0) text: Lots of delegates drinking and eating and chatting. We glimpse Linton, Karen, General Miller. Sir Jonathan is there, mingling. Malcolm approaches Simon, Toby, Judy and Sir Jonathan.
+87) 10) dialog: No.
+87) 16) dialog: Yeah. Yeah, that does sound possible.
+87) 19) dialog: I'm just saying psychologically speaking that sounds plausible - that you might build up a resentment and then pay it off in some underhand way. That's just something I've observed. Malcolm's had enough goes over and grabs Sir Jonathan, mid-conversation, and manhandles him away.
+87) 21) dialog: (they look at each other)
+90) 0) text: Toby and Liza are sitting near each other on the floor working on laptops. They're at right-angles to each other. Toby has a view of Liza. She's facing away from him.
+90) 1) dialog: Listen, I'm really sorry about Suzy and the texting and ...
+90) 3) dialog: Er?
+90) 5) dialog: Sure. I'll just dig that out. (beat, taps on his laptop, then very quietly)
+90) 9) dialog: I just wandered if tonight when all this shit is over we couldn't - you know. You're single. I'm single now. You're a woman. I'm not.
+90) 11) dialog: It's not a terrible idea is it? One more. For the Gipper?
+90) 14) dialog: Thanks. That was short and sweet. Well, short and sour.
+93) 12) text: Simon stays where he is. Linton starts laughing. Toby enters, watches in amazement.
+93) 16) dialog: We've just heard -- the wall's starting to collapse. A brick has fallen. That's the news I'm getting. More to follow. Both news and bricks.
+93) 27) text: If you repeat this to anyone I will pull your leg off, break it in two and stab you to death with your broken shin bone. Now go away. Toby leaves. Malcolm sits down, head in his hands.
+94) 0) text: The delegates are still mingling. Toby is there now. Toby's phone goes. He answers.
+94) 1) dialog: (into phone)
+94) 4) dialog: (indicating himself)
+94) 11) dialog: (into phone) Hello? Oh hi, Paul. How's it going? No, yes, I know the wall is collapsing. I'm as frustrated as you are mate.
+94) 12) text: The Vice President starts to walk by. Toby sees him, wants to shake his hand.
+94) 13) dialog: Look, could I call you back Paul? It's just the Vice President's ... I couldn't? No, okay, let's keep talking...
+96) 3) text: One of the doors he pushes open has a coffee machine in it. Toby is there getting a coffee. Malcolm gestures to him to come along. Toby joins Malc in his jog through the corridors, spilling his coffee on his hands as he goes and scalding himself.
+96) 5) dialog: Can we stop running because my hands are really rather badly burned now.
+96) 8) dialog: Oh? Right. (tries it out for size) It wasn't?
+96) 10) dialog: (covering) I don't actually recall. It was a busy time.
+96) 15) dialog: Okay.
+96) 17) text: Toby goes. Malcolm pushes open another door. Sir Jonathan Tutt is in there.
+99) 0) text: Toby is standing in front of Malcolm, holding his laptop up for Malcolm to look at and a physical copy of the red Pwip-Pip folder. He's also got the Pwip-Pip file on screen.
+99) 21) text: Toby sticks Pwip-Pip in his mouth so he's got a hand free to initiate MSN messenger.
+99) 23) text: Malcolm types something on the laptop while Toby holds it up for him.
+100) 0) text: Malcolm approaches Toby.
+100) 2) dialog: Where from?
+102) 11) dialog: "That's that then"? That's your quote for the ages is it? 
+102) 14) dialog: 'And I remember the moment war was declared. I turned to the Minister and he said "That's that, then. Anyone want a mint?".
+106) 5) text: Toby comes over.
+106) 6) dialog: Boss? SIMON                         MALCOLM
+106) 8) dialog: It's on the BBC News website -- Partial collapse of the wall. Mrs Michaelson's greenhouse has a smashed pane. The BBC had a crew down there.
+106) 15) dialog: Here. 
+106) 28) dialog: Hi. General? Look I realise this is a slightly strange time to say this, but I just want to say how much I admire...
+106) 30) dialog: Great. Lovely Toby hurries off looking crushed. Miller takes another drag on his cigarette.
+108) 0) text: Malcolm is walking through the open-plan office with Judy. In the background we see Toby getting the last of his things together. The NEW MINISTER and her ADVISOR arrive. They are almost carbon copies of Simon and Toby.
+108) 10) text: She points at Toby's desk. The Minister and his advisor start making themselves at home. We stay on Toby now as Malcolm and Judy greet the new guys. 

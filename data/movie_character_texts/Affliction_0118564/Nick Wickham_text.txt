@@ -1,0 +1,27 @@
+8) 30) text: NICK WICKHAM, 45, Marg's boss, passes by:
+8) 33) dialog: (walks off) Take care, Wade.
+25) 0) text: Wade, eating lunch at the counter, talks with Nick Wickha
+25) 2) dialog: What?
+25) 4) dialog: Fuck. Wade Whitehouse. It's people  like you that keep this fucking town  from prospering. Whatever somebody  does to improve things around here,  you gotta find fault with it.
+25) 6) dialog: This town sucks.
+25) 10) text: Nick goes back to work.
+25) 24) dialog: (calls) Marg!
+25) 26) dialog: Marg! You got orders!
+25) 31) text: Wade meets Nick halfway to the door.
+25) 32) dialog: You talked to Jack?
+25) 34) dialog: The fucker shot himself. Ker-bang!  That's what it sounds like. Not on  purpose. I assume accidental.
+25) 36) dialog: The other guy.
+25) 38) dialog: CB. Little while ago. One of the  boys on the way in picked up Jack on  the CB calling for state troopers. I  figured you'd know what really  happened. The fucking guy kill  himself? This Twombley, who the fuck  is he, anyhow?
+25) 41) dialog: He don't care for you.
+50) 0) text: Townspeople and friends cluster around the gravesite: Pop LaRiviere, Jack and Hettie, LaCoy, Chub Merritt, Nick, Ji Lillian, Jill and Horner, Rolfe, Wade and Margie.
+61) 1) dialog: Your father's in back, Wade. Marg  had to babysit him. She moved in  with you, huh? (looking closer) What happened?
+61) 4) dialog: About fucking time.
+61) 9) dialog: (enters) Can it, Whitehouse. (to Wade) Get him out of here. It was funny at  first, but I'm tired.
+61) 16) text: Margie and Nick guide pere et fils to MARG'S CAR. Nick sp to her:
+61) 17) dialog: Marg, get out of this. Fast.
+77) 2) dialog: It's called a grilled cheese sandwich,  you dub.
+77) 3) text: Wade, flaring, reaches across the counter and grabs Nick the shirtfront! Nick's arm knocks over a cup of coffee. The diner goes silent. Hunters look up. Jill's face is wh she starts to cry. Wade looks over -- it takes him a moment to react -- bend down, comforting her. He wipes her nose with a napkin.
+77) 7) text: They head for the door. Nick eases over:
+77) 8) dialog: (delicate) Wade, I got a message for you. (Wade turns) Jack Hewitt, he's looking for you.  Wants you to clear your stuff out of  his office in Town Hall.
+77) 10) dialog: Well, I guess -- that's what he said.
+77) 12) dialog: No, he's out now. Somewhere on the  mountain. I'd stay away from him if  I were you. He's real pissed.

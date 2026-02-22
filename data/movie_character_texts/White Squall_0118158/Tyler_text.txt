@@ -1,0 +1,19 @@
+131) 0) text: Skipper sits across from a Coast Guard Officer, TYLER, 60 Tyler pulls out a file and lays it on the table.
+131) 1) dialog: There are allegations questioning your competence with regard to the command of the Albatross.  I have been instructed to convene a formal tribunal to determine whether or not negligence played a part in the sinking.
+131) 3) dialog: May I ask you something? Skipper nods.
+131) 4) dialog: How'd you manage to piss off a guy as powerful as Francis Boutillier?
+131) 6) dialog: I used to helm a school ship.  A long time ago.
+131) 8) dialog: That's right, we didn't.  I miss it sometimes.  But, there are other things a Skipper can do. Tyler removes his glasses and studies Skipper.
+131) 9) dialog: The families... want your ticket. Turn it in, we forget the whole thing.  Everybody goes home.
+131) 11) dialog: The papers are going to eat you alive.  Even if you beat it, you'll never get another commission. (beat)
+135) 0) text: A small courtroom.  The room is filled with the crew members and their families, including the parents of the victims, as well as the media.  Phil sits with his father and dodges Chuck's eyes.  Coast Guard Officers Tyler, DOWNING and SANDERS head the proceedings.
+135) 1) dialog: The United States Coast Guard has been asked to conduct this maritime hearing to consider the revocation of Captain Richard Sheldrake's U.S. Master Seaman's Certificate.
+136) 0) text: Bill sits at the table with his parents as questions are leveled at him.  Chief petty officers Sanders and Downing ask most of the questions as Tyler oversees the proceedings.
+137) 8) dialog: And you didn't do anything about it?
+137) 28) text: I don't think one second of this is funny, sir. Skipper stares down Sanders.  He turns to Tyler.
+137) 33) dialog: What does this have to do with anything Mr. Sanders?
+137) 37) dialog: We'll take a brief recess.
+138) 20) dialog: Then why son, why didn't you follow his order? Tod meets Skipper's eyes.
+138) 26) dialog: If this young man had responded instantly to your command, do you believe the ship might have been spared?
+138) 28) dialog: Then what are you trying to say then? Skipper stands.
+138) 35) dialog: That enough son!!  Order!!  Please!! Tears begin to stream down Chuck's face.  His father, Charles, slowly stands meeting his sons eyes.  Go for it.

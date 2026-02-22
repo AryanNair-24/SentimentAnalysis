@@ -1,0 +1,444 @@
+7) 0) text: Joel talks on a phone.  The wind howls around him.  He tr to shield the mouthpiece as he talks.
+7) 1) dialog: Hi, Cindy.  Joel.  Listen, I'm not feeling well this morning.  No.  Food poisoning, I think.  Sorry it took me so long to call in, but I've been vomiting.
+8) 0) text: Joel wanders the windy, empty beach, with his briefcase. passes an old man with a metal detector.  They nod at eac other. Later: Joel looks out at the ocean. Later: Joel sits on a rock and pulls out a notebook.  He opens it and writes with a gloved hand.
+8) 1) dialog: January 13th, 2006.  Today I skipped work and took the train out to Montauk. (thinks) It's cold. (thinks some more) The sky is gray. (thinks some more) I don't know what else to say.  Nothing happens.  Nothing changes.  I saw Naomi last night.  We had sex.  It was weird to fall into our old familiar sex life so easily.  Like no time has passed.  After two years apart suddenly we're talking about getting together again.  I guess that's good. He has no other thoughts.  He glances up, spots a female figure in the distance, walking in his direction.  She st out against the gray in a fluorescent orange hooded sweatshirt.  It's Clementine.  He watches her for a bit, as she nears, he goes back to his writing, or at least pretends to.  Once she passed, he watches her walk away. stops and stares out at the ocean.  Joel writes.
+8) 2) dialog: If I'm constitutionally incapable of making eye-contact with a woman I don't know.  I guess I'd better get back to Naomi. Later: Joel walks up near the beach houses closed for the season.  He peeks cautiously in a dark window. Later: Joel digs into the sand with a stick.
+9) 0) text: It's a local tourist place, but off-season empty.  Joel s in a booth and eats a grilled cheese sandwich and a bowl tomato soup.  An elderly couple drink coffee at the count Clementine enters, looks around, takes off her hood.  Joe glances at her bright blue hair.  She picks an empty boot and sits.  Joel studies her discreetly.  The waitress approaches her with a coffee pot.
+10) 0) text: Joel stares out at the ocean.  Far down the beach Clement stares at it, too.  Joel glances sideways at her then bac the ocean.
+11) 0) text: Joel sits on the bench waiting for a train.  Clementine enters the platform, sees Joel, the only other person the She waves, sort of goofily enthusiastic, playing as if they're old friends.  He waves back, embarrassed.  She ta a seat on a bench far down the platform.  Joel stares at hands, pulls out his journal and tries to write in order conceal his awkwardness.
+12) 0) text: Joel sits at the far end of the empty car and watches the slowly passing desolate terrain.  After a moment the door between cars opens and Clementine enters.  Joel looks up. Clementine is not looking at him; she busies herself deci where to sit.  She settles on a seat at the opposite end the car.  Joel looks out the window.  He feels her watchi him.  The train is picking up speed.  Finally:
+12) 2) dialog: I'm sorry.
+12) 4) dialog: Why what?
+12) 6) dialog: No, I didn't know if you were talking to me, so... She looks around the empty car.
+12) 8) dialog: (embarrassed) Well, I didn't want to assume.
+12) 10) dialog: Anyway.  Sorry.  Hi. Clementine makes her way down the aisle towards Joel.
+12) 12) dialog: No, I mean, I don't know.  I can't really think of much to say probably.
+12) 14) dialog: I mean, it's okay if you want to sit down here.  I didn't mean to --
+12) 16) dialog: It's okay, really.
+12) 18) dialog: Rockville Center.
+12) 20) dialog: The weirder part is I think actually I recognize you.  I thought that earlier in the diner.  That's why I was looking at you.  You work at Borders, right?
+12) 22) dialog: Really?  Because --
+12) 24) dialog: -- because I go there all the time.  I don't think I ever saw you before.
+12) 26) dialog: I don't have one.
+12) 28) dialog: I noticed your hair.  I guess it made an impression on me, that's why I was pretty sure I recognized you.
+12) 30) dialog: I like it.
+12) 32) dialog: Yeah.  Tom Waits says it in --
+12) 34) dialog: I can't remember.
+12) 36) dialog: I don't really know how --
+12) 38) dialog: You think that could possibly be a full time job?  How many hair colors could there be?
+12) 40) dialog: I'm sure you would.
+12) 42) dialog: You sure?  That doesn't sound --
+12) 44) dialog: Oh, I doubt that's the case.
+12) 46) dialog: Sorry.  I was just trying to be nice.
+12) 49) dialog: I'm Joel.
+12) 51) dialog: I don't know any jokes about your name.
+12) 53) dialog: I don't know what that means.
+12) 55) dialog: I'm nut nuts.
+12) 57) dialog: Sorry.  It's a pretty name, though.  It means "merciful", right?
+12) 59) dialog: See, I wouldn't think that about you.
+12) 61) dialog: Oh.  I don't know.  I was just... I don't know.  I was... You seemed nice, so --
+12) 63) dialog: Well, anyway... Sorry. They sit in silence for a while.
+12) 70) dialog: Okay.
+12) 75) dialog: Yes?
+12) 77) dialog: That's okay.
+12) 79) dialog: It's no problem.  Anyway, I have some stuff I need to --
+12) 81) dialog: (pulling journal from briefcase) Probably see you at the book store.
+13) 0) text: There are a few more people in the car now.  Clementine h inched a few seats closer to Joel.  She watches him.  His head is immersed in his journal.
+14) 0) text: It's dark out.  The train is pretty crowded.  Joel stares the window.  Clementine sits closer still to Joel, eyes h
+15) 0) text: The doors open and Joel emerges along with others.  He he to the parking lot, arrives at the car.  There's a big de scrape along the driver's side.  He gets in.
+16) 0) text: Joel drives.  He passes Clementine walking.  She looks co He considers, slows, rolls down his window.
+16) 1) dialog: Hi.  I could give you a ride if you need.
+16) 3) dialog: You're sure?  It's cold.
+16) 5) dialog: It's okay.
+16) 7) dialog: Where do you live?
+16) 9) dialog: Well, I probably wouldn't say if I were, but no.
+16) 11) dialog: I'm not a stalker.
+16) 13) dialog: Yeah.
+16) 16) dialog: It's okay.  I didn't think you were. There's a silence.
+16) 18) dialog: I like to read.
+16) 20) dialog: Yeah?  I can't remember that album very well.  I remember liking it.  But --
+16) 22) dialog: Sort of, um...
+16) 24) dialog: What?
+16) 27) dialog: Well, I wouldn't want to be --
+16) 29) dialog: Take care.
+16) 31) dialog: Um --
+17) 0) text: Joel stands in the living room, somewhat nervously.  He t to calm himself by focusing on the surroundings.  He look the books on her shelves.  Clementine is in the kitchen. see her as she passes by the doorway several times, prepa drinks and chatting.
+17) 4) dialog: Very much.
+17) 6) dialog: Thanks.  That was good, that crow sound.
+17) 8) dialog: I don't know.
+17) 10) dialog: Frost?
+17) 12) dialog: It's pretty.
+17) 14) dialog: Cheers. They click glasses.  Clementine giggles and takes a big g of her drink.  Joel sips.  She plops down on the couch an pulls her boots off.
+17) 16) dialog: I'm fine.
+17) 19) dialog: No, I'm okay for now. She heads toward the kitchen with her glass.
+17) 21) dialog: What do you want to hear?
+17) 23) dialog: You just say.  I'm not really --
+17) 27) dialog: Well, I should probably get going.
+17) 29) dialog: No.  I --
+17) 32) dialog: Thanks.
+17) 36) dialog: Yeah?
+17) 38) dialog: I don't know.
+17) 40) dialog: Yeah, I don't know.  It's hard to know.
+17) 42) dialog: Yeah, I guess.
+17) 45) dialog: Sorry.  My life isn't that interesting. I go to work.  I go home.  I don't know what to say.
+17) 47) dialog: I think about that. She looks at him really hard for a long moment.  Joel tri to hold her gaze, but can't.  He looks down at his drink. Clementine starts to cry again.
+17) 49) dialog: I do have a tendency to use that word too much.
+17) 51) dialog: Thanks.
+17) 53) dialog: Yeah.
+17) 55) dialog: Yeah.  I think so.  It's hard to --
+17) 57) dialog: Yeah.
+17) 59) dialog: No.
+17) 61) dialog: No, not at all.
+17) 65) dialog: Oh, yeah.
+17) 67) dialog: That's scary sounding.
+17) 69) dialog: I think so.
+17) 71) dialog: Okay.
+17) 74) dialog: (shy) Sounds good.  But right now I should go.
+17) 76) dialog: I have to get up early in the morning tomorrow, so...
+17) 79) dialog: Yes. She scribbles her phone number, hands it to him.  He puts in his pocket.  He stands there uncomfortably for a momen then forces himself to speak.
+17) 80) dialog: I don't think your personality comes out of a tube.  I think the hair is just... a pretty topping. She tears up, swallows, and kisses him on the cheek.  He' surprised and pleased and nervous.
+17) 81) dialog: (shyly formal) So, I enjoyed meeting you.
+17) 83) dialog: Yeah.
+17) 85) dialog: Tomorrow?
+17) 87) dialog: Okay. We stay with Clementine as she watches Joel tromping thro the snow and getting in his car.
+18) 0) text: Joel speeds through the suburban Rockville Center neighborhood.  There is no snow on the ground.  He seems different, somehow foggy and disoriented.
+19) 0) text: Joel gets out of his car, spots a van parked across the street.  There are two dark figures inside.
+20) 0) text: Joel enters, dumps his overcoat on a chair, turns off the lights, crosses to look furtively out the window.  It's snowing in large flakes which seem to fall only in the be of a streetlight.
+20) 1) dialog: It was snowing.
+20) 3) dialog: The driver waved.  So casual, friendly.
+20) 6) dialog: I might be making a mistake.
+20) 8) dialog: Fuck you, Clementine. The colors bleach, the surroundings become slightly vague Even Joel's persona and voice-over seem to alter, his emotional intensity becoming diffused.  Joel does not see aware of this.  He stops pacing, takes a small vial from pocket, dumps the lone pill onto his palm.  He looks at i It's pink.  There's some illegible initials stamped on it
+20) 9) dialog: Pink. (beat) There was a number on it.  I remember.
+20) 12) dialog: We're sorry, the number you have dialed... (beat) Screw you, Clementine, for doing this ...
+20) 15) dialog: Bye. Joel hangs up and lies on his back on the bed.  By now th scene is lifeless, almost a husk.  He hears the apartment building door open.  He hears footsteps.
+20) 16) dialog: It's them.
+20) 18) dialog: Fuck.
+21) 0) text: Joel sits in the bookstore coffee shop.  It's a jarring transition, visually and emotionally.  Joel is in the mid of some traumatic state of mind. He fingers the vial with the pink pill in it as he watche Clementine stack books on shelves.  Her hair is bright or now.
+21) 1) dialog: I should maybe talk to you.
+21) 3) dialog: I love you and if you knew that... if I told you what happened...  I'll explain everything, what we meant to each other. I'll tell you everything about our time together.  You'll know everything again and...
+21) 5) dialog: Clementine.
+21) 14) dialog: How could she have done this to me?  How could anyone do this to anyone?
+21) 19) dialog: What's happening here? (looks at watch; it's 9:30) Oh, God!  I have to go home.  They'll be there soon. Joel turns to leave.
+22) 0) text: Joel drives fast, recklessly.  The intensity is back.  He weeping as he drives.
+22) 1) dialog: Gotta get home.  How could she do this to me? How could she not care about what we meant to each other.  What a fuck!  What a fucking monster she is!
+22) 3) dialog: Them.
+23) 0) text: Joel trudges along carrying two big trash bags full of st He's been crying.  He looks behind him and finds himself looking out the window of his apartment at the dark van o the snowy street.  He turns back to the New York Street a spots the address he was looking for: 610 11th Avenue.
+24) 0) text: Joel sits in the small room with his bags.  A woman acros from him cradles a box full of belongings in her lap.  He eyes are red from crying.  Mary, the receptionist, pokes head through her window into the waiting room.
+25) 0) text: Joel walks with his bags behind Mary.
+26) 0) text: Joel enters.  Mierzwiak stands there with Stan in his lab coat.
+26) 3) dialog: How exactly is this going to work tonight? As Mierzwiak talks, the room colors start to fade, Mierzwiak's tone of voice is also affected; it becomes dr and monotonous.
+26) 5) dialog: Is there any sort of risk of brain damage?
+26) 7) dialog: It's happening now!  I'm already in my brain. Mierzwiak looks at the fading room.
+26) 10) dialog: But you're tracing and erasing now.  It's already started.  I'm home in my bed. Stan pulls a snow globe from one of Joel's bags, shows it Joel.  The equipment registers Joel's reaction.
+27) 0) text: Joel lies on his back in fresh pajamas.  His eyes are clo and electrodes connect his head to several machines.  The machines are operated by Stan, now in grubby street cloth and in need of a shave, and by Patrick, dressed similarly The monitor on one of the machines traces a myriad of lig blips running like streams through an image of Joel's bra Stan presses buttons and operates a joystick, aiming for lines.  Patrick (who we saw earlier with Clementine at th bookstore) studies a meter on one of the machines.
+29) 0) text: Joel, snapped into a new memory, cries as he fills two la plastic garbage bags with mementos of his relationship wi Clementine.  There are funny little gifts, wind-up toys, potatoes dressed as women, some clothing Clementine has l there, some CD's.  He pulls a big clump of pages out of h loose-leaf journal and dumps them in the bag. He gets some clean loose-leaf paper and writes: December 15, 2004   Nothing much happened today.  I staye home.  Naomi worked on her dissertation. The scene is fading as he continues to write.
+30) 0) text: Joel looks for an office number.  He finds it.  The plaqu the door reads Lacuna Ltd.  Joel enters.
+31) 0) text: Joel enters the Lacuna waiting room.  Mary sits in the reception area.
+31) 2) dialog: My name is Joel Barish.  I have an appointment.
+32) 0) text: Mary leads Joel down the hall.
+32) 2) dialog: Not great.
+33) 0) text: Joel and Mierzwiak are in the sitting area.  Joel looks a the tape recorder.
+33) 2) dialog: Well... I did.
+33) 4) dialog: (thinks, then:) It was a mess.  I don't know how it got this way...
+35) 0) text: Mierzwiak sits with Joel in the sitting area.
+36) 0) text: Joel gets off the elevator and approaches the receptionis
+36) 1) dialog: So then she just stops calling.
+36) 3) dialog: Any messages, Carmen? Carmen the receptionist shakes her head. Next day: Joel approaches the receptionist.
+36) 4) dialog: Any messages for me, Carmen.
+37) 0) text: Joel enters, checks his phone machine: zero messages.
+38) 0) text: Joel gets off the elevator, approaches Carmen, who is in conversation with someone else.
+38) 1) dialog: Sorry, Carmen.  Any messages? Carmen shakes her head "no", goes back to her conversatio
+39) 0) text: Joel checks his machine: zero messages.
+40) 0) text: Joel sits across Rob and Carrie, mid-40's.
+40) 1) dialog: Why would she do that?
+40) 4) dialog: She's punishing me for being honest.  I should just go to her house.
+40) 6) dialog: Yeah, I don't want to seem desperate.
+40) 8) dialog: I don't know.  I'm so... I can't believe she'd be so goddamn immature!
+40) 11) text: Joel stares at the card, incredulous. Later: Rob and Carrie are now back in the room.
+40) 13) dialog: They can't erase memories.  It's a joke. It's a nasty Clementine hoax.
+41) 0) text: Joel is on the phone pacing.
+42) 0) text: Joel drives past vague local landmark.
+43) 0) text: Joel in his parked car next to a fence surrounding a driv movie closed for the season.  He weeps.  The windows fog until the outside is completely obscured.
+44) 0) text: Joel looks for an address.
+45) 0) text: Joel gets off on the sixth floor.  He searches for a room number.  As he turns the corner, he sees that the hallway faded, vague and mostly erased.  He keeps walking, comes the door marked Lacuna and opens it.  Inside he can see vague, erased version of Mary the receptionist.
+47) 0) text: Joel distractedly reads a book, checks the clock, goes ba to the book.  The door opens.  He looks up.  Clementine i staggering in, drunk.
+47) 2) dialog: It's three.
+47) 5) dialog: I can't believe you wrecked my car.
+47) 6) dialog: You're driving drunk.  It's pathetic.
+47) 8) dialog: Well it is pathetic.  And fucking irresponsible.  You could've killed somebody. The scene is starting to degrade.  The acting becomes ane
+47) 9) dialog: I don't know, maybe you did kill somebody.
+47) 12) dialog: And what are you like?  A wino?
+47) 14) dialog: No, see, Clem, I assume you fucked someone tonight.  Isn't that how you get people to like you? This shuts Clementine up.  She is stung and she starts gathering up her belongings, which are strewn about the apartment.  Joel is immediately sorry he said this.  He follows her around.
+47) 15) dialog: I'm sorry.  Okay.  I didn't mean that.  I just... I was just... pissed, I guess. Clementine is out the door.  Joel follows.
+48) 0) text: Joel looks at his dented car, looks at Clementine clompin off in the distance.
+49) 0) text: Joel drives to catch up with Clementine.  He rolls down h window to talk to her.
+49) 1) dialog: Let me drive you home.
+49) 3) dialog: Look at it out here.  It's falling apart. I'm erasing you.  And I'm happy. She keeps clomping.
+49) 4) dialog: You did it to me.  I can't believe you did this to me.  By morning you'll be gone.  Ha! He stops the car, gets out.
+50) 0) text: It's a street you might see in a dream, more an impressio a quiet street than an actual one, with what little detai there is obscured in darkness.  Joel wanders it.  In the distance Clementine walks off, but as in an animated loop she doesn't get any farther away.  It's lonely.
+51) 0) text: Stan watches the screen.  Patrick paces, fidgets, looks a the unconscious Joel.
+52) 0) text: On the vague street Joel listens to Patrick and Stan.
+53) 0) text: Joel and Clementine sit and eat dinner in front of the TV It's hard to make out what they're watching. They sit on opposite ends of the couch.  They look bored. The scene quickly degenerates.  The room fades.
+53) 4) dialog: That must be the guy I saw you with.
+54) 0) text: Joel watches TV.  Clementine walks by in her underwear, l at the TV.  She slips into a skirt.
+54) 2) dialog: Where are you going?
+55) 0) text: Joel and Clementine walk around unhappily.  They barely l at the animals.  Clementine watches parents with babies.
+55) 1) dialog: Oh shit.  I remember this. (to Clementine) Want to go?
+55) 3) dialog: Let's talk about it later.
+55) 5) dialog: I don't think we're ready.
+55) 7) dialog: Clementine, do you really think you could take care of a kid? She turns violently toward him, glaring.
+55) 9) dialog: (mumbly) I don't want to talk about this here.
+55) 12) dialog: Clem, I'm sorry.  I shouldn't have --
+55) 14) dialog: Oh, thank God.  It's going.
+55) 16) dialog: It's going, Clementine.  All the crap and hurt and disappointment.  It's all being wiped away. She looks up at him.
+55) 18) dialog: Me, too.
+56) 0) text: It's noisy and crowded.  Joel and Clementine sit at a sma table.  She is drunk and staring off, blankly.
+56) 1) dialog: So, um --
+56) 7) dialog: You're drunk.
+58) 0) text: It's dark.  Joel and Clementine are in bed.  The memory i already in the midst of being erased.  Clementine is talk in a monotonous, robotic manner.
+58) 2) dialog: No, it isn't that.
+58) 4) dialog: I just don't have anything very interesting about my life.
+59) 0) text: Joel and Clementine eat dinner in silence.  Joel looks ar at other couples in the restaurant.  Some seem happy and engaged.  Others seem bored with each other.  He turns ba to his food.
+59) 1) dialog: How's the chicken?
+59) 5) dialog: No.  Thanks. There's a silence.
+59) 7) dialog: It's good. They continue to eat in silence as the scene dissolves.
+60) 0) text: Patrick is on the phone next to Joel's bed.  Stan watches lights on the computer screen.
+61) 0) text: Candles are lit.  Joel and Clementine are under a blanket the living room rug listening to music.
+61) 2) dialog: Yeah, Tangerine?
+61) 4) dialog: No.
+61) 6) dialog: (screaming) No!  Jesus, No! He looks down and Clementine's tear-streaked face is fadi She continues as if she's still being made love to, even though Joel is completely beside himself.  He jumps up na and yells at the ceiling.
+61) 7) dialog: Please!  Please!  I've changed my mind! (looks down at fading Clementine, then at ceiling) I don't want this.  Wake me up!  Stop the procedure!  Plea --
+62) 0) text: Joel is unconscious on the bed, completely still.  Mary a Stan watch the monitor and smoke a joint.  After a silenc
+67) 0) text: Joel and Clementine lie together holding hands on the fro river.  They look up at the stars.
+67) 1) dialog: ...die right now, Clem.  I'm just... happy.  I've never felt that before.  I'm just exactly where I want to be. Clementine looks over at him.  Her eyes are filled with l and tears.  Then they get vague.  The scene is being eras Joel is panicked.
+67) 2) dialog: Clem, no!  This can't keep happening. Please!  Oh, fuck!  Please! Crazily, Joel runs off, passing through a series of decay scenes: He and Clementine arguing in a car, having sex on beach, laughing and holding hands at a movie, eating gril cheese and tomato soup together in bed, Joel watching her sleep, them drinking at a bar.  He arrives at a decayed version of his first meeting with Mierzwiak.
+67) 4) dialog: You have to stop this!
+67) 6) dialog: I'm trapped in my head and everything I love is being erased!  Stop it now!
+69) 0) text: Stan and Mary have sex on the floor next to Joel's bed.
+70) 0) text: Joel and Clementine are hiking, Clementine in front.
+70) 2) dialog: (looking at her) Yes indeed. (snapping out of memory) Fuck!  They're erasing you, Clem!
+70) 4) dialog: I hired them to.  We're in my brain.  But I want it to stop, before I wake up and don't know you anymore.
+70) 6) dialog: I don't know. He concentrates.  Nothing happens.
+70) 7) dialog: Aaargh!  It's horrible!  I'm trapped! He starts to have a fit, banging against trees, stomping feet, screaming.  But even while he's doing this the memo and Clementine are fading around him.
+71) 0) text: It's raining out.  Joel is reading, slouched in a chair. looks over at Clementine, stretched out on her belly in h underwear.  She's reading, too.
+71) 2) dialog: I loved you on this day.  I love this memory.  The rain.  Us just hanging. Clementine looks over at him, smiles.  Her brow furrows i thought.
+71) 4) dialog: What do you mean?
+71) 6) dialog: Where?  Where?  Where? He drags her through the landscape of already decayed memories and turns off into:
+72) 0) text: The kitchen is dated and vague.  Joel and Clementine are an oversized playpen; they're adults but small.  Joel wea footsie pajamas with some vague little animals on them. holds a a red furry huckleberry hound doll.  Clementine i still in her panties and bra.  An oversized woman in high heels, seen from a low angle, hurries back and forth preparing dinner.
+72) 2) dialog: I must be about two. (oddly) I want my mommy.  She's busy.  She's not looking at me. (back to himself, re: doll) Look, my Huckleberry Hound doll!  I told you about this! (beat) I want my mommy! He starts to cry.  Clementine tries to comfort him.  She him.
+72) 3) dialog: (crying still) I want my mommy. (adult, to Clementine) I don't want to lose you, Clem.
+72) 5) dialog: I'm scared.  I want my mommy.  I don't want to lose you.  I don't want to lose...
+76) 0) text: Joel and Clementine are in the playpen.  Joel's oversized mother reaches down as she hurries by and pats Joel on th head.
+76) 2) dialog: I really want her to pick me up.  It's weird how strong that desire is. Clementine holds his hand.  He looks over at her.
+76) 4) dialog: I loved you so much this day.  On my bed in your panties.  I remember I thought, how impossibly lucky am I to have you on my bed in your panties. She kisses him.
+76) 6) dialog: I came over to the bed and you smelled so good, like you just woke up, slightly sweaty.  And I climbed on the bed with you and you said something like --
+76) 8) dialog: There's this guy!
+76) 10) dialog: There's this guy.  I heard him talking in my apartment.  He's one of the eraser guys.  And he fell for you when they were erasing you, so he introduced himself the next day as if he were a stranger and now you're dating him.
+76) 12) dialog: He stole a pair of your panties while you were being erased!
+79) 0) text: Joel is being bathed in the oversized sink by his oversiz mother.  Clementine sits in the water with him, laughing. The mother doesn't seem to see her.
+79) 2) dialog: (to Clementine) I love getting bathed in the sink.  It's such a feeling of security.
+80) 0) text: He sits with Clementine in the parked car, outside a driv movie theater.  The movie on the giant screen is partiall obscured by a fence.  Joel and Clementine drink wine.
+82) 0) text: Clementine and Joel laugh as they try to give voice to wh the characters on the screen are saying.
+82) 2) dialog: Don't call me Antoine.  My name is Wally.
+82) 4) dialog: They found us before.  The plan didn't work.  I don't know what to do now.
+84) 0) text: Joel, now the size of a junior high school kid and dresse accordingly, is peering around the corner of the school building toward the bike rack.  Clementine is with him, dressed as she was in the parked car.
+84) 2) dialog: This kid, Joe Early, is going to beat the shit out of me.
+84) 6) dialog: He calls me Jill.  Everyone calls me Jill after this. The other kids laughs.
+84) 7) dialog: Just shut up, Joe.  I'm going home.
+84) 9) dialog: I don't want to fight you. The kids start chanting, "fight, fight, fight..."  Joe Ea throws a wild punch that hits Joel in the side.  joel fal and stays down, covering himself.
+84) 11) dialog: I'm too scared to even throw a punch. When I tell people this story I leave that part out. The scene flashes violently to white and is gone.
+86) 0) text: It's cold.  Joel and Clementine walk, all bundled up.  Sh points at a house up the beach.
+86) 2) dialog: Clem, c'mon, we've got to hide you. Remember? He grabs her arm and yanks and they are in:
+87) 0) text: It's dark.  Joel, junior high school size, is in bed masturbating.  Clementine is in there, too, in her winter coat, still laughing from before.  She realizes what's go on.
+87) 2) dialog: (continuing to masturbate) I don't like it either, but I'm just trying to find horrible secret place to -- Joel's mother pops her head in the door.
+88) 0) text: Joel and Clementine are laughing as she blows out the can on a slice of cheesecake in front of her.  Joel hands her small wrapped box.
+88) 1) dialog: Happy Birthday.
+88) 4) dialog: I scoured the city for it.
+89) 0) text: Joel is one of a group of five year olds.  He holds a ham and is poised to hit a dead bird in a red wagon.  The oth boys are goading him.
+89) 2) dialog: I can't.  I have to go home.  I'll do it later.
+89) 6) dialog: (pointing) That's where I live.  Lived. Joel looks down at her hand.  It's fading.  The bracelet gone.  Clementine is gone.  His childhood house is gone.
+91) 0) text: Stan sits in the van and smokes a cigarette.  He has an unobstructed view into Joel's bedroom window.  He watches Mierzwiak and Mary.  They're talking as Howard works.  It appears to be a very serious discussion.  A car pulls up outside.  Stan turns to see.  A middle-aged woman gets ou checks the address on Joel's building, approaches the onl lit window, watches Mierzwiak and Mary inside.  Mierzwiak resolve has apparently weakened and he and Mary kiss agai This time it leads to groping, partial undressing, and falling onto the bed alongside the unconscious Joel.  The woman in the window is transfixed.  As Mierzwiak fumbles unzip his pants, he catches sight of the woman in the win He practically shrieks and jumps up.
+92) 0) text: Joel and Clementine walking, hand-in-hand, look up simultaneously.
+97) 0) text: It's deathly silent as Mierzwiak and Stan work on complet the job.  Mierzwiak locates a light hidden very deep in t map of Joel's brain.  He targets it.
+98) 0) text: Joel, the size of a ten year old, sits fishing with his oversized father.  Clementine is naked and in the boat, t She's reading The Play by Stephen Dixon.
+98) 3) dialog: It was horrifying, seeing my father like that. There was no hope for me if his life was such a failure.  And he saw failure in me, too, written in my future. Clementine watches the frightened, confused Joel.
+99) 0) text: Joel finds himself eating Chinese food and sitting across from Clementine.  He is ragged and jarred.
+99) 1) dialog: I'm done, Clem.  I'm just going to ride it out.  Hiding is clearly not working.
+99) 3) dialog: I want to enjoy my little time left with you.
+99) 5) dialog: Do you remember what we talked about?
+99) 7) dialog: Yeah.
+99) 9) dialog: God, I should know.  Your hair was red. I remember it matched the wallpaper.
+99) 11) dialog: No!  I think you were wearing that black dress, y'know, with the buttons. She is wearing the black dress.
+100) 0) text: The scene has already been erased.  It's just a decayed h A vague Joel watches a vague Clementine model a black dre
+101) 1) dialog: Right.  Something black though.
+101) 3) dialog: We did talk about Naomi.
+101) 5) dialog: I'm sure, I said.
+101) 7) dialog: I was so nervous.  I remember I couldn't think of anything to say.  There were long silences. There is a long silence.
+101) 8) dialog: I thought I was foolish.  I thought I'd mistaken infatuation for love.  You said:
+101) 10) dialog: And I didn't have an argument.
+102) 0) text: Joel and Clementine pull up to Clementine's house.
+102) 1) dialog: I dropped you off after.  You said --
+102) 3) dialog: It's very late.
+103) 0) text: Joel and Clementine are in the midst of awkward shy sex.
+103) 1) dialog: This was our first time. The scene starts to fade.  Joel watches Clementine disapp
+105) 0) text: Joel sits in the quiet living room.  The scene is fading.
+105) 1) dialog: Naomi.
+107) 0) text: Joel sits.
+108) 0) text: Namoi is red-eyed from crying.  She is packing things in boxes.  Joel paces, steals glances at her, doesn't know w to say.  She holds up a book.  The scene starts to fade.
+108) 2) dialog: You take it.  I don't know. She tosses it in a box.
+108) 3) dialog: Naomi, I really value our relationship. I hope it's possible for us to stay in touch.
+109) 0) text: Joel watches out the window as Naomi stuffs a final box i the trunk of a car.  There's another woman down there wit her.  They get into the car and drive off.
+110) 0) text: Joel talks to Clementine.  The scene is fogging over.
+110) 1) dialog: I told her today I need to end it.
+110) 3) dialog: I did it.  I guess that means something. Clementine shrugs.  The scene fades.
+111) 0) text: Joel walks with Naomi.
+111) 2) dialog: I don't know, I've just been thinking, maybe we're not happy with each other.
+111) 4) dialog: Y'know, we've been, I don't know, sort of, unhappy with each other and --
+111) 6) dialog: I think maybe, we're both so used to operating at this level that -- How can one person be unhappy?  If one person is unhappy, both have to be... by definition.
+111) 8) dialog: No.  I just need some space, maybe.
+111) 10) dialog: It's not somebody else.
+112) 0) text: Joel enters, looks around.  There's no sign of Clementine Joel approaches a male employee.
+112) 1) dialog: Is there a Clementine who works here?
+112) 4) dialog: Hi. She turns.
+112) 6) dialog: Sorry to track you down like this.  I'm not a stalker.  But I needed to see you.
+112) 8) dialog: I'd like to... take you out or something.
+112) 10) dialog: Not yet.  Not married.
+112) 12) dialog: Okay.
+112) 14) dialog: I just think that you have some kind of... quality that seems really important to me. The scene is disintegrating.  Clementine's speech is delivered without passion.
+112) 16) dialog: I remember that speech really well.
+112) 18) dialog: You had the whole human race pegged.
+112) 20) dialog: I still thought you were going to save me.  Even after that.
+112) 22) dialog: It would be different, if we could just give it another go around.
+113) 0) text: Joel sits forlornly in the back seat.  Rob drives and Car sits in the front passenger seat.  The car stops in front Joel's apartment building.
+113) 1) dialog: Thanks, guys.
+113) 3) dialog: Yeah.
+114) 0) text: Joel climbs the stairs.
+115) 0) text: The lights are off.  Joel sits on a chair near the window writing in his journal.  The streetlight illuminates the paper.  Naomi sleeps in the bed.
+115) 3) dialog: Hi.
+115) 5) dialog: You didn't miss much.  Rob Carrie say hello.
+115) 7) dialog: Go back to sleep. The room is starting to decompose.
+115) 9) dialog: In a minute. Naomi turns over.  Joel goes back to his writing.
+116) 0) text: Joel is at his closet, putting on a sweater.  Naomi is at dining room table, papers spread out before her, writing. Joel turns and watches her for a moment.
+116) 1) dialog: So you don't mind?
+116) 3) dialog: Okay.  I wish you could come.
+116) 7) dialog: I hope you get your work done.
+117) 0) text: Rob drives.  Carrie fiddles with the radio dial in the fr passenger seat.  Joel sits in the back.
+117) 2) dialog: Just a little overworked, maybe.
+117) 4) dialog: I remember you turned around.  Your face was dark and your hair was backlit -- I could see a halo of frizz -- you asked me if things were okay between Naomi and me.
+117) 6) dialog: I remember.
+117) 8) dialog: Yeah, you told me that later.
+118) 0) text: Faded.  Carrie and Joel sit at the table with coffee.
+118) 2) dialog: No one.
+119) 0) text: Rob, Carrie, and Joel emerge from the car, parked amidst small cluster of cars in an otherwise empty parking lot.
+120) 0) text: Joel watches his shoes in the sand as he trudges along.
+121) 0) text: Joel, Rob, and Carrie step out of the brush and see a bon down the beach.  People and music can be heard.
+122) 0) text: Joel sits on a log, a paper plate of chicken and corn on lap.  People warm themselves at the fire.  Joel watches couples talking, kissing, Rob sharing a joint with a guy.
+122) 1) dialog: You were down by the surf.  I could just make you out in the dark. Joel looks down to the water.  There's Clementine, in her orange hooded sweatshirt, looking out to sea.
+122) 2) dialog: Your back to me.  In that orange sweatshirt I would come to know so well and even hate eventually.  At the time I thought, how cool, an orange sweatshirt.
+122) 4) dialog: But I went back to my food.  The next thing I remember, I felt someone sitting next to me and I saw the orange sleeve out of the corner of my eye. A shot of the orange sleeve.  Joel looks up.
+122) 6) dialog: Hi.
+122) 8) dialog: You said...
+122) 10) dialog: Yeah.  I don't ever know what to say.
+122) 12) dialog: Even then I didn't believe you entirely. I thought how could you be talking to me if you couldn't talk to people?
+122) 17) dialog: You know what I did.
+122) 19) dialog: You said -- She picks a drumstick off of Joel's plate.
+122) 21) dialog: And you picked it out of my plate before I could answer and it felt so intimate like we were already lovers.
+122) 22) dialog: I remember --
+122) 25) dialog: I'm Joel.
+122) 28) dialog: You mean, like... (singing) Oh, my darlin', oh, my darlin', oh, my darlin', Clementine... ?  Huckleberry Hound?  That sort of thing?
+122) 30) dialog: Nope.  No jokes.  My favorite thing when I was a kid was my Huckleberry Hound doll.  I think your name is magic. She smiles.
+122) 32) dialog: I know.
+122) 34) dialog: Enjoy it.  Say good-bye. She nods. Joel and Clementine are walking near the surf.
+122) 35) dialog: So you're still on the Zoloft?
+122) 38) dialog: I know what you mean.  That's why I stopped.
+122) 40) dialog: I don't think I've slept in a year.
+122) 42) dialog: yeah?
+122) 44) dialog: Okay.
+122) 46) dialog: I love her.
+122) 48) dialog: I think she's great.
+122) 50) dialog: Did this conversation come before or after we saw the house?
+122) 52) dialog: Seems too coincidental that way.
+122) 55) dialog: Yeah, yeah.  It goes "Perhaps there is someone in this world to whom I could send all these lines"?
+122) 58) dialog: Um, no.
+122) 60) dialog: I do sort of live with somebody though.
+122) 63) dialog: Female.
+122) 66) dialog: What are you doing?
+122) 68) dialog: (whisper) Clementine.
+122) 71) dialog: I hesitated for what seemed like forever.
+123) 0) text: Joel enters the darkened and Clementine closes the door behind him.
+123) 1) dialog: I knew.
+123) 3) dialog: It's dark.
+123) 5) dialog: Naomi. She's searching through drawers for something.  She pulls a flashlight, shines it in Joel's face.
+123) 7) dialog: I think we should go.
+123) 9) dialog: (calling after her) I really should go.  I really need to catch my ride.
+123) 12) dialog: I did.  I walked out the door.  I felt like I was a scared little kid.  I thought you knew that about me.  I ran back to the bonfire, trying to outrun my humiliation.  You said, "so go" with such disdain.
+123) 14) dialog: I walked out the door.  There's no more memory.
+123) 17) dialog: I love you. She smiles.  They kiss.  It fades.
+124) 0) text: Joel finds himself hurrying back to the bonfire.  This sc too, is disintegrating.  It dries up and Joel is just standing there on a faded beach at night, the bonfire fro in the distance like a photograph.
+125) 0) text: Joel sits in the back seat, Rob and Carrie are in the fro
+130) 0) text: Joel awakens.  The apartment is neat, like when he went t sleep.  He gets out of bed and heads into the bathroom.
+131) 0) text: Joel waits on the crowded platform.  The platform across tracks is empty.  Joel's train arrives.  It's packed.  He squeezes on with all the other commuters.
+132) 0) text: Joel works in his cubicle over the light table.  He seems distracted.  He dials his phone.  He's nervous.
+132) 1) dialog: Hi... Naomi?  Yeah, hi!  How are you?  I know, I know.  It's been a long time. Not too much.  You?  Oh, that's great! Congratulations!  Maybe I could buy you dinner to celebrate?  Tonight?  I'm free. Okay, good!
+135) 0) text: Joel sits across from Naomi.
+135) 2) dialog: It's been a pretty lonely couple of years.
+135) 4) dialog: Well, it was my fault -- the break-up. I'm sorry.
+135) 6) dialog: I miss you.
+135) 8) dialog: (trying for enthusiasm) Oh!  Great.  That's great!
+135) 10) dialog: I'm sorry.  I really shouldn't have --
+136) 0) text: Joel and Naomi are in bed having sex.  There are certain sexual routines, habits, they have fallen back into almos immediately.  She sticks her tongue in his ear in a way that's trying to be sexual but just feels embarrassing to him.  They finish and lie there.
+136) 1) dialog: So you think the dissertation will get published?
+138) 0) text: The platform is crowded with business commuters.  Joel is among them. The platform across the tracks from them is empty.  Sudde Joel turns and makes his way through the crowd.  He climb the stairs, crosses the overpass and makes his way to the empty platform.  An almost empty train pulls into that platform.  Joel gets on the train and watches the busines commuters through the dirty window as his train pulls out the station.
+139) 0) text: Mary gets out of bed.  She has been crying all night.  Sh a wreck.  She puts on some coffee then crosses into the living room area.  Sitting there are piles of the files f work.  She pulls the top one out, copies the name and add onto an envelope stuffs the file and tape cassette in.  S pulls another file out.  This one has Joel's name on it. copies it onto an envelope.
+140) 0) text: Joel says goodbye to Clementine.
+140) 2) dialog: Yeah.
+140) 4) dialog: Tomorrow?
+140) 6) dialog: Yeah. Joel exits.  We stay on Clementine as she watches Joel he to his car, tromping through the snow.
+141) 0) text: Joel enters, drops his overcoat on a chair, dials the pho
+141) 1) dialog: Hi, Naomi, it's Joel.
+141) 3) dialog: How's it going?
+141) 5) dialog: I know.  I had to take the day to think.
+141) 7) dialog: I just got in.
+141) 9) dialog: Yeah, I suppose so.
+141) 12) dialog: There you are. (pause) Naomi, it's just... I'm afraid if we fall back into this fast without considering the problems we had...
+141) 14) dialog: I had a good time last night.  I really did.
+141) 16) dialog: We'll speak soon.
+141) 19) dialog: I just walked in.
+141) 21) dialog: Oddly enough, I do.
+141) 23) dialog: I guess so.
+142) 0) text: Clementine steps out onto it.  Joel follows nervously.
+142) 2) dialog: I don't know. She takes his hand and he is suddenly imbued with confide
+142) 3) dialog: This is so beautiful. She squeezes his hand.
+142) 5) dialog: I don't know.  What if it breaks?
+142) 7) dialog: I think I should go back.
+142) 9) dialog: Listen, did you want to make love?
+142) 11) dialog: Have sex.  Y'know --
+142) 13) dialog: Because I just am not drunk enough or stoned enough to make that happen right now.
+142) 15) dialog: I'm sorry.  I just wanted to say that. This seems like the perfect romantic exotic place to do it and --
+142) 17) dialog: -- and I'm just too nervous around you right now.
+142) 19) dialog: Yeah?  I wouldn't have thought that.
+142) 21) dialog: I'm nervous because I have and enormous crush on you. She smiles up at the sky.
+143) 0) text: Joel drops Clementine off.  She kisses him.
+144) 0) text: Joel enters with his mail.  He opens a manila envelope, r the enclosed file, sticks the cassette tape in his stereo listens.  Joel dials the phone.
+144) 2) dialog: Did you send this?  Is it a joke?
+144) 4) dialog: I mean, I haven't even told anyone I've met you.  Who would even know to do this?
+144) 6) dialog: That's what you have to say?  How could it be true?  I never even heard of any procedure like this.  It's a joke.
+146) 0) text: Joel hangs up.  He dials the phone.
+146) 1) dialog: It's true.
+146) 3) dialog: Look, I have to go.  I have to think.
+147) 0) text: Joel and Clementine review their separate Lacuna packages together.
+147) 2) dialog: Says you were a bully...
+147) 4) dialog: That's what it says.  You drank too much, you picked on me for being passive and timid.
+147) 6) dialog: Says you would sometimes disappear all night, then brag to me about your sexual conquests.
+147) 8) dialog: I don't know.
+147) 10) dialog: Says you were a slob, leaving trails of panties and dirty socks in your wake.
+147) 12) dialog: (considering) I sort of do.  But I only see it as a fantasy version of reality.  Cleaned up enough to be erotic.
+147) 16) dialog: You're so beautiful. She approaches him, kisses him, his arms wrap around her waist for the first time.
+150) 0) text: Joel works over his light box.  His phone rings.
+150) 1) dialog: Hi, it's Joel.
+150) 3) dialog: I'm just, y'know, passing the time best I can till I can see you.
+150) 5) dialog: You must have been crazy.
+150) 7) dialog: I don't know.  Panties and --
+150) 9) dialog: Jesus.
+150) 11) dialog: I can't stop thinking about you.
+150) 13) dialog: What old mill?  Is that somewhere we --

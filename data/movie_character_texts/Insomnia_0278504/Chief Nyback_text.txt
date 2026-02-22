@@ -1,0 +1,48 @@
+4) 1) dialog: Will Dormer!
+5) 1) dialog: I'll be damned!
+5) 6) dialog: Christ.  I haven't seen you boys since...
+5) 8) dialog: What's that, then?
+5) 11) dialog: Seven years?  Where does it all go?  That was some amazing time, though, wasn't it?
+5) 12) text: Looks at Will.  Down at his boots. CHIEF NYBACK (cont'd) You haven't changed a bit, Will.
+5) 16) dialog: I knew that was coming.  I deserve it.
+5) 17) text: He starts back over to his desk.  Notices Ellie still standing by the door.  Points to Will. CHIEF NYBACK (cont'd) Pay attention to this man, Ellie.  He'll teach you how to be a great cop.
+5) 20) dialog: That's all, for now.
+5) 25) dialog: (sits with a SIGH) Got a love affair with police work. Drives me crazy with it.
+5) 30) dialog: I told you seven years ago this was a  stepping stone to retirement.
+5) 31) text: Nyback nods to Hap's Seattle Times.  The headline:  "Deep Investigation into Special Branch"... CHIEF NYBACK (cont'd) Looks like it's a good time for you to get up here, too.  With all the bad business going on down at Special Branch.
+5) 32) text: Will and Hap share a look.  No more joking.  Hap folds ov the paper. CHIEF NYBACK (cont'd) Just five bad apples so far?
+5) 34) dialog: What's the D.A. got them on?
+5) 37) dialog: How about you?  How you faring?
+5) 42) dialog: Got a bunch of messages here from some guy named Warfield.
+5) 45) dialog: Wants me to keep him posted on all your movements up here.
+5) 46) text: Nyback turns and ceremoniously drops the messages into th trash. CHIEF NYBACK (cont'd) I'm just glad Buck could spare you a couple of weeks.  Take you out of the frenzy.  I gotta tell you, though, I sure don't miss big city police work.  Not that I was ever a great detective.  But up here there's no Bureaucracy.  No Public Relations.  No blurred lines. Just good guys and bad guys.  Simple.
+5) 47) text: A cloud passes over his face. CHIEF NYBACK (cont'd) Except for this.
+6) 1) dialog: Couldn't get a thing from the body.  Not a trace.  Town's never dealt with anything like this before.
+6) 2) text: They turn a corner and stop at a door.  Will glances up: MOOSE ANTLERS hanging over it. CHIEF NYBACK (cont'd) I've briefed everybody about your coming. They know to follow your lead.
+7) 1) dialog: This is Detective Dormer and his partner Detective Eckhart.  On loan from Buck Lundgard, Seattle Robbery and Homicide Special Branch.  They'll be helping with the Connell case.
+7) 4) dialog: (ignoring him) Anything they need to see, you show them; anywhere they want to go, you take them. (nods to Fred) This is Detective Fred Duggar.  He's been leading the investigation up to now.
+30) 0) text: Chief Nyback sits in his chair.  Fingers interlaced.  A  somber expression on his face.
+30) 1) dialog: And then you lost him.
+30) 4) dialog: About how long 'til you heard the suspect's second shot?
+30) 9) dialog: I think you need a glass of this.
+30) 13) dialog: There's a bunch of those tunnels out there, Will.  From bunkers over sixty years old.  I don't even know half of them myself, and I grew up here.
+30) 17) dialog: Will, you can't blame yourself.
+30) 19) dialog: It's only gonna make you crazy.
+30) 23) dialog: Right, Ellie.
+30) 24) text: Ellie flicks a look at the pile on the floor.  At Will's back. CHIEF NYBACK (cont'd) I want you to take care of the investigation into Detective Eckhart's shooting.
+30) 28) dialog: We need paperwork, Ellie.  You know that. Just write up a quick report.
+30) 32) dialog: You're no good right now, Will.  Go back to the Lodge.  Try to get some rest.
+38) 2) dialog: ...We're going to bring down a couple of guys from Ridgemount, but I want us to step up the investigation here...
+39) 0) text: Rain hammering against the windows.  Chief Nyback address the bullpen.  Everyone's there except Farrell.
+39) 1) dialog: ...Nightmute hasn't lost an officer in thirty-seven years, and even though Detective Eckhart wasn't from here, he was as good as one of us on this case.  I had the honor of working with him down in Seattle for a number of years.  He was a fine detective and an even better man.
+39) 2) text: Will stands nearby, watching the rain hit the windows.  H suit pants are slightly wrinkled.  Nyback nods towards Fr CHIEF NYBACK (cont'd) Fred, you'll be working with Detective Dormer directly from now on.
+39) 3) text: Fred, stroking his moustache, nods.  Nyback turns to Will CHIEF NYBACK (cont'd) Will?  Anything you'd like to add?
+39) 5) dialog: Okay.  Then let's get to it.
+56) 22) text: CHIEF NYBACK, exits his office.  Looks at Will and smiles MAN'S VOICE (cont'd) ...I mean... (beat) ...Now that we're partners.
+124) 1) dialog: I was hoping not to send you back with so much paperwork, Will.
+124) 2) text: PULL BACK to reveal Chief Nyback sitting at his desk.  Wi stands before him.  Signing papers.  A bottle of bourbon the desk.  Some paper cups half filled. CHIEF NYBACK (cont'd) When are you taking off?
+124) 8) dialog: Can't talk you into staying for a couple of days?  Do some fishing?  Show you what normally goes on around here.
+124) 11) dialog: Too bad...
+124) 12) text: Looks over at Fred picking his teeth. CHIEF NYBACK (cont'd) ...Brought some real class to the place. But, Seattle needs its hero back. (stands) Couldn't have done it without you, Will.
+124) 17) dialog: Detective Dormer's not leaving for a few hours.
+124) 19) dialog: Maybe you could drive him to Spencer's.

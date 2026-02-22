@@ -1,0 +1,87 @@
+3) 11) dialog: Hi, Betty. You're looking good...
+3) 13) dialog: Oh, appreciate it. I was trying to, ahh, give a sense of history to...
+3) 15) dialog: You know, Elden, some people actually read more than just the Classifieds...
+3) 21) dialog: I thought you said the eggs weren't...
+3) 23) dialog: You should get the order you want.
+3) 27) dialog: They're just eggs, Elden, how embarrassing can eggs be?
+3) 29) dialog: Who eats eggs for lunch, anyhow?
+36) 0) text: Roy enters the foyer and looks around, carrying a pad and in hand. He hears VOICES from the kitchen, sees FLASHBULB going off. He sneaks down the hall when A VOICE stops him
+36) 2) dialog: Elden called me. He wants to, ahh, make a statement for the paper... The deputy nods him through and Roy moves off toward the sewing room where he has spotted Betty.
+37) 0) text: Betty is packing an overnight bag on her bed when Roy ent and quietly closes the door behind him. She is working wi a purpose, almost like a different person from the woman first met. Still bright and cheerful, but with a willful glint in her eye. Determined.
+37) 3) dialog: Oh, nothing, it's fine. I just need to keep it wrapped for a few... 32.
+37) 5) dialog: Uh-huh.
+37) 7) dialog: Well, I was worried about you and I wanted to make sure you were alright... and I guess I was sort of hoping I could ask you about what happened...
+37) 9) dialog: My God... did you get a look at who did it?
+37) 11) dialog: You did? Was it anyone that you...?
+37) 13) text: Hey, you guys wanna try not stepping directly in the evidence, please? (to Roy) Ostrey, you and your goddamn police scanner! I leave for ten minutes and... Betty, I'm sorry about this. He motions to a female officer. 33. BALLARD (cont'd) Why don't you take her down to the station? We'll be along in a bit... She leads Betty out the kitchen door.
+38) 0) text: As Ballard leads Roy into the next room...
+38) 2) dialog: Oww! My arm, careful!
+38) 4) dialog: No, it's nothing, I... my piranha just mauled me a little when I layed their food out.
+38) 6) dialog: I can't...they prefer a more formal presentation. I don't usually go so close to the surface, but I was...
+38) 9) dialog: No, Elden, I need to...
+38) 11) dialog: She knows who killed Del. Elden, she said it was a woman.
+38) 13) dialog: Yes it was. Betty saw the whole thing! Your killer's name is Chloe...
+39) 0) text: Ballard drags Roy into the living room, where he sees Del He has been turned upright and is being carefully examine
+39) 1) dialog: Jesus...
+40) 0) text: Ballard and his cronies delight in watching Roy struggle the dry heaves. Roy runs to the kitchen sink, almost lose it, then wipes his mouth with a paper towel.
+40) 2) text: Del must've sold a lemon to the wrong Indian, and got paid back the old fashioned way. Them Kickapoos get pretty mean when they drink... Roy sees Del's scalp in the garbage can as he goes to dro his crumpled towel inside.
+40) 3) dialog: So, you think you're gonna find his scalp hanging in some tepee?
+40) 5) dialog: Did you send anyone out there?
+40) 7) dialog: Bad idea
+40) 9) dialog: You better handle what's in this garbage can first.
+41) 21) dialog: Yeah?
+41) 23) dialog: and half the other guys in this town. Including you, I believe...
+41) 25) dialog: Anyway, so what?
+41) 27) dialog: You said a woman couldn't have done it.
+41) 35) dialog: Oh, you're sharp as a tack, Elden.
+41) 37) dialog: Oww, the arm, the arm!
+41) 39) dialog: One question, Doctor, please! (outside the door) You can't do this! I'm the 42 43 press, I have rights!!
+56) 0) text: Ballard is doing paperwork. Roy is asleep on a nearby ben A DEPUTY picks up a ringing phone and hands it to Ballard
+59) 0) text: Betty's blue Corsica sits surrounded by yellow police tap Half a dozen COPS mill around. To one side are several REPORTERS and PHOTOGRAPHERS, Roy included. A FEW RESIDENT mill around in the background. A stack of pictures of Betty sit on a makeshift table.
+59) 5) dialog: What if the killers didn't see her? You published her picture - you're gonna get her killed!
+59) 7) dialog: You're lying! 61
+59) 9) dialog: That's bullshit, Sheriff! You think she's a suspect!
+75) 0) text: Roy approaches his fish tank cautiously. He leans down an looks at the piranha as a TV commercial ends and "A Reaso Love" comes on. He then returns to his computer, struggling to find the r words and to type them with only one hand. He types a little, stares at the screen, then deletes an entire sent one character at a time, hammering on the ‘Delete’ key. H glances up at the television as the words 'Chloe' and ‘Lonnie’ are repeated.
+76) 0) text: Roy and Sue Ann go straight to Ballard's office, where th find him at his desk eating lunch out of tupperware containers. He wears a napkin tucked into his shirt-top.
+76) 2) dialog: We think we know where Betty is.
+76) 6) dialog: I see you're sticking to the diet Betty put you on...
+76) 8) dialog: (excited; to Sue Ann) Tell him what you told me. 63.
+76) 11) dialog: Listen! I saw 'Chloe' and 'Lonnie' on T.V. They're television characters.
+76) 14) dialog: Yeah? Well, she called Sue Ann yesterday from Arizona.
+76) 16) dialog: Yes!!
+76) 19) dialog: You gotta do that much.
+101) 0) text: Roy and Joyce approach the door to the trailer/office. Sh takes out her key, then stops. It's been padlocked and ba with yellow police tape, as is the whole lot. Roy pulls h on the lock, then starts looking around.
+101) 2) dialog: Look Joyce, I need your key to the files, not advice, okay? This is a complex case. 88. Roy works on opening a side window.
+101) 4) dialog: You'd like that wouldn't you? You've hated Betty since you were in Pep Squad together...
+101) 6) dialog: Ahh, I hate this town! Places like this just make you small... (BEAT)
+101) 9) dialog: Names, a phone number, something... (BEAT)
+101) 12) dialog: The driver was killed. I think there's a connection--
+101) 14) dialog: Yeah. Why, you know him?
+102) 1) dialog: Come on, Elden, think about it. The driver, all them trunks standing open like that... something's going on here!
+102) 3) dialog: Well, do something, then, damnit!
+102) 5) dialog: Oww... Did you have to make these things so tight? 90.
+113) 0) text: From his cell Roy Ostrey hears a door open, then the soun approaching footsteps. It's Ballard.
+113) 3) dialog: Come on, I have to get this dressing off...it itches! And what about my fish? Who is taking care of them? Ballard doesn't say anything. He's very grim, subdued. Ro has never seen him like this.
+113) 5) dialog: What about it?
+113) 7) dialog: Little place called "Williams," why?
+113) 10) dialog: I know plenty.
+131) 12) dialog: Betty! Boy, am I glad to see you!
+131) 13) text: Roy! What are you doing here?
+131) 14) dialog: You're in serious danger!
+131) 16) dialog: I woulda' been here sooner, but Ballard put me in jail. He still thinks you had Del scalped.
+131) 20) dialog: Have you checked the trunk of that car you're driving, Betty? I think there might be...
+133) 0) text: Wesley stands over Ballard, about to tape his mouth. Rosa Roy are sitting in chairs opposite them, their mouths and wrists already taped.
+133) 5) dialog: That's a lie! I figured it out! I've been trying to tell this dumbass--
+133) 9) dialog: I'm the one who watched the show...I was...
+133) 11) dialog: Totally. She came apart like a house of cards. They dropped the charges...
+133) 13) dialog: She's a lesbian. Wesley immediately pulls his gun and points it at Roy's h
+133) 15) dialog: I swear to God! Rosa STAMPS her feet, drawing Wesley's attention. She tri to talk through the duct tape; gestures for him to come t her.
+135) 0) text: Wesley is engrossed in watching "A Reason to Love." Behin him, Ballard quietly walks his feet up the wall until he' completely upside down. He rubs one foot against the othe until one pantleg is above his cowboy boot. Rosa and Roy watch. He finally lifts the boot off. It falls soundlessly onto chest. A small pistol is revealed, holstered above his an He works the holster open using the edge of the fishtank. 136. Roy and Rosa COUGH LOUDLY at the same time to cover the noise. Wesley glares at them. Ballard gets the pistol free. But it falls into the fisht The air goes out of Roy's sails. Ballard has fucked up ag On screen, Chloe and Jasmine kiss and embrace. Wesley rea as if he was slapped.
+135) 4) dialog: Those're Japanese koi!
+135) 6) dialog: You gotta get 'em in water right away!
+135) 8) dialog: YOU shut up! (to Rosa) They're beautiful, but get them some water. He gently hands her the fish, then picks up Wesley's near gun. Rosa nods; she's amazed that he knew what it was. Sh looks at Roy in a slightly different way before crawling toward the kitchen.
+137) 0) text: Rosa crawls to a flower vase and dumps a second koi into water inside. Roy and Ballard crouch behind the open archway, using the hanging beads as protection.
+137) 2) dialog: I'm not going out there! Let's wait for the real police...
+137) 6) dialog: 
+137) 9) dialog: I've got the working gun, Elden, me! You wasted all your bullets so you crawl out there. Ballard stares at him in disbelief, then back at the clos bedroom door. Ballard starts off on his belly.
+144) 0) text: Roy, Rosa, Danny and Sra. Herrera watch Betty lean across table, take David's face in her hands and move into a romantic kiss. On the sofa, Rosa takes Roy's hand in hers.

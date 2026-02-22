@@ -1,0 +1,184 @@
+2) 0) text: A handsome Ranger, SERGEANT MATT EVERSMANN, surveys the village below.
+5) 0) text: MATT EVERSMANN jolts from the sight of the bloodbath. Whi inside to the other RANGERS in the Black Hawk's belly.
+5) 1) dialog: Oh shit, did you see that? (into headset) Chief, we got unarmed civilians getting shot down here at nine o'clock! (CONTINUED)
+20) 0) text: A line of Rangers fire M-16s at targets. A military "Hummer" drives up to the range. Behind the firing line, Eversmann blows a WHISTLE. (CONTINUED)
+20) 3) dialog: Cease fire, cease fire! (the shooting stops) Check your weapons. Grimes and Blackburn approach from the Hummer.
+20) 6) dialog: (blankly) Yeah?
+20) 8) dialog: Not to me you're not. You're reporting to Lieutenant Beales. He should be around here somewhere.
+20) 10) dialog: Yeah, go ahead. (to Blackburn) You brought your weapon?
+20) 12) dialog: When'd you get in?
+24) 44) dialog: It's not that I like them or I don't like them. I respect them. Kurth leans back in his chair and deals the cards. They wait interest. Kurth star
+24) 47) dialog: Look these people, they have no jobs, no food, no education, no future. I just figure that, you know, I mean, we either, we have two things we can do, we can either help, or we can sit back and watch the country destroy itself on CNN. Right?
+24) 49) dialog: Well, I think I was trained to make a difference, Kurth. ts laughing.
+27) 0) text: Eversmann waits outside the tent as Steele approaches.
+27) 2) dialog: No, sir.
+27) 7) dialog: Rangers are the way, Sir.
+29) 0) text: Garrison briefs Delta, Black Hawk pilots, and four Ranger chalk leaders, including Eversmann. McKnight, Steele, Cri Matthews and Harrell are in front, the rest behind. (CONTINUED)
+30) 0) text: The group files out. McKnight, the most obviously concern of them, lights a cigarette and slaps closed his Zippo lighter. Eversmann watches from inside the tent as Colone Matthews and Harrell walk up to McKnight.
+32) 0) text: Smith plays basketball as Eversmann works at a desk.
+32) 1) dialog: What the fuck, Smith? (CONTINUED)
+32) 5) dialog: Well, what?
+32) 7) dialog: Why should I tell you that?
+32) 9) dialog: Three o'clock. Downtown. Bakara market.
+32) 11) dialog: Listen, Smith. I need you to back me up out there today, all right? Keep sharp.
+32) 13) dialog: All right.
+34) 0) text: Delta and Rangers, in their respective areas, prepare in their own ways, gathering equipment they think they'll ne leaving behind what they don't. Eversmann calls out to Grimes.
+34) 1) dialog: Grimsey! I want you to stick with Waddell and give him ammo when he needs it. Hooah?
+34) 6) dialog: Look you guys, I know this is my first time as ah, Chalk leader... But ah, this is serious. We're Rangers, not some sorry_ass J.R.0O.T.C. We're elite. Let's act like it out there. Hooah? The guys all "hooah".
+34) 7) dialog: Any questions? We're gonna be okay. All right, grab your gear. Let's move out. A few guys "hooah" again, disperse. Eversmann exhales hea INTERCUT, Delta, methodical and precise, no talk: Hoot ta the pins of grenades. Grimes starts to fill a canteen. (CONTINUED)
+34) 16) dialog: Hey, Grimes? The most impor tant thing? Just remember when everybody else is shooting, shoot in the same direction. All right. INTERCUT: Eversmann considers Blackburn, who appears more fidgety than before. As Joyce's putting on his armor, he watches Wex across th hangar tearing off pieces of masking tape and writing something on them with a Sharpie. Sticks them to his boot
+35) 1) dialog: You okay?
+35) 3) dialog: You ever shot at anybody before?
+35) 7) dialog: Me neither. Eversmann pats Blackburn on the shoulder.
+44) 0) text: Eversmann leans against a wall next to Hoot. Silence betw them, Eversmann looks off.
+44) 1) dialog: You know, it's kinda funny. Beautiful beach, beautiful sun... it'd almost be a good place to visit. (CONTINUED)
+44) 5) dialog: (off Hoot's tone) You don't think we should be here.
+44) 7) dialog: I just wanna do it right today.
+63) 0) text: Rangers deploy across the tarmac to their respective chop Garrison has come out to wish the men well, moving past t open doors of Eversmann's Black Hawk, shouting over the n
+63) 5) dialog: Nothing. He's just never done that before.
+69) 1) dialog: Grimsey! Eversmann taps his helmet and throws a pen to Grimes. Gri writes his name on his helmet.
+69) 3) dialog: Two minutes.
+72) 2) dialog: One minute! Waddell dog-ears a page of his book. Eversmann's chalk prepares to go in. Blackburn sees Nelson putting in a football mouth guard.
+75) 0) text: Through the cockpit, Eversmann sees nothing below but a massive swirling cloud of dust. Speaks into his headset m
+75) 1) dialog: Ropes! FAST ROPES are kicked out the chopper door, snaking down into the dust cloud as Eversmann's men prepare to go in.
+75) 3) dialog: 
+78) 2) dialog: Let's go, let's go! The remaining men start roping down. Grimes swallows hard He's next. Crew Chief DOWDY shouts to him: (CONTINUED)
+79) 6) dialog: Go Blackburn, go! Go Blackburn! Just as he says this, Eversmann sees an RPG streaking up them.
+79) 7) dialog: (to Pilot)
+79) 11) dialog: No!
+80) 0) text: Eversmann fast-ropes through the cloud for what seems to forever. Finally, his feet touch down. He scrambles to Blackburn -- having fallen 40 feet to the dirt street.
+80) 5) dialog: Doc! Doc Schmid! Schmid, the medic who benched Sizemore, suddenly appears with his kit from behind Eversmann, startling him.
+80) 7) dialog: He's not. He fell.
+80) 9) dialog: He fell! 85 86 41.
+82) 0) text: Eversmann, in the middle of it with Blackburn, yells acro to his radio man, Galentine. Waves him over.
+82) 1) dialog: Galentine! Get me Captain Steele! Get me Captain Steele!
+82) 6) dialog: Juliet Six Four, this is Chalk Four. We got a man down! We gotta get him out of here. Over! EXT. INTERCUT - STEELE'S CHALK ONE - CONT. Steele's men are fanned cut, taking random gunfire. Steel sees the Delta, running down the block toward him and int different building. Eversmann's voice squawks on the walk
+82) 8) dialog: He's hurt. He fell. Over.
+82) 10) dialog: Man down!
+84) 2) dialog: Go!
+90) 0) text: Schmid, Smith and Waddell come charging up, take cover, o of breath from the long, dangerous run. The rest of the chalk are spread out, returning fire. Eversmann hears an approaching Little Bird and glances up As it thunders over him, hot casings splash down like rai burning him.
+90) 1) dialog: Oh, fuck! Eversmann pulls a casing out of his flack jacket.
+110) 0) text: Eversmann trying to find out what they're supposed to do now.
+110) 1) dialog: This is Two Five, over. EXT. CHALK ONE, HALWADIG ROAD - CONT.
+110) 3) dialog: Six Four. I can't see the crash site. Over. EXT. CHALK ONE, HALWADIG ROAD - CONT. Steele is trying to communicate with Eversmann on the rad
+111) 0) text: Eversmann can't take it any longer. Signals to his men.
+111) 1) dialog: Goucher, Strick. Get Twombly! Hey, there's a Black Hawk down. Twombly Nelson, you're gonna stay here, you're gonna hold this corner, then exit with the Humvees. Galentine, Schmid, you're coming with me. All right? Let's go! Move out!
+111) 3) dialog: Because you're dependable. All right, let's go. Go! (CONTINUED)
+113) 0) text: Militia and irregulars emerge from alleys and buildings a the Bakara Market. As they begin moving east toward the c we RISE UP above the buildings, see some of them parallel the route Eversmann's small group is taking, just one blo over --
+113) 1) dialog: Let's go! As they become exposed around a corner, they take on heav fire. An RPG explodes at their feet. They return fire, th grenades. Little Birds provide cover from the sky, wipe out a Somal machine gunner, clearing the way for Eversmann's chalk.
+113) 2) dialog: Go! They run and fire.
+119) 2) dialog: Scotty! Scotty, are you okay? (CONTINUED)
+119) 5) dialog: No! Don't go! Galentine can't hear or can't understand and hurries out. cover him, Eversmann has to step into the street, firing the edge of the building. They continue moving. Then a Technical comes up behind th bullets flying. Galentine looks at his hand, covered with blood. His thum is hanging by a thread of skin.
+120) 0) text: Eversmann and the others are firing nearly nonstop. It's chaos.
+131) 0) text: Eversmann and his guys come around the corner. Through a massive city archway, they can see Wolcott's downed chopp lying on its side. Little Bird whirling in front of it. Eversmann motions for his men to follow him. They charge through the enormous city gate, bullets slapping around t 142 143 59.
+133) 1) dialog: Galentine, you alright? (Galentine nods) Covering fire! Go!
+133) 3) dialog: Hey, how many are in there?
+133) 5) dialog: Okay. Jones helps Clarke inside, jumps in, Maier lifting off in the swirling dust as RPGs explode around the Little Bird. Eversmann crouches low, bullets pinging around him as he dashes to the downed chopper. Sees Wolcott's dead body. The Little Bird flies away. A Technical ROARS down the street. A Ranger shoots a rock at it. It bursts into flames as Eversmann sprints from Wolcott's Black Hawk, joins Smith and Goodale in a mortar cavity carved into a wall.
+133) 6) dialog: (into radio) Two Six, Two Six, this is Two Five. (CONTINUED)
+133) 9) dialog: The guys_are shooting up the technicals, over! EXT. CORNER NEAR WOLCOTT CRASH SITE - CONT. As Di Tomasso's Chalk 3 arrives at one of the cross stree he answers Eversmann.
+133) 11) dialog: Di Tomasso! Take the Southeast border, we'll set up a perimeter, over?
+133) 13) dialog: Captain Steele, Captain Steele, come in!
+133) 16) dialog: We got two wounded and we got both the pilots dead in the chopper. We need a medivac over here now!
+133) 18) dialog: Where are the Humvees?
+133) 20) dialog: Kurth! (CONTINUED)
+145) 0) text: Eversmann runs for cover behind upended trucks.
+145) 1) dialog: Galentine! What's the situation in there?
+145) 10) dialog: Understood Wilky, we got you covered, over.
+155) 0) text: Militiamen and Rangers exchange gunfire. Eversmann glance over at Galentine, ghostly white, listening to his radio.
+155) 1) dialog: What? Then Eversmann's hip radio squawks, and he hears the voic on the command net:
+155) 3) dialog: They talking about another hawk? His men nod.
+168) 0) text: Eversmann's men are shooting constantly, trying to keep t growing crowd of Somalis from the downed chopper.
+168) 1) dialog: (To Galentine) Give me Nelson and Twombly now! Galentine nods and clicks the handset of his radio, shout over the sounds of gunfire. (CONTINUED)
+168) 6) dialog: We gotta get the fuck out of here and evac!
+168) 8) dialog: Let's get back to the stronghold! Come on!
+184) 1) dialog: What's up?
+184) 7) dialog: All right, listen up. We're gonna hold the perimeter. We're gonna hold the strongpoint. Hooah! Eversmann looks at each man, into the wide, scared eyes o Smith, Galentine, Kurth, Goodale, Waddell and Doc Schmid.
+184) 9) dialog: Conserve your ammo. Only shoot at what you can hit. Hooah?
+184) 11) dialog: The convoy's gonna come. We're gonna get home.
+193) 0) text: Eversmann hears the lone voice, too. Then other voices jo in from mosque loudspeakers elsewhere in the city.
+195) 0) text: Eversmann's group listens to the evening prayer.
+196) 0) text: As the voices echo, Sanderson and his group keep moving through narrow slum streets. He radios Eversmann --
+196) 2) dialog: Roger. Who is this?
+196) 4) dialog: (into radio) Understood. (CONTINUED)
+196) 7) dialog: Di Tomasso and his men are on the southeast corner. We need you on the northeast building.
+196) 9) dialog: Hey, watch out for skinnies. They're all over the rooftops. Sanderson motions for his men to move forward. Eversmann turns to his men --
+196) 10) dialog: (quietly) Hold your fire to the east! Sanderson's men move towards the northeast building. Grim bringing up the rear.
+197) 0) text: Twombly, Nelson and Yurek are sixty yards and across the street from Eversmann's position. They dash out, the hulk shape of Wolcott's Black Hawk visible in the intersection
+197) 2) dialog: We're on the Southwest corner. Where the hell have you been? Are you okay? Nelson takes ammo from a dead Somali lying at their feet.
+197) 16) dialog: Let's move out. (CONTINUED)
+197) 20) dialog: We got ya. Yurek makes it across to them, turns, sets to cover Nelso
+197) 22) dialog: Fuck! WHUMP! a Somali bullet hits Twombly in the back, right on the bandolier of SAW bullets wrapped around him. Three SA rounds explode, lighting Twombly up like a human firecrac SMITH charges into the swarm of Somali gunfire, out into street to get Twombly --
+197) 24) dialog: Smith, no! Smith yanks Twombly to his feet and pulls him along, almo to Eversmann before -- bullets trace a path up the street round SMACKING into Smith's thigh, blood spraying the str Smith goes down.
+197) 26) dialog: One, two, three. You're all right, you're all right. You're all right. All right? (CONTINUED)
+197) 30) dialog: Twombly! Nelson.
+197) 35) dialog: Galentine! Galentine, get me Captain Steele!
+198) 11) dialog: Captain Steele, Captain Steele, INTERCUT - with Eversmann.
+198) 12) dialog: I need a medivac in here now. Corporal Smith's been hit.
+198) 15) dialog: Captain Steele, he's hurt pretty bad.
+199) 8) dialog: Yeah. It's gonna be all right, it's gonna be okay.
+205) 0) text: Eversmann watches Schmid work on Smith.
+205) 3) dialog: Yeah, yeah.
+206) 0) text: CLOSE - on a pair of medical clamps. Eversmann holds the clamps, he and Doc Schmid kneeling beside Smith. (CONTINUED)
+206) 9) dialog: Yeah?
+206) 11) dialog: You got it? You need these?
+206) 13) dialog: Yeah, I got it clamped, I got it clamped. (CONTINUED)
+206) 17) dialog: Here, grab it. It's tearing. Schmid putts the siippery artery into _the open. Eversman e holds t clamp out, but the artery slithers away with a snap.
+206) 19) dialog: It's going back in, it's going back in, it's tearing!
+206) 21) dialog: Okay.
+206) 23) dialog: Okay, okay, I'm holding.
+206) 26) dialog: Yeah. Schmid's hands disappear into the wound again. Gets the clamp ready, but Schmid can't locate the artery, shaking his head in frustration.
+206) 27) dialog: What? Smith_is passing out. Schmid has to give up the search be he kills him. His bloody hands come out without the arter Angry at himself, he stuffs new Curlex into the wound. Sm eyes slit open as he weakly manages:
+206) 31) dialog: Yeah, man. We got it. Smith nods, eyes closing, passing out.
+211) 1) dialog: You all right? Is everybody all right? Schmid nods his head yes.
+213) 0) text: The walls shake as another round comes in. Eversmann runs forward.
+213) 1) dialog: Incoming! 235 236 237 238 107.
+220) 2) dialog: You're not gonna die, all right? You're not gonna die. Eversmann is kneeling next to Doc Schmid and Smith. Eversmann is watching Smith, pale white, eyes glazed.
+220) 5) dialog: You don't have anything to be sorry for. You saved Twombly. You did perfect.
+220) 8) dialog: You did what you were trained to do. You should be proud of that. Be proud of that. Smith nods, teeth chattering.
+220) 13) dialog: Yeah?
+220) 15) dialog: Yeah?
+220) 17) dialog: You're gonna tell ‘em yourself, okay? You hear me? Smith is shaking uncontrollably.
+220) 18) dialog: All right?
+220) 20) dialog: They're coming, Jamie.
+220) 22) dialog: You just gotta hang in there a little bit. You gotta hold out for justa little bit, you can do that.
+220) 24) dialog: This is nothin'. It's nothin'.
+220) 26) dialog: It's nothin'.
+220) 30) dialog: This is nothin’... Smith's eyes begin to change... a certainty comes into th Now he stares somewhere beyond the ceiling - Schmid runs forward.
+220) 32) dialog: Oh, God.
+221) 0) text: Slumped against a crumbling wall in the silent house, Eversmann stares at Smith's body, covered by a tattered blanket in the center of the room. Hoot moves to the body, finds Smith's CAR-15 on the groun blood-spattered. Hoot picks it up, takes out the magazine
+221) 1) dialog: What are you doing? Hoot doesn't look up as he clicks the rounds out one by o
+221) 4) dialog: They should've sent a medivac. (CONTINUED)
+221) 8) dialog: Maybe... Hoot walks over to the wall next to Eversmann.
+221) 10) dialog: (nods, he knows, but) Smith is still dead. If Blackburn wouldn't fallen none of this woulda happened --
+222) 1) dialog: I need four guns on this corner, now! 245 246 247 248 113.
+223) 2) dialog: 
+223) 3) dialog: This is Two Five. I can see you, you're right above me.
+223) 5) dialog: 
+223) 6) dialog: I'll mark the target with a strobe, over?
+224) 0) text: Eversmann throws a strobe. It does not fire. 249 250 251 252 114.
+225) 1) dialog: See it?
+225) 3) dialog: Eversmann is at the radio, Galentine shaking his bead, no
+225) 4) dialog: I'm puttin' it on the roof. Eversmann begins gathering the IR strobes. Hoot says:
+225) 6) dialog: Cover me.
+226) 0) text: -- Eversmann sprints from the Somali building into the shooting range of the street, bullets tracking him -- a hellstorm, Eversmann right in the middle of it. Eversmann tosses the strobe on the roof.
+230) 1) dialog: Shit! The Little Bird again shrieks past his building, miniguns rumbling. Bullets ZING over their heads, blasting walls inside the house. Somali fire increases, web tightening. Chalk Four returns fire, guns raging through the night. Thousands of muzzle flashes rain from rooftops, windows a doorways of the buildings across the street. Somali bulle SMACK! and CRACK! all around them. 257 258 259 116.
+233) 0) text: Eversmann closes his eyes and nods.
+233) 4) dialog: Yeah, Roger that, sir. Roger that!
+233) 6) dialog: Ten minutes! The convoy's gonna be here in ten minutes! His Rangers breathe a collective sigh of relief.
+234) 2) dialog: This is my last one!
+234) 5) dialog: The convoy's here! Random gunfire that comes from Somali houses are met with the full wrath of the U.S. Mountain Division as -- Eversmann sees Meknight striding alongside the lead Humve ignoring random Somali gunfire as if it doesn't exist.
+234) 7) dialog: Yes, sir! McKnight sees him in the darkness. Walks toward him, hand outstretched.
+234) 9) dialog: (can't help smiling) Yes, sir. (CONTINUED)
+238) 0) text: Eversmann and Doc Schmid carry Smith's body, covered with sheet, out into the night. Load it into an APC. Hoot cove them, watching the rooftops, windows. Ever vigilant.
+246) 0) text: The convoy is picking up speed, the Mountain soldiers scrambling to get aboard Humvees and APCs as Eversmann, Sanderson, and the other Rangers and Delta cover them.
+247) 0) text: After the last of the APCs pass, Eversmann and the other Rangers and Delta try to get aboard. EVERY VEHICLE is cra full, some men hanging out open doors, some lying on hood No one stops for them. Steele runs alongside the APC, pou on the metal --
+248) 0) text: The city is bathed in orange light. Eversmann, Hoot, Stee Sanderson, Twombly, Sizemore, Nelson, Yurek, Kurth, Wadde Galentine and Doc Schmid are running down the streets aft the convoy, unable to catch up with the vehicles. They watch helplessly as the convoy disappears down the b Their tired, rubbery legs carry them away from the crash site, into the dense, dangerous streets of surrounding neighborhoods.
+252) 2) dialog: I'm out of ammo! Sanderson, I'm out of ammo! Sanderson continues to fire. Another woman runs forward, Kurth raises his weapon to fi
+254) 0) text: The entrance is in sight. Doctors are inside, white table and sheets and water and safety and food and shelter and Eversmann makes it. Hoot, Sanderson, Steele, and the othe charge in after him. They stare at the makeshift medical tents that have been up. Watching a Medic directing the seriously wounded to o area, dead to another - as UN workers bring them glasses of water. Nelson and Twombly embrace. Eversmann staggers forward.
+258) 0) text: Eversmann comes over to Hoot, who is picking through supplies... resupplying himself. Hoot goes about his business... taping grenade pins one after another after another... Calmly, efficiently...
+258) 1) dialog: (incredibly) You're going back in? (CONTINUED)
+259) 1) dialog: I was talking to Blackburn the other day, and he asked me, "You know what changed? Why are we going home?" And I said, "Nothing..." But that's not true, you know? I think everything's changed. I know I've changed... 287 127.
+260) 0) text: Fluorescent lights... too bright.. too constant... a cool humming... it kicks off and then on again...and we see EVERSMANN... And he's clean... just some nicks and cuts, band-aid pieces over some small wounds... but there are o wounds, the kind you can't see at first glance...a soldie who's been in combat... a look in a young man's eyes... a look that makes you stop and take a deeper look... into h soul... and that's just what we do... looking at his face into his eyes...into the window of his soul... as he's ta to someone... easy, conversational... nothing out of the ordinary...
+260) 1) dialog: You know, a friend of mine asked me before I got here, it was when we were all shipping out. He asked me... "why are you going to fight somebody else's war? What do ya'll think you're heros...?" He laughs at the idea...
+260) 2) dialog: I didn't know what to say at the time, but... if he asks me again...I'd say...No. I'd say there's no way in hell...nobody asks to be a hero...it just sometimes turns out that way... And for the first time we see he's been talking to a fami man, lying motionless on a stretcher... And Eversmann, needing to make a final connection touches Smith's chest... a hero's heart... another somebody who d ask to be a hero..
+260) 3) dialog: (simply) I'm gonna talk to your ma and pa when I get home, okay? And we see there are other men on stretchers, other young men who left a piece of their hearts behind... And he turns and leaves...the lights forever on...the coo humming... the boys going home men... 288 128.

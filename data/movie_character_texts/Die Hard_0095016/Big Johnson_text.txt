@@ -1,0 +1,18 @@
+99) 10) dialog: (showing badge)
+99) 14) dialog: Not any more. As Robinson REACTS, we GO TO:
+99) 34) text: Sounds like a standard A-7 scenario. Big Johnson nods in agreement, turns to Robinson.
+99) 35) dialog: Thank you.  We'll handle it from here.  When we need to commandeer your men, we'll try and let you know. He starts to move away with his partner.
+99) 38) dialog: Such as...?
+99) 44) dialog: One of yours?
+99) 47) dialog: (after a moment)
+99) 52) text: Really? (to Big Johnson)
+104) 7) dialog: (ignoring Robinson, to the Engineer)
+104) 10) dialog: Authorization?  How about the United States Fucking Government? Lose the grid or lose your job! The engineer looks at Robinson.  No help.  The engineer l at his guy in the manhole, shrugs.  No choice.
+104) 19) dialog: That should shake'em up.  With all the power shut down, those bastards are probably scared shitless.
+104) 30) dialog: (nodding)
+104) 37) dialog: This is Agent Johnson of the FBI. The State Department has arranged for the release of your comrades.  The helicopters you requested are on the way.
+104) 41) dialog: (disconnecting, grinning)
+106) 35) dialog: (shouting, to the pilot)
+106) 39) dialog: I figure we take out all the terrorists, and lose 20 percent of the hostages... 25, tops.
+106) 66) dialog: Just like Saigon, eh, Wally?
+107) 7) dialog: Bank and we'll nail him!

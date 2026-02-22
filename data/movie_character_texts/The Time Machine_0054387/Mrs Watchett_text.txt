@@ -1,0 +1,19 @@
+6) 2) dialog: MRS. WATCHIT, Alexander's housekeeper, troops down the stairs. She is a wry and commanding British woman in her 60's.
+6) 3) dialog: Oh huzzah, the master's home.
+6) 5) dialog: Hello, Mr. Philby.
+6) 7) dialog: Must be all the exercise I get scampering up and down these stairs like a wee lamb.
+6) 9) dialog: I have it, but don't you think for one moment I'll be letting you go out in that filthy coat -- now go upstairs and change. I've laid out your green coat.
+6) 11) dialog: And change your tie! She bustles off, grumbling happily.
+9) 0) text: Mrs. Watchit waits. Alexander and Philby appear down the stairs.
+9) 1) dialog: Now that's more like it. You look a proper gentlemen for once.
+9) 3) dialog: (dry) Oh, I'm already swooning.
+9) 5) dialog: You might be wanting this? She holds up a velvet ring box. He takes the box.
+9) 8) dialog: For our sake, I hope not.
+14) 2) dialog: Sir, Mr. Philby is here.
+14) 4) dialog: Yes, sir, he --
+14) 8) dialog: May I get you some --
+65) 10) dialog: No, sir. Philby smiles. They move into the study...
+65) 13) dialog: Sir?
+66) 0) text: Mrs. Watchit leads Philby to the front door.
+66) 4) dialog: Goodnight, Mr. Philby. He goes. Mrs. Watchit gently closes the door and turns back to the empty house. She stands for a moment and then, quietly:
+66) 5) dialog: Godspeed, my fine lad, Godspeed...

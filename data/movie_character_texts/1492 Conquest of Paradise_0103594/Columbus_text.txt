@@ -1,0 +1,488 @@
+2) 0) text: CLOSE ON the FACE:  COLUMBUS is stretched on a bed, sweating heavily in fever, clearly delirious.  Insects crawl over his face, he makes no effort to swat them away There is a dripping sound of water.
+2) 2) text: Rain is falling into the room over documents spread on a table.  COLUMBUS stands up and moves to the table.  Some of the walls have been blackened with smoke and flames. lizard scuttles into the shadows.
+2) 4) text: COLUMBUS stares down at the documents, moving them away from the rain drips.  He stares out by the window, and we see: A devastated landscape.  Flooded roads, half-destroyed huts, broken trees... A dog picks its way through the mud
+3) 2) text: Pulling back, we discover: A TEN-YEAR-OLD BOY and a strongly built man in his middle thirties, are riding a mule.  The MAN'S weather-beaten face frames unusually bright eyes. On the screen these words:  ANDALUSIA, 1491 COLUMBUS AND HIS SON are following a windthrashed path at the top of the hill.  COLUMBUS hums a song, and FERNANDO looks up at him in adoration.
+4) 0) text: A rugged landscape, remote and steep, with lines of stone walls and thousands of sheep. FERNANDO, rushes down a slope, barking like a dog, chasin the sheep who fan out in droves in front of him.  High- spirited and wild, FERNANDO laughs and tumbles over. COLUMBUS rides his mule along the narrow track, watching his SON'S antics with amusement.  In the distance, the solitary figure of A MONK SHEPHERD. COLUMBUS calls out to his son:
+4) 1) dialog: Fernando!
+4) 2) text: FERNANDO runs over.  COLUMBUS lifts him up onto the mule. As they move along the track we now see, perched on a distant hill, isolated and austere, the Monastery of La Rabida, their destination.
+5) 3) dialog: Diego!  Aren't you going to kiss your brother?
+5) 4) text: DIEGO smiles a little, and kisses FERNANDO -- who is immediately distracted by a procession of hooded MONKS, hurrying to the refectory, as a bell begins to chime. The MONKS all turn to greet ANTONIO DE MARCHENA, a white- haired, elderly man -- and a monk cosmographer. MARCHENA'S gesture is broad and elegant as he opens his arms to greet COLUMBUS.  He pats FERNANDO'S head and turn to DIEGO.
+5) 7) text: Both CHILDREN leave under the arched roof.  COLUMBUS and MARCHENA begin to walk across the cloister.
+5) 9) dialog: Father, I am doing what I think is the best for him.  And he has the teacher I would have chosen for myself.
+6) 0) text: Hundreds of books lined up on the shelves, displaying the miracle of printing, a recent German discovery.  Several MONKS, perched on high stools behind lecterns, are busily "ILLUMINATING" some of these massive volumes, delicately painting around the letters in bright colors and gold leaf. Rays of light fall diagonally through high openings, projecting geometric patterns on the tiled floor.  As MARCHENA and COLUMBUS move forward their conversation is punctuated by light and shadow.
+6) 2) text: Almost casually, he hands COLUMBUS a letter.
+6) 4) text: COLUMBUS stops dead in his tracks.  Almost frantically he tears open the letter, hardly able to believe his eyes.
+6) 5) dialog: God... That's in a week!
+6) 7) dialog: How did you manage it?
+7) 0) text: MARCHENA is not a tidy man.  Books are piled up on the floor, the desk, on every shelf, along with maps, instruments of astronomy... the visible evidence of an inquiring mind. With practiced familiarity, as if they had done this a hundred times -- which indeed they have -- MARCHENA sits behind his desk, and COLUMBUS opposite him.  MARCHENA lights a candle and considers the mess.  Then methodically, he slowly sweeps it from in front of him with his sleeve, exposing a large map underneath. When he looks up again, there is a new severity in his expression.  He turns over an hourglass.
+7) 2) dialog: To open a new route to Asia.  At the moment there are only two ways of reaching it...
+7) 4) dialog: By sea, sailing around the African Continent -- the journey takes a year...
+7) 6) dialog: Or by land...
+7) 8) dialog: ... But the Turks have closed this route to all Christians.  Trading with the Orient has become arduous, if not dangerous. (he pauses) There is a third way...
+7) 10) dialog: By sailing West across the Ocean Sea.
+7) 13) dialog: Ignorance!  I believe the Indies are no more than 750 leagues west of the Canary Islands.
+7) 15) dialog: The calculations of Toscanelli Marin de Tyr, Esdras...
+7) 17) dialog: So was Christ!
+7) 20) dialog: (mockingly) I'll try to remember that, Marchena...
+7) 22) dialog: (ignoring this) Passion is something one cannot control!
+7) 24) dialog: I've been contradicted all my life... Eternity!
+8) 0) text: DIEGO and FERNANDO wait in the courtyard.  COLUMBUS appears and lifts FERNANDO onto the mule.  DIEGO turns to go.
+8) 1) dialog: Diego.
+8) 2) text: COLUMBUS walks over to him, squats down so their eyes meet.  He looks at his SON for a moment.
+8) 3) dialog: Would you like to come and stay with us?
+8) 5) dialog: I'll do whatever makes you happy.
+8) 7) text: COLUMBUS reaches out -- and touches his shoulder. He climbs up behind FERNANDO, who waves back to his BROTHER as they ride off.
+9) 0) text: COLUMBUS leads the mule, carrying the sleeping FERNANDO, through narrow streets.  There's a clamorous noise in the air.  Suddenly a large group of YOUNG MEN, shouting with excitement, run up the street and brush past them.  Then more people.  FERNANDO sits up straight.  The noise grows rowdy, rumbling, sharp with excitement and violence. Huge CROWDS have thronged the massive old square outside the cathedral.  Holding the mule by its reins, COLUMBUS tries to push his way through... Suddenly, as a gap opens in the crowd, we see the cause of the excitement:  in the center of the square stand three pyres, already alit. HOODED EXECUTIONERS are busy around the fires.
+9) 2) text: Before COLUMBUS can stop him, FERNANDO has slipped off th mule and into the crowd.   
+9) 3) dialog: Fernando!
+9) 4) text: But the BOY has been swallowed into the mass of people. COLUMBUS tries to follow him.  Flames leap into the night sky with a terrible crackling, lighting up the square wit a lurid glow.  Prayers are being chanted somewhere. FERNANDO has elbowed his way to the front of the crowd. A PRIEST brandishes a crucifix in front of the face of a MAN bound to a post.  The heretic wears the "sambenito", robe made of coarse fabric on which his sins have been crudely illustrated -- we see cabalistic signs, indicating that the man is Jewish. THE MAN'S eyes are mad with fear.  But he refuses to kiss the crucifix, as a sign of his repentance. FERNANDO is transfixed by the scene, but still doesn't realize what is happening.  He is too close to the platform to see what is in the flames of the other pyres.
+9) 5) dialog: Fernando!
+10) 0) text: COLUMBUS and FERNANDO lead the mule into the white-washed stone-floored hallway of the modest house.  FERNANDO is mute, shocked by what he just witnessed.  COLUMBUS takes the mule into its stall, and as he does so, his mother, BEATRIX, appears from the kitchen to greet them.  She is beautiful woman in her twenties, a calm, strong, domestic personality.  COLUMBUS tousles the BOY'S hair.  FERNANDO glances at his MOTHER but looks subdued and doesn't say anything.
+11) 0) text: COLUMBUS joins BEATRIX in the kitchen, where a MAID is cooking.  He explains Fernando's subdued manner.
+11) 1) dialog: Executions.  In the square.
+11) 3) dialog: They've agreed to see me in a week.
+11) 5) dialog: I could be gone for years.
+11) 7) dialog: I haven't given you much of a life.
+11) 9) dialog: Are we going to argue?
+11) 12) dialog: Perhaps I was never meant to live with a woman...
+12) 0) text: They are eating around the table, and FERNANDO is unusually silent and thoughtful.  COLUMBUS pours a little wine into FERNANDO'S water, to distract him.  FERNANDO looks up at him, surprised.  COLUMBUS smiles, then looks over at BEATRIX.
+12) 1) dialog: Fernando, don't you think we are lucky to live with such a beautiful woman?
+13) 0) text: The room is dark.  As COLUMBUS approached the bed with a candle, it illuminates the naked body of BEATRIX.  BEATRI looks up at him intently.  A drop of wax falls on her skin.  She flinches, murmurs... They make love.
+14) 0) text: A medieval "campus".  Students-novices are playing "pelote", with basket-gloves and a hard ball.  They run with their robes tucked around their waist, revealing white legs.  Others are studying, reading, hurrying to their class. We find COLUMBUS watching the game from the steps above the court.  Others are waiting with him.  A MONK comes from a door, and looks around the group.
+15) 2) dialog: Yes, your Eminence.  The voyage should not take more than six or seven weeks.
+15) 4) dialog: I am, Your Eminence
+15) 9) dialog: Your Excellencies are aware of the statements of Marin de Tyr?
+15) 11) dialog: Then you are also aware that his theories contradict Ptolemeus... De Tyr believes the Ocean to be only 750 leagues...
+15) 12) text: A murmur of protest spreads among the members of the Commission.  But Columbus is determined to press his theories.
+15) 13) dialog: The Florentine Toscanelli and the French Cardinal Pierre d'Ailly both think that Marin de Tyr is accurate in his calculations.  And therefore, that the ocean can be crossed.
+15) 18) dialog: Seven weeks.  Six, during the summer months.
+15) 21) text: A MAN of simple bearing, that COLUMBUS identifies as being a seaman, interrupts.
+15) 23) dialog: We wouldn't have to turn back!  We would find land at this point!
+15) 25) dialog: Excellency, you are right.
+15) 27) dialog: I am a seaman, not a scholar... But as a simple man craving for knowledge, I have read all the work of these renowned geographers and discovered that none of them could agree on the exact width of this ocean...
+15) 29) dialog: Therefore, as a modest man, I wonder:  who is right?
+15) 31) dialog: Who is right?  This question remains unanswered.
+15) 33) dialog: Your Eminence, there is only one way to settle the matter.  And that is to make the journey. (to the assembly, with passion) I am ready to risk my life to prove it possible.
+15) 35) dialog: If they agree to follow me, yes.
+15) 37) text: Conscious of a friendlier voice, COLUMBUS sees the Treasurer SANCHEZ, an imposing man in his fifties.
+15) 38) dialog: Trade, Your Excellency.  According to Marco Polo, the Kingdom of China is one of the richest of the world. Even the meanest buildings are roofed with gold.
+15) 40) dialog: No.  The Portuguese have already discovered black-skinned people.  I, too, will find other populations -- and bring them to the word of God.
+15) 46) dialog: Did He not choose a carpenter's son to reveal Himself to the world?
+15) 47) text: A hum of interest.  CLOSE ON SANCHEZ -- watching COLUMBUS intently, a hint of an admiring smile on his lips.
+15) 51) dialog: (calmly) Blind faith is what I consider heresy!
+15) 52) text: The murmur turns to an audible gasp.  AROJAZ gets to his feet and leans forward, threateningly, the flame of a candle only inches from his face. There is absolute silence.  COLUMBUS meets the MONK'S gaz unflinchingly.
+15) 53) dialog: (quietly) Asia can be found to the west -- and I will prove it.
+17) 2) text: He shakes his head, puts the letter down.  COLUMBUS looks appalled; devastated.
+17) 3) dialog: They didn't listen.  They didn't want to listen!
+17) 6) dialog: Wait!  I've waited seven years already!  How much longer do you want me to wait?
+17) 8) dialog: (angrily) Damn God!
+17) 11) dialog: Damn all of you!  You all set up theories based on what?  You never leave the safety of your studies! Go out!  Find out what the world is about and then tell me something I can listen to!
+17) 13) dialog: These don't mean anything!  They're full of assumptions!  Out of the heads of old men who've never been past the end of their gardens!
+17) 16) text: COLUMBUS seizes more books from the shelves, just sweepin them to the floor.
+17) 17) dialog: All of them!  Just lies!
+17) 19) text: MARCHENA tries to stop him.  In his fury, COLUMBUS accidentally knocks the poor old MAN to the ground.  His cries bring three MONKS rushing into the room. As COLUMBUS continues to rage and scatter books everywhere, they try to stop him, struggling with this big, powerful man -- to almost comical effect.  Finally, short, muscular MONK delivers a quick punch that sends COLUMBUS crashing to the floor.
+18) 0) text: COLUMBUS lies face down on the stone floor.  He is dresse in a homespun robe.  His arms are stretched out in penance.  FERNANDO and DIEGO look down at him.
+19) 0) text: Along the cloister, maps are drying, hanging like laundry in the light breeze.  COLUMBUS pins up a new addition. Another MONK works nearby, in silence.
+19) 2) text: COLUMBUS turns, to see a small, stocky MAN approaching: middle-class gentleman.  He nods.
+19) 4) text: He laughs.  COLUMBUS smiles, but doesn't say anything. PINZON is clearly a little surprised.
+19) 6) text: COLUMBUS glances around cautiously, and walks a little wa down the cloister, away from the other MONK, gesturing fo PINZON to follow him.  PINZON is yet more surprised by this strange behavior.
+19) 8) text: COLUMBUS shakes his head.  PINZON stares at him, perplexed.
+19) 10) text: COLUMBUS shakes his head again.
+19) 12) text: COLUMBUS nods vigorously.
+19) 16) text: COLUMBUS nods.
+19) 18) text: COLUMBUS gives him a glance like one throws a question in the air.
+19) 20) text: COLUMBUS looks at him, and bursts out laughing.  The othe MONK looks round severely.  COLUMBUS ducks behind a map, PINZON following him.  PINZON lowers his voice.
+19) 22) text: COLUMBUS shakes his head, but looks increasingly interested by what he's hearing.
+19) 24) text: COLUMBUS nods.
+19) 26) text: COLUMBUS looks around, catches the disapproving face of the MONK, crosses himself, then speaks:
+19) 27) dialog: Where can I meet this man?
+19) 29) text: COLUMBUS turns and sees an elegant Lord in his fifties, examining the maps.
+20) 0) text: A huge Islamic Crescent being pulled down from the minare of a mosque.  SOLDIERS are holding back a crowd at the foot of the tower.  To the ecstatic cries of the crowd, a Cross is hoisted up in its place... Astride horses, COLUMBUS and the Treasurer SANTANGEL are watching the scene. They push through an extraordinary scene.  The city of Granada has just been reclaimed from the moors after several years of siege.  All around them, SPANISH SOLDIER are herding, bedraggled columns of the defeated MOORS, bearing only a few possessions.  Ragged, half-starved men women and children.
+20) 3) dialog: Is this a good time to meet her?
+21) 0) text: Fabulous Moorish gardens:  ponds filled with golden carp; exotic bird cages hang from lemon trees... The distant sounds of victory. SANTANGEL and COLUMBUS walk through the gardens, escorted by HALBERDIERS.  SOLDIERS pass by, carrying coffers or piles of documents. As they approach the inner sanctum, however, there are fewer people.  They stop by the Lion's Fountain, where several DIGNITARIES are waiting patiently for an audience SANCHEZ appears.  They bow.  SANTANGEL approaches to murmur a compliment.
+21) 2) text: SANCHEZ protests softly, and looks over at COLUMBUS, a half-smile forming on his lips.  Then a DUENA appears, an motions for COLUMBUS to follow.
+22) 0) text: An ornate Moorish door is pushed open by the DUENA'S hand We enter the Throne Room -- sculptured colonnades, mosaics... At the far end, windows open onto a view of Granada's rooftops. Against this dazzling light, the delicate silhouette of QUEEN ISABEL OF SPAIN.  The light in her blonde hair creates a halo around her head as she turns.  COLUMBUS falls to his knees.
+22) 4) dialog: (bold) No more than the woman who said she would take Granada from the Moors.
+22) 7) dialog: What did they say about Granada before today?
+22) 11) dialog: Surely you can do anything you want.
+22) 14) text: This little hint of vulnerability subtly reverses their positions for a moment.  Now we sense COLUMBUS scrutinizing her.
+22) 15) dialog: May I speak freely?
+22) 17) dialog: I know what I see.  I see someone who doesn't accept the world as it is.  Who's not afraid.  I see a women who thinks... "What if?"...
+22) 20) dialog: Forgive me... but you're the only Queen I know.
+22) 25) dialog: Thirty seven, Your Majesty... And you?
+22) 30) text: COLUMBUS bows and goes to leave.  As the DUENA opens the door for him, he turns back.
+22) 31) dialog: Actually, I thought you were younger than me!
+25) 2) text: The ADMINISTRATOR looks up.  He is reading the contract that COLUMBUS has proposed.  SANCHEZ, his mouth full, gestures for him to continue.
+26) 0) text: Close up on COLUMBUS.
+26) 1) dialog: I WON'T!
+26) 2) text: A WOMAN'S HAND quietly, carefully opens a cover of a spy hole in the wall.  Two beautiful eyes peer through a grille, into the next room. What they see: SANCHEZ and COLUMBUS together.  COLUMBUS is visibly upset
+26) 4) text: COLUMBUS tightens his fists, tries to remain calm.
+26) 5) dialog: If I am right, my requests are fair!
+26) 8) text: He offers the document to COLUMBUS, who takes it, scans i quickly, shakes his head.
+26) 9) dialog: No...
+26) 11) dialog: NO...!  I have waited too long, fought too hard.  Now you expect me to take all the risks while you take the profit!  No... I will not be your servant!
+26) 14) dialog: I'm not bargaining!
+26) 16) text: COLUMBUS leans over the table, faces him.
+26) 17) dialog: And were you never ambitious, Excellency?  Or is ambition only a virtue among the nobles, a fault for the rest of us?
+26) 19) text: COLUMBUS smiles.
+26) 20) dialog: If you can do that, Excellency -- I'll become a monk!
+26) 21) text: He turns, strides towards the door.  We hear a WOMAN'S muffled laughter. As COLUMBUS goes out, ISABEL appears through a secret door.  SANCHEZ bows. ISABEL goes over to the window and looks out.
+29) 0) text: Teeming life.  COLUMBUS pushing his way through crowds. He is expressionless and distracted. He looks around him, stops walking.  And then, unexpectedly, shouts.
+29) 1) dialog: YEEEEEEES!
+30) 0) text: COLUMBUS is sitting at the kitchen table, by himself, wit a glass of wine.  There is a movement behind him.  BEATRI is standing at the foot of the stairs, in a night-shirt. COLUMBUS turns and looks at her, almost sad.
+30) 1) dialog: She said yes.
+30) 4) dialog: If I ever come back, I swear I will...
+30) 7) dialog: I don't want you to wait for me.
+30) 9) text: COLUMBUS kisses her.
+31) 0) text: Strange, unearthly music... A flickering light in a dark tunnel.  FERNANDO, holding a candle in front of him, walk slowly down the dark corridor. Quietly opening a door, he walks into COLUMBUS' study.
+32) 0) text: CLOSE ON:  A huge illustrated map of western Europe and Asia.  FERNANDO'S candle moves slowly across the Atlantic Ocean, to the edge of the map.  There, the illustrator's imagination has created monsters:  terrifying demons; creatures half-human, half-animal. Sitting at his desk, COLUMBUS is looking at the map.
+32) 2) text: Turning, COLUMBUS finds his son beside him.
+32) 3) dialog: Why not?
+32) 5) dialog: There aren't any monsters, Fernando. The only monsters are in here... (he taps his own forehead) Watch!
+32) 8) dialog: There'll be a time.
+32) 10) text: FERNANDO pulls the chain with the St. Christopher medal from under COLUMBUS' shirt.
+32) 12) dialog: (laughing) Yes... Yes, I do... On all of them!
+33) 0) text: A luminous procession passes through a Moorish stone gate down to the harbor.  We see the faces of the SAILORS and their FAMILIES -- COLUMBUS, PINZON AMONGST THEM -- We sense the fervor and apprehension of the departure.  The procession is lead by MARCHENA and four young NOVICES carrying the Madonna.  All hold long, burning tapers, saying the rosary.  A SAILOR pushes through the crowd, an kisses the Madonna's feet.
+35) 0) text: MARCHENA sits on a barrel and crosses himself.  Behind a curtain sits COLUMBUS.
+35) 2) dialog: Forgive me, Father.  For I have sinned.
+35) 3) text: MARCHENA recognizes COLUMBUS' voice.
+35) 5) dialog: Father, I have betrayed my family. I betrayed my men.  And I betrayed you.
+35) 7) dialog: I lied.  The journey will be longer than I said.
+35) 9) dialog: I am not sure... It could be twice the distance.
+35) 12) dialog: If I tell them, they won't follow me.  You know that I am right, Father.  You trust me...
+35) 14) dialog: You are bound by an oath, Father.
+35) 17) dialog: Give me absolution.
+35) 19) dialog: Give me absolution, Father!
+36) 0) text: COLUMBUS walks over to where BEATRIX and FERNANDO are waiting.  He kisses and hugs FERNANDO.
+37) 0) text: The CROWDED QUAYSIDE.  COLUMBUS stands in front of FERNANDO.
+37) 1) dialog: Be good to your mother, Fernando. Do you promise?
+37) 2) text: FERNANDO nods, tears in his eyes.  Then COLUMBUS embraces BEATRIX tightly.  She whispers into his ear.
+37) 4) text: But COLUMBUS and DIEGO are unable to find words, and instead they clumsily hug.  Someone taps COLUMBUS' shoulder.  He turns around to see SANTANGEL.  Wordlessly, they hug.
+37) 6) dialog: Diego!  Here!
+37) 7) text: DIEGO catches it.  Opening his hand he looks at the medallion.  Then looks up at his FATHER, elated. THE SANTA MARIA is now two meters from the QUAY. SANTANGEL is now opposite COLUMBUS.
+37) 9) dialog: (ambiguous) I have to tell you Santangel.  I don't know where on earth I am going!
+40) 0) text: The crystalline north star -- as if seen through an instrument. COLUMBUS' silhouette, by an oil lamp, standing at the prow.  Holding a quadrant he is aiming at the stars. SOME SAILORS are watching with curiosity.  One of them is ALONSO, a rough, stocky Basque. Near COLUMBUS, on a tressel, various books and charts.  H makes an entry in the log.  Then goes back to his quadrant.  He senses MENDEZ standing next to him.
+40) 1) dialog: (softly) Due west, Captain Mendez.  And may God be with us...
+40) 3) text: MENDEZ doesn't move, continuing to observe COLUMBUS.
+40) 4) dialog: What is it Mendez?  Speak!
+40) 7) dialog: (still taking readings) And what do you think Mendez?
+40) 9) dialog: Come over here.
+40) 10) text: MENDEZ hesitates, then motions to COLUMBUS.  The SAILORS are watching, and some approach to hear the conversation.
+40) 11) dialog: Now, find the North Star.  Do you have it?
+40) 13) dialog: Steady yourself...!  Keep the plumb line vertical...
+40) 16) dialog: Don't move!  A mistake of one degree and we'll be off 6,000 leagues!
+40) 18) dialog: What do you read?
+40) 20) text: MENDEZ turns to COLUMBUS.
+40) 21) dialog: That's it.  The twenty eighth parallel.  And we'll follow it until we reach land.
+43) 6) text: They all laugh.  Alonso looks up at COLUMBUS standing on the poop deck, scrutinizing the horizon, waiting for the land to appear.
+44) 0) text: The SHIP is plowing on, pushed by a hot wind -- SAILORS sleep on deck. The SHIP'S BOY is singing to himself.  Despite his hair lip he has a pure, melancholy voice... COLUMBUS, leaning over the prow rail, staring ahead, hear it carry over the darkness.
+45) 0) text: CLOSE UP ON AN HOUR-GLASS, nearly through its time. The SHIP'S BOY throws an "ampoulette" over board.  We follow the bulb attached to a rope, passing the full length of the hull.  As it reaches the poop deck, another SAILOR shouts "MARK".  A very primitive system of calculation for distance and speed. Sitting near the SHIP'S BOY, COLUMBUS is making entries i a log-book, watching the hourglass.
+45) 2) text: THE HOUR-GLASS runs out.  COLUMBUS converts the mark into a daily average for distance and speed.
+45) 3) dialog: Six hundred and twenty nine.
+47) 0) text: ABSOLUTE STILLNESS.  A FURNACE.  The three ships like dots, on what seems to be a prairie of weed. The caravels are being towed by three rowing boats. CLOSE ON THE MEN, rowing, drenched with sweat. FROM THE PROW, COLUMBUS is staring at the horizon. ALONSO pulling at his oars stares at COLUMBUS' distant figure with hate and resentment. ALONSO suddenly ships his oars, throwing the whole boat into disarray.  Chaos. Total silence.  MENDEZ and ALONSO stare at each other.
+47) 3) text: ALONSO defiantly stares at MENDEZ.  He then starts to bea a rhythm on the hull with his fist, followed by the others.  In the two other boats, the MEN begin to follow suit, beating a rhythm of protest on the hulls. MENDEZ looks up to COLUMBUS, in panic. ON BOARD PINZON'S SHIP, an OFFICER cups his hands to his mouth.
+48) 1) dialog: Granted.
+49) 2) dialog: (calmly) Six days ago, yes.
+49) 4) dialog: We have to keep the hopes of these men alive!
+49) 6) dialog: You think I don't know that?
+49) 8) dialog: The land is there.  I know it!
+49) 10) dialog: And then what?  Half of the water has gone, the rest is nearly putrid! You know that!
+49) 12) dialog: You never did.  You did all the talking for both of us, remember?
+49) 14) dialog: Pinzon, Pinzon... All we can do now is go forward!  Think about that!
+49) 16) dialog: You're right.  Let the men decide.
+49) 17) text: COLUMBUS moves to the door.  As an afterthought, he takes his scarlet-embroidered jacket from a hook.
+50) 0) text: Most of the men are now back on board. They go silent as COLUMBUS appears.  He walks slowly over to them.  All, including ALONSO, are surly, threatening..
+50) 1) dialog: Who gave you the order to come on board?
+50) 5) dialog: Cursed?
+50) 7) text: ALONSO glances towards the SHIP'S BOY, with his hair lip. The BOY lowers his eyes.  COLUMBUS moves towards him, pulls him forward, stands him in front of ALONSO.
+50) 8) dialog: This boy has the voice of an angel. What comes out of his mouth is blessed, Alonso.  What comes out of your is evil.
+50) 9) text: Some of the men laugh at this statement.  ALONSO is ill a ease.  COLUMBUS pauses, looks around at all the MEN.
+50) 10) dialog: Listen to me!  Every man is afraid who does something for the first time.  But those who overcome their fears, will find their rewards.  I do not know if it is God's will that we cross this ocean -- but I am certain it is the devil who puts fears into our hearts...
+50) 12) dialog: This jacket to the first man who sights land!  I want a man up that mast day and night.
+50) 13) text: COLUMBUS points at the SHIP'S BOY.
+50) 14) dialog: You start first.
+50) 17) text: CRIES from the other ships, as the sails snap taut, filling with wind.  MEN rush to their posts.  PINZON stares at COLUMBUS, shaking his head in disbelief.
+50) 19) text: COLUMBUS walks away to his cabin, then turning back to PINZON.
+50) 20) dialog: Pinzon, the more I sail, the luckier I get.
+51) 0) text: COLUMBUS is seated, isolated at the prow, wrapped in his cape, struggling against the sleep.  MENDEZ approaches hi with a bowl of soup.
+51) 2) text: COLUMBUS shakes his head no, and starts drinking from the bowl.
+52) 0) text: In the luminous moonlight, COLUMBUS is standing, staring up at thousands of insects that wheel around the mast lantern.  We hear the flutter of their wings and see the bats as they swoop and dive in a feeding frenzy. COLUMBUS turns, stares into the darkness, desperate to se the land that must be close. He kneels by MENDEZ, wrapped in a blanket.  He touches hi shoulder.
+52) 1) dialog: (murmuring) Mendez!  Mendez!
+52) 3) dialog: Land...
+53) 0) text: An opaque dawn.  COLUMBUS, riveted, staring forward as if to pierce the mist.  The entire crew are clinging to the rail, and standing on the shrouds. Suddenly, the SHIP BOY'S voice cracking with emotion.
+53) 2) text: COLUMBUS strains his eyes; he still can not see anything. The entire CREW stand and stare, silent, holding their breath. As the sun begins to rise, the fog dissipates -- slowly, exquisitely, revealing a single palm, so close it seems almost as though they could touch it.  Then a white slash of beach. Near COLUMBUS, a SAILOR falls to his knees and burst into tears.  Others laugh with joy.  COLUMBUS watches this vision in disbelief, his mouth open as if it were difficult for him to breathe.  Tears come to his eyes.  H closes them.  Then opens them again.  The land is there - a green paradise. On screen the words:  OCTOBER 12, 1942.  GUANAHAN ISLAND
+54) 0) text: Three row boats plunging through the surf towards the beach.  COLUMBUS stands in the prow of the first boat. MENDEZ is in the second.  PINZON the third.  They stare entranced at the lushness of the foliage, and the blue clarity of the water... As the first boat beaches, COLUMBUS leaps out and wades ashore.  Behind him the rest of the landing party splash through the sun-dazzled water, carrying the banner of Castille and Aragon.
+55) 0) text: They stand on the beach, almost in a dream.  There is silence.  The ROYAL NOTARY, ludicrously overdressed, now wet through, stumbles over to COLUMBUS and holds out his contract and a pen.  COLUMBUS scrawls his name. The MEN stare at him, filled not only with new respect, but with something amounting to awe. COLUMBUS turns to them, tries to speak.
+55) 1) dialog: By the... by the Grace of... God...
+55) 3) dialog: (pulling himself together) In the name of their Gracious Majesties of Castille and Aragon, and by all the powers vested in me, I claim this island and name it San Salvador.
+55) 4) text: The MEN cheer as the flags are rammed into the sand, flapping in the wind. COLUMBUS starts to walk towards the jungle, and in silenc the rest follow.
+56) 2) text: Several of them raise their weapons to their shoulders, pointing them into the jungle. From COLUMBUS' POV we slowly scan the face of the thick jungle ahead.  For a moment we don't see anything -- and then, with a shock, we see the first INDIAN.  Naked, painted like an idol, carrying a hunting lance. As if they had materialized from nowhere:  the rest of th HUNTING PARTY, with their bows and spears.  Silent. Watchful.  They stare back at us. The SPANIARDS nervously finger their weapons. COLUMBUS slowly lifts his hand into the air:  a clear signal not to fire.  Then, removing his sword, he drops i on the ground, and starts to walk forward, fixing his gaz upon the first INDIAN he saw.
+56) 4) text: COLUMBUS ignores him, even though some of the INDIANS hav raised their weapons.  He stops in the no-man's land between them.  The INDIANS don't move -- but something excites them. The SHIP'S BOY, wearing COLUMBUS' embroidered jacket and the drum, has followed COLUMBUS and now stands close to him.  He is the cause of their interest.  COLUMBUS puts his arm around the BOY, and this gesture of affection seems to put the INDIANS at their ease.  They start talking and pointing.  They come forward slowly, start to tentatively touch the BOY'S jacket.  Then, now laughing, they touch COLUMBUS, pulling at his beard.  COLUMBUS laughs too. Sensing their innocence, the rest of the MEN lower their weapons.  Some of them laugh. An apparition:  a beautiful young INDIAN GIRL, totally naked, walks out of the jungle. She is pregnant and holds a child.  We begin to hear Indian music, played on a flute.
+57) 0) text: A large post is lifted from the ground by two SPANIARDS pulling on ropes.  The post is fixed into position -- and then we see that it is a large wooden cross... The INDIAN VILLAGERS watch the ceremony with some interest and amusement. COLUMBUS looks over at the men and gestures at the INDIANS.
+57) 1) dialog: We have come here in peace, and we will behave with honor.  They are not savages and neither will you be. Treat these people as you would your own wives and your own children. Neither are you free to take what you will; for a seashell you give a bandana.  You will respect their beliefs.  Pillage will be punished by the whip.  Rape by the sword.
+58) 0) text: The smoke from fires.  Laughter.  Music playing.  The INDIANS have prepared food for the SPANIARDS, who are drinking and enjoying themselves in this strange world. COLUMBUS sits with MENDEZ, PINZON, the INDIAN CHIEF, ELDERS OF THE VILLAGE.  Other INDIANS stand around, smiling, curious. The INDIANS talk among themselves.  The ELDERS smoke primitive cigars -- and offer them, with good humor, to their guests.  The SPANIARDS cough and choke at first... and laugh.  In return, they offer the INDIANS wine... Dogs roam around the campfires.  The WOMEN openly suckle their babies.  The MEN are entranced. PINZON draws out attention, for the first time, to a smal gold ornament on the nose of one of the INDIANS.  He points to it, indicates his interest in it.
+58) 3) dialog: (to Pinzon) Give it to him!
+58) 4) text: PINZON looks at him, about to argue -- but COLUMBUS insists.  PINZON takes out the dagger and offers it to th INDIAN.
+59) 0) text: The first light outside -- the strange, wonderful sounds of the jungle all around.  COLUMBUS writes in his journal
+59) 1) dialog: October 21st, 1492.  I think we have returned to Eden.  Surely this is how the world once was, before the beginning of time.  I believe no man will ever see this land again as we do, for the first time...
+59) 2) text: He looks up.  UTAPAN is squatting in the doorway of the hut.  He's been there all night.  COLUMBUS takes more ink on his quill and begins to sketch UTAPAN'S face in the margin of his log-book.  He draws well. He gets up and walks over to UTAPAN and shows him the drawing.  It's an electrifying moment.  UTAPAN is shocked and amazed.  At first he is rather frightened of his own image... Then he is happy, and laughs... and COLUMBUS laughs with him and puts a hand on his shoulder in a gesture of friendship. UTAPAN gets up, and indicates that he too has something h wishes to offer.
+60) 0) text: UTAPAN expertly scampering through the jungle.  COLUMBUS follows him. UTAPAN orders COLUMBUS to sit.  COLUMBUS obeys.  UTAPAN looks up at the tops of the trees.  The sun is rising, an filters through the foliage.  As if the time had come, UTAPAN stands up, and COLUMBUS does the same. A gap in the dense vegetation.  Something is glittering. Gold.  A mass of gold.  As they approach, COLUMBUS discovers -- A large pool of fresh water.  The morning sunlight has turned the water into liquid gold.  The surface ripples with the breeze.  UTAPAN smiles.  It the stranger satisfied?  Isn't this what he came for? COLUMBUS plunges into the pool.  As he emerges, he fills his palms with liquid gold.
+61) 0) text: Wide shot -- A flotilla of canoes are going upstream. INDIANS AND SPANIARDS are traveling together in the canoes.  UTAPAN leads the expedition in COLUMBUS' craft. THE SHIP BOY'S cranium is shaved like UTAPAN'S, and we notice that some other crew members are beardless, some even wearing tribal patterns.
+62) 0) text: INDIAN VILLAGERS confronting the SPANIARDS, UTAPAN talks to an ELDER MAN, watched by COLUMBUS, MENDEZ and PINZON. UTAPAN repeats several times the word for GOLD, showing some artifacts.  The OLD INDIAN shakes his head no, indicating another distant place.
+62) 4) dialog: What is it?  A tribe?  An island?
+64) 2) dialog: Help him!
+65) 0) text: Standing in the stream up to his thighs, A SPANIARD (a gold expert) examines some stones.  He then looks up at COLUMBUS and PINZON and just throws the stones back into the water without a word. The group of SPANIARDS are resting, exhausted by the humidity.  Some are drinking from the river, others soak bandanas, and tie them around their necks... One after another, they stand up slowly -- they look discouraged, tired, and beaten.
+66) 0) text: UTAPAN and the SPANIARDS are trekking in the hills.  Full armed, they are now suffering intensely from the heat and the vicious insect bites. COLUMBUS doggedly keeps up with UTAPAN, who tirelessly trots forward. Finally, COLUMBUS turns around and sees... nobody.  He calls out to UTAPAN.
+66) 1) dialog: Utapan!  Wait!
+66) 2) text: UTAPAN stops obediently, and rushes back to COLUMBUS with comical energy. On their way back, they find one SOLDIER sitting, leaning against a tree.  He has removed his helmet.  His hair sticking to his forehead. As COLUMBUS and UTAPAN walk back, they find another SAILOR, then another, then the whole group gathered aroun PINZON.  Ashen, he burns with fever.  He attempts a smile
+66) 4) text: COLUMBUS looks around him -- what he sees:  exhausted men and jungle, as far as one can see.
+66) 5) dialog: No.  It's enough.  What would you say to a drop of Jerez, Pinzon?
+68) 0) text: A INDIAN SHAMAN is forcing a milky fluid into PINZON'S mouth.  COLUMBUS attempts a gesture to prevent him.  But UTAPAN stops him.
+68) 2) text: COLUMBUS nods -- he obviously trusts UTAPAN.
+69) 0) text: In the half-light, figures wreathed in smoke -- COLUMBUS, MENDEZ and UTAPAN watch the CHIEF GUARIONEX putting a Spanish helmet on his head.  The helmet is too big, almos covering his eyes.  The ELDERS appraise the gift with solemn wonder. In return, GUARIONEX hands COLUMBUS a parcel made of leaves.  COLUMBUS unwraps them.  Inside:  a GOLD grimacin mask.  The first real piece of gold.  COLUMBUS is unable to conceal his excitement at this first real evidence of the metal. He waits for the CHIEF to speak, but the CHIEF only looks at him.  On the ground, we see other presents offered by the SPANIARDS -- trinkets, and necklaces...
+69) 2) dialog: Tell the Chief we thank him.
+69) 4) dialog: Tell him his country is very beautiful.  Tell him we are leaving men here -- to build a fort.
+69) 6) dialog: Tell him we will return very soon. Many of us.
+69) 9) dialog: Thousands.
+69) 11) text: COLUMBUS doesn't seem to understand the question.  For th first time he seems to be caught short.
+69) 12) dialog: To bring the word of God.
+69) 14) dialog: (pursuing) ... and also to bring medicine.
+69) 16) dialog: (interrupting) He has medicine. (pause) Tell him we admire his people.
+69) 19) text: And the CHIEF gets up, awards COLUMBUS with a smile, and walks out of the hut, the ELDERS following, leaving COLUMBUS alone.
+69) 20) dialog: (with a little smile) That's a beginning...
+70) 0) text: Watched from the shore by the INDIANS and by about forty of the SPANIARDS, who are staying behind, the boats pull out towards the two remaining ships. PINZON is laid out in the bottom of the boat.  COLUMBUS, UTAPAN, and four other INDIANS are in the same boat.
+70) 1) dialog: March 1493... Thirty nine of my men volunteered to stay behind.  God willing we will be back in less than a year...
+71) 0) text: CLOSE ON:  a golden mask... the lamp in the cabin swings violently back and forth, creating strange shadows, as if the mask was alive... COLUMBUS is writing with difficulty in his log-book.
+71) 1) dialog: ... Several men are ill.  We did not find signs of civilization.  No cities, no temples... Nothing that resembles Marco Polo's descriptions. My ships are not filled with the spices and the gold that Spain was hoping for.  But this land intoxicates the senses like the strongest of perfumes... And all I can think of, is to return to these untamed lands...
+71) 2) text: Suddenly the cabin seems to lurch over.  Things fall from the table, smashing on the floor... COLUMBUS nearly falls
+73) 0) text: Five MEN are struggling to lash down the tiller.  The dec jumps and rolls.  It rises five meters into the air then falls into space and hits the water with a terrible crack Waves sweep over the decks.  We hear desperate cries for mercy from the terrified crew, loud enough to be heard above the storm. COLUMBUS and MENDEZ are crawling towards the mast, along lifeline.
+73) 1) dialog: (screaming to the sailors) Get below!  All of you!  Go!
+73) 3) dialog: (to Mendez) Stay with me!
+73) 4) text: The ship rolls again.  COLUMBUS and MENDEZ crawl towards the mast.  Another gigantic wave crashes over them, tons of water falling like cement.  They reach the mast.  The wood groans.
+73) 5) dialog: We may have to cut it!
+73) 6) text: MENDEZ nods... COLUMBUS grabs some rope.  The ship rises into the air again, crashes down, the deck disappearing beneath them for a moment.
+73) 7) dialog: (screaming out) I'll stay here -- to decide if we cut it.  Help me!
+73) 8) text: With MENDEZ'S help, COLUMBUS is tied to the mast:  one rope under his arms, the other around his waist.  MENDEZ hands him a horn.
+73) 9) dialog: (screaming) Now go!
+73) 10) text: MENDEZ seems to hesitate.  COLUMBUS screams at him again.
+73) 11) dialog: I said -- below deck, Mendez!
+73) 12) text: MENDEZ crawls away. Another huge wave washes over COLUMBUS.  He emerges, almost suffocated.  The storm rages, its eerie light making it seem at times like bright daylight.  But as the lightning flashes, COLUMBUS begins to count:
+73) 13) dialog: One... two... three... four...
+73) 14) text: There's an enormous thunderclap on "four" -- it indicates how close they are to the eye of the storm. The ship keels over again, dropping down and down, seemin never to rise... COLUMBUS lifts his head to the heavens, screams out:
+73) 15) dialog: Damn you!
+73) 16) text: As if in answer, another flash of lightning that illuminates the sky and the sea.  COLUMBUS starts countin again.
+73) 17) dialog: One... two... three... four... five...
+73) 18) text: Another terrible clap of thunder on "five" -- COLUMBUS starts laughing, knowing the storm is moving on. Then, in the strange light, something seems to move through the air towards him; it looks like some kind of projectile, a craft, with a trail of vapor. COLUMBUS stares up at it... amazed.  We start to hear the "Te Deum", majestic and heavenly.
+74) 0) text: COLUMBUS looks up at the vast roof, to see an incense burner, swinging, gliding swiftly across the ceiling, trailing a think vapor of incense. A magnificent "Te Deum" is being sung -- in honor of COLUMBUS' achievements and return.  The whole cathedral i packed with nobles and dignitaries in their gorgeous robes. BEATRIX, FERNANDO and DIEGO are staring in fascination at COLUMBUS' triumph -- somewhat separated by the grandeur o this occasion.  COLUMBUS passes by, walking proudly down the long central alley, beside KING FERDINAND and QUEEN ISABEL and other GRANDEES.  He turns to his family, keeping his eyes on BEATRIX until she is out of his vision. The procession is followed by UTAPAN, and other INDIANS i tribal regalia... As they move through the crowds, all eyes are upon COLUMBUS.
+76) 0) text: A stool passes from hands to hands.  It is placed at the Queen and King's side.  COLUMBUS sits on it -- a supreme privilege. To one side sit AROJAZ and SANCHEZ.  AROJAZ leans over to whisper to him.
+77) 0) text: CLOSE ON:  the face of a young, SPANISH NOBLEMAN, ADRIAN DE MOXICA.  Hesitantly, he brings a lighted cigar to his lips -- then pauses. We discover other people around the magnificent candle-li table.  NOBLE MEN and NOBLE WOMEN.  SANCHEZ.  COLUMBUS. QUEEN ISABEL. COLUMBUS takes the cigar from MOXICA.  The rest watch him with rapt curiosity.  COLUMBUS inhales deeply then, to their astonishment, blows out the smoke through his nose.
+77) 1) dialog: You must not inhale, but simply allow the palate to enjoy the flavor of the Tobacco...
+77) 4) dialog: The Indians have no such word, Don Moxica.
+77) 6) dialog: They come and go as naked as the day God created them...
+77) 8) dialog: They don't see sin in their nakedness.  They live according to nature, in a never ending summer. The islands are covered with trees, filled with blossoms and fruits. And...
+77) 10) text: COLUMBUS nods, turns and whispers something to a SERVANT standing just behind his chair.  The SERVANT goes to open the door -- and in comes UTAPAN, dressed as a tribesman, carrying a casket.  The WOMEN around the table fan themselves furiously at the sight.  UTAPAN puts the caske down in front of the QUEEN, and steps back.
+77) 11) dialog: These are gifts for Your Majesty.
+77) 12) text: ISABEL opens the casket, revealing the gleam of gold inside.  She takes out some of the little golden ornaments... a bracelet and then the mask. She holds it, somehow moved by its crude beauty. ISABEL raises the mask to her face, looking across at COLUMBUS. The image is somehow powerful enough to reduce even the ARISTOCRATS to silence.  She speaks from behind the mask.
+77) 14) text: The guests laugh obsequiously.  COLUMBUS bows a little -- looks up and meets the eyes of SANCHEZ, who is staring at him, coldly.
+78) 2) text: We discover the SWORD MASTER is fencing with COLUMBUS.  A dozen duellists are practicing in the magnificent rotunda surrounded with a two-tiered colonnade. Out of breath, COLUMBUS stops the exercise, and removes his protective canvas padding.  He bows at his teacher, who salutes him in return. COLUMBUS walks to a tressel laden with food and beverages SANCHEZ, in a fencing outfit and boots, is having a glass of wine.  Upon seeing COLUMBUS approaching, he hands him glass.
+78) 4) dialog: ... for a commoner?
+78) 11) dialog: Forgive me, Don Bobadilla -- those positions have already been taken.
+78) 13) dialog: Bartolome and Giacomo Colon.
+78) 17) dialog: But we do have a lack of notaries. You should contact my administration.
+78) 19) dialog: Good!  We are also in need of judges.  Except there are no thieves!
+78) 24) dialog: What...?  Do I have so many already?
+79) 0) text: COLUMBUS with two MEN:  the oldest, around thirty, is a strong-looking man.  The youngest, no more than twenty five, is thin and fit.  There is obvious tension in the room.  These are BARTOLOME and GIACOMO COLON, COLUMBUS' brothers.  BARTOLOME is angry, and GIACOMO thoughtful.
+79) 3) dialog: I need both of you.  What are you afraid of?  We are living what we always dreamt of.
+79) 5) dialog: Are you saying you refuse to help?
+79) 6) text: COLUMBUS looks at them with such pained surprise...
+79) 8) dialog: Let me show you something.
+80) 0) text: The large gallery courtyard is crowded with PEOPLE -- applicants for the voyage.  As COLUMBUS appears, they all press forward, calling out his name, trying to get his attention, touching his sleeves as if he were a saint. They crowd around COLUMBUS and his BROTHERS.  COLUMBUS nods, murmurs vaguely, here and there...
+80) 1) dialog: Of course... Of course... We'll see to it... Yes... Thank you... Soon... Soon...
+80) 2) text: Fighting their way through, the BOTHERS press their way, reaching the other side of the gallery.  We get glimpses of the incredible activity down below.  ADMINISTRATORS, MILITARIES, MERCHANTS are busy around tressels covered with documents, plans, maps... preparing the second expedition. COLUMBUS puts his arms around them.
+80) 3) dialog: (indicating the applicants) Now -- you tell me.  Who can I trust? (almost amused) We're brothers!  We must be a House. A bloodline!  In this country one can't exist alone!  I need you...! Both of you!
+80) 7) dialog: He is here!  What is it?
+80) 10) dialog: I know.  I saw them!  Who did we hire today?
+80) 13) dialog: The royal surgeon?  Then we can count on royal health!
+81) 0) text: UTAPAN is lying in his hammock.  FERNANDO turns him over. UTAPAN falls to the ground. COLUMBUS walks beside BEATRIX.
+81) 1) dialog: (looking at his son) He's growing up!
+81) 3) dialog: Beatrix, I want to ask you something.
+81) 5) dialog: (after a pause) I can arrange for the Queen to take Fernando and Diego into her service.
+81) 7) dialog: It is a great honor.  We could not hope for anything better.
+81) 10) text: COLUMBUS puts his arm around her waist, pulling her closer, they move away.
+82) 0) text: FERNANDO is now swinging expertly in the hammock.  UTAPAN is pushing him gently.  He slowly straightens up to watch COLUMBUS and BEATRIX disappear, somehow sensing there is dilemma.  FERNANDO noticing UTAPAN'S reaction, turns to his parents.  The arbor is empty.  FERNANDO becomes pensive. We become aware of the rustling of the jungle.
+83) 0) text: FIFTEEN HUNDRED MEN spread along the beach, looking towards the jungle.  COLUMBUS stands beside his BROTHERS, and MENDEZ, and UTAPAN. MOXICA, astride a magnificent black horse, prances back and forth across the sand.  All are waiting. A signal cannon is fired from one of the ships.  Birds scatter into the air from the jungle -- but then silence, complete and ominous.  COLUMBUS stares into the jungle. Nothing.  No one to greet them -- no welcoming party from the MEN they left behind. COLUMBUS glances at MENDEZ. MENDEZ looks at him, but can't answer. MOXICA suddenly spurs on his horse, and guides it into th trees.  The order is given for the rest to follow, fannin out as they do so, weapons at the ready.
+84) 2) text: COLUMBUS looks around in dismay.  A YOUNG NOBLEMAN, HERNANDO DE GUEVARA, takes out his sword.
+84) 7) dialog: No Guevara.  There will be no revenge.
+84) 8) text: Silence.  Everyone looks at COLUMBUS.
+84) 10) dialog: If you want to keep your head on your shoulders, you'll do as I say.
+84) 12) dialog: Moxica, I lost friends too... Thirty nine brave men who trusted me.
+84) 14) dialog: You want a war?  Fine.  We are a thousand.  They outnumber us by ten! Who will you kill?  Which tribe?
+84) 16) dialog: We came here to stay!  To build! Not to start a crusade.  In this forest, there is enough danger to sweep us away in days!  So we will be brave and swallow our grief.  And in the name of those who died, we will accomplish what we came for.
+85) 2) text: Slowly, they begin to appear, one after the other -- materializing from the jungle.  Shy and scared. They stare at this "Centaur" (the HORSE and the HORSEMAN seem to be one -- a God). To impress them even more, MOXICA makes the beast move sideways and backwards, rearing, its front hoofs pawing the air.  THE INDIANS retreat in terror, except for one, who stands his ground, brandishing his lance. UTAPAN encourages the YOUNG WARRIOR to approach the centaur.  He places his hand onto the shoulder of the animal.  The muscles shudder.  THE INDIAN jumps back comically, accompanied by the rest of the tribe. Without warning, MOXICA climbs down from the saddle.  Mor INDIANS step back in fear and absolute astonishment.  Now more have ventured from the jungle.  The bravest of them approach MOXICA, daring to touch him, and the horse, retreating then touching until they fill the compound. At this moment, COLUMBUS and his SOLDIERS appear all around them, pointing their muskets, and their crossbows. A moment of tension. COLUMBUS walks forward, towards the CHIEF (GUARIONEX) we meet before.
+85) 3) dialog: Ask the Chief what happened to my men?
+85) 10) text: UTAPAN looks anxiously at COLUMBUS.
+85) 11) dialog: No...!  you'll do it my way. (to Utapan) Tell the Chief we will not harm his people, even though we have the power to do it.
+85) 13) dialog: We will work with his people.  We want peace.  Ask the Chief if he understands?
+85) 15) dialog: Ask him if he will help.
+86) 0) text: It is raining hard.  COLUMBUS is floundering in the mud, supervising a mixed work-force of SPANISH and INDIANS. They are attempting to raise the huge wheel of a watermill. Despite COLUMBUS' shouts of encouragement, it's clear the wheel is far too heavy and the mud too deep. Close by, on horseback, MOXICA watches the scene. COLUMBUS, plastered with wet mud, clambers out of the pit and approaches him.
+86) 1) dialog: Don Moxica -- we need your horse.
+86) 3) dialog: We can't raise the wheel without it.
+86) 5) text: A beat.  COLUMBUS wipes some mud from his eyes.
+86) 6) dialog: Don Moxica -- we all have to work.
+86) 8) text: He starts to turn away; COLUMBUS grabs hold of the reins.
+86) 9) dialog: Forgive me, Don Moxica.  But it was your horse I was talking about.
+86) 10) text: A beat.  MOXICA stares down at an equally determined COLUMBUS.  Then, in front of everyone, MOXICA has to dismount, and suffer the disgrace of it.
+86) 11) dialog: Thank you, Don Moxica.
+86) 12) text: COLUMBUS leads the horse away.
+87) 0) text: Harnessed, the horse pulls, with COLUMBUS and the MEN. The wheel is raised into position.
+89) 0) text: A wide, high shot of the new "City", dominated by a huge wooden cross -- no more than a muddy main street bordered by a hundred bamboo and stone shanties, with candles burning in the doorways.  A main square with the Governor's Mansion, and the foundations of a church. In the twilight, COLUMBUS and the other WORKERS returning dirty and tired.
+91) 0) text: In an already Spanish-colonel dining room, COLUMBUS is having dinner with his brothers, BARTOLOME and GIACOMO, served by an INDIAN WOMAN -- NIMA.  GIACOMO eats with gusto.
+91) 5) dialog: Eat!  I'll tell you later.
+91) 8) text: COLUMBUS eats a mouthful, glances at BARTOLOME.
+91) 9) dialog: Iguana.
+91) 11) dialog: What wrong with it?  The Indians eat it!
+91) 15) dialog: We've got to learn to live like the Indians. (pause) Eat your Iguana!
+92) 0) text: They are drinking and smoking cigars.  From the balcony they can see the dark mass of the jungle stretching away. GIACOMO is already dozing in his chair.  BARTOLOME sees it, and elbows COLUMBUS.  They both smile at their younge brother's exhaustion.  Then COLUMBUS gets up and leans on the balustrade, looking down at the city, the jungle beyond.
+92) 1) dialog: How much gold have we found?
+92) 3) dialog: Perhaps it doesn't exist anywhere but in my imagination.
+92) 5) text: They begin to hear the sound of a flute -- a melancholy sound.  COLUMBUS looks out over the jungle, and kills a mosquito by slapping his arm.
+92) 6) dialog: (jokingly) Then I'm Governor of the Mosquitoes.
+98) 0) text: A tribunal.  Sitting behind a table with his brothers, an flanked by his council, COLUMBUS presides.  MOXICA stands before them.
+98) 1) dialog: In one act of brutality, you have created chaos.  Tribes who were fighting each other are now joining forces against us!  All that because of your criminal savagery!
+98) 3) dialog: You'll be held in detention, deprived of your privileges and possessions.  Until you are returned to Spain where you will be judged. Have you anything to say?
+103) 0) text: PAIRS of bloody red legs hanging still, high in the air. Pulling back, we discover: A DOZEN SPANIARDS have been crucified on the scaffolding of the excavations.  Some hands and noses have been removed. UTAPAN is standing, uncomfortable among the SPANIARDS. A SOLDIER removes a huge iron nail from a wrist.  One of the CRUCIFIED BODIES is gently laid on the ground.  He is still alive -- not for long. COLUMBUS and BARTOLOME are silent with rage.
+103) 4) text: UTAPAN looks distraught -- this is the first time he is being asked to do something against his own people.  He looks up at COLUMBUS for help in confusion.
+103) 5) dialog: You have to find them, Utapan.  Look what they did!
+103) 7) text: COLUMBUS is caught short.
+103) 8) dialog: We have to stop this war.
+103) 10) dialog: Do you know them?
+104) 0) text: Around a campfire, two dozen INDIANS are squatting.  They are arguing over a musket and some woolen hats they stole from the mine.  CLICK!  CLICK!  The INDIANS raise their heads.  All around them, crossbows and muskets are pointe at them.  Two INDIANS try to run away.  They are shot. This sound triggers the SPANIARDS' response.  They start shooting at random.  UTAPAN is horrified.  COLUMBUS stand up shouting.
+104) 1) dialog: Stop!  Stop this!
+106) 0) text: MOXICA tears COLUMBUS' plans of the city from the wall. On the table, the model of the future city. Watched by the other ARISTOCRATS, MOXICA sets fire to the parchment he has rolled up.  He blows the flames from the torch onto the model.  Fire races up and down the streets of the miniature, as if burning the city of Isabel. A mad gleam in MOXICA'S eyes...
+107) 0) text: The half-burnt remains of the Mansion.  COLUMBUS stands i the square, looking up at it.  Behind him, his SOLDIERS, his BROTHERS and about thirty captured INDIANS. GIACOMO walks slowly across the square.  COLUMBUS looks a him in disbelief.
+108) 0) text: COLUMBUS leads his party of SOLDIERS through the jungle, looking for the MUTINEERS. They reach the river -- scan the far bank.  Nothing. COLUMBUS nods.  His MEN start to enter the river, led by HALBERDIER. Others follow, wading across, their weapons held above their heads. A crossbow arrow pierces the HALBERDIER.  Without a cry h falls forward into the water, and is carried away by the current. Two more MEN are hit.  One cries out, thrashes around in the water, an arrow protruding from his side.  The river stained with blood. Still no sign of the enemy.  COLUMBUS' MEN nevertheless start to return fire from the bank, creating a shield... others continue to wade across the river.  A MUTINEER is shot down from the branches of a tree... The first MEN come ashore.  Musket fire.  An exchange of arrows.  COLUMBUS is now wading across.  The MAN next to him is killed, and carried away by the current. Now, on the far shore, the enemy have shown themselves. There is hand to hand fighting, with swords and other weapons.  MOXICA kills one of COLUMBUS' men -- but his ow are outnumbered and outmatched.  Already, some are beginning to surrender. In the midst of the fighting, COLUMBUS, sword drawn, pull himself out of the river:  A MUTINEER lunges at him. COLUMBUS kills him with a thrust of his sword -- and walk forward into the jungle.  He spots MOXICA at the foot of cliff.
+109) 0) text: MOXICA starts scrambling up the rocks behind him, with COLUMBUS following.  The climb through the dense undergrowth is so exhausting, they are now almost climbin in slow motion.
+110) 0) text: MOXICA bursts out of the undergrowth.  He is at the edge of emptiness, swept by a violent offshore wind.  He turns frantically, to see COLUMBUS coming up behind him. Knowing he is lost, MOXICA regains his natural arrogance. He steps backwards towards the edge.
+110) 2) text: He takes another step backwards, as COLUMBUS moves toward him.
+112) 0) text: COLUMBUS stares down as his body is swept away.
+113) 0) text: CLOSE ON COLUMBUS' expressionless face.
+114) 0) text: CLOSE ON several large wooden cages.  Inside we see the INDIANS that COLUMBUS captured.  They are packed together They stare out with vacant eyes.  SOLDIERS guard them.  A ship against the pier.  BUYL at his side, COLUMBUS stares at the INDIANS.
+114) 2) dialog: You may do as you please, Brother Buyl -- though your departure will not help me to make it more Godly.
+114) 5) dialog: (quietly) A new world, Brother Buyl.
+116) 0) text: The wind grows stronger.  Doors bang inside the building... a melancholy sound. COLUMBUS sits on the balcony with his BROTHERS.  They are silent.  After a few moments, COLUMBUS begins to speak quietly, almost as if he were speaking to himself.
+116) 1) dialog: Perhaps hope only exists in the journey.  When it begins, everything is still possible -- every expectation; every dream...
+116) 3) dialog: This is not how I imagined it to be.
+118) 0) text: The sky is dark and threatening, the wind even stronger. We find COLUMBUS where we left him, but now alone.  He ha sat here all night. Shutters bang violently. He looks up -- and sees a few yards from him:  the naked FIGURE OF AN INDIAN, his face and body painted, staring a him.  COLUMBUS realizes who it is...
+118) 1) dialog: Utapan!
+118) 3) dialog: Utapan, won't you speak to me?  You used to know how to speak to me.
+122) 0) text: COLUMBUS, BARTOLOME and MENDEZ struggle through the teeth of the hurricane towards the dam.
+123) 0) text: Timbers creak and strain.  COLUMBUS, BARTOLOME, MENDEZ an a DOZEN other MEN are trying to save the dam. Suddenly, frighteningly, the dam begins to crash.
+123) 1) dialog: (screaming) Let it go!  Let it go!
+123) 2) text: The MEN scramble away as the dam wall buckles, and burst open.  Water floods over them; a roaring torrent.  From the bank, MENDEZ, BARTOLOME and COLUMBUS survey the ruins of their dreams.
+124) 0) text: COLUMBUS is stretched out on his bed, in his devastated bedroom.  A column of ants is threading its way across th floor, each ant carrying a piece of leaf.  Rain falls ove a table covered with documents. COLUMBUS' face is covered in dried mud.
+128) 0) text: One of the MEN in black clothes removes his hat and steps forward.  We recognize him as ALONSO DE BOBADILLA, the ma COLUMBUS humiliated at the rotunda. COLUMBUS is sitting at his desk, studying plans with GIACOMO.  Some other MEMBERS of the COUNCIL are with them
+128) 2) dialog: Yes... I remember...
+128) 5) dialog: Appointment to what?
+128) 7) dialog: Congratulations.  Then I am free to search for the mainland.
+128) 8) text: BOBADILLA smiles wickedly, happy to give COLUMBUS a low blow.
+128) 11) text: COLUMBUS pales.  Then...
+128) 12) dialog: How far from here?
+128) 14) dialog: How could I be?  The mainland has been found.  Exactly as I said it would.
+129) 0) text: All is dark.  We can just make out COLUMBUS' face as he lies on the hard bed.  He is sweating heavily; his beard is filthy and matted, like his hair.  He looks feverish. A key turns in the lock. The JAILER lets in two fashionably dressed YOUNG MEN. COLUMBUS, blinking in the light, turns his head to stare at them.  His eyes are reddened with infection at the corners.  The YOUNG MEN come forward into the light.
+129) 2) text: Unable to believe it, COLUMBUS slowly sits up.
+129) 3) dialog: Fernando...!  My God...!
+129) 5) dialog: A man!  Diego, how did this happen?
+129) 7) dialog: Good!  I have to go back!
+129) 8) text: DIEGO and FERNANDO look at one another, then back at COLUMBUS, incredulously, seeing his filthy clothes, his eyes rimmed with dried mucus.
+129) 10) text: There's a new excitement in COLUMBUS' voice.  He walks over to the table.  The candlelight illuminates maps, charts, drawings, figures...
+129) 11) dialog: I have to explore the mainland.
+129) 13) text: COLUMBUS laughs and DIEGO looks at them both in astonishment.
+129) 21) text: DIEGO seems saddened by his brother's attitude.  Once again DIEGO feels like the outsider. COLUMBUS hugs him.
+129) 22) dialog: I am happy for you, Diego.
+131) 0) text: COLUMBUS is shown into the room.  ISABEL is waiting for him. He drops to his knees before her.  This time she walks towards him, clearly moved by his white-hair, and other signs of physical deterioration. Her hand hovers over his head, as if it means to console him.  Her hand is dying to comfort.  But instead, she offers her hand for him to kiss.
+131) 2) text: COLUMBUS gets slowly to his feet -- but his eyes, as they meet hers, are as clear as before.  ISABEL smiles with relief to see it.  He looks back at her.
+131) 3) dialog: Now I do look older than you.
+131) 6) text: COLUMBUS starts to interrupt; she stops him with a gesture.
+131) 8) dialog: Thank you.
+131) 10) dialog: Your Majesty -- some men are content to read about things.  I must see them with my own eyes.  I cannot be other than I am.
+133) 0) text: SANCHEZ, in another direction, along a corridor, towards his office.  As he reaches a corner with a wide window, a hand seizes him.  COLUMBUS.
+133) 2) dialog: Call them.
+133) 3) text: SANCHEZ looks at him -- and doesn't call.  COLUMBUS lets go of him.
+133) 5) dialog: Look out of that window.
+133) 7) dialog: What do you see?
+133) 9) dialog: All of them created by people like me.
+133) 11) dialog: No matter how long you live, Sanchez, there's something that will never change between us.  I did it! You didn't!
+133) 12) text: COLUMBUS turns abruptly and walks away, vanishing down th echoing corridor.
+134) 0) text: COLUMBUS dismounts in the courtyard.  Everything seems deserted.  There's no one about, no sign of life...
+135) 0) text: COLUMBUS walks slowly through the great rooms.  There is nothing left:  no furniture, rugs, pictures... nothing. He turns, sees BEATRIX standing in a doorway, looking bac at him.  They are both moved.
+135) 1) dialog: God... you're so beautiful!  I can't believe no other man has ever taken you away from me...
+135) 5) dialog: (looking at her) Not everything... Do you think I care?  I'm a free man again.  Riches don't make a man rich, they only make him busier...
+135) 7) dialog: God, how much I've missed you!
+136) 2) text: They laugh.  With only a little embarrassment, BEATRIX gets off COLUMBUS' knee.  SANTANGEL comes forward, and COLUMBUS embraces him like an old friend.  BEATRIX goes t the kitchen.
+136) 3) dialog: I owe you everything, Santangel... but as you see, I can't repay you.
+136) 5) text: COLUMBUS smiles.  BEATRIX returns with a plate and glass for SANTANGEL.
+136) 9) dialog: But as least we haven't been bored, have we?
+137) 3) text: COLUMBUS walks over to FERNANDO, who is leaning against the rail.  He is smoking a cigar... as the smoke blows over FERNANDO'S face, FERNANDO wretches... It's clear he' feeling seasick, trying to control it. COLUMBUS leans against the rail next to him, staring out at the darkness.  Then looks at his SON again.  FERNANDO won't give in to the sickness, but COLUMBUS knows he'd feel better if he did.
+137) 4) dialog: How are you feeling, Fernando?
+137) 6) text: COLUMBUS nods meditatively, puffs out some smoke. FERNANDO winces, gags slightly.
+137) 7) dialog: (almost casually) You know what I always used to do?
+137) 9) dialog: Swallow a piece of pork fat on a string.  It always worked.
+137) 10) text: At the thought of the pork fat, FERNANDO jerks his head over the side, and vomits copiously.  COLUMBUS smiles, pats him on the back.
+138) 0) text: As it plows through heavy seas.  COLUMBUS, a coat wrapped around him, is sitting on a chair topside, directing operations despite an obvious fever. Suddenly a cry from the mast head:
+138) 3) dialog: The mainland...
+138) 4) text: FERNANDO looks excited.  Discreetly, COLUMBUS watches his SON, enjoying his happiness.
+139) 0) text: From the INDIAN treehouse, COLUMBUS, FERNANDO, MENDEZ and several INDIANS are gazing west over a necklace of magnificent lakes. The INDIANS point and talk gently.  FERNANDO has never seen anything so fresh, so beautiful.
+140) 0) text: A magnificent sunset.  A fire is burning, food cooking. COLUMBUS looks over his maps, trying to figure out where they are.  We see the outline of the continent of Asia. An OLD INDIAN squats beside him, silent, also looking at the map.  Then, slowly and very deliberately, he takes a piece of charcoal from the fire and begins to draw on the map.  Ignoring the Asian continent, he sketches the Panamanian coastline -- an isthmus.  MENDEZ and FERNANDO gather round.  COLUMBUS watches the OLD INDIAN with initial puzzlement, then growing excitement.
+140) 2) dialog: He's drawing an isthmus... He's saying we're on an isthmus.
+140) 5) dialog: Tell me what he's saying.
+140) 7) dialog: Ask him if he means a lake.  A big lake.
+140) 10) dialog: (stunned) An ocean...?  He's says it's an ocean?
+140) 12) text: COLUMBUS is too stunned for a moment to explain.  The INDIANS laugh. Then COLUMBUS takes the charcoal, and begins to draw on the map, for his son.
+140) 13) dialog: Here is Europe... and over here, the continent of Asia.  But there's something in between!  Another continent!  We've found... another continent!
+140) 14) text: FERNANDO stares west, then back at his FATHER.  COLUMBUS looks very feverish, his face bathed with sweat.
+140) 16) dialog: There must be a passage to that other ocean.
+141) 0) text: COLUMBUS, feverish, lies on the bunk.  He shivers violently.  FERNANDO anxiously watches over him, bathes his eyes. Suddenly THE TRANSLATOR enters.
+141) 2) text: A little reluctantly, FERNANDO lets him go to his FATHER. The INDIAN crouches over the bed, takes out a handful of leaves from a pouch.  He chews the leaves himself for a moment, until they form a sticky pulp, then opens COLUMBUS' mouth and puts the pulp inside, encouraging COLUMBUS to chew with the motions of his hands. COLUMBUS chews, quickly falling asleep.
+142) 0) text: We see things from COLUMBUS' hallucination.  We are plunging through layers of clouds, the speed accelerating giving us a sickening sensation of falling to land, close and closer... COLUMBUS wakes up with a jolt.  Everything is silent. COLUMBUS walks outside.
+143) 0) text: COLUMBUS' fever has subsided.  He raises his head and stares at the mainland passing in the night.  He smiles.
+146) 4) dialog: (approaching) What is...?
+146) 10) dialog: (urgently) Out!  Get out!
+148) 0) text: FERNANDO is crouched on the poop deck, wrapped in a blanket.  He seems in a state of shock:  he is pale and shaking.  As COLUMBUS goes and sits near his son, he hand him a flask of alcohol.
+148) 1) dialog: (kindly) Take it.  Come on.  Drink.
+148) 2) text: As COLUMBUS insists, brandishing the flask, FERNANDO notices that his hands are shaking too.  His FATHER'S forehead is dripping with sweat. FERNANDO drinks a gulp and grimaces.  He drinks again and hands the flask back to his FATHER, who does the same. FERNANDO notices dried blood on his FATHER'S fingers. COLUMBUS immediately hides his hand and stands.
+148) 3) dialog: I... I have to see Mendez.
+148) 5) dialog: Your brother was right.  I should have never taken you with me.  I'll never forgive myself.  Never!
+148) 6) text: He walks a few steps, lurches, and has to lean against th rail.  He raises his hand to his eyes, grimacing in pain, as if they were burning.  FERNANDO scrambles to his feet and rushes to him.  COLUMBUS' eyes are already fixed somewhere -- fever is eating him up.
+148) 7) dialog: Will you ever forgive me?
+148) 9) dialog: Captain Mendez!
+149) 0) text: COLUMBUS is lying on his couch.  FERNANDO is bathing his eyes, sweeping off the pus that continuously forms in them.  COLUMBUS is drenched in sweat.
+149) 2) dialog: I came to Your Highness with honest purpose and sincere zeal.  I did not undertake these voyages for honor or wealth -- that is certain.  After years of service to the Crown, I do not have a roof to put over my head... Your Majesty allowed me to explore the continent, believed to be Asia.  I now believe that it is an new Land, of unknown proportions and wealth... Life has more imagination than we carry in our dreams...
+150) 0) text: The DUENA, sitting beside ISABEL, quietly continues to read COLUMBUS' letter aloud.
+151) 6) text: On a highest tier, we stop on the face of CHRISTOPHER COLUMBUS, listening impassively.
+151) 8) text: CLOSE ON COLUMBUS' eyes.
+151) 10) text: On COLUMBUS.
+152) 0) text: Around the KING, on horseback, surrounded by the KNIGHTS, a CROWD is kept back by SOLDIERS.  AROJAZ is mounting his horse.  SANCHEZ is waiting for him. COLUMBUS stands among the students at the back of the CROWD.
+152) 3) text: They pass close enough to touch COLUMBUS.  But he does no see them.
+152) 7) text: AROJAZ looks at SANCHEZ in surprise -- then cranes his neck round, and looks back at COLUMBUS -- now a FACE IN THE CROWD.
+153) 0) text: ANTONIO DE MARCHENA, a very old man now, is taking a siesta next to his grapes.  He is sitting in a simple armchair, a rosary wrapped around his fingers. The presence of someone wakes him.  After a moment, he recognizes COLUMBUS and smiles.  Both MEN are very moved.
+153) 2) dialog: You'll always be older than me, Father.
+153) 3) text: They laugh.  COLUMBUS sits down.  Bees drone lazily in th sunlight.
+153) 4) dialog: Have you ever forgiven me?
+153) 9) text: COLUMBUS nods.
+153) 11) text: He pauses, looks across at COLUMBUS, smiles again gently. MARCHENA, tiring, leans back in his chair, and looks up towards the sun.
+153) 12) dialog: I have to disagree.
+153) 14) dialog: New worlds create new people.
+153) 16) dialog: I don't know... I have the impression that I didn't change that much.  I still can't accept the world as it is!
+154) 0) text: FERNANDO is sitting in front of his FATHER, examining documents and letters.  COLUMBUS has wrapped a shawl around his legs.  He looks even older now, with his mass of pure white hair. BEATRIX comes out with a tray, carrying grapes and a decanter of water.  She places it on a small table near COLUMBUS and touches his shoulder. As she is ready to return inside the house, he holds her back.
+154) 1) dialog: Can't you stay with us a little?
+154) 5) dialog: I can't keep my eyes off you.  I would like to catch up with all the moments I didn't spend with you.
+154) 6) text: FERNANDO looks up at them above his letters, amused and slightly embarrassed.  COLUMBUS looks at him with a fake air of reproach.
+154) 7) dialog: What are you listening to?
+154) 11) text: COLUMBUS smiles and nods -- all this seems to be of very little importance to him now.
+154) 12) dialog: But how is he?  And Dona Maria?
+154) 17) text: COLUMBUS' eyes brighten with joy.
+154) 18) dialog: What does he say?
+154) 20) dialog: (smiling) He never had one... except aboard my ships!
+154) 23) dialog: Really? (pause) God... I wouldn't know where to start... and yet...
+154) 25) text: COLUMBUS sighs, and leans back on his chair.  His eyes ar fixed somewhere, searching.  Then, almost in a murmur.
+154) 26) dialog: I remember...

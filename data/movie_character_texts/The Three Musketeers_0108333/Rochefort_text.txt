@@ -1,0 +1,100 @@
+3) 27) dialog: Throw it on the fire with everything else.
+3) 29) dialog: The Musketeers no longer exist. Or haven't you heard? (cold command)
+3) 30) text: Throw it on the fire. Jussac hastily adds the emblem to the fiery blaze, it is instantly consumed. Rochefort watches it burn, then walks to a balcony overlooking a vast courtyard.
+3) 35) dialog: Musketeers...
+3) 36) text: A hundred faces turn   upward to regard him. And on each the same expression   -- absolute loathing for the man in black. Rochefort is    not intimidated by this sea of con tempt. He revels in    it.
+3) 37) dialog: By joint edict of His Majesty King Louis XIII and His Eminence Cardinal Richelieu, the Musketeers are officially disbanded. In preparation for the coming war with England, your ranks and commissions are hereby transferred to the Infantry. You will be contacted and told where to report. Until that time, you are instructed to return to your homes.
+3) 39) dialog: The Cardinal's Guards are more than capable of assuming that... responsibility.
+3) 40) text: Muttered curses and dissent throughout.       Rochefort r his voice to be heard:
+3) 41) dialog: You are hereby ordered to disperse. Should even one of you resist... the entire corps will be arrested and imprisoned. (with pleasure and disdain) 'All for one, and one for all.'
+3) 42) text: As Rochefort intended, the Musketeers explode. But before they can attack the Guards, de Treville's com- manding voice calls out above the clamor.
+3) 49) text: De Treville shoots a defiant look at Rochefort who smiles in a patronizing manner. Then, de Treville leads his Musketeers out of the courtyard.
+3) 50) dialog: He returns to the adjoining room where Jussac stands by. Rochefort has enjoyed himself immensely. He goes to a mirror and preens, adjusting his eye patch to a more rak- ish angle. That's when he catches a glimpse of something behind him. Something red. Rochefort turns. a tall, powerfully built MAN stands in the shadows of the room, a spectre in red.
+3) 51) dialog: Your Eminence.
+3) 52) text: Rochefort and Jussac instantly fall to their knees. ARMAND DU PLEISS THE CARDINAL RICHELIEU steps out of the darkness and into the light, his long crimson robes swirling about him like clouds of blood. His face is long, shrewd and intelligent. His eyes are penetrat- ing. He smiles his crocodile smile. Richelieu observes a duty roster on one of the walls. It contains the names of all the Musketeers, past and present.
+3) 54) dialog: (hedging) All but... three.
+8) 0) text: Athos, Aramis, and Porthos sweep into the now deserted courtyard. Silence -- the last thing they expected -- stops them in their tracks. The place is a cemetery, haunted by the ghosts of generations of Musketeers. Porthos is visibly distraught. Rochefort enters from behind an archway.
+8) 1) dialog: I'll take those tunics, Musketeers.
+8) 8) dialog: You ought to know. Three witnesses stood against me.
+8) 14) dialog: You are hereby ordered to surrender your commissions and make yourselves available for reassignment in the King's Army.
+8) 16) dialog: You will become outlaws.   Hunted men.
+8) 18) text: Athos cuts him off with a look. He's familiar with Porthos' propensity for tall tales. But not here, not now. Athos turns back to the balcony. Rochefort lobs a taunt.
+8) 19) dialog: Are you refusing to serve your King?
+8) 23) dialog: I'll tell him you said that.
+8) 31) text: The gauntlet has been thrown.       Rochefort picks it up glee.
+8) 32) dialog: I'll make sure His Emminence the Cardinal gets the message. But I can't promise he'll be pleased.
+8) 33) text: Rochefort steps back, disappears into the shadows. beat. The Musketeers regard each other.
+15) 0) text: Richelieu bursts out of the Throne Room and is joined by Rochefort. Walking quickly down a long hallway.
+15) 1) dialog: He's a foolish boy. And barely that.
+15) 3) dialog: (reacts, knows what this portends) And the Queen...?
+15) 5) text: HOLD ON the Cardinal and Rochefort, watching the King and Queen below.
+21) 112) dialog: (pointing) There they go! After them!
+21) 113) text: But before Rochefort and the Guards can give chase, d'Artagnan rides into the middle of the field to challenge them, as if to further prove himself worthy of the blue and gold.
+21) 118) text: D'Artagnan gallops toward the Guards to engage them.    H races through PISTOL SHOTS like a demon possessed. Rochefort rides to the lead, draws his sword.
+21) 119) dialog: (shouts to the others) Fall back! I'll take him myself!
+21) 120) text: And like two jousting knights, d'Artagnan and   Rochefort meet in the middle of the field. Their BLADES    connect with a resounding CLASH, d'Artagnan is knocked   clear of his saddle. He hits the ground with a painful    thud. Rochefort's Guards leap towards him.
+23) 2) dialog: It's magnificent. Where did you get it?
+23) 3) text: Rochefort steps INTO VIEW, the familiar eyepatch, admirin d'Artagnan's sword in his hands.
+23) 5) dialog: Your father...
+23) 6) text: Rochefort studies d'Artagnan for a long moment, then...
+23) 7) dialog: Well now it belongs to me. I collect swords. I take them from the men I kill.
+23) 9) text: D'Artagnan starts forward. But Rochefort raises the sword, points it at his throat. D'Artagnan freezes, feels the sharp tip of the blade.
+23) 10) dialog: Soon enough.
+23) 11) text: Rochefort shoves d'Artagnan back to the floor with a heavy boot. A beat. D'Artagnan peers at his dismal surroundings.
+23) 16) dialog: I'll give you a hint. It's not the Louvre.
+23) 18) dialog: Well, you're the first person who was ever happy to be here. Unfortunately, your visit will be a short one.
+23) 20) dialog: You killed one of the Cardinal's Guards. An offense punishable by death.
+23) 22) dialog: Also punishable by death.
+23) 24) dialog: You know them?
+23) 26) dialog: The Musketeers.
+23) 27) text: D'Artagnan says nothing.     He will not betray them. Rochefort leans close.
+23) 28) dialog: Tell me where they are, and I will be lenient.
+23) 33) dialog: (after a beat) I will give you your father's sword.
+23) 34) text: A long beat. D'Artagnan eyes the gleaming saber, forged in the Crusades. He nods, gestures for Rochefort to come closer. As if to impart a secret. Rochefort tilts downward, d'Artagnan rises up... and whispers.
+23) 36) text: Bold words, bad timing. Rochefort snarls, slams the hilt of the sword into d'Artagnan's head. The youth slumps from the wooden stool to the floor, unconscious.
+23) 37) dialog: Fool.   Like your father.
+23) 38) text: Rochefort storms from the cell. He nods at a grizzled jailer on his way out, indicates the chains and manacles on the cell wall. The jailer scurries over to d'Artagnan, inert in a shallow puddle of foul water. He lifts, drags him toward the chains -- but d'Artagnan's eyes pop open, the jailer reacts with surprise, and...
+25) 13) text: Rochefort knows what this portends.    He steps from the corner.
+25) 14) dialog: You're going to go through with ... everything?
+26) 0) text: D'Artagnan leaps back from the door as it opens, head down, shuffles to join the retinue of jailers as they RETURN TO VIEW. Milady, unrecognizable behind her cloak, steps into the corridor, the retinue escorts her forward. D'Artagnan falls into place, eyes down, eager for escape. Just then: a hand slams down upon his shoulder. D'Artagnan looks up into the face of Captain Rochefort.
+28) 0) text: D'Artagnan lands with a thud at Richelieu's feet. Rochefort hisses:
+28) 1) dialog: On your knees. When d'Artagnan fails to respond, Rochefort gives him a mighty kick. D'Artagnan scrambles into the correct posture of supplication. Rochefort continues:
+28) 2) dialog: This is the boy who killed Jussac.
+28) 4) dialog: Silence! Rochefort punches d'Artagnan in the head, knocking him to the floor. The Cardinal frowns.
+28) 46) text: Richelieu opens the door.       Rochefort waits on the ot side.
+28) 48) text: Rochefort steps into the room, grabs d'Artagnan roughly by the arm, hurls him from the chair to the floor. This time Richelieu does not utter protest. Instead, he turns to the Captain, commands:
+28) 50) dialog: They'll be dead by dawn.
+29) 5) dialog: Milady left at midnight.   By private coach.
+29) 7) dialog: He's wishing he'd never heard of the Musketeers.
+34) 0) text: Richelieu stands on the roof   of the Palais, lost in thought.  He looks down and   sees, through the smoke and mist, the silent rooftops of   Paris, pointed, innumerabl Richelieu turns, and crosses   to an elaborate pigeon coo Servants attach messages to   the legs of carrier pigeons Rochefort steps INTO VIEW, anxious, out of breath.
+34) 1) dialog: (bowing) Your Eminence. The Musketeers have been sighted riding north on the road to Calais.
+53) 0) text: A room as cold as the man who owns it. Behind Richelieu's desk, there is a life-sized portrait of the King. Rochefort occupies a window seat, cleaning d'Artagnan's sword. He lifts it to the light, and slashes the air. He stands, duels with an imaginary opponent. Richelieu enters with the message.
+53) 7) dialog: I told you not to worry about the Musketeers. They are dead by now.
+53) 9) dialog: The King's birthday celebration...?
+53) 11) text: Rochefort steps closer, speaks quietly.
+53) 12) dialog: And our plans...?
+53) 14) text: Richelieu pours two glasses of port, offers one to Rochefort. They turn, raise their glasses to the King's portrait. And drink.
+69) 2) text: REVEALS Richelieu and Rochefort as they walk across the roof to the painting, appraise the damage. Thie Cardinal pokes a long finger into the hole.
+69) 4) dialog: He can do it every time. Rochefort signals approval to a solitary marksman positioned far away on one of the roof parapets. The marksman rises from a shooter's crouch, bows curtly, and begins to reload his musket.
+69) 6) dialog: None. He believes that man should honor no Kings before God.
+75) 0) text: A gathering of nobles and ladies, all in full ceremonial dress. Rochefort is there as well, the familiar eye patch, in command of the Cardinal's Guards. A Seneschal waits at the door with two flanking lines of trumpeteers. The trumpeteers raise their instruments and blow a royal blast.
+76) 7) dialog: Yes, Your Eminence.
+76) 9) dialog: I'd stake my life on it, Your Eminence.
+79) 0) text: Louis and Anne continue toward the balcony. Richelieu trails the royal couple. He nods to Rochefort in passing. They exchange significant smiles. Anne spots the smirk on Rochefort's face. He resumes a supplicant pose. Anne glances back, Richelieu behind them.
+88) 0) text: Pandemonium reigns. Rochefort instructs his Guards to close the huge door to the great hall. The members of the King's royal court run in panicked circles, convinced the palace is under seige. Constance pauses amid the riot, seeks the Queen. But Richelieu has found her first. He steps to Anne, assumes an air of priestly innocence.
+88) 3) text: The great door shudders under the impact of a terrific blow. Another BOOM and the great hall is plunged into further chaos. The regiment of Guards rush forward, press their bodies against the door to secure it. BOOM -- the great door threatens to split in half. Richelieu huddles with Rochefort amid the rising panic. His eyes narrow to mean slits, he gestures toward Louis and Anne across the room.
+88) 5) text: Kill him. Kill her, too. Rochefort draws d'Artagnan's sword from its sheath. He advances on Louis and Anne. Louis has witnessed the latter, treason confirmed. He raises his own sword, prepared to protect his Queen. To die for her if necessary.
+88) 7) text: Get behind me. Rochefort takes confident steps toward the King. But one last BOOM and the great DOOR comes CRASHING down on the Guards, revealing a tide of Musketeers on the other side. Athos, Porthos, and Aramis at the lead.
+88) 12) dialog: Not for long.
+88) 13) text: Athos and Rochefort lock swords and duel.
+88) 16) text: Anne looks up. Constance tosses the goblet to her. Anne catches it neatly, brings it down on the head of the hapless Guard. Constance smiles, leaps forward. Aramis cuts down a Guard. As another man comes at him from behind, Porthos intervenes, runs the man through. The two Musketeers pause to exchange deadpan thanks, and continue. Athos and Rochefort slash at each other. It is a mighty confrontation. But Athos soon gains the upper hand. Rochefort shouts to a nearby Guard for help. Now it's two on one. Athos receives a wound in the shoulder, he staggers... and the treaty falls from his tunic to the floor. Rochefort reacts with a start, he grabs the treaty, stuffs it into his doublet. Athos shakes off the sudden pain, disposes of the Guard. Rochefort and Athos face each other a second time. Athos wounded, Rochefort confident he can finish the injured Musketeer. But Athos merely changes sword hands. Rochefort reacts. Their SABERS CLASH as they draw together. Rochefort grabs a dagger from his belt with his free hand. But Athos sees it coming, and smashes Rochefort across the face with his fist.
+88) 21) text: D'Artagnan stoops to pick up his long-lost sword. He tosses his other saber to Rochefort, who catches it neatly. Athos watches from a short distance, knows this moment belongs to d'Artagnan. He will not intervene. But he shouts:
+88) 23) text: These are d'Artagnan's words. A son vowing to avenge the death of his father. D'Artagnan wonders. Rochefort confirms.
+88) 24) dialog: By all means. Let's discover if you are as brave a man as your father was. And as foolish.
+88) 26) dialog: He died for his King and for France. But most of all... he died on the end of my sword. (the final curse) As will you.
+88) 27) text: Rochefort smiles a taunt.     D'Artagnan raises his sword whispers to heaven.
+88) 29) text: Then, eyes blazing, d'Artagnan attacks Rochefort with everything he's got, driving him into an adjoining chamber.
+88) 34) dialog: One thing's certain. You're no Musketeer.
+88) 35) text: But d'Artagnan remembers Athos' advice. "Always find your enemy's weakness." He shoves a thumb into Rochefort's good eye. Rochefort stumbles backward. D'Artagnan plunges his sword into Monsieur Cyclops's heart.
+88) 37) dialog: I might... have been... mistaken.
+88) 38) text: Rochefort crumples to the floor, dead. D'Artagnan looks at Rochefort's blood on his sword. His father's death finally avenged. That's when he hears the RUSTLE of a SILKEN ROBE. D'Artagnan pivots, sees Richelieu kneeling at Rochefort's body... extracting the treaty from his doublet.

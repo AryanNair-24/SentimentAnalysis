@@ -1,0 +1,186 @@
+10) 1) dialog: Consider it  The great symbol of the Empire... But the bird-of-prey holds planets.  Romulus, Remus. Their destinies conjoined... And then we see him... SHINZON! He is a dynamic young human in his twenties.  Very handso with pale, almost white skin and shining, golden hair.  H wears a striking Reman military uniform. He stands in the center of the eerily deserted chamber. entire floor is a large star chart.
+10) 2) dialog: Yet for generations one of those planets has been without a voice. We will be silent no longer. Senator Tal'Aura (the female Senator who planted the weap in the Senate chamber earlier) and two other ROMULAN COMMANDERS sit. Cadres of Shinzon's fearsome REMAN WARRIORS stand around chamber.  They are his sinister children of the night.  E more chilling now in the flickering torch light.  It's li something out of Tim Burton. Donatra and Suran enter the chamber with Shinzon's Vicero
+10) 3) dialog: Join us, Commanders.  Now what's the disposition of the fleet?
+10) 5) dialog: And?
+10) 7) dialog: It's imperative we retain their allegiance or our great mission will be strangled before it can truly draw breath.
+10) 9) dialog: And they'll have it. (he begins to pace over the star chart) Tell the fleet that the days of negotiation and diplomacy are over. The Almighty Federation will fall before us.  As I promised you. He stands on the area of the map that denotes the Neutral Zone between the Romulan Empire and the Federation.
+10) 10) dialog: The time we have dreamed of is at hand.  The time... of conquest. (sinister laugh) He carefully steps into the area of the map marked with t Federation symbol.  He looks down at the star chart.
+10) 11) dialog: Cut off the dragon's head and it cannot strike back. A beat.  Donatra watches him carefully.  Something in his quiet words disturbs her.
+10) 13) dialog: None. They look at him, stunned.
+10) 15) dialog: The Scimitar will serve my needs.
+10) 17) dialog: I came this far alone... (he looks at his Reman warriors) We came this far alone.  We require no assistance from the fleet.  Now leave me to my thoughts. The Commanders and Senator Tal'Aura rise and leave.  Shin looks to his Viceroy.
+10) 18) dialog: Are we prepared?
+10) 20) dialog: So many years for this moment. (he looks up at his Viceroy, smiles) Bring him to me.
+30) 0) text: Our first sight of this incredible ship is absolutely breathtaking. Shinzon's vessel combines the clean lines of the traditio Romulan Warbird with unique weaponry and styling.  It is huge, easily twice as large as the Enterprise.  And it is aggressive.  Awesome in its power.
+32) 0) text: The away team materializes in the most striking location Shinzon's ship: a large observation lounge. It is a huge, empty chamber.  No furniture.  A simple Rem mat on the floor is the only decoration.  At the very top the room there is a large, etched glass dome. It is very dark. They turn when Shinzon speaks from the shadows:
+32) 1) dialog: I hope you'll forgive the darkness... we're not comfortable in the light.
+32) 3) dialog: Captain Picard... Jean Luc Picard... I don't mean to stare, it's just -- well, you can't imagine how long I've been waiting for this moment.  I always imagined you taller, isn't that odd? (to Data) You may scan me without subterfuge, Commander Data. Data scans him with a tricorder as:
+32) 5) dialog: No?
+32) 7) dialog: Commander Worf. (he speaks in Klingon) I greet you as a valiant warrior... and as my brother.
+32) 11) dialog: (quietly) I've never met a human woman. He slowly moves toward her, still hidden in the shadows.
+32) 13) dialog: Deanna Troi of Betazed.  Empathic and telepathic abilities, ship's counselor.  All of this I knew... But I didn't know you were so beautiful.
+32) 15) dialog: I am, Commander Riker... (to Deanna) ... May I touch your hair?
+32) 17) dialog: (softly) On the world I come from there's no light.  No sun.  Beauty isn't important.  I see now there's a world elsewhere.
+32) 19) dialog: (turning back to Picard) Yes, I'm sorry, Captain. (he smiles) There's so much we have to talk about.
+32) 21) dialog: Unity, Captain!  Tearing down the walls between us to recognize we are one people.  Federation and Romulan.  Human and Vulcan and Klingon and Reman.  I'm speaking of the thing that makes us the same. We want peace. Picard and the others are stunned.
+32) 22) dialog: I want to end the centuries of mistrust.  I want to be your ally, not your enemy.  As a first step I propose we eliminate the Neutral Zone and begin a free and open exchange of goods and ideas.
+32) 24) dialog: (dry) I have dissolved the Senate. A beat.
+32) 25) dialog: Right now, you're thinking this all sounds too good to be true?
+32) 27) dialog: And you're wondering why the Scimitar is so well armed.  Is this the ship of a peacemaker?  Or a predator? (Picard is startled at Shinzon's choice of words) ... But you're also thinking the chance for peace is too promising to ignore.  Above all, you're trying to decide if you can trust me.
+32) 29) dialog: Then perhaps the time has come to add some illumination to our discussion.  Computer, raise lighting four levels. Lights shoot up around the room. For the first time the crew can see Shinzon clearly.  Pic actually gasps when he sees Shinzon's face.  The rest of crew doesn't understand his reaction.
+32) 30) dialog: Allow me to tell you a story that I hope will clarify my position. When I was very young I was stricken with an odd disease.  I developed a hyper-sensitivity to sound.  The slightest whisper caused me agony... Picard watches him carefully.  Wary and strangely intense
+32) 31) dialog: No one knew what to do.  Finally I was taken to a doctor who had some experience with Terran illnesses and I was finally diagnosed with Shalaft's syndrome.  Do you know of it, Captain?
+32) 33) dialog: Then you know it's a very rare syndrome.  Genetic.  All the male members of my family had it. Eventually I was treated.  Now I can hear as well as you can, Captain. He steps toward Picard who holds his ground.
+32) 34) dialog: I can see as well as you can.  I can feel everything you feel. (He stops right before Picard) In fact, I feel exactly what you feel.  Don't I, Jean Luc? Picard stares at him with a mixture of realization and curiosity.  It is as if Picard is looking into a strange, remembered mirror: Shinzon's face is nearly identical to at that age.
+32) 35) dialog: Do you trust me now? A beat.
+32) 37) dialog: Come to dinner on Romulus tomorrow. Just the two of us.  Or just the one of us.
+32) 39) dialog: I know. The crew is utterly confused.  Their confusion turns to outright shock when Shinzon calmly pulls out a Reman knif and cuts his arm, drawing a little blood.  He hands the k to Data.
+32) 40) dialog: Tomorrow then, Captain.  We have so much to discuss. Picard touches his communicator pin:
+35) 5) dialog: Imzadi.  This is so good.
+35) 7) dialog: He can never know you as I know you... He can never touch you as I touch you.
+35) 9) dialog: Can you feel my hands... are they real?  Can you feel my lips, my loins? He kisses her neck -- but when he raises his head again. is the monstrous Viceroy!  Holding her.  Caressing her. is frozen in horror.  But is it the Viceroy at all? Shinzon's voice seems to come from the Viceroy's lips:
+35) 10) dialog: I'm with you, Imzadi... And then it is Shinzon again, kissing her:
+35) 11) dialog: I'll always be with you now.  Now and forever...
+37) 0) text: Heavy drapes are drawn against any hint of the sun.  Shin is in conference with the Romulan Commanders and Senator Tal'Aura.  Commander Donatra watches him closely. Commander Suran is angry, pacing.  Shinzon stands.  His Viceroy lurks in a corner.
+37) 2) dialog: You don't have to understand.
+37) 4) dialog: I have a purpose.
+37) 6) dialog: (snaps) Silence, Romulan! A tense beat.  Shinzon regains his composure.
+37) 7) dialog: You must learn patience, Commander. Do you know where I learned it?  In the dilithium mines of Remus. Spend eighteen hours every day under the lash of a Romulan guard's whip and you'll soon understand patience.
+37) 9) dialog: Now go.  I have some personal business. Suran and the others go. Donatra turns just as she is leaving the chamber, she see the Viceroy going to Shinzon.  And then do something odd. The Viceroy puts his hand on Shinzon's chest, leans very close and talks to him quietly.  This is an ancient form Reman telepathic medical diagnosis. This strange sight perplexes Donatra.  The doors close, blocking her view...
+40) 0) text: Picard and Shinzon sit alone in a corner of the sweeping Senate chamber.  The remains of dinner before them.
+40) 1) dialog: And when I was ready they were going to replace you with me, an exact biological duplicate.  Put a Romulan agent at the heart of Starfleet to influence your command structure.  It was a bold plan.
+40) 3) dialog: As happens so frequently here on Romulus, a new government came to power.  They decided to abandon the plan -- frankly, I think they were afraid I'd be discovered and it would lead to war.  They weren't ready for that. Picard pours a glass of Romulan ale.
+40) 4) dialog: Romulan ale -- I'm surprised.  I can't stand it.
+40) 6) dialog: It's not quite the face you remember.
+40) 8) dialog: A lifetime of violence will do that.  My nose was broken four times.  And my jaw... But so much is the same.  The eyes, you recognize the eyes.
+40) 10) dialog: Our eyes reflect our lives, don't they?  Yours are so confident.
+40) 12) dialog: They sent me there to die.  How could a mere human survive the dilithium mines?  It was... (he can't find the words) ... I was a slave.  And a monster. The only thing the Romulan guards hated more than the Remans was me. But one man took pity on me: the man who became my Viceroy.  He taught me how to survive.  And in that dark place, where there was nothing of myself, I found my Reman brothers.  They showed me the only kindness I ever knew. A beat.  He glances to the Romulan crest on the wall.
+40) 13) dialog: For thousands of years the Romulan Senate has met in this chamber and dictated the fate of its sister- planet... But the time has come for us to live as equals.
+40) 15) dialog: No race should be a slave to another. Picard is impressed with Shinzon's quiet words.
+40) 16) dialog: You don't trust me.
+40) 18) dialog: Of course you do.  If you had lived my life and experienced the suffering of my people... you'd be sitting where I am now.  At least I hope you would.
+40) 20) dialog: All I have is my personal feelings. I wasn't raised with the ideals of the Federation.  But I'm trying to understand them now.  To live up to them   To live up to you. A beat.
+40) 21) dialog: I want to know where I come from. The Remans gave me a future.  You can tell me about my past.
+40) 23) dialog: Were we always explorers? PlCARD
+40) 24) text: No.  I was the first Picard to leave Earth.  It caused quite a stir, In fact.  But I had spent my whole life... SHINZON
+40) 26) text: Yes. SHINZON
+40) 29) text: After you, Praetor. SHINZON
+40) 31) text: So I'm not as tall as you expected? SHINZON
+40) 33) text: With a full head of hair. SHINZON
+40) 35) text: Shinzon... I'm trying to believe you. SHINZON
+40) 37) text: If there's one ideal the Federation holds most dear it's that all men, all races, can be united.  From the first time the Vulcans came to Earth we've sought a future of peace.  Nothing would make me more proud than to take your hand in friendship.  In time.  When trust has been earned. SHINZON
+40) 38) text: I'm honored to think I might someday speak with such eloquence. A beat. SHINZON
+41) 0) text: Picard is gone.  Shinzon sits, thinking.  His Viceroy ent VICEROY
+41) 1) text: This is a mistake. SHINZON
+41) 3) text: (stern) Don't forget our mission, Shinzon. We should act.  Now.  Time is running out. SHINZON
+41) 4) text: (snaps) My time.  I'll spend it how I choose. A tense beat. SHINZON
+44) 0) text: Picard is sitting at his desk, flipping through an old ph album.  He stops and stares at one of the pictures deeply troubled.  We finally see the photo: Young Jean Luc Picar A serious, unsmiling cadet at Starfleet Academy.  The fac before him bears a disturbing resemblance to Shinzon. The door comm chirps. PICARD
+44) 7) text: I so wanted to believe Shinzon. But the Thalaron radiation can't be explained away.  Whatever he's after, it's not peace. BEVERLY
+45) 0) text: Deanna is alone on the turbolift.  Then a voice makes her spin: SHINZON (V.O.)
+45) 1) text: Imzadi... Shinzon stands across from her. DEANNA
+45) 2) text: You're not here. SHINZON
+45) 4) text: No... SHINZON
+45) 5) text: I can feel your desire, Deanna... She forces herself to concentrate... to resist telepathically... it is a mighty effort... this Romulan i hot.  And the world around her appears to be changing... bending... And she is momentarily in a cabin on the Scimitar.  Altho entirely a telepathic experience, it is as if she has actually traveled. She sees Shinzon kneeling over a small flame, she realize she is looking through the Viceroy's eyes. On the Scimitar, Shinzon looks up at the Viceroy/Deanna: SHINZON
+45) 6) text: I can feel your hunger to know the Reman ways... the old ways. Then the world changes again... Deanna is on the turbolift.  Shinzon is pressed against h whispering: SHINZON
+46) 0) text: The Viceroy, in a kind of trace, kneels before a small fl Shinzon kneels across from him.  The Viceroy raises his h VICEROY
+46) 1) text: The bond is broken. SHINZON
+46) 3) text: No -- this is wasting time. SHINZON
+46) 5) text: Praetor, we've received the transponder signal. SHINZON
+46) 6) text: (to comm) On my way. He begins to go -- but suddenly stops, a wave of illness overtaking him. The Viceroy puts his hand on Shinzon's chest.  A strange moment as the Viceroy shuts his eyes and feels Shinzon's chest.  His mind... probing. Then the Viceroy looks up at him, grim. VICEROY
+46) 7) text: It's accelerating.  You have no more time for games. SHINZON
+47) 0) text: Shinzon stands with some REMAN ENGINEERS. SHINZON
+47) 1) text: Transport. An Engineer activates a transporter and the B-9 materiali SHINZON
+47) 2) text: Welcome home. (to Engineers) Begin the download. Reman engineers go to the B-9 and open the panel in his n begin connecting computer conduits to the extra memory po we saw earlier. (Note: Although the audience will not know it yet, this i actually Data pretending to be the B-9.) Shinzon goes to a replicator unit and orders: SHINZON
+48) 4) text: (with difficulty) Shinzon's Viceroy seems to have the ability to reach into my thoughts. I've become a liability... I request to be relieved of my duties. PICARD
+50) 0) text: Picard stands in the Reman brig.  His communicator pin ha been removed. Beyond the security force field a ghoulish medical appara is being prepared.  A metal chair with laser scalpels, IV tubes and hyposprays connected to it.  Reman doctors work over the mysterious chair. Shinzon enters with the B-9 following.  Shinzon stands on other side of the force field. Picard notices something immediately.  Tiny veins are now visible on Shinzon's face; the faintest sign of an intric spider-web pattern of pale blue veins. SHINZON
+50) 2) text: Why am I here? SHINZON
+50) 4) text: (resists) What are you doing? SHINZON
+50) 5) text: I need a sample of your blood. What do your Borg friends say? Resistance is futile. (maniacal laugh) The Doctor takes a quick sample of Picard's blood as Pica glances to the B-9. SHINZON
+50) 7) text: All of this so you could capture me? SHINZON
+50) 9) text: Where? SHINZON
+50) 10) text: Out of my sight. The B-9 obediently leaves the room as: SHINZON
+50) 12) text: What's this all about? SHINZON
+50) 14) text: You're not Reman. SHINZON
+50) 16) text: I see a young man trying desperately to deny who he is. SHINZON
+50) 18) text: I won't defend my life to you. SHINZON
+50) 20) text: (stern) If your issues are with me... This has nothing to do with my ship and nothing to do with the Federation. SHINZON
+50) 22) text: Think about what you're doing, Shinzon.  Are you ready to plunge the entire quadrant into war to satisfy your own personal demons? SHINZON
+50) 24) text: I'm incapable of such an act, and so are you. SHINZON
+50) 25) text: I think the facts speak for themselves.  The same noble Picard blood runs in our veins.  Had you lived my life, you'd be doing exactly as I am.  Look in the mirror, and see yourself. Shinzon looks at him deeply. SHINZON
+50) 27) text: It's a mirror for you as well... Shinzon turns back to him. A beat.  Picard gazes at him evenly. Picard's probing gaze makes Shinzon a bit uneasy.  He gla to the ghoulish medical preparations. SHINZON
+53) 2) text: Praetor Shinzon wants him on the bridge. The Viceroy turns his malevolent gaze on Picard. VICEROY
+53) 5) text: I'm preparing her for Shinzon... To sooth him as she soothes you.  To stand at his side as she does at yours. PICARD
+55) 1) text: Where's Picard? Shinzon looks at him, confused.
+65) 0) text: Shinzon sees the Scorpion as well. SHINZON
+69) 0) text: Shinzon sits in his command chair as the ship streaks thr space.  He speaks on viewscreen with his Romulan collaborators.  His face is even more finely veined now. SHINZON
+69) 2) text: (angry) This has gone far enough! SHINZON
+69) 4) text: And mine is wearing thin, young man!  We supported you because you promised action.  And yet you delay and you waste your time playing games with Picard while -- Shinzon stands and briskly pulls down his uniform tunic  exactly as we've seen Picard do a thousand times. SHINZON
+69) 6) text: (grim) For the moment. SHINZON
+70) 0) text: The viewscreen picture of Shinzon snaps out.  The Romulan for a silent beat. DONATRA
+71) 1) text: The more I studied his DNA the more confusing it got.  Finally I could only come to one conclusion... Shinzon was created with temporal RNA sequencing.  He was designed so that at a certain point his aging process could be accelerated to reach your age more quickly, so he could replace you. PICARD
+72) 9) text: Do you know anything about Shinzon's plans against the Federation? B-9
+73) 0) text: Picard is gathered with his senior officers. A computer display illustrates Geordi's words about the p of Shinzon's weapon.  We see a chilling graphic of the Biogenic Pulse beam spreading around a ship, then a whole planet. GEORDI
+74) 0) text: We see a montage of the Enterprise preparing for battle. Crew members assume battle stations.  Weapons locker ring open and Security Officers hand out sidearms and phaser rifles. Geordi and his Engineers establish emergency force field around the warp core. Riker and Worf brief officers on tactical plans... Data works at the bridge Science Station, analyzing data Shinzon's ship. Picard walks through the corridors, he stops to talk with apprehensive young ensign. As we hear: PICARD (V.O.)
+76) 0) text: Shinzon sits in his command chair, lined with veins now. His Viceroy again has his hand pressed to Shinzon's chest SHINZON
+76) 2) text: A matter of hours now -- Shinzon shoves him away.  Stands. VICEROY
+76) 3) text: If you don't begin the procedure soon you'll never make it back to Romulus.  You shouldn't have delayed.  You should have killed Picard the moment -- Shinzon slams his command chair in fury.  The Viceroy wat him carefully. A beat.  Shinzon regains his composure.  He sits again in command chair. SHINZON
+76) 5) text: (checks a console) Seven minutes. Shinzon leans back, satisfied.  And looks at the viewscre The image on the viewscreen is shocking. The Enterprise only a few hundred yards away.
+78) 13) text: I aspire, sir.  To be better than I am.  The B-9 does not.  Nor does Shinzon. A beat. PICARD
+78) 14) text: We'll never know what Shinzon might have been.  Had he stood where I did as a child?  And looked up at the stars. Picard's words linger in the air for a moment. Then the projections before them sputter with static for moment.  Flickering. DATA
+80) 0) text: Shinzon sits in his command chair.  The viewscreen shows Enterprise before him. SHINZON
+80) 1) text: Target weapons systems and shields. I don't want the Enterprise destroyed. On the viewscreen, we see disruptor blasts streaking from Scimitar -- slicing into the Enterprise. SHINZON
+83) 0) text: SHINZON
+83) 1) text: You're too slow, old man. (entering commands in his chair console) Attack pattern Shinzon Theta.
+86) 0) text: The Enterprise instantly complies -- Rolling completely o to the left, firing phasers up as Shinzon's invisible shi streaks above it -- A few lucky phaser shots from the bottom of the Enterpris now shooting upward -- manage to momentarily illuminate t bottom shields of the Scimitar as it sweeps past above.
+87) 7) text: On screen. Shinzon appears on the viewscreen.  He is on the bridge o the Scimitar. SHINZON (ON VIEWSCREEN)
+88) 0) text: Picard stands in his Ready Room.  A flickering light shim across the room.  And a perfect holographic representatio Shinzon appears before him. SHINZON
+88) 2) text: We are. SHINZON
+88) 4) text: Why are you here? SHINZON
+88) 6) text: And what of the Enterprise? SHINZON
+88) 8) text: You know that's not possible. SHINZON
+88) 10) text: (intense) Look at me, Shinzon!  Do you feel the blood pumping inside you?  Your hands, your eyes, your nature, are the same as mine.  Buried deep inside you beneath the years of pain and anger is a capacity you've forgotten.  It's the one way our mirror can reflect the two of us exactly because it's the very thing that truly defines us.  To be human is to try to make yourself better than you are. Picard looks at him deeply, relentlessly refusing to give PICARD
+88) 11) text: I know you as well as I know myself, Shinzon.  There was a time you looked at the stars and dreamed of what might be. SHINZON
+88) 13) text: Not so long. SHINZON
+88) 16) text: I see what you could be. Shinzon slowly backs away as Picard continues to move tow him relentlessly. PICARD
+88) 17) text: The man who is Jean Luc Picard and Shinzon of Remus won't exterminate the population of an entire planet! He is better than that! SHINZON
+88) 18) text: (desperate) He is what his life has made him! Shinzon is in turmoil.  Picard senses this.  He proceeds quietly: PICARD
+88) 19) text: And what will he do with that life? Shinzon looks at him, questioning. PICARD
+88) 20) text: If I were to beam to your ship... let you complete your medical procedure, give you a full life... what would you do with the time? Shinzon doesn't respond. PICARD
+88) 21) text: You once asked me about your past. Your history.  When I was your age, I burned with ambition.  I was very proud and my pride often hurt people.  I made every wrong choice a young man can... But one thing saved me... I had a father who believed in me.  Who took the time to teach me a better way.  You have the same father. SHINZON
+88) 23) text: So if I gave you my life, what would you do with it?  Would you spend the years in a blaze of hatred as you are now?  Or could you change?  Could you try to remember a mother's touch you never felt?  A father's words you never heard?  Could you do that? SHINZON
+88) 25) text: But you want to. Shinzon doesn't respond.  But Picard knows he has made a connection.  For this brief moment reconciliation is possible.  He proceeds quietly: PICARD
+88) 26) text: Let me tell you about our father. Shinzon looks at him with an aching sadness.  What might been. SHINZON
+88) 28) text: Please. SHINZON
+88) 30) text: You can still make a choice!  Make the right one now! SHINZON
+88) 31) text: I have no choices!  I can't fight what I am! Shinzon backs away, unable to fight his nature: SHINZON
+88) 32) text: I'll show you my true nature.  Your nature.  And as Earth dies -- remember that I'm forever Shinzon of Remus!  And my voice will echo through time long after yours has faded to a dim memory. Shinzon ends the transmission and his holographic image flickers and fades away. Picard stands alone, drained.
+89) 0) text: Shinzon strides quickly to his command chair, barking to Viceroy: SHINZON
+89) 1) text: Disable their weapons! But before the Viceroy can move the Scimitar suddenly ROC -- attacked from somewhere!  Shinzon is stunned. SHINZON
+90) 9) text: (to Worf) You heard the lady.  Get to work. Move your ass! (The Romulan Warbirds must remain decloaked to fire weapo and are visible throughout the battle.) Although Shinzon's ship is still cloaked, the steady barr of triangulated phaser and disruptor fire from the Enterp and the two Romulan vessels illuminate its shields with impacts.
+92) 0) text: Shinzon sits quite calmly in his command chair. SHINZON
+95) 0) text: The Enterprise quickly turns about -- firing her aft phas as the Valdore sweeps toward Shinzon's ship, firing --
+96) 0) text: SHINZON
+96) 2) text: (startled) What?! SHINZON
+98) 1) text: She's almost on us. SHINZON
+98) 3) text: Praetor... SHINZON
+100) 0) text: SHINZON
+104) 0) text: Shinzon is entering tactical commands in his chair consol SHINZON
+106) 0) text: The Viceroy concentrates, trying to block her probing thoughts. SHINZON
+112) 0) text: And the Enterprise attacks! It fires all weapons simultaneously -- phasers and photon torpedoes slam into the Scimitar!  Shinzon's ship respond quickly -- maneuvering for position and returning fire!
+113) 0) text: The bridge has been damaged, sparks sputter through the darkness and debris litters the deck. Shinzon eyes reflect a growing sense of desperation. SHINZON
+119) 0) text: Shinzon, supremely confident, leans back in his command chair. SHINZON
+120) 2) text: Deanna, stand by. (to Data) Open a channel. SHINZON (V.O.)
+120) 4) text: I am. SHINZON (V.O.)
+122) 0) text: Shinzon sees it coming -- utterly shocked -- bolts up -- SHINZON
+123) 0) text: A massive COLLISION as the Enterprise SLAMS into the Scim -- as it SMASHES and GRINDS into Shinzon's ship -- The Scimitar REELS --
+125) 0) text: The two great ships are now locked together, slowly rotat in space. The forward part of the Enterprise's saucer is enmeshed i Shinzon's ship; two scorpions with their claws locked.
+126) 0) text: Shinzon stands in the ruins of his bridge.  Many of his bridge crew are now dead. SHINZON
+129) 3) text: Auto-destruct is off-line. Then the ship gives a final LURCH.  The Scimitar is free. An eerie moment of silence after the explosive tearing an grinding. Picard watches through the gaping hole in the hull as the Scimitar backs away.  Another section of the Scimitar disappears.  Shinzon almost has his cloak back.
+130) 0) text: Shinzon stares at the Enterprise. A wave of sickness overcomes him for a moment, he doubles over.  We actually see more veins appearing on his face. Time is running out. SHINZON
+130) 2) text: Disruptors are off-line, sir. A beat.  Shinzon looks up. SHINZON
+130) 4) text: What about Picard? SHINZON
+130) 6) text: But, Praetor, you won't survive without him... Shinzon gazes at the Enterprise on the viewscreen. SHINZON
+136) 0) text: Shinzon stands, his eyes glued to the Enterprise on the viewscreen. We see a monitor showing that the Cascading Pulse weapon locked on the Enterprise. Most of the light on the shattered bridge now comes from three steadily pulsing warp core relays which soar up thr the floor. COMPUTER (V.O)
+136) 1) text: Forty-seven.  Forty six... Suddenly -- a MASSIVE BLAST as the doors to the bridge explode in.  Shinzon spins to see -- Picard framed in the doorway, phaser rifle ready. Picard instantly fires for the Cascading Pulse control -- Shinzon dives to cover it -- the phaser blast hits Shinzo the chest -- he recoils, slamming to the deck, stunned. The few remaining Remans on the bridge spin to Picard, fi disruptors -- Picard dives for cover and battles them wit his phaser rifle -- He succeeds in stunning the Remans but a final disruptor blast knocks Picard to the deck -- the phaser rifle spins away -- COMPUTER (V.O.)
+136) 2) text: Twenty nine... Twenty eight... Shinzon pulls himself up and races to snatch up a disrupt from a fallen comrade -- As Picard leaps up, grabbing a piece of wreckage, a long metal rod -- Picard thrusts it forward like a spear -- Impaling Shinzon. A stunned moment of silence as Shinzon gazes at Picard, almost with a look of disbelief.  Blood spews from his mo as he lets out a tormented cry. And then, amazingly, Shinzon forces himself forward -- pushing Picard back against a wall -- Shinzon slowly walk toward Picard, forcing himself down the length of the spe -- the spear point explodes through Shinzon's back -- the weight of Shinzon's body is pinning Picard against the wa -- time is running out -- COMPUTER (V.O.)
+136) 3) text: Eighteen... Seventeen... Shinzon forces himself down the spear: SHINZON

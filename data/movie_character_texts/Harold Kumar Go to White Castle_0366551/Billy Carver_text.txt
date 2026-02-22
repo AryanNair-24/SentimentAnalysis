@@ -1,0 +1,28 @@
+1) 0) text: BILLY CARVER (mid-20s, good looking, "romantic") is sitti at his desk, depressed, staring at a photo of his ex- girlfriend.
+1) 6) text: J.D. snatches the photo, and pulls out his lighter. Just the flame is about to touch the photo, BILLY grabs it bac
+1) 7) dialog: Don't!
+1) 9) text: BILLY nods knowingly.
+1) 11) dialog: You're such a romantic, J.D.
+1) 13) text: BILLY ponders this for a moment.
+1) 14) dialog: Whatever. Even if I wanted to meet other women, I wouldn't even know what to do. I've been out of the game so long.
+1) 20) dialog: Sounds tempting, but I can't. Berenson needs me to update the financial models for his meeting with the foreign investors.
+1) 22) dialog: No I don't. The Germans are taking an earlier flight back, so the meeting's been moved to tomorrow.
+1) 25) dialog: Who?
+2) 0) text: HAROLD LEE (22 years old, the typical Asian-American workhorse you'll find in any investment bank) is packing his briefcase, getting ready to leave for the day. BILLY and J.D. approach...
+2) 1) dialog: Harold, listen, I need you to update these models for me.
+2) 3) dialog: I know, but something came up. I have to meet with some clients tonight, so I won't be able to get to it. It's your responsibility now. Okay?
+2) 10) text: BILLY drops a big stack of papers on Harold's desk.
+3) 0) text: BILLY and J.D. are walking through the parking lot.
+3) 1) dialog: Wow!   I can't believe how easy that was!
+4) 0) text: Billy and J.D. enter the car.
+4) 4) text: QUICK BOOM UP from J.D.'s Convertible and PUSH IN to Haro standing at a window watching as Billy and J.D. zoom off. He looks at the stack of papers they gave him...
+18) 0) text: Tired and frustrated, Harold enters his apartment. The pl is minimally decorated, with one of the highlights being poster of "BILLY MADISON."
+25) 0) text: HAROLD and KUMAR walk into an apartment that looks almost identical to theirs. (Instead of a "BILLY MADISON" poster there's one of "HAPPY GILMORE.")
+144) 11) text: HAROLD pretends to be listening to KUMAR-- BUT HE IS MORE FOCUSED ON BILLY AND J.D., who get out of the car with th women and start walking towards the front door.
+144) 21) dialog: I'll be there in a second... J.D. and TRACY check out the menu. BILLY takes ZOE aside- whatever their story is, it seems to have reached the "yo complete me" moment...
+144) 22) dialog: Look, I have to admit something to you. At the start of last night, all I really cared about was getting some. But then I met you, Zoe. You're so different from all the other women I've ever met. You're smart, funny, artistic. I guess what I'm trying to say is...
+144) 24) dialog: Harold?   What are you...?
+144) 37) text: ...cock boy! J.D. is embarrassed. BILLY tries to placate the situation
+144) 38) dialog: Listen Harry...
+144) 49) text: TRACI and ZOE hear this and are freaked out.   They slowl back away from BILLY and J.D....
+144) 51) text: HAROLD leaves the RESTAURANT. KUMAR follows.     Billy an are left embarrassed and in shock.

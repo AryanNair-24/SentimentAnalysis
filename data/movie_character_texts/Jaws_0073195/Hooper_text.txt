@@ -1,0 +1,225 @@
+23) 53) dialog: Hello.
+23) 64) dialog: (stepping in to help) Ahoy, sail! You got an oar? Well,  scull it out!
+23) 67) dialog: Just cast off in turn and make for  the channel, OK?
+23) 69) text: Brody starts back towards the shore, Hooper is by his sid
+23) 70) dialog: Excuse me, I wonder if you could  tell me...
+23) 72) dialog: (noticing something) Is that dynamite?
+23) 77) text: The man passes Brody a cigar box filled with dynamite sti Brody tucks the dynamite under his arm, and continues dow the pier. Hooper is still with him. All around them are two distinctly different breeds; the  quiet pros, like Ben Gardner, in well-worn, comfortable  clothes, with efficient, sensible gear, and the amateur  crazies, with all manner of weapons and impractical, sill tourist clothing.
+24) 1) dialog: There's a fantail launch out there  that won't make it beyond the  breakwater.
+24) 3) dialog: Officer, I wonder if you could tell  me where I could find Chief Brody?
+24) 5) dialog: Hooper, Matt Hooper. From the  Oceanographic Institute. (holds out his hand)
+25) 0) text: The Amity Morgue is also the Amity Funeral Home, a Victor house that normally serves as the community's mortuary. T Coroner, a professional small-town GP, is standing by as  Hooper is speaking into a sophisticated cassette recorder with a headpiece that leaves his hands free for measureme with a calibrator or calipers.
+25) 3) dialog: He is looking down as the drawer slides past him, still m of-fact, turning on his recorder.
+25) 4) dialog: Victim One, identified as Christine  Watkins, female Caucasian...
+25) 5) text: The sheet has just been lifted, and Hooper stares down at the lump on the slab. He stops, turns off his recorder as emotions wage war with his senses. Rationality wins, and turns on the recorder again.
+25) 6) dialog: ...height and weight may only be  estimated from partial remains. Torso  severed in mid-thorax, eviscerated  with no major organs remaining. May  I have a drink of water? Right arm  severed above the elbow with massive  tissue loss from upper musculature.  Portions of denuded bone remaining. (tense, to Brody) -- did you notify the coast guard?
+25) 8) dialog: Left arm, head, shoulders, sternum  and portions of ribcage intact. (to Brody) Please don't smoke. With minor post- mortem lacerations and abrasions.  Bite marks indicate typical non-frenzy  feeding pattern of large squali,  possibly carchaninus lonimanus, or  isurus glaucas. Gross tissue loss  and post-mortem erosion of bite  surfaces prevent detailed analysis;  however, teeth and jaws of the  attacking squali must be considered  above average for these waters. (to Brody again) -- Did you go out in a boat and look  around?
+25) 10) dialog: (turns off the recorder) It wasn't an 'accident,' it wasn't a  boat propeller, or a coral reef, or  Jack the Ripper. It was a shark. It  was a shark.
+26) 2) text: As he and the photographer turn to mob, we see Hooper and Brody arriving from the morgue. Hooper immediately heads  towards the shark, while Brody pauses and we see a look o relief and delight cross his features.
+26) 3) dialog: Well, if one man can catch a fish in  50 days, then I guess 50 of these  bozos can catch a fish in one day --  beginner's luck.
+26) 7) text: He continues to call directions and move people out of th way to set up his shot. Hooper is measuring the shark.
+26) 9) dialog: Who, me? Okay... (he drifts off)
+26) 16) dialog: It's a tiger shark. Very rare in  these waters, and definitely a  maneater.
+26) 17) text: Hooper enters the circle, and picks up where he left off, measuring the shark's teeth. Others watch him. Charlie an Denherder walk over to the shark. Charlie punches it.
+26) 22) text: Brody and Vaughn are by now near the circle of fishermen, who are surrounding Hooper, raising their voices at him.
+26) 25) dialog: I didn't say this wasn't the shark,  I just said I wasn't sure this was  the one...
+26) 27) dialog: There are hundreds of different kinds  of sharks; makos, blues, hammerheads,  white-tips... any one of them could've  attacked. Look -- shark digestion is  slow. We could open this one up, and  find whatever he's been eating is  still inside.
+26) 29) dialog: Let's just cut him open and see what's  inside...
+26) 33) dialog: Wait a minute...
+26) 44) dialog: Look, maybe this is the wrong time  to pursue this, but I'm not sure...
+26) 45) text: Before Hooper can finish, Brody's shoulders slump and he  goes slack.
+26) 49) text: He turns and leaves abruptly, surrendering the dock to Va and Hooper, who eye each other with mutual dis-admiration
+27) 5) dialog: Martin Brody residence?
+27) 7) dialog: Hi. I'm Matt Hooper. If your husband  is here, I'd like to talk to him.
+27) 9) text: Hooper enters. He's carrying a couple of bottles of wine  which he picked up in town. He sits down near Brody.
+27) 11) dialog: (seeing Brody's plate) Is anyone having this...?
+27) 13) dialog: Dynamite! (to Brody) How was your day...?
+27) 16) dialog: (producing wine) Here... one red, one white.
+27) 18) dialog: (boning his fish) Ummm. Really good.
+27) 21) dialog: I wouldn't put it that way. But I  love sharks.
+27) 23) dialog: I do. (he tells a story  about his boyhood  and a shark) But you've still got a problem here,  there's a shark just off the island  somewhere.
+27) 26) dialog: They caught a shark, not the shark.  Big difference. I could've proved it  this afternoon, by cutting that one  open and examining his stomach  contents. Also, his bite was too  small.
+27) 28) dialog: I was lucky to find that in town --  it's an estate bottled vintage year...
+27) 30) dialog: (as Brody pours) We ought to let it breathe...  Whatever.
+27) 32) text: He extends the bottle to Hooper, who politely accepts a t sip. He takes some for himself, and offers some to Ellen.
+27) 35) dialog: (toasting) Here's to your husband, the only  other rational man on the island.  Day after tomorrow, I'll be gone,  and he'll be the only one.
+27) 37) dialog: Going out on the 'Aurora.'
+27) 39) dialog: Is it! The best-funded research  expedition to ever study the shark...  around the world in 18 months.
+27) 41) dialog: Better than Cousteau, or Compagno  with computers, telemetry, Defense  Department funding...
+27) 43) dialog: Yep.
+27) 46) dialog: Yeah. Like the kid on your beach. I wish I could've examined that shark  they caught...
+27) 48) dialog: About half of them. A lot of 'missing  swimmers' are really shark victims.
+27) 50) dialog: Rogue?
+27) 52) dialog: It's called Territoriality. It's a  theory.
+27) 54) dialog: You could say that.
+27) 59) dialog: I'm flattered you should ask.
+28) 0) text: Dark, spooky shed, with shadows of boats and strange  silhouettes of boat parts and scaffolding. At one end, th large, symmetrical bulk of the shark's carcass lies on a  tarp. A single dark figure is bending over the dead shark The large double doors at one end of the shed squeak open and the Shadowy Figure moves abruptly away from the shark The new entrants move into the shed. It is Hooper and Bro and they are continuing the conversation begun in the car the way over. As the Shadowy Figure moves silently into a vantage point against one wall, he passes through the light from a wind it is Quint, and we only see him long enough to recognize him as he backs against the wall.
+28) 1) dialog: ...And it was Dartmouth Winter  weekend, and she was Homecoming Queen,  and I was her date; then she got  into the fact that her family had  more money than my family, and she  was right -- her great-grandfather  was in mining, and my ancestors were  Yankee shipbuilders. So we broke up  and I went home with some beatnik  from Sarah Lawrence.
+28) 3) dialog: Our friend, the shark.
+28) 5) dialog: We always had a summer place on the  water -- Newport, the Vineyard, so I  figured I'd major in something I  knew about. Oceanography, marine  biology. It was that, or design racing  yachts like my older brother. Hmmm.  He we go. Up the old alimentary canal.  Hold the light.
+28) 6) text: We hear a slurp and a squish as Hooper produces a big kni and dips into the shark with a major incision.
+28) 7) dialog: We open the abdominal cavity and  check the digestive tract. Simple. (he attends to his  work)
+28) 10) dialog: Half a flounder. Hmmm... a burlap  bag... a paint can... aha!
+28) 12) dialog: Just as I thought. He drifted up  here with the Gulf Stream, from  southern waters.
+28) 14) dialog: (showing it) Florida license plate.
+28) 16) dialog: (laughs) No, but Tiger sharks are the garbage  cans of the ocean. They eat anything.  But this one didn't eat any people.  There's nothing here...
+28) 18) dialog: ...Nothing.
+28) 20) dialog: If you're looking for a shark, you  don't look on land. You go out and  chum for him.
+28) 22) dialog: Only one sure way to find him --  offer him a little something to eat.  Chum -- blood, waste meat, fish,  anything. They can sense it miles  away. If he's out there, we might be  able to get a closer look at him. (checks his watch) It's a good time, too. They're night  feeders...
+29) 0) text: We see Brody, looking sick and nervous, holding on anxiou as the "Fascinatin' Rhythm" moves slowly ahead trolling a night. His glasses are already flecked with the white sal of dried seawater. He is wearing a life-preserver. Hooper is at the wheel, a chart spread in front of him, h eyes scanning the sea restlessly, checking the dials and  gauges in front of him as well as the electronic depth-fi and "fish-finder" gear mounted in the cockpit. A green gl shines from the instruments on his face. Two closed-circu TV cameras mounted below the hull flash their pictures on monitors in the dash. In the aisle between the seats is a large container fille with unpleasant-looking bait; Hooper is long-lining for s of shark, and chumming.
+29) 1) dialog: (indicating distant  flashing beacon) That's the Cape Light -- we're on  the stretch where he's feeding, if  he's still here.
+29) 4) dialog: (ticking them off) Depth-finder, fathometer, sonar,  closed-circuit TV -- fore and aft --  RDF, single side band... (points to themselves) And two loose nuts behind the wheel.
+29) 6) dialog: Sometimes. (indicates display) Look here -- something big, probably  a school of mackerel clumped together.  And staying right with us.
+29) 10) dialog: I Bought it.  Both sets of  grandparents set up trust funds for  me; stocks went up, so I don't have  to touch my principal.
+29) 12) dialog: (a nerve has been  touched) It is a job. I'm not fooling around  like some amateur. It's my life!
+29) 17) text: Hooper looks up and cuts the wheel hard, as the same time dropping the engines into neutral, and then reverse. The  sudden change throws Brody to his knees.
+29) 22) text: Hooper cuts his engines and drifts in; he scampers out to the bow of his boat and makes a line fast to the Flicka.
+29) 28) dialog: I want to check something. Hold my  feet.
+29) 31) dialog: (surfacing) They must've hit something.
+29) 34) dialog: He didn't have a dinghy aboard. I'm  going down to take a look at his  hull.
+29) 36) dialog: (hyperventilating) We will. There's something I've got  to find out.
+29) 38) text: Hooper takes a last few breaths, orients himself, takes a long, hard look at the quiet, open ocean, and falls into sea.
+29) 41) text: Hooper descends in a froth of bubbles. Warily he turns a  full circle with his hotlight. At first we see nothing ou of place about the Flicka except that it is lying so low the water. But as Hooper travels the bottom looking for  damage, he comes across a jagged hole two-thirds of the w forward. The hole is about the size of a basketball, and the wood  around it has been bashed and splintered. Hooper explores the hole with his hands, then takes the knife from its sh and begins to dig at something. Whatever it is comes free his hand. As he studies his find, his light wanders upwar pointing directly into the dark hole. Hooper looks up...
+29) 43) dialog: bumps his head in trying to get away, seems to yell throu escaping bubbles. We hear the gasping shout as a bubbling roar in the ears. His mask fills with water as he flails the surface. Miscalculating, he bumps into the hull of hi own boat, shocked, dismayed, his system jangling with  adrenaline shock, his hands open, and the object he pried loose from the hull drifts down and out, falling into the eternity of the ocean bottom. He finally bursts through t surface.
+29) 47) dialog: A White! A Great White, I found a  tooth buried in the hull. He must've  attacked... I knew it... Gardner's  dead in there. I didn't see the  mate...
+29) 49) text: Hooper, despite his shock and surprise, is strangely elat almost giddy with the wonder of his discovery.
+29) 50) dialog: Jesus Christ! A Great White! Who'd  believe it! We're not talking about  a shark, we're talking about a Shark!
+29) 51) text: Brody sinks weakly into a chair. Brody huddles in the ste Hooper kicks the engine in with a roar, and still a-shive with excitement, turns the boat and its grim tow back to  port.
+30) 0) text: Next to the "Amity Welcomes You" billboard is a group of  selectmen, Vaughn, Meadows, Hendricks, and another deputy standing by with paint and brushes. Brody's wagon is ther along with a few other cars. Busy late afternoon traffic starting to pile up as early weekenders and curiosity see slow down to see what's happening. Behind the billboard, Brody and Hooper have gotten Vaughn one side. They are making a closely reasoned presentation him.
+30) 2) dialog: You're situation here suggests that  a Great White has staked out a claim  in the waters around Amity Island,  and that he will continue to feed  here as long as there is food in the  water.
+30) 4) dialog: A shark's attack is stimulated by  the kind of splashing and activity  that occurs whenever humans go  swimming -- you can't avoid it!
+30) 6) dialog: I just pulled a shark tooth the size  of a shot glass out of the hull of a  wrecked boat out there.
+30) 12) dialog: Carcaradon carcharias. A Great White.
+30) 16) dialog: I'm familiar with the fact that you  are going to ignore this thing until  it swims up and bites you on the  ass! There are only two ways to solve  this thing: you can kill it, or you  can cut off its food supply...
+30) 21) dialog: (who has followed  them around) That's it! I'm standing here arguing  with a guy who can't wait to be a  hot lunch. Goodbye.
+30) 23) dialog: Out there is a Perfect Engine, an  Eating Machine that is a miracle of  evolution -- it swims and eats and  that's all. Look at that! Those  proportions are correct. (indicates fin) I know sharks.
+31) 0) text: Two cavernous iron doors. Then a crack of vertical light six burly crewmen muscle them apart. The Amity ferry land is approaching, people in colorful outfits waiting docksi for the first filled-to-capacity shuttle of the summer se and -- Bach's Little Fugue is the musical accompaniment to this  wholly visual montage of disembarkation. The next two min should be treated like a "short film" taking into account all of the colors, episodes, faces and behavior of a vari of Americans who colonize Eastern resort communities for ninety-day season. Intercut with this montage is Brody's home, where Ellen,  Hooper and Brody are in sweaty, gritty all-out effort to  enlist some support. Elements in this montage include: A.  A train of cars trundling down the ramp, bumper to bu B.  Young Beautiful People from Princeton, Yale, NYU, wea knapsacks, toting luggage, babies riding in papoose rigs, energized children, senior citizens holding hands on the  pedestrian ramp, a few wheelchairs. C.  Hooper, bent over the phone: "I know it's a long week could you get me his home phone number? D.  Sidewalk vendors hawking "Shark Killed" souvenirs, bi photo "Personality Posters" of the dead tiger shark hung the dock. E.  Brody: "You're acting senior officer? Where's Chief P Officer Feldman? Where's the Coast Guard Executive Office F.  Souvenir stands selling Genuine Sharks Teeth from The Amity Killer Shark, Captured This Week. G.  Amity Cab Company, small blue Toyotas lined up with t college student drivers like a bomber wing. H.  Hooper:  "Well then, operator, could you try him in t dining room?" I.  Brody: "All I get is a recording. Is there some other number I could try...?" J.  Station wagons with pale winter faces pressed anxious to the window. Cadillacs with Rear Admirals at the helm,  their wives with blue hair remembering the way from years before. K.  Hooper: "When did he check out? Did he leave another  phone number?" L.  Brody: "How can I reach him in Chambers if he's not i Chambers?" M.  Little Karate Hands breaking picket fences. N.  Some local delinquents about 10 or 12 years old, towi behind their bicycles a little dead sand shark with signs "Amity Monster Shark." "Killed Here." 5 Cents a Hit." Etc Then six blonde and tanned Coney Island meatballs descend the ramp. They all wear Men's Club Lifeguard patches and  matching collegiate windbreakers. They scour the landing, looking for someone to save. The boat is empty. Everybody heading inland, anticipating the best Fourth of July ever. Already there is debris on docks and the cleaning crew works away at it.
+32) 0) text: And this is it -- the Dawn Patrol, the only forces that t frantic phone calling produced. Hendricks, and the regula summer extra deputies. The lifeguards. Half a dozen state troopers. Some deputies from neighboring towns, and a Coa Guard ensign with a handful of regulars in work dungarees Some of Hooper's friends from the institute. Brody and Hooper, badly in need of sleep, are watching th crew straggle in. Already the first of the holiday beach- goers are piling out of their cars in a brightly colored  cascade of beach balls, umbrellas, blankets, portable bar ques, radios, sun visors, reflectors, rafts, balls, tubes and newspapers. Hooper watches one such group: A Family of Ten getting ou of a camper-van. He watches in dismay as the family bumbl onto the beach for a day of fun in the sun. Brody addresses his troops, such as they are.
+32) 7) dialog: I hope we get some more help.
+35) 7) dialog: What I've heard and what I've seen  are two different things. I believe  there is a large Great White Shark --  Carcharodon Cacharias - in the waters  off this very beach, that he has  killed and that he will kill again...
+35) 8) text: Hooper's voice fades off as someone at the mixer panel di his mike off, and brings up the Announcer's lavalier.
+37) 11) text: The circle of boats around the little pranksters, the cro huddled on the beach, Hooper's boat suddenly arrowing tow the estuary, leaving a huge boiling wake.
+37) 20) dialog: Block the estuary! The estuary!
+37) 21) text: Three boats racing to carry out the orders. The black fin passing the two children, racing to get out. Hooper reach the mouth before the others. The fin won't veer off. It s into the little vessel, bumping it aside. The fin is left racing into open water. Blood leavings. Hooper leaping ov the side, slogging towards Michael.
+38) 22) dialog: (handling some gear) This is quite a place.
+38) 47) dialog: You're going to need an extra hand...
+38) 52) dialog: I've been to sea since I was 12.  I've crewed three Trans-pacs --
+38) 54) dialog: -- and an America's Cup Trials...
+38) 56) dialog: And I'm not talking about hooking  some poor dogfish or sand shark. I'm  talking about a Great White.
+38) 58) text: Hooper ties the knot effortlessly.
+38) 59) dialog: I don't need to pass basic seamanship.
+38) 61) text: He takes Hooper's hands in his own big bloody fists, and  feels them as he talks.
+38) 63) dialog: Look, I don't need to hear any of  this working class hero crap. Some  party boat skipper who's killed a  few sharks...
+39) 2) text: As he talks, we see Hooper coming down to the dock. Wheel a wagon behind him are two long-haired Research Assistant from the Institute. On the wagon, among other things, is big shark cage. At dockside, Hooper checks his list, as h signs for his issue.
+39) 3) dialog: Powerhead, CO2 darts, hypo, regulator,  tanks, depth gauge, camera, extra  magazines, cage...
+39) 6) dialog: All of it. And thank Dr. Miro for  me. And tell Borack I'll catch up  with them in New Zealand.
+39) 8) dialog: An eye for an eye, you know.
+39) 10) dialog: (to Assistant) I'll see ya. Tell Dorothy hello.
+39) 11) text: Hooper sees his gear approaching.
+39) 14) dialog: Anti-Shark cage.
+39) 16) text: Hooper indicates "me."
+39) 18) text: Hooper nods. Quint sings "Spanish Ladies" half to himself
+39) 19) dialog: Comin' aboard...
+39) 42) text: He starts moving gear around, preparing chum barrels, set hooks, Hooper gives him a hand, Brody stays out of the wa
+40) 5) text: He slices into the shark's underbelly. We hear the sound entrails plopping into the water. Brody is almost retchin and Hooper is just displeased.
+40) 10) dialog: What's that supposed to prove?
+41) 0) text: The Orca is drifting in neutral. The ocean is like gelati the sun sucking heat waves from its surface. Brody at the stern, handkerchief on his head to protect from further  sunburn, has been handed the slimiest job on a shark hunt the ladling out of chum. There are several empty chum bar A flag buoy bobs in the wake of the boat, another waits t be tossed over the side. Brody is reeling with nausea. He opens his overnight kit and takes out a handkerchief and  some Old Spice after-shave. He pours the after-shave into the cloth, presses it to his nose. Hooper is also in the  stern.
+41) 4) dialog: (using the fish finder) Nothing. Nothing, nothing, nothing.
+41) 6) text: Quint opens a can of beer and drains it in one long pull, crushing the empty and throwing it over the side. Hooper  drains his coffee from a styrofoam cup, and cracks it in hand with a silly "plup." He stows the pieces in an empty chum barrel.
+41) 8) text: Brody goes to unlash a fresh barrel, but can't figure out the knots. He finally tugs on a piece of rope, and it all comes loose... barrel, shark cage, and, most important,  Hooper's tanks, clattering and rolling on the deck.
+41) 9) dialog: (jumping up) Watch it! Compressed air -- you screw  around with one of those and Boom!  Careful, huh?
+41) 13) dialog: (eyeing bait) That's pilot whale, isn't it?
+41) 18) dialog: (to himself) Easy for you -- they got a brain the  size of a radish.
+41) 24) text: Quint tightens drag and strikes. The line goes whizzing o Brody runs to Quint's side. Hooper springs up to the flyi bridge.
+41) 27) text: Brody goes to get water, the boat surges, he staggers. Br pours water on the screaming reel, nearly unspooled now. Hooper is turning the boat around and the line changes  direction.
+41) 29) text: Hooper steers it sharply.
+41) 31) dialog: (almost to himself) Aye, Aye SIR. Stand by to repel  boarders. Poop the mainsail. Argh,  Jim Boy.
+41) 40) dialog: Let it go, don't waste your time.
+41) 42) text: Hooper is rushing down.
+41) 43) dialog: I don't know what it is, but it's  not a shark.
+41) 48) dialog: It's too wild, too erratic. It's a  marlin or a stingray. It's a gamefish.
+41) 49) text: Hooper snaps the rope onto the leader and holds on.
+41) 51) text: Before he realizes what's happening, Brody is clumsily  clutching at the big rod, appalled. Quint skips away for flying gaff. He picks one, turns... That's when the leader lashes free, sending Hooper crashi backward in a serious fall, and the rod whips at Brody's  forehead, drawing blood. Quint snatches up the rod and re in. The wires have been bitten through.
+41) 53) dialog: (stunned) I'm okay...
+41) 57) text: Hooper shakes off his dizziness and obeys. Brody watches  Quint rig up a new leader, hook up the same bait.
+41) 63) dialog: What do you see?
+41) 65) text: Hooper cuts the engines as Quint swings nimbly down. He s stock still on the main deck, motioning Brody to be silen Then picking up the newly rigged rod, Quint softshoes it  over to the chair. About to sit down, he freezes.
+41) 68) dialog: moving in, surprised, interested, fascinated.
+41) 71) dialog: 20 feet, if it's an inch...
+41) 73) text: Hooper is nearly beside himself with a strange ecstasy. H leaps toward his gear.
+41) 76) text: Quint ignores him and moves off into the pilot house, whe he swiftly takes out his green case, and opens it to begi to assemble something inside it. Brody is alone on the de with Hooper.
+41) 78) text: Hooper is contained in his own excitement. He has finally come up with what he was looking for -- an expensive Niko through which he peers intently at the shark alongside. H is talking half to himself as he fine-tunes the range fin and focus. He is squeaking and bubbling in an unsuppressed emotional boil.
+41) 79) dialog: (very, very high) There's a formula! Girth, about 150  inches, squared, divide by 800 --  son of a bitch, they are not going  to believe this! -- divide by 2000...  three tons! (after Quint) You're right, you old fart! Three  tons! (ad libs ecstasy)
+41) 95) dialog: (on deck) Damn it! I need something in the  foreground to give it some scale.  Martin! Stand here! No, to your left!
+41) 101) text: Quint moves up toward the bow, Brody goes up to the flyin bridge to take the wheel, Hooper starts for the foredeck, but stops to rummage in his kit, throwing gear around as desperately hunts for something.
+41) 103) dialog: He finds what he's looking for. A small, powerful strobe  unit, waterproofed, a miniature signal beacon. He trigger it, and it begins to pulse with a light we can see even i the sun. Hooper scampers to the foredeck and begins to rig the lig to the first barrel, as the shark begins to surface near bow.
+41) 107) text: Hooper is rigging like crazy.
+41) 111) text: The shark is in position, Hooper shouts, a moment too lat
+41) 112) dialog: Clear!
+41) 118) text: Hooper, furious with himself, runs for the flying bridge take the helm from Brody.
+41) 120) dialog: (to Quint) Rig another keg! I'm bringing her  around!
+41) 122) dialog: (to himself) God damn it! We had him! (to Quint) I'm coming about!
+41) 127) text: Hooper throttles back, and the roar of the diesels subsid and the boat resumes an even keel, slowly circling the oc
+43) 0) text: Brody and Hooper at the table, Quint at the wheel, keepin his eye on the light.
+43) 2) text: He corrects course slightly to keep the barrel buoy in si Hooper is sitting at the table, morose. Brody is staring a couple of open cans of beans or beef stew, or some othe crappy rations Quint has on board. Dirty spoons stuck in open cans show us this has not been a formal dinner. Quin fumbles on the chart shelf and produces some of his home  brew. He takes a pull, and hands it to Hooper, who takes a doub Brody touches the fresh abrasion on his forehead, where t fishing rod caught him. Quint bends forward and pulls his hair aside to show some near the crown.
+43) 4) text: Brody looks politely. Hooper stirs himself.
+43) 5) dialog: Look here. (extends a forearm) Steve Kaplan bit me during recess.
+43) 8) dialog: (rolling up a sleeve) Moray Eel. Bit right through a wet  suit.
+43) 9) text: Brody is fascinated. Quint and Hooper take a long pull fr the bottle.
+43) 11) dialog: Ever see one like this?
+43) 13) dialog: Bull shark scraped me while I was  taking samples...
+43) 18) dialog: I'll drink to your leg.
+43) 24) dialog: (considerably drunker) I think I can top that, Mister...
+43) 25) text: Hooper is pulling at his shirt, trying to get it off, but it's tangling its sleeves, and won't come undone.
+43) 26) dialog: Gimme a hand, here. I got something  to show you --
+43) 28) dialog: (indicating his chest) There. Right there. Mary Ellen Moffit  broke my heart. Let's drink to Mary  Ellen.
+43) 31) text: He drinks, Hooper follows.
+43) 38) dialog: Don't tell me -- 'Death Before  Dishonor.' 'Mother.' 'Semper Fi.'  Uhhh... 'Don't Tread on Me.' C'mon --  what?
+43) 41) dialog: (incredulous) You were on the Indianapolis? In  '45? Jesus...
+45) 2) dialog: It's a whale out there.
+45) 5) text: Gradually, Hooper and Brody join in, and the pilothouse  becomes a warm cozy place.
+47) 0) text: The song is continuing, and we hear the barest hint of a  scraping sound from the hull deep beneath the men. Quint' eyes abruptly narrow as his sensitive ears are the first hear the abrasion of his ship. Things vibrate on the shel Quint stops singing, Hooper and Brody continue a duet. Th scraping repeats, and Hooper now senses it. He drops out the song, leaving Brody singing solo.
+47) 9) text: Hooper does.
+47) 10) dialog: Rudder bearings?
+47) 15) text: Hooper stands ready on the bridge, Quint pacing the stern deck.
+47) 19) text: Hooper and Brody join in from their respective positions.
+48) 0) text: Brody is at the wheel on the flying bridge, while Hooper Quint have a hatch up on the stern, and are working toget to repair the damaged rudder controls torn loose by the s Hooper is bucking the steel rod, while Quint is hammering away at the joint, trying to drive a new pin. The engine is idling. Bits of iron clutter the deck, alon with a few rough, outsized tools and greasy rags and gask
+48) 3) dialog: (shifting his grip) Lemme get a better angle on it. Now.
+48) 11) text: He takes a killing lance from the rack. Hooper gets a  boathook.
+48) 13) text: Hooper leans out gingerly, snagging the barrel with the h It bobs lightly in the water, an innocent bystander. Hoop shifts his pole, takes hold of the rope, poling it in.
+48) 15) text: Hooper gets the line and starts hauling it up. No resista It comes easily over the transom into a coil on the deck. He and Quint exchange looks.
+48) 24) dialog: (hauling) The shaft is giving.
+48) 25) text: Hooper slams the hatch, kicks the tools to one side, clea the deck for action once again.
+49) 9) text: His tirade is interrupted by an urgent bellow from Hooper
+49) 10) dialog: Pointing at the fin.
+49) 11) dialog: Coming right to us!
+49) 15) text: Hooper pulls the boat into a tight turn and Quint has a s at the upward rolling flank. He sinks it with careful  precision.
+49) 23) dialog: (shouting down) We can't rev it up this high --
+49) 26) text: Hooper skillfully avoids the speeding rope.
+49) 31) dialog: (shouting at Brody) Don't shoot him any more! He's crazy  on his own blood already!
+49) 36) text: He yells to Hooper and Brody as he swings behind the cont
+49) 40) text: Together Brody and Hooper hook a barrel-rope and hold on dear life as the shark changes course.
+49) 42) text: Brody and Hooper pull in with all they are worth as Quint helps out by wheeling in a circle. He laughs to himself,  enjoying the spectacle.
+49) 43) dialog: securing the rope to a cleat but allowing the barrel to h overboard. Brody ties his now-perfect bowline adjacent cl
+49) 65) dialog: (on bridge) He's heading under -- !
+49) 69) text: Brody looks around. Hooper on the flying bridge searching all directions. Quint is looking more appalled every seco
+49) 76) dialog: He's under!
+49) 86) dialog: (suddenly giving Quint  the wheel) Hold her.
+49) 88) dialog: (loading) Keep him there! Keep him!
+49) 89) text: The Orca shudders from side to side. From Hooper's point view we can the shark gripping the transom in his jaws,  shaking the boat as he saws his massive head from side to side, trying to tear a chunk out of the very hull. Quint reloaded and is firing into the fish. Brody has a wicked  pointed gaff, and is swinging wildly at the snout, gashin and gouging it, trying for the eyes. The killing lust is all three men.
+49) 95) dialog: Power head with 20 ccs of strychnine  nitrate. If I can hit him. I can  kill him. But I gotta be close.   Very close.
+49) 99) dialog: (in command now) Rig the cable to the roof eyebolts.
+49) 100) text: The men are speaking in near whispers, quiet in the silen that surrounds them. Hooper is in his wet suit, adjusting weights, mask, tanks, etc. The cage is standing in the st Quint runs a line from the gin pole to the roof section. Hooper climbs in though the top.
+49) 101) dialog: Take me up.
+49) 102) text: Brody cranks the winch, hoisting cage and Hooper into the air. Quint balances the gin pole lines, Hooper crouching the cage, examining it for stresses; satisfied, he holds his hand. Quint puts the spear gun into it.
+49) 104) dialog: Lower away, Chief. (then, to Quint) Try and keep him off me till I'm  under.
+49) 105) text: Hooper inside, looking out the bars of the cage, gives Br a reassuring smile, then pops his mouthpiece between his  teeth and checks his regulator. Brody steps back, and wit Quint guiding the cage, begins lowering it off the gin po boom arm into the sea alongside the boat. Brody and Hooper stare at each another as their faces pas Hooper sliding down into the cold grey ocean. As Hooper disappears beneath the surface, Quint and Brody exchange a long look between them.
+50) 2) dialog: His back is to us. He is just now completing a visual swe and turns, eyes front into closeup and: fixes wildly on  something monstrous... and fascinating.
+50) 5) dialog: The shark has vanished into a cloud of rising silt. Hoope expecting the shark to attack out of that same general  direction, braces himself, pole extended through the bars breathing faster, straining his eyes into the gloom and.. we see that the shark attacking from behind him. The cage is sent careening. Hooper grabs the bars for dea life. The shark has grabbed the steel struts in its bruta jaws, shaking the cage relentlessly from side to side, be the bars like clothes hangers. Hooper can't turn the poin end of the pole around, his body jammed as far away from non-rational attacker as possible. Hooper is trapped. The shark withdraws to get some running room then charges again. The bleeding snout thrust deeper into the yawing b the jaws snapping and twisting, two feet from Hooper's to the tail thrusting it forward. Hooper drops the strychnin pole between the bars and it tumbles slowly toward raptur depth. All the shark needs is one more good thrust before separa Hooper at the waistline. Through frantic bubbles Hooper  fumbles with the overhead hatch cover, kicking up and out the cage. The shark backpedals with its tail, but the bro head won't shake loose. Hooper rushes downwards, after the strychnine pole.
+50) 8) dialog: Turning to meet the monster which -- though held back for moment by the snarled rope -- now surges forward.
+50) 12) dialog: maneuvering downward, away from the jaws... Suddenly the  crazed shark veers upward for the surface.
+50) 24) dialog: Emerging from beneath the surface, he raises his mask, sp out his mouthpiece and kicks toward Brody.
+50) 26) dialog: Quint...?
+50) 31) dialog: Wednesday... No, it's Tuesday, I  think.
+50) 33) dialog: Just keep kicking.
+50) 35) dialog: I can't imagine why.

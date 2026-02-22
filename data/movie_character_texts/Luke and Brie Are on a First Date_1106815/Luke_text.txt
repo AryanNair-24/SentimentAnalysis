@@ -1,0 +1,404 @@
+0) 2) dialog: Hey Brie?
+0) 4) dialog: It's Luke.
+0) 6) dialog: What's going on?
+0) 8) dialog: Oh yeah?
+0) 10) dialog: What'd you get?
+0) 12) dialog: No, I guess not. Unless it's, like, a ton of cat food and you don’t have a cat.
+0) 14) dialog: Well, that's weird.
+0) 18) dialog: Sure, what time were you thinking?
+0) 20) dialog: No.
+0) 22) dialog: I'm just kidding, seven is fine.
+0) 24) dialog: So this is how it's gonna be, is it? Brie laughs.
+0) 26) dialog: No, no. So I'll see you at seven at The Scene, right?
+0) 28) dialog: Sounds good.
+2) 0) text: LUKE PUTNAM (25) drives down Santa Monica Blvd. listening music. He checks his reflection one more time in the rear view mirror.
+3) 0) text: Luke drives by the bar slowly, looking out the window for sign of Brie outside. None.
+4) 0) text: Luke walks up to the front of the bar and looks around. After a minute of looking he pulls out his phone and dial number.
+4) 2) dialog: Colin. Hey.
+4) 4) dialog: Not much.
+4) 6) dialog: Actually, I’m waiting outside. We're supposed to meet at seven. (MORE )
+4) 9) dialog: Yeah, I thought so. She said she wanted to get together early because she has to meet up with her friends later. I don’t know if maybe she was giving herself an out just in case or if it’s true, but I said whatever.
+4) 11) dialog: Yeah. Hopefully she won't use it. Luke turns and looks around again.
+4) 13) dialog: Brie, like the cheese. And actually, I think I see her car.
+4) 15) dialog: Wait. Just hang on the line a second.
+4) 18) dialog: Alright, I’1l talk to you later man.
+4) 21) dialog: Yeah. Luke pulls out his wallet and I.D. Bouncer.
+4) 23) dialog: Thanks.
+5) 0) text: and heads over to the and shows it to the Luke walks into the bar and sees Brie sitting at a corner table with three guys. One of them is SCOTT (28), who tur and looks behind him. Luke points at him and his expression reads “You?” Scott acknowledges and turns to Brie. scott This is the guy you’re waiting for?
+5) 2) dialog: What’s up Scott?
+5) 4) dialog: Yeah. sScoTtT We worked together.
+5) 6) dialog: Yeah, Scott’s one of the editors. One of the other guys at the table, JOSH (30) chimes in.
+5) 8) dialog: Uh, I’m gonna get a drink. You- Luke points at Brie but realizes she has a drink in front her.
+5) 9) dialog: -are good. Okay. I’11 be back. Luke heads over to the bar. sScoTtT That's really weird.
+5) 14) dialog: Really? Okay, can I get a Coors Light? The bartender pours a draft while Luke looks around some more.
+5) 16) text: Yeah, please. Luke grabs his drink and heads off.
+5) 18) dialog: Hey, what’s up? Brie turns to Luke and finally exchanges a personal greet
+5) 20) dialog: Hi. How’s it going?
+5) 22) dialog: What are you drinking?
+5) 24) dialog: Nice.
+5) 26) dialog: Uh, Coors Light. The Silver Bullet.
+5) 28) dialog: Yeah. So you don’t know these guys? Suddenly Luke notices that no one at the table has been talking. It’s just him and Brie while the rest of the guy sit, arms folded, small smiles on their faces.
+5) 30) dialog: Yeah.
+5) 32) dialog: Wow. Scott angles back in. sScoTtT So, Darrell here is getting married.
+5) 39) dialog: Wow.
+5) 65) dialog: I like this jacket.
+5) 67) dialog: Really? sScoTtT Mark just started losing his mind for no apparent reason and the work load has totally doubled.
+5) 68) dialog: That sucks. 12. sScoTtT Have you found a new job yet?
+5) 69) dialog: Nope. Not really looking for one. scoTtT Nice. Living the dream.
+5) 71) dialog: I was an assistant. Like an intern at his office.
+5) 134) dialog: It’s good. Luke is finished with his beer and sees a break in the conversation.
+5) 135) dialog: (to Brie) You want another drink? Brie looks at her drink- just a few sips left.
+5) 137) dialog: Oh yeah?
+5) 140) dialog: Uh, sure.
+6) 0) text: Luke and Brie stand outside the bar on the corner. Brie pulls a pack of American Spirits out of her purse and han one to Luke. He twiddles it around his fingers while she pulls one out herself.
+6) 5) dialog: Thanks. How come you have cigarettes but no lighter?
+6) 7) dialog: Does it work?
+6) 9) dialog: So you gotta go huh?
+6) 11) dialog: That’s cool.
+6) 13) dialog: I don’t know all those guys, just Scott. We just worked together. But now we don’t.
+6) 15) dialog: Yeah, I’m on day three.
+6) 17) dialog: I’m working on a piece that I pitched to the Times.
+6) 19) dialog: The L.A. Times.
+6) 21) dialog: Well, they have this kind of long- winded editorial process so I’m getting bounced around a little bit. But they’re giving me time, which is nice.
+6) 23) dialog: That’s the plan. I took out a loan from the bank. (beat) I figure it’s like going back to school but I get to spend the money the way I want.
+6) 25) dialog: They gave me a loan for five thousand dollars.
+6) 27) dialog: I’m eating sandwiches. Brie raises her eyebrows.
+6) 29) dialog: Well I’m just more frugal than you are.
+6) 31) dialog: I always thought it would be funny to do a spoof show of “The Fraggles”, you know that show?
+6) 33) dialog: But have it be “The Frugals” instead and it’s just a bunch of tight wad investors and bankers living underground being like “You spent how much on socks!?” Brie chuckles. Luke is pleased. They take a drag.
+6) 34) dialog: How about you? How’ve you been?
+6) 36) dialog: Yeah but that building would collapse if you weren't there.
+6) 38) dialog: Well, what else would you be doing?
+6) 40) dialog: Yeah, totally.
+6) 42) dialog: How expensive?
+6) 44) dialog: I know what you mean. I won a game show and-
+6) 46) dialog: Yeah.
+6) 48) dialog: You haven't heard of it.
+6) 50) dialog: Nobody's heard of it.
+6) 52) dialog: It’s called On the Cover.
+6) 54) dialog: See?
+6) 56) dialog: It’s just. They show you a fake magazine cover of like, People Magazine with Denzel Washington's picture on it and you have to name who’s “on the cover”.
+6) 58) dialog: Yeah.
+6) 60) dialog: It is.
+6) 62) dialog: Have you ever done it? It’s tough getting that buzzer to work before anyone else's.
+6) 64) dialog: Yeah.
+6) 66) dialog: Ten thousand bucks.
+6) 68) dialog: Yeah, so that Christmas was the first time I could ever afford to get everyone in my family cool presents.
+6) 70) dialog: I’m usually the guy that gives everyone a CD or a book, but I actually got some cool gifts that year.
+6) 72) dialog: Exactly.
+6) 74) dialog: Why, you gonna order more expensive drinks?
+6) 76) dialog: None.
+6) 78) dialog: Really, none. I bought a car. Not a new one or anything. A used one, but I bought it straight up. Caaash.
+6) 80) dialog: Broke is a strong word. No, I got the loan. I got some savings. And I have a car.
+6) 82) dialog: I don’t know if it’s still on the air. They pause and smoke their cigarettes. 25.
+6) 84) dialog: Okay, what's the capitol of Cyprus?
+6) 86) dialog: Sure.
+6) 88) dialog: Really?
+6) 90) dialog: I’m impressed. Most people something about Cyprus on the news and think it’s like, a made-up country.
+6) 93) dialog: Moms love beach houses. 26.
+6) 95) dialog: What did your dad get?
+6) 97) dialog: My mom asked me to make her a mix last year. She wanted to know what I was listening to. I put some songs on a CD for her and gave it to her. I made her a mixtape. I put “2 Minutes to Midnight” by Iron Maiden as a hidden bonus track at the end and she wasn’t nearly as amused about that as I was.
+6) 99) dialog: (sings but trails off mid- way ) “2 Minutes to Midnight!!!!" Brie nods and looks around. A girl clacks outside on her heels. She pulls up next to Brie. Her name is STACY and she talks loudly into her cel phone.
+6) 105) dialog: Savor it, that’s what I say.
+6) 107) dialog: Sometimes. They look around at the few other people standing outside few feet away stand a GUY and a GIRL seemingly not very h with each other. The guy holds his phone out and is texting away. The girl looks at him with disgust. After a moment and in one fell swoop she SWATS the phone of his hands and it BOUNCES on the concrete.
+6) 109) dialog: Yikes.
+6) 111) dialog: I think so too. They look again but the couple have wandered off up the street.
+6) 112) dialog: Have you ever been in a fight?
+6) 114) dialog: Yeah. In eighth grade. Everybody was picking fights and it was like, the cool thing. So I picked the smallest, weakest guy in the class and I made him fight me.
+6) 116) dialog: I know. His name was Dawson Mullen and he was from Canada.
+6) 118) dialog: Our high school was right next to this movie theatre called the Bijou. When you wanted to pick a fight with someone, you went up to them and said ‘Bijou parking lot. Two Thirty.’
+6) 120) dialog: Yeah. The thrown gauntlet. Bijou parking lot was where all the real shit went down. Pot smoking. All that.
+6) 122) dialog: So. There were a bunch of kids all waiting on the grassy side of this movie theatre. And they form this big circle and we get in the middle. And Dawson is like “Come on, start something. Start something.” So I pushed him and he just clocks me in the face. Out of nowhere.
+6) 124) dialog: I didn’t fall over or anything but man, it hurt. And I guess normal people get angry when they get punched in the face but I just kind of realized that fighting was dumb.
+6) 126) dialog: He sort of knocked some sense into me. So, that was the end of the fight.
+6) 128) dialog: I forfeited.
+6) 132) dialog: Huh.
+6) 134) dialog: I was in West Side Story.
+6) 136) dialog: (thinks) Like, Jet Boy number four. Brie laughs.
+6) 138) dialog: I remember we had to give ourselves names on these character sheets, to make you feel like you were really “acting.” And so I turned mine in with the name “Davey”. But my friends all turned in these cool names like “Action” and “One Punch”. And I was stuck with “Davey”.
+6) 140) dialog: Can I have another one of those? 31. Brie hands Luke another cigarette and he lights it with h
+6) 141) dialog: My high school did this Shakespeare play called “The Merry Wives of Windsor”. I wasn’t in it but I saw it, and there’s a scene where two guys are talking to each other. And they’re talking about something, but I guess they forget their lines because there’s just this sudden silence: like, fifteen seconds of nothing. Then one guy turns to the other and says “So, how ‘bout the Bulls?”
+6) 143) dialog: Swear to God. And this is during the playoffs, so the other guy’s like: “Repeat the three-peat!” So they talk about the Bulls for a good two minutes. I guess someone was supposed to enter and they didn’t or something, but then the three-peat guy just got up and started doing the worm.
+6) 145) dialog: The audience loved it. They all cheered when he did the worm. In the middle of “The Merry Wives of Windsor”.
+6) 147) dialog: That’s Tennessee.
+6) 149) dialog: Yeah.
+6) 151) dialog: Poison boot?
+6) 153) dialog: That’s worse than the worm.
+6) 155) dialog: Do you still do any theater?
+6) 157) dialog: Yeah, me too. My swansong was the Head Flying Monkey in “The Wiz”.
+6) 159) dialog: No, no. “The Wiz”.
+6) 161) dialog: Oh yeah. Public school’s are all about color blind casting. We had white people trying to sing soul in “The Wiz”, we did “The Sound of Music” with three white and two Filipino Von Trapp kids. And we even had black Nazis in “The Sound of Music”.
+6) 163) dialog: Jesus. I haven’t thought about this stuff in a long time. It is absurd.
+6) 166) dialog: Yeah. They turn to head back into the bar and are met at the doorway by Scott, Darrell and Josh heading out. scoTtrT Hey, we're heading to that other bar if you guys want to come.
+6) 167) dialog: Umm. I think we’re gonna hang out here a bit more. sScoTtT Okay. Come to Saddle Ranch on Sunset if you change your mind.
+6) 168) dialog: Okay. See you.
+7) 0) text: Luke stands at the bar ordering two more drinks.
+9) 0) text: Brie and Luke stand by the wall of the bar, drinking and talking.
+9) 1) dialog: You work with kids, right?
+9) 3) dialog: I didn’t know you were a teacher.
+9) 5) dialog: What do you work-shop with ten year- olds?
+9) 7) dialog: Sounds like a big operation. 35.
+9) 9) dialog: The kids respond to pressure like that?
+9) 11) dialog: And what exactly do you do?
+9) 13) dialog: Oh, a title.
+9) 15) dialog: A main character? 36.
+9) 17) dialog: You've gotta make sure there’s a boy and a girl, right?
+9) 19) dialog: How long does it take.
+9) 21) dialog: So you get fifteen stories with all different endings?
+9) 23) dialog: So they all end with the girl squid and the boy pirate living happily ever after?
+9) 25) dialog: No. I wish those two all the best. They deserve it. The conversation lulls. Different CHARACTERS from the bar take over. 11 37. ADAM and MARINA are talking at a table.
+9) 57) dialog: Leslie? Brie punches him.
+9) 59) dialog: Why?
+9) 61) dialog: Oh really?
+9) 63) dialog: I don’t think so.
+9) 65) dialog: That doesn’t sound very good. 14 40.
+9) 67) dialog: Okay. Brie gets out her phone and dials. Luke takes a sip of hi beer and looks around.
+10) 0) text: Luke walks into the bathroom and up to the only available urinal out of two. Next to him stands CHAS.
+10) 2) dialog: Hey. Luke begins to pee. 15 41.
+10) 4) dialog: What?
+11) 3) dialog: Sure. How is she?
+11) 5) dialog: That’s good. Is he older?
+11) 7) dialog: Well, go Average Man, go! 16 talking to each other.
+11) 9) dialog: Yeah I could eat.
+11) 11) dialog: There’s a pizza place nearby. up the street I think.
+11) 13) dialog: 
+11) 16) dialog: Let’s do it.
+11) 17) dialog: O-kay.
+11) 19) dialog: Brie reaches over and downs the last sip of Luke’s beer. 16 Luke and Brie step outside of the bar to find a small gathering of people out smoking or talking. I’m not exactly sure which way it is. Luke walks over to them.
+11) 20) dialog: Hey man, where is that place? Luke looks around and sees two guys, TALON and SPENCER Talon is holding a TO-GO PIZZA BOX Talon looks up and realizes Luke means the pizza.
+11) 22) dialog: Yeah, I think we’re gonna get a slice.
+11) 24) dialog: Oh thanks but I think we’re gonna get our own.
+11) 26) dialog: No thanks. Spencer leans in and adds-
+11) 29) dialog: Okay.
+11) 33) dialog: Luke. reaches
+11) 39) dialog: Um, nothing at the moment.
+11) 41) dialog: Yeah. Brie and Spencer begin their own conversation.
+11) 47) dialog: Is that the sofa company?
+11) 49) dialog: Oh cool. 17 45.
+11) 51) dialog: They let you have that beard?
+11) 53) dialog: Uh.
+12) 0) text: Talon continues to tell Luke about his job while Spencer Brie talk about something else. Two SUPER HOT GIRLS come up with their eyes on the pizza
+12) 4) dialog: Yeah, you want to play pool?
+12) 6) dialog: Good. I’11 win then. They make their way towards the pool table. Luke puts some money in and racks the pool balls over the following:
+12) 8) dialog: Those guys?
+12) 10) dialog: You lived with models?
+12) 12) dialog: Living through the kindness of others.
+12) 14) dialog: What do you think about that? 47.
+12) 16) dialog: About the fact that men are supposed to buy the drinks? Don’t you think they’re only buying drinks to get you drunk?
+12) 18) dialog: Yeah. Brie holds up her drink.
+12) 20) dialog: No, but pizza guys might be.
+12) 22) dialog: Isn't that patronizing?
+12) 24) dialog: So ‘A’ is the initial contact?
+12) 26) dialog: What happens when you get to ‘C’? 48.
+12) 28) dialog: What if you make the initial contact? Then by the time it gets to ‘C’, the ball is in their court.
+12) 30) dialog: Oh really?
+12) 32) dialog: Huh?
+12) 34) dialog: Wait, backtrack a second. How often do you barrel down on some guy in the middle of the bar?
+12) 36) dialog: I know! You said the word “boobs” and it just happened. Sorry. 49.
+12) 38) dialog: I apologize.
+12) 40) dialog: That’s pretty dire.
+12) 42) dialog: No.
+12) 44) dialog: Bullshit.
+12) 46) dialog: Jeopardy’s gonna call you any day.
+12) 50) dialog: There’s a moral to this story.
+12) 52) dialog: Well, it makes sense, from an evolutionary standpoint.
+12) 54) dialog: Really?
+13) 0) text: City life continues while Luke and Brie are cooped up ins
+14) 0) text: Luke and Brie are taking turns getting their picture take Luke hops in, then Brie, then Luke again. He waits to see Brie will hop in for the last photo, but she doesn’t. He’ left sitting there with an expectant look on his face.
+14) 2) dialog: You didn’t play anything?
+14) 4) dialog: Not a good experience?
+14) 6) dialog: Poor Sarah Neaves. 52.
+14) 8) dialog: Oh my god. I’m surprised they had the nerve, those field hockey girls will fuck you up.
+14) 10) dialog: I dated one.
+14) 12) dialog: Yeah. My first girlfriend played field hockey for the rival high school. I used to go to her games.
+14) 14) dialog: Um. Fifteen.
+14) 16) dialog: Excuse me?
+14) 18) dialog: When did you first have sex?
+14) 20) dialog: Well, this girl was a field hockey player, but she didn’t start playing until six months after we started going out. She tried out on a lark: I remember being like, ‘You're gonna do what?’ (beat) We weren’t very sporty the two of us. But she liked it. She went to practice all the time. It is nice to watch girls in skirts beating the hell out of each other on a spring afternoon.
+14) 22) dialog: And guess what she’s doing now?
+14) 24) dialog: Oh, nice. No, she’s a cop.
+14) 26) dialog: I'm telling the truth. We used to sit around and smoke pot and she’d talk about wanting to join the FBI. But now she’s really a cop in my hometown. Whenever I go to see my parents I have these fantasies of driving real fast and then getting pulled over and then there she is. Brie looks at him questioningly.
+14) 28) dialog: No, it’s not like that. I’d just like to see her again. It’s been... six or so years since I’ve seen her. 54.
+14) 30) dialog: You mean, why did we break up?
+14) 32) dialog: We were in tenth grade. We broke up.
+14) 34) dialog: Didn't I? Brie shakes her head.
+14) 35) dialog: Huh. Luke finishes off his beer. He smiles.
+14) 37) dialog: Oh, right. To meet your friends.
+14) 39) dialog: Okay.
+14) 41) dialog: Oh really? She’s one of those girls? 55.
+14) 43) dialog: Sure.
+14) 45) dialog: Then I guess I’d better be... Do you want to come along?
+14) 46) dialog: What? What?
+14) 47) dialog: Oh, to the party?
+14) 49) dialog: Go to the party?
+14) 51) dialog: Um. Do you think it’1ll be weird, I mean is it just a bunch of good friends?
+14) 53) dialog: Okay then. If you think so.
+14) 55) dialog: Where is it?
+15) 0) text: Luke and Brie walk outside of the bar.
+15) 1) dialog: Should I just follow you?
+15) 3) dialog: Okay. 22 INT. LUKE’S CAR - NIGHT 22 Luke drives and talks on the phone to Colin. He’s wearing glasses.
+15) 4) dialog: Dude, I am rubbing two sticks together out here.
+15) 6) dialog: I don’t know. She’s talking to me.
+15) 8) dialog: No, it’s nothing obvious. She’s just giving me mixed signals, man.
+15) 10) dialog: I mean, it’s fun but what the fuck am I supposed to do? I suck at dates. Still driving, Luke rummages around in the side panel of car.
+15) 11) dialog: Actually, I don’t even know if it is a date. Midway through, she said we should call this girl Leslie because she is on a date. (MORE )
+15) 13) dialog: And she kept saying the word, “date”, really casually, like what we were doing was something totally different.
+15) 15) dialog: But she invited me to the party, so that’s something right?
+15) 17) dialog: I just have no clue.
+15) 19) dialog: I don’t know any of these people.
+15) 21) dialog: Yeah. Still driving, and talking on the phone, Luke sparks up.
+15) 23) dialog: Christ. She’s gorgeous. And smart. She’s way smarter than me, man. I’m not trying to cast any undue aspersions here, but she’s sharp as a tack.
+15) 25) dialog: And she might be a little mean. I like a woman who could beat me up though.
+15) 27) dialog: Good. I think. I mean, fine. Wanna hear something weird? (beat) When she smiles I kinda want to break down in tears. That’s weird, right?
+16) 0) text: Brie parks but Luke has to drive around a bit more to fin empty spot. Finally he finds one and he parks his car. It has a dent side of the door. It is quite dirty. INT. LUKE’S CAR - NIGHT 25 He puts the car in park and composes himself. He pulls an INHALER out of the same side panel he got the bowl from and takes a big puff. He puts it back in the bo with his glasses. He’s hitting his stride now.
+17) 0) text: Luke walks up the street towards the sound of the party. Brie stands by the front waiting for him.
+17) 2) dialog: Dickie?
+17) 4) dialog: Okay. They walk up to the party, which seems to be taking place much outside of the house as inside it.
+18) 0) text: CAMERON, a bubbly young female, is doing cartwheels in th yard for a crowd. Luke stops to notice her. Cameron looks up a notices Brie.
+18) 5) dialog: Hey.
+18) 11) dialog: Spooky punch?
+18) 13) dialog: Well I want to try some of that. I want to see what’s so spooky about it.
+19) 0) text: Luke walks around, holding a glass of spooky punch. There are people all around, none of whom he knows. Nobody noti him. He sees Brie talking to DICKIE (20s) in the corner of the living room. He opts not to interrupt.
+20) 0) text: Luke wanders around the house. He watches people warily. inspects the books or whatever happens to be lying around
+20) 15) dialog: Um. Okay. What question? What am I answering yes to?
+20) 17) dialog: I saw her by that bush over there. I think she lost an earring.
+20) 19) dialog: So the answer is yes?
+20) 21) dialog: What did you do? Did you do something?
+20) 23) dialog: Where? (points) In the hammock? Five minutes?
+20) 25) dialog: I think I can do that.
+21) 0) text: In the kitchen, DICKIE (20's) is holding court. GIRLS and guy or two stand around him. Brie makes her way through t room with Luke trailing behind her.
+21) 6) dialog: I just met her out front, actually. She was doing cartwheels.
+21) 8) dialog: She's eighteen?
+21) 12) dialog: Yeah. I just got here.
+21) 15) dialog: Those streets are cold, man. Luke expects a laugh that doesn’t come.
+21) 17) dialog: So I hear. Oh my God...
+21) 21) dialog: I’m working on my own stuff right now.
+21) 23) dialog: Yeah, no. I’m working on a long piece for the Los Angeles Times. 65.
+21) 25) dialog: Who?
+21) 27) dialog: I don’t know him. I’m working with Karen Middleton in the Sunday section.
+21) 29) dialog: That’s what I’m hoping for.
+21) 31) dialog: Sure. I know it. Dickie just finished his fellowship there.
+21) 32) dialog: Really? The Graduate Program?
+21) 34) dialog: No way.
+21) 39) dialog: I love his work. I applied there last year but I guess they weren’t having it.
+21) 41) dialog: I didn’t apply to the Stegner thing. Just for the journalism department.
+21) 43) dialog: (to Brie and Dickie) How long have you guys known each other?
+21) 47) dialog: (to Dickie) So you lived with all those models? 32 67.
+21) 55) dialog: Where’s the bathroom around here? Luke slides away to find the bathroom.
+22) 0) text: CAMERON finds Luke sitting on the couch, watching people, drinking beer from a red plastic cup.
+22) 2) dialog: Yes?
+22) 5) dialog: I heard. How old are you?
+22) 7) dialog: You set me up for it. But if you want to tell somebody your true age, it might as well be me since I don’t know anyone else here.
+22) 9) dialog: I’m not guessing. That is the road to peril. Cameron leans in to Luke, uncomfortably close. He might s back a bit into the couch.
+22) 11) dialog: You have to tell me. (beat) Here. Whisper it into my ear. Cameron whispers something inaudible in Luke’s ear.
+22) 12) dialog: She told you that huh? Cameron nods. Luke grimaces.
+22) 13) dialog: That’s nice of her. 69.
+22) 15) dialog: Surly is cute?
+22) 17) dialog: No, but I saw a bit. I think I might come out there in a minute.
+22) 19) dialog: Okay.
+23) 0) text: Luke and Brie sit outside.
+23) 1) dialog: You can mingle if you want.
+23) 3) dialog: You don’t have to entertain me.
+23) 5) dialog: Whenever I go to parties, I usually just wind up talking with the one person I came with.
+23) 7) dialog: I usually just sit around and watch people. I’m pretty shy, usually.
+23) 9) dialog: No. I am in certain situations. Parties aren’t really my forte.
+23) 11) dialog: That's cool. My confidence points are increasing.
+23) 18) dialog: Yeah. You’re supposed to get outdoors and meet new people, right? So now I have a compulsion to get out of the house and into new situations. Like maybe there’s a whole echelon of people I’m missing out on being with. I think I'd just like to be better socially adjusted.
+23) 20) dialog: No.
+23) 22) dialog: Were you ever popular?
+23) 24) dialog: Like a county fair in the summer. 72.
+23) 26) dialog: Oh God. I hated dancing. (beat) Agh. See, I’m having flashbacks. Luke holds his hands out like a zombie, except that his h are turned like he’s holding a phantom dancer. Brie smile He puts his arms down.
+23) 27) dialog: This may sound stupid, but maybe you can help me out with this thought I’ve been having. I worry sometimes that what I’m experiencing won’t be enough. In the long run. That I’m putting all my money in this one bank...or...no...that I’m reading this one newspaper. And then, one day, come to find out that this newspaper is wrong. That it’s been reporting the wrong news. I’ve been reading about things never really happened. Or that happened slightly different than reported.
+23) 29) dialog: But what happens when the curtain is suddenly pulled back?
+23) 31) dialog: I don’t know. It rained a lot in Knoxville. We were in the mountains. When I got out here, it hadn’t rained in six months. I thought: this is the place for me for now. But now I just miss the rain. I miss having the option of bad weather. Pause. 73.
+23) 33) dialog: But it’s a good reason. You lived in a small town. You should know. All I ever wanted to do was be somewhere else.
+23) 35) dialog: I could do stories all over the world.
+23) 37) dialog: Worry how? What people are thinking about me?
+23) 39) dialog: I don’t know that it worries me. But I might get upset if some guy was talking shit about my haircut behind my back. Say, if this guy was my best friend. I might find that a little unsettling.
+23) 41) dialog: What do you mean?
+23) 45) dialog: I feel like I’m going after something.
+23) 47) dialog: Maybe you aren’t, but don’t lump me in with your slacker friends. Brie looks at Luke for a long second.
+23) 49) dialog: And you can’t?
+23) 51) dialog: But you’re not the only one.
+23) 53) dialog: But you shouldn’t worry about other people too much. (MORE )
+23) 55) dialog: It’s like if you let everyone at the grocery store cut in front of you in line. You’d never get to the cash register.
+23) 57) dialog: That sucks.
+23) 59) dialog: (quickly, defensively) I'm just trying to be agreeable.
+23) 61) dialog: I don’t know what to say then. She gets up.
+24) 0) text: Luke walks through the party and doesn’t see Brie. GEANNIE, a girl, approaches Luke.
+24) 2) dialog: Yeah? Geannie grabs her friend, SAMANTHA, and points to Luke.
+24) 8) dialog: Thanks. Really, I mean it. That might have just made my night. Luke walks on and sees Brie, back with Dickie. He walks over to them. 77.
+24) 9) dialog: Hey, I think I’m gonna take off. Brie looks at him funny. Dickie extends his hand out.
+24) 11) dialog: Yeah. You too.
+24) 13) dialog: Yeah.
+24) 15) dialog: Why?
+24) 17) dialog: Uh, yeah, maybe actually.
+24) 24) dialog: I like sugar cookies.
+24) 26) dialog: Cool. Brie’s got my number. Luke leans towards the door overexaggerating his gesture leave hoping Brie will call him back. She bites.
+24) 28) dialog: Oh. Okay.
+25) 0) text: Luke and Brie come back to the spot where they had their fight. Luke is carrying two beers for them and Brie is grabbing cigarettes out of her purse. She hands him a cigarette and lights her own. She lights for him and he hand her a beer. They both exhale a drag in silence. 79.
+25) 1) dialog: Listen, I’m sorry if I said something dumb before.
+25) 3) dialog: No, I understand.
+25) 5) dialog: Did I tell you I can play mouth trumpet?
+25) 7) dialog: For real? You wanna hear it?
+25) 9) dialog: Do you have any requests?
+25) 11) dialog: Okay okay, hold on. Luke licks his lips. “Prepares.” Then he blows his way through the trumpet melody of “The Light” by Rand and Holland. Complete with pauses where the other instruments would be filling in the gaps. He finishes and shoots her a slightly impudent look. 80.
+25) 13) dialog: Thank you. I also do a mean mouth bass.
+25) 15) dialog: It comes off mostly as upright.
+25) 17) dialog: I think we drank a lot. Brie edges away. Looks up and around. Whatever spell the of them might have been under is broken.
+25) 19) dialog: Work is for suckers. Brie stands up. Luke follows.
+25) 21) dialog: Should we say bye to Cameron?
+25) 24) dialog: Yeah.
+25) 26) dialog: Yes.
+25) 28) dialog: The answer is yes. And it was magical. Cameron laughs. Who knows why.
+25) 31) dialog: Nice meeting you.
+25) 33) dialog: (points to her) Magical. Luke and Brie finally exit to the front.
+26) 0) text: Luke and Brie walk down the dark street with the sounds o the party fading behind them. Luke walks slowly, defeated by the pressure surrounding t next few moments. Brie seems cool as a cucumber.
+26) 2) dialog: She’s got good taste. 82.
+26) 4) dialog: Maybe I see myself through beer goggles.
+26) 6) dialog: I think so. I’m down... (looks around, locates himself) that street. But I’1ll walk you to your car.
+26) 8) dialog: Unless it’s further away than mine.
+26) 10) dialog: Pragmatic. They walk in mostly silence, taking in the night.
+26) 11) dialog: Are you gonna be okay to drive?
+26) 13) dialog: Okay. They reach Brie’s car and she pauses for a moment by her door. This is the moment.
+26) 14) dialog: Do you want to drive me to my car? Brie looks at him. The moment is put off for now.
+26) 16) dialog: What’s your middle initial?
+26) 18) dialog: I bet I can guess your middle name from just the initial. It’s a gift I have.
+26) 21) dialog: Okay, give me three guesses.
+26) 23) dialog: Okay. Elizabeth? Eleanor? Eumpelstiltskin?
+26) 25) dialog: It’s a gift.
+26) 27) dialog: First guess.
+26) 29) dialog: Alexander.
+26) 31) dialog: Oh, sorry. I didn’t know you had the gift too. 84.
+26) 33) dialog: Sure. Luke points.
+26) 34) dialog: It’s up here on the right.
+26) 36) dialog: Yeah, you can pull over. It’s the Accord there. Yeah, that bad boy right there.
+26) 38) dialog: Yeah.
+26) 40) dialog: Thank you.
+26) 42) dialog: No. I woke up one morning and there it was.
+26) 44) dialog: It was. The mystery remains unsolved...
+26) 46) dialog: Well. 38 39 85.
+26) 48) dialog: Thanks for driving me to my car.
+26) 50) dialog: And thanks for hanging out, it was fun.
+26) 52) dialog: See you later.
+27) 0) text: Luke watches her car while he unlocks the door to his own He opens the door and gets inside. INT. LUKE’S CAR- CONTINUOUS 39 Luke sits in the driver seat, staring ahead.
+27) 1) dialog: You sir, are an idiot. You fuck. He quickly punches the ceiling of the car and quickly reg it. 40 86. He reaches into the glove compartment and pulls out his glasses and puts them on. He turns the key in the ignition and turns on the radio. After maybe five beats of the song, he turns it right bac off and reaches into his pocket. He pulls out his phone and dials a number. After two rings, Brie picks up.
+27) 4) dialog: Hey. What’s up?
+27) 6) dialog: Cool. LUKE (CONT’D) Well, I’m kind of notorious for missing golden opportunities and maybe I’m crazy but I think that you wanted me to kiss you back there. Am I stupid or did I miss a golden opportunity?
+27) 8) dialog: Yeah.
+27) 10) dialog: Oh no. So I guess I’m stupid either way.
+27) 12) dialog: Um, where are you?
+27) 14) dialog: Well I’m on Figueroa and 37th. Do you want to meet at Figueroa and 41st.
+27) 16) dialog: Okay. See you in a second. Luke hangs up and can’t contain his high. He turns the mu up loud. EXT. FIGUEROA & 41ST- MINUTES LATER 4l Luke pulls his car to the side of the road and gets out. looks around but doesn’t see Brie’s car. After a moment, Brie’s car turns the corner at the other of the street and pulls over. Luke walks briskly to where she is. He gets to her car, opens the door and gets in. INT. BRIE’S CAR- CONTINUOUS 42 Before either has a chance to say anything, they embrace long, drunk kiss. Luke pulls away and clears his throat a little.
+27) 17) dialog: Sorry about the unconventional. .. Brie takes off his glasses and tosses them in the back se 43 44 88.
+27) 18) dialog: Hey now.
+27) 20) dialog: Lenscrafters I think.
+28) 0) text: The city is cool. Calm. Quiet. INT. BRIE’S CAR- LATER 44 Brie and Luke are kissing. Luke has his hand on the door handle.
+28) 2) dialog: I know. Sorry.
+28) 4) dialog: You're the one that has to work.
+28) 6) dialog: Okay. He gives her another quick kiss.
+28) 7) dialog: Thanks for making out. Brie gives him a look. Luke counters quickly. 45 89.
+28) 8) dialog: I meant to say ‘hanging out’. (beat) That's embarrassing.
+28) 10) dialog: Alright. I’11l see you later.
+28) 12) dialog: Bye. Luke reaches into the backseat and pulls out his glasses. puts them on and overexaggerates pushing them up on his n He smiles at her and gets out of the car. Brie watches him leave. And cracks a smile.
+29) 0) text: Luke begins to walk back to his car with a swagger. He tu and gives one last wave to Brie as she drives off. He walks briskly. And cracks a smile.

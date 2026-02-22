@@ -1,0 +1,240 @@
+4) 10) dialog: Do you think that guy's cute?
+4) 12) dialog: Does anyone else want to take his table?
+4) 14) dialog: Yeah, but I fucked up. You can take it. Really.
+4) 16) dialog: What should I do?
+5) 0) text: Stacy goes to Ron's table.
+5) 3) dialog: I know, everyone says that. He stares at her and she stares back uncomfortably.
+5) 4) dialog: What can I get for you tonight.
+8) 0) text: It is closed and only a few janitors remain. Stacy and Linda walk through the large empty mall.
+8) 1) dialog: He gave me his card.  (lovingly) 'Ron Johnson, Audio Consultant.'
+8) 3) dialog: Come on, Linda, I haven't had a boyfriend all summer. You promised when I started working at the mall that my life would change... Do you think he'll call this week?
+8) 5) dialog: So what did you do?
+8) 7) dialog: I can't do that. They pass a janitor cleaning graffiti that says: LINCOLN SURF NAZIS and MAGGOT LUST FOR THE DUST.
+8) 9) dialog: Really?
+8) 11) dialog: (cute) He was hot, wasn't he?
+8) 23) dialog: I can't believe I start high school tomorrow.
+14) 8) dialog: Hi, Brad.
+14) 11) dialog: Hi... Where's Lisa?
+14) 13) dialog: U.S. History. Mr. Hand.
+14) 16) dialog: (concerned) What's wrong with Mr. Hand?
+15) 0) text: Stacy barely slips in the door before the final attendance bell sounds. She finds a seat just as the teacher's cubicle door opens at the back of the classroom. A tall figure comes barreling down the aisle. He is Mr. Hand. The man makes a double-speed step to the door at the front of the class, kicks the door shut and locks it. The windows rattle in their frames. Stacy watches, wide-eyed, at her first high school class.
+18) 2) dialog: No way! He just called him a dick.
+18) 8) dialog: Linda. That girl looks just like Pat Benatar.
+18) 14) dialog: Do you think guys find that attractive?
+18) 16) dialog: Yeah but they look more sophisticated. You'd probably think they'd be better in bed.
+18) 18) dialog: No there are variables that, like, I might not be good at.
+18) 20) dialog: (shyly) Like, you know, giving blow jobs.
+18) 22) dialog: Well I never did it.
+18) 26) dialog: What happens... don't laugh at me, but when a guy has an orgasm... you know, like, how much comes out. Stacy stops practicing and looks horrified. Linda laughs.
+18) 28) dialog: (enlightened) Oh! That's where that group got its name from. They continue practicing as the boys look on. Stacy manages to get almost a whole carrot down her throat to Linda's amazement. The group of boys break out in applause. Stacy looks very embarrassed.
+19) 0) text: The class is situated so that all students sit at Bunson burner tables lining the room. Pat is seated at one of the tables and Stacy takes a seat nearby; she looks at the ledge in front of her. It contains a pig embryo. She listens to the conversation next to her.
+20) 0) text: We see Stacy's room, a young girl's room with posters and frilly pillows. Stacy is in bed, and her Mother is just leaving the room.
+20) 2) dialog: Good night, Mom. Her Mother shuts off the light, exits. Stacy pulls back the covers. She is fully dressed.
+21) 0) text: We see the window to Stacy's room slide slowly open, and watch her slip outside. She hikes down a drainage pipe to the street.
+22) 0) text: A brown MG pulls up. Stacy jumps from the shadows and hops in. The car drives away.
+23) 1) dialog: (a little nervous) Thanks for picking me up.
+23) 4) dialog: Thanks. So do you.
+23) 6) dialog: I don't know. Wherever you want.
+23) 8) dialog: (nervously) The point sounds fine.
+24) 0) text: Stacy and Ron sit in the car, listening to music. The "point" is a natural lookout spot that lovers can "discover." It is behind the baseball field and dugout of Ridgemont High School. Stacy and Ron get out of the car and walk to the baseball dugout.
+25) 1) dialog: That's a nice shirt.
+25) 4) dialog: It is. It's very warm. I wonder how long it will last? Ron leans over and kisses Stacy lightly on the cheek. Stacy sits quietly for a moment, thinking, was that the first move? Then she lunges at Ron and kisses him square on the mouth. At first surprised, Ron then holds her there and kisses her in return. After a time, he breaks away.
+25) 6) dialog: Yes... I am really nineteen. They continue making out.
+25) 8) dialog: What about those other guys you live with?
+25) 11) dialog: Yes.
+26) 0) text: Stacy is standing by her locker, twirling the combination. She is joined by Linda Barrett.
+26) 2) dialog: It was okay.
+26) 4) dialog: It was nice.
+26) 6) dialog: Come on, Linda. It's just sex.
+27) 0) text: Stacy arrives home. The Hamilton home has that anonymous prepackaged tract look, like many others in this lower-middle class neighborhood. Brad washes his car in the driveway and listens to the car radio.
+27) 2) dialog: Why can't you do it?
+27) 4) dialog: Your friends use the pool too.
+27) 6) dialog: Don't strain yourself. Stacy bristles, and heads inside the front door.
+28) 0) text: The furniture in the Hamilton living room looks like it was gleaned for a sale at Pic 'N Save. Through the living room, one can see a very small, kidney-shaped pool. Stacy checks an erasable telephone message sheet near the refrigerator. There are two names on it: BRAD/STACY. Brad's side is filled with messages. Stacy's is empty. She notices a summer bouquet floral arrangement. Stacy reads the attached note. It reads: "Memories of You, Ron Johnson." She quickly gathers it up and carries it back outside. She fans the door several times to dispel the odor.
+29) 1) dialog: Brad! Have Mom or Dad seen this?
+29) 3) dialog: Brad, what would you say if I asked you to just put these flowers in the trunk of the Cruising Vessel and get rid of them at work?
+29) 5) dialog: I'll explain everything later. Brad nods, as Stacy pushes the flowers into his arms.
+33) 2) dialog: Thanks for getting rid of those flowers.
+33) 4) dialog: It's just some guy I met at Swenson's. You don't know him.
+33) 6) dialog: Is everything okay at work?
+33) 8) dialog: You're going to break up with Lisa, aren't you?
+33) 10) dialog: Why? Because she won't sleep with you?
+33) 12) dialog: I'm just guessing.
+33) 14) dialog: Maybe you just need to give her some time. She's so nice, Brad. Everybody loves Lisa.
+33) 16) dialog: Hey, Brad. Are you still a virgin?
+33) 18) dialog: I don't know. I was just curious.
+33) 20) dialog: You are a virgin!
+33) 22) dialog: But your face did! They laugh. Then Brad turns serious.
+33) 24) dialog: Maybe yes. Maybe no.
+34) 0) text: Linda and Stacy walk past rows of cars. Stacy stops at a brown MG.
+34) 1) dialog: There... There's his car. I know he's at work tonight. He hasn't come into Swenson's since he called my house. My mother told him I was still at high school, after I told him I was nineteen. I guess I should tell him I'm fifteen.
+34) 3) dialog: Does Doug care that you're seventeen?
+34) 5) dialog: If he ever calls again I'll say I'm eighteen.
+35) 21) dialog: Yes, sir.
+37) 0) text: Stacy and Linda are enjoying a brief lull in the Christmas season madness. They sit at the sundae bar. Stacy looks forlorn, almost red-eyed, as she makes a sundae.
+37) 2) dialog: I think Christmas brings out the worst in people.
+37) 4) dialog: Not since November. Linda nods her head, always the coach.
+37) 6) dialog: (sighs) Don't you think it meant anything to him. Even if I am fifteen?
+37) 9) dialog: I should quit this job. I'm going to get so fat working here... nobody will ever take me out.
+37) 11) dialog: Thanks a lot. Linda punches Stacy lightly on the shoulder.
+39) 0) text: The Rat pulls open the door to Swenson's. He walks toward the counter to Stacy Hamilton.
+39) 1) dialog: Hi. May I help you? The Rat feels the beginnings of cold panic, but barges through nonetheless.
+39) 4) dialog: (smiling) We keep them.
+39) 6) dialog: We keep them, in case the people come back. She reaches under the counter and pulls out a cardboard box with some rumbled jackets and other items.
+39) 7) dialog: Here they are. You can look through it, if you want. The Rat chuckles to himself, struggling with The Attitude.
+39) 9) dialog: What's your other question?
+39) 11) dialog: Do you have a pen? This one's out of ink.
+50) 3) dialog: What do you think of that guy who works at the theatre? You know, Mark Ratner.
+50) 5) dialog: Sixteen. Linda looks nauseous.
+54) 0) text: We see The Rat behind the wheel of a green Volvo. Stacy sits beside him. They are driving the streets of Ridgemont.
+55) 1) dialog: Thanks for coming to get me.
+57) 1) dialog: This is a nice car.
+57) 3) dialog: Do you have Mrs. George for English?
+57) 5) dialog: Yeah. She is pretty good.
+58) 2) dialog: I've heard that, too. The Rat finds a parking spot near the back of the lot, grateful that the long silence is over. He walks with Stacy to the front of The Atlantis.
+59) 0) text: The Rat and Stacy are escorted by the host to a nearby table. They are given large wooden menus.
+59) 2) dialog: I think I'll have the Seafood Salad Special.
+59) 4) dialog: Are you all right?
+59) 7) dialog: Not at all. Just as The Rat is about to get up, the Waitress approaches the table.
+62) 0) text: The Rat and Stacy have finished the meal, and desert.
+62) 4) dialog: (quizzical) ) Sure. I'll... have another Coke.
+62) 14) dialog: looking strangely at the proceedings.
+62) 16) dialog: Nice to meet you. Damone leaves. The Rat takes a few quick gulps of Coke, and gets up to pay the bill. As he moves out of camera range, we see the strange look on the faces of waitresses and diners.
+63) 0) text: The Rat pulls up to Stacy's house in the cul-de sac. He stares straight ahead, like a zombie.
+63) 2) dialog: Me, too. I'm real sorry someone broke in and stole your tape deck. The Rat nods glumly.
+63) 4) dialog: Do you want to come inside?
+63) 6) dialog: No, they're away for the weekend. Brad and I are watching the house.
+64) 2) dialog: I don't know. Probably out. Want something to drink?
+64) 4) dialog: Well, I'm going to change real quick. I hope you don't mind.
+64) 6) dialog: Will you unzip me?
+64) 8) dialog: Thanks! She walks down the hall to her room, easing out of her dress as she walks. She leaves the door to her room open.
+64) 9) dialog: You can come in, if you want!
+65) 0) text: Stacy stands there, looking gorgeous in an almost seethrough white robe. The Rat pretends not to notice.
+65) 2) dialog: Thanks. So...  (puts hands on hips) What do you want to do?
+65) 5) dialog: Do you want to see some pictures? I kept a lot of scrapbooks and pictures and stuff from junior high. How stupid, right?
+65) 7) dialog: This is me in the eighth grade. Did you have Mr. Deegan?
+65) 11) dialog: Do you really have to go?
+65) 13) dialog: I guess it is getting late, Mark. She shrugs him off, walks him to the door.
+66) 0) text: We see The Rat's forlorn face as he trudges towards his car. He stops. He takes a breath -- it wasn't that late, he really didn't want to leave. The Rat turns and begins walking back up the Hamilton steps. Just as he does so, Stacy's bedroom light clicks off. It was too late. He kicks at his car.
+71) 0) text: The Ridgemont football bleachers are full of cheering students. We see the same basic groups from lunch court, and many more. The cheerleaders are on the field -- Cindy Carr, Dina Phillips and company -- and their cheerleader "husbands" sit directly in front of them in the stands. Linda and Stacy sit in the bleachers with some of the Swenson's girls. The Rat and Damone sit several rows above them, watching. The teachers sit together in another section.
+75) 3) dialog: (engrossed in book) You really ought to look at this, Linda. There's a drawing on every page... and all these quizzes. It's like school.
+75) 5) dialog: Listen to this... 'What are your mate's three most erogenous zones?'
+75) 7) dialog: Wouldn't penis and balls be the same category?
+75) 9) dialog: All right! Here's another one. 'The most satisfactory lovemaking occurs when your mate climaxes first, you climax first, you and your mate climax together?'
+75) 11) dialog: Does that ever happen?
+75) 13) dialog: Listen to this ... it says 'Most women derive pleasure from sex, but they don't have real orgasms.' Linda stops applying lotion, considers that thought.
+75) 15) dialog: How long does Doug take?
+75) 17) dialog: (pause) What's Doug do in Chicago?
+75) 21) dialog: Oh, really?
+75) 23) dialog: What do you think?
+75) 25) dialog: I didn't ask for any help. Did you, Linda?
+75) 28) dialog: O-kay, you guys can come swimming. But you have to leave as soon as my Mom gets home. Okay?
+76) 0) text: Mike Damone yells "banzai!" and dives into the small pool. At one end of the pool is the jacuzzi, which is separated by a tile wall. Damone has already poured the Wisk into the jacuzzi, and the detergent has created a huge bubble bath effect. Damone surfaces and flips into the jacuzzi. Stacy, looking great in a green bikini, sits kicking her legs by the side of the pool. Linda stands on the board. She is poised to dive. The Rat treads water and stares at both girls. Inside the Hamilton living room, the family stereo plays the music of Deep Purple's "Woman From Tokyo".
+76) 3) dialog: It's just Linda. And Mark from school. Brad ignores the underclassmen, and notices Linda on the board in her maroon bikini. He smiles.
+76) 8) dialog: I know. He hates to have to wear uniforms.
+78) 7) dialog: God, I don't think so. Better look in the house. Linda towels off and heads back inside the Hamilton house. She knows how to walk.
+85) 0) text: School is out and kids are leaving campus, heading for the parking lot and bus stop. We see Mike Damone carrying some books, walking towards Ridgemont Drive. He is joined by Stacy Hamilton, who hurries to catch up to him.
+85) 1) dialog: I can't wait until I can drive next year. I walk every day. It's such a drag.
+85) 3) dialog: Sometimes I get a ride with my brother. But he usually works in the mornings, and then drives to school himself.
+85) 6) dialog: Mark is a really nice boy... Stacy walks along, then stops and looks at Damone.
+85) 7) dialog: But I think I like you. They turn the corner.
+86) 0) text: They have arrived at Stacy's house. There are no cars parked out front. No one is home.
+86) 1) dialog: Do you want to come in for a second? The Attitude starts to weaken. After a long pause, Damone responds.
+86) 3) dialog: Sure. Come on in. Stacy unlocks her front door, they go inside.
+87) 0) text: Damone stands in the white linoleum Hamilton kitchen. Stacy opens the refrigerator door.
+87) 1) dialog: I guess the annuals are coming in pretty soon. Are you going to get one?
+87) 3) dialog: Aren't you curious to see how your class picture turned out?
+87) 5) dialog: Do you want to take a quick swim?
+87) 7) dialog: Brad probably has some trunks you can borrow... I'm going to my room to change! Damone stares straight ahead. She's going to her room to change. Stacy scoots down the hall toward her bedroom.
+89) 1) dialog: (from other room) You don't have to shout! You can come back here to my room! Damone doesn't move. He pretends he doesn't hear. A moment later, Stacy comes bounding back down the hall in her green bikini. She grabs Damone by the arm.
+89) 2) dialog: Come with me! I know there's a suit in the changing room! She pulls him away.
+90) 1) dialog: Pick a suit.
+90) 3) dialog: Are you really a virgin?
+90) 5) dialog: It's okay if it's your first time. She gives him a kiss.
+90) 7) dialog: He's my friend, too. She gives him another kiss. He kisses her in return. Standing there, feeling Stacy in her bikini, feeling her kiss him, Damone also felt some of his reservations slip away.
+90) 9) dialog: So are you. (pause) Are you shaking?
+90) 11) dialog: (whispers) Why don't you take off your clothes, Mike?
+90) 13) dialog: How about both of us at the same time? Damone nods, and watches as Stacy unhooks her top and steps out of her bikini bottom. She stands naked in the shadows of the afternoon sun. She sits down naked on a red changing room couch, and gathers her legs up to her chest. She watches as Damone struggles with his clothes.
+90) 15) dialog: I want you to know that it's your final decision if we should continue or not.
+90) 17) dialog: (whispers) Hey, Mike?
+90) 19) dialog: I think we're making a lot of noise.
+90) 21) dialog: What's wrong?
+90) 23) dialog: I guess I did. They lay there, Damone still on top of her on the red couch.
+90) 26) dialog: as she looks up at him. She gives him a kiss. Damone gets up puts his pants and shirt on. He leaves the changing room.
+91) 0) text: We see Stacy sitting at her usual seat, and she's wearing a bright spring dress with a slight amount of makeup. She looks at Damone's seat with anticipation, but it remains empty as other students file in. Finally, she turns to The Rat.
+91) 1) dialog: Where's Mike today?
+91) 3) dialog: What's April 16th?
+91) 5) dialog: John Bonham?
+91) 7) dialog: Oh. I see. The bell rings, and Mr. Vargas enters the room with his Sanka cup.
+93) 0) text: The bell has just rung, and Mike Damone comes out of Youth and Law class. He has an absorbed, driven look on his face. He walks past the rows of lockers, and doesn't even notice as he passes Stacy Hamilton standing by her locker. She smiles, grabs his arm affectionately.
+93) 1) dialog: Hi Mike! Damone turns to see her, is thoroughly unimpressed.
+93) 3) dialog: I didn't see you this morning.
+93) 5) dialog: I'm in a hurry too. I just thought I could say hi to you.
+98) 0) text: Rat and Stacy sit side-by-side on some orange plastic chairs, by a nurse's desk. Stacy is shook up.
+98) 1) dialog: I made a fool of myself.
+98) 3) dialog: What about the notes?
+100) 0) text: It is night, and Linda and Stacy are watching Fantasy Island.
+100) 6) dialog: I don't know, I'm just so depressed. Everything is just so... depressing. Linda shuts off the television.
+100) 8) dialog: I don't know... I just don't feel right. Linda sits down next to Stacy on the bed.
+100) 10) dialog: What do you think it is?
+100) 12) dialog: It could be. I had a pregnancy test at the clinic. I'll find out Monday. I guess it was Damone.
+100) 14) dialog: I'm not going to tell him. He's an asshole. I hate him.
+100) 16) dialog: You know, there's one thing you didn't tell me about guys.
+100) 18) dialog: You didn't tell me that they can be so nice, so great... but then you sleep with them and they start acting like they're five years old.
+101) 0) text: Stacy Hamilton is walking towards Mike Damone on the football field. We see him from a distance, timing track runners.
+101) 2) dialog: Mike, there's something that's been on my mind and I have to tell you about it.
+101) 5) dialog: Mike. I want you to know that I'm pregnant.
+101) 6) dialog: as she looks down. They are words she never thought she would be speaking.
+101) 8) dialog: I know it's yours.
+101) 11) dialog: She does not flinch.
+101) 12) dialog: Take that back.
+101) 16) dialog: We've got to get an abortion?
+101) 18) dialog: It's already planned, Mike. It's going to cost $150 at the Free Clinic.
+101) 20) dialog: Half. Okay? (bites back tears) Seventy-five dollars. And a ride to the clinic.
+103) 0) text: Here, at the same corner where she once waited for Ron Johnson, Stacy waits for Damone. Cars pass, no Damone.
+104) 0) text: Stacy is on the phone, calling Damone. We see the phone messages sheet that lists two calls for Stacy, and none for Brad. The line rings four times, then it's answered.
+104) 2) dialog: Hello... is Mike there?
+104) 7) dialog: Hi, Mrs. Barrett. Is Linda there?
+104) 9) dialog: Okay. Thanks. She looks at the clock again, then hears a noise in the driveway.
+104) 10) dialog: Brad! Hey, wait a second! She runs out.
+105) 0) text: Brad and Stacy pull up next to the flea market.
+105) 1) dialog: Yeah. This is it. I have some shopping to do.
+105) 3) dialog: Thanks a lot, Brad. I really appreciate it. She gets out of the car.
+106) 0) text: Stacy Hamilton watches her brother drive away. Then she looks to both sides, and walks on. She passes the entrance to the Flea Market. She walks around the corner to another building marked BIRTH CONTROL - FREE CLINIC. Brad follows her in the rearview mirror.
+107) 0) text: Stacy is lying in bed wearing a paper dress. Her hair is stuffed in paper shower cap. She looks anxious. In a bed next to her an older girl is being affectionate with her visiting boyfriend. A Nurse comes in with an IV.
+108) 0) text: Stacy gets wheeled in. The Doctor looks down at her.
+108) 3) dialog: This is going to hurt, isn't it?
+108) 5) dialog: Does it hurt more to have a baby? The Doctor pauses and considers her question.
+109) 0) text: The other girl and Stacy sit at a table eating toast and jelly. The girl is reading. The Nurse enters.
+109) 3) dialog: Uh, my boyfriend said held be waiting downstairs. The Nurse studies her, decides she's telling the truth and allows her to leave.
+110) 0) text: Stacy walks back out into the sunlight, slowly and weakly. She is surprised and amazed at who she sees standing outside, waiting for her.
+110) 2) dialog: Brad! He puts an arm around her and leads her toward his waiting car.
+110) 4) dialog: Brad. Please don't tell Mom and Dad... He helps her into the cruising vessel. He starts up the car and drives off.
+110) 7) dialog: No.
+111) 0) text: Stacy is in Linda's room, sitting on her bed. Her eyes are red and moist from crying. Linda listens to her story.
+111) 1) dialog: I really thought he would show up. I waited... and waited... and waited...
+111) 3) dialog: Then I called his house, and his mother told me he was in the garage helping his father.
+111) 5) dialog: I paid for it and everything.
+111) 7) dialog: Don't do anything, Linda. I'd rather just forget about it. I don't even like the guy.
+122) 0) text: The place is busy again, filled with shoppers and teenagers in summer-type clothing. We see Stacy Hamilton, once again, at the cash register wearing an Assistant manager name tag and a hostess gown. She handles a customer's bill, then stands there a moment, looking glum. Linda Barrett approaches.
+122) 1) dialog: Another summer of working at Swenson's.
+122) 3) dialog: You know, Linda. I've finally figured it out. It's not sex I want. Anyone can have sex.
+122) 5) dialog: I want romance.
+122) 8) dialog: Mike! You have a mess on C-9!
+122) 10) dialog: Get going. The two girls smile, go back to their posts.
+125) 2) dialog: surveying the growing mob of annual-crazed students. From behind her comes Linda Barrett in a low-cut black dress.
+125) 3) dialog: Where's Doug?
+125) 5) dialog: Not coming? What happened?
+125) 7) dialog: Sometime?
+125) 9) dialog: But what are you going to do?
+125) 11) dialog: Dartmouth?!
+125) 13) dialog: I can't believe it! But what about Doug?
+125) 15) dialog: Hey -- Doug Stallworth? It's his loss.
+128) 2) dialog: Hey Mark! Turn around! Ratner turns around, affects total and complete cool. He waves across the mall to her.
+128) 3) dialog: Come over here! He looks back at his post at the theatre, decides it's okay to step away. He walks across the mall.
+129) 0) text: Stacy is standing by the sundae bar. Next to her are two empty stools. After a moment, we see The Rat plop onto one of the metal stools. He pounds the seat next to him with the palm of his hand.
+129) 2) dialog: Hi, Mark.
+129) 4) dialog: I'm fine. Mark, I'm so glad you came over here because I want you to know something. I just thought I would tell you that I really enjoyed getting to know you this year. The Rat maintains The Attitude.
+129) 6) dialog: I know everybody says it, but I really mean it. The Rat looks at her from the corner of his eyes.
+129) 8) dialog: Yeah. I want you to have this picture, so you won't forget what I look like. And so you'll remember to call me over the summer. She withdraws a picture from her pocket, hands it to The Rat.
+129) 10) dialog: I'd like that. She gives him a kiss on the mouth, gets up and walks away. The Rat sits there, smiling at the way things sometimes turn out. He slips the picture into his pocket, a satisfied young man.

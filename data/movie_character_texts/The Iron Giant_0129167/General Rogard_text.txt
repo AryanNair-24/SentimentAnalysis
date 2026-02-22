@@ -1,0 +1,15 @@
+73) 0) text: An Army General sits at a booth, studying a map. Kent sit across from his, positively glowing with pride.
+73) 1) dialog: Hills, valleys, woods, ravines. Lot of places to hide, around here.
+73) 4) dialog: (still studying map) Hard to know where to start, really...
+73) 6) dialog: Can you take me there?
+74) 4) dialog: Sir, my name is General Shannon Rogard. We have reason to believe you are harboring a large... (finding this hard to swallow) +.. creature whose interest run counter to those of the United States. Do you deny it? 71.
+74) 7) dialog: What rank?
+86) 1) dialog: He's got the boy!! HOLD YOUR FIRE!
+86) 3) dialog: This is General Rogard! Code red! Repeat-- code red!
+100) 0) text: A deathly HUSH has fallen over all assembled. Kent, looki ASHEN, starts slowly backing toward the jeep, and escape. Without turning around, the General barks loudly at Kent.
+100) 1) dialog: This is your party, Mansley. Don't even think about leaving early. Lieutenant?? The Lieutenant pulls his sidearm and levels it at Kent. Kent WINCES, caught.
+102) 0) text: Several jeeps pull up beside Hogarth who is staring at th sky. The General and a group of soldiers jump out. Kent, flanked by soldiers with pistols on him, sits silently in the back of the jeep. The Captain scoops up Hogarth in hi arms and stares at the sky as well.
+105) 0) text: The General gets the word over his headset:
+105) 1) dialog: He did it! The soldiers cheer. The General approaches Kent, still flanked by military officers.
+105) 2) dialog: As you for you, Mansley. You're under arrest... "and all that that implies". Kent visably WITHERS.
+105) 4) dialog: Let's go home. The General carries Hogarth to the Jeep. Hogarth stares a the GREEN LEAF in his hand. We CLOSE ON on the leaf and..

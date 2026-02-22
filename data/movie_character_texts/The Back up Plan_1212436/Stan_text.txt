@@ -1,0 +1,302 @@
+9) 4) dialog: You own it?
+9) 6) dialog: Actually, if we're being technical, you kind of stole it.
+9) 8) dialog: If you see someone about to get in a cab, you can't just run in from the other side and say it's yours.
+9) 10) dialog: I saw you see me.
+9) 12) dialog: Maybe you're not from around here, but there's a code. It's like war, even though it's brutal and bloody, there are still certain rules we--
+9) 16) dialog: No.   I'll get out. They each get out.
+10) 0) text: Zoe and Stan stand on opposite sides of the taxi in the POURING RAIN. Zoe crosses her arms.
+10) 2) dialog: I don't know. You tell me. That question is answered by the cabbie, who now peels ou
+10) 5) dialog: You said you were in a great mood and I was ruining it. I felt bad. (then) Did you just call me stupid-head? Zoe storms off with her little steps.
+11) 0) text: Stan and Zoe each swipe their Metrocards at the same time They enter the subway platform which is jam packed with a the other NEW YORKERS who are shit-out-of-luck in the cab department. Rain droplets drip from the ceiling above.
+11) 2) dialog: How's your great mood now?
+12) 0) text: A packed subway car. Zoe and Stan are back-to-back, pushe together by the crowd. Zoe tries to read her paper.
+12) 1) dialog: How `bout now?
+13) 0) text: Zoe and Stan walk up the stairs a few feet apart from eac other. Zoe does her best to ignore the obvious.
+13) 1) dialog: So, why are you in such a good mood anyway? They reach the top of the stairs. The rain has stopped, a the sun is just starting to peek through. Everything is w and has a magical quality.
+13) 3) dialog: That's nice. I hope it continues.
+13) 5) dialog: You do the same. They nod and separate.
+15) 7) dialog: Hi.
+15) 10) dialog: Oh, wow.   Is he...okay? Nuts is still on the ground, his wheels spinning.   Zoe s him upright.
+15) 12) dialog: I'm sorry. I didn't mean to scare you. Or hurt your dog. Don't worry, I'm not a stalker.
+15) 14) dialog: I followed you after the subway. (thinks, then) That sounds a little stalkery, huh?
+15) 16) dialog: I just really wanted to see you again. Almost like I had to see you again. Can I walk you home? (then) Is it me or does everything I say make me sound more like a stalker?
+15) 18) dialog: Can I just give you my card? Here. Take my card. I'm not a freak. Really. I sell cheese. This hangs out there for a beat.
+15) 20) dialog: Yeah. My family has a goat farm. We make cheese. You like cheese?
+15) 22) dialog: Little Goat. Maybe you've seen us at the Farmer's market? Come by sometime and you can taste my cheese. (then) Okay, I'm going to go. This has not gone as planned. Stan smiles meekly and then turns to go.
+20) 0) text: The Farmer's Market is crowded with people. We hear the sounds of a bluegrass band playing somewhere nearby. Zoe spies the LITTLE GOAT sign. But Stan is not there. looks around the neighboring stalls for him, but no luck.
+20) 9) dialog: A-ha! I didn't scare you away after all.
+20) 11) dialog: I love blueberry pie. Stan takes two pints of blueberries and hands them to Zoe
+20) 13) dialog: What makes you think I don't?
+20) 15) dialog: Can't someone do both?
+20) 18) dialog: Nope. (to Zoe) Come on. Let me show you around. Stan puts his arm around Zoe and leads her away.   Olivia watches them go with her arms crossed.
+21) 0) text: Stan walks Zoe through his cheese stand.
+21) 1) dialog: This is our basic chevre, probably our best seller. The cheese that started it all, as they say. Then over here we have our surface- ripened cheeses. These are the aged/raw milk cheeses. (realizing) This is really boring, huh?
+21) 3) dialog: It's like you're in a foreign country and the only thing to watch on tv is a documentary on cheese. You don't want to watch it, but somehow you can't stop...
+21) 5) dialog: All right, you asked for it... (boring voice) The aged/raw milk cheeses are made from raw milk and then aged for four to six months. Sometimes more. Sometimes less. Usually more. Depends on the cheese.
+21) 7) dialog: Fred, Zoe, Zoe, Fred. (then) She's the one I followed from the subway the other day like a total psychopath.
+21) 12) dialog: Don't scare her away.   I'm trying to redeem myself.
+21) 14) dialog: Doofus? (then, to Zoe) Do you think I look like a doofus?
+21) 16) dialog: Okay. If I put the banjo down, can I take you to lunch or something?
+21) 18) dialog: Come on, say the word and we can have a six-course tasting menu at Union Square Cafe. I know the chef.
+21) 20) dialog: Well, can I call you? Zoe smiles.
+24) 0) text: Zoe and Stan stand at the counter with an array of hot do in front of them. Stan looks at the hot dogs skeptically.
+24) 1) dialog: We could have gone anywhere.
+24) 3) dialog: Per Se, Jean Georges, Nobu...
+24) 7) dialog: I actually haven't lived here my whole life. We moved out of the city when my parents bought the farm....not died, but actually bought a farm and moved upstate.
+24) 10) dialog: What about your family?
+24) 12) dialog: I'm so sorry. There is a long silence.   They both stare at the hot dog
+24) 13) dialog: I don't know what to say now.    I've made it all awkward and sad.
+24) 15) dialog: Shit.   I'm so sorry, Zoe.
+24) 17) dialog: Okay.   Good idea.
+24) 19) dialog: Nope.   What about you?
+24) 21) dialog: Have you ever been married?
+24) 24) dialog: Aren't you sick of going to weddings?
+24) 26) dialog: I hate when they write their own vows! They clasp hands. Not in a high-fivey way, but in a connected, we have so much in common way. Their hands sta together, feeling the charge between them.
+24) 27) dialog: What about kids? Zoe feels the blood rush to her cheeks.   Like everyone t must now be looking at her.
+24) 29) dialog: Well, do you want them?
+24) 32) dialog: Yeah.   Absolutely. Zoe nods.   Slowly, she starts to breathe again.
+25) 2) dialog: Jen Salzer. Seventh grade. She wore a head-gear. What about you?
+25) 6) dialog: When can I see you again? Zoe feels her heart jump.    She kisses him again.
+30) 0) text: Manhattan fades into the distance, as they drive over the Brooklyn Bridge. Zoe cracks the window.
+30) 1) dialog: Are you feeling okay? Zoe nods.   Her face looks pale.
+30) 2) dialog: Good, because this should really be a culinary adventure. This is an underground restaurant that moves from apartment to apartment, depending on the chef. Zoe nods again. Hasn't heard a word he's said. She rolls the window all the way down and hangs her head out.
+30) 3) dialog: And some of the guys from the band will be there. So, we might get a little jam going. Sounds fun, right? (then) Zoe? Zoe's POV. Headlights from passing cars whiz by, and the wind swirls her hair into her face. Brooklyn approaches l a bad dream.
+31) 0) text: Stan walks down a long table filled with appetizers. He i making a plate for each of them. Zoe trails behind, beads sweat on her forehead.
+31) 1) dialog: And this looks like a mache salad with grapes and feta. He takes some for each of them.
+31) 2) dialog: And this, oh this must be white beans and lamb's tongue. You've got to have some of this. Etienne is famous for his lamb's tongue. Olivia approaches.
+31) 5) dialog: Oh, hey, Olivia.   You remember Zoe.
+35) 0) text: Zoe hurries through the living room, a packed drugstore b hidden under her arm. Stan comes up behind her.
+35) 1) dialog: Where have you been? Zoe jumps and accidentally drops the bag. The tests spill out onto the floor. She quickly scoops everything back in
+35) 3) dialog: Did you just go to the store?
+35) 5) dialog: Corn pads?
+35) 8) dialog: What's a corn pad?
+38) 0) text: Stan, JERRY and SCOOTER are just starting to play. A smal crowd gathers round. Stan starts to sing an old tune call "Sweet Little Miss Blue Eyes."
+38) 1) dialog: Who makes me forget all the other girls I met, sweet, little Miss Blue Eyes. Who's sweeter to me, than she really ought to be, sweet little Miss Blue Eyes. Zoe appears at the door to the patio.   Stan smiles at he while he sings.
+38) 2) dialog: Who's gonna start takin' care of my heart, she makes me realize. And it's lucky for me and I really want to be with... (winks at Zoe) sweet, little Miss-- Stan's POV as Zoe covers her mouth with two hands and bol for the bathroom, puking.
+38) 3) dialog: Blue eyes?
+40) 0) text: Stan and Zoe walk towards Zoe's brownstone. Stan is practically holding her up. Zoe stumbles along.
+40) 1) dialog: My singing made you vomit.
+40) 3) dialog: Sure, we were a little out of tune, but...
+40) 5) dialog: Is it your corns?    Hurts to walk? ANGLE on Carol, from Single Mother's By Choice, approachi Zoe's face pales.
+40) 11) dialog: Hi.
+40) 14) dialog: An old...boyfriend?
+40) 17) dialog: Okay. (then) Hey, I was thinking, if you don't have any plans this weekend, maybe you'd like to come up to the farm and get away for a few days.
+40) 19) dialog: Was it the lamb's tongue? Zoe runs inside holding her hand over her mouth.   Stan s there for a beat. He calls after her.
+40) 20) dialog: Okay, well...this weekend.   Think about it.
+50) 2) dialog: Where are you? Zoe looks around.
+51) 0) text: Zoe bumps along the winding driveway of this idyllic Huds River farm. There are red barns in the distance and green pastures filled with goats and sheep. The house is an old carriage house with a rusty weather-vane on top. Zoe parks the car and takes in the whole scene. Stan open the front door, with a huge smile on his face. Zoe sighs.
+52) 3) dialog: I just come on weekends. My parents really live here.
+52) 5) dialog: In the kitchen. Zoe stops short.
+52) 7) dialog: No. Not at all.    I mean, you'll meet them, but--
+53) 0) text: Zoe lies in the small bed with the covers pulled up to he chin. Stan stands above her with an odd look on his face.
+53) 1) dialog: Are you hung-over or something?
+53) 3) dialog: Are you sure you're okay? (then) Zoe? Hello? But she's already out.   Stan gives her a little poke.
+54) 0) text: Stan enters the kitchen. His parents, JOAN and EDWARD loo up expectantly, as if about to meet their new daughter-in law.
+54) 3) dialog: She's taking a nap.
+54) 5) dialog: Mom, I need you to not be judgemental, okay. I like this girl a lot.
+54) 8) dialog: Oh.   This is Nuts. Joan and Edward take in the raggedy/wheelchair-bound dog then look at Stan. Stan shoots his mom a look.
+58) 2) dialog: Yeah, Mom, it's awesome.
+59) 7) dialog: You worked for Google? Zoe nods.
+59) 8) dialog: How could I not know that?
+59) 11) dialog: And you made a lot of money and then bought a pet store? Stan puts his arm around her and gives her a squeeze.
+59) 12) dialog: I love that.
+60) 1) dialog: I can't believe that Nuts has an off-road wheelchair.
+60) 5) dialog: You're really something.
+60) 7) dialog: No, I really think you're amazing. I mean, that story you told tonight. You just quit your whole professional life because of this little dog? Started your own business, just like that? Zoe shrugs.
+60) 8) dialog: You're very...unique.
+60) 10) dialog: I keep waiting for the other shoe to drop. Like, how can you be so perfect? Why are you even still single? I can't believe no one's snatched you up by now.
+60) 12) dialog: Yeah, right. Stan takes her in his arms.
+60) 13) dialog: Look, I know this is all going fast...the time we're spending together, meeting my parents and everything...but, I'm okay with that. I want it to go fast.
+60) 16) dialog: But isn't that okay? Aren't we old enough to skip all the bullshit? What are we waiting for? I...want to be with you. Zoe opens her mouth. She's got to tell him.    Before thi goes any further, she has to tell him.
+60) 18) dialog: Come on. There's something I want to show you.
+61) 0) text: It's floor to ceiling wooden shelves all filled with chee Stan ceremoniously unwraps a wheel.
+61) 2) dialog: It's cheese.
+61) 4) dialog: It's a new kind of goat's milk we're using. I've been developing the recipe, and now it needs to age. It'll be ready for market in several months. (then, excited) Want to know what it's called?
+61) 6) dialog: Zoe.
+61) 8) dialog: Not just one piece. The whole line. This will forever in history be known as the Zoe.
+61) 11) dialog: Unless, of course, it tastes like shit, and then we'll just scrap it. (with a wink) But that'll never happen.
+61) 13) dialog: Because it's going to be fantastic. Sweet and sassy and very complex. Why do you think I'm calling it Zoe?
+61) 15) dialog: You're kind of hard to read right now. You're either seriously flattered or totally repulsed. Zoe smiles.
+61) 16) dialog: What?
+62) 0) text: The door to the dairy kicks open and Stan carries Zoe out Her legs are around his waist and they are making out lik crazy.
+63) 0) text: Stan carries Zoe up the stairs. They are tripping and kissing and now tearing at each other's clothes.
+64) 0) text: Stan throws Zoe on the bed and then peels off his shirt. body looks amazing in the shadowy moonlight. Zoe lies the looking at him before he jumps on top of her.
+64) 3) dialog: What? Zoe shakes her head and then melts into him.
+65) 0) text: They are now on their backs staring at the ceiling.    Th look happy and worn out Their P.O.V. Those little glow-in-the-dark star stickers all over the ceiling. There's barely any glow left. Stan lets out a big sigh as he looks at the "stars"...
+65) 1) dialog: That was amazing. I mean, like, totally and exceptionally, over-the- top, amazing. Zoe turns to him.   Takes a deep breath.
+65) 3) dialog: Yeah.
+65) 5) dialog: There's something I have to tell you, too. Now Stan turns to her.     They are face-to-face.
+65) 6) dialog: Can I go first? `Cause if we're going to say the same thing, I want to say it first.
+65) 9) dialog: Well, let me go, because this is really embarrassing, and I just have to say it.
+65) 11) dialog: I've dated a lot of women. I mean, not tons, but a lot. And, the thing is, I've never...been in love before. I've never even told anyone I love them before. Because I just never felt it. But from the day we met, from the first time our backs accidentally touched in the subway, I feel this, this... (he shakes his head) Maybe this is too much to say right now, but...I love you, Zoe. I really do. Stan finishes.    He looks at her and smiles.   Zoe just at him.
+65) 12) dialog: In my mind, you were supposed to say, I love you, too. Instead, Zoe covers her mouth and runs to the bathroom. beat later, we hear her vomit.
+66) 0) text: Zoe is at the sink, furiously brushing her teeth.    Stan enters.
+66) 1) dialog: Zoe? He looks at her.   Sees the tears in her eyes.
+66) 2) dialog: Why are you crying? Everything's perfect.
+66) 4) dialog: Sure it is.
+66) 6) dialog: What?
+66) 8) dialog: Uh, I'm pretty sure it doesn't happen that fast. Zoe shakes her head.
+66) 10) dialog: Pregnant? As in you're going to have a baby? Zoe nods.
+66) 11) dialog: I don't understand.
+66) 13) dialog: Well, who's it?
+66) 15) dialog: What?
+66) 17) dialog: Anonymous?
+66) 19) dialog: Seriously, what the fuck are you talking about? Sperm bank? What?
+66) 22) dialog: When did all of this happen?
+66) 24) dialog: But...why?
+66) 26) dialog: No, why would you do this?
+66) 29) dialog: I just told you I loved you.
+66) 31) dialog: You're pregnant.
+66) 33) dialog: You're pregnant.
+66) 36) dialog: I tell you I'm in love with you and you tell me your pregnant with some stranger's child?
+66) 38) dialog: I'm sorry. I...I'm stunned. I don't know what to say. What the fuck am I supposed to say?! This is great fucking news? Congratulations?! Why did you wait so long to tell me?
+66) 40) dialog: Well, what am I supposed to do now? This isn't how it was supposed to be. This isn't what--
+66) 43) dialog: Sorry?   What's sorry going to do? Stan walks out. Zoe stands there.     And stands there. then she starts to cry.
+69) 0) text: Stan lies awake in a small guest room.   Joan enters and startled to find him in there.
+69) 6) dialog: She's pregnant.
+70) 0) text: Zoe sits in the passenger seat with the key in the igniti Stan leans against the car. They are both quiet.
+71) 0) text: Zoe stands in the hallway of Mona's apartment building. beat later, Mona opens the door and holds out her arms.
+76) 0) text: Stan leans against the fence looking at the goats. He has the beginnings of a beard growing. The scruff makes him l older. Thinner. Joan approaches and stands next to him for a bit.
+76) 6) dialog: Having a baby with someone I barely know, someone else's baby...it's just not how I pictured it.
+77) 0) text: Stan lies in bed looking up at the "stars." There's even less glow now than last time. He sighs and then turns ove to try and sleep. ANGLE ON Nuts' off-road wheelchair in the corner of the r Stan looks at it and can't help but smile.
+80) 4) dialog: Hi. Her P.O.V. Stan appears next to her in the reflection. a brief second, they look like a family. Zoe turns. They both stop. Unsure of whether to hug or what. They just stand there.
+80) 6) dialog: Hi.
+80) 8) dialog: You...look great. Zoe touches her belly.    Proud but protective.
+80) 9) dialog: How are you feeling?
+80) 11) dialog: Good. A long silence.
+80) 14) dialog: Yeah, it's awful isn't it.
+80) 16) dialog: Don't lie. (then) Did I tell you how pretty you look? Zoe nods.   Another silence.
+80) 17) dialog: I miss you. A group of SCHOOL KIDS, lost in their own conversations, up the block, separating Zoe and Stan for a moment. This separation makes the moment all the more tense.
+80) 19) dialog: This whole time we've been apart, I've been trying to figure out what it is about you that I love so much. And I think that it's that a lot of people talk about doing things, but you actually do them. You're really kind of daring. How you quit your job and took over a pet store all because some asshole sold you a lame dog. You came and found me at the Farmer's Market even though the night before I acted like a total stalker... Zoe smiles at the memory.      Stan continues.
+80) 20) dialog: And now you're pregnant. Because you wanted to have a baby and didn't think you could wait any longer. Well, that's just the same kind of thing. It's...brave. And I can't love you for being that way but then walk away for the same reason. Stan takes her hands.
+80) 22) dialog: I love you. I've been waiting my whole life for you. And I can't let one little baby get in the way of that. I just...can't.
+80) 24) dialog: Okay.
+80) 26) dialog: What.
+80) 28) dialog: This is insane.
+81) 0) text: It's late. Zoe and Stan are naked in bed, lying face to face. Stan puts his hand on her stomach. He feels the little bump, new since he's last been with her.
+81) 1) dialog: Do you feel any kicking?
+81) 3) dialog: What does it feel like?
+81) 7) dialog: Yeah.     I'm really sure. They look at each other for a long time. Finally, Zoe clo her eyes and settles in for sleep, with Stan watching her she dozes off.
+82) 0) text: CU of a MONITOR where we see two distinct baby shapes floating head-to-toe. Dr. Harris holds the ultrasound wand to her belly. Stan doesn't say anything. He looks on in total amazement.
+82) 2) dialog: They're so...perfect.      They look like real babies.
+82) 6) dialog: Two girls?
+83) 0) text: Stan and Zoe walk down Madison Avenue. All of the other N YORKERS are on some kind of mission -- shopping, rushing meetings, or fighting for cabs. But Zoe and Stan just walk slowly hand-in-hand. Every so often looking at each other and just smiling or laughing. Then, suddenly, Stan picks her up in the middle of the street.
+83) 1) dialog: Two girls! A WOMAN with a BABY in a Baby Bjorn passes by.   Stan smi Now he's part of this exclusive club.
+83) 2) dialog: Hi.
+84) 2) dialog: Thanks, Sam. It looks incredible. Sam tops off their champagne and exits.   Stan picks up h fork and starts eating. Zoe does not.
+84) 3) dialog: Aren't you hungry?
+84) 5) dialog: Why not?
+84) 8) dialog: Let me get Sam back. He'll make you anything you want.
+84) 10) dialog: Well, what are you going to eat?
+85) 3) dialog: No.
+86) 0) text: Zoe and Stan lie in bed, each reading a copy of "What to Expect when You're Expecting." Zoe has the McNuggets box on her chest. She dips each nug in three different sauces and then takes a bite. Stan watches with a mixture of amusement and revulsion.
+86) 3) dialog: No. I stopped reading when you ripped out one of my pages and used it as a napkin.
+86) 5) dialog: Really? Zoe smiles and then slowly triple dunks another McNugget. She takes a seductive bite.
+86) 6) dialog: Are you coming on to me? It's kind of hard to tell right now.
+86) 9) dialog: You have chicken in your hair.
+88) 0) text: Stan, dressed in a tux, sits on Zoe's bed.    He turns to closet.
+88) 1) dialog: Everything okay in there? A cocktail dress FLIES out and hits him in the head.
+88) 2) dialog: Never mind. He waits a few beats.   Another dress FLIES out.
+88) 4) dialog: Honey, whatever you wear is fine.
+88) 8) dialog: You always look great. I've never seen you not look great. Stan goes to the closet. Zoe is pulling on a long black dress. She tries to smush her boobs down into the top.
+88) 9) dialog: That's perfect. You look hot.
+88) 11) dialog: Do you have a shawl or something? Zoe bursts into tears.
+89) 0) text: A cab pulls up in front of Zoe's brownstone. Stan opens t door for Zoe who is now wearing a long silver dress. Whil it's certainly hugging every curve and bump, it looks gre
+89) 1) dialog: You look smokin'.
+89) 3) dialog: Let's go.     We're super late. She tries to bend at the waist, but the dress is too tigh Then she tries to go in butt first and swing her legs aro but again, the dress is too tight.
+89) 6) dialog: Why don't you sort of go in...head first and then turn around. Zoe leans her head in and then has no other choice but to down sideways on the seat. Stan tries not to laugh.
+89) 8) dialog: Push you?
+92) 0) text: Stan leans against the bar with a beer in hand. He is watching all of the Farmer's Market girls and his co-work Fred, on the dance floor. Everyone looks drunk and happy. Olivia stumbles towards him with an empty glass of champa
+92) 2) dialog: I'm just about to go.    It's late.
+92) 5) dialog: I have a girlfriend, Olivia.
+92) 7) dialog: It's serious this time. Olivia pulls back, surprised.
+93) 0) text: Zoe is asleep in the bed. Her bump looks very cute under covers. Stan quietly gets ready for bed. She turns to him half asleep.
+93) 2) dialog: Boring.
+93) 6) dialog: Excuse me?
+93) 8) dialog: You know what's weird?   I never knew your old ass.
+93) 10) dialog: I also don't know what you really like to eat and what's just a craving, or when you start laughing hysterically and then crying and you say, this isn't me, if that's true because I don't really know the real you. All I know is the pregnant you.
+93) 12) dialog: Or like how you're horny all the time? Is that you? Or is that pregnant you?
+93) 14) dialog: When all of this is over, who will you be?
+93) 16) dialog: But...who is that?
+94) 0) text: The clock by the bed says 2:30 a.m. Stan is snoring slightly. Nuts is on the pillow beside him. Zoe's side is empty.
+95) 0) text: Zoe sits on the floor of the living room sifting through box of photographs. We FOLLOW her back into the bedroom and onto the bed. As Stan slowly opens his eyes, she holds up a photograph. His P.O.V.    It's a picture of a woman's ass.
+95) 2) dialog: Why do you have a picture of your ass?
+95) 4) dialog: It's a nice ass.
+95) 7) dialog: Wow.
+95) 10) dialog: You look like Anthony Michael Hall.
+95) 13) dialog: Fifth place.
+95) 16) dialog: Why are you dressed like that?
+95) 20) dialog: You look just like her.
+95) 22) dialog: I...can't imagine.
+95) 24) dialog: Do you have any pictures of your dad? Zoe doesn't say anything.
+95) 25) dialog: I'm sorry. If you don't want to talk about it...
+95) 27) dialog: Oh.
+95) 29) dialog: God, Zoe.    I'm so sorry.
+95) 33) dialog: Things can last forever, you know.
+96) 0) text: Zoe and Stan enter the lobby of an old building in Tribec
+96) 1) dialog: I'm confused. Why did you say you would come witness this birth in the first place?
+96) 3) dialog: It's four in the morning. I'm not letting you walk home alone.
+98) 0) text: Stan looks up from the Hunan Lotus take-out menu he's bee reading to pass the time.
+98) 2) dialog: Excuse me?
+98) 4) dialog: I don't know, Zoe.
+99) 0) text: Zoe and Stan hover over the dessert table. They both eat brownies and keep their eyes down. Sara is next to them nursing Dakota.
+99) 1) dialog: This is weird.
+99) 4) dialog: The what?
+99) 6) dialog: What's a water birth?
+99) 9) dialog: I'll wait here. Zoe grabs another brownie and exits.
+102) 0) text: Out in the foyer, Stan is paralyzed.   Next to him is Dak who is crying. Through the hallway mirror, he can see what's going on in living room: a hefty woman on all fours in a dirty inflat swimming pool with a hairy head coming out of a hairy vag
+103) 0) text: Stan, walks backwards with his head down, holding a mirro
+103) 1) dialog: Excuse me.     Hello. I'm Stan. Excuse me.     Hi. I'm Stan. Carol grabs the mirror and holds it under Lori. Lori lift her leg like a dog taking a piss and then starts to cry.
+103) 4) dialog: (freaking out) Let's get the hell out of here.
+103) 6) dialog: What does that mean?
+104) 1) dialog: Are you okay?
+104) 5) dialog: (afraid) I think it's the placenta. Zoe's eyes roll back again and we...
+105) 0) text: 14th street is just coming to life as the FARMERS start t unload their wares. Zoe and Stan head up the street slowly, wearily, like soldiers back from battle.
+105) 2) dialog: No.
+105) 4) dialog: Like forty times.
+105) 6) dialog: It won't be like that for us.
+105) 8) dialog: Well, for starters, you wax. ANGLE ON Olivia crossing from her berry stand to the chee stand with a blueberry pie. She is about to place the pie Stan's table when she looks up and sees Stan and Zoe.
+105) 11) dialog: Hi. (awkward beat, then) You remember Zoe.
+105) 17) dialog: I told you it was serious.
+105) 20) dialog: It was nothing.
+105) 24) dialog: Well, they're not mine...but, yeah, we're having a baby. Two actually. On Zoe's look of shock we...
+106) 0) text: The fruits and vegetables and flowers become a blur as Zo runs out of the Farmer's Market. Stan chases after her.
+106) 1) dialog: Nothing happened.
+106) 3) dialog: Nothing happened!
+106) 5) dialog: I didn't mean to say it.
+106) 7) dialog: I don't know. I was flustered.
+106) 9) dialog: I'm sorry, I'm not exactly thinking straight. I've been up all night watching Orca give birth!
+106) 11) dialog: (at a loss ) Well, I mean...technically, they're not.
+106) 14) dialog: Zoe. She runs to a nearby cab and slams the door.
+107) 0) text: Zoe enters the apartment and slams the door behind her. S runs to the couch and collapses in tears. Nuts wheels ove and stands beside her.
+110) 0) text: Zoe walks down the steps. Stan is waiting for her on the sidewalk. His hands in his pockets.
+110) 2) dialog: It's Thursday. We have a doctor's appointment.
+110) 4) dialog: Come on, I didn't mean to say it, and that's not how I feel. Zoe shakes her head.
+110) 6) dialog: Don't say that.     That's not true.
+110) 9) dialog: So that's it? Because of one stupid, asinine thing that I said, it's all over? This is how it ends?
+115) 0) text: The music takes us into the church and there we find Nana lovely in her wedding gown, and Arthur, dashing in his morning suit, standing at the alter holding hands. Both h tears in their eyes. Arthur lifts her veil and gives her sweetest kiss. ANGLE ON Zoe and Bobby in the first pew, passing a handkerchief back and forth.
+117) 0) text: Stan stares off into space. His beard is back.   A CUSTOM surveys the different cheeses on the table.
+117) 2) dialog: Yeah. This is the first week it's been out.
+117) 4) dialog: It's...very stubborn, overly suspicious and distrustful of men. The customer looks up at Stan.
+126) 0) text: Zoe runs through the market looking for Stan. ANGLE ON Stan's truck, where Stan and Fred are unloading cheese.
+126) 5) dialog: Zoe?
+126) 7) dialog: Are you okay? Don't run!
+126) 9) dialog: Are you all right?
+126) 11) dialog: Why are you in a hospital gown?
+126) 13) dialog: What?   What the hell are you doing here?
+126) 15) dialog: What?
+126) 19) dialog: I've been in love with you since the moment you stole my cab. Zoe bends over, holding her stomach.   A contraction.
+126) 22) dialog: I'm sorry. Oh, I'm sorry. I just love you. I love you so much. (then) Let's get the hell out of here.
+126) 24) dialog: Let's go have our babies. People clap and cheer as they hurry out of the Farmer's Market. Even Olivia, watching from a distance, can't help but applaud the big moment.
+127) 0) text: Some fantastic song that makes us want to cry is playing. We are CLOSE on Zoe's face. She is smiling.    She does n look scared. And she does not look alone. WIDEN to reveal Stan by her side.
+128) 0) text: It's night.   Zoe is asleep. She opens her eyes and takes a moment to figure out where is. She turns to the side and finds Stan sleeping next to her, curled up against her in the tiny hospital bed. To the side of the bed are two bassinets.   Each baby sle soundly in a little pink hat. And in the next bed is Nana, asleep with a bandage on her forehead.
+129) 0) text: Nuts trots/rolls down the sidewalk wearing a sweater that says, "I'M A BIG BROTHER." We TILT up and see Zoe and Stan strolling arm in arm, eac with a Baby Bjorn with a rosy-cheeked baby girl in it. Bo girls have flaming red hair. A woman pushing a stroller passes by.   She smiles at Zoe Stan. They smile back.
+129) 3) dialog: Hi.
+130) 3) dialog: Well, it's the anniversary of our first date. Where else would I take you? (then) Cheers. They clink dogs and each take a bite.
+130) 4) dialog: What a year, huh?
+130) 6) dialog: And the part where you dumped me. (to the babies) Girls...Mommy and Daddy were stupid. The babies smile and coo.
+130) 8) dialog: The first time we held hands was in here. It started out as a high- five, but then I strategically turned into a hand-hold.
+130) 10) dialog: We both agreed that we were totally sick of weddings and hated when people wrote their own vows.
+130) 12) dialog: So...I hope you won't hold it against me.
+131) 0) text: Zoe and Stan, still wearing the Baby Bjorns, stand face t face in front of the guests and the priest.
+131) 1) dialog: I promise to love you even though you still eat chicken McNuggets in bed. I promise to name cheeses after all of our children no matter how embarrassed they are by it. I promise to always check out your ass when you walk away, and I promise to love you more tomorrow than I do today, which doesn't even seem impossible... And slowly, the sound of Stan's voice fades out and the s of Louis Armstrong's voice fades in... And we watch Zoe's face as she realizes that there are so things that really will last forever.

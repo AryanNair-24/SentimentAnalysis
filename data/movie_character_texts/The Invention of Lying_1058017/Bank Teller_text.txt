@@ -1,0 +1,19 @@
+23) 3) dialog: How can I help you today?
+23) 7) dialog: Okay, sir. I'm confident I can help you with that.
+23) 15) dialog: Unfortunately sir the system is down right now so I'm not going to be able to perform an account closure until the system is back up. But I can assist you in a withdrawal. How much would you like to withdraw?
+23) 18) text: The bank teller smiles at Mark.
+23) 20) dialog: How much are you going to withdraw today, sir?
+23) 24) dialog: The system is down, sir. Please tell me how much you have in your account?
+23) 28) text: We fly back out of Mark's skull -- his eyes are locked on Bank Teller's like a deer in the headlights.
+23) 30) dialog: Sir?
+23) 34) dialog: Pardon me?
+23) 42) dialog: Wait a second here. The system just came back up. (to co-worker) System seems to be back up, guys. (to Mark) Just one second while I access your account. You said you're withdrawing eight hundred, correct?
+23) 46) text: The bank teller types on her keyboard.
+23) 48) dialog: Well, look at this. It says here you've only got three hundred dollars in your account. But you said you wanted to withdraw eight hundred?
+23) 51) dialog: I apologize for this sir, but it seems our system has made a mistake. Hold on one second while I go and get your eight hundred dollars. Did you want that in large or small bills?
+23) 60) dialog: (to co-worker) Guys the computers seem to be a bit buggy. Will someone call James to come in and look into it, please?
+23) 61) text: Moments later the Bank Teller returns and begins counting eight hundred dollars for Mark. Mark stares at the money wide eyes.
+23) 63) dialog: There you are. Eight hundred dollars. Anything else I can do for you today?
+23) 64) text: In shock, Mark shakes his head. The bank teller smiles bi him.
+23) 66) dialog: Sometimes our computers can get a bit buggy, especially when the system goes down. Sorry for any inconvenience.
+38) 14) text: Mark and the homeless man are at the bank. Mark is talkin the bank teller. The homeless man looks at Mark nervously The teller leaves and comes back with stacks and stacks o cash.

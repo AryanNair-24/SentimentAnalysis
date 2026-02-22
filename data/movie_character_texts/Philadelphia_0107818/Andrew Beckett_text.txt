@@ -1,0 +1,453 @@
+0) 10) dialog: My client has one of the finest and most respected safety records in the business, Your Honor!
+0) 15) dialog: Your Honor, I submit there were no complaints until Counselor began knocking on doors, drumming up business. And the dust, which Counselor refers to, has appeared on only three occasions. Each time it has been examined and the results...
+0) 16) text: Behind his back, Andrew wiggles his fingers. Jamey stuffs a document into Andrew's hand.
+0) 17) dialog: Limestone. Messy, but innocuous.
+0) 18) text: Andrew submits the report to the Judge.
+0) 20) dialog: Defined by Webster's as harmless.
+0) 22) text: His back turned momentarily to the JUDGE, Andrew mouths t Jamey: "Not bad." But he whips around, serious again:
+0) 23) dialog: Your Honor, Counselor is attempting to portray my client as a hideous manifestation of evil and corruption. But nothing could be further from the truth. Rockwell has generously contributed ten thousand dollars to this neighborhood's schools, clinics and youth centers! Granting a restraining order on the construction site will throw hundreds of Philadelphians out of work, and will lend validation to this contemptible and groundless nuisance suit, which speaks directly to the kind of greed and treachery that today is threatening the very fabric of our society.
+0) 29) text: Andrew and Joe stop at the same time, look at each other. And turn toward the corner, seeking privacy.
+0) 31) dialog: You.
+0) 32) text: Andrew resumes his telephone conversation.
+0) 34) text: The ELEVATOR OPENS: Andrew breezes past the MAN ON CRUTCHES, saying to Joe:
+0) 35) dialog: Client of yours?
+0) 37) text: Andrew hurries down the corridor. Joe waits a moment... t pursues the MAN ON CRUTCHES.
+0) 47) text: DR. ROBERTA GILLMAN, passes through, speaking to Andrew:
+0) 49) dialog: Sure.
+0) 50) text: Andrew is distracted by A HISPANIC MAN across the room, rolling up his sleeve for an IV -- his bare arms, hands, face and neck are marked with PURPLE BLOTCHES. Andrew closes his eyes, concentrating for a moment on the CLASSICAL MUSIC... then goes back to work.
+0) 59) text: Andrew BLASTS out of the elevator, flashing Anthea a four star smile. They stride down the corridor together.
+0) 60) dialog: Just the dazzling paralegal I wanted to see.
+0) 64) dialog: Thanks, Kenneth. (to Anthea) Your exam!
+0) 66) dialog: Ninety-eight?! Ninety-eight!
+0) 67) text: Andrew reaches the secretaries' station. A cheerful secretary, SHELBY, shoves documents at him.
+0) 69) dialog: No. Great. Thanks, Shelby. (checking his watch) It's 6:30, go home.
+0) 70) text: Andrew passes a colleague on her way out, RACHEL SMILOW:
+0) 71) dialog: Rach.
+0) 73) dialog: Catch me later, I'll be here. And tell Amy, I love her painting, it's on my wall.
+0) 74) text: Andrew SAILS toward his office.
+0) 78) text: The SCREEN SPLITS INTO THIRDS: Andrew, the OPERATOR, and HARGREAVE (a sharp, California lawyer.)
+0) 80) text: As the OPERATOR continues the roll call, the SCREEN CONTINUES TO SPLIT and HARGREAVE is replaced by a SERIES LAWYERS in offices around the country, (MOSTLY WHITE MALE saying "Present" while in Andrew's section of the screen. ... Andrew dials a number on another telephone line,
+0) 82) text: Andrew punches into the conference call
+0) 83) dialog: Present.
+0) 86) dialog: Hi, Mom. It's me.
+0) 87) text: The LAWYERS are into the conference, in their portions of the screen, (their VOICES HEARD underneath Andrew's conversation with his mother).
+0) 89) dialog: I'm fine.
+0) 91) dialog: Hold on, Mom. (punching into the conference call) There's no way my client will go along with that.
+0) 93) dialog: Andrew Beckett. Hi, Karen. I'm sorry I interrupted...
+0) 95) dialog: Gillman says I'm fine. My blood work is excellent. T-cells are up. Just a sec ... (conference call) Yes, I think that would alleviate most of our concerns. (back to Mom) My platelets look good too.
+0) 101) dialog: Ah hah! Yes! (chewing a string bean) Rentworth v. Pennsylvania... court of appeals affirms jury award of punitive damages for wrongful interference with prospective economic relations...
+0) 102) text: A SHADOW falls across Andrew. He IGNORES IT. ANGLE: TWO MEN IN SILHOUETTE. WALTER KENTON says:
+0) 104) text: Andrew's hands DO NOT LEAVE the keyboard.
+0) 105) dialog: Walter.
+0) 108) dialog: In a word, Bob...
+0) 110) text: ANOTHER SILHOUETTED FIGURE APPEARS. This image has a horror-film feeling to it. Andrew WHIPS AROUND to face them.
+0) 111) dialog: I was just about to take a break. Good evening, Charles.
+0) 114) text: Andrew throws an arm over Seidman's shoulder.
+0) 115) dialog: We're gonna miss you around here, Bob...
+0) 122) dialog: The fate of the participants interests me, yes sir.
+0) 123) text: Wheeler, Kenton and Seidman proceed with the male ritual preparing cigars to be smoked: snipping the ends with a b clip, rolling them over their tongues to wet them, slidin cigars in and out of their rounded mouths. Andrew, holding a cigar but NOT preparing to light it, wa with a not completely concealed twinkle in his eye. Wheeler leans back in his chair, swirling a brandy snifte He exhales cigar smoke with a great deal of pleasure.
+0) 126) dialog: It is, and it isn't, Charles. Macrosystem's new software copies all the best-known elements of Kronos' spreadsheet program. If they're allowed to sell it, Kronos will get undersold right out of business. For me, the legal principle, involved is copyright infringement.
+0) 128) text: Andrew knows this is a test. And he loves it.
+0) 129) dialog: Sorry, Charles, but...
+0) 130) text: Andrew is distracted -- BY A LIGHT FALLING ACROSS HIS FAC
+0) 131) dialog: I'd like to see Kronos win.
+0) 132) text: Walter Kenton has shifted a lamp, so that its LIGHT FALLS ACROSS ANDREW'S FACE, REVEALING: a faint purple blotch about the size of a quarter, much like the blotches we sa on the HISPANIC PATIENT in Andrew's doctor's office.
+0) 134) dialog: Because they deserve to, Walter.
+0) 135) text: Andrew lifts his hand, finding that his hair has been pus back, revealing the blotch. He stands, nonchalantly running a hand through his hair t cover the blotch.
+0) 136) dialog: If MacroSystems wins, an energetic, young company will be destroyed, five thousand Americans will be out of work. Moreover, the laws of copyright and anti-trust were enacted to prevent exactly the kind of bullshit Macrosystems is trying to pull.
+0) 138) dialog: Bailey, Brackman.
+0) 140) text: A moment before it sinks in, then: Andrew clenches his fi in a victory salute.
+0) 141) dialog: Yes!
+0) 146) text: Andrew offers his hand to Walter Kenton.
+0) 147) dialog: Thanks, Walter.
+0) 149) dialog: Whacked with a racquetball. (taking Wheeler's hand) I appreciate your faith in my abilities.
+0) 151) text: Andrew and Wheeler are eye-to-eye, an intimate moment.
+0) 152) dialog: (warmly, softly) Thanks, Charles.
+0) 154) text: Smiling, Andrew exits the office. CLOSE ON WALTER KENTON, THINKING...
+0) 157) dialog: (in a funny, kind of medieval way) It's good to be King.
+0) 163) dialog: Uh huh.
+0) 164) text: CAMERA PULLS BACK REVEALING Andrew sitting at a table in loft, a towel around his neck, protecting his shirt from Chandra applies the makeup gently, supervised by another named ALAN. (Andrew's loft has been turned into a lawyer' command post: stacks of books, documents, etc.). A third BRUNO, sits in the corner, flipping through channels on t
+0) 166) text: Andrew tries applying makeup to his face.
+0) 167) dialog: Chandra? Don't you think this color's a little... orange for me?
+0) 170) text: IN THE BACKGROUND: Andrew's fax machine receives a fax in Andrew's "work area": desk, personal computer, etc.).
+0) 172) text: Bruno removes the fax from the machine, walking it over t Andrew, handing Andrew the fax, while munching an apple.
+0) 173) dialog: (giving the fax a quick scan) Thanks, Bruno. (to Alan and Chandra) I've been out of the office four days. I don't want them to think I've been to the beach. (searching for something) Okay. Check this out.
+0) 174) text: Andrew puts on a pair of big glasses with tortoise shell frames, meant to help conceal the blotches.
+0) 175) dialog: Hides everything, right? What do you think?
+0) 178) dialog: (horrified) Tootsie!
+0) 181) text: Suddenly, Andrew winces, gripping his gut.
+0) 183) dialog: (clearly in pain) Excuse me a sec...
+0) 184) text: Andrew starts out of the room -- suddenly HAVING TO RUN.
+0) 190) dialog: I think I need to go to the hospital.
+0) 195) dialog: Thanks, you guys.
+0) 197) text: Miguel puts his arms around Andrew.
+0) 198) dialog: Gillman's out of her office today. I told her to take a day off, and she did, can you believe it? Did you get someone to cover your class?
+0) 199) text: Miguel touches Andrew's face, checking for fever.
+0) 201) text: Andrew holds an empty specimen cup.
+0) 202) dialog: Aren't you giving an exam?
+0) 204) text: Miguel places a gentle kiss on Andrew's sweaty forehead.
+0) 206) text: Suddenly, the facade cracks and TEARS STING Andrew's eyes
+0) 207) dialog: I almost didn't make it to the bathroom, Miguel. I almost lost control right in front of everybody.
+0) 209) text: Andrew pulls himself together, brushing aside tears, in control of his emotions once more.
+0) 210) dialog: Wait, here's my guy... Hey!
+0) 211) text: Andrew catches the attention of a harried INTERN, whose surgeon's greens are covered with blood.
+0) 213) dialog: About my blood work?
+0) 217) dialog: Sounds delightful.
+0) 221) dialog: This is my partner. We keep records of hospital visits. Nothing personal.
+0) 224) dialog: A reaction to AZT...
+0) 228) dialog: (to the Intern) He's upset, he's sorry.
+0) 230) dialog: He's not sorry, okay, fine. (the diplomat) Why don't we see what we find out from the blood work? I'll work on getting a specimen, I'm sure hospital food could help in that direction. Maybe, by then, we'll hear from my doctor, and we'll go from there. Okay? Everybody happy?
+0) 233) text: The INTERN walks away. Andrew's BEEPER BEEPS.
+0) 234) dialog: That's the third time. I better call the office. (smiling at Niguel) Would you relax, please?
+0) 236) text: Andrew HOBBLES toward a pay phone, outside a VISITOR LOUN where weary relatives are watching TV. Andrew drops a quarter into the phone.
+0) 238) text: ANDREW'S POV ON TELEVISION: Joe Miller on the screen, wit words "Negligence... Malpractice... Auto accidents"... an the background, PHOTOS of MAIMED, BURNED, INJURED CLIENTS
+0) 240) text: Andrew LAUGHS. Then, his call is answered:
+0) 241) dialog: Shelby? It's me. Jamey's been beeping me, I... Okay, okay, calm down. Put Jamey on.
+0) 245) dialog: Slow down, Jamey, for Christ's sake!
+0) 247) text: Andrew forgets his physical pain, this is more important.
+0) 248) dialog: I brought it in last night, around midnight. It's in my computer.
+0) 250) text: Jamey puts his hands on Andrew's computer keyboard.
+0) 251) dialog: K-R-O-one.
+0) 253) dialog: Jamey, I don't have to mention, do I, that we're up against a statute of limitations on this complaint which runs out in... (checks his watch) Seventy-five minutes.
+0) 256) text: Andrew closes his eyes. He can't believe this.
+0) 257) dialog: You go down to Word Processing and tell those motherfuckers they better come up with that complaint, now! Or they are fucking dead! You tell them that comes from me!
+0) 258) text: Andrew SLAMS the phone into its cradle. He pauses, takes a deep breath, and says to himself:
+0) 259) dialog: Every problem has a solution. Every problem... has... a... solution.
+0) 260) text: Calmer, Andrew returns to the gurney, putting on his shir
+0) 261) dialog: Every problem has a solution...
+0) 264) dialog: You're not going to like this. Please try to smile...
+0) 265) text: Andrew puts his arms around Miguel.
+0) 266) dialog: Thanks for leaving school, and coming here, and... (pulling back, putting on his jacket) I will be back. An hour, tops.
+0) 268) dialog: You're not smiling.
+0) 269) text: Andrew rushes toward the exit doors.
+0) 271) dialog: One hour!
+0) 273) dialog: I promise!
+0) 287) dialog: Call the messenger service, have someone standing by... (she reaches for the phone) Your phone.
+0) 289) text: Andrew keeps his face averted, until she's out of the roo goes to his computer, the monitor already glowing.
+0) 290) dialog: Think. You brought the discs in, you transferred...
+0) 293) dialog: Fucking Word Processing lost my Kronos complaint. Which must be filed by fucking five o'clock! If it's late, there's no case... (the mantra) Every problem has a solution.
+0) 295) dialog: Get down to Word Processing. Help Jamey look.
+0) 296) text: She rushes out. Andrew begins shoving floppy discs into the slots on his computer, bringing up each disc's directory.
+0) 297) dialog: No.
+0) 299) dialog: No, goddammit!
+0) 300) text: He pulls open a file drawer, dumping legal briefs onto th floor, frantically spreading them around with his foot. Andrew THROWS a document across the room, takes a breath. He picks up the telephone.
+0) 301) dialog: Bob? Something's come up. With Kronos. I don't want to upset Charles, but... (letting down his guard) Oh, shit, Bob, the complaint's due in forty minutes and I can't find it. (suddenly) No, you don't have to come... (hanging up the phone) Great. Fucking great.
+0) 302) text: Andrew rubs his eyes, this is a nightmare. He switches off the overhead light. He slants the window blinds, filling the room with shadow Bob Seidman comes into the office, typically cheerful.
+0) 304) text: Seidman is struck by the mess in the office, and Andrew's disheveled appearance.
+0) 306) dialog: I don't know what to do, Bob.
+0) 308) text: Seidman FLIPS ON the overhead light. Andrew flinches. Seidman approaches. Andrew gives up trying to hide the purple blotches, facing his mentor straight on.
+0) 310) dialog: Bob...
+0) 312) dialog: What's wrong with my face? You want to know what's wrong with my face? I've got a skin condition. Next question, Bob? No more questions? Fine. Now can you help me find the complaint?
+0) 314) dialog: Sorry...
+0) 317) dialog: K-R-O-one.
+0) 319) text: Seidman goes to work. Andrew leans over his shoulder.
+0) 320) dialog: You're right, I probably just misfiled...
+0) 322) text: Walter Kenton is standing at Andrew's door. His demeanor casual. So casual it seems a little forced.
+0) 324) text: Andrew has kept his face averted. But now he TURNS DIRECT TOWARD CAMERA, showing his face to Kenton.
+0) 325) dialog: Yeah, Walter. Yeah. Some sort of major problem.
+0) 362) text: area. Very little hair shows beneath a Phillies ballcap.. A MAN WEARING A NECKBRACE, sitting next to Andrew, RISES, MOVING to a seat opposite Andrew. From this new position MAN WITH THE NECKBRACE STARES at Andrew.
+0) 363) text: The PURPLE BLOTCHES on Andrew's face are beginning,to rec not as angry looking as before, thanks to chemo therapy. Andrew is dressed casually, in jeans and a softball jacke (from the Wyant Wheeler team) with "Andy" embroidered ove heart. Joe's assistant, IRIS, approaches.
+0) 365) text: Andrew rises, following Iris past office dividers, HARRIE SECRETARIES and overflowing file cabinets. Iris cannot look at Andrew as she walks beside him. (Outside Joe's door is a sign: "Beware Mad Dog" with "Mad written by hand.)
+0) 367) dialog: Thank you.
+0) 375) text: Joe offers his hand, getting a look at Andrew's face.
+0) 377) dialog: I have AIDS.
+0) 378) text: Joe WITHDRAWS his hand, before it touches Andrew's.
+0) 380) dialog: It's okay. Can I sit down?
+0) 382) text: Andrew hesitates. Joe doesn't sound sure.
+0) 384) text: Andrew sits, Joe returns to his desk. (Joe finds himself acutely aware of where Andrew places his hands.)
+0) 385) dialog: (the cigars) New baby?
+0) 387) dialog: Congratulations.
+0) 389) dialog: Kids are great.
+0) 391) dialog: I was fired by Wyant Wheeler. I plan to bring a wrongful termination suit against Charles Wheeler and his partners.
+0) 393) dialog: Correct. I'm seeking representation.
+0) 395) dialog: I misplaced an important complaint. That's their story. Want to hear mine?
+0) 397) dialog: Nine.
+0) 399) dialog: I was diagnosed with AIDS eight months ago. During a bout of pneumonia. I recovered quickly and was back at work in ten days. Since I was doing so well on the AZT, we decided against telling anyone about it.
+0) 401) dialog: My lover and I.
+0) 403) dialog: Miguel Alvarez. We've lived together for nine years.
+0) 405) dialog: I dove back into work, everything was fine. Until the lesions started...
+0) 408) dialog: First on my leg. Then my forearm, my back. Then... my face. For a short period, I avoided the office during the day, waiting for the chemo therapy to clear up the lesions...
+0) 410) dialog: But I never let anything slide. I made all my calls from home. I worked sixteen hour days on a complaint for a 350 million dollar copyright infringement suit.
+0) 412) dialog: But the day the complaint was due, it disappeared. Erased from my computer. I thought I was losing it, mentally...
+0) 415) dialog: That can happen, it's called AIDS dementia when it gets into your brain. But miraculously, a copy of the complaint was located at the last minute, and we got it to court on time...
+0) 418) dialog: The next morning, I was called to the office for a meeting with the managing partners. Walking down that corridor was strange. Felt like everyone was staring.
+0) 421) dialog: Makeup.
+0) 423) dialog: The partners were waiting for me in the main conference room.
+0) 429) dialog: Of course.
+0) 430) text: Bob Seidman CANNOT look directly at Andrew.
+0) 434) dialog: I know that, Charles.
+0) 437) dialog: Charles, I must apologize again, for the Kronos mishap. (smiling) It was a scary few minutes around here. Wow. But thank God, the complaint was found. And no damage was done.
+0) 439) dialog: There won't be a next time, I guarantee it.
+0) 444) dialog: (keeping it positive) Perhaps... you're right. I've certainly been busy. With the Kronos complaint, a preliminary injunction hearing and the Saunders trial all falling at the same time...
+0) 446) dialog: Really? Who thinks that, sir?
+0) 449) dialog: I had no idea there was a concern in that area. Hey: (a smile) I'll get to work on it right away.
+0) 452) dialog: Honesty is always best.
+0) 454) dialog: Yes, Bob, I do. (to the group) Excuse me? Am I being fired?
+0) 462) dialog: Excuse me, Charles. With all due respect... this is... preposterous! It doesn't make any sense, it sounds as if we're talking about someone else. Pardon the lack of humility, but I've had the distinct impression I was kind of... one of the rising stars around here. And I feel that wasn't just my imagination. And I also think I deserve to know what's really going on here, Charles.
+0) 465) dialog: If you'd lost confidence in me, why did you give me the Kronos suit?
+0) 467) dialog: A carrot?!
+0) 469) dialog: As in, the vegetable?
+0) 471) text: Andrew FREEZES -- the full nature of this situation hitti home. He looks each of the PARTNERS in the eye...
+0) 472) dialog: Uh huh... Okay... I see...
+0) 475) text: Wheeler, Kenton, Killcoyne, Seidman and Lydia file out. Andrew doesn't move. A SECURITY GUARD enters the room.
+0) 476) dialog: Who are you?
+0) 481) text: Andrew removes his ballcap -- his hair is cut short, to disguise the effects of chemo.
+0) 482) dialog: The law says people with disabilities cannot be terminated, so long as they can perform the duties required by their position...
+0) 484) dialog: Joe, from the day I arrived to the day they fired me, I performed consistently, thoroughly and with absolute excellence. And if they hadn't fired me, that's what I'd be doing today.
+0) 486) dialog: They sabotaged me.
+0) 488) dialog: Look. I know I have a case. If you don't want to take it for personal reasons...
+0) 490) text: Andrew rises, thoroughly business-like.
+0) 491) dialog: Thanks for your time.
+0) 493) dialog: (a smile) Don't send flowers, Joe. I'm not dead yet.
+0) 494) text: Andrew exits.
+0) 499) text: Andrew nods, passing one of Joe's colleagues, a hustler named FILKO, who STARES SHAMELESSLY. Joe approaches Iris's desk.
+0) 573) text: Andrew opens a book, taking notes. Rubs his eyes. Writes something. Sneezes. A LIBRARIAN delivers a book to Andrew.
+0) 575) dialog: Thank you.
+0) 576) text: Andrew takes the book from her -- but she remains.
+0) 578) dialog: I'm fine, thanks.
+0) 579) text: Andrew BLOWS HIS NOSE. Now other PATRONS are watching.
+0) 581) dialog: (pleasantly) No. But would it make you more comfortable?
+0) 583) text: The LIBRARIAN turns away, shrugging to a PATRON, indicati she's done all she can do. As Joe continues to watch: one of Andrew's NEIGHBORS pick up his books and moves away. Joe rises, gliding down an aisle of books, keeping one ey on Andrew, who concentrates on his work. Joe approaches, nonchalantly, as if he just happens to be sauntering by. Suddenly he "notices" Andrew.
+0) 585) dialog: Fine.
+0) 586) text: Andrew goes back to his work.
+0) 588) dialog: What?
+0) 590) dialog: I'm a lawyer. How's your baby?
+0) 592) dialog: What's her name?
+0) 594) dialog: Rayisha. Very nice.
+0) 595) text: Andrew focuses on his work. Joe steps away. Joe comes back.
+0) 597) dialog: (a second, then:) One of the partners spotted a lesion on my forehead.
+0) 600) text: Andrew concentrates on his work once more.
+0) 603) dialog: Good point.
+0) 604) text: Andrew removes a legal pad with "KENTON" written in big letters across the top, and lots of notes underneath.
+0) 605) dialog: The partner who spotted the lesion, Walter Kenton, used to work for Benton, Myers, in D.C. There's a paralegal there, Maria Torres. She's had lesions on and off for three years. She says it was common knowledge around the office that her lesions were caused by AIDS.
+0) 607) dialog: No. They didn't fire her.
+0) 608) text: Andrew goes back to his work. Joe stands there.
+0) 610) dialog: Thank you.
+0) 611) text: Andrew goes back to work.
+0) 613) dialog: (not looking up) Arline decision. Supreme Court.
+0) 615) text: Andrew SHOVES the legal book toward Joe. CLOSE ON ANDREW'S HANDS (with one blotch) on the book's w pages. The book is still facing Andrew. If Joe wants to read it, he'll have to turn it around. Joe looks at Andrew's hands. A MOMENT. Joe turns the book around, begins to read:
+0) 623) text: DISSOLVE TO SAME ANGLE AN HOUR LATER: Andrew and Joe face other at their table, but NO ONE ELSE remains at that tab or at the table next to it...
+0) 624) dialog: "Subsequent decisions have held that AIDS is protected as a handicap under law, not only because of the physical limitations it imposes..."
+0) 625) text: NIGHT): Joe pacing, Andrew reading. Their section of the library is COMPLETELY EMPTY but for Andrew and Joe.
+0) 626) dialog: "But because the prejudice surrounding AIDS exacts a social death which precedes the actual, physical one..."
+0) 627) text: DISSOLVE TO SAME ANGLE, LATER: Andrew and Joe sit on the same side of the table, reading the same book.
+0) 629) text: The library is QUIET. Andrew SNEEZES. Joe scoots his chair away from Andrew by eight inches.
+0) 694) text: CAMERA DRIFTS THROUGH the loft, finding Andrew in the roo solarium, sitting crosslegged in front of a candle.
+0) 696) text: Andrew's eyes are closed. Next to him rests a tape player WOMAN'S VOICE IS HEARD, accompanied by NEW AGE MUSIC:
+0) 698) dialog: I can heal myself.
+0) 700) dialog: I can heal myself.
+0) 704) dialog: Jerk... What did you say?
+0) 706) text: Miguel strokes Andrew's hair.
+0) 707) dialog: You got that right, Mikey... (beat) You still believe that, don't you?
+0) 721) text: SILENCE. Everyone watches Andrew for his reaction.
+0) 722) dialog: Fine, thanks, Charles.
+0) 727) text: The Judge brushes by Joe and Andrew without a word. The r becomes SILENT as the Judge takes a seat.
+0) 751) dialog: I want to go back to work, Your Honor.
+0) 753) text: Andrew and Joe confer with each other.
+0) 756) text: Andrew WHISPERS to Joe, who interrupts the Judge:
+0) 758) dialog: (jumping in) Any settlement agreement must include, and this is critical, a letter of exoneration, making clear my termination had nothing to do with the quality of my work.
+0) 761) dialog: I was the one who was sabotaged.
+0) 767) dialog: (very calm) You can save it for the jury, Charles. I want to hear you say, under oath, in front of a judge and a jury, I'm a bad lawyer. (rises) Gentlemen. (to Belinda) Counselor.
+0) 771) dialog: I think I catch your subtle drift, Walter.
+0) 772) text: Andrew saunters out.
+0) 779) text: Colonial house in Downington, Pennsylvania (EXT./DAY) ... Andrew walks toward the house, TALKING DIRECTLY TO CAMERA
+0) 780) dialog: This is the house where I grew up. In Downington, Pennsylvania. (pointing to the ground) See this... ?
+0) 781) text: The CAMERA POINTS to SEVERAL PAIRS OF CHILD'S HAND PRINTS sidewalk, then, BACK TO ANDREW IN CLOSE UP, SMILING.
+0) 782) dialog: Those are my cute little hand prints. And my brother's and my sister's.
+0) 785) dialog: Today is my parents' fortieth wedding anniversary.
+0) 786) text: Andrew goes inside, speaking to the CAMERA:
+0) 787) dialog: This is the front door. I caught a finger in this door, once... (holds it up) This one. Broke it. (stepping inside) This is the hallway, my mother calls it a foyer...
+0) 790) dialog: (to CAMERA) This is my niece, Alexis. Say hello, Alexis.
+0) 792) dialog: (doing Walter Cronkite) You heard it here first, folks. News as it happens.
+0) 793) text: Andrew's older and very down to earth sister JILL, puts h arms around Andrew, squeezing tight.
+0) 795) dialog: This is my sister, Jill, the most fertile woman on the planet. She's married to Reverend Jim.
+0) 797) text: As Jill leaves Andrew's arms, the CAMERA IS TRADED OFF TO ANDREW, who SHOOTS JILL GIVING MIGUEL A HUG.
+0) 802) dialog: And what will we find in... da duh da duh da duh... the KITCHEN!
+0) 805) text: Andrew's mother Sarah wears an unpretentious flowery dres
+0) 806) dialog: Hi, Mom. How do you feel on your fortieth anniversary?
+0) 808) dialog: Where's Dad?
+0) 810) text: One of Andrew's YOUNG NEPHEWS SHOVES HIS FACE into the CAMERA, UNTIL SCREEN GOES BLACK.
+0) 813) dialog: Things might be said, at the trial, that... are not going to be easy for you to hear. Things about me, about my private life. And I want to make sure it's okay with everybody.
+0) 815) dialog: What do you think, Jill?
+0) 817) text: Andrew's father STARES at his folded hands.
+0) 818) dialog: Mom?
+0) 820) dialog: Thanks, Mom... Dad?
+0) 823) text: Andrew's construction worker brother, RANDY, wipes tears from his eyes. Clearly their father is in alot of pain.
+0) 825) text: Andrew gazes at his father with incredible love. Miguel p an arm around Andrew.
+0) 827) dialog: (full of emotion) Thanks, Dad. I love you guys. How about you, Randy?
+0) 829) text: Everyone LAUGHS. Andrew and Randy high five.
+0) 833) dialog: 
+0) 834) dialog: I guess... I don't have time for that any more.
+0) 844) text: VIDEO CAMERA PANS: RELATIVES eating cake, KIDS chasing ea other, a GRANDMOTHER in a wheelchair holding a NEWBORN, watching silent, video home movies. CAMERA FINDS Andrew and Niguel eating anniversary cake (Andrew barely touches his). Playing for the camera, Migu dips his finger into icing and smears it onto Andrew's no Andrew tries to reach the icing with his tongue. CAMERA PANS WITH ANDREW as he comes forward to dance with mother, while Jill dances with their father. CAMERA RETURNS TO MIGUEL. MATT (behind the camera) says:
+0) 846) text: ZOOM IN CLOSE ON NIGUEL (who's watching Andrew):
+0) 848) text: VIDEO CAMERA PANS to Andrew dancing with his Mom, lingeri this IMAGE...
+0) 858) text: Joe crosses the courtroom, coming to stand in front of... ANDREW, whose appearance has changed: thinner, paler than ever seen him, some blisters on his lips. But the most di thing about his appearance is the way he moves, slowly, l much older man. He's taking notes (which he will do relentlessly throughout the trial.) And he has a cane at side, which he'll use throughout the trial.
+0) 860) text: Charles Wheeler, Walter Kenton, Bob Seidman, Kenneth Kill sit BEHIND their lawyers, Belinda Conine and Jerome Green SEVERAL ASSISTANTS at the defense table. JUDGE GARNETT presides from his bench. Among the spectators, Miguel sits next to Sarah, and Andrew's sister Jill. AIDS ACTIVISTS in the background.
+0) 864) text: Joe walks away from Andrew.
+0) 875) text: Andrew looks directly at Belinda.
+0) 877) text: Joe watches Andrew for his reaction.
+0) 883) text: Andrew glances toward the jury box: the MARINE JUROR writ tiny notebook.
+0) 888) text: Joe and Andrew exchange a LOOK -- Laird's response surpri disappoints them.
+0) 915) text: Andrew glances over his shoulder: at Robert Seidman, who meets his gaze.
+0) 920) dialog: I'm not political. I just want compensation for being fired.
+0) 923) dialog: "I don't see how that's any of your business... (a smile) But yes, I am."
+0) 952) text: Andrew LAUGHS.
+0) 1036) text: ANGLE ON THE JURY: Several JURORS write in notebooks like Marine's; he's been handing them out... Joe seems ill at ease today, a little off his game. When glances at Andrew, it's with irritation.
+0) 1049) text: The COURTROOM ERUPTS: ACTIVISTS booing Joe, Wheeler's cro expressing OUTRAGE, JURORS looking confused. Andrew takes in the commotion, as the JUDGE BANGS HIS GAV
+0) 1051) text: Andrew trains his attention on Joe.
+0) 1054) text: Joe faces Andrew, also curious to know what Joe's up to.
+0) 1056) text: DEAD SILENCE while the Judge thinks it over. CLOSE ON ANDREW.
+0) 1057) dialog: (to himself) Very good.
+0) 1087) text: Andrew covers his face with his hands.
+0) 1116) dialog: (focused on his work) We'll have to flush it again.
+0) 1117) text: Andrew reaches for a law book.
+0) 1119) dialog: I have too much work to do. Skip the treatment.
+0) 1121) dialog: I said, skip it, Michael. It's my treatment.
+0) 1123) dialog: Fuck you. This shit's probably not doing me any good anyway.
+0) 1126) dialog: What's wrong with you?
+0) 1128) dialog: I'm not going to close the--
+0) 1130) text: Andrew slams it SHUT.
+0) 1131) dialog: ALLRIGHT IT'S CLOSED! (beat) Jesus!
+0) 1133) dialog: (very quiet) You don't think there's much time left, do you?
+0) 1135) dialog: You're scared. You think we're near the end.
+0) 1137) dialog: Maybe I should start making plans, is that what you think? Start planning my memorial service? "Begin to prepare for the inevitable."
+0) 1139) dialog: What's that mean?!
+0) 1142) dialog: I'm not going to die.
+0) 1144) dialog: You want me to give up? Let this thing turn us into victims?
+0) 1146) dialog: I'm not ready to die.
+0) 1148) text: Miguel slides down the wall, sitting in a heap. Andrew goes to him. They hug. Miguel holds him tight.
+0) 1150) text: Miguel rocks in Andrew's arms. Andrew kisses the top of h head, holding tight.
+0) 1151) dialog: I am so scared. I am so fucking, incredibly, fucking scared...
+0) 1152) text: A MOMENT. Andrew stroking Miguel's hair, as he calms down
+0) 1153) dialog: You know, there's only one thing to do. (beat) We have to have a party.
+0) 1159) dialog: PARRTYY!
+0) 1161) dialog: It's me, you dork.
+0) 1163) dialog: Glad to finally meet you. Come on in.
+0) 1166) dialog: (to Lisa) I have to introduce you to the can of soup. You can enter the costume contest together as a lunch special.
+0) 1167) text: Miguel approaches, dressed as a MEMBER OF MEGA-DEATH or A He strikes a pose, contorts his face and hits an air guit Andrew crosses guitars with Miguel. Then:
+0) 1168) dialog: This is Lisa Miller. Miguel Alvarez.
+0) 1176) dialog: I had a blood transfusion today. I feel great.
+0) 1177) text: Andrew studies Joe, trying to figure out the costume.
+0) 1179) dialog: Not bad.
+0) 1181) dialog: Let's find you a drink.
+0) 1182) text: Andrew leads Joe through the crowd, greeting Rachel, skin painted blue (SMURFETTE) her daughter AMY (BART SIMPSON), Anthea, TYRONE from Dr. Gillman's office (A COWBOY), and TYRONE'S LOVER (A HORSE) ... Some of Dr. Gillman's PATIEN are here too, including the YOUNG ASIAN MAN who is now in wheelchair. And, one or two of ANDREW'S SIBLINGS may be present as well. And Alan, Bruno and Chandra, and some ar friends and neighbors.
+0) 1183) dialog: What do you want?
+0) 1185) dialog: Excuse me, I'm having a goddamn party, is that allright with you?
+0) 1187) dialog: No, we have to do it. But later, allright?
+0) 1191) text: Andrew is SMILING at Joe.
+0) 1193) dialog: Correct.
+0) 1196) dialog: Thank you.
+0) 1200) text: --Andrew's mother Sarah, as Marge Simpson, delivers a tra of hors d'oeuvres to Joe (standing next to a POLICEMAN):
+0) 1206) text: --Everyone SLOW DANCES to the Talking Heads tune "Heaven" (Simply Red cover version): Joe and Lisa, Andrew and Miguel, Rachel with a sleepy Amy in her arms, the POLICEM and TYRONE, Sarah Beckett and MARIE ANTOINETTE, LA TOYA a her snake.
+0) 1215) dialog: Congratulations, Miller.
+0) 1216) text: Andrew clears away party debris from the table, making sp for his legal work. He is attached to an IV line, which i connected to a drip bag on a rolling stand, that can move with him. He is no longer in costume.
+0) 1217) dialog: You survived your first gay party intact.
+0) 1219) dialog: Thank you for sharing that with me, Joe.
+0) 1223) dialog: (distracted) Uh huh...
+0) 1225) dialog: Charles. Okay. Miller?
+0) 1227) dialog: Do you... pray?
+0) 1232) dialog: What have you prayed for?
+0) 1234) dialog: (no self-pity) There's a possibility I won't be around for the end of this trial.
+0) 1236) dialog: What happens?
+0) 1238) dialog: I've made provisions in my will for some charities. Miguel will need a lawyer. I know it's not your area...
+0) 1240) dialog: Thanks. (a beat) Do you like opera?
+0) 1241) text: Andrew moves to the stereo, pulling the IV line with him.
+0) 1243) dialog: Want to hear my favorite aria?
+0) 1246) dialog: (over the MUSIC) Andrea Chenier, by Giordano. This is Madeleine. She's telling how, during the French revolution, a mob set fire to her house. Her mother died, saving her. "I look... The place that cradled me was burning!" Do you hear the heartache in her voice? Then, here come the strings. Everything changes. The music fills with hope. Madeleine says...
+0) 1247) text: Andrew sways through the room to the music, pulling the I at his side. He seems truly free and relaxed.
+0) 1248) dialog: "It was during that sorrow that love came to me! A voice filled with harmony That said... Live still, I am Life!" "I am the god that descends From the heavens to the earth To make of the earth A heaven!"
+0) 1250) dialog: "I am Oblivion! I am Glory! I am Love, Love, Love!"
+0) 1253) text: Andrew collects himself, as Joe rises from his chair.
+0) 1254) dialog: Right.
+0) 1255) text: Andrew follows Joe to the door.
+0) 1256) dialog: (businesslike) I'll look over the Q and A.
+0) 1284) text: TITLE: "Plaintiff's case. day fourteen." The BAILIFF places the Bible in front of Andrew (a purple blotch is showing in front of Andrew's ear.)
+0) 1286) text: Andrew places his hand on the Bible.
+0) 1289) dialog: Wyant Wheeler had aggressively recruited me. They were the most prestigious firm in Philadelphia, full of opportunity. And I was impressed by the partners.
+0) 1291) text: (Andrew frequently wipes sweat from his forehead with a handkerchief. His voice is hoarse, raspy.)
+0) 1292) dialog: Particularly, Charles.
+0) 1295) dialog: He was... the kind of person I thought I wanted to be.
+0) 1297) dialog: Possessed of an encyclopedic knowledge of the law. A razor sharp litigator, a genuine leader, gifted at bringing out the very best in others. An awesome ability to illuminate the most complex of legal concepts to colleagues, courtrooms, the person on the street. (a smile) The kind of person who plays three sets of tennis but doesn't sweat. But underneath the elegant surface, was an adventurous spirit.
+0) 1300) dialog: It's possible I was infected with the HIV virus at that time, but I wasn't diagnosed until several years later.
+0) 1303) dialog: No. I was thirty pounds heavier. I was athletic.
+0) 1305) dialog: I suppose you could say that.
+0) 1307) dialog: I still am.
+0) 1310) dialog: No. I didn't.
+0) 1312) dialog: You don't bring your personal life into a law firm. You're not supposed to have a personal life, really. Anyway, I did plan to tell Charles, eventually. But then, this thing happened at the tennis club...
+0) 1316) dialog: I'm seeing him this afternoon.
+0) 1318) dialog: "Somebody started telling jokes."
+0) 1322) text: LAUGHTER. Andrew keeps his eyes closed, leaning against t wall of the sauna, next to Wheeler, relaxing.
+0) 1324) text: Andrew opens one eye.
+0) 1330) dialog: Relieved. That I'd never told him I was gay. Very relieved.
+0) 1333) dialog: I'm an excellent lawyer.
+0) 1335) dialog: I love the law. I know the law. I excel at practicing it. It's the only thing I've ever wanted to do.
+0) 1337) dialog: Well... many things. But I think the thing I love the most, is that every once in a while, not that often, but occasionally... you get to be part of justice being done. It's really quite a thrill when that happens.
+0) 1341) dialog: Something like that.
+0) 1343) dialog: In my work? Yes. Calculated risks. You have to.
+0) 1345) dialog: Not unnecessary ones.
+0) 1348) dialog: (looking Belinda right in the eye) A few times.
+0) 1353) dialog: Gay movies.
+0) 1356) dialog: Yes.
+0) 1358) dialog: Yes.
+0) 1366) dialog: Yes.
+0) 1368) dialog: Once.
+0) 1375) dialog: Andrew.
+0) 1376) text: Andrew steps into the booth.
+0) 1377) dialog: Now what do we do?
+0) 1382) dialog: I guess it was 1984, 85.
+0) 1384) dialog: It's impossible to know exactly when or how I was infected with HIV.
+0) 1386) dialog: That happened once. People weren't talking about AIDS then, the way we are now. Or safe sex.
+0) 1388) dialog: I'd heard of something. The gay plague, gay cancer, but... we didn't know how you could get it, or that it could kill you.
+0) 1389) text: CLOSE SHOT ON ANDREW -- losing strength.
+0) 1391) dialog: No.
+0) 1393) dialog: That is not correct. I never lied about it.
+0) 1395) dialog: No.
+0) 1399) dialog: Some do. I didn't.
+0) 1401) dialog: In some situations.
+0) 1406) dialog: Yes.
+0) 1408) dialog: Miguel has not been infected. As I said, we weren't aware of AIDS, then, or how it is spread.
+0) 1410) dialog: Yes.
+0) 1411) text: Andrew wipes sweat from his forehead.
+0) 1413) dialog: That's right.
+0) 1415) dialog: Absolutely.
+0) 1417) dialog: One. Here, in front of my ear.
+0) 1418) text: An ASSISTANT hands Conine a shaving mirror. She holds it before Andrew.
+0) 1420) text: Andrew looks in the mirror: the lesion is NOT very visibl
+0) 1421) dialog: By the time I was fired, there were four lesions on my face, much bigger...
+0) 1423) dialog: No. I can't really see it.
+0) 1425) text: Andrew rubs his eyes.
+0) 1429) text: Andrew finds the Judge looking at him.
+0) 1431) dialog: Yes sir.
+0) 1434) text: Joe approaches Andrew, with the mirror.
+0) 1436) dialog: Yes. On my torso.
+0) 1443) dialog: Allright.
+0) 1444) text: The COURTROOM TURNS SILENT. Andrew removes his suit jacket. He's weak, so the smalles gesture requires effort. ANGLE ON BOB SEIDMAN -- WATCHING. Andrew undoes his tie. ANGLE ON THE MARINE JUROR -- WATCHING. Andrew unbuttons his collar buttons, working his way down ANGLE ON SARAH BECKETT -- WATCHING. Andrew stands, pulling his shirttails out of his trousers ANGLE ON CHARLES WHEELER -- WATCHING. Andrew removes his shirt -- THERE ARE PURPLE BLOTCHES SPLAYED ACROSS HIS CHEST AND ABDOMEN AND ARMS. The SCHOOLTEACHER JUROR GASPS. Sarah Beckett is silently crying. The LESBIAN JUROR closes her eyes.
+0) 1446) dialog: Yes.
+0) 1468) text: Andrew uses all his strength to concentrate. Charles Wheeler speaks with great sincerity.
+0) 1477) text: Andrew looks away -- face shiny with sweat, breathing difficult. He takes in the rest of the court, while Wheeler's words THROB THROUGH THE AIR...
+0) 1479) text: ANDREW'S POV -- ON RACHEL, sitting among the spectators. begins speaking, her WORDS OVERLAPPING Wheeler's (we shou the feeling she's giving her testimony).
+0) 1481) text: Andrew blinks... what's going on? Looking back to the court: Joe presses in on Wheeler. Everything seems normal.
+0) 1485) text: ANDREW'S POV -- KENNETH KILLCOYNE at the defense table:
+0) 1494) text: CLOSE ON ANDREW: closing his eyes.
+0) 1498) text: Andrew slowly rises, the VOICES GETTING LOUDER:
+0) 1503) text: Andrew OPENS HIS EYES... WE SWITCH TO HIS POV: The Judge, the Jury -- everyone silent, looking concerned ANDREW'S POV of the courtroom floor. Andrew falls into his own POV SHOT. In slow motion. He lies on the floor, looking up. ANDREW'S POV -- Joe steps over him.
+0) 1504) dialog: Could you call an ambulance, please?
+0) 1508) text: Dr. Gillman RUSHES into the room, in street clothes, obviously having answered an emergency call. She tries assessing the situation, just as the tube is removed and Andrew GASPS for breath. A NURSE places an oxygen mask ov Andrew's face and he drinks in the air. His eyes are wide open with fear, sweat covering his face.
+0) 1549) text: Joe throws his pen over his shoulder. COURTROOM BURSTS INTO AN UPROAR. Andrew's supporters, Joe's colleagues from his office rus forward, pounding him on the back. Andrew's family member hug each other...
+0) 1555) text: Joe steps into... ANDREW'S HOSPITAL ROOM (INT./NIGHT) ... A hand-painted banner is strung over Andrew's bed: "Victory." OPERA MUSIC plays on a portable CD player. ANDREW lies in hospital bed, with a pressurized oxygen mask on his face. JILL sits on the edge of Andrew's bed, holding his hand, smiling, speaking to Andrew in low tones. With his free hand, Andrew gently strokes Jill's forearm. (Andrew has a amazing assortment of tubes and IVs running into various parts of his body.) Andrew's brothers MATT and RANDY are sipping beers with R JIM, MIGUEL, Miguel's sister MARIA, Bruno and Chandra, wh Matt does a dramatic re-creation of the Marine Juror rend the judgment. Matt's audience is loving it. As Joe comes into the room, Jill rises to take the shoppi from him. Joe exchanges nods and greetings with the other People KEEP THEIR VOICES LOW, but there's a certain energ happiness evident in the room. ON ANDREW: Watching his friends and relatives with sparkl eyes and a weak, but grateful and peaceful smile. ON JOE: Glancing across the room, catching Andrew's look. Andrew smiles at Joe and pats his hospital bed, indicatin wants Joe to sit there. Joe crosses the room, sits on the edge of the bed. With some difficulty, Andrew removes his oxygen mask. His voice is raspy, weak:
+0) 1556) dialog: What do you call a thousand lawyers chained together at the bottom of the ocean?
+0) 1558) dialog: A good start.
+0) 1560) dialog: Excellent work, Joe. I thank you.
+0) 1562) text: Andrew begins fitting the mask back in place, but his han weak. Joe helps adjust the straps behind Andrew's ears.
+0) 1564) dialog: (muffled by the mask) Sure thing.
+0) 1567) text: Andrew nods, weakly. But he's still smiling and his eyes are dancing.
+0) 1568) dialog: (through mask) Thanks for coming by.
+0) 1584) text: Rev. Jim pats Andrew's shoulder.
+0) 1586) text: Bud Beckett kisses Andrew on the cheek.
+0) 1588) text: Sarah Beckett is strong, kissing Andrew on the forehead.
+0) 1592) text: Andrew puts his weak arms, with the IV lines connected, around his brother Randy, to comfort him.
+0) 1593) dialog: (through mask) I'm okay, bro. I'll see you tomorrow.
+0) 1594) text: Jill hugs Andrew, giving Miguel a kiss as she leaves the Maria waves goodnight from the doorway, closing the door. Miguel sits on the edge of the bed, kicking off his shoes Miguel stretches onto the bed next to Andrew, picks up th remote control, and TURNS ON THE TV. Andrew pulls aside the oxygen mask, to say:
+0) 1595) dialog: I'm ready...
+0) 1597) dialog: Whatever.
+0) 1599) text: Andrew replaces the oxygen mask. They lie next to each other, watching television.

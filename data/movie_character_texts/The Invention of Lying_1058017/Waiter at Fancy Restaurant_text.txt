@@ -1,0 +1,19 @@
+6) 17) text: A young, awkward waiter approaches.
+6) 19) dialog: I'm very embarrassed that I work here. Hi.
+6) 25) dialog: (to Jennifer) And you're pretty and that only makes me feel worse. Can I get you two started on some drinks?
+6) 31) dialog: Excellent. (to Mark) She's out of your league.
+6) 34) text: The waiter leaves. Jennifer and Mark peruse their menus. woman screams out from a table on the other side of the r
+6) 83) text: The waiter returns with their drinks.
+6) 85) dialog: (hands beer to Mark) Here you go. (hands drink to Jennifer) I had a sip of this.
+6) 89) dialog: Do you guys know what you want or do you need a moment?
+6) 100) dialog: Excellent, I'll get those both started for you.
+6) 101) text: The waiter leaves. Jennifer's cell phone rings from insid her purse.
+6) 126) text: The waiter approaches with the bill and places it down in middle of the table.
+6) 128) dialog: (to Jennifer) If I give you my number will you call me?
+42) 11) text: Mark smiles. They both sip their drinks and look at their menus. The waiter comes up.
+42) 13) dialog: I'm an extremely important waiter. (PAUSE) What can I get you?
+42) 19) dialog: Okay, I'll have those right up for you.
+42) 20) text: The waiter leaves. Mark and Jennifer stare at each other a short beat. Something has changed between them and they both feel it.
+44) 21) text: The waiter arrives with their food.
+44) 23) dialog: I don't know what's wrong with the chef today, but these just look awful.
+44) 28) dialog: Well, you're stupid.

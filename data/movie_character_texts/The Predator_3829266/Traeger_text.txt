@@ -1,0 +1,67 @@
+8) 0) text: McKenna steps outside, affecting nonchalance -- 11. The CLATTER of M4s being hefted and aimed at his HEAD. A SUITED MAN steps into view. Intense, calculating eyes. Clearly in charge. For the record? Agent TRAEGER, CIA.
+8) 1) dialog: McKenna. You’ve been busy.
+8) 3) dialog: My friends here’1l escort you to the airfield. Got a DC-8 all gassed up and ready to go.
+8) 5) dialog: Can’t decide. Either Six Flags, or a remote secure prison.
+8) 7) dialog: There it is, then. He FIRES from the hip. A DART embeds itself in McKenna.
+23) 10) dialog: (on intercom) Doctor Brackett..? She nods, tentative. He gestures. TRAEGER (CONT’ D) Would you like to meet the Predator?
+25) 0) text: Traeger approaches her, hand extended:
+25) 1) dialog: Thanks for coming. I’m sure - - (an understatement) -- you have questions.
+25) 3) dialog: Just a nick-name. The data suggests it tracks its prey, seems to... well, enjoy it. Like a game.
+25) 5) dialog: I’m sorry?
+25) 8) dialog: I’m going to assume your second question is: why are you here? An ironic grin from Casey. “Bingo.” 27. TRAEGER (CONT’ D) Our test results yielded something a little... odd. We were wondering if maybe you could shed some light on it. He nods to COLWELL, who produces a TABLET. He shows Casey a read-out. She studies it for a second... then blanches.
+25) 12) dialog: We know about spontaneous speciation. Mostly plants and insects, but --
+25) 15) dialog: Exactly. Possibly some form of recombinant technology, or...
+28) 2) dialog: We looked, believe me. She notices something else:
+42) 0) text: CASEY, bent over an electron microscope. Intent. Examinin the Predator’s blood. Traeger, over her shoulder -- 36. She rises from the microscope, sees a blood centrifuge nearby, a test tube rack just above it. In the rack is: A SINGLE VIAL of membranous yellow substance. She frowns:
+46) 0) text: Traeger’s AIDE approaches. Furtive:
+46) 3) dialog: This isn’t the first Predator we’ve encountered. Casey stiffens. The revelation lands hard. TRAEGER (CONT’ D) Apparently they use earth as a kind of “hunting ground.” 38.
+46) 7) text: Traeger MUTTERS something under his breath --
+46) 9) dialog: They’ re gnarly fuckers, that’s all. Took four of my best just to bring that one down. She blinks. Stares at him:
+46) 11) dialog: That’s right. So?
+46) 17) text: That’s when ALARM KLAXONS peal throughout the complex. CASEY (CONT’D) What’s happening? TRAEGER’S AIDE clutches a phone receiver. YELLS:
+72) 0) text: TRAEGER has his own glass-like headset with THE MERC’S PO
+72) 2) dialog: No witnesses.
+83) 0) text: Emily opens the door to reveal: TRAEGER, flanked by armed SECURITY MEN.
+83) 1) dialog: Mrs. McKenna? (flashes his ID) Can we have a word?
+84) 2) dialog: Why would you guess that..?
+84) 5) dialog: How about your son -- where is he?
+84) 7) dialog: Mind if we speak with him?
+85) 0) text: Traeger and the security men come down the stairs, finding Rory’s lair... but the kid? Nowhere to be seen. RORY’S MOM That’s weird. If he’s not in his room, he’s always here. He said he was going trick-or-treating, but... 57. She frowns. SEES the two discarded costumes on his work table. Why would he leave without his costume?
+87) 0) text: TRAEGER’S MEN EMERGE from the house and fan out.
+88) 5) dialog: He stumbles to a mute halt, SEEING: THE FIRST OF HIS MEN, splayed inside-out. The other one, nearby. Similarly crimson. 59. Traeger registers alarm, but oddly, not much surprise. He keys his talkie:
+88) 6) dialog: Team Edward to Team Jacob. Secure the perimeter.
+105) 2) dialog: Traeger here. The asset’s dead.
+106) 2) dialog: There’s a new player, sir. Our nightmare scenario. The genetics are... unprecedented.
+106) 4) dialog: Affirmative. Pulled our asset apart like a piece of taffy.
+106) 6) dialog: Of course, sir. It had only been 72 hours, we were ascertaining --
+106) 8) dialog: Sir, I -- 73.
+106) 10) dialog: Understood... General.
+115) 13) dialog: (re: Winnebago) Whose idea was the jungle camo? McKenna glances at Rory, who shrugs -- told you so. 83. TRAEGER (CONT’ D) Should have used Woodland. Might as well have shot up a signal flare. He approaches Casey. Regards her with a grin, then -- ext his open palm. After a beat, she stiffly hands him THE VI TRAEGER (CONT’ D) There, now. That wasn’t so hard. His men rudely PAT DOWN McKenna and the others. TRAEGER (CONT’ D) Where is it?
+115) 15) dialog: The device. It goes -- (mimes Predator’s wrist gauntlet) -- right in here.
+115) 17) text: Traeger ponders.
+115) 18) dialog: You know what I think? I think it’s time for some... robust discussion.
+117) 0) text: CASEY, handcuffed to a chair. A few feet away, Traeger pours himself a drink. Holds up the bottle:
+117) 1) dialog: Can I tempt you, Ms. Brackett?
+117) 3) dialog: Ms. Brackett, do you remember a few years back when Hostess went bust? There was a run on Twinkies. Snapped up, coast to coast. “Get ‘em while they last”, remember?
+117) 5) dialog: (shrugs) Think about it. How long before climate change makes the planet unlivable? Two generations? One? Casey’s blinks -- dawning realization:
+117) 8) dialog: Exactly. Adapt themselves with it, then... move in. Casey blinks, stunned. 85.
+117) 10) dialog: We think it’s dying. (frowns) Well -- cooling, to be precise.
+117) 15) dialog: (shrugs) If we can upgrade ourselves? Become the ultimate survival engines--? Why wouldn’t we? Casey looks sick to her stomach.
+117) 17) dialog: Whoever can afford it, of course. He grabs her by the hair. Yanks tightly. TRAEGER (CONT’ D) Now something is on that hijacked ship, and I think you know what it is...
+118) 11) dialog: Hi, Rory. I’m Will. I understand you know how to access the spaceship. Rory nods, tense. Bites his lip. Traeger grins. TRAEGER (CONT’D) Here’s the thing. We work for the United States Government. Just like your dad.
+118) 15) dialog: Okay. You want to play grown-up, let’s play grown-up. Man to man..? We’re not going to let him go. Not until you give us what we want. But when you do -- I promise he’1l go back to the V.A. hospital... where they will take good care of him.
+118) 17) dialog: Oh, now, Rory... I thought we were playing grown-up.
+131) 1) dialog: from the brush, flanked by A SMALL ARMY OF MERCS; poor Rory in tow. An AIDE clutches a hand-held GPS device. TRAEGER’S AIDE We’re at the waypoint. Should be right here. But the clearing is just that: clear. Then, Traeger notic
+131) 3) dialog: What are those? They’ re DEAD BIRDS, laying on the jungle floor in a wide
+131) 6) dialog: (CONT’D) We beat it here. (to his aide) Get on the horn. Tell Woodhurst we have his space ship. He turns to Rory -- ushers the boy forward, gripping his shoulder. SHOVES HIM toward -- THE SHIP’S ENTRYWAY And next to the hatch... an ALIEN CODE BOX. TRAEGER (CONT’ D) Open it. Rory hesitates. Feeling all eyes on him, he relents. Reac for the code box. TWO DOZEN DUMBSTRUCK SOLDIERS look on - As a little boy inputs the code from memory. SH-KKK! As easy as that, the HATCH OPENS. Traeger turns to his AIDE. Points. You’re coming, too.
+132) 0) text: A cavernous THRUM oscillates as Traeger looks around, petrified. The technology is clearly alien. Then he notic
+132) 3) dialog: Property of Project Stargazer, that’s what they are. (to his aide) Tell the men to secure the craft; get it ready for transport. I want it moving before that... THING gets here. RORY, meanwhile, has noticed a control panel:
+141) 0) text: TRAEGER looks out upon the scene, aghast:
+141) 1) dialog: What in blue fuck is going on? TRAEGER’S AIDE Locals, sir. We’re on it.
+143) 6) dialog: Emerges from his COMMAND POST to a scene of chaos. SMOKE everywhere. Flame. He BARKS into his talkie:
+143) 7) dialog: 
+144) 0) text: TRAEGER’S AIDE appears at the hatch. Physically GRABS the GUARD posted to keep an eye on Rory: TRAEGER’S AIDE We’re taking ‘er up! Where’s the kid? They both scan the interior... shit. Where did he go? Not far. He steps out from the EQUIPMENT ALCOVE -- now wearing the Predator mask he found. 102. The mask’s tiny PLASMA-CASTER swivels, whrrrrrr--! A volley of energy BLOWS THE TWO MEN OUT THE OPEN HATCH!
+144) 11) dialog: 
+148) 0) text: Aftermath. A HAZE of smoke and debris hangs over the vacated ARK. Medics tend to the wounded. 105. McKENNA limps into view. Bee-lines to Traeger. Livid.
+148) 2) dialog: Fool me twice, shame on me.
+148) 5) dialog: That’s classified, Lieutenant. Before McKenna can respond with action, Traeger DRAWS HIS SIDEARM ON HIM; a twinkle in his eye. TRAEGER (CONT’ D) Kind of ironic, really. A trained sniper, dying from a headshot. BLAMM--! McKenna flinches as -- BLOOD spatters his face. A thousand-meter-a-second SNIPER ROUND just pierced TRAEGER’S HEAD. The guy drops, lifeless. SHIT. McKENNA spins, eyes tracking downrange -- Predator weapon--? Nope. M24 sniper rifle. GENERAL WOODHURST, comes into view, flanked by ARMY troop

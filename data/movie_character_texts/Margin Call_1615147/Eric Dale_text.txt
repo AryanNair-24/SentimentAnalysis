@@ -1,0 +1,94 @@
+0) 17) text: Eric Dale? PETER
+0) 19) text: Eric Dale? PETER
+0) 22) text: I'm not Eric Dale. HEATHER
+1) 2) text: Mr. Dale? ERIC
+1) 4) text: This way. ERIC walks out the door first.
+3) 1) text: Well... Mr. Dale I'm obviously sorry that we are here today but these are extra ordinary times as you very well must know. ERIC
+3) 3) text: I hope you understand that this is in no way personal. A majority of this floor is being let go today. ERIC
+3) 11) text: 4:47 to either take the offer or it will be revoked. Do you understand? ERIC
+3) 14) text: ...over 19 years of service to the firm, you will understand that these measures are in no way a reflection of the firms' feelings towards your performance or your character. ERIC
+3) 22) dialog: What about my current ongoing work? I'm right in the...
+3) 25) text: Sir? ERIC finally stands up and walks out with the guard and b over to his office.
+4) 0) text: 3 ERIC walks into the office and sits at his desk and begin clear his things out into a file box. The guard stands at door. Eventually ERIC'S sympathetic yet still energetic immediate superior, WILL EMERSON comes to the door. WILL EMERSON
+4) 1) text: Hey. ERIC
+4) 4) dialog: Are you still alive? WILL EMERSON
+4) 10) text: It's a total bloodbath. ERIC
+4) 12) text: If there was anything I coulda done, you know I woulda done it. ERIC
+4) 14) text: Well... ERIC
+4) 16) text: Eric... ERIC
+4) 18) text: You know me. I'm not gonna say... ERIC
+4) 19) text: Robertson? WILL EMERSON just looks back at him in silence. ERIC (cont'd)
+4) 21) text: Look it wasn't anyone. It's just bad luck. Right....? ERIC
+4) 27) dialog: Will?
+4) 29) dialog: You know I was just in the middle of a bunch of shit here that someone should really take a look at.
+5) 5) dialog: No, it will be ugly around here for a while but you guys will be fine...
+5) 7) dialog: Well, I'll be seeing you around.
+6) 1) text: I just wanted to say thank you. ERIC
+6) 3) text: Well it is... You were the person around here that I... ERIC looks at him and understands. PETER turns around and begins to walk back toward his desk. ERIC
+6) 4) text: I know. PETER turns back and ERIC reaches into one of his boxes a takes out a small key chain portable hard drive and hands to PETER. ERIC (cont'd)
+6) 5) text: I was close to something here... But they wouldn't let me finish it. Take a look. The elevator doors open and ERIC gets into the elevator. as the doors are closing he says... ERIC (cont'd)
+10) 0) text: 9 ERIC DALE walks out the front door carrying the file boxe There are other people streaming out the door doing the s thing. ERIC stops, turns, and looks up at the building th tries to make a phone call but his phone does not work as has been shut off by the firm. He looks up to the sky and can't believe his fate. As he looks down he sees a woman, SARAH ROBERTSON, serious, classically beautiful and dress in a well tailored power suit with her head down walking the building. He can't help himself.
+10) 4) text: SARAH does not respond. ERIC (cont'd) Sarah Robertson!
+10) 5) text: This time she looks up. When she sees him she debates if should stop. She does. He slowly moves a little closer to her, still carrying the slightly tattered box with his personal belongings in it. ERIC (cont'd) You shut off my phone??? SARAH ROBERTSON Eric... I didn't do anything.
+10) 6) text: They stare at each other. ERIC Fuck you.
+10) 7) text: They look at each other for a longer beat, both a little shocked that ERIC was so openly confrontational. She turn and heads back inside quickly. ERIC drops the phone to th ground and walks away.
+18) 14) text: Eric gave me this file before he left. SETH
+18) 15) text: Eric? PETER
+18) 22) text: WILL is now paying closer attention, standing over their shoulder. WILL EMERSON What is this? PETER This is basically everything that we have on our books at any given time. But what Eric was trying to do here is work it for levels of volatility that fall outside the limits of our standard VAR model. WILL EMERSON What are those levels. PETER Well it's a fairly complicated... WILL EMERSON Simplify. PETER The volatility boundaries are basically set using historic patterns then stretching them out another 10-15%... roughly. WILL EMERSON So what's happening? SETH We are starting to test those historic patterns. WILL EMERSON When?
+18) 42) text: Where the fuck is Eric Dale?
+19) 6) text: Hello, Mrs. Dale?... This is Will Emerson calling... I'm fine, thanks. I was wondering if Eric was there?... Yes, we tried but his cell doesn't seem to be working... (MORE)
+24) 4) text: SAM looks at WILL for some hint of what is going on, then eventually puts his coat down and sits into a chair. They wait for who goes first. SAM ROGERS So? WILL EMERSON Eric Dale... SAM ROGERS Oh Jesus... WILL EMERSON Before he was escorted out of the building by security... SAM ROGERS I had nothing to do with that. WILL EMERSON I know. SAM ROGERS I'm sorry, go on. WILL EMERSON So as he was leaving the building he hands a disk to Peter Sullivan... SAM ROGERS Who's Peter Sullivan again? WILL EMERSON One of Eric's guys. SAM ROGERS Right. WILL EMERSON ...and tells him that he was almost on to something but hasn't been able to figure it out. So he gives him the disk and says give it a try... but the last thing he says as the doors to the elevator close is `be careful'... SAM ROGERS Be careful?
+24) 16) text: The kid figured out what Eric was missing. And... SAM ROGERS
+24) 33) text: Where is Eric? WILL EMERSON
+24) 43) text: Out looking for Eric. SAM ROGERS
+30) 1) text: They all sit down and at each place setting there is a pa paper, a pencil, and an empty binder. Sitting at the head the table is JARED COHEN. He is a blond boyish looking 43 year old, although carries himself with intense confidenc He is the head of all fixed income securities, and overse roughly 25,000 employees. Next to him is his chief risk management officer, SARAH ROBERTSON, the same woman from outside the building earlier who had the run in with ERIC Next to her is her right hand man RAMESH SHAH, a sixty ye old number cruncher and next to him is a firm lawyer. The are all dressed sharply for a new day. Long silence. SETH COUGHS. ALL PRESENT look down at him. JARED COHEN So Sam, what do you have for us?
+30) 6) text: JARED COHEN looks at SARAH ROBERTSON as it would have bee her call to let ERIC go, she nods yes. JARED COHEN So who's left in your risk department? WILL EMERSON As of today that would be Peter and our junior analyst Seth...?
+30) 13) text: So apparently Eric had been working on this for some time but was unable to finish it, as he was leaving the building today he gave the program to Peter here, and told him to see what he thought. Peter figured a few things out that Eric seemed to be missing and this is what came out. JARED COHEN
+30) 14) text: Where is Eric Dale now? SAM ROGERS
+30) 26) text: I have been with the firm for two years working with Eric that whole time... But I hold a doctorate in engineering, specialist in propulsion, from MIT, with a Bachelors from Penn. JARED COHEN
+30) 86) text: And can it really be that we don't know where Eric Dale is? WILL EMERSON
+32) 7) text: SAM slides him the hard drive across the table, they all a second to follow it. JARED COHEN And Sam we need Eric Dale, it's making me very uneasy knowing he is out there right now wanting to put a knife in our backs while he's not even aware he's holding the knife in his hand.
+42) 90) text: Eric Dale. JOHN TULD
+42) 91) text: Where is Eric Dale? SARAH ROBERTSON
+42) 98) text: Get me Eric Dale here by 6:30. LOUIS CARMELO
+48) 6) text: SAM comes to the door of WILL'S office. He looks at everyone's faces. SAM ROGERS What? WILL EMERSON That was Eric's wife. He's alive, he's home. He doesn't want to talk to us. And he doesn't know she called me.
+48) 13) text: No... it's Eric... the last thing we need is those guys going over there, you two go try to get him. SAM points to WILL and SETH. SAM ROGERS (cont'd)
+50) 4) text: We're heading to get Eric Dale. JARED COHEN
+58) 0) text: 60 WILL gets out of the car and walks slowly up the stairs. is about to knock on the door when from behind him he hea ERIC coming walking up the block. He is still in his work clothes and it looks like it's been a long night. ERIC What are you doing here? WILL EMERSON Peter finished that model you were working on. ERIC Really? WILL EMERSON It's created a bit of a shit storm. ERIC Yeah, I bet. WILL EMERSON Do you want to see it... the model?
+58) 5) text: ERIC looks over at Will WILL EMERSON (cont'd) Today.
+58) 6) text: ERIC'S face doesn't show much emotion. But he is surprise and sincere. ERIC Well, I am very sorry to hear that. WILL EMERSON They want me to get you back there, they are worried about you being out here. ERIC (with pleasant disgust) Please. WILL EMERSON I'm just saying. ERIC (cuts him off cold) Not a chance.
+58) 7) text: WILL lets it sit for a few beats. WILL EMERSON This is serious shit Eric.
+58) 12) text: Well... ERIC
+58) 14) text: Look... ERIC
+58) 16) text: They'll pay... ERIC looks over at WILL. WILL lets him know with a look t they mean real money. ERIC
+58) 17) text: I've already been paid enough by them. ERIC looks back out onto the empty street. ERIC (cont'd)
+58) 19) text: I'm sorry? ERIC
+58) 21) text: No, I didn't. ERIC
+58) 23) text: Well... ERIC
+58) 28) text: It cut out 35 miles each way of extra driving to get from Wheeling to New Martinsville. That's a combined 847,000 miles of driving a day... and 25,410,000 miles a month and 304,920,000 miles a year saved. Now ERIC'S mind is racing and he is adding up numbers as goes. ERIC (cont'd)
+58) 30) text: Jesus. ERIC
+58) 32) text: Fuck... They sit and let it sink in. ERIC
+58) 35) text: Yeah. ERIC
+58) 37) text: True. Dumping the whole fucking motherload in one day. Fucked up. Well... alright. ERIC
+58) 42) text: No problem. WILL looks out down the street as a black towncar comes pulling up to the house. ERIC
+58) 44) text: I'd guess it's the firm's people. ERIC
+58) 46) text: Tuld doesn't want any loose ends. ERIC
+58) 48) text: Just come back with them, take the bonus, and you're home tonight by five. Either that or they are going to fight you on everything, the package, the options... ERIC drops his head. WILL walks down the stairs as the town car stops in front Eric's house. The windows are tinted, but they know who i is. WILL walks around to his car. WILL EMERSON (cont'd)
+58) 49) text: You're a better man than I. ERIC
+58) 51) text: Yes it has. ERIC
+58) 53) text: The house looks great by the way. ERIC
+58) 58) text: ERIC nods. WILL EMERSON (cont'd) Some people like driving the long way home.
+64) 0) text: 66 SARAH ROBERTSON is sitting in a club chair staring out th window. The coffee table in front of her has a huge sprea fruit and cheese and pastries. She is not eating. She sit and stares. Eventually the door behind her opens, and a SECURITY GUY walks in with ERIC. SECURITY GUY They are almost ready for you Ms. Robertson. Couple of minutes.
+64) 1) text: SECURITY GUY leaves the room. ERIC looks over at SARAH th sits in the chair near her. Silence.
+64) 5) text: Long awkward pause. Eric looks around for something, anyt to talk about. ERIC (cont'd) Are you still dating that tall guy... from the Christmas thing?
+64) 6) text: She looks over at him with a slight smile, giving him cre for trying to break the ice. SARAH ROBERTSON No. ERIC He was very tall. SARAH ROBERTSON
+64) 12) text: I did pass on your concerns last year... just so you know. ERIC
+64) 15) text: Thank you. The caterer leaves. ERIC looks around. ERIC
+64) 16) text: Have they taken all the phones out of this room? SARAH nods yes. ERIC (cont'd)
+64) 18) text: Yeah... I didn't think they were going to be able to get you back here. ERIC stands up and goes over to the window. ERIC
+64) 21) text: It never is. ERIC goes back and sits in the chair. SARAH ROBERTSON (cont'd)
+64) 26) text: but your point was passed on... I need you to know that. ERIC
+64) 28) text: Eric. ERIC
+64) 30) text: I guess... at the time... it didn't seem like there was much of a choice. ERIC
+64) 32) text: You have kids, yeah? Long pause as he lets her alone. ERIC
+64) 34) text: I don't know, that's what I'm waiting for now. ERIC

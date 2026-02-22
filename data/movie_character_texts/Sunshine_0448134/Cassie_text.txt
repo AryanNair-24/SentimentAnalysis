@@ -1,0 +1,54 @@
+2) 9) dialog: Fine. The switch flicks itself back.
+10) 0) text: CASSIE sits in the pilot’s seat. Her dog-eared copy of LADY CHATTERLY’S LOVER is face down the console, folded open about two thirds through the tex She has a wide portal in front of her, similar to the por to the Observation Room, but this is cluttered with the symbols and readings of a HEADS UP DISPLAY. Behind her, TREY - the Navigation Officer - sits at a bac lit NAVIGATION DISPLAY. 17.
+10) 1) dialog: Wow. TREY doesn’t look around. He is deep engrossed in calculations and readings. CASSIE . Trey. You want to see something? . No response.
+10) 2) dialog: Trey!
+10) 4) dialog: Do you want to see something? TREY looks around.
+10) 5) dialog: Come here. Look. TREY stands and walks over, and looks where CASSIE is indicating... see at the portal, which shows the sun, and the clutter o the HUD display.
+10) 7) dialog: No. She hits a few switches, and the HUD display vanishes...
+10) 8) dialog: There. «++ revealing, against one curve of the sun, a silhouette sphere. Some way distant - a planet.
+10) 9) dialog: Mercury. 18. CLOSE IN on the view of MERCURY through the portal.
+12) 13) dialog: Jesus.
+12) 15) dialog: Are you saying they’re alive?
+12) 29) dialog: Oh my God. We’re going to pass right by them.
+12) 55) text: It is. It’s a risk assessment. The question is, does the risk of the detour outweigh the benefits of an extra payload. MACE glances around the table. 25. CASSIE eyes are shining with tears for the crew of ICARUS ONE. HARVEY, TREY and CORAZON are with MACE. ASHER is unreadable. SEARLE is behind shades. . io CAPA is undecided. ,
+13) 0) text: CAPA stands in the ferns, gazing into the foliage, thousa yard stare. He thinks he is alone. But he isn’t. A few feet away, CASSIE is watching him. Something - intuition - makes him turn, and he sees her.
+13) 2) dialog: Hey. (beat) I just wanted to let you know, I think you made the right choice.
+13) 4) dialog: But I do. cur T0:
+13) 7) dialog: (cutting in) Good. She silences him with her kiss, and CAPA relents.
+14) 0) text: The atmosphere in the MESS is very subdued, and not all c are there. 28. MACE, TREY are SEARLE are absent. CASSIE is standing by the food dispenser, filling her tra CORAZON and HARVEY sit together, and, separated by the fo empty places, are ASHER and CAPA. CAPA watches CASSIE get her food. When she turns, she sees his gaze, and gives him a smile. It’s bright and friendly, but has a subtle blankness that not missed by CAPA. The moment is not resolved, because suddenly, abruptly, a ALARM is sounding. ICcARUS All flight crew report immediately to flight deck. A frozen beat - then suddenly everyone is jumping to thei feet and running for the door.
+15) 27) dialog: You've been through this a thousand times in Barth orbit training.
+15) 29) dialog: You're going to be fine. CAPA nods. He’s looking straight into CASSIE’S eyes like he wants he say-something else. Something personal, or... Clunk. The heavy mirrored helmet is dropped over CAPA'’S head an suck of pressurised air locks the rim into place... +--+ leaving a reflection of CASSIE’S face where CAPA’S h been. CASSIE locks the helmet in to place by putting her hand either side of the helmet and pulling down sharply, activating locking clasps around the neck ring. 32. q FLIGHT DECK
+15) 30) text: MACE sits in the pilot’s seat. CORAZON stands behind the CASSIE’S copilot seat. .
+16) 0) text: ASHER and CAPA are alone in the airlock, fully suited. HARVEY and CASSIE watch from the outside, as... 33.
+16) 22) dialog: Hey. Trey. Stop beating yourself up. We've got this... And suddenly, the alarm has started again. MACE hits a button and the alarm stops.
+16) 28) dialog: Icarus - override computer control to manual.
+17) 0) text: MACE and CASSIE, frozen, watching the monitor image of ASHER'S head-cam.
+20) 0) text: CAPA is sat watching ‘TREY. TREY is in a glass cubicle, lying on ‘a bed, asleep. A hiss as the door to the Med-Centexr opens. CAPA locks round. It's CASSIE.
+20) 1) dialog: Where's Searle?
+20) 3) dialog: (of Trey) How is he? CAPA shrugs.
+20) 6) dialog: I didn’t fuck yon because I thought you made the right decision. I fucked you because it was something I needed at that moment.
+20) 9) dialog: No. I don’t. Of course I don’t. Do you? Silence.
+20) 10) dialog: Corazon said something earlier. CAPA waits.
+20) 11) dialog: She said Harvey has made a mistake xegarding the lack of oxygen. She said Icarus One is not our only hope. . (beat) There’s not. enough oxygen to get all of us to the payload delivery point. But if there were fewer crew-members, we'd get there fine. CAPA laughs - with surprise more than anything.
+20) 13) dialog: Actually, Trey wouldn’t be enough. We’d need to lose two more. ~ CAPA'S face - has he just been threatened? And CASSIE answers the question for him.
+20) 14) dialog: No. I’m not inviting you to commit suicide with Trey. Of us all, you’re the one who’s most needed to supervise the delivery of the payload. I’m just telling you what Corazon said. JI thought you ought to know. CASSIE makes to leave.
+20) 17) dialog: Me. x (beat) + And Mace.
+23) 0) text: CASSIE sits in the pilot’s seat. CAPA is in the copilot’s seat. CORAZON watches behind. Pause. A beat. Silence. 46.
+23) 1) dialog: Okay. We’re locked on. Icarus, please establish contact with Icarus I computer system.
+23) 3) dialog: How? A malfunction or an accident? Has it been deliberately shut down?
+23) 5) dialog: Is there power on Icarus 1?
+23) 11) dialog: Harvey, Mace, Searle. Did you get all that?
+23) 13) dialog: So you heard her. It‘s breathable. In your own time, you’re good to go.
+25) 0) text: ++. a flashlight-cam, which are watched by CAPA, CASSIE a CORAZON on the flight deck monitor.
+29) 3) dialog: They’re all dead. Nr. ICARUS G! DEC! INSIDE A COMPARTMENT as the door open, to reveal MACE pee inside, frowning. .
+31) 8) dialog: Get back to the airlock! All of you! Get back!
+31) 10) dialog: Icarus! Stabilise us} 55.
+31) 12) dialog: (to Capa) The airlock has just decoupled. Get down there NOW!
+33) 1) dialog: The airlock has decoupled. We don’t know why. Mace - the locking system on Icarus I is ripped open. We aren’t going to be able to dock again. iT. ICARU! ‘OUTSIDE AIRLOCK MACE - thinking fast.
+35) 0) text: CASSIE and CORAZON are watching this, horrified, from HARVEY’S helmet cam. And worse, we can now hear what we couldn’t hear before. HARVEY'S desperate screaming over the radio link. CASSIE can't bear it. She lunges - switching the image of cutting out the screaming. . 59.
+37) 0) text: CAPA, MACE, CASSIE and CORAZON sit in the briefing room. The empty seats say everything they need to. A long beat. Then:
+45) 0) text: CAPA walks into the MESS. Only CASSIE is there, sitting alone, with a plate of untouched food in front of her. She’s lost in her thoughts and doesn’t look round when he enters. CAPA fills a glass of water for himself and goes to sit opposite her. He wants to say something to her... +++ but he doesn’t know what. He just sits there, holding his glass of water. A few seconds later, CASSIE gets up and leaves. She hadn’t looked at him once. It was as if he wasn’t the
+60) 14) dialog: (out of sight, shouting from the walkway) Stay away from me!
+60) 16) dialog: Murderer! ° Another shot rings out.
+60) 20) dialog: (screams ) I don't believe you!
+62) 0) text: CAPA reaches the top of the ladder, and swings around to stand on the narrow walkway. Where he sees... ++. a strange sight. PINBACKER stands on the walkway, with his hand outstretch Holding’on to his hand, leaning back at ‘an angle, is CAS It is only PINBACKER’S grip that is preventing CASSIE fro falling backwards. For a moment, the two stand on the edge of the walkway -— CASSIE held from falling by PINBACKER’S grip. Their gazes are locked. Then CASSIE makes a slight movement backwards - a slight slip. And she sees: something weird and initially inexplicable band of bright redness around PINBACKER’S upper arm. Expanding...

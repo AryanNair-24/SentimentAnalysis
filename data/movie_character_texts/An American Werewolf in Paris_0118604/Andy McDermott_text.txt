@@ -1,0 +1,492 @@
+0) 0) text: BLOOD splatters on white paper. Pull back to see a CHEF w a cut finger standing at the admitting counter, dripping  blood on a form. The uptight Parisian NURSE scolds him an pulls out a new form. ANDY, lugging his back pack, trudges through the sliding  glass doors marked "St. Severin Hospital". Bleary eyed, h over, burdened by a heavy backpack and carrying the crump telegram, he approaches ANOTHER NURSE at the counter.
+0) 1) dialog: Um, excuse me... hello...
+0) 2) text: A STOUT WOMAN with a POODLE charges in front of Andy and  launches into a loud French argument with the nurse over hospital's "human's only" admission policy.
+0) 4) dialog: Hey, wait a minute...
+0) 5) text: Andy tries to push his way back in, but the shrill little dog yaps at him. Andy grabs his aching "hangover head" in agony. The bleeding chef walks away, dripping, leaving th other nurse free. Andy approaches her. She has her head d in some paperwork.
+0) 6) dialog: Pardon... Excusez moi. 'Allo.
+0) 7) text: Without looking up, she holds up a "please wait" finger.  Andy sighs. The poodle yaps at him again. He winces and t to get the nurse's attention.
+0) 8) dialog: (to Nurse) Umm...
+0) 9) text: She raises her finger sharply and glares at him. She goes back to her paperwork. Andy starts chatting politely with her, pretending she's responding.
+0) 10) dialog: So, you ever been to Spain? You'd  love it. It's friendly, sunny,  cheap... And you'd be the only raving  bitch there instead of just one in  the crowd up here.
+0) 11) text: MARCEL BOULARD, a short middle aged cop in a rumpled coat approaches. He taps Andy on the shoulder.
+0) 13) dialog: That's McDermott, but yeah.
+0) 18) dialog: Right. Listen, my uncle, it's not  serious is it? Did he eat some bad  snails? Slip on the bidet? What?
+0) 22) dialog: Yeah okay. My French isn't that bad.
+1) 0) text: TERRENCE lies comatose under a clear plastic oxygen tent. ORDERLY changes the dressing on his bloody stumps. A NURS fiddles with the vast array of bleeping, burbling, suckin life support machinery. Andy, dumb struck, watches from a few paces away. Marcel, pad in hand, asks him questions. LeDuc stays in the  background, listening and studying Andy intently.
+1) 1) dialog: Jesus...
+1) 3) dialog: Not too well. He taught at the  Sorbonne, right? Dad always calls  him his "hippie brother". Did some  work with Timothy Leary I think, and -  Is he... is he going to die?
+1) 5) dialog: Legume? You mean, a vegetable?
+1) 7) dialog: What do you mean, maniacs?
+1) 9) dialog: Yeah, well, these fleas must have  teeth like fuckin' chain saws.
+1) 10) text: BEEP BEEP! Something's wrong with uncle Terrence's machin The IV bottle is sputtering and bubbling, the EKG monitor flashing. The orderlies snap into action and pull the cur shut, waving "no problem" to Andy and Marcel. Marcel lead Andy away, trying to calm him down.
+1) 12) dialog: I can't believe this. Why don't you  go down in the tunnels and find the  goddamn... animals that attacked my  uncle?
+1) 14) text: Andy's about to protest when LeDuc steps in and hands him uncle Terrence's leather bag.
+1) 17) dialog: Yeah. I guess so. (they walk him to the  elevator) Did he say anything? Before the coma?
+1) 19) dialog: Why would he pick this one?
+1) 21) dialog: Not that I know.
+1) 23) text: Andy's dumfounded at Marcel's lack of tact. The elevator  doors start to close. LeDuc nods "good-bye". Marcel leans and sneaks in one last comment.
+1) 26) dialog: (to himself) Inspector Clouseau, on the case.  Great.
+2) 0) text: Andy opens the gate of this beautiful 19th century buildi and walks through THE COURTYARD to the main entrance. A P yaps at him. The dog is in the open doorway of the Concie apartment, which opens into the courtyard. The nosy conci MADAME CHRETIEN calls the dog, LULU, back in and shuts th door. Andy enters the dark LOBBY, finds the timed auto shut-off light switch and turns it on. He boards the old fashioned wire cage elevator and presses the button for #4. McDermo The elevator ascends painstakingly slowly. Andy resigns  himself to waiting, thumbs through his uncle's date book. Andy turns to the day Uncle Terrence was attacked. A circ cryptic entry at the bottom of the page reads "Meet Claud Medusa - 11:00". Andy wrinkles his brow. At this second, light goes out. Andy ascends the rest of the way in darkness. The doors o on the fourth floor. He gets out and finds his way to the apartment. He tries a key in the lock. It won't turn. He  jiggles it. No luck. He goes through this with two more k grumbling under his breath. Finally he finds the right on He pushes the door open and gasps. He's face to face with a scary TRIBAL MASK hanging in the entrance way. It startles him for a second.
+2) 1) dialog: This must be the place.
+3) 0) text: Andy walks in and sets down his bags. A gun COCKS. A youn woman's voice screams at him in French.
+3) 3) dialog: Don't shoot! Jesus... uh... Je  m'appelle Andy. McDermott. Je suis  le... um, shit...
+3) 6) dialog: Yeah, that's the word. And you are?
+3) 8) dialog: You? You're Madame Flocquet? I  pictured a fat lady with an apron,  not - I don't know - La Femme Nikita.
+3) 12) dialog: Sure. I can follow that.
+3) 14) dialog: Yeah. True. The cops weren't much  help either. Their theory is he was  moonlighting as a drug dealer or  something. Make sense to you?
+3) 16) dialog: Well put. So, what exactly has uncle  Terrence been up to lately?
+3) 19) text: She races out of the room. Andy follows after her.
+4) 2) dialog: (reacts to her loose  grasp of American  slang) What?
+4) 4) text: She flicks a switch on the back of the computer, rebootin it. Andy pauses to look at some nearby photos of his uncl
+4) 5) dialog: I still can't get over it. The cops  said it was a "maniac", but he looked  like, I don't know, like he'd gone  through a combine harvester or...  something.
+4) 8) text: Andy reacts to her use of the informal "Terry"...
+4) 9) dialog: Depends. Was "Terry" a father like  Ward Cleaver or a father like Woody  Allen?
+4) 12) dialog: Hey, Sorry if I was out of line.
+4) 14) dialog: Fine. My mistake. You know, I'm gonna  be a writer myself some day.
+4) 16) text: Andy sees he's sunk. He heads for the door, but something the wall catches his eye. A small flyer on the bulletin b with a big drawing of Medusa. He takes it down.
+4) 17) dialog: Medusa... What's this? some kind of  club?
+4) 19) dialog: Like an underground club?
+4) 21) dialog: And who's Claude?
+4) 23) dialog: I looked through my uncle's date  book. Writer's curiosity.
+4) 26) dialog: In an underground club? I'd like to  see that.
+4) 29) dialog: Come on. I'm from New York - the  "shoot me" state. Don't wait up.
+4) 32) dialog: (getting fired up) Maybe I didn't know him like you  did. But he's my uncle. And I owe it  to him to get some answers. It's a  quest like, uh, Hemingway, the Old  Man and The Sea. Except instead of  an old man I'm a young man, and  instead of the sea, it's a bunch of  tunnels under Paris. And instead of  a big fish it's... who knows? That's  what I'm going to find out. Au revoir.
+5) 0) text: A MEDUSA HEAD is carved in the stone above the doorway of crumbling old facade in a rundown Parisian neighborhood.  Andy tries the front door. It's locked. There's no sounds signs of life.
+5) 1) dialog: (to himself) Some party.
+5) 2) text: Andy starts off, then pauses as three PARTY GOERS approac the door. They're "modern-primitives" - tribal tattoos,  pierced noses, and weird beaded hair. One fishes a key fr the Medusa's mouth, opens the door, and lets the group in Andy slips in behind them. One GUY in the group looks And over and mutters something in French to his friends. They snigger amongst themselves and walk to a door across the  foyer. Andy follows, a few paces behind, through the door down some stairs, into
+5) 6) dialog: That's alright. I'll be a cowboy.
+5) 8) dialog: Alright. Fine... (with mock enthusiasm) Ooh. I can feel it tingling.
+5) 9) text: Andy sniffs and makes a face - the paint has a weird smel
+5) 10) dialog: Phew. What's in this stuff, liquid  plumber? (he pulls the book  out of his pocket  and shows her Claude's  picture) Do you know this guy? Claude?
+5) 12) text: She points to a dark alcove off the main cavern. Andy nod and starts off. We move in on a leather clad young man le against the wall, watching Andy go. This is GASTON DUFAUX self-styled Parisian thug, who seems to be cultivating a  sort of "Mickey Rourke" look. He takes a drag from his  cigarette and we see he's missing two fingers. Andy makes his way through the crowd. People are dancing  with wild abandon, and many carry torches. A SKINNY GUY I DIAPER and a paper mache skull mask runs through the crow ranting and spraying fluorescent silly string. He does a  weird dance around Andy and jabbers at him in French.
+5) 13) dialog: Uh, lemme get back to ya on that.
+5) 14) text: Andy approaches the side room and peers in. A small group young people are listening intently to CLAUDE, whose back to us. He's expounding about something in a solemn tone.
+5) 16) text: We follow Andy as he steps around the crowd and sees Clau face. He looks older than in the photo - he's in his late fifties, with white hair and intense eyes.
+5) 17) dialog: Excusez moi, I...
+5) 18) text: Claude notices the book in Andy's hand. He speaks fluent  English.
+5) 20) dialog: I know. I'm Andy McDermott. Terrence's  nephew.
+5) 23) text: He excuses himself from his "flock" and leads Andy to a q corner of the room. The kids disperse, several looking  sympathetically at Andy.
+5) 25) dialog: Yeah, well, why did he hang out here?  The cops said it's dangerous -
+5) 29) text: He ducks back out. Andy picks the silly string out of his hair.
+5) 30) dialog: Psychic awareness. Right.
+5) 32) dialog: What?
+5) 34) dialog: Yeah well, that's like really groovy  and everything, but who hacked my  uncle's legs off?
+5) 37) dialog: Yeah?
+5) 41) text: Andy's eyes widen with comprehension. He touches his face
+5) 42) dialog: What!? Hallucinogen? Oh shit...
+5) 45) dialog: Yeah, well if I claw my face off,  just pack it in ice, okay? Jesus...  the cops were probably right. My  uncle was messed up with a bunch of  fry brains and they went berserk on  him.
+5) 48) text: Andy's somewhere between spooked and incredulous. He glan at the book in his hand.
+5) 49) dialog: Wait a second, are you like the Steven  King of France or something...
+5) 51) text: Andy turns and sees Serafine run up to him. She looks wor
+5) 52) dialog: So you came after all. Just in time,  it's getting interesting.
+5) 55) dialog: Not you too -
+5) 58) text: Claude dashes off. Serafine drags Andy into the main cave
+5) 59) dialog: Hey, chill out a second!
+5) 61) dialog: Alright, hold on. I'm not gonna get  dragged around like some kid in a  shopping mall. I want you to answer  some questions.
+5) 62) text: Serafine sees something over Andy's shoulder.
+5) 64) text: Andy turns to see Gaston approaching. He leers at Serafin
+5) 68) text: He puts his hand on her shoulder. Andy notices the missin fingers.
+5) 70) text: She shoves his hand away and pulls Andy past him. Gaston  grabs her and spins her around. This time Andy grabs Gast hand and pulls it off her. He holds up Gaston's three fin hand and glares at him.
+5) 71) dialog: Well, this explains the two fingers  they found in Liberace's asshole.
+5) 72) text: Gaston jerks his hand away. He stabs his finger in Andy's chest.
+5) 74) dialog: Yeah? In New York we got an expression  too. Goes like this...
+5) 75) text: CRACK! Andy hauls off and belts Gaston in the jaw as hard he can. But Gaston doesn't even lose his footing. He snee with rage and hits Andy with a vicious combination. His  glasses fly off as he reels into the crowd, knocking a fe people into a group of nearby SKINHEADS. The skinheads er into randomly directed violence - a full fledged BRAWL br out. It's chaos. On the floor, Andy squirms away from the skinheads and  retrieves his glasses. He hears Serafine call his name. H gets up amidst the mayhem and sees Serafine being carried away by the crowd.
+5) 76) dialog: Serafine!
+5) 77) text: Someone knocks into Andy and he falls to the ground. He g back on his feet - Serafine's nowhere in sight. He pushes his way through the crowd, looking for her. He catches si of her white dress in a distant corner. It's there for a  second and then gone again - apparently into a tunnel. He runs over to it. Andy peers into THE TUNNEL, which houses some old pipes. fades quickly into darkness. He grabs a kerosene torch fr the wall and runs into the tunnel. About a hundred yards he passes an ALCOVE. He leans in with his torch and peers around. The cave lik room is empty but something catches Andy's eye. Scratched into the stone wall, amidst various graffiti, is A PENTAG It looks to be centuries old. Andy's transfixed by it. The sound of his own breathing  suddenly becomes deafening and his vision begins to disto the textures of the stone wall begin to churn and crawl, the flames from his torch melt into different hues. The  pentagram glows and seems to grow out of the wall... The hallucinatory flash is over as fast as it began. Pant stunned, Andy shakes it off. He wipes his face, checking traces of paint. He tries to reassure himself.
+5) 78) dialog: Whoa. C'mon.
+5) 80) dialog: Serafine!?
+5) 81) text: Another scream - anguished, tortured. Andy runs faster. H arrives at an intersection with another tunnel, turns the corner and finds... A decrepit old WINO hogging a bottle from his warty HAG  companion, provoking her to scream like she just lost her only son. They look up at Andy. The hag shuts up. They fi Andy with an odd stare.
+5) 82) dialog: Sorry... I, uh, did you see a girl,  la femme, um, avec, la dress blanc?
+5) 83) text: They just stare at him. Spooked, he walks past them. They follow him with their creepy stare as he continues into t tunnel, which slopes downhill. He comes to an old stairway leading down into darkness. W pours out of a hole in the ceiling. The steps are severel eroded and slick with flowing water and moss. Andy sees  something. It's SERAFINE'S SHOE, laying on a landing a fe yards down the stairs. He leans in further, loses his foo and slips.
+5) 84) dialog: Ahh! Son of a bitch!
+5) 86) dialog: SERAFINE!?
+5) 87) text: The echo sounds different - like he's in a larger space. echo decays into a familiar low RUMBLE. A reflection of light appears in a puddle on the floor. T light gets brighter until Andy sees the subway tracks at feet. The rumble gets suddenly louder as
+5) 89) dialog: Oh shit!
+5) 90) text: He turns and runs for THE STAIRWAY. He skids on the grave and overshoots it. He scrambles back and up into it just THE TRAIN whooshes past. Andy scurries a few feet up the slick steps, using a rust pipe for a handhold. As he looks back at the SPARKING, RU TRAIN WHEELS, his heart pounding in his head, he has anot HALLUCINATORY-FLASH: the sparks explode into streaking  patterns of color and light. It passes quickly. The train goes by and its rumble fades Andy squeezes his temples and takes a deep breath. Before finishes exhaling, an UNEARTHLY HOWL echoes through the  tunnels. The howl literally takes his breath away - he's  frozen there, eyes wide, not breathing for a long moment. Quietly, carefully, he makes his way back up the dark, we stairs. He comes to the landing, picks up Serafine's shoe and steps into the INTERSECTING TUNNEL. He squints into the darkness. Without his glasses, ANDY'S POV is a bit blurry. He walks into the tunnel. Another HOWL. Andy swallows har
+5) 91) dialog: Jesus Christ...
+5) 92) text: He hurries along. WATER DRIPS from the tunnel ceiling, do the walls, onto the cobblestone floor, flowing into rivul around Andy's feet and joining a stream that flows ahead him, disappearing into the blackness ahead. He approaches another intersection. He stumbles over something. He looks down and makes out a GIRL'S BARE LEG lying in a  puddle in the dark intersecting tunnel. He follows the le up with his eyes - it's messily severed above the knee. H gasps. He looks further into the tunnel and sees A PAIR OF GLOWI YELLOW EYES staring back at him out of the darkness. Andy turns and runs. With a horrible ROAR, the eyes lunge after him and turn t corner. As it gains on Andy, we see the dim outline of th massive wolf-like beast. Andy dives for a SMALL CONDUIT, barely big enough for his body, and wriggles into it. Behind him the yellow eyes ap at the mouth of the conduit - the beast SNARLS but can't in. Andy can see a dim light at the end of the conduit. H crawls along. He emerges into ANOTHER TUNNEL. Some thirty yards away, l and street noise come through a GRATE on the ceiling of a antechamber beyond an iron gate.  Relieved, Andy starts o towards it. A SNARL stops him in his tracks. THE BEAST co tearing around a corner fifty yards behind him. Andy breaks into a sprint towards the antechamber. He sli on the wet floor and lands in a puddle, drenching himself The beast closes in. Andy gets up, runs into the antechamber and slams the iro gate shut. There's a rusty DEADBOLT lock on the gate, but key. The beast is twenty five yards away and closing fast it's massive silhouette filling the diameter of the tunne Andy whips out his SWISS ARMY KNIFE, opens the screw driv and tries it in the old-fashioned keyhole - it doesn't wo The beast is twenty feet away. Andy tries the can opener no luck. Ten feet. Andy jams the corkscrew into the hole. The beast leaps. The corkscrew turns. The DEADBOLT SLIDES SLAM!! The beast rams the gate, shaking the anteroom. But holds. Flashes of CLAWS and TEETH thrash through the bars but it's still too dark to make the beast out clearly. An runs across the anteroom, grabs the steel sewer grate on ceiling, and hoists himself up. Through the bars, he sees a BUSY BOULEVARD in the Pigalle (the "Times Square" of Paris). There's a COP a few paces  away. Andy screams to him.
+5) 93) dialog: HELP! OFFICER!
+5) 94) text: ON THE BOULEVARD - Over the roar of traffic and midnight  revelers, the cop can barely pinpoint Andy's screams. He  looks around, confused. He sees Andy and angrily shakes h baton at him.
+5) 96) dialog: FOR GOD'S SAKES, LET ME OUT!!
+5) 97) text: THE BEAST slams the gate, wrenching one of the iron bars  loose - two more bars and it'll fit through. Andy jumps d picks up the loose bar. It's got a STAR SHAPED SPEAR TIP. He rushes at the gate and jams the spear through the gate aiming for the thrashing teeth and eyes in the darkness. The beast ducks and the spear sinks a couple of inches in the BACK OF IT'S NECK and stops, apparently on bone. It  recoils and ROARS with pain, shaking the spear free. ON THE STREET - The cop raps the bars with his nightstick and peers into the dark anteroom.
+5) 99) text: IN THE ANTEROOM - The beast rams the gate - it's rage  redoubled. Andy jumps up and grabs the grate.
+5) 100) dialog: GET ME THE FUCK OUT OF HERE!!
+5) 103) text: Enraged, the cop runs to his car, muttering to himself. H opens the trunk and rummages around for something. IN THE ANTEROOM - The beast knocks another bar off the ga Andy watches in horror as it rams even harder, loosening NEXT BAR.
+5) 104) dialog: (to the cop) FUCK! FUCK! FUCK! FUCK! FUCK!
+5) 105) text: ON THE STREET - The cop looks over at Andy, incensed. He  takes a crowbar from the trunk, runs back cussing in Fren and struggles with the grate. IN THE ANTEROOM - The NEXT BAR on the gate gives. The bea sticks its head through the gap and focuses it's searing  yellow eyes on Andy. It rears back, ready to pounce... THE GRATE - comes up. The cop grabs Andy and pulls... IN THE ANTEROOM - Andy's legs dangle like bait. The beast lunges, teeth and claws bared. ON THE STREET - Andy screams as a bus roars by. The cop p him up and out. Andy's right pants leg is torn open and h bleeding from a GOUGE in his ankle.
+5) 107) dialog: It bit me! My leg! Jesus, it's down  there, shoot it! Shoot it for Christ's  sakes!
+5) 108) text: He points frantically at the open hole. The cop aims his  flashlight in the hole. It's empty. He looks Andy up and  down.
+5) 110) text: Shaking, Andy takes his passport out of his pocket. The c takes it and copies some information. Andy raves at him - blur of English and broken French.
+5) 111) dialog: There's something down there! A bear  or something! A god damn monster!  Beau coup teeth! Huge, Grande, with  yellow eyes, all this hair, it killed  Serafine! My God...
+5) 113) dialog: (he falters) No... I...
+5) 114) text: He looks disoriented, half-crazed. He definitely seems li he's on drugs. The cop shines his flashlight in Andy's ey his PUPILS are like saucers.
+6) 0) text: The cop car pulls to a stop. The cop gets out, opens the  back door, and pulls Andy out. He pushes Andy towards the building.
+6) 2) text: The cop gets in the car and drives away. Andy staggers to the gate in a daze and fumbles with the keys.
+7) 0) text: Andy walks up to the apartment door. Disoriented and shak he manages to open the door and walk in. He locks the doo and switches on the lights. He looks out the small PEEPHO No sign of anyone or anything. He leans back against the  door and rubs his hands across his face.
+7) 1) dialog: Oh god. Je suis seriously messed  up...
+7) 2) text: There's a DRIPPING sound coming from the kitchen. Andy lo across the living room into the dark kitchen. The DRIP  continues. He steps forward cautiously. Suddenly he feels something and looks down sharply. UNCLE TERRENCE, bloody stumps and all, is clutching Andy' legs and looking up at him desperately. He's trying to sp but can't seem to make a sound. Blood from his wounds soa the WHITE BEAR RUG beneath them. Andy's terror struck, he tries to jump away but falls  backwards to the floor. Terrence crawls up and gets close Andy's face. He croaks out two words in a rasp -
+9) 0) text: Andy lies passed out on the floor. Terrence is gone, and rug is free from blood.
+10) 0) text: Marcel sits next to the patrol cop, PEROTIN, who rescued  Andy. They're hysterical with laughter. Even LeDuc, sitti behind his desk, is chuckling.
+11) 0) text: THE SAME OLD BOOK, sitting on the coffee table. The pages are stuffed with notepaper place markers, many covered wi scribbling, and CHEMICAL NOTATION. In the background, on floor, is Andy - fast asleep and snoring where he collaps the night before. We hear a key in the lock. The door opens, smacking Andy the head once, twice.
+11) 1) dialog: Aoww! Hey! What the hell...?
+11) 2) text: He grabs the door so it can't hit him again. Serafine pok her head around and sees him. She's surprised, relieved,  elated. Andy's reaction is more disoriented, stunned.
+11) 4) dialog: Serafine...?
+11) 7) dialog: Yeah... Ditto. I saw, er, I thought  I saw you get munched... like Uncle  Terrence...
+11) 8) text: He looks over at the clean bear rug. Andy rises to his fe groggily. He looks down at the rip in his pant leg. He fe the torn fabric, trying to remember.
+11) 10) dialog: Um... sort of... Maybe... It's all  kind of blurry. We met at the club,  then... Damn, that was some weird  shit.
+11) 13) text: Andy's only half listening. He opens the window, and inha deeply. Across the court yard, a MATRONLY WOMAN leans out window, hanging her laundry. In the courtyard, Lulu the  obnoxious poodle YAPS at another resident, and Madame Chr calls her back. Andy's head is clearing. His mood lifting
+11) 15) dialog: (leaning out window) I was an Indian, actually. Man, that  damn psycho paint...! If that's  supposed to be mild, I don't want to  know about medium. (he looks at the woman  and smiles, the sun  on his face. To  himself:) The planet earth. It's good to be  back.
+11) 18) dialog: Yeah. Actually, I feel fan-fucking- tastic.
+11) 21) dialog: Hey, what more could I want? I  survived my first and last  hallucinogenic hellride, and neither  of us is dead. I'd say I feel almost  as great as you look.
+11) 25) dialog: Come on Serafine. Let's go out. Show  me the real Paris, the part that  isn't overpriced and overrun with  German tourists.
+11) 27) dialog: I know! Let's go hock loogies off  the Eiffel Tower!
+11) 31) dialog: What about food? Even beautiful women  have to eat. It's true. I read it.  Please? A half an hour? (pause. He sees she's  tempted) My treat? (she's smiling. He  resorts to begging) Pleez! Don't make go out there alone  again! I'm begging you!
+11) 33) text: Andy claps his hands together in triumph and scrambles to hold open the door for her.
+11) 35) dialog: It's okay. I can see fine.
+11) 38) dialog: Man! Our first date and already you're  trying to get me to change! You French  women work quick!
+12) 2) dialog: Now this is Paris!
+12) 4) text: - AT A BRASSERIE: Andy is about to escort Serafine into t trendy eatery, but she stops him at the door and points t the menu, or more specifically the prices. He makes a  horrified face, and they move on. - IN A BOULANGERIE: Serafine buys cheese, Andy buys meats the counterman shows Andy how big a slice off the pate lo he's about to cut. Andy nods "yes". The counterman cuts i and offers the slice. Andy shakes his head "no" and point to the much larger remainder of the loaf. - AT AN OUTDOOR MARKET: Detective Marcel, wearing a lame  "disguise" (new wave sunglasses ala "Diva"), watches Andy and Serafine shop from a distance. - IN A PATISSERIE: Andy points to a large baguette, says  something suggestive and winks boastfully at Serafine. Sh gives him a "yeah, right" look and points at a small  breadstick. - IN A WINE STORE: Andy looks at each bottle closely, the "tests" it by shaking vigorously. Serafine's amused. The  owner's baffled. - ON THE RIGHT BANK: Arms full of groceries, Andy and Ser pass the row of outdoor pet stores near the river. Andy l longingly at the live ducks in their cages. Serafine pull him along. MUSIC fades out.
+13) 0) text: Andy and Serafine sit on the river bank facing a magnific Paris vista. Serafine unpacks the food.
+13) 2) dialog: So tell me, exactly which truck driver  did you study English with?
+13) 4) dialog: Like I should talk. Monsieur foot-in- the-mouth. I'm really sorry about  that whole Woody Allen thing...
+13) 6) dialog: That's what counts. If you're not  passionate about it, don't waste  your time. That's why I quit  college... Plus I'm a lazy bastard. (They raise their  cups. Andy taps his  forehead.) Wait, I know this... A votre sante.
+13) 9) dialog: This looks familiar...
+13) 11) text: She gestures across the river. Andy looks at the gorgeous panorama.
+13) 12) dialog: Yeah, I gotta admit, you French are  pretty good at beautiful.
+13) 14) dialog: I bet you're pretty good at this  too.
+13) 17) text: He shakes his head "no" and moves towards her. They kiss  tenderly. They separate and share a deep, passionate look They kiss again, hungrily, falling into a passionate embr They're really going for it. Her NAILS dig into his back. pulls her body into his until they look like one form - j like Rodin's sculpture. APPLAUSE and CHEERS break the moment. A TOURIST BOAT is  gliding by on the Seine, it's ELDERLY PASSENGERS applaudi the young couple. Serafine pulls away, blushing a little, and turns to the boat. ANDY doesn't even notice the boat. He's staring at Sera fine with a scary kind of intensity. She starts to say something but he starts kissing her aga cutting her off. Suddenly he's out of control, pawing at her... It takes a effort for her to pull back from him.
+13) 21) text: Andy blinks and seems to come a couple of steps back to  normality.
+13) 22) dialog: What? Aren't I a good kisser? What's  the matter?
+13) 26) dialog: Serafine...
+13) 28) text: She runs up the steps to street level. Andy watches her g He turns back to his glass of wine and chugs it. He puts bottle to his lips and takes a long belt. He picks up the big block of pate and bites into it like a piece of cake. likes it. He takes another huge bite. He looks after Sera He gets up.
+14) 0) text: Serafine puts her "telecarte" into the pay phone and dial She looks anxious, upset. We hear the phone ringing at th other end. Behind her, Andy comes into the cafe. He walks to her, pissed off.
+14) 1) dialog: Fixing your makeup with a phone,  huh? Who the fuck are you calling?
+14) 3) dialog: Roussel? You mean Claude? You're  calling Dr. Demento so he can come  paint my face again? Fuck that.
+14) 4) text: Andy starts backing away.
+14) 7) dialog: What, you think you're gonna catch  fucking leprosy from me? Fuck that  shit! If I'm not good enough for you  I'll find someone else!
+14) 13) text: She drops the phone and runs out of the cafe. On the side she looks in all directions. Nothing. Andy's gone.
+16) 0) text: Music cue: "Wolf Call" by Elvis Presley. Andy pays for a  crepe at one of the roadside stands, and eats it as he wa along the narrow sidewalk, still brooding about Serafine. stops to gawk at the PRETTY GIRLS that pass by, and bumps into a young FRENCH TOUGH with a ROTTWEILER.
+16) 2) dialog: Ah, bite me!
+16) 3) text: He glares at the tough and his growling dog. The dog sudd shrinks back in fear and decides it's time to leave. He p his owner along. Andy continues on his way. He ditches th half finished crepe. That's not what he's hungry for. Andy comes upon a trendy little CAFE with several tables diners eating in the open air. Andy notices an attractive young blond sitting alone, thumbing through a "Let's Go"  guide. This is AMY SINGLETON. Andy approaches confidently
+16) 4) dialog: Ahem. Did you know that, according  to the "Let's Go" code of conduct,  whenever two Americans meet in Paris,  the one with the sexiest smile has  to buy dinner?
+16) 6) dialog: Damn! You win!... Waiter! Garcon!
+16) 9) dialog: What a coincidence, I am someone! (sniffs) Mmm. Calvin Klein's Obsession. Now  it's mine too.
+16) 10) text: She laughs. The waiter arrives to take their order. Andy  hands him the empty half bottle of wine from Amy's table.
+16) 11) dialog: Hi. Another, bigger bottle for this  ravishing blue eyed Goddess and  myself. And, avez vous le Steak  Tartar?
+19) 0) text: Three successive tables of upscale PARISIAN DINERS are ga at something. At one table, Inspector Marcel hides behind his menu, and shakes his head in disdain. We follow their glances to Andy, greedily licking the las bits of Steak Tartar off his plate. Amy giggles in amazem as she pours the last from the bottle of wine. She's a bi drunk - enough to be amused by Andy's antics.
+19) 2) dialog: It's all in the tongue. Another  bottle?
+19) 3) text: Amy laughs and nods "yes". JEAN-LUC, 25, a well dressed,  powerfully built Frenchman enters. He kisses Amy on both  cheeks, all the while watching Andy uneasily.
+19) 7) dialog: We're so much more than friends.  We're soul mates, sex slaves, pen  pals, the whole nine yards. Well,  nine yards is a slight exaggeration,  but believe me, for a white boy, I  got nothing to be ashamed of.
+19) 9) dialog: Hey, I'm kidding... It's a joke!  Here, maybe if I say it in metric.
+19) 10) text: Jean-Luc grabs Andy by the collar and pulls him to his fe
+19) 14) text: She tries to pull his hands off Andy, but Jean-Luc sends reeling back with a firm shove.
+19) 15) dialog: Hey, look man, she -
+19) 16) text: Jean-Luc brings his hand back and slaps Andy in the mouth
+19) 18) dialog: I don't know. Maybe it's so we can  drown out the sound of your mother  fucking the navy?
+19) 19) text: Jean-Luc takes a swing at Andy. With amazing reflexes, he dodges it deftly. Jean-Luc jabs - again Andy avoids it ea He smiles, impressed with himself. Jean-Luc is incensed. He goes for Andy's throat, but Andy catches him by the ar and, with superhuman strength, FLIPS him head over heels, through the air and - SMASH! - onto a nearby table. Andy casually leans past the semi-conscious Jean-Luc and  plucks a CHAMPAGNE BOTTLE out of its ice bucket. The WAIT is about to object, but thinks better of it. Andy takes A by the arm, she grabs the RED WINE BOTTLE, and they start off away from the cafe.
+19) 21) dialog: (amazed at himself) Yeah. Apparently.
+19) 25) dialog: Hope I didn't hurt him too bad.
+19) 27) dialog: Up to there? Really? I bet I could  beat that.
+19) 29) dialog: Ah. The mating call of the blonde.  The night is young, the moon is  bright, whataya feel like doing  tonight?
+20) 3) text: But Andy's still accelerating - transported to another pl Sweat pours from his brow. His face contorts with each gr but now it's hard to tell if it's from pleasure or pain. body jerks violently and his skin suddenly blushes bright red. Amy winces.
+20) 5) dialog: AHHHHHHH!
+20) 8) text: Andy's skin literally glows red, turning his sweat to ste He leaps off Amy and disappears into the sprawling cemete screaming in agony. Amy watches him go.
+20) 10) text: Marcel starts off after Andy, taking the wide route aroun Amy. Andy's scream echoes through the cemetery. Amy pulls her dress on.
+20) 12) dialog: red hot (literally), weaves through the tombs, screaming. comes to a small courtyard with an ORNATE FOUNTAIN. He di into the brackish water. Clouds of steam rise off the wat as he thrashes about under the marble goddess in the cent of the fountain.
+22) 0) text: Andy wakes up in a cold sweat, naked on his Uncle's couch The phone is ringing. He looks disoriented, confused. We  hear Madame Chretien screaming in the background.
+22) 1) dialog: Jesus...
+22) 3) dialog: Hello?
+22) 5) dialog: No, I don't think so... I was having  a nightmare. Wait a second...
+22) 7) dialog: I don't... I... I can't remember...
+22) 9) text: She hangs up. Andy is very confused. He sees the front do it's ajar and the door frame has been splintered where th deadbolt sits. Stunned, he stands up, only to double over with a wave of nausea. He covers his mouth and runs stoop over to the bathroom. He leans over the toilet and vomits. After a few heaves h body relaxes and he catches his breath. He opens his eyes and looks down in the bowl - horror and disbelief sweep o his face as he focuses on:
+22) 11) dialog: Oh no... no...
+23) 0) text: We're close on a metal body drawer. A TECHNICIAN pulls it open, revealing a severed human foot, nothing else. LeDuc, Andy, and the technician stand by the drawer in th dreary room. LeDuc never takes his eyes off Andy's face.
+23) 2) dialog: What?!
+23) 6) dialog: (nervous) You, uh, you want to tell me what  this is about?
+23) 9) text: A little exasperated, LeDuc and Andy go over to see what technician has found. Once again, LeDuc gives him the nod He opens the drawer to reveal
+23) 12) dialog: Oh shit... No...
+23) 14) dialog: Oh no... no....
+23) 17) dialog: (overcome) This is... it's like a sick joke, I -
+23) 18) text: LeDuc grabs Andy by the collar and slams him against the  wall
+23) 22) dialog: But... I don't remember anything, I  swear...
+23) 24) text: He leaves the room. The technician leaves too. Andy's alo staring at the corpses. Through the window, he can see Le arguing loudly with his superior... Andy tries to breath  deeply, calm down. He turns back to look at Amy's corpse. Suddenly, her eyes - well, her eye - snaps open and looks straight at him!
+23) 26) dialog: Aaaaa! Jesus! This isn't happening.  I'm still hallucinating. Shit!
+23) 27) text: Andy storms around in a fit of disbelief.
+23) 37) dialog: No it isn't! You're dead!
+23) 40) dialog: Aaaaa!!! Get the fuck away from me!
+23) 43) text: Andy blinks hard. Every time he opens his eyes, Marcel an Amy are still there, hideous as ever, staring at him.
+23) 44) dialog: Okay... dead or undead... what do  you want from me?
+23) 46) dialog: Uh huh... And, supposing I believed  that, what could I do about it?
+23) 50) text: Andy buries his head in his hands.
+23) 55) text: The chief leaves. LeDuc scowls. He looks in at Andy, stil gesticulating wildly and talking to thin air. LeDuc reent the room and looks at Andy bitterly.
+23) 57) text: Andy looks from LeDuc to the drawers and back again.
+23) 58) dialog: Me?
+24) 0) text: Andy walks past Notre Dame, flanked by Marcel and Amy.
+24) 4) text: Andy stops in his tracks - overwhelmed, desperate.
+24) 5) dialog: Look, I didn't mean to hurt anybody...  God, I didn't mean to... to...
+24) 7) text: Andy slumps over, beaten. Amy puts her arm around him. Ma pats him on the back. They start him walking along.
+24) 10) text: HOOOOONNNNK!! Andy looks up to see a speeding bus about t flatten him. Amy and Marcel have lead him into traffic. H jumps back and the bus just grazes him. Of course, it pas right through Amy and Marcel. They're still standing ther when it's gone.
+24) 13) text: Andy's adrenaline is pumping. There's still some fight in him.
+24) 14) dialog: Fuck you! If I'm gonna kill myself  I'll do it when I'm good and ready!  You can go to hell!
+24) 16) text: Andy socks Marcel and breaks his jaw - off. It skitters o into the street. He punches him in the gut - SKLURCH! His fist gets stuck in the tangle of Marcel's abdominal organ While Andy tries to pull his hand free, Amy rears back an kicks him in the balls. He wrenches his hand loose and  staggers back, clutching his groin.
+24) 17) dialog: Hey, you can't kick me! You're an  apparition!
+24) 21) text: He socks Andy in the mouth. Andy shakes it off, rips Marc arm off, bashes him in the face with it, then turns aroun and uses it to beat Amy over the head. Meanwhile...
+24) 24) text: Francois nods philosophically. Meanwhile, back in Andy's  reality... Marcel has got him in a full Nelson and Amy is punching h in the stomach. He bucks forward, wrenching both of Marce arms off and slams them together onto Amy's head, knockin her down. Andy waves Marcel's arms in triumph.
+24) 25) dialog: Ha-ha!
+24) 28) text: The truth of this question hits home with Andy. A heavy  expression falls over his face, one of grave sadness, but also inner dignity. He breathes deeply and exhales.
+24) 29) dialog: Alright. Let me write a letter.
+25) 0) text: Music cue: Thelonius Monk's "Round Midnight". The NEWS ST MAN hands Andy some stamps. Andy sticks them on a letter  addressed to Mr. and Mrs. William McDermott. He starts wa away but a postcard in the display rack catches his eye - it's Rodin's " The Kiss". He looks at it sadly.
+25) 3) dialog: Hey, Serafine, I hope you're checking  these. It's Andy. So I guess you  knew what was wrong with me yesterday.  Unfortunately it took me until today  to realize it, and because of that  two people are dead. If you didn't  know, well, shit, it's irrelevant  now. I know what I have to do, but  before I do it I just wanted to say...  I don't know what would've happened  with us, but I'm really glad I had  the chance to know you even if it  was only a couple of days and... I  don't know... I probably wouldn't  have the nerve to say this if I was  gonna see you again, but I think if  I had the chance to kiss you one  more time I would've fallen totally  in love with you.
+26) 1) dialog: Oh well... Bye Serafine.
+26) 2) text: Serafine snatches the phone off the receiver just as Andy hangs up. She gets a dial tone. She's very upset.
+26) 7) text: Amy nods. Andy exits the phone booth and approaches them. "Round Midnight" fades out.
+26) 8) dialog: Let's do it.
+27) 0) text: Andy drains the last of a bottle of Jack Daniel's and wob along, totally smashed and a bit wistful, with Amy and Ma in tow.
+27) 1) dialog: What the hell, lots of my heroes  killed themselves. Hemingway, Van  Gogh... um... Herve Villachaise...
+27) 5) dialog: When they ask how I died, just tell  'em... Ei-ffel.
+29) 0) text: We're looking at the elevator doors. They open. Andy stri out onto the deck, through the milling TOURISTS, flanked Marcel and Amy.
+29) 1) dialog: There's only one thing certain in  life - each of us owes God a death.
+29) 2) text: Proud, determined, Andy arrives at the six foot wire mesh fence and quickly scales it. Amy and Marcel follow. Nearb tourists are alarmed and a clamor of concern rises up. Th with camcorders jockey for position.
+29) 3) dialog: All we can do is make sure it's a  good one.
+29) 4) text: Andy gets over the fence and stands on the small ledge. A and Marcel join him. The tourists gasp. Andy glances down THE PRECIPITOUS DROP. He turns suddenly pale.
+29) 5) dialog: Shit. I feel sick.
+29) 7) dialog: Puking on yourself in midair is not  a good death.
+29) 13) text: Andy looks woozy. Tourists are trying to dissuade him in  Italian, Japanese, Icelandic, etc. Marcel tries a new tac
+29) 16) text: Amy coaxes Andy's hand off the fence. The crowd gasps. An grits his teeth and focuses again.
+29) 18) text: They jump, but Andy stops short - GASTON is leaning over fence and has Andy by his shirt.
+29) 28) dialog: Man, I don't know what the fuck you're  talking about.
+29) 30) dialog: My uncle's in a coma you moron!
+29) 32) dialog: He didn't tell me anything. All he  said was Saint Severin...
+29) 33) text: Andy swallows the word "Severin", remembering something a he speaks. Suddenly wheels are turning in his head.
+29) 35) dialog: Or else what? You'll kill me?
+29) 37) dialog: You'll never get the chance.
+29) 38) text: Andy pulls backward as hard as he can, jerking Gaston off balance. He's trying to pull them both to their deaths, b Gaston grabs a STEEL POST with his free hand. Andy hangs below the ledge, pulling Gaston's arm down wit all his new superhuman strength. But Gaston pulls back ju as hard. Andy sees The STEEL POST start to bend. He looks into Gaston's FERAL STARE and understands...
+29) 39) dialog: It was you! You son-of-a-bitch! You  got my uncle!
+29) 42) dialog: Bullshit! You're bluffing!
+29) 44) text: This gives Andy pause.
+29) 45) dialog: Claude...?
+29) 47) text: Andy stops pulling. He looks uncertain - maybe Gaston is  right... But then - SNAP! The post, which has bent all th way over into a "J" shape, snaps its weld. Gaston and And plummet towards the ground nine hundred feet below. The  tourists gasp. Using the bent pole as a hook, Gaston snares a HORIZONTAL ANTENNA which sticks out of the tower about fifty feet un the observation deck. He stops short and dangles there, s gripping Andy by the arm. The tourists CHEER. Meanwhile,  nine hundred feet below...
+29) 52) dialog: Yeah, okay. Just gimme a minute to  freshen up.
+29) 56) text: Gaston can't resist posing as the cameras flash - he suck in his cheeks, purses his lips and does his best "Mickey  Rourke". Andy looks at him, incredulous.
+29) 57) dialog: I must be in Paris. Even the  werewolves are poseurs.
+30) 0) text: Gaston and Andy endure the elevator ride together.
+30) 1) dialog: So, if you and the nutty professor  are both werewolves, what do you  want with drugs? You like seeing  lots of pretty colors when you're  tearing people's throats out?
+30) 3) text: They step out of the elevator and up to the apartment doo Andy takes his key ring out and tries the lock. The key w turn. Andy jiggles it.
+30) 4) dialog: Damn...
+30) 7) dialog: Hey, I'm new here, what do you want?
+30) 8) text: Andy tries a third key. No good. More jiggling.
+30) 10) text: The fourth key works. Andy pushes the door open. Gaston s him in roughly and steps in after him.
+31) 0) text: Gaston shuts the door behind him and walks over to Andy, scans the room nervously, unsure of his next move.
+31) 2) text: Andy's eyes come to rest on the end table drawer, where  Serafine had put the gun before... He advances toward it.
+31) 3) dialog: (patronizing) Okay, okay. I got your magic medicine  right here, dogboy. Just -
+31) 4) text: Gaston grabs Andy's hand before he opens the drawer.
+31) 6) dialog: (beat... incredulous) Sure. Don't you?
+31) 7) text: He shoves Andy away and opens the drawer... no gun. They  hear a pistol COCK behind them.
+31) 10) dialog: Hey, hey... shhh. It's okay now...  La Femme Nikita strikes again.
+31) 13) text: She embraces him again, but Andy gently frees himself.
+31) 14) dialog: I'm not alright. We both know that.  The only reason I'm here now is to  warn you. You're still in danger.  Gaston told me that Claude has got  the curse too. He's a werewolf.
+31) 16) dialog: What?! He told you? When?
+31) 17) text: Andy hears a familiar voice behind him.
+31) 19) text: Andy spins around to see Claude standing by the hallway t Terrence's office. Andy reaches for the gun and points it him.
+31) 20) dialog: You two faced bastard. I knew you  were full of shit.
+31) 22) text: She puts herself between Claude and the gun barrel. Andy  pushes her out of the way.
+31) 23) dialog: Serafine! Move! Don't you see, he's  just after the drug, that ADM stuff.  He's using you to get to it, just  like he used Uncle Terrence.
+31) 24) text: Claude approaches Andy, speaking calmly.
+31) 26) dialog: Why the fuck would I do that?
+31) 28) dialog: A cure?
+31) 30) text: Andy is shocked, stunned, skeptical. He bluffs with the o card he's got.
+31) 31) dialog: Is that so? Maybe we should go to  Saint Severin church and make sure,  huh?
+31) 34) text: Andy and Serafine share a heavy look. He hands her the gu
+31) 36) dialog: (shaking his head) I had to be a damn Hemingway hero.  Well I'll tell ya, the old man and  the sea didn't go through half this  shit.
+32) 0) text: Sheets of rain crash down over this ancient gothic church Sharing an umbrella, Andy and Claude walk inside.
+35) 0) text: An evening mass is in progress. The boy's choir fills the church with a solemn hymn. Andy follows Claude to a narro staircase. An OLD WOMAN gives them the evil eye and cross herself as they pass. Claude and Andy go up the stairs an arrive at a balcony under a magnificent wall of ancient  STAINED GLASS. One of the panels catches Andy's eye.
+35) 1) dialog: Whoa...
+35) 2) text: THE PANEL shows a weird medieval ritual - a man draining  blood from another man's neck into a goblet. ANOTHER PANE features a pentagram. ANOTHER PANEL shows a huge werewolf eating a monk under a frowning sun. All the transcription are in Latin. Claude signals Andy to follow him.
+35) 10) dialog: (skeptical) Yeah, well what if it's the Weekly  World News...
+35) 12) text: Startled, Andy turns to see Amy and Marcel, a little wors for wear, standing behind them.
+35) 15) text: Marcel reaches into his own chest cavity, rips out his ow slimy purple heart, and thrusts it in Andy's face.
+35) 17) text: Andy grimaces and turns back to Claude.
+35) 19) dialog: What?... Oh, right, you can see these  guys too. Jesus... (he rolls his eyes)
+35) 23) text: Claude nods "thank you". Andy's had enough.
+35) 24) dialog: Great. Later on we'll have to get  together for cocktails. Right now I  kinda have to hurry before I grow a  lot of hair and eat people. (to Claude) Say this heart thing works. What's  it got to do with ADM?
+35) 26) dialog: Uncle Terrence.
+35) 28) dialog: Because Gaston was after it.
+35) 31) dialog: Yeah, I know. Back to the Eiffel  Tower. (to Claude) And what about you?
+35) 36) dialog: Eight o'clock. Shit. You'd think my  uncle would have left a clue, a note,  something...
+35) 38) text: The wheels in Andy's head are turning. He looks over at A and Marcel. He smiles. He's got an idea.
+36) 0) text: Andy and Serafine walk down the corridor of the Terminal  Ward. Andy looks determined. Serafine looks upset.
+36) 2) dialog: I told you. He already tried to  contact me once. If you saw his  face... He was desperate to tell me  something. I owe him this.
+36) 4) dialog: Listen, either he wastes away as a  pathetic vegetable or he can give  what's left of his life to save  hundreds of potential victims. He's  a McDermott. I know what his choice  would be.
+36) 7) dialog: Fine. You don't have to watch. Stay  out here and stand guard.
+36) 8) text: She nods. Andy goes into
+36) 10) dialog: Hey. We meet again... Look, I know  you understand what I'm about to do  here. I think. But I hope you forgive  me anyway.
+36) 11) text: Andy takes a deep breath. He leans down to the transforme and opens the safety cover, and flips the power switch. A the machines power down. Suddenly the old man in the bed sits up, gasping, and cla at the walls of the oxygen tent. Oh my God! It's NOT  Terrence!! Andy nearly soils himself, diving down to fumb with the transformer, suddenly all thumbs. He switches th power on again.
+36) 14) dialog: So. You moved...
+36) 16) dialog: You don't look happy... Um, I don't  usually go in for this stuff, but... (He crosses himself,  and says a silent  prayer) Amen.
+36) 17) text: Andy leans down, opens the transformer box, and flips the power switch. The machines power down - all except the EK monitor, which shows a flat line and emits the familiar s tone. Andy switches off the monitor. Silence. Terrence's body is completely still, peaceful. He leans d over its face and speaks in a soft voice.
+36) 18) dialog: Uncle Terrence? Can you hear me?
+36) 23) dialog: Come on... Skip the undead orientation  and get down here.
+37) 0) text: Andy is beside himself with stress. He shakes Terrence's a little to rouse him. Nothing. He tries a little harder  shake... The door opens. It's Serafine, also in a panic.
+37) 2) dialog: Shit. What have I done? (to Serafine) Stall them! I'll meet you out back.
+38) 0) text: Andy can hear Serafine arguing outside the door. He looks out the window to the three story drop into the alley bel
+39) 0) text: Andy runs behind a nearby dumpster to avoid being seen fr the window above. He kicks the wall in frustration.
+39) 1) dialog: Damn it!!
+39) 2) text: A voice calls out from behind Andy.
+39) 4) text: Andy spins around and sees Terrence, the undead version,  perched atop some trash bags, scratching himself.
+39) 5) dialog: Uncle Terrence?
+39) 7) dialog: Yeah. Look, uncle Terrence -
+39) 10) dialog: Sort of...
+39) 14) dialog: Great, but listen, I need to know  where you hid the ADM?
+39) 16) dialog: I went to St. Severin church. (Terrence reacts "I  see...") Now look -
+39) 20) dialog: The ADM! Quickly! Where is it?!
+39) 23) dialog: Where is it! Please!
+39) 27) text: Andy turns towards Serafine, then back to his uncle, but  Terrence is gone.
+40) 2) dialog: I saw him. Just before those bastards  zapped him back. The ADM is in the  wine cellar, in a bottle of Chateau  Margaux.
+40) 4) dialog: Guess that's why he hid it there.  Let's go.
+40) 8) dialog: Dammit! C'mon!
+40) 11) text: Andy looks around desperately. A GUY pulls his motorcycle out of its parking spot and starts up the street towards  Andy. Andy jumps out in front of the accelerating bike an grabs the handlebars, stopping it short, sending the ride tumbling forward, over Andy. He lands on his butt in the  street and starts yelling at Andy, who climbs on the bike
+40) 12) dialog: Sorry... I'll bring it back.
+40) 16) text: She shuts her eyes as Andy zooms between the rows of stop cars and roars through the red light. SCREECH!! Crossing  cars slam on their brakes and swerve to avoid the speedin bike. Andy bears down on the next red light.
+40) 18) dialog: Before Hemingway, there was Starsky  and Hutch.
+40) 19) text: Andy speeds through more stopped cars and runs the next r light. SCREECH!! More swerving cars. Andy has to swerve  himself to avoid one. He bears down on the next light.  Meanwhile...
+40) 25) dialog: Shit!
+40) 28) text: Andy and Serafine put up their hands. The first cop goes  back to check the police radio, which is beeping. The sec cop keeps his gun aimed at Andy's head. He's furious.
+40) 34) text: Serafine curses again. Andy tries to calm her down. The  arguing escalates... In the car, the first cop is talking the radio.
+40) 43) dialog: Merci.
+40) 44) text: Serafine smiles at the second cop. Andy peels out, races  through the red light and disappears down the boulevard. cops watch them go, then turn to each other. The second c is apoplectic - about to explode.
+41) 0) text: Rene and Francois speed off to keep pace with Andy. Rene dialing his cellular phone. As they pass the other police car, we glimpse the two cops in an angry shoving match ag the car. Rene's call goes through.
+43) 7) text: She pulls out her gun. BLAM! BLAM! She blasts the gas tan WOOF! The bike goes up in a fireball. Serafine nods,  satisfied. Andy looks at her like she's nuts. They rush i the courtyard.
+43) 12) text: Serafine fires again - BANG! The shot misses as Gaston hi the deck and draws his gun in one very fast motion, takin aim at Andy who's rushing towards him.
+43) 14) text: Andy stops, Gaston's gun aimed at his chest. Serafine ste slowly towards Gaston, her gun aimed at him.
+43) 16) dialog: Go ahead Serafine. Blow him away.
+43) 23) text: Serafine's expression turns confused, horrified. Andy is  shocked. She drops the gun. Claude picks it up and pocket it, keeping his gun on Serafine, who stares at him, aghas
+43) 24) dialog: You bastard! God! I should've known.  You wanted the cure all for yourself!
+43) 26) text: Andy and Serafine react with confusion to Gaston's outbur Claude picks up the metal cylinder and unscrews its cap w his free hand. He slides out a vial filled with amber flu and holds it to up to the light. He smiles.
+43) 30) text: He pockets the vial, pulls out the white "cyanide" tablet and pops it in his mouth. Andy reacts with shock.
+43) 34) text: She picks Claude up and hurls him across the room. CRASH! Claude smashes into a rack of wine bottles. Serafine jump after him and dives on top of him pummeling him in a blin rage. Andy looks at her, agog.
+43) 35) dialog: Wait a second...
+43) 36) text: He and Gaston notice Claude's gun at the same time. They  both dive for it. Andy grabs it but Gaston steps on his h and aims his gun down at him.
+43) 38) text: He cocks the gun. Andy lets go of Claude's gun. Gaston pi it up and aims one gun at Andy and the other at Serafine, who's wrestling with Claude. Claude throws her off and sh lands on her butt next to Andy. Andy looks at Serafine.
+43) 39) dialog: What the fuck!? You too!?
+43) 52) dialog: Ha. Some wonder drug...
+43) 57) text: Andy and Serafine put up their hands. Gaston brandishes h guns at the cops, then sees the six guns aimed at him and drops it. LeDuc walks in.
+43) 66) text: Claude frowns. Gaston swears. Andy looks at Serafine, sho and confused. She looks back at him, angry and sad.
+45) 0) text: Serafine hangs her head sullenly, in a quiet rage. She wo meet Andy's gaze. He looks over at Claude and Gaston. Gas is restless, edgy. He grabs Claude by the collar and shak him.
+45) 2) dialog: Looks like he lied to you too.
+45) 5) text: Andy looks back at Serafine. He shakes his head in disbel
+45) 6) dialog: Now I remember why I didn't want to  come to Paris. Everyone you meet is  a goddam werewolf!
+45) 9) dialog: Yeah. French fries...
+45) 17) dialog: It killed him... You coulda just  used Draino. It's cheaper.
+45) 19) text: Claude takes a folded PAPER CUP from his jacket pocket. H blows into the cup to bring it back into shape. He then t a SHARPENED STEEL TUBE from his pocket, plunges it into  Gaston's neck, and fills the cup with the blood that pour forth. Andy and Serafine are horrified. Claude puts the c of blood to his lips and pauses.
+45) 25) dialog: Fuck me...
+45) 26) text: Claude rises to his feet, triumphant. He advances towards Andy and Serafine, backing them up against the rear doors the van. He gently traces the outline of Serafine's face  with his werewolf hand. She bristles at his touch.
+45) 28) dialog: You sure it's not just 'coz you jerk  off too much?
+45) 29) text: Claude cocks his werewolf fist and SLAMS it into the back doors, inches from Andy's head. He leaves a deep dent, an opens the doors just a crack. It's a gesture that seems  calculated to frighten them. It works. Claude holds up his LEFT ARM and transforms it to match h right. It takes some effort and a little pain, but he kee a smile on his face throughout the process.
+45) 34) text: He stops short as Claude turns around, revealing his mons arms. Mortified, the cop reaches for the SHOT GUN under t dash. Claude races up towards the view window. As the gua pokes the muzzle through the window, Claude grabs hold of it. BLAM! The guard's shot hits the side wall. Claude rip the gun from the guard angrily, and smashes it to pieces  against the wall, grinning like the devil himself. Meanwhile ANDY throws himself at the doors, kicking them, trying in vain to break them open. He spots the SHOTGUN B on the floor and grabs it. CLAUDE reaches through the window and grabs the guard by head. He repeatedly smashes the guard's head against the  back wall of the cab.
+45) 36) text: The driver freaks out, seeing his partner get his head  crushed. THE PADDY WAGON swerves all over the road. ANDY uses the shotgun barrel to twist open the lock on th van doors. As the vehicle swerves, he drops the barrel ou the door, and falls over. He calls to Serafine.
+45) 37) dialog: I need your help. Come on.
+45) 38) text: She joins him and together they take a run at the back do The doors open a little, but the lock still holds. Finished with the guard, Claude turns and sees what Andy Serafine are up to.
+45) 40) text: Andy and Serafine take another run - it works. THE DOORS  bust open, and Andy and Serafine, still handcuffed, go  tumbling out into THE STREET, rolling on the pavement. SCREECH! HONK! Cars swerve to avoid them, just barely. CR A minivan plows into a parked car. Claude watches from th back of the van. He rears his head to the moon and smiles IN THE CAB of the paddy wagon, the driver hears an uneart howl. It's hellish. Without looking away from the road, h points his pistol through the hole in the compartment. He adjusts THE MIRROR to see into the rear compartment - The back doors are hanging open. He steals a look over his  shoulder - Other than Gaston's corpse, it's empty... He  breathes a sigh of relief and turns back to the road as - A HUGE WEREWOLF - Claude fully transformed - bursts throu the windshield and rips into him. THE PADDY WAGON is traveling over the Pont Neuf bridge. A GASOLINE TRUCK approaches from the other direction. The  werewolf leaps off of the hood just as the paddy wagon,  swerving all over the road, hits the gasoline truck head KA-BOOM!! Both vehicles explode in a fireball, smash thro the side wall of the bridge, and plunge into THE RIVER.
+46) 9) dialog: Serafine?
+46) 11) dialog: Get out of here! Go on! Move it!
+46) 13) dialog: Serafine... Get up, come on...
+46) 14) text: Andy brushes away the hair from Serafine's face. He feels her neck for a pulse - she has one. But as he takes his h away, he notices a smudge of BASE MAKE-UP has rubbed off his fingers. He looks at the back of Serafine's neck and  sees that the makeup had been covering A SCAR. It bears t unmistakable star shape of the wound Andy inflicted on th werewolf that bit him. Horrified, he stands and backs away a few feet. Serafine  opens her eyes, sees him.
+46) 16) dialog: It was you... That night in the  tunnels. You. You did this to me.
+46) 18) dialog: That's the scar where I stabbed you!  Oh God... You deliberately took me  down there so you could... God, I  can't believe it!
+46) 21) dialog: What was I? Your idea of a fuckin'  hors d'oeuvre? Huh?
+46) 23) text: She walks over, grabs a steak knife from one of the outsi tables at the bistro, and charges at Andy, pulling open h shirt... She offers him the knife, and pounds at her hear
+46) 25) dialog: What...?
+46) 27) text: Enraged, Andy takes the knife. He and Serafine lock eyes. For a second he's tempted, his blood boiling, heart pound
+46) 28) dialog: You're crazy.
+46) 30) dialog: This is all crazy!
+46) 33) text: Andy just stares back at her, not knowing what to say. It all too much to believe. He shakes his head. He tries to but she moves in front of him. She's determined.
+46) 35) dialog: (softening) I couldn't do it. Not to you.
+46) 36) text: He sees her looking up. He follows her gaze to the FULL M It's getting late. Andy shudders, wipes the sweat from hi brow. He's already starting to feel the heat in his blood
+46) 38) text: Andy takes her hand and guides the knife away from her ch
+46) 39) dialog: I know... I'm already burning up...  Look, I'm not going to go through  this another night either. But we  still have some time to get Claude.  He'll just kill more people, and  spread the curse.
+46) 42) dialog: No. We have to try. We'll figure  something out. And if midnight comes  before we can get to him, well, then  we go together. Deal? (he extends a cuffed  hand) Shake a paw?
+46) 45) dialog: Where?
+46) 47) text: Andy looks at her. He knows what she's driving at.
+48) 0) text: Andy and Serafine emerge from the tunnel, wearing grim,  determined expressions. The party is in full swing - thro beats and sweaty dancing bodies. They walk straight acros the dance floor, pushing their way through the crowd. Amo the variety of freaky types here, no one raises an eyebro at two people in handcuffs. Serafine, who's scanning the room, is approached by a lea clad HIPSTER GUY.
+48) 2) text: He goes to kiss her on both cheeks. Without breaking stri she puts her handcuffed hands on his face and shoves, sen him reeling. Serafine points out a gang of four militant skinheads off a corner. Andy nods and smiles.
+48) 3) dialog: This could be fun.
+48) 4) text: They make their way to the skinheads. Andy walks up to th SKINHEAD LEADER, who's got a swastika tattoo, a bad  disposition, and a fifty pound advantage on Andy.
+48) 5) dialog: I got something you want. Follow me.
+48) 6) text: Andy and Serafine walk into A SMALL CHAMBER off the main  space. The skinhead signals his mates to come along, slip on some BRASS KNUCKLES, and follows Andy into
+48) 9) dialog: I got Hitler's dick in a jar. And  the funny thing is it's still in  Goerring's mouth.
+48) 10) text: The skinhead turns red with rage and throws a punch at An head. With lightning speed, Andy grabs the skinhead's fis twists his arm around his back and hurls him across the r He slams face first into the stone wall and collapses on floor with a THUD. Simultaneously, the other three skinheads attack. Serafin BASHES one across the face with both fists, sending him t the floor. The other gets her in a headlock from behind. runs backwards and - SLAM! - crushes him against the wall The third skinhead tries to kick Andy in the groin. Andy  grabs his boot and flips him over backwards - he actually does a full back flip and lands on his face. The leader groggily pulls a pistol and aims it at Andy. A snatches it out of his hand.
+48) 11) dialog: Didn't even have to ask.
+48) 13) text: The skinheads slide out some LEAD PIPES, a SWITCHBLADE,  another PISTOL, and an army surplus GRENADE. Andy and Ser scoop them up, except the lead pipes.
+48) 14) dialog: Neo-Nazis. Ya gotta love 'em. (to the Skinheads) Merci beau coup, monsieurs.
+49) 0) text: Music cue: "After Midnight (we're gonna let it all hang o Andy's gun is pressed against the chain on Serafine's  handcuffs - BANG! The chain is broken. BANG! She returns favor and his chain is broken. They walk into the DRIPPING, dank tunnel, away from the p which fades away in the background. Each carries a pistol and a flashlight. BEADS OF SWEAT appear on their forehead The tunnel tilts downhill. Heavier DRIPPING. They turn a  corner and... SLAM! Something barrels into them - it's a HYSTERICAL GIR She's about nineteen and splattered with blood. She SCREA uncontrollably. Serafine holds her by the shoulders, tryi to calm her.
+49) 4) text: She's off the deep end, flailing at Serafine, who keeps t to calm her down. There's no time for this. Andy presses gun to her temple. She shuts up and stares at him with wi terror stricken eyes.
+49) 5) dialog: (calm, firm) Ou est le monstre?
+49) 8) dialog: Merci.
+49) 9) text: He lets her go. She starts SCREAMING again and continues disappearing into darkness. Andy winces and holds his ear
+49) 11) dialog: Really.
+49) 15) dialog: He's alive. C'mon.
+49) 16) text: They hurry down to the landing, shine their light into th passage. The hand is severed, and A BIG RAT is dragging i along with some difficulty. A dozen or other rats munch o scraps of flesh scattered over a grisly mess of blood and body parts. Andy and Serafine stare at it for a moment.  Suddenly Andy looks away.
+49) 17) dialog: God. I can't believe it.
+49) 19) dialog: (disturbed) It's making me hungry.
+49) 20) text: A beast HOWL echoes through the tunnels. Serafine shines flashlight on some bloody beast foot/paw prints leading d the stairs. They follow the bloody prints down the stairs and come to ancient ARCHED DOORWAY with a skull set in the arch and a chiseled inscription. Andy points to the inscription.
+49) 21) dialog: What does it say?
+49) 23) text: Andy gestures back to the bloody remains.
+49) 24) dialog: We'll say we're with him.
+49) 27) dialog: Whoa...
+49) 29) dialog: Pretty stylish digs for a bunch of  paupers.
+49) 31) dialog: Right.
+49) 32) text: Another eerie HOWL echoes through the maze. Andy looks do both main tunnels - the howl seems to come from each of t
+49) 33) dialog: These tunnels must loop around and  connect.
+49) 35) text: Andy considers this.
+49) 36) dialog: Okay. Be careful.
+51) 0) text: Andy walks along carefully, shining the flashlight ahead him, his gun at the ready. His breathing gets heavier. Hi face gets redder. More sweat. His heart pounds in his ear The tunnel follows a serpentine path, with many smaller  passages and anterooms off to the sides. Andy sees some flickering light reflecting off the wet sk up ahead. He approaches it. It's coming out of AN ANTECHA He holds his gun out in front of him and steps quietly. H peers into the antechamber and finds
+51) 3) text: Andy looks up to see UNCLE TERRENCE, stumps and all, sitt across from him.
+51) 4) dialog: Uncle Terrence, you're...
+51) 6) dialog: Claude.
+51) 8) text: A SNARL cuts him off. Andy jumps up, steps out into the m tunnel and shines his light.
+51) 10) dialog: C'mon you mother...
+51) 11) text: BANG! A direct hit in the chest. The beast falls. Snarlin in pain. BANG! Andy blasts again, but the beast drags itself to th safety of a recessed area off the tunnel, out of Andy's l of fire. Andy walks forward, listening to the horrible wa of the beast, thrashing around in a puddle on the floor. Andy aims his gun and his flashlight as he nears the corn of the recess. The wailing and thrashing settles down. An proceeds cautiously. He rounds the corner, and shines the light on
+51) 13) dialog: No! Oh God!
+51) 15) dialog: Oh God. Shit...
+51) 17) text: She reaches up feebly and manages to grab the SWITCHBLADE from his back pocket. She clicks it open and hands it to  Andy.
+51) 19) text: Andy's shaking, shuddering - his breathing erratic.
+51) 20) dialog: No. It's over.
+51) 23) text: Andy looks up. Terrence, Marcel, Amy, and a dozen other  mutilated, rotting undead, presumably Serafine's victims, stand in the tunnel, looking on solemnly.
+51) 30) dialog: is shaking violently - on the brink of transforming. Sera raises the blade to him again. She's fading fast.
+51) 32) text: Andy winces with pain - his brow bulges, his teeth enlarg the transformation is starting. Uncle Terrence is worried
+51) 36) text: He rounds the corner and sees Andy hunched over Serafine' body. He keeps walking.
+51) 38) dialog: whips around, BLOOD streaming from his mouth, gun aimed,  grip rock solid, his features back to normal, eyes locked the beast with determined, controlled rage.
+51) 39) dialog: Feel this.
+51) 40) text: BLAM! BLAM! He pumps out two shots. One hits Claude in th upper left part of his CHEST. The other hits his CHEEK, e at the back of his jaw and shatters the cheekbone of A SK on the wall behind him. He screams in pain and dives for  cover into a SMALL INTERSECTING TUNNEL. Andy gets up, pausing for a second to look back at Serafi face. It looks peaceful. The undead are gone. He starts a Claude.
+51) 44) dialog: creeps around the corner, gun and flashlight aimed, towar the small tunnel. When the flashlight beam falls on Claude, he's in mid pou rocketing at Andy with bad intent. BANG! Andy gets off a  shot - it hits Claude in his THIGH as he tackles Andy. They wrestle, Claude in mid-transformation, his left side further along, hairier, his facial bones shifting. His th swells and ripples and THE BULLET SQUIRTS OUT of its woun His left arm, mostly transformed, grips Andy's gun hand.  BANG! Andy squeezes off a shot, blowing off the tip of  Claude's transforming THUMB. CRUNCH! Claude clamps his vice like grip and crushes the  gun. Andy wrenches his hand away as Claude hurls him off  like a rag doll. Andy flies through the air and SMASHES into the tunnel wa The wall of ancient SKULLS and BONES shatters and collaps around Andy - burying him in ossified fragments. Andy lifts himself out of the pile and looks at Claude, w lies on the floor finishing his transformation. His right side is catching up with his left and his head is now mor beast than human. All the while he glares at Andy and doe appear vulner able. Andy takes advantage of the moment to get the hell away - runs into the tunnel, leaving Claude behind to finish  transforming. Andy makes a few quick turns through the maze - it seems has evaded Claude for the moment. He pulls the GRENADE fr his pocket, turns off his flashlight and pads along softl listening for the beast. Suddenly a sharp sound from behind him makes Andy jump.
+51) 46) text: Andy turns around. A scared COP is aiming his gun at him, shining a flashlight in his face. Andy puts his hands up.
+51) 48) dialog: Shhh! Be quiet, man! We're not alone -
+51) 50) text: A ROAR cuts him off. The cop spins around - the beam from his flashlight flooding THE BEAST with light as it spring through the air at him. Andy runs.
+51) 60) dialog: is crouched at a corner of two catacomb tunnels, grenade  clutched in his hand. He hears something and carefully pe around the corner.
+51) 61) text: At the end of the long tunnel of bones, the beast lurks a another intersection, sniffing the air and growling, some forty yards away. Andy ducks back around the corner. He holds up the grenad pulls the pin, and whispers a quick prayer...
+51) 62) dialog: (to himself) Just throw a strike...
+51) 63) text: With a determined grunt, he pitches the grenade around th corner and then ducks back. Suddenly the beast's growling stops. Andy grits his teeth and closes his eyes, awaiting the explosion. Just silence. Then a small skittering soun close by. He opens his eyes.
+51) 65) dialog: Shit!
+51) 67) dialog: Ahh! Son of a bitch!
+51) 70) dialog: struggles to his feet. He clicks on his flashlight and se the blast has caved in the tunnel- a wall of rubble seals Andy off from the beast. Andy breaths a sigh of relief. At least he's got time. He starts limping away from the wall of rubble... SMASH!! The rubble explodes again as the beast crashes th it like a freight train, sending rocks and bones flying. Andy runs as fast as he can with his bad leg. The beast c in on him quickly. Andy jumps up for a NARROW OPENING in tunnel ceiling. He grabs the metal rung inside and pulls  himself up into the vertical shaft as the beast pounces. beast catches Andy's foot with its claw. Andy pulls out o his sneaker and just barely eludes the beast's grasp. Andy climbs up the metal rungs in this old service shaft barely wide enough for his body. The beast claws and gnas his teeth at the opening but can't fit in - for now. Andy reaches an iron grate, pushes it up and crawls out i
+51) 74) dialog: looks around in the tunnel. He sees something (we don't). limps off towards it.
+51) 77) dialog: crouches under a concrete ledge in a very dark space. Cla voice sounds distant, echoey, and competes with the close sound of trickling water.
+51) 81) dialog: huddles in his hiding place, looking out into the darknes
+51) 82) dialog: (to himself) C'mon already...
+51) 83) text: A glint of light appears in a puddle on the ground. Andy' eyes widen.
+51) 88) dialog: watches intently as the light in the puddle gets brighter It starts reflecting on the wet concrete walls of this tu
+51) 89) dialog: (to himself) Now.
+51) 90) text: Andy clicks on the flashlight, shines it at himself, and  yells for all he's worth.
+51) 91) dialog: HEY YOU DIRTY EVIL FUCK! C'MON AND  GET ME! I DARE YOUR UGLY ASS! (etc.)
+51) 98) dialog: huddled next to the passing train, clenches his fist in  victory.
+51) 99) dialog: Yes!
+51) 100) text: The train passes. Andy gets up and shines his flashlight  around the ground. The beasts body lies in chunks, smears and puddles. The parts begin morphing back into Claude's  human forms - A THIGH here, A PIECE OF SPINE there... LEDUC inches his way down the last few feet of the stairw using the rusty pipe for a handhold. He walks up with his flashlight and aims it at the BEAST'S HEAD, which finishe turning back into Claude's head. LeDuc glances at Andy. He takes a small envelope from his pocket and shakes out a single SILVER BULLET. He loads it into his gun and FIRES straight into Claude's lifeless he
+51) 102) dialog: What about me?
+51) 104) text: Andy looks at him carefully, trying to read him. LeDuc's  face is impassive.
+51) 108) dialog: You don't understand!
+51) 109) text: The prosecutor turns away towards the jury to mock Andy.
+51) 111) text: The JURORS snigger at Andy's expense. But wait, suddenly  they look concerned - something's wrong. The prosecutor  continues, his back to Andy.
+51) 113) text: He wheels around to Andy and comes face to face with
+52) 0) text: Andy wakes up with a start - a concerned STEWARDESS is le over him. Disturbed PASSENGERS crane their necks, peering him like he's nuts.
+52) 2) text: Andy looks around, getting his bearings. He takes a deep  breath and shakes it off.
+52) 3) dialog: Yeah. It was just, um... something I  ate.

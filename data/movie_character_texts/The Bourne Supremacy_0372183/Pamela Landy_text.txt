@@ -1,0 +1,169 @@
+46) 0) text: "The Hub". Secure, anonymous office space somewhere in th city. Shades drawn. Lots of gear cabled around. The stale, improvised feel of a temporary outpost. Four serious people alone in this room: PAMELA LANDY is 46. A Senior C.I.A. Counterintelligence Officer. Hovering over the communications console. CRONIN -- Pamela's #2 -- early forties, stone-cold facade quarterbacking the operation over the radio -- KURT and KIM are the techs here. His and Her headphones. Ruggedized laptops and comm gear spread around them.
+50) 5) dialog: (a bit surprised) Martin?
+51) 2) dialog: That's where we came out.
+51) 6) dialog: We're talking raw, unprocessed KGB files. It's not something we can go out and comparison shop.
+51) 8) dialog: For a thief. A mole. I vetted the source, Marty. He's real. If it does nothing more than narrow the list of suspects, it's a bargain at ten times the price.
+51) 10) dialog: Yes, sir. I'm in total agreement. If they're fakes, they're expensive. (furious, impatient) Gentlemen, I've got the seller on site and in play. Quite honestly, there's not much more to talk about. MARSHALL looks to his MANDARIANS. Not convinced, but doesn't want to lose the opportunity. Time to wash his hands.
+52) 1) text: All eyes on PAMELA as she puts down the phone to Langley. Nodding to CRONIN. Yes.
+63) 1) text: Crime scene. POLICE blocking OFFICE WORKERS from getting in the building. MEDIA vans clogging the street. PAMELA and CRONIN, across the street, watching. The mood is black. Ashes.
+63) 2) dialog: We need to get in there.
+66) 1) text: A folding table covered with XEROXED BERLIN POLICE PAPERWORK. PAMELA getting a show-and-tell from CRONIN and TEDDY.
+66) 3) dialog: And the Germans can't match it?
+66) 9) dialog: Do we know what this says?
+66) 11) dialog: What the hell is a "Treadstone?" CRONIN shaking his head. Nobody knows.
+67) 1) text: PAMELA'S POV as she drives toward the entrance.
+68) 0) text: A long, bright, sterile hallway. PAMELA and CRONIN walkin briskly alongside A UNIFORMED S.P.S. OFFICER.
+69) 0) text: PAMELA and CRONIN watching THE S.P.S. OFFICER unlock the operation panel. Coding in. They begin to descend and -- 99 100-102 103
+70) 0) text: Drab and desolate. PAMELA and CRONIN come around a corner walking with A NEW ESCORT OFFICER. Passing a sign that reads: Operations Library Center.
+71) 0) text: Sealed, triple-locked NUMBERED DOOR. It swings open. Lights flicker on. Tons of shit packed away in here. Shelves bulging. Boxes. Tapes. Binders. Hard drives. PAMELA steps in. A HUGE FILING CABINET labeled --
+71) 2) dialog: Ward?
+71) 4) dialog: Pamela Landy.
+72) 2) dialog: I was hoping you had some time for me.
+72) 4) dialog: I'm free right now actually.
+72) 8) text: THE BULLPEN. CRONIN is standing with DANIEL ZORN, one of Abbott's trusted #2s. Clearly ZORN is getting the less polite version of Pamela's invitation. ZORN managing to shoot a quick, questioning glance to Abbott as --
+73) 0) text: A cold room. Desk. Two chairs. ABBOTT and PAMELA alone.
+73) 1) dialog: Treadstone.
+73) 3) dialog: That's not gonna fly.
+73) 5) dialog: That's a warrant from Director Marshall granting me unrestricted access to all personnel and materials associated with Treadstone. ABBOTT rocked and trying to hide it.
+73) 7) dialog: I want to know about Treadstone.
+73) 13) dialog: (trump card) He does. I've been down to the archives. I have the files, Ward.
+76) 0) text: As they were. ABBOTT watching PAMELA pull a photo from he file. Sliding it over. CONKLIN'S FACE peering back.
+76) 1) dialog: Let's talk about Conklin.
+76) 3) dialog: I want to know what happened.
+76) 7) dialog: So you had Conklin killed. (silence) I mean, if we're cutting the crap...
+76) 9) dialog: And Bourne? Where's he now?
+76) 11) dialog: I think I do. We had a deal going down in Berlin last week. During the buy, both our Field Agent and the seller were killed. We pulled a fingerprint from a timing charge that didn't go off. (beat) They were killed by Jason Bourne. ABBOTT hesitates. Blindsided. What? A courtesy knock at the door.
+80) 5) dialog: Seven years ago, twelve million dollars was stolen from a CIA account... BOURNE takes a seat. CARABINIERI guards the room.
+81) 1) dialog: .-.in Warsaw. This is... CLICK -- A PHOTO of the man killed in Berlin fills the projection screen behind her -- CLICK -- crime scene phot of dead body -- CLICK -- "PECOS OIL" logo --
+81) 2) dialog: ...Ivan Mevedev -- senior financial Manager -- worked for one of the new Russian petroleum companies, Pecos Oil. He claimed to know where the money landed. We believe this could have only happened with help from someone inside the Agency... This...
+81) 4) dialog: (placing it on the table) ...this is Conklin's computer.
+81) 6) dialog: ..-At the time of his death, Conklin was sitting on a personal account in the amount of seven-hundred and sixty thousand dollars. x % He FH eH HH
+81) 11) dialog: Excuse me.
+81) 13) dialog: May I finish? *
+81) 15) dialog: What's definitive, is that I just lost two people in Berlin!
+81) 20) dialog: I think that Bourne and Conklin were in business. That Bourne is still involved. * (MORE )
+81) 22) dialog: And that whatever information I was going to buy in Berlin, it was big enough to make Bourne come out from wherever he's been hiding to kill again. (to Abbott) How's that scan? As the MANDARINS all start talking at once -- ZORN enters. Stands at the head of the table. Tries to get their attention.
+83) 0) text: The room is jumping. Agents tracking, working the phones and computers. PAMELA giving orders. ABBOTT watches. He eH HK
+83) 4) dialog: Who's going? Us?
+83) 8) dialog: (cuts him off) Then get a number, they need to know who they're dealing with. ee eK CRONIN already on it... *
+84) 7) dialog: This is Pamela Landy, a CI Supervisor calling from Langley, Virginia. Are you with a Jason Bourne now?
+85) 0) text: PAMELA on the phone.
+85) 1) dialog: Then use extreme caution. He can be very unpredictable and violent. Use whatever means necessary to...
+90) 0) text: PAMELA at the other end of the line.
+90) 2) dialog: Mr. Nevins?
+90) 4) dialog: Pamela Landy, again. Where do we stand? *
+92) 0) text: BOURNE sits in the dark car. Headphones. A nest of cool gadgetry -- on the passenger seat. Listening in -- * recording -- He writes: Pamela Landy -- circles it.
+92) 2) dialog: Have you locked down the area? *
+92) 5) dialog: How long have you worked for the agency?
+92) 7) dialog: If you ever want to make it to five, you're gonna listen to me real close. Jason Bourne is armed and extremely dangerous. A week ago, he assassinated two men in Berlin, one of whom was a * highly-experienced field officer... * (continuing as--)
+92) 10) dialog: I want that area secured, I want any evidence secured and I want it done now. Is that clear??
+92) 12) dialog: I'm getting on a plane to Berlin in 45 minutes, which means you are going to call me back in 30, and when I ask you where we stand, I had better be impressed. My mobile number is... BOURNE already turning the key in the ignition -- THE PEUGEOT ROARING TO LIFE, as he writes the number. Dropping the car into gear, BOURNE pulls briskly away fro the curb.
+93) 0) text: PAMELA finishes, hangs up.
+93) 2) dialog: I've already got a team there. I doubt Bourne's in Naples to settle down and raise a family.
+93) 4) dialog: And you do? From the moment he left Treadstone, he has killed and eluded every person that you sent to find him... Before it can come to blows --
+94) 0) text: PAMELA and CRONIN come screaming around a corner and down a long corridor, ABBOTT and ZORN trying to keep up.
+94) 2) dialog: -- uplink all relevant files to Kim -- (a look back at Zorn) -- and I want them to contact anyone who had anything to do with Treadstone -- ZORN looks to ABBOTT, as they disappear around a corner...
+96) 1) text: BOURNE driving -- listening to playback of Pamela's conversation with Nevins.
+98) 0) text: Inside a hanger. Inside an office. ABBOTT watching as CRONIN questions NICKY. PAMELA sits on a window sill.
+98) 7) dialog: (losing patience) * What kind of problems?
+98) 9) dialog: Amnesia? *
+98) 16) dialog: You were his local contact. You were with him the night Conklin died. You're coming with us.
+100) 0) text: Quiet in the cabin. ABBOTT gets up to use the bathroom. PAMELA sits across from NICKY who stares out the window. As the bathroom door clicks shut, PAMELA seizes the privacy.
+100) 1) dialog: I'm curious about Bourne. Your interpretation of his condition. You have specific training in the identification and diagnosis of psychological conditions?
+100) 3) dialog: Are you an expert in amnesia?
+100) 5) dialog: Believed what?
+100) 11) dialog: So he fooled you.
+100) 13) dialog: (leans in; still low) Not good enough. You're the person who floated this amnesia story. (shifts gears) Ever feel sorry for him? For what he'd been through?
+100) 15) dialog: You felt nothing? No spark? Two young people in Paris? Dangerous missions? Life and death?
+100) 17) dialog: Did you?
+100) 19) dialog: Some women like Dobermans --
+100) 21) dialog: See, that's a problem for me, Nicky. Whatever he's doing, we need to end it. This isn't the kind of mess you walk away from. PAMELA leans away. NICKY looks back out the window. ee eK ee eK
+101) 1) text: Three in the morning as the GULF STREAM lurches to a stop TWO BLACK SEDANS here for the pickup. TEDDY the greeting party as -- PAMELA, CRONIN, ABBOTT, ZORN and NICKY disembark --
+103) 1) text: ELEVATOR opens into their 9th floor world. Emergency activity. KIM ready to debrief, KURT work the computers. Energy up. PAMELA, ABBOTT and CRONIN bring NICKY into the room.
+103) 4) dialog: (to Nicky) Is it him? Looking closer -- she nods...
+123) 0) text: The bullpen is cranking -- phones to Munich -- lines to Langley -- ABBOTT watching from the sidelines -- KURT and KIM at their work stations -- PAMELA on mobile, turns to
+123) 2) dialog: So he beats a man within an inch of his life, strangles him, then blows the place up? (at Nicky) For someone with amnesia, he certainly hasn't forgotten how to kill, has he? Across the room -- CRONIN and TEDDY suddenly excited abou what they're seeing on THEIR SCREEN --
+123) 15) dialog: And why is that?
+133) 0) text: Clean and plain. A bed nobody's slept in. THE PHONE begins ringing. PAMELA, fresh from the shower, rushing ou from the bathroom to answer it --
+133) 1) dialog: Hello -- Dial tone. PAMELA hangs up. That was strange -- EXT. BERLIN STREETS/ALEXANDERPLATZ -- DAWN c179 A TAXI driving through the empty early streets and --
+137) 1) text: Because of the set-up, Bourne, pretending to talk on a house phone, has a view of ROOM 413 across the way. The door opens, PAMELA exits, carrying an overnight bag -- BOURNE watches.
+138) 0) text: ELEVATOR DOORS OPENING. PAMELA coming out into the lobby. Heading toward the exit and --
+139) 2) dialog: Anything?
+139) 4) dialog: Are we locked up?
+143) 2) dialog: -- Munich to Berlin, check everything -- flights -- trains -- police reports -- that'll be Box #1, Teddy that's yours -- (continuing as--) 1791 pt. 181 182 183 60. INT. BERLIN HOTEL ROOM -- DAY 179I pt. KIRILL opening the briefcase. TWO AUTOMATIC PISTOLS. SILENCERS. AMMO. Care package.
+144) 1) dialog: -- Box #2, call it Prior German Connections -- Nicky, I want to re-run all Bourne's Treadstone material, every footstep -- Kim, Box #3 -- let's call it Munich Outbound -- (continuing as--)
+145) 0) text: We've been hearing it, now we're seeing it: PAMELA at the chalkboard -- ABBOTT backing her up -- everyone else spre around -- they're re-grouping -- urgently -- behind them cots are being set up -- food, water stacked up --
+145) 1) dialog: -- let's stay on the local cops, we need a vehicle -- parking ticket -- something -- Langley's offered to upload any satellite imaging we need, so let's find a target to look for. (to Zorn) Danny, Box #4 -- I need fresh eyes -- review the buy where we lost the three million -- timeline it with what we know about Bourne's movements. Turn it upside down and see how it looks -- (continuing as--)
+147) 1) text: NICKY is joined by PAMELA who goes for the coffee.
+147) 2) dialog: Is it fresh?
+147) 4) dialog: Pamela Landy.
+147) 6) dialog: Who is this?
+147) 9) dialog: (Holy Christ) Bourne? 62. NICKY reacts to the name. Runs to the other room to try and start a trace. PAMELA (cont'd) (CONT'D) What do you want?
+147) 11) dialog: Okay, how do you want to do it? *
+147) 13) dialog: Who?
+147) 16) dialog: What if we can't find her?
+147) 19) dialog: Okay, Jason, your move.
+147) 22) text: Click. The line goes dead -- Pamela steps away from the window, realizing he's on one of the roofs out there!
+149) 5) dialog: Snipers? Hold on -- he said he wants to come in.
+149) 7) dialog: Don't you want answers?
+149) 9) dialog: What do you think? Is he coming in?
+149) 17) dialog: Alright... PAMELA gestures to ABBOTT, CRONIN, TEDDY.
+149) 18) dialog: .».-make the call. Get a wire on her. If it starts to go wrong, take him out.
+154) 1) text: NICKY'S (Pamela's) PHONE rings. She answers as a yellow TRAM approaches...
+156) 1) dialog: Where's Nicky? As they realize she's gone --
+158) 1) text: PAMELA all ears.
+167) 0) text: As the transmission goes dead. Christ... ABOOTT drills a look at PAMELA. Your fault!
+167) 1) dialog: (ignoring Abbott) That phone has a locator on it. KURT and KIM work their stuff.
+169) 1) text: 194 195 72. The mood is dark. PAMELA, ABBOTT, CRONIN all in here, the "safe" zone, away from the windows --
+169) 4) dialog: So what's he doing? You believe him?
+169) 6) dialog: Well, whatever he's doing, I've had enough -- this is now a search and destroy mission. (turns to the room) I want the Berlin police fully briefed and -- (handing the photo to Cronin) -- get this out to all the agencies. ABBOTT agrees...
+186) 2) dialog: -- the hotel -- how far? -- 207 208 209 210
+205) 1) text: PAMELA jumping out of A VAN the moment it stops. Seeing it all. The crowd. The army of cops. The searchlights playing across THE HOTEL FACADE. It's another disaster.
+208) 1) text: PAMELA and CRONIN listening to TEDDY who just got the police update --
+208) 3) dialog: (disgusted) Yeah, that'll work...What the hell was he doing here? 233 234 244 85.
+208) 5) dialog: I want to look at the room. * (to TEDDY as she goes) Check it out. *
+208) 6) text: PAMELA'S in charge now. They enter the elevator. *
+221) 1) text: PAMELA and CRONIN move into the living room. A couple of COPS in the hallway outside.
+221) 3) dialog: He must've had a reason. That's how they were trained. CRONIN moves around the bedroom, then into the bathroom and --
+221) 9) dialog: (thinking) Alright...take it down.
+221) 11) dialog: This stays between you and I. (sensing confusion) We finally have an edge. I don't want to lose it.
+226) 1) text: As PAMELA and CRONIN exit the elevator, they are met by TEDDY.
+226) 3) dialog: By who? ee eK
+226) 6) dialog: (to Teddy) Alright...I want you, Kurt and Kim to stay on Bourne, track everything that's out there... TEDDY goes to get in the van. PAMELA follows with CRONIN.
+226) 7) dialog: (confidentially to Cronin) And I want you to go through and cross reference our buy that went bad, the Neskis, and Treadstone -- As they get in...
+226) 8) dialog: -- they have to be related.
+231) 1) text: A BLUEPRINT spread across a table. NICKY, KURT & KIM all gathered around. CRONIN works the TREADSTONE files on another table. TEDDY at center briefing PAMELA.
+231) 3) dialog: Are we hacking or asking?
+231) 5) dialog: And what about you, anything?
+237) 1) text: ABBOTT coming through. It's empty this early, but -- Here's PAMELA, NICKY, CRONIN and the TEAM waiting to report.
+237) 2) dialog: Sorry to wake you.
+237) 6) dialog: Bunch of stuff. PAMELA looks to CRONIN -- him first.
+237) 15) dialog: There's something else. Abbott can see by their faces: this hits closer to home.
+237) 17) dialog: They found Danny Zorn's body. Dead in the basement at the building where my people got hit the first time.
+237) 19) dialog: Did he say anything to you?
+237) 21) dialog: We'll know for sure when we get the security tapes.
+237) 25) dialog: (shrugs) Don't know.
+237) 27) dialog: I'm sorry, Ward. They watch as he goes.
+240) 3) dialog: What? The tapes?
+243) 0) text: PAMELA knocking again. NICKY, TEDDY and CRONIN behind her
+243) 1) dialog: Open it. CRONIN with a pass key. TEDDY prepped and --
+244) 0) text: PAMELA leading -- they enter -- stop short -- ABBOTT at his desk, calmly pointing a PISTOL -- at Pamela
+244) 2) dialog: Yes. Now... They reluctantly obey. The door clicking shut behind them
+244) 4) dialog: I'd rather stand if it's all the same to you.
+244) 6) dialog: ‘Why' would be enough for me.
+244) 8) dialog: And pocketed a fair amount of change while doing it.
+244) 10) dialog: And Danny Zorn, what was that?
+244) 12) dialog: No good options left?
+244) 14) dialog: No. You lost your way.
+292) 0) text: Snow swirls. PAMELA disembarks from the G-5 (or US military plane). She is met by RUSSIAN OFFICIALS.
+299) 1) dialog: Hello, David. There she is. Standing at the foot of his bed.
+299) 3) dialog: Ramstein Air Base, Germany. (smiles) Before the wall fell you would have woken up in a Russian prison hospital. He looks around -- tries to move -- hammered by pain.
+299) 5) dialog: Careful... 120. Long moment. He's taking it in. Trying to.
+299) 7) dialog: Are you disappointed? They study each other a beat.
+299) 9) dialog: Thank you for your gift. I'm sorry about Marie.
+299) 11) dialog: Do you think you can read? Are you well enough? She has a folder. A PHOTOGRAPH -- Bourne's face -- staple to the cover.
+299) 12) dialog: It's all in here. Treadstone. A summary of your life. All of it. He waves it off.
+299) 14) dialog: (smiles again) Sounds like a threat.
+299) 16) dialog: Why you're alive? (beat) You're alive because you're special. Because she kept you alive. (she smiles) Because we want you back on our side. BOURNE silent. But hearing it. PAMELA leaves the file. 358 359 360 121. PAMELA (cont'd) (CONT'D) Take a look at it. We'll talk later. BOURNE watching her back away. As she exits into --
+300) 1) dialog: (to the sentry) * Let's give him half an hour. *
+300) 3) dialog: Felt promising. It's a start. * A chill in the air. Both of them going quiet because there's A NURSE carrying a tray of food. She's coming toward us. They're walking away.

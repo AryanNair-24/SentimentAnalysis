@@ -1,0 +1,27 @@
+0) 5) dialog: What? DR. HARRIS (mid-fifties, jovial) looks up from between Zo knees, the light on his head flashing right in Zoe's eyes
+0) 7) dialog: I'm not looking at your toes.
+0) 9) dialog: All done.
+0) 12) dialog: I'll elevate your legs for ten minutes and then you're good to go. He sets a kitchen timer and then pushes a button to raise legs. We hear the loud TICK TOCK of the timer.
+0) 14) dialog: Good.   Just relax.
+0) 16) dialog: Everything's going to be great. I have a feeling you and... (checks empty syringe) Number CRM-101404 are going to make beautiful babies together. Zoe smiles.   Maybe he's right.   Yeah...of course he's r
+5) 0) text: Zoe walks down the hall with her legs pressed firmly together, moving only from the knees down. Dr. Harris passes.
+5) 1) dialog: You don't have to walk like that.
+73) 0) text: Zoe lies on the table with a paper gown over her lap. She looks down at her feet in the stirrups. Sadly, we notice perfect pedicure. Dr. Harris comes in with a big smile.
+73) 2) dialog: Congratulations! What luck to get pregnant on the first try, huh? And with frozen sperm, too. So, how are we feeling?
+73) 4) dialog: You sure about that?
+73) 6) dialog: Well, your hormones aren't helping, and going through this without a partner must be difficult. Dr. Harries readies the ultrasound wand and inserts the device. He turns the monitor so that Zoe can see.
+73) 7) dialog: Well, the good news is everything looks great. You are now eight weeks pregnant, which is an important milestone. With a little luck, we should be able to see a heartbeat today. On the screen we see a small flickering dot.    Dr. Harri smiles.
+73) 10) dialog: Everything's just... (makes a face, then) Wait, a minute...
+73) 13) dialog: Well...I see another heartbeat.
+73) 15) dialog: No...but you have two babies. Zoe's mouth falls open.
+82) 0) text: CU of a MONITOR where we see two distinct baby shapes floating head-to-toe. Dr. Harris holds the ultrasound wand to her belly. Stan doesn't say anything. He looks on in total amazement.
+82) 3) dialog: Would you like to know the sexes? They look at each other.      Zoe smiles.   Stan shrugs. nods. Stan does, too.
+82) 5) dialog: You're having two healthy little girls. Stan gets tears in his eyes.
+82) 8) dialog: Congratulations.
+111) 0) text: Dr. Harris moves the ultrasound wand over Zoe's belly. holds up her shirt and watches the monitor.
+111) 1) dialog: Things look great.
+111) 3) dialog: So, I'll see you back in two weeks, and we'll start checking to see if the babies are dropping.
+111) 5) dialog: Now's the time I start discussing a birthing plan with my patients. Do you want me to wait until next time when Stan's here?
+111) 7) dialog: He's out of town or something?
+111) 10) dialog: Oh.   I'm sorry to hear that.
+111) 12) dialog: Well, don't you want anyone with you in the delivery room? You know, like a birthing partner?

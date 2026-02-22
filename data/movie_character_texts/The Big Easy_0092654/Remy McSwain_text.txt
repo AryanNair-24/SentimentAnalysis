@@ -1,0 +1,394 @@
+2) 11) dialog: Sure. Freddie Angelo, a wise guy... Works for "The Cannon". Handles Mexican imports for the Family.
+2) 12) text: Ah, Remy, you've a good eye for the cops. To me they all look alike. .
+2) 13) text: Detective McCabe leaves off examining the masonry of the Piazza with a flashlight and comes over to the Captain. She's a short-haired, tom-boyish redhead, 20's. In the man's world of the Homicide Bureau she holds her own with the boys. She greets Remy with a punch on the arm. McCABE Can't find any bullet hits, spent shells, nothing like that. Very little blood. We figure they smoked him someplace else, then brought his body here. He had twelve hundred cash in his money clip and a Piaget Watch, all untouched.
+2) 14) dialog: (impressed) Piaget? McCABE Here's: the wallet, they just got through lifting the prints.
+2) 16) dialog: The driver's license is missing. . * McCABE I figure the killer took it for proof of the hit. Standard wise- guy procedure, right, Remy? REMY. Standard if they were gonna wrap him in a concrete overcoat and drop him in Lake Pontchartrain. But. here's Freddie in all his glory, right in the middle of the Piazza D'iItalia. What does that tell us? McCabe shrugs.
+2) 17) dialog: (looking around) . Given the surroundings, I'd say it ( ) was a message to the esteemed president of the Italian-American Association.
+2) 23) text: McCABE Vinnie "The Cannon" Di Moti Remy pinches McCabe's cheek.
+2) 24) dialog: Bring Mr. Di Moti in for questioning first thing tomorrow. . McCABE (gulps) Suppose he won't come!
+2) 25) dialog: Arrest him as a material witness. You'll find him at the barber shop. He's. always there around ten. Captain Kellom puts his arm on Remy's shoulder and pulls him away from the others.
+2) 27) dialog: Gotta keep trying cher. It's like a family tradition.
+4) 0) text: ON A CARTOON CUT-OUT hanging on a wall: a grinning vulture. As the shot WIDENS, we see the vulture's perched on a blow-up of the brass, crescent-shaped shield of the New Orleans Police Department. As camera WIDENS FURTHER we see that the whole thing is hanging over the doorway of the Homicide Squad. Remy enters through the open doorway, dressed in a very well-cut business suit. There are about a dozen desks occupied by DETECTIVES. In the back are two glassed-in offices, one small, one large. Anne sits waiting in the small office - Remy's. In the larger office Captain Kellom is bawling out ED DODGE and ANDRE DE SOTO. They are both about Remy’s age -came out of the Police Academy together, but neither has fared as well as Remy. De Soto has eaten. himself into a mountain. Dedge is thin, always needs a shave, and wears. a cheap toupee. As soon as’ Kellom spots Remy, he bursts out into the squad room, leaving Dodge and De Soto standing there, hangdog.
+4) 1) dialog: What'd they do now?
+4) 3) dialog: Why don't we shoot em?
+4) 9) text: Dodge. and De Soto brighten up, saunter out into the squad room. Remy notices Anne sitting by his desk.
+4) 11) dialog: Who's that in my office?
+4) 13) dialog: I've heard about her. She's with the strike force investigating corruption.
+4) 15) dialog: (grins) She's in. good hands, cher.
+5) 0) text: Remy enters, all smiles, sticks out his hand to Anne Osborne, perches on the corner of his desk, hovering over her, turning on the charm. . REMY. Anne? Hi, Remy McSwain
+5) 2) dialog: Remy.. Remy gives her a big smile
+5) 4) dialog: (big smile) What's your hurry? The guy’'s not even stiff yet.
+5) 9) dialog: } Last time I saw him.
+5) 11) dialog: (grins) , Not: so far. Look, I've seen dozens of these wise-guy jobs. We usually find out why the hit went down; sometimes we find. out who did it; we even make an arrest once in a while, but we never have: enough to take to court. Anne who has been writing furiously on her legal pad, suddenly breaks the point of her pencil. As Remy : deftly hands her a new one from his desk top, McCabe * taps on Remy's office door and opens it.
+5) 13) dialog: Bring. him in. Remy rises as Vincent "The Cannon™ Di Moti enters. A once young and vigorous capo unwilling to admit he's old--his hair is. dyed, his cheeks are rouged; he wears a dark pin-striped suit: his cane is in the shape: of a golf club. * REMY. . Thank you. for coming in, Mr. Di Moti. This is Miss Osborne with the District Attorney's office. The Cannon lowers himself onto a chair, leaning on his * cane.. a THE CANNON oN My lawyer is gonna get me out of ( ) here in five minutes. I. got
+5) 17) dialog: (shocked) Why, you're not under arrest Mr. Di Moti. Did McCabe here give you that impression? Apologize to Mr. Di Meti.
+5) 19) dialog: You're free to go anytime. Mr. Di Moti. We apologize. The Cannon rises with difficulty, starts for the | door. *
+5) 20) dialog: We only wanted to express our sympathy about. Freddie. The Cannon stops at the door, turns.
+5) 23) dialog: You: know, Freddie Angelo, the guy they found floating in the fountain last night behind your office.
+5) 31) text: Remy nods. followed by
+5) 34) dialog: What does obsequious mean?
+5) 36) dialog: ass. Well, first of all, nobody uses word, "mafia" anymore. Down here, we call ‘em "wise gays”. mention this to save you embarrassment.
+5) 38) dialog: I only Actually, I learned a lot. from that little interview.
+5) 40) dialog: (laughs) I read people. For instance, after seeing The Cannon, can probably tell you why Freddie sprung a leak last night.
+5) 44) text: A beat. Remy is beginning to realize that Ms. Osborne is quite capable of holding her own.
+5) 45) dialog: Freddie Angelo was one of the Cannon's. top men, see? Killing him and dumping him in the Piazza d'Itaila--that was a message to Vinnie. i ANNE And the message was...?
+5) 46) dialog: I think somebody's telling him it's time to retire. Last time I saw him he didn't have a hearing aid or a cane, either. He's " gotton old. Some of his people may be getting restless.
+5) 50) dialog: Meaning the message is coming through loud and clear.
+5) 52) dialog: No, but in a week or so, I bet “we: find his. body.
+5) 59) dialog: Nothing. We'll never get ) anything we can take to court. Hell, I'd close the case right now except for one thing. .
+5) 61) dialog: I'll tell you over dinner. : ANNE . ’ : I'm here in an official capacity * Lieutenant...
+5) 62) dialog: (charming smile) Come on, everbody has to eat, even cops and A.D.A.'s
+5) 63) text: . ... . -Anne smiles as. well ° Cut. to: . 18: EXT. K-PAUL's. - NIGHT ~ 18 Remy's LeBaron pulls up to a fire hydrant in front of this funky, but world-famous restaurant. Remy flips down his sun visor so that it shows an official placard: "police Business." Anne notes this, disapprovingly. There is a line of people half a block long waiting outside the door which is guarded by a uniformed cop, MAURICE. He opens the door as Remy and Anne approach. The crowd whistles as. they are ushered inside. ANNE. This is embarrassing.
+5) 64) dialog: Nah, this is what's great about being a cop.
+6) 0) text: The joint is jammed and jumping, crowded with people tables packed around a small dance floor where Little Queenie and the Radiators crank out the quintessential New. Orleans “Second Line" backbeat. The din is so loud you have to shout to be heard. The bar is absolutely packed, people standing three deep. Perched on a stool strategically placed between the cash register and the kitchen door sits the gargantuan black-bearded Patron, CHEF PAUL, taking little taste from the overflowing plates the waiter carry out. He waves. to Remy holding up five fingers.
+6) 1) dialog: (to Anne) : It'll be five minutes... Anne looks around agog at all this activity. The music is infectious, starting her foot to tapping. Remy notices.
+6) 2) dialog: Dance: with me...We'll work up an appetite.
+6) 4) dialog: Not at the bar...Never know. who Might be listening... Anne smiles as Remy leads her out onto a dance floor filled with bouncing, sweaty people. Anne is a little intimidated, having a hard time picking up the idiosyncratic: beat.
+6) 5) dialog: Didn't they dance where you come from?
+6) 10) dialog: Well, this is New Orleans, Cher. Down here, dancing is a way of life. Anne does her best to pick up the beat as we...
+7) 0) text: The dancing is over, the room has cleared out a bit. Anne and Remy are seated at a table in the back, picking over. the remains of a sumptous meal crawfish etouffee, file' gumbo, blackened redfish. Anne is a little bit. disheveled tipsy, sweating and flushed from the spicy food, laughing at Remy's put-on Cajan accent. ‘ REMY My people on my Mana's side, dey was the real Cajun, borned and deaded on the Bayou Teche. I used to pass myself down there in the summer wid my uncle Vern. A Cajun, he gets a little money in . his. pocket, he quits his job and spend it all--jaissuz les bons temps. rouler--let de good times roll. ANNE. I thought you came from a family - of Irish cops.
+7) 1) dialog: That's on my Daddy's side. He was the first one to become a cop...
+7) 10) dialog: I had an- in in the department * ANNE. (smiles) Careful who you tell that. to... *
+7) 11) dialog: Oh, I forgot...You bust * cops for a living...
+7) 13) dialog: How do. you know all this. stuff * about. me?
+7) 15) dialog: Is: that the juiciest thing you. could find?
+7) 17) dialog: Very briefly.
+7) 25) dialog: To me they were all serious... (taking Anne's hand) Would. you like me to tell you why I'm not closing the Angelo case.
+7) 27) dialog: It's you.
+7) 30) dialog: What. gives? ANNE. (business-like) Our office has jurisdiction to investigate any crime we see fit.
+7) 31) dialog: Is there some police corruption angle on this case?
+7) 38) text: Not for the first time Anne realizes that she's underestimated Remy.
+7) 40) dialog: Do you have any evidence at ali? Another beat. Anne doesn't answer. Suddenly, Chef Paul appears at tableside.
+7) 44) dialog: I guess just the check tonight.
+7) 53) dialog: (deadpan) Anne. here is with the District Attorney's office.
+8) 0) text: Remy's LeBaron turns a corner and finds the street blocked: by a group of TRANSVESTITES, staging an impromptu "Southern. Decadence" parade.
+9) 0) text: A portable blue. police light sits. in the well between Anne's and Remy's seats, along with a two-way radio and a box of shotgun shells. Remy takes the light, puts in on the dashboard, flicks it on. The flashing blue light disperses the Transvestites. Remy steers the LeBaron through them. Anne looks disapprovingly at the array of police paraphernalia.
+9) 2) dialog: It's a "spook car”... confiscated in a drug bust... makes for good cover. ANNE. Nice job--free car, free food... You: honestly don't see the harm in any of this? REMY . Neo, I don't see the harm... these: are. the perks. 18. 21 22
+9) 11) dialog: If all the codes were enforced you wouldn't have a restaurant in this city that could stay open.
+9) 13) dialog: I'm not defending anything. This is. New Orleans, darling. Folks have a certain way of doing things down here. People like to show their gratitude. Anne snorts, offended by his smugness. ANNE. So how does it work? You get free suits? An envelope from Chef Paul every week? Remy pulls up to a red light, gives her an amused, incredulous look. He plucks. open the lapel of her blouse, looks down. ue
+9) 14) dialog: You got a wire in there? She: smacks his hand away. Remy looks down the street, then drives straight through the red light. Anne rolls. her eyes.
+9) 22) dialog: (genuinely insulted) Is that what you think about * cops? You got a real bad attitude, lady... ANNE. This evening hasn't done much to * improve it any. I've never see one person break so may laws in so ' short.a space of time.
+9) 23) dialog: Forget about the law for just a * minute. When you get out on the ' street it's very simple--there are the good guys and the bad guys... ANNE. And you're the Good Guys? _. REMY . Damn: right.. And we're all that stands. between. you. and them..
+10) 2) dialog: Is this your building?
+10) 9) dialog: I'll wait and drive you the rest of the way.
+10) 11) dialog: I'll walk with you.
+10) 20) dialog: Police: The Second Mugger tries to dodge past and Remy slams him on the side of the head with the pistol and he sinks to his knees. Remy levels his gun right at the First Mugger's face no more than four feet away.
+10) 21) dialog: (continuing) Don't screw up! The First Mugger drops the knife. Anne-- dazed-- starts to get up, but Remy stops her.
+10) 22) dialog: (Continuing) Stay down for a second. (to Pirst. Mugger) Get down flat on your face. Right. there. That's right. (to Second Mugger) You, too, face down on the sidewalk there.
+10) 24) dialog: No, the Pope! Face down. Very cautiously Remy frisks his prisoners, one at a time, his gun covering them closely. He flings the contents of their pockets out into the gutter. Anne gets to her knees. Her dress is torn, her knee is scraped. She crawls a couple of feet to one of her shopping bags and is trying to put the contents back in the bag.
+10) 25) dialog: (continuing; to Anne) Just sit there a minute. Good thing I'm such a pushy guy, huh?
+10) 31) dialog: If you'll stay a moment, a patrolman will take your statement.
+10) 33) dialog: A patrol. car is. going to. come for you in.a little while. If you do anything to my car, if you even get fingerprints on the paint, they're going: to beat the living shit. out of you. He raises his voice for Anne's. benefit.
+10) 34) dialog: (continuing) Do you fully understand each and every one of these rights as I have explained them to you?
+10) 39) text: Remy turns away from the Muggers without another thought. Anne is trying to gather up her belongings; Remy helps her. : .
+11) 0) text: Anne: and. Remy go through the gate and into the house.
+12) 0) text: Remy prowls around the living room of this spacious old apartment, while Anne mechanically unloads her groceries in the kitchen.
+12) 1) dialog: Very comfortable. Anne drops a jar of coffee in the sink; it shatters. She might not even see it. She begins to shake. Remy can't see this. : :
+12) 3) dialog: I'll fix you a drink... (a. quick bear) Where's: the booze?
+12) 5) dialog: Everything's. all right now. You're safe. Nothing's gonna bother you. 25 26
+12) 9) text: She blunders into his arms, he holds her and rocks her back and forth. Remy strokes her hair, kisses her cheek, then kisses her lightly on the lips. She steps back form him, turns away.
+12) 10) dialog: Look, Anne, I'm sorry. I. didn't. mean to take advantage.
+12) 12) dialog: I'm. gone. ANNE. (as he reaches the decor) Thanks, for the rescue.
+12) 13) dialog: Just like to movies, huh? He slips out the door. “INT SQUAD ROOM--REMY'S OFFICE--DAY Typewriter keys bang out the words, "ANGELO, FREDERICO" under the heading "VICTIM"--Remy is pecking out his report. Detective Foster comes in with something for Remy to. sign. FOSTER. Hey, Remy, listen to this. remember Laverne Williams, who ...Stabbed her husband last week? Remy nods, signs the paper without looking at it. The phone rings. He reaches for it. Foster stays his hand.
+12) 16) dialog: (still laughing) - Homicide, McSwain. (off) Hello, Lieutenant...
+12) 17) dialog: (straightens up) Anne! Hey... He waves Foster out of the room. Foster winks as he
+13) 3) dialog: I got. a poisoned heiress in the Garden District, a strangled transvestite in the Quarter, and a _ suspicious asphyxiation Back o' Town. Freddie Angelo has to wait his turn. . . ANNE . Lieutenant, I thought you were going to give priority to the Angelo murder. Now. when am I going to see a copy of your report? *
+13) 9) dialog: I thought we passed a good time last night, cher. Didn't you like the music?
+13) 11) dialog: Didn't you like the food?
+13) 14) dialog: Why? Are you investigating me? ANNE. Of course not...
+13) 15) dialog: Then, why don't I pick you up at. eight?
+13) 22) text: She looks at him, exasperated; throws the balled-up piece of paper at him. . cur TO: EXT. ANNE'S OFFICE. BUILDING--NIGHT. Anne walks briskly up the street. She doesn't see Remy's LeBaron slowing down in rush hour traffic beside her. Remy rolls down the passenger side window and shouts.
+13) 23) dialog: Anne! Anne jumps, startled. Remy stops his car. The cars behind, already forced to a crawl; slam on their brakes. ANNE. What are you doing here? Remy slams his car into park and jumps out to join Anne on the sidwalk.
+13) 24) dialog: Listen, I. got..a large pizza in the car...pepperone, extra cheese... Here, take a look... Remy reaches into the car, pulls out a pizza box. The MAN in the car behind Remy's leans on his HORN.
+13) 27) dialog: (lifting the cover. of the pizza box) Right here... Anne looks into the box, sees a steaming pizza. ANNE. Where? 29
+13) 33) dialog: Under the pizza...you have to eat the pie to get. the report... Anne hesitates, tempted.
+14) 0) text: Remy is stretched out lengthwise on the couch, gazing at the ceiling. Anne is sitting at the table, reading the report. There are only crusts and a manila envelope left in the pizza box. Anne finishes the report, puts it down, looks over at Remy with somewhat new eyes-- she's impressed.
+14) 3) dialog: (shrugs) Yeah, but a lot of your younger wise guys use ‘em, too.
+14) 12) dialog: Yeah, but what it doesn't say in there is that Angelo's car was parked across the street from a wharf warehouse owned by Carmine fTandino, a well-known hit man in the family of Vinnie the Cannon - Di Moti.. I'm going to check out the warehouse tomorrow.
+14) 14) dialog: We're not supposed to draw conclusions, you know that.
+14) 16) dialog: Well, Freddie Angelo imported heroin for a living. Tandino's warehouse is on the river. Sometimes heroin comes up the river. Draw your own conclusions. _ Anne looks over at Remy.
+14) 17) dialog: What?
+14) 23) dialog: What did you think I'd do? : . A really lousy job?
+14) 25) dialog: (moving closer) Why don't you like me, Anne...?
+14) 27) dialog: Do you think I'm a rotten, don't, give-a-shit, dishonest, dirty cop, Anne? Is that what you think of me? He's leaning very close now. She looks up into his eyes.
+17) 0) text: Anne's. and Remy's beepers lie side by side on the ‘night table. Anne and. Remy are kissing passionately, thrashing around under the covers. Suddenly she twists away from him.
+17) 9) dialog: It's all right, there's no hurry. He slides. closer to her and strokes her back.
+17) 11) dialog: Just relax, close your eyes, don't pay any attention to me. And Remy moves his hand under the covers to stroke, gently, lower and lower down her front. We can see nothing under the covers except the tiniest motions of his fingers.
+17) 15) text: Remy starts
+17) 20) dialog: Mine. (he shuts. off the beeper and dials rapidly) You better have a goddamn good reason for paging me. (a beat) All right, slow down. the phone and starts to get. dressed.
+17) 22) dialog: Triple murder in Storyville. I'm really sorry.
+17) 24) dialog: Couple of hours at least. ANNE . Come. back. REMY. You sure?
+18) 0) text: Police barricades have been set up, and cops are holding back a restive crowd of PROJECT-DWELLERS. Every now and then a bottle is thrown, but the erowd isn't really violent and the police ignore them. Remy makes his way through the barricades toward a station wagan next. to which Captain Kellom stands.
+18) 2) dialog: (jokes) When. the hell are you. gonna Make an honest woman out of her, cher?
+20) 0) text: Nearby, De Soto is stretched out on the sofa, his hat covering his eyes, snoring. PHOTOGRAPHERS and FINGERPRINT DUSTERS are jostiing around each other in this. timy living room, packing up their equipment. Two FORENSIC TECHNICIANS are spreading a body bag beside the corpse. Remy appears out of the hallway. He looks pensively at the body.
+20) 2) dialog: Yeah, roll away. They roll the body onto its back, ‘into the body . bag... Remy kneels, stares at the face. Suddenly remembers..
+20) 4) dialog: Jamaal. Washington... He looks up--Kellom's standing in the doorway.
+20) 5) dialog: Everything under control down there?
+20) 7) dialog: (grins) I love this. town.. Remy stands, as Kellom steps into the apartment. Remy's grin turns to surprise as he sees Anne following Kellom inside.
+20) 17) dialog: Do you believe every rumor you hear on the street? ANNE. : (business-like). Have you found any evidence one way or the other?
+20) 18) dialog: Right now all. we have are two unknown male caucasian suspects. Not officers, suspects. And one unsubstatiated rumor.
+20) 20) dialog: This one's Jamaal Washington.
+21) 0) text: Remy leads them down the dark hallway; stops, blocking the doorway to the bathroom, ushering them past. One foot sticks out into the hall.
+21) 1) dialog: (to Anne) You don't want to see this. The guy's face is gone. We'll have to wait for a fingerprint ID on him. He squeezes past them in the hall, leads them into the bedroom.
+21) 3) dialog: Third victim I make to be one of the Nobilier brothers, also narcotics, also a runner for Daddy Mention.
+21) 14) dialog: Because if they were, they would have stayed right here, and when the rest of us arrived, we would have found guns, knives, all kinds of. evidence that the victims resisted arrest. It's something every cop in the world knows how to do.
+21) 16) dialog: You probably know how to bribe a juror, too, even though you've never done it.
+21) 20) dialog: (looks over at him) I figure Tandino. Kellom nods. Anne. looks up.
+21) 26) dialog: Carmine Tandino--hit man for Vinnie the Cannon Anne glances around the room spotting bits of brain and. bone on the walls, bits of flesh on the floor. She struggles to keep her composure. Her upper lip is peppered with perspiration.
+21) 27) dialog: Will you wrap it up here Captain? I'd like:to take Miss Osborne home.
+21) 30) dialog: We'll go to my apartment, it's closer. OK? Anne nods wanly.
+21) 31) dialog: You know. after a while you get used to stuff like that, you get hardened. But. everybody gets sick the first time, don't be embarrassed.
+21) 33) dialog: Tell me if you're gonna throw up. I'll pull over. ANNE. I'm not. going to throw up.
+22) 0) text: Anne is sitting on the floor near the toilet. Remy hands her a washcloth. .
+22) 2) dialog: (laughs) Even with your head in the toilet you still want. to talk business. (she frowns, he gets serious) Yes, right. I do think that Tandino killed those boys. She pulls herself shakily to her feet. He steadies her. She crosses to the sink, takes Remy's toothbrush, applies toothpaste,etc. all the while eross-examining him. “ANNE And therefore they must have killed. Freddie Angelo?
+22) 3) dialog: Right, again. Remy snuggles up behind her as she brushes her teeth.
+22) 5) dialog: Now. we know who sent it. Daddy Mention, not one of Vinnie's wise guys. Now we're dealing with something much bigger than just a. family squabble.
+22) 11) text: Anne rinses Remy puts a She reaches
+22) 14) dialog: What's that suppose to mean? out her mouth, turns to face him.
+22) 16) dialog: No, but he's one of the few who turns a profit at it.
+22) 19) dialog: How do you feel now?
+22) 21) dialog: (grins) Bullets bounce off of me.
+22) 23) dialog: All the time. over and. takes his hand:
+23) 0) text: Sunlight coming in through the drapes wakes Anne-- at first she doesn't know where she is, then, remembering she feels around the bed for Remy, but he's not there. She gets out of bed stretching like a contented cat.
+24) 0) text: Anne comes into the kitchen and sees Remy, naked except for a pair of jeans, bending over looking in the refrigerator. Anne can't resist. tiptoeing up behind Remy--playfully, she runs her hand up into his crotch. Remy leaps into the air, knocking things over inside the fridge; he spins around, terrified, and IT ISN'T REMY AT ALL. Anne gives a half scream and jumps back.
+24) 9) text: Remy comes up the staircase, carrying a sack of groceries. Anne comes out of the ‘apartment fully dressed.
+24) 10) dialog: Hey, I was just out getting us some breakfast.
+24) 12) dialog: I'll drop you off.
+24) 14) dialog: What's wrong? = But she disappears down the: stairs. Bobby appears of in the doorway of the apartment:
+25) 10) dialog: Where are the Storyville witnesses? Guerra jerks his thumb in the direction of the next room.
+26) 0) text: Remy comes out of Interrogation #1 and enters Interrogati
+27) 1) dialog: We heard you boys saw something last night. at the project. Around the time of the murders.
+27) 3) dialog: Somebody said you saw an unmarked police car.
+28) 0) text: - Remy hurries past the glassed-in security booth of the Property Room, waves to SGT. DEWEY PIERSALL, behind the glass. :
+28) 6) dialog: Soon as I got a spot, Dewey, you're next in line. DETECTIVE FOSTER, McCabe's partner from the Angelo murder. scene, comes running down the stairs.
+28) 9) dialog: Freddie Angelo's driver's license! Beautiful. Those guys. killed Preddie, just like I thought.
+29) 0) text: McCABE (to phone) And. what time did he leave?... You're sure of that?... Thank you. She hangs up the: phone, looks up at Remy. McCABE ~ Carmine Tandino has an airtight alibi. He was at the Carousel Club with his wife and half his family until. 4 A.M. She shows him a list of names.
+29) 8) dialog: (interrupts) You know who owns the Carcusel Club? Vinnie The Cannon's nephew, that's who. It's a very popular spot for alibis. I'll talk to Mr. Tandino myself. , Dodge shouts to Remy from across the room.
+29) 10) dialog: (to phone) Miss Osborne. I haven't got the forensic or ballistics report yet, so I...
+30) 3) text: Remy, catching the tone of her voice, closes the door to his office. RA2ZZING from the boys on the outside.
+30) 6) dialog: Yeah, me too. *
+30) 8) dialog: Me. either...
+30) 10) text: Confilicting emotions flesh across her face. . ANNE. I know too much about your reputation to believe you. * Guerra. enters the office and slips an envelope under Remy's. blotter. Remy shoos him out.
+30) 11) dialog: (to phone) Meet: me for lunch and -look into my eyes and see if you * believe me. :
+30) 15) dialog: (before she can finish) I'll reserve us a table at Antoine's for one o'clock. CLICK. He hangs up.
+30) 17) text: Dodge sees Guerra comin toward him from Remy's office. He pulls open his desk drawer: leaves his desk. Guerra passes Dodge's desk and discreetly drops an envelope into the open drawer. Remy comes out his office, pulling on his jacket. Dodge waylays him.
+30) 19) dialog: Who? Anne!
+30) 21) text: Kellom comes out of his office, joins Remy and Dodge as Guerra enters Kellom's. office.
+30) 34) text: . He's got this: thing about rank. He doesn't want to talk to no sergeant or flat foot. Dedge turns hopefully to Remy, who's making a bee-line for the door.
+30) 35) dialog: Don't: look at me Eddie. TI have. to go see Carmine Tendino.
+31) 0) text: Remy'’s LeBaron pulls up to a red zone outside the Toulouse: Bar & Grill. Remy flips down his "Police Business” visor, enters the bar.
+32) 1) dialog: I'm looking for George Joel. The bartender points to a fat man at the end of the bar. Remy flashes his badge. Joel is nervous and sweaty, mooving his face with a soggy handkerchief.
+32) 3) dialog: You wanted to talk to somebody?
+32) 8) dialog: If there are cops comin in here bothering you, send ‘em to me.
+32) 14) dialog: You got a wire in here?
+33) 0) text: Remy burst out of the tavern right into three internal affairs cops facing him with guns drawn.
+35) 0) text: A TV monitor fills the frame. On it is a videotape of Remy taking the envelope. We PULL BACK to discover Anne, flanked by Hugh Dowling, the Internal Affairs cops, and three young LAWYERS. Anne's face is pale, over- controlled, she struggles not to show the disappointment, bitterness, betrayal she feels. The FIRST YOUNG LAWYER is a venal, cocky little guy.
+36) 0) text: The garage is scattered with all manner of police vehicle A group of prisoners is being loaded, single-file, into a van for transport to the courthouse. Remy is among them, standing out from the rest of the low-lifes in his still-natty attire. Kellom steps out from the shadows, whispers a.word to the DEPUTY SHERIFF, pulls Remy aside.
+36) 3) dialog: I can handle it.
+36) 5) dialog: (touched) Thanks.
+36) 10) text: The Deputy signals; Remy climbs into the van. . Kellom grabs him by the sleeve.
+37) 0) text: Anne: sits at the counsel table, working on a yellow pad. Remy's lawyer, LAMAR PARMENTEL, a diminutive Old World Southern character, stands at the counsel table talking casually with a group of public defenders. A DEPUTY SHERIFF leads in a dozen prisoners - MUGGERS, ‘DOPE DEALERS, DRUNK DRIVERS, PROSTITUTES, and Remy, still natty, trying to keep up a good front. He spots Anne; stops, shocked.
+37) 8) text: " Remy stands. until he finds Remy's.
+37) 27) text: The State opposes releasing the accused in this own, recognizance, and submits that giving due weight to the seriousness of the = charges committed by a public official, we ask bail in the amount of fifty thousand dollars. Remy looks up, shocked. Anne glares at him.
+38) 0) text: Remy, still tieless and unshaven, walks through the marble lobby with Lamar Parmentel.
+38) 1) dialog: What the hell. was that business asking fifty thousand bail? She knows I'll. show for trial.
+38) 7) dialog: What deal?
+38) 9) dialog: Is that. a misdemeanor?
+38) 11) dialog: Look Lamar, try and understand - I cannot do any time at all. Remy and Lamar go through the revolving doors and out into...
+39) 0) text: «.-before Remy continues.
+39) 1) dialog: One felony conviction and I'm off the force. I'ma cop,. Lamar. It's what I do. It's what I know. It's - what TI am.
+43) 0) text: Remy's. record collection is a disarray, the Dirty Dozen Brass. Bank is blasting from the speakers. Bobby is in the kitchen, fixing himself a "mulfaleta", the New Orlean version of a Dagwood sandwich. He lifts the kitchen knife to cut it. in half, then has second thoughts, turns back to the open refrigerator.
+43) 3) dialog: (still in black voice) Don't you recognize your own heathee?
+43) 9) dialog: A little undercover work. |
+43) 11) dialog: (suddenly serious) Who told you that? : ' BOBBY. Mama. She said you were framed. . , Remy grabs a bottle bourbon, pours out two shots, hands one to Bobby, downs his in one grip.
+43) 12) dialog: Look, Bobby, it's hard as hell for me to explain...
+43) 14) dialog: I. want to be honest with: you. This particular case was a setup, but I've been on the take in. small. ways. since practically the day I joined the force. ‘Bobby puts his arm around Remy's shoulder.
+43) 23) dialog: (shakes head) I never wanted you to know.
+43) 25) dialog: You knew about Daddy, too?
+43) 27) dialog: I didn't: understand it.
+43) 29) dialog: I didn't have any idea Daddy was taking money until I. joined the force myself...
+43) 31) dialog: I swear to God. I didn't believe it at first. I slugged the first guy that told me.
+43) 40) dialog: I was nineteen years old and about as innocent. as your : average altar boy. But hell, ' you were all about it. I should have asked you.
+43) 42) dialog: Police - you're under arrest, you have the right to remain silent... fhe two brothers crack up, fail into an embrace. CuT TO:
+44) 0) text: This. big room is crammed: with metal racks: filled with boxes and files, pistols and knoves, half-empty bottles, paint samples, blood-stained clothing, the evidence of an unimaginable number of crimes. A PAIR OF HANDS come down the aisle, carrying the large magnet Remy threw through the bank window. Camera PANS UP to the face of DEWEY PIERSTALL (sc. 61), he's squinting at the evidence tags along the shelves, finally finds wha he's looking for at the end of the rack, places the magne alongside it.
+45) 0) text: Remy is standing at the defense table, talking with his lawyer, Lamar Parmentel. His entire family is milling around the spectator area, waiting for the start of the preliminary hearing. Remy seems relaxed, confident. His brother Bobby tries his best. to act that way. Remy's UNCLES and COUSINS are all in uniform - seven policemen and one fireman - and. their wives and children are dress in. their best Church clothes. (continued) 63. (continued) Remy‘s MAMA, a formidable platinum blonde Cajun lady in her mid-fifties marches up to Remy, instinctively brushes back his hair.
+45) 3) dialog: Mama, this is Lamar Parmentel. MAMA. I know all about you, Lamar-- And I. know that you're going to’ do a fine job defending. my Remy..
+45) 4) dialog: Mama...
+45) 7) dialog: Mama, he knows. all that stuff. Maybe you should sit down. dust then, the door bursts open. Anne marches into the courtroom, angry as. hell, passes Remy, staring straight ahead. REMY. Hi.
+45) 9) dialog: That's the Prosecuting Attorney, Mama.
+49) 0) text: Remy sits impassively as Anne examines George Joel, - the sweating tavern owner. He's sweating here, too. ANNE. Did the defendant promise that he would cause the uniformed officers to cease their harrassment of you?
+50) 0) text: ’ Remy's lawyer cross-examines.
+53) 0) text: The RINGING PHONE wakes Remy out of a sound sleep.
+53) 1) dialog: (to phone) It's. three in the goddam monring. cur TO:
+54) 1) text: FPiretrucks, police cars and TV news crews are parked in front of the bombed out building; a crowd has gathered behind the police lines. Detective McCabe is talking to Remy from a phone booth. McCABE It's McCabe, Remy, sorry to bother you but somebody just blew up Carmone Tandino's warehouse--with him in it.
+54) 2) dialog: (off) Jesus Christ!
+54) 9) dialog: (off) I'll be right down.
+55) 0) text: Remy is getting dressed as he talks with McCabe.
+55) 1) dialog: It's a free country. I'll meet you at the scene in fifteen minutes. He hangs: up and immediately starts to dial another number.
+56) 3) dialog: (off) Carmine Tandino was just killed at his warehouse on the Third Street Wharf. I thought you'd want to know.
+57) 0) text: Remy's on foot, keeping in the shadows on the dark street. Reporters and TV camera are gathered around Captain Kellom. Remy slips behind the police barricades. A UNIFORMED COP starts him away, then recognizes him.
+58) 0) text: The warehouse is filled with MARDI GRAS FLOATS, each carrying gigantic papier mache' FIGURES of greek gods, celebrities, naked women, etc. As Remy threads his way through this phantasmagorical tableau toward the still- smoking scene of the explosion, McCabe appears at his side, punckes him in the arm. .
+58) 3) dialog: How did you identify Tandino? McCabe smiles with relish, opens her hand: a glass eye lies in her. paln.
+58) 4) dialog: Carmine Tandino's glass eye! Way to go, kid.
+58) 11) dialog: Shit, I know who it is. It's Tandino's older brother.
+58) 13) dialog: Not many people did. Poor. guy was retarded. Family kept him at. home, and he did some work. sweeping up the warehouse. Jesus Christ, they killed a poor retarded guy.
+59) 10) dialog: More to the point, what. are you doing here? KELLOM. Yes, what are you doing here?
+59) 14) dialog: Daddy Mention.
+59) 16) dialog: (nods) And voodoo priest.
+59) 26) dialog: "The heart of your enemy makes you. strong”.
+59) 28) dialog: So what we got a nice little _gang war going here.
+60) 0) text: The spectators, almost all Remy's family, watch as Anne cross~examines Remy on the witness stand. Mama, prominent in the front row, is sitting on the edge of her seat, her face registering ever emotional shift as the drama unfold
+60) 2) dialog: Yes ma'am.
+60) 10) dialog: He did not. identify himself asa cop. TI thought he was a. mugger.
+60) 12) dialog: Yes. ANNE. And you ran away from a mugger?
+60) 13) dialog: I was trying to call for assistance, which is proper police procedure. Mama nods with approval, nudges Aunt Emmeline beside her. ANNE. They why did you chew up and swallow the envelope?
+60) 14) dialog: That's ridiculous, I did no such thing..
+62) 12) dialog: Why you're not under arrest. Did Uncle Sal here give you that impression? (to Uncle Sal) Apologize to the lady, Sal.
+62) 23) dialog: Hey,. Justin.
+62) 25) dialog: Yeah, that's what the judge said. * Remy sweeps the kid up onto his shoulders and dances him through the crowd. looking for Anne.
+64) 0) text: Remy approaches Anne.
+64) 1) dialog: Does: the lady care to dance?
+64) 3) dialog: (taking Anne's arm) I eut.a hell of a rug, you know.
+64) 13) dialog: Still mad at me, huh?
+64) 15) dialog: And run a red light...don't forget that. ” ANNE. And. you. still think it is . funny. Face it, Remy, you're not. one of the Good Guys anymore. Anne turns and walks away. Remy watches her go. His face frozen. A taxi comes over the bridge and pulls up in front of the house. Anne trots toward it, and quick jumps in. Justin appears from behind a parked. car, staring at Remy, having heard it all. INT.. TAXI--NIGHT. ears are pouring down Anne's face, as the taxi speeds across the bridge over the Industrial Canal.
+65) 0) text: Guerra and Duvivier are dividing up the stacks of greasy bills again. Remy's head pops in the door..
+65) 2) dialog: Say, listen boys. I want you to do me a favor.
+65) 4) dialog: Take me off the pad.
+65) 6) dialog: Take me off. the pad. Duvivier and Guerra look at. each other, dumbfounded.
+66) 0) text: Remy hurries past the glassed-in security booth of the Property Room. There's a new YOUNG GUY behind the desk. He. waves eagerly to.Remy. Remy ignores him, keeps going. Kellom comes down the stairs, catches up to Remy, shoves some papers into his hand. :
+66) 2) dialog: What is this? Retirement papers? You? You. finally did. it?
+66) 9) dialog: I don't believe you.
+66) 11) dialog: You asked her to marry you?
+67) 2) dialog: Anne Osborne, please. Detective McSwain calling. ‘He sticks his head out into the squad room.
+67) 6) dialog: (continuing) McCabe, Dodge, DeSoto, Foster-- my office. Bring everything you've got. (continuing to phone) All right. Tell her I'll call back later.
+68) 0) text: He hangs into the fighting gets it. up the phone as the four detectives jostle tiny room, dumping files on Remy's desk, to get to the single empty chair. DeSoto They're like a football team grabassing in the locker room. Remy flips through the files.
+68) 2) dialog: (continuing) McCabe, what've you got that's new? McCABE (groans, hung over) Foster has. an interesting ° angle on the Freddie Angelo Murder. - {to Foster) You tell him.
+68) 11) dialog: What's this got to do with Freddie Angelo?
+68) 13) dialog: Freddie Angelo.
+68) 16) dialog: Now,. that. could explain a gang way. One kilo of heroin always seemed. too small-time for eight people to get killed over. But twenty, thirty keys. makes. a lot more sense. So: where's the rest of it? Nobody answers.
+68) 18) dialog: (coninuing) Did anybody talk to Daddy Mention?
+68) 25) dialog: (getting angry) It's not what he says, it's what you hear, asshole! You're supposed to be detectives, for Chrissake. Daddy Mention is the Number One suspect. in a string of murders you're supposed to be investigation, and you don't even go talk to the guy? McCABE Well, we all know. it's a gang war. Doddy Mention's trying to move in on Vinnie's actions.
+68) 26) dialog: It's all very neat, but I don't buy it anymore.
+68) 28) dialog: Anne: Osborne..
+68) 30) dialog: I don't know what she knows. But she. knows something. Which is more than you can say for yourselves. You haven't done shit since I've been gone.
+68) 39) dialog: Because we're The Police. That's why not. The Good Guys, remember? I'm going to talk to Daddy Mention. He stalks out. CuT TO: EXT. BASIN STREET--DAY © 118 Anne is walking along the street bordering St. Louis No. 1 Cemetery, with Lamar Parmentel, her former courtroom rival. The cemetery is a city of above- ground tombs. We hear, in the distance, the sound of a approaching BRASS BANK playing a very fast ’ yendition of Professor Longhair's "Goin' to Mardi Gras.
+71) 0) text: Remy is waiting impatiently in the shop. He laughs as ! he sees Lamar Parmentel step through the curtain. REMY. Lamar! Don't tell me you represent this sleazebag?
+71) 3) dialog: I want to talk to him.
+71) 5) dialog: I. didn't know you two. were so. close.
+72) 0) text: Lush, overgrown, Daddy Mention lies dead in the doorway of a small voodeo shrine. Nearby, a wounded, BLEATING goat. We hear the second line rhythms of the BRASS BAND (OFF), leaving the cemetery. Then, we hear the SQUEAL of tires from beyond the ten-foot-high wall. at the back of the yard. Anne runs up behind Remy. He sprints to the wall, leaps, catches the top, and vaults over.
+73) 0) text: Remy comes over the top of the wall, drops to the ground. The alley is T shaped--he's in the top of the T.
+73) 1) text: A four-door brown Ford is speeding toward. him, up the leg of the T. Remy rolls to avoid the oncoming car. Brakes SQUEAL, the Ford swerves right along the top of the T, roars off. Remy scrambles to his feet, FIRING.
+74) 8) dialog: dives. for his. gun.
+74) 15) dialog: runs down the alley after the Ford.
+76) 0) text: Anne drops down from the tree. Remy grabs her by the shoulders, shakes her.
+76) 1) dialog: \ What's: the goddamn secret? No at , bullshit now Anne. What's this evidence you people have of police involvement in the Freddie Angelo killing?
+76) 5) dialog: That was an unmarked police car--a piece-of-shit four-door with no chrome. Besides, you know anybody that can. drive like that? The only way to learn those kind of moves is years of pursuit driving... Now, what do you know?
+76) 12) dialog: How did they know it was an unmarked police car?
+76) 14) dialog: Why did you withhold that information from the police?
+76) 16) dialog: (to himself) There is. no gang war, is there. Remy looks around, coming out of his daze. Band members are picking themselves up. One or two people are. down and bleeding. The WAILING of Daddy Mention’s family pours over the wall. A police car pulls up on Basin Street; we hear other sirens approaching.
+76) 18) dialog: I don't know. The Police Department is my goddamn family.
+76) 28) text: - Hey, Lieutenant! Remy grabs Anne by the hand, drags her back down the alley.
+77) 0) text: Anne and Remy are already seated in the chambers when Judge Noland, the Judge at Remy's trial, bustles in. JUDGE. Ah, Miss Osborne, I'm sorry to keep you-- . (breaking off) Well, Lieutenant, I didn't expect to see you two together.
+77) 7) dialog: You aren't half as surprised as I am, Judge.
+78) 0) text: Remy's LeBaron pulls into the red zone in front of the station; Remy and Anne get out. Two uniformed police officers are waiting on the sidewalk’ for them. A police car pulls up behind Remy's LeBaron and another pair of uniformed policemen join Remy and Anne on the sidewalk. We recognize all four officers from the party at Remy's mother's house. Remy makes the introductions. REMY. TI don't think. you all met the other night. My uncle Sal, my: cousin. Joey,. my uncle Frank, my uncle Steve. They say hello. (coninuing) Thanks. for helping out.
+79) 0) text: Remy leaves Uncle Sal and cousin Joey just inside the door.
+79) 8) dialog: Check everybody going in or out. I don't care who they are.
+79) 18) text: The ANGLE WIDENS to SHOW Remy addressing the troops. Anne stands beside him rather intimidated by the loud grumbling of the officers.
+79) 19) dialog: Then I. want you to give me your _ ticket books and radio call legs, your mileage logs, and your TC 14's. Covering the dates in question. ~
+79) 21) dialog: I. don't care--I want this from all shifts.
+79) 25) dialog: Of course, Captain.
+79) 32) text: Evidently it's quite clear. There are no questions. ’ KELLOM Very well. (whispers to Remy) I wish you'd come to me with this Remy. There are ways to handle these things. He stalks off; there is a sigh of relief in his wake, but no more complaints.
+79) 33) dialog: I know this is a pain in the ass, but if it makes you feel any better once we get through here we're going to do the whole thing again with the detectives upstairs.
+80) 0) text: Dodge and DeSoto are about to leave the building, when Remy's Uncle Sal steps in front of them. : SAL. Serry boys. TI got orders to pat everbody down. They shrug, hold up thier hands. Sal kneels, patting Dodge's ankles and legs. DESOTO. I. tell ya, Sal, this lawyer is leading Remy around by his nose.
+80) 11) dialog: That's. car seventeen?
+80) 13) dialog: What. is your sector? .. while across the. seks, Anne talks with another cop...
+81) 0) text: Remy, Anne, Cousin Joey, and the GARAGE DISPATCHER, wander through the cavernous space, looking for the unmarked police car that tried to run Remy down. He spots it in a dark corner, among a bunch of disused vehicles.
+81) 1) dialog: There it is.
+81) 4) dialog: (to Joey) I want. this car impounded and dusted for fingerprints. cuT TO:
+82) 0) text: The sun has just set. . Anne and Remy come down the steps, laden with folders and manila envelopes, crammed. with documents, followed by Remy's four cop relatives. A dozen other cops watch, hostilely, as Remy and Anne shake hands with the relatives; drive off in the LeBaron.
+83) 7) dialog: My place or yours?
+84) 0) text: Remy and Anne are eating "po' boys" (New Orleans hero sandwiches) while they work. Remy frowns at the file he's looking at. . REMY. Have you: come across any pages like this?
+84) 3) dialog: What's the date on yours? ANNE. October twenty-fourth.
+84) 4) dialog: Mine too.
+84) 13) dialog: It means that they've already covered up the records; we're not going to find anything here.
+84) 15) dialog: Right.
+85) 0) text: Anne's chin is propped. up on her hand, eyes are drooping. Her pencil falls from her fingers, startling her awake. She looks over at Remy
+85) 1) dialog: He's working frantically, totally absorbed, shuffling papers, comparing files, jotting down little notes-- he seems to be on to something. Suddenly he stops, lets out a deep breath. He looks ill. Then he notices Anne watching him.
+85) 3) dialog: (startled) Huh? Why? ANNE. You look strange. REMY. Fried oysters at one o'clock in the morning. Why don't we just call it a night. She picks up the phone, starts to dial.
+85) 4) dialog: Who. you calling?
+85) 7) dialog: Why not’ stay here? (at her look) I'll sleep on the couch.
+85) 10) dialog: You'll. be coming back here first thing, anyway. No hanky-panky. I promise. The bed is yours if you want. it. :
+85) 12) dialog: Come on, Anne. Are you gonna ! be pissed off at-me for the rest of your life?
+86) 0) text: Remy knocks. on the: bedroom door.
+86) 1) dialog: Are you decent?
+86) 14) dialog: Can I get you anything?
+86) 16) dialog: Me, too. Goodnight. ANNE. (calling him back) Remy. You didn't answer my question before.
+86) 17) dialog: What. question?
+86) 19) dialog: (a beat, then) No. . He exits, closing the door.
+89) 0) text: Remy's awake, too. He hears a soft metal-on-metal noise like a key in a lock; grabs his .38 off the coffee table and braces himself just inside the front door. The door opens and Remy hits the light switch.
+89) 1) dialog: Freeze. The light catches Bobby tiptoeing into the apartment.
+89) 3) dialog: Be quiet. Anne's sleeping in the bedroom.
+89) 5) dialog: What's. it to you?
+89) 7) dialog: I thought you college kids liked sleeping on the floor
+90) 0) text: A CLAP OF THUNDER. Anne wakes, startled. For a second she doesn't know where she is, but then Remy's shirt reminds her. She gets out of bed, glances out the window---it's pouring rain--goes to the door. INT.. REMY'S APARTMENT-~SAME. Anne stumbles out of the bedroom, yawning and rubbing her eyes. Then stops, startled. 147 148 149
+90) 6) text: ANNE's POV--THE KITCHEN 150 A male figure, naked, except for a pair of jeans, ‘bending over, looking into the refrigerator. Then he turns, grins--it's Remy. Bobby brusts into the room.
+90) 8) dialog: (continuing) Why. don't you go out and get: some for us, Bobby?
+90) 10) dialog: fake my raincoat, Bobby.
+90) 12) dialog: Here's. some money, Bobby. Take a cab to the farthest place you ean think of. Have a large breakfast. Take in a movie. Then give me a call.
+90) 18) dialog: | Absolutely. | He starts toward her.
+90) 20) text: We are looking down at the entrance to Remy's building, from a. rooftop across the way. The rain is~flooding down.. Bobby comes out of the building, wearing Remy's: trenchcoat: hurries: up the street. We follow him through our telescopic sight, the crosshairs centering ’ en his. back..
+91) 0) text: Remy is galvanized by the sound of the rifle shot; crouches at the window on his knees.
+91) 12) dialog: Nothing. Dial 911, say shots fired, this address--tell them I'll be in the street
+92) 0) text: Gun in hand, Remy crouches in the entrance to his building. Down the block, near the Mini-mart, a erowd is gathering. Remy sprints toward the crowd of people. SIRENS are approaching. . Some of. the people notice Remy.
+92) 2) dialog: Police! Remy bursts through the crowd and sees Bobby lying on his back.
+92) 3) dialog: Oh, Cher.
+92) 15) text: TT - Anne! Reach here and hold this. Hold. it as tight as you can. Remy guides Anne's hand so that she takes his place holding the compress. Remy hurries away from Bobby's side to flag down the police cars. The lead car comes to. a smoking halt: inches from him.
+92) 16) dialog: (continuing) Call in a possible sniper, this location! Open your rear doors! Remy and one of the PATROLMEN lift bobby up and into the back of the police car--Anne goes along, deeping the compress in place. She squeezes into the back of the police car, holding Bobby slumped up against her. Bobby's blood is. pumping all over Anne's dress. Remy pushes the patrolman DRIVER across the seat, jumps in. behind the wheel, accelerates away, SIREN HOWLING, as four more police cars. arrive, COPS jumping out, scanning the rooftops.
+93) 0) text: Remy, Anne, Mama, Uncle Sal, and Cousin Joey are waiting anxiously outside the Emergency Room Deor. Nobody's talking; there are lots of creshed cigarette butts on the floor. Remy has his arm around his mother. Kellom hurries in, looking distraught. Mama sees him, runs. into his. arms, crying. Kellom holds her tight, strokes her hair. Remy walks up. to them.
+93) 2) dialog: (voice trembling) I. want to talk to you, Jack.
+93) 10) dialog: Nothing, Mama. Police . business. He. pushes Kellom firmly toward the door. Anne watches, perplexed. Mama turns to her, worried.
+94) 0) text: Remy and Kellom come out the back door into the grassy grounds of the hospital complex. The lawn is studded with huge, shady live oaks, dripping with: Spanish moss. Some childre'’s. playground equipment stands, unused, to. one side. Remy pushed Kellom roughly.
+94) 1) dialog: You have something to do with this don't you, Jack?
+94) 3) dialog: That bullet was meant for me. Bobby was wearing my coat-- that's why he got it.
+94) 9) text: Remy stares Kellom eyes Remy raises. Remy gapes: at him-- the scope of what Kellom's done 113. at him.
+94) 10) dialog: I was going over the logs last night. Some of them have been tampered with--patrol logs, arrest logs, vehicle logs-- all different departments. Only someone in command could have had access to so many different files. That's either you or me. Remy suspiciously.
+94) 12) dialog: Just you and me. Family
+94) 18) dialog: You were behind this whole thing from the very beginning, weren't you? You had Freddie and: the Mexicans killed, you. ripped of the dope, made. it. look like a gang war -- the Storyville murders. Carmine Tandino, Daddy Mention, thirty kilos of dope. You gonna swear on my mother you had nothing to do with all of that?
+94) 21) dialog: You. taught me a lot when I first came on the force. What was okay, what wasn't. Dealing heroin is not okay. Murder is not okay.
+94) 24) dialog: How can I walk away? This isn't weekly pad from the neighborhood businessmen. This is evil, Jack. You're doing an. evil. thing. Kellom is: hit. hard by this. There is a long beat where he searches. for something to say.
+94) 32) text: Remy punches him in the mouth; knocks him down.j . REMY. If you ever so much as touch my mother again, I'll kill you. You're under arrest. Remy reaches to his belt, pulls out handcuffs. At the same. moment, Kellom rolls over, facing Remy with a gen in his hand. At the same moment the
+94) 35) dialog: . Kellom's on the ground, pointing a gun at Remy, blood trickling from the side of his: mouth. . Remy hovers, frozen, over him, holding a pair of handcuffs. Mama starts running toward them. Remy turns, his back to Kellom, catches Mama in his arms. She looks up at him, pleading.
+96) 0) text: Remy is standing on the balcony, watching the traffic on the river, as he talks on the phone to Dodge.
+96) 2) dialog: I couldn't believe it, either. But he admitted it to me, right to my face.
+96) 4) dialog: Wouldn't. say a word.
+97) 0) text: Anne turns off the tap and, crossing back into the bedroom, overhears. the tail end of Remy's conversation.
+98) 0) text: Remy hangs up. He turns, sees Anne. (CONTINUED)
+98) 5) dialog: You know that 1 fixed that case you had against me -- a guy in the Property Room owed me a favor. ‘ ANNE, And you promoted him.
+98) 6) dialog: You knew that, too, huh? Before I got promoted, I was a bagman for Kellom. Just nickel and dime stuff. You figured it's the system, that it's not gonna make any difference if you take a few hundred here and there. You figure you deserve a good life, a decent living for doing a dirty job. You tell yourself you can be just as good a cop.
+98) 8) dialog: But. you. can't. She reaches out for him, takes Remy in her arms. They kiss tenderly for a moment, then pull away, hold onto each other, look out at the river.
+98) 11) dialog: (shrugs) Floated down from Lake Ponchartrain, I guess.
+98) 19) dialog: In a boat. How else?
+100) 0) text: Remy's at the wheel, careening along an endless row of empty and filled warehouses that line the Mississippi.
+100) 2) dialog: Dodge and DeSoto impounded a boat the night. Freddie Angelo was killed.
+102) 0) text: The ROAR of an oncoming train, conceals the gunshots. Remy's LeBaron shoots across the tracks just before the train comes barreling through.
+103) 0) text: Remy and Anne come down the gravel road and step onto the dock.
+104) 0) text: Remy sees the gate is open, pulls his gun, motions Anne to stay there. As soon as he steps through the gate, she follows. . EXT.. "LA MORDIDA”" =. SAME : 172 It's deadly quiet. Remy cautiously approaches "La Mordida”", slips down onto the deck, gun poised. He hears a SOUND behind him, whirls, pointing his gun -- it's Anne. He angrily waves her away, but she jumps down beside him onto the boat.
+104) 13) text: You turned on us Remy. *
+104) 14) dialog: Maybe we can make a deal... Anne looks at him, shocked.
+104) 16) text: (laughs) That's the old Remy!
+104) 17) dialog: What do you say?
+105) 0) text: Remy uses a winch handle to break into the yacht's cabin -- the hatch cover lock gives way with a LOUD CRACK.
+105) 5) text: Remy scrambles around in the dark cabin of the boat. His groping hands locate the radio, but there's no power. Right beside the radio Remy discovers a flare gun and a box of shells.
+105) 9) dialog: 
+105) 12) dialog: jumps. from. the motor-sailer to the slip and from there jumps on board the next boat, a 35-foot cabin cruiser with a flying bridge.
+105) 24) dialog: swings out from behind the bridge of the cabin cruiser and tries to get off a shot at Dodge, but...
+105) 26) text: tears a chunk out of the lower bridge of the cabin eruiser; it just misses Remy, who climbs up...
+105) 30) dialog: leaps down off the flying bridge.
+105) 39) dialog: who tries to reload the single-shot flare gun with frozen fingers as the SHOTGUN BLASTS send splinters flying past him. As soon as it's loaded Remy jumps up and fires.
+105) 42) dialog: jumps off the cabin cruiser to the slip beside it, but to
+105) 44) text: «»Dodge has. plenty of time to bring the shotgun up to his shoulder for a clear shot at Remy.
+105) 46) dialog: fired his flare gun, and...
+105) 52) text: The fire on “La Mordida™ is spreading fast; flames leap up the masts, Anne stands on the dock, still holding the shotgun, water streaming off her. Remy sprints toward her, grabs her hand and they run for shore.
+105) 53) dialog: sprint up the main dock and LEAP toward the shore as
+106) 0) text: Remy and Anne fall onto her bed (as if they had leaped from the dock to here) -=- roll together into an embrace.
+106) 2) dialog: (grins) I told you, chere -- we're the Good Guys! He moves to kiss her. Suddenly the sounds of TWO BEEPERS go off. Anne and Remy instinctively reach for theirs.

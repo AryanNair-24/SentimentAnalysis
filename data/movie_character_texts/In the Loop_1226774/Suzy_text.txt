@@ -1,0 +1,74 @@
+3) 0) text: Toby and Suzy walking to work together.
+3) 1) dialog: Did you take the washing out of the machine?
+3) 3) dialog: What do you mean, no?
+3) 5) dialog: It's going to go really stale.
+3) 7) dialog: It's not fine. By the time...
+3) 9) dialog: I don't want to go out with some who wears stale pants.
+3) 11) dialog: (Disgusted) Please. So: got everything you need for your first day in International Development? 
+3) 14) dialog: Simon Fluster.
+3) 16) dialog: Well he was crap on the radio last night. He sounded like a chicken with a wasp up its arse.
+3) 18) dialog: Have a good day, good luck honey.
+3) 20) dialog: I'll give you a call later. Keep your phone on. Bye.
+3) 22) dialog: Oh and be careful - cars!
+3) 27) text: Suzy is still in the FO office. 
+3) 29) dialog: I'm just checking whether you put last night's lasagne in the fridge.
+3) 37) dialog: Why did you put clingfilm on it?
+3) 40) dialog: It's in the fridge, that'll keep it fresh.
+3) 46) dialog: Clingfilm is carcinogenic, Toby.
+7) 0) text: Suzy and Michael in Michael's office. Suzy's getting documents together for the big meeting. Michael's at his computer, on the phone. Classical music still on.
+7) 3) dialog: Listen, shall I just give Toby a quick call about the Simon Foster thing? Suzy dials.
+8) 0) text: Toby checks the phone. Sees it's Suzy -- Christ, not her again, I'm a bit busy here. He answers.
+8) 3) dialog: So? How's it going? You found the bogs yet?
+8) 5) dialog: (to Michael, re. the music)
+8) 10) dialog: Karen Clark, US Assistant Secretary of State?
+8) 12) dialog: Hang on, Michael wants to say something.
+8) 14) dialog: Meat.
+8) 16) dialog: Yeah, so you know -- Simon, between us, he's just going to be meat in the room.
+8) 19) dialog: (waving him away) Yeah. The Americans don't feel they're getting a real meeting unless there's thirty of you on each side. So Simon is...you know those polystyrene peanut things they use to pack electrical goods? Sort of one of those. But you might not want to tell him that. I ought to go. I love you.
+10) 0) text: Simon, Toby and Judy are going through security. Suzy and Michael come to meet them.
+10) 7) dialog: Right.
+11) 0) text: Chad's dual horse-shoe is packed with people. The room's pretty much full. KAREN CLARK from the State Department is surrounded by ten or so aides and functionaries, security people and assistants. (Including Chad and LIZA one of Karen's senior aides.) Then there is Bob Adriano's gang of advisors, smaller but sitting separately. Next to them is a Pentagon delegation, including uniformed members of all three services. Lots of hubbub. SUZY leads SIMON, TOBY and JUDY in, and shows them to their seats. 
+11) 46) text: I wonder if there aren't some area of mutual agreement we can't rattle through here and see how much time we have at the end for this discussion? He's ended the debate. Suzy comes round the back of the meeting all smiles and hands Judy a note with a smile.
+11) 48) dialog: Is that all fine?
+11) 50) dialog: Thanks. Toby whispers something in Simon's ear. Simon doesn't look pleased. Karen is still talking to the meeting. Simon shuts up. He'll have this out later.
+76) 0) text: Simon and Judy on their way into the foreign office. Malcolm has gone in ahead. Suzy chatting on the stairs with Toby. Simon draws Judy to one side.
+77) 0) text: In a nice room. Malcolm is with Michael, Suzy and a couple of other civil servants.
+77) 7) text: Two CIVIL SERVANTS get up and exit. Judy walks across the room and starts making calls, as does Toby. Michael walks off into the next room, Suzy follows. They start calling.
+78) 0) text: Suzy, Michael and Judy are having a drink in a pub. Maybe they're sitting in a four seater booth? 
+78) 7) dialog: And gentleman.
+78) 11) dialog: If you can afford it.
+78) 13) text: He goes to the bar. His phone gets a text. Suzy picks it up, reads it.
+78) 14) dialog: Fucking hell. Here we go again. Fucking arsehole.
+78) 16) text: Suzy shows the phone to Judy.
+78) 20) dialog: You've got a text.
+78) 23) dialog: So, Liza. You shagged her?
+78) 25) dialog: (to Judy)
+78) 30) dialog: You haven't finished your drink.
+78) 32) dialog: Why did you do it?
+78) 36) dialog: You had sex because of the war?
+78) 40) dialog: Actually I'll go. She goes. Toby goes after her.
+79) 0) text: Toby lets himself into the flat. Goes through to the kitchen. Suzy is there with Michael.
+79) 2) dialog: What?! What the fuck are you doing here?
+79) 4) dialog: No you don't actually. (to Michael)
+79) 5) text: I'll go make that tea. Suzy and Toby go into the kitchen.
+79) 12) dialog: Don't forget your hydrocortisone.
+79) 15) dialog: No, it's fine. Stay.
+80) 0) text: Toby is in the bedroom. A few boxes are lying around. He's putting clothes into bin liners. Suzy is hovering. Michael brings through some teas. The atmosphere is very frosty and awkward.
+80) 2) dialog: Your geography teacher's jacket?
+80) 10) text: Toby moves through to the kitchen to get his jeans. Suzy and Michael follow. 
+80) 12) dialog: Has she got big tits?
+80) 14) text: Toby gets his jeans and some other clothes. He's laden down with boxes and bags and can hardly see. Comes out into the hall. Suzy is there without Michael.
+80) 16) dialog: Okay.
+80) 17) text: Toby struggles to open the front door. Suzy opens it. Toby goes to leave then stops.
+80) 19) dialog: Quickie?
+80) 21) dialog: Oh good tell me more, tell me more about her tits.
+80) 25) dialog: You are such a fucking coward, you know that? And this is what? A make up leak?
+80) 28) dialog: Toby, take your rubbish clothes and your back issues of Mojo, your flute, and your eighth of dope and leave me the fuck alone. Toby leaves the memory stick in the flat. Then heads out.
+92) 0) text: Michael and Suzy are sitting talking in an FO office. Jamie bursts in.
+92) 5) dialog: Was what me?
+92) 9) dialog: I didn't leak anything. I don't know what you're talking about.
+92) 12) dialog: No I'm not.
+94) 2) text: Suzy, how's it going? Has Jamie been round? Right... Liza comes over.
+95) 0) text: 108 Michael and Suzy in Michael's office, classical music in the background. Michael's clearing his desk, putting stuff in boxes. Jamie bursts in on Michael and Suzy, his phone still on.
+95) 4) dialog: Refine it?
+95) 17) text: Michael looks at Suzy. She doesn't know what to say or do.

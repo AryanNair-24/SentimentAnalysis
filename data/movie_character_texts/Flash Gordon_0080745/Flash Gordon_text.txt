@@ -1,0 +1,150 @@
+3) 0) text: (CO-P:ILOT, DALE, FLASH, PILOT)
+3) 2) dialog: What was that, fellas? 2.
+3) 8) dialog: Can I have an autograph for my kid, Mr. Gordon?
+3) 10) dialog: Sure -- my pleasure.
+3) 15) dialog: I sure hope we don't have to turn back. I mean this is first day of training camp, I wouldn't want to be
+3) 21) dialog: Maybe it'd be smoother if you went
+4) 0) text: (DALE, FLASH)
+4) 3) dialog: When you're nervous, it can help to chew on something
+4) 7) dialog: I'm not a stranger exactly -- You know my name.
+4) 11) dialog: Of course.
+4) 15) dialog: Backwards?
+11) 0) text: (DALE, FLASH)
+11) 5) dialog: I can fly all right -- I've had a couple of lessons! -- just don't if I can land!
+11) 9) dialog: 
+11) 15) dialog: No but I'd sure like to! How'd The man fall ninety stories didn't break a bone?
+12) 3) dialog: Brace yourself I'm aiming at that field up ahead!
+16) 0) text: (DALE, FLASH)
+16) 3) dialog: Dale! Are you all right?
+16) 8) dialog: Come on -- let's get out before she blows!
+17) 0) text: (DALE, FLASH, ZARKOV)
+17) 3) dialog: Hello. i'm Flash Gordon, this is Miss Dale Arden --
+17) 8) dialog: This crazy storm knocked us down could we use a phone?
+17) 12) dialog: Some weather huh?
+17) 31) dialog: Well, all right -- but it seems to me we ought to --
+17) 37) dialog: Mister, you are insane!
+17) 43) dialog: Go with the flow -- wait for a chance!
+18) 0) text: (DALE, FLASH, ZARKOV)
+18) 7) dialog: Take off for where?
+28) 0) text: (DALE, FLASH, ZARKOV)
+28) 5) dialog: Made it where, Doctor?
+29) 0) text: (ARMORED MEN, FLASH, LEADER, ZARKOV)
+29) 3) dialog: Hello -- my name's Flash Gordon -- can you understand me?
+29) 10) dialog: Hi!
+29) 19) dialog: Thanks, Doctor -- next time I'll call my own play.
+30) 0) text: (DALE, FLASH)
+30) 6) dialog: What are you doing?
+32) 12) dialog: You got us into this -- HOW DO WE
+32) 17) dialog: Dr. Zarkov, I'm about to show you what it feels like to be clipped by a New York Giant --
+32) 46) dialog: I'm Flash Gordon of the New York Giants this is Dale Arden -- Dr.Zarkov hijacked us in an effort to save EARTH.
+32) 55) dialog: But why? What in hell have we ever done to hurt you?
+32) 82) dialog: Oh no you don't! We came together and we're STAYING together!
+32) 115) dialog: Watch out! Behind you!
+32) 130) dialog: I can't -- I just can't --
+32) 134) dialog: Clobber a woman, Dale --
+36) 0) text: (AURA, FLASH)
+36) 5) dialog: Hit what water?
+37) 0) text: (AURA, FLASH, PLASH)
+37) 5) dialog: You're saving my life. How can I Thank you?
+37) 9) dialog: Let's get one thing straight -- I've got to find Dale and that nut Zarkov too -- rescue them and try to save Earth too.
+37) 13) dialog: I'm no good at lying.
+38) 0) text: (AURA, FLASH)
+42) 0) text: (AURA, FLASH)
+42) 3) dialog: Listen, where's he got Dale?
+42) 8) dialog: I can't! I mean I hardly know her,
+42) 13) dialog: What?? Marry her? What are you talking about?? 28.
+42) 19) dialog: Can I honestly?
+42) 26) dialog: Here we are where?
+42) 32) dialog: Those are ROCKET SHIPS in there! I can't fly a damn rocket ship!
+48) 0) text: (AURA, FLASH)
+48) 3) dialog: Some lucky people live on that one too?
+48) 7) dialog: Why don't they team up and fight him?
+48) 12) dialog: 
+48) 15) dialog: Sue -- but that wasn't a team effort.
+48) 22) dialog: Why? 33.
+48) 26) dialog: You can really transfer your thoughts with that? Like I could get in touch with Dale?
+48) 31) dialog: Please.
+50) 0) text: (AURA, FLASH)
+50) 4) dialog: That's right, Princess В·В·В· and we're not pulling out until you put that gadget over my head and tune me in to Dale Arden!
+51) 0) text: (DALE, FLASH'S VOICE, HEDONIA)
+52) 3) dialog: 
+53) 0) text: (DALE'S VOICE, FLASH'S VOICE, FLASH' S VOICE)
+53) 13) text: (DALE'S VOICE, FLASH'S VOICE, FLASH' S VOICE)
+57) 4) dialog: Sorry. I guess landings aren't my thing.
+58) 0) text: (AURA, FLASH)
+58) 4) dialog: Where's Robin Hood?
+58) 8) dialog: It doesn't matter. How do we get down.
+63) 0) text: (AURA, FLASH)
+63) 3) dialog: Listen -- are you sure this Barin will help me?
+64) 0) text: (AURA, FLASH)
+64) 4) dialog: It's amazing -- I dreamed of this tree-house when I was a kid --
+67) 0) text: (AURA, FLASH)
+67) 2) dialog: 
+67) 5) dialog: These are the guys who are gonna help me?
+68) 0) text: (BARIN, FLASH)
+68) 13) dialog: I know just how he feels -- we played the Pittsburgh Steelers last year.
+72) 0) text: (AURA, BARIN, FLASH)
+72) 21) dialog: I'm from Earth, Prince Barin. My friends and I were Ming's prisoners. She kindly brought me here to enlist your help.
+72) 29) dialog: Keep me for.....????
+72) 51) dialog: I'm not your enemy, Prince Barin. we share a hatred of Ming 44.
+73) 0) text: (AURA, BARIN, FLASH, TREE MEN)
+73) 5) dialog: 
+73) 8) dialog: I think I'll pass on this one.
+73) 14) dialog: 
+73) 17) dialog: Would you give Dale a message from me? Tell her I'm sorry how things have panned out -- I Loved her.
+73) 21) dialog: What the hell? Forget it. Sending that message by you is like sending a lettuce-leaf by a rabbit.
+73) 26) dialog: Whew! -- Your turn, Prince Barin.
+73) 37) dialog: What are you waiting for?
+73) 48) dialog: Boy. You oughta be handled with a forked stick yourself.
+73) 65) dialog: 
+74) 0) text: (FLASH, TIGER MAN)
+74) 5) dialog: You can speak?
+74) 10) dialog: Have we a chance, Tiger Man?
+74) 14) dialog: What do you mean?
+74) 21) dialog: Damn. End of the line.
+74) 27) dialog: 
+74) 37) dialog: How far will this take us?
+75) 0) text: (BARIN, FLASH, TREE MAN, TIGER MAN, TREE MAN LEADER)
+75) 15) dialog: Blue. We call is blue.
+76) 0) text: (FLASH, TIGER MAN)
+76) 3) dialog: Which way to the border:
+77) 0) text: (BARIN, FLASH)
+77) 10) dialog: What's the point of all this killing? Why don't we team up and overthrow Ming?
+88) 0) text: (BARIN, DALE, FLASH, SARIN, VULTAN, ZARKOV, ZAAKOV)
+88) 27) dialog: Where's Dale?
+88) 40) dialog: Dale baby!
+88) 45) dialog: Yes -- it was me --
+88) 49) dialog: Every thought, baby! --
+89) 0) text: (BARIN, DALE, FLASH, HAWKPEOPLE, TIGER MAN, VULTAN)
+89) 5) dialog: We're all Ming's prisoners. I say let's team up and smash him.
+89) 19) dialog: Well, back home it's what I'm paid for -- I called a pretty good game against the Dallas Cowboys once ---
+89) 27) dialog: Oh god -- here we go again --
+89) 31) dialog: 
+90) 0) text: (DALE, FLASH, ZARKOV)
+90) 5) dialog: (low, bitter) I've got to.
+93) 0) text: (BARIN, DALE, FLASH, MING'S VOICE, VULTAN, ZARKOV)
+93) 13) dialog: 
+93) 18) dialog: Quite a lot!
+93) 29) dialog: 
+93) 38) dialog: (gasping at BARIN) Try to catch my wrist! -- the other one.
+93) 44) dialog: 
+98) 0) text: (DALE, FLASH, VULTAN, ZARKOV)
+98) 12) dialog: Guess the first thing you and me are gonna do after we land..!
+98) 16) dialog: Gonna do it first thing -- around here, never know if you'll get another chance! 65.
+98) 29) dialog: I'm coming, Dale! (to his Hawkmen) Follow her -- climb!
+101) 0) text: (BARIN, FLASH, VULTAN, ZARKOV'S VOICE)
+101) 17) dialog: Let him go -- I understand. (up to Vultan) Thanks anyway for getting us this far!
+102) 0) text: (FLASH, ZARKOV)
+102) 2) dialog: 
+102) 5) dialog: What's the game-plan?
+103) 0) text: (BARIN, FLASH'S VOICE, ZARKOV)
+112) 0) text: (FLASH'S VOICE, VULTAN)
+113) 21) dialog: 
+114) 0) text: (FLASH' S VOICE, SOLDIER)
+119) 0) text: (BARIN, FLASH'S VOICE, ZARKOV)
+121) 0) text: (BARIN, FLASH'S VOICE, TIGER MAN, ZARKOV)
+132) 0) text: (FLASH'S VOICE, HAWKMAN CAPTAIN, VULTAN)
+138) 0) text: (DALE, FLASH'S VOICE, HIGH PRIEST, MING)
+144) 0) text: (DALE, FLASH, ZARKOV)
+144) 3) dialog: What's the matter, darling?
+144) 9) dialog: Zarkov is right.

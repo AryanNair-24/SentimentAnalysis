@@ -1,0 +1,422 @@
+0) 2) dialog: I can hardly hear you.
+1) 0) text: Start very close on a phone and Hank's ear.
+1) 2) dialog: (confused) My son is in Iraq. Widen to see HANK DEERFIELD cradling the phone, sitting o the edge of his bed. You don't have to ask if Hank has se war, he speaks with the confidence of someone who has bee to hell and mapped the terrain. He keeps himself in shape and is not a man who is often caught off guard, which mak his confusion that much more troubling.
+1) 4) dialog: Soldier, if my son was back I would sure as hell know about it. JOAN DEERFIELD, Hank's wife, enters to check what's going on. Joan's a good looking woman, younger than Hank.
+1) 8) dialog: Some horse's ass. Did Mike email you?
+1) 10) dialog: (exiting) You really should have someone show you sometime.
+2) 0) text: Hank's desk sits in the corner of an unfinished attic roo Hank checks his answering machine, no messages. He taps t older model laptop computer on his desk; the black screen disappears, revealing his email program: one message -- someone looking for a missing weigh bill. Hank picks up t phone and presses an autodial number.
+2) 2) dialog: Hey, Mike, it's your old man. Heard you're back. Give me a ring when you get a chance. Hank hangs up, considers.
+3) 0) text: Theirs is a modest two bedroom home lying a front-yard's distance off the highway. An ancient but well maintained dump truck sits at the back of a long gravel drive, front end jacked up. The truck door reads Deerfield Hauling. Hank slides out from under the truck with a tie rod and w in his hand. He drops the rod into the box of his 1989 Fo F150 pickup, puts his wrench in the tool chest and pulls his coveralls. (CONTINUED)
+4) 0) text: Hank waits, the busted tie rod on the counter. A TV in th corner plays a press conference about the state of the wa STU, the 60ish salesman, returns with a new rod.
+4) 2) dialog: You're sure this one will fit.
+4) 4) dialog: What day was that?
+4) 6) dialog: Stu, unless I'm mistaken, the only action you saw was Kent State. Shot a school boy, didn't you?
+4) 8) dialog: Yeah. That's what I heard. Hank takes the tie rod and leaves.
+5) 0) text: Hank steps out of the PARTS STORE and gets into his picku He slows as he passes the local high school, noticing... (CONTINUED)
+6) 0) text: Hank enters to be greeted by LENORE, the cheerful receptionist. The flag is clearly visible from the window
+6) 1) dialog: Hi.
+6) 3) dialog: I'm Hank Deerfield.
+6) 5) dialog: Miss...
+6) 7) dialog: Lenore. Have you looked out your window this morning?
+6) 9) dialog: This window right here. Do you see anything odd? The flag?... (nothing) See how it's flying upside down?
+6) 12) dialog: It is the morning.
+6) 14) dialog: Lenore, do you happen to know what it means, a flag flying upside down?
+6) 16) dialog: No--
+6) 18) dialog: --That's flying at half mast.
+6) 20) dialog: Yeah, it could. But it doesn't. Who raises the flag every morning, the principal?
+6) 22) dialog: (this is getting worse by the second) The janitor raises the flag. who takes it down at night?
+6) 24) dialog: Right. So, why don't we ask Juan to fix it right now? (CONTINUED)
+6) 27) dialog: Fine. Then I'll do it.
+6) 29) dialog: A flag is not school property. All flags are property of the US government, who loan them to us under the promise that we treat them with respect.
+6) 31) dialog: In the trash. Listen, before I get myself in a lot trouble, why don't you just tell me where to find Juan?
+7) 0) text: Flooded, Hank stands in an inch of brown water. JUAN drop his pipe wrench back into his toolkit on the sink. Juan h a Mayan face and speaks with the accent of an immigrant.
+7) 2) dialog: I'd really appreciate it. Juan shrugs and heads out, wiping his hands. Hank takes a long look at the mess before exiting.
+7) 3) text: Juan reattaches the flag. Hank snags the tip just before hits the grass.
+7) 4) dialog: You don't let it touch the ground.
+7) 6) dialog: Where are you from?
+7) 8) dialog: What's your flag look like?
+7) 10) dialog: You know what it means when a flag is hung upside down? (he doesn't) It's an international distress signal.
+7) 12) dialog: No shit. It means we are in a whole lot of trouble, so come save our ass, cause we haven't got a prayer in hell of saving ourselves.
+7) 14) dialog: Yes, it does. So, you know how to do it now?
+7) 16) dialog: Good. Juan looks up at the flag flying. Hank walks to his truck
+7) 17) text: Joan watches from the kitchen window. Out in the drive, Hank lies under his dump truck, smacking the rod with a mallet. He curses it and rises.
+8) 1) dialog: (passing the kitchen) Anyone call?
+9) 0) text: The phone rings in Hank's ear, until:
+9) 2) dialog: First Sgt. Arnold Bickman, Criminal Investigations Division.
+9) 4) dialog: Thank you. Hank hangs up, swivels in his chair and sees Joan standin in the open doorway.
+10) 0) text: Hank opens his top drawer, removes three neatly folded pa of underwear, socks, three white undershirts. He tucks th into a small zip bag and opens his second drawer, removes three starched white cotton shirts and a shoe shine kit.
+10) 3) dialog: If he's holed up somewhere celebrating, the last thing he needs is his mother walking in on him. I'll call you when I get there tomorrow night.
+10) 5) dialog: For some people. He kisses her on the forehead, puts his laptop under his and exits.
+11) 0) text: Copies of Soldier of Fortune share the shelves with sport memorabilia and snapshots of Mike and his buddies in Bosn (circa 2001) and Iraq (2003). Hank fingers an autographed football, puts it back and slips a photo of Mike in his d uniform out of the frame. He pockets it and heads out, flicking off the light.
+13) 0) text: Hank does what he does best, drive. An oncoming big rig blinds him with its high beams. Hank squints.
+14) 0) text: Hank WAKES with a start. He hears tapping. Hank looks to his driver's side window and is surprised to see...
+14) 5) dialog: Good. You?
+15) 0) text: Hank puts away his shaving kit, buttons the cuffs of his newly pressed cotton shirt.
+16) 0) text: The pickup drifts up to the guard kiosk and Hank hands th GUARD his ID - RETIRED MILITARY.
+17) 0) text: Hank waits. SERGEANT FIRST CLASS DAN CARNELLI steps out.
+17) 2) dialog: Hank. Thanks for seeing me, I know you're busy. (CONTINUED)
+18) 0) text: Hank and Sgt. Carnelli sit. A corporal brings in coffee.
+18) 1) dialog: What about his buddies?
+18) 3) dialog: ...You mind if I had a look at his quarters?
+19) 7) dialog: No.
+19) 10) dialog: You find that surprising?
+19) 15) dialog: Doc?
+19) 19) dialog: You boys have any idea where Mike could be?
+19) 22) dialog: Yeah.
+20) 0) text: Bonner retreats into the adjoining bathroom. Through it, Hank sees a bedroom beyond. (CONTINUED)
+20) 3) dialog: Your room?
+20) 5) dialog: (re: second bed) Who is this?
+20) 8) dialog: Yes.
+20) 10) dialog: There are no photographs.
+20) 12) dialog: Mike's always taking pictures, emailing them to me. I don't see any photographs. Or a camera.
+20) 17) dialog: No. Hank steps to Mike's bedside table. He fingers open the Bible lying on it. The inside leaf is stamped: Courtesy o Chaplain Services. He pulls open the drawer and notices a battered cell phone hiding amongst the junk.
+20) 18) dialog: (re: Bible) Mind if I take this? His mother gave it to him. I left mine at home. As he picks up the Bible with his right hand he smoothly palms the cell phone with his left and slips it into his pocket. He looks to the bathroom door and notices Bonner, looking away, tucking in his shirt. Did he see him palm t cell phone?
+20) 20) dialog: I understand. He puts the Bible back on the bedside table.
+21) 0) text: Hank signs out and walks off toward the exit.
+21) 2) dialog: Hank.
+21) 4) dialog: You know where I could find her? (CONTINUED)
+21) 8) dialog: Thank you. Hank turns and walks off.
+22) 2) dialog: It's been in Iraq.
+23) 0) text: Hank stands next to the open door of a panel van. Inside GABRIEL, a cell phone technician sits at a bench with a computer and equipment. He plugs the phone in under:
+23) 1) dialog: I need any phone numbers in memory. Garbled information comes up on the computer screen.
+23) 3) dialog: Give me that one. The technician points to the screen. Hank points to the guy's cell phone.
+23) 4) dialog: May I? (CONTINUED)
+23) 9) dialog: Anything else?
+23) 11) dialog: TD's?
+23) 13) dialog: Thanks. How much? Hank digs for his wallet. The technician studies the scre
+23) 19) dialog: That's Mike.
+23) 21) dialog: That feeling is probably mutual. Any more?
+23) 23) dialog: (digs out wallet) Can you email them to me?
+23) 25) dialog: (handing him $100) Where's TD's?
+24) 0) text: Naked women twirl on poles to unbearably loud RAP MUSIC. The place is jammed with off duty soldiers. The BOUNCER points to the bar. Hank squeezes through the crowd and fi the BARTENDER. He pulls out Mike's photo and shouts to be heard:
+24) 1) dialog: I'm looking for my son! The bartender nods towards the crowd: "good luck." Hank steps deeper into the club, scans the faces. He's quickly overwhelmed.
+25) 0) text: As he leaves, Hank glances over to a small group of men standing between two cars. (CONTINUED)
+27) 0) text: Hank checks in.
+27) 2) dialog: I've been waking up without an alarm every morning at four a.m. for the past forty years; I think I'll be okay.
+28) 0) text: - Hank checks his email. His In Box is empty. - Hank runs his fingers down the crease of his pants and lays them flat between his mattress and box spring. - He polishes his shoes and squares them beside the bed. - He calls his wife. As he speaks, Hank clicks through a folder of photos his son emailed from Iraq, shots of him his buddies.
+28) 2) dialog: I'll ask him when I see him.
+29) 4) dialog: I'll find him.
+30) 0) text: Hank hangs up. Hank stops on a photo that seems to troubl him, we don't see it.
+31) 0) text: Hank wakes in darkness, disoriented. The clock reads 3:58 AM. He switches on the lamp.
+31) 1) text: - Hank snaps open the curtains. - He pulls his bed sheets so tight you could bounce a coi off them, and folds an impossibly sharp corner. - A maid pushes her cart along the walkway. Through his bedroom window, Hank's computer comes to life. Hank check his email: no new messages. - He pulls a crisp cotton shirt from his overnight bag. - He takes the local phone book from the drawer.
+32) 0) text: The first rays hit the Imperial Motel sign. Hank steps in the coffee shop next door carrying the phone book. 21.
+34) 0) text: Hank at the payphone, the phone book propped on the shelf lots of pen lines scratching off highlighted numbers. CNN coverage of last night's presidential press conference pl on the TV in the background.
+34) 1) dialog: Morning, is this Jennifer Lopez? Do you speak English?... (hangs up, tries next) Hello, I'm looking for Jennifer Lopez. (beat) Beverly Hills, thanks very much. Hank hangs up. Considers. Flips through the book until he finds a listing for ARNOLD BICKMAN. He dials.
+34) 3) dialog: Arnold Bickman?
+35) 0) text: Looking out through the glass, we see a man who looks lik he'd be an ARNOLD BICKMAN get out of his camper and limp towards the restaurant like a man who needs a new hip. He Hank's age, but looks ten years older. Unlike Hank, Arnol is no longer "fighting trim." Hank waves him over from hi booth. They shake hands heartily.
+35) 2) dialog: What the hell you doing at home?
+35) 4) dialog: I called you at the base -- (CONTINUED)
+35) 8) dialog: You did not.
+35) 10) dialog: Fine. You want coffee or a piece of pie?
+35) 12) dialog: (looking) That her? She looks as old as you do. Arnold has to laugh.
+35) 14) dialog: No, I was hoping you were still at CID; I wanted a friendly face.
+35) 16) dialog: No.
+35) 18) dialog: David.
+35) 22) dialog: Yeah.
+35) 24) dialog: He died. On maneuvers at Fort Bragg. Helicopter crash. Ten years ago.
+35) 26) dialog: Mike. He's regular Army, like his dad. He's in Iraq, doing real well. (beat ) I'm just doing a favor for a neighbor; her boy got in a little trouble. Anybody we know still there?
+35) 28) dialog: She keeps you on a schedule.
+36) 2) dialog: It was just good to see your old sad bones.
+36) 6) dialog: That'd be great. (looking at Helen) Your wife, just how old is she? Arnold laughs and walks off. Hank waves.
+37) 0) text: Hank comes out of a bar, looks around.
+38) 0) text: Hank sits silhouetted by the motel signs outside his wind as he downloads a video file sent to him by Gabriel, aka "PhoneGuy@Earthlink.Net."
+39) 0) text: Hank enters.
+40) 0) text: Hank returns a form to JODIE, the civilian worker wearing headset behind the desk. She gives it a quick glance. (CONTINUED)
+40) 4) dialog: Yes, ma'am.
+40) 6) dialog: They're pretty busy with the war and everything, so I'm trying to check things out myself.
+40) 8) dialog: Fine.
+40) 10) dialog: How about you let me talk to someone who does more than answer phones?
+41) 0) text: Hank waits as Detectives come and go. He rises and STEPS INTO THE OFFICE, where he eyes DET. EMILY SANDERS listeni impatiently to a young white woman we will call ANGIE.
+41) 20) dialog: That kind of morning, huh?
+41) 22) dialog: Yeah, but I'm trying to keep my son out of more trouble. Listen, I know you're busy, but all I need you to do is make a call to his bank, see if he's withdrawn any funds or used his credit card in the last week.
+41) 25) dialog: Military Police, retired.
+41) 27) dialog: Listen, I don't know what you think your job is. If it is anything like mine, it was to roll up the drunks, twiddle my thumbs and not ask too many questions. But my son just spent eighteen months bringing democracy to a shithole and serving his country. He deserves better than this. He drops the form and walks out. 28.
+42) 0) text: Looking in through the window we see Hank on the phone. H computer screen shows an on-line banking form.
+42) 2) dialog: Is there anything written on it? I need a password.
+43) 2) dialog: Are you sure? Hank hears the sound of email arriving. He minimizes the bank webpage to reveal his email account and an email fro PHONEGUY. He downloads the attachment.
+43) 5) dialog: He's a good boy. He'll have a reason.
+43) 11) dialog: I'll find him. I'll talk to you tomorrow. And he hangs up and hits play.
+44) 0) text: Hank wakes, startled. He must have fallen asleep, but he can't recall. He checks his watch: 7 PM. He sits up.
+46) 0) text: Hank enters. The motel clerk is watching TV; war coverage
+46) 1) dialog: Do you have an iron?
+46) 3) dialog: You have a good hardcover book? 31.
+48) 0) text: Hank washes his cotton shirt in the sink.
+50) 0) text: Hank stretches the wet shirt flat over the bureau.
+52) 0) text: Hank picks up the hardcover book and runs the sharp edge along the wet shirt to press out the wrinkles.
+54) 0) text: Hank hangs the shirt up on the shower rod and turns off t light.
+55) 0) text: Hank swings his legs over the edge of the bed. It's still dark. The clock glows 6:17 AM. He looks at it oddly, chec his watch to make sure it's right.
+56) 0) text: Hank lathers with soap and shaves. Sees that he's nicked himself. Hates that. He sticks a dab of paper on the cut.
+57) 0) text: The sheers glow with the early light as Hank makes his be
+58) 0) text: The sheers are open now as Hank steps out and into the pa of the MATRONLY ASIAN HOUSEKEEPER with her cart. (CONTINUED)
+59) 0) text: Hank eats his usual breakfast, watching the war news on C as he adds items to the list on his neatly written pad. H notices blood smeared on his hand and white cuff and real his neck is bleeding again.
+60) 0) text: Hank returns to the motel. As he gets to his door, he hea a car door close, sees an army officer in full dress unif approaching. Call him CAPTAIN OSHER.
+60) 2) dialog: Come in, I'll just be a minute. Hank steps into...
+62) 0) text: Hank opens the bathroom door and stops, as he sees: Capta Osher standing at attention, holding a salute. Hank awkwa returns it.
+62) 2) dialog: Right. They'll need me to identify him.
+62) 7) dialog: What do you mean, partial? What happened to him?
+62) 9) dialog: I want to see his body. Now.
+64) 0) text: Hank rounds the corridor with Lt. Kirklander, who tries o last time.
+64) 2) dialog: Maybe not, but it's the way he left this earth, so I don't see as I have a choice. Kirklander sees Hank won't be dissuaded. An Army MEDICAL EXAMINER in a lab coat approaches. Kirklander nods to him
+66) 0) text: Hank and Kirklander stand on one side of a large stainles steel table, the Army Medical Examiner on the other. Betw them lie the charred remains. Kirklander watches Hank und (CONTINUED)
+66) 4) dialog: How many?
+66) 6) dialog: How many wounds?
+66) 8) dialog: How many of those are there? Only now does the medical examiner begin to understand th obvious, that he's telling all this to the corpse's fathe He checks his pad, looks up.
+66) 10) dialog: (beat) One knife or several?
+68) 0) text: Kirklander and Hank round the corner from the M.E.'s offi
+68) 2) dialog: Ask them now.
+68) 4) dialog: Mike doesn't own a car.
+68) 6) dialog: I'd like to see where he died.
+68) 10) dialog: Okay. (silence) What else you want to ask?
+68) 12) dialog: (walks off) Are you asking if Mike was a drug dealer or just an addict?
+68) 14) dialog: You know the Army does regular drug tests.
+68) 16) dialog: You think my son could have been a drug mule because he spoke Spanish?
+69) 0) text: Sanders pulls on her jacket and heads out. Turning into t hall, she spots Hank on the long wooden bench.
+69) 4) dialog: Show me.
+69) 6) dialog: I need to see where he died.
+69) 8) dialog: But you know where it is.
+69) 10) dialog: Then there shouldn't be a problem with me seeing it. Sanders sees how hard Hank is trying to hide his pain.
+70) 0) text: Sanders leans against her blue Ford Taurus in the sickly yellow wash of the streetlight, her car parked the wrong on the gravel shoulder, high beams failing to illuminate much of the field where Hank stands. Finally:
+70) 1) dialog: You people sure as hell know how to trample a crime scene, I'll give you that. Hank squats where the body was burned and pivots, shining his flashlight at the tumbleweeds and scrub brush.
+70) 2) dialog: Suppose you figured it was a good idea to have everyone you ever met park on this shoulder. (beat) If your crime scene boys had known where to dig, they'd have found traces of blood in the gravel here. It's where he was killed.
+70) 6) dialog: Yes, miss. Just like I see how his body was dragged from here to there.
+70) 8) dialog: You go to all the trouble of burning a body, you don't think you'd try and cover your path? Hank hands her the flashlight and walks off across the ro toward the parking lot and the gun store on the far side.
+70) 9) dialog: Going to use the restroom. Curious now, Sanders takes her flashlight and steps into field. Hank struts across the road. Without looking back:
+70) 10) dialog: You might find it easier to drive around the field. You couldn't do more damage. She throws a look, then shines her flashlight on the grou finally spots a broken base of a tumbleweed -- lifts it a places it aside. She takes another step toward the fire site and finds another broken weed and puts it aside.
+71) 0) text: Hank crosses the parking lot and opens the front door.
+73) 0) text: Hank waits. JO ANNE steps up to the counter. She's dresse like she's looking for a man to take her away from here.
+73) 1) dialog: Hi. I suppose the MPs have been in asking you questions about what happened over in that field. (CONTINUED)
+73) 5) dialog: I'm checking it out for the family. You mind if I ask you if you saw anything going on over there? Her jealous husband, RANDY, approaches to check out Hank.
+73) 7) dialog: ...How's that?
+73) 10) dialog: Thanks. Mind if I use your restroom?
+74) 0) text: Hank squats on the floor beside the toilet and lets the h of his son's body being burned overwhelm him.
+75) 0) text: Returning to the shoulder, Sanders turns and spots a dog the field, chewing on something. Her stomach tells her wh that something is. She curses silently as she throws a lo across the road; sees Hank coming from the parking lot. Sanders picks up a hand full of pebbles and tosses them t the dog, who balks but quickly returns. She throws a look in Hank's direction, gauges that he hasn't noticed and to another handful in the dog's direction. It barely even lo up this time. Hank arrives and steps to the Taurus. (CONTINUED)
+75) 3) dialog: You can tell your MP friends they should be looking for a blue car, not a green one.
+75) 5) dialog: Because a blue car under a yellow light looks green, doesn't it? Hank gets in and Sanders looks at her car -- which looks green in this light. Almost angry at herself for not seei the obvious, she opens her door and gets in. She does a U-TURN and DRIVES OFF. HANK watches the dog in the field.
+76) 1) dialog: Thanks.
+76) 3) dialog: I'd say that's accurate. And he walks away, leaving her wondering why she even tri to be nice.
+79) 0) text: Hank sits on the bed, his back to us, the phone to his ea caught in the glow of the passing headlights. (CONTINUED)
+79) 4) dialog: I'm going to find out.
+80) 2) dialog: No.
+80) 4) dialog: I'll bring him home soon as I can.
+80) 6) dialog: He is gone, Joan.
+80) 8) dialog: There is nothing left.
+80) 10) dialog: Joan, for once in your life can you just take my word for something?
+80) 12) dialog: Mike was the one wanted to join, I sure as hell didn't encourage it! (CONTINUED)
+80) 16) dialog: Joan?... Joan, please. (finally) Joan, I can't listen to you cry.
+81) 0) text: Sanders lies in bed holding her sleeping son, DAVID. Look at her boy, she can't help but imagine what Hank must fee
+82) 0) text: Hank sits on his bed, reading the motel's Bible, hoping t find comfort. His head turns as he hears the SOUND of an email arriving.
+87) 0) text: There's a knock on the door. Hank opens it to reveal GORD BONNER, Mike's squad mate. He seems nervous and overly polite.
+87) 2) dialog: В«Hi. (CONTINUED)
+87) 6) dialog: Anybody know you took this?
+87) 8) dialog: (beat) Can I buy you a coffee?
+87) 10) dialog: How about a drink? Bonner considers, softens.
+88) 0) text: Hank returns to the pickup with a brown paper bag. He sit and pulls out the fifth of whisky and two Dixie cups, pou
+88) 2) dialog: I need to ask you something. I'd like the truth. Was Mike doing drugs?
+88) 4) dialog: Christ.
+88) 8) dialog: You ever see him hanging out with anyone off the base, maybe Mexicans?
+88) 10) dialog: (beat) How you adjusting?
+88) 12) dialog: You called your parents?
+88) 14) dialog: Sure. (beat) We could have talked more. (beat) Did he ever say anything to you I should know?
+88) 16) dialog: (knows this is true) Yeah. But he did okay, Mike?
+89) 0) text: Through the window we see Hank get out of his pickup and head for his door. The camera circles until it finds the phone, its message light blinking. Hank's hand picks it u and punches the В© and waits.
+90) 0) text: As Hank approaches he can see there is only one person wa on the sidewalk: Joan, sitting on her suitcase. She stand as the truck slows. She opens the door and gets in. Hank drives off without saying a word.
+91) 0) text: Joan and Hank stand with Kirklander in the corridor outsi the ME's lab, by a viewing window. She nods to Kirklander He raps on the window, the curtain opens. We don't see wh they see, but we see Joan's face. She could never have prepared herself for this.
+92) 0) text: The pickup pulls to the curb. Other cars drop off passeng Hank looks to her, unsure of what to say. There isn't anything. Joan leans over, gives him a cursory kiss, open the door and walks away.
+93) 0) text: Silhouetted against the window, Hank watches the fragment images of war -- searching their frames for meaning, find none.
+94) 0) text: Hank walks from the motel to the coffee shop next door, a he has done every day since he's been here. This time he' surprised to find the door locked. The JANITOR inside spe through the glass.
+94) 2) dialog: ...It is? (beat) Is there someplace close to get something simple? The janitor nods toward the dive across the street. The Checker Box.
+95) 0) text: The bar is almost empty, it's way too early for crowds. Hank enters, walks to the bar, gets the male BARTENDER's attention. He looks like a former military type.
+95) 2) dialog: Can I get a hamburger? (CONTINUED)
+95) 6) dialog: Then chicken.
+95) 8) dialog: You happen to see this soldier in here last weekend?
+95) 10) dialog: Beer, I guess. Whatever you're pushing. The bartender pulls a glass of beer, gives it to Hank and moves off. Hank drinks like a man who hasn't allowed hims many pleasures. Before he expects it, EVIE, the waitress, shows up behind the bar with his sandwich on a plate. It' pre-made, still in its plastic wrapper. Evie is mid-forti maybe fifty, and topless. Hank freezes.
+95) 12) dialog: No, thanks, ma'am.
+95) 14) dialog: Yes, ma'am.
+95) 18) dialog: I'm asking if anyone saw him; it would have been last Saturday.
+95) 20) dialog: Thanks. Evie puts the bill down and moves off. Hank pays, takes t sandwich packet and leaves.
+96) 0) text: Hank picks up his son's Bible and flips through it, stopp at an underlined passage. He reads. Flips to another page finds more underlined passages.
+99) 0) text: Sanders knocks on Hank's door; no response. She steps bac looks at his truck and wonders where he's gone. She steps out into the parking lot, looks across the street.
+100) 4) dialog: I thought it wasn't your case.
+100) 6) dialog: Isn't that our good fortune.
+100) 8) dialog: You mean other than the thousands of Iraqi and foreign fighters who were trying to kill him up until a couple weeks ago?
+100) 10) dialog: It's dry enough. It obviously isn't, but Hank keeps buttoning and tucking.
+100) 12) dialog: No. You following up the gang connection?
+100) 14) dialog: No.
+100) 16) dialog: Why? (CONTINUED)
+100) 20) dialog: I told him a dozen times those are the worst socks you can buy. No heel, they wear right through.
+100) 22) dialog: Does it say what time?
+100) 24) dialog: You been to the chicken place yet? Sanders looks at him, knows what he is asking, knows she shouldn't do this.
+101) 0) text: A local chain, full of enlisted men. Sanders waits at the counter for CHUCK the manager, who approaches through the open kitchen. Hank waits behind her, uncomfortable in his damp shirt.
+101) 7) dialog: Can you tell from a statement what time he was here?
+101) 12) dialog: Your four piece dinner is $6.79. That what most people order?
+101) 14) dialog: (re: credit card printout) So, with tax, $21.77 would be around three dinners. Three people.
+102) 0) text: On leaving, Hank spies two Mexican gangbangers hanging ou at the adjacent liquor store, drinking beer with a couple young, white toughs. Hank watches them as he strides towa Sanders' vehicle, drawing their looks. Sanders catches up to him at the car, having noticed. (CONTINUED)
+102) 4) dialog: No. They climb into the car.
+102) 5) dialog: So, where did he go from here?
+102) 7) dialog: Yeah, maybe. As Sanders backs out, Hank throws another look to the His men in the shadow of the building.
+103) 0) text: Sanders' vehicle approaches an intersection and suddenly brakes hard as a CONVERTIBLE runs the opposing red light swerves onto the avenue, five men with buzzed hair and bo of beer whooping as they go. Hank waits for her to react their light turns red.
+103) 1) dialog: You haven't got a flashing red light?
+103) 3) dialog: You're not going to do anything about that?
+104) 0) text: Sanders' Ford pulls up, Hank steps out without saying a w 60.
+105) 0) text: Hank sits at his computer, Googling "Mexican" and "drugs. He clicks on various articles with headlines about extrem violent crimes, a photo of a beheaded corpse, and another four smiling Mexican gangsters brandishing machetes.
+108) 0) text: Sanders stands at her car, staring at the field, crime sc tape fluttering in the wind. She starts to feel guilty fo what she said to Hank.
+109) 0) text: Sanders pulls into the motel parking lot, sees Hank's pic truck in its usual spot. She sits in her car, considering
+110) 0) text: Sanders approaches Hank's table. He looks up from the men (CONTINUED)
+111) 0) text: Sanders cooks, watching out her kitchen window. EXT. FIELD NEXT DOOR - SANDER'S P.O.V. Hank casts a long shadow as he walks David out into the b field that abuts her yard. David isn't happy.
+111) 2) dialog: So, you know everything about this field.
+111) 4) dialog: You been out here at night?
+111) 6) dialog: When it's pitch black?
+111) 8) dialog: So, if you were out here, in the pitch black, not a moon in the sky or a light in the house, you could find your way home.
+111) 10) dialog: Okay. Hank pulls a hanky out from his pocket, ties it around th boy's eyes. 64.
+111) 13) dialog: So, where is it now? David points in the opposite direction. Hank lifts the blindfold, shows him. David swings and points to the hous as if he always knew where it was.
+111) 16) dialog: Close your eyes, feel the wind on your face.
+111) 18) dialog: You'd be surprised. And you want to know a secret? This time of night, when it's calm like this, the wind is almost always moving the same way. Close your eyes. (beat) Can you feel it? David touches his cheek.
+111) 19) dialog: Open your eyes. Look at your house. (David turns to face it) Close your eyes again. Which way is the wind coming from now? David touches the back of his neck.
+111) 20) dialog: There you go. (CONTINUED)
+111) 23) dialog: Okay. Find your way home. David slowly turns until he can feel the slight breeze on his neck, then starts walking directly toward the house. Hank stays squatted, watching.
+112) 0) text: Hank and David in their seats. Sanders puts the food on t table and joins them.
+112) 2) dialog: May I?
+113) 0) text: Hank scrapes his plate. David fills up the sink to wash t dishes. Sanders steps in.
+114) 0) text: As viewed from the kitchen, through the open door. David in bed, Hank sits on the edge, silently reading The Chron
+114) 2) dialog: I can't understand a word of it.
+114) 4) dialog: I'm not much of a storyteller.
+114) 6) dialog: You know where your name comes from?
+114) 8) dialog: Before that. You're named after King David. Your mother never tell you that? (David shakes his head) Yeah, that figures.
+114) 11) dialog: There were two armies assembled, the Israelites and the Philistines; they were both on hills, with the Valley of Elah between them. That's a place in Palestine. You know where that is? (CONTINUED)
+114) 14) dialog: It doesn't matter. Anyway, the Philistines had a champion, a giant named Goliath.
+114) 16) dialog: This wasn't him. Anyway, every day for 40 days, Goliath strode out into the field and challenged somebody from the other side to fight him, and nobody would. The strongest and bravest warriors that the king had were all too scared.
+114) 18) dialog: They didn't have guns. (beat) They had arrows, but there are rules to combat. You don't shoot somebody who is challenging you to fight with a sword. So, this kid, not much older than you, he comes delivering bread. And he says to the king, "I'll fight Goliath."
+114) 20) dialog: True story. So, the king dressed David in his own armor, but it was much too big and heavy. So, David takes it off. He looks around and finds five smooth stones, about yay big. He steps into the field, with his slingshot in his hand. And Goliath comes running, yelling, this horrible scream. And David lets fly the stone. And hits him in the forehead. Cracks his skull. And Goliath falls down, dead.
+114) 24) dialog: With a rock, that's not the same thing. You know how he was able to beat him? David shakes his head, enthralled.
+114) 25) dialog: First thing David had to fight was his own fear. He beat that, he beat Goliath. Cause when Goliath charged, David just planted his feet, took aim, and waited. You know how much nerve that took? A few more steps and Goliath would have crushed him. And then he threw the rock. That's how you fight monsters. Lure 'em close to you, look 'em in the eye and smack 'em down.
+114) 27) dialog: Sure.
+114) 29) dialog: If I didn't, I would have been crushed, right? David sees the logic. Nods.
+114) 30) dialog: Okay then. You go to sleep. He turns off the light and leaves, closing the door behin him, casting the room into darkness.
+114) 33) dialog: He'll be okay. Hank continues on into the dining room. Sanders looks at David's bedroom door, expecting her son to call for her t open it. (CONTINUED)
+114) 41) dialog: Of course it's true. It's even in the Koran. She decides not to argue.
+114) 42) dialog: Can I read the men's statements?
+115) 0) text: Hank checks his email - no messages. He notices the corne of the bed is slightly untucked. (CONTINUED)
+115) 4) dialog: Yeah, just about to call you.
+116) 2) dialog: (suddenly interested) What kind of package?
+116) 4) dialog: No.
+116) 6) dialog: Does it look like it's been opened by customs or the military?
+116) 8) dialog: Just don't. Wait. (an excuse) We'll open it when I get home. (beat) Please. Put it someplace safe.
+117) 0) text: Hank watches another video, images of Mike's platoon on p as they come across a burnt bus, the inhabitants just cin
+118) 0) text: Hank wakes and bolts upright, panting, sweating. He check the clock: 8:06, but the room is dark.
+119) 0) text: Hank ignores his food and sifts through the photos he pri at the copy place: proud warriors striking poses, squad m goofing around. Iraqis -- groups of blurred civilians, sh from the moving High Back Humvee; detainees, lined up fac a wall, hog-tied on the ground, squatting with hands on h Always in groups, the camera never singling out one perso That is, except for the photo of the body on the side of road. Hank stares at it, trying to figure out why it both him.
+119) 3) dialog: Oh, hello, sorry. He slips the photo of the body under the stack of others. An awkward moment.
+119) 7) dialog: Thank you. She notices the top 8x10 photo, the posing warriors.
+119) 9) dialog: Yeah.
+119) 14) dialog: You remember who he was with?
+119) 16) dialog: What's the name of the club?
+120) 0) text: Hank places a photo of Mike and Penning atop something th reads "Pussy's."
+120) 4) dialog: Both of them? Saturday night.
+120) 6) dialog: (pointing out Penning) This guy?
+120) 8) dialog: I think you have the wrong man.
+120) 10) dialog: What time did they leave?
+121) 0) text: Hank steps out after her and she turns on him.
+121) 2) dialog: I figured somebody should.
+121) 4) dialog: I haul gravel.
+121) 6) dialog: It's not going to trial.
+121) 8) dialog: It wasn't them.
+121) 12) dialog: I don't know why they lied in their statements about not being with him, but they didn't do it.
+121) 14) dialog: --That was blowing off steam. You haven't been to war, so you wouldn't understand this. But you don't fight beside a man and then do something like that to him.
+121) 16) dialog: (walking off) Ask them why they lied. There will be a reason. Sanders watches him get into his pickup, stunned by his arrogance.
+126) 2) dialog: Hello?
+127) 0) text: Hank waits uneasily at a nurses' station. A moment later nurse steps in from the adjoining ward. (CONTINUED)
+128) 0) text: The nurse leads Hank through the HALL and into a double r where JENNIFER LOPEZ sits sideways on her bed, her back t Hank and the nurse. A MEDICAL TECHNICIAN is helping Ms. Lopez with something we can't see.
+128) 6) dialog: Yeah.
+128) 8) dialog: Did you serve together?
+128) 13) dialog: Yes.
+128) 15) dialog: (now interested) He did.
+128) 17) dialog: Did he say anything? You know, anything that could help me find out who did this to him?
+128) 19) dialog: How did he seem?
+128) 24) dialog: Please.
+128) 27) dialog: I want to apologize on his behalf.
+128) 29) dialog: I appreciate the sacrifice you made for our country. Hank steps INTO THE HALL. His way is blocked by an approaching gurney, another amputee. He takes another route through the ward. He can't help glancing into the rooms, seeing all the young wounded and limbless patients 85.
+129) 0) text: Hank searches for his pickup in the parking lot, but can' seem to recall where he left it. The camera rises to reve Hank lost in a sea of cars.
+130) 0) text: Sanders sits studying the files that Kirklander gave her, finding nothing. She looks up and sees Hank sitting quiet in the waiting area. Gone is his earlier arrogance, he appears almost broken. She stands and approaches.
+130) 5) dialog: They left him there alone, at the chicken shack?
+130) 7) dialog: That's why they lied?
+130) 10) dialog: They didn't think I'd seen soldiers using prostitutes? (Sanders shrugs) They have no idea where Mike went when they left him, who he met?
+130) 12) dialog: May I see them? them over, he leafs through them.
+130) 16) dialog: (still reading reports) Clothes are cheap on the base. First thing you do when you get back is toss every stitch you took with you. There are nine men in an infantry squad. Sanders tries to comprehend the apparent non-sequitur.
+130) 18) dialog: They lost one man in Iraq, there should still be seven statements. There are only six. He hands the files to Nugent. (CONTINUED)
+130) 22) dialog: The day I arrived the Sergeant told me all his men were back from liberty. A beat, then Sanders pulls out the list Kirklander gave h
+133) 0) text: Nugent hangs up, turns to Sanders and Hank.
+134) 0) text: Sanders speaks with detective Manny NUNEZ, narcotics and gang division. Hank waits at a distance, listening.
+134) 11) dialog: He's AWOL.
+135) 0) text: Nunez's unmarked car pulls out of the parking lot, Sander and Nugent right behind them. As they disappear down the street, Hank's pickup pulls out and follows.
+136) 1) dialog: His pickup cruises up in time to see:
+136) 4) dialog: -- is the first to see...
+136) 8) dialog: Take the street, take the street -- Nugent wheels into the alley.
+136) 9) dialog: Christ. Hank drops the truck into gear and rolls down the street, turning the corner and paralleling the alley.
+136) 14) dialog: Fucking wetbacks; it's always knives, isn't it? You enjoy cutting him up? Did you? Sanders arrives and tries to pull him off. Reacting instinctively, Hank elbows her in the face, breaking her nose and sending her sprawling. He doesn't even glance ba he just keeps releasing his fury on Ortiez's bloody face. Nunez arrives a heartbeat later, aiming his weapon.
+137) 0) text: Hank opens his eyes. He sits cuffed to a wooden bench. He looks down at his hands, cut and swollen. He glances through the open door and sees Ortiez being released from a holding cell, into the custody of two bur MPs. They head for the exit, meaning they're going to hav to pass Hank. Hank tugs on the chain that binds him as th near.
+137) 1) dialog: What was it? You wanted him to carry drugs for you and he wouldn't do it? You afraid he was going to tell on you? That it, Chico? That did it. Ortiez jerks to a stop, face to face with Ha leans in close to his ear and whispers: (CONTINUED)
+137) 5) dialog: Come back here, you wetback prick, I'll show you what the devil looks like.
+137) 7) dialog: I see you cracked him wide open.
+137) 9) dialog: I didn't mean to hit you.
+137) 11) dialog: I'm sorry.
+137) 13) dialog: Is anyone going to question him?
+138) 0) text: Hank lies awake in his soiled white T-shirt, staring at t ceiling. The sheets are half off the bed. The room is unrecognizably messy.
+139) 0) text: The alarm clock reads 10:18 AM. Hank wakes to a knock on the door. He opens it to Sanders.
+141) 0) text: Kirklander opens a small manilla envelope and tips the contents into Hank's hand. It's a watch, circa 1950.
+141) 1) dialog: My father gave it to me when I went to Vietnam. I gave it to Mike.
+141) 3) dialog: ...He was carrying it? He didn't leave a note -- he just put it in his pocket and then hung himself?
+141) 7) dialog: Confession. Hank exits, disgusted.
+142) 0) text: Hank follows Sanders to her vehicle.
+142) 1) dialog: You don't kill someone for no reason. That watch isn't proof of anything.
+142) 3) dialog: It could have been planted on his body!
+142) 5) dialog: I don't know! But tell me how he killed Mike! He had an alibi, he was back at the base! When did he do it? Why did he do it?
+146) 0) text: Hank sits on the bare, stained mattress, phone to his ear
+149) 0) text: Hank sits slumped in a chair in the corridor, waiting. An OFFICER steps out of one of the cubicles. Hank stands as approaches, hands him a clipboard to sign.
+149) 2) dialog: It's correct.
+150) 0) text: Hank closes the driver door and cranks the key. The batte is dead. He sees he's left his headlights on, stabs the switch back in place and gets out. 97.
+151) 0) text: Hank walks along the corridor, no one around. He stops at an open door, looks in. It's Penning. Hank thinks about walking away, but then Penning turns.
+151) 2) dialog: ...You got jumper cables?
+152) 0) text: Penning opens the hood of his brown Nissan and attaches t leads. Hank hits the ignition and the truck comes to life Penning walks to the driver's window.
+152) 2) dialog: You have a cigarette? Penning pops out one and Hank accepts it. They light up.
+152) 3) dialog: Do you think Bonner killed him?
+152) 5) dialog: What would he have against my boy?
+152) 7) dialog: Some. (CONTINUED)
+152) 11) dialog: Try to get you to wear pantyhose?
+152) 13) dialog: I told him. Cuts the cold like nothing else.
+152) 15) dialog: You just gotta make sure you aren't shot while wearing a pair, or you'll never live it down. Penning has to laugh. Hank smiles for the first time in many days. Then his thoughts drift back to his dead son.
+152) 17) dialog: Yeah, it is. And then a thought strikes Hank, and he looks at Penning. It is clear from his expression that Hank now knows somet we don't; something terrible.
+153) 0) text: Hank downloads a video and plays it. Black punctuated by occasional flash of an image; the audio comes in and out. Someone is whimpering, pleading in Arabic. We see a flash of his face: a bound IRAQI PRISONER with a bag over his h lying on the floor of the moving High Back Humvee between the feet of the men in Mike's squad. Mike is just off scr sitting over him, apparently holding the camera. Screen goes BLACK.
+155) 0) text: Hank packs his bag. 100.
+157) 0) text: Banging. Hank opens the door. Sanders has to stop herself from commenting on how awful he looks. She hands him a file folder with a credit card receipt cl to the cover.
+157) 2) dialog: It's not.
+160) 0) text: Hank waits in the hall as Sanders steps into Kirklander's office and drops the two warrants on his desk.
+161) 0) text: Hank and Sanders sit on one side of the table, Penning an JAG attorney sit on the other. Kirklander stands in the background.
+161) 14) dialog: I saw a video Mike shot, him in the back of a Humvee. It looked like he was torturing a prisoner.
+162) 0) text: Hank steps out into the night air, trying not to show tha his world is crumbling around him.
+165) 0) text: Hank packs up the laptop and Mike's photos.
+166) 0) text: An NCO waits as Hank packs Mike's few articles into his duffel. He hands it off to the NCO as a NEW RECRUIT, in h Class A's, steps in, carrying his duffel and paperwork.
+166) 2) dialog: Which is Private Ortiez's room?
+167) 0) text: Hank appears at the open door, sees Ortiez inside packing his belongings. Ortiez notices Hank standing there.
+167) 1) dialog: You have a minute? (CONTINUED)
+167) 4) dialog: I need to apologize to you.
+167) 6) dialog: I'm sorry.
+167) 8) dialog: Yeah. That's true. A moment. Hank holds up a fresh fifth of whisky.
+168) 0) text: Ortiez drinks from the bottle and passes it to Hank. He a Hank sit on the low wall under the overhang at the barrac watching a sergeant drill his recruits in the field.
+168) 2) dialog: It's the Army, I'd believe anything.
+168) 4) dialog: You know what this is? (no answer) Mike took it and emailed it to me. Why would he do that? (CONTINUED)
+169) 0) text: Hank opens his driver's door and throws the duffel in bef him, slides in and starts the engine before he closes the truck door. He stares out through the windshield and sees
+170) 0) text: Sanders sits with Hank.
+170) 3) dialog: It was Mike's favorite story, too. He tries not to show her the pain that is threatening to overwhelm him.
+171) 0) text: Sanders walks Hank to his pickup. He gets in, looks up at her.
+171) 1) dialog: Thank you. She nods. Hank drives off without looking back. 110.
+172) 0) text: Hank carries his overnight case toward the dark house.
+173) 0) text: The room is dark. Hank turns on the light above the stove Mike's package sits on the counter, opened. He peels back the paper to reveal a tightly folded flag. An envelope si atop addressed to "Dad." Hank finds a photo inside, Mike and his squad mates stretching the flag, jerry-rigged to pole over their humvee, smiling broadly. Hank turns the photo over. It is inscribed: "For Dad, love Mike." Hank turns and walks away.
+174) 0) text: Hank sits on the edge of the bed, the phone to his ear. Joan sleeps on her side.
+174) 2) dialog: Oh for Christ's sake. (beat) Is there anyone there with you?
+174) 4) dialog: That's good.
+174) 7) dialog: You be safe, son. Stay safe.
+174) 10) dialog: standing there, fully dressed. And now he weeps, knowing let his son down when the boy needed him.
+174) 13) dialog: He asked for my help. I didn't even listen. He wants to say more, but doesn't know what to say.
+175) 0) text: Hank picks up an empty frame and slips Mike's photograph back into it -- him in his dress uniform, now considerabl worn. He replaces it on the shelf.
+176) 12) dialog: Just like that.
+176) 14) dialog: It's been well used. duct tapes the line firmly to the pole.
+176) 16) dialog: No, you leave it just like that.

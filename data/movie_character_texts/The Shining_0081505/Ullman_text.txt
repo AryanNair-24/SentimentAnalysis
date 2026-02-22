@@ -1,0 +1,90 @@
+3) 5) dialog: Yes?
+3) 7) dialog: Oh, well - come on in Jack. ULLMAN stands up and hands book to SECRETARY, walking rou side of desk.  JACK moves into office.  CAMERA TRACKS IN after him.  He shakes hands with ULLMAN.
+3) 8) dialog: Very nice to meet you.
+3) 10) dialog: This is my secretary, Susie.
+3) 15) dialog: Have any trouble finding us?
+3) 17) dialog: Well, that's very good time, very good.  Please sit down a minute. ULLMAN points to chair cam.R.  JACK sits cam.R.f.g.  ULLM walks behind desk.
+3) 18) dialog: JAck, just make yourself at home. Would you like some coffee?
+3) 20) dialog: Susie.
+3) 22) dialog: Oh, and would you ask Bill Watson to join us?
+6) 0) text: JACK over ULLMAN seated at desk.  BILL WATSON enter offic JACK rises and shakes hands with him.
+6) 1) dialog: Bill, I'd like you to meet Jack Torrance.
+6) 6) dialog: Grab a chair Bill, and join in.
+6) 9) dialog: Jack is going to take care of the Overlook for this winter.  I would like you to take him around the place as soon as we are through.
+6) 11) dialog: Jack is a schoolteacher.
+6) 23) dialog: Our people in Denver recommended Jack very highly, and, for once, I agree with them.
+6) 28) dialog: Let's see, where were we?  Yes.  I was about to explain that eh... our season here runs from oh May 15th to October 30th and then we close down completely until the following May.
+6) 32) dialog: Oh, it sure would be
+6) 35) dialog: but the problem is the enormous cost it would be to keep the road to the Sidewinder open.  It's a... It's a 25 mile stretch of road - gets an average of 20 feet of snow during the winter, and there's just no way to make it economically feasible to keep it clear.  When the place was built in 1907, there was very little interest in winter sports, and this site was chosen for its seclusion and scenic beauty.
+6) 38) dialog: That's right.  And did they give you any idea in Denver about what the job entails?
+6) 42) dialog: Well...
+6) 45) dialog: ...the winters can be fantastically cruel, and the basic idea is to...to cope with the very costly damage and depreciation which can occur.  And this consists mainly of running the boiler, heating different parts of the hotel on a daily rotating basis, repairing damage as it occurs and doing repairs, so that the elements can't get a foothold.
+6) 51) dialog: Physically, it's not a very demanding job.  The only thing that can get a bit trying up here during the winter is eh... the tremendous sense of isolation.
+6) 61) dialog: That's very good Jack, because eh... for some people eh solitude and isolation...
+6) 64) dialog: can of itself be a problem.
+6) 68) dialog: How about your wife and son?  How do you think they'll take to it?
+6) 72) dialog: Great...
+6) 75) dialog: Well, before I turn you over to Bill, there is one other thing I think we should talk about.  I don't want to sound melodramatic, but it is something that's...
+6) 79) dialog: been known to give a few people second thoughts about the job.
+6) 85) dialog: I don't suppose they eh told you anything in Denver about the tragedy we had up here during the winter of 1970?
+6) 90) dialog: Well, my predecessor in this job
+6) 93) dialog: hired a man named Charles Grady, as the winter caretaker.  He came up here with his wife and two little girls of about eight or ten.  And he had a good employment record, good references and from what I've been told, I mean, he seemed like a completely normal individual.  But at some point during the winter, he must have suffered some kind of a complete mental breakdown.
+6) 97) dialog: He ran amok and eh... killed his family with an axe,
+6) 100) dialog: stacked them neatly in one of the rooms in the West Wing, and then he um... then he put eh both barrels of his shotgun in his mouth.
+6) 102) dialog: The police eh... they thought that it was what the old-timers used to call cabin-fever, a kind of claustrophobic reaction which can occur when people are
+6) 105) dialog: shut in together over long periods of time.
+6) 108) dialog: Yes, it is.  Oh, it's still hard for me to believe that it actually happened here, but it did and eh... I think you can appreciate why I wanted to tell you about it.
+6) 115) dialog: Well, obviously some people can be
+6) 118) dialog: put off by the idea of staying alone in a place where something like that actually happened.
+23) 0) text: Man cleaning floor.  CAMERA TRACKS L-R.  WATSON & ULLMAN walk forward from b.g.
+23) 1) dialog: What time does the plane leave?
+23) 3) dialog: Well, that still gives up plenty of time to go over everything first.
+23) 7) dialog: Goodbye. ULLMAN & WATSON walk L-R to JACK sitting in chair.
+23) 8) dialog: Good morning Jack.  I hope you haven't been waiting too long.
+23) 10) dialog: Good.  Glad you made it before they shut down the kitchen.  Is your family having a look around?
+23) 12) dialog: Oh... Has your luggage been brought in? JACK points to luggage.
+23) 14) dialog: Oh fine.  Well in view of all the ground that we to cover today, I suggest we go and have a quick look at your apartment and then get started straight away. ULLMAN turns to WATSON.
+23) 15) dialog: Bill, would you have the Torrances' things brought in their apartment.
+23) 20) dialog: Oh... ULLMAN laughs and they move out cam.L.
+24) 0) text: ULLMAN, followed by WENDY, JACK & WATSON, moves out of li cam.R.  They walk R-L across Lounge.  CAMERA TRACKS with
+24) 1) dialog: This is our Colorado Lounge.
+24) 6) dialog: Yes, I believe they are based mainly on Navajo and Apache motifs.
+24) 8) dialog: Oh this old place has had an illustrious past.  In its heyday it was one of the stopping places for the jet set, They reach corner and turn, walking towards camera.
+24) 11) dialog: even before anybody knew what a jet set was.  We've had four presidents who stayed here, lots of movie stars.
+24) 13) dialog: All the best people.
+26) 0) text: ULLMAN leads WENDY & JACK forward along corridor to Caretaker's Apartment.
+26) 1) dialog: This is the staff wing of the hotel. None of the other bedrooms are heated during the winter.
+26) 6) dialog: Goodbye girls. ULLMAN waves to Girls and moves cam.R into JACK's apartme WENDY & JACK follow him.
+26) 7) dialog: And here are your quarters.
+27) 0) text: ULLMAN, followed by WENDY and JACK, move up steps.  ULLMA points to open door cam.R.
+27) 1) dialog: Living Room, bedroom, bathroom, and a small bedroom for your son. JACK leans forward and looks in small bedroom cam.L.  He turns and looks cam.R. at ULLMAN.
+27) 4) dialog: Yes. They move into apartment.  JACK & WENDY move away through living room into bedroom - CAMERA TRACKS FORWARD after th
+27) 5) dialog: Well the place is very nicely self- contained, easy to keep. JACK feels bed.
+27) 9) dialog: Yes, very cosy for a family, and if you feel like spreading out you have the rest of the hotel to move around in.
+28) 0) text: ULLMAN leading WENDY, JACK & WATSON R-L along outside of Maze.  CAMERA TRACKS & PANS with them.
+28) 1) dialog: This is our famous hedge maze. It's quite an attraction around here.  The walls are thirteen feet high and the hedges are about as old as the hotel itself.  It's a lot of fun, They walk from end of Maze towards Hotel in b.g.
+28) 2) dialog: but I wouldn't go in there unless I had an hour to spare to find my way out. Laughter.
+28) 5) dialog: Ah... construction started in 1907. It was finished in 1909.  The site is supposed to be located on an Indian burial ground, and I believe they actually had to repel a few Indian attacks as they were building it. ULLMAN points to red Snowcat at entrance of garage.
+28) 8) dialog: That's our Snowcat.  Can you both drive a car?
+28) 11) dialog: That's fine because basically the Snowcat operates very much like a car and it won't take you long to get the hang of it.
+29) 0) text: ULLMAN, JACK, WATSON & WENDY walk forward along corridor CAMERA TRACKS BACK before them.
+29) 1) dialog: As a matter of fact we eh... brought a decorator in from Chicago just last year to refurbish this part of the hotel.
+29) 3) dialog: Oh...well this is our gold ballroom.
+29) 5) dialog: We can accommodate up to three hundred people here very comfortably.
+29) 9) dialog: I'm afraid you're not going to do too well here unless you've brought your own supplies.  We always remove all the booze from the premises when we shut down: He points to shuttered bar.
+29) 10) dialog: that reduces the insurance that we normally have to carry. DICK HALLORAN walks forward from b.g.
+29) 12) dialog: Well then, you're in luck. ULLMAN waves to HALLORAN/
+29) 13) dialog: Oh Dick, come on over and say hello to Mr. and Mrs. Torrance.
+29) 15) dialog: This is Dick Halloran, our Head Chef. JACK shakes hands with DICK.
+29) 22) dialog: The Torrances are going to take care of the Overlook for us this winter.
+30) 0) text: SUSIE holding DANNY's hand.  They walk L-R across Ballroo CAMERA TRACKS with them to JACK, HALLORAN, WATSON, WENDY ULLMAN.
+30) 8) dialog: Thank you, Susie. SUSIE exits cam.L.  ULLMAN turns to HALLORAN.
+30) 11) dialog: Dick, if you're ready to do it now, I think it would be a good idea if you could show Mrs. Torrance the kitchen, while I continue on with Jack.
+35) 2) dialog: Hi.
+35) 4) dialog: How're you getting on?
+35) 8) dialog: Dick, can we borrow Mrs. Torrance for a few minutes?  We're on our way through to the basement - I promise we won't keep her very long.
+36) 0) text: ULLMAN, JACK & WENDY - followed by WATSON - move forward. CAMERA TRACKS BACK before them.
+36) 2) dialog: Yes, well the guests and some of the staff left yesterday, but the last day is always very hectic - everybody wants to be on their way as early as possible. They turn corner and walk away along corridor.
+36) 3) dialog: By five o'clock tonight, you'll never know anybody was ever here.
+36) 5) dialog: Yes.
+129) 2) text: Larry, just between you and me, we've got a very serious problem with the people who are taking care of the place.  They've turned out to be completely unreliable assholes. Ullman phoned me last night, and I'm supposed to go up there and find out if they have to be replaced.

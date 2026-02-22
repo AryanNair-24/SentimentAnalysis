@@ -1,0 +1,60 @@
+5) 0) text: The pilot, COLLINS, checks his fuel gauge-
+5) 1) dialog: 68 gallons, Fortis Leader. FORTIS LEADER (over radio) Stay down at 500ft to leave fuel for 40 minutes fighting time over Dunkirk.
+5) 2) dialog: Understood. Vector 128, angels point five. 10
+18) 0) text: Farrier lightly brushes his fingers over the dashboard. COLLINS (over radio) Dunkirk's so far, why can't they load at Calais? Farrier looks over at his wing mate, COLLINS (Fortis 2) FORTIS LEADER (over radio) The enemy had something to say about it.
+19) 0) text: Collins SCANS the skies above...
+19) 1) dialog: Down here we're sitting ducks. (CONTINUED)
+25) 0) text: Collins spots something-
+27) 0) text: The three Spitfires dart away from each other- the German plane takes the left one (Collins), HURTLING down-
+28) 0) text: Collins dives, ROLLING, glancing back-
+28) 1) dialog: He's on me!
+29) 0) text: Farrier banks around, lining up on Collins' pursuer-
+34) 0) text: Collins pulls hard left, rolling up and left as TRACER FI
+35) 0) text: Farrier watches the ME 109 cut left to follow Collins- he pushes the button on his stick to STRAFE the plane with h cannons... SMOKE starts trailing from the German plane-
+37) 0) text: Collins straightens out- tries to look back-
+37) 1) dialog: Is he down?
+42) 3) dialog: Do you think he got out?
+42) 8) dialog: Vector 128, angels 1. Understood. Farrier reaches forward, pushes the button by his fuel gauge... NOTHING. The glass is CRACKED. He TAPS it with his glove. Nothing.
+43) 0) text: Collins checks his gauge.
+43) 1) dialog: Fifty gallons, over.
+44) 2) dialog: Should you turn back? Farrier methodically checks his other gauges and switches checks the responsiveness of rudder, aerilons...
+48) 0) text: Collins pushes the button to check the fuel gauge-
+48) 1) dialog: 40 gallons, Fortis 1. over. 51 52 53 54 22.
+61) 0) text: Farrier looks down at the mass of ships and boats passing each other- there is the minesweeper, CASTOR, every inch her deck covered with troops- COLLINS (over radio) Heinkel, 11 @'clock, lining up to drop her load on that minesweeper - Farrier's head SNAPS around- spots the German bomber -
+62) 0) text: Collins PEERS down- scanning around the Heinkel BOMBER fo its fighter escort... SPOTS-
+62) 1) dialog: 109's- off her starboard- FARRIER (over radio) I'm on the bomber. Collins pushes forward into a DIVE...
+65) 0) text: Collins fires at one of the 109's until he sees SMOKE tra he DIVES between the German planes...
+67) 0) text: Coming around- starting to climb- Collins sees the Heinke VEER OFF COURSE, heading away from the minesweeper -
+67) 1) dialog: She's turning- you must've damaged her. (CONTINUED)
+67) 4) dialog: I got one of- BLAMBLAMBLAM!!! Cannon fire RIPS into Spitfire 2- Collins YANKS the stick but it's too late... flames leap from the fuselage...
+67) 5) dialog: I'm going down. FARRIER (over radio) I'm on him- bail out. Collins checks his parachute, opens the canopy, the wind HOWLS inside the cockpit- he surveys the water below- SLIDES his canopy shut again.
+67) 6) dialog: The swell looks good, I'm ditching.
+83) 0) text: Farrier chases the 109 as it circles around on Collins...
+84) 0) text: Collins glances out at his burning wing- Checks his altimeter- Checks his canopy is locked in the half-open position- LOWER... 87 88 89 90 91 31.
+86) 0) text: Collins checks his belts are tight- Checks the release pin on his harness-
+86) 1) dialog: Good luck. Watch your fuel... (reads) Fifteen gallons. Checks his Mae West, puffing into the inflating tube- LOWER...
+88) 0) text: FARRIER (over radio) ...best of luck, Collins. Collins checks wind direction- Checks wave direction on the surface of the water- LOWER... Turns, lining up along the the waves as he descends... LOWER... The water rushes by BLINDINGLY FAST...
+89) 0) text: Farrier watches Spitfire 2 CARVE gracefully across the wa before coming to a stop, floating. Farrier spots a CIVILIAN YACHT heading for Collins... (CONTINUED)
+109) 0) text: The water FLASHES BY BLINDINGLY FAST... Collins PULLS BACK ON THE STICK, raising the nose as the plane-
+111) 0) text: With a SHOOOOOSH, the plane is floating over the swell- Like a sprinter hearing the gun- Collins RELEASES HIS BEL starts INFLATING his life vest- pulls the catch on the ca YANKING it back along its track- it JAMS... he THRUSTS hi hand through the gap, STRUGGLING... From outside it looks like he is WAVING... He looks up to see Farrier's spitfire shoot over, DIPPING WING IN SALUTE... (CONTINUED)
+118) 0) text: Collins SMASHES the canopy back and forth on its track... JAMMED, JAMMED, JAMMED. WATER STARTS POURING IN, streaming through the gap in the half-open canopy... he SHUTS IT... TRAPPED... OPENS IT, YANKING, WATER POURING IN... Collins SEARCHES around looking for inspiration, for an implement, for ANYTHING- Water RISING past his ankles... his calves...
+121) 0) text: Collins pulls the steel FLARE GUN from its holder- Water is coming up OVER HIS LEGS NOW... He SMASHES the flare gun into the canopy, again and again
+125) 0) text: Collins SMACKS the canopy- The flare gun BOUNCES OFF- He DROPS the flare gun- SCRAMBLES to find it under the water- The water is RISING UP HIS CHEST...
+128) 0) text: Collins, WATER UP TO HIS EARS NOW, grabs the flare gun-
+129) 0) text: Collins BREAKS the surface, GASPING, looks around- A private yacht with a young man on the bow, boat hook extended... Collins GRASPS the boat hook.
+129) 1) dialog: (breathless) Afternoon.
+135) 0) text: Collins, drying himself with a blanket, looks down at Geo whose breathing is shallow, sightless eyes open. (CONTINUED)
+135) 3) dialog: (to Peter) I don't really know, son. You were right not to move him. (reassuring) You've done the best for him you can.
+136) 0) text: The Shivering Soldier watches Collins come out on deck-
+136) 5) dialog: Come on, Farrier...
+142) 0) text: Collins watches Farrier spin around to get after the Hein The Moonstone comes up on the men in the water. Collins comes to the side, to help Peter fish men out- Collins notices the surface of the water-
+142) 1) dialog: (to Mr.Dawson) Oil. We're getting into oil! Mr.Dawson puts the screw into reverse, stopping the boat. (CONTINUED)
+148) 0) text: Peter, Collins and the first oil-covered men pull more oi men from the water, the decks of the yacht rapidly fillin Mr.Dawson looks at the oil slick, concerned. He addresses the oily survivors-
+152) 3) dialog: Come on, Farrier...
+158) 0) text: Collins sees the Heinkel CATCH FIRE- TURNS to Mr.Dawson-
+158) 1) dialog: 
+163) 0) text: Mr.Dawson is at the helm. Collins hears a distant engine-
+163) 1) dialog: That's a fighter-
+170) 6) dialog: He's off.
+170) 8) dialog: How'd you know all that, anyway? Mr.Dawson steps onto the deck.
+170) 10) dialog: You're RAF?

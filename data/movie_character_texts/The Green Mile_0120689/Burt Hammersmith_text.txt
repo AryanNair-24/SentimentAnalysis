@@ -1,0 +1,30 @@
+50) 0) text: BURT HAMMERSMITH, public defender for Trapingus County, s with a cold soda and a magazine, watching his TWO CHILDRE playing on a swing at the far end of the backyard. The sc door opens and CYNTHIA HAMMERSMITH ushers Paul out.
+50) 3) text: She goes back inside. Burt rises.
+50) 5) dialog: That depends, Mr.--?
+50) 7) dialog: The Green Mile. I've heard of it. Lost a few clients your way.
+50) 9) text: Burt settles back down, motions "please sit".
+50) 10) dialog: Which client? Now you got my curiosity aroused.
+50) 12) dialog: Ah, Coffey. He causing you problems?
+50) 14) dialog: Cries, does he? Well, he's got a lot to cry about, I'd say. You know what he did.
+50) 20) dialog: What exactly are you trying to find out? Satisfy my curiosity, I'll see if I can satisfy yours.
+50) 22) dialog: Why? Has he said anything?
+50) 24) dialog: You'd think so, but you'd be wrong. Believe me, we tried. It's like he dropped out of the sky.
+50) 26) dialog: We're in a Depression. A third of the country's out of work. People are drifting by the thousands, looking for work, looking for that greener grass. Even a giant like Coffey wouldn't get noticed everywhere he goes... not until he kills a couple of little girls.
+50) 28) text: Burt smiles, realizing:
+50) 29) dialog: You didn't come up here to ask me whether he might have killed before. You came up here to see if I think he did it at all. That's it, isn't it?
+50) 31) dialog: One seldom sees a less ambiguous case. He was found with the victims in his arms. Blurted out a confession right then and there.
+50) 33) dialog: Everyone is entitled to a defense.
+50) 36) dialog: Y'all listen to your Momma, now!
+50) 37) text: The kids start this way. Burt turns back to Paul.
+50) 38) dialog: Tell you something. You listen close, too, because it might be something you need to know.
+50) 40) dialog: We had us a dog. No particular breed, but gentle. Ready to lick your hand or fetch a stick. Just a sweet mongrel, you know the kind. (Paul nods) In many way, a good mongrel dog is like you negro. You get to know it, and often you get to love it. It is of no particular use, but you keep it around because you think it loves you. If you're lucky, Mr. Edgecomb, you never have to find out any different. My wife and I were not so lucky. Caleb. Come here for a second.
+50) 41) text: The little boy comes to him, staring at his feet. Burt ti to raise the boy's chin. The boy resists for a moment...
+50) 42) dialog: Please, son.
+50) 44) dialog: He has the one eye. I suppose he's lucky not to be blind. We get down on our knees and thank God for that much at least. Right Caleb? (the boy nods shyly) Okay, go on in now.
+50) 45) text: The boy races inside after his sister. Paul follows Burt' gaze off toward the rear of the property, where an unoccu doghouse stands weathered and sad in the weeds.
+50) 46) dialog: That dog attacked my boy for no reason. Just got it into his mind one day. Same with John Coffey. He was sorry afterwards, of that I have no doubt...but those little girls stayed raped and murdered nonetheless. Maybe he's never done it before--my dog never bit before, but I didn't concern myself with that. I went out there with my rifle and grabbed his collar and blew his brains out.
+50) 48) text: Burt acknowledges the condolence with a gracious nod.
+50) 49) dialog: I'm as enlightened as the next man, Mr. Edgecomb. I would not bring back slavery for all the tea in China. I believe we have to be humane and generous in our efforts to solve the race problem. But we have to remember that the negro will bite if he gets the chance, just like a mongrel dog will bite if it crosses its mind to do so. (beat) Is Coffey guilty? Yes, he is. Don't you doubt it, and don't you turn your back on him. You might get away with it once or even a hundred times...but in the end...
+50) 51) dialog: You understand?
+50) 52) text: Paul says nothing. Burt gazes out again. Softly:
+50) 53) dialog: I'm gonna have to tear that old doghouse down one of these days.

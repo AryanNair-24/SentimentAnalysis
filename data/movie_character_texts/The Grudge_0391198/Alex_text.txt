@@ -1,0 +1,44 @@
+2) 9) text: Alex mutters and hangs up.   Then he notices --
+2) 11) dialog: Karen!
+2) 12) text: She's started up a STAIRCASE in the center of the lobby. turns and comes back down, walking over to Alex.
+2) 14) dialog: Are you free this afternoon?
+2) 18) dialog: I know. But are you free?    Do you have class?
+2) 21) text: Alex smiles, holding out a file.
+2) 26) dialog: Your wish has been granted.
+2) 29) dialog: It's Yoko's case, but she didn't show up for work this morning, and I can't reach her at home. She must be sick, or something. And she has the damn house key.
+2) 34) dialog: "Mild dementia with severe lethargy." Apparently she sleeps through most of the day. Her daughter-in-law doesn't work, so she'll probably be there.
+2) 37) dialog: You're the one who's been bugging me about getting out there on your own. Besides, it's an English-only house.
+2) 38) text: One of Alex's CO-WORKERS appears in the doorway, motionin him. Alex quickly hands Karen a card:
+2) 40) dialog: Here's the address. Use the wall chart if you need help -- and don't forget to bring a map.
+2) 46) text: ALEX Don't worry Karen, you're ready.
+64) 3) text: -- it's ALEX, Karen's boss. He walks away from the window and continues down the side of the house --
+64) 5) text: THE BACK ROOM: Alex is visible through the sliding door leading to the back porch. He peers inside.
+64) 7) text: Alex tries the sliding door -- it's open.     He steps in
+64) 8) text: ALEX Karen?
+64) 10) text: Alex licks his lips, nervous.   Finally walks to the matt kneeling down next to it.
+64) 14) text: Alex falls back onto his butt, staring at Emma.     He pu himself away from the corpse --
+66) 1) text: Alex sits at the kitchen table, frazzled.   He turns to -
+66) 3) text: Karen says something and the Detective looks over at Alex Then he speaks to the Nurse, who helps Karen to her feet.
+66) 8) dialog: Is Karen okay?
+66) 14) text: He hands Alex a wedding picture of MATTHEW AND JENNIFER.
+66) 18) dialog: Matthew Williams, and his wife Jennifer. He's Emma's son, the woman Karen came here to see.
+66) 22) dialog: I met them when they came to register. It's standard procedure, though the visits were arranged by his employer. He works at --
+66) 25) text: Something about this gives Alex pause. Nakagawa speaks briefly to Igarashi in Japanese, then hands Alex a card.
+66) 29) dialog: (realizing) Yoko.
+66) 33) dialog: Karen was a substitute -- Yoko is the girl who is normally in charge of Emma. She's also been missing from work.
+66) 40) dialog: For the last two days.
+66) 43) dialog: I think I saw her bike outside.
+66) 44) text: Nakagawa heads for the front door as Igarashi continues t interview Alex.
+83) 1) text: -- Alex. He's behind his desk in the reception area, star off into space. Alex finally glances up at a clock -- it' almost ten o'clock.
+83) 10) text: Alex looks down at HIS HAND -- it's covered in the liquid And there's a dark HANDPRINT where he grabbed the wall.
+83) 12) text: His eyes on his dirtied hand, Alex slowly reaches for the nearby light switch. The overheads come on --
+83) 14) text: Alex looks across the room. Shaking, he starts to walk forward, following the footsteps.
+83) 17) text: Alex looks up the staircase.   No blood.
+83) 18) text: After a moment, Alex starts to walk up.    As he reaches first landing --
+83) 23) dialog: Yoko?
+83) 28) text: ALEX What... What happened, Yoko?
+83) 30) text: ALEX Say something, please...
+83) 33) text: Alex stumbles backwards... and his foot lands right in a puddle of blood. His legs fly out from under him and he CRACKS HIS HEAD AGAINST THE GROUND.
+83) 36) text: Dazed, Alex plants a hand on the ground and pulls himself into a seating position --
+83) 38) text: ON ALEX:   eyes wide, he opens his mouth to scream --
+103) 12) text: Then we PAN UP to see that these are the last names on a longer list. We recognize the other names: MATTHEW, JENNIFER, and EMMA WILLIAMS; YOKO and ALEX; NAKAGAWA and IGARASHI. Everyone who's been in The House.

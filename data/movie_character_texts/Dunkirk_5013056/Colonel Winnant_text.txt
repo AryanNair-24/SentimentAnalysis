@@ -1,0 +1,29 @@
+39) 8) dialog: Shrinking every day. But between our rear guard and the French... we're holding the line. And the enemy tanks've stopped.
+39) 10) dialog: Waste precious tanks, when you can pick us off from the air, like fish in a barrel?
+39) 15) dialog: What?
+39) 20) dialog: And privately?
+39) 22) dialog: How many men are they talking about?
+39) 29) dialog: Better than standing out here when the dive bombers come.
+95) 0) text: Colonel Winnant walks the beach, surveying. He approaches group of ENGINEERS driving TRUCKS onto the sand, taking t air out of their tires, laying duckboards on top...
+95) 2) dialog: How can you tell?
+100) 0) text: Colonel Winnant makes his way towards the crowded mole. Stretchers of FRENCH TROOPS are brought down to the mole. PRIVATE comes out of the crowd, BREATHLESS.
+100) 2) dialog: But they're still holding a perimeter?
+101) 1) dialog: Where're the destroyers?
+101) 3) dialog: One?
+101) 5) dialog: The battle's here, what're they saving them for?
+101) 7) dialog: (peers through his field glasses) But it's right there! You can practically- (CONTINUED)
+101) 11) dialog: They need to send more ships, dammit! Every hour the enemy pushes closer
+101) 13) dialog: Vessels pool?
+101) 15) dialog: Civilian? We need destroyers.
+101) 17) dialog: Not in these conditions.
+101) 19) dialog: You're right- they won't get up in this...
+101) 20) dialog: (points) The Royal Engineers are building piers from lorries- should help when the tide comes back.
+101) 22) dialog: I thought tides were every three? (CONTINUED)
+131) 0) text: The Destroyer BASILISK casts off. Men cover every availab piece of deck. Commander Bolton watches her wake. Colonel Winnant approa
+131) 1) dialog: We've wasted the day, Commander.
+131) 6) dialog: The enemy's breaking through the dunes to the east. This is it.
+138) 0) text: Through the binoculars Colonel Winnant watches the Blue Trawler pushing out to sea, LOW in the water... Commander Bolton watches a Destroyer, under full steam, heading out to the channel... Where there are SHAPES OF BOATS ON THE HORIZON...
+150) 0) text: Commander Bolton STARES at the shapes in the distance... He GRABS the field glasses from Colonel Winnant, puts the to his eyes- BOATS. CIVILIAN BOATS. ALL SHAPES AND SIZES. AN ARMADA. Colonel Winnant PEERS over Commander Bolton's shoulder... (CONTINUED)
+150) 4) dialog: What can you see? Commander Bolton slowly lowers the glasses.
+178) 5) dialog: (to Commander Bolton) Churchill got his 30 thousand.
+178) 7) dialog: So far?

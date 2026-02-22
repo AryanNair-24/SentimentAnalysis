@@ -1,0 +1,32 @@
+23) 0) text: In the TOC, SGT HASSLERT takes the call from Dietz. Heavy static. Weak signal.
+23) 3) dialog: Spartan 01, this is Beastmaster. I have you weak but readable
+23) 5) dialog: Spartan 01 this is Beastmaster. Say again your last - you are weak and unreadable.
+23) 7) dialog: Spartan 01, this is Beastmaster. Good copy. Hasslert looks to Kristensen. HASSLERT (CONT’D) Sketchy comms, sir. Spartan 01 has arrived. Erik Kristensen sitting. Nods. Gets up. Checks the wall clock: 6:45 AM
+25) 0) text: PETE MUSSLEMEN, one of the four SEALs left as part of the in J-Bad, walks into the TOC. Looks to Hasslert.
+25) 2) dialog: Yes sir. They arrived about half hour ago. Should be digging in nice and tight right about now. Musslemen checks the clock on the J-Bad TOC. 31 30. Tight on clock.
+30) 0) text: A phone rings, answered by a young Marine, SGT. HASSLERT.
+30) 1) dialog: J-Bad TOC, SERGEANT HASSLERT.
+30) 3) dialog: Hello?
+30) 5) dialog: I hear you.
+30) 7) dialog: The CO?
+30) 9) dialog: Which CO sir?
+30) 11) dialog: Commander Kristensen is not here sir.
+30) 13) dialog: Commander Kristensen left this morning. Murphy realizing he’s made a mistake.
+30) 15) dialog: That’s correct sir.
+30) 18) dialog: Hello?
+30) 20) dialog: Commander is in BAGRAM.
+30) 22) dialog: Roger that. Stand by.
+47) 64) dialog: J-Bad TOC -- ON THE MOUNTAIN, MURPHY’S CLEAR ROCK FACE.
+47) 66) dialog: Roger Murphy. Can I have your ten digit grid. Hasslert hears gunfire and Murphy impaired breathing.
+47) 68) dialog: Roger that, I need your ten digit grid.
+47) 70) dialog: Murphy can you get me the grids?
+47) 72) dialog: Jesus, I think we need the QRF. Tight on the computer screen, ‘Troops in Contact’ ‘Murphy in Trouble’. Tight on Erik Kristensen, eyes wide...reading the call fo help. He grabs the phone.
+51) 0) text: The Blackhawk about to take off, when HASSLERT sprints ac the runway, charging to the lead Blackhawk, shaking his h eyes locked on Blackhawk pilot screaming,
+51) 1) dialog: 
+52) 2) dialog: You’re grounded.
+52) 4) dialog: You’re grounded, you have no Apache support. Blackhawks can’t go in without air cover. Musslemen looking around realizing the Apaches are not th
+52) 6) dialog: We are trying to figure that out.
+54) 0) text: Musslemen out of his Blackhawk in the face of Hasslert 65
+54) 2) dialog: They're coming back.
+54) 4) dialog: On their way now!
+54) 6) dialog: 15 minutes.

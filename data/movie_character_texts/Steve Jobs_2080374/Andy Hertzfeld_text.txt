@@ -1,0 +1,99 @@
+1) 0) text: We'll get our bearings in a moment but right now we’re in middle of a conversation taking place on a stage between STEVE JOBS, JOANNA HOFFMAN and ANDY HERTZFELD--all late- 20's/early 30's.
+1) 2) dialog: It’s not gonna say “Hello.”
+1) 4) dialog: It’s nobody’s fault, (it’s a system error).
+1) 6) dialog: Look-- STEVE JOBS - Shooting Script 03/19/15
+1) 9) dialog: The voice demo is flaky. I’ve been telling you that for--this thing is overbuilt.
+1) 12) dialog: It’s not working now so just skip (over the)--
+1) 15) dialog: Skip over--everything else is working. Skip over the voice demo.
+1) 17) dialog: You're not hearing me, it’s (not gonna) --
+1) 19) dialog: Fix it?
+1) 22) dialog: (are you serious?) In 40 minutes.
+1) 24) dialog: I can't.
+1) 26) dialog: I’m the person who can and I can’t.
+1) 28) dialog: It’s pretty bad.
+1) 30) dialog: It means (the demo is more than likely gonna crash).
+1) 38) dialog: Some kind of race condition but we haven’t been able to track it down yet.
+1) 40) dialog: No, so the rates are off and it keeps crashing.
+1) 51) dialog: Part of the problem is--
+1) 53) dialog: We can recompile but if it’s a hardware problem we can’t get into the back.
+1) 55) dialog: (to STEVE) You want to tell her or should I?
+1) 58) dialog: (to JOANNA) You need special tools.
+1) 61) dialog: He didn’t want users to be able to open it, you need special tools.
+1) 64) dialog: In fairness, not many of them were issued the tools.
+1) 66) dialog: I left them at the office, it was 3 A.M and--
+1) 71) dialog: It just did.
+1) 73) dialog: Which one?
+4) 0) text: --where ANDY HERTZFELD is waiting along with some members his team. LISA slips into the dressing room from the hall without STEVE much noticing. STEVE JOBS - Shooting Script 03/19/15 22.
+4) 3) dialog: (calling into the dressing room) Hey Chris.
+4) 5) dialog: How're you doin’?
+4) 9) dialog: (to STEVE) I don’t think you're a--
+4) 11) dialog: No. It’s got a one in six chance of working.
+4) 13) dialog: We're not a pit crew at Daytona, this can’t be fixed in seconds.
+4) 15) dialog: Well someday you'll have to tell us how you did it. STEVE JOBS - Shooting Script 03/19/15 23.
+4) 18) dialog: Steve-—
+18) 0) text: --where ANDY HERTZFELD and JOANNA are waiting for him.
+18) 1) dialog: I need more time.
+18) 3) dialog: Twenty minutes. STEVE JOBS - Shooting Script 03/19/15 48.
+18) 6) dialog: We can start late.
+18) 8) dialog: Then I have another idea. They walk through a door and are--
+19) 2) dialog: It’s deceptive and borderline unethical.
+19) 4) dialog: It‘’1l run on the Five-Twelve.
+19) 6) dialog: Yeah.
+19) 11) dialog: Name my other choices please.
+19) 23) dialog: Yeah.
+19) 25) dialog: The clock’s gonna read whatever the time is, it’s a clock. STEVE takes a moment, nods, and turns to go head to where he’s supposed to wait backstage. He sees a welcoming sight--the first one of the day. It’s JOHN SCULLEY. SCULLEY’s a handsome and easygoing man abou years older than Steve. He’s got a bottle of wine and two glasses. STEVE smiles and walks over to him as the openin remarks continue in the background. STEVE hugs SCULLEY and they speak quietly--
+29) 0) text: ANDY HERTZFELD is huddled over the shoulder of AVIE TEVAN and some ENGINEERS who are busy with last minute checks. STEVE JOBS - Shooting Script 03/19/15 94.
+29) 8) dialog: I wouldn't understand it anyway.
+29) 10) dialog: It’s got email. STEVE JOBS - Shooting Script 03/19/15 95.
+29) 13) dialog: And I assume an email sent on a NeXT computer can only be received by a NeXT computer?
+29) 19) dialog: (to STEVE) Can I talk to you a second?
+29) 21) dialog: Look, man, Avie’s been recompiling but he says there may be some glitches this morning.
+29) 24) dialog: I didn’t want him to find out the hard way your position on glitches in a demo but it sounds like you’ve mellowed.
+29) 26) dialog: I wouldn’t have ever dreamed that was a problem.
+29) 28) dialog: And how ‘bout Lisa? Getting into a school for gifted kids?
+29) 30) dialog: Seriously, it’s a big deal.
+29) 32) dialog: I’m sure that’s not why she got in.
+29) 34) dialog: Can I show you something funny from MacWorld?
+29) 36) dialog: It‘ll make you feel good. (calling) Joanna, look at this. 96. 4l STEVE JOBS - Shooting Script 03/19/15 97.
+29) 39) dialog: It’s Guy Kawasaki writing in MacWorld, you’re gonna like this.
+29) 41) dialog: He wrote a parody press release about Apple buying NexT for your OS. He imagines a near-future where Apple needs your OS and has to buy NeXT and you come back as CEO. He has Gates saying there would now be more innovations from Jobs that Microsoft could copy. You can read it later.
+29) 43) dialog: She would have gotten in without you donating a building. (beat) She's a very bright girl, Steve.
+29) 45) dialog: Alright, good luck. ANDY exits backstage to head out into the house...
+48) 12) dialog: I tried your house first. Sculley’s called an emergency meeting of the board. STEVE’s still thinking about what LISA just asked--
+48) 14) dialog: Sculley’s getting the board together.
+48) 16) dialog: Right now.
+57) 110) dialog: It’s Andy.
+57) 112) dialog: (to JOANNA) You look great today.
+57) 114) dialog: (to STEVE) Doesn't she?
+57) 116) dialog: I think I know why I’m here.
+57) 118) dialog: Steve--
+57) 120) dialog: Yes.
+57) 123) dialog: I don’t think they look that carefully, I don’t think they'd notice the check didn’t come from you.
+57) 125) dialog: I understand how--
+57) 127) dialog: I understand how you feel and I do apologize, I do, but let me tell you my thinking.
+57) 129) dialog: I knew you guys would fix things, you always do, but in the meantime if the money wasn’t there she'd miss a semester of school.
+57) 131) dialog: And she'd have to tell her friends why. And she needed things, she needed socks.
+57) 133) dialog: It’s cold in Cambridge, she needed warm socks.
+57) 135) dialog: Well I gave her money for socks. 96 STEVE JOBS -—
+57) 138) dialog: Somebody had to.
+57) 140) dialog: I’ve known her since she was six. I also consider--Chrisann’s a friend outside of what you and I--outside of our (relationship).
+57) 142) dialog: I'm a family friend.
+57) 144) dialog: Yeah.
+57) 146) dialog: Yeah.
+57) 148) dialog: That really wasn’t my business.
+57) 151) dialog: Lisa’s been going to a therapist and she likes it and would love for you and Chrisann to go with her.
+57) 153) dialog: I know a guy, he specializes in--
+57) 155) dialog: I--you know what, it was a while ago and I don’t remember how the whole--who said what to--
+57) 157) dialog: Steve, you’re stigmatizing--it’s not--my thing was how can it hurt?
+57) 159) dialog: Chrisann is my friend.
+57) 161) dialog: (pause) You mean--
+57) 164) dialog: I don’t remember. We were talking and I said--it was pretty much what I just said, that it certainly couldn’t hurt.
+57) 166) dialog: (pause) I did. (pause) I think it’s a miracle she’s not robbing banks with the Symbionese Liberation Army. There is no reason in the world why she should be nice. But she is. So I helped. Because somebody had to.
+57) 168) dialog: You threatened me a long time ago.
+57) 170) dialog: A long time ago. You threatened me once.
+57) 172) dialog: (pause) I meant you literally threatened me. At Flint, right before the Mac launch. (MORE )
+57) 175) dialog: I was recompiling, I was trying to debug the voice demo and you said if I couldn’t find a solution you’d call me out in front of the audience.
+57) 177) dialog: It did.
+57) 179) dialog: (beat) Why do you want people to dislike you?
+57) 181) dialog: Well...since it doesn’t matter? I always have.
+57) 183) dialog: Knock ‘em dead.

@@ -1,0 +1,11 @@
+12) 3) dialog: (to himself) A fin? (CONTINUED)
+16) 8) dialog: Indeed, sir. Boswell is holding a silver tray with a glass of amber liquid on it. He offers it to Larry.
+16) 11) dialog: A brewsky, sir?
+19) 7) dialog: Your brewsky, sir. Larry comes over nonchalantly, takes the beer from the tr and takes a swig. |
+19) 8) text: . LARRY c Ah, that hits the spot. Thanks, Boswell. Have one yourself if you ike.
+19) 9) dialog: Thank you, sir. Boswell exits. Larry goes over to the trophy case. He SEES: a number of golfing trophies, a yachting cup etc. Then he SEES: the all-state highschool championship trophy, 1970. Next to it, is a framed newspaper headline, which reads: “BURROWS 9TH INNING HOMER EDGES FILLMORE!" There is a pho of Larry being hoisted in the air by his team-mates. Larry smiles. He raises the beer bottle in a toast.
+20) 60) dialog: A brewsky, sir?
+24) 5) dialog: Your jacket, sir.
+24) 8) dialog: Indeed, sir. For some time now.
+24) 10) dialog: You look wonderful, sir.
+24) 12) dialog: Most generous, sir. Larry exits, smiling. 52 ~59~

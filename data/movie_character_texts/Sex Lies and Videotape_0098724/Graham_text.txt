@@ -1,0 +1,377 @@
+0) 1) text: GRAHAM DALTON, twenty-nine, drives his '69 Cutlass while a cigarette. One could describe his appearance as punk/ar but neither would do him justice. He is a man of obvious  intelligence, and his face is amiable. There is only one on his keyring, and it is in the ignition.
+8) 1) text: Graham has parked in the Millaney's driveway. He opens th trunk, revealing a Sony 8mm Video rig and a single black bag. He grabs the duffle bag and shuts the trunk.
+8) 2) text: Graham knocks at the door. He is stubbing out a cigarette his beaten tennis shoe when Ann answers the door. She is to hide her suprise at his appearance.
+8) 4) dialog: Ann?
+8) 8) dialog: (extends his hand)  Graham Dalton.
+8) 11) dialog: Can I use your bathroom?
+8) 15) text: Graham moves inside.
+9) 1) text: Ann closes the door and motions Graham to the rear of the
+9) 4) text: Graham heads for the bathroom. Ann heads for the phone. S dials John's office.
+9) 9) text: Graham exits the bathroom. Ann quickly hangs up the phone
+9) 13) dialog: False alarm.
+9) 16) text: Graham sits, his manner pleasantly animated. He gets his from inside his scuffed black leather jacket and looks ar for an ashtray. Ann swallows uncomfortably.
+9) 20) dialog: Oh, no problem. It can wait.
+9) 21) text: A moment of silence. Graham looks at Ann directly. It is a challenging stare, he's just trying to ascertain what k of person she is. Ann, to her credit, somehow meets his g Something subtle passes between them.
+9) 25) dialog: Yes. (pause) Oh, you mean to bring in! No. Yes,  I have some other things, no, I  don't need to bring them in. This  is all I need to stay here.
+9) 28) text: Graham smiles. He has an unusual face, a face that fluctu between remarkably handsome and just plain strange.
+9) 30) dialog: Have you ever been on television?
+9) 34) dialog: Yes.
+9) 38) dialog: (shrugs)  Curious.
+9) 43) dialog: Yeah, I guess it is. My mother  is a complete Anglophile, anything  British makes her drool like a  baby. She probably heard the name  in some movie. She's a prisoner  of public television now.
+9) 47) dialog: Are you uncomfortable with my appearance?
+9) 51) dialog: (smiles) Oh. Well, maybe I'm uncomfortable  with my appearance. I feel a little  out of place in these surroundings.
+9) 55) dialog: I used to take great pleasure in  that, being purposefully different,  rubbing people's noses in it.  Didn't you do that when you were  younger?
+9) 59) dialog: Oh. Well, I did. I was in a band  once, and the music was always  secondary to just flat out  offending as many people as  possible.
+9) 63) dialog: No, I was in charge of kind of  standing at the microphone and  reciting these really depressing  lyrics in a monotone. The whole  thing was really .... irrelevant.  How do you like being married?
+9) 67) dialog: What about it do you like? I'm  not being critical, I'd really  like to know.
+9) 70) text: Ann looks at Graham and stops. He smiles again.
+9) 74) dialog: Yes. So you feel security,  stability. Like things are going  to last awhile.
+9) 78) dialog: Did you know that if you shut  someone up in a room, and the only  clock he has reference to runs  two hours slow for every  twenty-four, that his body will  eventually adjust to that schedule?  Simply because the mind honestly  perceives that twenty-six hours  are twenty-four, the body follows. And then there are sections of time.  Your life can be broken down into  the sections of time that formed  your personality (if you have one).  For instance, when I was twelve, I had an eleven minute conversation  with my father that to this day  defines our relationship. Now,  I'm not saying that everything  happened in that specific section  of time, but the events of my  childhood involving my father led  up to, and then were crystallized  in, that eleven minutes.
+9) 83) dialog: (smiles) Anyway, I think the mind is very  flexible as far as time is  concerned.
+9) 87) dialog: Exactly. I would say the fact that  you feel the first year of your  marriage has gone by quickly means  lots of things. Or could mean lots  of things.
+9) 91) dialog: Nine years.
+9) 95) dialog: Yes. I was surprised that he  accepted when I asked if I could  stay here until I found a place.
+9) 99) dialog: I knew him very well. We were  extremely close until I dropped  out.
+9) 104) dialog: Oh, lots of reasons, most of them  boring. But, up until I dropped  out, John and I were...very much  alike.
+9) 108) dialog: I would imagine that we are, now.  I think I'm ready to use the  bathroom, finally.
+9) 109) text: Graham gets up and heads for the toilet. Ann watches him a bemused smile on her face. After she hears the door clo she can't resist the impulse to take a closer look at Gra bag.
+9) 110) text: IN THE BATHROOM, Graham pokes around, looking through the medicine cabinet and sniffing towels.
+10) 1) text: John, Ann and Graham are eating dinner.
+10) 7) dialog: Everybody has a past.
+10) 11) dialog: A bonfire, probably.
+10) 14) dialog: (to Ann) This food is excellent.
+10) 20) dialog: (to Ann) You have family here also?
+10) 24) dialog: Sister older or younger?
+10) 29) dialog: Are you close?
+10) 30) text: Graham sees Ann and John exchange looks.
+10) 32) dialog: I'm sorry. Am I prying again?
+10) 36) dialog: Yes, this afternoon. I was grilling  Ann about your marriage this  afternoon.
+10) 40) dialog: She held up very well.
+10) 43) dialog: (to Ann) So I was asking about your sister.
+10) 49) text: An almost imperceptible reaction by Graham.
+10) 51) dialog: I don't know.
+10) 56) text: Graham eats in silence.
+10) 62) dialog: I wish I didn't have to live  someplace.
+10) 65) text: Graham thinks a moment, then puts his keyring with its si key onto the table.
+10) 67) dialog: Well, see, right now I have this  one key, and I really like that.  Everything I own is in my car.  If I get an apartment, that's two  keys. If I get a job, maybe I  have to open and close once in  awhile, that's more keys. Or I  buy some stuff and I m worried  about getting ripped off, so I  get some locks, and that's more  keys. I just really like having  the one key. It's clean, you know?
+10) 68) text: Graham looks at the keyring before returning it to his po
+10) 72) dialog: I like having the car, the car  is important.
+10) 76) dialog: Or go someplace in a hurry.
+10) 80) text: Graham also stands, empty plate in hand.
+10) 82) dialog: Do I pay taxes? Of course I pay  taxes, only a liar doesn't pay  taxes, I'm not a liar. A liar is  the second lowest form of human  being.
+10) 86) dialog: Lawyers.
+10) 87) text: John smiles, thinking. Graham follows Ann into the kitche John shouts after them.
+10) 90) text: Ann looks at Graham.
+10) 94) dialog: No.
+11) 1) text: Everyone but Ann is asleep. She gets up from her bed and quietly into the guest bedroom where Graham is staying. S walks cautiously up to his bed to watch him as he sleeps. Moonlight caresses his face as he breathes peacefully. Ex he turns over slowly, his back to Ann.
+13) 1) text: Graham and Ann walk around the room, their footfalls heav the hardwood floors. MR. MILLER, the landlord, stands nea He looks fairly interested in Ann.
+13) 5) dialog: It'll just be me.
+13) 9) dialog: No. (pause) You said three-fifty?
+13) 13) dialog: Will you lease month-to-month?
+13) 17) dialog: How about for five hundred?
+13) 18) text: Mr. Miller looks at Ann, then back at Graham.
+14) 13) dialog: (voice over) How do you mean?
+15) 1) text: Graham and Ann are having lunch. Ann looks to have had a of wine. Graham drinks club soda with a twist.
+15) 6) dialog: Yeah, I know. I mean, I'm not saying I know people think you're a bitch, I'm saying I know what you mean. And I don't even know that people think you're a bitch. Do they?
+15) 10) dialog: Hmm. Well, maybe you are. Really, I wouldn't pay much attention.
+15) 13) dialog: I know that I just don't feel a connection with very many people, so I don't waste time with people I don't feel one with.
+15) 16) text: Graham nods.
+15) 20) dialog: It's up to you. But I warn you, if you tell me something personal, I might do the same.
+15) 23) text: Graham smiles.
+15) 27) dialog: I think so. I remember reading somewhere that men learn to love what they're attracted to, whereas women become more and more attracted to the person they love.
+15) 30) text: Graham watches Ann take a sip of wine.
+15) 32) dialog: So what about kids?
+15) 36) dialog: Do you want them?
+15) 40) dialog: Why is that?
+15) 43) text: Graham nods.
+15) 47) dialog: Do you want me to?
+15) 51) dialog: Agreed.
+15) 52) text: Graham takes a sip of club soda.
+15) 54) dialog: I'm impotent.
+15) 59) dialog: Impotent.
+15) 63) dialog: Well, let me put it this way: I cannot achieve an erection while in the presence of another person. So, for all practical purposes, I am impotent.
+15) 64) text: Ann takes a large sip of wine. Graham lights a cigarette.
+15) 68) dialog: (exhales) Not usually. I mean, honestly, I haven't known many guys that could think straight with an erection, so I feel I'm way ahead of the game as far as being clear-headed goes.
+15) 72) dialog: I am self-conscious, but not in the same way that you are. You have got to be the most attractive self-conscious person I've ever seen.
+15) 76) dialog: Well, I've been watching you. I've watched you eat, I've watched you speak, I've watched the way you move, and I see somebody who is extremely conscious of being looked at. I think you really believe that people are looking at you all the time. And you know what?
+15) 80) dialog: They are looking at you. Ann, you are truly breathtaking. I don't know if you understand how your appearance can affect people. Men want to possess you, women wish they looked like you. And those that don't or can't resent you. And the fact that you're a nice person just makes it worse.
+15) 84) dialog: You're in therapy?
+15) 88) dialog: Hah! No, I'm not. Actually, I used to be, but the therapist I had was really ineffectual in helping me deal with my problems. Of course, I lied to him constantly, so I guess I can't hold him totally responsible...
+15) 92) dialog: I believe in it for some people. I mean, for me it was silly, I was confused going in. So I just formed my own personal theory that you should never take advice from someone of the opposite sex that doesn't know you intimately.
+15) 96) dialog: (surprised) You had sex with you therapist?
+15) 100) dialog: Oh, see, I meant someone you've had sex with. That's part of the theory.
+15) 103) dialog: (smiles) Well, I wasn't always impotent.
+15) 108) dialog: Basically, yes.
+16) 5) dialog: (voice over) That's correct. (pause) Bit of a dilemma, isn't it?
+20) 1) text: On a television monitor we see images originating from an Video deck. Graham sits naked in a sheet-covered chair fa the screen. He watches the tape, which is footage of hims interviewing a girl about her sexual preferences. The photography on the tape is handheld, relentless. As the questions get more detailed, Graham becomes more aroused.
+20) 2) text: There is a knock on Graham's door. He calmly shuts off th videotape player and stands, wrapping the sheet around hi
+20) 4) dialog: It's open.
+20) 5) text: Graham walks into the bedroom to put on some clothes. Ann the door and walks into the apartment.
+20) 9) dialog: (off) Ann. Hello.
+20) 13) dialog: (off) Nothing I can't finish later.
+20) 17) dialog: (Off) Not much to see, I'm afraid. I'm sort of cultivating a minimalist vibe.
+20) 20) text: Graham enters.
+20) 22) dialog: I do read a lot. But I check everything out of the library.
+20) 23) text: Graham picks up an Anais Nin diary and opens it to show A the library sleeve inside.
+20) 25) dialog: Cheaper that way. And cuts down on the clutter.
+20) 32) dialog: Videotapes.
+20) 35) text: Graham exhales.
+20) 37) dialog: It's a personal project I'm working on.
+20) 41) dialog: Oh, just a personal project like anyone else's personal project. Mine's just a little more personal.
+20) 45) dialog: Donna?
+20) 49) dialog: (thinking) Donna was a girl I knew in Florida.
+20) 53) dialog: Not really.
+20) 57) text: Graham thinks for a moment.
+20) 59) dialog: Because I enjoy interviewing women more than men.
+20) 63) dialog: Yes.
+20) 67) dialog: No.
+20) 71) dialog: Because I promised each subject that no one would look at the tape except me.
+20) 72) text: Ann looks at Graham for a long moment, then back at the t
+20) 76) dialog: The...interviews are about sex, Ann.
+20) 80) dialog: Yes.
+20) 84) dialog: Everything about sex.
+20) 88) dialog: Like what they've done, what they do, what they don't do, what they want to do but are afraid to ask for, what they won't do even if asked. Anything I can think of.
+20) 92) dialog: Yes.
+20) 96) dialog: Mostly. Sometimes they do things.
+20) 100) dialog: No, not to me, for me, for the camera.
+20) 104) dialog: I'm sorry this came up.
+20) 108) dialog: Maybe you want to go.
+23) 1) text: Graham sits smoking a cigarette. There is a knock at his
+23) 3) dialog: It's open.
+23) 4) text: Cynthia enters. Graham looks up at her.
+23) 6) dialog: Who are you?
+23) 10) dialog: Do I know you?
+23) 14) dialog: The extrovert.
+23) 18) dialog: She called you that, too. May I ask why you re here?
+23) 22) dialog: I just want to know why you're here.
+23) 26) dialog: No, I really can't. I find it healthy never to characterize people I don't know or conversations I haven't heard. I don't know what you and your sister discussed about me or anything else. Last time I saw Ann she left here very...confused, I would say. And upset.
+23) 30) dialog: And are you here to berate me for making her that way?
+23) 34) dialog: She didn't tell you why she was upset?
+23) 38) dialog: She didn't give you my address?
+23) 42) dialog: How did you find me?
+23) 46) dialog: I don't understand. Why did you want to come here? I mean, I can't imagine Ann painted a very flattering portrait of me.
+23) 50) dialog: Nope. I think the man is a liar.
+23) 54) dialog: (smiles) Spooked.
+23) 57) dialog: That box of tapes is what got Ann so "spooked".
+23) 62) dialog: What do you get?
+23) 66) dialog: Not exactly.
+23) 70) dialog: Why don't you let me tape you?
+23) 74) dialog: Talking.
+23) 78) dialog: Sex. Your sexual history, your sexual preferences.
+23) 82) dialog: Nothing.
+23) 86) dialog: I just want to ask you questions.
+23) 90) dialog: That's all.
+23) 94) dialog: Yes.
+23) 98) dialog: Absolutely not. They are for my private use only.
+23) 102) dialog: I turn on the camera. You start talking.
+23) 106) dialog: Yes.
+23) 110) dialog: That depends on you. One woman only used three minutes. Another filled up three two hour tapes.
+23) 114) dialog: No.
+23) 118) dialog: Whichever you prefer.
+23) 122) dialog: Just a moment.
+23) 123) text: Graham grabs his 8mm Video camera, puts in a new tape, an it on.
+23) 125) dialog: I am now recording. Tell me your name.
+23) 129) dialog: Describe for me your first sexual experience.
+23) 133) dialog: Your first sexual experience.
+23) 137) dialog: Was it ever a topic of conversation between the two of you afterward?
+23) 141) dialog: How unfortunate. So when did you finally get to see a penis?
+23) 145) dialog: Live, or in a photograph or film of some sort?
+23) 149) dialog: What did you think? Did it look like you expected?
+23) 153) dialog: Were you disappointed?
+23) 157) dialog: What about when you touched it? What did you expect it to feel like, and then what did it really feel like?
+23) 161) dialog: What did he say?
+23) 165) dialog: Then what happened?
+24) 1) text: Cynthia, adjusting her clothes, opens the door to leave. looks very aroused. She and Graham do not speak or touch.
+26) 1) text: Graham watches Cynthia's tape, becoming excited.
+26) 5) dialog: (voice on tape) If you wish. (pause) You're not wearing any underwear.
+26) 9) dialog: (voice on tape) Yes.
+26) 13) dialog: (voice on tape) Yes.
+26) 17) dialog: (voice on tape) Different.
+27) 5) dialog: (voice On tape) Is that what he tells you?
+32) 1) text: Graham sits reading a book. There is a knock at his door.
+32) 3) dialog: It s open.
+32) 6) dialog: Hello.
+32) 9) text: Graham sets his book down. He looks at her for a moment, drags on his cigarette.
+32) 13) dialog: Okay.
+32) 16) text: Graham thinks for a moment.
+32) 18) dialog: No.
+32) 22) dialog: I never do more than one. I'm sorry.
+32) 26) dialog: No. You'll have to get somebody else.
+32) 30) dialog: I'm sure a substantial number of men in this town would volunteer.
+32) 34) dialog: Ouch. Okay, I deserved that. Cynthia, don't you understand? After the first time it's just not spontaneous. There's no edge anymore. Look at the tapes, there is only one date on each label. I have never taped anyone twice.
+32) 38) dialog: No.
+32) 42) dialog: I would.
+32) 46) dialog: Cynthia, I don't know.
+32) 50) dialog: I'm sorry. I can't do it.
+32) 54) dialog: No.
+32) 55) text: Cynthia heads for the tape box. Graham leaps up to stop h
+32) 58) text: Graham grabs her wrists momentarily.
+32) 60) dialog: (heated) No!! I told you what the parameters were and you agreed. It's my tape. I look at it, I touch it, nobody else.
+32) 61) text: Cynthia and Graham look at each other for a long moment.
+32) 63) dialog: Please go, I'd like you to go now.
+42) 1) text: Graham sits reading.
+42) 2) text: There is a weak knock at the door. Graham listens, not su heard anything. There is a second weak knock.
+42) 4) dialog: It's open!
+42) 5) text: Nothing happens. Graham gets up and opens the door himsel Ann stands against the wall of the hallway, her head down breathing deliberate. Concerned, Graham slowly begins to her inside. Impulsively, she hugs him tightly.
+42) 6) text: Unaccustomed to physical contact, Graham's hands hang awk at his side. Ann slowly pulls back from the embrace and s down. Graham goes to the kitchen area and gets her a glas water. He gives it to her and sits in the chair opposite. holds the glass in her hand, staring at it.
+42) 8) dialog: It's bottled, not tap.
+42) 13) dialog: I know.
+42) 17) text: Ann looks at Graham.
+42) 21) dialog: I know.
+42) 25) dialog: Yes.
+42) 29) dialog: She said it on her tape.
+42) 33) dialog: Ann, when would I have told you? We were not speaking, if you recall.
+42) 36) dialog: But even if we had been speaking, I wouldn't have told you.
+42) 40) dialog: It's not my place to tell you these things, Ann. You have to find out by yourself or from John directly. You have to trust me on this.
+42) 44) text: Graham says nothing.
+42) 47) text: Ann looks at Graham.
+42) 52) dialog: Do you think that's such a good idea?
+42) 56) dialog: Yes. But I sense the element of revenge here.
+42) 60) dialog: I want you to be aware of what you're doing and why, because I know that this is not the sort of thing you would do in a normal frame of mind.
+42) 64) dialog: (impressed) That's a good question.
+42) 68) dialog: Load a new tape, turn the camera on.
+42) 71) text: Graham opens a new box of videotapes.
+42) 75) dialog: I have money.
+42) 79) dialog: It won't. Are you ready?
+42) 82) text: Graham turns the camera on.
+42) 84) dialog: Tell me your name.
+44) 1) text: Graham stops the video recorder. The record meter is stop 46:02.
+44) 2) text: Ann sits beside Graham on the couch. She looks into his e stroking his hair.
+46) 1) text: Graham stands in the middle of the room with a cigarette his mouth, trying to teach himself to moonwalk.
+47) 1) text: John screeches to a halt, parking haphazardly. He gets ou the car and runs to Graham's apartment.
+48) 3) dialog: Hi, John.
+48) 7) dialog: What tapes?
+48) 11) dialog: John, as a lawyer, you should know that those tapes are private property.
+48) 15) dialog: She's not property, John, she's a person. Were you just going to keep right on lying to her?
+48) 19) dialog: God, you need help.
+48) 23) dialog: No.
+48) 27) dialog: No.
+48) 28) text: John punches Graham in the jaw, knocking him to the floor Graham feels his mouth for blood as John picks him up by shirt.
+48) 32) dialog: No.
+48) 33) text: John roughly pushes Graham into one of the director's cha which topples over and throws Graham to the floor once ag
+48) 34) text: John looks around. He sees the boxes of tapes and begins go through the contents. Graham gets up and runs over to him.
+48) 36) dialog: Get away from those!! They belong to me!!
+48) 37) text: Graham and John struggle. John hits Graham in the stomach pushes him to the floor.
+48) 41) dialog: My keys?
+48) 42) text: John bends over and starts going through Graham's pockets
+48) 46) dialog: I'm not going to give you my keys.
+48) 47) text: John beats Graham until Graham can offer no resistance. H drags Graham into the hallway and leaves him there.
+48) 48) text: John then locks himself inside Graham's apartment.
+48) 50) text: In the hallway, Graham drags himself to the door of his apartment. Putting his ear to the inlet, he strains to he what is going on inside.
+48) 54) dialog: (on tape) Tell me your name.
+48) 58) dialog: (on tape) You are married, correct?
+48) 64) dialog: (on tape) Who usually initiates sex?
+48) 71) dialog: (on tape) Do you talk to him?
+48) 75) dialog: (on tape) Yes.
+48) 79) dialog: (on tape) Does he go down on you?
+48) 85) dialog: (on tape) I would.
+48) 86) text: John is literally so mad he can't speak. He watches the s in mute anger, his hands wrapped tightly around the arms the chair. Graham still listens from the hallway.
+48) 88) dialog: (on tape) Have you ever wanted to make love to someone other than your husband?
+48) 95) dialog: (on tape) You're hesitating. I think that means you have.
+48) 101) dialog: (on tape) It's a simple question. Have you ever thought of having--making love with someone other than your husband?
+48) 106) dialog: (on tape) Absolutely not.
+48) 107) text: A sarcastic chuckle from John. In the hallway, Graham fur his brow.
+48) 113) dialog: (on tape) Did you have sex before you were married?
+48) 117) dialog: (on tape) Did the person you made love with satisfy you more than your husband?
+48) 122) text: John stands and throws his chair against the door. Graham listening at the door, is startled.
+48) 124) dialog: (on tape) And you have thought about...making love to that person again since you ve been married?
+48) 129) dialog: (on tape) At some level, I don't understand your nervousness. Have you decided to leave John?
+48) 134) dialog: (on tape) Then as far as this taping goes, you have nothing to worry about.
+48) 138) dialog: (on tape) Do you want me to stop?
+48) 143) dialog: (on tape) Are there people other than your previous lover that you have fantasized about?
+48) 148) dialog: (on tape) Why?
+48) 152) dialog: (on tape) You're not like your sister. You couldn't be like her if you wanted to.
+48) 155) text: John picks up the chair he threw and sets it upright. He down and watches the screen impassively. Graham still lis from outside.
+48) 157) dialog: (on tape) So you do fantasize?
+48) 161) dialog: (on tape) About who?
+48) 165) dialog: (on tape) About me?
+48) 172) dialog: (on tape) I thought I made that clear before, when I said I would go down on you.
+48) 176) dialog: (on tape) Yes.
+48) 180) dialog: (on tape) No.
+48) 184) dialog: (on tape) No.
+48) 188) dialog: (on tape) If I can't do it all, I don't want to do anything. And I can't do it all.
+48) 191) text: A pause. John is still watching the tape, his face betray no emotion. Graham still listens from outside.
+48) 194) text: The previous afternoon. We are no longer looking at Ann o monitor, but watching her and Graham AS THEY MADE THE TAP instance, we can now see Graham from Ann's point of view, two of them at the same time, etc.
+48) 196) dialog: Can't.
+48) 200) dialog: That's correct.
+48) 204) dialog: Yes.
+48) 208) dialog: Her name was Elizabeth.
+48) 212) dialog: No, it was wonderful. That wasn't the problem.
+48) 216) dialog: The problem was me. I was...I was a pathological liar. Or am, I should say. Lying is like alcoholism, one is always "recovering".
+48) 220) dialog: Yes. I did. Willfully and repeatedly.
+48) 224) dialog: I loved her for how good she made me feel, and I hated her for how good she made me feel. And at that time, I tended to express my feelings non-verbally. I couldn't handle anyone having that much control over my emotions.
+48) 228) dialog: Now I make sure that no one has the opportunity to test me.
+48) 232) dialog: How could I, with all these nice people stopping by? The fact is that I've lived by myself for so long, I can't imagine living with another person. It's amazing what you can get used to if enough time goes by. And anyway, I'm asking the questions. Are you happy?
+48) 236) dialog: Did you confront John with the fact that you knew about him?
+48) 240) dialog: If you do get out of your marriage, will you continue to be inhibited?
+48) 244) dialog: Subtlety?
+48) 248) dialog: And you feel the same way with John?
+48) 252) dialog: Interesting analogy.
+48) 256) dialog: No, you're not.
+48) 260) dialog: You should be. He lied to you. So did Cynthia.
+48) 263) text: Ann sits quietly for a moment. Graham watches her silentl The camera continues to roll.
+48) 267) dialog: I'm not planning on it.
+48) 272) dialog: I'm not in love with you.
+48) 276) dialog: I...I can't answer that precisely.
+48) 280) dialog: That's very flattering.
+48) 284) dialog: Ann. Are you asking me hypothetically, or are you asking me for real, right now?
+48) 289) dialog: I can't.
+48) 293) dialog: I've told you.
+48) 297) dialog: Ann, it could happen to me all over again, don't you see? I could start to--
+48) 301) dialog: I couldn't face her if I had slept with somebody else.
+48) 306) dialog: (uncomfortable) Yes.
+48) 310) dialog: No.
+48) 314) dialog: I don't know. Possibly.
+48) 318) dialog: Not entirely.
+48) 322) dialog: Yes.
+48) 326) dialog: Possibly.
+48) 330) dialog: I don't know.
+48) 334) dialog: I don't know. I really would rather not talk about it.
+48) 338) dialog: As I said, I haven't decided what to do, exactly. Perhaps I won't do anything.
+48) 341) text: Graham says nothing. Ann looks at him.
+48) 344) text: Graham sets the camera down, though it continues to recor He is visibly upset.
+48) 346) dialog: All right, you want to talk about lies, let's talk about lies, Ann. Let's talk about lying to yourself. You haven't been able to sleep with your husband because you're no longer in love with him, and maybe you never were. You haven't been honest with yourself in longer than you can remember.
+48) 352) text: Graham says nothing. Ann picks up the camera and points i him.
+48) 354) dialog: Don't do that.
+48) 358) dialog: Because.
+48) 362) dialog: I can't tell you like this.
+48) 366) dialog: I don't find this "turning the tables" thing very interesting--
+48) 369) text: Graham reaches up for the camera. Ann knocks his hand awa
+48) 372) text: Graham is on the verge of completely falling apart.
+48) 376) dialog: All right!! All right!! You want to know? You want to know how I feel? I feel ashamed. Is that what you wanted to hear?
+48) 377) text: A pause. Graham regains his composure somewhat.
+48) 381) dialog: Jesus Christ, Ann. Why is anybody anything? I think you have this idea that people are either all good or all bad, and you don't allow for any gray areas, and that's what most of us consist of.
+48) 385) dialog: (heated) Well, what kind of answer are you looking for, Ann? What is it exactly that you want to know?
+48) 389) dialog: And I'm telling you it's not any one thing that I can point to and say "That's why!" It doesn't work that way with people who have problems, Ann, it's not that neat, it's not that tidy! It's not a series of little boxes that you can line up and count. Things just don't happen that way.
+48) 393) dialog: No, Ann, I can't. I can't forget it. It's not something I can fix. It's difficult. There s something in my mind...the way my brain works... [frustrated) God, Ann, when you're with another person, and you re...inside them, you're so vulnerable, you're revealing so much...there's no protection. And...somebody could say, or do something to you while you re in this...state of...nakedness. And they could hurt you without even knowing it. In a way that you couldn't even see. (looks at Ann) And you would withdraw. To make sure it didn't happen again.
+48) 395) text: She moves in front of Graham and kneels.
+48) 398) text: Graham shakes his head.
+48) 402) dialog: No.
+48) 403) text: Ann reaches out, and Graham instinctively begins to move
+48) 407) text: Ann's hand eases out to him, her eyes still burning into Graham closes his eyes, accepting Ann's touch.
+48) 416) text: Graham lies back, silently obeying.
+48) 420) text: Once again she brings Graham's hand to her face. She move hand to her neck and throat, painting her skin with his f
+48) 423) text: Their hands remain together, and Graham's eyes remain clo Ann moves onto the couch with Graham.
+48) 425) text: She slowly moves both of her hands onto Graham's chest. T move forward and back, like a lazy tide.
+48) 426) text: She looks at Graham. His face is tranquil.
+48) 430) text: A subtle movement from Graham. Ann waits for a moment.
+48) 434) text: Graham tilts his head back and she softly kisses his neck
+48) 435) text: Graham's hands make their way up Ann's back until they ha reached her neck. He slowly pulls his face to hers.
+48) 437) text: Graham is flooded with warmth and excitement.
+48) 440) text: For a moment, Graham seems about to evaporate in a state ecstasy, his eyes filled with relief and happiness.
+48) 442) text: Graham seizes up and abruptly backs away from Ann's embra Reality slowly envelopes him.
+48) 446) dialog: I'm okay. It's okay.
+48) 449) dialog: (almost dazed) It's okay.
+48) 450) text: Graham looks at Ann for a long moment. She sees the accep and gratitude in his eyes. She smiles lightly.
+48) 451) text: Graham moves forward and shuts off the camera.
+48) 455) text: Graham, hearing the footsteps approach, backs away from t inlet. His eye is swollen, and he holds one of his hands a curious position.
+48) 456) text: John opens the door. He looks at Graham for a moment befo reaching into his pocket for Graham's keys. He dangles th in his hand as he stands over Graham. 
+48) 458) text: John drops Graham's keys to the floor and leaves. Graham fighting back tears, and walks into his apartment.
+51) 1) text: Graham sits reading. There is now some furniture in the apartment. Bookshelves, plants, etc. There are periodical the table where the video gear used to be. There are no cigarettes.
+51) 2) text: There is a knock at Graham's door, which now has a deadbo lock.
+51) 4) dialog: Who is it?
+51) 5) text: A knock again. Graham sets his book down and goes to the He unlocks the deadbolt and opens it.
+51) 7) text: Graham is obviously flushed with feeling at seeing her. S wordlessly moves into the room, her movements like a slow breeze, her expression calm.
+51) 8) text: Graham watches her go by.
+51) 10) text: Graham moves toward her slowly. Sensing him behind her, h breathing becomes deep.
+51) 11) text: Graham slowly enfolds her in his arms, his face against h hair.

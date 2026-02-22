@@ -1,0 +1,40 @@
+8) 17) dialog: Lieutenant! You know that you don't have any case here, so if you're going to charge him, you better, otherwise --
+8) 19) dialog: Charge him or let him go, you have no case... 20.
+8) 21) dialog: What's the beef here exactly?
+8) 23) dialog: There's plenty of crime on the high seas.
+8) 25) dialog: Yes, but given your history with my client -- you know this is harassment, there's no case, this'll never make it to trial.
+8) 27) dialog: Sure, unless you got the venue changed to maybe, like, Orange County -- not as many hippies down there --
+8) 29) dialog: Clients pay for work.
+8) 31) dialog: You're gonna kick him? That's assault!
+8) 34) dialog: «+. promise?
+8) 36) dialog: Alright, I'm glad we got this worked out then -- remember, Doc: This was like 15 billable minutes.
+23) 0) text: DOC looking through binoculars, SAUNCHO is here, over his shoulder. They're looking at a THREE-MASTED SCHOONER, GOLDEN FANG.
+23) 1) dialog: Meet the schooner Golden Fang, out of Charlotte Amalie.
+23) 3) dialog: Virgin Islands.
+23) 5) dialog: Close enough.
+23) 7) dialog: She has a tendency to show up in the middle of the night, no running lights, no radio traffic. See, the problem with this vessel is trying to find out anything. People back off, change the subject, get creepy and head for the toilet, never to reappear... the owners are listed as a consortium in the Bahamas.
+24) 0) text: Doc and Sauncho at a disgusting restaurant.
+24) 1) dialog: Her name isn't really the Golden Fang. (MORE)
+24) 3) dialog: Her original name was Preserved after her miraculous escape in 1917 from a tremendous nitroglycerin explosion in Halifax Harbor which blew away most everything else in it, shipping and souls. After World War II she was bought by Burke Stodger.
+24) 5) dialog: ... Burke Stodger got blacklisted for his politics, branded a communist and was forced to take the boat and split the country. Which is where the Bermuda Triangle comes in..... Sauncho hushes up as the waitress arrives...
+24) 6) dialog: Ordinarily I'd have the Admiral’s Luau -- but today I'll have the house anchovy loaf to start and the devil-ray filet. Can I get that deep fried in beer batter?
+24) 8) dialog: And two tequila Zombies. Waitress leaves, Sauncho back to whispers:
+24) 9) dialog: «+. so Burke's blacklisted, splits town on the boat... but somewhere between San Pedro and Papeete, the ship disappears, till one day, a couple years later, boat and owner suddenly reappear -- Preserved in the opposite ocean, off Cuba, and Burke Stodger on the front page of Daily Variety in an article reporting his return in a big budget major studio project called Commie Confidential. He followed that up with Squeal, Pinko, Squeal and I Was A Red Dope Fiend.
+24) 12) dialog: And his politics have miraculously changed. It's wrecking my appetite just talking about what's happened to this great ship -- they removed any traces of soul she once had...
+24) 14) dialog: Not just a boat, Doc. Something much more. I know why I'm so interested, but why are you?
+24) 16) dialog: As attorney and client, this story you heard -- it didn't happen to include Mickey Wolfmann?
+24) 18) dialog: According to scuttlebutt, shortly before his disappearance -- everybody's favorite developer was observed going onboard the Golden Fang. What we call a three-hour tour and back again...
+24) 20) dialog: «+. Who?
+24) 22) dialog: Thought you were done with all that sad bullshit.
+24) 24) dialog: Let's order you a boilermaker to go with the Zombie and you can start the whole sordid thing over again...
+24) 26) dialog: Word swirling around some of my friends at the Department of Justice says that maybe Mickey Wolfmann's not as missing as we think?
+24) 28) dialog: A rumor that these guys are trying to broker a Vegas deal with Wolfmann...
+24) 30) dialog: It's FBI stuff. That's what they do in Vegas... apparently Wolfmann owned some property they wouldn't mind having... The drinks arrive.
+24) 31) dialog: Mmmmmmmmmm. +All this good eatin'.
+77) 5) dialog: It's what you can't avoid.
+77) 7) dialog: Stuff Marine policies don't like to cover. Usually applies to cargo like eggs break -- chocolate melts -- glass shatters, that sorta thing... thinking of -- THE PHONE AT THE BAR RINGS, SAUNCHO RUNS FOR IT... he listens, then hangs up... 112 113 124.
+77) 8) dialog: They got her -- Sauncho runs out as fast as he can -- Doc on his heels.
+78) 0) text: Department of Justice and Coast Guard boats have taken hold of the Golden Fang... Doc and Sauncho watch from the shore...
+78) 1) dialog: If she could be brought back in, into some kind of safe receivership and the owners don't come and claim her within a year and a day -- then she's officially abandoned.
+78) 3) dialog: I don't wanna jinx anything -- everybody starts coming out of the woodwork -- multiple insurers; ex- old ladies -- maybe one of your lowlife millionaire friends will end up stealing her at auction -- but!... say there was a legal marine policy in force --
+78) 5) dialog: If there's litigation -- I'll be on it.

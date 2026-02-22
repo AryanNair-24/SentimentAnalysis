@@ -1,0 +1,53 @@
+3) 8) dialog: The senator's white paper is almost ready, Bets. Should we wait for that?
+3) 10) dialog: I think we should try to get maximum coverage for this new mandatory welfare program. Push the issues.
+3) 13) dialog: You forgot "sexy".
+3) 15) dialog: Just didn't get around to it, huh?
+3) 19) dialog: Well, for Christsakes, you sound like you're selling... I don't know what... cars... not issues.
+3) 21) dialog: More people watch it.
+3) 23) dialog: No, c'mon, I'm listening. I was just...
+3) 25) dialog: Kidding around... you know, fun. Betsy looks toward the street, then back at Tom.
+3) 27) dialog: With who?
+3) 31) dialog: Well, if Cronkite's so great, why don't we run him instead?
+3) 33) dialog: Sure we could run him. You realize he's already of his block association.
+3) 36) dialog: No, why?
+3) 38) dialog: What taxi driver?
+3) 40) dialog: How long has he been there?
+3) 42) dialog: (determined)
+3) 43) text: Well, I'll go out and ask him. As Tom walks toward front door Betsy's eyes alternate between him and the position where Travis sits.
+4) 0) text: Tom strides out the front door and walks briskly across t street toward Travis' taxi. Travis spots Tom walking toward him and quickly stares up his cab, then squeals off in a burst of billowing exhaust Tom watches the speeding taxi quizzically. Travis' taxi continues down Broadway.
+8) 0) text: Tom and Betsy are talking. She takes out a cigarette. He takes out matches to light it.
+8) 2) dialog: This is gotta be a game, right?
+8) 5) dialog: (burning fingers)
+8) 9) dialog: I'm great. Always set my fingers on fire. If you want to see another trick. I do this thing with my nose.
+8) 11) dialog: Ah, yes, the guy at the newsstand, Mr. Asbestos...
+8) 15) dialog: Is he Italian?
+8) 17) dialog: You sure he's not Italian?
+8) 19) dialog: Well, If he had been Italian, they could have been shot off. Sometimes the mob does that to teach guys a lesson, If they blow a job or something.
+8) 21) dialog: Don't be naive. They can't kill everybody. They have different punishments for different things. Like, if they kill a stool pidgeon, they leave a canary on the body. It's symbolic.
+8) 23) dialog: I don't know. Maybe they don't leave a canary. Don't be technical. What I'm saying is if this newsstand guy's Italian and his fingers are gone, maybe he's a thief.
+8) 27) dialog: With the other hand, right?
+8) 29) dialog: I know that guy. His hand looks like a paw. An old Black guy, the newsstand at -
+8) 31) dialog: Show me how he did that again.
+9) 0) text: Travis is striding briskly across Broadway toward the Palantine Headquarters. He s dressed the best we have seen him; his pants (not jeans) are pressed, his boots shined, his hair combed. Un his Army jacket he wears a freshly laundered shirt and iv league tie. He drops his cigarette, steps on it and walks Watching Travis enter Palantine's Headquarters, we are surprised to realize that Travis is really quite attracti His deformities are psychological, not physical. He belie he is cursed, and therefore he is. Travis walks briskly into the office, and heads toward Betsy's desk.  Tom walks over to greet him, but Travis ignores him.
+9) 3) dialog: (at Betsy's desk)
+9) 4) text: If you'll come this way. Travis elbows Tom off.
+9) 9) dialog: (under his voice)
+9) 10) text: Bets. BETSY waves TOM off with a short gesture, indicating everything is OK.  He walks away.
+9) 30) text: if you talk to Tom, he'll assign you to something.
+10) 87) dialog: It's 12:30 now. You'll have fifteen minutes before the actual luncheon begins. Palantine nods as his assistant picks up the thread of an earlier conversation.
+10) 102) dialog: (joking)
+10) 103) text: And in some other places too... Palantine, his Assistant and Tom all laugh. Palantine, quickly reassuming candiorial mien, speaks to Travis:
+14) 17) text: You interested in an automatic?
+14) 38) text: It's he'll out there all right. A real shit-eatin' war. I'll say this, though: It's bringing a lot of fantastic guns. The market's flooded. Colt automatics are all over. (pockets the money)
+19) 0) text: A rally platform in a supermarket parking lot somewhere i QUEENS is draped in red, white and blue bunting. A CROWD of about 500 persons mills about, waiting for the rally to begin.  Piped pop-country MUSIC plays over the loudspeaker system. The CADRE OF SECRET SERVICE MEN, with their distinctive metallic grey suits, sun glasses and football physiques, stands out in the CROWD. On the PLATFORM are seated an assortment of LOCAL POLITIC as well as some PALANTINE WORKERS and ADVISERS. TOM is silently reading something on the podium, and BETS stands on the platform steps talking with ANOTHER WORKER. TOM looks up and to his left for a moment, then returns t what he was reading.  Then he returns his gaze to the upp left, watching something very closely.
+19) 3) dialog: Betsy, come over here a moment.
+19) 5) dialog: (insistent)
+19) 6) text: Just follow me. BETSY excuses herself and walks across the platform with As they stand to the rear of the platform, TOM secretivel makes a gesture with his eyes and says out of the side of his mouth:
+19) 7) dialog: Look there. (her eyes follow his)
+19) 11) dialog: Now look more closely.  Look around the eyes and chin.  See?  See there? CAMERA CLOSES IN on TRAVIS BICKLE standing in the CROWD: has shaved his head to a short stubble.  There he is: bru cut, wearing a giant grin, and a large "Palantine '72" bu Although it is a pleasant sunny day, TRAVIS wears a bulky bulged-out Army jacket. TRAVIS looks warily from side to side and vanishes in the CROWD. A SHORT WHILE LATER, TRAVIS walks up to a SECRET SERVICE standing near the fringes of the CROWD.  The SECRET SERVI MAN -- in sun glasses, grey suit, ever-roving eyes -- is immediately identifiable.
+19) 190) text: Well tomorrow noon there's a... I got a... IRIS is interfering with TRAVIS' assassination schedule.
+19) 194) dialog: Oh, Iris?
+19) 196) dialog: My name's Travis.
+20) 0) text: Palantine, Tom and Palantine's Assistant are seated in garishly decorated suite.
+20) 3) dialog: C'mon, Senator.  That was a class dinner.  The St. Regis is a class joint.  That was veal.
+20) 12) dialog: Those TV cameras do.  I caught the rally on CBS.  You looked a little paunchy.

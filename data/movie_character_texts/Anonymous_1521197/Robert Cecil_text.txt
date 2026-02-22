@@ -1,0 +1,90 @@
+19) 3) dialog: My lord of Southampton. (looking around)
+19) 6) dialog: (sharp, annoyed)
+19) 8) text: (smiles) With your father in London dealing with all the troubles in Ireland, who else should the Queen turn to but Essex? Robert Cecil looks annoyed, but holds his tongue as the SOUND of pikes HITTING the floor silences the hall. A FOOTMAN clears his throat and-- FOOTMAN
+19) 13) text: Yes, your grace, though not from me. Southampton CLAPS his hands and a door across the room OPENS. A DWARF enters, followed by dancing faires, actors swirling sparklers, and musicians playing music. Elizabeth's rheumy eyes widen in complete delight, a smile of total jubilation crosses her face. Robert Cecil, on the other hand, looks horrified. ELIZABETH
+19) 16) text: A play? The dwarf bows his assent. ROBERT CECIL
+19) 18) text: (interrupting) --Will gladly accept your gift. Robert Cecil turns to Essex, shocked. ESSEX (CONT'D)
+19) 19) text: (to Elizabeth) Of course that is if you so desire, majesty. (to Robert Cecil) The choice is her majesty's to make, not yours. Is that not so Sir Robert? Robert frowns as Elizabeth looks around, unsure of the political tides around her. Then-- ELIZABETH
+27) 0) text: Robert Cecil is standing at the opulent river   entrance to Cecil House, waiting for an enormous barge   docking. William Cecil (now 75) is at the front of the   barge, waiting to disembark. He constantly holds an    ornately carved white cane.
+27) 3) dialog: He is an Earl, father. I cannot deny him--
+28) 2) dialog: It-- it was an anonymous gift. Essex insisted it be performed, just to spite me in front of Court...
+28) 5) dialog: About? Some nonsense about fairies and cherubs.
+28) 8) text: Edward... (to Robert Cecil)
+28) 10) dialog: Father...    It was just a play...
+28) 13) dialog: Purpose?    What purpose?
+28) 16) text: But through your carelessness I must now deal not only with Essex, but Edward as well. For whether in shadow or in person, Edward has returned to Court! And with that he slams the door shut. Robert Cecil walks over to a nearby window. Visibly upset he starts to stare out of the window and remembers...
+29) 0) text: And it is thirty years earlier. BOY ROBERT CECIL (now 9) is staring out of the window. His back must have been deformed either in utero or at birth, because even now he is hunchbacked. WILLIAM CECIL(O.S.)
+29) 1) text: (more commanding) Robert! Come here. Finally Boy Robert Cecil turns and sees Young Oxford (now 17) entering the hallway with William Cecil and his wife and daughter, Young ANNE (15). In front of them, lined up, are several men whom we will learn are TUTORS. Boy Robert Cecil doesn't move. WILLIAM CECIL (CONT'D)
+29) 2) text: (to Young Oxford) I am sorry, my lord. But my son Robert prefers the company... of himself... Boy Robert Cecil watches as his father turns to his mother and sister. WILLIAM CECIL (CONT'D)
+29) 4) text: I am sorry for your loss, my lord. The realm lost a great lord with your father's death. We hope you will be happy in our house-- BOY ROBERT CECIL (O.S.)
+29) 6) text: No.    Only until I reach my maturity. BOY ROBERT CECIL
+29) 12) text: (in Greek) Dalon, an d'ego, hoti mathamata ge esti ha trafo psychas. BOY ROBERT CECIL
+30) 0) text: Young Oxford is fencing with a tutor. He's quite good. In fact, he's better than the tutor, who is twice his age. Boy Robert Cecil casually watches as he plays chess against himself. Young Oxford, with a fierce, beautifully executed attack, disarms his tutor. The tutor's sword FLIES into the air, and hits--
+30) 2) text: Boy Robert Cecil looks up, his face furious, to see Young Oxford coming over to him.
+36) 17) text: Sir Robert Cecil. ELIZABETH
+65) 8) dialog: He butchered you!
+66) 0) text: Robert Cecil is furious, pacing back and forth in front of William Cecil, who sits behind a large wooden desk. William Cecil is pale and sweaty-- he is deathly ill, and sits in a wooden chair with small spoked wheels attached to the legs-- sort of an Elizabethan wheelchair.
+66) 1) dialog: Not only in front of Court! But the entire City as well! We must arrest this Shakespeare and-
+66) 3) dialog: But we cannot maintain our authority if the mob thinks us laughing stocks--
+66) 5) text: Our authority comes from Elizabeth and from God! Elizabeth! Elizabeth is the key to all. Robert Cecil looks hurt by his father's anger.
+66) 7) text: Robert... You must think deeper. You must compensate. Compensate for your... malformations... with the gifts God did grant you... With cunning. With ruthlessness. William Ceci pushes a hidden button on the side of his desk-- a spring loaded secret drawer POPS open. Robert Cecil has never seen it before. Cecil produces a folded piece of parchment from the drawer, offers it to Robert Cecil.
+67) 0) text: Robert Cecil is pushing William Cecil in his wheelchair. They are completely alone.
+67) 3) dialog: I will reply to him?
+68) 3) text: If we are to secure your place at the side of the next king, you must get that king his throne, not I. A beat as this registers on Robert Cecil.
+68) 5) text: And then tell him Essex will not return from Ireland alive. Robert Cecil looks surprised.
+68) 9) dialog: (confused)
+68) 12) dialog: (more confused)
+94) 3) dialog: scans the room, to see how it is all playing out.
+95) 0) text: The funeral over, Elizabeth exits the portal of Westminster Abbey and heads to her carriage. A huge crowd of mourners has assembled. Robert Cecil steps into place right behind her.
+95) 3) dialog: A wise decision, your majesty. If nothing else, it will give him an opportunity to respond to all these rumors. Still walking, she turns to him sharply.
+95) 5) dialog: I'm sorry, majesty, I thought you'd heard.
+95) 7) dialog: Essex is in negotiations with Philip of Spain...
+95) 9) dialog: Majesty-- it is said that Essex has promised Phillip all of Catholic Ireland in return for... He hesitates.
+95) 11) dialog: Spain's support of Essex's claim to the throne of England... They have arrived at her carriage.
+95) 12) dialog: (beat)
+95) 15) dialog: (correcting)
+95) 17) dialog: My father's death has been a great loss for us all... She ignores him, trying to collect herself. Robert Cecil turns to the driver, NODS, and the carriage takes off. As soon as it is away, Robert Cecil turns and some in the crowd of commoners begin to BOO at him.
+104) 0) text: Elizabeth, now dressed and wearing her wig on her throne, is raging at Robert Cecil.
+104) 3) dialog: No. Unfortunately for us, your majesty, he is quite sane. He simply believes he is your royal equal. She turns to him sharply, furious at the thought.
+112) 0) text: Robert Cecil walks down the long hall, heading for an audience with the queen. Two guards open a door, letting him into--
+113) 0) text: Elizabeth is looking out the window. It's raining outside. She is NOT wearing her wig, not much make-up, and looks quite... odd. Robert Cecil enters.
+113) 2) dialog: You, you are the sun, majesty.   The glory of--
+113) 4) text: Robert Cecil shuts his mouth. ELIZABETH (CONT'D)
+113) 5) text: Is it so hard to believe that once I was young? That I was... beautiful? Your father knew me as such... (beat) You have read the book? She doesn't have to say which one. Robert Cecil sees a copy of "Venus and Adonis" on a table. He NODS. ELIZABETH (CONT'D)
+113) 6) text: He writes to me. To remind me of that beauty. That love. How I... took him. How I... adored him... Robert Cecil knows to be silent.   She looks out the window. ELIZABETH (CONT'D)
+113) 8) text: I've been foolish. Proud. Yes. Too proud. Gloriana... The Virgin Queen... A statue. Bloodless. (beat) "Thou wast begot; to beget is thy duty. By law of nature thou art bound to breed, That thine may live when thou thyself art dead"... (beat) Your father told you of the child? A beat. ROBERT CECIL
+113) 10) text: His.   Mine.   He still lives? Robert Cecil nods. ELIZABETH (CONT'D)
+113) 11) text: He was well placed? A nobleman? ROBERT CECIL
+113) 13) text: Who? Robert Cecil hesitates. ELIZABETH (CONT'D)
+113) 14) text: I am your Queen! Now who is my son!!? ROBERT CECIL
+113) 17) text: James?! He is the son of Mary! She plotted and schemed to steal the throne from under me! No son of hers will rule while a yet Tudor lives! Robert Cecil is surprised by her fury. He bows his head as Elizabeth tries to collect herself. ELIZABETH (CONT'D)
+113) 18) text: I will decide what is best for my kingdom! Not you! Not you!! (calmer) I have bid Edward to come to me on my return to London on Monday next. It is decided. She says no more, the audience over. Robert Cecil hesitates, and then she glares at him... He bows and exits, the fury on his face plain. Elizabeth looks at her own reflection in the window...
+115) 0) text: Jonson sticks his head in and takes in the glorious new theater Shakespeare and Burbage have built. The actor Condell is on stage, rehearsing the character of "Gloucester". He walks on stage with a limp, and has a large hump on his back. He is a caricature of Robert Cecil.
+119) 0) text: Robert Cecil has prayed all night. His lips silently move in a prayer for a miracle. When Pole appears he doesn't stop his prayer. Only after Pole whispers in his ear does he stop and look slowly up to the simple cross and close his eyes in relief.
+128) 0) text: Robert Cecil watches himself in a mirror as armor is placed on him by servants.
+132) 0) text: The servant tightens the last strap of Robert Cecil's armor. He smiles at himself in the mirror.
+147) 0) text: Elizabeth heads for the window just as a door behind her SLAMS open, and Robert Cecil hurries in with a dozen guards.
+147) 1) dialog: Majesty! You must away! Essex is in armed revolt! He's come to usurp you!
+147) 4) dialog: You must flee! Quickly! Majesty! He means to kill you and take your throne for himself! It takes only an instant for that to sink in. She looks enraged. And then she turns with a flurry, and heads back the way she came. The guards that were with Robert Cecil follow her.
+149) 1) dialog: She won't forgive him this, Edward. Oxford turns, devastated.
+149) 2) dialog: Essex will be convicted and executed for treason. (beat)
+149) 4) dialog: (smiles)
+149) 9) text: He wanted his grandson to be an Earl. ROBERT CECIL
+149) 10) text: No, Edward.   He wanted his grandson to be a king. Oxford now looks confused. ROBERT CECIL (CONT'D)
+149) 12) text: You lie... ROBERT CECIL
+149) 14) dialog: (beat)
+149) 17) dialog: What?  Slept with her son? (beat)
+151) 0) text: --Robert Cecil, a slight smile on his face. Pole approaches him from behind. Robert Cecil doesn't turn or acknowledge Pole, but speaks to him as he stares at Oxford.
+151) 1) dialog: I want a fair trial for Southampton... Evidence, witnesses, no false confessions. It must be above reproach. Though with a guilty verdict of course. Oh, and Pole-- (turns)
+151) 4) dialog: --Make certain the secretaries refer to it as Richard the Second. There will be no mention of hunchbacks in the official record...
+155) 0) text: Doors fly open and Oxford appears before Elizabeth, who is on her throne, regal and all in white, surrounded by courtiers, including Robert Cecil. But she looks very old, very ill. Everyone goes silent as Oxford approaches Elizabeth. Oxford makes no notice of them. He bows deeply in front of her.
+155) 2) dialog: Majesty, I--
+157) 0) text: On the frozen river Thames we see the funeral procession for the greatest Queen England has ever seen. Everybody follows the carriage with the casket of the queen. All the lords and ladies of the land.   All wear elaborate black clothing. First is Robert Cecil.   Proudly.   Not far walks Oxford. He is a statue. Devoid of emotion. And then joyous CHORAL MUSIC replaces the CHURCH GONGS as we--
+158) 1) dialog: is watching James. His face betrays his proud feelings. All of Robert Cecil's desires have come true. Oxford's wife Anne is there, but Oxford is nowhere to be seen.
+167) 0) text: A casket is being interred into the family mausoleum. Anne is there, as are Oxford's children. So is Robert Cecil.
+168) 0) text: Where we began. A bucket of water is DUMPED on Jonson. He regains consciousness and looks around. Somewhat confused he sees: Robert Cecil limping out of the dark towards him. Robert Cecil leans down, and very close to his ear, whispers:
+168) 7) text: Let him go!   He tells the truth. Robert Cecil turns to leave, but then turns a last time. CECIL (CONT'D)
+168) 8) text: And Jonson-- better him, won't you? Wipe his memory for all time. For you. And for me. Robert Cecil smiles at Jonson, who can only stare at him. Finally: JONSON
+168) 9) text: (sotto) I am afraid that this is not possible, my lord. Robert Cecil's smile freezes and he leaves.
+171) 0) text: Set for a Court performance of a play. Courtiers bow as King James I enters the chamber, Robert Cecil two steps behind him. James takes his seat right in front of the stage, as Elizabeth used to.
+173) 3) dialog: Of course, your majesty... The CAMERA moves away from them and we realize we are on the theater stage where we started.

@@ -1,0 +1,124 @@
+3) 2) dialog: May I help you?
+3) 4) dialog: Yes, please have a seat.  He'll be right with you. Clementine sits.  She looks tired, maybe hungover.  She p up a magazine at random and thumbs without interest.
+4) 0) text: Mary pads down the hallway.  She knocks on a closed door.
+4) 2) dialog: Howard, your one o'clock.
+4) 5) dialog: (turning back) Yes?
+4) 7) dialog: Cole slaw, ice tea?
+4) 9) dialog: Welcome, Howard. She smiles and heads down the hall.  Stan, 30's, tall, spindly, and earnest in a lab coat pops out of a doorway.
+4) 11) dialog: Hi. She glances back nervously at Mierzwiak's open door.
+4) 13) dialog: (reprimanding whisper) Stan... c'mon...
+4) 15) dialog: (somewhat guiltilly) It's just...y'know... I mean...
+4) 17) dialog: Anyway, I've got to do my tap dance here. She indicates the door to the reception area.  Stan nods.
+4) 19) dialog: 'kay.
+4) 21) dialog: I better do this, Stan. Stan nods again and Mary opens the door to the waiting ro
+4) 22) dialog: Ms. Kruczynski?
+4) 24) dialog: (professionally courteous) How are you today?
+4) 26) dialog: (at Mierzwiak's office) Here we are. Mierzwiak steps out from behind his desk.
+24) 0) text: Joel sits in the small room with his bags.  A woman acros from him cradles a box full of belongings in her lap.  He eyes are red from crying.  Mary, the receptionist, pokes head through her window into the waiting room.
+24) 1) dialog: Hello again, Mr. Barish.  Good, you've got your stuff.
+25) 0) text: Joel walks with his bags behind Mary.
+25) 1) dialog: (not looking back) How are you today? (at lab) Here we are.
+31) 0) text: Joel enters the Lacuna waiting room.  Mary sits in the reception area.
+31) 1) dialog: May I help you?
+31) 3) dialog: Please have a seat.  Dr. Mierzwiak will be right with you.
+32) 0) text: Mary leads Joel down the hall.
+32) 1) dialog: (without turning) How are you today?
+32) 3) dialog: (at Mierzwiak's office) Here we are. Joel glimpses Mary smiling coquettishly at Mierzwiak.
+45) 0) text: Joel gets off on the sixth floor.  He searches for a room number.  As he turns the corner, he sees that the hallway faded, vague and mostly erased.  He keeps walking, comes the door marked Lacuna and opens it.  Inside he can see vague, erased version of Mary the receptionist.
+45) 1) dialog: (dead monotone) Hi, May I help you? These degraded, faded memories allow Joel to detach himse and hear what's going on in his bedroom.
+57) 0) text: Patrick opens the door.  Mary stands there in a winter co carrying a backpack.
+57) 1) dialog: (coolly) Oh, hey, Patrick.
+57) 4) dialog: It's freezing out.
+57) 6) dialog: Yeah. (re: Joel) Poor guy. (looking around) Have anything to drink?
+57) 8) dialog: Well, allow me to do the honors.  It's fucking freezing and I need something. She heads into the kitchen.  Stan turns back to monitor t slivers of light.
+57) 12) dialog: Hey, hey. She pours the whiskey.
+57) 13) dialog: Oh, Patrick, you didn't want any, did you?
+57) 15) dialog: Blessed are the forgetful, for they get the better even of their blunders. Mary and Stan click glasses.
+57) 16) dialog: Nietzsche.  Beyond Good and Evil.  Found it my Bartletts.
+57) 18) dialog: Yeah, I can't wait to tell Howard!  It seems really appropriate.
+57) 22) dialog: I love quotes.  So did Winston Churchill. He actually has a quotation in Bartlett's about Bartlett's.  Isn't that trippy?
+57) 24) dialog: "The quotations when engraved upon the memory give you good thoughts."
+57) 26) dialog: I like to read what smart people say.  So many beautiful, important things.
+57) 28) dialog: Don't you think Howard's like that? Smart?  Important?
+57) 31) dialog: I think he'll be in Bartlett's one day. Stan focuses on the monitor.  Mary pours herself another drink.
+60) 4) dialog: Let him go, Stan.  I can help.
+62) 0) text: Joel is unconscious on the bed, completely still.  Mary a Stan watch the monitor and smoke a joint.  After a silenc
+62) 1) dialog: It's amazing, isn't it?  Such a gift Howard gave the world.
+62) 3) dialog: To let people begin again.  It's beautiful.  You look at a baby and it's so fresh, so clean, so free.  And adults... they're like this messy tangle of anger and phobias and sadness... hopelessness.  And Howard just makes it go away.
+62) 5) dialog: No. (beat) Besides, Howard's married, Stan.  He's a very serious and ethical man.  I'm not going to tempt him to betray all he believes in. Stan takes another drag on the joint, passes it to Mary.
+69) 0) text: Stan and Mary have sex on the floor next to Joel's bed.
+73) 0) text: Stan and Mary lie on the floor, their stoned minds wander after sex.  Stan suddenly perks up.  He looks at the moni
+73) 2) dialog: What?
+73) 5) dialog: Where?
+73) 8) dialog: Well, what should we do?
+73) 10) dialog: Sor-ry (beat) We have to do something.  He can't wake up half done.
+73) 12) dialog: (definitely) We should call Howard. Stan turns and looks at her.  He's stoned and trying to understand her motivation.
+73) 14) dialog: This guy's only half cooked.  There's no time to fuck around, Stan. Stan tries to think.  He paces.  Mary watches him.  Final
+75) 0) text: Stan hangs up the phone, looks at Mary.
+75) 1) dialog: He's coming?
+75) 3) dialog: Hell no. She starts getting dressed.
+75) 4) dialog: Shit, I'm so stoned.  I don't want him to see me stoned.  Stop being stoned, Mary! She hurries into the bathroom with her bag.
+75) 5) dialog: God, I look like shit!  God! Mary slams the bathroom door.  Stan puts his head in his hands.
+78) 0) text: Stan works on trying to get the signal back.  His hair is combed and he's dressed neatly, looking professional but still stoned.  Mary is pacing nervously to and from the window, looking out into the night.  She's dressed also, she's wearing more make-up now.  Her hair is pulled up in some sort of style.  Suddenly she freezes at the window.
+78) 1) dialog: There he is.  Oh my God.  Oh my God.  Do I look okay? She doesn't say anything.
+78) 2) dialog: I'm still stoned.  Are you?  Crap. She looks in the mirror.
+78) 3) dialog: (to Joel) Your Visine didn't do shit, fella. The doorbell buzzes.  Mary lunges for the door, then calm herself before opening it.  Mierzwiak, holding an equipme bag, looks surprised.
+78) 6) dialog: I wanted to learn as much about the procedure as possible, Howard.  I think it's important for my job...to help comfort the clientele.  You know. Mierzwiak looks from Mary to Stan, nods, and enters.  Mar closes the door.  Mierzwiak crosses to the equipment.
+81) 2) dialog: That was beautiful to watch, Howard. Like a surgeon or a concert pianist.
+83) 0) text: Stan is back at the controls.  Mierzwiak's at the door wi Mary.
+83) 3) dialog: I'm so sorry, Howard, you must be tired. He nods, distractedly.  She smiles to herself as he heads back to the equipment.
+90) 2) dialog: (a little giggly) I like watching you work. Stan sighs, grabs his coat.
+90) 5) dialog: Do you like quotes, Howard?
+90) 7) dialog: Oh, um, like famous quotes.  I find reading them inspirational to me.  And in my reading I've come across some I thought you might like, too.
+90) 9) dialog: Okay, um, there's one that goes "Blessed are the forgetful, for they get the better even of their blunders."
+90) 11) dialog: Yeah, yeah it is, Howard.  And here I was thinking I could tell you something you didn't know.
+90) 13) dialog: (sputtering) There's another one I like, I read.  It's by Pope Alexander.
+90) 15) dialog: Yes, shit.  Oops, sorry! (puts hand over mouth) Sorry.  It's just I told myself I wasn't going to say Pope Alexander and sound like a dope and then I go ahead and do it.  Like I psyched myself out.
+90) 17) dialog: You are such a sweetheart. There's an embarrassed moment as that line hangs in the a Then Mary plunges ahead to bury it.
+90) 18) dialog: Anyway, the quote goes "How happy is the blameless Vestal's lot!  The world forgetting, by the world forgot: Eternal sunshine of the spotless mind!  Each prayer accepted, and each wish resign'd". She smiles, proud and embarrassed.
+90) 20) dialog: Really?  I thought it was appropriate maybe.  That's all. (beat, then quickly) I really admire the work that you do.  I know it's not proper to be so familiar but I guess since we're outside the workplace I feel a certain liberty to --
+90) 22) dialog: Okay.  Good.  Great.  Thanks. (blurting) I like you, Howard... an awful lot.  Is that terrible? Mierzwiak seems momentarily taken aback, then returns to unflappable self.
+90) 24) dialog: I've loved you for a very long time.  I'm sorry!  I shouldn't have said that.
+90) 26) dialog: (suddenly weepy) I wish I was your wife.  I wish I had your kids. Mierzwiak comforts her with a hug.  It turns into kiss. pulls away.
+90) 28) dialog: No you're right.  Once again.  You're a decent man, Howard. He smiles sadly at her.  She smiles courageously at him.
+91) 0) text: Stan sits in the van and smokes a cigarette.  He has an unobstructed view into Joel's bedroom window.  He watches Mierzwiak and Mary.  They're talking as Howard works.  It appears to be a very serious discussion.  A car pulls up outside.  Stan turns to see.  A middle-aged woman gets ou checks the address on Joel's building, approaches the onl lit window, watches Mierzwiak and Mary inside.  Mierzwiak resolve has apparently weakened and he and Mary kiss agai This time it leads to groping, partial undressing, and falling onto the bed alongside the unconscious Joel.  The woman in the window is transfixed.  As Mierzwiak fumbles unzip his pants, he catches sight of the woman in the win He practically shrieks and jumps up.
+93) 0) text: Mary looks confusedly at Howard.
+93) 1) dialog: What? She follows his eyes and sees the woman in the window, wh turns and walks off in a huff.
+93) 2) dialog: Oh my God! Mierzwiak is already in his coat.  He's out the door.
+94) 4) dialog: (heroically) Mrs. Mierzwiak, it's true.  And it's not Mr. Mierzwiak's fault.  I'm a stupid little girl with a stupid little crush. I basically forced him into it.  I swear. Hollis turns, looks at Mary and then at Mierzwiak.
+94) 6) dialog: Tell me what? Hollis and Mierzwiak have locked eyes.  Mary looks back a forth between them.  Hollis starts her car.
+94) 8) dialog: What, Howard?
+96) 0) text: Mary, in shock, sits in the empty fluorescent car.  She t to look out the window but can only see her own reflectio
+104) 0) text: Mary enters the dark room, frazzled.  She flips on the fluorescent lights and searches the file folders, finds o with her name on it.  Her jaw drops.  With a shaky hand, puts the tape into the player on her desk and presses "pl
+128) 0) text: Patrick and Mary are heading home from Boston.  Mary is silent and depressed.  Patrick tries to break the silence
+129) 0) text: Stan pulls the van into space marked "Lacuna."  He gets o crosses to his car.  Mary is sitting on the hood.
+129) 2) dialog: (beat) Do you swear you didn't know?
+129) 4) dialog: And you never even suspected?  Never saw us behaving in any unusual way together?
+129) 7) dialog: How did I look?
+129) 9) dialog: And after that?
+129) 12) dialog: Do you remember anything else?  What I was wearing?  Was I standing close to him?  Was I leaning against his car like I owned it?  How did he look at me when I giggled?  Tell me everything.
+129) 14) dialog: (heading toward the levator) Thanks, Stan. She stops but doesn't turn to face him.
+129) 15) dialog: You're nice. (beat) But I love him.  I knew I loved him.  Now I know. He nods.  She waves, heads to the elevator.
+133) 0) text: Mary does paperwork at her desk.  She looks through her reception window at the sad people waiting in the lobby w their bags of stuff.
+134) 0) text: Mierzwiak dials his phone and waits.  He hangs up.  Mary enters with the papers.
+134) 1) dialog: I need this signed, Howard. He takes it, unable to make eye contact.  He signs it, ha it back.
+134) 2) dialog: Thanks. (beat) So... do we talk about this... or what?
+134) 4) dialog: Do you love me?  Did you love me? Something.  I listened to my tape.  I can't believe I've been sitting right in front of it for a year.  It's like listening to someone else's story.  I mean, I hear myself talking about having sex with you and I can't even imagine you naked.  I can't even say "naked" to you!
+134) 6) dialog: You made me have an abortion.
+134) 8) dialog: You made me have you erased!  I loved you.  I love you!  How could you --
+139) 0) text: Mary gets out of bed.  She has been crying all night.  Sh a wreck.  She puts on some coffee then crosses into the living room area.  Sitting there are piles of the files f work.  She pulls the top one out, copies the name and add onto an envelope stuffs the file and tape cassette in.  S pulls another file out.  This one has Joel's name on it. copies it onto an envelope.
+151) 0) text: Mary opens the door.  Stan stands there with two cups of out coffee.
+151) 1) dialog: Oh.
+151) 3) dialog: What do you want, Stan?
+151) 6) dialog: Nothing.
+151) 8) dialog: Then why did you ask me?
+151) 10) dialog: They have a right to know.  Howard is a thief.  He steals the truth. (suddenly weeping) I can't remember my baby!  I can't remember my baby.  It existed and I can't even remember.  Do you understand that? Stan doesn't know what to say.  He stands there dumbly. slumps into a ball on a chair.
+151) 12) dialog: I won't allow it.  Those who cannot remember the past are condemned to repeat it.  What do you think of that?  That's from my quote book.
+151) 14) dialog: (hysterically) Remember the Alamo!  Remember the Alamo!
+151) 16) dialog: (small) I don't want to hurt people. (breaking down) But these things happened!  All these little sadnesses, the big ones.  What if no one remembers?  What does that do to the world? (beat, quietly) Someone has to remember, Stan. They look at each other.
+153) 0) text: Mary, with a headset on, looks up, startled.  She switche off the tape.  She has been crying.  There's a pile of ta next to her.  The distraught woman is standing there.
+153) 1) dialog: May I help you?
+153) 3) dialog: Yes, please have a seat.  The doctor will be with you momentarily. The woman sits.  Mary presses an intercom button.
+153) 4) dialog: Howard, your 10:30. She switches the tape back on.
+158) 0) text: Old Howard works at his desk.  Old Mary enters with the second old woman.
+159) 0) text: The old woman (Mary) travels in the commuter tube over Manhattan.  It's late, the tube is mostly empty.  She has earphones on.

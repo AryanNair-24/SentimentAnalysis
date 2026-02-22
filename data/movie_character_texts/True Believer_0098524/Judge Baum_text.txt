@@ -1,0 +1,41 @@
+9) 9) dialog: Thank you, Ms. Jessum. Mr. Sweeney,  may I have a word with you?
+9) 22) dialog: Mr. Dowd, would you care to make  your closing argument?
+12) 0) text: Balding rugs, macrame hanging things, birdcages, Salvatio Army couches. TWO leather-clad SCARECROWS pace; a teenage GIRL with blue hair squats on the floor, comforting her  SQUALLING INFANT. Then there's the slick young COUPLE in  Ralph Lauren Polo ensembles, here with a furtive STRAIGHT ARROW who scans the Wall Street Journal. A crew-cutted secretary (BILLY) types with one hand, grab the RINGING PHONE with the other. To judge by her typing telephone skills, she was hired for her capacity to manag this menagerie. Roger has struggled up the stairs, behind Eddie. Though h quickly notes the office's squalor and questionable clien what catches his eye is the trio of cracked and yellowing PHOTOGRAPHS tacked on a wall in the foyer. Eddie in his late-'60s glory days: On a dais, igniting an anti-war rally. Hugging a pair of Black Panthers outside courtroom, his face suffused with joy. In a swarm of stud activists outside a Federal courthouse, held on the shoul of the crowd like a conquering hero. As his gaze lingers on the photographs:
+33) 7) dialog: Mr. Rabin? You may cross-examine.
+33) 12) dialog: Sustained.
+33) 14) dialog: Mr. Rabin, you're out of line. The  question is stricken.
+33) 25) text: He's left sheepishly smiling at the Judge, who's wonderin what the hell that was about.
+62) 0) text: We've hit the big time; it's clean, spacious, echoic. The previous courtrooms were, by comparison, mere vestibules. JUDGE QUEALY BANGS his GAVEL.
+62) 1) dialog: This case has been tried before, but  you the jurors must make no...
+62) 2) text: Now the Judge notices something amiss. He squints --
+62) 4) dialog: -- Where is Mr. Dowd?
+64) 23) dialog: Sustained.
+65) 12) dialog: Sustained.
+65) 16) dialog: Sustained.
+65) 22) text: As Judge Quealy does just that, OS, Eddie backs away from the excitable detective.
+80) 35) text: As Judge Quealy ponders, the D.A. keeps up the pressure.
+80) 41) text: The lawyers anxiously wait as Judge Quealy considers. Now
+80) 42) dialog: I will allow the witness to testify.  With the understanding that your  questions are confined to the area  of Mr. Kim's modus operandi.
+80) 44) dialog: So noted.
+80) 51) dialog: Invalid invocation, Mr. Ortega. What  I call "name, rank and serial number"  questions are not covered by the 5th  Amendment. You must answer counsel.
+80) 60) dialog: Mr. Ortega, you've already answered  questions about La Compania. You  cannot now selectively invoke the  5th Amendment.
+80) 63) dialog: (testy) Complain to the Bar Commission.
+80) 64) text: Judge Quealy turns back to the witness.
+80) 65) dialog: Answer the question, Mr. Ortega.  Your unserved time can double...
+80) 91) dialog: Overruled.
+80) 94) text: Judge Quealy POUNDS his GAVEL.
+80) 95) dialog: Mr. Ortega! I warn you...
+80) 102) dialog: Sustained.
+80) 106) dialog: The testimony will remain in the  record. Do you wish to cross-examine?
+80) 109) text: The Bailiff rushes to the witness box as Judge Quealy POU his GAVEL. And suddenly SHU leaps to his feet.
+80) 112) dialog: Court is hereby adjourned until ten  a.m. tomorrow!
+102) 2) dialog: This doesn't amuse me, Mr. B--
+102) 6) dialog: Good morning, Mr. Dowd. Do you think  you might be up to cross-examining  Mr. Ortega this morning?
+102) 8) text: Judge Quealy nods. Not without a trace of compassion.
+102) 9) dialog: Well then, does the defense have any  witnesses?
+102) 17) dialog: -- Then you don't wish to call any  witnesses, Mr. Dowd?
+102) 21) dialog: Will you both approach the bench...?
+102) 25) text: Judge Quealy sighs. He doesn't have three weeks to waste.
+102) 26) dialog: Your questions would of course be  restricted to Mr. Reynard's area of  expertise.
+102) 48) text: Judge Quealy perks up considerably.
+102) 68) text: Judge Quealy's withering glance causes the Deputy D.A. to sink back down and stay down.

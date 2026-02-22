@@ -1,0 +1,190 @@
+35) 2) dialog: (quietly elated) I thought so! See... the trans- porter sensor was not activated...
+35) 5) dialog: Admiral Kirk... (shakes Kirk's hand) We're getting a top brass send off...? (self assured grin) She'll launch on schedule if we have to tow her out with our bare hands. Right, Scotty?
+35) 8) text: He indicates corner. Decker glances bemusedly at Kirk, then turns to Scott:
+35) 9) dialog: Let me now when the back-up is  in place.
+35) 12) dialog: All due respect, sir, I hope this isn't a Starfleet pep talk; I'm just too busy.
+35) 13) text: Kirk eyes Decker -- then decides the best way to say it is plainly, directly.
+35) 15) dialog: You are what...?
+35) 17) text: Decker seems shocked into silence; he can only peer at Kirk who reaches tentatively as though to clasp a paternal hand on Decker's shoulder, then withdraws it and continues quickly.
+35) 19) dialog: (finding his voice) -- You, personally, are assuming command?
+35) 21) dialog: May I ask Why?
+35) 23) dialog: Admiral, this is an almost totally new enterprise. You don't know her a tenth as well as I do.
+35) 27) dialog: No, Admiral. I don't think you are; not one damned bit. I remember when you recommended me for this command. You told me how envious you were, and if only you could find a way to get a starship command again. Well, sir, it looks like you found a way.
+35) 28) text: Kirk is silent a moment, peering levelly at Decker, who returns the gaze with equal intensity. Then:
+35) 30) text: Decker EXITS. Kirk waits, collecting his composure as he watches him go. Then Kirk turns to glare at Scott. Interrupted by a flare as something shorts out at the mechanism where Scott and Decker had been working. Technician (Clearly) reacts, hits an inter- com button fast:
+37) 0) text: as Kirk steps out, and the doors snap closed behind him. In the corridor the furor of the hurried depar- ture is, as everywhere, quite evident: CREW MEMBERS move back and forth. But Kirk does not see them; his mind is tormented by the transporter accident -- was there something he should have done, could have done, to prevent it? Should he launch on schedule with the starship this unready? Has he done right in yielding to this terrible needs for starship command again, forcing Starfleet to give her to him? Would Decker's knowledge of the new design have prevented the acci- dent? Kirk reaches a corridor intersection, looks around, realizes he's lost track of where he is. A passing YEOMAN stops in response to his puzzled expression.
+37) 4) dialog: hurrying down the corridor. The two face each other a silent moment, Decker studying Kirk curiously.
+37) 6) dialog: None available, Captain. There's no one in fact, who's fully rated on this design.
+37) 8) text: And Kirk moves on, Decker stands gazing reflectively after him.
+40) 5) dialog: as Decker (now wearing Commander stripes) reacts, almost startled, and Uhura continues:
+40) 14) dialog: Hello, Ilia.
+40) 16) text: Kirk has observed this with surprise and some concern (it presages possible complications). Decker turns to Kirk, slightly uncomfortable at this. 
+40) 17) dialog: I was stationed on the Lieutenant's home planet some years ago...
+40) 18) text: Ilia looks from Kirk back to Decker, puzzled at his sleeve stripes.
+40) 21) dialog: (bitingly) Captain Kirk has the utmost confidence in me.
+40) 22) text: Kirk flashes a hard glance at Decker, then toward Ilia too.
+40) 33) dialog: Mr. Sulu, take Lieutenant Ilia in hand.
+40) 37) text: Sulu catches her eye but before he can reply, Decker has moved in beside Ilia.
+40) 38) dialog: I now the Captain meant no person- al insult.
+51) 3) dialog: punching in equations on his console, reaching a reading:
+51) 4) dialog: Captain, assuming we have full Warp capability, accelerating to Warp Seven on leaving solar system will bring us to IP with the Intruder in twenty point one hours.
+51) 7) text: And Decker and Ilia glance at each other -- and again, you know there is something more than casual in this.
+51) 11) dialog: Program set for standard Warp entry, Captain...
+51) 12) text: Kirk starts to swing his chair to normal position -- Decker calls:
+51) 13) dialog: (continuing) ... but I still recommend further simulation study.
+51) 15) text: McCoy is watching Kirk, a bit surprised at his abrupt- ness to Decker.
+57) 5) dialog: (consulting his viewer) Negative control from inertial lag will continue 22 point five seconds before forward velocity slows to sub-light speed.
+57) 10) dialog: Wormhole distortion has over- loaded main power systems...!
+57) 15) dialog: (racing to Chekov's station) Delay that phaser order! Arm photon torpedoes...!
+57) 16) text: 133   ANOTHER ANGLE - McCOY NOTICING KIRK who has just glanced, surprised at Decker (for counter- manding the phaser order) -- and for a split instant, Kirk seems confused. McCoy reacts with enlightenment as, meanwhile:
+57) 20) dialog: Fire torpedoes...!
+59) 2) dialog: We are at warp point eight. Position report, Navigator..?
+59) 7) dialog: (into intercom) Engineer... report status there.
+61) 0) text: Kirk seeming to collect his thoughts now -- he gives Decker a look, uses the intercom himself:
+61) 5) text: as Kirk flips off the intercom, rises determinedly, faces Decker:
+61) 7) text: Kirk gives McCoy an annoyed look, then strides to the elevator. Decker, grim, follows -- McCoy brings up the rear as they EXIT.
+61) 10) text: Ilia's attention is directed toward Decker.
+61) 13) text: And she punches in some equations, then again peers up at the doors where she last saw Decker. She is very concerned.
+62) 0) text: The doors opening, Kirk entering, McCoy moves to b.g. while Decker stands attentively, waiting as Kirk turns to him.
+62) 2) dialog: (cool, polite) Sir, the Enterprise redesign increases phaser power by channeling it through the main engines. When they went into anti-matter imbalance, the phasers were automatically cut off.
+62) 5) dialog: Thank you, sir. I'm sorry I embar- rassed you.
+62) 7) dialog: (coolly) I'm aware of that, sir.
+62) 9) dialog: Permission to speak freely, sir?
+62) 11) dialog: Sir, you haven't logged a single star hour in two and a half years. That, plus your unfamiliarity with the ship's design -- in my opinion, sir, seriously jeopardizes  our mission.                          
+62) 14) dialog: Yes, sir, I'll do that.
+62) 15) text: Kirk peers at Decker, who stands facing him  determinedly.
+62) 17) text: Kirk's last line has drowned out Decker's "Aye, sir." McCoy says nothing, waits until Decker is gone and the door closes behind him. Then: McCOY He may not be wrong, Jim.
+63) 0) text: Decker moving toward an elevator -- the elevator doors open, and there is Ilia. She steps out, faces him.
+63) 2) dialog: No more than I expected (hesitates) Not as difficult as this. I'm sorry...
+63) 4) dialog: If I'd seen you again, would you have been able to say it?
+63) 6) text: Ilia whirls, moves toward her stateroom door, which snaps open, then closes behind her. Decker stands gazing at the door, remembering, regretful.
+68) 2) text: Kirk, smiling, is moving toward Spock with hand out- stretched. But Spock has already turned and moved toward the science console where Decker sits.
+68) 6) text: Spock continues to punch information into the science computer -- a monitor screen IMAGE begins to show com- plex equations which Spock inspects -- he makes a further computer punch out and inspects a second  monitor IMAGE of other equations. Only then does Spock seem to become aware of Kirk and Decker standing there with questioning expressions.
+68) 8) text: Kirk starts to grin -- then remembers to wipe it off his face as he turns to Decker.
+68) 10) dialog: (interrupting) Of course not. I'm aware of Mister Spock's qualifications.
+73) 15) text: Decker has reacted sharply, disapprovingly, to this:
+73) 16) dialog: Recommend defensive posture, Captain: Screens and shields.
+73) 20) dialog: (urgently) Captain, we've seen what their weapons can do. Shouldn't we  take every possible precaution -- ?
+73) 24) dialog: (interrupting in mid sentence) Captain, as your Exec, it's my duty to point out alternatives.
+73) 31) dialog: That measures twelve power? Ten thousands of starships couldn't  generate that much...
+73) 32) text: Decker trails his words, realizing that Spock isn't hearing a word. Spock's attention is on the O.S. main viewer, totally absorbed by something he's feeling. He is slowly rising from his seat, stepping forward -- Kirk becomes conscious of this, turns and sees Spock's strange expression. Before he can speak:
+73) 36) dialog: Signal medical alert, Mister Chekov!
+79) 11) text: Chapel and Corpsman are assisting Chekov from the bridge (we'll have SEEN that the remarkable plasti- skin sprayed on his hand has completley covered the ugly burn marks - he is even able to move his fingers a bit). Ilia returns to her station -- a relief CREW WOMAN takes over from Decker at Chekov's console.
+79) 14) text: Decker has hurried in to assist the science console. Spock indicates a console area -- Decker works there -- Spock works another section of console buttons.
+84) 3) text: Spock -- Decker assisting -- works frantically. Spock is clearly dissatisfied, shakes his head tightly.
+84) 6) text: as Spock hits the "transmit" button, and we HEAR the SHRILL BEEP SOUND (lasting but a fraction of a second), and Decker calls to Kirk:
+84) 7) dialog: Transmitting...!
+84) 18) text: All have reacted to this; Kirk exchanges a look with Spock who nods firmly. Then Kirk sees that both Decker and Sulu are throwing him a questioning look. In b.g. McCoy and Chapel have EXITED bridge with Chekov.
+84) 21) dialog: They may have attacked only as a warning to us, Captain. To keep away.
+84) 31) dialog: I advise caution, Captain; we  can't withstand another attack.
+84) 33) text: Decker glances around, moves close to Kirk so only Spock is able to overhear:
+84) 34) dialog: That's precisely the point,  Captain. We don't know  it will do. Moving into the cloud -- at this time, is  an unwarranted gamble.
+84) 36) dialog: You asked my opinion, sir.
+88) 9) dialog: Incredible dimensions, Sir! ... I make it as seventy-eight kilometers in length...
+92) 18) dialog: Don't interfere with it...!
+92) 25) dialog: It's taken control of the computer...!
+92) 27) text: As Decker moves to the main power control, Spock now steps in, his Vulcan strength easily brushing Kirk and Decker aside. Spock clasps his fists above his head, brings it down in a SHATTERING BLOW on the console. It splits open! As the bridge lights dim even more, and as the science console shorts itself out -- and off, Decker confronts Spock:
+92) 28) dialog: We could have cut it off at the main computer...
+92) 33) text: Decker steps toward her, AD LIBBING a grim "Ilia...!" But he has no chance as:
+92) 39) dialog: (to Kirk, quiet  fury) This is how I define unwarranted!
+92) 43) dialog: (voice amplified) The ship is under attack...! Man all defensive stations...!
+92) 50) dialog: (into intercom) Chief Difalco to the bridge; on the double!
+95) 0) text: as Difalco arrives on the run, and Decker AD LIBS to her, "Assume Navigator's station, Chief...!" Difalco, bewildered, wants to ask what happened, but no time, and she quickly sits at the post, begins orienting herself. Meanwhile, Decker has begun an Executive Officer's bridge circuit, assisting with various con- soles. Kirk is glancing toward Spock who continues concentrating on the Viewer, striving to comprehend the myriad of thoughts he is sensing from he Aliens. McCoy also arrives on the bridge, takes in the chaotic scene, watches the Viewer grimly.
+97) 1) dialog: Captain, suggest a maximum phaser strike directly at the beam might weaken it just enough for us to break free --
+97) 4) text: 240XA   ACROSS SPOCK TO KIRK (DECKER AND McCOY IN B.G.) as Kirk reacts somewhat curiously to Spock's remark, but it is Decker who articulates it:
+97) 5) dialog: (troubled; suspicious) We don't know that, Mr. Spock. Why are you opposed to trying? Before Spock can reply:
+99) 1) text: Kirk peering awed at the Viewer, the incredible sight of the chamber -- suddenly glances up to see that Spock is standing beside him -- Decker nearby, turns to Spock:
+99) 2) dialog: (to Spock) Why bring us inside? Not to destroy us; they could have  done that outside.
+103) 20) text: And Spock rises, joins Kirk and they hurriedly exit, the CAMERA SWINGING BACK to Decker, his perplexed con- cern (because of Ilia).
+105) 39) text: In the b.g., Decker enters, grimly observes the proceed- ings.
+105) 41) text: Chapel breaks off abruptly, noticing "Ilia" is peering intently -- almost with a glimmer of recognition -- at Decker. Slightly disconcerted, Chapel continues:
+105) 46) text: "Ilia" continues peering at Decker with just a hint of a puzzled frown, a glimmer of distant recognition. It's the first time we've seen her expression look anything but cool and bland. This results in the quizzical rising of one of Spock's eyebrows.
+105) 47) text: McCoy's examination now turns "Ilia" away from the others. Spock quickly catches Kirk's and Decker's attention, indicates an adjoining door -- they fol- low him out of the room. 259   INT. McCOY'S OFFICE as Kirk, Spock and Decker enter, the door snapping shut -- and Spock touching the electronic lock to secure them. He faces the others:
+105) 49) dialog: It's a programmed mechanism, Mr. Spock...
+105) 54) dialog: also comprehending, and not liking it one bit as Spock and Kirk are both turning their attention to him.
+105) 56) dialog: That probe in there -- in a different form now -- is the same thing that killed Ilia!
+105) 63) text: "Ilia" has seemed about to object -- but now her eyes hold on Decker. Then she nods.
+105) 66) text: as Decker looks at "Ilia" who stands at the torn door. You can read Decker's mind: I'm supposed to persuade that?! He turns back, finds Kirk's eyes on him. Decker nods.
+105) 67) dialog: Aye, sir.
+105) 68) text: "Ilia" and a reluctant Decker EXIT.
+107) 3) dialog: (of pictures) All these vessels were called "Enterprise".
+109) 0) text: Decker and "Ilia", the Rec Deck unoccupied but for a pair of wary SECURITY GUARDS at a very discreet dis- tance. They are near the pictures of the five Enter- prises, which should be FEATURED in this SHOT, as Decker waves his hand about the huge room.
+109) 1) dialog: The carbon units use this area for recreation... (carefully) What type of recreation does the crew aboard your vessel enjoy...?
+109) 2) text: As "Ilia" moves on into the room, Decker follows: 
+109) 4) text: Decker peers at the lovely android with frustration -- and no little pain, for she is after all the exact replica of Ilia. She pays not the slightest attention to Decker's reaction, and begins walking about the Rec Deck taking in (and, clearly, transmitting all images to V'ger) the sights. They are near a game area (elec- tronic games), and now Decker points to one game, switches it on -- presses button to activate its LIGHTS and SOUNDS. "Ilia" watches interestedly as Decker operates the game.
+109) 5) dialog: Ilia 'enjoyed' this game... she nearly always won --
+109) 6) text: And he demonstrates again, as "Ilia" steps to the device, deftly hits some buttons -- and for just an instant she turns to Decker with a momentary glimmer of recognition.
+110) 3) text: She steps away from the game; Decker's disappointment is evident. So is everyone elses.
+111) 0) text: Decker waving back toward the general area of the Enterprise pictures.
+111) 1) dialog: The crews of the previous Enterprises were also carbon units. In what way is the life form in your vessel different?
+111) 3) dialog: (hoping he's struck a responsive chord) Yes.
+111) 5) dialog: (controlling surprise) What is Enterprise's proper evolvement?
+111) 7) text: And with this she moves off, observing other Rec Deck objects. Decker moves with her; then:
+111) 8) dialog: (carefully) Enterprise would be unable to function without carbon units.
+111) 11) dialog: What does that mean?
+111) 13) text: This has been delivered with chilling blandness, and she stands facing Decker, almost as though waiting for him to thank her. He thinks fast now.
+111) 14) dialog: Within you are memory patterns of a carbon unit. If I can help you revive these patterns; you could understand our functions better.
+117) 0) text: The DOOR SNAPPING open, and "Ilia", McCoy and Decker entering. Then CAMERA REVEALS Chapel already inside, looking through some female adornments she's found there.
+117) 2) dialog: (reacting; tight) ... when we met.
+117) 3) text: Clearly this is very painful to Decker. Meanwhile, Chapel hands the Deltan headband to "Ilia".
+117) 6) text: "Ilia" hasn't the slightest idea what to do with the headband, holds it, runs her fingers over the jewels and feathers embedded into it. Chapel takes it from her, places it on 'Ilia's" head, now switches on the light illuminating the dressing table mirror -- stands behind her with Decker, both watching apprehensively.
+117) 9) dialog: (quiet; urging) On Delta... remember...?
+117) 14) text: And she touches his hand, runs her own hand over it, and smiles. Decker is completely overwhelmed, struggles for words and looks to McCoy for some kind of help. McCoy realizes Decker is losing himself in fantasy. McCOY (gently reminding) Commander... this is a mechanism...
+117) 15) text: Decker is startled, and for another slit-second he's lost -- but then he realizes the reality, and what he should do:
+117) 16) dialog: (gently; but urgingly) Ilia, help us make direct contact with V'ger...
+117) 18) text: Decker looks at "Ilia's" hand still resting on his. Then:
+117) 19) dialog: Then tell us who V'ger is; where he's from... W need your help.
+117) 20) text: For another moment "Ilia" continues smiling at Decker, holding his hand. Then, abruptly, the smile vanishes -- the hand is released. Clearly, she's again the probe, as:
+117) 22) text: Decker glances at McCoy, who shakes his head almost imperceptibly: he doesn't know. But Decker has an obvious reply:
+117) 23) dialog: They want to make contact with V'ger... (trying to revive "Ilia's" memory again; touches her hand) Ilia...
+117) 25) dialog: (continuing; distressed, to "Ilia") Does V'ger object to the presence of the two carbon units?
+117) 28) text: Decker's face reflects his bemusement:
+117) 29) dialog: You said V'ger's purpose was to find and join with the Creator.
+127) 44) text: The probe bland as usual, but Kirk's words seem to have strangely elated Decker; he says to her:
+127) 45) dialog: A machine...! Then it had to be programmed. By whom...?
+127) 47) dialog: (probing) To join, and become One with the Creator?
+127) 51) text: Decker really hasn't heard Scott; he's gazing at "Ilia," attempting to digest what she's just said. But quickly:
+127) 52) dialog: Thank you, Scotty...
+127) 55) text: Now Decker and "Ilia" move toward the exit, Scott gaz- ing after them glaringly, watching "Ilia's" every move. Suddenly, almost into the corridor, "Ilia" turns and looks back at the engine room. She addresses Decker, but load enough for Scott to overhear:
+128) 12) dialog: (nods; turns to Kirk) V'ger is announcing that it has arrived, sir -- that it's ready to deliver the information it was programmed to collect...
+128) 14) dialog: (to Kirk) It expects a return signal now, ordering it to transmit that  information to the Creator.
+128) 38) dialog: (nods) It seems we all imagine God in our own image.
+128) 42) dialog: (grimly amused) Of course: we all create God in our own image.
+128) 43) text: Kirk peers at Decker a moment, ingesting this thought.  Then he addresses "Ilia" again, this time with emotion:  after all, he is pleading for the survival of the  entire planet:
+128) 52) dialog: (intrigued) Needing what...? McCOY Spock, this 'child' is about to eliminate all life on Earth; how do we teach it that that's 'wrong'? With a spanking...!?
+128) 53) text: Spock peers at McCoy almost sadly, then replies to Decker.
+128) 57) dialog: (to "Ilia," urgingly) Ilia... we can help V'ger find what it needs --
+128) 58) text: "Ilia" studies Decker just a bland beat, then turns to Kirk:
+128) 67) dialog: (amplified) Bridge to all decks,secure your stations. McCOY Your child is having a tantrum, Spock.
+130) 5) text: Meanwhile, Decker has crossed to Chekov's now abandoned console, checks it.
+130) 6) dialog: All ship's functions going to automatic, Captain.
+130) 13) text: Kirk does not reply to this, turns away to observe the withdrawing crew. Most are out; only Spock, Decker and McCoy remain behind -- with McCoy on his  way. The bridge lighting dims, and now Kirk looks at Spock, who nods approvingly; clearly Spock is the only person who seems to comprehend what Kirk is doing, and why. As Kirk now moves toward the exit, and the lights  are dimmed even further:
+130) 21) text: Decker and McCoy about to enter, Spock and Kirk just behind -- all stopping abruptly now at "Ilia's" state- ment. The very tone of her voice is enough for them to realize they have made a very telling point. Kirk follows fast:
+130) 34) dialog: Forward motion, Captain...!
+130) 37) dialog: Captain, what's the next move?
+132) 3) dialog: (into intercom, voice amplified) All personnel resume stations...!
+132) 4) text: At the same time the lights are brightening -- and members of the bridge crew begin returning. All this time there is an ever increasing sense of movement. Kirk glances at Decker:
+132) 6) dialog: I'm afraid our hand is pretty weak, Captain. (slight smile) But it's the only game in town.
+132) 7) text: Kirk reacts, pleased, a split beat at Decker's "our" hand, and goes on: Kirk throws him a look of appreciation, then, abruptly his manner changes as he addresses Chekov:
+136) 16) text: 354   ANGLE ON McCOY AND DECKER Listening, McCoy's face reflecting concern; Decker's face compassion and understanding, with Decker step- ping closer to Spock, as Spock continues:
+136) 20) dialog: (gently pressing) Mr. Spock, what would V'ger need to fulfill itself?
+140) 10) dialog: Captain, we can't be sure that our... move... will actually save Earth.
+140) 12) text: Decker's last word is interrupted by an almost gentle BUMP -- and on the Viewer all perceptible motion has stopped. At the same time:
+142) 8) dialog: (urging)
+142) 17) dialog: (calls after him) Captain... I'd like to go along...
+142) 18) text: Kirk studies Decker a beat -- there is something com- pelling about Decker's manner -- a certain sense of absolute necessity. Kirk seems about to deny the re- quest, then turns to Sulu:
+142) 20) text: And Kirk leaves; Decker, his face reflecting a strange, almost eager gratification, hurries after him.
+142) 31) dialog: We need only a few more minutes. Believe me...
+142) 32) text: Decker has reached out to touch her -- the probe spins at his touch -- the move knocks Decker from his feet, tumbling, a hard fall. Then the robe looks at him lying there -- just the slightest softening of her features now.
+142) 34) dialog: Ilia, believe me... the Creator will appear!
+144) 4) dialog: And when V'ger melds? What will happen to you?
+144) 11) text: We SEE Decker look up at Kirk's call, then ignore him and go back to inspecting inside the access hatch. At this moment, from Kirk's communicator, a SIGNAL.
+144) 18) dialog: Recording...
+144) 24) dialog: (calling) Captain Kirk!
+144) 25) text: as the others turn to Decker and "Ilia."
+144) 26) dialog: (continuing) The fault is here, sir, not in the transmission. (indicating into hatch) The antenna leads have been disconnected. V'ger never intended to accept a transmitted signal.
+144) 28) dialog: And plug the signal directly into the circuitry at this... (indicates into access) ... point here, Captain. It should pick up even a tricorder playback.
+144) 30) text: Then Kirk touches a control on his tricorder exactly as Decker did earlier. Then he looks up, reacts as he sees Decker holding his own tricorder up -- and a smile playing on Decker's face.
+144) 31) text: as Kirk suddenly pivots, races toward Decker -- but he passes too close to the "Ilia"-probe. It sends him spinning back, tumbling to his knees.
+144) 34) dialog: You got the Enterprise, it's what you wanted. This is what I want. (smiles) But, Jim... (now very seriously) ... I'm the right choice for this mission.
+144) 35) text: And then Decker shoves the tricorder into the access hatch.

@@ -1,0 +1,77 @@
+30) 0) text: Roy, at the far end of a small couch, stares at a pair of Florsheims crossed atop an ottoman. They belong to DR. KLEIN, who scans Roy's form.
+30) 1) dialog: You mind if I put them up? It helps my back.
+30) 3) dialog: (re: his form) You're something of a clean slate, Roy. This says you were on medication but you don't know what kind. (CONTINUED )
+30) 8) dialog: You were getting them illegally? (as Roy balks) We're starting fresh today, Roy. What happened in the past I don't care about.
+30) 11) dialog: Why?
+30) 13) dialog: Yes. And at the dosage you say you were taking, I'd say you were lucky to be sitting up straight!--
+30) 15) dialog: Let's talk a little first. It says here you're --
+30) 17) dialog: -- Beth Mercer's nephew -- (CONTINUED )
+30) 23) dialog: You certainly get to the point.
+30) 25) dialog: Yes.
+30) 27) dialog: Roy, usually I don't prescribe medicine unless I've had a little chat with the patient first. If you're inclined against that, then!-- as you say -- this session will be quite brief. Roy stares the doctor down. Klein never blinks.
+30) 28) dialog: It says here you're an antiques dealer. How long you been in that line? Nothing from Roy. The face-off continues.
+30) 29) dialog: Would you like to tell me what's been bothering you? And continues. Then, abruptly, Roy quits.
+30) 31) dialog: What kinds of things? (CONTINUED )
+30) 37) dialog: Incorrectly, but yes. Anything else?
+30) 39) dialog: Have these distractions affected your work of late? (off Roy's nod) And your personal relationships?
+30) 41) dialog: When was the last time you were in one? A relationship?
+30) 43) dialog: Five years? Ten years?
+30) 45) dialog: What was her name?
+30) 47) dialog: Were you married? (off Roy's nod) Kids? (CONTINUED )
+30) 53) dialog: Maybe. That's a new one.
+30) 55) dialog: You haven't seen her since?
+30) 57) dialog: You haven't spoken?
+33) 2) dialog: Sexual intercourse.
+33) 4) dialog: And she got pregnant. (CONTINUED )
+33) 8) dialog: About what?
+33) 10) dialog: Are you now?
+33) 12) dialog: Hit her?
+33) 13) dialog: Do you think about her much? What could have been, what might have been. Roy shakes his head.
+33) 14) dialog: And the baby?
+33) 16) dialog: Do you think about that?
+33) 18) dialog: He -- if he's a he -- would be how old now?
+33) 22) dialog: Fourteen. Ready to be a man.
+34) 0) text: Roy waits. Dr. Klein appears from his stockroom/closet and hands Roy a handful of unlabeled sampler packs.
+34) 1) dialog: Congratulations. You bought yourself a month's worth.
+34) 3) dialog: There's nothing wrong, Roy, with a man telephoning his ex-wife.
+34) 6) dialog: I don't know, Roy. I, uh...
+35) 3) dialog: (on the answering machine) Roy? This is Dr. Klein...
+36) 0) text: Roy's on the portable. Roy can't DR. KLEIN (V.O.on phone) I just got off the phone with Heather. We had a nice conversation.
+64) 4) dialog: And one more time, deeply... (as Roy breathes in) Hold it -- one, two, three, four!-- and out.
+64) 6) dialog: I beg your pardon?
+64) 8) dialog: You can sit up. (as Roy does) Is that what you were thinking about? Stains in my carpet?
+64) 10) dialog: It's just for the weekend.
+64) 12) dialog: When is it ever a good time for anything? I realize this is sudden, Roy, and you may feel unprepared, but trust me, they’re not so difficult, kids. Most of all you have to focus on the basics: make sure they eat their vegetables, don 't stay up too late, and don't watch too much TV. Otherwise just try to be as honest and open with them as possible. Roy eyes a picture of two little boys atop Klein's desk.
+64) 16) dialog: She's your daughter, Roy. Unless there's another ex-wife you haven't told me about, she's the only one you got.
+94) 2) dialog: It's however you feel about it, Roy. (MORE ) (CONTINUED )
+94) 5) dialog: What?
+94) 7) dialog: Lying.
+94) 9) dialog: Do you regret it? Exposing her to that? Her seeing that side of you?
+131) 1) dialog: Roy? I'm not supposed to see you ‘till -- (CONTINUED )
+132) 1) dialog: Would you like to sit?
+132) 3) dialog: Roy: why do you think you need medication?
+132) 5) dialog: Yes.
+132) 7) dialog: Because you don’t need medication.
+132) 9) dialog: Agreed. But you weren't a mess last week, and you weren't on Prefexall then either. (beat) I have news for you, Roy. Your neurosis is small-time. Your conscience is another story. (before Roy retorts) Let me ask a question. Does what you do make you happy? (CONTINUED )
+132) 13) dialog: This is the subject. What would you do if you had to change careers?
+132) 15) dialog: If you couldn't be a criminal. (beat) This is a 17th Century Williamsburg ottoman I've had my feet on for the last two months, Roy. I've had computer programmers tell me what a nice piece it is.
+132) 17) dialog: The difference being?
+132) 19) dialog: That's a nice rationalization, Roy.
+132) 21) dialog: Would you say then you set an example in your trade?
+132) 25) dialog: But now you have to set an example for someone else. (beat) How is she?
+132) 27) dialog: Have you spoken to her? (as Roy shakes his head) Why not?
+132) 29) dialog: Why haven't you spoken?
+132) 31) dialog: Why do you think she hates you? Roy's face crumbles, and everything pours out:
+143) 0) text: Roy peers through the open blinds as an intern checks his vitals. From the bed, he can't see anything but a freeway in the distance. Bishop and Holt return with Dr. Klein in tow, a little agitated. The intern departs.
+143) 2) dialog: Hello, Roy. (to Bishop) May I sit down? Bishop nods, and Klein takes a seat by the bed.
+143) 3) dialog: How are you feeling? Roy looks. Bishop, Holt and the cop haven't moved.
+143) 7) dialog: Technically, he's right. (CONTINUED )
+143) 13) dialog: Roy, what happened? They told me -- Roy holds up his free hand: Don't speak ‘til they're gone. After a moment:
+143) 15) dialog: Roy -- I can't do anything illegal. Roy glances up at the surveillance camera, then covers his mouth with his free hand, lest any lip readers are watching.
+143) 18) dialog: Don't transfer responsibility, Roy. (CONTINUED )
+145) 2) dialog: 
+145) 5) dialog: What do I tell her?
+145) 7) dialog: This is what I have to memorize.
+145) 12) dialog: 
+145) 15) dialog: Sorry. (covering mouth) 543-N7-942.
+145) 17) dialog: 

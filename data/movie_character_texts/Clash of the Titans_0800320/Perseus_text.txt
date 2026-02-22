@@ -1,0 +1,228 @@
+20) 0) text: A CREW of FISHERMEN wait desperately at the rail. SPYROS, the oldest and toughest, watches in agony. Perseus breaks the surface, gasping, his lifeless friend in his arms. Five crewmen dive in to help, but Perseus is mad with despair. They have to pull him away. Spyros watches sadly. But also, relieved to see the one survivor.
+21) 0) text: Spyros makes his way to the bow, where Perseus sits alone, downcast, in pain. Spyros watches in silence. Then, gruffly --
+21) 2) dialog: It's my fault he's gone.
+21) 4) dialog: So it's his fault. Not mine, not fate, not the Gods?
+21) 14) dialog: (breaks down, crying) Now my history is I let my friend die in my arms. I made it back, why couldn't he?
+21) 16) dialog: To what purpose? I failed him.
+21) 20) dialog: You always say that my abilities are greater than other men's. But they were not enough to save him.
+21) 22) dialog: How is that greater than other men?
+22) 0) text: Perseus sits looking sadly at the sea that killed his friend. TEKLA, from the modest stone dwelling. She sees his mood and     touches his arm gently.                                 
+23) 0) text: Perseus eats with his adoptive family: Spyros, his wife MARMARA, and Tekla. Spyros is patient and twinkly with his wife though he disagrees with her beliefs.
+23) 19) dialog: 
+23) 37) dialog: Now eat your dinner, which the Gods -- and your father -- have provided.
+24) 0) text: Middle of the night. Perseus lies wide awake in his tiny space. He stares, thinking about his friend. Suddenly, a KNOCK at the door.
+25) 0) text: Perseus opens the door to the Wilting Girl. Her beauty electrifies him. She glows from within, but her color is oddly faded, washed-out.
+25) 1) dialog: You... I saw you watching our boat at the cliff.
+25) 3) dialog: Can I be of service?
+25) 5) dialog: Right now? (as she nods) It wouldn't take much persuading to get me to leave this village, but tonight is impossible. My family can't wake and find me gone. Where do you want me to go?
+25) 14) dialog: Come back in the morning and we can talk about it.
+25) 16) dialog: For what? Perseus doesn't notice the black widow spider scurry between her feet. Then a centipede, a scorpion. Then a swarm, racing toward him. He feels the first spider and looks down. The creatures climb his legs, biting. Weakening from the venom, he stumbles back into the table, loses his balance and falls.
+26) 2) dialog: How long have I been out?
+26) 11) dialog: I had a dream. I fell into a dark pit. I thought I would never stop falling. But a beam of light formed a soft net, caught me and tossed me back. TheWilting Girl watches him.
+26) 12) dialog: When I came back up to the world, a beautiful woman appeared and spoke to me. But as she spoke she would sometimes disappear into the whiteness with a strange sound.
+26) 15) dialog: When I could hear her, she spoke nonsense. She said that my father was a God and my mother a -- At that moment the blinding-white sail swings between them as she tacks, obscuring his view of her for a moment. The wind makes a LOUD SNAPPING SOUND in the cloth. Then she reappears, the sail on her other side.
+26) 18) dialog: I am an ordinary man.
+26) 30) dialog: None of that means anything.
+26) 32) dialog: A good trick. You must be the demigod, not me.
+26) 35) dialog: A Chthonian?
+26) 37) dialog: 
+26) 39) dialog: And when none worship you? Sadness flickers through her extraordinary eyes.
+26) 42) dialog: And demigods, where do they stand in your hierarchy?
+26) 51) dialog: If demigods rank so low, why do you need me?
+26) 53) dialog: What!
+26) 55) dialog: Who, me?
+26) 57) dialog: Forget it.
+26) 59) dialog: And just who exactly am I supposed to marry?
+31) 0) text: Perseus can't take his eyes off the Wilting Girl, who steers. She tries not to be self-conscious; she would blush were she not so pale.
+31) 2) dialog: I don't think so.
+31) 4) dialog: (laughs, flirtatious) That's what I'm doing.
+32) 10) dialog: The war has badly scarred this place.                
+32) 12) dialog: Don't joke about such things. I'd be useless before such a huge responsibility.
+32) 25) dialog: What are they celebrating?
+33) 0) text: Cassiopeia hurries down a corridor to the parlor. WE FOLLOW to find: Kepheus speaking sternly to Perseus, before him.
+33) 2) dialog: I'm not sure, Your Highness. I did not know my father.
+33) 19) dialog: She's not the only one, sir. I don't know much about the events for which I've been drafted.
+33) 23) dialog: If you are not kind and patient with her, if any harm of any kind should come her way, I will have your head on a stake. Kepheus thinks he sees a smirk on Perseus' face. He puts his hand on the hilt of his sword.
+33) 25) dialog: Not even a little, my lord. It's just that I myself was waylaid -- snatched also, as you say, from my happy springtime... Kepheus studies him to see if he's making jest of him.
+33) 26) dialog: I've been told I'm to play a part in events which serve a higher purpose... of which I'm not at all convinced.
+33) 28) dialog: With all respect, I have never seen a God. On my island, they're no more than a story.
+33) 47) dialog: I can only proceed based on what I have experienced, not on a faith I do not possess.
+33) 49) dialog: Perhaps from my adopted father, sir. I admire him greatly, and he believes in little he cannot hold in his hand.
+33) 51) dialog: No, Your Highness, a fisherman.
+33) 53) dialog: Master Amoun! He hurries over to the older man, who embraces him warmly.
+33) 62) dialog: What are you doing here?
+33) 64) dialog: From my village tutor to Magi Strategos... What a path! The King's patience is exhausted. To Cassiopeia
+33) 66) dialog: 
+33) 81) dialog: How will I know her?
+33) 83) dialog: I'm a stranger here. Any hints?
+36) 0) text: Perseus roams, taking in the city with interest. Rich and poor mix in the crowded streets. As always, the poor have suffered the most from the conflict.
+37) 0) text: Perseus follows the MUSIC and the sound of LAUGHTER to a crowded terrace overlooking the sea. Upper class YOUNG PEOPLE are partying en masse. Perseus moves through the revelry, looking at every girl, testing his instincts. Suddenly, he stops in his tracks, looking off --
+38) 1) dialog: Very beautiful. Andromeda spins, petulant.
+38) 5) dialog: I said, 'Very beautiful.'
+38) 7) dialog: I meant the sunset. She regards Perseus over her glistening bare shoulder.
+38) 9) dialog: I know nothing of seduction. I'm a simple fisherman. My home is across that water.
+38) 18) dialog: To Joppa? I was kidnapped.
+38) 21) dialog: I've come to see my future wife. Startled, Andromeda suddenly realizes who he is. A mad mix of emotions crosses her face.
+39) 0) text: Perseus and Andromeda walk in moonlit gardens. She stays close, attracted to him.
+39) 2) dialog: Me either.
+39) 4) dialog: No one asked me. And now that I've met you, I don't know if I can go through with it. (off her look) It's not personal. Seeing you makes it real. I think a man should make his own decisions. I won't be the pawn of a King or a God. She looks at him with new interest.
+39) 13) dialog: I don't think it's going to be that simple. Ignoring that, she takes his arm, moving even closer.
+40) 1) dialog: I'm already lost.
+40) 4) dialog: (looks around the
+40) 8) dialog: One of the most beautiful women I've ever seen.
+40) 17) dialog: True. Maybe a lot of girls look like you.
+40) 19) dialog: What if we find we're very compat-- She stops him with another kiss. He starts to surrender to his desire, but again, he stops. Her voice is a low
+40) 22) dialog: (makes a face) It seems what everyone wants to believe. Her face is inches from his. She looks into his eyes.
+45) 0) text: Perseus wakes on the bed of foliage, looks around. Andromeda is gone. He thinks, smiles. Then he remembers his situation. The smile fades.
+46) 0) text: Perseus, in a white tunic and polished ceremonial armor, moves through the crowd of REVELERS. The grandiose room is hemmed by columns and statues. The royal family sits on the dais. Andromeda motions Perseus up beside her.
+46) 2) dialog: I didn't know how to get this outfit on.
+46) 4) dialog: Me either.
+46) 15) dialog: Tell who?
+53) 19) dialog: No... We need only the will to do it.
+53) 21) dialog: 
+53) 24) dialog: What? No, Master Amoun. I'm listening.
+53) 26) dialog: I'm a newcomer here. I would not presume to tell these men --
+53) 35) dialog: I know that I am young and have not seen much of the world, but it seems to me that nothing is indestructible. The Ministers react to the young man's arrogance.
+53) 37) dialog: Father, how did you find me?
+53) 42) dialog: He will help me destroy Leviathan. Spyros does a double-take, then swallows: "Yeah, okay, sure."
+53) 52) dialog: We have thirty days to find its weakness.
+53) 54) dialog: (flashes him a look) We'll leave tonight.
+53) 56) dialog: (uncertain, glances                                   
+54) 11) dialog: Why do we bring the Earth Goddess into this danger?
+54) 13) dialog: Amoun, it seems an odd coincidence you came into my life as tutor, so long ago, and now, once again you instruct me.
+54) 24) dialog: I'm afraid I've dragged you into real danger, Father, when I have little idea of what I'm doing.
+54) 26) dialog: What's our attitude about destroying Leviathan?
+57) 3) dialog: Joppa is pummelled by the Dark Goddess.
+57) 7) dialog: By what name may mortals call you?
+57) 9) dialog: Who do your worshippers pray to?
+57) 11) dialog: Perhaps that is why they are falling in number?
+57) 19) dialog: I have to call you something...
+57) 21) dialog: That's a pretty name. Wait, better yet -- 'Vidalia'? How's that... 'Vidalia'? That's more than pretty, beautiful really, just as you are. She is pleased, self-conscious, concentrating on the road ahead.
+57) 22) dialog: You don't like it? (as she murmurs) What's that? I missed it --
+58) 10) dialog: 
+59) 0) text: Perseus hacks branches and picks up deadwood. He slashes at a tree -- TING! Under the vines is a stone column. He climbs mossy steps.
+60) 0) text: The ruins of a public bath, its marble pool fed by a stream. Perseus sees Vidalia on the far side, her back turned. Perseus freezes as she drops her garment. He peers through the vines.
+60) 3) dialog: Now is when an honorable man would turn around and walk away...
+60) 12) dialog: Vidalia...
+63) 0) text: Nearby, the Expedition (minus Abas) rests. Not here: Perseus, Draco, Icos, and Boreas.
+64) 0) text: A herd of winged horses, PEGASSI, graze. Draco, Boreas, Icos and Perseus  -- thrilled -- hide in a thicket.
+64) 6) dialog: 
+64) 18) dialog: I'm not the leader, Draco, Amoun is. I'm too young to start avoiding trouble. Perseus jumps up and approaches a roan Pegasus, speaking soothingly. It WHINNIES and threshes its wings, buffeting Perseus with gusts. The Pegasus rears up, and leaps over Perseus' head. It lands behind him, bucks its hind legs, and kicks Perseus face-first into the dirt. Icos and Boreas are laughing, but when Draco gives them a dark look, Boreas jumps up, sobered, and heads into the clearing.
+67) 0) text: Perseus, somber, washes the creature's guts from his arms and legs. He turns to find Vidalia standing above him, furious.
+67) 3) dialog: I didn't beckon the Humbaba.
+67) 15) dialog: The monster killed my friend. I could not contain my rage. But you, Goddess, are aloof from the emotions of Men. Vidalia's eyes narrow, enraged.
+69) 0) text: Amoun smokes his pipe by the dying campfire. Perseus approaches.                                             
+69) 1) dialog: Master Amoun... You knew about me, didn't you? When you came to our village?
+69) 3) dialog: You chose a poor student. I have learned little and my mistakes cost dearly.
+69) 14) dialog: I'm no demigod, Tutor. I'm not even much of a human.
+69) 16) dialog: I do not believe my fate is to be half a God. No demigod could feel as confused as I do tonight.
+69) 18) dialog: Tell me of the Cleon Desert Legion.
+70) 13) dialog: Djinn Raiders?
+81) 13) dialog: I won't do anything rash. I've learned my lesson.
+81) 16) dialog: No... Perseus. PERSEUS WHIPS OUT HIS SWORD. The whole Expedition comes to life as THE LOTOPHAGI ATTACK, swift and brutal. Long arms thrash and rip at the Praetorians. Mongke and Tamburlane BLAST the swarm with HANDGONNES. Spyros lobotomizes one with his harpoon. Amoun opens a leather sack of sand.
+81) 27) dialog: Only humans... He looks over the Lotophagi and sees Vidalia out there, alone, flinging sling-bullets as she fights her way toward the barrier.
+81) 28) dialog: Drop the barrier!
+81) 30) dialog: Drop it, Amoun! At that moment, Kalibos grabs Vidalia and drags her to the top of an outcrop. At the top, he turns, LOOKS DIRECTLY AT PERSEUS and HOWLS, his message clear: "If you want to save her, come and get her." He hungrily rips her leather bandeau. Perseus turns to Amoun.
+81) 38) dialog: Take the barrier down or I'll go through it!
+81) 40) dialog: I've learned one thing for certain! Perseus shouts at Thad, the massive Praetorian.
+81) 41) dialog: Get down! Perseus backs away three steps. To the others
+81) 42) dialog: Get ready to defend yourselves! Perseus runs, plants a foot on Thad's back and leaps out through the swarm, which immediately dissipates around the humans. They have only a moment to react as the stunned Lotophagi come to their senses.
+81) 55) dialog: Vidalia... we need to help them... He blacks out. Vidalia cranes to look over the edge of the cliff where Kalibos fell. She is mystified by what
+83) 0) text: Perseus lies sprawled on cushions, unconscious. Vidalia replaces the dressing on his bite wound. Knowing he cannot hear her --
+83) 6) dialog: Where... Where are we? The
+83) 16) dialog: But I thought the Djinn... VIDALIA . We all did. But their leader, Shaikh Suleiman, has some special interest in you. (off his confusion) Just sleep. She waves her palm over his face, and he does sleep.
+85) 5) dialog: Why does this Djinn priest stay with us?
+85) 14) dialog: Me? I don't understand.
+85) 16) dialog: I thought they didn't speak.
+86) 2) dialog: Tell me of them.
+86) 4) dialog: You made only one eye?
+87) 0) text: The Expedition sleeps in a drizzle.               WHISPERS. Shaikh Suleiman moves toward Perseus. The WHISPERING comes from behind his veil. He pulls a GLEAMING BRONZE SICKLE from his cloak. The priest, blade poised, stands over the sleeping Perseus. OUT OF THE DARKNESS runs Spyros, his harpoon raised for a strike.
+87) 2) dialog: Spyros, he means me no harm. The Shaikh lowers his hand: Spyros falls into the dirt. The Shaikh pulls his veil over his face. He kneels before Perseus, head bowed.
+87) 3) dialog: I hear you and I understand you. But I don't know how.
+87) 12) dialog: You are praying to me? There must be a mistake. The Shaikh proffers the gleaming bronze sickle which has a zig-zag, LIGHTNING BOLT PATTERN engraved on the blade, honoring Zeus.
+87) 13) dialog: An offering'? I thank you and take it humbly, as agift from a friend, not an offering. He takes the weapon and bows his head, surprising the Shaikh.
+87) 15) dialog: You honor my father? You honor Spyros?
+89) 20) dialog: Tell us what we want to know or your Eye has seen its last.
+89) 33) dialog: Since you cannot see, let me tell you what's about to happen. I'm about to throw this evil Eye to the rocks far below. I fear its journey will be a taxing one. The members of the Expedition are impressed; Vidalia, too: the young demigod shows growing leadership. The Strix are panicked --
+89) 38) dialog: You don't have to tell us the secret. But you will have to live as blind as she made you.
+89) 40) dialog: Tell me first. If I like the answer, you get your Eye.
+89) 56) dialog: I believe them. (tosses the Eye high) Here's your second sight. Verdandi launches and catches it in her beak, pops it in her socket.
+89) 57) dialog: (to the Norns) And Medusa! Where does she abide?
+89) 59) dialog: How can she be slain?
+89) 73) dialog: 
+90) 0) text: Perseus fights through cobwebs and hanging roots. The torch REVEALS piles of armor, bones, and broken weapons. A round edge catches his eye. He pulls it free -- A SHIELD, TARNISHED AND DENTED. Unsure why it attracted him, he shoulders it and leaves.
+94) 2) dialog: Tell of the Gorgoneion.
+100) 0) text: In a small space among the stores, Vidalia circles Perseus, whose eyes are shut. Suddenly, she sweeps his legs out. He lands hard.
+100) 3) dialog: 
+100) 15) dialog: I wish it, but I can't perceive the world that way.
+100) 17) dialog: Nothing I have done has convinced me of that.
+100) 28) dialog: I'm beginning to hear the wind. (senses something,
+100) 30) dialog: Wait... She is already climbing the ladder. She stops for only a
+101) 0) text: Spyros is at the rail, looking over the ocean of ice. Perseus, troubled, arrives. Spyros looks at him closely.
+101) 1) dialog: What?
+101) 3) dialog: What do you see?
+101) 5) dialog: From me?
+101) 7) dialog: Then where? Spyros smiles, puts his huge, calloused hand on Perseus' shoulder.
+101) 16) dialog: When does it go away?
+104) 5) dialog: I'm going into the Temple.
+105) 1) dialog: 
+105) 3) dialog: Of what?
+105) 5) dialog: Yes. You?
+107) 0) text: In the subterranean temple, we HEAR Ixion landing above; dust rains into the cavern. SUNLIGHT angles through holes in the roof. Draco, Spyros and Perseus move blindly through the debris. CORPSES everywhere, faces frozen in stone screams. The men can't see it, but one wall suddenly frames a silhouette of MEDUSA: HAIR OF HISSING SNAKES atop a woman's torso, the body of a mammoth reptile. WE SEE only GLIMPSES of Medusa as she slides through the shadows. Her forked tongue tastes the air. CUTTING BETWEEN Spyros, Perseus and Draco, moving silently on opposite sides of the sanctuary. OUR VIEW of Draco is suddenly BLOCKED by Medusa -- she coils around Draco without touching him. He HEARS the RASP of SCALES ON STONE.
+107) 9) dialog: (from across the
+107) 12) dialog: Where?
+108) 0) text: THE AFTERMATH: the survivors -- Vidalia, Amoun, Mongke, and Tamburlane -- take mournful stock of their losses. Mongke sees something, smiles and SWEARS in his language. They all turn to see: Perseus and Spyros, spent and saddened, stand at the top of the Temple steps. Perseus grasps the canvas sack. Now it holds Medusa's head, which bloodies the whole bag and sends a crimson drip to the stones. There is still movement in there -- squirming serpents.
+111) 13) dialog: -- Joppa.
+111) 15) dialog: (dawning on him) Tiamat chooses the city of Zeus to take hostage. (as Amoun confirms
+112) 0) text: The Expedition passes through deep woods. Spyros and Perseus ride side by side.
+112) 1) dialog: Father, we've seen much on this journey we cannot hold in our hands. Yet these things are real enough. At each turn, we find monsters and Gods.
+112) 3) dialog: As you always said, they're petty, vengeful... and dangerous.
+112) 5) dialog: No. Men must be accountable to themselves. Otherwise we serve poor masters.
+112) 8) dialog: We must keep moving. Time is running out.
+112) 19) dialog: Vidalia! Perseus slides from his horse and follows her. Mongke says something to Tamburlane; they LAUGH. Amoun to
+113) 0) text: Vidalia darts through the trees. She stops, closes her eyes, moves off again.                                  THROUGH A STAND OF TREES, Vidalia appears again, and stops, searching her senses. Perseus arrives and watches her.
+114) 0) text: Perseus drops into a dim, earthen den. Vidalia stands motionless before a bare altar.
+114) 9) dialog: Who were they?
+114) 13) dialog: I was mad with fear. I was no hero. I just didn't want to die. Perseus turns toward the altar.
+114) 14) dialog: What is this? A marble tablet sits on the altar, its surface defaced. Vidalia runs her fingers along the scoring.
+114) 16) dialog: How long do you have?
+114) 18) dialog: What will happen?
+114) 29) dialog: What about me?
+114) 33) dialog: I don't believe that. Will love not buy another day, Vidalia?
+115) 0) text: Perseus and Vidalia lie together, listening to the SOUNDS of nightingale, cricket and owl.
+115) 1) dialog: When you vanish, I'll find you.
+115) 4) dialog: I'd rather look at you.
+115) 6) dialog: Don't give away your secrets. You still have need of them.
+117) 0) text: Perseus jolts awake. He reaches for Vidalia, but she is gone. Amoun stands over him, his manner severe.
+117) 1) dialog: Where is she?
+117) 3) dialog: It is not yours to permit, Master... with respect. Vidalia comes down into the shrine, her apron full of berries.
+117) 7) dialog: I won't marry Andromeda.
+117) 16) dialog: I want no reward.
+117) 19) dialog: (low, rasping) I am half God... and now is the time... Perseus rises. He cocks his arm and clobbers Set with an ear-splitting CRACK OF THUNDER and a sparking BURST OF WHITE ENERGY. Set drops Vidalia and lurches back, aghast. BLACK BLOOD shoots from his mouth. Perseus, his face contorted in rage, chokes Set. The God's body SPASMS and deforms in DEATH THROES.
+117) 30) dialog: We must go quickly now. He pulls the sickle from the marble with a BRINNG! The light flashes off Zeus' LIGHTNING BOLT PATTERN on the blade.
+117) 31) dialog: The combat has just begun.
+123) 0) text: The survivors -- Perseus, Vidalia, Spyros, Mongke, and Tamburlane -- crest a hill in the RAINY DAWN LIGHT. Vidalia is almost transparent. The Expedition reacts in shock to what they see.
+125) 9) dialog: You'll have to tell them yourself. Vidalia's voice has become weaker.
+125) 12) dialog: I will not fail them. He turns toward the Goddess, but Vidalia is gone.
+125) 13) dialog: Vidalia? (realizing,
+129) 0) text: Perseus, Spyros, Mongke, and Tamburlane hear the far-off GONG, GONG, GONG. The Mongols speak to Perseus in their language, worried.
+129) 2) dialog: I must get to the cliffs!
+132) 0) text: Spyros, Mongke and Tamburlane mount their nervous horses. PUSH IN ON Perseus, who does not mount up. From his saddle, he takes the bloody canvas bag with Medusa's head inside and slaps his horse away. Be MURMURS the INCANTATION Vidalia planted in his mind.
+132) 3) dialog: May we all have a good ride today! He spurs Pegasus. it beats its wings, launching from the ridge with astounding power.
+137) 0) text: The water stills. The sea calms. No sign of Perseus or Andromeda. WIND and QUIET... CHOOM! Perseus surfaces with Andromeda in his arms, GASPING FOR AIR.
+139) 0) text: BACK WITH Perseus and Andromeda. He looks at her lifeless countenance in agony -- has he failed again as he did with Anteros the fisherman?? Distraught, his muscles go taut around Andromeda, and a short powerful burst of electric energy shoots from his arms into her still body -- SHE JOLTS TO LIFE! Movement! Breath! Color returns to her face. Perseus, too, breathes again, relieved. For the first time since the start of the adventure, they find themselves alone, holding each other.
+139) 1) dialog: Hello. (as she smiles,
+139) 6) dialog: Are you ready to become a queen?
+139) 15) dialog: Then you're ready to go home. Perseus raises one arm. The-AIR reverberates to a LOUD BEATING OF WINGS. Andromeda looks up in wonder. Pegasus appears out of the sun's glare, gracefully alighting on the water. Perseus helps Andromeda up and then climbs on behind her. Pegasus takes off. TILT UP WITH them until they are lost from sight.
+141) 3) dialog: Perseus views the scene from a nearby hill. Behind him, Pegasus waits patiently, grazing the grass. Until --
+141) 12) dialog: Yes.
+141) 14) dialog: Yes.
+141) 16) dialog: I have no people. You have stranded me between realms, neither man nor God.
+141) 19) dialog: No. I thank you... Father. Zeus, mighty God, reacts to the word. His expression softens and he looks on Perseus with growing pride.
+141) 20) dialog: You have freed me. I will not be a pawn for Men or Gods.
+141) 22) dialog: You've made me understand that my responsibility is to myself. So it is with us all.
+141) 31) dialog: 
+141) 33) dialog: It matters not. Whatever the source, I are only grateful. He looks off toward the funeral pyres and the human throng.
+141) 34) dialog: This war will end the moment you choose for it to end... and Men agree. I think, perhaps, that is the free will that all realms share. Zeus looks at him, proud, yet wistful -- what an offspring, what a creation!
+141) 36) dialog: I'm going to find Vidalia.
+141) 38) dialog: 

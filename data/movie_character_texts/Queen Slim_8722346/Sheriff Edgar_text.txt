@@ -1,0 +1,22 @@
+10) 0) text: They get in the truck. Slim immediately spots a SHERIFF'S BADGE sitting on the dash. While Queen climbs in the backseat.
+10) 2) dialog: What?
+10) 4) dialog: Something wrong?
+10) 6) dialog: Oh yeah, I’m off duty today. He pulls off.
+10) 9) dialog: Nah, I‘'1l let this be my good deed for the day.
+10) 11) dialog: Y'all okay? You seem jumpy.
+10) 14) dialog: You're in Kentucky, my friend, but don’t worry - we’ll get you some gas and you'll be on your way. (then) How’s your leg?
+11) 0) text: The Sheriff looks at them for a beat. They stare back, confused.
+11) 1) dialog: Gas costs money.
+12) 0) text: The Sheriff grabs a red jug for the gas to go in and then walks up to THE CASHIER.
+12) 1) dialog: I need to fill this up.
+14) 0) text: The Cashier hands the Sheriff a receipt.
+14) 2) dialog: Hold on a second. He grabs his walkie and talks into it.
+14) 3) dialog: What kind of car were they in?
+14) 5) dialog: Any other info?
+15) 4) dialog: Were y’all gon leave without me? And before he can blink - Queen holds the dead police officer’s gun to his head.
+16) 0) text: The Sheriff is driving while Queen holds a gun to the bac his head from the backseat. Slim is in the passenger seat wishing he could make himself disappear.
+16) 1) dialog: My name is Edgar. I’ve lived in Kentucky all my life. My wife died three years ago and now I’m raising our son by myself. I’m all he has in the world. Watching him grow up has been the greatest blessing of my life.
+16) 3) dialog: Did y’all kill that police officer?
+16) 5) dialog: I’m sure it was. I have some colleagues that have gotten out of line more than once.
+17) 0) text: They're back at Slim’s car. Queen keeps the gun to his he The Sheriff keeps his hands where she can see them. Queen looks a the Sheriff's truck and then she looks at Slim’s Then --
+17) 5) dialog: I don’t know what happened. But whatever it was, I’m sure you had good reason for doing what you did. Please. Let me help you. Queen just looks at him, with hurt and anger in her eyes SLAMS the trunk closed.

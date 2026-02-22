@@ -1,0 +1,137 @@
+18) 0) text: as Kirk strides into the graceful Starfleet HQ building. Many PEOPLE are about, civilians and uniformed person- nel; most of them with some air of urgency. (NOTE: ALIENS interspersed among them, Vulcans, blue-skinned Andorians, high-domed Vegans, ect.) Kirk continues on when suddenly he reacts, annoyed as he sees:
+40) 11) dialog: Lieutenant Ilia reporting for duty, sir.
+40) 15) dialog: (surprised) Decker....!
+40) 18) text: Ilia looks from Kirk back to Decker, puzzled at his sleeve stripes.
+40) 19) dialog: (eyes his rank stripes) 'Commander' Decker?
+40) 22) text: Kirk flashes a hard glance at Decker, then toward Ilia too.
+40) 24) dialog: My oath of celibacy is on record Captain. May I assume my duties?
+40) 35) text: Sulu has almost tripped getting out of his chair. He starts offering Ilia his hand, then thinks better of it, withdraws it abruptly, immediately busies himself punching out equations on her console... AD LIBS, "It's all on the computer. You'll have no problem..." Sulu is nervous, fluttery around this lovely creature -- now hits a wrong switch. Produces a BEEPING SOUND which he fumbles to shut off. She smiles; speaks quietly, repeats:
+40) 36) dialog: I'm sworn to celibacy, Mister Sulu. That makes me as safe as any human female.
+40) 37) text: Sulu catches her eye but before he can reply, Decker has moved in beside Ilia.
+40) 39) dialog: (eyes on console) I would never take advantage of a sexually immature species. (looks at him) You can assure him that's true, can't you?
+43) 3) dialog: Orbital departure on plot, sir.
+51) 6) dialog: Science Officer's computations confirmed, sir.
+51) 7) text: And Decker and Ilia glance at each other -- and again, you know there is something more than casual in this.
+57) 6) dialog: Unidentified small object has been pulled into the wormhole with us, Captain! Directly  ahead...!
+57) 9) dialog: Navigational deflectors  inoperative...! (consulting her  console, alarmed) Directional control also  inoperative, Captain...!
+57) 13) dialog: Twelve seconds...!
+57) 19) dialog: Object is an asteroid, reading mass point seven... (consulting instruments) Impact in eight seconds... seven... six... five...
+59) 4) dialog: Computing new interception course.
+61) 10) text: Ilia's attention is directed toward Decker.
+61) 12) dialog: (a beat; then  quickly) Confirmed, Mr. Sulu. Confirmed.
+63) 0) text: Decker moving toward an elevator -- the elevator doors open, and there is Ilia. She steps out, faces him.
+63) 1) dialog: Was he difficult?
+63) 3) dialog: That you left? or that you didn't say 'goodbye'?
+63) 5) dialog: (long hesitation; then shakes head) No.
+63) 6) text: Ilia whirls, moves toward her stateroom door, which snaps open, then closes behind her. Decker stands gazing at the door, remembering, regretful.
+66) 0) text: as we HEAR the CLANK and WHOOSH of the AIRLOCK MECHAN- ISM. Chekov is standing by  with a security man. A moment later the hatch slips open - TO REVEAL Spock. A proud Spock, impassively Vulcan, almost contemptuously aloof. His hair is now trimmed in neat Vulcan style; he wears Vulcan attire simple, civilian, utilitarian.)
+73) 27) dialog: Five minutes to Cloud boundary!
+79) 0) text: as, first on the viewer, the WHIPLASH ENERGY BOLT EFFECT clings another moment then begins FADING. And then it is gone. The bridge lights go on again. Elevator doors open. Doctor Chapel and Medical Corps- men arrive and cross immediately to where Ilia tends to the injured Chekov.
+79) 4) dialog: No, I can stop his pain.
+79) 5) text: The Deltan woman takes Chekov's upper arm in both her hands, kneading her fingers deep into nerve centers -- Chekov's pain begins to quickly recede and he is almost startled by the sudden relief. Doctor Chapel, now spraying plasti-skin on the burned hand and wrist, gives Ilia a surprised, approving look and a flicker of female friendship passes between the Deltan and Earth woman. (setting up a later story point)
+79) 11) text: Chapel and Corpsman are assisting Chekov from the bridge (we'll have SEEN that the remarkable plasti- skin sprayed on his hand has completley covered the ugly burn marks - he is even able to move his fingers a bit). Ilia returns to her station -- a relief CREW WOMAN takes over from Decker at Chekov's console.
+84) 2) dialog: Impact in fifteen seconds...
+84) 5) dialog: Ten seconds....
+84) 23) text: Kirk peers at Spock hoping for some assistance on the decision; but Spock merely peers back at him ex- pressionlessly: the decision is Kirk's. Kirk faces Spock one last beat, then turns and starts back to- ward his chair, calling to Ilia.
+84) 27) dialog: Thirty seconds to Cloud boundary...
+84) 38) dialog: Fifteen seconds to Cloud Boundary.
+88) 18) dialog: Distance to object now seventy- thousand kilometers...
+92) 31) text: as Spock, in stepping back, accidentally brushes the probe's energy tendril -- a FLASH OF LIGHT at the contact point sends Spock sinning under the rail and to the floor near Ilia. The probe's energy-tendril has withdrawn from the darkened science console, hov- ers high over the dazed Spock as if angrily seeking the reason for the break in its computer contact. Spock starts to rise.
+92) 32) dialog: Mr. Spock, don't move...!
+92) 33) text: Decker steps toward her, AD LIBBING a grim "Ilia...!" But he has no chance as:
+92) 36) text: The Probe hovers over her, its whole mass seemingly about to envelope her with a single tendril extended toward her, somehow freezing her into immobility - and then the entire Probe DISSOLVES IN A BLINDING  FLASH OF WHITE, obscuring Ilia. Almost instantly the WHITE FLASH FADES -- but Ilia has vanished -- her tricorder clattering to the deck.
+103) 20) text: And Spock rises, joins Kirk and they hurriedly exit, the CAMERA SWINGING BACK to Decker, his perplexed con- cern (because of Ilia).
+105) 3) dialog: I have been programmed by V'ger to observe and record normal functioning of the carbon-based units infesting USS ENTERPRISE.
+105) 4) text: Kirk peers at her another nonplussed moment, then leans into the shower to touch a control, his eyes fixed on the lovely body behind the mist. He punches in a three digit code. Immediately a HUMMING SOUND emanates from the shower stall, Kirk closing the door, but 'Ilia" remaining inside.
+105) 7) dialog: V'ger is that which programmed me.
+105) 10) text: At the sight of 'Ilia", McCoy's words die in his throat -- and his trained eyes have instantly told him some- thing is awry. He unslings his tricorder, aims the sensor unit at "Ilia". As he reads his instruments, his face reveals the results (incredulity, fascination). Meanwhile, from the start:
+105) 11) dialog: V'ger is that which seeks the Creator. McCOY (of "Ilia") Jim, this is a mechanism...!
+105) 12) text: Kirk stares at McCoy, then at "Ilia" and realizes that "Ilia" is indeed non-human. And quickly:
+105) 16) dialog: That unit no longer functions. I have been given its form to more readily communicate with the carbon-based units infesting Enterprise.
+105) 19) dialog: V'ger travels to the third  planet to find the Creator.
+105) 20) text: Stunned, disbelieving reactions as all four attempt to digest this -- Spock gazing at "Ilia" with even more rapt fascination. Kirk, bewildered, addresses the others:
+105) 22) dialog: To join with him.
+105) 25) dialog: V'ger and the Creator will become One.
+105) 27) dialog: The Creator is that which created V'ger.
+105) 29) dialog: V'ger is that which seeks the Creator.
+105) 30) text: Another moment of total exasperation, frustration, during which "Ilia" seems to be waiting politely, patiently for any further questions. When none are forthcoming:
+105) 31) dialog: (continuing; pleasant, bland) I am ready to commence my observations.
+105) 33) text: And he grasps "Ilia's" arm to escort her. But is as though he has seized cast iron: immovable. McCoy is thrown off balance merely by 'Ilia's" remaining sta- tionary. She ignores McCoy, addresses Kirk:
+105) 34) dialog: I am programmed to observe and record normal functioning procedures of the carbon-based units.
+105) 35) text: 256B   Kirk glances at McCoy, who is totally bemused, but Kirk quickly responds to "Ilia": 
+105) 37) dialog: (a beat) You may proceede. McCOY (carefully) Thank you.
+105) 41) text: Chapel breaks off abruptly, noticing "Ilia" is peering intently -- almost with a glimmer of recognition -- at Decker. Slightly disconcerted, Chapel continues:
+105) 43) dialog: (peering at Decker) Deck -- er.
+105) 46) text: "Ilia" continues peering at Decker with just a hint of a puzzled frown, a glimmer of distant recognition. It's the first time we've seen her expression look anything but cool and bland. This results in the quizzical rising of one of Spock's eyebrows.
+105) 47) text: McCoy's examination now turns "Ilia" away from the others. Spock quickly catches Kirk's and Decker's attention, indicates an adjoining door -- they fol- low him out of the room. 259   INT. McCOY'S OFFICE as Kirk, Spock and Decker enter, the door snapping shut -- and Spock touching the electronic lock to secure them. He faces the others:
+105) 60) dialog: I have recorded enough here. (motions to Kirk) You will now assist me further.
+105) 63) text: "Ilia" has seemed about to object -- but now her eyes hold on Decker. Then she nods.
+105) 66) text: as Decker looks at "Ilia" who stands at the torn door. You can read Decker's mind: I'm supposed to persuade that?! He turns back, finds Kirk's eyes on him. Decker nods.
+105) 68) text: "Ilia" and a reluctant Decker EXIT.
+107) 4) text: "Ilia" is giving the pictures a very interested look as we HEAR in Kirk's cabin:
+109) 0) text: Decker and "Ilia", the Rec Deck unoccupied but for a pair of wary SECURITY GUARDS at a very discreet dis- tance. They are near the pictures of the five Enter- prises, which should be FEATURED in this SHOT, as Decker waves his hand about the huge room.
+109) 2) text: As "Ilia" moves on into the room, Decker follows: 
+109) 3) dialog: The words 'recreation' and 'enjoy' have no meaning to my programming.
+109) 4) text: Decker peers at the lovely android with frustration -- and no little pain, for she is after all the exact replica of Ilia. She pays not the slightest attention to Decker's reaction, and begins walking about the Rec Deck taking in (and, clearly, transmitting all images to V'ger) the sights. They are near a game area (elec- tronic games), and now Decker points to one game, switches it on -- presses button to activate its LIGHTS and SOUNDS. "Ilia" watches interestedly as Decker operates the game.
+109) 6) text: And he demonstrates again, as "Ilia" steps to the device, deftly hits some buttons -- and for just an instant she turns to Decker with a momentary glimmer of recognition.
+110) 1) text: But the words are not out of McCoy's mouth when "Ilia" says:
+110) 2) dialog: This device serves no purpose.
+111) 2) dialog: Carbon units are not true life forms... Do those images repre- sent how Enterprise has evolved into its present form?
+111) 4) dialog: Carbon units have clearly retarded Enterprise's proper evolvement.
+111) 6) dialog: Enterprise should not require the presence of carbon units.
+111) 9) dialog: More data concerning this functioning is necessary before carbon units can be patterned for data storage.
+111) 12) dialog: (stopping; almost pleasantly) When my examination is complete,  the carbon units will be reduced  to data patterns.
+111) 15) dialog: That is logical. You may procede.
+117) 0) text: The DOOR SNAPPING open, and "Ilia", McCoy and Decker entering. Then CAMERA REVEALS Chapel already inside, looking through some female adornments she's found there.
+117) 3) text: Clearly this is very painful to Decker. Meanwhile, Chapel hands the Deltan headband to "Ilia".
+117) 6) text: "Ilia" hasn't the slightest idea what to do with the headband, holds it, runs her fingers over the jewels and feathers embedded into it. Chapel takes it from her, places it on 'Ilia's" head, now switches on the light illuminating the dressing table mirror -- stands behind her with Decker, both watching apprehensively.
+117) 7) dialog: studying her image in the mirror, her face totally blank a moment, but then breaking into a bemused frown -- as though trying to remember. And:
+117) 10) text: And it seems that "Ilia" does remember. She peers at her image, then sets the headband into its exact proper position. Then she turns and looks at them with recognition.
+117) 11) dialog: (haltingly) Dr. Chapel...
+117) 13) dialog: (to Decker) "Will..."
+117) 17) dialog: I... cannot.
+117) 18) text: Decker looks at "Ilia's" hand still resting on his. Then:
+117) 20) text: For another moment "Ilia" continues smiling at Decker, holding his hand. Then, abruptly, the smile vanishes -- the hand is released. Clearly, she's again the probe, as:
+117) 21) dialog: Why have two carbon units entered V'ger...?
+117) 24) text: "Ilia" peers at him blankly, allows him to continue  touching her hand, but obviously it means nothing to her.
+117) 26) dialog: The carbon units are of no consequence; V'ger will determine their purpose. McCOY Their purpose is to survive.
+117) 27) dialog: That is also V'ger's purpose.
+117) 30) dialog: That is how V'ger will survive.
+117) 32) dialog: I wish to continue my observations.
+127) 46) dialog: By the Creator.
+127) 48) dialog: To learn all that is learnable; to deliver all collected data to the Creator on the third planet. That is the programming.
+127) 51) text: Decker really hasn't heard Scott; he's gazing at "Ilia," attempting to digest what she's just said. But quickly:
+127) 55) text: Now Decker and "Ilia" move toward the exit, Scott gaz- ing after them glaringly, watching "Ilia's" every move. Suddenly, almost into the corridor, "Ilia" turns and looks back at the engine room. She addresses Decker, but load enough for Scott to overhear:
+127) 56) dialog: There is no logical reason for carbon units to control Enterprise's power systems.
+128) 11) dialog: (to Decker; interrupting) As I stated, V'ger calls to the Creator.
+128) 13) dialog: 'To learn all that is learnable.'
+128) 16) dialog: (as if frightened) Decker... The Creator has not  responded.
+128) 32) dialog: The carbon-units infection will now be removed from the Creator's planet.
+128) 34) dialog: The Creator has not answered.
+128) 36) dialog: You infest and control Enterprise. V'ger believes carbon-units interfere with the Creator in the same manner.
+128) 41) text: as he throws a look toward Spock who is now in deep meditation. Kirk turns and takes "Ilia's" shoulders and carefully turns her to face him. McCOY '... similar life forms...?' Jim, V'ger's saying the Creator is a machine...!
+128) 43) text: Kirk peers at Decker a moment, ingesting this thought.  Then he addresses "Ilia" again, this time with emotion:  after all, he is pleading for the survival of the  entire planet:
+128) 45) text: Kirk pauses abruptly: "Ilia" is regarding him blandly, stonily -- not the slightest reaction or response; clearly Kirk's plea is being ignored. Kirk draws in his breath to continue, realizes the futility, turns helplessly to Spock.
+128) 55) text: Kirk says nothing, looks at Spock who is awaiting a reaction; then Kirk glances at "Ilia" -- his brain is racing, struggling to reach a decision. And then:
+128) 58) text: "Ilia" studies Decker just a bland beat, then turns to Kirk:
+128) 59) dialog: (to Kirk, hard) Disclose the information.
+128) 62) dialog: 
+130) 2) dialog: (to Kirk; flat) V'ger requires the information.
+130) 12) dialog: It is illogical to withhold required information.
+130) 14) dialog: (almost polite) Kirk-unit, why do you not disclose information?
+130) 16) dialog: They have repressed the Creator.
+130) 18) text: And, gesturing the others ahead of him, Kirk starts toward the bridge elevator. "Ilia" calls after him:
+130) 19) dialog: (almost a plea) V'ger needs the information.
+130) 21) text: Decker and McCoy about to enter, Spock and Kirk just behind -- all stopping abruptly now at "Ilia's" state- ment. The very tone of her voice is enough for them to realize they have made a very telling point. Kirk follows fast:
+130) 23) dialog: V'ger will comply if the carbon units disclose the information.
+130) 30) text: Kirk nods grimly, faces "Ilia" again; this time  he's playing for all the stakes.
+130) 36) text: "Ilia" steps down from the platform and into the well where she is closer to the viewer.
+142) 1) dialog: (indicating viewer) V'ger...
+142) 10) dialog: The carbon units will now provide  V'ger the required information.
+142) 11) text: "Ilia" is moving toward the elevator, turning to face the others as she says this. Kirk remains frozen, his hand on the intercom button. He glances at McCoy, as though seeking advice. McCoy peers at him blandly, levelly; Kirk must follow his own instinct.
+142) 23) text: A sudden STORM OF LIGHT AND STRANGE SOUND. In the midst of it, Kirk finds a SHAFT OF LIGHT very much centering on him. He sees "Ilia" watching him with none of their "former navigator" in her expression now. Kirk hesitates, gathering his thoughts:
+142) 26) dialog: Answer!
+144) 5) dialog: It will... take me from you...
+144) 25) text: as the others turn to Decker and "Ilia."
+144) 31) text: as Kirk suddenly pivots, races toward Decker -- but he passes too close to the "Ilia"-probe. It sends him spinning back, tumbling to his knees.
+147) 0) text: which shows now only space and its familiar star patterns. All gaze at the viewer, awed at what they've seen and undergone. They exchange looks silently, no one wanting to be the first to try to comment on some- thing which is beyond mere words. We HEAR an ELEVATOR DOOR, Scott and Chapel ENTER the bridge and stand  silently watching. McCOY Well, it certainly has been... interesting.

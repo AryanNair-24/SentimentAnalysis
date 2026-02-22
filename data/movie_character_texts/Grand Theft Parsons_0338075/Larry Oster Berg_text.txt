@@ -1,0 +1,318 @@
+4) 451) text: A man is sitting cross-legged on the floor. A joss stick burns beside him, and sitar music plays in the background This is LARRY OSTERBERG, and he is meditating. There is a loud hammering on the door. Larry shows no sign of having heard anything. More hammering at the door, but still no response. Then the letter box creaks open and an eye appears in the slot. After a moment, the eye disappears and Phil's face appears momentarily at the window. The window seems to be slightly higher than Phil, so his face appears every time he jumps up to peer into the room.
+4) 454) text: Then Phil is gone. Larry expels a big breath. The letterbox creaks opens again and the eye is back.
+4) 457) text: Larry sighs, and stretches. He gets up slowly, gently shakes himself to relax his muscles and walks to the door which he opens.
+4) 459) dialog: The door is unlocked.
+4) 463) dialog: Yes.   Welcome to my house.
+4) 468) dialog: Manomanjari on the sitar by Nikhil Banerjee. (NB. Similar music may be used in this scene) Phil stares at him.
+4) 476) dialog: There's no smoking in here, I'm afraid.
+4) 480) dialog: Who are you, please?
+4) 484) dialog: And how may I help you, Phil Kaufman?
+4) 488) dialog: Why?
+4) 491) dialog: Don't you know anyone with a car?
+4) 495) dialog: I see. In what way is my car more suitable?
+4) 499) dialog: Yes.
+4) 500) text: They both look at each other.         Larry waits for Phi speak.
+4) 505) dialog: And how is a hearse going to be suitable for picking someone up from the airport?
+4) 509) dialog: A joke?
+4) 513) dialog: Well, okay. Is it two hundred dollars worth of surprise?
+4) 517) dialog: I can lend you a bicycle. Besides, the car is booked.
+4) 525) text: Phil passes the money over.   Larry starts to count it.
+4) 528) text: Larry doesn't pause counting.
+4) 530) dialog: Let's see; I've never met you in my life, you shout through my mail slot, you want to hire my hearse as a joke, and...
+4) 539) dialog: It's a hearse. What else do you need to know?
+4) 542) text: The garage doors swing open and a hearse drives out into the sun. It is bright yellow and covered in painted flowers. One of the side windows is broken and a headligh hangs out. Phil's jaw drops open. Larry gets out of the driving seat and pats the roof, proudly.
+4) 544) dialog: Meet Bernice.
+4) 548) dialog: Bernice is a Cadillac Superior Royale Tiara Limousine Funeral Coach. We've got a Seven gallon V8 engine offering three hundred and forty bhp at four thousand six hundred revolutions per minute. You're looking at a twenty one feet beauty with a one hundred and fifty six inch wheelbase containing a four barrel Rochester Quadrajet carburetor with Turbo Hydramatic transmission. Bernice weighs over six thousand pounds.
+4) 553) dialog: Yes, it's yellow.    Bernice comes in yellow.
+4) 557) dialog: But they're all black.
+4) 564) dialog: So how is a yellow hearse covered with flowers less of a surprise than a black hearse?
+4) 568) dialog: (patiently) No, you paid me a hundred and eighty dollars for a hearse, and a hearse is what you've got. If you take a long, hard look at Bernice, you'll see that she's one of a kind. She's big, she's fast, she's comfortable, and she's beautiful. But she's not black.
+4) 573) dialog: Why?
+4) 576) text: Larry looks from Phil to Bernice and back again.
+4) 578) dialog: Oh, no. She doesn't go anywhere without me.
+4) 582) text: Larry runs across and closes the doors on a pile of amps and band equipment that now sits in the garage. Phil puts the guitar in the back seat and they get into the car.
+4) 585) text: Larry pulls a screwdriver out of the glove compartment an jigs it about in the ignition until the engine catches.
+4) 590) dialog: Someone stole her last summer.
+4) 594) dialog: How did you hear of Bernice and me?
+4) 597) text: Larry looks pleased.
+5) 4) text: Larry parks, and Phil looks at his watch.
+5) 11) dialog: What's the matter?
+5) 15) dialog: Well... What flight are they on?
+5) 19) dialog: Okay. Well, what time is the flight due?
+5) 22) dialog: Okay.   How soon?
+5) 26) dialog: Well... I don't know.
+5) 29) dialog: Shouldn't we be at arrivals?
+5) 33) dialog: Okay.
+5) 36) dialog: So how long are we going to wait?
+5) 37) text: Phil doesn't answer for a moment.      Just as Larry open mouth to ask again, Phil speaks.
+5) 40) text: Larry looks at Phil with astonishment.
+5) 45) dialog: Morning?   What do you mean, morning?
+5) 48) text: Larry tries to start the car. Phil leans over and plucks the screwdriver from his hand. He reclines his seat and closes his eyes.
+5) 50) dialog: You wait till morning.   I'm going home.
+5) 51) text: Larry opens the door and gets out of the car. He slams th door shut behind him and stomps off into the gloom. Phil doesn't move.
+6) 1) text: The drivers' door opens and Larry gets back into the car.
+6) 3) dialog: I'm only back because I don't trust you with Bernice. I don't even know you, and if you think I'm going to leave my car with you and just walk away, then you've got another thought on the way.
+6) 6) dialog: I'm staying right here. Where I can keep an eye on things...
+6) 7) text: There is still no response from Phil. After a moment, Larry settles back in his seat and closes his eyes.
+10) 43) text: Phil is wheeling a casket on a gurney down the middle of the hangar. He can see Larry peering through the window a him. He can also see a uniformed policeman approaching Larry from the other side of the street. As he speeds up to try and reach Larry first, the clerk calls out from hi desk.
+10) 49) text: Larry is jumping up and down nervously outside the window The policeman appears at his shoulder.
+10) 52) text: Larry turns slowly.
+10) 54) dialog: Hearse?
+10) 57) text: Larry has started to sweat profusely.
+10) 59) dialog: That hearse?
+10) 64) dialog: Okay?   Sure...
+11) 50) text: Larry is standing by the hearse.          The cop is read license.
+11) 53) dialog: Doing?    Here?
+12) 19) text: Phil glances nervously out to where Larry is being interrogated by the cop. The clerk is reading a paper.
+12) 23) text: Phil is distracted, watching the cop and Larry out of the window.
+12) 74) text: The cop is wandering around the hearse.    Larry trails behind him, disconsolately.
+12) 78) dialog: (miserably) No. Fair enough.
+12) 82) dialog: Right.   Good saying.
+12) 87) dialog: We're meeting someone off a flight.
+12) 91) dialog: Yes.
+12) 95) dialog: Yes.   It's a... surprise.
+12) 98) text: Larry is looking increasingly desperate.
+12) 103) dialog: Well... the first part.
+12) 111) dialog: Going on?
+12) 112) text: They stare at each other. The cop shifts position and purses his lips. Larry stares at the ground looking for some kind of inspiration. Just when the silence moves beyond uncomfortable, the door of the mortuary opens and Phil clatters out with the casket.
+12) 128) text: Phil gestures at Larry to get into the car, which he does
+12) 157) text: He gestures at Larry to start the car. Larry pulls out th screwdriver and starts to jig it about in the ignition. The cop watches. As the engine refuses to catch, Larry starts to panic.
+12) 159) dialog: Ignition's a bit temperamental.
+12) 164) dialog: Have to use a screwdriver.
+13) 5) dialog: Did what?    What did we do?
+13) 10) dialog: I didn't babble. I just... have a problem with authority.
+13) 17) dialog: I don't like them and I don't know what to say to them. They make me feel uneasy.
+13) 20) text: Larry sulks. Phil shakes his head and glances back at the cop and Larry crashes the car straight into the hangar wall.
+13) 22) text: We pull back to reveal the enormous opening that Larry ha missed.
+14) 5) dialog: I clipped it. I clipped the wall.
+14) 9) dialog: (babbles) I was distracted. We're supposed to be picking someone up and you arrive with a coffin and I'd only just woken up and...
+14) 13) text: The cop ignores him and concentrates on Larry.
+14) 19) text: Larry swallows hard.
+14) 21) dialog: Uh, not at this time, no sir.
+14) 24) text: Larry licks his lips.
+14) 25) dialog: Well...
+14) 29) text: Still nothing. Larry looks like he's trying to form words but nothing emerges.
+14) 39) dialog: Oh, right.     So it's all my fault?
+14) 48) text: The police car drives up to, and then past, the hearse, before disappearing out of the hanger at speed. Phil and Larry look at each other.
+14) 52) dialog: Well what?
+14) 56) dialog: He said to wait.
+14) 57) text: Phil just stares at him. After a moment, Larry reverses Bernice and then drives the battered car through the gap and out of the hangar. Phil slumps back in his seat.
+14) 60) text: Larry says nothing.     Phil leans back in his seat.
+14) 63) text: Larry slams the brakes on and the huge car skids to a hal in a cloud of dust. Phil is flung forward in his seat.
+14) 66) dialog: Get out.
+14) 73) dialog: Get out and take your friend with you.
+14) 80) dialog: Get out.
+14) 84) dialog: Why not?
+14) 87) text: Larry slips the car into gear and it moves forward.
+14) 90) text: Larry makes a U-turn.
+14) 94) dialog: I'm driving back to the mortuary.
+14) 97) text: Nearly at the turn now. Phil opens the car door with a mind to jump out, but one look at the fast-moving road changes his mind. He glowers at Larry and shuts the door. The hearse skids round the corner, Larry slams on the brakes and the car slides to a halt outside the mortuary.
+14) 99) dialog: Talk.
+14) 102) text: Larry gestures towards the back of the car.
+14) 104) dialog: Who's the stiff?
+15) 1) text: Larry is staring at Phil.      Waiting.
+15) 4) text: Larry moves to get out of the car.        Phil grabs his
+15) 10) text: Larry watches him laugh.      Phil catches the look and s laughing.
+16) 1) text: Larry is staring at Phil.
+16) 3) dialog: Empty?
+16) 7) dialog: It looked pretty heavy, for an empty casket.
+16) 11) dialog: Poplar? No way?   Mahogany, or oak, but not...
+16) 14) text: Larry stares hard at Phil. We see the door of the mortuar open over Larry's shoulder and Stanley and the clerk emerge. Then:
+16) 19) dialog: Okay. So why have we got an empty coffin in the back of the car?
+16) 23) text: Larry still stares at Phil.      Stanley is almost at the
+16) 26) text: Stanley is getting ever closer. Phil can see him in his wing mirror. Larry releases the safety brake and the gian car roars away, leaving Stanley standing in a cloud of dust.
+16) 37) text: Larry drives. Phil is still pitching.        They are dri alongside the airport runway.
+16) 44) dialog: As new?
+16) 48) dialog: The whole thing is completely immoral.
+16) 52) dialog: Look, I really need to get home.
+16) 56) dialog: I just... do.
+16) 57) text: Larry is sweating.
+16) 60) text: Larry slows the car down.
+16) 64) dialog: Gas now.
+16) 65) text: Larry pulls the car onto a Gas station forecourt.
+17) 1) text: Larry is sitting on the toilet seat - still fully dressed but bent double with cramps. Then Phil bangs on the door and calls from outside.
+17) 5) text: Larry turns to look at his reflection in the grimy mirror He is shaking.
+17) 15) text: The man gapes at him. Larry walks over to the car and Phi gets into the passenger seat. He passes some money to the attendant and takes the can.
+17) 20) text: Larry jiggles the screwdriver, slips Bernice into gear, a they're gone. The attendant watches them go.
+17) 23) text: Larry is driving, Phil is looking out of the window.   Th are still in a built up area with cars around them.
+17) 28) dialog: We could go back.
+17) 32) dialog: I wasn't expecting a long trip. I haven't packed any spare clothes. We could pick up some supplies and drive out tomorrow.
+17) 35) dialog: Well, yes.
+17) 40) dialog: We could do that.
+17) 44) dialog: We could just...
+17) 47) dialog: It would...
+17) 51) dialog: 
+17) 68) text: Phil is smoking. Larry is driving, his fingers tapping nervously on the wheel. He looks distracted and speaks to break the silence.
+17) 70) dialog: I still don't fully understand what you do.
+17) 73) dialog: Everything?
+17) 77) dialog: Oh, one of those.   Like a well- paid gopher.
+17) 80) text: Larry backs down with hint of sarcasm
+17) 82) dialog: An executive nanny, not a gopher. Thanks for clearing that up.
+17) 135) text: The hearse is parked by the side of the road, near a rickety stall where an old lady sits, selling melons. Larry sits inside and Phil walks to a phone by the side o the road. He dials.
+17) 172) text: Suddenly the door of the hearse flies open and Larry runs out. Phil holds the phone away from his ear as Barbara's shouting can be heard coming out of the receiver. He watches as Larry just makes it to a cactus and is violent sick. He glances across to where the old melon woman watches, expressionless, from her stall. After a moment, Larry wipes himself down and walks back to the car.
+17) 178) text: He puts the phone down, cutting off Barbara's squawk and watches Larry get into the hearse. He frowns.
+17) 205) dialog: Sunstroke.
+17) 210) dialog: I'm susceptible.
+17) 221) dialog: This isn't the way to Palm Springs.
+17) 265) text: Larry drives and talks, Phil looks tense.
+17) 267) dialog: See, the Yin is the negative - the darkside. And the Yang represents positive - good. If you like, the first is earth and the second heaven.
+17) 272) text: Larry still talks.       Phil now looks bored.
+17) 274) dialog: The Yin Yang symbol is really evocative about the whole concept. As you travel around the circle, white or black will increase until the opposite color is almost gone. But never totally gone, right? And this cycle then repeats for the opposite color.
+17) 283) text: Larry still talks, glancing across to Phil to make his point every now and then. Phil is tossing a cigarette int the air and trying to catch it between his teeth.
+17) 285) dialog: What seems like Yin is often supported by Yang, and vice versa. Let me give you an example: To truly know good, you must first know evil, and without good as a comparison, nothing can be evil. So by allowing Yin to flourish, you welcome Yan. By letting go of Yin, you are waiting for its return. Another example is...
+17) 286) text: There is a crash, and the car slams to a halt. Larry is thrown forward, but manages to grab the wheel. Phil is no so lucky, and catapults into the dashboard, before being thrown back into his seat, the crumpled cigarette still gripped between his teeth.
+17) 296) dialog: I was distracted.
+17) 303) text: There is a faint noise. Larry hears it first and then Phi and then, as they strain to identify it, they see a tiny dot on the road ahead of them, which grows and grows as they watch it, and they peer hard into the wind to identi it and... it's a motorcycle cop.
+17) 309) dialog: What now?
+17) 314) dialog: Okay.   What about?
+17) 321) dialog: Well... it's more a philosophy than a religion.
+17) 325) text: He shoots a vicious look at Larry.      The cop parks his and removes his helmet.
+17) 333) text: The sign gives an ominous creak.         Larry takes a si step, out of danger.
+17) 343) text: They all look appreciatively at the desert, and the cop glances down at the keys in Larry's hand.
+17) 345) text: Larry looks flustered.
+17) 347) dialog: Ooooh, I'm well. Really well, actually. Thank you.
+17) 348) text: The cop doesn't respond, just keeps looking at Larry with pleasant half-smile on his face.
+17) 354) text: Larry turns and appears to see the huge buckled pole for the first time.
+17) 356) dialog: Oh.
+17) 372) text: Larry wobbles with shock.
+17) 374) dialog: A body?     Stole a body?
+17) 378) dialog: That's an empty coffin, officer.
+17) 385) text: Larry thinks hard.
+17) 387) dialog: Hearse.   Flowers.
+17) 399) dialog: He said a body. He said we stole a body.
+17) 404) dialog: He didn't say 'coffin'. He said 'body'. Tell me we haven't stolen a real person.
+17) 411) dialog: Oh, I'm just overflowing with trust for you, man. I feel this overwhelming feeling of... trust every time I look at you.
+17) 414) dialog: I'm gonna check inside that box just as soon as we're out of here.
+17) 420) dialog: What are we going to do?
+17) 423) dialog: What?
+17) 426) text: Larry mulls this over.
+17) 428) dialog: What about if I could slip out of these cuffs?
+17) 436) dialog: No, really. I really can slip these cuffs.
+17) 440) text: Larry pops his middle finger out of its socket, squeezes his hand and slides it out of the handcuff. He hands the other cuff to Phil, who stares at him in astonishment.
+17) 442) dialog: Do you think we should go?
+17) 445) text: Larry starts the car. He throws it into reverse and the bumper slowly disengages from the metal signpost. Suddenl the car tears loose and flies backwards, smashing into th cop's motorcycle, leaving him holding the radio and its trailing wire. Larry slams on the brakes.
+17) 447) dialog: Oh shit.
+17) 456) text: Phil screams at Larry.
+17) 463) dialog: The steering lock is on.
+17) 467) dialog: I can't - he's got the keys.
+17) 472) dialog: Yes.
+17) 478) text: Phil and Larry stare at the policeman out of the window a the car sweeps past. The cop gets his gun out of his holster, and Phil reaches into the glove box and pulls ou the screwdriver. He leans across Larry, jams it into the wheel column, and snaps the steering lock in two. The hearse's direction immediately changes.
+17) 481) dialog: Okay.
+17) 541) text: Phil finishes his beer, rubs his eyes and slumps back in his seat. He looks terrible, but not as bad as Larry who is pasty and sweating.
+17) 543) dialog: Well, that's it! They're going to lock me up and throw away the key.
+17) 550) dialog: You saw what happened. I drove over that cop's bike. That's destruction of police property, or something.
+17) 554) dialog: Not 'til I met you...
+17) 560) dialog: It's a dinosaur.
+17) 565) dialog: (reads) 'The Polyonax Place'. (aside: to Phil) A Polyonax is probably some kind of dinosaur.
+17) 568) dialog: (reads) 'Dinoburgers, Reptile Steaks and Primeval Soup. Titanosaurion portions, prehistoric pricing. Liquor served'.
+17) 572) dialog: Let's not. The cops'll be after us and we should just get on to Palm Springs and do the thing, and then I can get home and you can... do whatever it is you do. Let's do that.
+17) 579) dialog: You surprise me.    I vote we keep going.
+17) 584) text: The hearse pulls up around the back of the building, and parks in a place that is hidden from the road. Phil gets out and stretches. He is joined by Larry, and they both peer round the side of the building to check that they ha not been observed. Then they walk towards the entrance.
+18) 1) text: We are with a short-order cook. He expertly flips a burge from a hotplate and adds it to a plate overflowing with bacon, sausage and fries. He slips this plate onto a tray on which there is a second plate containing two pieces of plain bread and some lettuce. He dings a bell and a waite enters and picks up the tray. We move with the tray as he carries it from the kitchen and into the dining area. He stops at the bar to load three foaming glasses of beer an a glass of water onto the tray, and delivers it to Phil a Larry, who are sitting in a window booth. Larry has his head resting on the table. He lifts it as soon as the foo arrives.
+18) 5) dialog: I do not.
+18) 8) text: They both look at Larry's bread and lettuce.
+18) 15) dialog: Look, I'm a vegetarian. I have a problem with dead flesh. Okay?
+19) 3) text: Phil pushes his full plate away and finishes off the thir beer. He gets up. Larry notices he hasn't eaten anything.
+19) 5) dialog: I thought you were hungry.
+21) 4) text: Phil joins Larry and puts a bag of beers on the table.
+21) 6) dialog: Speak to her?
+21) 10) dialog: Your girlfriend?      Your wife?
+21) 14) dialog: So you didn't?
+21) 22) dialog: Maybe she's out.      Shopping, or something.
+21) 26) text: He raises an eyebrow at Larry. Behind him, we see Stanley walk in and take a seat at the bar.
+21) 55) text: Larry is listening to the conversation.
+21) 57) dialog: Haven't finished my drink.
+21) 74) text: Phil reaches across and grabs the back of Larry's jacket.
+21) 76) dialog: Gram Parsons?
+21) 77) text: Both the Barman and Stanley look round, but Larry's stool is now empty, spinning. He and Phil are already at the door.
+21) 80) text: Phil propels Larry outside.
+21) 85) dialog: Gram Parsons? Is Gram Parsons dead?
+21) 89) dialog: He said someone took Gram Parson's body. Two people...
+21) 93) dialog: Schedule? What schedule?   There is no schedule...
+21) 96) text: Larry looks horrified.
+21) 98) dialog: Package?   We've stolen that man's son.
+21) 103) dialog: I don't know what you take me for. I want to see in that box.
+21) 104) text: Larry walks round to the back of the car.
+21) 107) text: Larry swings open the back window and pulls at the casket
+21) 109) dialog: It's heavy.
+21) 117) dialog: I said it's heavy.
+21) 121) dialog: Yeah, I remember.    Finest poplar.
+21) 122) text: Larry slides the top of the casket off and looks inside. He recoils.
+21) 124) dialog: Jesusjesusjesus...
+21) 128) text: Larry is staring at him with horror.
+21) 130) dialog: Oh my God.     You stole Gram Parsons.
+21) 135) dialog: I stole a coffin, I didn't know there was a body in it.
+21) 138) text: As the enormity of the news starts to sink in, Larry hops up and down in panic. Phil watches him.
+21) 144) text: Larry is losing control.
+21) 146) dialog: I don't know! What am I doing? I mean... What-am-I-doing? Why am I here? Why am I with you? WHAT IS GOING ON?
+21) 150) dialog: I thought it was bad enough when I ran over the cop's bike, but now I'm a fucking body snatcher.
+21) 152) text: Larry goggles at him.     His voice takes on a level of hysteria.
+21) 154) dialog: Go? You go. I tell you what I'm going to do. I'm going inside and I'm going to give that man his son back. I'm going to do the right thing, I'm going to follow my conscience, I'm going to...
+21) 155) text: Larry walks towards the bar, then quick walks, then runs. Phil tackles him around the legs and they both fall. Larry's head hits the ground hard and he lies there unconscious.
+21) 210) text: Phil is getting very tired, his vision is blurring and he shakes his head to wake himself up. He glances across and sees that Larry is awake and staring at him.
+21) 214) dialog: So why d'ya do it?
+21) 218) dialog: Have a guess.
+21) 223) dialog: What, cruise around the desert until he starts to smell? Were you - both bombed?
+21) 231) dialog: Of course I have friends.
+21) 235) dialog: Anything, within reason.
+21) 238) text: Larry is confused.
+21) 240) dialog: Tell me something - if it was the other way round, would Gram be sitting here, driving your bones out into the desert?
+21) 243) dialog: Well?
+21) 245) text: Phil rubs his eyes, tired. Suddenly, Larry smashes Phil across the head with a bottle of Jack Daniels. Phil slump back in the seat and Larry, dropping the bloodied weapon, reaches across to grab the wheel and slow the hearse.
+21) 252) text: Bernice fishtails across the road as Larry struggles to retain control. It eventually slides to a halt. Larry gets out and runs round to the drivers' door.
+21) 255) text: Larry stares down at Phil.
+21) 257) dialog: Ohmygod.
+21) 259) dialog: You made me do it, you bastard! I've never hit anyone in my life, but you pushed and you pushed and... you gave me no choice.
+21) 260) text: Larry prods Phil to ensure he's unresponsive.
+21) 267) dialog: Shit.
+21) 270) dialog: Shit.   Shitshitshit.
+21) 276) text: Phil is motionless, and Larry peers out into the darkness as the car limps on, lit only from the light of the moon. Larry sees a glow in the distance ahead, and drives towar a neon sign; 'Welcome to the Joshua Tree Inn'.
+21) 282) text: Bernice glides to a stop in the bay next to Stanley's car Larry gets out and looks around. After a moment, he walks over to the door of room eight and knocks.
+22) 4) dialog: Hi.
+22) 9) dialog: Um. I'm one of the guys that took your son.
+26) 1) text: Larry and Stanley are sitting on the bed.          Phil s vicious look at Larry.
+26) 21) dialog: Well, I didn't even know he was in the box.
+26) 85) text: He starts to cry. Larry shoots an imploring look at Phil. Barbara glances around the room.
+26) 88) text: She gestures at Phil and Larry.
+26) 130) dialog: Yes.    Yes I am.
+26) 131) text: Phil closes his eyes. Stanley picks up the receiver and starts to dial. Then Phil jumps up off the bed and walks out of the room. After a moment, Larry and Susie follow.
+27) 7) text: Larry gives Phil the screwdriver.
+27) 9) dialog: I can't do this.      This isn't right.
+27) 10) text: Larry walks away leaving Phil with Susie.         He look
+28) 12) text: Larry and Susie quietly enter the room.
+28) 24) dialog: Mister Parsons?
+28) 29) dialog: I've been a junkie for over four years. I started taking heroin on June 5th 1969 at a concert in Indiana. I...
+28) 32) text: Larry holds his hand up to stop Stanley.
+28) 34) dialog: I've taken heroin, speed, uppers, downers, blues, morphine, methadone, mushrooms, quaaludes, acid, valium, barbiturates, straight LSD, marijuana, marijuana laced with opium, nembutal, mescalin of course, and medical methaqualone, which made me shake uncontrollably for six weeks and vomit every hour.
+28) 37) dialog: Not my point.
+28) 41) dialog: I started working my way through that list on June 5th 1969, and since then there hasn't been a day when I didn't at least smoke one joint.
+28) 42) text: Phil shoots Larry a dangerous look.
+28) 48) text: Larry ignores him.
+28) 50) dialog: And now I've stopped. I stopped because it seems that I had something more important to do.
+28) 53) dialog: He's doing this because he gave his word. I'm prepared to do this now because I think it's right. And because I believe that each body has a soul. And Gram's soul doesn't belong in a family plot surrounded by strangers. It belongs here, where he was happiest.
+28) 57) text: Everyone looks surprised. Phil gives Larry a look of appreciative approval. Barbara starts to kick furiously a the door from inside the bathroom. Stanley pauses for a moment, and then walks outside. Phil and Larry watch him go, and Susie walks over to kiss Phil.
+28) 63) text: The three of them move to the door, and Phil turns to Larry.
+28) 67) dialog: Of course not.
+28) 73) dialog: I may have got a little carried away...
+28) 79) text: Phil, Larry and Susie leave room eight. They look around with surprise, but there is no sign of Stanley. Phil open the back of the hearse and takes a quick peek inside the casket.
+28) 83) dialog: Yeah, he took the body and stuffed it in the trunk of his car before escaping into the night.
+28) 84) text: Larry is already behind the wheel.   Phil opens the car d and looks at Susie.
+28) 128) text: Larry pulls the hearse over near the rock. They all sit there for a moment. Phil and Larry look at each other.
+28) 131) text: Phil opens the back of the hearse and slides the casket o of the car. He notices that Larry has made no move to help. Susie sits on a rock and watches.
+28) 134) text: Larry walks over and grabs the other end of the casket. They walk it away from the car and lay it down. As they lower it, the coffin slips out of Phil's hands and bangs down in the sand.
+28) 139) dialog: What now?
+28) 145) dialog: Why?
+28) 149) dialog: I can't believe you just said that. I'm not taking the top off.
+28) 163) text: Against his better judgment, Larry walks over and peers inside.
+28) 165) dialog: Well, I don't know.   Maybe a little more.
+28) 172) dialog: I think that'll do it.
+28) 196) text: Phil, Larry and Susie pick themselves up. They stare at the pyre. Phil is close to tears, and Susie puts her arm around him. For a moment, Phil thinks he sees the flames morph into the shape of an angel over the burning coffin. The image disappears when Larry speaks.
+28) 198) dialog: Maybe too much fuel.
+28) 204) text: Larry and Susie run to the car. Phil lingers a moment, looking down at the flames. Then he follows the others.
+28) 299) text: And Gram is now Larry, peering down at Phil.
+28) 301) dialog: All what worked out?
+28) 305) text: Phil sits bolt upright and looks around the car.   Larry Susie stare back at him.
+28) 314) text: Phil turns off the ignition and sits back in his seat. and Larry look at each other.
+28) 316) dialog: Well, we did it.    We saved a soul.
+28) 322) dialog: Well, shall we?
+28) 342) text: Phil pats Bernice's battered wing as he walks away and ov to where Larry is waiting. They cross the road and walk into a building through heavy wooden doors. Pull back to reveal a sign: 'Los Angeles Police Department'. FADE UP ON SUPER: Phil Kaufman and Larry Osterberg appeared in West L.A. Municipal Court on November 5, 1973 Gram Parsons's 27th birthday. Since a corpse has no intrinsic value, the two were charged with misdemeanor theft for stealing the coffin and given a token punishmen $708 in damages for the coffin, and a $300 fine for each the bodysnatchers.

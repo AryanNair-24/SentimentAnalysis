@@ -1,0 +1,31 @@
+70) 2) dialog: (glancing up from  report) [We're just gotten information from  our resident in Zurich that the CIA  head of station there has deposited  letters of credit in the amount of  fifty million dollars into the account  of a Mister Paulo Ortega... It would  appear the Americans are dangling a  very impressive bait for what I can  only assume is a very juicy fish. I  want to know who this Paulo Ortega  is and what he's going to give the  CIA that is worth so very much money.  And then we'll see what we can do  about that.]
+80) 0) text: A HEAD KGB OFFICER is with a KGB AIDE. He reads a report.
+80) 1) dialog: [It seems our friendly bank manager  in Zurich has received instructions  to put a new name on the account of  our mysterious Mister Paulo Ortega...  Agnieska Kozinski. Does the name  sound familiar?]
+80) 3) dialog: [I ran a check on her. She's a French  national... originally Polish. She  was a girlfriend of Carlos.]
+80) 5) dialog: [The question is... is he still our  Carlos. Or is he about to become  someone else's.]
+124) 0) text: The Head KGB Officer is there with his aide. Both look as they've been up all night.
+124) 2) dialog: [If it was Carlos and he sent for  the girl... and she betrayed him...  Well... we should keep watch on the  girl. What he does about her will  tell us more than anything else.]
+128) 0) text: The Head KGB Officer is there. The Head KGB Officer has a file opened on his desk. In it are photographs of Ramirez jumping out of the apartment in Libya. None of the photog show his face clearly so there's no way of telling who it is. Just then the Aide comes in and hands a telex to the  Head KGB Officer.
+128) 1) dialog: (reading it) [When?]
+128) 3) dialog: [So now we know... it was Carlos.]
+128) 5) dialog: [We still have to tie him to the  CIA... if that is what's going on. I  won't make a move against him until  I know for sure.]
+128) 7) dialog: [Because my dear boy... four of his  colleagues shot in Libya, plus the  DST and now the girl. He's a very  dangerous fellow. One doesn't make a  move against such a man until one is  sure. And then one must move very  quickly and kill him... before he  has a chance to kill you.]
+159) 2) dialog: (orders the technicians) [Now Carlos.]
+159) 5) dialog: [The beard and moustache.]
+159) 11) dialog: [Match the nose. And get rid of this  wig...]
+159) 13) dialog: [Have you identified the one he was  meeting with?]
+159) 15) text: The Head KGB Officer turns to his Aide.
+159) 16) dialog: [Get me the MFS on the secure phone.  I want them out of the way.]
+160) 0) text: It opens slowly. One by one, a half dozen MFS -- includin the two we've seen earlier -- sneak out. Just as furtivel armed KGB -- led by the Head KGB Officer and his Aide mov in through the still-open door.
+161) 1) text: Reaching the upper floor, they hear the muffled sound of  RHYTHMIC MUSIC coming from the far end of the hallway to  their right. The Head KGB Officer motions his Aide to mov into the corridor to their left. He does, taking three KG with him. Four others -- including Andrei and Ivan -- fol the Head KGB Officer into the hallway to their right.
+164) 0) text: TWO more JAPANESE in the midst of a Go game meet the same fate. A burst from Head KGB Officer's automatic finishes  them off.
+166) 2) dialog: (whispering) [Quick! Quick!]
+167) 2) dialog: (sarcastic) Don't even think about it. It would  deprive the KGB of the pleasure of  interrogating you.
+167) 6) dialog: What? That we were your new friends...  The CIA... Jack Shaw...
+167) 8) dialog: Stop playing games. And it's no use  looking behind me... Your associates  can no longer be of assistance. Not  to you, not to anyone...
+167) 10) dialog: You've got it all wrong, Illich.  It's you who has all the explaining  to do... Now get dressed! (to the blonde) You too, Fraulein.
+167) 12) text: The Head KGB Officer motions to Andrei, who throws Carlos his pants -- but not before checking to make sure there's weapon in them. He then hands the blonde -- who finally h her bazooms behind a sheet -- her clothes.
+167) 14) dialog: Enough. We tailed you to your meeting.  We have the pictures of you with  Shaw.
+167) 18) dialog: (unimpressed) We know about your women... Now hurry  up, both of you!
+167) 22) dialog: WAIT!
+167) 23) text: Too late. The Scorpion machine-pistol is already out, spo deadly accurate fire. He kills the Head KGB Officer first then...

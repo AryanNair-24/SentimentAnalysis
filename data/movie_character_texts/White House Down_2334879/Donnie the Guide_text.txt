@@ -1,0 +1,26 @@
+29) 0) text: Cale and Emily stand with a tour group of ten. At the fro stands DONNIE THE TOUR GUIDE (40's). Way too chipper.
+29) 1) dialog: I'm Donnie and I'm going to be your guide today as we take a walk through American History! First I want to give you a big Washington DC welcome to the White House, where we get millions of guests a year from all corners of the globe! (to Cale) Where are you folks from?
+29) 3) dialog: Okay, bad choice. (to a Fat Woman) How about you, ma'am?
+29) 5) dialog: And what brings you to the White House today?
+29) 7) dialog: Unfortunately, those don't exist. (the Fat Woman is crestfallen) But we do have some other really exciting sights to show you! If you'll follow me?
+30) 0) text: A beautiful solarium with a corner windows looking out on the South Lawn of the White House. Bright and sunny. As Donnie talks he leads them through.
+30) 1) dialog: Does anyone want to guess how old the White House is? (sees Emily raising her hand) Young lady?
+30) 3) dialog: That's... very accurate. Construction was begun in 1792 on what was then called the President's House. Article One, Section Eight of the US Constitution set forth that a district of not more than ten miles square should house the new seat of government. Does anyone know why?
+30) 5) dialog: Right again. The founders were crafty. They figured if the President lived in one state then he would be beholden to that state above all others. But if he lived in a district separate from all of them, then he and his government could serve all the United States equally and fairly. In many ways, the entire city of Washington, the whole District of Columbia, was built from the ground up in order to hold this one house. 24. As they step into
+31) 1) dialog: The White House is actually three buildings; the East Wing, where you came in, the West Wing, which houses the Oval and Executive offices of the President, and the Residence, which is the big famous building in the center. These three buildings are connected by two long hallways called colonnades; we're in the East Colonnade right now. The colonnades were originally built by Thomas Jefferson to house horses, but now function to connect the complex together. And trust me, it needs connecting - the White House is big. Including below ground levels, the White House is six stories tall, with 132 rooms, 412 doors, 147 windows, 28 fireplaces, 8 staircases, 3 elevators and 35 bathrooms. The grounds contain a tennis court, a basketball court, a putting green, a jogging track, and a swimming pool. They pass an open door, hearing hammering and drilling.
+31) 3) dialog: The President's home theater. (smiles) Membership has it's privileges. Cale glances inside, as seven burly SOUNDTEK WORKMEN dril holes into the walls of the theater...
+34) 0) text: Cale, Emily, and the rest of the tour exit the Colonnade into the Visitor's Foyer as Donnie continues.
+34) 1) dialog: Besides being a national landmark, the White House also happens to be a technological marvel. Underneath the West Wing is the Situation Room, the most sophisticated military command center in the history of warfare. And underneath the East Wing is the PEOC or Presidential Emergency Operations Center, the single most secure room on the planet. It's a vault built behind ten feet of concrete and steel capable of surviving a thermonuclear blast and equipped so the President and his staff could run the country from inside for six months without leaving.
+34) 3) dialog: (completely serious) Next to the Vault.
+36) 1) dialog: We're now entering the Center Hall of the Residence. The President and First Lady live on the second and third floors, the Ground Floor and State Floor are dedicated to public rooms. To your left is the Library and to your right is the Vermeil Room, which houses the portraits of several of the most prominent First Lady's who have lived here. Pictures are actually permitted, so snap away. Emily goes to take pictures of the Vermeil Room. how happy she is.
+36) 4) dialog: Watercolor by George Munger. It's to commemorate the burning of the White House by the British in 1814.
+36) 6) dialog: In the war of 1812. It practically had to be rebuilt from the ground up. A tugging on Cale's arm.
+36) 8) dialog: There's a ladies room upstairs, but I can't take the tour up there for another fifteen minutes.
+50) 3) dialog: Upstairs, across the Hall second door on the left-
+97) 0) text: The hostages are led down the stairs, through a low lit carpeted hallway to the SITUATION ROOM. Emily walks next Donnie the Tour Guide, who is entranced.
+97) 1) dialog: Wow...
+97) 3) dialog: They never let us in here on the tour. Emily stares at him. He's having a ball...
+182) 0) text: The Guards checking their weapons. Emily hears the commot in the corridors. Whispering to Donnie:
+240) 2) dialog: What are you going to do to her? Stenz ignores this. Moves for Emily. Donnie steps between them, using every last bit of courage he has.
+240) 3) dialog: You're going to have to go through me. 116. Stenz pauses. Seems to consider this for a moment. Then pulls out his pistol and SHOOTS Donnie in the stomach! Emily screams. Donnie falls. Stenz grabs Emily and drags her from the room...
+256) 2) dialog: They took her to the Oval Office! Cale looks around to the others.

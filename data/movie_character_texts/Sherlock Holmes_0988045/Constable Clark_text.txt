@@ -1,0 +1,21 @@
+45) 9) dialog: Inspector Lestrade asks that you come with me, at once.
+45) 16) dialog: It's Lord Blackwood, sir. It                      appears he's come back from the                   dead.
+45) 19) dialog: A groundsman saw him walking                      through the graves, just this morning.
+75) 0) text: Holmes sits beside a COP, and opposite CONSTABLE CLARK.
+75) 8) dialog: Well, it's a good thing she was offended or we'd never have found you. The inspector's been over to Baker Street himself this morning. The coach stops.
+76) 0) text: Holmes steps out of the coach, and is escorted inside by Constable Clark.
+77) 0) text: Holmes is briefed by Constable Clark as they enter. As Constable Clark continues in, Holmes swivels away --
+77) 1) dialog: We've checked everything. No sign of a break-in. The Butler didn't hear anything. The body was in the tub, eyes wide open -- -- so that Const. Clark ends up talking to thin air.
+77) 2) dialog: (realizing Holmes isn't there)
+92) 8) dialog: There's an order for your arrest all the way from the top, sir -- so you'll have to hit me now.
+92) 10) dialog: Yes, sir, so make it look good.
+138) 35) dialog: Mr. Holmes... Inspector Lestrade asks that you come with me, right away.
+138) 37) dialog: It's one of our sergeants, sir.                          He went missing in the sewers, the day you stopped Lord Blackwood... Well, a maintenance man found his body this morning. We believe the                        sergeant was our first man on the                        scene. Shot in the head.                                
+138) 39) dialog: Yes.                                                    
+138) 42) dialog: Indeed.                                                 
+138) 49) dialog: The secret service has it, sir.                           They've taken over the case.                             
+138) 52) text: Constable Clarke nods.   Holmes pulls his coat on.
+138) 66) dialog: We believe Sergeant Smith was the first officer there. SERGEANT SMITH sees a POLICEMAN leaning over the device.
+138) 68) dialog: Shot in the head.
+139) 2) dialog: He was shot at point-blank range. Holmes and Watson look at each other -- complete change of demeanor -- mind racing, looking concerned. The dog has regained its vital signs.
+139) 5) dialog: The secret service has it, sir. They've taken over the case.

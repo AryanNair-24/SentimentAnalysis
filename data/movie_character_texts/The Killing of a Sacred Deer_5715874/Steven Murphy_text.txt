@@ -1,0 +1,317 @@
+0) 0) text: STEVEN, a cardiothoracic surgeon, around 45 years old, MATTHEW, an anaesthetist of around 55, and three SURGICAL NURSES are leaning over the chest of a patient. They are performing open heart surgery. We follow the surgical instruments as they explore the patient’s internal organs The surgeon’s movements are precise, considered. The procedure unfolds in perfect synchronicity. No one misses beat. The only sounds are the clink of metal instruments, doctors’ breathing, and the electronic beep of the heart monitor.
+1) 0) text: Steven and Matthew stand at a sink, washing their hands. Their scrubs are splattered with blood. The overhead ligh is harsh. The anaesthetist takes his watch out of his poc and puts it on. The surgeon takes the anaesthetist’s hand studies his watch. Steven Nice watch. Matthew Thanks.
+1) 1) dialog: What’s the water resistance?
+1) 4) dialog: I might have gone for a metal strap instead of a leather strap.
+1) 6) dialog: Yes. I think I’d prefer a metal strap. I’ve had this one for years and it’s as good as new. He shows Matthew the watch he’s wearing, which has a meta strap. Matthew studies it carefully.
+1) 8) dialog: 100 metres.
+1) 10) dialog: Nine years. I’m a bit bored of it, actually. I’ve been thinking about getting a new one for a while now.
+2) 0) text: Steven unlocks the door to his office. A small room with chairs, a two-seater sofa, and a metal locker. He opens t locker, takes off his white coat and hangs it up. He puts a blazer and picks up his leather briefcase.
+3) 0) text: Steven sits in a Burger King, waiting for someone. He sip soft drink. There are barely any customers, it’s a slow t of day. On the table in front of him is a small piece of apple pie. MARTIN, a teenage boy, rushes over to Steven's table. His face is flushed and his T-shirt is patchy with sweat. Martin, around 15, is dressed like a typical teena He has a nondescript face, not particularly likeable but unlikeable either.
+3) 2) dialog: Hi.
+3) 6) dialog: Sure. No problem.
+3) 8) dialog: No, thank you. I’m fine. Do you have money? I can give you some.
+3) 10) dialog: Did you get a haircut?
+3) 12) dialog: It looks great. A beat of silence.
+3) 13) dialog: Aren’t you going to eat your chips?
+3) 15) dialog: Why?
+3) 17) dialog: I do that too. Martin finishes his burger then starts eating his chips. leaves half of them untouched and pushes his plate away.
+3) 20) dialog: Yes, definitely. Don’t worry.
+4) 0) text: Steven and Martin are standing beside the car. It is park near the sea. The weather is fine, the sea calm. A few pe are swimming. The boy takes off his jacket.
+4) 2) dialog: It doesn’t matter.
+4) 4) dialog: It’s fine.
+4) 6) dialog: I hope you were wearing helmets.
+4) 8) dialog: I got you a present. Steven hands Martin a small box. The boy opens the box. Inside is a new watch. It’s the same one the anaesthetist wearing.
+4) 11) dialog: It’s water resistant up to 200 metres.
+4) 13) dialog: It comes off, yes. You can put on any strap you like. But metal ones are more hard-wearing, that’s why I got you the metal strap. It’s more expensive too.
+4) 16) dialog: Yes.
+4) 18) dialog: We'll see.
+4) 20) dialog: I don’t know, darling. Your mother and I will discuss it and we’ll see.
+4) 22) dialog: Yes, I remember.
+4) 24) dialog: Fine. How about you?
+4) 26) dialog: Yes. Good for her.
+4) 28) dialog: Bob, you promised me you'd get a haircut and you still haven’t done it.
+4) 30) dialog: Tomorrow.
+4) 35) dialog: No. Friday after five is fine. Thank you.
+5) 0) text: Anna is sitting in front of the mirror, removing her make Steven is lying in bed in his pyjamas, looking at somethi on his phone. The room is dimly lit.
+5) 2) dialog: The black one?
+5) 4) dialog: Yes. The other one looked great on you too, but I think the black one was perfect.
+5) 6) dialog: You’ve got great legs. You’ve got the most beautiful legs of any ophthalmologist anywhere in the world.
+5) 10) dialog: Not even the kids?
+5) 12) dialog: Yes.
+5) 14) dialog: Kim could handle that just fine.
+5) 16) dialog: Yes, you did. Bob would be a coal miner if you were one too. Do you mind if I turn the light off? Anna gets up and kisses him on the mouth for a long time.
+6) 0) text: Steven is examining a PATIENT. There is a knock at the do Steven’s SECRETARY enters.
+6) 2) text: I’ll be out in five minutes. Tell him to wait. 10 INT. HOSPITAL - CORRIDOR —- MORNING Steven sees Martin waiting for him in the corridor. He ta him to one side.
+6) 3) dialog: Look I’ve told you, it’s best not to come to the hospital without calling me first.
+6) 5) dialog: Martin. Come here. What kind of strap did you get?
+6) 7) dialog: Show me. Martin hesitates at first, then shows him the watch.
+6) 8) dialog: It’s very nice.
+6) 10) dialog: I really like it. Next time you want to come here, please call me first. You have my number. It’s for your own good. I might be with a patient or in surgery or ina meeting. There’s no point you waiting around if I can’t see you. I’m telling you for your own good.
+6) 11) text: Okay. Matthew walks past, holding a patient’s file. to Steven and puts on his reading glasses.
+6) 13) dialog: Good morning, Matthew.
+6) 15) dialog: Of course, Matthew. Please leave it on my desk. I’1l have a look ina minute. Martin looks at the anaesthetist.
+6) 17) dialog: Let me introduce you. This young man is one of my son’s classmates. I ran into Martin and his parents at the mall last week. He told me he’s very interested in medicine. He wants to be a cardiologist. I suggested he drop by some time, so he can see what being a doctor is really about. Martin, this is Matthew, a great friend of mine and an excellent anaesthetist.
+6) 20) dialog: I’ve got to go back in now. We'll talk on the phone to arrange our next meeting. All right? 10. He comes over shows him his 11 11.
+6) 22) dialog: I think your breathing has really improved over the last few months.
+6) 24) dialog: Did you tell him to move you closer to the front?
+6) 26) dialog: Did you water the plants, Bob?
+6) 28) dialog: Your mother works very hard. That’s why we said it would be nice to help her as much as we can, and we agreed that Kim would take care of walking the dog and you would take care of the plants.
+6) 30) dialog: You're too young to be wandering around at night by yourself. 12. Bob gives the comb to Kim.
+6) 34) dialog: Tell Bob to water the plants now that the sun has gone down.
+7) 0) text: Steven is at the podium giving a speech. The conference h is quite evidently full of doctors.
+7) 1) dialog: A full 22 years have passed since the German cardiologist Andreas Gruentzig performed the first coronary angioplasty, on 16 September 1977. Today, that first patient is still alive and well. Dr. Gruentzig, however, had an unfortunate accident and met with an untimely end. In short, he is one of those rare cases where one can say: “The operation was a success, but unfortunately the doctor didn’t make it.” Scattered laughter in the audience. The doctor chuckles a takes a sip of water before he continues.
+7) 2) dialog: In the two decades that have passed since that first coronary angioplasty, many things have changed. The indications for angioplasty are more widespread, alternatives to the classic balloon method have been developed, and an angioplasty during the acute phase of a heart attack is practically a routine operation nowadays. (MORE )
+7) 4) dialog: But now let’s touch upon the importance, both for us doctors and for our patients, of the development and use of the stent. Anna watches her husband with pride. Matthew, sitting nex her, gets up.
+8) 0) text: Steven is talking to Anna, Matthew and an ELDERLY MAN, wh holding a flamboyant cocktail.
+8) 2) dialog: No, thank you.
+8) 12) dialog: We've got surgery in the morning.
+8) 15) dialog: Our daughter started menstruating last week.
+8) 17) dialog: Yes. She was a little scared, but she’s okay now. You haven’t seen her in ages.
+8) 20) dialog: Yes.
+9) 0) text: Steven is eating an ice cream with Martin. The doctor sta at the boy’s wrist as he eats his ice cream. 15.
+9) 1) dialog: You're not wearing your watch.
+9) 3) dialog: It’s water resistant up to 200 metres.
+9) 5) dialog: If you don’t like it, we can go back to the shop and you can choose one that you do like.
+9) 7) dialog: Do you have many friends?
+9) 9) dialog: Your father was absolutely right.
+9) 11) dialog: I'd like to ask you a favour. Only if you want to of course, I don’t want you to feel any pressure or obligation. It just seemed to me like a good idea, so I thought I'd ask. He hesitates for a moment.
+9) 12) dialog: I'd like you to come by my house one day. To meet my wife and children. I think you’d all get along really well, especially with Bob. They’re both lovely kids, I think you'll get along great. What do you think? Like I said, I don’t want to pressure you, come only if you'd genuinely like to. Martin looks at him for a few seconds without saying anything.
+10) 0) text: Martin enters the front garden of Steven’s house. He is carrying a bunch of flowers and a plastic bag. He rings t doorbell. Anna opens the front door.
+11) 0) text: Martin goes out into the back garden with Anna. Steven wa over to greet him.
+11) 1) dialog: Hi, Martin. Did you find the house all right?
+11) 3) dialog: You’ve met Anna. Now let me introduce you to my children. This is Bob. And this is Kim.
+11) 5) dialog: That’s very kind of you. Martin takes two small boxes out of his plastic bag and g them to Bob and Kim. They start unwrapping the presents.
+13) 5) dialog: That’s a great idea.
+13) 10) dialog: You're welcome to spend the night, if you like. We can easily fit a mattress on the floor next to Bob’s bed. You can play together in the morning and I'll drop you back home tomorrow afternoon.
+13) 12) dialog: Whatever you like.
+13) 17) dialog: Isn't he?
+13) 19) dialog: Car crash.
+13) 21) dialog: I will. He'll be great company for Bob. I thought next time I could take them both out somewhere, for a bike ride.
+14) 0) text: Steven goes out into the corridor. He tries to speak quie
+14) 1) dialog: Hello?
+14) 3) dialog: I'm fine, Martin. Has something happened?
+14) 5) dialog: I’m very pleased to hear that.
+14) 7) dialog: That's very kind of you. We’1ll do that someday.
+14) 9) dialog: All right. Around nine.
+14) 11) dialog: No, there’s no need.
+14) 13) dialog: Yes.
+14) 15) dialog: Good night. 23 24 25 24.
+15) 0) text: Steven pulls off his bloodied surgical gloves. He washes hands and then applies steriliser. Matthew, standing besi him, takes off his disposable hat, gloves, and surgical m and throws them in the bin.
+15) 2) dialog: I’d love to. I’1l talk to Anna tonight to check we can make it and let you know.
+15) 4) dialog: Yes, she does.
+15) 6) dialog: No, she isn’t. She loves fish.
+16) 0) text: Steven approaches his car. The car park is fairly dark. Steven gets into his car and switches on the engine. As h pulls away, he sees a figure moving behind some parked ca It looks like Martin. He’s wearing the same jacket as Mar but we can’t see his face. As Steven drives towards him, figure runs towards the fire escape, opens the door, and disappears.
+17) 0) text: Steven, Martin and MARTIN’S MOTHER have just finished din Martin’s mother is around 45 years old, a little plump, a has a beautiful face. She is dressed rather formally and heavily made up. The living room is spacious and decorate a conventional style. Everything is just so. Martin drain glass of lemonade. His mother clears away the dishes and takes them into the kitchen. 25.
+17) 1) dialog: Did you come to the hospital today?
+17) 3) dialog: I was, but I was really busy. I just wondered whether you came by and couldn’t find me. Martin’s mother returns.
+17) 6) dialog: I'm afraid I have to be getting home soon. I can’t be out too late. I didn’t tell my wife I’d be late tonight and she might get worried.
+18) 0) text: Steven, Martin, and Martin’s mother are sitting on the so watching the film. She looks rapt. Martin yawns.
+18) 4) dialog: Good night. Sitting on the sofa side by side, Steven and Martin’s mot carry on watching the film for a while.
+18) 6) dialog: I love him too.
+18) 8) dialog: 16 years.
+18) 10) dialog: Thank you.
+18) 12) dialog: Really?
+18) 14) dialog: Thank you very much.
+18) 16) dialog: Of course.
+18) 18) dialog: Yes.
+18) 20) dialog: I think it’s nicer now.
+18) 22) dialog: Yes, it’s good.
+18) 24) dialog: No, thank you.
+18) 26) dialog: I have to go. It’s late. Thank you for dinner. I have to go. Have a good night.
+18) 29) dialog: I’m afraid I really have to go. Good night. The doctor gets his coat and bag and walks out. INT. HOSPITAL - STEVEN’S OFFICE - MORNING Steven walks into his office. Martin is there, sitting in chair. The doctor is startled to see him. He stands in th doorway holding his bag. Martin smiles at him.
+18) 31) dialog: What are you doing here? Why aren’t you in school?
+18) 33) dialog: What do you mean?
+18) 35) dialog: There’s no reason for you to be worried.
+18) 37) dialog: You're too young to be worried.
+18) 42) dialog: We'd shave the hair off first.
+18) 44) dialog: I don’t know. About a month, I suppose.
+18) 46) dialog: I probably do have a bit more hair than you do because I’m older than you. But you’1l soon have more hair too. It’s all down to hormones.
+18) 51) dialog: Thank you very much, but I’m afraid I can’t make it tonight. I need to be home.
+18) 53) dialog: I'm afraid not. Some other time.
+18) 55) dialog: Your mother is very beautiful, but the idea that she and I could ever be together is ludicrous. Let me remind you that I’m a married man and I love my wife very much, and my kids, and that we are very happy together. The boy looks at Steven, half sad and half angry. Tears w up in his eyes.
+18) 56) dialog: And for your information, you're absolutely fine. There’s nothing wrong with you. But you really should stop smoking. Do you promise? Martin stands up.
+18) 58) dialog: You couldn’t be healthier. Now you'd better go because I’m late for my rounds. Let’s talk tomorrow or the day after and arrange to meet again. Steven heads towards the door.
+18) 60) dialog: We'll talk about it next time we meet.
+19) 0) text: Steven and Matthew are standing over the steelhead trout. Matthew is gutting the fish. Steven watches him, drinking ginger beer from a bottle.
+20) 4) dialog: I was inside, making a phone call.
+20) 6) dialog: Do you need a hand?
+20) 8) dialog: Martin?
+20) 10) dialog: Where did you see him?
+20) 12) dialog: That's impossible. It can’t have been him.
+20) 14) dialog: You should go see Anna and get your eyes checked. Take my piece off the grill, will you? I don’t like it overdone. INT. STEVEN’S HOUSE - LIVING ROOM - NIGHT Steven is sitting on the sofa, stroking the dog. He is ea a sandwich. He feeds the dog some ham. The door opens and walks in.
+20) 16) dialog: Hello, darling. Where have you been?
+20) 18) dialog: Have you eaten?
+20) 20) dialog: You don’t have to take the dog for a walk. I took him out already. We got back a little while ago.
+20) 23) dialog: Who, darling?
+20) 25) dialog: Martin who?
+20) 27) dialog: Yes, he is very funny. Kim, I don’t want you riding on motorbikes without a helmet.
+20) 29) dialog: Why didn’t you ask him to come in?
+20) 31) dialog: She's taking a shower. Is there something you need?
+20) 33) dialog: Good night.
+21) 0) text: Martin is standing on the pavement opposite Steven’s hous He watches the house with a blank expression that betrays emotion. He is holding a helmet under his arm. His friend motorbike is parked beside him. It’s a red HONDA CRF. The light in the living room goes off. INT. STEVEN'S HOUSE - KITCHEN —- MORNING Steven, Anna and Kim are having breakfast. Bob is not the Steven seems agitated.
+21) 9) dialog: Did you wake up Bob?
+21) 11) dialog: He’ll be late. Have you seen the time? The school bus will be here any minute. Steven gets up and goes to get Bob out of bed.
+22) 1) dialog: Robert, do you have any idea what time it is? Get up and get dressed.
+22) 3) dialog: You have ten minutes to get washed, dressed and eat your breakfast. I’m not going to drive you to school and neither is your mother.
+22) 5) dialog: Bob. Get up and get dressed and stop messing about. Steven goes to leave the room.
+23) 0) text: The garage door opens automatically. Steven lifts his son into the car. Anna helps him. She closes the back door of car and then gets into the driver's seat. EXT. HOSPITAL ENTRANCE —- MORNING Steven lifts Bob out of the car. He puts a hand around hi shoulder and practically carries his son into the hospita Anna follows them inside. INT. HOSPITAL - NEUROLOGIST’S OFFICE - MORNING DR. ANDREW NICHOLS, a neurologist, is examining Bob. The is lying on a hospital bed. His shoes are off. Steven is sitting in a chair, watching the whole procedure. He trie crack a joke to reassure his son.
+23) 1) dialog: I hope you washed your feet yesterday, Bob, because Dr. Nichols punishes boys who don’t wash between their toes. He gives them injections with big fat needles.
+23) 3) dialog: I didn’t know that. Really?
+24) 0) text: Anna is waiting in the corridor. Steven and Bob go up to Bob is limping a little, but he can walk. 38.
+24) 2) dialog: Everything is absolutely fine. Andrew gave him a thorough neurological examination and he passed with flying colours. It’s nothing. You two go home and we’1l talk tonight. I won’t be late, my schedule is pretty light today. Okay?
+24) 4) dialog: There’s no need to bother with all that. He just got scared, that’s all. He’s absolutely fine. You’re absolutely fine, aren’t you?
+24) 6) dialog: I think there was probably some test at school today that we weren’t very well prepared for.
+24) 9) dialog: Another time, darling. I have to go down to the operating theatre right away. Steven kisses his son and walks away.
+24) 10) dialog: I've have to go. See you tonight. Call me if you need anything. Bye bye.
+26) 0) text: Bob is lying inside an MRI machine. Steven and Anna watch from behind a glass window. Dr. Nichols is taking notes. INT. HOSPITAL - PATIENT’S ROOM - NIGHT Bob is sleeping. Anna sits beside him. Steven stands talk to Matthew. There is a second bed in the room, but it is empty.
+26) 2) dialog: No. Why would I cancel? The schedule would go haywire. There's no need. Anyway, it’s nothing. The door opens and Dr. Nichols walks in.
+26) 5) dialog: I told you. I knew it.
+26) 8) dialog: Yes.
+26) 12) dialog: I don’t think there’s any need for that, do you Andrew? Tomorrow he’1l be well enough to walk all the way home.
+26) 18) dialog: Goodbye, Andrew. Thanks for everything.
+26) 20) dialog: I said no. Don’t go on about it.
+26) 22) dialog: Yes, I’m sure he’1l be thrilled.
+27) 0) text: Martin is riding his friend’s motorbike. Kim sits behind holding on tight. Neither of them are wearing helmets. Ma focuses all his attention on the road. Tears are streamin down Kim’s face, but it’s impossible to tell whether it’s from the wind or if she’s crying for some other reason. EXT. STEVEN’S HOUSE - GARDEN - NIGHT Anna is watering the plants. Kim comes out into the garde
+27) 13) dialog: He hadn’t when I passed by about an hour ago. He didn’t want to.
+27) 15) dialog: He didn’t want to pee.
+27) 17) dialog: He was asleep. I didn’t want to drag him out of bed. They stop outside the door to Bob’s room. INT. HOSPITAL - PATIENT’S ROOM - MORNING Steven and Anna enter Bob’s room. Martin is already there sitting next to Bob’s bed. Martin stands up.
+27) 23) dialog: Thank you very much. Anna goes over to Bob.
+27) 28) dialog: I don’t think I’1l have time today, as you might imagine. We’ll talk some other time.
+28) 0) text: Martin is waiting in the hospital canteen. Steven appears The canteen is packed with doctors, nurses and patients, seated at the tables.
+28) 2) dialog: I’ve only got ten minutes. I have to be back upstairs in ten minutes max.
+28) 9) dialog: Thank you very much, Martin.
+28) 11) dialog: It doesn’t matter. Thank you very much. A PARAMEDIC approaches the doctor.
+28) 13) dialog: Hello, Justin.
+28) 15) dialog: That’s great. You’ll have to take me for a ride in it soon.
+28) 18) dialog: Martin, I have to get back upstairs.
+28) 20) dialog: It’s nothing serious.
+28) 22) dialog: No, I don’t. Listen, Martin, I don’t have time for this. I have to be upstairs. Steven stares at Martin in silence. The boy looks around make sure nobody can hear them, that nobody is sitting to close.
+28) 26) dialog: Get up and get out of here and don’t you dare come back or call me ever again. Now. Before I hit you.
+28) 28) dialog: If you ever come anywhere near me, my wife, or my children again I will kill you, I swear.
+29) 0) text: Two security guards escort Martin out of the building. He heads towards the exit without putting up a fight. He gla over his shoulder and then walks out, zipping up his jack and smoothing down his hair. INT. HOSPITAL - PATIENT’S ROOM - EVENING Anna is sitting on the empty bed next to her son’s bed. S is reading him a book. Steven comes in and sits in a chai He is restless.
+29) 1) dialog: Has he eaten?
+29) 3) dialog: What do you mean he’s not hungry?
+29) 5) dialog: Come on, darling. Eat a doughnut.
+29) 7) dialog: You do, but you're afraid that your mother and I will tell you off for eating doughnuts. Come on, eat it. You have my permission. You have our permission. It’s okay for him to eat a doughnut, isn’t it Anna?
+29) 9) dialog: You heard your mother. Eat it. He prises Bobs lips open and shoves the whole doughnut in his mouth. Anna gets up and pulls Steven away from their 51 48.
+29) 11) dialog: That’s right. Chew it a bit. Now swallow. Bob spits the doughnut out.
+29) 13) dialog: He is going to eat it right now. He is completely run down, that’s why he keeps falling over and crawling around on all fours. He’s going to eat them, all of them. In five minutes flat, I want to see this whole box empty. Steven storms out of the room, slamming the door behind h as he goes. INT. HOSPITAL - DIRECTOR’S OFFICE - NIGHT Steven, Anna, Dr. Nichols and the HOSPITAL DIRECTOR are discussing Bob’s case. A FEMALE DOCTOR is standing beside them, along with Matthew. They have spread all of Bob’s t results out on the desk. The Hospital Director studies th test results thoroughly, in silence.
+29) 15) dialog: Some of the tests need to be done again, in my opinion. They haven't found anything, it’s not possible.
+29) 19) dialog: What do you mean? Shouldn’t we rule out all possible causes before we resort to the easy option of a psychosomatic disorder?
+29) 23) dialog: Anna, if Bob was short-sighted or had a cataract or glaucoma, then your opinion really would be valuable. But thankfully Bob’s eyesight is perfect. And I can honestly say that if he ever needed glasses, you'd be the first person I'd consult. But right now the boy can’t eat and is paralysed in both legs, so I’m afraid I’m not remotely interested in your medical opinion. Nobody says a word. Anna opens the door and leaves the ro
+30) 0) text: Kim puts on lipstick and brushes her hair in front of the mirror. She then sprays herself with a little too much perfume. INT. STEVEN'S HOUSE - KIM’S BEDROOM - NIGHT Kim and Martin are sitting on the bed, kissing. The bedro lights are on. Music is playing on the computer. Kim’s be made. Martin touches her breast.
+31) 0) text: Anna is marching angrily down the corridor. Steven follow her, holding a file of papers.
+31) 1) dialog: I’m sorry about what happened in there. 55 56 57 51.
+31) 3) dialog: I’m just so exhausted and stressed and...
+31) 5) dialog: You go home. I’m staying here.
+31) 7) dialog: I’m going to give him all the tests again. Every single one of them. I’m staying here. Go home.
+31) 9) dialog: Just go. Go to Kim, she’s by herself. I’1l come later. Go.
+32) 0) text: Steven pushes Bob along in a wheelchair. Bob looks groggy He’s half asleep. Steven marches manically up and down th hospital corridors.
+33) 0) text: Steven takes blood from Bob. He gives the blood sample to nurse.
+34) 0) text: Bob is lying inside the MRI machine. He disappears into t machine as Steven watches. 58 59 52.
+35) 0) text: Tired but wired, Steven stands next to a doctor who is gi Bob an abdominal ultrasound.
+36) 0) text: Steven pushes Bob back to his room in the wheelchair. Bob shattered, so is Steven. Abruptly, Steven stops pushing t wheelchair, lifts Bob up with both hands, puts his arms around him and walks him down the corridor, with the drip trailing behind them. Steven lets go of Bob and he falls the floor. Steven picks him up again. He kneels down in f of his son.
+36) 1) dialog: Bob, why don’t we play a game?
+36) 3) dialog: I'll tell you a secret, something I’ve never told you before, and then you’1ll tell me one. And whoever tells the best secret wins. Okay? When I was your age I'd just started masturbating and I’d only just started ejaculating. Only a little, barely a drop. I was worried that I had some kind of problem because at school I'd heard all sorts of stories. Then one day when my father had had a lot to drink and my brothers were out and he was sleeping in the bedroom, I crept inside, put my hand on his penis and started stroking it until he ejaculated. The sheets got covered in sperm. I got scared and ran out. I’ve never told anybody that before. Now it’s your turn to tell me a secret. Bob stares at his father, dumbstruck. An awkward silence.
+36) 5) dialog: That's impossible, you must have one. 60 53.
+36) 7) dialog: Bob, if all this is just an act, you should know that if you tell me now, I won't punish you and neither will your mother. We won’t be angry with you either.
+36) 9) dialog: But if it is an act and you don’t stop this stupid joke right this minute, your punishment won't just be no TV for a month. I will take my electric shaver and I will shave your head and I will make you eat your hair. I mean it, I will literally make you eat your hair. I’m not kidding.
+37) 0) text: Steven is asleep at his desk. His hair is tousled and his is undone. The door opens and Anna walks in. Steven wakes Anna hands him a takeaway coffee. They don’t say anything Steven has nothing to report.
+37) 2) dialog: Thank you.
+37) 5) dialog: No, thank you. Maybe you were right. Maybe it’s all psychological.
+38) 0) text: Anna is sitting outside Bob’s room, crying. Matthew hugs A nurse comes out of the room, pushing a food trolley. INT. HOSPITAL - PATIENT’S ROOM - AFTERNOON Kim and Bob are lying in adjacent beds. Steven is feeding pieces of fruit. Kim spits them out. Bob watches them, sl opening and closing his eyes. He looks as if he has just woken up. Their dinner plates lie untouched on trays.
+38) 2) dialog: Just one bite. For me. Kim chokes and her face flushes. She spits out the piece apple that Steven has fed her. INT. HOSPITAL - PATIENT’S ROOM - EVENING A nurse inserts nasogastric feeding tubes into the noses both children. Kim has calmed down, but looks exhausted.
+38) 4) dialog: All right, darling. What are you going to wear to Claire’s party, did you decide yet?
+38) 6) dialog: Where did you get this? Did Mum give it to you?
+38) 8) dialog: When did he give you this?
+38) 10) dialog: Good night.
+39) 0) text: Steven sits in his car, thinking. He opens the car door, out, and walks quickly and angrily across the road. He is outside Martin’s house. He sees a light on in the living room. The TV is blaring. Steven goes up to the front door rings the doorbell frantically. Nobody answers. He bangs the door with his fists.
+39) 1) dialog: Open the door. I know you’re in there. Open the door or I will smash it down. Martin. Open the door or I will smash it down and I will fuck you and your mother just the way you wanted. Steven tries to break in through the balcony doors, but doesn’t succeed.
+39) 2) dialog: If anything happens to my kids or my wife, you'll die in prison, do you hear me? You’ll die in prison. 56.
+40) 0) text: Anna is sitting on the steps outside the hospital. Steven stands beside her. He appears rather sheepish and speaks low voice. He avoids looking Anna in the eye.
+40) 2) dialog: 
+40) 5) dialog: He had an arrhythmia, a stroke, and that was it.
+40) 7) dialog: About six months.
+40) 9) dialog: What does it matter?
+40) 11) dialog: At a Burger King, then we'd drive to the seaside. He’s got issues, serious psychological issues. He always did. I knew he acted weird sometimes, but now he’s lost it completely, he’s become dangerous. We have to take precautions. Go to the police and take some precautions.
+40) 13) dialog: Only a little. That had nothing to do with the outcome. A surgeon never kills a patient. An anaesthetist can kill a patient, but a surgeon never can. For example, Matthew has made mistakes that led to the death of a patient, but I never have. Anna turns her head away. She doesn’t say anything.
+40) 14) dialog: I think Bob is a little better today. He seemed in a better mood and he wasn’t so pale. Anna does not respond.
+40) 16) dialog: At first I didn’t see him that often, it was only recently that we started meeting more regularly. I was going to tell you at some point. I felt sorry for him. I gave him some money. His mum is out of work.
+41) 0) text: Steven sits on the edge of his bed, naked and numb. His g is vacant - he looks completely blank. The room is relati dark. The curtains are drawn. Steven stands up and hurrie gets dressed.
+42) 0) text: Steven emerges from the front door of his house and finds envelope on the doormat, with his name written on it. He opens the envelope. 70 58. Inside is the watch he had given Martin, with a note. One the watch straps is missing. Snapped off. Steven looks in the envelope for the missing piece of leather, but it is there. The note, written in very neat handwriting, reads: “Time shows no mercy. By the way, you were right. Metal straps are better. Leather straps break.” INT. HOSPITAL - PATIENT’S ROOM - DAY Anna is sitting next to Bob’s bed. Kim is lying on her ba on the other bed. She is playing a game on her mobile pho Her legs are covered from the knees up with a sheet. Her are pointed. Exhausted, Anna rests her head on the metal frame. She strokes Bob’s legs.
+43) 0) text: Anna is talking to Steven. She is upset. He hugs her and tries to calm her down.
+43) 1) dialog: You’re tired. Go home and rest. I’m here now.
+43) 3) dialog: It was just a coincidence.
+43) 5) dialog: Darling, listen to yourself.
+43) 7) dialog: Okay. It just means things are getting better. That’s all it means. That Kim is getting better. Go home and rest for a bit. Please.
+43) 9) dialog: This afternoon there’ 11 be an emergency meeting of the medical board. Andrew and I took the initiative of inviting two outstanding specialists from the Presbyterian University Hospital of Columbia. They’ve already arrived from New York and I’m meeting them this afternoon to brief them about the case. One of them is actually a personal friend of the director. Dr. Johnston. You must have heard of him. He’s the best there is when it comes to paralytic disorders.
+47) 0) text: The medical council is underway. Anna, Steven, Matthew, t Hospital Director and Dr. Nichols are all present, as are VISITING CONSULTANTS. Anna looks defeated. She sits in a chair with her arms folded and watches the proceedings without saying a word. We cannot hear what is being said. watch the scene unfold through a window. 77 78 65.
+48) 0) text: The Hospital Director is saying goodbye to the visiting consultants. Steven and Anna also say goodbye. The consultants get into a car and drive off. The Hospital Director gives Steven a hug and pats him on the back.
+48) 2) dialog: You mean you think you’ve done everything you can?
+48) 4) dialog: Sorry, but if I was running this hospital I would feel like a complete failure. A loser. I wouldn’t be able to sleep at night. The Hospital Director looks at Steven then walks away.
+49) 0) text: Anna marches angrily along the corridor. Steven follows, trying to catch up. Suddenly, Anna falls over. Steven pan Anna gets back up.
+50) 0) text: Matthew’s car is parked on a deserted road on the edge of town. There are no pedestrians and very few cars. Anna st straight ahead as she jerks off the anaesthetist. He push his seat back to the reclining position. As soon as he co he pulls the chair forward, starts the engine, and they d off. EXT. STEVEN’S HOUSE - FRONT DOOR - AFTERNOON The front door is open. The children are being carried in the house with the help of two paramedics. Steven seems fairly optimistic as he manically rushes about, supervisi the procedure. INT. KIM’'S BEDROOM - AFTERNOON Kim's bedroom has been rearranged to accommodate both the children’s beds. The room is bright, the curtains have be pulled back to let in the sunlight. Anna changes the feed solution in Bob and Kim’s Levin tubes.
+51) 0) text: Steven and Anna are having dinner. He is the only one eat Anna toys with the wedges of potato on her plate with her fork. Steven watches her intently, trying to get a reacti but she remains stubbornly silent. Steven fills Anna’s gl with wine. She does not say thank you.
+51) 1) dialog: This meat is delicious. His wife does not respond.
+51) 2) dialog: You were right after all. The children are much better off here. I was even thinking we might take them to the beach house for a few days. A little fresh air anda change of scenery might do us all good. 69. Anna looks up and stares at her husband, as if she were observing him for the first time.
+51) 4) dialog: I will. You know what I’ve been craving? Mashed potatoes. Why don’t you make some tomorrow?
+51) 6) dialog: Excuse me?
+51) 8) dialog: Please don’t talk to me that way.
+51) 10) dialog: You wanted the kids to come home and they’re home. What else do you want me to do?
+51) 14) dialog: So what do you suggest? Tell me. Oh, wait, I know, I’ve got it. There is a way that we can put a stop to all this. All we need to do is find the tooth of a baby crocodile, the blood of a pigeon, and the pubes of a virgin and then we just have to burn them all before sunset. Let me see, do we have any spare teeth lying around? Steven starts opening cupboards and flinging packets of f onto the floor.
+51) 15) dialog: Teeth, pubes, nope, nothing in here, or here. Nothing in this box either. Where are they? I was sure they were here somewhere. I put them here myself. Who keeps moving things around? Unbelievable. I don’t supposed you’ve got any pubes I could have, by any chance? Oh I forgot, you don’t have any left. We don’t have any of the things we need. Well, that’s a shame. I guess there’s nothing I can do. Steven stalks out of the room.
+52) 0) text: Steven is setting the alarm clock.
+52) 1) dialog: There’s no need for us to argue. Everything's so difficult already, there’s no point making it worse. Anna does not respond. She lies down on the bed without covering herself up and turns her back to Steven.
+52) 2) dialog: If he was telling the truth, wouldn't you be sick too? Wouldn't you be paralysed already? How do you explain that? 85 86 71.
+52) 5) dialog: Okay. Steven turns to look at his wife. Anna turns out the ligh Steven lies beside her in the darkness with his eyes wide open.
+53) 0) text: Steven is standing in the middle of the room, smoking. He alone. He sits in an armchair. After a few moments, he st up again. Taking care not to make any noise, he picks up car keys and coat and quietly shuts the door. INT. STEVEN'S HOUSE - BEDROOM — MORNING Anna is lying in bed with her eyes open. Steven enters th room. He stands beside her. He sits on the edge of the be and takes her hand. She does not react.
+53) 1) dialog: Good morning.
+53) 3) dialog: Did you get any sleep?
+53) 5) dialog: Ten past eight. Get up and come with me for a moment. Anna gets up. 87 72.
+54) 0) text: Steven and Anna head down to the basement. Steven unlocks door. They enter a fairly large room full of random garde furniture. It is dark and dirty. The light goes on - a sm bulb that faintly illuminates the space - and we see Mart huddled in a corner. He is sitting in an old armchair. Hi feet are bound together with gaffer tape and he is chaine a pipe in the corner of the room. His hands are tied in f of him. Martin’s face is bloodied and swollen. There is a rifle on the table. Anna looks at Martin and then walks over to the table. Sh turns to face Steven. Anna does not move. She looks at Martin. Martin looks up holds her gaze. It’s hard to tell whether he is angry or afraid. He raises his hand and wipes some blood off the s of his mouth.
+54) 1) dialog: You remember Martin, don’t you? He came over for a play date, but I told him the kids are feeling a little unwell, so he’ll just have to wait here until they get better. Anna, go upstairs and make me some of that lemonade he likes so much, would you? I’ll stay here and keep him company. Off you go. Anna hesitates and then leaves. She closes the basement d behind her. We hear her footsteps on the stairs.
+54) 3) dialog: Do you think your mother is proud of you, Martin? Do you think she is happy that her beloved son is a murderer?
+54) 5) dialog: Stop talking. 88 73.
+54) 7) dialog: I said stop talking.
+55) 0) text: Anna is scrubbing the blood from the back seat of Steven' car. The dog watches her but she doesn’t pay him any attention. We hear a muffled gunshot. The dog starts to b 89 90 74.
+56) 0) text: Anna opens the door. Steven has shot Martin in the leg. H still holding the gun and pointing it at Martin. The boy writhes in agony.
+56) 1) dialog: Shut the door, Anna. Now Martin, you'll see what it’s like to die. What it’s like when your head cracks open and your brains are blown out.
+56) 4) dialog: Shut up.
+56) 6) dialog: I‘1l bury you in the garden and you'll decompose. That’s what.
+56) 18) dialog: Good boy, well done.
+56) 21) dialog: No, darling. I watered them this morning. Tomorrow.
+56) 23) dialog: That’s true, Bob. But some people find ophthalmology more interesting.
+57) 0) text: Steven is waiting outside the Headmaster’s office. The HEADMASTER’'S SECRETARY ushers him inside. Steven gets up enters the office. INT. SCHOOL - HEADMASTER’S OFFICE - MORNING Steven is sitting in a chair, signing some papers. He giv them to the HEADMASTER.
+57) 2) dialog: That’s quite all right. I understand.
+57) 4) dialog: Thank you very much. They’re already much better now that they’re back home. They are having daily physio, we go for walks together every day, they walk slowly of course but they are walking, and they’ve already started eating properly. However, I must inform you that they will need to be off school for a little while longer.
+57) 8) dialog: Thank you very much. But as you know both my wife and I are doctors, and we are quite able to judge when our children are ready to return to school.
+57) 10) dialog: I'm very optimistic. Everything will be fine.
+57) 12) dialog: Generally speaking, if you had to compare the two children for some reason, which of the two would you consider the better student?
+57) 14) dialog: What about their behaviour in class?
+57) 18) dialog: Do you especially like one of them more than the other? If you had to choose between them, which would you say is the best?
+57) 20) dialog: Never mind. Have a good day.
+59) 0) text: Anna emerges from the bathroom, wearing her bathrobe. She lies on the bed next to Steven, revealing parts of her na body. She kisses Steven’s hand.
+59) 3) dialog: Go to sleep. INT. STEVEN’S HOUSE - BASEMENT - NIGHT Martin is lying in a corner of the basement. The key turn the lock. The door opens and Kim drags herself into the r on all fours. 100 101 102 81.
+60) 0) text: The noise wakes Steven up. He turns on the light and gets of bed. He rushes out of the bedroom. INT. STEVEN’S HOUSE - KIM’S BEDROOM - NIGHT Steven comes in to check on Kim. Her bed is empty. She ha removed her feeding tube. Her mobile phone is on the desk Bob is asleep in the other bed.
+61) 0) text: Steven and Anna search for Kim all over the house, both indoors and outdoors. 103 104 105 82.
+62) 0) text: Steven notices the basement door is open. He goes into th basement and looks around. He goes over to Martin and hit him.
+62) 1) dialog: Where is she?
+62) 3) dialog: Where is she? What did you do to her?
+63) 0) text: Anna is driving very slowly along the road. Steven walks front of the car. The high beam headlights illuminate the road. They scan the street for any sign of Kim. Steven is anxious, out of breath. He glistens with sweat. They find dragging herself along the pavement. She tries to cross t road. Her hands and knees are covered with blood.
+64) 0) text: Steven is treating his daughter’s wounds. He puts disinfectant on her cuts. He sews up a gash on her knee. Anna, standing beside him, passes Steven the medical instruments.
+64) 5) dialog: I went to the hospital. I got the feeding formula. Have you checked on him? Did you give him the sedatives?
+64) 7) dialog: What are you talking about?
+64) 9) dialog: Why would you do that? He hits Anna around the head.
+64) 10) dialog: Why did you let him go? Tell me. Are you a complete idiot? 107 84. Anna walks away. The dog follows her. She stops and turns face Steven.
+64) 23) dialog: I don’t know, Bob.
+64) 25) dialog: Yes, Matthew is a very good friend of mine.
+64) 27) dialog: That’s great, Bob. It’s good to have lots of friends. 86.
+64) 29) dialog: Yes, that’s right.
+65) 0) text: Steven enters the bedroom. Anna is frantically making the bed. She doesn’t seem to notice him. Steven approaches An and stands in front of her. She stops startled.
+65) 1) dialog: Bob is bleeding. Come to the living room.
+65) 3) dialog: Yes. Now.
+65) 5) dialog: Yes?
+65) 7) dialog: They're already there. 114 87.
+65) 9) dialog: Wear whatever you like. Just hurry. Steven leaves the room.
+66) 0) text: Kim is sitting in a chair in a corner of the room. Anna i standing by the wall, near the French windows. Bob is on sofa. He can barely sit up. They all look terrified. Thei feet are tied with rope and their mouths are taped. Steven is standing in the middle of the room. He looks at each of them in turn. They form a triangle around him. He puts on a black balaclava that covers his entire face, so that he can’t see anything. He raises the rifle. Steven starts spinning round on the spot. He fires a shot stops. Silence. The other three are trying to not make a sound. They struggle to stifle their instinctive reaction He hasn’t hit anyone. The bullet has lodged itself ina cabinet full of crystal tableware. Steven starts spinning around again. He fires another sho Anna screams. Steven pulls off the balaclava. He sees Bob hit in the chest. Motionless. Blood is splattered across couch. Kim stares, frozen. Steven puts down his rifle.
+67) 0) text: Steven is sitting in a Burger King with Anna and Kim. Mar walks in, limping from the bullet wound. He stares at the he walks past and sits at a table nearby. Steven and Anna watch Martin out of the corner of their eye. They both lo haggard. Kim puts ketchup on her chips and starts wolfing them down. She looks healthy. Her parents watch her eat. Kim has finished eating her chips, they put on their jack and go to leave. Kim stands up, takes a quick look at Mar and then follows her parents. She is walking normally.

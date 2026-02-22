@@ -1,0 +1,77 @@
+1) 1) dialog: Stop! The prisoner has had enough. NIZAM, the king’s Grand Vizier (50s, cultured and wise) g the prisoner a sip of water, which he gulps gratefully. The four PRINCES watch the interrogation. Dastan is the youngest. Next are the twins, FARHAD and FARHAN -- identical, equally fastidious aristocrats who don’t like get their gleaming armor dirty. The eldest is TUS, a toug battle-hardened commander.
+1) 3) dialog: Noble princes. The prisoner begs for mercy. He has confessed the identity of their secret ally.. He points to a spot on a parchment map with Arabic calligraphy. The four brothers crane to see.
+1) 4) dialog: It is the city of Alamut that has been arming our enemy.
+1) 13) dialog: Treasure. Food. Beautiful women. Alamut is renowned for them.
+1) 16) dialog: I’m afraid the proof you seek lies within the walls of Alamut itself: secret forges, swords, spears... but Alamut is a mighty Citadel that has never fallen. You would risk much to attempt it, Prince. He bows deeply: the decision is not his to make.
+16) 0) text: The twins fight side by side without breaking a sweat. Nizam rides through the enemy troops wielding two swords once with a deadly dexterity surprising for a man his age Tus, hacking his way to victory, pauses --
+17) 1) dialog: (to Tus) It stands to reason that their secret armories are well concealed. Why not leave a team behind here to search for them?
+17) 8) dialog: (bows deeply) We hear and obey, my prince.
+18) 0) text: A caravan of Persian SOLDIERS, HORSES and CAMELS wends it way down from the forbidding, icy mountain peaks. Dastan sits backward in his saddle, reading a book. Nizam rides up alongside.
+18) 1) dialog: Your brothers do you an injustice. You turned the battle.
+18) 3) dialog: You have much to learn about the ways of politics, Dastan. Praise, flattery, renown -- these are the currency of power in court. Nizam gestures toward a row of carts laden with booty.
+18) 4) dialog: Look, your brothers bring your father treasures, trophies of war. What have you brought to gain his favor?
+18) 6) dialog: How so? Dastan puts away his book and turns around in the saddle.
+18) 8) dialog: To be the son of a great king-- even a fourth son-- is a destiny most men would envy.
+18) 10) dialog: (with a twinkle) Dastan, I have misjudged you. I thought you the most modest of my King’s sons. In fact, you are the most ambitious. 17.
+18) 12) dialog: You'd do well to bring a gift.
+18) 15) dialog: Well... you did open the gate. Nizam winks at him and spurs his horse onward. Dastan, alone for the moment, trots his horse close to a cart. He scans the treasures and selects a gorgeous, embroidered silk ROBE as a gift.
+22) 0) text: KING SHAHRAMAN enters with his entourage. Gray-bearded in silk robes, he’s the aged ruin of a once-powerful warrior All bow deeply as he passes. AT THE DIAS everyone gathers and takes his place.. Garsiv, Captain of the Guards stands sentry behind the throne. Nizam steps to the fore ahead of the princes.
+22) 2) dialog: Not my wisdom. By your royal faar your sons have brought honor and glory to the banner of Nasaf.
+22) 4) dialog: Tus has remained to bring order to the lands conquered in your name. His brothers will convey his greetings to you. The Twins step forward with elaborately ceremonial, simultaneous bows -- a bit over the top for Shahraman. 21.
+22) 16) dialog: The Twins quake; did they say something wrong? Dastan is confused as they are. Nizam steps forward.
+22) 18) dialog: We did, sire.
+22) 20) dialog: O King, your son was provoked by the treachery of Alamut.. when you learn the full truth, you will understand. But look, your youngest son waits to greet you. Shahraman looks at Dastan; his anger melts away. He has a special fondness for this son. Dastan throws himself into his dad's embrace, hugs him hard.
+22) 28) dialog: O King, we discovered information that Alamut was secretly supporting -- My King, is something wrong? The new robe seems to itch Shahraman; he tugs at it irritably.
+22) 30) dialog: We learned from a captured Turanian warrior that...
+22) 34) dialog: It’s poisoned!
+22) 44) dialog: That is for a tribunal to decide, Dastan. He nods sadly to the guards; they drag Dastan from the ro With a sudden, desperate burst of strength, Dastan breaks free. He snatches a sword from one of the guards, parries the attack of another and... «escapes through a small doorway behind the dais. 25.
+32) 0) text: Garsiv strides in, dusty from the chase. Nizam and the Tw look up from their conference.
+32) 5) dialog: (sadly) If only he hadn't fled... 36.
+32) 8) dialog: He is your brother...
+32) 10) dialog: (bows ) As you wish, my Princes... Garsiv, prepare a full regiment this time.
+32) 12) dialog: I, myself will accompany the search party to make sure Prince Dastan is treated with justice. (turns to the Twins) Tus is our king now. Until he returns, you rule Nasaf.
+32) 15) dialog: Precisely.
+46) 0) text: A SCOUT PATROL of half a dozen men rides down from the mountains to rejoin a FULL REGIMENT of the Persian army-- hundreds of horsemen with a well-equipped supply train. NIZAM and GARSIV Are approached by the SCOUT CHIEF, holding Dastan’s brace
+46) 2) dialog: The Alburz pass.. They’re headed for Alamut.
+51) 0) text: The Soldiers of Nasaf have occupied the three-story home the wealthiest merchant in town. Nizam is sipping tea in the tiled courtyard when Garsiv tromps in after a fruitless day of searching.
+51) 2) dialog: Tomorrow we make for Alamut.
+51) 4) dialog: If he is hiding in the wilderness then he can do no further harm. He looks at Garsiv pointedly.
+51) 5) dialog: The personal animosity you bear toward Prince Dastan clouds your judgement, Captain Garsiv. Tomorrow we make for Alamut. Garsiv contains his frustration and bows his head.
+56) 0) text: Garsiv strides down the street with half a dozen soldiers He’s in a foul mood after his conversation with Nizam.
+65) 0) text: Garsiv leads Nizam (just dressed) up the stairs.
+67) 16) dialog: What are you doing here? Somebody grab that girl! Tamina turns and flees.
+69) 0) text: Nizam, Garsiv and their regiment ride in through the gate Tus awaits them, trembling with emotion. Nizam dismounts, his expression sorrowful and compassionate.
+69) 2) dialog: Nor would I believe it, had I not seen it with my own eyes. Would that I had died rather than live to witness such a deed... my King. Nizam prostrates himself before Tus.
+71) 0) text: A MASSIVE EXCAVATION PROJECT is under way in the main courtyard. HUNDREDS of SLAVES overseen by soldiers dig a at the entrance of the temple, where the SACRED FOUNTAIN shattered into pieces. REVEAL NIZAM and GARSIV Surveying the excavation from a battlement.
+71) 2) dialog: I do not seek armories, Garsiv. There is more here than you know. Nor need to know.
+71) 4) dialog: (cuts him off) Then remain vigilant. Make sure that never happens.
+76) 1) dialog: Tell them if they don’t break through by nightfall, their wives and children will dig in their place!
+85) 0) text: Nizam turns from the dig as Garsiv strides to meet him.
+96) 0) text: The majestic hourglass sits in silent darkness. Suddenly, a PICK breaks through the roof. A shaft of sunlight illuminates the chamber that has been dark for centuries. Shouts of excitement from the workers above. More picks c at the hole, raining down rocks and debris. THE HOURGLASS: as the rocks strike its surface, it begins resonate like a great warning bell... EXT. EXCAVATION PIT —- SAME Drawn by the sound, Nizam moves down toward the hole.. hi eyes light up as he finally glimpses the prize below.
+96) 1) dialog: Magnificent... (turns to a FOREMAN) Have them search every chamber. When they find a dagger with a clear handle, have it brought directly to me.
+108) 0) text: Thunder rumbles in an ominous sky. Tus, Dastan and Tamina stride across the bridge accompanied by royal GUARDS with torches. Nizam appears at the end of the bridge with his own detachment of elite GUARDS led by Garsiv.
+108) 2) dialog: O King!
+108) 5) dialog: O King, O Prince, I am the shadow of the reflection of your greatness. Your humble servant... As Nizam bows mockingly, Garsiv plucks Dastan’s sword fro him and raises it high...
+108) 9) dialog: Ho! Help! Murder!! Dastan opens his mouth to protest but the guards silence with a rain of kicks and blows. As the SOLDIERS arrive on the scene, Nizam steps forward in apparent anguish.
+108) 10) dialog: God help us! We arrived too late. Our King is dead-- slain by Dastan, who killed his father. Dastan tries to speak but the guards redouble their blows
+108) 13) dialog: (steps in) I shall take charge of questioning Dastan and his accomplice. I will find out the full extent of this conspiracy. Nizam’s guards hustle Tamina and Dastan along the bridge, drowning their protests... leaving the Captain and the so staring mournfully down at Tus’s body in the rain.
+109) 0) text: Tamina and Dastan are shoved into a cell and chained to t wall. The guards exit. Nizam steps forward and lifts the DAGGER from Dastan’s be His eyes glint with greed as he caresses it..
+109) 1) dialog: Thank you Dastan. I’ve been looking for this. Tamina’s eyes widen in horror.
+109) 4) dialog: You should be. You stood before the hourglass with the dagger in your hand-- the one blade capable of penetrating the glass nothing in heaven or earth can break. And the limit of your ambition was to turn back time sixty seconds? A trick for a street magician. I will turn back time sixty years. 108.
+109) 6) dialog: Sixty years since the divine right of kingship was granted to the house of Shahraman. I was a child then, as your father was; I had the understanding of a child. Had I known what I know now, I could have acted. An accident at play. Children are fragile; they die so easily.
+109) 8) dialog: On such small things empires turn. And so in my fifteenth year, when al-Ma’mun defeated al-Amin, and Babak’s head rolled in the sand at Samarra, I -- not Shahraman-- shall be seated on the throne of Nasaf. And what a king I shall be!
+109) 10) dialog: Superstition, girl. A scary tale told to prevent lesser men from reaching for greatness.
+109) 12) dialog: On the contrary I shall be the wisest and greatest of rulers. I will lay in stores of grain before the famine, I will build high walls when there is yet no enemy in sight. (MORE )
+109) 14) dialog: Under my reign Persia shall rise again to be a great empire.. and I will be Shah-an-Shah, King of Kings, God among men. It’s unfortunate that you will not be born to reap this golden age. Soon, you will never even have existed. (as an afterthought) But first you will be executed. As Nizam leaves he summons the GUARDS.
+109) 15) dialog: Unchain the girl. I promised Garsiv he could have her to enjoy. Tamina is freed and dragged away, struggling. As Nizam leaves with her, Dastan rages.
+115) 0) text: Guards open the door to an iron CAGE suspended with ropes pulleys over the pit. Nizam steps inside and they begin t lower him toward the hourglass...
+116) 0) text: With a cranking of wheels, the CAGE comes to a halt in fr of the hourglass. Crumbling rockslides and running water create a non-stop shower of debris falling around the cha and into the abyss. Nizam pays no attention, staring in wonder at the bright sand, inches from his face. He feels the solid glass...
+116) 1) dialog: (closes his eyes) This is my destiny... He raises the dagger to strike the hourglass... Suddenly with a great RATTLING NOISE the cage shoots upwa Nizam turns--
+116) 3) dialog: Soon you shall be nothing more than a dream that no one will remember! Nizam presses the pace, attacking from both sides. Dastan makes a last desperate counter-attack and suddenly KNOCKS one of Nizam’s swords from his hand! A beat. New ball game. Nizam swings with his remaining sword-- Dastan blocks the blow confidently. With locked blades, Dastan presses for advantage, his youth and strength coming into play... A look of fear crosses Nizam’s face. Dastan grins.
+116) 6) dialog: I always keep a spare. Leaving Dastan to bleed to death, Nizam retrieves the dag Again he approaches the hourglass. And AGAIN, as he is poised to strike, the CAGE flies down Tamina leaps out to stop him.
+116) 9) dialog: (looks at her) A very pretty face, indeed. Perhaps when you are born thirty years from now I will do you the honor of making you one of my wives... Dastan lifts his head and sees Nizam dangling Tamina.
+116) 10) dialog: «but right now you are a nuisance. And with that he releases her!
+116) 14) text: Becomes a blur through which we catch quick glimpses of action: Dastan fighting Garsiv, Tus’s murder on the bridg Tamina and Dastan’s kiss... All the while, SAND keeps pouring from the hourglass-- no a torrent, swept by the gathering wind into a blinding SANDSTORM that threatens to grow out of control and becom apocalyptic... DASTAN, as if stunned by a concussion, shakes himself awa to realize he’s there with Nizam, in the bright ROARING center of the sandstorm. Nizam, in ecstasy, holds the dagger in place -- SAND pour out of what is no longer the hourglass, but a CRACK in th very surface of the universe. The wind sweeps up the sand it pours out, adding to the storm. Savagely, Nizam pries Dastan’s hand from the dagger. Dast hangs on, too weak to fight back. The wind rips at him; i he lets go, he’ll be sucked into oblivion. Nizam gives Dastan a sharp elbow. Dastan loses his grip a is nearly swept off by the wind-- but he keeps a hold. Dastan looks down, sees blood soaking his tunic. His life ebbing away; he can’t hang on much longer. Then, out of the maelstrom of events REWINDING all around them, an IMPLOSION of light in the dawn sky attracts Dast attention. Hazily looking up, he sees a flaming arrow arc backward through the sky: the opening battle. Dastan summons the last of his strength and will. Bearing down on Nizam’s arm, he PULLS OUT THE DAGGER. In that instant, the crack in the hourglass repairs itsel Before Nizam can recover, the SANDSTORM sweeps both him a Dastan into the void... For a few moments, SAND is all we see and hear. Then, lit by little, the SANDSTORM starts to clear... Dastan looks around. At first he can’t tell where he is. The sand is everywhere. In his teeth, in his hair. He searches himself for the dagger. He doesn’t have it. Gradually he starts to make out other figures nearby. Persian soldiers, shouting in the wind. Horses whinny.. With a shock of dread, Dastan realizes--— 120.
+119) 4) dialog: fight furiously. As before, Dastan’s on the defensive. A growing circle of onlookers gathers, uncertain whether to intervene.
+119) 5) dialog: (to the men) Traitor! The King’s son would betray us to our enemy!
+119) 10) dialog: We can win. Dastan is a traitor.

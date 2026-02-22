@@ -1,0 +1,89 @@
+6) 2) dialog: Gotta situation here.  Where are you?  Stuck in traffic?
+7) 1) dialog: All right, stand by, we're going to switch over to COMSAT... A TACTICAL OFFICER reroutes the call via defense satellite, cryptography flashing on terminals.  Lieutenan Commander ROBERT ROYCE joins other Intel officers at a conference table.  They're pouring over weather charts, navigation logs, high-altitude NRO video.
+7) 3) dialog: (into speaker)
+7) 6) dialog: Signals received only sparingly, in such a pattern that leads us to conclude it is a downed aviator trying to conserve his batteries.
+7) 8) dialog: You're the analyst for East China, O'Neil.  Analyze.
+8) 3) dialog: Halfway 'round the world.  So that's the problem -- we can get the team in, just not out.
+8) 6) dialog: Blank faces here, O'Neil.
+8) 8) dialog: You expect the extraction team to ride the sub bare-back?  Is that correct, O'Neil?
+8) 10) dialog: All right, sending the recommendation across the river. Royce out. The phone goes dead.
+10) 1) dialog: That was good headwork, lieutenant.
+10) 3) dialog: (scoffing)
+10) 6) dialog: Intel has its own glory, lieutenant -- no matter how subtle. Now they reach...
+11) 1) dialog: By the way, I'll need that option paper by 11-hundred today so I can review it with Admiral Hanover.  And do we have any of that breakfast tea around here?
+11) 3) text: Is this my glory, sir? On the upper walkway, a frazzled N.I.C. SECRETARY appears.  She spots Royce and Jordan below.
+11) 5) dialog: Jesus God, what now? He bounds up the stairs toward his office.
+16) 1) dialog: So why're you even considering it? Are you?
+16) 3) dialog: Spec-Recon.  Those guys are world- class warriors.  And they will not want you there, Jordan.
+16) 5) dialog: Well, you're doin' shit-hot at Intel.
+16) 7) dialog: (shaking head)
+16) 10) dialog: So dump on me.
+16) 12) dialog: (getting out)
+16) 15) dialog: You're such a ball-breaker sometimes.  Especially at night.
+16) 18) dialog: I'll try to keep the door open.  If you wash out, I make it so that --
+16) 20) dialog: (blowing a sigh)
+16) 23) dialog: (conceding)
+16) 26) dialog: Jordan...
+60) 2) dialog: Goddamn.  My poster girl.
+62) 0) text: Royce, EXCUSING his way through the crowd, fixating on th bar, leading his DIAL-A-DATE winner by the hand. Conversations drift into earshot:
+62) 5) dialog: Not right now. Just yards from the bar, a Pentagon E-RINGER snags Royce' elbow.
+62) 7) dialog: Little slow, sir.  When's the Pentagon going to send me a good crisis?
+62) 13) dialog: (to dial-a-date)
+63) 0) text: Heading upstairs with an iceless rum.  Royce finds a calm and secluded place to get drunk in peace and quiet.
+64) 0) text: Royce flashes down the stairs.  Hitting main floor, he looks around and then bumps into...
+64) 2) dialog: Lieutenant!
+64) 4) dialog: Take a dance!
+65) 0) text: Royce bobs and weaves through the crowd, trying to keep sight of... Bald Spot.  Pushing through the exit doors. Only steps behind, Royce shoulders through the doors...
+66) 0) text: And blasts outside, intending to shake some answers out o Bald Spot.  But here Royce finds... A dozen naval officers waiting for their cars.  All of them now wear caps. Royce tries to check faces of the quickly departing men. but it could have been anyone.
+78) 1) dialog: (into phone)
+78) 4) dialog: How hard they making it on you?
+79) 1) dialog: That bad?
+79) 3) dialog: Well, not this.  I was doing the Pentagon scene few nights ago.  Got some fresh stuff -- about you.  You may be in a hostile camp.  I think someone may be taking steps to ensure that you crash and burn.
+79) 5) dialog: Don't you know?  How they're talking about you?
+79) 7) dialog: I can't walk two blocks in Washington without hearing about "G.I. Jane."  You're all over the place, and whether you wanted it or not, the feminists are sizing you up for that poster. Jordan's face sours with an errant thought.
+79) 9) dialog: Big symbols make big targets, Jordan.  I think someone's gunning for you.
+79) 11) dialog: I'm only trying to warn you in case --
+79) 13) dialog: That's not what I want, Jordan.  I mean... it is and it isn't...
+79) 15) dialog: Jordan.  You watch your ass.
+107) 0) text: Royce stops for a newspaper.  As he pays, something else catches his eye.  He picks up... A "People" magazine.  The grainy image of "G.I. Jane" fills the cover.  A photo inset, much clearer, shows a beaming DeHaven.  "BEHIND EVERY GREAT WOMAN..."
+107) 1) dialog: (shaking head)
+108) 1) dialog: Got time for a brain-pick? Reading as he walks, a former CIA spook looks up to find Royce in lockstep.  It surprises him:  Not many people here talk to him -- unless they're in trouble.  THE SPOOK is physically unremarkable except for a face that would b right at home on Easter Island:  This is a man who's seen most of the world's ills -- and forgotten none.
+108) 3) dialog: O'Neil, Jordan.
+108) 5) dialog: You knew about us?
+109) 0) text: Royce and the Spook enter.  The vault-like door closes emphatically.  Ensuring their privacy:
+109) 1) dialog: Computer -- no transcription, no com-link, no data-link.  In fact... shut-down sequence 0-Niner-0-8, mark. All around, screens go blank, phone lights extinguish. They sit at the conference table.  No Computer.  No files Just two guys doing headwork.
+109) 3) dialog: The E-Ringers?  Full integration is gonna cost the services billions at the worst possible time -- when Congress is already swinging the axe.
+109) 6) dialog: The Navy?  They've made it clear they don't want to pull missiles out of subs to make room for women's heads.  What's it gonna cost to make a fleet of Trident's co-ed?   
+109) 8) dialog: Possibly.  Just to spite DeHaven.
+109) 11) dialog: The first female President?
+109) 13) dialog: Women.
+109) 15) dialog: I don't know.  Seems...
+109) 17) dialog: Christ, I don't want to see her take a fall.  She thinks I do, but...
+109) 19) dialog: (shaping his words)
+109) 23) dialog: I don't... (scoffing)
+128) 0) text: The boat docks.  Jordan springs clear, waves a worn-out thanks, starts up the dock.  But now she comes to a stop, seeing... Royce.  Stepping out of the house. EXTREMELY WIDE:  River shimmering behind them, they meet on the dock.  A charged stand-off:  Where do they pick up Can they pick up?  Then Jordan drops her gunnysack and steps into his wide-spread arms.  Royce wraps her up as i to never let go. For the first time in this whole ordeal, Jordan begins crying, sobbing uncontrollably.
+128) 1) dialog: (in her ear)
+129) 0) text: An hour later.  Sharing a quiet moment, Jordan and Royce cradle tea mugs while sitting on the rear porch that overlooks the Potomac and a fiery sunset.
+129) 2) dialog: And this class officer... "Wickwire."  You think he was just trying to get even?  Striking back for...
+129) 5) dialog: Almost like someone put him up to it.  Okay, who?
+129) 7) dialog: The Chief?  Or maybe even Turrentine?  Your C.O.? She looks at him sidelong.
+130) 1) dialog: Somebody was yankin' your stings, Jordan -- maybe from 3,000 miles away.  I wanted to know who.  I still do. She shakes her head, resisting.
+130) 2) dialog: C'mon, Jordan.  Do the headwork with me.
+130) 4) dialog: Someone screwed you over like this, left unanswered charges hanging over your head, and you're not gonna fight back?
+130) 6) dialog: Well, before you crawl off to die, Jordan, give me five minutes of good headwork. Agitated, she walks away.  B.G., a PHONE RINGS until the machine picks up.
+130) 7) dialog: (pulling a file)
+130) 12) dialog: Or like maybe he was baby sitting a problem child for the Navy.
+130) 14) dialog: Well, pardon me if I do.  Now who else?  Who could've leveraged a class officer like that?  C'mon, Jordan, keep your head in the game. UNDER DIALOG, we hear some of the INCOMING CALL:
+130) 17) dialog: What?
+130) 19) dialog: "Wickwire, Thomas Dane"... Second run at Coronado... and correct, they had him stashed in the "Appropriation Liaison Office," whatever that is.
+130) 22) dialog: I'd sure like to know who.
+134) 0) text: A car parks at barricades.  Jordan and Royce emerge, both in uniforms.
+134) 2) dialog: Government car -- tow it if you want.  Just point us to DeHaven's office first. Not waiting for directions, Jordan takes the Capitol step two at a time.  We've seen this look on her face before - and last time, she nearly knocked the grinder bell into orbit.
+135) 0) text: Jordan and Royce move quickly down a corridor, eyes hunting, passing CAPITOL GUIDES and their tourists.  Soon they find... DeHaven's office.  A Navy captain exits with paperwork. Hasty salutes.
+135) 1) dialog: Capt'n.
+135) 3) dialog: (to Jordan)
+135) 4) text: Get started here.  I'll catch up. Picking up where he left off a few weeks ago, Royce follows Bald Spot around a corner...
+177) 2) text: Special Reconnaissance Class 118, you may now stand down. All buffed and polished and wearing their dress whites, the former trainees erupt with ONE GREAT HOO-YAH.  What began as a class of 100 now ends with just 40. Sitting among the families and friends we find Royce, smiling through his fears.  Not far away sits Blondell. No one claps louder. Jordan trades high-fives and fierce hugs with crewmates. Pyro finally manages to take her aside.
+179) 0) text: Jordan and Royce walk hand in hand, strolling the same beach she trained on.
+179) 2) dialog: Look.  It's not like you'd be completely out of reach.  And maybe we could call in a few favors, get you stationed at Norfolk instead of Coronado.  There are ways of dealing with these things -- I mean, if people are so inclined.
+179) 5) dialog: "Yes, Jordan -- I'll wait for you no matter how long." Finally, the right answer.

@@ -1,0 +1,9 @@
+24) 0) text: IB Bangin sitting with Nurse Constance in triage. Past Gr Frank talks with Dr. Hazmat:
+31) 0) text: Frank rushing past Nurse Constance, carrying a newborn in thermal wrap, passing Noel restrained on a gurney:
+31) 8) text: 10 mil Valium, stat. Mishra, worried, checks with Nurse Constance--they're los the newborn:
+63) 0) text: Frank and Tom, their shirts blood-stained, pushing Noel d Skid Row, past Griss, past Nurse Constance. Tom wheels, F carries the IV bag.
+64) 0) text: Frank Pierce walks down the hospital corridor, steps into room 212. Burke lies, tubed, wired and tied to life support. Blue l comes through the window. On the EKG monitor: a slow stea green endless line: up, down. Frank takes a moment, exhales. One by one, Frank flips off the machines. The clanging EK ALARM is followed by the bass honking of the respirator a and two tweetering IV-drip alarms. Frank, holding Burke's pulse, watches the life go out of  him. Hearing commotion outside, Frank flips the machines  back on: the EKG monitor is flatline. A FLOOR NURSE rushes in, feels for Burke's pulse.
+64) 1) dialog: What happened? (calling out)
+64) 3) dialog: Are we doing CPR? Dr. Hazmat, out of breath, enters:
+64) 4) dialog: He coded.
+64) 6) dialog: Clear! Frank, knowing it's futile, shocks Burke: no result.

@@ -1,0 +1,39 @@
+66) 1) dialog: Clem...
+66) 4) dialog: (to Bill) Clark. Nice to see you. Get back to work. Bill exits.
+66) 6) dialog: Who asked?
+66) 8) dialog: Are you the one who was working on the non-nutritive cereal varnish?
+66) 10) dialog: I'm giving a speech to a trade group and I'd like to mention it. Write me up a brief summary and have it to me by the end of the day.
+66) 14) dialog: Layman's terms. None of that inside bullshit jargon that nobody understands.
+66) 19) dialog: Oh. Don't forget my speech, Bill.
+187) 1) dialog: Get Ed Leftic up here and have him look over these figures. Clark enters with the poinsettia.
+187) 4) dialog: What do you want?
+188) 0) text: Frank Shirley is back to normal. He waves toward an opposite wall.
+188) 1) dialog: Put it over there with the others, Grisball.
+188) 3) dialog: I'm sure it did. Now if you'll excuse me, I'm in the middle of an important call. He picks up the receiver. Clark turns to put the poinsettia on a sideboard and sees it's jammed with about fifty other poinsettias.
+287) 0) text: The front door opens and Eddie enters with FRANK SHIRLEY. His hair's mussed, his face is red with anger, a Christmas bow is tied tightly over his mouth to silence him. He's in his pajamas and slippers, bound wrist and ankle in dog chain. He mumbles and grumbles with rage.
+291) 0) text: Eddie looks at Frank.
+292) 0) text: Frank Shirley's house. The lights are on. *
+294) 0) text: The ribbon and chain has been removed from Frank Shirley. He shakes the ‘cramps out of his wrists.
+294) 1) dialog: I've never been treated like this in my life.
+294) 3) dialog: (te Clark) You're fired! Where's the phone? I'm calling the police.
+294) 5) dialog: Alright. He's still fired and you're going to jail!
+295) 2) dialog: How did you get a bonus? I cut out bonuses this year.
+296) 0) text: Clark is offended by Frank's arrogance.
+296) 21) dialog: He feels guilty. He looks around the room.
+296) 23) dialog: He can't sustain his anger. His heart melts. He sees, first-hand the people his bloodless policies affect. After a considered pause he offers his apologies.
+296) 24) dialog: Sometimes things look good on paper but lose their luster when you see the effects on real folks. A healthy bottom line doesn't mean much if to get it you hurt the ones you depend on. Clark? Whatever you got last year, add twenty percent.
+304) 15) dialog: It occurs to him that he's forgotten to call his wife.
+304) 16) dialog: (pause) No.
+308) 4) text: The family freezes. Clark's on one foot, arms out, caught in mid-stride. Ellen, Clark Sr., Francis and Frank Shirley, are caught in a rising squat. Nora freezes adjusting her bra. Audrey's adjusting her underpants, Rusty's about to sneeze. Uncle Lewis is frozen holding a lighted match. Art is bent forward in pain. Rocky has a finger in his nose, Catherine in holding a hankie to Ruby Sue's nose, Eddie is adjusting his balls. Bethany continues to drink her eggnog. Snots is in the corner frozen in a half-seated position.
+312) 0) dialog: He's frozen in semi-squat with his hand in his hair.
+312) 1) dialog: Helen! (CONTINUED)
+312) 16) dialog: I'm fine. I'm just fine. There's been a big misunderstanding tonight.
+312) 18) dialog: There's no business. I'm not pressing any charges.
+312) 20) dialog: It was a mistake.
+312) 22) dialog: I did something I shouldn't have and these people called me on it. This is Clark Griswold and his family.
+312) 25) dialog: Remember how I was toying with the notion of suspending Christmas bonuses?
+312) 27) dialog: I changed my mind. I'm reinstating all the bonuses. (CONTENUED )
+312) 31) text: , wd HELEN i Of all the cheap, lousy ways to * i save a buck, I'm ashamed of you, * } Frank. |
+312) 33) dialog: i You're not going to fire me, are * , you, honey? *
+318) 0) text: Clark takes Ellen's hand. Ellen takes Audrey's hand. Audrey takes Rusty's hand. Rusty takes Nora's hand. Nora takes Francis's hand. Francis takes Frank Shirley's hand. And so on until everyone is holding hands.
+324) 0) text: Frank and Helen, the police, the grandparents, Eddie and his family, Rusty and Audrey are crowded into the living room.. The grandmothers are serving coffee. The police commander's playing the piano and the officers are sing- ing, in less than wonderful voices, "I SAW MOMMY KISSING

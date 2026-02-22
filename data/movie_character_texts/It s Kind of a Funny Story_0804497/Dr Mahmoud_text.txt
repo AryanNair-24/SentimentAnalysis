@@ -1,0 +1,9 @@
+3) 22) dialog: How long have you been feeling suicidal?
+3) 24) dialog: Did anything specific happen today that might have triggered these feelings? Slight PUSH IN on Craig...
+5) 6) dialog: Are you taking any medication?
+5) 8) dialog: Did your doctor take you off the medication?
+5) 10) dialog: Oh... you shouldn’t do that.
+5) 13) dialog: Well, Craig, you don’t seem to be in immediate danger to yourself, so I think we should call your parents, tell them what happened, and refer you to one of our out-patient services.
+5) 15) dialog: I understand you’re upset, but the people we admit to the hospital are very sick.
+5) 17) dialog: Not without parental consent. Look, this is serious business, Craig. We very rarely take in patients your age. I think it would be best if we tried to handle this without--
+5) 20) text: I’m scared, okay? I can’t go back out there... I don’t know what... I might do something... I just need some help. Please. I need you to help me. Dr. Mahmoud stares at Craig, concerned. He thinks it over INSERT: Dr. Mahmoud signs the admittance form.

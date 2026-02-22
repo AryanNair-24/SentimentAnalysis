@@ -1,0 +1,8 @@
+11) 2) text: Suddenly an ORDERLY bursts around the corner, sprinting toward her.
+12) 0) text: Dr. Allen and the orderly are jogging down the hallway. sound of SCREAMING can be faintly heard in the distance. Dr. Allen starts to run, leaving her patient, holding her stethoscope and pocket for anything that might fall out. BREATHING is slightly LABORED.  Her patient SCREAMS after her:
+68) 0) text: Peter and Maya turn the corner and approach the door to Birdson's room.  An ORDERLY is walking with them.
+68) 1) dialog: Shouldn't we wait for the doctor?
+68) 3) dialog: Not necessary...anymore.
+68) 28) dialog: It sounded like a hundred people to me.
+68) 29) text: Maya, Peter and Dr. Allen turn and look at the orderly.  Peter's shocked by the orderly's admission.  Glances back Dr. Allen.
+68) 31) text: Her tone is frighteningly friendly.  The orderly leaves.  Peter looks at Maya, then Dr. Allen.

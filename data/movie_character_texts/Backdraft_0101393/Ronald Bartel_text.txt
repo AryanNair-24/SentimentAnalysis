@@ -1,0 +1,46 @@
+89) 0) text: And the face of RONALD, an unremarkable man in his 40s.  Unremarkable but for laser eyes and two heavily bandaged  hands. Go wide and find him sitting in an institutional c handcuffed, actually -- in an institutional hall. A unifo guard stands nearby as Brian and Rimgale come down the  corridor. Ronald smiles upon seeing Rimgale.
+89) 1) dialog: Shadow.
+89) 3) dialog: Didn't think you'd make it.
+89) 5) dialog: (looking at Brian) Who's this?
+89) 7) dialog: Is he a fireman? (smiles) I like firemen.
+89) 9) text: Ronald's eyes pick up Brian's name on his prison ID badge
+89) 10) dialog: Brian McCaffrey... (eyes light up happily) Oh this is really a treat. Brian  McCaffrey. Lost a dad to the animal,  huh?
+89) 13) dialog: I know you.
+89) 17) dialog: Tell him about me, Shadow?
+89) 19) dialog: Did he tell you how we finally met?
+89) 21) dialog: Oh, but it's a good story, Shadow.  You're depriving our famous young  friend here...
+89) 23) text: The cop helps Ronald to his feet and all four are marchin down the hall.
+89) 24) dialog: It was on State Street, right?...  Just your basic warehouse torch for  the owner. Cakewalk. But the animal...  turned on me... 'Ol Shadow here, he  shows up -- whole place is going  like hell -- my hair, my hands...  could've just let the animal take me --  but Shadow, he's a good camper, so  he tries to pull 'ol Ronald out.  Guess he didn't notice the tub of  phosphorous next to me... (smiles) Notice you're still a little shy  about rolling your sleeves up, Shadow.  Show him your stomach yet?
+90) 0) text: Ronald in the hot seat before a parole board, Rimgale and Brian on the sidelines.
+90) 4) dialog: Yes. I understand now the pain I  caused.
+90) 6) dialog: I won't.
+90) 8) dialog: Yes.
+90) 9) text: The parole board shuffles their papers. It's a done deal. Rimgale suddenly stands and approaches Ronald.
+90) 11) dialog: Absolutely.
+90) 14) text: A tortured look comes over Ronald's face. He's holding ba From the paper bag, Rimgale suddenly tosses a burned baby doll in his lap.
+90) 16) text: Rimgale then lights a cigarette lighter in Ronald's face.
+90) 17) dialog: (smiles) -- Burn them.
+90) 19) dialog: -- Burn them.
+90) 21) dialog: (smiles) -- Burn it all.
+155) 0) text: Brian's sitting alone in a chair. Finally the opposite do opens and in enters Ronald.
+155) 1) dialog: Well, Mr. Life magazine. Come all  this way just to say hi?
+155) 4) dialog: So you came to me... (smiles) Well, this is going to be an  interesting afternoon after all...
+155) 5) text: As Ronald starts to read the files
+156) 0) text: Brian still sitting there. Watching Ronald devour the  statistics. The photos of charred bodies. Ronald finishes leans back.
+156) 1) dialog: Okay, here's the deal. I'll tell you  a story, you tell me one. Fair?
+156) 3) dialog: Your first question should be who  isn't. It isn't a spark, Brian. Not  enough damage. And an insurance pro?  Where's the profit margin?
+156) 5) dialog: -- No no, your turn. Tell me a story.
+156) 7) dialog: Sure you do.
+156) 8) text: Ronald drops on the table a dog-eared copy of that 1972 L magazine with Brian on the cover.
+156) 9) dialog: Famous story even. Straight burn.  Just an engine and truck first on  scene. What did you feel, Brian,  when you first got there?
+156) 11) dialog: You gotta tell a story too, Brian.  It's fair. C'mon, don't think too  hard --
+156) 13) dialog: Right. Light smoke, low roll. Couple'a  civilians hollering -- medium deal.  So young fireman Adcox and Captain  McCaffrey, they head up stairs, get  out on the fire escape -- McCaffrey  does the ballsy jump across... what  were you feeling, Brian? (Brian doesn't answer) C'mon, you promised. Be honest. (Brian just stares) Okay... Guard!
+156) 15) dialog: (smiles) Very good, Brian. -- About your report  here. The way to a torch's heart is  through his tools. That's how you  know him. It's the way he talks to  the fire. And to you if you listen.
+156) 17) dialog: That's a probie answer. You're smarter  than that, Brian.
+156) 19) dialog: Good. -- So our two heroes, Adcox  and McCaffrey, they go back inside.  Only there's another fire in there  nobody sees. And it took your dad,  didn't it Brian? Did you see him  burn?
+156) 22) dialog: After it took your dad... the fire...  did it look at you Brian? Did it  talk to you?...
+156) 23) text: And Ronald sees something in Brian's eyes. He smiles.
+156) 24) dialog: You see, our world's aren't so  different...
+156) 25) text: Brian releases Ronald.
+156) 28) dialog: Think, Brian. Who doesn't love fire,  but knows it better than anyone else?  Who's around trychticholorate 24  hours a day?
+156) 31) dialog: Not such a far walk after all, is  it, Brian?

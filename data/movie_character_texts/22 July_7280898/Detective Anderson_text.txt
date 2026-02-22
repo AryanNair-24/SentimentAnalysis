@@ -1,0 +1,17 @@
+84) 4) dialog: (to BREIVIK) Who are you?
+84) 6) dialog: Did anyone help you? +e
+84) 12) dialog: What do you want?
+90) 6) dialog: (as she sits) Mr Breivik, my name is Detective Anderson. I am a detective at the Homicide and Serious Crimes Unit. My job is to get as much information as possible about what happened today. Do you understand you've been arrested in connection with the explosion in Oslo, and the shooting on Utgya Island?
+90) 11) dialog: Can you tell me how you planned these attacks?
+90) 13) dialog: What about the bomb?
+90) 15) dialog: Did anyone help you?
+90) 18) dialog: We have found your computer, at your mother’s apartment. Can you tell me what’s on it?
+90) 25) dialog: You sent it to 8,000 people. Did any of them help you?
+90) 27) dialog: Did any of them assist you? DETECTIVE ANDERSON (CONT’D) I need to know if any more attacks are planned.
+90) 29) dialog: This isn’t a negotiation.
+90) 31) dialog: Haven’t enough people died? I need to know if there are any more attacks coming.
+92) 0) text: LIPPESTAD watches BREIVIK eating pizza. A can of coke. DETECTIVE ANDERSON enters.
+92) 1) dialog: (sitting) The Prime Minister has seen your demands. He can’t accept your terms. But he wants me to give you a message.
+92) 5) dialog: It was a personal message. He says he wants you to know he’s listening to you. +e This lands. BREIVIK looks at the window, studying the dark glass.
+92) 7) dialog: We need to know if another attack * is coming. *
+92) 9) dialog: And how do we know we can trust * you?

@@ -1,0 +1,50 @@
+64) 3) dialog: Press conference is at four, I need to tell them where we are. Toschi's phone begins RINGING AGAIN. He ignores it.
+64) 5) dialog: Where are we really?
+64) 7) dialog: Hard suspects?
+64) 9) dialog: Can you narrow it down? (CONTINUED)
+64) 13) dialog: I have to tell them the entire force is on this.
+64) 15) dialog: For now it's just you and Bill. And Monday's a school day.
+64) 17) dialog: Where's Armstrong?
+133) 0) text: Toschi finds Captain Lee and Armstrong watching a MORNING NEWSCAST on Lee's small portable black and white TV:
+133) 3) dialog: He didn't call you about this?
+133) 12) dialog: You know how bad this looks?
+133) 15) dialog: Get on a plane, but keep it quiet. If it hits the press you're meeting in Riverside, it automatically confirms Avery's story, right or wrong.
+145) 0) text: Toschi and Armstrong, sitting with Captain Lee.
+145) 5) dialog: Where is he?
+145) 7) dialog: See 'em both. And bring Mulanax in, it's his backyard.
+148) 2) dialog: Gets you around a search warrant.
+148) 4) dialog: But you do.
+148) 6) dialog: Take it slow. Try and get more stuff to Sherwood, a match'll get you a lot farther with the warrants— Armstrong pokes his head in from the SQUAD ROOM:
+154) 0) text: Toschi and Armstrong with Captain Lee.
+154) 1) dialog: What do you want to do?
+154) 3) dialog: Are there other guys you should be looking at? Toschi and Armstrong exchange a look.
+154) 7) dialog: Okay then. A beat. They turn and leave.
+157) 8) dialog: Why does Napa keep calling about a Rick Marshall?
+157) 17) dialog: Every letter except the last one is postmarked San Francisco-
+160) 0) text: Toschi and Armstrong, walking with Captain Lee.
+160) 1) dialog: It's in Santa Rosa?
+160) 6) dialog: It's been eleven months since you talked to this guy, now you want to search his trailer?
+160) 8) dialog: I thought Sherwood shut you down.
+162) 0) text: Captain Lee sits on the edge of Toschi's desk facing the detectives.
+162) 5) dialog: Get Cheney on the record.
+164) 0) text: Toschi, Armstrong and Captain Lee stand around a SPEAKER PHONE. On the other end is Santa Rosa D.A. JOHN HAWKES.
+164) 1) dialog: John, I got Dave Toschi and Bill Armstrong with me and we think they've got enough for a warrant. (MORE) (CONTINUED)
+164) 5) dialog: They're going to take you through this. I'm assuming you've got Mr. Cheney's statements?
+164) 7) dialog: Okay. Guys? Armstrong opens his notes.
+164) 21) dialog: John, that's two sources on the ciphers and two on the flashlight.
+164) 23) dialog: Suspect worked at elementary schools and was fired for molestation in March/April '68 - could give him motive.
+164) 27) dialog: Take him through the geography.
+164) 37) dialog: John?
+164) 39) dialog: We think so too.
+168) 1) dialog: No.
+168) 3) dialog: Ballistics - no match, prints - no match, writing - no match.
+168) 5) dialog: And neither hand matches.
+168) 7) dialog: Fellas. He's not your guy. Silence as this sinks in. Toschi stands and leaves, SLAMM THE DOOR. Lee heads after him, leaving Armstrong sitting there, equally devastated that they were wrong...
+169) 1) dialog: What do you want? Time off? A hug? Toschi turns.
+169) 6) dialog: Because you thought it was him. And I did too. (pause) Maybe you should take some vacation. Spend some time with the wife and kids. Go to Candlestick.
+169) 7) dialog: Take in a movie.
+196) 0) text: Captain Lee picks up. Next to him, an excited DUFFY JENNINGS. INTERCUT with Toschi at the CALL BOX:
+196) 2) dialog: I've got Jennings from the Chron- Jennings snatches the phone out of his hand. Manic.
+198) 0) text: Toschi enters at a sprint, taking stairs two at a time. S Captain Lee at the top, flanked by TWO MEN in SUITS. Befo he reaches them:
+198) 4) dialog: Dave, these guys are from Internal Affairs. We need to talk.
+198) 6) dialog: Dave, these guys are from Internal Affairs, they're gonna need a handwriting sample.

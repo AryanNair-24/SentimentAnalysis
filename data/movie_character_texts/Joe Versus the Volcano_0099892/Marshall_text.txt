@@ -1,0 +1,74 @@
+19) 0) text: Joe is sitting in the back, idly plucking his ukulele, looking out the windows, stretching his legs. Driver is a middle-aged black man; his name is MARSHALL.  He's wearing a jacket and tie and sunglasses. He seems reserved and efficient
+19) 1) dialog: So where would you like to go?
+19) 8) dialog: Where would you like to go, sir? Joe thinks for a moment.
+19) 10) dialog: Okay.  Where would you like to go shopping?
+19) 12) dialog: Alright.
+19) 14) dialog: For what?  What do you need?
+19) 16) dialog: What kind of clothes?  What is your taste?
+19) 19) dialog: I'm just hired to drive the car, mister.  I'm not here to tell you who you are.
+19) 23) dialog: You were hinting around about clothes.  It happens that clothes are very important to me, Mister..
+19) 25) dialog: Banks.  Clothes make the man. I believe that.  You say to me you wanna go shopping, you wanna buy clothes, but you don't know what kind.  You leave that hanging in the air, like I'm going to fill in the blank, that to me is like asking me who you are, and I don't know who you are, I don't wanna know.  It's taken me my whole life to find out who I am and I'm tired now, you hear what I'm say in'? What's your name?
+19) 27) dialog: My name's Marshall, how you do? They shake hands quite seriously.
+19) 28) dialog: Wait a minute.  I'm coming back. Marshall gets out of the driver's seat, goes back and gets in next to Joe.
+19) 29) dialog: Now what's your situation? Explain your situation to me?
+19) 31) dialog: Okay.
+19) 33) dialog: Yes.
+19) 37) dialog: Good.  Where you going?
+19) 39) dialog: Nice places?
+19) 41) dialog: First class?
+19) 43) dialog: Good.
+19) 46) dialog: No tourists?
+19) 48) dialog: Good.
+19) 50) dialog: And what do you got in the way of clothes now?
+19) 54) dialog: So you've got no clothes. We'll start with basics. We'll start with underwear. We'll start with Dunhill. Marshall gets out of the car and heads back for the driver's seat. He thinks.  Marshall puts the car in gear and pulls away from the curb.
+21) 2) dialog: Conservative underwear is the only way to go.  White cotton broadcloth boxers.  Silk shorts make you feel like a whore, so none of that.  But with the tee shirts, Egyptian cotton, all right?
+23) 0) text: Marshall's leaning against the limo, reading a copy of The Scientific American. A WOMAN appears dressed as the Statue of Liberty.  She looks at Marshall.  He returns the glance.  She has a tin can in her hand.
+23) 1) dialog: What?
+23) 3) dialog: Shoot.  How 'bout a dollar for the way I look? He gives her a dollar.
+23) 4) dialog: Yeah. She exits.  Joe comes out of the store with a shopping bag.  Marshall opens the door for him.
+23) 6) dialog: I knew that. I could see it on your face.
+24) 1) dialog: What else you need?
+24) 5) dialog: English trench coat?  That's foul weather wear, man. You're goin' west!
+24) 7) dialog: You're a sexual man?
+24) 9) dialog: Not that I mean to be crude, but I'm trying to express something.  Armani.  That's what you want.  And how 'bout a haircut?
+24) 11) dialog: I can't express it.  It looks like freedom without choice. It looks wrong. While he's talking, he has picked up the car phone and punched some numbers.  He speaks into the phone.
+24) 12) dialog: Salon Salon, please. He breaks the connection and dials again.
+24) 13) dialog: Hi, gimme Cassie Cimorelli, please. Hello, Cassie?  It's Marshall, how you?  Good. Listen, I got somebody who needs you today, can you help me out?  2:30?  Great, good, thanks. He hangs up.
+24) 14) dialog: We gotta get moving. He puts the car in gear and pulls away.
+26) 2) dialog: This is too complicated.  I gotta come in with you.  If I getta ticket it can't be helped.
+27) 0) text: Joe and Marshall get out and go in.
+28) 0) text: Joe is standing on a fitting stool in a beautiful suit. He's being ministered to by an ITALIAN TAILOR, as Marshall supervises.  Marshall murmurs to the Tailor.
+28) 1) dialog: I still think the full break over the shoe is the way to go.
+28) 4) dialog: Hey, Joe, how about a tux?
+28) 6) dialog: Something'll come up.  There's nothing a man looks better in.
+28) 8) dialog: I can't be buying no Armani tux. I'm a working man.
+29) 0) text: Marshall is standing on the fitting stool in an Armani tuxedo. The Tailor is doing his cuffs.
+29) 1) dialog: Gimme the full break over the shoe, Pietro.  It's my preference.
+30) 0) text: emerge.  Marshall opens the door to the limo for Joe and urges him to speed it up.
+30) 1) dialog: Come on, kid!  We're on a roll! (as he walks around to the driver's side)
+30) 2) text: Didn't even get a ticket. Marshall gets in, starts it up, and pulls away.
+33) 7) dialog: It's the in and out issue.
+33) 9) dialog: Carrie Fisher, Barcelona, African-Americans, happy endings, The New York Dally News, tomato salads, God, garlic, wristwatches you have to wind up, and true love.
+33) 11) dialog: You don't like Carrie Fisher?
+33) 13) dialog: Kafka, C.D.'s.
+33) 17) dialog: Stand-up comedy...
+33) 19) dialog: All restaurants that haven't been in existence for at least thirty years.
+33) 21) dialog: Paloma Picasso.
+33) 23) dialog: New money and old money.
+33) 25) dialog: All camp, all trash, all trivia...
+33) 27) dialog: And The New York Times.
+33) 31) dialog: You're coming into focus, kid! I can see you now. Marshall nods approval.  Cassie and Joe exchange a smile. JOE VERSUS THE VOLCANO - Rev. 6/7/89
+34) 0) text: The limo pulls up.  Joe goes in. Marshall stays in the car.
+36) 0) text: Two uniformed attendants from Armani are handing the last of the boxes to Joe, who's now sitting in front with Marshall.
+36) 4) dialog: You know what you need?
+36) 6) dialog: How you gonna carry this stuff? You need luggage!
+38) 0) text: Marshall and Joe have just finished securing the four trunks to the top of the white limo.  They get in the car.
+39) 0) text: Marshall starts it up.
+39) 2) dialog: Fair enough.  Where to? Back to Staten Island?
+39) 4) dialog: The Plaza's nice.
+39) 6) dialog: (lighting up)
+40) 0) text: Seven bellboys and girls are unloading the white limo and carrying its contents into the hotel.  They wear classic bellboy uniforms and caps.  Marshall and Joe are watching.
+40) 4) dialog: Yeah?
+40) 6) dialog: Can't do it.  I got my wife and kids at the end of the day, you know?
+40) 9) dialog: Listen, ain't you got nobody?
+40) 11) dialog: You're gonna be Alright. Joe shrugs.  He and Marshall shake hands.  They look at each other.  We see Marshall get in the limo and pull away.  We see Joe look after him, then turn and go into the hotel.

@@ -1,0 +1,15 @@
+72) 0) text: Jeff pushes through the main doors. It's a typical small town operation. A guard stands near the entrance. Several customers wait in line for the woman teller. Jeff looks at the slow-moving line and swears softly. He doesn't have time to wait. He glances around, sees an older man sitting at a desk in the rear of the bank, the nameplate on the desk identifying him as Roger Calhoun. Jeff approaches. JEFF
+72) 1) text: I need to see the manager. I need a wire transfer from my bank in Boston. CALHOUN looks up from his paperwork, hesitates at Jeff's appearance. CALHOUN
+72) 3) dialog: Sir?
+72) 5) text: What? CALHOUN
+72) 11) text: Here's my driver's license, credit card if you need it, my account number in Boston... How long is this going to take? Calhoun looks at him curiously. CALHOUN
+72) 14) dialog: Excuse me? JEFF
+72) 15) text: (impatient) My credit card. I've got a $6,000 limit. Can you advance me the whole $6,000? Calhoun looks mystified. CALHOUN
+72) 17) text: Yes, I'm fine. Just... transfer the money, okay? Calhoun raises an eyebrow and begins filling out the transfer form. Jeff eyes him, decides he has to risk it. He leans toward the desk. JEFF
+72) 18) text: Look, I'm going to tell you something. Whatever happens, just keep filling out that form, okay? CALHOUN
+72) 25) dialog: Yes, I am.
+72) 27) dialog: (indicating waiting area)
+72) 29) dialog: (turning back to Jeff)
+74) 0) text: Jeff comes out of the rest room. The manager is behind the teller's counter. The cowboy is gone. In his place sits a middle-aged blue collar worker. He looks at Jeff. Jeff takes a seat, glances at Calhoun's empty desk. There is a letter opener on the desk, several paper bands for wrapping currency. Positioning his body so no one can see, Jeff takes the letter opener and slips it into his sleeve. He scoops up a handful of currency wrappers. Jeff goes to the teller's window, scribbles something on the back of a deposit slip and hands it to the teller. JEFF
+76) 0) text: Calhoun speaks on the phone. CALHOUN
+76) 1) text: Marie, this is Roger Calhoun down at the bank. Is the Sheriff there? (a beat) Well, maybe it's nothing, but you might tell him we just had a fellow in here acting kind of strange...

@@ -1,0 +1,116 @@
+15) 13) dialog: Yes, Miss Gallagher, Miss Price is quite right. DR. HIRSCH enters.  He is an older man wearing the customary lab coat.  A very commanding and reassuring presence.  The girls are embarrassed.
+15) 15) dialog: Miss Gallagher, surely you must perform some function here at the hospital.
+15) 17) dialog: Then get on with it.
+15) 19) dialog: Can I be of service, Miss Price?
+15) 21) dialog: Go about your duties.
+15) 23) dialog: Oh, Miss Price?
+15) 25) dialog: What exactly did he call out?
+15) 27) dialog: That would be Jack Goodman, the boy who was killed.
+15) 29) dialog: The police report said an escaped lunatic attacked them. He must have been a very powerful man.  Although I really don't see that it is any of your concern, Miss Price.
+17) 0) text: David opens his eyes quickly, the silence and whiteness contrast sharply with the preceding fantasy.  Standing beside the bed are Dr. Hirsch and MR. COLLINS.  Mr. Collins wears a bow tie and is holding a briefcase.
+17) 1) dialog: Hello, David.  I am Dr. Hirsch and this is a countryman of yours, Mr. Collins.
+17) 3) dialog: You're in a hospital in London.
+17) 5) dialog: I should think so after your recent traumatic experiences.
+17) 7) dialog: (quietly)
+17) 18) dialog: (holds David down, calls out)
+17) 24) dialog: Prepare a hypodermic, please, Miss Price. The shot is administered and David is held down by Dr. Hirsch and Alex until his breathing becomes more normal.
+17) 26) dialog: Thank you very much, Mr. Collins.  He'll rest now and I'm sure everything will be fine once he's adjusted.  He's had quite a shock.
+17) 29) dialog: You've been unconscious since you were brought in two weeks ago.
+17) 31) dialog: You've suffered some rather severe cuts and bruises, lost a bit of blood, but nothing too serious; black and blue for a while.  You'll have some dueling scars to boast of. That lunatic must have been a very fierce fellow.  They say a mad man has the strength of ten.
+17) 34) dialog: Now we've just given you a pretty strong sedative, so try to get some rest now.  Miss Price will see to your needs. Rest now. Dr. Hirsch watches as Alex straightens David's covers.
+17) 43) dialog: Did he say a wolf?
+18) 0) text: Dr. Hirsch is on the phone, he is referring to a desk calendar.
+18) 1) dialog: But Roger is so terribly boring.  Yes, dear, but couldn't we...I see. (he makes a note)
+18) 3) dialog: Yes?
+18) 5) dialog: Send them in. He rises to greet the two police officers, one tall, the other rather pudgy.
+18) 7) dialog: Come in, come in.  Please sit. Some tea? The cops sit down, Lt. Villiers immediately produces a small notebook.
+18) 11) dialog: It's no problem.
+18) 13) dialog: Well, then, what can I do for Scotland Yard? SGT. McMANUS
+18) 17) dialog: Excuse me.  Yes?
+18) 19) dialog: What here?
+18) 21) dialog: Tell him I'm out.  No, tell him I've passed away.  An old war wound or something.  Tell him I'm dead.  And no more calls! He turns from the intercom back to the cops.
+18) 22) dialog: You were saying?
+18) 24) dialog: Why don't we ask him?
+19) 0) text: David sits up in bed.  Lt. Villiers and Sgt. McManus stand by his side.  Dr. Hirsch sits observing.
+19) 11) dialog: So they said.
+19) 13) dialog: In time I'm sure it will all come back to you.
+28) 0) text: It is bright, daylight, and Dr. Hirsch gazes thoughtfully out the window.
+28) 1) dialog: You've never had bad dreams before?
+28) 3) text: Sure, as a kid.  But never so real.  Never so bizarre. Dr. Hirsch crosses over and sits on a chair by the bed.
+28) 4) dialog: Did you get a good look at the man who attacked you?
+28) 6) dialog: (chewing on his glasses)
+28) 9) dialog: You'd be surprised what horrors a man is capable of.
+28) 11) dialog: No.  In fact, your wounds were cleaned and dressed before you arrived here.
+28) 13) dialog: I really don't know.
+28) 15) dialog: (rubs his forehead)
+28) 18) dialog: Believe me.  The Hound of the Baskervilles was an invention of Sir Arthur Conan Doyle's. And if you'd read the bloody book, you'd find that Holmes discovered your house of hell a fraud, a fake. There is an awkward silence as David sits and Dr. Hirsch is embarrassed at raising his voice.
+28) 19) dialog: Now really, David.  You're far too intelligent to go on this way.  When you return to America I want you to seek out a competent psychiatrist or psychologist or something and stop this nonsense.  You'll be leaving this hospital in three or four days, please remain sane.  At least until you are no longer our responsibility. Dr. Hirsch goes to the door.
+28) 22) dialog: Of course not, David.  I'll fetch in young Miss Price.
+48) 0) text: Dr. Hirsch is driving down the main street in his red M.G.  He parks in front of The Slaughtered Lamb.
+49) 0) text: The pub is less crowded than when we were here last. The Dart Player is behind the bar cleaning glasses, the Chess Player is still at the chessboard.  Dr. Hirsch enters and crosses to the bar.  As he removes his gloves:
+49) 1) dialog: A drink for a very cold man? The Woman comes in from the back.
+49) 3) dialog: Campari and soda would do nicely.
+49) 5) dialog: I suppose Guinness will suffice. She serves him his beer.  As he lays down his money...
+49) 6) dialog: A thousand thanks. After a few sips.
+49) 7) dialog: Nasty bit of business with those two young American boys. The Dart Player stops his wiping.
+49) 9) dialog: Yes, I'm sure that's right.  A few weeks ago, the last full moon wasn't it? The Chess Player turns in his chair to get a good look at Dr. Hirsch.
+49) 10) dialog: I mean that escaped lunatic. The one that killed the boy. Wasn't that near here?
+49) 12) text: And where are you from, sir? Dr. Hirsch crosses and joins the Chess Player at his table.
+49) 13) dialog: London.  Knight takes pawn.
+49) 16) dialog: What's that?
+49) 19) dialog: I see.  You've heard nothing about the incident?
+49) 21) dialog: The murder?
+49) 23) dialog: (smiles)
+49) 25) dialog: He was talking about werewolves and monsters and as I was near here I thought....
+49) 27) dialog: I thought I'd look into the boy's story.
+49) 29) text: A story about werewolves - now really, sir. Dr. Hirsch eyes the Chess Player.
+49) 30) dialog: Would you like a game of chess?
+62) 0) text: Miss Gallagher is helping Mrs. Hobbs dispense medication into paper cups when Dr. Hirsch approaches. He is still wearing his overcoat.
+62) 1) dialog: Is Miss Price on duty this evening?
+62) 3) dialog: Miss Gallagher, do you know if Miss Price has seen the Kessler boy since his release? Miss Gallagher is not sure how to answer.
+62) 6) dialog: Come to my office, Miss Price. Alex and Susan exchange glances as she obediently follows Dr. Hirsch down the hallway.
+64) 0) text: Dr. Hirsch hangs up his overcoat.
+64) 1) dialog: Sit down, Alex. Alex sits and Dr. Hirsch leans against his desk.
+64) 2) dialog: I was in East Proctor today. Alex looks confused.  Dr. Hirsch realizes the cause of her concern.
+64) 3) dialog: Oh dear girl, your extracurricular activities are of no consequence to me.  I don't give a damn who you sleep with.  I'm concerned about David.
+64) 5) dialog: It's a full moon.  Where is he?
+64) 7) dialog: The number, Alex.  Your number!
+67) 0) text: Dr. Hirsch waits on the phone, finally hanging up.
+67) 1) dialog: He's not there. Alex grows worried.
+67) 3) dialog: Alex, has David persisted in his werewolf fantasies?
+67) 5) dialog: Has his friend appeared to him again?
+67) 7) dialog: What did he say?
+67) 9) dialog: Warn him?
+67) 11) dialog: I tried to investigate the attack.  There are no records. The case was closed and now they've `misplaced' the file. David's lacerations were cleaned and dressed when he arrived here and yet supposedly no doctor examined him before I did.  The Goodman boy is already in the ground so he's no good to us.  So I went to the pub in East Proctor where I was convinced of two things.
+67) 13) dialog: They were lying.  There were no witnesses, no escaped lunatic.  The whole community is hiding the truth of what actually happened up there.
+67) 15) dialog: I think the village of East Proctor is hiding some dark and terrible secret.  I'm convinced that, like David, they believe in this werewolf. Alex is flabbergasted.
+67) 16) dialog: You've absolutely no idea where David might be?
+67) 19) dialog: David has suffered a severe trauma.  I myself witnessed some form of mass neurosis in East Proctor.  If all the villagers believe that Jack Goodman was killed by a werewolf, why shouldn't David? And then it follows that if he survived an attack by a werewolf, wouldn't he himself become a werewolf the next full moon?
+67) 21) text: Dr. Hirsch?
+67) 22) dialog: Oh, I don't mean running about on all fours and howling at the moon.  But in such a deranged state he could harm himself, or perhaps others.
+67) 24) dialog: Let's call the police and see if they can help us find our wandering boy.
+72) 2) text: Hello?  No, Dr. Hirsch, he hasn't come back yet.  Yes, I will, doctor, but I just feel so helpless sitting here doing nothing.  Thank you, yes, goodbye. She hangs up and looks around the empty flat.  She is now more worried than ever.
+76) 0) text: The signs they always have on London newsstands proclaim "Man or Monster?"  Dr. Hirsch picks up a newspaper with its headline, "London Murder Victims Found Partially Devoured".
+76) 1) dialog: I'll have one of those, too. He pays for the papers.  The second one's headline, "Death Toll Up To Six - New Jack The Ripper?"
+79) 0) text: Dr. Hirsch is dialing the phone.
+80) 3) dialog: Alex, have you heard anything? Alex speaks softly so that David won't hear her.
+80) 5) dialog: (excited)
+80) 8) dialog: The zoo?  Is he rational?
+80) 10) dialog: Have you read the papers today?  Have you listened to the radio or television?
+80) 12) dialog: Is David acting strangely?
+80) 14) dialog: Could you get here without any trouble?
+80) 16) dialog: Right.  Now listen carefully. I want you to bring David here.  I want him in my care. I'll notify the police that we've found him.  It is imperative that you bring him straight to the hospital.  Do you understand?
+80) 18) dialog: You're certain he's lucid? You won't need any help?
+80) 20) dialog: Shall I send a car?
+80) 22) dialog: I expect you shortly. Dr. Hirsch hangs up, checks a piece of paper, and then dials again.
+80) 23) dialog: Yes, Scotland Yard?
+85) 0) text: Alex sits distraught in the chair opposite the desk. Dr. Hirsch is talking to Lt. Villiers and Sgt. McManus.
+85) 2) dialog: (interrupts)
+85) 5) dialog: Precisely.
+85) 12) dialog: (interrupts)
+85) 17) text: We'll find him, not to worry. The two policemen exit.  Dr. Hirsch looks at Alex.
+85) 20) dialog: (comforting)
+96) 0) text: Alex is asleep.  Dr. Hirsch wakes her.
+96) 1) dialog: Nurse Hobbs said there's a disturbance in Leicester Square involving some sort of mad dog.
+96) 3) dialog: I doubt it.  But it's something to do.
+100) 4) dialog: Alex! Alex walks towards the dark end of the alley.

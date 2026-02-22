@@ -1,0 +1,27 @@
+37) 0) text: Rocky sits on the edge of the hospital bed in a gown. He looks pissed off. Adonis leans up against the wall across from him. The door opens and DR. SHAHANI (mid 30s, Indian woman) wa in holding a clipboard. 55.
+37) 1) dialog: Mr. Balboa! How are you feeling?
+37) 3) dialog: Actually, I am the doctor.
+37) 5) dialog: And you are...
+37) 7) dialog: So what brings you in to us?
+37) 9) dialog: Was that the first time you’ve fallen? Rocky shakes his head.
+37) 10) dialog: Any other symptoms?
+37) 12) dialog: Your appetite? Rocky shakes his head.
+37) 14) dialog: Well you have a history of head trauma. And some of the symptoms you describe are consistent with dimentia pugilistica. (off Rocky’s look) But what has me worried is the loss of appetite, and the vomiting. We should run some tests.
+37) 16) dialog: I believe we should do it now, just to be on the safe side.
+49) 4) dialog: Mr. Balboa, this is Dr. Shahani- would you be able to stop by today?
+49) 6) dialog: It would actually be better if you came in to talk with us in person. Rocky looks over at his camp for a beat.
+50) 0) text: Rocky, wearing street clothes, sits in the consultation r Dr. Shahani sits across from him.
+50) 1) dialog: Well, we went through your test results. And the neurological tests came back as I had expected. But your MRI and blood tests came back showing signs of Hodgekins lymphoma.
+50) 3) dialog: Well Hodgekins is a very rare form of cancer.
+50) 5) dialog: The good news is, we caught while there is still a chance... We’ll have to remove the tumor in your lymph nodes, and start chemotherapy immediately. Rocky takes all of this in for a beat, while Dr. Shahani continues the prognosis. He stands up, grabs his coat.
+50) 7) dialog: Mr. Balboa... I’d like to go over our options for treatment. Come up with a plan of action.
+50) 9) dialog: What?
+50) 11) dialog: Mr. Balboa, we caught this early enough that with treatment, you still have a very good chance of recovery. Without it, you have less than a 5% chance.
+50) 13) dialog: Wait, at least take these. It has information on your diagnosis, and options for treatment... Rocky turns and looks at her for a beat, while holding th door open. He takes the pamphlets and heads out.
+69) 0) text: Rocky and Adonis sit across from Dr. Shahani
+69) 1) dialog: Dr. Warren is going to walk you through the procedure. Rocky nods. 125 90.
+69) 2) dialog: So we'll be putting you under general anaesthesia, and removing the tumor from right here. Now once we're in there, if we see any other questionable tissue, we will remove that too.
+69) 4) dialog: As soon as possible. Rocky looks on at the CT Scan. Adonis standing beside him
+71) 2) dialog: How are you feeling?
+71) 4) dialog: Well you should be feeling better now, and just in time. A bunch of us here at the hospital are getting the fight next weekend. We feel apart of the team! When do you guys take off? 93.
+71) 6) dialog: So exciting... Well let’s get you going for this catscan. Adonis looks down at video, just in time to see Porter kn his opponent out, cold. Dr. Shahani walks Rocky out.

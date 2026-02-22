@@ -1,0 +1,228 @@
+15) 10) text: He wears a tattered SUIT AND TIE. None of it matches, everything scavenged from different outfits and eras. But looks almost civilized. Respectable. His name is CARNEGIE
+15) 14) dialog: What is it?
+15) 18) text: Carnegie lowers his book. Concerned.
+15) 20) dialog: How bad is it?
+15) 23) text: Carnegie stands. Thinking. This is bad news.
+15) 25) dialog: How long?
+15) 29) dialog: Halve the rations.
+15) 33) dialog: So halve them again!
+15) 34) text: BEAT. Carnegie stares Redridge down. Nobody but nobody questions his orders.
+15) 40) text: Carnegie sighs, rubs his brow. He knows Redridge is right
+16) 1) text: A LARGE CROWD OF TOWNSFOLK - several hundred strong - has assembled outside the Palladium theater. AN ARMED CREW OF CARNEGIE'S GOONS keeps watch over the crowd.
+16) 2) text: Carnegie stands on a BALCONY above the theater marquee. H treats the balcony like a pulpit, speaking through a MICROPHONE connected to an old PA SYSTEM that carries his words to the far reaches of the crowd.
+16) 4) dialog: I want you all to remember how far we've come together. And how far we still can go, if only we believe. When I brought us here to this oasis - this promised land - we knew there would be hardships. Knew there would be sacrifices. But we also knew that we were creating for ourselves a world where we could be safe from the horrors of the forsaken lands beyond our borders.
+16) 5) text: The crowd listens intently, hanging on Carnegie's every w He is an incredibly charismatic and persuasive speaker - cultivated image and inspiring, confident delivery remind of a TELEVISION EVANGELIST.
+16) 7) dialog: And I want you all to remember above all that it is not the water with which we have been blessed that is the true lifeblood of this town... but faith.
+16) 8) text: This sends a MURMUR OF DISCONTENT through the crowd. Many don't like where they suspect this may be going. Carnegie senses this and dials up his rhetoric - delivering it now with the fire-brand passion of an old-time baptist preach
+16) 10) dialog: It is our faith that sustains us, brothers and sisters! Hallelujah!
+16) 14) text: The crowd is divided. Many return the "Hallelujah" with varying levels of conviction. Others are not convinced. B Carnegie continues unabated, selling it harder than ever.
+16) 16) dialog: And mark me, the ultimate validation of that faith is coming! The sacred Word of Our Lord that formed the world before and will reform it once again is coming to this town to bring it succor, bring it nourishment, bring it new life! For the Almighty Himself has spoken unto me and promised it!
+16) 17) text: Carnegie is such an impassioned and inspiring speaker it' almost impossible not to get caught up and swept away by words. His apparently unshakable belief is infectious.
+16) 19) dialog: In the meantime, He has asked us all to be patient. To walk the hard road of the faithful just a little longer. And to do that, we must give just a little more. (BEAT) Water rations will be halved until further notice.
+16) 21) text: Carnegie motions for the crowd to settle down.
+16) 23) dialog: I understand your frustration. The road to salvation is a difficult one - but what lies at the end of that road is a greater glory, beyond anything you can imagine.
+16) 24) text: A DISCONTENTED VILLAGER steps forward, pushing through th crowd and jabbing his finger angrily up at Carnegie.
+16) 27) text: Carnegie's goons quickly move in and efficiently SILENCE MAN, removing him from the crowd. Dissent is not tolerate here. Carnegie goes on speaking as if nothing had happene
+16) 32) dialog: I know each and every one of you will understand the necessity of this action. It was faith that built this town - and faith that will sustain it even through the dark times that may lie ahead. But it is always darkest before dawn - and the new dawn is coming. (BEAT) May God go with you all.
+16) 33) text: Carnegie steps back inside, leaving the crowd to talk amo themselves, clearly mixed about what they have heard.
+17) 1) text: Carnegie emerges into the second-floor hallway from the balcony, mopping his brow. Exhausted and stressed from hi grand theatrical display, and from its mixed reception.
+17) 5) text: Carnegie looks at his cracked old wristwatch.
+17) 7) dialog: Of course they did, the bar's open. Outlanders, always looking for answers at the bottom of a bottle.
+17) 10) text: That gets Carnegie's attention.
+17) 12) dialog: Get them up here now.
+19) 1) text: Carnegie checks his reflection in a CRACKED HAND MIRROR, licks his palm and slicks his hair back. He adjusts his t as Redridge's men usher the bikers into his "office".
+19) 2) text: Carnegie wheels around and flashes a smile at them. Just when he gave his balcony address, Carnegie is in performa mode - charismatic and slick like a campaigning politicia
+19) 4) dialog: Gentlemen! It's truly a delight to see you again! I understand your latest excursion into the outland has been a profitable one?
+19) 9) dialog: Well, let's see, shall we?
+19) 10) text: Hog tips the satchel's contents out onto Carnegie's desk.
+19) 11) text: BOOKS. About a dozen different volumes of all shapes and sizes. Carnegie rifles excitedly through the collection.
+19) 19) dialog: No. No. No. No. No.
+19) 20) text: As Carnegie rejects each book with growing disappointment frustration, it's clear he's looking for a specific volum
+19) 22) dialog: It's not here.
+19) 26) dialog: When you bring me the book I asked you for, it'll be worth something.
+19) 30) text: Carnegie's guards bristle, ready for a confrontation. Carnegie just smiles, always ready to smooth things over.
+19) 32) dialog: Gentlemen, gentlemen. I urge you once again to take the long view here. When we find this book - and believe me, we will find it - we are going to build a new world. A world far greater, far more righteous than this one. And you and I are going to be perched right on top of it, looking down upon it, masters of all creation!
+19) 35) dialog: And you know, I think you're absolutely right.
+19) 39) text: CARNEGIE (cont'd) That is worth more than a few glasses of liquor. A whole lot more.
+19) 42) dialog: The book I want is out there somewhere, just waiting to be found. Once there were millions of copies - you only need to find one! Find it and bring it here. And I promise you, you will be rewarded beyond anything you can imagine.
+19) 48) text: Carnegie slumps back into his chair, frustrated, pissed o
+19) 52) dialog: Not one of them can read. How would they even know when they found it?
+19) 55) text: Carnegie and Redridge lock eyes. BEAT.
+19) 58) text: Carnegie ignores him. Stands, walks toward the door. Redr sighs, gestures toward the books piled on Carnegie's desk
+19) 65) dialog: Put them with the others.
+22) 7) text: The door opens and Carnegie enters. He still looks steame Claudia doesn't turn to look at him, keeps facing the mir
+22) 10) text: Carnegie says nothing. Just paces angrily up and down. Finally Claudia turns to face him.
+22) 14) dialog: More books came in from the road today.
+22) 18) dialog: And it'll be a while longer. Just another pile of useless junk. If we don't find the right one soon - if I can't give these people what they want to hear...
+22) 19) text: Carnegie trails off, the thought too awful to contemplate Claudia adopts a sympathetic expression, supportive.
+22) 22) text: This seems to anger Carnegie. He wheels on her.
+22) 24) dialog: Faith? Is that what you think we're missing around here?
+22) 25) text: She detects the aggressive tone in his voice and goes qui head bowed. Carnegie moves toward her angrily.
+22) 27) dialog: My old man used to have faith. He had it in spades. My mother, too.
+22) 31) text: CARNEGIE (cont'd) You know where it got them? You know where it got me?
+22) 34) dialog: Faith is for the weak. It's for them out there, the sheep. This world is what you can see and touch and taste. It's what you make it. All these years with me, you still don't have any grasp of that? What's wrong with you, woman?
+22) 38) text: Carnegie realizes he's frightened her. He softens.
+22) 40) dialog: No, I'm sorry. I didn't mean to scare you. Hey. You okay?
+22) 43) dialog: You just get me all riled up with that kind of talk. It's not what I need from you right now. (SMILES) You know what I need right now?
+22) 45) text: As they kiss, Carnegie pushes her excitedly against the w and feverishly begins unbuckling his pants.
+24) 1) text: Solara exits via the Palladium's STAGE DOOR and walks acr the busy street to where TWO OF CARNEGIE'S ARMED MEN stan guard around an ENCLOSURE OF CHAIN-LINK FENCE TOPPED WITH RAZOR WIRE. TOWNSFOLK wait in line with bowls and buckets
+26) 1) text: Carnegie has Claudia pinned against the wall, his pants bunched around his ankles, ass bared as he pounds away at her. Not making love. This is mechanical, loveless sex.
+26) 2) text: Claudia stares vacantly over his shoulder into space as Carnegie thrusts into her again and again. Deeply uninterested, just waiting for it to be over.
+26) 3) text: Suddenly, we hear a CRASH O.S. Carnegie stops and listens
+26) 5) dialog: Did you hear that? What was that?
+26) 9) text: BEAT. Carnegie keeps listening. Then comes another CRASH.
+26) 11) dialog: What in the hell is going on?
+27) 1) text: Carnegie emerges from the bedroom onto the balcony. Looks down over the railing - and is stunned by what he sees.
+27) 6) text: Carnegie rushes hurriedly along the landing, banging loud on the doors of the upstairs rooms.
+27) 8) dialog: Get your asses out here!
+27) 40) dialog: Hold it right there.
+27) 42) text: Carnegie is on the landing, training his rifle down at El Alongside him, FIVE GUNMEN do the same. They've got him c
+28) 1) text: Carnegie sits at his desk, the huge auditorium and stage visible behind him. Eli stands before him. Around him are other gunmen, who keep their weapons trained on him.
+28) 2) text: Standing at Carnegie's side are REDRIDGE and CLAUDIA.
+28) 4) dialog: So, who are you?
+28) 8) dialog: I've met walkers before. Not a particularly civilized bunch. Some have even taken to eating their own kind, did you know that? You wouldn't be one of those savages now, would you?
+28) 9) text: Carnegie's gunmen look him over, inspecting him warily.
+28) 15) text: Carnegie's confident gaze remains fixed on Eli throughout
+28) 17) dialog: Good. This is a civilized town. Under God. Do you know what that means?
+28) 20) dialog: It means we have laws here. Laws set down long before any of us ever walked this earth. And one of them is, you don't eat the flesh of your brother. Else you're no better than an animal. And not welcome here.
+28) 21) text: Eli doesn't respond. Just stands there in Carnegie's gaze
+28) 23) dialog: So what's your business here, friend? Walkers don't usually come into town less they want something.
+28) 26) text: Barely noticeable, Carnegie gestures to one of the gunmen who nods in acknowledgement and leaves.
+28) 28) dialog: Well, you sure as hell found it. Do you know who I am?
+28) 32) dialog: My name's Carnegie. I own this bar. I own the whole town. You've never heard of me?
+28) 36) dialog: Remarkable likeness, isn't it? You'd never guess half the men who built it were blind. A small tribute from a grateful people. I was deeply touched.
+28) 42) text: The mention of that word rankles Carnegie. He walks aroun the desk toward Eli, waves an admonishing finger at him.
+28) 44) dialog: Don't call them slaves. That's an old word. I'm not a slaver. I'm trying to help these people.
+28) 45) text: Carnegie can't help himself - once again he is in his nat element, spinning the argument his way, pitching. Selling
+28) 47) dialog: In the outland the sightless are preyed upon like sick animals. Here at least they're protected. They do the essential work others don't want. And in return they eat, they drink, they survive. Last year, a couple of them even got married - performed the ceremony myself. (BEAT) You see, I'm not exploiting these people - I'm saving them! Any one of them is free to leave whenever they wish. But here they stay. And they thank me every single day for their salvation!
+28) 52) dialog: What's your name, walker?
+28) 55) dialog: All right, I guess we just call you Walker. Don't see too many folks your age these days. You lived in the world before? You can read?
+28) 61) text: CARNEGIE
+28) 65) text: CARNEGIE
+28) 70) text: CARNEGIE
+28) 74) text: CARNEGIE
+28) 78) text: CARNEGIE
+28) 86) dialog: By who?
+28) 87) text: Eli doesn't reply. Carnegie smiles, dials up the charm.
+28) 89) dialog: All right, look. I'm going to make you an offer of goodwill. Stay the night, think it over. Try a little local hospitality. We'll talk again in the morning. If you're still not interested, you're free to go. No hard feelings.
+28) 92) text: The gunmen bristle, exchange nervous looks. Carnegie appe unfazed. He smiles. BEAT. He looks to the gunman at the d
+28) 94) dialog: Let him go.
+30) 1) text: A VIOLENT COMMOTION is heard from down the hall. Suddenly of Carnegie's henchmen comes flying into view as he is TH HARD INTO A WALL and slumps to the floor, unconscious.
+30) 2) text: Eli storms into the box, pissed. MORE GUARDS rush in behi him. Carnegie, seated behind his desk, waves the guards o as he stands to greet Eli, smiling ingratiatingly as ever
+30) 4) dialog: I knew you'd reconsider.
+30) 8) dialog: None of the walkers I've seen come here from the outland were ever what you'd call smart. I mean all those years out there alone on the road, some with their brains half- fried from eating each other - it's understandable why you people aren't the brightest bulbs in the box. But I never met one so dumb that he'd turn down a meal and a bed if it was offered.
+30) 12) dialog: Engineer? I don't know what you're talking about. If there's something wrong, maybe I can help.
+30) 13) text: Carnegie is a practiced liar. Much more difficult to read
+30) 18) dialog: This is Redridge. He's kind of my right-hand man around here.
+30) 21) dialog: He'll show you to your room.
+31) 2) text: It's another of the dressing rooms converted into a bedro less well-appointed than Carnegie's own. A threadbare rug Bed with relatively clean sheets. A sink for washing.
+32) 1) text: Carnegie washes, looking at himself in the old dressing-r mirror. He sees Claudia enter the room in its dim reflect
+32) 3) dialog: You took your time in there. How long does it take to deliver a plate of food and some water?
+32) 8) dialog: Oh? What about?
+32) 12) dialog: He tell you anything about him?
+32) 16) dialog: Yeah, I got that.
+32) 21) dialog: What makes you say that?
+32) 28) dialog: Well, we'll just see about that.
+32) 32) dialog: Who said anything about me? (BEAT) I'm sending Solara.
+32) 36) dialog: You know how often these walkers get laid? Never. Least not by anything living or willing. Girl like her can be very persuasive.
+32) 40) dialog: You went in there readily enough.
+32) 43) text: Carnegie sighs, tiring of this.
+32) 45) dialog: She's a grown woman now, Claudia. Sooner or later you're going to have to accept that. She has to earn her keep around here, same as the rest of us.
+32) 52) dialog: We've each been given a talent to help us make our way in this world. Some people's gift is more evident than others. Solara's sure as hell is.
+32) 53) text: Claudia looks at Carnegie in disgust.
+32) 56) text: Now it's Carnegie's turn to get angry. He rounds on her menacingly. She backs off as he approaches.
+32) 58) dialog: I'm the kind of man who'd pull a helpless blind girl off the road, a girl who'd been beaten and raped, and give her a place where she can live without fear! Without me you'd be just another no-eye, lying dead in the outland, picked clean by the buzzards, or shoveling dirt down there with the others. That's the kind of man I am!
+32) 62) text: Carnegie calms himself, backs off. Claudia goes to leave.
+32) 64) dialog: Where are you going?
+32) 67) text: Carnegie surges forward and pins Claudia to the wall.
+32) 69) dialog: You're not going to let me? (BEAT) Nobody tells me what I can and can't do in my own town. Nobody. I built this world, and I am God here! So don't go thinking about screwing with my plans. You know how this works. Solara goes against me, you get hurt. You go against me, she gets hurt.
+32) 75) dialog: So let's not see anybody get hurt. Okay?
+35) 2) text: Carnegie and Claudia sit at a DINING TABLE, eating breakf in silence. A third place is set, but no-one is seated th
+35) 5) dialog: Good morning, Solara.
+35) 8) dialog: I said good morning, Solara.
+35) 12) dialog: How was your night? Did you sleep well?
+35) 13) text: Claudia appears perturbed by Carnegie's subtle probing. Solara flashes him a frosty look.
+35) 16) text: Carnegie glares at her sternly.
+35) 18) dialog: You don't speak to your father like that. When I ask you a civil question, I expect a civil answer.
+35) 19) text: Solara lowers her head, scorned. Carnegie continues eatin
+35) 21) dialog: Did he say anything?
+35) 25) dialog: Well, do you think you managed to change his mind about staying?
+35) 31) text: Carnegie puts down his food, looks angrily at her.
+35) 33) dialog: So he did talk? What else did he say? Come on, I want all of it!
+35) 37) dialog: We'll see. This is my town, nobody leaves until I say they leave.
+35) 44) text: Claudia and Carnegie freeze. Carnegie stares at her, agap
+35) 48) dialog: Solara...
+35) 52) dialog: Solara!
+35) 55) dialog: What the hell are you doing?
+35) 58) dialog: God didn't put this food on the table. Do you hear me? (BEAT) Who put this food on the table?
+35) 64) dialog: I said who put this food on the table?
+35) 68) dialog: Who taught you that?
+35) 72) dialog: (PUZZLED) Who the hell is Eli?
+35) 76) dialog: And he taught you how to say those words? How did he know them?
+35) 79) text: This piques Carnegie's interest greatly.
+35) 81) dialog: What kind of a book?
+35) 86) dialog: Show me.
+35) 87) text: Solara makes the SIGN OF A CRUCIFIX with her index finger Carnegie's eyes widen; he can barely believe it.
+35) 89) dialog: He had a bible?
+35) 95) text: Carnegie BOLTS SUDDENLY FROM THE TABLE, overturning his c and sending his plate of food crashing to the floor.
+36) 1) text: Carnegie races across the landing, toward the ARMED GUARD posted outside Eli's bedroom. The guard steps aside as Carnegie flings the door open and barges inside.
+39) 1) text: Carnegie races from the lobby entrance and looks up at th open window to Eli's room. He could have easily jumped.
+39) 6) dialog: Something wrong? Something wrong? The walker's gone!
+39) 10) dialog: He jumped out the window, you idiot! You didn't think to put a man outside the fucking window? (beat; fuming) Find him. Now!
+39) 21) text: Carnegie dives for cover as FOUR MORE GUNMEN rush from th theater. Carnegie waves frantically in Eli's direction.
+39) 23) dialog: Go! Go!
+39) 25) text: Carnegie gets to his feet and storms back inside the thea
+40) 2) text: Carnegie stands in the doorway, glaring at them.
+41) 2) text: CARNEGIE'S GUNMEN pursue, firing their rifles wildly on t run. The bullets splinter wood, pierce barrels and crates narrowly missing Eli as he dashes, keeping his head down.
+41) 14) text: Eli whips around. In the upstairs window of the theater, Carnegie shoves Solara roughly against the wall. Barking angrily at her, shaking her.
+43) 1) text: Eli kicks the door wide open, finds Carnegie holding Sola against the wall. She sobs, terrified. Eli levels the sho at Carnegie's head.
+43) 8) dialog: That cannon of yours casts a pretty wide net. I don't reckon you can hit me without hitting her.
+43) 14) text: Carnegie releases his grip on Solara, steps away, hands u
+43) 16) dialog: I believe you. I have to say I'm surprised to hear that language coming from you, though. I mean, you being a holy man and all.
+43) 19) dialog: She told me all about it. Told me all about the bible, too. (BEAT) Can I see it?
+43) 22) text: Carnegie takes a small step forward. Suddenly, his whole demeanor changes, and he now looks at Eli imploringly.
+43) 24) dialog: You know, I've been searching for a book like that one for years. All I've ever wanted was to bring the word of God to these poor unfortunates here. To shine its light upon them and give them something in this wretched world that they could believe in. Something to live for! It's why I built this town, did you know that? All we've been missing is the word to show us the way. And now, praise the Lord, you've brought it to us.
+43) 28) text: Carnegie takes a step closer. He appears entirely sincere but then he is very good at doing so.
+43) 30) dialog: It's not right to keep that book hidden away, all to yourself. The word is meant to be shared with others. It's meant to be spread! Isn't that what you want? I could help you do that. You and me, we could do it together.
+43) 34) text: Carnegie smiles broadly... and then with a sudden blur of movement Eli PISTOL-WHIPS him to the floor.
+44) 2) text: Eli passes the statue of Carnegie - and STOPS. Something about that thing is bothering him.
+46) 2) text: Carnegie stands in the yard, tossing handfuls of animal f from a nearby sack onto the ground. He watches with satisfaction as the animals gather at his feet to feed.
+46) 5) dialog: Thank you, darling.
+46) 6) text: Carnegie applies it to his jaw, red and swollen from Eli' pistol-whip. Redridge appears nearby, his arm in a sling.
+46) 9) text: Carnegie doesn't appear to be listening. He is lost in a world of his own as he tends to the farm animals.
+46) 11) dialog: You know, I always thought of myself as a shepherd. Bringing together the wayward and the lost. Tending to my flock. But all the things I want to do, I can't do them on my own. The one thing I've needed is the one thing that's always been missing. Then one day it walks right into town - so close I can almost touch it - and then walks right on out again.
+46) 12) text: Carnegie finally looks up from his animals, at Redridge.
+46) 17) dialog: I want you to put a crew together and go out after him.
+46) 21) dialog: I'm not interested in him any more. I only want the book he's carrying.
+46) 24) text: BEAT as Carnegie considers this.
+46) 26) dialog: You have no idea. You're too young, you don't remember the world before. But I do. I remember.
+46) 29) dialog: When I was a kid my parents used to read that book every goddamn day. My mother, she'd read it along with this smooth-talking preacher on the TV screen. They used to be able to beam these guys right into your house, into every house in the world, through the air. Like magic. (BEAT) She worked two jobs and she sent every spare penny she had to that fucking guy on the TV. My old man, he'd read that book, then he'd get liquored up and kick my ass, tell me all about the power and the glory and how I was going to burn forever in hell for the sins I was born with. He made sure he beat it into me good.
+46) 32) dialog: Don't you see? It's not just any book.
+46) 36) text: CARNEGIE (cont'd) It has the power to motivate people. It can give them hope, it can terrify them. It can shape them. Control them. (BEAT) Do you remember how I built this town? It wasn't done with force, and it wasn't done just with water. It was done with the power of words. I created this place out of nothing, because people believed in a promise that I sold to them. Those guys on the TV, they were richer than you could ever dream, and it was all built the same way. With words. With promises. And with that book. (BEAT) That book is a weapon. Aimed right at the hearts and minds of the weak and the desperate. Just imagine what I could do with it.
+46) 40) dialog: Oh, it'll do much more than that. The water in this town may run dry, but faith - that springs eternal! And that faith will help turn this town into a city. And this city into a nation. It will help me build a new world. In my image. People will come from far and wide to hear what's inside of it. They'll follow me anywhere just to get a taste of it. And they'll do whatever I tell them.
+46) 41) text: As usual, Carnegie's slick rhetoric has worked - Redridge totally bought into it. Claudia, however, looks appalled.
+46) 48) dialog: Oh, it'll say what I want, I can promise you that. Because I'm going to rewrite it. I'll keep the parts that work for me and make the rest whatever I need it to be. (BEAT) A new bible, for a new world.
+46) 51) dialog: What do you think, darling? A whole new world, to do with as we will. Won't that be grand?
+46) 53) text: Carnegie turns back to Redridge.
+46) 55) dialog: Find that book.
+46) 59) dialog: So use the motor pool.
+46) 63) dialog: Whatever there is, use it.
+46) 71) dialog: Right. Right. Of course. Bring her back, too, if you can. But-
+46) 77) text: Redridge turns and leaves. Claudia scowls at Carnegie, bu doesn't even notice, just goes back to feeding his animal
+87) 1) text: Redridge appears. Carnegie looks at him eagerly.
+87) 3) dialog: Did you get it?
+87) 4) text: Redridge holds the bible up proudly. Carnegie beams.
+87) 6) dialog: Show me.
+87) 7) text: Redridge hands it over. Carnegie sits back in his chair, running his hand lovingly over the battered leather cover
+87) 12) dialog: The new world begins here...
+87) 16) dialog: What the fuck is this?
+89) 1) text: Carnegie looks at the open bible, jaw hanging loose, his complexion ashen. Like he's just been slapped in the face
+91) 1) text: Carnegie sits at his desk, still in shock. Eli's bible si open on the desk before him.
+91) 9) dialog: You told me once that you know how to read this. This blind language.
+91) 13) dialog: You're going to read it for me. Every word. And I'm going to write it down. Start at the beginning.
+91) 14) text: As Carnegie hunts on his desk for a paper and pen, Claudi opens the book and trails her fingertips across the raise lettering.
+91) 18) text: For a moment there is a glimmer of recognition... a faint smile... but then it fades as Carnegie turns back to her, eagerly clutching the writing materials.
+91) 21) text: Carnegie is aghast. BEAT as the anger swells within him, threatening to explode...
+91) 23) dialog: God fucking dammit!
+91) 29) dialog: Just go. Just get out of my sight.
+94) 2) text: Carnegie sleeps soundly in bed. Next to him lies Claudia, wide awake. She checks that Carnegie is sound asleep, car not to wake him before she creeps out of bed and exits.

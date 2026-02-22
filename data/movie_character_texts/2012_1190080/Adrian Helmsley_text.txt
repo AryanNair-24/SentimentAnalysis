@@ -1,0 +1,229 @@
+4) 2) text: ADRIAN HELMSLEY, 32, stands with a group of young POLITIC AIDES. He is the only African-American among them.
+4) 7) dialog: I still can't believe that Wilson chose him of all people to run the White House.
+4) 11) dialog: Shame he's such a pompous ass.
+4) 14) text: Adrian turns to see Anheuser smiling.
+4) 16) dialog: 
+4) 21) dialog: We were talking about what a great speech you gave tonight. Well done, sir.
+4) 27) text: At that moment Adrian's cell phone rings.
+4) 32) dialog: (into the phone) Professor West?
+6) 1) text: Adrian follows Anheuser through a hallway of the White Ho papers in hand.
+6) 3) dialog: Sir, the President needs to know this.
+6) 7) dialog: Four months this week.
+6) 11) dialog: If this is about what I said last night, I am truly sorry, sir.
+6) 14) text: Exasperated, Adrian holds out the papers to him.
+6) 16) dialog: Can you please have a look at this, sir? It's really important.
+6) 27) dialog: An Indian astrophysicist I graduated with from Harvard and Prof. West, the preeminent geologist in the US.
+6) 31) dialog: No one, sir.
+21) 1) text: The phone rings twice before Laura switches on a light. W catch a glimpse of a framed photo of her and Adrian. She answers the phone.
+24) 13) text: The President shoots an anxious look across the room. Lau turns and suddenly realizes that Adrian is standing in th corner.
+24) 16) text: Adrian looks ashamed.
+28) 1) text: Adrian Helmsley and Prof. West exit the drilling tower, b studying papers. Adrian notices Jackson and his kids near being interrogated by an OFFICER.
+28) 3) dialog: I'll be with you in a second, Professor.
+28) 4) text: Adrian walks towards them. Jackson stares at the officer defiance.
+28) 16) dialog: We're geologists...
+28) 17) text: Jackson turns and sees Adrian standing there.
+28) 19) dialog: I'll handle this officer. Thank you.
+28) 24) dialog: That's what we're trying to find out. We think this whole area has become potentially unstable. I would advise you to take your kids and leave, Mr...
+28) 27) dialog: ... Curtis.
+28) 30) dialog: Are you by any chance the Jackson Curtis, the author of `Farewell Atlantis'?
+28) 36) dialog: What a coincidence. I'm reading your book, as we speak... first third, around day 300, when the shuttle loses communication with earth and drifts off into space.
+28) 40) dialog: Actually I didn't buy it. My father gave it to me.
+28) 47) text: Prof. West waves at Adrian from one of the container labs Adrian hands back Jackson his drivers license.
+28) 49) dialog: Officer, can you return them to the campgrounds, please. (to Jackson) Pleasure to meet you, Mr. Curtis.
+28) 50) text: Jackson and his kids look after Adrian hurrying away.
+31) 1) text: Commotion. The base packs up. Adrian and Prof. West duck as they board a chopper. Adrian is on the phone.
+31) 3) dialog: ... You have to immediately inform the President, Mr Anheuser. The readings look much worse than I expected.
+31) 7) dialog: Plus Satnam's neutrino figures from India confirm...
+31) 12) dialog: We were wrong! By five or six months...
+38) 4) text: He looks over to Adrian.
+38) 7) text: Adrian steps up and gathers himself. Anheuser watches.
+38) 9) dialog: I'll make this brief...
+38) 19) dialog: ... According to our latest data from Yellowstone, the temperature of the subterranean crust of the earth, the cement that holds our landmass in place, is increasing at a rapid rate, much faster than anticipated...
+38) 22) dialog: ... This causes extreme polar instability. The magnetic fields have decreased by more than 80% over the last 48 hours.
+38) 26) text: Adrian glances to Professor West, standing in the back.
+38) 28) dialog: Two, maybe three days if we're lucky.
+56) 1) text: Adrian's father Harry and his partner Tony are on stage. Harry on the piano, singing, Tony playing the bass. A wai brings drinks. Water for Harry, and a brightly colored cocktail for Tony.
+56) 19) dialog: Dad... what I have to tell you is very serious...
+57) 1) text: Adrian is standing in a dark corner. Behind him people ar packing up, carrying boxes.
+57) 3) dialog: You remember when I told you about the dam in China? Well, it's happening much sooner than we anticipated.
+58) 3) dialog: The President has ordered us to clear out the White House.
+59) 1) text: Adrian fights back the tears.
+59) 8) dialog: Where are you, dad? What exactly is the course of the `Freedom' right now?...
+61) 1) text: A tear runs down Adrian's face.
+61) 6) dialog: I love you, dad.
+64) 1) text: Adrian enters his office. The TV is on.
+64) 6) dialog: (pointing at the TV) Have you seen this?
+64) 10) text: Prof. West silently nods and beckons Adrian, who follows down the hall into a dark control room. They look at a wa sized high def monitor.
+64) 15) dialog: Any news from Yellowstone?
+82) 1) text: The White House is being evacuated. Amidst the chaos stan Anheuser. Adrian puts down a phone and looks at him.
+82) 3) dialog: Just a few minutes ago Yellowstone erupted, sir. The ash cloud will reach Washington in roughly 7 hours. Maybe 6. We have strong easterly winds...
+82) 11) dialog: No one knows, sir.
+82) 12) text: Anheuser starts walking, Adrian trails behind.
+83) 1) text: Anheuser and Adrian burst into the Anteroom of the Oval Office. The President's secretary, SALLY, 55, is packing.
+83) 9) text: Adrian shoots an angry look at Anheuser.
+83) 11) dialog: He's praying sir. Which considering the circumstances is not a bad idea.
+83) 14) text: Anheuser walks away. Adrian and Sally exchange a look.
+84) 1) text: Adrian finds the President standing near the front of the chapel.
+84) 3) dialog: Mr. President? We need to get you out of Washington immediately.
+84) 12) dialog: That's not your fault sir.
+84) 13) text: He turns to face Adrian.
+84) 16) text: This quietly affects Adrian.
+84) 20) dialog: A little.
+84) 25) dialog: There would have been chaos, sir.
+84) 26) text: President Wilson looks Adrian in the eyes.
+84) 29) text: Adrian takes this in.
+84) 35) text: Adrian stares at the President in disbelief.
+84) 37) dialog: But sir?
+84) 40) text: A tense moment before Adrian starts to walk away. Just as exits the chapel, Wilson calls after him.
+87) 1) text: Adrian rushes up the stairs of Air Force One, approaching of the flight officers.
+87) 3) dialog: Where's Anheuser?
+87) 6) text: Adrian moves on.
+88) 1) text: Adrian enters. Anheuser immediately senses something is amiss.
+88) 3) dialog: The President is not coming. I couldn't convince him to.
+88) 8) text: Adrian is shocked.
+88) 10) dialog: What about the Speaker of the House?
+88) 14) dialog: But she's Commander In Chief now. Sir, I just think -
+88) 18) text: Laura quietly enters the Command Center, as Anheuser and Adrian stare each other down.
+88) 31) text: Adrian's face is ashen.
+88) 36) dialog: He wanted to stay with his people.
+88) 40) text: Adrian tries to hold her close to him. Anheuser sees this intimate moment and gives a suspicious, questioning look. second later Laura pushes Adrian away.
+120) 1) text: Adrian knocks quietly and sticks his head around the door Laura is sitting in her father's chair.
+120) 6) dialog: Can I come in?
+120) 10) dialog: But I do...
+120) 11) text: Adrian enters. He has his travel bag in one hand. He look Laura and gathers himself.
+120) 13) dialog: Your Dad and I... we were trying to protect you.
+120) 18) dialog: But you were doing a good job.
+120) 21) text: Adrian takes a moment, he's desperate to make her see.
+120) 23) dialog: You know what your father believed. That nature will choose itself from itself.
+120) 27) dialog: That's not true.
+120) 28) text: Adrian glances down and spots Jackson's book poking out o his bag.
+120) 37) dialog: What would you say were the chances of a first time, middle-aged writer, who barely sold 500 copies of his novel making it on board this plane?
+120) 40) text: Adrian pulls out the book from his bag. He shows her.
+120) 42) dialog: It's called `Farewell Atlantis' and it's a fantastic read. It's part of our legacy now.
+120) 46) text: Adrian takes a breath, but before he leaves -
+120) 48) dialog: What if I tried to sort some of this mess out? I need to know you can forgive me...
+120) 52) text: Adrian moves for the door. He stops.
+120) 54) dialog: One more thing. Your father told me you were the most precious thing to him in the whole world... You are to me too.
+120) 55) text: As Adrian exits, we hold on Laura's conflicted face.
+124) 1) text: All the officers and scientists are glued to monitors tha show satellite images from all over the globe. Adrian and Prof. West stare in disbelief.
+124) 13) text: Adrian and Laura look to each other baffled.
+131) 18) text: Adrian looks distressed as he turns to one of the officer
+131) 20) dialog: Do we have any news from the Japanese seaboard?
+131) 21) text: Laura notices Adrian's concern.
+131) 24) text: She grabs Adrian's hand. Anheuser sees this and his suspicions about them are confirmed. A cold little smile appears on his face.
+136) 1) text: Hushed voices. Anheuser, Adrian and Prof. West stand amon a group of officers and analysts.
+136) 8) text: Anheuser turns to Adrian.
+136) 12) dialog: We expect enormous tsunamis to reach landfall in every continent. The Cho Ming area will be impacted in approximately six hours.
+136) 15) dialog: ... and it looks like the crust has shifted by nearly 23 degrees in a south- westerly direction. Here's the computer simulation.
+136) 23) dialog: Our data also shows, that our earth's poles have reversed their magnetic fields...
+136) 25) text: Anheuser looks at the monitor, then turns to Adrian.
+136) 28) text: Silence. Adrian clears his throat.
+136) 30) dialog: It's the south pole, sir.
+148) 5) text: Adrian is a little way back in the middle of the pack. A Chinese Officer with a list shouts over the noise.
+148) 12) text: Anheuser nods and climbs in the chopper. Captain Michaels helps Laura in. Adrian arrives just as the Chopper door slides shut and it lifts off.
+149) 1) text: Laura catches Adrian's look of unease before they soar aw
+156) 1) text: Adrian is unpacking. He lays down his copy of `Farewell Atlantis' just as his cell phone rings.
+156) 3) dialog: Satnam?
+156) 7) text: Adrian's face goes pale.
+156) 9) dialog: What?!
+156) 13) dialog: Satnam, what happened?
+156) 16) text: Adrian closes his eyes.
+158) 1) text: Adrian hears SCREAMING on the phone and the deafening sou of the approaching wave. He tenses up, desperate but unab to do anything.
+159) 1) text: Adrian storms onto the bridge. Many officers and analysts at work under Captain Michaels.
+159) 3) dialog: Do we have the latest satellite images of Napam, India?
+159) 10) dialog: Looks like our model was wrong.
+159) 13) dialog: Satnam was talking about a wave from the East.
+159) 28) dialog: The flooding will happen earlier. Bobby, can you plug in the new data please?
+159) 29) text: As the officer does this, Prof. West looks at Adrian with questioning eyes.
+159) 31) dialog: Satnam didn't get picked up.
+159) 35) text: Adrian turns back to the monitor and sees the new tidal w that is coming towards the Cho Ming valley.
+159) 37) dialog: This one is at least 1500    meters high!
+159) 41) dialog: Bobby, plug in the new data and adjust the count down?
+165) 5) text: Laura bumps into one of Adrian's Science Officers.
+178) 1) text: Laura and the Science Officer enter the Technical Command Center. She finds Adrian staring at a wall of monitors showing the horrifying scenario on the platforms.
+178) 6) dialog: Anheuser convinced them all to launch.
+178) 8) text: Adrian makes a decision and rushes out.
+179) 1) text: Anheuser turns hearing Adrian storming onto the bridge.
+179) 3) dialog: Anheuser! We have to stop this madness.
+179) 8) text: With that, Adrian turns to the Communication Officer.
+179) 10) dialog: Bobby, make sure the other bridges can hear this.
+179) 15) dialog: I know exactly what I'm doing. (To Bobby) Turn it on!
+179) 16) text: Bobby flicks a switch. Adrian's voice echoes through all ships.
+179) 18) dialog: This is Adrian Helmsley, science advisor to President Wilson...
+180) 6) dialog: I know we've all been involved in making difficult decisions... to save our human civilization...
+181) 3) dialog: ... But to be human means to care for each other, and civilization means to work together to create a better life. If that's true there is nothing human and nothing civilized about what we're doing here. Ask yourselves ... Can we really stand by and let all those people out there die?
+181) 9) dialog: A civilization that allows that, does not deserve to survive.
+181) 14) text: The Communications Officer looks at Adrian.
+181) 18) dialog: Don't do it!
+182) 1) text: The Russian President, together with the heads of state f China and Japan, listen in as Adrian responds.
+182) 3) dialog: We have to open our gates and let these people in. All of them.
+183) 8) text: Adrian's battle seems lost. But he doesn't give up, and instead speaks softly now.
+183) 14) dialog: There is a young astrophysicist from India who is the reason we are all here, trying to give mankind a second chance. He's the one who discovered it all, the one who connected the dots. We all owe him our lives.
+183) 15) text: All eyes are glued to Adrian.
+183) 17) dialog: I just learned that he was killed with his family by a tsunami in eastern India. You know why?
+183) 18) text: Adrian stares Anheuser in the eyes as he continues.
+183) 20) dialog: He died because we forgot to pick him up.
+183) 22) text: Silence. Laura steps up alongside Adrian.
+183) 25) text: Adrian and Laura share a look.
+186) 3) text: Laura and Adrian watch Anheuser shaking his head in defea Bobby, the Communications Officer smiles with relief. Adr turns to the Captain.
+186) 5) dialog: Captain Michaels, you heard them.
+197) 6) text: The countdown on the monitor reads 2 min. 40 sec. Laura a Adrian share a worried look.
+199) 1) text: The technicians desperately try to figure out what's wron An officer waves Adrian over.
+199) 5) dialog: Can you zoom in?
+199) 6) text: The video camera moves in on Kate, Noah and Lilly. Adrian can't believe his eyes. He turns to Laura.
+199) 8) dialog: I know those kids. Remember the book I told you about? Their father wrote it.
+202) 12) dialog: Captain, over here.
+202) 13) text: They race over. Adrian points to a monitor.
+202) 15) dialog: I think we found the problem.
+202) 18) dialog: How did they get in there?
+202) 26) text: Adrian tries to ignore this.
+202) 28) dialog: Let's get an emergency crew there right now. I'll meet them at the Hydraulic Chamber.
+202) 32) text: Without thinking, Adrian turns and punches Anheuser hard the face. He drops to the floor, out cold.
+202) 33) text: Everyone stands in stunned silence. Laura smiles. Adrian looks around.
+202) 39) dialog: What are you all waiting for?
+205) 1) text: An IMPACT WARNING sounds as Adrian and Laura race through crammed hallways with members of the rescue crew. One of officers explains.
+205) 5) dialog: There's no way to override it?
+209) 1) text: The same ALARM rings out in the hallways of the ship. Lau Adrian and their party are all braced against the corrido as the vessel undulates back and forth.
+209) 9) text: Adrian looks at him.
+209) 11) dialog: Then how will we get to the hydraulic chamber?
+209) 14) text: Despite the violent movement of the ship, Adrian pushes o down the corridor towards the back of the boat. They foll
+211) 1) text: Panicked, Tamara turns and looks around. Down the corrido in the distance, she sees Adrian, Laura and the rescue cr approaching.
+212) 1) text: Laura picks Lilly up and comforts her. Adrian realizes th are too late. He turns to the rescue crew.
+212) 3) dialog: Is there any way to talk to them?
+220) 9) dialog: (Over a speaker) Mr. Curtis... I'm Adrian Helmsley. We met once before. Your daughter is with me.
+221) 1) text: Adrian is using an emergency wall intercom, with Laura ne to him, holding Lilly.
+223) 3) dialog: We can't get to you. Whatever you did, jammed the hydraulics. If you can't get it out... None of us will make it.
+224) 1) text: All eyes are on Adrian as he speaks.
+224) 3) dialog: You're our only hope.
+224) 4) text: Adrian looks at Laura.
+234) 4) text: Adrian gives Noah the thumbs up and the boy heads back to surface. Jackson goes to follow but in the last moment he spots the knapsack containing his laptop.
+236) 4) text: Adrian leaps up when he hears this. He flicks a button on intercom.
+236) 6) dialog: Captain Michaels - close the gate!
+244) 28) dialog: ... Day 988. No one is waiting for anything to happen...
+245) 1) text: Adrian sits in his cabin, his copy of `Farewell Atlantis' his lap.
+245) 3) dialog: ...   and all we can hear is the sound of our   own breathing that reminds us we are   still sharing our memories, hopes and   ideas.
+245) 6) dialog: ... And funny, just today we found out that the entire crew of the Atlantis, somehow or another, has relatives in Wisconsin.
+245) 8) text: Adrian closes the book. There's a moment of silence.
+245) 16) dialog: Less than 500. (with a smile) It's what you might call a cult classic.
+245) 21) dialog: 
+246) 1) text: Adrian and Laura make their way to the bridge.
+248) 1) text: Adrian and Laura enter the bridge.
+248) 3) dialog: You called for me, sir?
+248) 24) text: Captain Michaels hands Adrian a short wave radio.
+248) 27) text: Adrian curious, grabs the mic.
+248) 29) dialog: This is Helmsley.
+249) 5) dialog: Dad!... Is that you?
+250) 1) text: Adrian is ecstatic. Captain Michaels explains.
+250) 5) dialog: Dad. We're coming to pick you guys up. How's Tony?
+251) 8) dialog: See you guys soon. Bye dad.
+252) 1) text: Adrian, still excited from speaking with his dad, grabs L and kisses her on the lips. She squeals.
+252) 4) text: Adrian looks at Anheuser, unsure of what he might say.
+252) 7) text: Adrian and Laura exchange a look.
+252) 10) text: Adrian nods and with a smile to Laura turns to leave.
+252) 13) text: Adrian turns back.
+252) 17) dialog: Pardon me?
+252) 20) text: Anheuser puts out his hand. Adrian takes it.
+253) 19) text: Jackson is touched to hear him use that word. He smiles a hugs him. Adrian, Laura and Anheuser arrive alongside the
+253) 21) dialog: I finally finished your book Jackson.
+253) 27) text: Adrian smiles.
+253) 29) dialog: I'd say... those astronauts of yours would be shitting themselves, if they knew all their relatives are now stuck in the South Pole.

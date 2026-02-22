@@ -1,0 +1,255 @@
+4) 3) dialog: I know.  Stay calm.
+4) 5) dialog: Yes.
+4) 7) dialog: You have to focus.  There is a  phone.  Wells and Laxe.  You can make it.
+4) 10) dialog: Go.
+16) 13) dialog: Hello, Neo.  This is Morpheus.
+16) 15) dialog: I had hoped for this conversation to take place under less adverse conditions, but you can never count on hope, can you, Neo?
+16) 17) dialog: I've been watching you, Neo, and I want to meet you.  I don't know if you're ready to see what I want to show you, but unfortunately, we have run out of time.  They're coming for you, Neo.  And I'm not sure what they're going to do.
+16) 19) dialog: Stand up and see for yourself.
+16) 21) dialog: Yes.  Now.
+16) 23) dialog: Do it slowly.  Slowly.  The elevator.
+16) 26) dialog: Yes.
+16) 29) dialog: I'm not sure.  But, if you don't want to find out, you better get out of there.
+16) 31) dialog: I can guide you out, but you have to do exactly what I say.
+16) 33) dialog: The cubicle across from you is empty.
+16) 35) dialog: Go!  Now!
+16) 37) dialog: Stay here for a moment.
+16) 38) text: The agents enter Neo's empty cubicle.  A cop is sent to search the bathroom. Morpheus' voice is a whisper in Neo's ear.
+16) 39) dialog: A little longer...
+16) 41) dialog: When I tell you, go to the end of the row to the first office on the left, stay.as low as you can.
+16) 43) dialog: Now.
+16) 45) dialog: Good.  Now there is a window. Open it.
+16) 47) text: Morpheus laughs quietly.
+16) 48) dialog: The answer is coming, Neo.
+16) 50) dialog: Outside, there's a scaffold.  You can use it to get to the roof.
+16) 53) dialog: There's a small ledge.  It's a short climb.  You can make it.
+16) 56) dialog: Don't be controlled by your fear, Neo.  There are only two ways out of this building.  One is that scaffold.  The other is in their custody.  You take a chance either way.  I leave it to you.
+19) 1) dialog: This line is tapped, so I must be brief.
+19) 3) dialog: They got to you first, but they've underestimated how important you are.  If they knew what I know, you would probably be dead.
+19) 5) dialog: I don't know what you are thinking right now but I want you to understand that I will not give up on you until you give up on me.
+19) 7) dialog: Do you still want to meet?
+19) 9) dialog: Take the Howard line south.
+27) 1) dialog: At last.
+27) 3) dialog: Welcome, Neo.  As you no doubt have guessed, I am Morpheus.
+27) 5) dialog: Please.  Come.  Sit.
+27) 7) dialog: Thank you, Trinity.
+27) 9) dialog: I imagine, right now, you must be feeling a bit like Alice, tumbling down the rabbit hole?
+27) 11) dialog: I can see it in your eyes.  You have the look of a man who accepts what he sees because he is expecting to wake up.
+27) 13) dialog: Ironically, this is not far from the truth.  But I'm getting ahead of myself.  Can you tell me, Neo, why are you here?
+27) 15) dialog: Yes.  Thank you.  But I think we both know there's more to it than  that.  Do you believe in fate, Neo?
+27) 17) dialog: Why not?
+27) 19) dialog: I know exactly what you mean.
+27) 21) dialog: Let me tell you why you are here. You are here because you have the gift.
+27) 23) dialog: I've watched you, Neo.  You do not use a computer like a tool.  You use it like it was part of yourself.  What you can do inside a computer is not normal.  I know. I've seen it.  What you do is magic.
+27) 26) dialog: But it is, Neo.  It is.  How else would you describe what has been happening to you?
+27) 28) dialog: We are trained in this world to accept only what is rational and logical.  Have you ever wondered why?
+27) 30) dialog: As children, we do not separate the possible from the impossible which is why the younger a mind is the easier it is to free while a mind like yours can be very difficult.
+27) 32) dialog: From the Matrix.
+27) 34) dialog: Do you want to know what it is, Neo?
+27) 36) dialog: It's that feeling you have had all your life.  That feeling that something was wrong with the world.  You don't know what it is but it's there, like a splinter in your mind, driving you mad, driving you to me.  But what is it?
+27) 38) dialog: The Matrix is everywhere, it's all around us, here even in this room. You can see it out your window, or on your television.  You feel it when you go to work, or go to church or pay your taxes.  It is the world that has been pulled over your eyes to blind you from the truth.
+27) 40) dialog: That you are a slave, Neo.  That you, like everyone else, was born into bondage... ... kept inside a prison that you cannot smell, taste, or touch.  A prison for your mind.
+27) 42) dialog: Unfortunately, no one can be told what the Matrix is.  You have to see it for yourself.
+27) 44) dialog: Hold out your hands.
+27) 45) text: In Neo's right hand, Morpheus drops a red pill.
+27) 46) dialog: This is your last chance.  After this, there is no going back.
+27) 48) dialog: You take the blue pill and the story ends.  You wake in your bed and you believe whatever you want to believe.
+27) 50) dialog: You take the red pill and you stay in Wonderland and I show you how deep the rabbit-hole goes.
+27) 52) dialog: Remember that all I am offering is the truth.  Nothing more.
+27) 54) dialog: Follow me.
+27) 58) text: Cypher saddles up to Morpheus, talking in a hushed tone away from, Neo.
+27) 60) dialog: Haven't I always told you, Cypher, not to let fear control your life. Apoc, are we on-line?
+27) 66) dialog: Neo, time is always against us. Will you take a seat there?
+27) 68) dialog: I imagine you know sonething about virtual reality.
+27) 71) dialog: Tell me about it.
+27) 73) dialog: If the virtual reality apparatus, as you called it, was wired to all of your senses and controlled them completely, would you be able to tell the difference between the virtual world and the real world?
+27) 75) dialog: No, you wouldn't.
+27) 79) dialog: The pill you took is part of a trace program.  It's going to make things feel a bit strange.
+27) 84) dialog: Just relax, Neo.
+27) 88) dialog: Apoc?
+27) 90) text: Morpheus takes out a cellular phone and dials a number.
+27) 91) dialog: Tank, we're going to need the signal soon.  Stay calm, Neo.
+27) 96) text: Morpheus is right next to him, with the phone.
+27) 99) dialog: Shit!  Apoc?
+27) 106) dialog: Now, Tank now!
+30) 0) text: The metal harness opens and drops the half-conscious Neo onto the floor. Human hands and arms help him up as he finds himself looking straight at Morpheus. Trinity and Apoc.  And others, dressed in bizarre, high- tech combat gear. Morpheus smiles.
+30) 1) dialog: Welcome to the real world, Neo.
+30) 15) dialog: I know.
+30) 16) text: Dozer and Morpheus are operating on Neo.
+30) 18) dialog: Your muscles have atrophied. We're rebuilding them.
+30) 21) dialog: You've never used them before.
+30) 22) text: Morpheus takes his sunglasses off and puts them on Neo. Neo lays back.
+30) 23) dialog: Rest, Neo.  The answers are coming.
+31) 0) text: Neo wakes up from a deep sleep, feeling better.  He is wearing a black tank top and shorts. He begins to examine himself.  There is a futuristic IV plugged into the jack in his forearm.  He pulls it out, staring at the grafted outlet. He feels his bald head.  His fingers find and explore the large outlet in the base of his skull. Just as he starts to come unglued, Morpheus opens the door.
+31) 2) dialog: More important than what is when?
+31) 4) dialog: You believe the year is 1997 when in fact it is much closer to 2197. I can't say for certain what year it is because we honestly do not know.
+31) 7) dialog: I promised you the truth, Neo, and the truth is that the world you were living in was a lie.
+31) 9) dialog: I'll show you.
+32) 0) text: Like a sleepwalker, Neo follows Morpheus through the ship
+32) 1) dialog: This is my ship, the Nebuchadnezzar.  It's a hovercraft.  Small like a submarine.  It's dark.  It's cramped and cold.  But it's home.
+33) 1) dialog: This is the main deck.  You know most of my crew.
+33) 3) dialog: The ones you don't know.  That's Mouse and Switch.  The two big guys are Tank and Dozer.
+33) 5) dialog: And this, this is the Core.  This is where we broadcast our pirate signal and hack into the Matrix.
+33) 7) dialog: Help him, Trinity.
+33) 9) dialog: Do you remember when I asked you about an apparatus that could turn a virtual reality into reality?
+33) 11) dialog: It's right here.
+33) 13) dialog: And it's accessed here.
+33) 14) text: Neo feels Morpheus guiding a coaxial line into the jack at the back of his neck.  The cable has the same kind of cerebellum chip we saw inside the plant.
+33) 15) dialog: This will feel a little weird.
+34) 1) dialog: This is the Construct.
+34) 2) text: Startled, Neo whips around and finds Morpheus now in the room with him.
+34) 3) dialog: It is our loading program.  We can load anything from clothes, to weapons, to training simulations. Anything we need.
+34) 4) text: Morpheus walks past Neo and when Neo turns he sees the two leather chairs from the hotel set up in front of a large-screen television.
+34) 5) dialog: Sit down.
+34) 6) text: Neo stands at the back of the chair as Morpheus sits.
+34) 8) dialog: Wild, isn't it?
+34) 11) dialog: What is real?  How do you define real?  If you're talking about your senses, what you feel, taste, smell, or see, then all you're talking about are electrical signals interpreted by your brain.
+34) 13) dialog: This is the Chicago you know. Chicago as it was at the end of the twentieth century.  This Chicago exists only as part of a neural-interactive simulation that we call the Matrix.
+34) 15) dialog: You have been living inside Baulliaurd's vision, inside the map, not the territory.  This is Chicago as it exists today.
+34) 17) dialog: 'The desert of the real.'
+34) 19) dialog: We are, right now, miles below the earth's surface.  The only place humans can survive outside the Matrix is underground.
+34) 20) text: Still MOVING, we TURN and find Neo and Morpheus; the chairs now sitting in the middle of the black desert. Dizzy, Neo holds onto the chair.
+34) 22) dialog: It started early in the twenty- first century, with the birth of artificial intelligence, a singular consciousness that spawned an entire race of machines.
+34) 24) dialog: At first all they wanted was to be treated as equals, entitled to the same human inalienable rights. Whatever they were given, it was not enough.
+34) 26) dialog: We don't know who struck first. Us or them.  But sometime at the end of the twenty-first century the battle was joined.
+34) 28) dialog: The war raged for generations and turned the face of our planet from green and blue to black and red.
+34) 30) dialog: It scorched and burned the sky. Without the sun, the machines sought out a new energy source to survive.
+34) 32) dialog: They discovered a new form of fusion.  All that was required to initiate the reaction was a small electric charge.  Throughout human history we have been dependent on machines to survive.  Fate, it seems, is not without a sense of irony.
+34) 34) dialog: The human body generates more bio- electricity than a 120-volt battery and over 25,000 B.T.U.'s of body heat.
+34) 36) dialog: We are, as an energy source, easily renewable and completely recyclable, the dead liquified and fed intravenously to the living.
+34) 38) dialog: All they needed to control this new battery was something to occupy our mind.
+34) 40) dialog: And so they built a prison out of our past, wired it to our brains and turned us into slaves.
+34) 43) dialog: I didn't say that it would be easy, Neo.  I just said that it would be the truth.
+36) 2) text: Morpheus sitting like a shadow on a chair in the far corner.
+36) 3) dialog: No.  But if you could, would you really want to?
+36) 5) dialog: I feel that I owe you an apology. There is a rule that we do not free a mind once it reaches a certain age.  It is dangerous. They have trouble letting go.. Their mind turns against them. I've seen it happen.  I broke the rule because I had to.
+36) 7) dialog: When the Matrix was first built there was a man born inside that had the ability to change what he wanted, to remake the Matrix as he saw fit.  It was this man that freed the first of us and taught us the secret of the war; control the Matrix and you control the future.
+36) 9) dialog: When he died, the Oracle at the temple of Zion prophesied his return and envisioned an end to the war and freedom for our people.  That is why there are those of us that have spent our entire lives searching the Matrix, looking for him.
+36) 11) dialog: I did what I did, because I believe we have been brought here for a reason, Neo.  You are here to serve a purpose, just as I am here to serve mine.
+36) 13) text: Morpheus smiles, leaning towards hin.
+36) 14) dialog: But I do, Neo.  I do.
+36) 16) dialog: Get some rest.  You're going to need it.
+36) 18) dialog: Your training.
+40) 1) dialog: How is he?
+40) 4) text: Neo's body spasms and relaxes as his eyes open, breath hissing from his lips.  He looks like he just orgasmed. He locks at Morpheus.
+40) 6) text: Morpheus sits in the drive chair next to hin.  He nods to Tank.
+40) 7) dialog: Show me.
+41) 1) dialog: This is a sparring program, similar to the programmed reality of the Matrix.  Consider this your first lesson.
+41) 3) dialog: Attack me.
+42) 0) text: While their minds battle in the programmed reality, the two bodies appear quite serene, suspended in the drive chairs. Tank monitors their life systems noticing that Neo is wildly and chaotically lit up as opposed to the slow and steady rhythm of Morpheus.
+44) 0) text: Neo's face is knotted, teeth clenched, as he hurls himself at Morpheus.
+44) 1) dialog: Good.  Adaption.  Improvisation. But your weakness isn't your technique.
+44) 2) text: Morpheus attacks him and it is like nothing we have seen. His feet and fists are everywhere taking Neo apart.  For every blow Neo blocks, five more hit their marks until -- Neo falls. Panting, on his hands and knees, blood spits fror, his mouth speckling the white floor of the Dojo.
+44) 3) dialog: How did I beat you?
+44) 5) dialog: Do you think my being faster, stronger has anything to do with my muscles in this place?
+44) 7) dialog: Do you believe that's air you are breathing now?
+44) 9) dialog: If you can free your mind, the body will follow.
+44) 11) dialog: Again.
+46) 0) text: The speed of the blows rises like a drum solo that seems impossible to sustain.  Neo's face sheds its mask of calm with a scream. He wants to beat Morpheus bad. Finally a single blow catches Morpheus on the side of the head, knocking his glasses off.
+48) 0) text: Morpheus rubs his face.
+48) 1) dialog: You are angry with me.
+48) 4) dialog: It's all right.  It's natural.
+48) 6) dialog: Good, good.  Anger is a gift, Neo, but it's a heavy one.
+48) 7) text: Morpheus smiles.
+48) 8) dialog: Tank, load the jump program.
+48) 10) dialog: You have to learn to let go of that anger.  You must let go of everything.
+48) 11) text: A WIND HOWLS, whipping Morpheus' long coat to the side.
+48) 12) dialog: You must empty yourself to free your mind.
+48) 13) text: Morpheus spins, running hard at the edge of the rooftop. And jumps.  He sails through the air, his coat billowing out behind him like a cape -- Somersaults once and lands on the rooftop across the street.
+48) 15) text: Neo looks down at the street twenty floors below, then at Morpheus an impossible fifty feet away.
+50) 2) dialog: Everyone falls the first time.
+50) 4) dialog: If you never know failure, how can you know success?
+51) 4) text: But Trinity has left. Neo's eyes open as Tank eases the plug out.  He tries to move and groans, cradling his ribs. While Tank helps Morpheus, Neo spits blood into his hand.
+51) 8) dialog: The body cannot live without the mind.
+56) 15) text: Neo nods as Morpheus comes up behind them.
+56) 16) dialog: How's he doing?
+56) 18) dialog: Good.  I want everyone alerted to 12-hour stand-by.  We're going in. Neo, it's time for you to know why you're here.
+56) 19) text: Morpheus walks away.
+58) 0) text: The room is empty, heavy curtains covering windows.  It looks as if it hasn't been touched in years.  In the bedroom with the cracked oval mirror an old black PHONE begins to RING. In the mirror, we first glimpse them and as we keep TURNING, the room fills with equipment and the team. Morpheus answers the phone.
+58) 1) dialog: We're in.
+58) 3) dialog: Mouse and Cable hold the exit. Let's go.
+59) 11) dialog: We should be back in an hour.
+60) 1) dialog: Do you now understand what it means when we say, if you're not one of us, you're one of them?
+60) 3) dialog: Anyone that is still in a power plant.  That is why we try to be invisible in the Matrix.
+60) 5) text: Cypher and Trinity move away from them, securing the perimeter.  As Cypher passes a garbage can, he surreptitiously drops something inside. It is a cellular phone and we watch the blue display as the LINE CONNECTS. An early 1970s, black Lincoln Continental emerges from a corrugated roll-up garage.  Morpheus and Neo get in.
+61) 2) dialog: You're looking well, Mojo.
+63) 0) text: A lightless, lower-class bar.  No one enters that is not expected. The front doors open in a brilliant burst of sunlight as Mojo leads Morpheus and Neo inside.  Neo looks around, his eyes adjusting to the darkness. Mojo talks to the bartender, then looks over.
+64) 0) text: A high-tech laptop and modem are set up on a stack of milk crates.  Neo waits as Morpheus types in a series of access codes.  After a moment the screen blinks, "Welcome Morpheus." Morpheus walks back to the same door they entered, but it now leads into --
+65) 2) dialog: This is the temple.  It is a part of Zion's mainframe.  It's hidden inside the Matrix so that we can access it.
+65) 5) dialog: Okay, you're on your own.  Go with them.
+69) 0) text: Morpheus rises from a bench as the Priestess escorts Neo out.  When they are alone, Morpheus puts his hand on Neo's shoulder.
+69) 1) dialog: You don't have to tell me anything, Neo, because I already know what she said.
+69) 3) dialog: I brought you so that you could hear it for yourself.  I knew it would help.
+69) 5) dialog: No one will ever ask you because it is a gift from her.  It is for you and you alone.
+76) 7) text: Trinity looks at Morpheus, who listens quietly to the rasping breath of the old building.
+78) 0) text: Morpheus looks up the stairs as a helicopter shadow passes over the clouded glass.
+78) 1) dialog: Come on!
+85) 0) text: Morpheus stops as the scream is drowned by the REPORT of MACHINE GUNS filling the building with a terrible fury.
+90) 0) text: Flying downstairs, Morpheus stops, hearing the police swarming below.  He turns and rushes down the hall of the eighth floor.  At the end of it, he finds the bricked-up windows.
+90) 3) dialog: Give me your phone.
+90) 5) dialog: We have no choice.
+91) 1) dialog: Tank, find a structural drawing of this building and find it fast.
+93) 2) dialog: I need the main wet-wall.
+95) 0) text: Morpheus is guided by Tank.
+95) 2) dialog: Good.
+110) 0) text: This part of the basement, a dark concrete cavern, was the main mechanical room.  There are four enormous boilers, dinosaur-like technology that once pumped hot water like arteries. Black and bloody, they squeeze out from the ceiling into the tangled web of pipes. Their enemies are waiting for them. Blinding lights cut open the darkness as gas-masked figures FIRE GRENADE LAUNCHERS. Smoke blossoms from the green-metal canisters. Morpheus never stops moving.  Searching the floor, he finds what.he needs; the cover of the catch basin. Cypher watches him pry open the grate, when a gas can bounces near him.
+110) 1) dialog: Come on!
+112) 0) text: Morpheus watches Cypher disappear into the smoke then follows the others down the wet-black hole.
+116) 0) text: Neo punches out the screen and then spills down into the main water trough. Oily water forms around them as they wade across the man- made underground river, towards the service catwalk. Neo is about to pull himself out when he sees them coming Flashlights and laser sites sweep at them as cops in helmets and heavy armor, looking more nachine than human, fill both ends of the tunnel. There is a single manhole cover above them. Morpheus whispers to Trinity.
+116) 1) dialog: You have to get Neo out. Understand?  That's all that matters now.
+116) 3) dialog: He must get out.  Do you understand me?
+116) 4) text: She nods. A font of water erupts as Morpheus leaps for the manhole ladder, his coat flying open like the wings of a manta ray.
+117) 0) text: Morpheus shoots out of the sewer but the police are waiting for him.  The closest cop is armed with a tranquilized gun.  He fires -- But Morpheus' is too fast, using the manhole cover as a shield, blocking the darts, then -- Frisbee-ing it into the cop's armored chest, knocking him off his feet. The cops lunge at him but every part of his body is a deadly weapon moving with impossible speed. It seems he might fight his way out when he throws a spinning back fist that is caught by -- Agent Smith.
+117) 2) dialog: And you are?
+117) 4) dialog: You all look the same to me.
+117) 6) text: Faster than a snake spits, Morpheus cracks Smith with a jaw-breaking right.
+117) 7) dialog: Oh, so have I.
+119) 0) text: Smith and Morpheus exchange a furious serious of blows that is witnessed but not believed by the surrounding police. Agent Smith delivers a punishing kick that staggers Morpheus.
+119) 2) text: Morpheus smiles.
+119) 3) dialog: I already have.
+119) 6) text: Cops swarm over Morpheus.
+120) 0) text: Tank reaches out to the screen as if reaching for Morpheus.
+121) 0) text: Cuff ed and beaten, Morpheus is thrown into a caged transport vehicle.  The DOOR CLANGS shut. Agent Jones finds Agent Smith.
+141) 10) text: He stands over the body of Morpheus, as his anger boils up out of him.
+141) 16) text: Cypher walks away from Morpheus and bends down next to Apoc's body.
+147) 8) text: Morpheus is handcuffed to a chair, stripped to the waist. He is bleeding from numerous wounds and is pumped full of serum, alternately shivering and sweating.  He is hooked up to various monitors with white disk electrodes. Agent Brown begins running a trace program.
+148) 0) text: Neo looks at Morpheus whose body is covered with a cold sweat.
+148) 7) text: Tank punches several commands on Morpheus' personal unit. The monitor waves change from a chaotic pattern to an orderly symmetrical one.
+149) 4) text: Agent Brown jams the needle into Morpheus' shoulder, and plunges down.
+149) 10) text: He sits down directly in front of Morpheus.
+149) 12) text: He lifts Morpheus' head.
+149) 14) text: Morpheus stares hard at him, trying hard not to show the pain racking his mind.
+151) 0) text: Agent Smith sits casually across from Morpheus who is hunched over, his body leaking and twitching.
+155) 0) text: Tank sits down beside Morpheus whose face is ashen like someone near death.  He takes hold of his hand.
+158) 0) text: Agent Smith leans close to Morpheus, whispering to him.
+158) 4) text: He wipes sweat from Morpheus' forehead, coating the tips of his fingers, holding them to Morpheus' nose.
+158) 6) text: He lifts Morpheus' head, holding it tightly with both hands.
+158) 8) text: Morpheus sneers through his pain.
+158) 12) text: The skull is about to shatter when Agents Jones and Brown burst into the room.  Agent Smith releases Morpheus.
+160) 0) text: Agent Jones looks at Morpheus.
+171) 3) text: The GUN jumps and BULLETS EXPLODE through the WINDOW in a cacophony of CRASHING GLASS -- As the Agents go for their weapons. But Neo is too close, the .50 CALIBER too fast and BULLETS are everywhere, perforating the room. Agent Smith is hit first, his body jack-knifing back, blood arcing out with a sudden flash of light -- Then Agent Brown, his GUN still FIRING as his body falls. And finally Agent Jones. Neo stares at Morpheus, trying to will him into action.
+171) 5) text: Morpheus sits unmoving, his head still down. Neo grabs the climbing rope just as marines burst into the adjoining room. He attaches only one end to his harness when they OPEN FIRE. Quickly he swings the GUN, SPRAYING the other room, WINDOWS SHATTERING, FURNITURE EXPLODING, marines diving for cover.
+173) 0) text: Morpheus lifts his face into the room's rain.  His eyes, still white, begin to blink, twitch, then close. And when he opens them, they are again dark and flashing with fire. The Agents knife into the room, FIRING even as Neo's BULLET TRAILS chase them. Morpheus strains at his handcuffs. The Agents and the marines turn the tide, BLASTING LEAD, RICOCHETING, POCK-MARKING the COPTER. FIRING wildly, Neo turns to see Morpheus rising, snapping the handcuffs, starting for the window. Agent Smith stops and sees Morpheus run past the open bedroom door.
+173) 2) text: He FIRES, sweeping across the sheetrocked wall in a perfect line. For an instant, we see the BULLETS SHRED, PUNCTURING the WALL, searing through the wet air with jet trails of chalk. And as Morpheus starts to dive for the window, a bullet buries itself in his leg -- Knocking him off balance.
+173) 4) text: Morpheus lunges, out of control -- As Neo spins, every move a whip crack -- Snapping the other rope-end onto a bolted bar. Morpheus begins to fall when Neo hurls himself into the wide blue empty space -- Flying for a moment. The rope snaking out behind him; an umbilical cord attached to a machine. As their two bodies, set in motion, rushing at each other on a seemingly magnetic course until -- They collide. Almost bouncing free of each other, arms, legs, scrambling, hands searching in furious desperation, finding hold and clinging. Until the line ends, snapping taut, cracking their fragile embrace.  Morpheus tumbles, legs flipping over, falling down -- The ground deliriously distant -- As Neo snatches hold of his mentor's still handcuffed wrist.
+173) 8) text: Neo is pulling Morpheus up to him when he hears the HELICOPTER BEGIN TO DIE.
+173) 10) text: Trinity throws the helicopter towards the roof of the nearest building. Morpheus and Neo cling to one another as they and the machine above them begin to fall. The ENGINE GRINDS, the CHOPPING BLADES start to slow while -- The Agents stand in the open shattered window, watching the helicopter disappear behind taller buildings. Carried by its nomentum, Trinity guides the parabolic fall over the nearest roof where -- Neo and Morpheus drop safely, rolling free as the rope goes slack.  Neo gets to his feet, trying to detach himself but -- The helicopter is falling too fast, arcing over the roof like a setting sun -- The coils of slack snap taught -- Yanking Neo off his feet, dragging him with ferocious speed towards the edge even as -- Trinity lunges for the back door, her gun in one hand, grabbing for the rope with the other -- Neo flies like a skipping stone, hurtling straight AT us, when his feet hit the rain gutter -- A fulcrum that levers him up just as -- Trinity FIRES, severing the cord from the HELICOPTER, falling free of it as it SMASHES, blades first into a  glass skyscraper. Holding onto the rope she swings, connected to Neo, who stands on the building's edge watching her arc beneath him as the HELICOPTER EXPLODES -- She bounces against a shatterproof window that spider- cracks out while FLAMES ERUPT behind her.
+175) 1) dialog: I knew it!  I goddamn knew it!
+175) 4) dialog: Do you believe me now?  He's the One!  Who else could have done this?
+175) 6) dialog: It doesn't matter if I don't believe you --
+175) 8) dialog: What matters is that you don't believe her.
+178) 6) text: The Old Man nods, turns and hurries deeper into the urban cave, disappearing into the shadows as Trinity and Morpheus arrive.
+178) 11) text: Morpheus gets in and answers the phone. Lost in the shadow, the Old Man turns back and watches as Morpheus disappears, the phone dropping, dangling by its cord. His eyes grow wide, glowing white in the dark.
+185) 3) text: From the cockpit, an ALARM sounds.  Morpheus hurries to the front console, typing, bringing up the radar. Trinity follows him.
+188) 0) text: Morpheus checks the ship's self destruct key.
+188) 2) dialog: I know.  Don't worry, he'll make it.
+197) 2) dialog: Do it!
+200) 0) text: Morpheus grabs the biggest gun he can find.  The lasers begin to slice through the hull.
+200) 3) dialog: He's going to make it.
+202) 0) text: Neo's body jerks, and everyone hears it as the life monitors snap flat-line. Trinity screams.  Morpheus is frozen in disbelief.
+204) 0) text: Through the lasered opening, Morpheus screams, blasting away at the machines; comet-wads of plasma burning holes in their armored housings. Trinity collapses onto Neo's body.
+206) 0) text: Tank is hit, a laser bolt knocking him to the ground. They can't hold them off any longer.  Morpheus lunges for the self destruct -- As Trinity whispers in Neo's ear.
+208) 0) text: Morpheus flicks the Plexiglas shield of the self- destruct.
+210) 0) text: Trinity screams as the monitors jump back to life.  Tank and Morpheus stare, unbelieving. It is a miracle.
+212) 0) text: A sentinel BLOWS a hole in Morpheus' right arm and he screams, refusing to let go of the detonator.
+214) 0) text: Machines split open the craft, pouring in, lasers targeting everywhere. A beat finds the center of Morpheus' forehead and he screams, ready to die.

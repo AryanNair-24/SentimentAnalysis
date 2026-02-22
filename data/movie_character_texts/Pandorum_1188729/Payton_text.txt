@@ -1,0 +1,198 @@
+5) 6) dialog: Who are you?
+5) 15) dialog: 
+5) 19) dialog: Corporal?
+5) 21) dialog: corporal... Bower.
+5) 23) dialog: Wanna get that fucking light out of my eyes, pal?
+5) 25) dialog: Where... are we?
+5) 28) dialog: 
+5) 31) dialog: Where's the... rest of the crew? It's our shift? Our rotation-
+5) 40) dialog: Aren't they suppose to be here... to wake us?
+5) 42) dialog: Hit the lights, will ya?
+5) 44) dialog: Who woke you up?
+5) 46) dialog: Cold in here. BOWER grabs him a towel and water container, turning back see PAYTON doesn't waste any time, stretching his limbs.
+5) 49) dialog: Bower .
+5) 58) dialog: Until I have two coffees you're just gonna have to repeat all this shit, so let's just idle here for a bit.
+5) 61) dialog: Coffee?
+5) 63) dialog: Good man. BOWER helps him to the locker room as LIGHTS FLICKER past
+6) 0) text: PAYTON staggers along the row of storage lockers as BOWER helps guide him with the flashlight beam. PAYTON pauses w a frown as he glances across the name-plates, none of the seeming familiar. BOWER gestures toward the locker, the n plate reads: LT. PAYTON.
+6) 2) dialog: How do you know that?
+6) 12) dialog: Very reassuring. I guess when you gamma the brain into extended REM, sometimes it can take a while to get it back. PAYTON pulls on his flight uniform and squeezes his feet his shoes. BOWER notices the identification tattoo on his forearm, partially obscured from view; FLT&gt;&gt;00... (obscured by grime, hair and angle). Unl own, PAYTON'S tattoo is faded with age.
+6) 14) dialog: Listen, the last time I crawled out of a hyper bunk, it took me... quite a while to get it all back. BOWER holds his frown as PAYTON squeezes his finger into wedding ring.
+6) 16) dialog: 
+6) 18) dialog: I've gone through this before. I just can't remember why I would agree to do it again. PAYTON goes to close his locker and BOWER motions with a serious tone.
+6) 27) dialog: I figured you'd tell me.
+6) 29) dialog: Trust me, it's not. if this is a simulation... PAYTON notices both of their reflections off the mirrored panel inside the locker... revealing their WHITE HAIR.
+6) 30) dialog: Someone is taking the joke a little far. He shuts the locker and they exit, the flashlight's beam panning away, taking us into darkness.
+7) 0) text: BOWER and PAYTON are standing at the control console, the screens flickering with distortion. BOWER hands him a cof and PAYTON takes a sip... with a wince of disgust.
+7) 2) dialog: Figures. We can ride two hundred thousand tons of space freighter across the galaxy without a dent in the hood, but can't get one good cup of coffee. PAYTON flips a few switches with no result of power.
+7) 12) dialog: Payton on the con. Respond? This is Lt. Payton of flight Team...? Shit-
+7) 14) dialog: Five? How do you know that? BOWER pulls up his sleeve, exposing his tattoo ID. PAYTON nods, "good thinking."
+7) 15) dialog: Lt. Payton of Flight Team Five. Does anyone copy? Anyone... respond? Anyone awake up there? Dead static.
+7) 17) dialog: Fucking teamsters. Maybe they couldn't get to us. BOWER eyes the third empty sleep-chamber.
+7) 19) dialog: The power systems must be free-floating off blown circuits or something. The over-ride grid won't even lock in.
+7) 21) dialog: I think we need to find a deck of cards and call the union. Distant THUMPS are heard overhead and they freeze... watc the ceiling with uncertainty.
+7) 30) dialog: Hmm. Ventilation... maybe. Systems keep re-booting after each surge. That could be anything. THUMPS fade as the ship eerily MOANS and CREAKS.
+7) 31) dialog: I say we get out of here. I'd rather be up and out then stuck in the trunk. The room is blocked by the two heavy steel doors on eithe end, security doors ten feet wide. PAYTON leads the way towards one end, gesturing towards the doors.
+7) 32) dialog: We're not far from the bridge but without the circuits locked in... I don't know how we could ever get this thing open. As they approach, their flashlight beams pan across the d to see jagged chips and scratches all along the edges. To are scattered on the floor, the control panel ripped open
+7) 34) dialog: Ironic. I think it was built to protect us.
+7) 38) dialog: What?
+7) 49) dialog: How the hell do you know that?
+7) 51) dialog: The training stuck.
+8) 1) dialog: Now if we only had a monkey and a rope. PAYTON climbs down as BOWER rotates his jaw with eagernes
+8) 3) dialog: Must have.
+8) 5) dialog: I think we're better off... waiting here-
+8) 14) dialog: We're not going to be able to get to the bridge or even be able to open that door from the other side-
+8) 17) dialog: Do you remember just how big this ship is, kid? We don't know where that will come out, if at all-
+8) 19) dialog: 
+8) 22) dialog: Listen, I have to take a handful of Doxitol just to get in the hyper-bunk.
+8) 24) dialog: I can take a lot, that's not one of 'em.
+8) 27) dialog: 
+9) 0) text: They dig through compartments, collecting tools. BOWER pu on a boom-mic, clips the radio on his belt and tests the transmitter. PAYTON goes through a drawer of office supplies, handing him an ENVELOPE OPENER.
+9) 1) dialog: Just in case... (off his look) .there's mail you need to open quickly. BOWER tucks it into a zipper pocket and his photograph fa out. PAYTON watches as he tucks it back in and zips up.
+9) 2) dialog: Wife...?
+9) 4) dialog: Must be newlyweds. How can you forget something like that?
+9) 6) dialog: Some pieces.
+9) 9) dialog: Give it some more time, pal.
+10) 0) text: BOWER squeezes inside, pushing himself forward several fe as PAYTON peeks inside behind him. With one last look, BO holds the pen-lamp in his teeth and begins to crawl, push himself forward on his stomach, only several inches at a in a rhythmic motion. Grunt, slide, breath. Grunt, slide, breath. PAYTON'S flashlight slowly fades from sight.
+11) 2) text: Dammit. PAYTON'S voice crackles over the radio.
+12) 0) text: PAYTON is seated at the control desk, the light panel fad He hand-cranks the auxiliary handle and then continues tapping the keys as they flicker with distortion. PAYTON
+14) 1) text: PAYTON looks to the name plate that reads Elysium and a s emblem above it, a global shape with a spiral design. PUSH IN
+15) 1) text: Payton? Nothing but STATIC. (CONTINUED)    
+15) 3) text: Payton!? Do you copy!? HEY!? Finally...
+15) 5) text: I dunno. I dunno if I can- I can't tell if I'm going in circles or- There's nothing to- Can't breath- PAYTON
+16) 0) text: PAYTON is helpless, listening as BOWER is heard on the ra starting to FREAK OUT. (CONTINUED)    
+18) 0) text: PAYTON ponders the thought while gazing at the ship's emb PAYTON
+18) 5) text: PAYTON gently rubs his hand across the emblem carved in t steel, brushing away the layer of dust as his finger tips TREMBLE. He pauses with a frown as a SHUDDER approaches.. CUT TO:
+20) 0) text: PAYTON quickly leans toward the console, gripping the rad PAYTON
+22) 0) text: PAYTON is on the edge of his chair, pressing the speaker his ear. PAYTON
+22) 2) text: I'm... out! I'm- PAYTON breathes a heavy sigh of relief. PAYTON
+25) 1) text: Make that an overhead compartment. You with me, Payton? I got out. Hear me? He checks the transmitter, crackling with static. CUT TO: I
+26) 0) text: PAYTON adjusts the frequency with concern. PAYTON
+29) 3) text: Payton? Can you hear me!? Dead static. He sighs, looking down each of the corridors all appearing identical and endless. BOWER (CONT'D)
+29) 9) text: Payton...? Are you there? Answer me.
+30) 0) text: PAYTON is pacing back and forth while switching his radio transmitter through the channels, one at a time. PAYTON
+32) 5) text: You should have seen these guys. They were... a very fucked up looking gang. Why the hell would they be-- Payton, they were hunting. BOWER gives himself a shiver as he fearfully checks over shoulder, eyes shifting with fear.
+33) 0) text: PAYTON goes to the doors, coated with desperate scrapes a dents. PAYTON
+33) 2) text: Maybe they can't. With the systems kicking on and off- Maybe they're flying blind, with no control of the LFS? PAYTON eyes the scattered tools across the floor and the ripped open ventilation shaft. PAYTON
+33) 5) text: What are you talking about? PAYTON glances across the control console, nodding with m memories returning. PAYTON
+34) 5) text: Payton!? Where is your wife? PAYTON
+35) 0) text: PAYTON is remembering, eyes widening with the realization not completely at ease with the thought.
+36) 3) text: Try to think of where they would be? A sleeping compartment for non-service PERSONNEL OR- PAYTON
+36) 5) text: What's there to think about!? I remember! There was thousands of passengers that weren't part of the development team. Families that- PAYTON
+36) 9) text: And then we would be no closer to getting out of this situation with even less time to regain control of the ship. BOWER stews, wanting to retort, his mind is racing. PAYTON (CONT'D)
+36) 11) text: But... how do we- I r PAYTON Where are you? I BOWER
+36) 12) text: (panning the light) I dunno. Officer's quarters, somewhere above D-level, I think- I don't- PAYTON
+37) 0) text: PAYTON spins the hand-crank, allowing the computer screen glow brighter. He quickly works the keyboard, pulling up diagram of the ship.
+39) 0) text: PAYTON'S fingers slide across the blueprints, jotting dow hatch numbers and markers leading to the REACTOR BAY. SOUNDS are heard in the walls... THUMP, THUMP, THUMP. PAYTON is too focused on the job at hand to acknowledge t CUT TO:
+40) 1) text: Third crossing. Marker D-5381-X. PAYTON
+40) 3) text: I don't need a rest. Which way? PAYTON
+42) 0) text: PAYTON suddenly leans forward in his chair, memory sparke PAYTON
+43) 1) text: I'm just thinking, maybe there's something we haven't considered. Eden failed... because of ODS syndrome. The one officer who was suffering from Pandorum. Cabin Fever. Maybe there was something similar with one of the earlier TEAMS- PAYTON
+43) 5) text: That was the report... but don't you remember the story of the one flight officer... the real story? They say he went lunar, launched the entire ship, five thousand people killed with the flip of a switch. All from a bad case of cabin fever-? PAYTON
+43) 7) text: And why did they switch the rotation shifts from three years to two? And they eliminated the manual over-ride- PAYTON
+43) 9) text: Well, at least we didn't wake up... floating away in a coffin. PAYTON
+44) 0) text: PAYTON is lost in thought as he watches the computer scre slowly fade with power. He grabs the hand-crank lever, bu pauses to hear the sounds are returning, muffled and dist THUMP, SCRAPE... RATTLE. He turns his light towards the ceiling and wall, which al seems to silence the sounds. The crackle of the radio sna him from his thoughts...
+45) 51) text: Payton...? 1
+47) 0) text: PAYTON jumps to his feet, eyes darting across the flicker monitors, gripping the radio. PAYTON
+49) 0) text: The radio STATIC instantly changes to a HISS. PAYTON look to the meters... signal gone. CUT TO:
+51) 2) text: PAYTON
+51) 5) text: Like a dripping faucet of annoyance, PAYTON bitterly turn his flashlight quickly towards the corner. Wielding the heavy pipe, he cautiously approaches. SCRAPE... RATTLE. PAYTON (CONT'D)
+51) 9) text: Dower...? That can't be... you- The SOUNDS remain muffled, deeper within the wall, possib from inside the ventilation shaft. PAYTON contemplates, eyes panicked. He climbs up the wall and wedges the panel cover over the shaft opening, jammin closed with a screwdriver. He backs away, gripping the weapon, ready for anything. He tries to control his breathing as he sits... watches... and waits. TRAP. A blood droplet hits the floor by his feet and PAYTON wip blood off his nose with confusion and a nervous frown. DISSOLVE THRU BLACK.
+57) 0) text: PAYTON is asleep, seated on the floor, back to the wall. is awoken by...
+57) 2) text: A vent panel lightly RATTLES, the metal begins to bend. PAYTON
+57) 6) text: Help me- I'm part- of the flight crew! I'm- Please- HELP ME! PAYTON oddly hesitates... before lowering the weapon. He digs into the shaft grabbing GALLO'S hand, pulling him ou GALLO collapses onto the floor, crumbling into a fetal position, naked. His hands are locked in claw-like grips, trembling uncontrollably. His gasps are rapid and unstead (CONTINUED)    
+57) 8) text: Easy... Easy. You're all right. PAYTON runs to grab a towel and water. As he turns back h notices GALLO'S hip and legs are sprayed with dried blood PAYTON kneels over him and GALLO spasms from his touch. GALLO
+57) 10) text: EASY! I'm here to help you! PAYTON lifts the bottle to his lips, but the water runs d his face, GALLO is frozen in shock. PAYTON (CONT'D)
+57) 11) text: Com'on. Try to drink a little. Here. GALLO is unresponsive, wide eyes locked in a trance. PAYTON (CONT'D)
+57) 13) text: Gallo. PAYTON
+57) 14) text: What's that? Gallo...? PAYTON frowns, mumbling the name with a hint of recogniti PAYTON (CONT'D)
+57) 16) text: Yes, sir. PAYTON
+57) 18) text: The... bridge. Saying the words seems to send him into a terrified tranc PAYTON
+57) 21) text: The more PAYTON inquires, the more GALLO begins to unrave emotionally. His eyes widen with terror, breath quickenin PAYTON (CONT'D)
+57) 22) text: Corporal? GASP, GASP, GASP... PAYTON (CONT'D)
+63) 0) text: PAYTON is seated at the control desk, scrolling across ra frequencies, talking softly into the boom mic.
+63) 3) text: He feels his neck for a pulse. He notices the dried blood under his nose then gently pulls aside the blanket to see GALLO'S identification tattoo, reading; FLT&gt;&gt;004&gt PAYTON (CONT'D)
+63) 5) text: What are you doing? PAYTON
+63) 7) text: For what? PAYTON
+63) 9) text: Who the hell are you? PAYTON
+63) 10) text: Payton... Lieutenant Payton. GALLO
+63) 11) text: Lieutenant? You're... a lieutenant? PAYTON
+63) 12) text: That's right. You're Team Four? You're suppose to be... my predecessor. GALLO deepens his frown, glancing around with disorientat PAYTON (CONT'D)
+63) 14) text: Yeah. So...? PAYTON
+63) 17) text: I don't know. PAYTON
+63) 19) text: Listen, I'm not a navigator. Stars all look alike. I don't know! How the hell would I know!? Sensing GALLO is about to break down again, PAYTON tries calmer approach. PAYTON
+63) 20) text: Easy. I just want to make sure... GALLO'S hands are trembling, uncontrollably. PAYTON (CONT'D)
+63) 22) text: I'm fine. PAYTON lowers his stare, hesitating, glancing across the dried blood still splattered across his legs. PAYTON
+63) 24) text: Some of it is... sir. PAYTON
+63) 26) text: They didn't give me any choice. PAYTON
+63) 28) text: There was something wrong with them. PAYTON
+63) 33) text: It was... Pandorum. (off his look) Of the worst sort. They were- I couldn't even- I had to defend myself. PAYTON
+63) 35) text: You don't believe me? PAYTON (UNCONVINCED)
+63) 36) text: I believe you. PAYTON goes to a nearby compartment, popping open a First case; inside is a pistol-gripped syringe. He turns back a GALLO squares off, clenched fists. GALLO
+63) 37) text: What are you doing? What is that? PAYTON
+63) 39) text: Then you take it... and relax. PAYTON backs off, setting the syringe aside. PAYTON
+63) 41) text: Sure, Lieutenant. PAYTON turns back to the control console and continues hi search across the radio frequencies. He discreetly pulls pipe weapon closer to his seat. GALLO holds a hollow stare on the back of his head. I (CONTINUED)     77- CONTINUED: (4) GALLO (CONT'D)
+68) 1) text: GALLO is looking at the empty sleep chambers while PAYTON remains at the control console, determined not to give up contacting BOWER. GALLO
+68) 2) text: Do you know the symptoms of Pandorum? PAYTON
+68) 4) text: Orbital Dysfunctional Syndrome. Pandorum. Ever witnessed the symptoms of first-hand? PAYTON
+68) 6) text: It's not something you can easily detect. Starts with a shiver. An itch. A slow boil... and without being able to get off the ship... there's no shutting off the heat. It'll boil over, no matter what you do. GALLO is slowly pacing the room and PAYTON watches him wi uneasiness out of the corner of his eye. GALLO (CONT'D)
+68) 7) text: You don't believe me. PAYTON
+68) 9) text: How could they both have had it? The odds are insurmountable. PAYTON
+68) 12) text: But, we all know Pandorum is greatly affected by any substantial psychological It has an emotional trigger effect. PAYTON
+68) 14) text: How do you think you would react... if you knew the truth? PAYTON
+70) 0) text: GALLO slowly unravels his own tale as PAYTON watches on w suspicion and caution. (CONTINUED)    
+70) 2) text: we were only into our second term. All flight systems nominal. I'd picked up on symptoms with my CO and 2nd Lieutenant. Mild symptoms. Nothing I thought would... become a problem. Until we got the transmission. PAYTON
+72) 1) text: You are that's left of us. Good luck, God bless... and God's speed. E PAYTON
+72) 3) text: Wiped away. We ran a full sweep off the grid and they were... gone. One day there, the next... nothing. PAYTON
+72) 5) text: Whatever it was, they knew it was coming. Wished us well. We're all that's left. PAYTON sits back in shock, shaking his head in disbelief. PAYTON
+74) 1) text: They were my commanding officers. Men who had guided me through FT. I looked up to these men. But... it wasn't them anymore. They... were gone. They... tried to... I had no choice. I- With his body beginning to tremble, PAYTON tries to conso him, touching his arm. GALLO flinches. PAYTON
+76) 0) text: PAYTON'S eyes scan across the dim flickering computer scr a radar scan across a chart of planets... with no Earth s on the screen. PAYTON is silently in shock as... GALLO watches him close from across the console. PAYTON
+76) 1) text: How could they... how could they have let this happen? PAYTON slides his hands off the keyboard, his finger tips i nearly twitching, an uncontrolled tremble. He tries to his hands, sliding them under the console as... GALLO watches him blankly before wandering away to let hi sit alone with the horrific realization. PAYTON shakes hi head, refusing to accept it. (CONTINUED)    
+77) 0) text: The radio speakers on the control console suddenly CRACKL with STATIC and PAYTON leaps forward in his chair, snappi out of his daze. GALLO looks up with a frown.
+79) 0) text: PAYTON vigorously cranks the power lever and slides his finger across the screen of the ship's blueprint. I PAYTON
+79) 5) text: I need you to give me a path. PAYTON and GALLO'S silent stare hangs in the air for a moment, the tension between them unclear. PAYTON turns to the console, quickly typing into the keyboard. CUT TO:    
+84) 0) text: PAYTON is pulling wires out from under the console and go to the sealed doors where he's pulled apart the control panel, preparing for a hot-wire. GALLO watches him while slowly pacing the room. GALLO
+84) 1) text: What are you doing? PAYTON
+84) 3) text: What's so important on the other side of the door? PAYTON
+84) 5) text: This ship is not dying. PAYTON refuses to look to GALLO, continuing his work. GALLO (CONT'D)
+84) 6) text: It's already dead. You really believe that kid will be able to save this ship? PAYTON
+84) 10) text: PAYTON refuses to give him eye contact, continuing to wor the computer as G_ALLO paces back and forth in front of t sleep chambers, fingers rapidly twitching at his side. PAYTON
+85) 10) text: Well, then... she saved your life. BOWER frowns on the thought, slowly nodding in agreement. His eyes look to the label of the chamber he was led to, label reads; M. PAYTON. He mumbles to himself, memory returning. BOWER
+85) 13) text: I remember her. Payton's wife. NADIA
+85) 14) text: Who's... Payton? BOWER
+86) 2) text: He's right about one thing. Once that thing shuts down, we're as good as dead. Nothing on this ship will ever turn on again. Ever. Not the air, not the lights, the heat... not even the pod's escape launch systems. PAYTON refuses to look up from the computer. 3 PAYTON
+86) 4) text: I'mГЇВїВЅsaying... once it's done. We're done. But, we still have a way out of this... before it's too late. PAYTON
+86) 6) text: We can still launch ourselves in the pods. Before the ignition systems are completely dead, sir. PAYTON
+86) 11) text: We can't stay on this ship. You know that as well as I do- PAYTON
+86) 12) text: I said stand down, Corporal! That's an order! GALLO steps up behind PAYTON, his face revealed with a th stream of blood oozing from under his nose, dripping off chin, eyes hollow and pale. PAYTON refuses to look at him continuing to type. CUT TO:
+89) 0) text: A light gently blinks on the control console and PAYTON s it with a frown, running back from the door. PAYTON
+89) 3) text: Trust you? How can I trust someone who isn't even honest with himself. Tell me? PAYTON refuses to acknowledge him, continuing to monitor control panel. He discreetly slides his hand closer to th pipe weapon as he senses GALLO'S presence behind him. PAYTON
+89) 5) text: Don't do that. TRAP... TRAP... THAP. Blood drops hit the floor heavily. PAYTON
+89) 6) text: Don't... do what? PAYTON slides his hand further across the console, reachi for the pipe weapon, eyes on the screen. (CONTINUED)     I
+89) 9) text: Don't talk to me like some child that needs reassurance. Think I don't know the risks? Think I don't know this ship? PAYTON
+89) 11) text: I know this ship and what she's capable of better then anyone. I know her... and I know what she can and can't do. PAYTON
+89) 13) text: And this... she can't do! Why are we even arguing. You know it- PAYTON
+89) 15) text: You wanna stay here to die, that's your choice, not mine! PAYTON
+91) 0) text: GALLO is jabbing the pistol-gripped syringe towards PAYTO motioning him closer to the sleep pods. He motions and PAYTON kneels at the panel... entering the code. PAYTON
+91) 2) text: Shut-up. GALLO jabs the syringe gun towards the back of PAYTON'S h while putting one foot inside the pod. PAYTON
+95) 0) text: The SHUDDER hits the control desk, rattling the monitors 1 WARNING LIGHTS and BUZZERS ignite as the ship feels ful power after centuries of laying dormant. I GALLO slows his POUNDING, blood coating his fists. PAYTON
+95) 3) text: Let me out. I can... help. PAYTON ignores him, typing rapidly into the keyboard. GALLO (CONT'D)
+95) 4) text: I'll help you! Please- I can help! PAYTON runs over to the security door and hits a switch o the sensor. The door doesn't react. GALLO (CONT'D)
+95) 5) text: What are you doing? You can't- You're trying to get on the bridge? PAYTON runs back to the console, typing into the terminal GALLO (CONT'D)
+95) 6) text: You don't want to go in there, Corporal. PAYTON throws him a glare, continuing to type in commands the room erupts with activity.
+95) 9) text: They'll know what you did. PAYTON
+98) 0) text: PAYTON rapidly pounds his fingers into the keyboard and.. LIGHTS activate... causing one of the security doors to engage... sliding open. But, it's the wrong door, reveali a corridor leading endlessly into the back of the ship. I PAYTON DAMMIT- (CONTINUED)    
+98) 2) text: Where do you think you're going? PAYTON QUIET-
+98) 3) text: PAYTON continues to work the control panels, looking to t sealed door on the other end of the room. GALLO
+98) 4) text: Think about what you're doing, sir- PAYTON SHUT-UP-
+98) 6) text: You don't want to see what's in there- PAYTON SHUT-UP; CUT TO:
+101) 1) text: Inside the door at the far end... PAYTON is at the contro console, quickly typing into the keyboard. He hears the E hatch CRACK open and he spins to see GALLO, out of the with a twisted grin, holding the pistol-gripped syringe. GALLO
+101) 4) text: PAYTON counters with the bladed weapon. PAYTON STAY BACK- GALLO
+101) 5) text: Who's the one suffering... sir- PAYTON
+101) 7) text: Corporal... PAYTON slams him against the wall, making him older. PAYTON (RAGE SIMMERING)
+101) 9) text: Your mind... has turned against itself, CORPORAL- PAYTON
+101) 10) text: I'll FUCKING CARVE YOU UP! Within the struggle, hands grab at weapons, a wrist is twisted... lining up both of their identification tattoos be identical... FLT&gt;&gt;004&gt;&gt;012&gt;&gt;. The syringe is stabbed into skin. The trigger fires liqui injecting the chemical into someone's arm as their voices converge, over-lapping at first and becoming one voice... GALLO &amp; PAYTON
+101) 14) text: PAYTON is ALONE. He's just injected the syringe into his wrist. He's the only person in the room. Heavy blood streams are running from his nose and ears. Y77e will now refer to PAYTON by his real name, GALLO. LELAND and GALLO exchange a look... GALLO seeming to snap of his trance. LELAND approaches, wheezing for air. LELAND
+101) 15) text: We made it! We- I'm with your boy. I was the one helping with- GALLO suddenly SLASHES his throat! LELAND reels back in shock, throttling his own neck in horror, blood gushing. GALLO casually turns back to the console, continuing to t as LELAND tries to cry out, his voice gargled with blood he staggers, collapsing to the floor. GALLO hits a key an LIGHTS IGNITE, the last door finally engaging. GALLO sigh with relief as the doors slide open revealing corridor of stairs leading to the bridge. A warm and gent smile widens on his face. I PAYTON
+102) 10) text: You were the one... who first received the final transmission. Who refused to go back to sleep. You stayed awake... for all those years. What were you doing... what crimes were you hiding from when you took Payton's bunk? The time-code display rolls faster, years rolling into decades... BLIP, BLIP, BLIP. (CONTINUED)    
+107) 0) text: SHUSH... THUD. Doors open to another sleep chamber compartment, completely undisturbed. Four undisturbed sle chambers are lined against the wall. GALLO enters, now wearing the CAPTAIN'S uniform, he straightens his collar and kneels next to one of the pods typing into the panel. A grin appears as he removes the wedding ring (PAYTON'S ring) he'd forgotten he's still wearing. GALLO

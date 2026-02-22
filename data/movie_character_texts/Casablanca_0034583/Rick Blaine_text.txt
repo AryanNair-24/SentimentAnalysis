@@ -1,0 +1,368 @@
+9) 0) text: The neon sign above the door is brightly lit. Customers arrive and go in through the front door. From inside we hear sounds of MUSIC and LAUGHTER. The song is "It Had to Be You." Again we isolate on the neon sign. INSERT SIGN: "Rick's Cafe Americain". We follow a group of customers inside.
+10) 0) text: Rick's is an expensive and chic nightclub which definitel possesses an air of sophistication and intrigue. SAM, a middle-aged Negro, sits on a stool before a small, salmon-colored piano on wheels, playing and singing while accompanied by a small orchestra. All about him there is the HUM of voices, CHATTER and LAUGHTER. The occupants of the room are varied. There are Europeans in their dinner jackets, their women beautifully begowned and bejeweled. There are Moroccans in silk robes. Turks wearing fezzes. Levantines. Naval officers. Members of the Foreign Legion, distinguished by their kepis. Two men sit at a table.
+11) 12) dialog: (coldly) Yes? What's the trouble?
+11) 16) dialog: (softly) Hello Ugarte. Rick looks at the German calmly, takes the card out of hi hand, and tears it up.
+11) 17) dialog: Your cash is good at the bar.
+11) 19) dialog: I do. You're lucky the bar's open to you.
+11) 22) dialog: (stiffening) Well, what makes you think I haven't?
+11) 24) dialog: (coldly) 13. -- You thought what? Fearing to offend Rick, Ugarte laughs.
+11) 27) dialog: (indifferently) They got a lucky break. Yesterday they were just two German clerks. Today they're the 'Honored Dead'.
+11) 29) dialog: (shortly) I forgive you. A waiter comes up to the table with a tray of drinks. He places one before Ugarte.
+11) 31) dialog: No.
+11) 33) dialog: (indifferently) If I gave you any thought, I probably would.
+11) 35) dialog: For a price, Ugarte, for a price.
+11) 37) dialog: I don't mind a parasite. I object to a cut-rate one.
+11) 39) dialog: Who did you bribe for your visa? Renault or yourself?
+11) 43) dialog: For how long?
+11) 45) dialog: I don't want them here overnight.
+11) 50) dialog: Just a moment. Ugarte stops as Rick comes up to him.
+11) 51) dialog: Yeah, I heard a rumor that those German couriers were carrying letters of transit. Ugarte hesitates for a moment.
+11) 53) dialog: (slowly) Yes, you're right, Ugarte. I ama little more impressed with you. Rick leaves the gambling room and goes into the main room
+12) 0) text: Rick makes his way over to Sam, who plays and sings the "Knock Wood" number, accompanied by the orchestra. The cafe is in semi-darkness. The spotlight is on Sam, and every time the orchestra comes in on the "Knock Wood" business, the spotlight swings over to the orchestra. During one of the periods when the spotlight is on the orchestra, Rick slips the letters of transit into the pia FERRARI, owner of the Blue Parrot, a competing night spot, comes into the cafe, sits down, and watches Sam. Then he sees Rick and they smile at each other. At the end of the number Ferrari goes to the bar to speak to Ric
+12) 2) dialog: Hello, Ferrari. How's business at the Blue Parrot?
+12) 4) dialog: It's not for sale.
+12) 6) dialog: It's not for sale at any price.
+12) 8) dialog: I don't buy or sell human beings.
+12) 10) dialog: Suppose you run your business and let me run mine.
+12) 12) dialog: Suppose we do.
+12) 14) dialog: Sam, Ferrari wants you to work for him at the Blue Parrot.
+12) 16) dialog: He'll double what I pay you.
+12) 18) dialog: Sorry. Apparently satisfied, Ferrari walks away. Back at the bar, YVONNE, an attractive young French woman sits on a stool drinking brandy. Sacha, who looks at her with lovesick eyes, fills her tumbler.
+12) 25) dialog: That's so long ago, I don't remember.
+12) 27) dialog: (matter -of-factly) I never make plans that far ahead. Yvonne turns, looks at Sacha, and extends her glass to hi
+12) 29) dialog: Sacha, she's had enough.
+12) 33) dialog: -- Sacha, call a cab.
+12) 35) dialog: Come on, we're going to get your coat.
+12) 37) dialog: No. You're going home. You've had a little too much to drink.
+13) 0) text: Sacha stands at the curb on the street in front of Rick's and signals for a cab.
+13) 3) dialog: (to Sacha) You'd better go with her, Sacha, to be sure she gets home.
+13) 5) dialog: 
+13) 9) dialog: Hello, Louis.
+13) 12) dialog: When it comes to women, you're a true democrat. As they talk, Captain Tonelli and Lieutenant Casselle wal toward the entrance of the cafe. Casselle talks non-stop Tonelli tries. They both stop, salute Renault, and walk i the cafe.
+13) 16) dialog: (curtly) Why? What's in Lisbon?
+13) 19) dialog: It was a combination of all three.
+13) 21) dialog: My health. I came to Casablanca for the waters.
+13) 23) dialog: I was misinformed.
+13) 26) dialog: 
+13) 29) dialog: -- Forget it, Emil. Mistakes like that happen all the time.
+14) 2) dialog: (somewhat annoyed) What, again?
+14) 5) dialog: I stick my neck out for nobody.
+14) 8) dialog: Our entertainment is enough. They go inside the office.
+15) 0) text: Rick opens up the safe in a small, dark room just off the office. out. Only Rick's shadow can be seen getting the money
+15) 2) dialog: I see. And what's Strasser doing here? He certainly didn't come all the way to Casablanca to witness a demonstration of your efficiency.
+15) 4) dialog: Here you are.
+15) 6) dialog: That's all right. Emil departs.
+15) 7) dialog: 
+15) 8) text: Louis, you've got something on your mind. Why don't you spill it? Rick closes the door to the office, then goes over to clo the safe.
+15) 10) dialog: Yeah? Have a brandy?
+15) 12) dialog: I thought it was because we let you win at roulette.
+15) 14) dialog: Yeah? What's his name?
+15) 16) dialog: Victor Laszlo? Renault watches Rick's reaction.
+15) 18) dialog: Well, he's succeeded in impressing half the world.
+15) 20) dialog: It'll be interesting to see how he Manages.
+15) 22) dialog: His escape.
+15) 24) dialog: -- Stop it. He escaped froma concentration camp and the Nazis have been chasing him all over Europe.
+15) 26) dialog: Twenty thousand francs says it isn't. down to discuss the matter in earnest.
+15) 28) dialog: I just paid out twenty. I'd like to get it back.
+15) 30) dialog: Okay.
+15) 32) dialog: Why two?
+15) 34) dialog: He'll take one.
+15) 36) dialog: Maybe he's not quite as romantic as you are.
+15) 38) dialog: Louis, whatever gave you the impression that I might be interested in helping Laszlo escape?
+15) 41) dialog: And got well paid for it on both occasions.
+15) 43) dialog: Maybe. Well, it seems you are determined to keep Laszlo here.
+15) 45) dialog: Oh, I see. Gestapo spank. Renault stands up.
+15) 48) dialog: Yeah, you were saying?
+18) 0) text: By the time the gendarmes manage to get the door open aga Ugarte has pulled a gun. He FIRES at the doorway. The SHOTS bring on pandemonium i the cafe. As Ugarte runs through the hallway he sees Rick, appearin from the opposite direction, and grabs him.
+18) 2) dialog: Don't be a fool. You can't get away.
+18) 7) dialog: I stick my neck out for nobody. Rick comes out to the middle of the floor. An air of tens expectancy pervades the room. A few customers are on the point of leaving. Rick speaks in a very calm voice.
+18) 8) dialog: I'm sorry there was a disturbance, folks, but it's all over now. Everything's all right. Just sit down and have a good time. Enjoy yourself. Rick glances toward Sam.
+18) 9) dialog: All right, Sam. Sam nods and begins to play. Renault, Strasser, and Heinze sit calmly at their table after witnessing the arrest. Rick walks by.
+18) 13) dialog: Oh, how do you do?
+18) 20) dialog: Make it official, if you like.
+18) 22) dialog: (pokerfaced) I'm a drunkard.
+18) 24) dialog: I was born in New York City if that'll help you any. 32.
+18) 26) dialog: There seems to be no secret about that.
+18) 28) dialog: It's not particularly my beloved Paris.
+18) 30) dialog: When you get there, ask me.
+18) 33) dialog: Well, there are certain sections of New York, Major, that I wouldn't advise you to try to invade.
+18) 35) dialog: I haven't the slightest idea.
+18) 41) dialog: Are my eyes really brown?
+18) 43) dialog: (glances toward Renault) My interest in whether Victor Laszlo stays or goes is purely a sporting one.
+18) 45) dialog: Not particularly. I understand the point of view of the hound, too.
+18) 49) dialog: You'll excuse me, gentlemen. Your business is politics. Mine is running a saloon.
+18) 161) dialog: Sam, I thought I told you never to play... As he sees Ilsa he stops short. Sam stops playing. Two close-ups reveal Ilsa and Rick seeing each other. Rick appears shocked. For a long moment he just looks at Sam prepares to move the piano away. 45. Renault and Laszlo approach the table from the bar.
+18) 163) dialog: -- Hello, Ilsa.
+18) 169) dialog: How do you do?
+18) 171) dialog: And about Victor Laszlo everywhere.
+18) 174) dialog: -- Thanks. I will. Rick sits down.
+18) 177) dialog: And I congratulate you.
+18) 179) dialog: Your work.
+18) 181) dialog: We all try. You succeed.
+18) 184) dialog: -- It was "La Belle Aurore."
+18) 186) dialog: Not an easy day to forget.
+18) 188) dialog: I remember every detail. The Germans wore gray, you wore blue.
+18) 194) dialog: Not at all.
+18) 196) dialog: (to waiter) Oh, it's my party.
+18) 199) dialog: Any time.
+18) 201) dialog: I will.
+18) 203) dialog: He hasn't played it in a long time. Ilsa smiles.
+18) 206) dialog: Goodnight. Rick and Laszlo nod goodnight to each other. Laszlo and Ilsa start to the door as Rick sits down again and stares off in their direction.
+20) 0) text: The customers have all gone. The house lights are out. Rick sits alone at a table. There is a glass of bourbon on the table directly in front of him, and another empty glass on the table before an empty chair. Near at hand is a bottle. He fills his glass and drinks it quickly. Rick just sits. His face is entirely expressionless. The beacon light from the airport sweeps around the room creating a mood of unreality. Sam comes in and stands hesitantly beside Rick.
+20) 3) dialog: Yeah?
+20) 5) dialog: Not right now. Sam now realizes Rick is in a very grim mood.
+20) 7) dialog: No.
+20) 9) dialog: No.
+20) 11) dialog: Good. Then have a drink.
+20) 13) dialog: Then don't have a drink.
+20) 15) dialog: (emphatically) No, sir. I'm waiting for a lady.
+20) 17) dialog: She's coming back. I know she's coming back.
+20) 19) dialog: Shut up and go home, will you?
+20) 21) dialog: They grab Ugarte and she walks in. Well, that's the way it goes. One in, one out. Sam?
+20) 23) dialog: Sam, if it's December 1941 in Casablanca, what time is it in New York?
+20) 25) dialog: I bet they're asleep in New York. I'll bet they're asleep all over America. Suddenly he pounds the table and buries his head in his arms. Then he raises his head, trying to regain control. He holds
+20) 26) dialog: Of all the gin joints in all the towns in all the world, she walks into mine. his head in his hands.
+20) 27) dialog: What's that you're playing?
+20) 29) dialog: Well, stop it. You know what I want to hear.
+20) 31) dialog: You played it for her and you can play it for me.
+20) 33) dialog: 
+20) 37) text: A) The Arc de Triomphe from a distance. B) Rick drives a small, open car slowly along the bouleva He puts his arm around Ilsa. The background scenery changes to a country road as she snuggles close to him and puts her head on his shoulder. C) An excursion boat on the Seine. Rick and Ilsa stand at the rail of the boat. They seem to be transported by each other as Ilsa laughs.
+21) 0) text: Ilsa fixes flowers at the window while Rick opens champag She walks over and joins him.
+21) 1) dialog: Who are you really? And what were you before? What did you do and what did you think? Huh?
+21) 3) dialog: Here's looking at you, kid. They drink.
+22) 0) text: Inside a swank Paris cafe, Rick and Ilsa dance. They appear to be very much in love as the MUSIC plays.
+23) 0) text: Ilsa flips a coin, then tosses it over to Rick.
+23) 2) dialog: In America they'd bring only a penny. I guess that's about all they're worth.
+23) 4) dialog: And I was wondering.
+23) 6) dialog: Why I'm so lucky. Why I should find you waiting for me to come along.
+23) 8) dialog: Uh huh.
+23) 10) dialog: I'm sorry for asking. I forgot we said "no questions."
+24) 0) text: A man sells newspapers to people crowded around him. Ther is much excitement. Rick and Ilsa sit at a table. They bu a newspaper and begin to read it. Nearby, a group of frightened French people cluster aroun loudspeaker on a wagon. A harsh voice barks out the tragi news of the Nazi push toward Paris.
+24) 1) dialog: Nothing can stop them now. Wednesday, Thursday at the latest, they'll be in Paris.
+24) 3) dialog: I'm on their blacklist already, their roll of honor.
+25) 0) text: A small cafe in the Montmartre. A shadow on the floor reflects the cafe sign "La Belle Aurore." Rick, at the bar, gets glasses and a bottle of champagne. He walks over to Ilsa and Sam at the piano. Sam plays "As Time Goes By." Ilsa seems unnerved. There is evidently something on her mind. Rick pours the champagne. His manner is wry, but not the bitter wryness we have seen in Casablanca.
+25) 1) dialog: Henri wants us to finish this bottle and then three more. He says he'll water his garden with champagne before he'll let the Germans drink 55. any of it. Sam looks at his glass.
+25) 3) dialog: You said it! (to Ilsa) Here's looking at you, kid. Suddenly a loudspeaker BLARES out something in German. Ri and Ilsa look at each other, then hurry to the window.
+25) 4) dialog: My German's a little rusty.
+25) 7) dialog: Yeah. It's pretty bad timing. Where were you, say, ten years ago?
+25) 9) dialog: Looking for a job. Ilsa looks at him tenderly. Rick takes her in his arms, a kisses her hungrily. While they are locked in an embrace they hear the dull BOOM of cannons.
+25) 11) dialog: (grimly ) Ah, that's the new German 77. And judging by the sound, only about thirty-five miles away. Another BOOM from the cannons.
+25) 12) dialog: And getting closer every minute. Here. Drink up. We'll never finish the other three.
+25) 14) dialog: I left a note in my apartment. They'11 know where to find me. Ilsa looks at Rick.
+25) 16) dialog: I know very little about you, just the fact that you had your teeth straightened. He chuckles.
+25) 18) dialog: No, no, no, no. We must leave.
+25) 20) dialog: -- The train for Marseilles leaves at five o'clock. I'll pick you up at your hotel at four-thirty. 57.
+25) 22) dialog: All right. At a quarter to five. (a thought strikes him) Say, why don't we get married in Marseilles? Rick chuckles again. Suddenly
+25) 24) dialog: Yes, I guess it is a little too far ahead. Well, let's see. What about the engineer? Why can't he marry us on the train?
+25) 26) dialog: Well, why not? The captain ona ship can. It doesn't seem fair that... Hey, hey, what's wrong, kid?
+26) 0) text: It's raining very hard at the train station. There is a hectic, fevered excitement, evident in the fac of the people that pass by. This is the last train from P Rick appears in the crowd. He stops and puts his suitcase and glances at his watch. A conductor calls out "All aboard, last train leaving in three minutes." Rain pours over his head and shoulders, but he doesn't se notice. He nervously checks his watch again. Suddenly Sam appears.
+26) 1) dialog: Where is she? Have you seen her?
+27) 0) text: Close-up of a glass on the table in the cafe. Rick's hand reaches for it and knocks it over. We now see Rick's face and he's very drunk. Sam walks over to the table to pick up the glass and a fallen chair. Just then the door opens and it's Ilsa. Rick stares at the doorway. Ilsa lingers a moment, then comes over to the table.
+27) 2) dialog: Oh. I saved my first drink to have with you. Here.
+27) 4) dialog: Especially tonight. She sits down in the chair before the empty glass. Her ey are searching his face, but there is no expression on it except a cold and impassive one. Rick reaches for the bottle, and pours himself another dr
+27) 6) dialog: Why did you have to come to Casablanca? There are other places. He takes 60.
+27) 8) dialog: It's funny about your voice, how it hasn't changed. I can still hear it. "Richard dear, I'll go with you any place. We'll get on a train together and never stop."
+27) 10) dialog: Huh! You understand how I feel. How long was it we had, honey?
+27) 12) dialog: Well, I did. Every one of them. Mostly I remember the last one. A wow finish. A guy standing ona station platform in the rain with a comical look on his face, because his insides had been kicked out. a drink.
+27) 14) dialog: Has it got a wow finish?
+27) 16) dialog: Well, go on, tell it. Maybe one will come to you as you go along.
+27) 18) dialog: Yes, that's very pretty. I heard a story once. As a matter of fact, I've heard a lot of stories in my time. They went along with the sound of a tinny piano playing in the parlor downstairs, "Mister, I met a man once when I was a kid," it'd always begin. Huh. I guess neither one of our stories was very funny. Tell me, who was it you left me for? Was it Laszlo, or were there others in between? Or aren't you the kind that tells? Ilsa gets up and leaves. Rick's head slumps over the table.
+33) 0) text: The cafe is much less pretentious than Rick's, but well populated. Rick enters and walks through the cafe toward Ferrari's office just as Ferrari emerges with Jan and Annina, who l very disappointed.
+33) 3) dialog: Hello, Ferrari. Signor Ferrari turns around. He's pleased to see Rick.
+33) 5) dialog: I see the bus is in. I'll take my shipment with me.
+33) 7) dialog: I never drink in the morning. And every time you send my shipment over, it's always just a little bit short.
+33) 10) dialog: You're a fat hypocrite. You don't feel any sorrier for Ugarte than I do. He eyes Rick closely.
+33) 12) dialog: Practically no one.
+33) 14) dialog: So could I. And I'm a poor businessman.
+33) 16) dialog: And the carrying charges?
+33) 18) dialog: (dryly) . I'll tell him when he comes in.
+33) 20) dialog: Well, you're in good company. Renault and Strasser probably think so, too. Rick looks out of the window and sees Ilsa at the linen bazaar, then Laszlo walking toward the cafe.
+33) 21) dialog: That's why I came over here to give them a chance to ransack my place.
+33) 23) dialog: Excuse me, I'll be getting back.
+34) 0) text: Laszlo reaches the entrance to the cafe as Rick comes out He stops and addresses Rick politely.
+34) 2) dialog: 
+35) 2) dialog: You're being cheated. She looks briefly at Rick, then turns away. Her manner is politely formal.
+35) 5) dialog: I'm sorry I was in no condition to receive you when you called on me last night.
+35) 8) dialog: Your story had me a little confused. Or maybe it was the bourbon.
+35) 12) dialog: Why did you come back? To tell me why you ran out on me at the railway station?
+35) 14) dialog: Well, you can tell me now. I'm reasonably sober.
+35) 16) dialog: Why not? After all, I got stuck with a railway ticket. I think I'm entitled to know.
+35) 18) dialog: 
+35) 21) dialog: Well, I'm not running away any more. I'm settled now, above a saloon, it's true, but... walk up a flight. I'll be expecting you. Ilsa turns her head away.
+35) 22) dialog: All the same, someday you'll lie to Laszlo. You'll be there.
+37) 0) text: Outside Rick's cafe, the sign is lit up and MUSIC filters out into the air.
+38) 12) dialog: That was some going-over your men gave my place this afternoon. We just barely got cleaned up in time to open. a drink for Renault.
+38) 14) dialog: Louis, are you pro-Vichy or Free French?
+38) 16) dialog: Well, it looks like you're a little late.
+38) 18) dialog: So Yvonne's gone over to the enemy. 78.
+38) 32) dialog: (to the German) I don't like disturbances in my place. Either lay off politics or get out.
+38) 63) dialog: Yes?
+38) 65) dialog: How did you get in here? You're under age.
+38) 67) dialog: (cynically) I should have known.
+38) 69) dialog: He is? Well, Captain Renault's getting broadminded. Sit down. Will you have a drink? Annina shakes her head.
+38) 70) dialog: No, of course not. Do you mind if I do?
+38) 73) dialog: Oh, he's just like any other man, only more so.
+38) 75) dialog: -- Now, just a minute. Who told you to ask me that?
+38) 77) dialog: I thought so. Where's your husband?
+38) 79) dialog: How long have you been married?
+38) 81) dialog: (wearily) So you decided to go to America.
+38) 83) dialog: Yes, I'll bet.
+38) 85) dialog: Does he know that?
+38) 87) dialog: And he is still willing to give you a visa?
+38) 89) dialog: And you want to know --
+38) 91) dialog: He always has. a silence. Annina is very disturbed.
+38) 93) dialog: Nobody ever loved me that much.
+38) 95) dialog: (harshly) 85. You want my advice?
+38) 97) dialog: Go back to Bulgaria.
+38) 99) dialog: Yes, well, everybody in Casablanca has problems. Yours may work out. You'll excuse me. Rick abruptly rises.
+38) 101) dialog: Good evening.
+38) 103) dialog: I take that as a great compliment to Sam. (to Ilsa) I suppose he means to you Paris of, well, happier days. Laszlo looks around.
+38) 107) dialog: Well, the geography may be a little difficult to arrange. Rick snaps his fingers for the headwaiter.
+38) 108) dialog: Paul! Table thirty!
+38) 110) dialog: (to Ilsa) I'll have Sam play "As Time Goes By." I believe that's your favorite tune.
+39) 0) text: Jan sits at the roulette table. He has only three chips left and seems bewildered. As Rick comes up the croupier speaks to Jan.
+39) 3) dialog: (to Jan) Have you tried twenty-two tonight? I said, twenty-two. Jan looks at Rick, then at the chips in his hand. He paues, then puts the chips on twenty-two. Rick and the croupier exchange looks. The croupier understands what Rick wants him to do. He spins the wheel Carl follows the proceedings, fascinated. The wheel stops spinning.
+39) 5) dialog: (not even looking at Jan) Leave it there. Jan hesitates, then withdraws his hands. Carl continues to watch. The wheel spins. Nobody speaks while it spins. It stops.
+39) 7) dialog: (to Jan) Cash it in and don't come back. Jan rises to go to the cashier. A CUSTOMER complains to Carl.
+39) 11) dialog: How we doing tonight?
+39) 14) dialog: -- He's just a lucky guy.
+39) 16) dialog: No thanks, Carl.
+40) 0) text: At the bar, Carl whispers in Sacha's ear. Sacha says "No! and runs to Rick.
+40) 2) dialog: Go away, you crazy Russian! Carl pours a brandy for Rick. Pretending not to do so, Rick glances in Ilsa's direction Renault comes up to him.
+40) 4) dialog: Yeah? Why?
+40) 6) dialog: Put it down as a gesture to love.
+40) 9) dialog: Go ahead.
+40) 11) dialog: My office.
+41) 0) text: Rick and Laszlo sit and discuss Laszlo's dilemma.
+41) 2) dialog: I'm not interested in politics. The problems of the world are not in my department. I'm a saloon keeper.
+41) 4) dialog: What of it?
+41) 6) dialog: Yes. I found that a very expensive hobby, too. But then I never was much of a businessman. Rick gets up, as does Laszlo.
+41) 8) dialog: I appreciate it, but I don't accept it.
+41) 10) dialog: My friend, you could make it a million francs, or three, my answer would still be the same.
+41) 12) dialog: There is. I suggest that you ask your wife.
+41) 14) dialog: I said, ask your wife.
+41) 16) dialog: Yes. Rick and Laszlo hear MALE VOICES singing downstairs.
+43) 0) text: Rick stands at the balcony outside his office and watches the Germans below.
+46) 10) dialog: How can you close me up? On what grounds?
+49) 0) text: Rick and Carl sit by the bar and look over ledgers. Carl is busy figuring. He looks up at Rick.
+49) 2) dialog: How long can I afford to stay closed?
+49) 4) dialog: Maybe I won't have to. A bribe has worked before. In the meantime, everybody stays on salary.
+49) 6) dialog: Now you finish locking up, will you, Carl?
+49) 8) dialog: (interrupting) -- Don't tell me where you're going.
+49) 10) dialog: Goodnight.
+50) 0) text: Rick opens the door and goes inside the dark room. Light from the hall reveals a figure by the window. He lights a small lamp. Ilsa faces him, her face white but determined Rick pauses for a moment in astonishment.
+50) 1) dialog: How did you get in?
+50) 3) dialog: I told you this morning you'd come around, but this is a little ahead of schedule. Well, won't you sit down?
+50) 5) dialog: You use "Richard" again? We're back He walks 100. in Paris.
+50) 7) dialog: Your unexpected visit isn't connected by any chance with the letters of transit? It seems that as long as I have those letters I'll never be lonely.
+50) 9) dialog: I went through all that with your husband. It's no deal.
+50) 11) dialog: Do I have to hear again what a great man your husband is? What an important cause he's fighting for?
+50) 13) dialog: I'm not fighting for anything anymore, except myself. I'm the only cause I'm interested in. over to the window and Ilsa follows.
+50) 15) dialog: (interrupting, harshly) -- I wouldn't bring up Paris if I were you. It's poor salesmanship.
+50) 17) dialog: (cutting in) -- I wouldn't believe you, no matter what you told me. You'd say anything now to get what you want. Rick walks over to a table and opens a cigarette box, but finds it empty.
+50) 20) dialog: What of it? I'm going to die in Casablanca. It's a good spot for it. away to light a cigarette, then back to Ilsa.
+50) 21) dialog: Now if you -- short as he sees Ilsa holding a small revolver in It's pointed directly at him.
+50) 23) dialog: I don't have to. I've got them right here.
+50) 25) dialog: (shaking his head) No.
+50) 27) dialog: If Laszlo and the cause mean so much to you, you won't stop at anything. All right, I'll make it easier for you. He moves closer to her.
+50) 28) dialog: Go ahead and shoot. You'll be doing me a favor. Her hand drops down, and there are tears in her eyes agai She turns and walks away from him.
+51) 0) text: From his window, Rick watches the revolving beacon light the airport. Ilsa sits on the couch. On a table before her rests a bot of champagne along with two half-filled glasses. Rick walks over to her.
+51) 1) dialog: 
+51) 4) dialog: Why weren't you honest with me? Why did you keep your marriage a secret? Rick sits down with Ilsa.
+51) 6) dialog: When did you first find out he was alive?
+51) 8) dialog: Huh. But it's still a story without an ending. What about now?
+51) 10) dialog: And Laszlo?
+51) 12) dialog: All except one. He won't have you. Ilsa puts her head on Rick's shoulder.
+51) 14) dialog: All right, I will. Here's looking at you, kid.
+52) 0) text: Laszlo and Carl make their way through the darkness towar a side entance of Rick's. They run inside the entryway. The headlights of a speeding police car sweep toward them They flatten themselves against a wall to avoid detection The lights move past them.
+54) 0) text: Rick and Ilsa hear voices below. Rick crosses to the door He opens it just enough to see below, and turns off the l Ilsa stands just in back of him. She makes a move as if to go out to the balcony but Rick's pushes her back. She withdraws behind the door. Rick walks out to the balcony railing.
+55) 0) text: Rick sees Carl attending to Laszlo, who appears to be inj
+55) 1) dialog: Carl, what happened? Both Carl and Laszlo look up.
+55) 3) dialog: Come up here a minute. Carl looks up wonderingly, then starts toward the stairwa 106.
+55) 5) dialog: I want you to turn out the light in the rear entrance. It might attract the police.
+55) 7) dialog: -- Tonight he forgot.
+56) 0) text: Carl enters Rick's apartment and sees Ilsa. He looks at Rick and says nothing.
+56) 1) dialog: (in a low voice) I want you to take Miss Lund home.
+57) 0) text: Rick comes down the stairs. Laszlo wraps one of the small bar towels around his cut wrist. Rick looks questioningly the injured hand.
+57) 2) dialog: Well, this might come in handy.
+57) 4) dialog: Had a close one, eh?
+57) 6) dialog: Don't you sometimes wonder if it's worth all this? I mean what you're fighting for?
+57) 8) dialog: What of it? Then it'll be out of it's misery. Rick reaches in his jacket for his cigarette case, opens and takes out a cigarette.
+57) 10) dialog: Yes, I get the point. Rick lights his cigarette.
+57) 12) dialog: You seem to know all about my destiny.
+57) 14) dialog: You love her that much?
+57) 22) dialog: It seems that destiny has taken a hand. Laszlo looks for a moment at Rick, then in dignified sile crosses to the officer. Together they walk toward the doo Rick's eyes follow them, but his expression reveals nothi of his feelings. 109.
+58) 0) text: Renault fingers Renault and the sits at his desk and smokes while Rick nervously his hat. They're interrupted by an orderly. hands some forms to the orderly, who then exits, conversation continues.
+58) 1) dialog: But you haven't any actual proof, and you know it. This isn't Germany or occupied France. All you can do is fine him a few thousand francs and give him thirty days. You might as well let him go now.
+58) 3) dialog: -- What makes you think I'd stick my neck out for Laszlo?
+58) 5) dialog: Well, they're all excellent reasons.
+58) 7) dialog: You're not very subtle, but you are effective. I, I get the point. Yes, I have the letters, but I intend using them myself. I'm leaving Casablanca on tonight's plane, the last plane.
+58) 10) dialog: And I'm taking a friend with me. One you'll appreciate.
+58) 12) dialog: Ilsa Lund. (pause) That ought to put your mind to rest about my helping Laszlo escape. The last man I want to see in America.
+58) 14) dialog: I'm not. But I am interested in what happens to Ilsa and me. We have a legal right to go, that's true. But people have been held in Casablanca in spite of their legal rights. Renault retrieves a fresh cigarette from a box on his des
+58) 16) dialog: Ilsa is Laszlo's wife. She probably knows things that Strasser would like to know. Louis, I'll make a deal with you. Instead of this petty charge you have against him, you can get something really big, something that would chuck him in a concentration camp for years. That would be quite a feather in your cap, wouldn't it? 141.
+58) 18) dialog: Then release him. You be at my place a half hour before the plane leaves. Renault sits back down in his chair.
+58) 19) dialog: I'll arrange to have Laszlo come there to pick up the letters of transit, and that'll give you the criminal grounds on which to make the arrest. You get him, and we get away. To the Germans that last will be just a minor annoyance.
+58) 21) dialog: Well, she isn't just any woman. Rick stares at the floor, then looks back up at Renault.
+58) 23) dialog: I'll make the arrangements right now with Laszlo in the visitor's pen.
+58) 25) dialog: Oh, thanks.
+58) 27) dialog: And by the way, call off your watchdogs when you let him go. I don't want them around this afternoon. I'm taking no chances, Louis, not even with you.
+59) 0) text: A waiter brings tea to Rick and Ferrari, who sit alone at table in a secluded nook off the main room.
+59) 2) dialog: It's certainly not good enough. But since I'm in a hurry, it'll have to do. Ferrari pours a cup for Rick, who takes a sip.
+59) 4) dialog: Oh, by the way, my agreement with Sam's always been that he gets twenty-five percent of the profits. That still goes.
+59) 6) dialog: And Abdul and Carl and Sacha, they stay with the place, or I don't sell.
+59) 8) dialog: Well, so long. Rick gets up, followed by Ferrari. They shake hands to se 113. the deal. He walks to the door, then stops and turns around.
+59) 9) dialog: Don't forget, you owe Rick's a hundred cartons of American cigarettes.
+61) 0) text: Rick sits at a table inside and reads the letters of tran He hears a KNOCK on the door and puts them away in his po He opens the door and Renault walks in.
+61) 1) dialog: You're late.
+61) 3) dialog: I thought I asked you to tie up your watchdogs.
+61) 6) dialog: Yes, I know what you mean, but I've already spoken to Ferrari. You'll still win at roulette.
+61) 8) dialog: I have the letters right here.
+61) 10) dialog: Sam's piano.
+61) 12) dialog: Oh. Here they are. You'd better wait in my office. Renault walks up the stairs to Rick's office.
+63) 0) text: Rick opens the door. Ilsa rushes in. Her intensity reveal the strain she is under. Rick grabs her by both arms and pulls her close.
+63) 2) dialog: No, not yet.
+63) 4) dialog: Everything is quite all right.
+63) 6) dialog: We'll tell him at the airport. The less time to think, the easier for all of us. Please trust me. Ilsa pauses and looks at Rick, unsure for a moment.
+63) 9) dialog: Oh, save it. We've still lots of things to do. They all walk towards the bar. Laszlo deposits his hat on a nearby table.
+65) 2) dialog: Keep it. You'll need it in America.
+65) 4) dialog: (cutting him short) Oh, never mind about that. You won't have any trouble in Lisbon, will you?
+65) 6) dialog: Good. I've got the letters right here, all made out in blank. He takes out the letters.
+65) 7) dialog: All you have to do is fill in the signatures. He hands them to Laszlo, who takes them gratefully.
+65) 12) dialog: -- Not so fast, Louis. Nobody's going to be arrested. Not for a while yet.
+65) 14) dialog: I have. Sit down over there.
+65) 16) dialog: Louis, I wouldn't like to shoot you, but I will, if you take one more step. Renault halts for a moment and studies Rick.
+65) 18) dialog: (sharply) Keep your hands on the table. He takes out a cigarette case.
+65) 20) dialog: I do. We've got plenty of time to discuss that later.
+65) 22) dialog: Just the same, you call the airport and let me hear you tell them. And remember, this gun's pointed right at your heart.
+68) 2) dialog: (indicating the orderly) Louis, have your man go with Mr. Laszlo and take care of his luggage.
+68) 5) dialog: If you don't mind, you fill in the names. That will make it even more official.
+68) 7) dialog: (quietly) And the names are Mr. and Mrs. Victor Laszlo. Renault stops dead in his tracks, and turns around. Both Ilsa and Renault look at Rick with astonishment.
+68) 9) dialog: Because you're getting on that plane.
+68) 11) dialog: I'm staying here with him 'til the plane gets safely away. Rick's intention suddenly dawns on Ilsa.
+68) 13) dialog: -- Last night we said a great many things. You said I was to do the thinking for both of us. Well, I've done a lot of it since then and it all adds up to one thing. You're getting on that plane with Victor where you belong.
+68) 15) dialog: -- You've got to listen to me. Do you have any idea what you'd have to look forward to if you stayed here? Nine chances out of ten we'd both wind up in a concentration camp. Isn't that true, Louis? Renault countersigns the papers.
+68) 18) dialog: I'm saying it because it's true. Inside of us we both know you belong with Victor. You're part of his work, the thing that keeps him going. If that plane leaves the ground and you're not with him, you'll regret it.
+68) 20) dialog: Maybe not today, maybe not tomorrow, but soon, and for the rest of your life.
+68) 22) dialog: We'll always have Paris. We didn't have, we'd lost it, until you came to Casablanca. We got it back last night.
+68) 24) dialog: And you never will. But I've got a job to do, too. Where I'm going you can't follow. what I've got to do you can't be any part of. Ilsa, I'm no good at being noble, but it doesn't take much to see that the problems of three little people don't amount to a hill of beans in this crazy world. Someday you'll understand that. Now, now... Ilsa's eyes well up with tears. Rick puts his hand to her chin and raises her face to meet his own.
+68) 25) dialog: Here's looking at you, kid.
+70) 0) text: Laszlo returns. Rick walks into the hangar and Renault hands him the letters. He walks back out to Laszlo.
+70) 2) dialog: All except one thing. There's something you should know before you leave.
+70) 4) dialog: I'm going to anyway, because it may make a difference to you later on. You said you knew about Ilsa and me.
+70) 6) dialog: But you didn't know she was at my place last night when you were. She came there for the letters of transit. Isn't that true, Ilsa?
+70) 8) dialog: (forcefully) She tried everything to get them, and nothing worked. She did her best to convince me that she was still in love with me, but that was all over long ago. For your sake, she pretended it wasn't, and I let her pretend.
+70) 11) dialog: Here it is. Rick hands the letters to Laszlo.
+70) 16) dialog: You better hurry, or you'll miss that plane. Rick watches as Ilsa and Laszlo walk very deliberately towards the plane.
+70) 18) dialog: Stay where you are. I don't know what you're talking about. Rick puts a cigarette in his mouth.
+70) 20) dialog: Anyway, thanks for helping me out.
+70) 22) dialog: As soon as the plane goes, Louis. The door to the plane is closed by an attendant and it slowly taxies down the field. Suddenly a speeding car comes to a stop outside the hanga Strasser alights from the car and runs toward Renault.
+70) 27) dialog: Get away from that phone. Strasser stops in his tracks, looks at Rick, and sees tha he is armed.
+70) 29) dialog: I was willing to shoot Captain Renault, and I'm willing to shoot 125. you. Strasser watches the plane in agony. His eyes dart toward the telephone. He runs toward it and desperately grabs th receiver.
+70) 31) dialog: Put that phone down!
+70) 33) dialog: Put it down! Strasser, one hand holding the receiver, pulls out a pist with the other hand, and SHOOTS quickly at Rick. The bull misses its mark. Rick now SHOOTS at Strasser, who crumples to the ground. At the sound of an approaching car both men turn. A polic car SPEEDS in and comes to a stop near Renault. Four gendarmes hurriedly jump out. In the distance the plane turns onto the runway. The gendarmes run to Renault. The first one hurriedly salutes him.
+70) 39) text: Well, Rick, you're not only a sentimentalist, but you've become a patriot.
+70) 40) dialog: Maybe, but it seemed like a good time to start.
+70) 43) dialog: My letter of transit? I could use a trip. But it doesn't make any difference about our bet. You still owe me ten thousand francs.
+70) 45) dialog: Our expenses?
+70) 47) dialog: Louis, I think this is the beginning of a beautiful friendship. The two walk off together into the night. FADE OUT.

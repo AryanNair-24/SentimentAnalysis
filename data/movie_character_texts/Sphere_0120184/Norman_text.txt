@@ -1,0 +1,537 @@
+0) 2) dialog: You seen my suitcase?
+0) 4) dialog: He didn't say much at all.  Honey --
+0) 6) dialog: Don't be so supportive, honey.
+0) 8) dialog: Four.  Four years --
+0) 10) dialog: Keep watching the news.  Are you watching the news?
+0) 13) dialog: What?
+0) 15) dialog: I don't know.
+2) 0) text: Norman, 53, disheveled, unshaven, sits in the back.  He s pamphlet in his hand: "AIRCRASH SURVIVAL: HOW TO COPE". the cockpit, turns to him.
+2) 2) dialog: I'm in psychology.  Was.  Still am really, just been a while. (beat)
+2) 5) dialog: You've heard of me?
+2) 7) dialog: What report?
+2) 9) dialog: What report?
+2) 11) dialog: Know what? The pilot glances back at him again.
+2) 13) dialog: Who's everyone?
+2) 15) dialog: Geologists?  At a plane crash?
+2) 17) dialog: What the hell would a geologist be doing at a plane crash? Norman looks out the window and sees a group of ships cir water.
+3) 0) text: The helicopter descends down onto the helipad, wind gusti young, female OFFICER -- holding her hat to her head -- r greet Norman, as he climbs out of the helicopter. She looks down crudely at his shotty, nylon dufflebag.
+3) 2) dialog: Just that.  Careful, it's heavy. She lugs it over her shoulder, no problem.
+3) 4) dialog: No, they didn't say --
+4) 0) text: She leads Norman down a flight of stairs.
+4) 2) dialog: Captain who?
+4) 4) dialog: Really? As they march down a hallway, Norman looks down at his wr tries to smooth it out.
+4) 6) dialog: What report?
+4) 8) dialog: Told me what? She staightens up, like she might have said too much.
+6) 0) text: Norman stands in front of the door.  The doorplate reads: COMMANDER -- CAPTAIN HAROLD BARNES.  Norman straightens h tie.  Deep breath.
+7) 0) text: As the door opens, Barnes is putting down the phone, rise desk, as Norman steps inside.
+7) 2) dialog: Thank you, Colonel.
+7) 4) dialog: Captain.  Right, forgive me. Barnes looks at Norman, sizing him up.  An akward silence
+7) 5) dialog: Well, thanks for the opportuninty here -- my wife appreciates it.
+7) 7) dialog: (smiling)
+7) 8) text: The Pentagon?  I didn't know I had friends in Washington. Norman tries to laugh as Barnes ushers him to the door...
+7) 10) dialog: What team?
+8) 0) text: Barnes leads Norman down the corridor, lined with OFFICER
+8) 2) dialog: The usual.  Plane crash.  Survivers unknown.  Routine stuff really.
+8) 4) dialog: Nothing else. A GUARD unlocks a large, steel door.
+8) 6) dialog: Hello. Norman looks at the guard as they proceed through the doo wondering how the guard knows his name.
+8) 8) dialog: Press?  No, I haven't. The steel door shuts loudly behind them.
+8) 10) dialog: From what?  What's with all the security?
+9) 0) text: Barnes leads Norman through the room, crammed with video screens, and grids.  Officers talk into radios.  Technici computers.
+9) 2) dialog: Storm?  What storm?
+9) 4) dialog: They didn't tell me anything. Norman tries to keep pace...
+9) 6) dialog: How deep is he?
+9) 8) dialog: A thousand?  An airplane crashes into a thousand feet of water -- I don't want to sound pessimistic here, but I assume there are no survivors.
+9) 10) dialog: Then why am I here?
+9) 12) dialog: What do you need me for? ON THE VIDEO SCREEN -- the diver shines his light on a la OBJECT.
+9) 16) dialog: What is it?  A military spacecraft? Like a shuttle or satellite?
+9) 19) dialog: Not really, no.  Something of the military crashes in the ocean -- it explains why there was nothing on the news, why you've kept everything a secret...  When did it crash?
+9) 21) dialog: Four hundred?  You're kidding, right? ANGLE ON THE MONITOR -- showing a grid depicting an image and a small layer of ROCK above it.
+9) 23) dialog: Geologists?
+9) 25) dialog: -- Wait a second --
+9) 27) dialog: Hold on --
+9) 29) dialog: -- there's got to be some mistake here -- a four hundred year old military spacecraft?  There's no such thing... our space program isn't even forty years old.
+9) 31) dialog: It's impossible.
+10) 0) text: Barnes and Norman shuffle down the stairs.
+10) 2) dialog: It doesn't make any sense.
+10) 4) dialog: What team?
+10) 6) dialog: ULF report?  Nobody's mentioned that in years.  You mean someone actually read it? As they head down a hallway, Barnes pulls the ULF REPORT under his arm, hands it to Norman. Norman looks at it, almost embarrassed to be holding it.
+10) 8) dialog: But sir, I don't understand.  This report -- these recommendations... they're for an encounter with extra- terrestrial life.
+12) 2) dialog: Beth, look, can I trust you with a little secret?
+12) 4) dialog: That ULF report everybody's patting me on the back about?
+12) 6) dialog: It's bullshit.  The report's a joke.
+12) 9) dialog: I spent a week reading Sagan and watching re-runs of the Twilight Zone.  Seriously.  I was just trying to pay the mortgage on my house -- I had no idea -- ANGLE ON TWO NAVY CORPSMEN, standing behind glass in the monitoring Beth and Norman.
+12) 11) dialog: C'mon, Beth -- that report's like the blind leading the blind.
+12) 13) dialog: Wait -- down where?
+12) 15) dialog: Underwater?
+12) 17) dialog: We can't go down there.  We're not prepared.  That deep?  That takes years of training, Beth.  We're just scientists.  Lab scietists.  We wear ties and lab coats to work -- not oxygen tanks.
+12) 19) text: 70 percent of the earth's surface is water, Norman.  That's first grade geography.
+12) 20) dialog: It never occurred to me.
+12) 22) dialog: The timing has never seemed quite right.
+12) 24) dialog: (nervous laughter)
+13) 0) text: THE SKY -- clouds looming on the horizon. ANGLE ON ARTHUR LEVINE, leaning against the railing, look the water. ON NORMAN, approaching him.  Arthur never looks at Norman stares out at the water.
+13) 2) dialog: Seasick?  A marine biologist?
+13) 4) dialog: Makes you feel pretty small, doesn't it?
+14) 0) text: A porthole hatch to the DESCENT SUB unlatches loudly.  A help Norman lower himself through the hatch.
+15) 0) text: Norman steps down the ladder into the sub compartment.  S circle area: Ted, Beth, Harry, and Arthur.  Ahead of them Barnes sits with the pilot in the sub's cockpit, separate of plexiglass. Norman takes a seat between Beth and Ted.
+15) 2) text: Our descent will take 13 minutes. Descending at a speed of 80 feet per minute. Across from Norman, Harry is WHISPERING something quietly Arthur's ear.
+15) 6) dialog: Arthur? Harry has gotten to Arthur.  Arthur is on the verge of pa
+15) 7) dialog: Arthur?  You alright?
+15) 22) dialog: He wasn't feeling well.
+15) 25) dialog: What?
+15) 27) dialog: Fine.  I'm fine.
+15) 29) dialog: I'm not being defensive.
+15) 31) dialog: I'm fine.
+19) 2) dialog: What's wrong with oxygen?
+20) 22) dialog: Me?  Well -- I don't really...  I mean, you could... you know, you could make a real solid case... a crowbar? All eyes on Norman.
+20) 23) dialog: I don't know. A beat as they all stare at him.
+21) 1) dialog: Are we all -- I mean, is it necessary for all of us to go... out there? The other team members take their suits out of their lock
+21) 7) dialog: (under his breath)
+22) 2) dialog: (nervous as hell)
+22) 6) dialog: No, why don't -- Harry nudges him forward.
+22) 8) dialog: Wait a second, I -- Harry pushes him again.  Norman catches himself.
+22) 9) dialog: Geez, c'mon, alright.  Gimme a minute.  Let me get my bearings -- Harry pushes him again.
+22) 11) dialog: Look, would you -- And Harry just pushes him in.  Norman slips and falls awk the ocean depths.
+23) 0) text: About 60 feet deep.  Narrower than they'd like.  Norman d clumsily, awkwardly -- pushing off the bulky, iron handle the coral walls.
+24) 0) text: CLOSE ON NORMAN'S FACE as he watches the water recede, do faceplate.
+24) 7) dialog: You want me to try?
+24) 12) dialog: Take a look. Barnes comes toward him.  The others follow.  Barnes bend closely down at the wedge in the door.
+25) 0) text: ON NORMAN -- cautiously stepping inside.  His helmet ligh others ahead of him, walking along a 5 foot wide CATWALK, high in the air. Metallic BEAMS and RAFTERS criss-cross above them. Norman looks over the railing -- his light STROBES throug darkness, dimly lighting the LOWER HULL, a dense network GIRDERS.
+25) 20) dialog: Earth doesn't have a patent on buttons, Ted.
+25) 24) text: What do you make of this? ON NORMAN -- as he steps around Barnes, his light BRIGHTE SIGN that reads: "Trash."
+25) 39) dialog: 400 years ago?  I'm sure Christopher Columbus would've loved these accomodations.
+26) 8) dialog: Sounds a little like water -- SUDDENLY -- the chair Norman's in -- wraps around him, sq inside, padding sliding around his head, his shoulders en -- sucking him inside... 
+26) 10) dialog: Get this thing off me. Beth bends down, presses a button, the CHAIR releases Nor
+26) 15) dialog: Whatever I can do to help. ON THE SCREEN as it changes, now filled with columns:
+26) 28) dialog: 01-01-47.  Two thousand-forty seven. 50 years in our future.
+26) 32) dialog: To what?
+26) 38) dialog: Picked up something?  What is it?
+27) 2) dialog: Which one?  Let me get the list out.
+27) 4) dialog: But on the way home, they miss their turn, go too far, into the past.
+29) 3) dialog: Maybe we shouldn't.
+29) 5) dialog: If it is alien, maybe we shouldn't try to open it at all.
+29) 7) text: Man is man, all he knows is man, and all he can think of is what he knows.  The anthropomorphic problem. Good, Norman.
+29) 9) dialog: I mentioned it in my report.  Didn't you read the report?
+29) 16) dialog: Or maybe, it can't be killed.
+29) 18) dialog: I don't know.  That's the point.
+29) 23) dialog: Good point.  I don't know what you're talking about, but good point.
+29) 30) dialog: Disrupt our brain waves, interfere with our ability to think.
+31) 2) dialog: Don't be so optomistic, Harry.
+31) 4) dialog: Not a clue.
+31) 6) dialog: I don't follow you.
+31) 8) dialog: So what? Harry leans his head over his bunk.
+31) 10) text: We know it went through a black hole.  We saw it.  Norman -- when we'd get to the surface, we'd tell someone about the black hole, wouldn't we?  It'd go in some report like some big discovery.  So in fifty years when they build that ship, they'd make precautions for a black hole. (beat)
+31) 12) dialog: Meaning we're never gonna get the chance to tell anyone.
+31) 14) dialog: I can't believe that, Harry.
+31) 16) dialog: I can't.  If I had a minute to think, maybe, but I know you're wrong.
+31) 18) dialog: Look -- we're under a lot of pressure, we're tired, you're not thinking straight.
+31) 20) dialog: No.  I didn't say that.
+31) 22) dialog: It's what's in that sphere, isn't it, Harry?  Whatever you think is in that thing -- you think it's going to kill you.
+33) 0) text: CLOSE ON -- Norman and Barnes.
+33) 2) dialog: I'm telling you, Harry's lost it. He's saying there's a deathwish out for each of us.
+33) 4) dialog: All I'm saying is, someone should keep an eye on him.
+35) 0) text: ON NORMAN -- gathering his things.  Stuffing his shotty d Beth, at her bunk, doing the same. Norman stands up.  Looks at the bunk above him: unpacked unpacked belongings, a notebook lying there saying: PROPE HARRY ADAMS. ON NORMAN -- panicking, looking around for Harry.
+35) 7) dialog: Harry's missing.
+35) 9) dialog: He's missing.  He's gone.  He left.
+35) 11) text: Go!  C'mon! Norman runs off.  Barnes storms down the hall... 
+38) 0) text: Edmunds, Norman, Beth, Ted staring at the monitor... 
+39) 0) text: Norman with Barnes... 
+41) 2) text: Send them, damn it!  I know, but I'm not gonna be held responsible -- Norman with him... 
+41) 3) dialog: You can't just leave Harry down here, sir.
+41) 5) dialog: But sir --
+42) 0) text: ON NORMAN -- staring at the monitor of the sphere, idle.
+49) 0) text: Norman running across a catwalk... 
+52) 0) text: Norman, running, blindly, through a hall, around corners.
+55) 0) text: ON NORMAN -- running... 
+57) 0) text: ON HARRY -- lying still, face down under the sphere.  Goe Checks Harry's LIFE SUPPORT BADGE.  Still blinking -- he' Norman, pauses, looks up, staring at... 
+60) 0) text: Barnes speaks to the team (minus Harry and Norman)... 
+61) 3) dialog: What noise?
+61) 5) dialog: Harry, can you tell me about the sphere?
+61) 7) dialog: You remember opening the door?
+61) 9) dialog: Tell me about the door.  Do you remember how you opened the door to the sphere?... Harry?
+61) 11) dialog: Then explain it to me. Harry pauses, staring almost like a frightened little boy
+61) 13) dialog: What is it, Harry?
+61) 15) dialog: Page 87 of what, Harry?
+61) 17) dialog: That far in what, Harry? Harry doesn't say anything.  Norman waiting... 
+64) 4) dialog: (off food)
+65) 8) dialog: When did it come across?
+65) 10) dialog: Where's it coming from?
+65) 12) dialog: Is it coming from our own computer?
+67) 1) dialog: Getting anywhere with those?
+67) 3) dialog: Have you looked outside?  Jellyfish. Everywhere.  I hate jellyfish. (sits on the table)
+67) 6) dialog: You said something to me, before -- about how we were all going to die.
+67) 8) dialog: You don't remember that?
+68) 10) dialog: What happened to you inside that sphere, Harry? A long beat.  Harry becomes concerned... 
+72) 0) text: CLOSE ON A MICROSCOPIC IMAGE of a jellyfish. ON NORMAN -- in the corner of the lab, inspecting a MEDIC
+72) 1) dialog: What is this, Beth?  You taking valium? Beth, looking into the microscope.
+72) 3) dialog: Where'd this come from?
+72) 5) dialog: We have a library?
+72) 7) dialog: No, thank you.  I hate jellyfish. Walking toward her... 
+72) 8) dialog: ... when I was six, my younger brother and I -- we went swimming in the Pacific.  At my mother's beach house.  We both felt stinging, and when we came out of the water, he was wearing jellyfish head to toe. Killed him.
+72) 10) dialog: Yeah, it was awful.
+72) 12) dialog: Me?  Well, I was wrapped in seaweed. It itched for a while, but I survived. (beat)
+72) 15) dialog: What do you mean -- not normal?
+72) 17) dialog: Wait a minute.
+72) 19) dialog: You knew about the squid not being normal.  Before Fletcher went out there?
+72) 21) dialog: And you didn't tell anyone? Beth, nervous... 
+72) 23) dialog: Beth --
+72) 25) dialog: They are or they aren't.  Which is it?
+72) 27) dialog: Beth.
+72) 29) dialog: Beth -- She backs away from Norman, knocking off a speciman jar, on the floor.  She starts breaking down. Norman watching her, falling to the ground, picking up th hurriedly... 
+72) 31) dialog: Beth. She's crying, glass in her hands.  She looks up at Norman nervous... 
+74) 0) text: Barnes sits, Norman in front of him, worked up... 
+74) 1) dialog: I'm not paranoid.  I know Beth.  She can be drastic.
+74) 3) dialog: You don't want to know.
+74) 5) dialog: A while back, Beth and I -- we worked at the same university.  She was assisting a chemist there -- I forget his name -- doing research, experiments.  She was also living with him. (off Barnes' look)
+74) 8) dialog: She put a razor to her wrists a day later.
+74) 11) dialog: '81, I think.  She tried again five years ago. (beat)
+74) 14) dialog: At the time, I don't know, I thought putting her on the list -- it might help her career -- catch her a break.
+74) 16) dialog: Wait a second --
+74) 18) dialog: -- I didn't know it would come to this --
+74) 20) text: You know, Ted said something to me earlier.  I think he's right.  He said, "When you got a guy who -- if he wasn't here -- he'd be standing in the unemployment line, you gotta question if you got the right guy." ON NORMAN -- sweating.
+75) 0) text: Ted, nervous, anxious -- with five or six printouts in hi Norman's ear in front of the sink... 
+75) 2) dialog: Like what? Ted hands him a printout... 
+75) 4) dialog: You mean a picture?
+75) 7) dialog: I don't see anything.
+75) 9) dialog: Please, Ted.
+75) 12) dialog: This is like nursery school.
+75) 14) dialog: The creature?
+75) 16) dialog: Well, how about we wait and see what Harry comes up with?
+75) 23) dialog: That's brilliant. Ted grimaces at Norman.
+76) 0) text: Barnes walks briskly down the hall, Norman with him... 
+76) 2) dialog: The message doesn't show a lack of intelligence.  It's smart.  It's approaching us in a simple way.  Like you would a dog.  Holding out your hand, letting it sniff, get used to you.
+76) 34) dialog: Well, he's polite.
+76) 54) dialog: That's smart.  Let's talk about guns and violence.
+76) 56) dialog: I think we should be careful. Consider his emotional response.
+76) 58) dialog: When he uses a phrase like "I am Happy", I think we should think twice about what we ask him. "Do Not Be Afraid" The all stare at the screen, stunned.
+76) 59) dialog: Jerry, can you understand what we're saying? "Every word" Norman walks up to the screen, close to it.
+76) 60) dialog: Jerry, can you read our minds? "Yes Norman" Barnes goes to the intercom... 
+76) 62) dialog: Jerry, are you there? "Yes, Norman"
+76) 64) dialog: We would like to talk alone. "I do not agree.  That is not possible.  I enjoy to talk
+76) 65) dialog: And we enjoy talking with you. "Let us talk now"
+76) 66) dialog: We'd like to talk with you more.  We admire your talents and your great power and understanding. "Thank you"
+76) 67) dialog: And in your great understanding, you know that we are entities who must talk in private -- with each other. "Do Not Be Afraid"
+76) 68) dialog: We're not afraid, we are uncomfortable. "Am I offended you?"
+76) 69) dialog: Not at all, we enjoy you very much, but we need to talk alone, without you listening. "I shall oblige"
+76) 70) dialog: Thank you. "But I am Not Happy"
+76) 71) dialog: Jerry?...  "We'll be Right Back after a short break for these Messag Sponsor"
+76) 72) dialog: Jerry?  Are you still there? SCREEN -- blank.
+76) 73) dialog: Jerry? SCREEN -- blank.
+76) 87) dialog: Frankly, Ted, I'd be much happier if Jerry was just a cold, emotionless intellect.
+76) 91) dialog: Because if Jerry is powerful and also emotional... 
+76) 93) dialog: ... it raises a very serious question: What happens if Jerry gets mad?
+77) 8) dialog: I can't feel her bones.  She's like a sponge.
+77) 10) dialog: What could have done this? WE HEAR A SENSOR: PONG.  PONG.  PONG.
+78) 8) dialog: What are they?
+79) 0) text: Ted walks with Norman and Beth... 
+79) 1) dialog: What was it?
+79) 3) dialog: Has Harry spoken with Jerry?
+80) 0) text: Norman and Ted at the console... 
+80) 1) dialog: Jerry? No reply.
+80) 2) dialog: Jerry, are you there? No reply.
+80) 4) dialog: I'm not sure.
+81) 8) dialog: What for?
+81) 10) dialog: At least our obituaries will be accurate.  That's reassuring. ON THE EGG -- splitting open.  A slimy pinkish-brown FLUI FETUS underneath. They cover their mouths from the smell.
+81) 14) text: Beth, holding a piece of paper in her hand, pulls Norman pressing on him... 
+81) 16) dialog: C'mon, Beth.  Don't make this personal.  He told me himself they were taking us back.
+81) 18) dialog: So what?
+81) 20) dialog: You're jumping to conclusions, Beth. Don't get worked up --
+81) 23) dialog: Where did you get this?
+81) 25) dialog: You went through Edmunds' things?
+81) 27) dialog: Calm down, Beth.  Alright?
+81) 29) dialog: It's done, alright?  It's over!  And there's not a damn thing we can do about it now, okay? He turns to leave... 
+81) 31) dialog: What?
+81) 33) dialog: Beth --
+81) 35) dialog: Don't do this.
+81) 37) dialog: Beth, I didn't.  Hold it together. Alright? She looks at him, piercing into his eyes... 
+81) 39) dialog: Beth --
+83) 0) text: Barnes, Norman, Beth, and Ted are gathered around the mon addresses Norman... 
+83) 2) dialog: But sir, I think it's imperative.  I think the messages, the animals we've seen, what killed Edmunds, the reading you got earlier -- I think they're all related.
+83) 4) dialog: Of course he did.  He's been isloated for 400 years.  He wants someone to talk to.  Look, you put a human being in isolation for four days, they can become neurotic, sometimes psychotic.  We're talking about 400 years here.  An alien that shows emotional responses.  I think we need to address him, before he reacts further.
+83) 6) dialog: Yes, I do.  Whatever's out there, I think is his response to us refusing to talk to him earlier.
+83) 8) dialog: Maybe so.  But I think we need to ask Jerry about it.
+83) 14) dialog: Jerry, we don't want to ignore you. "Don't underestimate my power"
+83) 15) dialog: We don't. "Yes you do"
+83) 16) dialog: Jerry -- THE MONITOR blinks back -- WE SEE the sphere.  It is clos WE HEAR the SENSOR: PONG.  PONG.  PONG.
+85) 0) text: ON THE SONAR IMPULSE MONITOR -- lines jumping higher.  PO Barnes, Norman, Beth, and Ted watching it.
+85) 1) dialog: Jerry? No response.
+85) 2) dialog: Jerry? The MONITOR flashes: "I'm Not Listening" -- blinks back. AN OUTSIDE CAMERA FEED -- infra-red -- a large IMAGE stre
+85) 6) dialog: Jerry? No response.
+85) 23) dialog: Jerry?  Please.  Stop this.
+96) 0) text: Beth and Norman BOLT out the door
+98) 0) text: THUMP!  Norman and Beth, losing their balance, stumbling feet, running...  ON TED -- SLIDING out of the Control Room, down the corri the water. Beth grabs him, as Norman stumbles
+100) 0) text: Norman grabs the headset, slips it on... 
+100) 1) dialog: Yes, sir.  I'm here.
+100) 3) dialog: High Voltage Defense System. ON BETH -- in the hall, tending to Ted, looks up at Norma
+102) 3) dialog: I see it.
+104) 0) text: Norman, sweating... 
+108) 0) text: CLOSE ON FIRE EXTINGUISHER CASE -- Beth whips it open, gr ON NORMAN -- picking up Ted, lugging him awkwardly over h ON BARNES -- running down the corridor towards them. BANG!  Barnes falls to the floor, taken away by the water
+109) 0) text: FIRE blasts out from the wall...  BETH and NORMAN (still with Ted) wearing GAS MASKS, RUSH room... 
+109) 2) dialog: It won't stop. Norman falls to the floor, losing Ted. TED -- SLIDES away and UNDER the computer CONSOLE. BANG!  The computer CONSOLE breaks -- COMPUTERS, MONITORS CRUSHING on Ted's legs.  He SCREAMS out in agony. NORMAN scrambles towards him through the smoke when...  THE CONSOLE catches fire, erupts in flame.  Ted underneat BETH -- her extinguisher out of foam. NORMAN -- runs to a wall, finds an EXTINGUISHER CASING, i can't get it open. TED -- reaches out in desperation as his LEGS catch fire.
+110) 0) text: WE FOCUS in on Norman, as he awakens.  NAVY SEAMAN, 40s, American, standing above him.
+110) 2) dialog: Does this mean what I think it means?
+110) 4) dialog: The ships?
+111) 0) text: Norman and the Navy Seaman walk down the hall.
+111) 1) dialog: How are the others?
+111) 3) dialog: Beth and Harry?
+111) 5) dialog: That whole time -- I couldn't stop thinking of what Harry was saying earlier... 
+111) 7) dialog: About the time paradox. (the Seaman nodding)
+111) 8) text: How we were all going to die -- that there was no way we would make it out of here alive -- As Norman looks up, the Navy Seaman, still walking and no to slowly DISAPPEAR.  Disintigrating.  VANISHING before h Norman stops, looks around him.  He's gone.
+112) 0) text: Norman watches on a monitor -- the VIDEO of him walking d the Navy Seaman walking next to him.
+112) 1) dialog: ... how we were all going to die -- that there was no way we would make it out of here alive -- ON THE MONITOR -- the Seaman disappers. Norman stops tape.  Looks over at the MONITOR showing the closed. THE SCREEN goes BLACK.  Flashes up: "Hello Norman"
+112) 2) dialog: Jerry? "Yes Norman"
+112) 3) dialog: Jerry, did you create that man? "The entity Navy Seaman was a Manifestation.  Did you hav talk?"
+112) 4) dialog: Jerry, are you manifesting what's destroying our habitat? "Did you have a Happy talk?"
+112) 5) dialog: Jerry, answer me. "No."
+112) 6) dialog: Jerry? A beat. "Stop calling me Jerry" The MONITOR shuts off. Norman looks over at ANOTHER MONITOR labled "AIRLOCK FEED ON THE SCREEN -- Beth is putting on her jumpsuit.
+113) 1) dialog: Where are you going in such a hurry?
+113) 3) dialog: Forget the sub.
+113) 5) dialog: It's not worth the risk.
+113) 7) dialog: You, me and Harry?
+113) 9) dialog: Wake him, then.  Let's go.  Get outta --
+113) 11) dialog: Four days?
+113) 14) dialog: Why should I go?
+113) 16) dialog: In case you die, too?
+113) 18) dialog: I would.  But my suit --
+113) 20) dialog: (watching her closely)
+113) 23) dialog: But I don't know how --
+113) 26) text: Norman drops to the bottom with the BRIEFCASE.  Lands on BREATHING.  Checks his LIFE SUPPORT BADGE.  She must've f
+113) 29) dialog: I can't see anything.  How does it look?  Still clear?
+113) 32) dialog: You fixed this suit? (no reply)
+113) 35) dialog: My air isn't... I'm coming back.
+113) 37) dialog: Still clear?
+114) 0) text: Norman sits in the small seat.
+114) 1) dialog: I'm in. (beat)
+114) 3) dialog: Beth? He searches the sub's CONTROL PANEL.  Gadgets, switches, top -- a flashing red-lit BUTTON: "TIMER HOLD".  Punches flashing, and a small screen glows: "TIMER RESET -- COUNT It begins counting backwards.
+114) 4) dialog: Beth?  Hello? No answer.  He looks at the Control Panel: A VIDEO SCREEN with the choices: "DESCEND, ASCEND, SECURE
+114) 7) dialog: Beth!  Beth!  There's something -- ! THUMP!  BANG!  He's thrown around in the sub.  He can't s tosses around.  He reaches for the doorhandle. BANG!  He looses grip, his legs fly up in the air.  The S over on it's side.
+114) 8) dialog: Beth!  Shit! His HELMET BANGS into the glass, WE SEE his look of terro SPLASHING up from below. Then, EVERYTHING stops. The sub SWAYS to a still.  He sits quietly.  Waiting.  Li Reaches for the doorhandle, cautiously climbs out. Stands on top of the sub.  Keeping balance.  He looks aro DOOR inside the dome.  Tries to open it.  Locked. Looks around.  Nothing else.  Looks down at the water.  C His BREATHING short.
+114) 9) dialog: Beth?  Can you hear me? No reply.  He dips his leg slowly, quietly into the water Then, cautiously slips down into the water... 
+114) 11) dialog: Beth?  Beth?  Shit. THE HABITAT -- ahead of him. Norman goes to a STANCHION.  Grips onto it.  Twists aroun Searching.  Doesn't see anything.  LIFE SUPPORT BADGE ble Barely BREATHING.
+114) 13) dialog: Harry?
+114) 15) dialog: I can't breathe...  Am I... clear?
+115) 0) text: They burst out of the water.  Harry throws Norman onto th Unhooks his helmet -- Norman BREATHES, fast and furious.
+116) 0) text: Norman, panting, walks with Harry... 
+116) 1) dialog: Thank you.  My suit -- Beth said she fixed it --
+116) 3) dialog: What do you mean?  She's not here?
+116) 5) dialog: She was supposed to be watching the sensor for me.
+116) 7) dialog: Beth left?
+117) 0) text: Norman and Harry at the mic... 
+117) 2) dialog: What are you doing in the ship? (beat)
+117) 5) dialog: Yeah, well, I get that way when I'm facing death and someone deserts me.
+117) 7) dialog: He what? Harry shakes his head: "no way".
+117) 14) dialog: You didn't say that about the food?
+117) 16) dialog: But why would she -- ?
+117) 19) dialog: I think so, Beth.  Yes.
+118) 0) text: Norman, sitting at a table, eating a couple pieces of col A salad, some fruit, and boxes of crackers on the table. Beth walks in, carrying a bag of food.
+118) 2) dialog: Fixing it.
+118) 5) dialog: The refridgerator.
+118) 7) dialog: It's a pretty common place to look for food when you don't think you have any.
+118) 9) dialog: We must've had it delivered then.
+118) 11) dialog: 1-800-Deepsea delivery.  I hear they're good.
+118) 13) dialog: Did you look?  It was on the top shelf.
+118) 16) dialog: You think?
+118) 18) dialog: All I know is I opened that refridgerator --
+118) 20) dialog: This being after you so carefully fixed my suit.
+118) 22) dialog: I don't know, Beth.  I wasn't there.
+119) 0) text: Harry neatly hangs Norman's jumpsuit under the hook lable Smoothens it out for him.
+120) 0) text: ON BETH -- sitting at a table, her face in her hands. ON NORMAN -- looking at her, as he closes a box of cracke cellophane over the chicken.  Walks with it over to the r Opens it, placing the chicken inside... but he can't.
+120) 5) dialog: Page 87.
+120) 7) dialog: Page 87.  "I could never read that far." Norman quickly plucks a book from a shelf, turns pages, g 87.  Reads... 
+120) 8) dialog: "Our fisherman frequently see some that are more than four feet long. Some skeletons of squids... 
+120) 10) dialog: "... according to calculations of some naturalists, one of these animals, only six feet long, would have tentacles 27 feet long.  That would make a formidable monster." He looks up from the book, realizing something... 
+121) 0) text: CLOSE ON HARRY'S DUFFLEBAG -- Norman rifles through noteb pages. TEARS off the first Jerry transmission. Beth, standing at the doorway, keeping watch down the hal
+122) 0) text: Norman SCRIBBLES on the printout, glancing at the yellow paper... 
+122) 1) dialog: After the attack, a Navy guy woke me up -- I don't know -- I thought he was an illusion.  But I checked the tape, and Jerry said he manifested him.
+122) 3) dialog: Created.  Brought to life.  I don't know.  But at the end, Jerry said, "Stop calling me Jerry".  And -- Norman stops, staring at the pad.
+122) 4) dialog: He translated it wrong.
+122) 6) dialog: Hello.  How are you?  I am fine.  What is your name?...  My name is Harry.
+123) 1) dialog: Remember when we first spoke to Jerry, Barnes kept asking for Jerry's real name?  But Harry never would?  He didn't because he was afraid the screen would say "Harry", instead of Jerry.  We weren't talking to an alien intelligence when we talked to Jerry, we were talking to Harry... or a part of Harry.
+123) 4) dialog: When did the messages start?  The animals outside start showing up? After Harry came out of the sphere.
+123) 6) dialog: He acquired some sort of power.  A power to manifest things.
+123) 8) dialog: I don't know.
+123) 10) dialog: I don't know, Beth.  I'm not the fucking alien that built the thing. But it can.  When Harry came out of the sphere, he mumbled something about page 87.  How he would never read that far -- he was too scared to.  Then you found the book, remember in your lab.  Then in the cafeteria -- and page 87 talks about a giant squid... 
+123) 12) dialog: It's his fear.  The squid.  He's manifesting his fears.  Making them real.
+123) 14) dialog: He must not realize he is.  Like the Navy crewman -- Harry was sleeping then.  He must've manifested his dream.
+123) 16) dialog: (shaking his head)
+123) 22) dialog: Must be.  And if it is -- it's a part of him not even he can control. Harry opens his eyes, stares at us.
+124) 2) dialog: Looks like some sort of code.
+124) 11) dialog: Wisconsin?
+124) 14) dialog: How do we decode it?
+124) 17) dialog: The cavalry is on it's way. THE SCREEN -- "16:00:00"... it begins decending in count.
+124) 30) dialog: We just figured, you know, the three of us -- we need to... work together through this.
+124) 32) dialog: That's right.
+124) 34) text: Is that why the two of you went through my dufflebag? Norman glances at THE SCREEN behind Harry: "I WILL KILL Y
+125) 0) text: CLOSE ON THE MEDICAL CABINET -- WHIPPING open. Norman quickly digs through the medicines... 
+125) 1) dialog: Diphenyl parlene.
+125) 3) dialog: Ephedrine hydrochloride. Beth at the computer, looking up the names... 
+125) 5) dialog: Valdomet.
+125) 7) dialog: Sintag.
+125) 9) dialog: Does it cause drowsiness?  That's all we need.  To get him unconscious -- put him under.
+125) 11) dialog: Tarazine?
+125) 13) dialog: Bingo.
+125) 15) dialog: Riordan?
+125) 17) dialog: Damn it!  Chloramphenicol?
+125) 19) dialog: Parasolutrine?
+125) 21) dialog: P-a-r-a-s-o... 
+125) 23) dialog: What's that?
+125) 25) dialog: It's like a sleeping pill?
+125) 27) dialog: Here we go.
+125) 29) dialog: (reading from the computer)
+125) 32) dialog: Three to six hours.
+125) 34) dialog: What?  Wait -- isn't that dangerous?
+125) 36) dialog: Doesn't say.
+125) 38) dialog: What is that?  What are you doing? What do you want to do -- kill him? A beat... 
+125) 40) dialog: Beth --
+125) 42) dialog: You want to kill him?
+125) 45) dialog: Thirty years ago.  In residency.  I passed out.  You?
+125) 48) dialog: Where do I stick it?
+127) 0) text: Norman spirals down the stairway from the lab.  Hurrying dark cafeteria, the syringe at his side.
+128) 0) text: Norman comes in... 
+128) 1) dialog: He's got Farrakahn's army standing guard.  What's plan B? Suddenly, BANG!  The room shakes.  Shelves fall.  Cabinet open.  Norman falls to the floor. THE COMPUTER MONITOR -- crashes down in front of his face
+129) 0) text: Norman and Beth running... 
+129) 3) dialog: You know what it is, Harry. BANG!  They lose their balance, still running... 
+129) 4) dialog: It's the squid!  Stop it!
+129) 6) dialog: You know damn well what.  You're doing it! Norman grabs Harry, pushes him up against the wall.
+131) 0) text: Norman and Beth sit at a table, sipping coffee.
+131) 1) dialog: I'm sorry.
+131) 3) dialog: Not believing you.
+131) 5) text: You're a psychologist, Norman.  You pride yourself on knowing when someone's lying to you, not telling you the truth.  And now you're scared ... because you're not sure you can tell anymore. ON NORMAN -- watching her, sizing her up.
+132) 0) text: ON HARRY -- lying on a STRETCHER in the corner, propped u and a blanket.  An IV in his arm. NORMAN -- at the console, stares at the MONITOR of the SP beat.  His reflection staring back at him.  He slips on t
+132) 1) dialog: Beth?
+133) 1) dialog: Beth?
+134) 1) dialog: Can you copy?
+135) 1) dialog: Beth?
+136) 0) text: Norman at the mic... 
+136) 2) dialog: Where are you?
+136) 4) dialog: The sphere looks different.
+136) 6) dialog: The grooves around the door -- they've shifted.  And the pattern -- the fluids -- they look darker now.
+136) 9) dialog: He's fine.
+137) 0) text: Norman pouring himself more coffee, alone.
+139) 0) text: Harry lying on the stretcher, still. Norman watching him from above, sipping his coffee.
+139) 2) dialog: Beth -- The MONITORS flash up: "I AM COMING." Norman spins around, goes to HARRY -- lying still.  Norma Harry's wrist.  Checking pulse. Norman returns to the console, slips on the headset... 
+139) 3) dialog: Beth?  Beth?  Can you hear me?  Get the hell out of there. THE MONITORS boot up again.  Norman looks at the SUB VIDE the sub is gone from under the dome.
+139) 4) dialog: Beth? (beat)
+139) 6) dialog: Beth?  I'm getting some sort of reading.  There's something -- He scans the MONITORS, looking for movement.  Anything. still. Norman turns to looks at Harry...  CLOSE ON HARRY'S FACE -- still. BACK ON -- NORMAN, sweating... 
+139) 7) dialog: And whatever it is, it's not coming from Harry. Norman looks at the monitors: ON AN OUTSIDE CAMERA FEED -- a bright LIGHT blinds the SC Beth in the sub, moving along the habitat. The Sub's CLAW ARMS carry large RED BOXES.  The lettering isn't in focus. Norman squints at the MONITOR -- can't make it out.
+139) 8) dialog: Beth?  What is that?  What are you doing? The Sub's CLAW ARMS drops one of the BOXES, plumping it s muddy floor.
+139) 9) dialog: Can you hear me?  Beth?  Can you copy? Get inside, there's something out there. ON ANOTHER MONITOR -- the Sub moves forward.  Churning up It stops again, and releases another box. Norman BANGS on the headset.
+139) 10) dialog: Damn it, Beth, I know you hear me. THE MONITORS blink: "I AM COMING FOR YOU" ON NORMAN -- breathing heavy.
+139) 11) dialog: What the hell? ANOTHER MONITOR -- the Sub in view -- a closer view.  It last box.  Norman can read the lettering now: "CAUTION: T
+139) 13) dialog: Beth?  C'mon.  What are you -- ? THE MONITORS flash: "I WILL KILL YOU"
+139) 14) dialog: Oh shit. Norman WHIPS off his headset, bursts out of his seat, OPE Searching for tapes.  Another cabinet.  Then another. A shelf labled: "SPHERE" -- all the tapes are gone.
+139) 15) dialog: It's her. THE MONITORS flash: "I WILL KILL YOU" ON THE HEADSET -- resting on the console.  WE HEAR faintl
+140) 0) text: Norman pushes Harry and his IV down the corridor.  Hurryi two of water on the floor.
+141) 0) text: CLOSE ON A METAL CASE -- labled: "Captain Harold Barnes." Norman BANGS it against the wall, trying to bust the LOCK BANGING.  Breaks the lock.  Digs inside the case. Pulls out a GUN.
+142) 0) text: Norman pushing Harry and the IV stand.  Wheels him into..
+142) 2) dialog: Ouch. He waits.  Listening.
+142) 10) dialog: (through his teeth)
+142) 11) text: Your watch. A SNAKE flicking it's tongue at Norman's lips.  Trying to his mouth.
+142) 13) dialog: Your watch.
+143) 0) text: CLOSE ON A POT -- pouring a white, milkish DRINK into a c Beth walks it over to Norman, sitting at a table, looking
+143) 4) dialog: I'm feeling better.
+143) 7) dialog: You think I'd really drink that?
+143) 9) dialog: You put explosives around the habitat, I can't imagine what you'd put in a drink.
+143) 11) dialog: How do you feel about snakes?
+143) 13) dialog: You know what I mean.
+143) 16) dialog: What are they doing down here?  In the bathroom?  Suddenly appearing.
+143) 18) dialog: Do you fear them?
+143) 20) dialog: Are you manifesting them?
+143) 23) dialog: Did you?
+143) 25) dialog: Why did you go in the sphere, Beth?
+143) 27) dialog: Against what?  Harry's unconscious. He's not a threat.
+143) 29) dialog: He can't manifest.
+143) 31) dialog: Then why, Beth?  Why go in?  Why put out explosives?  Why manifest the snakes?
+143) 33) dialog: Someone did.
+143) 36) dialog: Beth you're losing it.  C'mon.
+143) 38) dialog: You're lying --
+143) 41) dialog: But --
+143) 43) dialog: (realizing)
+143) 46) dialog: You manifested that, Beth.
+143) 48) text: When you were hiding in the bathroom -- all conspiratorially like you were -- you became frightened, didn't you?  Terrified.  Like you were with the snake earlier -- and suddenly you have snakes slithering all over the floor.  You did that, Norman.
+143) 49) dialog: You're insane.
+143) 51) dialog: I never went in that sphere.
+143) 53) dialog: Yes.
+143) 56) dialog: That's bullshit.
+143) 58) dialog: Beth, the message said Harry.  "My name is Harry".  My name isn't Harry.
+143) 60) text: "Mommy, we're going out to the ocean -- to go swimming." "But I don't want to go swimming, Norman.  I'm scared." "C'mon, Harry, it'll be fine, it'll be fun." (resuming)
+143) 62) dialog: Shut up, Beth --
+143) 65) dialog: It's not me, Beth.  I swear.  It can't be.
+143) 67) dialog: Don't, Beth.
+143) 69) dialog: I promise --
+143) 71) dialog: Beth --
+143) 73) dialog: Don't, Beth.  Please.
+143) 75) dialog: Beth -- She comes at him, needle in hand... 
+143) 77) dialog: It's not safe for you to be either.
+143) 79) text: Would I put explosives around the habitat -- set on vibration sensors -- that can trigger automatically, if I cared about myself?  Would I? I've tried twice before, Norman, why wouldn't I try a third time?  I'm not thinking about myself -- No, Norman, I'm thinking about you.  Your safety. Protecting you from your own self. She lunges at him with the needle, missing.  He RUNS for STAIRCASE leading to the lab.  Norman grabs the handrail, climbing the stairs. Beth's at his feet, grabbing for his ankles.
+143) 86) dialog: Get away from the door, Beth. He slides a heavy FILE CABINET over on top of the door.
+144) 0) text: Norman staring at the wheel.  CLICK!  It's locked from th Norman falls to his knees.  PANTING.
+146) 0) text: ON A MONITOR -- WE SEE Norman -- sitting in a corner of t staring up at US.
+147) 0) text: Norman, huddled on the floor.
+147) 2) dialog: Don't fuck with me, Beth.
+147) 4) dialog: Turn off the water, Beth. The entire floor is covered in water, rising higher, and
+147) 5) dialog: Beth!
+147) 7) dialog: Where is it coming from, Beth?
+147) 9) dialog: Beth, stop it!
+147) 11) dialog: Then where's it coming from?
+147) 14) dialog: Stop it!
+149) 0) text: ... His head BURSTS above the water level, BIG BREATH.  G flails his arms over to the ladder.  Grips the ladder, bu are like ice.  Can't hold it.  He slips. Flailing in the water. He HEAVES his chest over the METAL RIM.  Twists his legs the water, and flops his body onto the deck. Shivering. Tries to get up.  Falls over.  His body shaking.  His lip eyes barely open, looking at...  HIS JUMPSUIT -- hanging on the wall. Norman crawls toward the suit, his body shaking violently out for his boots on the floor.  Can't grip them.  Inches toward his suit, tries to BITE at his suit, but his TEETH
+149) 6) text: Locked.  Don't try, Norman.  You can't get in.  I won't let you in. Norman turns, dives back in the water.
+149) 8) text: Norman swims out from under the habitat.  Looks around at cylinders, the walls. Goes to the outside of a WALL.  Looking for a CRACK, a LE TO HIS LEFT -- Barnes' body, floating, hooked to the wall Norman goes to him.  SEES the CRACK. Climbing inside.  Struggling through the CRACK, careful n suit.
+152) 0) text: Norman closes the door.  Runs.  Down the corridor... 
+153) 0) text: Norman ducks inside. THE STRETCHER, the IV -- empty.  Harry's not there.
+154) 0) text: ON NORMAN -- running.
+154) 2) dialog: Beth?  Can you hear me? (no reply)
+155) 0) text: Norman runs inside...  The chair, stopping it's spin.
+156) 0) text: Norman, running.  SEES the B Cylinder door.  Goes to it. OPENS.
+157) 0) text: Norman climbs inside, takes off his helmet. THE CYLINDER -- a maze of pipes and equipment.  Heaters, wires everywhere.  Difficult to see.
+157) 2) dialog: Beth?
+157) 4) dialog: I can't do that. ON BETH -- huddled in the back corner, wedged among pipes red.  Holding the GUN in her hand.  Pointing at Norman as through the pipes. ABOVER HER HEAD -- a computer SCREEN, reading: "DETONATIO 09:32"... descending in count. Norman stares up at the SCREEN, concentrating.
+157) 6) dialog: I know.  You're too strong, Beth.
+157) 8) dialog: 
+157) 11) dialog: Beth -- gimme the gun.
+157) 13) dialog: C'mon --
+157) 15) dialog: Let's get out of here, Beth.  Let's go home. She sees HER REFLECTION on a PIECE of BROKEN GLASS on the puts her fingers to her matted hair, tries to comb it. Over the intercom... 
+157) 17) dialog: C'mon, Beth. ON THE GUN -- WE SEE Beth's wrists.  The two scars.
+157) 20) dialog: What?
+157) 22) dialog: Hear what?
+157) 24) dialog: Beth --
+157) 27) dialog: I don't think so.
+157) 32) dialog: Hey!  Look!  We didn't kill you, alright?  And believe me Harry, I would've found great pleasure in bashing your head in. Norman RIPS off a piece of her t-shirt, ties it to the wo her head.
+157) 34) dialog: Help me lift her.
+158) 0) text: Norman, carrying Beth in his arms, races awkwardly down t
+158) 2) dialog: Shut up and open the door. Harry does.
+159) 0) text: Harry, in his suit now, helps Norman slip on Beth's boots jumpsuit.
+159) 2) dialog: Two and a half minutes.  Once we're in the sub.
+159) 5) dialog: A little less than six minutes.
+159) 6) text: Norman carrying Beth on his back, hurries through the wat
+159) 11) dialog: Shit. (picking her up)
+159) 15) dialog: Hold on. Norman flops her up in the air, but she bends again at th
+159) 17) dialog: I'm trying.  Shit.  Here -- catch her. He flops her up again.
+159) 19) dialog: Are you trying, damn it?  Just --
+159) 21) dialog: Hold on.
+159) 23) dialog: I heard!  I heard! Picking her up... 
+159) 25) dialog: Shut up and catch. Norman flops her up once more, and Harry grabs her AIR HO
+160) 0) text: The pocket of air around the sub.  The three of them cram Norman opens the door on top of the sub.
+160) 1) dialog: Alright, here, I'll... wait, you -- just give her to me. Norman takes Beth and pushes her on top the sub.  The sub and forth.
+160) 3) dialog: Shit.  Alright, Harry, get in there. Harry jumps on top of the sub.  Slides inside it.  Reache catching Beth's legs.
+160) 5) dialog: Take her, come on.  Just -- Beth's LEG swings up and hits Harry in the helmet.
+160) 7) dialog: I'm trying to keep balance with --
+160) 9) dialog: Just pull her -- down like inside -- Harry, work with me here!
+160) 11) dialog: You got her? Harry pulls Beth down inside, as Norman steps on top of t push Beth's head inside.
+160) 12) dialog: Get her out of the seat, I need room to sit.  Harry?
+161) 0) text: Norman in the seat.  Beth's leg hangs over his right shou looks at Norman who assesses the flight controls.
+161) 2) dialog: No idea.
+161) 4) dialog: Wait!
+161) 7) dialog: Shut up.  Let me think. Norman presses a button. THE SCREEN -- blinks: "DESCEND, ASCEND, SECURE, SHUTDOWN. Norman hits "ASCEND".  The Sub WHIRRS, RUMBLES and drops Norman works the steering wheel, gliding it upwards.
+161) 10) dialog: Nine hundred feet to surface.
+162) 3) dialog: Maybe.  Brace yourself. Harry just stares at Norman.  Norman grabs Beth, trying t her.
+162) 6) dialog: Good.  Thank you.  Now that I have it on. (Harry laughs)
+163) 0) text: A pale, white room. ON NORMAN -- sleeping.  His eyes begin to open.  He awake BETH -- is next to him, looking at him.  There is a long
+163) 2) dialog: You know, I think you really need to see a psychologist. She stares back at him, and smiles.  Begins laughing with
+165) 4) dialog: There is one possibility.
+165) 7) dialog: The power allows us to manifest our fears, right?  What if we feared the power to go away?
+165) 9) dialog: It would erase all our knowledge of it.  All of our power.
+165) 11) dialog: Yes.  And I think we already know it will.
+165) 13) dialog: Down below, Harry said we would all have to die.  Since there was no evidence on that spacecraft that anybody knew time travel through a black hole was possible -- and we all knew -- then we would all have to die before we could tell anyone. Death was the only logical explanation.  But sitting here, we still know.  So how is that possible? (beat)
+166) 0) text: Norman, Harry, and Beth walk with the CREWMEN.
+169) 3) dialog: What report?

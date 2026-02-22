@@ -1,0 +1,20 @@
+5) 7) text: 'Michael Shields, come on down, you're the next contestant on...'The Price is Right'.' (switching again)
+30) 32) text: Only The Postman laughs. No one else reacts. Briscoe watches dubiously from the wall as the people surround Th Postman and sweep him through the gates and into town. One couple watches The Postman closely as he makes his wa into town. She is ABBY -- a sweet-faced, pretty woman. Her husband, MICHAEL, is a decent-looking sort, tall and strong.
+36) 36) text: Stunned, The Postman stops dancing.      Abby takes this moment to grab Michael.
+36) 38) text: Abby takes Michael's arm, introduces him proudly.
+36) 40) text: Michael smiles, shakes hands with a grave-digger's grip. The Postman doesn't know what to think.
+36) 47) dialog: (undaunted) What do you say, mister?     You'd be doing us a favor.
+36) 49) text: The Postman excuses himself with a nod and turns away, shaking his head at the strangeness of this new world. But no rest for the wicked, as soon as he's free from Abb and Michael, he's running smack into another group of well-wishing TOWNIES. Mrs. March is among them. She's holding an envelope.
+46) 0) text: Abby's washing clothes with a tub and washboard. Waging war on dirt. Michael leans against a tree, watches Abby at work until she notices him. She wipes the sweat from her brow, tries not to smile.
+46) 2) dialog: Everything.
+46) 3) text: He steps over and they're in each other's arms. This is love. But as Michael kisses her, we hear a familiar alarm:
+49) 0) text: Bethlehem picks Michael out of the crowd.
+49) 2) text: Michael walks out into the square. One of the soldiers returns with a burning torch, gives it to Michael. Bethlehem looks at the town, then at Michael.
+50) 0) text: Bethlehem relaxes with his officers as wagons are loaded. Michael is just passing with a sack of grain on his shoulder, when Bethlehem looks across the street -- spies Abby and some of the other women sewing grain sacks shut.
+50) 7) dialog: Excuse me.
+50) 9) dialog: That's my wife, General.   She's a married woman.
+50) 11) dialog: Me and Abby have been married for three years.
+50) 19) dialog: Sir, I can't.     You can't.
+50) 21) text: Michael looks to Abby as she starts across the street.
+50) 30) text: Briscoe stares down at Michael's crumpled form.      Abby wails.
+86) 7) text: It's Michael's baby. You're just the body father.

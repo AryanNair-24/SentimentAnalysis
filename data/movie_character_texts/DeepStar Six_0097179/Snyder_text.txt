@@ -1,0 +1,54 @@
+1) 12) dialog: Whata buncha shit...
+1) 21) dialog: You bet. First thing. Richardson glances around the galley to make sure no one is watching, then digs into his pocket. He palms Snyder a small bottle of pills.
+1) 23) dialog: She won’t...thanks, man. I owe you one.
+1) 25) dialog: Hey, I just use them to help me to sleep, you know? Christ, what do you think I am? A fucking junkie? He gives Snyder a scrutinzing stare, then exits the galley. As soon as he is gone, Snyder opens the bottle and pops two of the pills.
+1) 26) dialog: (continuing - to himself) Asshole.
+52) 0) text: Snyder is typing in a message on the keyboard, an exasperated look on his face. Snyer knows his shit about communications and computers. Right now: though, he isn’t making much progress. Pierce glances at him on his way to his quarters.
+52) 7) dialog: Beats me.
+52) 14) dialog: See?
+52) 16) dialog: I checked all the... (hears something on his headset) ..-hang on. Snyder cocks his head, quickly adjusting the volume on his headset.
+52) 17) dialog: (continuing) Sonar contact!
+52) 19) dialog: On the surface...no, wait! It’s leaving the surface...headed towards us.
+52) 21) dialog: Too small...maybe a one or two man sub...wait! There’s another one.
+52) 23) dialog: Shit! There’s another one. Topside is sending a whole fleet to take us home. Pierce is puzzled.
+52) 30) dialog: (reading off screen) Metal cylinder...two meters long...one meter wide... . Collins realizes what they’ve been listening to...
+60) 0) text: Snyder’s pills go flying, scattering across the deck and falling through the grating. Pierce and Collins grab onto a support beam, as the explosion causes the station to shudder.
+64) 0) text: Collins has seen the strut fall. She runs to help Richardson. She stumbles across Snyder, still on his hands and knees, looking for his pills. Norris gropes her way through the hatch from sick bay.
+70) 0) text: Pipes burst, spraying water onto electrical consoles. Sparks shoot out. Norris reaches over to turn valves, stemming the flow of water. Pierce tries to make the computer system work but he is obviously lost. He looks back at Snyder.
+72) 0) text: Norris attacks an electrical fire with an extinguisher. . . Try as he might, even Snyder’s magic fingers can’t stem the destruction. He turns to Pierce, frantic.
+72) 1) dialog: We’re fucked! The whole system is coming apart and there’s nothing we can do!
+72) 8) dialog: The oxygen is all gone. It’s all fucking gone... Pierce speaks quietly, angrily.
+72) 11) dialog: Fuck it! Let’s cast off in the escape pod and go! ° PIERCE (shaking his head) Without the oxygen we can’t decompress. (looking at the others) And if we can’t decompress, we can’t leave the station.
+74) 0) text: Collins checks that Richardson’s tool basket is loaded and secure. At the monitoring panel, Snyder switches on the diving suit’s video assist system. The camera mounted on Richardson’s helmet comes to life.
+79) 0) text: Beyond Norris, Craven, and Snyder watch the Richardson’s P.O.V. monitor as his voice CRACKLES speaker.
+84) 2) dialog: (into headset) Say again?
+90) 28) dialog: But Snyder’s clutch has burned out. He panics and claws for the ladder.
+90) 30) dialog: 
+91) 3) dialog: No! It’s down there!
+92) 11) dialog: 
+93) 0) text: Norris and Snyder hear the muffled cries of Collins and Pierce through the thick hatch. Norris starts for the hatch again but Snyder stops her.
+93) 1) dialog: No! You/’ll let it in! Norris tries to break free of Snyder’s grasp but his fear has made him strong. Suddenly, she relaxes.
+93) 3) dialog: Let’s get in the escape...
+95) 5) dialog: What..what did you do that for? Collins stares back furious as Pierce shuffles her into the medical bay.
+96) 21) text: 68 Norris gets up, stripping off her bloody gloves. She runs some water in the sink, washing her face. She turns as Pierce and Snyder enter the medical bay.
+96) 29) dialog: With that thing down there?! No fucking way! We wouldn’t have a chance! I vote we cast off in the escape pod.
+97) 0) text: Snyder comes in with four small cylinders tipped with stout needles -- SHARK DARTS. He dumps them next to Norris, and they start assembling the sectioned poles. The air in the station is getting thin and hot and everyone is starting to sweat.
+97) 1) dialog: I could only find four of ’em...
+97) 13) dialog: Hey! These cartridges expired six months ago. These fucking things are out of date!
+97) 15) dialog: I’m not going down there with this defective piece of shit! Norris swells. She’s had about all of Snyder’s shit she can stand. She snatches up Snyder’s shark dart and points it at his crotch... ...then thrusts it into the padded surface of the examination table next to his thigh. Instantly, the loud HISS of ESCAPING GAS is heard. Snyder jumps off the examination table as the vinyl cover begins to bulge, popping off the upholstery buttons.
+99) 2) dialog: Oh, Jesus Christ! That thing could be
+100) 0) text: Pierce comes down the ladder, slowly easing his body into the cold, dark seawater. Norris comes next, followed by Snyder. Collins helps Valdez bring up the rear. Pierce dips his dive light beneath the surface of the water, sweeping it back and forth slowly. He wades chest-deep across the lab towards the specimen tank. Snyder, his shark-dart poised high above his head, shuffles slowly to the right. Valdez sticks close behind him. Collins and Norris wade along the wall to the left, their lights and weapons held out in front of them.
+100) 10) dialog: Fuck you! I ain’t staying down here without a weapon! Before Norris can respond...
+100) 12) dialog: I think it split.
+102) 0) text: Snyder jumps at the noise.
+102) 1) dialog: What the fuck is he doing down there?
+103) 0) text: ~ It’s getting tense. Snyder swings his light back and forth, nervously. He’s coming apart.
+104) 0) text: Snyder scrambles through the hatch, racing for the escape pod. He reaches up, pulling on a large yellow handle in the ceiling marked:
+105) 0) text: “Snyder breaks the yellow and black safety seal and sets the switches to override. Norris’ VOICE carries faintly through the hatch.
+108) 0) text: Snyder pushes the launch button.
+112) 0) text: As the speed builds, the interior begins to vibrate. Snyder struggles to hold onto his seat. CLOSEUP - DEPTH GAUGE as the needle starts to rise. Snyder looks out the small window in the upper hatch. Bubbles race by against a pitch black background. He giggles, a soft sound that builds as he pounds his seat arms, urging the pod to go faster. Snyder ignores the ALARM that goes off. ///DANGER/// .
+112) 3) dialog: In agony. Blood seeping from his ears and nose. DEPTH GAUGE - Signing his death warrant.
+112) 4) dialog: CLOSE UP - Snyder’s eyes -- red and bulging.
+114) 1) dialog: Veins push out across his face, hi. les bursting, spraying out blood. His mouth opens in a tortured SCREAM.
+115) 0) text: Snyder’s SCREAM carries faintly through the thick escape pod hull. The SCREAM CUTS OFF as the top hatch window is suddenly wiped|with red. Silhouetted by the distant sun, wreathed in air bubbles and sparkling light, the escape pod sails on towards the surface.
+125) 0) text: The two women have lapsed into sleep. Norris sits in Snyder’s chair, her feet drawn up underneath her. Collins lies on the floor. Norris’ head dips a little, then she falls, tumbling out of the chair.

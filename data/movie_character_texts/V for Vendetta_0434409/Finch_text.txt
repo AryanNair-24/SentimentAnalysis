@@ -1,0 +1,133 @@
+19) 9) dialog: Thanks to Etheridge, we found the launch for the fireworks.  These appear to be individually weighted flares and we have found traces of the same chemicals at both of the detonation sites which leads us to conclude that, despite a level of sophistication, these devices are all home-made with over the counter chemicals, making them impossible to trace.  Whoever he is, Leader, he's good.
+41) 0) text: Finch puffs on his pipe, staring at something spray paint on the wall of the train car: a "V" with a circle around
+41) 2) dialog: Hmm.  It's a rose.  A violet carson, I believe.  Strange.
+41) 4) dialog: I didn't think they still existed.
+41) 7) dialog: Now?
+41) 9) dialog: Send the rose to the lab.  Also, scrape a sample of this paint and have it analyzed as well.  I'll be back as soon as I can.
+42) 0) text: The door opens and Finch steps in.
+42) 2) dialog: Yes, sir.
+42) 4) dialog: Well, I...
+42) 8) dialog: You think he's an insider?
+42) 10) dialog: Perfectly.
+42) 12) dialog: England prevails.
+54) 0) text: Close on a stain of white vomit and blood on the thick pi of a Persian rug.  It is encircled in police chalk. Pull back to reveal the chalk outline where the body of Bishop Lilliman was found.  The circled bloodstain floats above the head like the last word balloon of a crude comi strip character. The Bishop's quarters is slowly being picked over by a forensic team from the Nose.  A photographer's flash burs against a painted "V" on the wall near the body outline. At the window, Finch chews on his pipe, staring at a plas evidence bag that contains a single violet carson rose.
+54) 2) dialog: I want those tapes from the Ear in my office tonight, Dominic.
+54) 4) dialog: Any word from your superior, Mr. Creedy?
+54) 6) dialog: Quite.
+56) 0) text: Finch sits at his desk, staring into the silence of his notepad.  He has doodled a little "V" with a circle aroun it. He looks up as Dominic enters, holding up a portable cass player.
+56) 2) dialog: Background noise?
+56) 4) dialog: What music did he play?
+56) 6) dialog: Da, da, da, dum.  That's code.  Morse code.
+56) 8) dialog: For the letter "V". Finch punches "play". Over the small speaker, we sear Evey protesting to V, the run.  He stops it.
+56) 9) dialog: Anything on the girl yet?
+56) 11) dialog: What is it?
+56) 16) dialog: He made him eat a host.
+56) 21) dialog: And then just Beethoven's fifth. He shuts off the tape.
+56) 22) dialog: We have got the initial path report back.  The host was full of cyanide. Finch picks up the bag with the violet carson.
+56) 23) dialog: And do you know what? He rises, sliding into his jacket.
+56) 24) dialog: When it reached his abdomen, it was still cyanide.
+57) 3) dialog: Just lives. Pulling at the man's scalp, she stretches it over the replaced skull piece.
+57) 4) dialog: I know it's too early for your profile but do you have any initial impressions?
+57) 8) dialog: Bloody hell.
+57) 10) dialog: Perhaps Fate will make something more of all this.  I certainly can't.
+57) 12) dialog: Quite.  Government directed terrorism never sews healthy ideas into the public.  Oh, that reminds me. Finch pulls the evidence bag from his pocket.
+57) 13) dialog: Can you tell us anything about this? Delia's eyes lock onto the violet carson.
+57) 14) dialog: We found one in the carriage with Prothero and this one in the Bishop's quarters.  A violet carson. He hands it to her.
+57) 15) dialog: I heard that strain had died off.  Thought a botanist might shed some light on it.  Delia? Delia, riveted to the rose, suddenly looks up to him.
+57) 17) dialog: Magic.  I'll drop by tomorrow then. He turns, leaving her with the rose.
+63) 0) text: Finch turns as Dominic bursts in.
+63) 2) dialog: A connection? Dominic waves a printout.
+63) 4) dialog: What about codename V?
+63) 7) dialog: Five is the letter V.  Brilliant, Dominic. Finch slides in front of his computer.
+63) 8) dialog: All we need is Larkhill's employment records.
+65) 0) text: Dominic hangs over Finch's shoulder as Larkhill's employm record comes up. Finch's mouth falls open.
+65) 1) dialog: Oh my god. Row after row of names scroll by at the end of each bio a the words: deceased, file closed.
+65) 2) dialog: Oh bloody hell. The data banks unfurl like a mass grave.
+65) 4) dialog: Oh no. Dr. Delia Surridge.
+70) 0) text: The emergency lights blaring, Finch's car squeals around corner.
+73) 0) text: Finch's car bucks up onto the sidewalk. Finch and Dominic tear out of the car and barrel into the house.
+74) 1) dialog: Delia? Inside, he finds her.  Her eyes fixed, cold, and dead, a single violet carson in her lap.
+74) 2) dialog: Get an ambulance.
+76) 0) text: From the corner of the room, Finch sits, watching as the M.E.'s wheel out Delia's body. Dominic squeezes past the gurney and crosses toward Finch
+83) 0) text: Finch snaps Dr. Surridge's journal shut. He sits in front of the Leader's desk puffing on his pipe while Susan stares coldly.
+83) 1) dialog: That's the last entry until six months later when Dr. Surridge is back in London.  There is no mention of the man in room five again.  End of story. He tosses the journal on Susan's desk.
+83) 2) dialog: Except that it wasn't the end of the story. Finch rises, crossing to the wastebasket.
+83) 3) dialog: Between 2009 and 2012, over forty men and women who were previously stationed at Larkhill met with what were believed to be accidental deaths.  Eventually, only three remained. He taps his pipe into his hand, pouring the contents into wastebasket.
+83) 4) dialog: The three he'd been saving until last. Finch brushes the ashes from his hands and begins repacki his pipe.
+83) 5) dialog: Everyone who worked at Larkhill.  Everyone who could have identified him.  You see there are two possible motives here.  Not one. Susan raises his head.
+83) 6) dialog: The first is revenge.  He escapes from Larkhill and vows to get even with his tormentors.  The whole exercise an elaborate, chilling vendetta. When he finishes repacking the pipe, he replaces it in hi mouth.
+83) 7) dialog: That's the explanation that I find most reassuring, funnily enough.  Because that means he's finished.  It's over now. Finch begins relighting his pipe.
+83) 8) dialog: The second motive is more sinister.  Like I said, everyone who could have identified him is dead. A flame leaps into the air.
+83) 9) dialog: What if he's just been clearing the ground? Another burst.
+83) 10) dialog: What if he's planning something else? The lighter slips back into his pocket.
+83) 11) dialog: You see, the diary we found was in full view.  We didn't have to search for it.  He left it there.  He wanted us to find it.  He wanted us to know the story.  Or... Finch returns to his chair, letting out a huge cloud.
+83) 12) dialog: For all we know, the diary could be a complete and utter fake.  Codename V could have written it himself. Finch leans forward.
+83) 13) dialog: He's playing games with us.  He might never have been at Larkhill at all.  Do you see?  It could all be another smoke screen, a false trail, another cover story --
+83) 18) dialog: Yes, Leader. After a moment, Finch stands, Susan hanging on his last w
+83) 21) dialog: No, Leader.  Not yet.
+106) 0) text: Finch gets out of a police car and looks up the black fac the modern building.  He sighs and taps his pipe against heel of his shoe.
+106) 3) dialog: No, but I can guess.
+106) 5) dialog: "Remember, remember, the fifth of November."
+106) 8) dialog: Not for us. He turns and heads into the building.
+108) 4) dialog: What are you saying?
+108) 6) dialog: Are you asking for my resignation?
+111) 0) text: Finch sits alone in his modest apartment, reading a book. The book is Koesterler's, "The Roots of Coincidence." An old CD player is playing music, a Bach piano concerto.
+119) 0) text: Dominic is chewing on a hamburger, engrossed in Storm Sax Across the room, Finch is reading the "Roots of Coinciden
+119) 1) dialog: I don't know how you stand that tripe. Dominic answers with a mouthful of cheeseburger.
+119) 5) dialog: Don't you see, Dominic? He puts the mask to his face.
+119) 6) dialog: I'm V.
+124) 0) text: Finch glares at Creedy.
+124) 1) dialog: Why don't you just shoot me, Creedy?  Wouldn't that make everything a lot simpler?
+124) 7) dialog: He has to be at Jordan tower.  Come on! Finch and Dominic rush out of the room.  Creedy looks at confused men.
+128) 0) text: The car races wildly towards Jordan tower as Finch and Dominic listen to the broadcast on the radio.
+134) 0) text: Finch can see the forces gathering outside Jordan tower.
+139) 7) dialog: But I thought I was the terrorist. Finch's voice stops the Leader cold.
+139) 9) dialog: Since I'm not in jail and since you have another, even more convenient suspect.  I'm guessing the charges have been dropped.
+139) 11) dialog: I am careful, sir.  Always.  That is why I suggest that a search of this building begin immediately.
+139) 13) dialog: With all due respect, I disagree and I believe that he is presently trying to get out of this building disguised as one of us.
+139) 15) dialog: No sir, I'm trying to run an investigation --
+141) 2) dialog: Play it again.
+141) 4) dialog: I don't know.  For twenty seven years, I've been at this job.  Twenty seven years, I've done what I've been told to do.  Maybe that's all there is to it.  I'm just a dumb old dog.  A dumb old dog that only knows one trick.
+141) 6) dialog: Maybe.  And maybe I'm not ready for a revolution.
+141) 8) dialog: We will.
+141) 10) dialog: It's on the tape.  I know it.  I can feel it.  He did this for a reason.  He needs something.
+141) 12) dialog: The line of the Queen?
+141) 14) dialog: Maybe it's a line from Shakespeare.  Or a book.  I don't know. He rewinds and starts the tape.
+141) 16) dialog: But right here.  He's talking to someone.  Someone specific.  Someone who knows what he wants.
+153) 0) text: Finch looks through the blinds at the morning sun.  He ha been up all night.  He checks his watch: 6:00am.
+153) 1) dialog: Eighteen hours. Rubbing the knot in his neck, he turns back to his office which is now buried beneath mounds of paper. Dominic is passed out, sprawled on the couch, and clutchi printout from Spencer's "Fairy Queen."
+153) 2) dialog: Dominic! Dominic jumps, immediately searching the printout.
+153) 3) dialog: Dominic, go home.
+153) 5) dialog: Forget it.  There's no more time.  You go home and get some rest.  You're going to need it tonight. Dominic lets the papers fall to the floor.
+153) 7) dialog: Yes, he does.
+156) 0) text: Finch sits alone, palms pressed to his bleary eyes.
+156) 1) dialog: Give it up, old man.  You're not even sure you want to stop him. With a red pen, he begins absently drawing red circles ar any V he sees on any piece of paper. Victims.  Vectors.  Values.  Victory.  Words from quotes lists. Suddenly, he stops.  Carefully, as if reaching to touch a butterfly, he slips a single sheet out from the sheaves covering his desk. The paper has a long list: the names of all the Queens of England.  He has circled in red the V in Victoria. When it hits him, it hits him like a falling safe.
+156) 2) dialog: Christ!  That's it!  It's got to be it!
+158) 0) text: In his car, Finch races to a corner and slams on the brak He gets out, staring at a shadow on the ground: a "V" in circle. The shadow is cast by a sign for Victoria Station, part o the abandoned subway. The gates are chained shut.  He fires his pistol into the lock, kicks open the rusting gates, and descends into the underground.
+167) 0) text: A single flashlight beam creeps toward us as Finch search the detritus of the dead train line.
+169) 0) text: Finch crawls up onto the platform of V's hidden station, staring at the beautiful old train car.
+171) 0) text: Finch steps inside the car, his flashlight sweeping over stacks of gelignite.
+171) 1) dialog: Oh my god.
+173) 0) text: Finch hears something and jerks back, almost falling out the car.  Aiming his gun, he finds no one.  He turns and bolts. As the sound of his footsteps fade, V steps out of the shadows.
+174) 1) dialog: Is the Leader in?
+174) 3) dialog: Perfect.
+175) 2) dialog: Leader, I need as many men the Captain can spare and I need them right now.
+175) 4) dialog: To capture codename V.
+176) 0) text: Creedy opens the trunk of his car.  In the phosphorescent glow of the streetlight, the set of knives gleam.  He bun the costume that he tried to planet on Finch into his arm then slams the trunk. Above, a window blind that was cracked open snaps shut.
+177) 0) text: The Leader moves towards Finch.
+177) 1) dialog: He's underground.  The old subway.  I know exactly what he's going to do.  If we move quickly, we can be there, waiting for him.
+179) 1) dialog: Leader, every second we delay... The Leader lifts his hand, silencing Finch.
+179) 9) dialog: No... no sir.
+193) 3) dialog: I don't think that will be necessary. The Leader smiles.
+194) 4) dialog: This... this is a mistake.
+195) 0) text: Finch can feel the panic that is spreading through the tunnel.
+195) 1) dialog: Leader, we have to get out of here!
+195) 3) dialog: It was a mistake.  This is what he wants.  He knows us, Leader.  He knows us too well.  We have to get out of here before it's too late -- A voice rings out from hidden speakers, echoing through t tunnels.
+195) 29) dialog: Don't move! V and the Leader turn to find Finch aiming a machine gun V.
+195) 31) dialog: Drop the knife. V does and Susan begins an almost hysterical laugh.
+195) 33) dialog: No, Mr. Susan.  No, I'm not.  I'm a man who does his job and does what he's told.  For twenty seven years, that's all I've been. He steps toward V, staring into his smiling black eyes.
+195) 35) dialog: I've read Delia's diary over and over all year.  It sickens me but I am unable to judge her.  I am as guilty as she.
+195) 37) dialog: I have no excuse.  I did what I was told to do.
+195) 39) dialog: My job was to find you and catch you.  I've done my job.  I've done it for the last time.  I'm tired of it.  I'm tired of it all. He tosses the gun to the Leader.
+195) 40) dialog: Kill him yourself if you can. The Leader seethes, his eyes boring into Finch.
+195) 41) dialog: Thank you, V.  And goodbye.

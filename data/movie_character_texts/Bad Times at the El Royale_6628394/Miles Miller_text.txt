@@ -1,0 +1,97 @@
+2) 0) text: Ring-ring. The front door chimes as Darlene and Flynn ent and study the unique accommodations: The interior of the El Royale plays on the same border th The line bisects the large room perfectly in two. ON THE CALIFORNIA SIDE: everything is decorated in warm orange hues. We may notice a bar, a set of tables, a loun seating area. ON THE NEVADA SIDE: everything is decorated in cool purpl hues. We may notice the front desk, some gaming tables, a black and white television currently showing coverage of Richard Nixon’s 1969 inauguration speech. At the back of the room, half in California and half in Nevada, is a colorful JUKEBOX. Flynn looks down at the border, Darlene follows his gaze. They're both standing in California. Flynn gestures: be m guest. Darlene smiles. Takes a mock deep breath... And steps across the border. (CONTINUED )
+2) 51) dialog: I’m very sorry to keep you waiting. If you had to guess how long it has been since Miles has slept, you'd probably go with “Five days.”
+2) 53) dialog: I'm very sorry. (CONTINUED)
+2) 57) dialog: No. But... I mean... this is not a place for a priest, Father. You shouldn’t be here.
+2) 59) dialog: There are other hotels, Father. Maybe closer to Tahoe? I could help you find one, I’m sure you'd be happier there. Flynn recovers. Smiles a patronly smile. Looks at Miles’ name tag.
+2) 66) dialog: The El Royale is a bi-state establishment. You have the option to stay in either the great state of California OR the great state of Nevada. Which would you prefer?
+2) 68) dialog: Between California and Nevada?
+2) 70) dialog: Well, for starters, rooms in California cost a dollar more.
+2) 72) dialog: They're in California.
+2) 74) dialog: Some people think so.
+2) 76) dialog: Currently that is also me. (CONTINUED )
+2) 81) dialog: Only the main lodge is available in the off-season. (then) You can still use the California amenities if you choose to stay in Nevada.
+2) 83) dialog: For instance, we are not allowed to sell liquor in Nevada.
+2) 85) dialog: That’s correct, sir. Also, coffee is twenty-five cents a cup.
+2) 87) dialog: That’s correct, sir. Laramie rolls his eyes. Removes a quarter from his pocket Slaps it on the desk next to Flynn, who seems genuinely rattled by the map. (CONTINUED )
+2) 92) dialog: I‘1l need one night in advance. Eight dollars. And twenty-five cents for the coffee. Please sign the ledger. There’s a large leather ledger on the desk. Flynn takes o $8.25 and puts it on the counter. Picks up the fountain p CLOSE AS HE SIGNS: Father Daniel Flynn. MILES (CONT’D) Who’s next? Laramie is still interested in the car outside. He gestur to Darlene. Go ahead. She steps forward.
+2) 94) dialog: Room Five.
+2) 99) dialog: These rooms have not been serviced and are unsuitable.
+2) 101) dialog: There are rooms in California available, ma’am.
+2) 107) dialog: Please sign the ledger. And it’s twenty-five cents for the coffee. Darlene’s eyes instinctively look to Laramie. He’s not making eye contact.
+2) 118) dialog: The El Royale is a bi-state establishment. You have the option to choose a room in either -- She grabs the map from the desk. Studies it. Taps it.
+2) 127) dialog: The available rooms on that wall have yet to be cleaned.
+2) 129) dialog: Eight dollars. She peels off eight dollars. He puts a key on the desk. Room Seven. She reaches for it. He slides it away. MILES (CONT’D) Please sign the ledger. Emily stares at him. Really? He stares back. Yes. She grabs the pen. Scrawls something fast. Grabs the key. Heads towards the door. Ring.
+6) 3) text: Dwight eases the door open, looks into the room. His face falls. Reverse to reveal -- A cramped closet. A cot. A hot plate. A transistor radio. And Miles. Passed out cold. Slumped against the wall. A bent spoon on the floor beside him. A syringe still hangi from his bloodied arm. “As long as you love me, it's all right..." Dwight closes the door.
+24) 3) dialog: Father Flynn -- Father Flynn -- oh no no -- wake up -- Father -- Flynn groans as Miles pats his face. He gasps. Disoriente Shoves Miles away. Fear in his eyes. Tries to sit upright MILES (CONT’D) Father, don’t try to move -- Flynn looks at Miles with dazed eyes.
+24) 7) dialog: Take it easy. Take it real easy. You're hurt. What the heck happened? Father Flynn touches the wound on his head. Rubs the bloo between his fingers. His eyes drift as he listens.
+24) 9) dialog: Father... do you know where you are? Clarity starts to creep into Flynn's eyes.
+24) 11) dialog: That’s what I’m askin’ you. I just found you like this. On the floor. You got glass in your head. Flynn picks broken glass out of his head.
+24) 13) dialog: Yeah. Why? Was you with somebody?
+24) 15) dialog: Miles.
+24) 19) dialog: I’m not so sure that’s a good idea.
+24) 21) dialog: Father... I was hoping... (pours drink) I was hoping I could ask for your help. I been gone. I been gone from the church for a while now... He hands Flynn a glass of whiskey and a towel. MILES (CONT’D) But I was devout. My whole life. Baptized. Confirmed. Never missed a Sunday ‘til I left Indiana. Flynn drinks. Still a little woozy.
+24) 23) dialog: Really? No kiddin’. Whereabouts? Flynn doesn’t respond. He takes the towel and dabs his he Looks at his own blood. MILES (CONT’D) Father... I was hoping... see... (then) I got things I need to confess.
+24) 27) dialog: Okay, Father. Right. Of course. It’s just... I’m penitent, Father, I promise. I’m penitent and I’m afraid for my soul. (then) I’ve done horrible things.
+24) 29) dialog: Did you lock yourself out of your room?
+24) 31) dialog: Should be right here... But it’s not. There’s an empty hook instead. Miles looks distressed.
+24) 32) text: Miles rummages through his cramped closet. Looking for th key. He can’t find it. Knows something’s wrong. Flynn watches over Miles’ shoulder. Miles sees Flynn look at his heroin rig.
+24) 33) dialog: Father... Flynn shrugs. Does a quick sign of the cross on Miles. You're forgiven.
+24) 37) dialog: I told you this wasn’t a good place, Father.
+25) 0) text: Miles walks round the corner. Flynn follows. Stepping wit caution. What the fuck is this place? Miles stops in front of the first window. Head down in shame. Flynn steps forward. Sees it’s his room.
+25) 3) dialog: I didn’t see nothin’! I didn’t -- I only watch who they tell me to watch.
+25) 5) dialog: Management. I get a call, “So-and- sos checking in, set up the camera.” Hasn’t happened as much since the election... Flynn's head whips around. He sees THE CAMERA down at the end of the hall. Flynn lets go of Miles. He starts walking towards the camera. Stops at the next room... Darlene’s room. MILES (CONT’D) Mostly they just want, you know, people... screwin’. It’s empty. No sign of Darlene anywhere. But the sound baffles are still on the walls. Flynn stares at them. (CONTINUED )
+25) 9) dialog: Develop it in one of the back cabins. Mail it to Management. P.O. Box in Pennsylvania. Hold on Flynn. His mind racing. He keeps walking down the hall. Miles follows.
+25) 12) dialog: Last year. The big celebration. Man stayed with us... he was known. A big deal. You know? Management wanted him. They really wanted him. But he was kind to me. So I told them there wasn’t no woman in his room.
+25) 14) dialog: Father... this ain’t even what I was tryin’ to confess. I done so much worse than this... Miles puts his head in his hands.
+25) 18) dialog: Who is that?! Jesus. Emily crosses from the other side of the room. Squats dow next to her. Starts talking. We can’t hear her. Miles flips the intercom switch.
+25) 20) dialog: We gotta help her. (then) We gotta help her, Father. Flynn stares at Emily and Rose. Mind racing. Makes his decision. Grabs Miles. Pushes up so he can’t see in the room anymore.
+25) 22) dialog: (panicked) Father, we gotta do something. We gotta help her -- Flynn speaks with a calm, gentle voice.
+25) 25) text: Flynn yanks the mattress off Miles’ cot. Sees the cinder blocks underneath. Lifts one up, revealing a little hidin place: Some heroin bindles. A bible. And_a_can of 16mm film. 32 33 34 Bad Times At The El Royale Final Shooting Draft 60.
+26) 0) text: Miles watches in growing horror as Emily stands with her handgun, talking to Dwight through the door:
+26) 3) dialog: Father Flynn!
+26) 4) text: Flynn has unspooled a length of the 16mm film. He’s holdi it up to the light. He turns his head as he hears Miles screaming for him.
+27) 1) dialog: Father Flynn get down here that vacuum man just busted down the door and he beat up that other girl and he's got a gun -- Flynn races forward.
+27) 6) dialog: Ahhbhhh... help me... Flynn takes a step forward. Moving to help him. But then thinks twice. Flynn stops. He starts backing up. He turns and runs. We’re at the far end of the hall. He races past us, round the corner. And just as Flynn disappears from view -- Emily sticks the shotgun through the hole. Swings it towa us. Scans the corridor. Sees the bloodied boy on the ground.
+32) 0) text: In the room now. We can hear things much clearer. Emily YELLING. Miles SCREAMING.
+32) 1) dialog: I don't have a gun -- What are you doing? Jesus! You shot me in the face -- (CONTINUED )
+42) 5) dialog: No? Yes? I don’t know. You shot me in the face.
+42) 7) dialog: How’s it look?
+42) 9) dialog: Are you gonna kill me?
+42) 11) dialog: I seen worse. And I ain’t saida thing.
+42) 13) dialog: I seen all sorts of bad. In the background, Rose continues to build her project. (CONTINUED )
+42) 17) dialog: (quietly) You don’t have to kill me. (CONTINUED )
+42) 24) dialog: Miles. Miles Miller.
+55) 1) dialog: Rose? That’s your name, right? Please, Rose... please don’t kill me. Rose stands motionless in the center of the room.
+55) 7) dialog: You can talk to her. She’s your sister? She’ll listen to you.
+55) 9) dialog: Who’s it up to?
+55) 18) dialog: I don’t know. Emily moves towards him.
+55) 23) dialog: I_don’t know. I promise. I want to find him, too. Please. Tears start to well up in his eyes. MILES (CONT’D) Please. I’11 do whatever you want. Just let me talk to the priest when you find him. (then) Just let me talk to him before you kill me. In the background, Rose pirouettes on the border. (CONTINUED )
+60) 0) text: Emily stares forward as Wade cinches ropes tight around h Next to her, ANNABELL, a wiry woman in her twenties, is cinching ropes around a panicked Miles.
+60) 1) dialog: (looks to Dock) Bless me Father for I have sinned -- (CONTINUED )
+60) 5) dialog: Father, please -- Billy Lee looks to Annabell. Do it. She takes the bandana from her neck and ties it around Miles’ mouth. Billy Lee kisses Rose. Smooths her hair. Picks up the red bag. And the film can. As he crosses, we get a better look at the room: Dock, Darlene, Emily, and Miles are all now tied in chairs near roulette table in Nevada. Billy Lee takes the red bag and dumps all the cash on the roulette table. He stares at Do and Darlene. Tosses the film can on the table as well. Darlene looks at the film can. Looks at Dock. What is tha Dock says nothing. Billy Lee stares at them. Thinks. He grabs THE LEDGER PAG
+60) 92) text: Everyone TENSES as they realize what’s happening. The bal whips around the wheel. Wade and Annabell lean in with th guns. Their eyes saying stay in your fucking seats. Miles coughs beneath his gag. Billy Lee takes pity on him
+60) 94) dialog: Forgive me Father for I have sinned, please -- I done so much worse than you know -- Billy Lee starts laughing. MILES (CONT’D) Father Flynn, please, I have sinned and I repent --
+60) 95) text: Dock stares at Miles. Genuine sadness on his face. He shakes his head.
+60) 97) dialog: Father Flynn --
+60) 101) dialog: 
+64) 0) text: Billy Lee holds Rose. Emily’s eyes go dim. ON MILES. On the ground, rocking back and forth. Crying. Hands still bound in front of him. Staring at Emily’s dea body.
+64) 83) dialog: I can't I swore to God I can't kill no more people --
+64) 85) dialog: I_can't kill no more people. (CONTINUED )
+64) 89) dialog: One-hundred and twenty-three. CUT TO BLACK. TITLE: Maintenance Closet
+65) 0) text: SAME FRAMING. Eight-year-old MILES MILLER raises a rifle. He takes his time, sites the rifle... CRACK. Whump. Widen to reveal Miles is standing on his family farm. They're having some sort of family gathering. Brothers an sisters, aunts and uncles all eating food, drinking moonshine, having a day. But everyone’s watching Miles. CRACK. Whump. This little eight-year-old boy is shooting sparrows out o the air while they're in flight with a rifle. Miles’ AUNTIE RUTH stands next to his momma, GINGER.
+66) 0) text: SAME FRAMING. Miles, now grown, fires his sniper rifle as fast as he can as the cacophony of war rings out all arou him. Two SOLDIERS stand in the frame where Auntie Ruth an Ginger stood. They look up at the sound of --
+66) 4) dialog: I can't -- I can't do it no more --
+67) 0) text: SAME FRAMING. Miles’ eyes SNAP OPEN. He gasps for air. As though awakening from a horrible nightmare. WIDEN. It’s three days later. Miles is half-buried in the jungle. A mess of ruined bunker and debris all around him It's day now. It’s clear. It’s quiet. Miles pulls himself from his shallow grave. He steps out of the clearing. His face blank. Deep in shock. The walking dead. He face doesn’t react to what he’s seeing. We angle aroun to reveal: The aftermath of The Bloody Battle of Khe Sanh. Dead bodies EVERYWHERE. Hundreds... no... thousands... No Vietnamese and U.S. Solders, all around. All half-buried the sordid muck of Vietnam. (CONTINUED)
+68) 0) text: SAME FRAMING. ON MILES. Shaking his head. Near-catatonic.
+68) 1) dialog: I can't do it... I swore to God... I can't kill no more people... I can't... ON DARLENE. Watching Miles. And, yes, there’s no real way she can know what he’s done, but she can see enough in hi face. She can see he’s in agony. She can see he’s lost. Her face softens. Genuine compassion in her voice.
+69) 5) dialog: I’m sorry. I’m so sorry. Rose’s eyes narrow. She pulls THE KNIFE out of Billy Lee’ belt. SHRACK. She cuts Miles’ stomach open. Miles pitches backwards. Whump. His body lands right on t border between California and Nevada.
+69) 9) dialog: No no no no -- I can’t die. I don’t want to die... not yet -- Darlene looks at Miles wound. Sees how bad it is. Looks t Dock for help. Dock’'s frozen. Flames starting to burn all around him. MILES (CONT’D) No no Lord please no I can't die not like this --
+69) 12) dialog: Please God I don't want to die not yet -- Darlene grabs Dock’s shoulder. Looks him in the eye.
+69) 18) dialog: over him. Dock holds ON DOCK.
+69) 19) dialog: Final Shooting Draft 125. 83 You're not... You're not a...
+69) 21) dialog: A calm starting to wash Bless me, Father, for I have sinned... him. Nods. Continue. MILES (CONT’D) I’ve sinned, I’ve sinned more times than I can count. I’ve killed, I've killed so many people... in war, here, I know it was wrong they told me to do it and I know it was wrong and I did it anyway... I’m so sorry, Father...
+69) 23) dialog: It’s not. I did so much bad. I lied. I stole. I hurt people. I killed people. I did it all even though I know it was wrong... I’m so sorry, Father... Staring at this terrified boy in his arms.
+69) 25) dialog: Ido. Yes.
+69) 27) dialog: Yes. (CONTINUED )
+69) 31) dialog: I’m too late.
+69) 33) dialog: Yes. I will try. I will try to be better. I will try to be a better man. (then) I repent. Father Flynn, I repent. (coughs blood) Lord, I’m sorry. I’m so sorry. Dock takes his hand, places it on Miles’ chest. Holds his gaze. Shh.

@@ -1,0 +1,566 @@
+0) 28) text: Widen to meet CARRIE STETKO, late 20's. Cargo pants -- rolled up, and an exercise top. She's kicking back, but she's not at the beach.
+0) 30) text: The door opens. Leaning into the room is JAMIE CLARK (20's), African-American. She's dressed in a flannel shirt, jeans. Carrie doesn't look entirely happy at the intrusion.
+0) 34) dialog: Alright --
+0) 36) text: As Carrie gets to her feet, camera moves away from her, panning around the small office. Half-packed up boxes lay strewn about the floor.
+0) 43) text: A dart board is next to it with A PHOTOGRAPH pulverized with dart holes over the Bullseye. It's of a candy- striped pole topped with a silver ball, surrounded by international flags - the South Pole. Carrie is standing next to the pole, smiling at the camera, arm-in-arm with SAM MURPHY (30's). Looks like he's handsome, but his face is a little more obliterated than the rest of him.
+1) 7) text: We PICK UP CARRIE AND FOLLOW her as she strides down the icy, unmade street. Her hood is pulled up and she's not enjoying the cold. She reaches a row of buildings and checks the names - GEOLOGY LAB #2...ASTROPHYSICS - BERKLEY...until she reaches BIOLOGY BUILDING #7 and pushes through the double doors into...
+2) 2) text: Carrie throws back her hood and unzips her jacket. Approaches one of the scientists with familiarity, who is in the process of EXTRACTING an ICE-CORE SAMPLE from a stainless steel cylinder.
+2) 10) dialog: (SARCASTIC) Hey Fred, unlock any secrets of the Universe -- discover we're Alien life forms?
+2) 14) dialog: Which one's Sapperstein?
+2) 19) dialog: Okay, thanks.
+2) 21) text: CARRIE (cont'd) Sapperstein?
+2) 26) dialog: Wanted to see me?
+2) 33) dialog: All what?
+2) 44) text: Carrie looks back to him -- can barely stifle a laugh.
+2) 46) dialog: Professor Sapperstein, I'd like you to read something for me.
+2) 48) text: CARRIE (cont'd) What's this say?
+2) 50) text: CARRIE (cont'd) C'mon, go ahead, read it.
+2) 54) dialog: Keep reading.
+2) 59) dialog: Very good. (BEAT) Now are you still sure you want to report the theft of an illegal narcotic?
+2) 60) text: He actually ponders the question for a moment. Carrie puts an arm around his bony shoulder and steers him away from the others.
+2) 67) text: CARRIE (cont'd) Professor...are you planning on doing the winter-over?
+2) 71) dialog: Good. And how are you feeling right now?
+2) 75) dialog: (PACIFYING) No, no, not crazy. But this time of year, down here, we're all going a little toasty aren't we? How about you plant a little Cannabis when you get home?
+3) 1) text: Carrie enters. Walks by a mirror. Takes a glance. Is about to fix her hair, then stares at the reflection -- what's the point? We notice a slight scar on her right temple.
+3) 6) text: She closes the binder and puts it on the shelf beside a row of framed photos: Carrie in a Marshal's uniform graduation day; crisp, clean uniform. She and two other girlfriends, all smiles, at a bar -- she's got a birthday cake in front of her. Carrie on a beach somewhere, sitting in a chair, feet in the sand -- shaded by a palm.
+3) 16) dialog: What do you think? (BEAT) I know you weren't in the area. What's up?
+3) 21) dialog: What flavor?
+3) 25) dialog: And we were doing so well. (BEAT) Where?
+3) 30) dialog: McClain Valley? What was he doing out there? That's no man's land.
+3) 42) dialog: No -- just the picture.
+4) 6) text: Camera pans to Carrie with a gear bag in tow, as she deplanes a LC-130. A HALF-DOMED HANGAR rises up on the other side of the plane.
+4) 10) text: Carrie heads in --
+4) 12) dialog: Bottom of the frickin' planet.
+5) 1) text: Music cranks. Carrie knows her way. People come and go as she strides along a corridor decorated with PARTY BALLOONS and signs that read: `DON'T FORGET THE EVE OF EVAC PARTY' -- comes to an office door with a small plaque on it that reads: MARSHAL. Pushes it open.
+6) 1) text: Carrie enters. It's smaller than her McMurdo office with a HOLDING ROOM that has a viewing window in the door. A fine layer of dust blankets a little desk with a computer and lamp on top.
+7) 1) text: Carrie opens the door. Single bed. Tiny dresser. No frills. She tosses her gear bag onto the bed. Closes the door.
+8) 1) text: Carrie pokes her head in. An examination table, cabinets with drugs and first aid equipment. A couple of hospital beds. Moving boxes are packed up.
+8) 3) dialog: Doc?
+8) 4) text: Another door in the back of the room is open, but the light is off. Carrie turns to leave and --
+9) 11) dialog: Keller.
+9) 13) text: CARRIE (cont'd) You seen Doc?
+9) 17) dialog: Checking the freezer for a popsicle.
+9) 21) dialog: It got called in this morning.
+9) 25) dialog: Delfy, one of the pilots here.
+9) 30) dialog: Yeah -- probably.
+9) 34) dialog: ...Were you the second guy from the front?
+9) 38) dialog: Not interested.
+10) 11) text: Rhonda sees Carrie coming in the doorway. There's a flash of awkward tension that both mask with professional demeanor.
+10) 15) dialog: Fine. I need a plane and that pilot who saw the popsicle.
+10) 25) dialog: Yeah, good.
+10) 26) text: Carrie leaves.
+11) 23) text: Carrie walks up.    Doc's eyes brighten.
+11) 31) dialog: I wish -- We got a job. I need you to take a ride with me.
+11) 39) text: Carrie pulls a Driver from Doc's golf bag.    Lines up another pink ball.
+11) 41) text: Carrie swings -- WHACK!   The ball shatters and pink bits rain down around them.
+11) 43) dialog: So it is.
+12) 1) text: Carrie and Doc cross the interior, which houses Three double prop Twin Otters, two Snowcats, and six snowmobiles. Keller and two other employees are busy working on one of the Otters.
+12) 5) dialog: My gut and I don't talk anymore.
+12) 7) text: CARRIE (cont'd) I saw your boxes packed up. What was all that BS last month about, "I'm never going back -- I'll die here. Scatter my ashes over the pole"?
+12) 12) dialog: Not you.
+12) 24) dialog: Or mentioned her. A grandchild? Doc, that's great.
+12) 30) dialog: You Delfy?
+12) 38) text: Delfy disappears back into the plane.    Doc looks to Carrie.
+12) 42) dialog: Delfy's taking us, Doc. He's the one who saw the body. C'mon, you'll be fine. I'll even hold your hand if you want.
+13) 2) text: Carrie's in the copilot's seat, wrapped up tight in her ECW, just trying to stay warm. Delfy's at the controls. Doc's in the back.
+13) 4) dialog: What were you doing out there?
+13) 7) text: Carrie notices a picture of a young boy, around seven, wearing a Yankees cap dangling from the instrument panel. It's framed in popsicle sticks with I LOVE YOU DADDY written around the perimeter.
+13) 9) dialog: That your son?
+13) 14) dialog: He's cute.   Has your eyes.
+13) 18) dialog: So why aren't you with him?
+13) 21) text: He looks at Carrie, all bundled up.
+13) 30) dialog: Hate it.
+13) 33) text: Carrie's eyes drift out the window --
+13) 35) dialog: We all make stupid mistakes.
+13) 44) dialog: Yeah. Got it.      It's a popsicle alright.
+13) 46) text: CARRIE (cont'd) Red jacket.   He's American.
+14) 1) text: The Twin Otter is in the distant background. Carrie, Doc and Delfy, who has a gear bag slung over his shoulder, weave their way around huge ice boulders -- skirt small crevasses. Mid-conversation...
+14) 11) dialog: Linger.
+14) 22) text: Carrie moves up to it. Takes a look down the deep crevice four feet away. Can't see the bottom. She walks around to get a look at the face. Blanches slightly.
+14) 25) dialog: So do you. Think his name's Weiss. We Wintered-over last year with him. Played cards a couple of times.
+14) 29) dialog: Yeah.    Geologist, I think.
+14) 37) text: Carrie pulls out a DIGITAL CAMERA from a pocket.     Shoo a couple of pics.
+14) 40) text: Carrie pauses with her camera, looks up -- doesn't seem as convinced.
+14) 42) dialog: Then where's his crampons -- his gear?
+14) 47) dialog: Yeah, maybe --
+14) 48) text: Carrie glances to Delfy.
+14) 49) text: CARRIE (cont'd) What's the closest camp?
+14) 53) dialog: (looking at body - Soto) What the hell where you doing all the way out here?
+14) 57) text: Carrie unzips the gear bag.      Digs out ice two axes.
+14) 67) text: A pile of chopped ice is off to the side of corpse. Delfy, who looks very uneasy about all this, grabs the feet as Carrie and Doc each grab an arm.
+14) 69) dialog: You going to be alright?
+14) 78) dialog: Oh yeah -- I'm really going to miss this place.
+15) 9) text: -- Doc and Carrie ushering a pushcart with Weiss' contorted, frozen body through the middle of the party. His dismembered arm rests across his chest.
+15) 11) text: Just as they pass OPERATIONS, Rhonda steps out with the Brazilian and French Newbies at her side to see what's going on. Her eyes immediately go to Weiss, then shift to meet Carrie's. Before she can say anything --
+15) 13) dialog: Who manages the Post Stations?
+15) 16) text: Doc and Carrie keep moving. Everyone else just keeps silent and watching. Squeaky wheel fades.
+16) 2) dialog: One - two - three...
+16) 3) text: THUMP! Carrie and Doc set Weiss' body onto the examination table.
+16) 4) text: CARRIE (cont'd) How long to thaw him out?
+16) 9) dialog: It bothers me no one's reported him missing yet.
+16) 13) dialog: How'd he get out there?    There were no tracks.
+16) 20) text: Carrie returns with the water.   Goes to pour it on the zipper, but Doc gently puts his hand on hers, stopping her.
+16) 22) text: They share a moment, Carrie understanding, but --
+16) 24) dialog: Nobody wants to get out of here more than I do, trust me, but right now -- we're all this guy has.
+16) 34) dialog: Grab that side.
+16) 36) text: Doc's face sags.    Carrie stares at the wound.
+16) 39) text: CARRIE'S MEMORY HIT: The well defined chest of a man wearing a tight T-shirt. A BULLET HOLE dead center.
+16) 42) text: Doc looks at Carrie with deep concern -- he's tuned in.
+16) 52) dialog: ...I'll be alright.
+16) 57) dialog: I know.
+16) 58) text: Doc looks to Carrie, gentle, like a dad would his daughter.
+16) 63) dialog: Exactly, this is the first murder in Antarctica, Doc -- and I can't just pretend it didn't happen. (BEAT) I'm sorry.
+17) 1) text: Carrie steps out into the hallway. Takes a moment, leaning against the wall, this whole thing wearing on her more than she's revealed. She tilts her head back. The second it hits the wall --
+18) 1) text: Carrie's beat to shit, soul weary. She's on her knees, full of blood. A man is on the floor between two beds before her. She holds her gun at her side. He's dead.
+18) 4) text: Carrie refocuses.   Pulls away from the wall.    Leaves t memory behind.
+19) 1) text: Carrie has a NEXTEL phone/walkie to her ear, making her way up the corridor. Moves past a couple of guys loading a dolly with boxes from an adjacent room.
+19) 5) dialog: I'm on my way to find out.
+19) 9) dialog: I'm sure his family's thinking the same thing.
+19) 13) text: O.C. MOANING and GROANING -- great sex. Carrie rolls her eyes. Knocks on the door. No one answers. Moaning continues. She doesn't have time for this. Opens the door to see --
+19) 14) text: -- a large TV playing a locker-room porno where a quarterback with no pants is giving it to a cheerleader with no top. Half a dozen guys, oblivious to Carrie standing there, CHEER the action.
+19) 22) dialog: I hate interrupting educational programming, but --
+19) 23) text: The CHEERING dies as everyone turns to see Carrie standing behind them. Only fake PORNO MOANING remains.
+19) 24) text: CARRIE (cont'd) I need to talk to Dinkle.
+19) 25) text: Everyone gets up, thrilled for an excuse to leave. of them nods to Carrie on the way out.
+19) 29) dialog: Chaplain.
+19) 30) text: Carrie flips a nearby wall switch. Lights kick on. Small room. English flag. There's a Beckham poster and an 8x10 framed photo, turned backwards, hanging on one wall. A large map of Antarctica on another.
+20) 2) text: Widen.   Carrie opens it.
+20) 5) dialog: What are they doing out there?
+20) 14) dialog: English, please.
+20) 19) dialog: I don't get it -- Weiss was no where near Delta One One.
+20) 21) text: CARRIE (cont'd) When are they scheduled for evac?
+20) 28) dialog: Isn't that a little unusual this close to Winter-over?
+20) 38) dialog: -- You've been a little busy. Yeah, I can see that.
+20) 40) text: CARRIE (cont'd) What's their frequency?
+20) 43) text: Carrie spins a dial to 17.    Keys the microphone, drawin it to her face.
+20) 45) dialog: (into microphone) Delta One One, this is United States Marshall Carrie Stetko, come back, over.
+20) 47) text: CARRIE (cont'd) Delta One One, I repeat, this is United States Marshal Stetko, come in, over.
+20) 50) text: Suddenly, Carrie's NEXTEL RINGS -- takes it off her belt.
+20) 51) text: CARRIE (cont'd) Stetko.
+20) 55) dialog: Vostok? (BEAT) Patch it through.
+20) 66) dialog: This is Marshal Stetko, who's this?
+20) 71) dialog: Mooney?
+20) 74) text: Carrie's eyes shift to his picture on the desk.
+20) 76) dialog: What happened out there, Mooney?
+20) 80) dialog: Where's Rubin?
+21) 1) text: Carrie is moving at a quick pace. Passes the open door to the clinic. Sees Doc looking through some boxes, a glass of Scotch in hand. She stops. Backs up.
+21) 3) dialog: Getting drunk already?
+21) 7) dialog: Murphy's contacting the Feds.
+21) 16) dialog: I'll do everything I can to get you off this ice, promise.
+21) 20) dialog: Going to Vostok.
+21) 22) text: CARRIE (cont'd) One of the guys from Weiss' team called.   Wants to talk.
+22) 1) text: Carrie walks in. Rhonda has a phone to one ear, another in her hand. Looks stressed. She's hovering over one of the Techs who is sitting before a computer screen displaying Satellite Weather Imagery -- think Doppler. His focus is on a VAST STORM SYSTEM that is heading toward ASB, which is marked in RED NEON. Other stations are marked as well.
+22) 5) dialog: I need a plane to Vostok.
+22) 9) text: She looks to Carrie --
+22) 18) dialog: I'm not asking.
+22) 22) dialog: Tell them I took their plane.
+22) 23) text: Carrie spins.    Leaves.
+23) 3) text: Carrie and Delfy, wearing full ECW gear, lean hard into the wind, making their way towards the compound. She's carrying a duffle bag. Can barely see the Twin Otter behind them.
+24) 1) text: Carrie leads the way up a decrepit, dimly-lit hall strung with exposed pipes and wiring.
+24) 6) dialog: The Russians barely supply Vostok anymore. They have to barter with other bases for supplies. Some of these guys have been rotting here for years.
+25) 1) text: Carrie enters a grungy operations room that never made it out of the 70's: ancient computers and steel-cased radios fill one wall.
+25) 5) dialog: Who's in charge?
+25) 10) dialog: Stetko, US Marshal. I'm here to talk to an American named Mooney.
+25) 15) dialog: I figured.
+25) 16) text: Carrie hoists her duffel bag on the table and unzips it.
+25) 22) dialog: Where is he?
+26) 1) text: Carrie is suiting up in her ECW gear, rope harness and crampons. Her jacket's open. Delfy has a steaming cup of coffee in his hand. He looks to her gear belt; cuffs, pepper spray, baton...
+26) 5) dialog: Against the law -- Antarctica's the only place in the world you can't have one. Part of the Treaty.
+26) 9) dialog: All this crap on -- I prefer naked.
+26) 15) dialog: Do you have to do that in front of me?
+26) 20) dialog: Sure.
+26) 21) text: Sets down his coffee on a nearby shelf. As he fastens it, Carrie pulls on her goggles and a face mask. They finish at the same time.
+26) 30) dialog: Nope. Thoughts?
+26) 33) text: Delfy leaves as Carrie cranks the submarine-type wheel- lock in the center of the door.
+26) 37) text: Carrie struggles back to the door and clips a three-foot tether from her harnesses to a RED STORM LINE attached to the side of the building.
+27) 1) text: Carrie leans into the door, pushing it closed and locking the wheel.
+27) 4) text: Slowly regaining her stance, she pushes onward. Finally Carrie runs into something. It takes her a moment to realize she's at a building.
+29) 1) text: Carrie hits the lights: nothing. No power. Just a sliver of light stabbing in through a window.
+29) 3) dialog: (calling out) Mooney? Hello?
+29) 8) text: CARRIE (cont'd) Mooney?
+29) 28) dialog: ...My God.
+29) 30) text: Carrie catches a REFLECTION OF MOMENT behind her in his eyes -- someone's coming at her.
+29) 33) text: Carrie slices the floor with her light, looking for the baton, but can't see it.
+29) 34) text: The killer yanks his axe free of Mooney as Carrie bolts around the sofa, heading back out the door.
+30) 1) text: Carrie blows back into the hallway at a full tilt run, retracing her steps. Her light zigzags. The killer emerges a few beats later on a run. It's going to be close.
+31) 4) text: CARRIE'S door slams open first and the wind hits her hard.
+32) 1) text: Carrie jumps into the whiteout, catching the red storm line and clipping in as she staggers forward. Glancing back, she sees the killer in the doorway, then loses sight of him as she's swallowed in the whiteout.
+32) 3) text: She swivels a nervous whirl to see -- the Killer materializing out of the whiteout right behind her.    He clipped into Carrie's line. He raises the axe.
+32) 4) text: He swings. She jumps back, losing her footing. Hits the ice hard -- face first. The killer towers over her, raising the axe again. Carrie drives her heel into his knee, knocking him off balance. He drops next to her.
+32) 5) text: He reaches for Carrie, grabbing her mask, pulling it off. She cries out as the FREEZING WIND catches her face.
+32) 6) text: The killer gets to his feet and delivers a rib-cracking kick, flipping Carrie onto her back.
+32) 7) text: SOUND FADES from Carrie's world.
+32) 9) text: Carrie UNCLIPS her harness from the tether. THE WIND grabs her, and Carrie SLIDES AWAY -- the killer disappearing from view behind the swirling wall of white.
+32) 14) text: Sliding across the ice, Carrie SLAMS into a pole.   Grabs on.
+33) 2) text: Carrie glances up the post. Barely visible through the blowing ice are signs pointing different directions: "Moscow 17,030 Tokyo 13,329 Fiji 7,877 Los Angeles
+33) 4) text: She pulls herself up and heads out, leaning into the wind. Carrie staggers blindly, trying to protect her face. Falling, she gets up, and struggles on.
+34) 1) text: Carrie lurches forward, holding the line with one arm.
+34) 2) text: Finally, she bumps into something. It moves. It turns to face her. IT'S THE KILLER AGAIN. He swings. She deflects the blow with her free arm, and manages to grab the axe head. The killer tears the axe free, taking Carrie's glove with it.
+34) 3) text: He swings again, but Carrie pulls hard on the rope, throwing him off balance.
+34) 4) text: The axe cuts through the line. The killer hits the ground, and is immediately ushered away in the wind, as Carrie, clinging to the rope, slides over the ice like a pendulum.
+34) 9) text: More dead than alive, Carrie stumbles against the door and grabs the wheel-lock with both hands.
+34) 19) text: Carrie falls, collapsing against the door.       Blackout
+35) 1) text: A single bulb above casts a cone of light down onto Carrie, who's leaning against a sink, staring at herself in a mirror. She looks stressed. Her Marshal's badge dangles around her neck.   Wears a shoulder harness. The bathroom door behind her is open.
+35) 5) dialog: Jack?
+35) 8) text: Gun ready, she rolls her back around the jam -- WHAM! Carrie's blindsided by a fist that drives her into the other door jam.
+35) 9) text: Before she can recover -- a guy, dark eyes, unshaven, grabs her by the hair and runs her head first into the bathroom mirror. SMASH. It's brutal. Shards fall into the sink, as Carrie's RIGHT TEMPLE goes bloody. She drops to the floor --
+35) 10) text: CARRIE'S POV - A BLURRY FIGURE stands over top of her. She's still got some fight in her -- hands lash out in a frenzy, like a cat in water.
+35) 11) text: CARRIE (cont'd) Jack!
+35) 20) text: Carrie slowly settles, then she's out again.
+36) 3) dialog: What happened?
+36) 7) dialog: Yeah. Someone got to him before I did. Then went after me. (BEAT) How long was I out?
+36) 10) text: Carrie's eyes drift to the old man next to her.
+36) 14) dialog: Thanks.
+36) 17) text: CARRIE (cont'd) I need to get back in there.
+37) 1) text: Delfy and Carrie, with her hand bandaged, both slice the dark with flashlights. She's starting to get her bearings back.
+37) 8) dialog: Let it go, Delfy.
+37) 12) text: Same as before. Carrie goes to the over-turned sofa. Moves her light around -- searching. Passes over the blood on the floor.
+37) 15) text: Carrie gets on her knees -- looks under the sofa. Low angles her light. Something reflects.    Reaches in. Retrieves her baton --
+38) 1) text: Just as Carrie and Delfy leave the lounge, her perifocal vision picks up a wisp of light from a flashlight, which bled out from a door's threshold halfway down the hall.
+38) 2) text: Delfy's eyes go wide -- Carrie's finger goes to her mouth - Shhhhh.
+38) 15) dialog: Unless you want your head cracked, I wouldn't move.
+38) 20) dialog: -- Let me see your hands.
+38) 22) text: CARRIE (cont'd) Now turn around.
+38) 24) text: CARRIE (cont'd) Who are you?
+38) 29) dialog: Let's see it -- slowly.
+38) 42) dialog: How do you know about Weiss?
+38) 45) text: Carrie lowers her baton.    He stands.
+38) 48) dialog: This is part of a crime scene.
+38) 52) dialog: I'll be sure to let the U.N. know if I find out anything.
+38) 57) dialog: Maybe.
+38) 62) dialog: Don't take this personally, but I don't need your help.
+38) 73) dialog: You don't dig for meteorites.
+38) 80) dialog: Fine. But this is my investigation, understand? If you obstruct it in any way, I will have you detained.
+38) 86) dialog: No, but I have the feeling you're going to anyway.
+39) 1) text: Carrie and Delfy are heading toward the Ready Room. She has her phone to her ear. Two Russians trail behind with Mooney in a bodybag.
+39) 7) dialog: Murphy, listen to me, it's got to be Rubin who tried to kill me. You have to shut down flights leaving ASB and McMurdo -- search for him.
+39) 12) dialog: Sam, I think these guys found something out there at the camp. I'm going to check it out. Until I find Rubin, no one leaves the ice. Not yet.
+39) 14) text: Carrie opens the door to the ready room to find Pryce standing there with a gear bag -- typing into a PDA (Treo type).
+39) 18) dialog: Guess so.
+41) 8) text: Carrie, Pryce and Delfy climb out from the plane and make their way toward the tents. Place looks deserted.
+41) 10) dialog: What time is it?
+41) 15) dialog: A.M. or P.M.?
+41) 19) dialog: Wonderful. (re: tent) I'll take this one.
+42) 1) text: Carrie peers in. It's too dark to see anything. She goes to pull out her flashlight with her left hand -- stops herself. Reaches in with her right, extracts it from her pocket. Turns it on.
+43) 3) dialog: Rubin?
+44) 1) text: Carrie enters with Delfy. Place is lit by a single dim bulb. This is a work space; two tables, instruments on top. Sample containers piled everywhere. Numerous photos of meteorites are stuck to a board.
+44) 6) dialog: Someone's left leg took a hit, lost a lot of blood. What do you got?
+44) 14) text: Carrie moves over to a table with a MAP SPREAD OUT ON TOP. The ice field is marked off into sections.
+44) 16) dialog: Looks like they were surveying sections at a time.
+44) 20) dialog: Yeah --
+44) 31) text: Carrie finds them on the map.
+44) 33) text: Carrie finds it.
+44) 35) text: They look at each other. Carrie finds it on the map as Pryce moves up next to her.
+44) 37) dialog: Looks like they hit some really big meteors.
+44) 41) dialog: About four miles.
+44) 45) dialog: I want to check something out first.
+45) 1) text: Carrie has Mooney's bodybag unzipped and is examining his left leg. No cuts. No blood. She thinks on this non- discovery for a moment, then zips it back up.
+46) 10) text: Pryce is in the backseat, Delfy is driving. Carrie is next to him with the map and her GPS in hand. She stares at a tiny blinking red light on the GPS --
+47) 2) text: Patrons and bystanders are perched in various locations, watching as A HANDCUFFED Carrie is escorted outside by two uniformed officers. Her eyes are full of tears.
+48) 1) text: Delfy's looking at Carrie like he's waiting for an answer.
+48) 6) dialog: North.
+48) 7) text: Pryce sees Carrie pause for a moment, massaging her gloved left hand.
+48) 11) dialog: Yeah, a little.
+48) 22) dialog: Almost two years.
+48) 27) dialog: (SARCASTIC) The excitement, mostly.
+48) 31) dialog: Some shrink tell you that?
+48) 35) dialog: And do you?
+48) 39) dialog: Where do you plant your boots?
+48) 44) dialog: I came down to fill in for a Marshal for six weeks before Winter-over. I met someone, decided to stay.
+48) 48) dialog: No -- just gave me a headache. (BEAT)
+48) 58) dialog: This is it.
+48) 61) text: CARRIE (cont'd) Stop.
+48) 65) dialog: Just stop.
+49) 6) dialog: Section 104.   These are the coordinates.
+49) 9) text: Carrie ignores him. Walks further away from the cat. Ice CRUNCHES UNDER HER FEET as she keeps looking -- then, she stops. Something's not right. Looks DOWN.
+49) 12) dialog: This is shaved ice.
+49) 19) text: CARRIE (cont'd) They were digging, Pryce. And they tries to spread the ice to hide it.
+49) 21) text: WHOOSH! In an instant, Carrie's gone! DISAPPEARS below the ice. Only a four foot wide hole remains, that was covered up with a white, iced-over tarp.
+49) 23) text: Pryce gets to the hole. Looks down. Carrie is precariously dangling in an ICE SHAFT that slopes at a slight angle. She's managed to grasp a protruding piece of ice, but she's fighting the pain in her left hand to hold on. It slips off. Below her -- nothing but darkness.
+49) 24) text: CARRIE (cont'd) Grab me!
+49) 30) dialog: I'm slipping!
+49) 34) dialog: I'm losing my grip.
+49) 49) dialog: ...I'm okay.
+50) 1) text: Darkness. A flashlight clicks on. Reflects off a wall of ice with a frozen blood trail leading up. Carrie gets to her feet. Sees that she's in a small dug out area.
+50) 3) text: Carrie shines the light to her feet.        The ground be her is metal.
+51) 1) text: Pryce, with a flashlight in hand, lowers himself down a rope to the bottom of the shaft where Carrie waits. Delfy follows. Both take in the discovery.
+51) 2) text: Carrie moves over to the hatch. Pulls on it. Opens easily. She and Pryce hit the interior with their lights. Find themselves staring into...AN AIRPLANE!
+52) 7) dialog: Cargo plane, but I don't recognize it.
+52) 10) text: Carrie shuffles her way forward into the darkness, heading for the cockpit.
+52) 12) text: Delfy stands still. Staring.           Carrie throws a lo over her shoulder --
+52) 14) dialog: Guess that makes three.
+53) 1) text: Carrie pushes the door open.
+53) 8) dialog: Where's Pryce?
+54) 1) text: Trailing her beam of light, Carrie and Delfy climb through a thick wall of nylon webbing. Enter a cluttered cargo area.
+54) 5) dialog: What is that?
+54) 9) text: Carrie continues through the hold. Her FLASHLIGHT BEAM flickers over more chaos of the crash. HUGE STEEL TANKS TAKE UP MOST OF THE MID-SECTION.
+54) 13) dialog: (SUSPICIOUS) Find what you're looking for?
+54) 19) dialog: And by the looks of that safe, must've been transporting something pretty important.
+54) 20) text: Carrie moves in closer.   Sees that the cage has been breached.
+54) 29) dialog: Whoever got hurt, they dragged him out of here. There's blood all over the tunnel.
+54) 32) text: CARRIE (cont'd) What is that?
+54) 38) dialog: Go!
+54) 42) text: Carrie targets ahead with her light -- illuminates the hatch as A LOAD OF ICE DROPS IN covering it completely. Light fades.
+54) 50) text: Carrie and Pryce both pull out their phones.
+54) 52) dialog: No signal, you?
+54) 54) text: CARRIE (cont'd) Someone followed us.
+55) 2) text: Things are desperate as a single flashlight beam propped up on a crate, illuminates Carrie, Delfy and Pryce hard at it -- frantically chopping away at the ice filled hatch with pieces of scrap metal from the plane. Efforts are big-- but the progress minimal.
+55) 6) dialog: How long do you figure we've got?
+55) 12) text: The light from the flashlight slowly begins to fade. Carrie goes over to the crate, slaps it against her leg, trying to get more juice going. Still fading. Light goes out --
+55) 13) text: -- Screen goes black. Can't see a thing. A second later, ANOTHER LIGHT KICKS ON -- Pryce is holding it. Hands it over to Carrie --
+55) 22) text: Carries mind whirls with her lack of options, then --
+55) 24) dialog: What about the Vodka -- we could make some torches, maybe melt the ice?
+55) 28) dialog: What choice do we have?
+55) 34) text: Carrie takes a six-inch, pearl handled Buck knife from a pocket, unfolds it-- starts cutting the liner of her coat.
+55) 37) text: Carrie looks over to see him staring at two LIFE JACKETS attached to the wall near the hatch. He's thinking.
+55) 38) text: He moves to Carrie --
+55) 42) text: He shines the light to the ceiling as he heads toward the back, leaving Carrie and Delfy getting swallowed in the dark.
+55) 44) dialog: What're you doing?
+55) 52) dialog: We came in through it.
+55) 58) text: Carrie watches Pryce's flashlight moving about in the cargo area of the aircraft.
+55) 61) text: Carrie and Delfy get to Pryce. They follow his beam straight up to expose an ESCAPE HATCH in the roof of the fuselage.
+55) 67) dialog: Or, if the ice is too thick the blast will come right back at us.
+55) 70) text: Pryce hands Carrie the flashlight. She targets the hatch area as he opens an electrical panel beside it; a crisscrossing maze of wires.
+55) 77) text: As he reaches up to examine the wiring, Carrie catches a GLIMPSE of a SHOULDER HARNESS under his liner.
+55) 79) text: As he looks down, Carrie masks her discovery.   Hands ove her phone. He extracts the BATTERY.
+55) 82) text: He looks to Carrie and Pryce who have backed up against the fuselage.
+55) 85) text: Carrie is still running that shoulder holster through her head.
+55) 89) text: SLAM, SLAM, SLAM, until...WHAM, it buries itself edge-on, halfway into the fuselage, missing Carrie by a hair's width.
+55) 103) text: Just as they finish, Pryce turns to find himself facing Carrie holding one of the RUSSIAN'S GUNS TO HIS FACE.
+55) 105) dialog: Don't move.
+55) 112) dialog: Our friend here isn't who he says he is.
+55) 115) text: CARRIE (cont'd) Didn't you know it's a direct treaty violation to carry a firearm down here?
+55) 119) dialog: Stop lying to me --
+55) 121) text: CARRIE (cont'd) Delfy, cuff him to the wall.
+55) 133) dialog: He was saving his own.   Do it.
+55) 134) text: Delfy takes the cuffs from her.  Cuffs Pryce to some exposed piping. Carrie lowers her gun.
+55) 135) text: CARRIE (cont'd) You know what was in that safe. (BEAT) Now, who are you?
+55) 137) text: CARRIE (cont'd) I swear I'll leave you here to die.
+55) 143) dialog: Have you got an ID for that too?
+55) 159) dialog: Why did you lie to me?
+55) 163) text: Carrie wrestles with her emotions. She looks back towards the open safe, the blood staining the airplane floor. Makes a decision.
+56) 1) text: Delfy wriggles out from the hole. He reaches back. Helps Carrie to the surface. Pryce follows.
+56) 6) text: Carrie notices a single set of an airplane's ski tracks in the distance.
+56) 13) dialog: Plane could've gone anywhere. There's forty-six countries here all counting down to Winter-over. Rubin could just disappear in the mayhem.
+56) 15) text: Carrie pulls out her Nextel as Pryce takes out his PDA. She depresses the walkie button -- makes her way to the Cat.
+56) 16) text: CARRIE (cont'd) Rhonda?
+56) 21) dialog: Heading back. How many fly-ins to McMurdo in the last four hours?
+56) 25) dialog: (SNAPS) -- How many?
+56) 29) dialog: I need a list of names.
+56) 30) text: Carrie clicks off.
+56) 34) dialog: He knows I'm on his ass, so he might. Anything's possible. I want to eliminate his options.
+56) 44) text: He looks to Carrie --
+56) 47) dialog: Back at ASB --
+57) 4) text: He hangs up. Carrie climbs in -- looks back at the plane's ski tracks.
+57) 6) dialog: I know why Weiss was so far from Delta One One.
+57) 8) text: CARRIE cont'd) He was dumped from a plane.
+58) 1) text: Carrie strides along the corridor with Pryce. They pass a window where we see that an LC-13O EVAC PLANE is parked out front -- it's tail section open like the mouth of a massive beast. Move past several people, balloons and `Eve of Evac' signs.
+58) 2) text: Pryce sees Carrie really cradling her left hand, now.
+58) 6) dialog: I'll have the Doc take a peek when we're done.
+58) 10) text: Carrie stops.
+58) 12) dialog: Murphy?   What the hell is he doing HERE
+58) 17) text: Carrie ignores him.
+58) 19) dialog: I'm on 30 if you need me. Rubin's picture is in a file on my desk.
+58) 29) text: Pryce heads up as Carrie continues on down the main corridor.
+59) 17) dialog: You wanted to see me?
+59) 18) text: Murphy looks over.       Sees Carrie coming in through th door.
+59) 23) dialog: Buried under 2 tons of ice. You?
+59) 33) dialog: Sure thing, Chief.
+59) 37) dialog: It didn't work, Sam, because you couldn't keep your hands off every new woman who stepped foot on the ice down here. I was stupid enough to be one of them. Now if you could cut through your red tape for just one second, you would realize that someone's out there with six cannisters, possibly full of Uranium, and he wants to get it into the hands of some very bad people. And I'm trying to stop it -- so fuck asking you for shit, Sam.
+59) 51) text: Carrie calms down -- she's had enough.
+59) 53) dialog: You know what Doc, it's alright.
+59) 54) text: Carrie looks to Rhonda --
+59) 55) text: CARRIE (cont'd) You got my list?
+59) 57) text: Carrie walks out with Doc.
+60) 1) text: A SUBJECTIVE POV - watching Carrie and Doc from behind the crack of a door as they walk down the main corridor and right by.
+61) 1) text: Carrie's sitting on the edge of an examination table as Doc slowly unwraps her bandaged hand. She winces from the pain.
+61) 6) dialog: You worry too much -- but it's what I like about you.
+61) 8) text: CARRIE (cont'd) Doc, did you notice if Weiss had a wound on his left leg?
+61) 16) dialog: Then it's gotta be Rubin. (BEAT) I don't know.
+61) 20) dialog: There's no way they're gonna make it. Not with that storm coming in over the peninsula.
+61) 22) text: CARRIE (cont'd) Oh God.
+61) 28) dialog: When did I go to Vostok?
+61) 32) text: He pushes hard -- penetrates the skin. We see the worry begin to elevate further on Carrie's face.
+61) 34) dialog: No.
+61) 45) dialog: (STUNNED) No way. Don't tell me that.
+61) 48) text: Carrie is sickened.
+62) 1) text: Carrie sits in sullen silence, the room dark around her. The only light bounces in from a sterile, draped area where Doc works on her hand. She can't watch as his CURVED SUTURE and thread, rises and falls with every stitch he makes. Carrie has her attention on BLOODY GAUZE piled up in a tray --
+62) 4) text: CARRIE'S MEMORY HIT: AN IMAGE SHE SAW EARLIER: The well defined chest of a man wearing a T-shirt. A BULLET HOLE oozes dead center. This time we stay there a little longer, watching the T-shirt absorb the blood around the wound. As the stain widens, so does the camera... slowly... bringing into picture THE MAN Carrie shot. He's wearing a MARSHAL'S BADGE around his neck.
+62) 11) text: Carrie looks at him, sullen, afraid to look down.     The slowly lets her eyes drift to her hand.
+63) 1) text: Carrie's bag is open on the bed with the Russian's gun next to it.
+63) 4) text: Carrie slumps to the floor.    Silent tears.
+63) 8) text: Carrie nods, pulling herself together, swallowing her emotion.
+63) 10) dialog: Pretty tough Marshal, huh?
+63) 12) text: CARRIE (cont'd) (holds up hand with missing ring FINGER) If you came to propose, now's not really a good time.
+63) 19) text: CARRIE (cont'd) Anything?
+63) 22) text: They sit in silence together for a moment. Carrie sees the Russian pistol that's ended up on the floor close by. Picks it up. Examines it like a relic.
+63) 24) dialog: ...You ever kill anyone?
+63) 28) dialog: Anyone you ever trusted?
+63) 33) dialog: I hadn't held a gun in my hand for over two years. (LAUGHING) Wasn't supposed to need one down here.
+63) 35) text: CARRIE (cont'd) You asked what I was running away from...I came down here to forget my partner, Jack. Thought it would be better than any therapy.
+63) 39) dialog: We were on a stakeout at a Holiday Inn in Miami, waiting for this buy to go down. I was excited, we'd been after this trafficker for a long time. Thought this bust would be my big chance to impress the brass. Anyway, guy's a no show. One hour went by, then two - - nothing.
+63) 46) text: CARRIE (cont'd) Four years together. I knew things about him that his wife didn't even know.
+63) 49) text: CARRIE (cont'd) Marshall service cleared me -- ruled it self-defense, but I had a real hard time getting over the betrayal -- how little my life meant to a guy I was willing to take a bullet for.
+63) 50) text: Carrie shifts in her chair.   Leans forward.
+63) 51) text: CARRIE (cont'd) Know what the kicker is -- Jack thought I was close to figuring him out. Thought this hotel room was the best place to get rid of me -- make it look like a bust gone bad. Truth is, I had no idea.
+63) 54) text: CARRIE (cont'd) You asked me why I smell like suntan lotion -- Jack wore Aramis, this cheap after-shave his wife gave him. Some of the guys down here wear it -- suntan lotion is the only thing that keeps me from smelling it.
+63) 63) text: CARRIE (cont'd) What do ya got there?
+63) 67) text: As Carrie studies them --
+63) 70) dialog: These beakers where really in over their heads.
+63) 78) dialog: Think you can you help me with these buttons, first?
+64) 1) text: Carrie enters. Light streaming in through the window hits her tired face. She reaches for the light switch on the nearby wall --
+64) 7) text: Carrie nods -- slides her hand toward her pocket...
+64) 11) dialog: Who are you?
+64) 16) text: Carrie's confused.
+64) 18) dialog: Mooney's dead.
+64) 23) dialog: And so's Weiss.
+64) 33) dialog: It's okay, you're safe, just put the knife down.
+64) 35) text: CARRIE (cont'd) Who's after you? Where are the cannisters?
+64) 40) dialog: Rubin -- I need you to focus for me.
+64) 47) dialog: It's okay, he's a doctor, he can help you.
+64) 56) text: Carrie appears at the door. Catches a glimpse of Rubin disappearing down a set of side stairs.
+64) 57) text: CARRIE (cont'd) You alright?
+64) 63) text: CARRIE (cont'd) Pryce --
+64) 67) dialog: Rubin's here! He's on the run. Level one. White T-shirt. Jeans.
+64) 72) text: As Carrie comes off the stairs -- looks left -- there's three guys carrying boxes out of a room. Snaps a look to the right --
+64) 74) text: CARRIE (cont'd) (into walkie) He's heading for the Science Lab.
+64) 75) text: Carrie kicks it into high --
+66) 1) text: Rubin is moving through to a door at the far end as Carrie enters. It's lined with several free standing, empty bookcases.
+66) 3) dialog: Rubin, wait!
+67) 1) text: Carrie enters through the connecting tunnel's doorway. Not a lot of light. Slows her pace. It's quiet. Dormant. Vacant lab stations. Room's been shut down for the winter. Eyes scan. Fall upon --
+67) 7) text: Carrie gets to the door. Pulls on the handle. Won't open. Rattles. Looks in through a viewing window -- sees --
+67) 11) text: He and Carrie exchange glances.
+67) 13) dialog: Rubin -- I can help you!
+67) 23) text: Rubin bolts back toward the door separating he and Carrie, but --
+69) 1) text: Carrie shoulders the door, but still doesn't budge. Hears FOOTSTEPS BEHIND HER. Turns to see it's Pryce.
+69) 3) dialog: Door's jammed --
+69) 5) text: CARRIE (cont'd) Pryce, it's not Rubin --
+69) 7) text: CARRIE (cont'd) Someone's trying to kill him.
+70) 6) text: Carrie throws a look outside -- bottom of stairs are vacant. Ice axe is still there.
+70) 8) dialog: Shit, Rubin doesn't have any gear on.
+70) 9) text: Carrie immediately closes the outside door. Pryce goes for the ECW wear. Scrambles to get a coat on. Carrie joins. Same thing.
+70) 13) dialog: Thirty seconds.
+73) 1) text: Carrie and Pryce, now bundled up in ECW, exit the room and head down the stairs. Split up -- go opposite directions around the complex.
+75) 1) text: Carrie passes a gap between storage containers where several snow shovels are stuck into a mound of snow -- through their vertical slats, SHE CATCHES A GLIMPSE OF RUBIN at the Snow Melter across on the other side of the main building. Sees the ECW guy closing in.
+76) 1) text: Pryce is moving under ASB. Passes a hydraulic support leg. Spots Carrie on the other side moving toward Rubin. Also sees the ECW guy in pursuit. Heads toward them.
+79) 9) text: Carrie pulls his parka hood away from his head -- snaps the goggle from his face.
+79) 12) text: The shovel's courtesy of Carrie, who stands over top of him. Holds the shovel to his neck like a guillotine blade.
+79) 13) text: Pryce approaches. Glances to Rubin's frozen body -- neck askew. Carrie is wound up. Keller's still recovering from the impact --
+79) 17) dialog: Where are the cannisters?
+79) 23) dialog: Help me drag him over here.
+79) 25) text: CARRIE (cont'd) Keep him still.
+79) 27) text: Carrie pulls her Buck knife from her back pocket, then whips off Keller's gloves. Tosses them aside. The cold makes him more coherent. Sees Pryce at this throat.
+79) 30) text: Keller shifts his attention to Carrie, who's using her knife to SLICE open his ECW jacket and pants, exposing bare arms and legs.
+79) 40) dialog: Why did you kill those scientists, Keller? Was a four-way split too much for you?
+79) 43) text: Carrie grabs the hose from the Snow Melter.
+79) 46) dialog: Where is the uranium?
+79) 52) text: Carrie releases more water, freezing more of the arm. screams. Pain is too much. He caves.
+79) 55) text: Carrie's suddenly grabbed from behind.     It's Murphy. Furious. Two other guys at his side.
+79) 59) dialog: Let go of me.
+79) 61) text: CARRIE (cont'd) Where in the plane?
+79) 72) dialog: The cannisters are on the plane.
+79) 74) text: CARRIE (cont'd) Throw him in the holding cell.
+79) 75) text: The two guys go to Keller, but his arm is stuck to the ground. Carrie kicks it free. It's painful. Keller screams.
+79) 80) text: Carrie looks at Pryce.
+79) 83) text: Pryce looks at Carrie.
+79) 85) dialog: He's with the UN. We have to search that plane now!
+79) 86) text: Murphy looks to Carrie with an intense glare --
+79) 98) text: Murphy looks to Carrie, softens slightly --
+79) 100) dialog: Sam, do what is right here.    Come on.
+79) 104) dialog: We'll need some help.
+80) 1) text: Carrie is near the cockpit, searching under a row of seats. Pryce approaches. A handful of ASB employees tear through every inch of the fuselage and cargo.
+80) 4) text: Carrie gets to her feet.    Pissed off.
+80) 7) dialog: Nothing. That bastard. What the hell are you up to, Keller?
+80) 10) text: Carrie's suddenly chilled with the ominous reality that -
+80) 12) dialog: He's buying time.
+80) 13) text: Carrie races off the plane.    Pryce tries to keep pace.
+81) 1) text: Carrie is slaloming her way through the corridor, which is packed with ASB employees carrying their bags for the evac. Pryce is close behind.
+81) 3) dialog: Out of the way!
+82) 1) text: Carrie enters. Pryce at her side. Her face goes white. The door to the holding room is wide open. Keller's GONE.
+82) 3) dialog: Shit!
+82) 8) dialog: He won't try.    He's a goddamn pilot.
+85) 1) text: Carrie and Pryce, dressed in ECW are making their way toward the hangar.
+87) 1) text: Keller has the engine going. It's loud. Preps the console for flight, flipping switches -- suddenly sees Carrie and Pryce enter the hangar. Guns drawn.
+87) 6) text: Then, with a nod from Carrie, they move in. Fast. Ready. Look into the plane. It's empty, except for a duffle bag in the back. Carrie nods to Pryce. Motions for him to go one way, she'll go another.
+87) 10) text: Carrie gets to the Cat.    Springs toward the door. Inside's empty.
+87) 20) text: Keller spots Carrie over by the Cat. She fires continually, forcing him to stay behind cover. The shots go wide -- she's not yet used to firing with the right hand.
+87) 23) text: Carrie keeps shooting. Bullets PING OFF THE TOOL CHEST. They stop. Carrie has to reload.
+87) 24) text: Keller makes his move. Fires at Carrie and sprints for his plane. Runs right by pole with a large red button attached to it. Slams it.
+87) 29) text: Carrie makes her move.   Dashes toward him, firing away.
+87) 32) text: Carrie dashes to Pryce. Sees Delfy get to his feet. Face bloody. He moves to Pryce.
+87) 44) text: His eyes flutter shut.   Carrie slaps his face --
+87) 46) dialog: No!    You stay awake!
+87) 50) text: CARRIE (cont'd) Damn it! (to Delfy) Come on. We're getting him up.
+88) 2) text: Carrie grabs Delfy's hands. Puts them directly on the bloody wound. Surprisingly, he stays focused.
+88) 4) dialog: Press here.    Hard. Hard or he will die!
+88) 9) dialog: He's not going to be number four!
+88) 16) text: Carrie rips open Pryce's jacket and liner.
+88) 24) dialog: You're bleeding out. Freezing drops your pulse. We have to slow it down. (BEAT) You hold on.
+88) 25) text: Carrie snags the two-way off her hip like it's a quick draw. Keys it.
+88) 26) text: CARRIE (cont'd) Sam -- is Doc on the plane yet?
+88) 31) dialog: Keller got out. He hurt Pryce -- he's bleeding bad. Where's Doc?
+88) 35) dialog: Tell him to stay put, and I need your help getting Pryce there. We're at the hangar. I've got to stop Keller, he's got the cannisters.
+88) 36) text: Carrie doesn't wait for an answer.     Gives Delfy the tw way.
+88) 42) text: CARRIE (cont'd) Don't let him die.
+88) 43) text: Carrie stands.   Determined.   Sprints back into the hangar.
+89) 1) text: On a full sprint, Carrie dashes over to the Snowmobiles. Coughs. Spits blood. Doesn't stop her. She jumps on one. Fires it up. Uses her left palm to steer -- blood starts to seep through the gauze. She quickly bundles up, then guns it.
+90) 2) text: Carrie veers off, targeting the tunnel to ASB.    Hits he light as she races in.
+91) 1) text: Carrie's light silhouettes Murphy and a couple of his guys as they head toward her. She doesn't even slow down as she blows right by them.
+93) 1) text: A funnel of bumpy light spreads across the ice before Carrie on the snowmobile.
+93) 12) text: He sees Carrie.
+93) 20) text: Stay on Carrie. Looks like suicide. She suddenly swerves a hard left, disappearing behind a berm --
+93) 23) text: He bears a momentary sense of triumph, starts to get airborne -- until -- LAUNCHING UP OFF THE BERM is Carrie's snowmobile! She bails, letting it continue right toward him like a heat seeking missile as she tumbles down the berm.
+93) 34) text: Carrie slowly gets to her feet. The flames reflecting off her goggles. She heads to the wreckage. The cold and blowing snow extinguishing the flames quickly.
+93) 41) text: Carrie approaches. Only a sputtering of flame remains on the front of the twisted remnants of the Otter's cockpit. The aft seems relatively intact. Carrie looks in.
+94) 16) text: Carrie enters. She's still in her ECW gear.        Heart when she sees Pryce.
+94) 23) text: As Doc gets an IV going, he looks to Carrie --
+94) 26) dialog: Keller hit him with an ice axe.
+94) 30) dialog: No.
+96) 3) text: Doc, who's wrestling with deep contemplation, looks to Carrie -- she sees the answer's no.
+96) 5) dialog: I'll stay with you --
+96) 17) text: Doc looks to Carrie, who's thankful --
+96) 19) dialog: I'm sorry.
+96) 23) text: Murphy and Carrie exchange a quick look -- closure.
+96) 25) dialog: Thanks.
+99) 1) text: Carrie is standing next to Pryce on the examination table. He's been bandaged up. Eyes closed. Looks thrashed. An IV drip hangs from a stand on wheels.
+99) 6) dialog: Hey back.
+99) 10) dialog: Um-hm.
+99) 16) dialog: Nope.
+99) 21) dialog: After all this, no way. Keller didn't have it on the plane because he's got it hidden somewhere.
+99) 32) dialog: True -- what the hell was his plan...
+99) 46) text: Carrie turns, looks at Doc as he wheels the gurney by.
+99) 48) dialog: Need any help?
+99) 51) text: She sees it's Weiss' name on the tag, but something disturbing catches Carrie's eye -- it's Weiss' LEFT LEG pressing against the bag. Although the plastic is clouded, she'd swear his LEFT CALF has a LONG LINE OF STITCHES running down the side.
+99) 62) dialog: (COVERING) Just thinking where it all began.
+99) 70) dialog: Nothing -- I'll be right back.
+100) 1) text: Carrie slips in. We've been here before -- this is where she chased Rubin.
+100) 2) text: Darkness creeps in, phantom like, as the remaining daylight FADES OUT through the row of windows that run along the side. Carrie's plunged into inky black. WINTER HAS SET IN.
+100) 4) text: Carrie slips in between two bookcases, trying to stay tight against the wall. Doc walks right by and out the door.
+101) 1) text: Carrie enters. Turns on the light. Illuminates the lab stations, and the busted open doors of the Ready Room. Heads for the freezer.
+102) 1) text: Carrie opens the door.    Illuminates the interior with h light.
+102) 11) dialog: (to herself) Someplace no one would ever think to look.
+102) 13) text: She cuts through them. Skin splits to reveal the BOTTOM OF A CANNISTER that's been stuffed inside his chest. She reaches in and pulls it out. Even has rust on the bottom. Carrie's confused -- IT'S NOT LIKE ANY OF THE CANNISTERS PRYCE SHOWED HER PHOTOS OF. It look more like THE ICE CORE CONTAINER SHE SAW AT MCMURDO.
+102) 17) text: Carrie slowly stands -- the betrayal almost too much.
+102) 28) dialog: And we thought it was nukes the whole time.
+102) 32) dialog: How did you get wrapped up in thing, Doc?
+102) 36) dialog: Then Weiss got cold feet. It got ugly, didn't it -- and Keller killed him at Delta One One. Everything went to hell after that, didn't it, Doc.
+103) 1) text: Carrie carefully follows. Sees he's heading for KELLER'S ICE AXE in the ready room, that someone's removed from being wedged outside, onto the now uprighted LAB CART Pryce used to bust open the door.
+103) 3) dialog: Doc -- stop.
+103) 9) dialog: There is no granddaughter, is there? This was about greed, plain and simple.
+103) 14) dialog: Dead is dead, right?
+103) 18) dialog: What's happened to you? There are four people dead! Four! People we knew.
+103) 25) text: CARRIE (cont'd) Where you going to stuff my body too? Huh? Was I going to be five?
+103) 29) text: Carrie cocks back the trigger --
+103) 30) text: CARRIE (cont'd) I won't go through it again. Don't make me shoot you, please.
+103) 36) dialog: Doc, your not thinking straight.
+103) 43) dialog: Doc, please.
+103) 44) text: Carrie crosses the room as he grabs onto the outside door's latch.
+103) 54) text: Using both hands on the latch, he pulls. THE DOOR BLASTS OPEN, filling the space between Carrie and Doc with violent winds and blowing snow.
+103) 55) text: Doc's throws one last look to Carrie, then takes two steps out the door.
+103) 57) text: Wind and cold storm into the room against Carrie, who remains standing still like a statue. Emotionally drained. Numb. Freezing to death -- tears frozen to her cheeks.
+103) 60) text: Cold to the bone, he grabs a jacket off the racket. Approaches Carrie, who remains staring at the closed door. The effects of the chill and Doc's decision apparent.
+104) 3) text: Slowly widen -- to see Carrie and Pryce, kicking back on lawn chairs, side-by-side. Two heat lamps pouring out bright, warm light. A cut out piece of paper in the shape of a palm leaf is taped to one of the lamps -- throwing the shadow.
+104) 10) text: Carrie lies back, rests, eyes closed.
+104) 14) dialog: Hot. But there's a gentle breeze. Fiji's beautiful this time of year.
+104) 19) text: Carrie turns over on her stomach -- lets the heat warm her back.
+104) 21) dialog: Nah. Freedom's just a sunrise away.

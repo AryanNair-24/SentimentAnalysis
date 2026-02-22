@@ -1,0 +1,58 @@
+22) 3) dialog: Right. Open up, Mister.
+22) 6) dialog: (who shouts everything) Thank you, Mister. He signs sheet.
+22) 9) dialog: You are now in H.M. Prison Parkmoor and from this moment you will address all prison officers as sir! Name?
+22) 11) dialog: Crime?
+22) 13) dialog: Right. Take the cuffs off him, Mister. The cuffs are removed.
+22) 14) dialog: You are now 655321 and it is your duty to memorise that number. He hands clipboard back to Warder.
+22) 15) dialog: Thank you Mister. Well done.
+22) 17) dialog: Let the officer out. Officer exits.
+22) 18) dialog: Right. Empty your pockets! Alex moves to desk and leans forward.
+22) 19) dialog: Are you able to see that white line painted on the floor directly behind you,
+22) 22) dialog: Then your toes belong on the other side of iti!!
+22) 25) dialog: Pick that up and put it down properly. Alex does so, and continues to empty his pockets. Alex signs.
+22) 26) dialog: One half bar of chocolate. One bunch of keys on white metal ring. One packet of cigarettes. Two plastic ball pens - one black, one red. One pocket comb - black plastic. One address book - imitation red leather. One ten penny piece. One white metal wristlet watch, "Timawrist" on a white metal expanding bracelet. Anything else in your pockets?
+22) 28) dialog: Right. Sign here for your valuable property.
+22) 29) dialog: The chocolate and cigarettes you brought in - you lose that as you are now convicted. Now go over to the table and get undressed. Alex walks to table and undresses. Chief Guard moves to t his clipboard.
+22) 30) dialog: Now then, were you in Police custody this morning?
+22) 33) dialog: Prison custody?
+22) 36) dialog: Religion?
+22) 38) dialog: Do you mean Church of England?
+22) 40) dialog: Brown hair, is it?
+22) 42) dialog: Blue eyes?
+22) 44) dialog: Do you wear eye glasses or contact lenses?
+22) 47) dialog: Have you been receiving medical treatment for any serious illness?
+22) 50) dialog: Have you ever had any mental illness?
+22) 52) dialog: Do you wear any false teeth or false limbs?
+22) 55) dialog: Have you ever had any attacks of fainting or dizziness? Chief Guard
+22) 58) dialog: Are you an Epileptic?
+22) 61) dialog: Are you now, or ever have been, a homosexual?
+22) 63) dialog: Right. The mothballs, Mister.
+22) 65) dialog: Now then. Face the wall. Bend over and touch your toes. inspects Alex's anus with a penlight.
+22) 66) dialog: Mmmmmmm... any venereal disease?
+22) 68) dialog: Crabs?
+22) 70) dialog: Lice?
+22) 72) dialog: Through there for a bath.
+22) 77) dialog: I saw you, 920537. I saw you.
+22) 79) dialog: Just you wait, 744678. One on the turnip coming up for you.
+22) 81) dialog: Show a little reverence, you bastards. Quiet! Convicts and all start to sing.
+22) 83) dialog: Sing up damn you. Louder, sing up.
+22) 85) dialog: Come on, sing up, damn you.
+26) 0) text: Guards stand either side of cell doors. Chief Guard with Governor, Minister and entourage.
+26) 3) dialog: Right. All present and correct, sir.
+27) 0) text: Chief Guard
+27) 1) dialog: Leave to carry on, sir, please?
+27) 3) dialog: Sir.
+27) 5) dialog: Right, pay attention. I want you in two lines. Up against that wall facing this way. Go on move! Hurry up about it and stop talking. The men line up. Chief Guard moves back to door and comes attention.
+27) 6) dialog: Ready for inspection, sir. He stands back and salutes as Governor, Minister and ento enter and walk along line of men.
+27) 13) dialog: Shut your bleedin' hole!!!
+27) 18) dialog: He brutally murdered a woman, sir, in furtherence of theft. 14 years... sir!
+28) 2) dialog: Sir, 655321, sir.
+28) 4) dialog: Forward to the white line, toes behind it. Full name and number to the Governor. Chief Guard closes door.
+28) 8) dialog: Shut your filthy hole, you scum!!!
+28) 10) dialog: Answer when the Governor asks you a question you filthy young swine!
+28) 13) dialog: Don't read it - sign it!
+29) 2) dialog: (shouting like an RSM) Right. Halt the prisoner. Good morning, sir, I'm Chief Officer Barnes. I've got 655321 on a transfer from Parkmoor to the Ludovico Centre, sir!
+29) 4) dialog: Yes, Dr. Alcott. Are you prepared to accept the prisoner, sir?
+29) 6) dialog: Well, I wonder if you'd mind signing these transfer documents, sir. Doctor signs.
+29) 7) dialog: Thank you, sir. There, sir... there, and there, sir... and there. Thank you, sir. Prison escort move forward. Halt. Excuse me, sir. Is that the officer that is to take charge of the prisoner, sir? Doctor nods. Officer steps forward.
+29) 8) dialog: If I might offer a word of advice, Doc. You'll have to watch this one. A right brutal bastard he has been, and will be again. In spite all his sucking up to the prison Chaplain and reading the Bible.

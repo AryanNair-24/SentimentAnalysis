@@ -1,0 +1,39 @@
+0) 2) dialog: (cutting in) Tell them to pour lime in the graves.
+0) 8) dialog: (dryly) To be sure . Enough blood spilled to satisfy anyone -- (turning to the General) except General Nikolas Pherides. You're letting that fool drain your life away.
+0) 11) dialog: At least get a decent night's sleep. (smiling) Consider it a prescription from my father..
+22) 2) text: Albrecht and Dr. Drossos turn at St. Aubyn's door and go
+23) 0) text: Oliver and the General are standing at the foot of St. Aubyn's bed. Miss Wollsten stands near the head of the be looking down at the motionless figure of the consul. Albr and Dr. Drossos enters Dr. Drossos nods to the General an crosses to the bed.  While the others wait tensely, he fe the man's pulse. He shakes his head and takes hold of the blanket's edge, to pull it up over the dead man's face.
+23) 4) dialog: (pityingly) I'll make any test you want. Look.
+23) 5) text: Dr. Drossos plucks a feather from the pillow, a little cu of fluff,and holds it before St. Aubyn's mask-like face. INSERT        THE FEATHER at St. Aubyn's face. It doesn't move.
+23) 8) text: Dr. Drossos sighs. He turns and picks up a hand mirror fr the chest of drawers behind him.
+23) 9) dialog: If there is the finest breath of life it will cloud a mirror.
+23) 11) dialog: You see?
+23) 13) text: Dr. Drossos nods with approval. Being entirely devoid of sentiment, his manner is that of a teacher answering the argument of a particularly bright student.
+23) 14) dialog: Quite right. In cataleptic trance, a man may live for days with no visible sign of life. The breath suspended,the heartbeat stilled-- (looking down at St. Aubyn) But this man is dead.
+23) 15) text: Dr. Drossos turns away to replace the mirror on the chest drawers. As he does so, Oliver steps forward and starts t pull the blanket over the dead man's face. Again, Miss Wollsten stops it.
+24) 0) text: CLOSE SHOT ON closed door of St. Aubyn's room. The door o and the General starts to step into the corridor. He is suddenly motionless, obviously arrested by something he s CAMERA DRAWS ASIDE TO disclose Thea. The girl evidently i frozen in the act of trying to slip away. She starts to p her hand to her throat, but, as she is not wearing the necklace, fumbles nervously with the collar of her robe. Then, still under the General's relentless stare, she goe back to her room. At this moment, Oliver comes out of St. Aubyn's room. He looks down the corridor, then worriedly to the General. Albrecht and Dr. Drossos also come out an the four men start toward the stairs.
+26) 0) text: Morning sunlight pours in through the windows. Cathy sits near the door, crying delicately into a lace handkerchief Thea stands beside her. Thea's expression betrays grief, it is the controlled and dignified grief of the peasant w knows death as intimately as life and is equally at peace with both. Near them is Miss Wollsten, stony-faced and composed. Oliver is seated on the table, swinging his fee The General stands in the open doorway looking toward the sea. Dr. Drossos and Albrecht stand together in the cente the group.
+26) 1) dialog: We are faced with a very serious form of plague. Its first symptoms are dizziness, nausea, weakness, inability to focus the eyes or control the limbs. This is followed by acute spasms, sometimes blindness, and finally, in moat cases, death.
+26) 7) text: Oliver turns to Dr. Drossos, who nods slowly.
+26) 8) dialog: If the wind shifts, if the sirocco blows -- the hot wind from the South -- all danger will be over in twenty-four hours.
+26) 11) dialog: (patiently) The disease is transmitted by fleas and their bodies are eighty percent moisture. The hot wind literally burns them away.
+26) 14) dialog: (impatiently) They used to believe that sort of thing in the mountain villages. Some still do --
+26) 19) text: Dr. Drossos bows and Miss Wollsten crosses the room to th staircase. CLOSE SHOT. At the foot of the staircase Miss Wollsten tu with one of her curious, inimicable glances, then begins climb the stairs. MED. SHOT - on remaining group.
+26) 20) dialog: She's right. This is hardly the time to bandy old tales.
+26) 23) dialog: You're just talking nonsense.
+26) 25) text: Dr. Drossos gives a little snort of disdain.
+26) 27) dialog: (smiling wryly) Very well. I'll wager a dinner.
+32) 2) dialog: I just came to see if your prayer would entertain me as much as my medicine seems to amuse you.
+32) 5) text: Dr. Drossos steps forward, bends to pick up some twigs wh are beside the brazier and puts them on the fire.
+32) 6) dialog: (dryly) Also too late. I owe you a dinner.
+32) 10) dialog: You can have your servants prepare a dinner. That is the way I'll meet my old- familiar enemy -- Death --I have fought him before. I've won often. Now he wins. Let him come for me at my own banquet.
+33) 0) text: FULL SHOT. The little rays of oil lamps which illuminated room during the dinner have been replaced by a great cent lamp, also oil-burning. The long table is in a pool of brilliance; tongues of light from the manifold wicks of t lamp flicker into the outer dimness of the room. As the dinner is almost over, there remain on the table only bow of fruit and dates, wine glasses and the many wine jugs a bottles, some of them empty. At one end of the table sit Drossos, as host, Miss Wollsten, Albrecht and the General the opposite end, as if drawn apart by their mutual youth are Cathy, Thea and Oliver. On the stairs sits the man servant of Albrecht and his bagpipe under his arm. Out of this hairy apparatus he is coaxing folk melodies o his native hills. The woman servant, dressed in gay natio costume, waits on the table. MED. SHOT of Dr. Drossos and group at one end of the tabl Dr. Drossos refills Miss Wollsten's glass and carries the bottle to his own glass with an unsteady hand.
+33) 1) dialog: (thickly) When I was a young man, I prescribed moderation in all things. Especially wine.
+33) 2) text: Dr. Drossos fills his glass to the brim and then continue pouring, so that the bright liquid spills over onto the table. Miss Wollsten laughs softly and a little drunkenly Albrecht takes the bottle out of the doctor's hand, setti it upright again. The General smiles and picks up his win glass.
+33) 18) dialog: Thea! Come here!
+33) 20) dialog: Look at her. Warm, beautiful - alive. Drink with me, Thea -В— Drink to my old enemy, who wins at last --
+33) 21) text: As Thea comes to stand beside him, Dr. Drossos picks up Albrecht's wine glass and hands it to her. Thea obedientl drinks. In silence they watch her drain the glass, her he going back slowly. It is a beautiful, a pagan gesture.
+33) 30) dialog: (almost incoherently) Don't go. You are leaving me, you are all leaving me --
+33) 33) dialog: (with a last spurt of strength) I must meet him with laughter - with songs and laughter -- to show him I am not afraid --
+33) 34) text: With the last words, Dr. Drossos catches up his wine glas but, before he can lift it to his lips he begins to slump his chair. The echo of his final challenge dies. The Gene steps quickly to his side.
+33) 36) text: Dr. Drossos doubles up in his chair and falls limply forw across the table. His hand relaxes and the wine glass fal the wine spilling out with the doctor's life.

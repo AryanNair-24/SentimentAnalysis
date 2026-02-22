@@ -1,0 +1,11 @@
+90) 7) text: Startled, John turns to see DR. LIFSON.
+90) 8) dialog: We met briefly. Byrdie Lifson.
+90) 10) dialog: (to approaching guard) I'll bring them back myself.
+91) 1) dialog: We check your wife's blood regularly. She's been refusing her insulin. I don't want to sound dramatic, but it's just another form of suicide.
+91) 3) dialog: If she doesn't --
+240) 0) text: THE MALE NURSE re-reads the test results.     Dr. Lifson approaches, having been summoned.
+240) 1) dialog: What?
+240) 3) dialog: (scans, now concerned) Get the lab.
+242) 2) dialog: (studying bloodwork) No. Get an ambulance, take her to University. I'll meet them there.
+259) 0) text: Lara and John step out into the hall. John's eyes flick t the Nurse's Desk but he keeps walking. As they pass we no DR. LIFSON standing there with Lara's file in her hand. T Duty Nurse notices as well. It takes a second for Lifson understand what is going on. She steps out into the hall and stares after them.
+259) 1) dialog: What are you doing?

@@ -1,0 +1,29 @@
+29) 0) text: SERGEANT BENJAMIN BESSALO sits behind his desk, scanning a stack of typed pages. A tired-looking cop named McCASKE lounges in the doorway. A Christmas tree in the corner sheds needles. Through the glass window, we can see Hallenbeck and Jimmy seated outside in the squad room proper. Bessalo stops reading. Sniffs the air. Frowns:
+29) 1) dialog: Something stinks in here. (widens his eyes) My God, it's this statement! He flings the paper onto his desk. McCASKEY
+29) 3) dialog: It's shit.    Hallenbeck is hiding something.
+29) 8) dialog: I know how the bastard's mind works. Every lie has eighty percent truth to it. Guy scares me. McCaskey is staring out the window at Hallenbeck. McCASKEY
+29) 10) dialog: (smiles) Go ahead. Tell me what you see. McCASKEY
+29) 12) dialog: (nods) Yep.   That's what most people see. McCASKEY
+29) 14) dialog: Oh, yeah. There's more. (beat) A long time ago, that son of a bitch saved the President's life.
+41) 0) text: Sergeant Benjamin Bessalo is in the mood to kick things. A metal trashcan is booted across the room with a clang as he whirls, glaring at Joe Hallenbeck, who is seated before him.
+41) 4) dialog: Goddammit, this is a police matter, you son of a bitch! I'm sick and fucking tired of sweeping up your dead bodies, Joe, and the next time I see your ugly mug I'm puttin' a bullet in it. You got that? You are off the case, buddy. Is that clear? Hallenbeck stares at him.   Blows smoke.    Says nothing.
+52) 0) text: Ben Bessalo's office, to be precise. Bessalo reclines grumpily at his desk. Scanning reports. McCaskey hangs up the phone and calls across the room: McCASKEY
+52) 2) dialog: Gimmee the bad news first. McCASKEY
+52) 4) dialog: Okay, now gimme the bad news. McCASKEY
+52) 5) text: I just got a call from Hallenbeck's neighbor. Bessalo looks up, intrigued.    McCaskey continues: McCASKEY
+52) 7) dialog: Right.
+52) 11) text: Okay. So how come Hallenbeck's neighbor claims that Miller's car was parked there all night, in the same spot? Bessalo sits bolt upright.   Eyes glazed.   Wheels turnin
+52) 12) dialog: He lied.   Why did he lie...? Realization hits him like a thunderbolt.
+52) 13) dialog: Shit.   Miller was fucking his wife. McCASKEY
+52) 15) dialog: That's why the car was there, Miller was fucking Hallenbeck's wife, Hallenbeck just got back from out of town, remember? (beat) Christ, Joe wasted the bastard himself! He stabs a button on the phone.   Barks into the receiver
+52) 16) dialog: I want an A.P.B. out on Joe Hallenbeck. Now. Find him and if he resists arrest, shoot the bastard. He slams down the phone.   Stares, stricken, at McCaskey.
+52) 17) dialog: I let him go, Mick. He wasted Mike Miller and waltzed right out of my office, I let him go, Goddammit! McCASKEY
+52) 19) dialog: You wanna bet? And, with that, we promptly --
+54) 0) text: Meanwhile, back at the ranch, Jimmy is seated, shirtless, on a metal examining table. His ribs are taped. His arm in a cast. Two men loom over him, sour expressions on their faces: Sergeants McCaskey and Bessalo. Jimmy shakes his head, exasperated:
+54) 2) dialog: Let me get this straight: you're walking along, minding your own business, when two guys you never met jump you and throw you in a ditch for no particular reason. Is that it?
+54) 4) dialog: You're full of shit, kid. (beat) Tell me where Hallenbeck is.
+54) 6) dialog: We did.   Where is he?
+121) 0) text: Hallenbeck sits impassively while Bessalo paces, fuming.
+121) 1) dialog: You got a lot of questions to answer.
+121) 3) dialog: You'll probably lose your license.
+121) 5) dialog: Do you care? Hallenbeck smiles.

@@ -1,0 +1,120 @@
+17) 5) text: He will not consider otherwise. Armand sighs, stands in the shadows, and watches his father cross toward Milady's house.
+18) 0) text: Milady stands before a mirror, reaches for one of the man ivory combs that adorn her hair. As she places the comb we notice a small flower-like tattoo on her arm. She pauses to admire her beauty, then to see the image of Count de Winter, now standing behind her, his eyes dark and cold. Milady does not move from the reflecting glass, she smiles.
+18) 1) dialog: Count de Winter.
+18) 4) dialog: (eyes on the mirror)
+18) 7) dialog: And if I resist...?
+18) 9) text: I will kill you with my bare hands. The Count steps closer, close enough to touch. Milady, eyes bright with excitement, the smile still playing abou her lips, replies:
+18) 10) dialog: Well if that's the case, I'd better start packing. But first, my hair... Milady, who has been removing combs throughout, reaches for the next, and...
+19) 0) text: Armand keeps his eyes on Milady's house opposite. No sign of his father. He looks about, impatient... and steps across the street to enter.
+20) 0) text: Armand climbs a flight of stairs.    Still no sign of his father, or Milady. He calls out:
+25) 3) dialog: I was beginning to think you'd forgotten me.
+25) 11) dialog: (impressed) You did it. An alliance with Buckingham.
+25) 16) dialog: Consider it done.
+26) 0) text: D'Artagnan leaps back from the door as it opens, head down, shuffles to join the retinue of jailers as they RETURN TO VIEW. Milady, unrecognizable behind her cloak, steps into the corridor, the retinue escorts her forward. D'Artagnan falls into place, eyes down, eager for escape. Just then: a hand slams down upon his shoulder. D'Artagnan looks up into the face of Captain Rochefort.
+51) 0) text: A lonely stretch of road, illuminated by moonlight. A signpost announces: CALAI 15 LEAGUES. An exhausted HORSE CLOPS INTO VIEW, its rider half-conscious in the saddle. It is d'Artagnan. He can barely keep his eyes open. Suddenly, d'Artagnan passes out, tumbles from his saddle, and lands in the middle of the road. He opens his eyes once -- a sky filled with stars -- then closes them. We hear HORSES, and the CREAK of a CARRIAGE APPROACHING. The DRIVER brakes, and the horses are brought to a halt just short of trampling d'Artagnan. In the darkness, we can make out other shapes, rugged men on horseback, bodyguards to the carriage's passenger. Milady de Winter.
+51) 1) dialog: What is it, Henri?
+51) 3) dialog: Be careful.
+51) 7) dialog: My, what a handsome boy. Put him inside with me.
+51) 12) dialog: Welcome back.    Did you dream?
+51) 13) text: reveals the interior of a bed chamber at a roadside inn. D'Artagnan, regaining his senses, finds himself propped up in a large bed. He blinks into the face of Milady who sits at the edge. His eyes widen with recognition, faint awe.
+51) 15) dialog: Have we met?
+51) 18) dialog: This is Calais.
+51) 21) text: The ship... Tuesday at midnight... D'Artagnan leaps out of bed. Then realizes he is stark naked. Milady smiles. D'Artagnan gathers a bedsheet around him.
+51) 27) dialog: Filthy. I'm having them cleaned. Is something wrong?
+51) 30) dialog: It's Tuesday, near nine.
+51) 33) dialog: Quite sure.
+51) 34) text: D'Artagnan relaxes slightly.        Milady rises from the She wears a sky blue dressing       gown, something soft silken beneath it. D'Artagnan        reacts perceptibly. joying his discomfort, Milady       crosses the room, joi him at the window.
+51) 35) dialog: Are you in a hurry?
+51) 37) dialog: I found you in the road. Discarded. Like an unwanted kitten. Do you have a name or shall I make one up for you?
+51) 39) dialog: D'Artagnan. I like that. I am the Countess de Winter. Milady.
+51) 41) dialog: My husband's dead.
+51) 46) dialog: I have learned to live with death.
+51) 49) dialog: What...?
+51) 51) dialog: How mysterious. A handsome young man with 'important business' in the still of night. Does it involve a young lady?
+51) 53) dialog: Does it require clothes?
+51) 55) dialog: They won't be ready for at least an hour.
+51) 57) dialog: I told the  innkeeper to bring them when they  are dry. Until then, I'm afraid  you are my prisoner. Would the  prisoner care for a drink?
+51) 58) text: Milady crosses to the table, food and drink upon it. As she passes by the fire, her dressing gown seems to disap- pear, revealing a silhouette that makes d'Artagnan's heart stop.
+51) 63) text: Milady pours wine into glasses, turns to face him.      A offers a smile that dazzles and burns.
+51) 64) dialog: Good. Then we will sit by the fire, and eat and drink, and you may impress, perhaps even move me, with the story of how you came to lie unconscious, in the middle of the night, on the road to Calais. (soft seductively) I love a good adventure.
+54) 0) text: D'Artagnan and Milady face each other on a rug in front of the roaring fire. The plate of food between them is empty. They drink wine from goblets. D'Artagnan drains his cup, and stares into the burning embers. Milady speaks quietly, with seeming compassion:
+54) 1) dialog: You are sad.
+54) 3) text: Milady knows when to speak, and when to listen. She looks at d'Artagnan with gentle expression, allows him to continue. The warm room, the wine, her kindness. All conspire to loosen his tongue. D'Artagnan speaks quietly, from the heart:
+54) 8) dialog: What brings you here?
+54) 10) dialog: 'Important business.'
+54) 11) text: D'Artagnan nods. He wants to impress her. He wants her to know how brave he is. And Milady is well aware of it. She looks down, assumes a more vulnerable pose.
+54) 12) dialog: I understand. Men make bold plans in secret. And women wait... to mourn, or to celebrate the outcome. I know from experience, it's a lonely vigil.
+54) 14) dialog: (looks up; laughs lightly) I've heard that one before.
+54) 16) dialog: You are a young man. And young men are given to exaggeration. However, if you would like to entertain me with a story, I'm eager to hear it. And please, make it very brave, filled with handsome knights and beautiful ladies. I know, a dragon --
+54) 22) dialog: (alert; though d'Artagnan doesn't see it) A spy...?
+54) 24) dialog: I believe you... (beat) Aren't you afraid?
+54) 26) dialog: I knew it. I knew you were a Musketeer the moment I saw you.
+54) 28) dialog: Of course. (with sudden concern) But, d'Artagnan, if this spy was to find out you are here, your life could be in grave danger.
+54) 30) dialog: I'm dangerous. You're not afraid of me?
+54) 33) dialog: Then what am I?
+54) 38) text: Milady covers him with caresses. D'Artagnan resists slightly, but she presses closer, she will not be denied. Milady leans close, runs a fingertip along     the line o his jaw. Her dressing gown falls open at      the top, en for d'Artagnan to see her breasts as they     press again the silk beneath it. Milady speaks as her      finger tra
+54) 39) dialog: Beauty, danger. They are the same.
+54) 43) text: D'Artagnan pulls back -- just as Milady's arm arcs down toward his neck, holding a long sharp stick pin, almost a dagger, attached to an ivory comb. D'Artagnan sees it in the nick of time, parries with his free hand, knocking the dagger to the rug. Milady leaps after it, hands out- stretched. D'Artagnan follows, battles for the dagger, stunned with fear and surprise:
+54) 45) dialog: You came to Calais to stop a spy from sailing to England.
+54) 46) text: D'Artagnan nearly chokes on the knowledge. Milady is the messenger he is seeking. He grabs the dagger, rolls to the side. Milady staggers after, the shoulder of her negligee rips open. D'Artagnan sees the soft white flesh, reacts with shock, recognition -- she bears the brand of the fleur de lis. The infamous mark of the murderess. Just as Athos told it to him.      Not so long ago.
+54) 51) dialog: (crying out) Parker!!
+54) 52) text: The chamber door flies open. Henri and Parker, the Indo- Chinese bodyguard, appear. Parker faces d'Artagnan with a half-smile. He holds out his hands, both empty. And steps toward him. D'Artagnan looks at the dagger in his right hand. Then, unwilling to fight the man with an un- fair advantage, he tosses the dagger to the side, steps forward to meet him. Parker disposes of d'Artagnan with lightning speed. A series of unexpected kicks, brutally efficient blows. The young man is unfamiliar with, and no match for, the martial arts. Parker hoists d'Artagnan to his feet, dazed. Henri picks up the dagger with bad intentions. Milady straightens her dressing gown, adjusts her hair, and commands:
+54) 53) dialog: Kill him.
+54) 56) dialog: (stops Henri with a gesture) What... surprise?
+54) 58) dialog: D'Artagnan. You are young, vain, and foolish. But I do not know if you are clever.
+54) 59) text: D'Artagnan's expression reveals nothing. Except to suggest the existence of a secret he is bravely keeping. Duly deceived, though she doesn't know it, Milady changes her mind.
+54) 60) dialog: We'll take him with us.
+54) 65) dialog: (to d'Artagnan, with a nod at Parker) Parker will devise ways to convince you to share your final secret with me. It is a long voyage.
+54) 66) text: Milady's eyes show nothing but cold cruelty.
+55) 0) text: Milady emerges from her room, dressed for travel. She is followed by d'Artagnan, now clothed. He is flanked by Henri and Parker. Henri presses the blade of a knife against d'Artagnan's side.
+55) 2) text: Milady leads them down the hall. But when she reaches the landing, and looks at the tavern below... she draws back with surprise.
+55) 4) dialog: The back stairs. Hurry!
+56) 0) text: Milady's coach emerges from the carriage house, speeds away in the direction of the harbor. In the driver's seat, Henri whips the horses, driving them onward. Milady's seven bodyguards follow on horseback.
+57) 0) text: D'Artagnan and Parker  sit across from Milady. Her face betrays faint doubt,  apprehension. Emotions she is not used to feeling, let  alone displaying to the world aroun her. D'Artagnan sees   his opening... and speaks:
+57) 2) dialog: (hollow laugh)
+57) 5) dialog: He is the brother of my late husband, Lord de Winter. He blames me for de Winter's death. He thinks I murdered him.
+57) 7) dialog: What do you think? A beat. D'Artagnan studies her pale, beautiful face. Remembers Athos' tale of love and loss.
+57) 10) dialog: I know... The truth strikes home. Milady cannot conceal it. But she does not react with anger or scorn. D'Artagnan has reminded her of the one thing in the world that still touches her heart. D'Artagnan looks at her with a steady gaze. Milady cannot hold it, she turns to the carriage window.
+58) 0) text: Milady's carriage turns down a steep lane that leads to the harbor. The fog is so thick that only the masts of the schooners can be seen, poking out of the gloom. Their lanterns glow gloomily. The carriage comes to a stop.
+59) 0) text: The lights of the harbor are muted by low-hanging fog. We see the outline of a ship waiting at the pier. Henri helps Milady out of the carriage. D'Artagnan follows. Milady's bodyguards dismount, six of them. A motley bunch of sinister killers. They look around the pier, ready for any encounter. D'Artagnan takes in his surroundings.    There is a mel- ancholy air about him.
+59) 1) dialog: What's the matter, d'Artagnan? Still hoping for your friends to ride to the rescue?
+59) 3) dialog: Well. If it's any consolation, you'll soon be joining them. Milady's return to form does not surprise. Parker shoves d'Artagnan toward the fog-enshrouded ship. A name can be made out on her barnacled hull. Persephone.
+60) 6) text: Milady nods to Henri. He steps up the narrow gangplank, followed by Milady, d'Artagnan, Parker, and the six bodyguards.
+61) 4) text: Henri goes to shake the man. He grabs his arm, and the man pitches forward, falling face first on the deck. Henri jumps back in alarm. Milady and the others react.
+61) 6) text: Milady's Bodyguards rush around the deck, confront the other silent silhouettes. They, like the tall figure... are dead. The limp bodies topple at their touch. The Bodyguards shout alarm and panic:
+61) 9) text: That's when Porthos, and Aramis -- come swooping down from above like avenging angels. They swing on the ends of ropes, slicing through the air, then dropping feet first on top of Milady's Bodyguards. D'Artagnan stands open-mouthed, as his three friends draw their swords.
+61) 23) text: He winks at d'Artagnan, returns to the fray. D'Artagnan follows. The Musketeers confront Milady's evil Bodyguards in the night and fog. Athos with brutal perfection. Porthos with strange weapons and a healthy sense of the absurd. And Aramis with familiar grace and artistry -- and a marked determination to disable, not kill, his opponents. Milady views the latter with alarm. As the battle rages around her, she retreats into the shadows.
+63) 22) text: Athos turns to d'Artagnan, wonders. And at that moment, sees a figure at the gangplank, swathed in fog and diffus light. Milady. Time stops as they regard each other across the deck, the battle between.
+63) 24) text: Milady turns and runs into the night.    Athos races afte
+64) 0) text: With the speed and grace of a panther, Milady runs down the gangplank, climbs into the saddle of one of her Bodyguard's horses, and gallops off. Athos appears moments later, leaps into the saddle of another horse. And gives chase.
+65) 0) text: Milady whips her horse, drives it onward. But Athos overtakes, leaps from his saddle, takes her into his arms They fall to the ground with a crash. Milady grabs the deadly comb from her hair, grips the dagger's handle. Athos, stunned from breaking their fall, rolls to his side. Milady peers at his face, vulnerable in the half- light. And lowers the dagger. She will not kill him. Milady scrambles to her feet, runs toward a dark forest. But Athos stands and shouts:
+65) 2) text: Milady takes a halting step, then turns to face him. Athos holds his musket in a steady hand. A very long beat. Milady takes a step closer. Finally, she whispers, with love, with hate:
+65) 3) dialog: Athos.
+65) 8) dialog: A kind gentleman took pity on me.
+65) 10) dialog: No, Count. You were too proud to listen to the truth. I learned the value of lies soon after.
+65) 13) dialog: No.
+65) 15) text: Athos cocks the trigger.     Milady whispers:
+65) 16) dialog: Be kind.   And aim for my heart.
+65) 17) text: Athos' face is a mask of contradiction. He tries to pull the trigger, but it is not in him. Milady recognizes his pain with a nod. She feels it, too. Then, briefly, before she leaves him, Milady speaks softly. The past, their love, and where it led them.
+65) 18) dialog: I remember... everything.
+67) 0) text: A fire burns in the grate. Milady sits beside it in a chair, staring into the glowing embers. Their hot re- flection dances in her pale blue eyes. There is a KNOCK at the door. Armand de Winter emerges from a dark corner of the room where he has been standing guard with an impassive executioner. He crosses to the door, opens it. And Athos steps inside.
+67) 3) text: Athos nods, and steps to Milady, stands before her. Milady stares at the fire, speaks softly, her eyes on the flames.
+67) 7) dialog: (quietly sardonic) Did you come to offer me consolation?
+67) 9) text: Milady turns, looks up to face him.
+67) 10) dialog: There was a time when I would've given my life for a kind word.
+67) 12) text: Milady hears the regret in his voice, holds his gaze. Athos indicates Armand in the corner.
+67) 14) dialog: (a long beat, honest at the last) I have become... the nightmare you once thought me to be.
+67) 16) dialog: No. The memory will keep me company.
+67) 19) dialog: Yes.
+67) 21) dialog: Will you spare my life?
+67) 26) dialog: (remembering another time, another place) Society demands swift justice. (off his look) I'll take the secret to my grave.
+67) 28) text: Milady offers a half-smile, takes his hand in hers.
+67) 29) dialog: What did the world ever do for me?
+67) 30) text: HOLD ON Athos.       Milady's hand in his.   All that he feeling.
+68) 0) text: A hundred feet below, waves crash on a rocky shore. On the jagged cliff above, a black mass of trees is outlined against a stormy sky filled with copper-colored clouds, surreal in effect. A sinister procession approaches the cliff. Porthos leads Milady. She wears a simple white shift, her hair pulled back into a long braid. She looks years younger, the girl she used to be. The Executioner walks behind them. Followed by Armand de Winter, Aramis, d'Artagnan. And Athos. He watches every step. The procession stops at the cliff's edge. THUNDER RUMBLES. Lightning slashes the sky. The Executioner ties Milady's hands behind her. The Executioner removes a bright scimitar from beneath his cloak. Milady catches Athos' eye. He holds her gaze. He stares at Milady unflinchingly, as if to burn her image into his eyes, so that he might keep it there until the day he dies. Aramis reaches inside his cloak, removes the sacred priestly cloth he carries.
+68) 11) text: Milady kneels, the Executioner steps closer. The tableau silhouetted against a reddish glow on the horizon. The Executioner brushes Milady's braid from her neck, exposing the soft white skin beneath. He raises the scimitar overhead, and just as he is about to bring it down... a cry is heard, torn from the heart:
+68) 17) text: But Athos breaks free.       Milady rises to her feet. rushes to her.
+68) 22) dialog: I do.
+68) 23) text: The words he could never say, finally spoken. Milady locks eyes with him. Athos' desperate act, the pure feeling it signifies, has given her a kind of release. And the strength to face her fate.
+68) 24) dialog: The Cardinal intends to assassinate the King at his birthday celebration on Friday.
+68) 25) text: And with that, Milady reaches forward, offers a gentle kiss. Then, as Athos and the others look on, stunned, uncertain... she takes a backward step, finds the cliff's edge... and steps over it. The Executioner rushes to look after. The others follow. Except for Athos, who remains rooted in place, eyes on the distant horizon. A long silence. THUNDER RUMBLES.

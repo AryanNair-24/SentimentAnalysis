@@ -1,0 +1,31 @@
+91) 9) dialog: Mr. Speaker, welcome to the Pentagon. I'm Colonel Janowitz, I'll be taking you down to the bunker. Are these people with you?
+91) 11) dialog: Follow me.
+95) 0) text: Colonel Janowitz swipes his keycard and leads Raphelson a the others into the PENTAGON BUNKER, a bustling hi-tech Emergency Command Center.
+95) 2) dialog: At 9:17 a.m. an explosive device was detonated in the Capitol. We now believe this to have been a diversion, allowing a paramilitary team to seize control of the White House. They hold an unknown number of hostages, who may or may not include the President of the United States. We do not know their numbers, their capabilities, or their intentions.
+96) 3) dialog: Permission to speak freely? (off his nod) It's a shitshow. DC police is on scene, but FBI is trying to run it, plus Secret Service feels it should be their show since it was their building that got took.
+96) 6) dialog: You can't do that, sir. (off their looks) Posse Comitatus makes it illegal to deploy American troops on American soil.
+96) 8) dialog: Goes against a 200 year old law known as the Insurrection Act, plus the Vice President can't order it.
+96) 11) dialog: You do not hold the power of the Presidency, that is correct, sir. Make no mistake, we are ina Constitutional crisis - we have never lost a Chief Executive before. If the President were dead, that would be one thing, but missing? There's no constitutional remedy for that. Hammond's young aide WALLACE speaks up.
+96) 15) dialog: (shaking his head) There are some practical issues with that, sir - The 25th would require a majority of the Cabinet to vote that President Sawyer was unfit to hold office in absentia - something that a). They may not do, and b). May not be possible, considering we do not have eyes on the Secretaries of State, Energy, Transportation, Education, and Homeland Security.
+96) 17) dialog: That's exactly what I'm saying, sir.
+96) 21) dialog: Fayetteville, yes, sir.
+96) 23) dialog: We can have them on the ground here in forty minutes.
+96) 31) dialog: Who?
+96) 33) dialog: What are you doing?
+118) 25) dialog: Respectfully, sir, only the President can give that order-
+118) 29) dialog: They'll be here in fifteen minutes.
+172) 5) dialog: Delta's here. The doors to the Bunker open and CAMERON AND HIS LIEUTENA stride in, snapping off a salute to Raphelson.
+172) 24) dialog: I have the President of the United States on the line? They all look up at this, surprised. Then the VICE PRESIDENT's image pops up on the viewscreen.
+235) 0) text: Raphelson, Finnerty, and the others staring at the Vice President's viewscreen. No image. Just STATIC. Colonel Janowitz speaks into a phone and then hangs up.
+235) 1) dialog: (softly) We have confirmation of ground impact. Silence. Raphelson turns away. Finnerty looks for somethi to punch. No one knows what to say. Finally:
+237) 3) dialog: General Pierce is on the line, sir.
+242) 1) dialog: Birds are in the air, sir! Time to target is 15 minutes! He sets the wall clock to count it down...
+254) 0) text: Colonel Janowitz, in contact with the F-15's...
+254) 1) dialog: Six minutes to target, sir!
+257) 2) dialog: Four minutes, sir!
+261) 1) dialog: Three minutes, sir!
+268) 1) dialog: 45 seconds to target! Pilots are removing firing triggers!
+268) 3) dialog: Sir, I need a go/no go for payload delivery!
+271) 1) dialog: 10 seconds, go/no go! Raphelson closes his eyes. God forgive him.
+275) 1) dialog: We have negative impact, repeat, no weapons released on target. Raphelson opens his eyes.
+275) 3) dialog: Sir, we are getting multiple reports in now that the hostages have reached the police barricades and are saying that Castle has been retaken. I... (pause; listens) The White House is secure. The entire room BURSTS INTO CHEERS! Hugs and tears! Raphelson, stunned. Finnerty squeezes his hand. It's over

@@ -1,0 +1,293 @@
+3) 0) text: Laura sits on the sofa, in front of the television. The TV set is on off and she is not looking at it, her gaze resting somewhere in the middle of the floor. The doorbell RINGS. Laura looks up, startled. She clumsily rises to her feet, straightens her clothing, then moves to the front door and opens it. The YOUNG MAN in army uniform who Anna saw running is standing on the porch, facing away from the door, as if surveying the front yard. He is still carrying his rucksack, his back to Laura. Laura gasps, her eyes widening. The young man turns to her, smiling politely. He is very good looking, in a boyish way, with very short blond hair. This is DAVID. David takes in Laura’s expression. He frowns, concerned.
+3) 1) dialog: Mrs. Peterson? Laura blinks, swallowing.
+3) 3) dialog: My name is David, Mrs. Peterson. They shake hands, briefly.
+3) 6) dialog: Thank you, ma’am. That would be nice.
+4) 0) text: David sits at the dining room table, his rucksack on the floor next to him. His hands are folded on the table in front of him. He looks around the room with interest. From the kitchen, Laura calls out to him:
+4) 2) dialog: Maybe just some water would be nice. Laura comes into the room with a glass of ice water, which she hands to David.
+4) 3) dialog: Thank you, ma’am. David drinks the water, obviously very thirsty.
+4) 5) dialog: I ran. I needed the exercise. (off Laura’s look) From the bus station, I mean. In town.
+4) 7) dialog: I guess so. Probably about that.
+4) 9) text: Yes, ma’am. Of course, I didn’t exactly know how far outside of town you all lived when I started. The guy at the bus station who gave me directions made it sound like it was only a mile or two. David smiles ruefully.
+4) 11) dialog: I was just discharged on Wednesday. I came straight here from Fort Kennilworth.
+4) 13) dialog: Yeah. I wanted to come by sooner, but I couldn’t get leave.
+4) 15) dialog: Well, I was discharged because I was wounded. I was in a military hospital for a bit, so it wasn’t really the kind of thing I could get leave from. But don’t worry, it was just a bit of shrapnel in my back. I’m right as rain now.
+4) 17) dialog: Oh, why I’m here? Well, like I said, me and your son, Caleb, we were pretty close. I was with him when he died.
+4) 19) dialog: Yes, ma’am. And one of the things he asked was for me to check on you all. You, and your whole family here. And he wanted me to tell you that he loved you. (MORE)
+4) 22) dialog: Of course. Laura rises from her chair, exiting the room. David drinks from his glass of water.
+6) 0) text: Laura enters from the hallway, her face dry but still flushed. David is no longer in the dining room. Laura looks around. David is standing in the front room, his rucksack on the floor next to him, in front of the mantle. He is looking over the photos of Caleb, surveying each one. Laura moves into the room behind David. He turns to her.
+6) 1) dialog: That’s me. David points at the photo of the soldiers posing in front of the military truck. Laura moves up closer to look. In the photo, leaning against the tank a few feet away from the other soldiers, is a YOUNGER VERSION OF DAVID, his head shaved. He is squinting into the camera. Laura blinks, examining the photo.
+6) 3) dialog: I remember that day. David looks at the photo in silence for another second, then leans down and lifts his rucksack.
+6) 4) dialog: It wasn’t my intention to upset you, ma’am. I probably should have called first, but I don’t own a phone yet and I guess I just wasn’t thinking. I’m going to be on my way, but I’d like it if we could exchange emails or something. As David turns away, Laura reaches out and grabs his arm.
+6) 7) dialog: You’re not just saying that to be polite? Because you don’t need to be.
+6) 9) dialog: Well. Alright. INT. PETERSON HOUSE - ANNA’S ROOM - MINUTES LATER Anna lies on her bedsheets in her underwear, her eyes closed. The sound of LAUGHTER echoes in the house. Anna's eyes blink open. She looks around, puzzled.
+6) 10) text: Both David and Laura are sitting on the sofa. Laura is smiling, listing to David tell a story.
+6) 11) dialog: ---and so Caleb and me, we figure, well, that sounds more like a challenge than anything else. So that night, after he falls asleep, we kind of crept over to his cot with a tube of superglue-
+6) 13) dialog: Oh, nah, we didn’t do anything too bad to him - though we could have. Anna enters the room, wearing a short-skirted DINER UNIFORM. David immediately rises to his feet. Anna regards him with confusion.
+6) 15) dialog: I’m very pleased to meet you. Caleb told me a lot about you.
+6) 18) dialog: Yes, ma’am. I promised him I’d check in on you guys if anything happened, so, here I am.
+6) 20) dialog: Well, I’m originally from just outside of Louisville. (MORE )
+6) 22) dialog: But I was thinking maybe I’d head down to Miami or Fort Lauderdale, see if I can’t find work as a bartender or something.
+6) 24) dialog: No, ma’‘am. My folks are both gone, and that’s it for me. I didn’t have a big family like you all do.
+6) 26) dialog: Don't be. They died when I was a kid. Long time ago. I don’t remember it or nothin’.
+6) 28) dialog: I noticed a motel off the highway on the way here, so I'll likely stay there. And then I’1l be on my way tomorrow.
+6) 30) dialog: (shakes his head) I couldn’t put you all out.
+6) 33) dialog: I won’t argue. Just for tonight, though. Anna clears her throat. 11.
+6) 35) dialog: Likewise. Very nice meeting you.
+6) 39) dialog: That would be nice. Laura smiles and moves to exit.
+6) 40) dialog: Mrs. Peterson. Are you sure you’re comfortable with me staying in here?
+9) 0) text: Luke sits quietly across from David at the dining room table. They are alone in the room. Luke addresses David.
+9) 2) dialog: I did, pretty well, yeah. He wanted me to tell you he loved you. There is a short pause.
+11) 0) text: Laura and Spencer's whispered conversation is just barely audible from the dining room, the words unintelligible. David and Luke sit at the table, as before. David looks towards the hallway as if Laura and Spencer's conversation is clearly audible to him.
+11) 1) dialog: Your parents are fighting about me.
+11) 3) dialog: Huh. David considers Luke, then points up towards his own eye.
+11) 4) dialog: You look like you got hit or something. Luke reaches up self-consciously and touches his face, the side of which is red and swollen, near his eye.
+11) 6) dialog: That can happen.
+11) 9) dialog: No, thank you.
+13) 0) text: Luke is doing homework on the living room floor, papers spread in front of him. David sits cross-legged next to Luke.
+13) 2) dialog: (amused) Not at all. I was never too good at this stuff, I guess that’s why I went into the military. You don’t need to know much there. Can’t you just punch those numbers into a computer and it’1l do it for you?
+13) 4) dialog: So you're kind of smart, huh?
+13) 6) dialog: Yeah, no thanks. The front door opens and Anna enters the house. She shuts and locks the door behind her.
+13) 10) dialog: You know, I will have one.
+13) 17) dialog: Not exactly. Spencer returns, carrying two bottles of beer. David rises and takes one. Anna moves to the hallway.
+14) 0) text: Anna enters the hallway, moving towards her bedroom. Anna stops at the door to Caleb’s room. She hesitates. Spencer’s voice can be heard in the front room. David says something imperceptible in reply and Spencer laughs. Anna turns the doorknob to Caleb’s room and steps inside. 19. INT. PETERSON HOUSE - CALEB’S ROOM - NIGHT - CONTINUOUS Anna walks into Caleb’s room, leaving the door behind her open. The room appears much as before. David’s rucksack rests on the floor, mostly empty. Anna looks towards the doorway, then crouches down and peers into David’s rucksack. She reaches inside, searching its contents. The bag contains only undergarments, socks, and a tube of deodorant. Anna straightens up. Anna looks around the room, taking in Caleb’s belongings. She sighs, then sits down on the bed. Anna looks down at the pillow she is sitting on. She shifts her weight and lifts up the pillow. A polished PISTOL is beneath the pillow on Caleb's bed. Anna takes this in, then carefully puts the pillow back into place over the gun, as before. Anna starts to stand up, looking to the door. DAVID IS STANDING in the doorway to the room, WATCHING HER. Anna gasps and quickly stands, taking a step back.
+14) 1) dialog: Hey there.
+14) 3) dialog: No, it’s okay. I’m sorry to have interrupted you. Don’t mind me. David moves quietly from the doorway, towards the bathroom. Anna rapidly exits Caleb’s bedroom, heading towards her own room. INT. PETERSON HOUSE - ANNA’S ROOM —- CONTINUOUS Anna enters her bedroom, shutting and locking the door behind her. She looks around her room, breathing quickly. 20.
+15) 0) text: Spencer and David sit in front of the television, several empty beer bottles in front of them. They are watching a sports show, the volume low. Spencer’s voice is slurred.
+15) 2) dialog: Your wife seems to respect you, sir.
+15) 4) dialog: I haven't really given that much thought. Figured I'd get on a bus tomorrow, head towards Florida and start looking for work. I’ve done contracting work before, I’m sure I could find something.
+15) 6) dialog: I couldn’t impose on your hospitality any longer, sir.
+15) 8) dialog: Okay.
+15) 10) dialog: Maybe just a couple more days.
+15) 11) text: Great. Spencer finishes his beer, then looks at the bottle. David reaches for a bottle on the table and finishes it in several gulps, setting it down.
+15) 13) dialog: I guess so.
+15) 15) dialog: No, I don’t need much sleep.
+16) 0) text: Dozens of students pour out of the high school at the end of the school day. Luke slouches among them, looking at the ground. Luke glances up, then stops when he sees DAVID SEATED in the driver’s seat of Laura’s SUV at the edge of the school’s parking lot. Luke looks around, then walks over and gets into the car. 21. 22. INT. LAURA’S CAR - DAY - CONTINUOUS Luke shuts the passenger door, glancing over at David.
+16) 2) dialog: I told your mom I could pick you up from school today. That cool? Luke nods. David surveys the students exiting the school.
+16) 3) dialog: Don’t you, like, have any friends?
+16) 6) dialog: Ah. David continues looking at the kids exiting the school.
+16) 8) dialog: In a little bit.
+16) 10) dialog: You should show me who hit you yesterday.
+16) 12) dialog: Yeah. Luke meets David’s eyes, then lowers his gaze.
+16) 14) dialog: Nothing bad. 23. Luke looks at David, as if considering. He then points.
+16) 16) dialog: All of them?
+16) 18) dialog: Which is which?
+16) 21) dialog: Yes. David starts the car and drives off the parking lot, moving after Mike and Ian’s pick-up truck.
+17) 0) text: Driving Laura’s station wagon, David FOLLOWS the pick-up from a distance, letting some cars get between them. INT. LAURA’S CAR - DAY - CONTINUOUS Luke watches David drive with growing concern. David remains focused on the pick-up truck ahead of them.
+17) 2) dialog: They’re going to a bar?
+17) 4) dialog: I could use a drink. How about you?
+17) 6) dialog: I could use a drink. David steers the station wagon into the bar’s parking lot. David opens his car door, then looks back at Luke.
+17) 7) dialog: You coming?
+17) 9) dialog: Well. I’1l be inside if you change your mind. David climbs out of the car and shuts the door. Luke watches him walk to the bar through the windows.
+18) 0) text: Luke hesitantly opens the door to the dark bar. It is nearly empty, manned by a lone BARTENDER. David sits alone at a table, facing the back of the bar, drinking beer from a bottle. The only other patrons are two OLDER MEN seated at the bar and a group of FOUR HIGH SCHOOL SENIOR GUYS, including Mike, Ian and Jason, who are gathered with an equal number of GIRLS their age in two booths. David looks up as Luke enters and waves him over.
+18) 1) dialog: Luke, over here, man. 25. Luke glances over at the bartender, then makes his way to David's table, head lowered. Music blares from a jukebox in the corner. Mike, Ian and their group stare at Luke.
+18) 4) dialog: Hey. David waves the bartender over. The bartender, a man in his 30s, warily approaches their table.
+18) 6) dialog: It's fine, he’s my brother, he’s just going to chill with me. Luke gives David a quick look. Off the bartender’s reluctant gaze, David nods over at the booths where the seniors are seated.
+18) 7) dialog: Did you I.D. all of them? The bartender sighs.
+18) 9) dialog: Do you know how to make a fireball?
+18) 11) dialog: That’s my drink of choice. Let me get one of those, a coke for my brother, and I can’t help but notice that those ladies over there are drinking cheap beer. That seems like a shame. I'd like to buy them each a blowjob shot. The bartender blinks down at David. 26.
+18) 13) dialog: I am, yes.
+18) 15) dialog: (amused) Do I look like I'd like to buy something for their fellas?
+18) 17) dialog: Sure, okay, fine. Okay, I’1l buy each one of those guys there a cosmopolitan.
+18) 19) dialog: No. Blowjob shots for the ladies, and a cosmopolitan for each of the guys. David taps the $100 bill on the table, then lays another on top of it.
+18) 20) dialog: You keep the change on that.
+18) 23) dialog: Cash is easy to get. David hums to the music on the jukebox, drumming his fingers on the table. A moment later, the bartender approaches David's table, setting down drinks. 27.
+18) 25) dialog: Thanks. The bartender moves back behind the bar. David pushes his fireball shot towards Luke. Its contents are red and cloudy.
+18) 26) dialog: You want to try it?
+18) 30) dialog: Yeah. David takes a sip from the fireball. It appears to have no affect on him.
+18) 32) dialog: You get used to it. Behind Luke, the bartender crosses to the booths with a tray filled with drinks. He hands out Irish cream shots to the girls and pink martinis to the guys. The girl seated next to Ian starts laughing loudly. All of the seniors turn to look towards David, who ignores them. Luke watches them apprehensively.
+18) 34) dialog: Yeah. You said they play football? Caleb used to play for the same school?
+18) 36) dialog: But they still mess with you?
+18) 38) dialog: Why? Luke says nothing. Behind them, Ian rises, holding his cosmopolitan. He walks towards David’s table, followed by another one of the seniors, BLAIR. Luke lowers his head. Ian reaches the table, martini glass in hand. Blair moves to stand behind him. Ian regards the seated David.
+18) 40) dialog: You're welcome.
+18) 42) dialog: Ah. Maybe you could try this instead? David lightly tosses the fireball shot into Ian’s face. Ian takes a step back, blinking. Then he SCREAMS.
+18) 44) dialog: Hey, over here. David ducks back and Ian, blind, SWINGS his fist out. He HITS BLAIR in the face, knocking him to the floor. David again bursts into LAUGHTER.
+18) 45) dialog: Ha. Wow. Okay. David stops laughing. He steps forward and PUNCHES IAN IN THE NECK. Ian DROPS TO THE FLOOR. Mike and Jason are moving towards David, who turns to face them. Jason attempts to tackle David. David brings his knee up into Jason’s face, sending him flying back. Luke is on his feet, but seems to not know what to do. He is abruptly SPUN AROUND by Mike, who PUNCHES LUKE in the face, knocking him to the floor. Luke lies on the floor, dazed. Mike moves to KICK Luke, but is HIT FROM BEHIND WITH A POOL CUE by David. The stick BREAKS across Mike’s back. Mike falls to the ground next to Luke. Through Luke’s blurred vision, he can see David stomping on Mike’s KNEE, then ANKLE. BONES CRACK. Mike SCREAMS. Luke blinks, losing consciousness. Blair staggers to his feet. He grabs an empty beer bottle and swings it down at David’s head. David neatly sidesteps, pins Blair’s arm and pulls the bottle from his grasp. He then SMASHES the bottle across Blair's face, then JABS the BROKEN BOTTLE NECK into Blair's shoulder. Blair looks down, startled. BLOOD is dribbling from the bottle neck protruding from his jersey. Blair’s eyes roll up and he FAINTS, falling to the floor. David looks around the room. Luke, Blair, Jason and Mike are unconscious on the floor; Ian is sobbing underneath a table, holding his eyes. The remaining senior girls are cowering away from David in a booth. David leans down and gently SLAPS Luke’s face.
+18) 46) dialog: Hey, Luke. Wake up. 30. Luke’s eyes open.
+18) 47) dialog: Cool. David rises and approaches the bar. The bartender is holding a sawed-off POOL STICK, frozen in place behind the bar. The two old men shrink away from David.
+18) 48) dialog: You guys should get out of here. Without a word, the two old men get up and exit. David turns to the bartender, who defensively raises his pool cue. David ignores the weapon.
+18) 49) dialog: Call the police and tell them the truth: a gang of high school kids came in here and demanded you serve them drinks. You tried to I.D. them but they threatened to cause trouble. There was a fight. You didn’t really get a good look at the other guys. (considers) Maybe they were from out of town. The bartender looks at David.
+18) 50) dialog: Otherwise, I imagine you and this place could get in trouble for serving minors. I mean, this is what happens. Here. David takes two more $100 bills from his pocket and sets them down on the bar.
+18) 51) dialog: For the damages. The bartender hesitates, then lowers his pool stick. David turns and pulls Luke to his feet. They exit, David leading Luke out into the sunlight.
+19) 0) text: David pulls Laura’s SUV into the house’s garage, its automated door closing behind them. He and Luke climb out of the car. Luke winces, touching his head.
+19) 2) dialog: Yeah, you definitely have a concussion, dude. You were out. David walks to the door leading inside. Luke follows him as they enter the kitchen.
+20) 0) text: Luke and David enter the kitchen. David crosses to the freezer, gathers a handful of ice cubes and drops them into a dishcloth.
+20) 2) dialog: Why?
+20) 4) dialog: Oh. No, it’1ll be fine. I used to get them all the time.
+20) 6) dialog: Here. David hands Luke the makeshift ice pack and they walk into the front room.
+21) 0) text: Luke and David enter the front room. Laura and Anna are seated, Anna sketching in a notebook. Laura rises when she sees Luke holding the ice pack to his bruised face.
+21) 10) dialog: Yes, ma’am, he’s fine.
+21) 12) dialog: No, ma’am, no one saw. It’s just the usual high school stuff. I told him I’d teach him some self defense when he’s feeling up to it.
+21) 19) dialog: Sure, that sounds nice.
+21) 21) dialog: I’ll get ready, then.
+22) 2) dialog: I’m sorry. I wanted to shave.
+22) 4) dialog: I’m going to go get dressed.
+22) 8) dialog: I, uh, borrowed some of Caleb’s clothes. I hope you don’t mind. He was about the same size as me, and I don’t own much in the way of nice clothing.
+22) 10) dialog: You look nice.
+22) 13) dialog: I didn’t know you had a boyfriend.
+22) 15) dialog: I won’t say anything. It’s none of my business. Anna nods gratefully. She rings the DOORBELL. A moment later, KRISTEN, an attractive girl the same age as Anna, opens the front door. Kristen is wearing CAT EARS and a tail. She quickly hugs Anna, then takes in David, who nods politely at her.
+22) 18) dialog: How do you do?
+22) 21) dialog: I‘ll bring them in. Where are they?
+22) 31) dialog: I wasn’t sure where you’d want these. Back here? Kristen gives Anna an incredulous look, then quickly turns to David.
+22) 35) dialog: Sure. David takes the proffered blunt and inhales deeply.
+22) 36) dialog: Thank you. David passes the blunt back to Craig, who then pointedly offers it again to Anna, who grimaces.
+22) 44) dialog: Who are they? One of the guys, DREW, immediately locks eyes with Kristen. He strides towards her.
+22) 52) dialog: Get him out of here. The two exchange a look, then lift Drew by his arms and drag him out of the party. There is a round of APPLAUSE from the rest of the party. Craig shouts out:
+22) 54) dialog: I’m sorry about your photograph. I’1l buy you a new frame.
+22) 57) dialog: Yeah. Why?
+22) 59) dialog: No. I am.
+22) 62) dialog: No, I’m good.
+22) 64) dialog: Support us how?
+22) 66) dialog: But you wouldn’t support us by, like, enlisting? Craig looks uncomfortable.
+22) 68) dialog: (laughs ) I’m just messing with you, man.
+22) 72) dialog: Yeah, yeah. (leans forward) Could you get me a gun?
+22) 74) dialog: I’m a soldier, dude. I like guns.
+22) 76) dialog: I do. 42.
+22) 78) dialog: I’m using a burner right now. The number’s on the back. David hands the phone to Craig, who punches the number into his own phone.
+22) 82) dialog: Sure. Zeke steps in front of Anna. David watches him.
+22) 87) dialog: I’ll drive.
+22) 89) dialog: I’ll drive. You're stoned.
+22) 91) dialog: I’m bigger than you. David unlocks Anna’s car and opens the passenger door for her. Anna hesitates, then climbs inside. INT. ANNA’S CAR - NIGHT - MINUTES LATER David drives quickly, shifting gears. Anna, in the passenger seat, lights a cigarette. David glances at her.
+22) 92) dialog: Please put on your seat belt. Anna fastens her seat belt. Her CD of 1980s goth music is playing a slower song. David glances at her.
+22) 93) dialog: Do you want to talk about it?
+22) 95) dialog: Well, he’s a drug dealer.
+22) 98) dialog: Well. If he’s messing things up with you, then he’s a fool, and you don’t need to worry about it. Anna makes an incredulous noise. David looks over at her.
+22) 99) dialog: I’m serious. I mean, hell, if I'd hada girl like you back home, you better believe I wouldn’t have gone over to the Middle East to get shot at. Anna looks over at David. She smiles.
+22) 101) dialog: I like this music.
+22) 103) dialog: Can you put this song on it?
+23) 0) text: David and Anna walk down the hallway together, towards their bedrooms. They reach the door to Anna’s room first. They stand near each other in the narrow hallway.
+23) 2) dialog: Goodnight. Thank you for inviting me out.
+24) 0) text: Through the front windows of Anna’s bedroom, she is visible lounging on her bed, listening to her MUSIC loudly on her headphones. Anna shifts her position, closing her eyes. Without opening them, she reaches up over her head and TURNS OFF THE LIGHT. Anna’s room goes dark. In the room next to Anna’s, also visible through the front windows, David sits on Caleb’s bed, perfectly still. He stares out the window, into the darkness outside.
+25) 0) text: Wearing an undershirt and pajama pants, Anna walks into the kitchen and starts making herself tea. 46. Glancing outside, Anna sees David pacing in the backyard, speaking into his disposable cell phone. His voice is barely audible from inside.
+25) 1) dialog: An orthodontist? I don’t... No, I don’t need that. Fingers, yes. David turns, pacing as he speaks into the phone. Anna moves to the side of the window, out of view.
+25) 2) dialog: As soon as possible. I already feel like I’ve waited too long. Money’s no issue.
+26) 0) text: David continues speaking into the phone.
+26) 1) dialog: I understand money’s an issue for you. I just meant I have it. (pause) I can be there. I’1l keep this phone in case anything comes up and you need to reach me. Copy. David hangs up. He looks towards the house. INT. PETERSON HOUSE - ANNA’S ROOM - DAY - MINUTES LATER Anna sits on her bed, her netbook propped in front of her. A military webpage is up on the screen. Anna speaks into her cell phone.
+31) 0) text: A pick-up truck is parked inside an abandoned rock quarry. Craig stands next to the truck, along with an older man, HIGGINS, who has tattooed hands. David walks down into the quarry, appearing over its horizon, carrying his rucksack. Craig and Higgins turn at his approach.
+31) 2) dialog: Hey.
+31) 4) dialog: I parked a way’s back. I felt like a walk. I’m not late, am I? 50.
+31) 6) dialog: Great.
+31) 8) dialog: That should be good?
+31) 11) dialog: Good. Higgins unlocks an aluminum box in the rear bed of the pick-up truck, raising its lid. It is filled with FIREARMS and boxes of BULLETS.
+31) 13) dialog: Handgun.
+31) 17) dialog: Yes, sir.
+31) 19) dialog: It’s fine.
+31) 21) dialog: Oh, I’1l take all of them.
+31) 23) dialog: No. Everything. All your guns.
+31) 25) dialog: No, I’m going to kill you. Craig goes still.
+31) 48) dialog: I didn’t want to interrupt. I’m sorry to hear about your colleague.
+31) 50) dialog: Sure. I'll be right back. David exits, carrying his bags. Anna looks at her parents. Her cell phone, in her pocket, rings. Anna checks the number, then quickly exits the kitchen.
+35) 0) text: Anna looks out the windows. Behind her, out of view, David stands on the stairs, very still, watching her.
+36) 3) dialog: Okay. Anna opens the front door and quickly exits the house. David watches through the windows as Anna climbs into her car and drives away.
+38) 0) text: David and Luke sit out on the front stoop. In front of them, the two PUMPKINS have been placed on a layer of newspaper covering the concrete, along with two knives.
+38) 1) dialog: So how does this work?
+38) 3) dialog: Your parents’ knives suck.
+38) 5) dialog: That’s better.
+38) 7) dialog: This knife? Yeah.
+38) 9) dialog: (shrugs) Just in case. David resumes carving his pumpkin.
+40) 2) dialog: Do you want some advice, Luke?
+40) 4) dialog: Never let anyone pick on you. Otherwise, you'll carry it with you forever. Those guys at school, they’re bigger than you? Luke sets his jack-o’-lantern down on the kitchen counter. He looks at it.
+40) 6) dialog: Then bring a knife to school. If they take it away from you and beat you up, go to their houses at night and burn them down with their families inside. What’s the worst they can do? Luke does not look particularly convinced by this.
+40) 8) dialog: Here. David CLOSES the butterfly knife and hands it to Luke.
+40) 9) dialog: Keep it. Luke takes the knife from David. He awkwardly opens it, using both hands, and then shuts it.
+40) 11) dialog: Yeah, man, it’s yours. I’ve got others. The front door opens in the next room. Luke quickly POCKETS the knife as Anna steps inside. David looks over at her from the kitchen, smiling.
+40) 12) dialog: Hey, care to join us? Anna looks at the chair in the front room, where David's jacked is draped. She casually moves towards it.
+40) 14) dialog: They went to the store. Your mom’s going to make pumpkin pie.
+41) 0) text: Anna rapidly crosses the hallway. She opens the door to Caleb's room, then spins back into the hallway. Anna ducks back into her bedroom and shuts the door. A moment later, David enters the hallway, holding the receiver to the Petersons’ CORDLESS PHONE to his ear. David walks down the hallway. His cell phone is audible RINGING near the end of the hallway, its noise muffled. David heads towards the sound. David stops at the door to Anna’s room, listening to her muffled music. 63. INT. PETERSON HOUSE - ANNA’S ROOM - CONTINUOUS Anna stands just inside the door to her room, not moving. Silence, then Anna can hear David’s FOOTSTEPS in the hallway, moving away.
+42) 0) text: David continues walking towards the sound of his ringing cell phone. He opens the door to Caleb’s room. INT. PETERSON HOUSE - CALEB’S ROOM - NIGHT - CONTINUOUS David's cell phone is on the floor of Caleb’s room, RINGING and vibrating. David hangs up the cordless phone receiver and his cell phone stops ringing. He reaches down and picks it up off the floor, smiling mildly.
+43) 0) text: David closes the door to Caleb’s room and walks back towards the front room. INT. PETERSON HOUSE - ANNA’S ROOM - CONTINUOUS Anna moves over to her bed and sits heavily on it, exhaling. She puts her head in her hands. Anna’s cell phone RINGS, startling her. She looks it, frowns, then answers hesitantly.
+47) 19) dialog: Military intelligence for you.
+47) 21) dialog: I was part of a special forces unit when I was injured, so they should be providing a cover story to any civilians who ask about me. That’s a good thing. But I did get my dog tags back. They’re right here. David sets down the forks in his hand. He reaches into his pants pocket and hands a pair of METAL DOG TAGS to Spencer, who looks at them. They bear the name “COLLINS, DAVID ANDERSEN.”
+47) 22) dialog: I don’t like to wear them because, I don’t know. I like having them with me, though. As for my I.D., I don’t have a current license, but I’ve got my documents in my bag. Should I go...? David gestures towards Caleb’s room. Spencer shakes his head.
+47) 29) dialog: It’s okay. She’s upset. I probably should have explained the special forces thing earlier, but we’re not really supposed to talk about it.
+47) 31) dialog: Yes, please. Spencer moves towards the kitchen. INT. PETERSON HOUSE - ANNA’S ROOM - NIGHT - CONTINUOUS Anna sits on her bed, tears running down her face. Music plays on her stereo. Anna blinks, then turns on her phone and brings up the picture she took of David’s phone screen. There are five entries. One number appears three times as missed calls. Anna takes a breath.
+47) 35) dialog: Hey. David crosses the room and sits down on the floor, facing Anna. She does not move.
+47) 36) dialog: I just wanted to say how sorry I am about Craig. He seemed like a really cool guy. Anna says nothing.
+47) 37) dialog: And Zeke getting arrested... Again. I’m very sorry. Anna again says nothing. David looks around the room.
+47) 38) dialog: I know you don’t need me here in this stressful time. I’m not helping you, which is a shame, because I’d promised your brother Caleb I’d do anything I could to help your family. But just so you know, I'll be moving on in two days. So, you don’t have to put up with me much longer. Okay? Anna does not respond. David leans forward.
+47) 39) dialog: Okay?
+47) 41) dialog: Good. David leans back. He looks over at the stereo. On top of the stereo is the CD with “MIX FOR DAVID” scrawled on it. 70. David smiles, reaching for the CD.
+47) 42) dialog: Is this the CD you made me?
+47) 44) dialog: Is it done? Anna nods. David rises, holding the mix CD.
+47) 45) dialog: Thank you. I can’t wait to listen to it. Anna says nothing. David crosses to the door.
+47) 46) dialog: I’m sure you'll feel better about this whole thing soon, when you get some perspective on it. Anna does not respond. David exits the room, closing the door behind him. Anna waits a moment, then quickly moves to her door and LOCKS IT, her hands trembling. She sits back on the bed.
+49) 9) dialog: Just a second. David kneels down in front of Luke.
+49) 10) dialog: What happened?
+49) 12) dialog: Okay. Did you hurt him? Luke uncomfortably shrugs. David smiles.
+49) 13) dialog: Awesome. No problem. David rises and turns to Laura.
+49) 14) dialog: I’‘1l go in with you. David and Laura enter the principal’s office. INT. HIGH SCHOOL - PRINCIPAL’S OFFICE - DAY - CONTINUOUS Mr. Alston addresses Laura and David. Laura looks extremely upset. David appears calm.
+49) 18) dialog: What did the kid call him? Mr. Alston pauses.
+49) 20) dialog: The kid, you know, what’s-his-name that Luke hit in the face. What did he call Luke?
+49) 22) dialog: Did he call him a faggot? Mr. Alston looks uncomfortable.
+49) 24) dialog: So that makes it a hate crime. Mr. Alston is silent for a moment.
+49) 26) dialog: A hate crime. And I’d like to know how many others have been perpetrated against her son under your watch. A gay student targeted with physical violence finally defends himself, and you're... what? Suspending him?
+49) 28) dialog: No. You couldn't. I’1l be interested to see what the board thinks of you when this is front of the entire country. Not to mention our lawyers. (MORE)
+49) 30) dialog: (to Laura) Do you want to sue them? Laura is totally frozen.
+49) 32) dialog: (to Mr. Alston) We’re suing you and the school board. David rises to his feet, pulling Laura with him. Mr. Alston addresses them desperately.
+49) 34) dialog: For how long?
+49) 36) dialog: That seems fair.
+49) 38) dialog: We’ll agree to that. But I do not want to hear anything further about this young man being harassed. We understand each other?
+49) 40) dialog: I’m a friend of the family. Good day. 77. David exits, pulling Laura with him out of the principal's office.
+50) 0) text: David and Laura walk up to Luke, who is still seated miserably in the secretary's office. David points at him.
+50) 1) dialog: After school detention for a month.
+50) 3) dialog: Yeah. David holds out his palm. Luke hesitates, then slaps it. David turns the slap into a quick fist bump.
+50) 4) dialog: See you later. As David turns to leave, Luke suddenly rises to his feet.
+50) 6) dialog: Okay. Luke glances over at Laura, who still looks somewhat dazed. David turns to Laura.
+50) 7) dialog: I’m going to step out into the hall with Luke for a moment, if that’s okay.
+51) 0) text: David and Luke speak quietly, leaning up against a row of lockers in the deserted hallway. 78.
+51) 2) dialog: Anna told you all this?
+51) 4) dialog: Do you think I killed Craig?
+51) 6) dialog: Yeah, why would I need a plastic surgeon?
+51) 9) dialog: That’s an interesting theory.
+51) 12) dialog: Why not?
+51) 15) dialog: Yeah. Of course we are. Luke smiles.
+51) 17) dialog: Did Anna tell anyone else about this?
+51) 19) dialog: Okay. Thank you. David walks back towards the office, his face blank.
+52) 0) text: David drives Laura’s SUV, with her in the passenger seat. He is frowning slightly. Laura stares straight ahead, through the windshield.
+52) 2) dialog: (distracted) Oh, no problem.
+52) 5) dialog: Yeah. Sounds like a solid plan.
+52) 7) dialog: Really, Mrs. Peterson. It’s no problem. They continue to drive in silence.
+53) 0) text: Laura, a clothespin held between her lips, hangs a white sheet out on a clothesline. Several more sheets and articles of clothing are already hung. David stands beside Laura, holding a laundry basket. He hands her a towel, the last item in the basket.
+53) 1) dialog: I’ll go get the rest.
+55) 0) text: One of the M.P.s spins away from the open trunk of one of the SUVs, holding an M249 MACHINE GUN. He BRACES IT against the short WALL surrounding the Peterson’s home. INT. PETERSON HOUSE - CALEB’S ROOM - DAY - CONTINUOUS David drops the rifle and grabs his DUFFEL BAG. He turns and RUNS out of the bedroom, entering the hallway.
+56) 0) text: David runs into the hallway, moving to pass the open doorway to Anna’s bedroom. As he does so, the window in Anna’s bedroom SHATTERS with GUNSHOTS. 84.
+57) 0) text: Major Carver delivers covering fire through Anna's bedroom window while two of the M.P.s move to either side of the window. The remaining gunner M.P. loads an AMMUNITION BELT into the M249. Major Carver pauses in his fire, nodding to the two M.P.s at the house. One of the M.P.s steps into the window. INT. PETERSON HOUSE - ANNA’S ROOM - DAY - CONTINUOUS The M.P. climbs in through Anna’s window, his partner remaining outside, gun at the ready. The M.P. steps into Anna’s room, looking around. The room is SILENT except for debris and broken glass occasionally dropping to the floor. The M.P. holds up his hand and gestures forward, indicating for his partner to follow him inside. The second M.P. steps in through the window as the first M.P. shifts forward. There is the BOOM of a SHOTGUN BLAST and the first M.P.’s ankle EXPLODES. He crumples to the floor with a SCREAM and is promptly SHOT IN THE FACE, silencing him. The second M.P. pivots and opens fire with his automatic rifle, SPRAYING ANNA’S BED with BULLETS. As he does so, David SLIDES OUT from under the bed on his back, stopping right at the M.P.’s feet. David is aiming a PUMP-ACTION SHOTGUN UP at the M.P. David PULLS THE TRIGGER, hitting the M.P. in the side. The force of the blast lifts the M.P. off his feet, knocking him back OUT THE WINDOW.
+59) 0) text: David crawls from Anna’s room as bullets DESTROY its door, knocking it off its hinges. As David makes his way down the hallway in a MILITARY LOW CRAWL, 5.7mm BULLETS SLAM THROUGH THE WALL above him, moving in a line towards David as he quickly moves forward ON HIS ELBOWS. Each slug BURSTS THROUGH the wall just over David as he crawls forward, filling the air behind him with DUST AND DEBRIS.
+60) 0) text: The M.P. manning the M249 SWIVELS THE GUN to follow David's path in the house, PUMMELING THE FRONT of the house with BULLETS. Spent bullet casings spill out onto the ground around him. The gun abruptly runs out of bullets, its BELT reaching its end.
+61) 0) text: David rises and runs through the front room, towards the kitchen, still carrying his duffel bag. INT. PETERSON HOUSE - KITCHEN - DAY -— CONTINUOUS David hits the kitchen floor, skidding to a stop near Laura, who is crouched, the cordless phone in her hands, dialing a number. David glances at Laura, then spins and yanks opens a drawer next to the kitchen sink. He pulls out a KNIFE, then snatches the phone from her hands, SHUTTING IT OFF.
+61) 1) dialog: No. Laura stares at David. She is trembling.
+62) 0) text: The gunner M.P. RELOADS the smoking machine gun, chambering in another belt of ammunition. The gunner looks questioningly to Major Carver, who is watching the house intently. Major Carver holds up one hand, indicating for the gunner to wait. INT. PETERSON HOUSE - KITCHEN - DAY -— CONTINUOUS David slowly rises, peering out the kitchen window into the side yard. It is empty. He crouches back down next to Laura.
+62) 1) dialog: I really am sorry about this, Mrs. Peterson. I’m afraid I haven’t been fully honest with you. Laura takes this in, watching David. David looks down at the knife in his hand.
+62) 3) dialog: It would take too long to explain. This is not what I wanted. I wanted to help. I considered it my mission to assist you all while I was here. There were just... too many complications. Laura is staring at David, her face streaked with tears.
+62) 5) dialog: They are, yes. If it was up to them, they’d keep me in a prison cell forever. I can’t have that. Laura takes this in. She swallows, moving away from David just slightly. He watches this. At that moment, Major Carver SHOUTS FROM OUTSIDE:
+62) 8) dialog: I did. And I can tell you, he would understand what I have to do here. David looks over at Laura. His expression is blank. A look of realization comes into Laura’s eyes. She quickly turns from David, SCREAMING:
+62) 10) dialog: I’m sorry. Laura exhales, DYING. She sits back on the kitchen floor, her back against the dishwasher. David looks at Laura’s body for a moment. He then rises to his feet.
+64) 0) text: The gunner M.P. waits, holding the smoking M249 ready to fire. He scans the front of the house. The next instant, Laura’s SUV SMASHES OUT THROUGH THE GARAGE DOOR behind the gunner M.P., the car in reverse, its tires SCREECHING on the garage’s concrete floor. The garage door SHATTERS from the impact. The SUV, DRIVEN BY DAVID, SPINS BACK in the gravel driveway, its tires kicking up dirt, then LURCHES FORWARD. The gunner M.P. scrambles, trying to pivot the heavy M249 machine gun around as David FIRES a PISTOL at him THROUGH THE SUV WINDOW. David SHOOTS the gunner M.P. in the head. The gunner falls back over the wall, landing in the front yard, dead.
+65) 0) text: David stomps on the gas pedal, driving forward on the Peterson’s driveway with one hand on the steering wheel. With his other hand, he POINTS the PISTOL out the driver’s side window, shifting his aim to the military SUVs. Two of the TIRES on both SUVs BURST, David hitting the two visible tires on each vehicle as he steers past them. David tosses the pistol into the passenger seat, puts both hands on the steering wheel, and ACCELERATES down the driveway. Through the back windshield, Major Carver is visible running from he house, AIMING A PISTOL at David. 89. Major Carver fires as David turns the vehicle down the driveway. The back window to the SUV EXPLODES just as David again hits the gas. David pulls the SUV out onto the road, DUCKING DOWN.
+68) 0) text: The SUV comes to a stop, its front end crushing the front corner of Spencer's car. Smoke billows out. 90. David looks out through the cracked windshield, then kicks open his bent door, climbing out.
+69) 0) text: David walks around the SUV, to Spencer’s car. Spencer sits in the front seat, dazed. He is bleeding from a cut on his forehead. Spencer looks out his broken driver’s side window at David as David approaches.
+69) 2) dialog: I’m very sorry about this, sir. David reaches in through the window and grabs onto Spencer's head with both hands. He TWISTS Spencer’s head abruptly to the side, BREAKING HIS NECK. David lets Spencer’s head fall forward, onto his car's deflating air bag. David straightens up, looking around. Both of the cars are wrecked, their front ends caved in. David sighs and goes to the passenger side of the SUV. He opens its door and removes his rucksack. David then takes off into the fields, RUNNING.
+70) 0) text: Major Carver slowly drives the lurching SUV down the country road in pursuit of David. In the distance ahead of him, the wreck of Laura and Spencer's cars is visible. Another car has stopped near the crashed vehicles, its emergency lights blinking. Major Carver frowns, driving towards the accident.
+73) 0) text: Major Carver holds Anna’s door open for her. She climbs into the passenger side of the vehicle. He then gets in, starts the car and drives out of the parking lot. A few seconds later, another car drives into the parking lot. David is at the steering wheel. He brings the car to a stop in the middle of the parking lot. David climbs out of the new car. The inside of its windshield is SPLATTERED WITH BLOOD, but it is otherwise empty. David walks towards the diner.
+74) 0) text: David opens the door and walks into the diner. He looks around, surveying the diner’s few patrons. Kristen, seeing David, cautiously moves from behind the counter and crosses to him. She flashes a nervous smile.
+74) 2) dialog: Hi. Is Anna working? Kristen hesitates. David steps closer to her, his smile friendly and charming. 93.
+74) 4) dialog: Oh yeah? Where was she going? Kristen takes a hesitant step away from David.
+74) 6) dialog: To pick up Luke? Kristen says nothing, staring at David. David sighs, the smile dropping from his face.
+74) 7) dialog: Never mind. David pulls a REVOLVER from his pocket and SHOOTS Kristen IN THE CHEST. Patrons scream as Kristen’s body falls to the floor. David turns away and walks towards the exit. As he does so, he removes the GRENADE he took from Higgins from his pocket. David PULLS THE PIN and tosses the grenade over his shoulder, to the floor. David exits the diner, walking towards the car he was driving. SCREAMING is audible inside the diner, then the GRENADE EXPLODES. The diner’s windows SHATTER OUTWARDS. David opens his car door. The diner is silent, smoke billowing from its shattered windows. A CAR ALARM is now BEEPING in the parking lot. David gets into the car and pulls out of the parking lot. INT. ELDERLY MAN’S CAR - DAY - CONTINUOUS Major Carver drives the car down the street, Anna in the passenger seat. He is speaking into his cell phone.
+79) 6) dialog: Hello, sir. Major Carver quickly raises his gun and FIRES. The MIRROR in front of Major Carver SHATTERS, David's reflection cracking into shards just as it quickly MOVES. Major Carver spins quickly around to see David RUNNING TOWARDS HIM, down the short corridor. Major Carver aims his gun at David and FIRES as David moves to one side in an evasive pattern, CLOSING THE DISTANCE between them. The BULLET HITS David in the side, blood bursting from his wound. He does not appear to notice this. The Major tries to shoot David again, FIRING just as David moves to the side of his gun arm. The bullet hits another mirror, BREAKING IT. David SLICES OPEN the Major’s wrist with the box cutter, drawing the BLADE UP TOWARDS HIS ELBOW. The Major gasps, grabbing at David, dropping his gun. Blood POURS out from his arm as he SHOVES David away. 102.
+81) 2) dialog: You’re going to bleed out in about a minute. Maybe two. Major Carver says nothing. He begins CRAWLING FORWARD through the fog, towards the entrance to the maze. David WATCHES this, then leans down and picks up the Major’s gun from the floor. The Major continues crawling away from David, creating a thick trail of arterial blood on the floor that is visible as the fog wafts around him.
+81) 3) dialog: You shouldn’t have followed me. Major Carver continues crawling away from David, on his elbows, seemingly focused on some distant goal. He collapses at the entrance to the mirror maze.
+81) 4) dialog: I don’t know what you expected. Major Carver reaches forward with his uninjured arm, then he goes still. His eyes slowly close as the fog pools around him on the floor. David looks down at Major Carver's corpse. He considers the gun in his hand, then sets it down in the growing pool of blood around Major Carver's body. David calmly turns and walks towards the dance floor, leaving the Major’s gun next to his body. 103. INT. MAPLEWOOD BARN - ENTRY MAZE - FIRST ROOM -—
+84) 0) text: Walking across the foggy dance floor, David hears the electronic SCREAM from the black maze. He smiles slightly, walking forward, holding the bloody box cutter. 104.
+85) 10) dialog: I’m really sorry about this, guys. David turns another corner. A scarecrow leans against one wall of this corridor. David ignores it, calling out.
+85) 11) dialog: I tried to think of another way to do it. Any other solution. Hidden behind the barrels, Luke goes quiet. David's FOOTSTEPS are audible near him. FAKE LIGHTNING FLASHES from a source overhead. Moving carefully, Luke peers out between the barrels. As Luke watches, David steps into the chamber, looking around. David moves forward, holding the BOX CUTTER. David slowly WALKS PAST LUKE’s hiding place, SCRAPING the BLADE against a chain link fence that lines the corridor. He continues speaking as he MOVES AWAY. 106.
+85) 12) dialog: Are you guys hiding? There’s no point. I locked the back door. I have to find you. Luke goes completely still as David passes him, barely breathing. He watches as David moves away from him, nearing the chamber’s exit. David comes to a stop at the chamber’s exit. He looks around, then goes perfectly still, listening. Luke silently reaches into his pocket and pulls out the BUTTERFLY KNIFE David gave him. Luke holds it in one trembling hand, closed, his fingers ready to open it.
+85) 13) dialog: Come on. Where are you? (pause) Luke? Come on out, buddy. I’m not going to hurt you. Inside the hiding space, Luke shifts his weight slightly, clutching the knife. David SPINS AROUND, STARING at Luke’s hiding space. To Luke, it appears as if David is staring directly at him, but from David’s perspective, he can only see the barrels and the dummy. David’s eyes narrow, peering at the hiding space. Luke holds his breath. His hands shake slightly. David takes a step forward, towards the stack of barrels. He holds the box cutter out in front of him. A CRASHING sound comes from the other side of the barn, that of a MIRROR SHATTERING. David MOVES with unnatural speed, immediately SPINNING and running back out of the chamber, towards the maze’s dance floor exit. As soon as David is gone, Luke EXHALES, gasping.
+86) 0) text: David RUNS out of the dark maze, racing across the dance floor, towards the mirror maze. Thick, pale fog shifts across the dance floor, moved by David's speed. 107. As David exits the dance floor, the song on the CD that is playing ENDS, segueing to another GOTH SONG.
+87) 0) text: David runs into the mirror maze, FOG FLOWING IN after him. He comes to a stop at its entrance, standing by Major Carver's corpse. Looking around, David can only see his reflections looking back at him, refracted by the broken glass of one of the mirrors in the corridor. David looks down and, with his foot, shifts around the FOG that covers the floor, revealing the pool of blood that surrounds Major Carver. Major Carver's GUN IS MISSING. David smiles slightly.
+87) 1) dialog: Hmm. As the fog shifts back, David's eyes narrow. He kicks at the fog again. It parts, revealing the corridor floor. BLOODY FOOTPRINTS, from Anna’s sneakers, lead away from Major Carver's body, back towards the dance floor. David smiles. Crouching slightly, the box cutter in front of him, David moves silently, shifting the fog in front of him with his feet, following the bloody footsteps. David stops at the dance floor entrance, looking around. The fog is thick, covering the dance floor, illuminated in swirling spots by the spinning mirror ball. David kicks at the fog in front of him. It parts, revealing ANNA’S SNEAKERS, which rest on the dance floor directly in front of David. David looks up. Anna is STANDING BEHIND HIM in the mirrored corridor, aiming Major Carver's pistol at his back. Her feet are BARE.
+87) 3) dialog: I did, yes. In a sudden movement, David SPINS AROUND. ANNA FIRES. 108. The bullet catches David IN THE CHEST, knocking him back onto the dance floor.
+88) 0) text: The fog parts as David falls heavily to the floor. He does not move. Anna steps from the mirror maze, the gun in her hand aimed down at David. The fog shifts back in, OBSCURING DAVID from view. Anna hesitates, then steps forward, WAVING her free hand in front of her, WAFTING the fog from her path. David is NO LONGER ON THE FLOOR in front of her. Anna spins around and is STABBED IN THE LEG with the box cutter BLADE. It tears into her flesh through her tights. She falls to the floor, YELLING in pain. David is crouched in the fog, the front of his shirt soaked with his BLOOD. He grins at Anna, his teeth bloody, then LUNGES FORWARD at her. Anna AIMS THE PISTOL at David. David KNOCKS IT ASIDE, gripping Anna’s wrist as she FIRES. The bullet hits the GRIM REAPER dummy in the corner of the room, knocking it over. It falls forward, onto a bale of HAY. Its LANTERN sends FLAMES out onto the hay. David WRENCHES the pistol from Anna’s grasp. It goes skittering across the floor, disappearing into the fog. David reaches out and GRABS Anna’s NECK with both hands. He tightens his grip, CHOKING HER. They struggle, both of them crouched in the fog on the dance floor, MUSIC BLARING. Anna CLAWS at David's hands as he compresses the arteries in her neck. She struggles, going to her knees, frantically trying to pull back his fingers. David exhales with exertion. Behind him, the bale of HAY is STARTING TO BURN, the flames filling the fog around them with FLICKERING LIGHT that illuminates David’s face.
+88) 1) dialog: Stop it. It’ll be over in just a second. 109. Anna stares up at David, her eyes glassy from lack of oxygen. She continues to try to pull away his fingers, but without strength, pawing desperately at his hands. David regards Anna calmly, continuing to strangle her. Anna’s hands drop to her sides. Her head slumps forward. A KNIFE BLADE STABS into David’s back, then is WRENCHED BACK OUT. David turns around, releasing Anna, who falls to the dance floor, COUGHING and sucking in air. LUKE is standing directly in front of David, holding the BLOODY butterfly knife in his hand. He stares at David tearfully, shaking. David coughs, BLOOD flecking his lips. He holds out his hands.
+88) 2) dialog: Hey. Luke- Luke STEPS FORWARD AND STABS DAVID in the chest. David stumbles back, the knife sticking out from his chest. He hits the wall near the fog machine and slides down it, smearing it with blood. David sprawls on the floor, his back to the wall, blood flowing from his multiple wounds. He swallows, looking down at the knife in his chest, then looks up at Luke, his eyes half open.
+88) 3) dialog: Hey... Luke stares at David.
+88) 4) dialog: You did... You did the right thing. I don’t blame you. Don’t... feel bad. David smiles slightly at Luke, then looks over at Anna, who is still crouched on the floor. David opens his bloody mouth, as if trying to say something to Anna, then his eyes close. David exhales and GOES STILL. Luke stares at David, then quickly reaches down to help Anna to her feet. The FLAMES are building behind them, igniting a curtain covering the wall. 110. Anna leans against Luke. When she speaks, her voice is raspy.

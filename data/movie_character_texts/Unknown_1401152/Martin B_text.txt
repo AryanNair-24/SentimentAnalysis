@@ -1,0 +1,365 @@
+3) 0) text: The couple. Dr. Martin Harris and Elizabeth Harris. WIDER German IMMIGRATION OFFICER glances up at MARTIN and LIZ. CHUNK! KA-CHUNK! Stamps both passports, swipes the bar codes over a scanner, hands them back. Martin slips his i a leather briefcase.
+4) 0) text: Raining. A melee of travelers and vehicles. Liz beside hi Martin wheels a baggage cart through the crush. An ATTEND ushers them toward a waiting cab and DRIVER... a CRASH of THUNDER -- the rain suddenly triples in strength. A DELUGE. The taxi driver hustles Martin and Li towards his car. He shields his head with a newspaper, piling their bags into the trunk, cursing. Martin sets down his case, moves to help the driver...
+4) 9) dialog: I'll do this. You check in. Liz pecks his cheek, gets out. Martin leans forward.
+4) 10) dialog: How much do we owe you?
+6) 2) dialog: No, this is our first visit to Berlin. We're -- -- he stops short, staring at their bags, stacked on the luggage cart. He turns, tracks the their taxi, already pulling out of the drive...
+7) 13) dialog: Tegel airport. Arrivals. Quick. The driver pulls out into traffic. The rain still heavy. Martin stares out at the wet city. Eyes track as the shad columns of the Brandenburg Gate pass by. He lets himself relax a little, enjoying this moment of forced calm. He catches sight of the driver in the rear-view. Young, female, shortish hair. Tomboy cute. Smart eyes, older tha her years. Layers of clothing. GINA. She glances into the mirror, catches Martin watching her.
+7) 15) dialog: .I wouldn't know. First time.
+7) 25) dialog: I think you missed... He stops, smiles as he realizes she's navigated around a large construction back-up, saving them time.
+7) 27) dialog: What do you do, when you're not...? She laughs. He smiles, nods. Okay, dumb thing to say.
+7) 28) dialog: Sorry, I didn't mean anything --
+8) 14) dialog: I... I don't... speak German...
+8) 16) dialog: . American... A beat. Farge signals the Nurse to come in. Speaks to him slowly and clearly in English:
+8) 26) dialog: Martin... Harris. Doctor... Martin Harris... Farge exchanges a look with the nurse. To Martin...
+8) 29) dialog: My wife.. ?
+8) 32) dialog: Thanksgiving... but my wife... she's in Berlin with me. Where is she? Why isn't she here?
+8) 34) dialog: Oh, Jesus... Liz doesn't know... She'll... she'll be worried sick.
+8) 43) dialog: Yes... yes, she does... it's... I can't remember... His voice trails off. A long beat. Farge asks gently:
+8) 45) dialog: Thanksgiving. You told me that. I remember... almost everything. But I don't know how I got here. Another beat. He shakes his head. Scared...
+8) 48) dialog: Yes, yes... okay.
+9) 0) text: The light outside greying into dusk. On the TV, a German chef showing how Americans prepare Thanksgiving dinner. T NURSE comes in; starts to makes a note in Martin's chart.
+9) 1) dialog: My wife...? Meine Frau... ? Beat. The nurse shakes her head, apologetic. Martin watches a FAMILY, a wife and children, pass his do visiting another patient. He turns his head, stares at his belongings...
+9) 9) dialog: .She gave it to me, our anniversary. The Nurse smiles, shakes her head, not understanding. Martin sets the watch down, picks up the little blue book beside the watch -- 'Horticus' -- the classic botanical reference. He flicks through it, reads the handwritten inscription: "For Martin, that he may discover the worlds inside..." A distant smile...
+9) 12) dialog: Hotel Imperial... I'm here for the Forum...
+11) 0) text: Martin fully dressed. Farge has just hung up the phone, trying to reason with him.
+11) 2) dialog: Doctor, I've been gone for four days. My wife is out there, in a city she doesn't know. She must be terrified... I need to find her before --
+11) 4) dialog: Yes, fine, but look, I know her. She's looking for me. You're married, aren't you? What would you do? Farge tracks his own wedding band. A long beat. He sighs. Not happy about this at all.
+12) 0) text: A Taxi pulls up. Familiar biotechnology forum banner. Martin gets out, strong Deja Vu. Trying to orient.
+13) 0) text: Eyes peeled for a possible glimpse of Liz, Martin heads f elevators. HOTEL SECURITY is everywhere. An entrance to a ballroom is flanked by guards, checking IDs and invitatio
+14) 0) text: DING. Martin steps out into carpeted silence, makes his w down the hall to the 'Eisenhower Suite.' About to knock w he sees the door is ajar. A beat. Martin pushes it open..
+14) 1) dialog: .Liz?
+15) 0) text: . hallway leads into the spacious sitting room. No one there. Draped over a chair, Martin recognizes Liz's jacke Martin smiles, blinks against tears, he's home. Sound of MOVEMENT from the BEDROOM DOOR...
+15) 1) dialog: Liz! I'm here, I... A HOTEL MAID appears from the bedroom door. Startled as s sees Martin...
+15) 2) dialog: My wife... Meine Frau... I'm looking for Mrs. Harris... She suddenly gets him... nodding, pointing down.
+16) 2) dialog: No... I mean yes... Distracted, still looking at passing faces...
+16) 3) dialog: I don't have it with me. My name's Harris, Dr. Martin Harris. I'm on the list. My wife is Elizabeth Harris.
+16) 12) dialog: I'm trying to find her. I've been in the hospital. As the guard checks a screen, a crop-haired man in a chea suit nearby tracks them: HERR STRAUSS, head of hotel security. He approaches, also checks the screen as the gu speaks to him quietly in German.
+16) 14) dialog: I've already told this gentleman, I've been in the hospital. I was in an accident... Martin sees someone through the crowd...
+16) 16) dialog: Professor Bressler! Words lost in the noise. Martin pushes toward him. But:
+16) 18) dialog: That's Professor Bressler, right there. He knows me, he can confirm who I am.
+16) 20) dialog: No, I'm done being patient... Martin stops short. Staring past them:
+16) 21) dialog: That's her, that's my wife. Over there. By the buffet table.
+16) 30) dialog: Seeing her. The look on his face. Processing... an overwhelming mixture of confusion and relief.
+16) 31) dialog: That's her. That's Liz, my wife. Strauss stares at him blankly. Martin starts to lose it.
+16) 32) dialog: Look I have been missing for four days and she has no idea what happened to me! So you need to take me to her, right now. Heads are turning. A beat. Herr Strauss mutters to the guard, then beckons Martin to accompany him inside.
+16) 35) dialog: Liz... Liz turns fully. That beauty. A flash of surprise as she sees Martin. His clothes. The suture on his head.
+16) 36) dialog: Oh, Jesus Liz, I -- Moving in to embrace her... abruptly she steps away from a flustered look of confusion on her face. Beat.
+16) 37) dialog: Liz, I... I was in an accident. I was in the hospital, in a coma I'm so sorry, they didn't know who I was ---
+16) 46) dialog: Liz...? Please. It's me.
+16) 48) dialog: It's me. Martin. Your husband. Liz half smiles, glances around. Is this a joke? To the security guard, flustered:
+16) 50) dialog: 
+16) 53) dialog: Last time I looked... He checks his name tag. There it is: 'Dr Martin Harris.'
+16) 55) dialog: Is this some kind of a joke?
+16) 57) dialog: -- because it really isn't funny.
+16) 59) dialog: Do you have any idea what I've been through?
+16) 68) dialog: I've been in the hospital for four days! Where were you? Were you even trying to find me --?! Moment's strained silence. Strauss unsure what to do, signaling a guard. Martin B steps in...
+16) 69) dialog: Look, You seem like you've had an accident, or perhaps --
+16) 70) dialog: -- who the hell are you!?
+16) 71) dialog: Okay, okay. Can you please just get him out of here? Martin rounds on Martin B. Jabs a finger.
+16) 72) dialog: You. Whatever you think you're doing, you need to stop it.
+16) 74) dialog: Get out of my way --! Guard GRABS Martin's shoulder. Martin shakes him off. Gua grabs him again. Martin elbows him. A scuffle.
+16) 75) dialog: Liz --! Please... . Martin's hauled back... away from Liz.
+16) 77) dialog: (loud, sardonic) Great! That's the first good idea anyone's had. Call the police. Call the God damn Army!
+16) 86) dialog: (to Liz, serious) It's not funny. I was hurt... Liz just stares at him, afraid, anchored to Martin B's ar
+17) 0) text: Martin rocks in a chair; restless, hands knotted. A FEMAL DETECTIVE watches him. An OLDER DETECTIVE is on the phone Strauss sits near him, studying him, while a TECHNICIAN f forwards 4-PANE video of the hotel reception area, the dr in front of the hotel...
+17) 1) dialog: There! Right there! ON THE VIDEO: Slowing to real-time. Liz, arriving at reception, speaking with the Receptionist, gesturing outs
+17) 2) dialog: That's Liz, and I... I must have been outside, I... I can't remember. The video plays on. Liz thanks the receptionist, leaves.
+17) 5) dialog: He's not Martin Harris. I am Martin Harris. The man downstairs is pretending to be me.
+17) 14) dialog: He's forcing her... he must have--
+17) 16) dialog: This... this is insane. He stares at their faces. He calms himself, trying to get grip. A memory resurfacing...
+17) 17) dialog: My lab number... at Dartmouth... Call my assistant, she can verify who I am. Call her right now... He picks up a pad, scribbles down the number. Beat. The female detective picks up the phone, dials. She switches speaker. RINGING TONE. CLICK. A recorded message...
+17) 19) dialog: it's Thanksgiving... no one's going to be there till Monday... (racking his brain) Rod... Rodney Cole... he's a colleague. A friend. I know his number... 603-389-4457... Female detective dutifully dials the number. RINGING agai CLICK of a machine. Then a jovial male voice:
+17) 22) dialog: Professor Bressler, talk to him. He's why I'm in Berlin.
+17) 31) dialog: But it has!... That man has taken everything from me, don't you see? You have to arrest him...
+17) 34) dialog: 
+17) 38) dialog: 
+17) 48) dialog: I told you, I was in an accident. I lost... I lost all my -- Wait, what are you doing...? The Female Detective listens to the radio response, nods the Older Man who checks in with Strauss.
+17) 49) dialog: Oh God... You're going to arrest me. You're going to --
+17) 51) dialog: (low, pained) I'm sorry... you're probably right. Faces look over, interested.
+17) 52) dialog: I... the accident. I haven't been remembering things, very well. Perhaps this is just... perhaps I'm confused. Martin remembers something, fumbles in his jacket and produces Farge's card.
+17) 53) dialog: This is my doctor, at the hospital. He warned me this might happen. I should go back there. I'm really embarrassed... Strauss LEANS in, half convinced.
+17) 55) dialog: I... I don't know.
+17) 65) dialog: Please, I won't be any more trouble. You can call the doctor. Please.
+18) 0) text: Martin in a humiliated daze as TWO HOTEL GUARDS escort hi out of a service entrance. Dirty pavement, a few bellhops smoke in the cold by a propped-open door. The guards move Martin along, out towards the hotel taxi stand.
+19) 0) text: Martin climbs into the back seat. One of the guards hands Dr. Farge's business card to the driver, speaks to him in German. Door slams, cab starts to move.
+19) 2) dialog: His gaze FIXED on them as the cab starts to move again...
+19) 3) dialog: Wait! Stop! I've changed my mind... Martin thrusts a few bills forward, steps out...
+20) 0) text: SCRRECH! A large brown Range Rover locks up tires as Mart steps out in front of it. A brief moment, Martin staring into the tinted front glass... can't make out the driver. He holds up his hand, apologizing, makes his way to the street. weaving back through pedestrians, eyes fixed on t bar... FREEZES as he sees them.
+21) 0) text: Martin walks fast, blind, lost. Miasma of LIGHTS and SOUN Frozen MANNEQUINS in windows... the din of CLUBS and BARS sex-shop neon SIZZLING. Nowhere to go but to keep going. The river. Martin gazes at the dark water...
+22) 0) text: Faint VOICE in Martin's ear as Rodney Cole recites his message. Hands numb with cold, Martin pumps in change.
+22) 1) dialog: Rodney it's me, Martin. Rod, I'm in Berlin for the conference, but it's Liz. She's... I'm in trouble, Rod... Phone issues a DEMAND for more money. Martin fumbles for change, drops a crumpled ball of Euros into the GUTTER.
+23) 0) text: 'Hotel' is a charitable description. Martin counts out sodden bills, hands them to a WOMAN behind the desk. She turn gives Martin a form to fill.
+24) 0) text: Martin exits, pulling dirty clothing closed against the c He scans the street, unnerved, frowns as he spots A BROWN RANGE ROVER, up the street, parked, idling. He squints, paranoid, checks the other way... His eyes lock on a lit S-BAHN station across the Platz.
+25) 0) text: Martin pushes through the turnstiles, his footsteps echo the empty tile corridor as his eyes play over the advertisements. Happy sexy Germans smile back at him... T SOUND OF FOOTSTEPS behind him, matching his. He slowly becomes aware, glances back. MARTIN'S P.O.V.: The empty corridor, curving away... Martin STOPS, listens... nothing. He starts to move again aware that the delicate "click" of the following steps al begins again. UP AHEAD, the corridor straightens out at the train platf several late-night travelers waiting. Martin begins to hurry... the FOOTSTEPS also increase in speed. Another sound: A TRAIN APPROACHING. Martin gives up cool, starts to run as the train barrels into the station, its noise eclipsing all sound. Doors open and Martin leaps in turns to face the open door... .moments pass, the car's bell signals. Then a MAN appears rushing from the corridor, one hand raised.
+26) 0) text: Martin shivers with cold and exhaustion, eyes play over t few passengers in the car... a nondescript man a few benc down who stares at him, then back to his paper. Martin eyes him, paranoid. Slowly gives up, lets his gaze plays over the adverts. Times, dates... Nov 26th. Memorie reawakened...
+27) 0) text: Martin's eyes creak open. The train is still moving, but everything has changed. Morning passengers crowd the car, giving him space. An AMERICAN COUPLE, their bags tucked tight. The WIFE staring down at him.
+28) 0) text: Martin runs water, combs his hair with his fingers. Tries press creases out of his stained suit. He stares into the graffiti-stained metal mirror of the bathroom.
+28) 1) dialog: Are you going to give up?
+29) 0) text: Martin sits in front of a stickered and stained monitor, glued to the screen as he types in an URL. The Dartmouth Mail website appears. Martin types in his login, password "Login failed. Please try again."
+29) 8) dialog: Can I help you? Hello? The guy points to his headphones, shrugs. Martin STARES a his screen, ears listening for the tell tale sound of mus seeping from the earbuds... nothing. Martin rises suddenly, looks to the bored ATTENDANT who n towards the back. Martin moves past college kids on Facebook, to a dim back corridor, a door marked "Manner," what's he's looking for: a back door, cracked.
+30) 0) text: Martin slips into the alley, trots towards the street, glancing back. No one is following. He moves onto the street, waits at a light... eyes lock o the familiar "Ace Taxi" logo of a taxi passing... SUDDEN FLASH OF MEMORY --: CARTWHEELING TAXI... Silent freefall dive. The 'Ace Taxis' logo... The face in the mirror. Looking back at him. Gina. Eyes meet...
+31) 0) text: The DEPOT MANAGER, a bully with a face like boiled meat, rants at Martin in German. BIKO, a gentle-looking Somalia translates. His English is impeccable.
+31) 3) dialog: So. I'm guessing he doesn't know where she is.
+31) 6) dialog: Please thank him for his time.
+32) 0) text: Biko exits the depot, starts to tuck in Ipod earphone whe Martin catches up with him, meets his pace.
+32) 2) dialog: You know where she is. You paused. I could tell.
+32) 12) dialog: Please, I just want to thank her. She saved my life. Biko eyes him, wary...
+32) 13) dialog: I thought, maybe she could use my help. Maybe I could give her some money...
+32) 16) dialog: Martin. Martin Harris.
+33) 2) dialog: You remember me. You know who I am. She finishes the Turkish coffee, starts another.
+33) 3) dialog: I was in your taxi.
+33) 12) dialog: No, you do. I was in your taxi, we crashed. Why did you leave? Why didn't you talk to the police? Hey! She puts up a hand, calming him.
+33) 14) dialog: Your friend, Biko. (cutting her off) It's not his fault. I told him I had money for you.
+33) 16) dialog: No. I mean, not now. I -- Gina laughs, shakes her head, tries to push by him. He ge in her way. Eyes from around the room track.
+33) 17) dialog: Please. Listen to me, I've been in the hospital, since the accident. My memory, it's... I don't remember what happened but something is going on and there are some people I need you to speak to. I need you to tell them what happened. Gina ducks back behind the counter.
+33) 18) dialog: Look, things have been happening to me. I think I'm being followed. That got her attention. Her eyes lift, scan outside.
+33) 19) dialog: You're my only link to before everything went...
+33) 22) dialog: Yes, crazy... but it's true.
+33) 30) dialog: You have to help me -- She rounds on him. Patience snapping. Pushes through door gesturing him with her into...
+34) 2) dialog: You're not listening to me --
+34) 4) dialog: But you know who I am.
+34) 6) dialog: Martin Harris, Doctor M --
+34) 8) dialog: 
+34) 17) dialog: But I'd just arrived. It doesn't make any sense... She raises her hands, enough. He looks at her, takes in t bruise on her face.
+34) 18) dialog: You got hurt, too. In the crash. (off her shrug) Thank you. For saving my life. Thank you.
+34) 20) dialog: No. You can't be sure how you'll act. Not until something like that happens.
+35) 0) text: Fluorescent lights. Linoleum floor. Martin sits in a smal plastic chair filling out paperwork. Alone. The place is closing early for the long weekend. A man opens a door, looks at Martin. Martin Harris?
+36) 0) text: MARC SPIEGLER is German, fluent English. Patient, but wishing he was on his way home as well. He looks over Martin's paperwork as Martin places his watch and the "Horticus" book on the table. Where the form asks for a complaint, Martin has written "Identity Theft."
+36) 2) dialog: No. You don't understand. As I explained to the last guar -- who went home by the way -- it's not about Credit Cards. Someone has taken over my identity. Someone is pretending to be me. Here. In Berlin. Spiegler nods, sensing this won't be an easy one.
+36) 4) dialog: Yes. They... They believe the other man. I need a new passport, papers to prove -- Spiegler sighs, a mixture impatience and sympathy.
+36) 6) dialog: Because... Because my wife. He's staying with my wife. They must be forcing her -- Spiegler suppresses a small laugh, looks away.
+36) 7) dialog: You don't think I know how it sounds? Let me ask you this, if my wife was having some hot and heavy affair with another man, why not just leave me? Why this? After all, we're in Europe, right?
+36) 15) dialog: Look, I need a passport. (tapping the forms) I need the documents that this embassy is supposed to provide.
+36) 18) dialog: Monday?! They've kidnappedmy wife. You need to find out who this other man is, you need to be in contact with my wife -- Spiegler exhales, cuttint Martin off. He picks up Martin' Rolex, glances at the initials. Looks at his copy of 'Horticus', the inscription on the inside cover. As he do a slip of paper comes loose, Martin picks it up.
+36) 20) dialog: I have a meeting with Bressler...
+36) 22) dialog: 
+37) 0) text: Cavernous lobby, echoing VOICES and FOOTSTEPS. Ancient brickwork and tile contrast with new-age furniture and technology. An atomic clock reads 12.35. Martin heads to the desk.
+37) 1) dialog: Excuse me. I need to find Professor Bressler's lab. I have an appointment at 12.30... I'm late... The female RECEPTIONIST behind the desk consults her scre Beat. Frowns.
+37) 3) dialog: Dr. Martin Harris. The professor knows who I am. We scheduled this meeting weeks ago.
+37) 5) dialog: Well, we haven't met, but we've been corresponding. He invited me here to discuss my thesis. Dr. Martin Harris... She frowns, rises from the desk.
+37) 7) dialog: Is there some sort of problem? No answer, she disappears into a back office. Martin shak his head, exasperated. He scans the building plan on the wall... 'Bressler. L.P - Molekulare Botanik - 305'... Suddenly about-turns, heads for the stairs. The woman out the office. SEES him.
+38) 0) text: Surreal. Rows of head-height CORN in a large humid chambe under bright lights. Above, ancient rusting girders and brick. Insects HUM. RESEARCH STUDENTS clip seed spikelets bagging and logging the samples. Martin slips quickly in through a door, unseen. Heat and moisture hitting him. Above the drone of bugs... VOICES. Martin tenses. He recognizes one of them...
+38) 3) dialog: Professor Bressler... Martin B turns, sees him. His eyes harden. But it's Bressler who speaks first. Alarmed, indignant:
+38) 5) dialog: It's all right, Professor...
+38) 6) dialog: What the hell are you doing here?
+38) 8) dialog: -- how did you get in here? Are you absolutely out of your mind?
+38) 9) dialog: Professor. He is not Martin Harris. I am Martin Harris.
+38) 17) dialog: oh, Jesus... A phone RINGS somewhere in the room. It's picked up.
+38) 19) dialog: No... let me explain. This man showed up at the hotel last night. Security had to remove him. The police were called...
+38) 20) dialog: I called the police, you sonofabitch --!
+38) 21) dialog: -- seems he checked himself out of the hospital. He was in an accident of some sort. . one of the research students CALLS to Bressler in Germa Martin catches the word "polizei". A surge of panic. He looks around. Sees a straw he can grasp at...
+38) 22) dialog: Drakea Drakensis... Miss Drake was wrong... . the PLANT SAMPLE on the table behind Bressler.
+38) 23) dialog: A single insect was attracted, but she couldn't see it. It's too small and it moves too fast. Thynnidae. It's a kind of wasp, but it looks like an ant. Only the males have wings. The orchid re-produces the pheromones of the female wasp to lure it in. It's a trick. It's pretending to be something it isn't... Bressler looks to Martin. Surprised... curious now. Marti sees his opening. Hope in his voice...
+38) 24) dialog: We talked... you and I... on the phone...
+38) 33) dialog: we discussed your interest in alternative forms of propagation. I told you about my father, a school teacher... his passion for science... how he passed that on to me...
+38) 34) dialog: -- I don't believe it! You've been listening to my calls? Just who the hell are you?
+38) 35) dialog: I said I'd like to do the same for my kids. You talked about your children... Two girls... right? Yeah... their -- His voice falters... tails off into silence. Searching hi memory. Expression shifting to one of panic...
+38) 36) dialog: You... you told me their names... I can't... I know them... I... Martin B picks up for him. Icy clarity:
+38) 37) dialog: ... Laurel, and Lily. Martin frozen as Martin B goes on...
+38) 39) dialog: No! That wasn't you. Don't you remember? We spoke of how brave our wives were to marry ---
+38) 40) dialog: -- to marry scientists. I told you about our honeymoon --
+38) 41) dialog: 
+38) 50) dialog: 
+38) 55) dialog: I... this isn't happening... . the POLICE suddenly there. Two OFFICERS. Bressler signals for them to stay back. Martin lifts his eyes...
+38) 56) dialog: I... I'm... He's not... A beat. Martin B shakes his head.
+38) 57) dialog: I can't believe I need to do this... He reaches in his jacket. Produces a passport. Martin B's face. Dr. Martin Harris. Then he opens his wallet. Credit cards, New Hampshire driver's license... a PHOTOGRAPH in wallet's plastic sleeve... Martin sees the photograph. His EYES WIDEN...
+39) 0) text: DR. FARGE fans a penlight across Martin's eyes. Propped up on a gurney. Flinches at the glare.
+39) 14) dialog: Doctor... Do you know what it feels like, to become insane?
+39) 17) dialog: I can tell you. Martin looks over, Farge almost RECOILS at the intensity Martin's eyes. Fear. Loss. Anger.
+39) 18) dialog: 
+39) 20) dialog: .and what you believe. His hand moves down his body to his chest, taps his heart He LEANS towards Farge.
+39) 21) dialog: .who do you think wins? Martin SMILES. Tight, hurting, fatalistic. Farge, almost afraid, nods to the nurse who slips the needle in. MARTIN'S P.O.V. -- THE NURSE'S FACE FADING INTO... Far-off VOICES. Gurney MOVING beneath him. Looking up. Lights passing. RHYTHMIC SOUND of the wheels becoming...
+40) 0) text: .Claustrophobic nightmare; a support holds Martin's head rigid, earphones piping soothing CLASSICAL MUSIC, but the noise of the machine is all-engulfing. DUNN-DUNN-DUNN. Th sound DEAFENING. Scanner moving over him... Martin's eyes empty... far far away. SMASH CUT INTO MEMORY - FRACTURED IMAGES... Undulating bodies moving over each other, Martin and Liz making love. Urgency building. Suddenly SHIFTING...
+40) 10) dialog: his mind struggles to compute. The sudden overwhelming realization that he's not insane. This man is HERE. His eyes DART as the other orderly glances over, the man from train tunnel. Call him SMITH. He smiles at Martin, polite nondescript. Ghostly in his disinterest.
+41) 0) text: The MRI ROOM door opens, the two 'orderlies' wheel the ba conscious Martin out into the corridor. Behind them, the room is spotless. They round a corner, almost at the EXIT... Doors ahead BL OPEN. Doctors, Paramedics rushing forward with various WOUNDED on gurneys. Something big has happened. Smith and Jones eye the madness coming their way, command decision, they duck into
+42) 0) text: . where a feeble OLD MAN mumbles at them from his bed. They ignore the man, go about checking Martin. Jones lift his head, pries open one eyelid after the other while Smi ties down his arms, covers him with a sheet.
+42) 11) dialog: . pulls himself upright. Tries to stand, but his body is like Jello. Reaches out, grabs the leg of a steel equipme trolley which TEETERS... CRASHES to the floor, showering Martin with a CASCADE of instruments and dressings.
+44) 0) text: Smith and Jones, hurrying down the hall. Quick check into the patient's room reveals Martin GONE, the old man GESTURING, panicked... They moves on, fast, around a corner into...
+46) 0) text: CHAOS here. Ambulances arriving, departing. Crews slammin their rigs closed, taking off, SIRENS WAILING. Other arriving with wounded... Smith and Jones rush out of the hospital doors, pull up. many ambulances, the crowds... no sign of Martin.
+46) 2) dialog: It's okay... I'm fine... Paramedic would do something, but his colleague's YELLING him to hurry. Just has to watch Martin go...
+49) 0) text: Metro train car almost empty, save for a few noticeably d at-heel passengers. Martin looks up at the map.
+50) 0) text: Bleak, uniform blocks of Communist-era housing. Graffiti- covered walls: hammers and sickles, swastikas... Martin s outside one, checks the address on the card.
+51) 0) text: Urine stench. Water pooling on concrete. 'Gebrochen' sign blocking off the elevator. Martin climbs the steps. Approaching FOOTFALLS, SHOUTS from above. A group of youn SKINHEADS thunders past him, on downward...
+52) 0) text: Martin presses a bell. Hears it RINGING. No answer. A doo behind him OPENS. A grey-haired LADY peers out. A beat. Martin tries the BELL again. COUGHING from inside, the so of a LOCK. The door half opens... revealing ERNST JURGEN. Piercing eyes in a face far older than its sixty-some years. Frayed suit jacket, stai shirt; grey hair yellowed by nicotine.
+53) 0) text: Jurgen leads Martin down a hallway piled with books.
+53) 4) dialog: That's where Spiegler worked for you? The secret police?
+53) 16) dialog: I always have it with me. It was a gift from my father... Jurgen flips it open. Notices the inscription, the NUMBER written inside the front endpaper. A beat.
+53) 18) dialog: No. It's my wife's handwriting.
+53) 21) dialog: My schedule... for this week. It's everything I remember. Jurgen turns over the card. German print. A cheery cartoo Uncle Sam: 'Uncle Sam's Bowling &amp; Billiards'.
+53) 22) dialog: My friend Rodney Cole told us to go, said it was a blast.
+53) 30) dialog: Professor Bressler. He knows everything...
+53) 32) dialog: They tried to kill me.
+53) 34) dialog: Do you believe me? A beat. Jurgen pours them both another brandy.
+53) 46) dialog: of money... ?
+53) 48) dialog: It's all I have. I'll pay you in cash as soon as I can. Jurgen nods, picks up the watch. Turns it, looks at the engraving on the back. As Martin turns to leave...
+53) 51) dialog: Thank you.
+54) 11) dialog: I'm sorry. Please. I had nowhere else to go... She starts to respond, holds it back. Nods.
+54) 13) dialog: I just need to know. The man you picked up, the man who's life you saved. That was me, right? It was me. She looks down at him, moved. Eyes track his wedding ring
+54) 15) dialog: I... don't know.
+54) 18) dialog: 
+55) 0) text: Martin and Gina walk side by side, unused to the company.
+55) 2) dialog: .Five years.
+55) 4) dialog: Yale... I was a teaching assistant. Liz heard me lecture.
+55) 6) dialog: .You don't have to believe me. It's crazy, I know. Gina pauses, stares through chain-link at the cars below.
+55) 18) dialog: I'd still have my memories.
+56) 0) text: Key in the lock, door opens. Gina shows Martin in. Run-down but clean. Rainwater seeps in through the window Martin sits, watches Gina as she goes to a sideboard and uncorks a bottle. Pours Martin a glass of clear liquor.
+56) 2) dialog: Thank you. He takes a sip. Then another. Gina watching him. Muffled TV and arguing VOICES in Turkish from the floor below.
+58) 0) text: The Cafe Owner is still watching the local news, looking another glimpse of Martin. Door jingles. He glances over see two men, one holding up a POLICE Badge.
+59) 0) text: Martin sets the borrowed clothing down on the bed, looks around himself as he takes off his jacket. Intimate, to be in here. Photographs on a cluttered vanit Old country, Bosnia. Men in suits and women in long dress Children, a boy and two girls... Gina?
+61) 0) text: Martin takes off his shirt, lays it down. Notices several charcoal drawings, tucked behind a radiator. He pulls a f out. A lonely man in the park. A woman with her child. Dark, shadowed... Beautiful. Gina clears her throat. Martin looks over, sees Gina standing in the doorway, realizes.
+61) 1) dialog: Oh. I'm sorry, I just... I'm sorry. Did you do these?
+61) 10) dialog: No, you're right... (putting them back) I'm sorry. They're beautiful. You should --
+61) 13) dialog: Your eyes... It's the one thing I remember about the accident. Your eyes in the mirror... He tails off. Face-to-face... BANG! BANG! Pounding on the door. Gina motions Martin out of sight as she opens the door... .It's Biko, the soft-spoken Somali taxi-driver. He grins. Tries teasingly to peek past her into the apartment.
+61) 17) dialog: I'm... I'm just going... in here. Biko looks at Gina, raises an eyebrow.
+63) 15) dialog: No, look! She tracks his gaze: Down below, Jones exits the building looks up amidst other onlookers. Wipes blood from his fac Martin looks around, wild, for anything, his gaze settlin on: the far wall. Flames FLARE in, growing.
+65) 0) text: Martin and Gina slip out a door, into a crowd of immigran families, other residents fleeing down the stairwell. Smo is thick, flames roar.
+65) 2) dialog: We have to go up... He starts to pull her, but she's FROZEN, staring in horro Martin tracks her gaze: Biko's body, tucked under the stairs. Lifeless eyes stare back.
+67) 0) text: Martin and Gina emerge at the top, run to the edge. He LEANS... reaching across to the next building... BELOW HIM: Five flights down. A mortal fall. Martin's hands grip a ledge, pull him over. He reaches ba pulls her across. They keep moving...
+68) 2) dialog: The keys. Where are the keys? Gina stares at him, lost. Martin reaches into her pockets Finds Biko's keys. He HAULS broken panes, debris off the car, manages to get it open. He bundles her inside.
+69) 0) text: Martin fumbles the key into the ignition. He turns it. Warning light delay as the diesel's glow-plugs warm up.
+69) 1) dialog: C'mon. C'mon... IN THE REARVIEW: The Range Rover, making a U-Turn, headin their way...
+72) 0) text: A maze of tracks and power lines below street level. S-Ba U-Bahn, high-speed ICE trains, freight... tracks disappearing in each direction into tunnels. A sound. Martin turns, looks up... THE RANGE ROVER, Jones at the wheel... SPOTS THEM. Engine GUNS, Range Rover plunges headlong down the embankment... Whistling ROAR... as a HIGH SPEED TRAIN hurtles out of th one of the tunnels. Martin grabs Gina's hand.
+72) 1) dialog: C'mon...! Running side-by-side. Train horn BLASTS as they cross rig in front of it as the Range Rover, cut off, SPINS 90 degr races down the tracks alongside it. Martin and Gina scramble across tracks, towards a tunnel. . the Range Rover passes the back of the train. HARD right, over the tracks. Too Fast. The car catches air... . BELLIES down hard onto the next set of tracks. Front tire EXPLODES... . Range Rover SPINS... rear wheels SLAM the track. Another tire BURSTS. Scraping STOP, car straddling the rails. Jones shifts into reverse. Rims SPI against metal.
+75) 0) text: The crowd dissipates into the night. Gina takes Martin's hands, pulls him along a street of neon club signs, lines youth waiting to get in. BEHIND THEM. Smith emerges from the station, tracks them.
+76) 0) text: Gina hurries them past bars and clubs. They come to a doo crowded with youths, Middle-Eastern and Balkan. Gina pulls Martin to the front. Unfriendly eyes STARE dow Martin, the huge BOUNCER nods recognition to Gina.
+76) 4) dialog: Gina...
+76) 29) dialog: .Yes. I think so... I don't remember... how it felt exactly. She approaches him, leans in so she can see his eyes...
+76) 31) dialog: .For the same reason I would. If I thought it was the only way to protect her. Gina nods, distant. Martin presses on, difficult.
+76) 32) dialog: I keep having a dream. Liz is in the bedroom of our home, although it's different somehow. Her hair's different... she's smiling, about to say something. Then it ends. I can remember places, details...
+76) 42) dialog: I just can't remember... how I felt. He stops. Just the low pulsing BEAT from the other room T lights revolving over them. Gina watching him. Looking back at her. That connection again. He looks away. She shakes it off, produces a borrowed joint, offers it t him. He shakes his head no. She shrugs, sparks it. Inhale deeply, eyes close. She leans back.
+76) 43) dialog: You'll need to get out of town. There's a man who's helping me. He can --
+76) 49) dialog: We're you...
+76) 59) dialog: I won't let anything happen to you.
+76) 62) dialog: I'll protect you. She opens her eyes again, looks up at him, smiles, on her to sleep.
+78) 0) text: Cheering CROWD; a sound like THUNDER. A massive indoor STADIUM, CYCLISTS racing on a reverberating wood track be a suspended lighting rig the size of a spaceship. MARTIN at the counter of a busy bar. Jeans, T-shirt, Bomb Jacket. Different look, to say the least. Across the bar, GINA nurses a coffee. They exchange looks, briefly. A familiar grey-skinned figure settles next to him: JURGEN.
+78) 1) dialog: Thank you for coming. Martin glances around, edgy. Jurgen watches him, glances Gina long enough to let Martin know he's spotted her.
+78) 10) dialog: (nods, bitter) I... I didn't do it. Jurgen studies him, hard. Looks back at Gina.
+78) 12) dialog: These numbers, are a code. The first number refers to the page of a given book. The second to a specific line on that page. The third number to words on that line. If I didn't have the exact edition of the book, the code would be unbreakable.
+78) 14) dialog: That's where it breaks down -- the words are the Latin names of two plant species... Calochortus Albus... and Umbellularia Californica. Fairy Lantern... and California Bay. Both common flowering plants...
+78) 24) dialog: "The role of Gorytini and Thynnidae in Drakea pollination."
+78) 26) dialog: Correct. Yes. Look --
+78) 30) dialog: 
+78) 33) dialog: In a way... they're opposites. Bressler wants to end world hunger. Open research... universal access to all his data on crop cultivation...
+78) 35) dialog: They're both progressives. Fahad knows we'll need food long after oil. New agricultural patents are worth billions...
+78) 44) dialog: He's got balls, that's for sure. Another beat. Jurgen slides the 'Uncle Sam' bookmark card from the pages of the 'Horticus'... turns it over, Martin remembered schedule scribbled on the back.
+78) 46) dialog: It's in our suite. Champagne and hors d'oeuvres for Bressler and a few of his guests.
+78) 48) dialog: Yes. Bressler invited him... Martin trails off. Starting to get there...
+78) 50) dialog: Oh, Jesus... You can't -- Jurgen flips his notebook shut. Gets up.
+79) 0) text: Martin and Gina thread their way through streets teeming AFRICAN and MIDDLE EASTERN immigrants, music blasting fro storefronts.
+79) 9) dialog: Jurgen may have nothing. (beat, to her) I need your help.
+80) 0) text: Liz sits in front of the bedroom vanity in her bra and sk putting on makeup. The room's shower is on. CLOSE as she applies mascara. The Camera searches her fac her small gestures, looking for clues... Shower stops. IN DEEP FOCUS behind her, Martin B comes out of the bathr nude. He picks a robe up off the bed, pulls it on as he approaches her, places his hands on her shoulders. They stare at each other in the vanity mirror... RING! RI Martin B picks up the phone.
+80) 1) dialog: Dr. Harris speaking.
+81) 11) dialog: Yes, hello, this is Dr. Harris. I have a message for Dr. Bressler...
+83) 0) text: Martin and Gina stand amidst a flow of tourists and local near the entrance to Berlin's equivalent of Central Park its zoo. Across, the Weinhaus Restaurant is a fin-de-siec style brasserie bordering the avenue.
+83) 2) dialog: .The zoo. She loves Polar Bears. I never knew exactly why. Gina nods, looks over to the restaurant. Looks back at Martin who hasn't moved. She checks her watch.
+83) 13) dialog: This shouldn't take long. I just need to see what Bressler wants. Liz's gaze settles on the painted sign for the zoo.
+84) 0) text: The WAITER offers to take Bressler's lap-top bag. Bressle politely declines him... The waiter nods, leaves. Bressler opens the computer bag, checks on the lap-top inside. Zips it back up. Positions the bag by his elbow. Smiles to Martin B.
+84) 2) dialog: No, thank God. I assume he's safely back in the hospital.
+84) 12) dialog: I hope you can forgive me. It was something you said...
+87) 0) text: . the other cell phone in MARTIN'S hand. He answers it...
+88) 0) text: CLATTER of falling pins... 'Uncle Sam' logo. Juke box Elv serenading desultory daytime bowlers. Jurgen hands the TICKET from Martin's book to a bored ATTENDANT. She goes away... returns a moment later with a purple bow TOTE BAG. Plonks it on the counter. Rips off a ticket counterfoil - '21'. Checks the time-stamp...
+89) 0) text: Parents buying tickets... excited kids push through the turnstiles under the gilded elephants of the entrance. Liz buys a ticket. Passes beneath the elephant gate. Martin starts to move forward... then DOUBLES BACK as Smi arrives, hurrying, again checking his phone. He pushes to the front of the line, pays his way in, eyes searching. Martin moves out behind him, hat pulled low.
+90) 0) text: Watchful staff; soothing music. Gina at a rack of dresses anxiously looks out of the window, staring at Martin B an Bressler in the restaurant, a silent heated exchange...
+91) 9) dialog: I'm sorry, it's my fault. Another appointment I forgot.
+92) 0) text: Liz wanders past some flamingos, checks a sign, heads in another direction. Behind her, Martin keeps his distance, keeps his eyes on Smith who's shadowing Liz, one path over...
+93) 0) text: Martin B standing. Bressler, collecting his bag and scarf
+93) 1) dialog: I'm sorry if I offended you, Dr. Bressler. I just --
+93) 3) dialog: .Perhaps you're right.
+94) 0) text: Gina, crossing the street, searching the restaurant windo the table empty, busboy gathering up plates. P.O.V. urgen searching. Finds... . Bressler outside the restaurant getting into a taxi. He's alone. No sign of Martin B. Pulls out her phone...
+95) 0) text: Liz, following the winding path lower as it descends. The sound of a cell-phone RING. Liz glances back... .Martin, pressed out of sight against a wall. He SILENCES his phone, tucks it away.
+96) 0) text: Martin B striding through the park toward the zoo... Gina way behind, trying to catch up. Dials again, Martin's phone going straight to voicemail.
+97) 2) dialog: Standing across from her in this protected space. A stran numbness. Doesn't know where to start...
+97) 3) dialog: . Liz. Just that syllable. She stares back, features tense.
+97) 5) dialog: Liz. What's happening?
+97) 7) dialog: Why --?: I have to know why, Liz. Are they making you do this? Are they threatening you?
+97) 16) dialog: The zoo. The Polar Bears.
+97) 19) dialog: You can't what?
+99) 0) text: Martin B waiting in the ticket line at the gates... Gina approaches, breathless. Sees Martin B. Hangs back from the ticket line. Spots a large party of school kids. Gina steps past the line, confidently joins the group... another parent. Swept through the turnstiles. Behind her, Martin B steps up to the ticket window.
+99) 2) dialog: What are they making you do? Is it about Fahad?
+99) 4) dialog: Come with me, right now. We can
+99) 7) dialog: Who are they? She shakes her head, tormented.
+99) 17) dialog: My case...? She closes on him. A wave of emotion as she's almost in h arms, her hands on his face, searching his eyes.
+99) 22) dialog: Cuts up a small path rising up from the Polar Bear area. the top he turns, hiding himself, looking back.
+99) 31) dialog: .Nothing he can do now. He turns away, moves to the top o the path where Gina waits for him. They walk in silence..
+102) 0) text: Martin and Gina hurry across the street. Cellphone to Martin's ear. Listening to it RING...
+103) 0) text: Jurgen lumbers asthmatically up the stairs. Gets to the fourth floor. Sound of the PHONE RINGING above. Trudges u the last flight... .Phone STOPS RINGING just as Jurgen reaches the top. He stops, wheezing. An ENVELOPE propped against the door. He picks it up. Thumbs it open. Takes out: DETAIL SHOT -- TWO PRINT-OUT SCANS... from the security camera at airport Immigration. A couple at a desk. Liz and Martin. Unmistakably Martin.
+107) 0) text: Martin and Gina wait at a counter. Clock reads 2:25. A WOMAN returns with a leather briefcase. A name tag on the handle. 'Dr. M.A. Harris'. Martin stares at it... reachin for memories. The woman checks her computer.
+107) 3) dialog: The combination. For the lock. It's 2... 8... 0... 6... A beat. The woman and Gina both looking at Martin. The woman enters the numbers. The locks pop open. She lifts t lid, picks something up. A pause... then her expression softens. She turns it toward Martin...
+108) 0) text: Noisy and busy. Gina uneasy... watching Martin as he carefully examines each item in the case. Everything familiar, yet strange. His, but somehow not his. a copy of 'Scientific American' magazine, a comb, some gum, a Newark Airport parking ticket. His published paper the same edition Jurgen found at the library. his leather wallet. Martin studies it. Identical to the one Martin B had. Opens it...
+108) 2) dialog: gazing at it. He runs his fingers over its dock-eared corners, every bump and crease. Looks up to find Gina watching him. A long, awkward pause. She reaches over. Takes the photo from him. Studies it.
+108) 12) dialog: .Yes. I'm sorry. Yes. She's my wife. She's in danger. I have to --
+108) 14) dialog: No, wait. I meant what I said. We can take care of you. I can get you money, arrange --
+108) 17) dialog: Gina stops, turns. A beat. Sadness, anger.
+110) 0) text: Martin still sitting there. The photo of him and Liz in Paris. Sudden decision, snaps the briefcase shut...
+111) 0) text: Gina almost at the head of the taxi line. A glance back. People... vehicles... no sign of Martin.
+112) 0) text: Martin out of the doors. Eyes frantically searching for Gina. In the distance... he sees her...
+114) 0) text: Martin weaving quickly through the crowds toward her... B PAST a man who looks back, his face lighting up...
+114) 3) dialog: Rodney? What are you doing here?
+114) 5) dialog: Yeah... but how did you know --?
+114) 14) dialog: What are -- ?
+115) 0) text: Gina looking back around. Bemused. Martin vanished again the crowd. Then a sudden stab of alarm...
+115) 15) dialog: What the hell Rod! You're my oldest friend! You know who I am. It's me... it's not that other guy. He's not --
+115) 19) dialog: No... That's insane. Liz, she----
+115) 21) dialog: That's not... she...
+117) 0) text: Martin is tossed out onto the asphalt. Picks himself up, trying to orient... The structure abandoned, broke. No side rails, just pavem to the edge. Trash and graffiti everywhere. Desolate. Cole approaches, losing it now. Boiling with rage:
+117) 2) dialog: But... I... who am I...? A pause. Cole shakes his head, pats him on the cheek.
+119) 0) text: Taxi catches Smith, carrying into the van, crushing him a the two vehicles slide towards the edge... Cole is HURLED across the van like a rag-doll, his legs a crushed between buckling rows of seats as... . The van SLIDES with the TAXI'S IMPACT... front wheels pushed off the garage edge... teeters, see-sawing. Gina scrambles from the wrecked taxi. Runs toward Martin, lying on the ground. Pulls Martin away, arm around him...
+119) 1) dialog: Wait! WAIT! Martin breaks free, walks unsteady to the rear of the van locks eyes with Cole, trapped, clawing towards the back.. Martin puts a hand out... and takes his briefcase.
+119) 2) dialog: Is it true...?
+119) 11) dialog: Stares down at the wreck. Mind spinning... Gina comes up, touches his shoulder.
+120) 0) text: Pouring rain. Vehicles hiss over the bridge. Gina catches up to Martin. Her voice straining above the traffic:
+120) 2) dialog: . Jurgen... we were going to meet... I have to see him.
+120) 4) dialog: I have to! Martin's face. Blood streaking in the rain. Absolute. A long beat. Gina takes a deep breath.
+121) 0) text: A cafe looking onto the Kochstrasse, Checkpoint Charlie. Rain mists the windows. Mostly empty... TWO FIGURES, sitting in the shadows. Martin and Gina. He STARES down, lost, shivering -- not from the cold.
+121) 9) dialog: he told me I'm one of them... the things he said... the things he said I've done... (beat, anguish) How can I be that person?
+121) 15) dialog: Thank you.
+121) 23) dialog: No... No... SUDDEN P.O.V. MEMORY FLASH -- HITTING HARD, CLEAR... Liz towels short dark hair. Door of a hotel bathroom. Liz turning... smiling. Embroidered on the towel... the 'H... I...' now visible in detail: 'Hotel Imperial'...
+121) 25) dialog: No! Leave me alone. He stumbles away, pushing towards the bathroom.
+122) 0) text: Martin lurches in, locks it, goes to the small sink, STAR at himself in the mirror.
+122) 1) dialog: No... SUDDEN P.O.V. MEMORY FLASH -- PUSHING OPEN... the door to the Eisenhower suite bedroom... moving through the suite... towards the bathroom...
+123) 0) text: Gina, uncertain, with the passport... looking at the smal photograph of 'Tim Carmichael'... notices Martin's paper the case, the one he was reading on the airplane. Pages splayed... underlined. Cautious... she removes the document. Opens to the end. Paragraphs, underlined. A biography of sorts...
+123) 11) dialog: Prince Fahad is going to be assassinated today. There's a bomb in the suite. I put it there. A long beat. Gina's eyes meet his, brief, scared. Sudden shift. Martin stuffs the cash back in the bag. Grabs her the arm, propels them both outside...
+124) 0) text: Martin pushes them into the alley next to cafe, jams the into her arms.
+124) 1) dialog: Take this... get out of Berlin. Gina shaking her head.
+124) 2) dialog: Take it and go! Get as far away from me as you can.
+124) 6) dialog: 
+124) 14) dialog: .Is this what you want? Is this the person you still want to help.
+124) 16) dialog: Pure instinct and adrenaline. Gina grabs the bag, stumble across the street, HORNS BLARE as cars swerve to avoid he And she's gone.
+125) 0) text: Martin walks... numb. He waits at street corners, crosses with lights, moves through the city...
+126) 0) text: Martin stands at the broken railing where Gina's taxi plu into the water seven days ago. The tire marks are there. The railing is half-repaired, half taped off. He stares down into the oily black water, toes near the edge... weight shifting... then his knees give. He sits hard, his hands moving uselessly, almost on their own. Tears flow freely. Sobs RACK his body.
+131) 0) text: Elevator doors open, letting out a few guests and Martin. arrow indicates "EISENHOWER SUITE." He starts to move, clearing a corner, up ahead the entran to the suite... OOOFF! The wind taken out of him as four BURLY MEN in suits SCOOP him by his arms...
+135) 0) text: Martin is pushed roughly into a chair facing a displeased HERR STRAUSS. A GUARD handcuffs his wrist to the chair.
+135) 1) dialog: You're not listening! There is a bomb, in the Eisenhower Suite. I put it there.
+135) 3) dialog: I've told you! There's no time to explain this...
+135) 11) dialog: 
+135) 13) dialog: Do it. NOW. Do it or many people will die. I'm not lying. A beat... Strauss nods to one of his technicians who star to type into a console...
+137) 0) text: Gina quickly takes in the suite. Far away, Bressler and Fahad, engrossed in conversation. One of Bressler's daughters, LILY, peeking out from under a table. At the b Martin B, drinks in his hands, turning towards her... She turns towards a picture window, watches the reflectio
+137) 1) dialog: . makes eye contact with Liz across the room, she heads towards the back. He begins to follow... hesitates... He looks back, to the picture windows. Empty now.
+138) 0) text: Martin, sweating, nervous, eyes flicking to the monitors the technician brings up the reception video, starts fast forwarding through footage. Images go by, almost too fast
+139) 0) text: Fahad finishes a joke. Laughter. Martin B still scanning the room... Gives up, turns to meet Liz already there wit their computer case and a sportsbag. She hands him the sportsbag, they wordlessly leave through the rear door...
+140) 0) text: Unseen by anyone, a monitor shows Liz and Martin B, enter an emergency stairwell, hurrying. Martin's eyes scan...
+140) 1) dialog: There! Stop! The technician freezes the image: A dapper couple, checki in. He wears a sportsjacket, light-haired, horn-rimmed glasses. She's got short dark hair. Martin points. Strauss leans in, sensing it.
+142) 0) text: The image ROLLS FORWARD, slowly: The man at the counter kisses his wife's hair, glances upwards... It's MARTIN.
+142) 1) dialog: 
+143) 0) text: Martin B and Liz stop in their tracks. Doors opening ABOV Sound of panicked guests pouring onto the stairs. . Liz's face. Ice cold. Processing. Deciding. Hands Martin B the computer, takes the sportsbag from him.
+146) 0) text: Guard begins to cuff one of Martin's arms. Martin faces t monitors, SMILES as he sees Fahad's people meet up with Strauss at the loading dock, hustle Fahad into a Limousin ANOTHER MONITOR: Martin B, rushing back upstairs. Martin watches... interested... eyes track... narrow. ANOTHER MONITOR: Gina and Bressler, running into a corrid with the two girls. Martin smiles a little, relieved...
+146) 1) dialog: Lily, Laurel... The smile... dying. Realization...
+146) 2) dialog: Bressler's daughters... Lily. Laurel... Calochortus albus... Umbellularia Californica... Flowers... Passwords... He SCANS the many monitors, LOCKS onto: Liz, moving down corridor, purposeful.
+146) 3) dialog: Fahad was never the target. It's Bressler! You have to tell Strauss! They're after Bressler!
+147) 0) text: Martin stumbles out into a crush of panicked stragglers, ducks down, lost in the press. Moments after, the guard appears at the door, speaking into his radio...
+148) 0) text: Martin B rushes into the room. Stops. Like Pompeii: a par abandoned. Furniture upended. Guests. All gone. Urgently searching for the remote. Down on his hands and knees. Looks at his watch. Pales...
+149) 4) dialog: Gina1 Gina! MARTIN is moving, pressing through crowds.
+149) 17) dialog: No...
+149) 19) dialog: I won't do it...
+150) 0) text: Martin B has a small hole opened up. He can see the digit timer. 00:00:14, 00:00:13... Jams his hand into the hole. Trying to force it past the narrow opening. Desperately feeling for the controls.
+151) 0) text: Martin, on a suicide mission. Walks in a daze towards Gin Bressler beyond. His hand moves into his pocket. Gina, stepping forward...
+152) 0) text: Martin B, forcing his arm further. Fingers reach the controls... search for the right one... 00:00:04., 00:00:03...
+153) 0) text: Martin and Gina, locked, staring. Her face a million questions... No answers. Martin shakes his head, turns aw from her, towards Bressler, his hand coming out of his po with the gun... In Martin's face: horror, deadly conviction... Time SLOOOWS. Sound AMPLIFIES...
+153) 3) dialog: Bringing the Vun up, pointed at Bressler's head, perfect shot. No choice. Finger on the trigger...
+154) 0) text: Martin B stands, dusts off his coat, starts to walk out o the bathroom... "crunch" he steps on something. A soft "beep." He looks down, REACTS to: The remote control... under his foot. VISION RACKS TO THE BOMB: 00:00:02., 00:00:01...
+154) 1) dialog: Fuck...
+155) 0) text: KA-BOOM! The blast ROCKS the room. People tumble, chandelier falls. KER-ASH! LIZ dives aside as a column SLAMS down near her. SPRINKLE burst on. Water rains down. Main lights black out... beat then emergency lights come on. Total CHAOS. Find... BRESSLER, clutching his DAUGHTERS as SECURITY reaches the surrounding them, searching for signs of Martin...
+156) 4) dialog: Don't. Keep your hands where I can see them. Please... GROANING from the hotel structure. Plaster and cables fal SPARK across the floor. Martin FLINCHES, tries to keep steady. Liz is steady, cool. Laughs a little.
+156) 14) dialog: Let go of the knife, Liz.
+156) 16) dialog: Please, just stop, Liz... Her face, reading him. His fear, his uncertainty... She smiles, just a little... Liz throws the knife! Martin FIR as the blade sinks into him, sending him reeling back ont the floor.
+156) 17) dialog: His hand going to the knife sunk in his shoulder, SCREAMI in agony as he rips it out, looking up at...

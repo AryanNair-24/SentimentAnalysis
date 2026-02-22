@@ -1,0 +1,12 @@
+64) 0) text: Caroline is perched on the edge of her chair.  Across the desk from her is a tired SOCIAL WORKER, 40's, who has bee assigned Caroline's case and is giving her the "exit"  interview.
+64) 1) dialog: ...How old are you?
+64) 3) dialog: Live with your parents?
+64) 5) dialog: Parents still together?
+64) 7) dialog: Do you work?
+64) 9) dialog: In school?
+64) 11) dialog: Private?
+64) 13) dialog: How are your grades?
+64) 15) dialog: What's that mean?
+64) 17) dialog: You do?  What else you do?
+64) 19) text: I'm a National Merit Finalist.  I'm  on the Hi-Q team and the Math team.   I'm in the Spanish Club.  I'm a  Thespian.  I'm Vice-President of my  class.  I'm on the volleyball team. The social worker pushes the forms she's filling out away and looks again at Caroline --
+64) 20) dialog: You wanna tell me what you're doing  here, Caroline?

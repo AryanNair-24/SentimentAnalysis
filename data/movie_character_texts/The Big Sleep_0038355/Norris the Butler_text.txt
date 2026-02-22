@@ -1,0 +1,67 @@
+1) 1) dialog: (holding the door) Good morning, sir.
+1) 3) dialog: (opens door, steps aside) Yes, Mr. Marlowe. Will you come in?
+2) 0) text: as Norris shuts the door, takes Marlowe's hat.
+2) 1) dialog: Will you sit here? I'll tell the General you have come.
+2) 15) text: You're cute. As she speaks, she sits suddenly on the arm of his chair. As she does so, Marlowe rises, shifts the chair in doing so, so that to her surprise, Carmen finds herself sitting in the chair itself. She stares up, surprised and then angrily, is about to speak again when they both see Norri He has just entered noiselessly, stands beside the chair. On Norris' face there is now a curious expression of grie sadness. Carmen glances up at him, rises quickly as if he had reprimanded her with words, and exits. Marlowe looks after her, thoughtful, a little grim.
+2) 16) dialog: The General will see you now.
+2) 18) dialog: Miss Carmen Sternwood, sir.
+2) 20) dialog: Yes, sir. This way, if you please. They exit through French doors.
+3) 0) text: Garage at one side, beyond it a tremendous greenhouse. Norris is leading Marlowe along the path toward the green house. A chauffeur is washing a car before the garage. we establish him in passing -- a handsome, boyish-looking ma OWEN TAYLOR. Marlowe follows Norris on to the greenhouse, looking at t tremendous size of it as Norris opens the door and stands aside for Marlowe to enter.
+4) 0) text: Marlowe, following Norris between the crowding tendrils a branches. The place is oven-hot, damp with sweat, green with gloom. Marlowe is already reacting to it, is already mopping his face with his handkerchief.
+4) 1) text: (mopping neck, following Norris) Couldn't we have gone around this?
+4) 2) dialog: (over shoulder; walking on) The General sits in here, sir.
+4) 4) dialog: (stopping) This is Mr. Marlowe, General. The General does not speak, only the fierce eyes stare at Marlowe as Norris pushes a wicker chair up behind Marlowe legs.
+4) 14) dialog: (adding brandy) Yes, General.
+5) 0) text: emerges, still carrying his coat, dripping wet, mopping with his sodden handkerchief, breathing the cool air, starts away. Before he reaches the house, Norris meets him, pauses two feet away, silver-haired, respectful, grave.
+5) 1) dialog: Mrs. Rutledge, the older daughter would like to see you before you leave, sir. And about the money: the General has instructed me to give you a check for whatever you require. 13. 13.
+5) 3) dialog: (blinks, stares, then smiles) Ah, I see, sir. I forgot you are a detective. By the way he rang the bell.
+5) 5) dialog: I have that privilege.
+5) 7) dialog: She saw you through the window. I was obliged to tell her who you were.
+5) 9) dialog: Are you attempting to tell me my duties, sir?
+5) 11) dialog: This way, sir.
+7) 0) text: Marlowe comes down the hall, heading for the door. Norris appears with Marlowe's hat and hands it to him.
+7) 2) dialog: I'm sorry, sir. I make many mistakes. He opens the door. Marlowe pauses to look at the view.
+7) 6) dialog: About thirty years. The General likes to take his field glasses sometimes and sit by the window and watch the walking-beams. They're like life, he says -- an endless seesaw, forever up and down and getting nowhere
+24) 0) text: Marlowe has just rung the doorbell. In the drive behind him stands Carmen's Packard. The door opens. Norris appears in it, recognizes Marlowe, looks swiftly past him and recognizes the car also. Then he looks at Marlowe again -- the same quiet, grave face with its expression of grief and sadness which the sight of the ca brought into it. His voice though is quiet and calm.
+24) 1) dialog: Good evening, sir.
+24) 3) dialog: No, sir.
+24) 5) dialog: He's asleep.
+24) 7) dialog: Mathilda? She's here.
+24) 9) dialog: (quickly) She's all right?
+24) 11) dialog: We all try to do our best for her. I'll call Mathilda at once.
+24) 13) dialog: May I call you a cab, sir?
+24) 15) dialog: Yes, sir. Marlowe turns on, fast, walking down the drive in the rai
+67) 0) text: entering, finds Norris waiting for him.
+67) 2) dialog: (rises) Good morning, Mr. Marlowe.
+67) 4) dialog: Not so well, sir. I -- ah --
+67) 6) dialog: (in sort of a rush) I read the papers to him this morning. From -- ah -- certain items we assume that your investigation is now complete.
+67) 8) dialog: Quite so, sir.
+67) 10) dialog: The debris, sir?
+68) 2) dialog: (steadily) Thank you, sir. Mrs. Rutledge tried several times to telephone you last night --
+68) 4) dialog: (puts hand inside coat) Quite so, sir. (he draws out check hands it to Marlowe) The General instructed me to hand you this. Will it be satisfactory?
+68) 6) dialog: (curiously insistent) And we may now consider the entire incident closed?
+68) 8) dialog: Thank you, sir. We all appreciate it. When the General is feeling better, he will thank you himself.
+68) 11) dialog: (departing) I'll see that some is properly iced, sir. 107. 108. 96. He exits, closes the door. Marlowe's air changes now. He opens the check slowly, looks at it, speculatively.
+82) 0) text: facing Norris, who has answered the bell. Norris stands holding the door half open, as if barring Marlowe from entering.
+82) 1) dialog: (courteous, inscrutable) No, sir. She left no address. We don't expect to hear until she and Mr. Regan reach Mexico City perhaps. 130. 131. 132. 119.
+82) 3) dialog: (inscrutable) Yes, Sir. We are all most happy. -- Was there anything else?
+82) 5) dialog: Is resting. I won't disturb him now.
+107) 0) text: As Norris stands in the open door, in the act of admittin Marlowe.
+107) 2) dialog: Yes, sir. He's waiting, in the orchid house. Marlowe enters, walking along the hall toward the rear wi Norris. Subtly, Norris has the air of a guard. Marlowe looks tired and somber, the marks of last night's encount still plain on his face. He has obviously not been home; he wears the same rumpled suit, no tie, and he has not shaved. Vivian comes out of an adjoining room, as though she has been waiting, and stops them. 172. 147.
+109) 32) dialog: I took the liberty of turning it around for you, sir. Since you were in the greenhouse, I brought it on around here at the same time.
+109) 34) dialog: (impenetrable) You will always be welcome here, sir, if only to receive our gratitude.
+109) 37) dialog: I've never had occasion for one, sir. I don't think I ever will.
+109) 39) dialog: He's stronger than he looks. As you would see for yourself if occasion arose -- which, thanks to you, it will not now.
+109) 41) dialog: Youth, sir. And the soldier's eye.
+109) 43) dialog: Thank you, sir. And yours.
+109) 45) dialog: Yes. This morning.
+109) 47) dialog: (smoothly) It was near midnight, sir. I thought it was later. I was probably wrong.
+109) 50) dialog: And whom to call. Thank you again. Marlowe drives on. In the mirror he can see Norris standing in the drive still watching him, guarding the house which Marlowe realizes he is not to enter again.
+123) 0) text: -- as Norris opens the front door, admits him. Norris stares at Marlowe, divines the truth by intuition.
+123) 1) dialog: It -- has happened?
+123) 6) dialog: In here, sir. They half carry Vivian out. INT. ALCOVE - VIVIAN, MARLOWE AND NORRIS IN B.G. Vivian has recovered control now.
+123) 9) dialog: (to Vivian) She was in the darkness, and Mr. Marlowe turned the light on for her -- don't you see?
+124) 0) text: -- watching as Marlowe and Norris approach him. He, too, seems to read something by instinct.
+124) 2) dialog: It's Miss Carmen, sir --
+125) 0) text: as Marlowe, Vivian and Norris come out of the conservator Norris draws ahead, them pauses.
+125) 1) dialog: (to Marlowe) May I add my own thanks, sir?

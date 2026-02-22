@@ -1,0 +1,59 @@
+5) 4) text: DIEGO smiles a little, and kisses FERNANDO -- who is immediately distracted by a procession of hooded MONKS, hurrying to the refectory, as a bell begins to chime. The MONKS all turn to greet ANTONIO DE MARCHENA, a white- haired, elderly man -- and a monk cosmographer. MARCHENA'S gesture is broad and elegant as he opens his arms to greet COLUMBUS.  He pats FERNANDO'S head and turn to DIEGO.
+5) 5) dialog: Diego, take Fernando to the dining hall.  He must be hungry.
+5) 7) text: Both CHILDREN leave under the arched roof.  COLUMBUS and MARCHENA begin to walk across the cloister.
+5) 8) dialog: Diego is a bright boy -- a pleasure to teach -- but so serious... Brothers should be raised together, Colon.  Even brothers from different mothers...
+5) 10) text: MARCHENA laughs at the compliment.
+5) 11) dialog: Just be careful you don't lose him.
+5) 12) text: They have crossed the cloister.  MARCHENA pushes open a door.
+6) 0) text: Hundreds of books lined up on the shelves, displaying the miracle of printing, a recent German discovery.  Several MONKS, perched on high stools behind lecterns, are busily "ILLUMINATING" some of these massive volumes, delicately painting around the letters in bright colors and gold leaf. Rays of light fall diagonally through high openings, projecting geometric patterns on the tiled floor.  As MARCHENA and COLUMBUS move forward their conversation is punctuated by light and shadow.
+6) 1) dialog: (fumbles in a pocket under his robe) I have something for you.
+6) 3) dialog: You will be heard at the University of Salamanca...
+6) 6) dialog: That's what it says.
+6) 8) dialog: (smiling) With some difficulty.  I had to promise them you were not a total fool.
+6) 9) text: MARCHENA pushes open a second door, hidden behind a woode panel.
+7) 0) text: MARCHENA is not a tidy man.  Books are piled up on the floor, the desk, on every shelf, along with maps, instruments of astronomy... the visible evidence of an inquiring mind. With practiced familiarity, as if they had done this a hundred times -- which indeed they have -- MARCHENA sits behind his desk, and COLUMBUS opposite him.  MARCHENA lights a candle and considers the mess.  Then methodically, he slowly sweeps it from in front of him with his sleeve, exposing a large map underneath. When he looks up again, there is a new severity in his expression.  He turns over an hourglass.
+7) 1) dialog: Why do you wish to sail west?
+7) 11) text: CLOSE ON MARCHENA'S FACE, touched by the mystery.
+7) 12) dialog: How can you be so certain?  The Ocean is said to be infinite.
+7) 14) dialog: How can you be so certain?
+7) 16) dialog: (interrupting) Esdras is a Jew.
+7) 18) text: MARCHENA throws his quill in the air in frustration.  He glances at the hourglass:
+7) 19) dialog: Two minutes... and already you're a dead man.  Don't let passion overwhelm you, Colon.
+7) 21) dialog: Father Marchena!
+7) 23) dialog: (heatedly) You get so carried away when you are being contradicted!
+7) 25) dialog: (amused) Only God knows the meaning of such words, my son.
+17) 0) text: MARCHENA reads aloud the Commission's letter.
+17) 1) dialog: ... and therefore nothing could justify the participation of Your Highnesses in the venture that relies upon such feeble assumptions, and which any man of knowledge would take to be impractical... if not impossible.
+17) 5) dialog: You mustn't give way to despair. You must wait.
+17) 7) dialog: If God intends you to go, then you will go.
+17) 9) text: MARCHENA is shocked.
+17) 10) dialog: Colon!
+17) 12) text: He seizes a beautiful book from MARCHENA'S desk.
+17) 14) text: He hurls the book across the room.  MARCHENA is horrified
+17) 15) dialog: No...!  My books...!
+17) 18) dialog: Colon!  Don't!
+17) 19) text: MARCHENA tries to stop him.  In his fury, COLUMBUS accidentally knocks the poor old MAN to the ground.  His cries bring three MONKS rushing into the room. As COLUMBUS continues to rage and scatter books everywhere, they try to stop him, struggling with this big, powerful man -- to almost comical effect.  Finally, short, muscular MONK delivers a quick punch that sends COLUMBUS crashing to the floor.
+33) 0) text: A luminous procession passes through a Moorish stone gate down to the harbor.  We see the faces of the SAILORS and their FAMILIES -- COLUMBUS, PINZON AMONGST THEM -- We sense the fervor and apprehension of the departure.  The procession is lead by MARCHENA and four young NOVICES carrying the Madonna.  All hold long, burning tapers, saying the rosary.  A SAILOR pushes through the crowd, an kisses the Madonna's feet.
+35) 0) text: MARCHENA sits on a barrel and crosses himself.  Behind a curtain sits COLUMBUS.
+35) 1) dialog: In Nomine Patris et Filius, et Spiritus Sancti.
+35) 3) text: MARCHENA recognizes COLUMBUS' voice.
+35) 4) dialog: I am listening, my son.
+35) 6) dialog: What are you saying?
+35) 8) dialog: How long?
+35) 11) dialog: May God forgive you...!  You must tell them!  You must tell your men!
+35) 13) dialog: My son, my son... (he shakes his head) Your certitudes are sometimes frightening... (pause) Christopher, you must speak to them. And if you don't I will.
+35) 16) dialog: I believed in you...
+35) 20) text: Devastated, MARCHENA reluctantly makes the sign of the cross.
+36) 1) dialog: Ispo Te Absoluto.  May God forgive you and have mercy on your soul, Christopher Columbus.  Go in peace.
+153) 0) text: ANTONIO DE MARCHENA, a very old man now, is taking a siesta next to his grapes.  He is sitting in a simple armchair, a rosary wrapped around his fingers. The presence of someone wakes him.  After a moment, he recognizes COLUMBUS and smiles.  Both MEN are very moved.
+153) 1) dialog: I suppose we're both old men now.
+153) 5) text: MARCHENA nods his head.
+153) 6) dialog: Yes.  I forgave you a long time ago. You see, I was proud of you.  You were like a willful child.  You wouldn't accept what others told you.  You had to find things out for yourself, hurting yourself -- and others -- in the process.
+153) 7) text: MARCHENA looks at his plants, sighs contentedly.
+153) 8) dialog: Do you remember when you said that people talk about the world, but never leave their gardens.
+153) 10) dialog: More than ever I wonder what it is we do achieve by leaving our gardens... The world changes -- and yet it seems the same.  We find new worlds, but fill them with the same people...
+153) 11) text: He pauses, looks across at COLUMBUS, smiles again gently. MARCHENA, tiring, leans back in his chair, and looks up towards the sun.
+153) 13) dialog: I knew you would.
+153) 15) dialog: Oh?  So you are a new man?
+153) 17) text: MARCHENA starts laughing.
+153) 18) dialog: God bless you, and those like you!

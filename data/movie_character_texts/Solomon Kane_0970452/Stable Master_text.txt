@@ -1,0 +1,10 @@
+68) 0) text: KANE dismounts and leads the horses past a BLACKSMITH and towards the entrance of the stable. The STABLE MASTER com out to greet Kane.
+68) 1) dialog: Good day to you. You’d like to stable your horses?
+68) 3) dialog: How did you come by these animals?
+68) 5) dialog: They carry the mark of Malachi. If you stole them...
+68) 7) dialog: Did you kill them? Kane is silent.
+68) 8) dialog: We heard of a man who has been hunting them. You fought them and won.
+68) 10) dialog: You must hide Sir. This town is theirs; all around here they hold sway. Everywhere. (MORE )
+68) 11) text: 73 Solomon Kane by Michael J. Bassett 7 STABLE MASTER(cont'd) And spies work for them, listening in shadows betraying any who would fight back. If they know you are here...
+68) 13) dialog: But there are also others here who would fight. They are just waiting for enough men...
+68) 15) dialog: Would you not join them?

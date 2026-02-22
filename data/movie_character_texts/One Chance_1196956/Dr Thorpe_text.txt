@@ -1,0 +1,24 @@
+0) 0) text: The doors fly open as a team of EMS WORKERS wheels in a YOUNG PAUL POTTS (9) lying on a gurney. His parents ROLAN and YVONNE POTTS follow. DR. THORPE (29) a new intern meets the team along with a NURSE...
+0) 3) dialog: Right. Room three, please. He follows the gurney into a triage room, while the nurse waylays Roland and Yvonne with her clipboard.
+1) 1) dialog: How long since it occurred?
+2) 0) text: As Paul is wheeled into surgery. Young Dr. Thorpe, now in gown and gloves, meets his parents at the door...
+2) 1) dialog: --got some fluid build-up in the middle ear. Not to worry, we'll have him right as rain in no time.
+2) 3) dialog: Of course. Well, not with anyone still breathing... (realizes the faux pas) I’m still new, but rest assured, live or dead, the bits are all the same once you start digging around inside. (now they’re freaked) Cafe’s just down the hall. He heads into surgery... As the doors swing shut--
+9) 0) text: As Paul is brought in on another gurney where he’s met by a slightly aged Dr. Thorpe.
+9) 1) dialog: What’ve we got?
+81) 0) text: The doors fly open as a team of EMS workers wheel Paul in on a gurney with Julz following nervously behind them. Dr. Thorpe is almost completely gray.
+81) 1) dialog: What’ve we got? (recognizes Paul) What, you again? 70.
+81) 4) dialog: Appendix. Triage two, please. (to Paul) You might qualify for our frequent flier membership.
+82) 0) text: Where Julz waits with Yvonne as Dr. Thorpe enters.
+82) 1) dialog: Well, the good news is, it’s got nothing to do with the Creme de Menthe.
+83) 0) text: As Dr. Thorpe flips on a lightboard, revealing an x-ray o Paul’s abdomen.
+83) 1) dialog: The appendix hasn’t ruptured, yet.
+83) 3) dialog: Yes definitely, although it’1l have to come out I’m afraid.
+83) 5) dialog: How’s four o’clock suit you?
+83) 8) dialog: Oh, fantastic. Which one? 71.
+83) 10) dialog: Oh, is that the Madonna one? Wonderful performance that. I’m afraid singing’s quite out of the question.
+83) 12) dialog: An appendectomy is invasive surgery. If we leave it in it’s sure to rupture and he could die. Take it out and any great effort, like singing for instance, you’re liable to burst the stitches and cause irreparable damage to the kidneys or diaphragm.
+83) 14) dialog: It's possible that singing...wouldn’t be possible.
+99) 2) dialog: Hallo, Julz. Right this way... You know we're thinking of building you two your own entrance. He sees she’s only barely holding it together. Puts his arm around her and leads her into--
+100) 1) dialog: His collar bone’s shattered and he’s got severe whiplash.
+100) 3) dialog: He won’t be running a marathon anytime soon, but he’s not in any great danger.

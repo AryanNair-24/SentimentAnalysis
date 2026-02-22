@@ -1,0 +1,96 @@
+16) 1) dialog: You're scared of your dreams, aren't you?
+16) 5) text: 10 Portrait of CURTIS McCABE, 52.            Doctor of Psych prison division. He's far too wily to spend the currency of his brilliance just yet. It's too early in their relationship. He stands tall, leaning on a steel desk, polishing his glasses with end of his coat.
+16) 7) dialog: Is that how do you explain what's happened to you?
+16) 9) dialog: What happened to your face?
+16) 11) dialog: And you don't want to show me your face.
+16) 13) dialog: Do you know why you're here?
+16) 15) dialog: David - the part where we parry and joust, and get to know each other bit-by-bit... we're going to have to skip it. You've been charged with murder. In four weeks, a judge will determine your fate based on what I write. You will talk to me --
+16) 28) dialog: Enough! The Contentious Guard leaves.
+16) 29) dialog: Is it true?
+16) 31) dialog: That you're a Daddy's boy?
+16) 37) dialog: I've read it. Page  127.           "David Junior was a delight as a child." Did I miss something here? Is that all he wrote about you?
+16) 40) dialog: And you believe the Board, the Seven Dwarves, put you here to take control of your company.
+16) 42) dialog: We're just talking. And tonight's Wednesday night, and I go to Black Angus for dinner with my daughters on Wednesday nights, so I'll have to leave soon. You understand that our time is limited, don't you?
+16) 48) dialog: With all the respect I can offer a man wearing a latex mask and spouting conspiracy theories, David, trust me - you've crossed that bridge.
+16) 50) dialog: There are five basic emotions in life. Tell me. what emotion gripped... him... before he entered that cell? Was it Guilt? Shadows. There is no answer, just a rustling and a growin sense of anticipation in the darkness.
+16) 51) dialog: Hate? Shame? Shadows. Still no answer.
+16) 52) dialog: Revenge... McCabe now shows the invisible skill with which he has brought his client to the precipice. And now, with one word, he invites David Aames to look over.
+16) 53) dialog: Love? In the darkness, a rustling and the slight turn of a head
+16) 54) dialog: I'm completely on the wrong track, aren't I?
+27) 41) dialog: And you didn't immediately want to sleep with her?
+27) 43) dialog: (interested in his romantic style) How does that work?
+27) 51) dialog: - actually no I don't. I've been married for twenty-two years.
+27) 53) dialog: That's right. I do.
+27) 55) dialog: Like... what...
+27) 57) dialog: That's what you think I'm doing?
+27) 59) dialog: Well, you may have a point. Let's continue. Time is not our friend.
+33) 2) dialog: Is that the only thing that you dream?
+34) 2) dialog: Do you dream about the car accident?
+36) 1) dialog: What happened next?
+36) 5) dialog: (nods, knowing) Benny. Benny The Dog.
+37) 0) text: McCabe continues with David.
+37) 2) dialog: I'm from Ohio - we don't have power upheavals.
+58) 0) text: David is led down the hallway to his appointment, past ma door's with thick windows and howling prisoners. Aaron pulls him along. They arrive at the Psychiatric Unit.. McCabe is visible, standing, deep in thought through the door.
+59) 0) text: McCabe holds his drawings, standing. David is seated.
+59) 1) dialog: I see you haven't been wasting your time. Do you ever draw anything else? All the drawings are of Sofia, drawn in a similar fashion David is a little jumpy, a little amped. He moves to the window. The yard is filled with prisoners
+59) 3) dialog: Did you sleep last night.?
+59) 5) dialog: I've got to leave early today, so you'll have to be brief. Now. What can you tell me about the name "Ellie?"
+59) 11) dialog: Is that a girl you knew? A girl you were in love with?
+59) 13) dialog: Apparently, you kept repeating it last night. You did sleep, David, and your advisor said you cried out, you had a nightmare.
+59) 15) dialog: You cried out for "Ellie," David. Do you remember what happened?
+59) 17) dialog: Dig deep, David. Dig deep. You cried out for Ellie. What do you remember about Ellie? Show me your face, David. Help me. Open the door. David rises and goes to the prison window. ANGLE ON McCABE In powerful framing, lower shot capturing him powerfully.
+59) 18) dialog: (digging deeper', aching to help) It's true you had an accident. It's true you were disfigured, but not anymore. Do you remember?! (with certainty) They did fix your face. Take off that mask, David. You'll see your face is perfect under there.
+61) 0) text: David and McCabe both sit against the wall. McCabe listen intently.
+61) 1) dialog: Suspicious of whom? Of what?
+61) 3) dialog: Well, at the risk of boring you, I can present the alternate argument. I once knew a guy who was a real loner. And one day he woke up at 40, with two daughters who lit his life up with purpose. Suddenly he goes to endless school plays, he gets home at       9:20                  for the evening discussion, and he has the time of his life. His favorite Beatle was once John, and now it's Paul.
+61) 9) dialog: It all depends on the individual, doesn't it? Tell me. What's happiness for you?
+63) 2) dialog: Well, you won't show me your face. So back to the time-line. Hurry. Let's move through this.
+77) 0) text: McCabe is taut, following the thread. His voice calming.
+77) 1) dialog: Who is the man in the restaurant? Who is it?
+77) 3) dialog: Can you tell the difference between dreams and reality?
+77) 5) dialog: Think about it. Think with your head. You signed a contract, did you not.?
+77) 12) dialog: Was the man at the restaurant there? McCabe's voice becomes infinitely calm and helpful.
+77) 14) dialog: Accept your body's resistance. Let your head answer.
+77) 16) dialog: That's right. Who is Ellie?
+77) 18) dialog: What happened that night, David? Somebody died.
+77) 20) dialog: Do you understand that you hold the keys to this prison?
+77) 22) dialog: Who was it?
+77) 24) dialog: Who was it?
+77) 30) dialog: You want to let it out, don't you David? You're about to tell me. Tell me what your heart and soul will not allow you to forget. David shudders. It's coming.
+77) 31) dialog: Did you kill Sofia? McCabe stands tall, stunned and curious, still pressing t pull the nightmare out of him.
+81) 0) text: McCabe sits across from David. McCabe looks away, haunted by the admission of guilt.
+81) 2) dialog: David, who...
+81) 4) dialog: . was the man at the restaurant? David shakes his head.
+81) 5) dialog: (pained) Sometimes the mind behaves as if it were in a dream. Faces change, people become other people. The subconscious is a powerful thing. You treated Julie carelessly, didn't you, David? Your feeling of responsibility or guilt over Julie might have easily turned Sofia into Julie. (pause) Do you know what derangement is?
+81) 7) dialog: All I know is, you killed your girlfriend and I don't know what's in your mind.
+81) 9) dialog: I'd work on this case forever if I could, but we've run out of time.
+81) 15) dialog: Temporary derangement. It's your best chance. They won't believe me.
+81) 17) dialog: Believe it or not, I care about you. You've become like family to me. I don't want to give up on you. David looks at, him oddly. Suddenly, the archetype seems very familiar. McCabe continues with the noble concern of a towering father figure.
+81) 18) dialog: (continued) But I needed more. I needed an answer. I... I even thought there was more than a good chance someone was playing tricks on you. Maybe it was the board. But I can't exceed my duties here. I'm just a psychologist, and I have to leave you.
+81) 20) dialog: No. I'm just the opening act. He exits. David sits at. the table as McCabe and Aaron exit. He hears Aaron's television; it's the Life Extensio Infomercial.
+82) 0) text: Through the glass of the psychiatric unit, we see McCabe and Aaron exit. Only Aaron's television, sitting on a stool, remains. Push in on the television, which is playing the L.E. Infomercial. Push in on the reverse. It's David at the window as he realizes the true meaning of "Ellie" -- L.E. He bangs on the glass, at first slow, then faster, yelling for McCabe The L.E. Infomercial and Benny the Dog are reflected on t window.
+83) 0) text: McCabe hustles down the hallway with David. McCabe stands tall, moving forward, like Atticus Finch with Tom Robinso
+84) 0) text: McCabe watches David closely. Aaron the Guard turns to look at David behind the glass partition that separates them. David looks out the window at the world he's missed
+85) 0) text: The police vehicle pulls up in front of a crowded busines plaza. McCabe exits with David. Always watching his every move, his every revelation. David looks upward at the towering skyscraper in the center of the plaza, rising hi into the sky.
+86) 0) text: A Building Guard guides them through the lobby. McCabe trained on David. A look between the two. A Building Guard intercepts them.
+86) 1) dialog: (to Building Guard) Life Extension Corporation, please.
+86) 3) dialog: (a look to David) L.E. We hold a court order.
+87) 5) text: 90 them. McCabe watches David, as Aaron releases him from th handcuffs. The group moves together. Senses are overwhelming David, as they approach the reception statio
+87) 8) dialog: He's my son. He's very shy.
+87) 10) dialog: No.
+87) 12) dialog: (to Aaron) You can wait out here.
+88) 0) text: Aames and McCabe sit and wait in a warm wood-paneled office, proposals in hand. A glimpse shows words like Re- Evolve and Re-Experience, peppered with colorful photos o simple, life-affirming portraits of everyday life. It's well-appointed and well-marketed organization. McCabe regards David as the victim of a lunatic's scam. Injustice fuels McCabe.
+88) 1) dialog: (continuing, scoffing) "Cryonization - a journey of re- awakening after the preservation of the human body at extremely low temperatures."
+88) 3) dialog: (a little sadly) David, you're not- Account Liaison REBECCA DEARBORN enters with paperwork. She is an electric presence. Efficient, caring and oddly compassionate.
+88) 8) text: 92 The DNA codes of the human body have been broken. Soon, heart ailments, cancer and so much more, will be a thing of the past. Very simply, your anguish... your discontent... even your death is no longer necessary in a traditional sense. Whatever malady that hides behind that mask... is temporary. She looks directly at David, and it stirs him. McCabe studies her, and the operation. He thirsts for clues. David flips through the folder - toward the back, a panel of photos of storage tanks. Lavishly and warmly photographed, just like next year's cars in a magazine.
+88) 10) dialog: Did you sign this contract, David? David looks down at pamphlet, looks up.
+88) 13) dialog: (rueful, skeptical) "Cryo-tainment. " Dearborn spreads apart the paperwork on her desk to revea a thin Video Monitor built into the glass table-top. Aame and McCabe peer into the table--top as Dearborn presses play.
+88) 33) dialog: Your death will be wiped from your memory. I guess I missed that one in USA Today. David sits, reeling from the revelation he may be living Lucid Dream.
+88) 37) dialog: Did you sign a contract with these people, David?
+100) 3) dialog: David. Listen to me. These people are dangerous. We're in trouble. We need to get off this roof now.
+100) 6) dialog: "Pause"?
+100) 26) dialog: David, don't listen to him. You were right. This is the Seven Dwarves. It's a set up! You can't trust him. David looks at McCabe with compassion.
+100) 29) dialog: I'm real. I have two daughters. You know that.
+100) 31) dialog: 
+100) 34) dialog: Mortality as home entertainment. This cannot be the future. Can it? David regards McCabe. Once dynamic, McCabe now seems unsure of his own existence. Slowly, always looking at David, he settles into the truth of his very being. With great nobility, McCabe shoves his hands into his pockets and faces his own destiny... or lack thereof.
+100) 35) dialog: (quietly) Goodbye.

@@ -1,0 +1,370 @@
+4) 0) text: MILO pouring wine into MAGGIE's glass. She raises the glass to her lips, looking at him, and sips the wine. Here, as throughout, we shoot over her shoulder, or in such a way as to conceal her face.
+9) 0) text: MAGGIE is in bed asleep. MILO leans over her, her eyes open, she smiles.
+18) 0) text: MILO and MAGGIE kissing.
+22) 0) text: MILO's back. ANDREW opens the door.
+22) 2) dialog: Andrew Wyke?
+22) 4) dialog: I'm Milo Tindle.
+22) 7) dialog: I drove.
+22) 9) dialog: That's my car.
+22) 11) dialog: Not the big one.
+23) 3) dialog: Extraordinary.
+23) 5) dialog: Yes. Your wife.
+23) 7) dialog: Yes. I knew.
+23) 9) dialog: What?
+23) 13) dialog: My father is Italian.
+23) 15) dialog: Does it?
+23) 17) dialog: Cheers. « ANDREW You're sure your father isn't Hungarian?
+23) 18) dialog: Well, if he is he's kept it a dead secret for years. MILO sits and drinks.
+23) 20) dialog: English.
+24) 1) dialog: Thanks for agreeing to see me.
+24) 5) dialog: I had heard.
+24) 7) dialog: Adapted?
+24) 9) dialog: I speak English.
+25) 3) dialog: No.
+25) 5) dialog: No.
+25) 7) dialog: No.
+25) 9) dialog: Afraid not.
+25) 11) dialog: Am I? .
+25) 13) dialog: You speak Dutch yourself, do you?
+25) 15) dialog: Can't see any Italian translations.
+25) 17) dialog: Their salami is good, though.
+25) 19) dialog: Italian salami. Best in the world.
+25) 21) dialog: No. I left it at home.
+25) 23) dialog: We're going to have it for supper tonight, with a couple of bottles of Valpolicella.
+25) 25) dialog: Maggie and me.
+25) 27) dialog: Scotch.
+26) 1) dialog: I want to come to the point.
+26) 3) dialog: Are you going to give Maggie a divorce? And if not why not?
+26) 5) dialog: She thinks you're being unreasonable. So do I. She's never coming back to you, so why not give her the divorce? 10.
+26) 7) dialog: You're going to make her wait five years?
+26) 9) dialog: But that's pure spite.
+26) 12) dialog: I'm an actor.
+26) 14) dialog: She must have been talking about someone else.
+26) 16) dialog: Another friend?
+26) 18) dialog: Does she?
+26) 20) dialog: I'm her only friend.
+26) 22) dialog: She's not.
+26) 24) dialog: I'm out of work.
+26) 26) dialog: I drive cars now and again. Chauffeuring.
+26) 28) dialog: I keep my head above water.
+26) 30) dialog: Killers mostly. Sex maniacs. Perverts.
+26) 32) dialog: Yes. I know. Anyway, what about this divorce? What's your position exactly?
+27) 2) dialog: Like what?
+27) 6) dialog: That's right.
+27) 8) dialog: We have.
+27) 10) dialog: Why would I deny it? followed by MILO. During 13.
+27) 12) dialog: Yes, but she's fucking me.
+27) 14) dialog: Yes, it's mutual.
+27) 16) dialog: We fuck each other. That's what people do.
+27) 18) dialog: We're in love.
+27) 20) dialog: That's right.
+27) 23) dialog: Why not?
+27) 25) dialog: Is it?
+27) 27) dialog: And are you?
+27) 29) dialog: Going to divorce her. Or are you really going to make her wait five years? She wants to know.
+27) 31) dialog: My father's name is Tindolini.
+27) 33) dialog: You think so?
+27) 35) dialog: Tindle.
+27) 37) dialog: You will. Before long.
+27) 39) dialog: In spades.
+27) 41) dialog: Does it?
+27) 43) dialog: Why don't we get down to brass tacks?
+30) 4) dialog: She's in love with me.
+30) 6) dialog: That's your own experience, is it?
+30) 9) dialog: You won't believe what I'm going to say.
+30) 11) dialog: I'm all ears.
+30) 13) dialog: Get away.
+30) 15) dialog: I'm really touched.
+30) 17) dialog: Oh, I did, quite.
+30) 19) dialog: What's your solution?
+31) 0) text: The elevator goes down. ANDREW smiles at MILO.
+32) 2) dialog: Steal them?
+32) 4) dialog: What the hell do you mean? rg. 35 36 37 19.
+32) 6) dialog: You want me to steal the jewels.
+32) 8) dialog: I don't get it.
+32) 10) dialog: You want me to take part ina scummy little plot to defraud your insurance company? Is that it?
+32) 12) dialog: What do you think I am? I mean, what the fuck are you actually talking about?
+32) 14) dialog: This is a joke.
+32) 16) dialog: It's also a trap.
+32) 18) dialog: Yes, it's some kind of trap. You think I'm a fool?
+32) 20) dialog: Anyway, it doesn't hold up.
+32) 22) dialog: You say they're worth half a million pounds?
+32) 24) dialog: Well, you'd only get a fraction of that--fram any fence.
+32) 26) dialog: Why would he do that?
+32) 29) dialog: And why would you do all this? 21.
+32) 31) dialog: This is a frame up.
+32) 33) dialog: You want to destroy me. You want to see me in jail. You get me to do this and then shop me to the police.
+32) 35) dialog: Are you asking me to trust you?
+32) 37) dialog: Why don't you steal the jewels and give them to me?
+32) 39) dialog: Well, why don't you break into it? 22.
+33) 0) text: MILO walks to the window. He looks out. ANDREW watches him.
+33) 1) dialog: (slowly) Ok. If I were to agree to do this, would you agree to the divorce?
+33) 3) dialog: She wants a legal settlement. She wants pazt of your estate.
+33) 5) dialog: It's legal justice.
+33) 7) dialog: But--wait a minute--you get £500,000--from the insurance.
+33) 9) dialog: OK. Let's make a deal.
+33) 11) dialog: I break in, I steal the jewels and you agree to the divorce. That's the deal. Otherwise fuck it. That's another quid pro quo. But you have to shake on it. ANDREW stares at him.
+33) 13) dialog: OK. OK. So what do I do?
+33) 15) dialog: It's pretty high up.
+33) 17) dialog: I'm not very good at heights.
+33) 19) dialog: I think you're putting me on.
+33) 24) dialog: Put them on?
+33) 26) dialog: Yes. But I'm anxious and frightened.
+33) 28) dialog: But I don't.
+33) 30) dialog: Maggie never told me you were such...a manipulator. (MORE)
+33) 32) dialog: She told me you were no good in bed but she never told me you were such a manipulator.
+33) 34) dialog: Oh yes.
+33) 36) dialog: I must tell her.
+34) 2) dialog: Get the ladder?
+35) 0) text: MILO walks back out into the main room, by the back windows and looks at the skylight directly above.
+35) 1) dialog: Wait a minute. You've forgotten a major item. 26.
+35) 3) dialog: Once I'm in, how do I get down? How do I get down to floor level?
+35) 6) dialog: Let me see it descend.
+35) 8) dialog: Let me see it come down. Now.
+35) 13) dialog: Whose rules? 42 43 44 45 46 47 48 27.
+37) 0) text: On the screen MILO approaches the shed and goes in.
+39) 0) text: MILO inside the shed. He looks at the ladder and down at the hammer. He finds the gloves and puts them on.
+40) 0) text: ANDREW is smoking. On a screen MILO comes out of the shed with the ladder and the hammer. ANDREW speaks into his mike.
+41) 2) dialog: Yes.
+43) 2) dialog: 
+44) 0) text: On another screen MILO can be seen placing the ladder against the wall.
+45) 2) dialog: 
+48) 2) dialog: Why am I doing this?
+50) 2) dialog: Jesus. Jesus Christ.
+52) 2) dialog: I'm going to die.
+54) 0) text: MILO smashes the window with the hammer.
+55) 0) text: ANDREW walks into the main room and looks up at the skylight. MILO is halfway through the window. He looks down. He is caught between jagged glass. He chips it off with the hammer. It falls into the room. He very carefully climbs in and finally manages to stand on the ledge. 30.
+55) 2) dialog: Where's the ladder?
+55) 4) dialog: The ladder! Where's it gone?
+55) 8) dialog: It's not working?
+55) 10) dialog: In the morning? What about now?
+55) 13) dialog: wall feet
+55) 14) dialog: When
+55) 15) dialog: 
+55) 16) dialog: 
+55) 18) dialog: So I'm stuck up here for the rest of my life?
+55) 21) dialog: Is this as far as it will go?
+55) 23) dialog: (holding his leg) Christ!
+55) 25) dialog: I've broken my leg.
+55) 27) dialog: I've just had a heart attack.
+55) 29) dialog: I don't need it. He throws ANDREW off.
+55) 31) dialog: I thought I was going to die.
+55) 33) dialog: You were playing with me. You're a sadist.
+55) 35) dialog: You did, eh? OK. So what the fuck do I do now?
+55) 37) dialog: Where is it? How do I open it?
+56) 2) dialog: OK. All right.
+56) 4) dialog: Quite, yes.
+57) 3) dialog: Safe's are always kept behind paintings, aren't they? He lifts a painting from the wall. There is no safe. He throws the painting at the wall.
+57) 5) dialog: I'm a desperate man. Isn't that what you said? ANDREW picks up the Picasso and strokes it.
+57) 7) dialog: That's no Picasso. It's a fake. MILO walks towards another painting.
+57) 9) dialog: Where is this fucking safe?
+57) 11) dialog: It's locked.
+58) 2) dialog: You hear me?
+58) 4) dialog: And then?
+58) 6) dialog: How?
+58) 9) dialog: Christ! ANDREW throws another punch. MILO sidesteps and hits ANDREW in the stomach.
+58) 11) dialog: So sorry.
+58) 13) dialog: I don't have a knife.
+58) 16) dialog: You're threatening me.
+58) 18) dialog: Take it easy. He pokes MILO again.
+58) 20) dialog: Me, or you?
+59) 2) dialog: Wait a minute. Am I me now? Or am I you? Or are you still me?
+59) 4) dialog: (muttering) 191194.
+59) 6) dialog: Jesus!
+59) 8) dialog: They're quite...beautiful.
+59) 10) dialog: £400,000 eh?
+59) 12) dialog: OK. So far so good. Well, you'd better give me the address of that fence.
+59) 14) dialog: The fence in Amsterdam.
+59) 16) dialog: Listen. Do you mind putting that gun down?
+59) 18) dialog: It's pointing directly at me. I'm not very happy about it.
+59) 20) dialog: Look. Is this a game?
+59) 22) dialog: What's the real game? 39.
+59) 24) dialog: Oh is it?
+59) 26) dialog: I'm not enjoying this.
+59) 28) dialog: What's it all about?
+59) 30) dialog: You've been leading me up the garden.
+60) 0) text: MILO does so. ANDREW turns the lights out, leaving one spotlight on MILO.
+60) 1) dialog: Listen, wait a minute. Before we go any further--there's something I must tell you.
+60) 3) dialog: Maggie respects you. 40.
+60) 5) dialog: Yes. She often says you're a man of true integrity. That you're a really decent guy.
+60) 7) dialog: I believe it.
+60) 9) dialog: I know you are. I know you are. And that's what she says. She admires your mind.
+60) 11) dialog: Yes. Your mind excites her.
+60) 13) dialog: Oh very. Your mind excites your wife sexually.
+60) 15) dialog: Sorry? What?
+60) 17) dialog: What about it?
+60) 19) dialog: Do you know, I don't think she's ever mentioned it.
+60) 21) dialog: My prick? Where does my prick come into it?
+60) 23) dialog: Oh thanks.
+60) 25) dialog: What?
+60) 27) dialog: Really?
+60) 29) dialog: You're going to shoot me?
+60) 31) dialog: Why?
+60) 33) dialog: I'm not a hairdresser.
+60) 35) dialog: (shivering) Don't do it. Listen. Don't do it. Don't shoot. Please. Don't shoot me. Please. I'll just go away-- quietly. I'll just get into my car and go. That's all. You'll never see me again. Ok? Don't shoot. Don't use that gun. Please. You're crazy. No--you're not crazy. You've just got things wrong. Totally. I don't want your wife. I hate women. You understand? I hate women. I hate your wife. You've absolutely no reason to be jealous. Women are not my scene. I'd rather do it with a dog, or a goat, or a boy I knew at school. His name was Dooley. I called him Dolores. I hate women. Honestly. God's honour. Do you believe in God? ANDREW shoots him. MILO falls.
+61) 0) text: Close up on MILO's face. ANDREW goes over to MILO and looks down at his body. 68 69 70 71 72 73 74 75 43. He takes the jewels from his pocket. He puts the jewels into the safe and closes the safe.
+67) 0) text: MILO is lying on a bed. It appears to be a death bed. MILO's eyes are closed. The room is full of flowers. Maggie bends over him and kisses him on the lips.
+87) 0) text: They stare at each other. BLACK suddenly laughs. He takes off his wig. He takes out his contact lenses, rips off his moustache, takes off jacket and shoulder holster, opens shirt, shows padding. He smiles at ANDREW. It is MILO.
+87) 1) dialog: Look at you. You're all of a quiver. Who's the dead duck? (MORE)
+87) 4) dialog: You're the dead duck. I've just sucked you in and blown you out in little bubbles.
+90) 0) text: ANDREW stands and finishes his glass of champagne. INT. ANDREW'S HOUSE” - MASTER BEDROOM -NIGHT - FLASHBACK ANDREW comes into the room and leans over MILO.
+90) 7) dialog: You know, it's funny, you're absolutely right, I really did think I was dead.
+90) 9) dialog: You play a tough game.
+90) 11) dialog: Well listen, I'm grateful to you-- for not killing me.
+90) 13) dialog: Yes, I see that.
+90) 15) dialog: Yes. Thanks. Listen. I think I'll pop off, grab a cheese sandwich somewhere.
+90) 19) dialog: No thanks. But thanks for the brandy. It came in handy. They both laugh.
+91) 0) text: MILO taking off padding.
+91) 2) dialog: It's me all right. « ANDREW You bastard. You shit. You stinking bastard.
+91) 3) dialog: Just a little game, Andrew. Just a little game. I thought it might amuse you.
+91) 5) dialog: I know I am.
+91) 7) dialog: I know that too. He starts to put on his own clothes.
+91) 9) dialog: The blood belongs to a pig's liver. 67.
+91) 11) dialog: I did it last night. I used that ladder. I heard you snoring.
+91) 13) dialog: She knows nothing about it. Entirely my own idea. This is a game between us, old boy. Between you and me. Had to get some revenge, you see. Don't forget I'm half Italian. We go in for revenge. After all, you frightened the life out of me, deliberately. You fired two live bullets into the wall and then pointed the gun at me. And then you fired. I don't like guns. They kill you.
+91) 15) dialog: No no, you're way ahead. I just teased you with my Inspector. Gave you a few goose simples. But you frightened me to death. So we're a long way from one set all. I may be three games up in the second set, but you won the first six love.
+91) 17) dialog: Loved what?
+91) 21) dialog: Oh, is she?
+91) 23) dialog: What?
+91) 26) dialog: And sit down.
+93) 0) text: Though the open study/bookcase door, ANDREW and MILO can see each other.
+93) 1) dialog: Keep the wall open. Watch me. MILO puts on the shoulder holster. He presses a button on the wall. The ladder comes down. He grasps the last rung and swings his legs onto the ladder. He then climbs halfway up the ladder. 1o1 69.
+93) 3) dialog: It's late at night. You're reading under the lamp. Read something.
+93) 5) dialog: Read a book. ANDREW picks up a book and opens it.
+93) 6) dialog: It's late at night. You're reading a book. You hear something. You look up. It's me, jumping off the ladder. MILO jumps off the ladder. He takes the gun out of the holster and walks tewards the study.
+94) 1) dialog: You see me with this gun. You're caught--like a rat in a trap. You stare at the gun. You're paralysed. ANDREW sits staring at him.
+94) 2) dialog: I've come for the jewels. Where's the safe?
+94) 4) dialog: The jewels. Where's the safe?
+94) 6) dialog: No I don't. 70.
+94) 8) dialog: You think I'm joking? You think this gun isn't real? He shoots at a vase, it smashes.
+94) 9) dialog: Get up. ANDREW stands.
+94) 10) dialog: Where is it?
+94) 12) dialog: Well, let's go upstairs. Not in the elevator. Up these stairs.
+95) 1) dialog: Get up these stairs or I'll ram this gun right up your arse. MILO prods him with the gun. ANDREW stumbles and then runs up the stairs followed by MILO.
+96) 0) text: They enter the bedroom. ANDREW leads MILO to the fish tank.
+96) 2) dialog: Then press it.
+96) 5) dialog: Open it.
+96) 7) dialog: What is it?
+96) 9) dialog: Remember.
+96) 11) dialog: Remember.
+96) 13) dialog: I've broken into your house because I know you have jewels in your safe. Get me? I have inside information. I want them. MILO points the gun at ANDREW. 104 72. ANDREW ducks away sharply. MILO shoots. ANDREW screams, collapses onto the floor. He lies still. He slowly opens his eyes.
+96) 15) dialog: It was blank. But the next one is real. MILO stands over ANDREW. He kicks him.
+97) 1) dialog: Remember the combination and open the safe. ANDREW crawls to the safe and opens it, trembling and muttering.
+97) 2) dialog: Give me the jewels. ANDREW does so.
+97) 3) dialog: That's a good boy. So what are you writing at the moment?
+97) 5) dialog: Yes, I'm very interested in literature. I'ma kind of artistic thief.
+97) 7) dialog: Sure. It's your house. ANDREW walks into MAGGIE's dressing room. 73.
+98) 1) dialog: I'm always interested in the people I rob. Like I'm always interested in the husbands of the wives I fuck.
+98) 3) dialog: So what are you writing?
+98) 5) dialog: Does he come to a bad end?
+98) 7) dialog: Countless others, eh? I can see you've researched the subject thoroughly.
+98) 9) dialog: Death in orgasm.
+98) 11) dialog: I can't, no. You're a married man yourself aren't you? 74. ANDREW . Oh, yes. Married ten years. It was love at first sight.
+98) 12) dialog: Very moving.
+98) 14) dialog: Someone told me your wife has a lover.
+98) 16) dialog: Do you know him?
+98) 18) dialog: One of the Bombay Tandouris?
+98) 20) dialog: Me?
+98) 22) dialog: Irish. Connemara. Spanish descent. By way of Uganda. My grandparents were slaves. My mother was a dark eyed dusky beauty.
+98) 24) dialog: Oh, sure. Like a baby. Shall I tell you what I want you to do with these jewels?
+98) 26) dialog: Put this bracelet on your wrist. MILO hands him a bracelet. ANDREW looks at it and slowly slips it onto his wrist.
+98) 27) dialog: Put these earrings on your ears. MILO hands him a pair of earrings. ANDREW looks at the earrings.
+98) 28) dialog: They clip. Clip them. On your ears. ANDREW clips them on to his ears.
+98) 29) dialog: God, you look so charming. Now, put this necklace round your neck. MILO hands him a necklace. ANDREW puts it round his neck but can't fix the clasp.
+98) 30) dialog: Let me give you a hand. MILO goes behind ANDREW and lifts the necklace.
+98) 31) dialog: How do you want it? Like this? or do you want it shorter? He tightens the necklace.
+98) 32) dialog: How about this? He tightens the necklace.
+98) 33) dialog: Or even shorter. Like a halter. He tightens it round ANDREW's neck. 76.
+98) 35) dialog: Am I hurting you?
+98) 37) dialog: You sensitive to pain?
+98) 39) dialog: I wouldn't hurt you, sweetheart. You're too much fun.
+98) 42) dialog: You're right. Take them off. ANDREW takes them off.
+98) 44) dialog: But the necklace is nice.
+98) 48) dialog: No, no. That was a game. Just a game. I thought it might amuse you.
+98) 51) dialog: Remains to be seen.
+98) 53) dialog: Some. Not all.
+98) 55) dialog: Oh yes. Sure.
+98) 57) dialog: Do you? 78.
+98) 59) dialog: I have met her, yes.
+98) 61) dialog: Yes, she said she had a husband.
+98) 63) dialog: Remote. Cold. Malevolent. Spiteful. Arrogant. Ruthless. Jealous. Paranoid. Criminal tendencies. Mentally unsound. «+ ANDREW That's me all right! You know something? I like your mind. It excites me.
+98) 64) dialog: Does it really?
+98) 66) dialog: You mean you like my style?
+98) 68) dialog: What?
+99) 2) dialog: No.
+99) 4) dialog: Yes. « ANDREW Any idea what my proposition is going to be?
+99) 5) dialog: No.
+99) 7) dialog: Let's say intricued.
+100) 3) dialog: Me?
+100) 5) dialog: Am I now?
+100) 7) dialog: They don't grow on trees.
+100) 9) dialog: You're asking me to live here?
+100) 13) dialog: But what about Maggie?
+100) 15) dialog: It's quite tempting.
+101) 0) text: MILO's cell phone rings. He puts his gun in the holster, takes the cell phone from his pocket and listens.
+101) 1) dialog: Hello. . He listens.
+101) 2) dialog: Hi. He listens.
+101) 3) dialog: It's going OK. He listens.
+101) 4) dialog: We're still talking. But we're on the right track. It's all going OK. He listens.
+101) 5) dialog: Don't come down. That would be a mistake. It's all going fine. He listens.
+101) 6) dialog: I love you too. He listens. 82.
+101) 7) dialog: I am. I'm kissing you. He listens.
+101) 8) dialog: Oh yes. I can taste your mouth. She puts the phone down.
+101) 9) dialog: She's threatening to come down.
+101) 11) dialog: She wants that divorce.
+101) 14) dialog: Well, I like the idea of Jamaica. But what about Barbados?
+101) 16) dialog: Yes, it's true. There are so many places I haven't been. Hollywood. St. Petersburg. The Cote D'Azur. Coney Island. Oh, and I hear there's a wonderful hotel in Scotland called Balmoral.
+101) 18) dialog: Ah. So bed and breakfast is out.
+101) 20) dialog: I don't.
+101) 22) dialog: That's fantastic!
+101) 24) dialog: Venice? Disneyland?
+101) 26) dialog: Kissinger? Pinochet? Madonna? Mike Tyson?
+101) 28) dialog: Yes, I must say, that, as offers go, it's quite tempting. You're a naughty tempter, aren't you? (pause) I'm so glad you like my mind. Not many people like my mind. Quite a few people like my body but I can't think of anyone who likes my mind. That makes you unique. But then of course you know what they say. The mind is the body.
+101) 30) dialog: Well, somebody said something like it once. Bullshit, of course. Anyway - perhaps I am your sort of person. Who knows? But you'd have to be very nice to me. For instance, just at this moment I need a drink. 84.
+101) 32) dialog: No, darling. You get it for me and then I might be nice to you.
+101) 34) dialog: That's what I said. Whisky please. ANDREW does not move.
+101) 35) dialog: I can't deny that you might find me a congenial companion. I really can't deny it. I could be quite a witty companion. Would you like a witty companion?
+101) 37) dialog: I'm particularly witty in the morning. Would that suit you? Some people hate wit in the morning. What about you?
+101) 39) dialog: Over boiled eggs? Do you like eggs?
+101) 41) dialog: Boiled or scrambled? I'm a dab hand in the kitchen. But you'd have to be nice to me and give me a drink when I ask for it. ANDREW pours a glass of whiskey and gives it to him.
+101) 42) dialog: You see, you can be really sweet when you put your mind to it, can't you? 109 85. He drinks.
+101) 43) dialog: Cheers. Listen, I can see what you're saying. I can see why you're inviting me to live with you. I can see that you're lonely. You need looking after. It's obvious. You need someone who would cater for your every whim. Don't you?
+102) 0) text: MILO's cell phone rings.
+102) 1) dialog: Hello. He listens. “
+102) 2) dialog: Darling. He listens.
+102) 3) dialog: What? What? He listens.
+102) 4) dialog: Oh is that so? Are you? He listens.
+102) 5) dialog: I see. Are you sure? He listens.
+102) 6) dialog: Uh-huh. I see. He listens.
+102) 7) dialog: I get it. 86. He listens.
+102) 8) dialog: I told you, I get it. I understand. OK. Yes sure. OK. He listens.
+102) 9) dialog: OK. I'li tell him. He puts the phone down.
+102) 11) dialog: That she loves you.
+102) 13) dialog: Nothing.
+102) 15) dialog: Nothing. MILO and ANDREW stare at each other.
+102) 17) dialog: Like you? 87.
+102) 19) dialog: You know, I've always been attracted by rich and powerful men. Rich and powerful men make all the girls quiver like a jelly on a plate.
+102) 21) dialog: Yes, it tickles the old cobblers, money .
+102) 23) dialog: You'd be surprised.
+102) 25) dialog: Well I may have been once, back in the good old days.
+102) 27) dialog: Who knows? Look. I'd really like to see your bed. I mean let me be quite clear - this looks a very nice bed indeed, but yours is bigger. Can I have another look at it?
+102) 29) dialog: Is this how you do it? He presses it. A wall moves, revealing the bedroom.
+103) 1) dialog: Miraculous! I could really get to like this. MILO walks towards the bed.
+103) 2) dialog: Of course this is the marriage bed, isn't it? Is this where she took your virginity? Is this where your wife deflowered you? Is this where you were deflowered? He sits on the bed.
+103) 3) dialog: It's a lovely bed. So bouncy. He takes off the shoulder holster and puts it down on a side table. He lies down on the bed, rests his head on th pillow.
+103) 4) dialog: I'm so touched to be offered a place in your heart, in your life. I'm touched. He smiles at ANDREW. ANDREW stands still. MILO smiles at ANDREW. ANDREW slowly moves towards him. He strokes MILO's face, tentatively.
+103) 6) dialog: Take your hand off me. 89. ANDREW stops stroking.
+103) 7) dialog: Take your hand off me. MILO throws him off violently.
+103) 8) dialog: Fuck off! Go and fuck yourself you big pouff! MILO gets off the bed.
+103) 9) dialog: Jesus. I come here as an innocent bystander, as a totally respectable person - a humble, part time hairdresser - and you try to corrupt me. You try to seduce me. You know what you are? You're a menace. Also, you're a cunt. They stare at each other.
+103) 11) dialog: You know who's going to love this story?
+103) 13) dialog: This one. This one.
+103) 15) dialog: Maggie.
+103) 17) dialog: Oh by the way, she asked me to tell you something.
+103) 19) dialog: She's coming back to you. She's on her way.
+103) 21) dialog: Yes. That's what she told me. On the phone.
+103) 23) dialog: Well you've got her. She's all yours. You're welcome to her. She loves your money, baby. That's the nub of it,
+103) 26) dialog: I'm taking it. Tell Maggie I'll be in touch. I want to have a drink with her. I want to bring her up to date. MILO puts the coat over his shoulders.
+103) 27) dialog: How do you like me in this coat? Do you fancy me? He goes to ANDREW and kisses him lightly on the mouth.
+103) 28) dialog: Goodbye, darling. MILO goes to the door. ANDREW takes MILO's gun out of the holster. 111 112 113 114 gl.
+103) 30) dialog: Yes? What?

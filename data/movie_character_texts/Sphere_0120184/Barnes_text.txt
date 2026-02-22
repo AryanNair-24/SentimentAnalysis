@@ -1,0 +1,273 @@
+5) 0) text: CAPTAIN HAROLD BARNES, 60s, immaculate, proud of who he i the phone.
+5) 1) dialog: How's he look?...  Well, we can't all be officers, can we? (laughs)
+6) 0) text: Norman stands in front of the door.  The doorplate reads: COMMANDER -- CAPTAIN HAROLD BARNES.  Norman straightens h tie.  Deep breath.
+7) 0) text: As the door opens, Barnes is putting down the phone, rise desk, as Norman steps inside.
+7) 1) dialog: Dr. Norman Johnson.  Welcome aboard. They shake hands.
+7) 3) dialog: Captain.
+7) 6) dialog: Don't thank me, Dr. Johnson.  You weren't my choice.  The Pentagon made me take you.
+7) 8) text: The Pentagon?  I didn't know I had friends in Washington. Norman tries to laugh as Barnes ushers him to the door...
+7) 9) dialog: Come with me.  The team's already waiting.
+8) 0) text: Barnes leads Norman down the corridor, lined with OFFICER
+8) 1) dialog: What have you been told so far?
+8) 3) dialog: Anything else?
+8) 7) dialog: You talk to any reporters?  Any press?
+8) 9) dialog: Good.  Security's been our biggest worry.  Now that you're here we can shut this thing down tight.
+8) 11) dialog: Well, we don't have all the facts yet. Another GUARD opens up another large steel door...
+9) 0) text: Barnes leads Norman through the room, crammed with video screens, and grids.  Officers talk into radios.  Technici computers.
+9) 1) dialog: We're moving fast considering the storm.
+9) 3) dialog: A cyclone's on it's way in.  I thought they would have told you on the phone.
+9) 5) dialog: We've had divers working around the clock.  Take a look at this... ANGLE ON a large VIDEO SCREEN -- shows a diver walking on floor, holding a bright artificial flashlight.
+9) 7) dialog: A thousand feet.
+9) 9) dialog: Survivors?  No, I wouldn't think so.
+9) 11) dialog: What?
+9) 13) dialog: What crashed wasn't an airplane, Dr. Johnson.  It's a bit larger than that. Barnes walks toward a TECHNICIAN, sitting at a keyboard.
+9) 14) dialog: (to technician)
+9) 17) dialog: Something like that. (beat)
+9) 20) dialog: As best we can estimate, it crashed four hundred years ago. A beat.
+9) 22) dialog: See this?  Coral.  Geologists measured the coral growth on top of the craft to be over five meters thick.
+9) 24) dialog: Coral grows at a rate of two and a half centimeters a year --
+9) 26) dialog: -- dating the crash at least that old.
+9) 28) dialog: Maybe older --
+9) 30) dialog: Extraordinary, isn't it?
+9) 32) dialog: I'm afraid it is Dr. Johnson... because it's sitting on the bottom of our ocean floor.
+10) 0) text: Barnes and Norman shuffle down the stairs.
+10) 1) dialog: Off the record, I don't mind telling you, this thing scares the shit out of me.
+10) 3) dialog: We think it might.  That's why we brought you here.  We've assembled your team -- they're waiting for us now.
+10) 5) dialog: The one you recommended.  In the ULF report you wrote for the Bush administration.
+10) 7) dialog: Your report's become our bible down here, Dr. Johnson.  We've been carrying out each of your recommendations -- one by one -- to the smallest detail.
+11) 2) dialog: Of what we're able to measure, roughly twenty-six hundred feet.
+11) 4) dialog: The wing dimension alone is larger that any aircraft we've seen. The team members sit around the conference table: TED FIELDING, 41, geologist, boyish and happy to be here. HALPERIN, 36, biochemist, mother of three who's never wor ARTHUR LEVINE, 54, marine biologist, pudgy and quiet.  HA mathamatician, African-American, wire-glasses, no bullshi
+11) 6) dialog: To the craft?  None.  Not a scratch.
+11) 8) dialog: I'm not saying anything, Harry, I'm just stating the facts. (continuing)
+11) 12) dialog: Basic English?  There's no way this spacecraft was constructed on our planet.
+15) 0) text: Norman steps down the ladder into the sub compartment.  S circle area: Ted, Beth, Harry, and Arthur.  Ahead of them Barnes sits with the pilot in the sub's cockpit, separate of plexiglass. Norman takes a seat between Beth and Ted.
+15) 1) dialog: (through the intercom)
+15) 3) dialog: Pressure adjustments will cause the sub to lurch at times, but don't be alarmed.  It's perfectly normal... Arthur's face drips with sweat, as Harry continues to whi ear.
+15) 4) dialog: The sub's interior atmosphere will experience moisture as we descend, and the temperature will drop rapidly.  Just relax and remain seated during the descent. Norman watches Arthur, dripping with sweat.
+15) 5) dialog: We have clearing from the base. Red interior lights flicker on in the compartment, and WE make a HISSING sound.  The sub lurches, and begins to low water.
+15) 10) dialog: Calm down, Dr. Levine.
+15) 12) dialog: Please, Dr. Levine. Arthur leaps violently out of his seat, scrambles to the wall.
+15) 13) dialog: (through the plexiglass)
+15) 15) dialog: ... Your civil rights have been overridden!
+15) 17) dialog: Dr. Levine, please!  Return to your seat! Arthur VOMITS, violently, heaving, splattering the plexig
+15) 19) dialog: Anybody else? Silence. The hatch door LOCKS, loudly.  The sub lurches, and begin
+19) 0) text: Fletcher leads Barnes and the team members down the hallw them wears the "talkers" around their necks.
+19) 1) dialog: They pressurize us with helium.
+19) 3) dialog: It's a corrosive gas.  On earth, it makes a half-eaten apple turn brown and puts the ugly, iron rust on an Oldsmobile.  At a pressure this low, oxygen becomes toxic.  Breathe it down here, and it'll do to your dick what it does to the Oldsmobile.
+20) 1) dialog: Edmunds, bring up the robot's camera feed. JANE EDMUNDS, 32, the unit archivist, works the control p MONITOR clicks on -- showing the robot's POV of the door.
+20) 3) dialog: Nobody goes inside, until we know what's inside. ON THE MONITOR -- THE ROBOT CAMERA scans the spacecraft h a rectangular panel mounted to the left of the door.
+20) 4) dialog: Can you open that panel?
+20) 8) dialog: Duly noted, Ted.  Edmunds, try using suction. ON THE MONITOR -- another robotic arm extends out, with a sucker.  It pushes against the panel, but doesn't suck.
+20) 10) dialog: Thank you, I can see that.  Try something else.
+20) 12) dialog: Well, shit -- find something, do something... make something up --
+20) 14) dialog: What about a crowbar?
+20) 20) dialog: Or whatever's in that thing. ON THE MONITOR -- the spacecraft, sitting there silently, at them.
+20) 21) dialog: Norman, what do you think? Norman, quiet in the corner, perks up...
+21) 2) dialog: Nothing to be nervous about.  These suits are wired and electrically heated.  Each equipped with an alarm that triggers automatically if life- support sustems go below optimum. Norman holds his jumpsuit out and away from him, like it' nuclear.
+22) 0) text: Dressed in jumpsuits and helmets -- Barnes jumps into a P water, cut out from the floor, leading to the ocean.  It tiny swimming pool.  Ted jumps in next.  Beth, Harry, and left...
+24) 9) dialog: Give him the hammer, Ted. Norman takes the hammer.  Walks up to the wedge.  Gets hi Rears back... then stops.
+24) 11) dialog: What is it, Norman?
+24) 13) dialog: It's chipped.
+24) 15) dialog: I don't know how it can be chipped, but it's chipped.
+24) 17) dialog: I did.
+24) 20) dialog: Back away then.
+24) 22) dialog: I said back away.
+24) 25) dialog: Ted, get her away from the door.
+24) 27) dialog: Get her away! THE DOOR begins to slide open. Beth backs away. THE DOOR, sliding, is revealing COMPLETE BLACKNESS inside stops, it's open, it's quiet.  They all stand there, look BLACKNESS.  A long beat.
+25) 2) dialog: What is it? Ted SPOTLIGHTS the OUTER HULL.
+25) 4) dialog: Radiation shield, you think?
+25) 7) dialog: What is it?
+25) 12) dialog: Calm down, alright?  They gotta be somebody's here.  Let's stay together, please.
+25) 16) dialog: Alright, Beth, do that thing you did before.
+25) 18) dialog: Or just... press the button. Barnes holds out his gun, and enters.  The others behind
+25) 23) dialog: (serious)
+25) 24) text: What do you make of this? ON NORMAN -- as he steps around Barnes, his light BRIGHTE SIGN that reads: "Trash."
+25) 53) dialog: We had considered it.
+26) 0) text: Ted and Barnes trek through a vast cargo bay, like two an flashlights.
+26) 2) dialog: What would we be working on in the future that would make us want to come back?
+26) 35) dialog: Yes, Harry.
+26) 37) dialog: So do we.  And it seems to have picked up something on it's travels. STILL ON NORMAN -- frightened... 
+26) 39) dialog: I don't know.  But it's something alien.
+27) 6) dialog: But what does it do?  This... sphere.
+27) 12) dialog: What?
+27) 14) dialog: A break for what?
+28) 0) text: DOWN A LONG CORRIDOR -- WE SEE Barnes, through a half-clo pacing, talking on the phone... 
+28) 1) dialog: ... it's definitely something alien ... another civilization, yes, sir...  Well, we don't know yet, but we think we've found a door... 
+29) 0) text: Edmunds, Barnes, and the team members (minus Ted) look at
+29) 1) dialog: So how do we get it open?
+29) 4) dialog: What?
+29) 8) dialog: The what?
+29) 11) dialog: So?  What's the problem?
+29) 15) dialog: Like "Thou shall not kill"?
+29) 17) dialog: You mean, what's in that thing is immortal?
+29) 19) dialog: Everything can be killed.
+29) 21) dialog: Yeasts?  Thank you, Beth, but I don't think we're gonna open it up and find a loaf of bread.
+29) 24) dialog: Or it could contain some great benefit to us, some astonishing new idea or technology to help mankind.
+29) 26) dialog: You don't know that.
+29) 28) dialog: Just tell me worst case.  Worst case of what we might find?
+32) 1) dialog: What caused it?
+32) 5) dialog: Let me see that again. Edmunds plays it again.  This time...  WE MOVE IN ON HARRY, staring at the monitor.
+33) 0) text: CLOSE ON -- Norman and Barnes.
+33) 1) dialog: Don't get hysterical, Norman.
+33) 3) dialog: Look, the ships are clearing out. They're taking us topside in a matter of minutes.  Someone can check him out there, if it's that imprtant.
+33) 5) dialog: Just worry about yourself.
+34) 0) text: Barnes on the phone with the surface.  Ted talking to him
+34) 2) dialog: (into phone)
+35) 3) dialog: (into phone)
+35) 4) text: ... I said send the subs down, damn it! Barnes out the door, Ted at his heels... 
+35) 6) dialog: Ted, shut up.  Are you packed?  Ready to go?  I want everyone packed.  Now! ON NORMAN -- running at them... 
+35) 8) dialog: What do you mean, he's missing?
+35) 10) dialog: He's here somewhere.  Find him.  The sub's on it's way. (they look at him)
+35) 11) text: Go!  C'mon! Norman runs off.  Barnes storms down the hall... 
+35) 12) dialog: How can he be missing?
+35) 14) dialog: We're on the bottom of the fucking ocean -- he can't just walk outside!
+37) 0) text: Barnes, phone to his ear... 
+37) 1) dialog: Gimme a report, I want --
+37) 3) dialog: Who is that?  Where's that coming from?
+37) 5) dialog: What's he doing there?
+38) 2) dialog: Get him out of there.  I thought I told you people --
+39) 0) text: Norman with Barnes... 
+39) 1) dialog: Don't tell me I told you so, Norman, because I don't want to hear it. (yelling past him)
+41) 1) dialog: (into phone)
+41) 4) dialog: I told you people, nobody goes anywhere unless I say.
+41) 6) dialog: No "buts".  If he wants to be left, we'll leave him. (into phone)
+41) 9) dialog: They're coming.
+42) 1) dialog: Any sign of Harry?
+43) 1) dialog: Fuck him. (into phone)
+45) 1) dialog: (into phone)
+45) 4) dialog: What are you -- his mother?  Get Norman, I want everyone ready to go. (into mic)
+45) 7) dialog: What the hell is going on here?
+48) 1) dialog: Edmunds, do you have a 20 on Norman?
+48) 3) dialog: Well, where the fuck is he?
+48) 5) dialog: What? ON MONITOR -- Norman, in jumpsuit and helmet, running thr Barnes slipping on headset mic... 
+48) 6) dialog: Norman?  Norman!
+49) 1) dialog: You get your ass back here.  You have no authority whatsoever to be in there.  You hear me?...  Norman?  Don't go hero on me now.
+50) 2) dialog: They've left, keep watching!
+50) 4) dialog: Where is he?  Damn it!  Can you see him? A still moment and then Harry tumbles out the sphere, and ground.
+51) 0) text: Barnes, squinting at Harry on his monitor.
+51) 1) dialog: How does he look?  Can you tell? Harry lies motionless.
+52) 1) dialog: Norman, get out of there now! Norman?
+54) 0) text: Barnes, into his headset.
+54) 1) dialog: They'll be here.  Norman -- can you hear me?... 
+55) 1) dialog: You don't have time!  Get the hell out of -- Barnes' voice goes static, and cuts out.
+58) 0) text: Dark.  Ted, Beth, and Barnes wander throughout.
+58) 2) dialog: They switched us over.
+58) 4) dialog: Internal power.
+59) 1) dialog: The surface ships will be back. After the storm clears.
+60) 0) text: Barnes speaks to the team (minus Harry and Norman)... 
+60) 1) dialog: They told me about sixty hours.
+62) 1) dialog: Beth -- I wanted to have a word with you...  Barnes washes his hands at the sink, looking at her in th front of him.
+62) 2) dialog: Back at the door -- I asked you to back away.
+62) 4) dialog: There are procedures, Beth, that I want followed.  My procedures.  And considering what's going on, I want you to follow them very closely.
+62) 7) dialog: And Beth, one other thing.  I'd like from now on for you to address me as Captain or sir in front of the men.
+68) 0) text: Beth, Ted, and Barnes watch...  ON A MONITOR -- Fletcher outside, with the jellyfish.
+68) 1) dialog: (into the mic)
+68) 5) dialog: Get out of there.  I don't want anyone going anywhere outside, understood?
+68) 7) dialog: Fletcher, I want you back here.
+69) 2) dialog: Fletcher, get away from there... 
+69) 4) dialog: Get out of there!
+69) 6) dialog: Fletcher!  Now!
+69) 8) dialog: Nobody move.
+69) 10) dialog: Nobody move!
+73) 0) text: LOOKING DOWN -- at the room where Barnes was on the phone stands there now, hand on the knob. CLOSES it shut.
+74) 0) text: Barnes sits, Norman in front of him, worked up... 
+74) 2) dialog: How drastic?
+74) 4) dialog: I think I do.
+74) 7) dialog: She should've known better.
+74) 9) dialog: (a beat)
+74) 13) dialog: So you knew this when you wrote your report?
+74) 15) dialog: You knowingly recommended a woman with suicidal tendencies for a government operation --
+74) 17) dialog: -- and then brought her down here --
+74) 19) dialog: -- without a cautionary word to anyone. (beat)
+74) 33) dialog: We're all very proud of you, Harry, but what the hell is it?
+74) 40) dialog: From the sphere?
+74) 44) dialog: (to Ted, flat)
+75) 25) dialog: What's the message?
+75) 27) dialog: How do you mean, strange? Harry picks up his yellow pad of paper and reads:
+76) 0) text: Barnes walks briskly down the hall, Norman with him... 
+76) 1) dialog: He translated it wrong.  "My name is Jerry"?  It's like "See Spot run."
+76) 3) dialog: What am I -- a dog, now? Barnes ducks his head into the Video Feed room... 
+76) 4) dialog: Edmunds, get in here.  I need you for this.
+76) 7) dialog: I want a name.  A real name.  This thing's full name, rank and serial number.
+76) 9) dialog: I am not gonna explain in some damn report that one person died in a deepsat expedition so we could meet an alien named Jerry.
+76) 17) dialog: Cut the friends crap, get a name.
+76) 20) dialog: It's not talking, it's mimicking.
+76) 26) dialog: What's he doing? Reply: "Hello = 0032125252632.  0032125252632 = Hello."
+76) 27) dialog: Ignorant.  The thing's ignorant.
+76) 31) dialog: Are you enjoying yourself, Harry, because I don't know what the hell you're doing.
+76) 37) dialog: Mexico?  Where'd he get Mexico? "Are you the entity made in the U.S.A.?"
+76) 40) dialog: Not now, Beth.  Please.  I want to know who we're talking to before we start talking.  Where's Edmunds?
+76) 44) dialog: Hell's that mean?  "We are" what? Harry types: "We are the entities from the U.S.A.  Who ar "Entities = entity?"
+76) 46) dialog: What?
+76) 48) dialog: I'm in charge. "Yes.  The control entity is Captain Harald Barnes"
+76) 49) dialog: With an "o".  Harold with an "o".
+76) 52) dialog: What is that, a planet? "Where is AWARENESS?" "AWARENESS is" "Did you make a journey?" "Yes.  Did you make a journey?" "Yes" "I make a journey.  You make a journey.  We make a journe am Happy."
+76) 53) dialog: Great, okay.  Ask him about his weapons.
+76) 55) dialog: You don't think weapons are important?
+76) 61) dialog: Edmunds, I want you in here.  Now. Norman focuses on the screen, staring. ON THE SCREEN -- blank. Norman concentrating, on the screen. THE SCREEN -- blank.
+76) 63) dialog: We shouldn't talk here.  Shut it off. "I do not wish to Intrude"
+76) 74) dialog: (into intercom)
+76) 77) dialog: She wired this system.
+76) 83) dialog: (into intercom)
+76) 89) dialog: (into intercom)
+76) 92) dialog: Damn it, Edmunds?
+77) 1) dialog: Edmunds?  Can you copy? An empty chair.  Edmunds is not here.  WE HEAR a repeatin THUMP.
+77) 2) dialog: Edmunds? ON A MONITOR -- WE SEE her body, wedged in a light stand floating in the water, lifeless.  Her helmet THUMPING aga of the habitat.
+78) 0) text: Barnes at the monitors, Ted with him. PONG.  PONG.  PONG.
+78) 2) dialog: The sensors are picking up something outside.
+78) 4) dialog: It won't register.  It's too big to image.
+78) 10) dialog: You people need to hurry back.  The sensors have activated.  I don't think you're alone out there.
+81) 3) dialog: Well, until we know exactly what it is, nobody goes outside, understood?
+81) 5) dialog: Resetting the sub.
+81) 7) dialog: In the dome hanger.  All our tapes are transferred to the sub.  It's on a 12 hour timer.  If someone doesn't reset the "delay" button, the sub ascends to the surface with the tapes.
+81) 9) dialog: If something should happen to us, the Navy will at least have partial records of what happened.
+81) 11) dialog: What is it? Beth picks at it with forceps... 
+81) 13) dialog: You're a fucking biochemist, aren't you?  Can't you tell us something. Beth glares at Barnes... 
+83) 0) text: Barnes, Norman, Beth, and Ted are gathered around the mon addresses Norman... 
+83) 1) dialog: I don't want you talking to Jerry.
+83) 5) dialog: You think he killed Edmunds?
+83) 7) dialog: Bullshit.  What's out there isn't alien.  It's an animal.
+83) 9) dialog: No.  I think we should shut down the communication lines inside the habitat.  He might be listening now.
+83) 13) dialog: Shut up, Beth.  I don't want to hear it.
+85) 0) text: ON THE SONAR IMPULSE MONITOR -- lines jumping higher.  PO Barnes, Norman, Beth, and Ted watching it.
+85) 3) dialog: Direction's east coming!
+85) 5) dialog: Going active.
+85) 8) dialog: A squid?  The size of a whale?  I don't think so. (beat)
+85) 11) dialog: Fifty yards and closing.
+85) 13) dialog: We're a habitat.  Not a castle.  The only defense we have is High Voltage.
+85) 15) dialog: It sends 200 volts throughout the cylinder surface.  But we've never used it underwater before. PONG.  PONG.  PONG.
+85) 16) dialog: Forty yards.
+85) 18) dialog: Sure.  Each time it started fires inside the habitat. PONG.  PONG.  PONG.
+85) 19) dialog: Thirty yards.
+85) 21) dialog: What the hell? (bangs on the monitors)
+85) 24) dialog: Ted, go into the control room. Listen for my instructions. Ted goes out the door. ALL THE MONITORS -- blank.
+85) 26) dialog: Why can't I -- ?  What the hell is going on here? They HEAR a metallic CLANKING.
+85) 28) dialog: He's right beneath us. THE MONITORS blink: "I AM HERE".
+88) 0) text: Barnes... 
+88) 1) dialog: Ted?  Ted?
+90) 1) dialog: Increase positive pressure!
+90) 3) dialog: It's either that or we grow gills. BANG!  They grip onto the console... 
+91) 1) dialog: Ted?  Ted, are you with me? Finds the GAGE.  Turns it.
+94) 0) text: Barnes, watching the monitors.
+94) 1) dialog: That's enough Ted. (beat)
+95) 1) dialog: Ted?  Ted! ON TED -- passed out on the floor.  Blood covering his fa
+99) 0) text: BANG!  Barnes grips his headset as he's thrown to the flo
+99) 1) dialog: Norman!  Norman can you hear me?
+100) 2) dialog: You see the lever on the green box? Upper right hand corner? Norman sees it, reads it:
+101) 1) dialog: You see the lever next to it?
+102) 2) dialog: Do you see it? ON NORMAN -- turning from Beth, to the lever.
+102) 4) dialog: Pull it.
+102) 6) dialog: Do it, Norman, it's the only choice we have.  This thing is gonna crush us.
+103) 0) text: Barnes on the floor, a MONITOR crashes alongside him, SPI flashing: "I WILL KILL YOU"
+103) 1) dialog: Do it now!
+104) 2) dialog: Now! BANG!  CREAKING, GROANING of metal.
+104) 5) dialog: Pull it, damn it! ON NORMAN -- puts his hand on the lever.
+106) 0) text: An ALARM SOUNDS. Barnes looks up...  THE WARNING BOARD lights up.
+106) 1) dialog: Fire in Communications Room!
+108) 0) text: CLOSE ON FIRE EXTINGUISHER CASE -- Beth whips it open, gr ON NORMAN -- picking up Ted, lugging him awkwardly over h ON BARNES -- running down the corridor towards them. BANG!  Barnes falls to the floor, taken away by the water
+108) 2) dialog: Help! She looks DOWN THE CORRIDOR at...  BARNES -- on the floor, flailing in the water, SCREAMING, are caught in a CRACK in the wall.  Desperate... 
+108) 3) dialog: Beth!  Help, I can't -- ! ON BETH -- staring at him.  Just watching him.  Not movin
+108) 4) dialog: Beth! BARNES -- his body falling through the crack, his HEAD BA wall, stuck in the crack, water choking him... 
+108) 5) dialog: Be-- ... trying to SCREAM, his NECK RIPPING, SNAPS, and his bo into the ocean. ON BETH -- cold, turns away.
+141) 0) text: CLOSE ON A METAL CASE -- labled: "Captain Harold Barnes." Norman BANGS it against the wall, trying to bust the LOCK BANGING.  Breaks the lock.  Digs inside the case. Pulls out a GUN.
+149) 8) text: Norman swims out from under the habitat.  Looks around at cylinders, the walls. Goes to the outside of a WALL.  Looking for a CRACK, a LE TO HIS LEFT -- Barnes' body, floating, hooked to the wall Norman goes to him.  SEES the CRACK. Climbing inside.  Struggling through the CRACK, careful n suit.

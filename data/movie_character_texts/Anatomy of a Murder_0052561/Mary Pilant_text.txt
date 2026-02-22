@@ -1,0 +1,56 @@
+24) 0) text: Mary Pilant, acting as hostess, seats a group of tourists Paul, approaching him from the side. He does not see her speaks, ce
+24) 1) dialog: Would you like atable, sir?
+24) 5) dialog: May I take your hat?
+24) 12) dialog: . (extending a:meny) A menu? .
+24) 27) dialog: (glancing at the empty dining room door} Yes, I can take a minute. (CONTINUED)
+24) 33) dialog: What sort of things, Mr. Biegler?
+24) 35) dialog: A very nice man,
+24) 37) dialog: I don't know what happened with Lieutenant Manion's wife, so there really isn't anything for me to explain, is there? , Guests appear in the dining room doorway and Mary rises.
+24) 38) dialog: (continues) Would you pardon me? The waitress will take your order when you're ready. So nice to have met you -- Mr. Biegler -- Mr. McCarthy~-Mrs. Rutledge. She moves away.
+24) 50) dialog: Barney was well liked here, by everyone, Mr. Biegler. ao PAUL . Very generous of everyone to overlook hie little faults -- like raping other men's wives. Mary colors -- tears spring instantly into her eyes. Abru walks away.
+33) 43) dialog: How did you find that out? (CONTINUED)
+33) 48) dialog: It's a long drive from Iron City in this kind of a night, Mr, Biegler,
+33) 50) dialog: You didn't come just to apologize,
+33) 52) dialog: Well, isn't she lying? Barney didn't do what she said he did, He couldn't have,
+33) 61) dialog: I don't want...
+33) 63) dialog: Al wouldn't conceal that. Why wouldn't he tell it if it were true?
+33) 65) dialog: Al. Behind the bar, darkly watching the table where Mary and Paquette motions for a waitress to take over the bar and slowly to Mary. . (CONTINUED)
+33) 68) dialog: (continues) Al, Mr. Biegler knows Barney was my father and he thinks you know something about the night my father was killed - something you won't tell.
+33) 70) dialog: Wait, Al, Did my father rape Mrs. Manion?
+33) 73) dialog: is there any reason you wouldn't tell me the truth, Al?
+33) 75) dialog: Anything else, Mr. Biegler?
+33) 77) text: He goes to the decor. . » AL : se You going to spread it around about Mary being Barney's kid?
+34) 0) text: Mary Pilant enters the Courthouse, comes into the rotunda hesitates with uncertainty at the bottom of the stairs, t
+35) 353) dialog: At the Thunder Bay Inn in Thunder Bay.
+35) 355) dialog: For two years.
+35) 357) dialog: I manage the Inn.
+35) 359) dialog: Yes,
+35) 361) dialog: It's chuted down into the laundry room,
+35) 363) dialog: Between room 42 and 43,
+35) 365) dialog: I live in 42 and Mr. Quill lived in 43,
+35) 371) dialog: Yes.
+35) 373) dialog: Yes,
+35) 375) dialog: The sheets and slips are sent out and the towels are put into a wash and dry machine there in the room.
+35) 377) dialog: As they're taken from the wash and dry. :
+35) 379) dialog: Yes. That is part of my work.
+35) 381) dialog: I found a pair of women's panties,
+35) 383) dialog: I threw them in the rag bin.
+35) 385) dialog: Here, this morning in the courtroom. (CONTINUED)
+35) 389) dialog: (opens her purse) Yes. She hands a folded pair of panties to Paul. PAUL . I offer this article of lingerie as Exhibit One for the defense. They're white, have lace up the side and are badly torn <= as if they had been ripped apart. by powerful hands. ‘The label reads, 'Smartshop - Phoenix, Arizona.!
+35) 393) dialog: Yes, he came to the hotel several times after Mr. Quill was killed, .
+35) 395) dialog: Yes, I told him that.
+35) 397) dialog: Yes.
+35) 403) dialog: Yes.
+35) 405) dialog: Twice,
+35) 407) dialog: Last night. Dancer glances significantly at Paul, quickens the pace o interrogation,
+35) 409) dialog: I -- I don't know now, I think he might have.
+35) 411) dialog: No -- I-- it was here, this morning.
+35) 421) dialog: No,.I was not given the panties last night or any other time. I found them, exactly like I said.
+35) 423) dialog: ,l assumed it.
+35) 425) dialog: I hadn't thought about that.
+35) 428) dialog: No, I felt it was my duty to...
+35) 430) dialog: I don't know what you mean,
+35) 435) dialog: {to the Judge) What does he mean? I don't know what he means, ‘ JUDGE WEAVER Mr. Dancer, I must again ask you to put straight questions to the witness. —_ DANCER This is a straight question, Your Honor. Were you Barney Quill's mistress, Miss Pilant?
+35) 436) dialog: (almost weeping with fury) No, no, I was not!
+35) 438) dialog: That's not true. Barney Quill was -~
+35) 441) dialog: (defiantly) He was my father, (CONTINUED)

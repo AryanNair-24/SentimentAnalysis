@@ -1,0 +1,182 @@
+11) 16) dialog: Congratulations, father. You did it.
+13) 0) text: Suyin looks around. Her glass cockpit has a HEADS-UP DISP projected on it. And sure enough it is picking up SOMETHI moving fast, north to south, high to low, in the TRENCH. sub’s computer puts a little box around the ‘target’ even though it can’t actually be seen.
+13) 1) dialog: Copy that, Mana-One. I have one... Make that two targets... More BOXES appear... Indicating more targets... But then some disappear and re-appear... It’s really weird.
+13) 2) dialog: DJ, you picking this up?
+15) 0) text: Suyin can think of one OTHER possibility.
+15) 1) dialog: Angels one and two - suggest ascend 500 meters - there might be a rock slide heading your way.
+21) 4) dialog: DJ, current’s picking up. I’m firing starboard anchor. She flips a switch and...
+22) 0) text: An ANCHOR shoots out of the right wing-top of Suyin’s Aby Glider and lodges in the side of the vertical cliff face. Then WHOOSH -- another anchor goes by and burrows into th solid face -- revealing DJ'S Glider has done the same thi BELOW -- we can see the lights of Angel One and Two. Then SOMETHING PASSES OVER THEM - momentarily obscuring our vi
+29) 0) text: Suyin realizes the Mules can’t hear Mac. She relays:
+29) 1) dialog: Angels one and two, code Buster. We're getting out of here.
+34) 0) text: Suyin can hear Mac’s frantic radio calls for Angels One a Two. She’s getting very worried now.
+34) 1) dialog: Angel One this is Fastback, over. Junjie, talk to me. Angel Two... Then... PING - PING. Suyin’s sonar begins to identify MULTIPLE TARGETS COMING UP AT HER FROM BELOW.
+34) 3) dialog: Angel One, Angel Two, come in...
+35) 0) text: PING - PING - PING - as the targets get closer, the pitch the PINGS increases and the volume gets louder. DJ cuts a his sub’s anchor - but sees Suyin hasn’t done the same.
+35) 2) dialog: You want to run, run, but I’m not leaving them...
+36) 0) text: In an INCREDIBLE DISPLAY OF PILOTING SKILL, DJ uses the w of his Abyss Glider to BREAK SUYIN’S ANCHOR LINE.
+37) 0) text: Suyin - furious - 18.
+37) 1) dialog: DJ, you son of a-- --BAM! BAM! BAM! Suyin doesn’t get to finish that thought because she’s hit by RISING DEBRIS FROM JUNJIE’S SUB. Instantly, her craft is damaged. Leaks spring. She begins to lose air pressure. ALARMS sound everywhere.
+39) 0) text: Through the cracking cockpit glass over her head, Suyin s DJ's Abyss Glider begin to ascend. She reaches for the sa panel he used.... And flips it. SHE/WE HEAR - a muffled explosion. A compressed gas cannister has inflated her emergency ascent buoys. Her su rises like a missile.
+40) 2) text: DJ and Suyin struggle to stay conscious and help guide th subs to the surface. The pressure and rapid ascent threat to rip their vehicles apart. And the pain is excruciating
+43) 0) text: We stay close on Suyin as she fades out of consciousness. Her cabin is a cacophony of system alarms and warning lig
+43) 1) text: The pressure shift attacks Suyin’s hold on reality. Her P becomes increasingly surreal as she closes in on the Mana One. The ship lights reflect on her sub window, blinding heavenly. We are losing her. Her only connection to the world those deafening warning bells. She’s surfaced but doesn’t know it. Masked faces come into frame, an alien intrusion into her fever dream.
+44) 0) text: Suyin AWAKES with a start. She looks around. DJ is with her. And tap tap tap - Meiying is signalling to her on th glass window of the decompression chamber hatch.
+44) 1) dialog: Hi, sweetie! They can’t hear each other, so they communicate by touchi hands on the glass.
+44) 2) dialog: (without turning to DJ, asks) Junjie and Carl?
+53) 0) text: Meiying watches from a distance as Mac and Jonas inspect SUYIN’S ABYSS GLIDER up on a hydraulic lift. DIMITRI and are replacing the last of the damaged parts. Quick intros
+55) 16) dialog: (in Mandarin) Meiying come here now. Meiying retreats to her mom’s side. Suyin, liberated from Decomp, is there in the doorway with DJ.
+55) 18) dialog: --Briefing starts in ten minutes. With that Suyin and Meiying are gone, leaving DJ to follo beat later after a shrug. 29.
+56) 5) dialog: No...
+56) 7) dialog: Okay, first of all, your method will waste hours...
+56) 9) dialog: Second, I notice you picked yourself to be the lone diver, in spite of...
+56) 11) dialog: ...I was going to say, in spite of the fact that on your last rescue everyone else was killed. That hangs there a beat. Landslide.
+56) 13) dialog: ...Are we sure we want him with us...
+57) 0) text: Carbon fiber and titanium gleam under the Kleig lights. 31. SUYIN AND DJ inspect their Abyss Gliders. JONAS stares at open hatch of his Mule. He seems HESITANT.
+58) 0) text: A deep breath from Suyin as she reaches for the drop hand
+60) 0) text: Unlike DJ and Suyin, it’s taking Jonas a few moments to g positive control over his sub and establish it as stable.
+60) 1) dialog: You need a minute there, Jonas?
+62) 0) text: Suyin pushes her control stick forward and smoothly accelerates away from the surface.
+62) 1) dialog: Francois, we’re on our way...
+63) 4) text: DJ and Suyin move reflexively. Flipping switches and tightening their harnesses. 34.
+63) 5) dialog: Heaters to full. Autostabilizers to on. Harness secure. Suyin BEGINS TO EXPERIENCE TURBULENCE. She reads a gauge.
+63) 6) dialog: Entering thermocline. Sea temp now 39 and dropping.
+64) 2) dialog: Need us to tell you where the ‘on’ switch is, Jonas?
+70) 0) text: Suyin corrects her course.
+70) 1) dialog: Nice job, DJ.
+72) 0) text: Suyin is a few hundred meters above/behind Jonas.
+72) 1) dialog: Angel Three, did you just kill your lights?
+72) 3) dialog: You feel like telling us why?
+76) 2) text: As both SUYIN and DJ power back up...
+77) 2) dialog: Negative, Angel Three. This is a rescue, we want all systems on.
+79) 0) text: Suyin is thrilled to report.
+79) 1) dialog: Mana-One. We’ve found them!
+81) 0) text: Jonas watches as Suyin accelerates by him to join DJ in approaching the sub.
+81) 1) dialog: Jonas, we’ll secure our tow lines first, then you do the heavy lifting.
+84) 2) dialog: Then let’s hurry this up.
+85) 0) text: Suyin takes her sub down a little faster and THROWS ON HE FLOOD LIGHTS illuminating the dark...
+85) 2) dialog: Dammit... -- creating an undersea FOG that, because of the lack of current, just hangs there, obscuring everything. 39.
+85) 3) dialog: I've lost all visibility. Repeat, lost all visibility... She gets occasional glimpses of clear water in between th patches of cloudy sand. SOMETHING passes by in the darkne
+85) 5) dialog: (stunned) There’s something down here.
+87) 3) dialog: Negative, I’m attaching my tow-line to Angel Two. DJ, standby...
+88) 0) text: Suyin centers ANGEL TWO in her sights and FIRES her tow-l Whooosh - a thin, magnetic-tipped length of wire shoots o into the darkness towards ANGEL TWO but... THUNK... IT HI SOMETHING ELSE FIRST and falls to the sea floor.
+88) 1) dialog: What the...? --WHAM!! SOMETHING MASSIVE hits Fastback One. It’s a glancing blow but it sends it SPINNING OUT OF CONTROL. 40.
+89) 0) text: DJ is in thick sand fog when he suddenly finds himself fa to face with FASTBACK ONE as Suyin finally regains contro
+90) 0) text: Heller watches as SUYIN AND DJ’S pulses soar into the 160 both can be heard SHOUTING STATUS reports over the radio.
+90) 2) dialog: Mana-One, we are totally defensive, unknown contacts...! JONAS'S PULSE is steady. And that’s because...
+94) 0) text: Ping. Suyin looks down. A clear target on passive sonar. 41.
+94) 1) dialog: Angel Three. Single target. 2000 yards. Bearing. Right at you!
+97) 1) dialog: Angel Three, 1200 yards... A thousand...!
+98) 1) dialog: Coming up on 800 yards, you need to get out of there! As Luc preps the ship for evac, HE SUDDENLY SEES SOMETHIN out the sub window that stops him in his tracks...
+98) 3) dialog: 600 yards... 400 yards! Luc knows there’s no time. He closes his hatch and--
+100) 0) text: Suyin feels the vibrations of the terrible collision.
+100) 1) dialog: Angel Three, come in?! Angel Three... As she waits for a reply, PING... PING... Suyin’s sonar t her the mysterious monster is now coming for her and DJ.
+102) 2) dialog: --But we’ll be sitting ducks!--
+103) 0) text: Suyin now sits in the dark too. As the PINGING becomes frantic, she stares out into the inky sea and takes her h away from the controls. She braces for impact as SWOOOOOS SOMETHING MASSIVE HURTLES JUST PAST HER... 43.
+106) 0) text: Suyin turns on the sub’s infrared lights and pulls down a visor... HER POV -- It’s similar to night vision, a world in black green. Suyin can see the distant outline of the trench wa she can see DJ’s sub, and she can see A BLUR OF MOVEMENT which leaves in its wake a random trail of bioluminescenc
+106) 1) dialog: I don’t think seeing is going to help much. Any other ideas, Mana?
+107) 0) text: DJ, scared, has also gone to infrared. The first thing he sees is the SHAPE of Suyin’s Abyss Glider. So fish-like.
+108) 0) text: Suyin turns and sees the monster. They seem totally helpl against the mighty Kraken, which is now advancing menacin
+109) 0) text: Suyin has ripped off the goggles.
+109) 1) dialog: It’s a shark.
+110) 1) dialog: Huge. 60 feet. Maybe more.
+111) 1) dialog: It ripped a giant squid right in half.
+113) 0) text: Suyin shakes her head to no one.
+113) 1) dialog: We're too deep, Jonas. We need our engines to climb from down here. We’re at zero ballast. As if to emphasize the danger, SOMETHING speeds by in the darkness, ROCKING THE TWO FASTBACKS IN ITS WAKE.
+115) 0) text: Suyin understands the plan the minute she hears it...
+118) 5) text: DJ and Suyin are dialing in 050 but--
+118) 6) dialog: Jonas, what about the shark?
+120) 0) text: Suyin can suddenly see a bloom of white as -- FWOOMP! -- BRIGHT LIGHTS of Angel Three shatter the darkness like an undersea North Star. Suyin is jostled by the WAKE of SOMETHING MASSIVE OVERHEAD. It completely eclipses the An Three, taking seconds, that feel like minutes, to pass, u even in the darkness, she makes out the unmistakable shap an ENORMOUS TAIL FIN snapping right in front of her.
+120) 1) dialog: Oh my God. The invisible beast heads for Angel Three.
+120) 2) dialog: Angel Three, it’s coming to you!
+120) 4) text: DJ and SUYIN both power up and race for the vent.
+120) 5) dialog: Range to vent... 1500 meters.
+122) 1) dialog: 1000 meters!
+124) 1) dialog: 600 meters!
+125) 0) text: Using Infrared, Suyin can see THE THERMAL VENT AHEAD...
+125) 1) dialog: Vent in sight!
+126) 3) dialog: 
+126) 6) dialog: Entering vent. Controls on!
+127) 0) text: We watch as first Suyin and then DJ enter the plume of violent water that rockets upwards... Careful eyes will see that the VENT ITSELF has been broke open by the REMAINS OF A CRASHED UNIS BOT.
+127) 2) dialog: Keep the bubble level and watch your hull temp.
+143) 2) dialog: Jonas? Jonas? JONAS - having not heard them - steps out from his bathro Luckily, he’s in a towel.
+143) 3) dialog: Oh, excuse me... Sorry, I didn’t know... Meiying BURSTS OUT laughing. And, as Jonas retreats to quickly pull on some clothes out of their line of sight, begins to LAUGH too - because Meiying’s glee is infectiou
+143) 5) dialog: (calls back) Tell me about it. Saying no to her is almost impossible. Jonas returns, dressed and smiling. Is this the first tim Suyin has allowed herself to realize he’s handsome? She's suddenly very aware. Luckily, her daughter to the rescue.
+143) 8) dialog: The dolphin is the symbol of the Zhang family. They’re also known to save people... from sharks. Meiying reveals that she wears a matching, smaller, versi of the charm around her neck. Jonas is very touched. 54.
+143) 10) dialog: No, thank you. Meiying begins to tug on her mom, wants her to ask Jonas something, but Suyin has her own thought to finish first.
+143) 11) dialog: I was hard on you. I didn’t treat you with the respect you deserved--
+143) 13) dialog: You_saved our lives. Her sincerity makes him uncomfortable. The intimacy of it He shrugs it off but--
+143) 14) dialog: Jonas. Thank you. He nods. You’re welcome. Now, Meiying’s tugging reaches a fever pitch.
+143) 16) dialog: Meiying wants me to ask you to join us for tea. It’s another family tradition. We share tea every time I’m back from a dive.
+143) 19) dialog: You're leaving? Right. Of course.
+144) 15) dialog: Do you have children, Jonas?
+144) 17) dialog: Proving you weren’t crazy.
+144) 21) dialog: The more the merrier. Dimitri, since when do you drink tea?
+144) 46) dialog: Dr. Heller! INT. RESORT’S BEACH - SUNSET/NIGHT Suyin and Heller race down to the water's edge - (Mac, Zh and Morris close behind). They find the rest of the team encircled a fishing boat’s skiff, whose PILOT has driven right up on the sand. Then they see why: A SECOND MAN - lying unconscious and bleeding on the sand
+144) 51) dialog: His ship was fishing when they heard a crash. They turned and saw their sister ship had been smashed. Not an explosion, just smashed. By the time they got over to the wreckage, this man was the only one in the water. The others had vanished. 61. The AMBULANCE has arrived. PARAMEDICS come racing over wi a stretcher. Heller supervises as they take the patient t the ambulance... SKIFF’S PILOT (in broken English) Sea Monster. He said - a Sea Monster attacked his ship. As THE ENTIRE TEAM exchanges glances we...
+146) 0) text: Even with DJ and Suyin’s Abyss Gliders in tow, the Mazu c go as fast as 30 knots, its bow piercing the dark waters.
+149) 0) text: Jonas looking at Zhang and Morris. He’s backed by DJ and Francois. Suyin somewhere in the middle.
+156) 2) dialog: I told father if we were going shark hunting then he needed to evacuate all non-essential personnel to Hainan. Including... Meiying, who is standing with Zhang, arms crossed. Visibl upset at her mother.
+159) 1) dialog: (over the noise) I love you. I/’11 see you soon. Meiying turns to the helicopter but then... RUNS AWAY!
+159) 2) dialog: 
+159) 4) text: Meiying disappears into the ship. Suyin goes after her.
+185) 0) text: Suyin prepares to lower another Zodiac. DJ sees that.
+185) 2) dialog: Yeah. Now are you going to help or what?! DJ nods. Of course he’s going to help.
+188) 0) text: JONAS, in Suyin’s Abyss Glider, has FIRED THE PORT HORIZO ANCHOR (that we saw Suyin and DJ use earlier) INTO THE ME Jonas then inverts his Abyss Glider UPSIDE DOWN...
+191) 0) text: The good news is DJ AND SUYIN, in their Zodiac, reach DIM and FAN and pull them from the water.
+191) 2) dialog: (indicates the ocean) Jonas. From the surface, they can see GLIMPSES - THROUGH THE DAR OCEAN WATERS - of the VIOLENT BALLET BELOW. The bloody ME twisting and turning. And the ABYSS GLIDER at its mercy.
+195) 15) dialog: What do you mean, that’s not the same Meg? Jonas tries to sit up, but he’s too dizzy.
+195) 17) dialog: Thirty-five.
+195) 19) dialog: You think there are two Megs? My father was surprised even one followed DJ’s trail because--
+197) 0) text: Suyin’s operation attracts the attention of MORRIS, who c running back in--
+197) 4) dialog: And the one below, wasn’t. So... The women exchange a look. Fan almost dizzy from the news
+197) 6) dialog: This Megaladon’s teeth are 8 cm. 8 cm means this monster is actually just a kid. Maybe 6 months old.
+197) 9) text: But not before... SMASH...! Its MASSIVE TAIL crashes thro the AFT DECK of the Mazu with SUCH FORCE that the ship PITCHES NOSE UP INTO THE AIR before SLAMMING BACK DOWN. DJ’S POV - FOR A MOMENT - THINGS ARE DISORIENTING. There’ NO SOUND, vision is BLURRY... Then, when the SOUND comes it’s FILLED WITH DEAFENING SIRENS. And when VISION is restored, we see part of the aft deck is gone completely. Fan and Suyin, both having nearly fallen into the sea, re their feet. Fan looks around for Morris.
+205) 0) text: Jonas is outside with Suyin and Meiying when THEY SEE THE SOARING INTO THE SKY. Our first look at the beast in ALL IMPOSSIBLE GLORY. 70 feet long and 100 tons - yet it arcs through the air gracefully to snatch THE BASKET. JONAS -- turns and grabs Suyin/Meiying. We HEAR his ‘GET BACK!!' as he drives them inside the ship while... BEHIND JONAS -- the MEG PIVOTS around its meal, its head turning back seaward as its TAIL carries on towards the s
+213) 8) dialog: (scans the horizon) Looks clear. Three boats, Nine people, Eighteen eyes all search for th foot beast. But the ocean is calm. They have a chance.
+216) 0) text: DJ sees that the Meg is angling for their boat or Suyin’s 88.
+223) 0) text: Suyin angles Meiying away so she doesn’t see the EXPLOSIO WATER in the distance. There’s nothing too graphic about And no screams can be heard. Just a giant burst of water then a terrible SILENCE.
+225) 0) text: Jonas catches Suyin’s tear soaked eyes; one thing that gi him great solace is that the MEG is too far away to be a threat now. To either boat.
+227) 1) dialog: Fan... FINGERS tracing some DESIGN DOODLES that Dimitri had been scribbling...
+227) 2) dialog: Fan... Finally stopping on a QUICK SKETCH Dimitri made of Fan herself, when she wasn’t looking.
+227) 4) dialog: Fan? Are you going to be okay? Because we need you. Before she can answer, Fan feels a TUG at her side. MEIYI is there, offering her a sip of her SODA. Fan touches Meiying’s cheek: ‘No, but thanks.’
+227) 6) dialog: Ping Bot 14 and see if it responds. We need to close that hole in the thermocline. ON MEIYING - watching as FAN and SUYIN go to work. Then turning to see JONAS, MAC and DJ in a heated conversation Meiying exhales. Not interested in either talk.
+231) 0) text: Fan turns to Suyin, Mac, DJ and Jonas. She smiles.
+232) 8) dialog: Well, they’re about to... She indicates the waters NORTH of HAINAN ISLAND on the ma --SLAM. SUYIN (CONT’D) Half the fishing fleet is working these waters. That’s fifty, sixty boats. And the Meg is gonna tear right through them. After that comes 30,000 tourists on the beaches at Sanya Bay-- The DCC is rocked by an IMPACT. Something has hit them. Reflexively, Fan pulls up CAMERA FEEDS of THE WATER SURROUNDING THE MANA-ONE. That something is the MEG.
+232) 15) dialog: Meiying! --SLAM! This THIRD IMPACT is THE KNOCK-OUT PUNCH. One by one, every system shuts down: THUNK - THUNK - THUNK - THU And they are plunged into TOTAL DARKNESS.
+233) 0) text: ALARMS still screaming. SUYIN (with JONAS) JABS repeatedl at the elevator button, but it won’t work until--
+234) 0) text: Meiying stares out at the thick red fog (blood). Then, it begins to clear in front of her. Revealing A BLACK HOLE. 94. Ding. JONAS AND SUYIN arrive. And what they see causes their hearts to skip a beat. That’s not a BLACK HOLE... IT’S THE MEG.
+235) 0) text: The MEG hovers in the current, its side abutting the O-le its MASSIVE EYE inches away from Suyin’s little girl.
+236) 4) text: Suyin grabs Meiying and dives laterally, running along th rim of the station just as -- SMASH -- the MEG hits! It obliterates the place where Meiying just stood, and destr THAT ENTIRE CORRIDOR/SPOKE, as if it were made of smoke.
+237) 0) text: Suyin and Meiying reach the next intact ‘spoke’ - turn - sprint for the elevator. Suyin can see the MEG coming at them from directly below. They aren’t going to make it.
+241) 0) text: Peace, tranquility... THEN WE SEE SOMETHING FALLING TOWAR US... Is it TWO ASTRONAUTS IN SPACE SUITS...? 97. SPLASH! --- No, it’s JONAS and SUYIN, each in DEEP-SEA DIVING SUITS, with WEIGHT BELTS that allow them to drop a fast sky divers, and RECOVERY WIRES hooked to their suits
+243) 4) text: JONAS AND SUYIN’S POVS - FROM INSIDE THE SUITS The TERROR RIDE continues. It’s like driving flat out through the fog, hoping you don’t hit something. FISH AND AQUATIC LIFE rush up at us, seemingly out of nowhere!
+245) 0) text: JONAS and SUYIN whizz by, like two base jumpers, dropping along the Mana-One.
+247) 1) dialog: 
+247) 4) dialog: Floor in sight, Weight belt released...
+248) 0) text: Suyin hits the QUICK RELEASE ON HER WEIGHT BELT, freeing from the dropping mass of lead. The BELT continues on rapidly, STRIKING the sandy bottom like a meteor... But Suyin SLOWS RAPIDLY, and by the time she reaches the bottom, her momentum is dissipated by one forward roll. S LOOKS UP for Jonas and sees him, dangling high up there, some toy on a string, totally defenseless. EXT. OCEAN / INT. SUIT - JONAS’S POV Jonas begins to saw at the line his trusty knife.
+248) 4) dialog: 
+248) 6) dialog: It’s passing right beneath you.
+249) 0) text: Suyin watches as Jonas approaches. Like her, he ditches t weight belt with about 15 meters to go, then slows himsel make a soft landing. Suyin stares at him.
+249) 1) dialog: You okay?
+262) 0) text: CLOSE ON - A PAIR OF HANDS - as they stack small SEMTEX PLASTIQUE (explosive) BRICKS into the shape of a Mayan pyramid. CLOSE ON - THE SAME HANDS - now securing the pyramid with strategic strips of duct tape. CLOSE ON - THE SAME HANDS - as they connect a small IMPAC PLATE TO THE TOP of the creation. PULL BACK TO REVEAL - Suyin watching Jonas finish his wor
+264) 0) text: Jonas and Suyin, just visible in the gloaming, walk clear the storage facility and look up at the DARK MANA-ONE.
+267) 0) text: Jonas and Suyin, standing there like decorations in an aquarium, exposed and doing their best to stay motionless
+267) 1) dialog: Any sign of our friend?
+270) 0) text: Like tumbleweeds blowing across a ghost town at high-noon STRANGE CLUMPS of PLANT LIFE roll by JONAS and SUYIN’S FE
+273) 0) text: Jonas and Suyin watch as the MANA-ONE blossoms to life. I like being at the foot of the Eifel tower at night. And thanks to the light they can now see the SUBMERSIBLE THE BOT - high above them - but making progress.
+275) 3) text: JONAS pushes SUYIN to cover behind rocky coral as -- SMAS THE BOT slams into the sea-floor, sending debris flying. For a minute, we can’t see anything through the all the S that’s been kicked up by impact.
+278) 2) dialog: What are you doing? Jonas shows her the hand flares.
+278) 4) dialog: That’s a suicide mission. 110.
+278) 6) dialog: No...
+280) 0) text: Suyin shakes her head.
+280) 1) dialog: No, we're in this together... She reaches out with a tether hook - hoping to connect Jonas’s suit to hers but just before she can... She is pulled away. She’s being pulled up.
+281) 1) dialog: I’m cutting loose!
+287) 0) text: FAN unties the bow, ZHANG the stern. Everyone is on board including -- SUYIN, who surprises Jonas when she chimes i
+287) 1) dialog: Just make sure you get back up here.
+288) 0) text: Jonas, pleased Suyin has said this. Happy to hear her voi
+300) 0) text: The Zodiac navigates the seas around what’s left of the M One. They’ve been searching for ten minutes with no sign. Expressions are grave. It’s Suyin who sees him.
+300) 1) dialog: There! JONAS is lying, half in the water, half clinging to a floating remnant of the Mana-One. But he’s not moving. Th crew agonizes, waiting for a sign... They get it when Jon without raising his head, lifts a weary arm skyward and g them a THUMBS UP.
+301) 0) text: A reverent crowd sits, listening to the end of a MEMORIAL SERVICE/CELEBRATION OF LIFE. SUYIN stands at a dais, in 115. front of the MEMORIAL ITSELF, a beautiful, white marble, standing wall that is shaped like a WAVE. On the wall, etched tastefully, as if they were part of the wave, are names and histories of Junjie, Carl, Luc, Francois, Helle and Dimitri. SUYIN, stunningly beautiful in her formal dress, turns to final page of her dedication speech.
+301) 1) dialog: (at the dais) Advancing our understanding of life has always required great sacrifice. The world doesn’t give up her secrets easily...
+301) 4) dialog: (at the dais) My father’s dream, a dream shared by those we honor today, is that we come to appreciate the gift that is our oceans. Now, thanks to their efforts, the entire world knows that there is more to this gift than we dared imagine. And I see, in everyone’s eyes, the same excitement I once saw exclusively in my father’s. That is how I know the friends we lost will live forever. (it hangs there) Thank you all very much. Off the applause we CUT TO...
+302) 0) text: People milling about, congratulating Suyin who is with Zh Meiying, Jonas, and Mac. A passing waiter offers some cra cakes... Jonas shakes his head...

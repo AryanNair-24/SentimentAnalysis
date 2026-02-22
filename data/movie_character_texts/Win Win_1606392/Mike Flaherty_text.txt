@@ -1,0 +1,452 @@
+3) 3) dialog: OK. OK. Hi there.
+4) 9) dialog: Good. It was good. Abby, finish your cereal.
+4) 24) dialog: That's my team? That's great, honey. Are they winning?
+4) 40) dialog: Uh huh. Bye sweetie.
+4) 48) dialog: Yeah.
+4) 52) dialog: Yeah. I'm good. Why?
+4) 56) dialog: OK. Bye guy's.
+5) 13) dialog: Yeah. You're right. I will.
+5) 17) dialog: Yeah?
+5) 21) dialog: I love you too, sweetie. Bye.
+5) 24) dialog: Shit.
+8) 4) dialog: Vig?
+9) 3) dialog: What's up, Vig?
+9) 8) dialog: Who was that guy?
+9) 13) dialog: Why?
+9) 19) dialog: Yeah. I just figured it's old.
+9) 23) dialog: What?! We just had it fixed three months ago.
+9) 28) dialog: Jesus. All they care about is getting paid. Makes me sick. No one wants to do the work anymore.
+9) 30) dialog: How much to fix it, Vig? Did he say?
+9) 34) dialog: Holy shit.
+9) 38) dialog: Really? Isn't he too young?
+9) 46) dialog: Right. So what do you want to do?
+9) 50) dialog: Yeah. I guess I'm good with that.
+10) 3) dialog: Hey Shelly, How you doing?
+10) 7) dialog: Oh. Sorry to hear that.
+10) 11) dialog: We lost.
+10) 15) dialog: OK. Anything else?
+10) 21) dialog: No. I'll take a look at it. Who do I have at ten-thirty?
+10) 26) dialog: Great.
+11) 3) dialog: And you think your son stole it?
+11) 7) dialog: Why would he steal your cat, Frank?
+12) 3) dialog: I understand but that's my fee for that particular service. Uh huh. Right. Well maybe I can adjust that a little bit.
+15) 3) dialog: Well Leo, remember you got lost and the police had to help you a few times. That's why we brought Jolie into help you, right?
+15) 7) dialog: Well if that Judge deems you incapacitated then you will need a guardian. And if we can't find your daughter then the state...
+15) 11) dialog: OK but if we can't find her then the State will have to become your guardian.
+15) 15) dialog: You know...the state...of New Jersey.
+15) 19) dialog: Right. I'm sure there's not. Let's just first see if we can find your daughter and then we'll go from there.
+16) 5) dialog: You're probably still hung over. What's that?
+16) 9) dialog: Yes, he is. You find his daughter?
+16) 13) dialog: Crap.
+16) 18) dialog: They could but they never will. It's too much work. They'll probably move him into Oak Knoll. Hand me one of their brochures?
+16) 23) dialog: No, she can't. His guardian still has to make every single decision. It's the difference between a baby sitter and a parent.
+16) 30) dialog: $1,500. Is that what it is?
+18) 5) dialog: Not good.
+18) 9) dialog: Yeah, well we're not anymore.
+18) 15) dialog: Yeah.
+18) 21) dialog: Yeah. I've been getting out here a bit more often.
+18) 25) dialog: What?
+18) 29) dialog: Do you?
+18) 33) dialog: Is she still with that guy?
+18) 43) dialog: Take it! Jesus, Ter!
+18) 48) dialog: Don't send it.
+18) 53) dialog: Maybe you should move back into the city? Get a new job. Shake it up a bit.
+18) 57) dialog: That guy's starting another fund?
+18) 62) dialog: Hold up!
+18) 66) dialog: Just...hold up.
+18) 88) dialog: No! I'm not having a heart attack! I just...can't breathe...
+18) 93) dialog: Get off me! Just lie down.
+18) 95) dialog: No! It's wet. I don't want to lie down.
+18) 99) dialog: Yeah. I'm lying on the ground.
+19) 5) dialog: Couple of months. The doctor says it's stress.
+19) 9) dialog: Yeah. Jogging. Why the hell you think I'm doing this?
+19) 13) dialog: 
+19) 18) dialog: Yeah. It is. I don't know how much longer I can keep my practice going.
+19) 24) dialog: I have no frickin' idea. I've been trying everything.
+19) 28) dialog: Not yet. I don't want to freak her out.
+19) 32) dialog: Judge Lee, yeah. If it wasn't for her I'd probably be out of business already. I just need more.
+19) 36) dialog: What the hell am I gonna do? Bartend? I'm a lawyer, Ter. I practice law.
+19) 41) dialog: No shit, Ter. Thanks for the update.
+20) 5) dialog: Hi, honey. I'm still at the office. Yeah. I came back after practice, I'll be home in a bit. (Checking his blackberry) Oh, hey, let me go, Jack. I've been waiting for this call. Bye.
+20) 8) dialog: Hey Tom. Thanks for getting back to me. I'm good. I'm good. Yeah, I was just following up to see if you had any overflow. It's been a slow month on this end and I was...
+20) 11) dialog: Oh. OK. No, yeah of course. I appreciate that. Thanks, Tom. Bye.
+22) 3) dialog: Hey, Leo. Leo hold on! (to the Guard) Can you stop him, please?
+23) 8) dialog: Oh..no, Your Honor. I have the two certified letters returned unclaimed. And there is no phone number for her. We can't find her.
+23) 12) dialog: Yes, your Honor, she is. But Mr. Poplar hasn't seen her for over twenty years.
+23) 16) dialog: Your daughter.
+23) 20) dialog: 
+23) 33) dialog: Your Honor, if it pleases the Court.
+23) 37) dialog: I would be willing to serve as Mr. Poplar's guardian.
+23) 41) dialog: Yeah.
+23) 46) dialog: More like five.
+23) 51) dialog: May I approach, your honor?
+23) 58) dialog: Well Judge, I think I'd be a better candidate then the state in this case.
+23) 64) dialog: Yeah, and stop saying really, it's annoying.
+23) 69) dialog: And, as his lawyer, I feel like I'm in a better position to execute what my client wants.
+23) 81) dialog: Your Honor, Leo told me he wants to live at home. He has the money to do that and I want to make sure that happens. If the State can do that then fine.
+23) 89) dialog: Mr. Poplar wants to live at home.
+23) 94) dialog: Yes, I can.
+23) 100) dialog: Yeah. I think so.
+25) 5) dialog: No. We're not, Leo. I'm gonna help you get settled into a new place to live right here in town.
+25) 11) dialog: I know. But I need you to stay in this new place for a while. It's nice. You'll like it.
+25) 15) dialog: Yeah, that's what he said.
+30) 7) dialog: OK. OK. I just have to make one stop first.
+30) 11) dialog: I have to swing by a client's house and shut off the water.
+30) 15) dialog: Because it's freezing and I don't want his pipes to burst.
+30) 19) dialog: 
+30) 28) dialog: It's not a big deal. And yes, It is too. I was gonna tell you.
+30) 34) dialog: Jack, he's in Oak Knoll. They do everything. I just have to check in on him from time to time.
+30) 38) dialog: He does. It comes out of his estate and he can afford it. Trust me.
+30) 42) dialog: No I haven't.
+30) 46) dialog: It's just...the right thing to do, alright. We couldn't find his daughter and I'm just trying to help the guy. It's really not a big deal.
+31) 7) dialog: Yeah.
+31) 11) dialog: No idea.
+32) 3) dialog: How you doing? Can I help you?
+32) 7) dialog: Are you looking for Mr. Poplar?
+32) 11) dialog: Well, he doesn't live here anymore.
+32) 15) dialog: You mind telling me why you're looking for him first?
+34) 3) dialog: Hey, Leo, you have a visitor.
+34) 9) dialog: Yeah.
+35) 3) dialog: This is Kyle Timmons, Leo. He's your grandson. He came from Ohio to see you.
+35) 12) dialog: Kyle's just here for a visit, Leo.
+35) 20) dialog: OK. So I'll come back to pick you up in an hour. You OK?
+35) 24) dialog: You alright, Leo? (Leo doesn't respond) OK, see you in a bit.
+36) 13) dialog: We're going to send him back is what we're going to do.
+36) 19) dialog: I told you.
+36) 25) dialog: I don't have to worry about him. He's at Oak Knoll.
+36) 38) dialog: Me.
+37) 3) dialog: How did the visit go?
+37) 7) dialog: Yeah. Your grandfather is in the early stages of dementia, Kyle. So sometimes he does things and says things that don't make sense.
+37) 11) dialog: I'm his guardian.
+37) 15) dialog: It means I make sure he's well taken care of.
+39) 3) dialog: What are you doing?
+39) 7) dialog: There's not even a bathroom down there.
+40) 5) dialog: Sure thing, Leo.
+40) 11) dialog: We should go, Kyle.
+41) 3) dialog: Here's fifty bucks in case you need it.
+41) 8) dialog: Actually it's only forty-three but take it. You never know.
+41) 13) dialog: Well, good luck, Kyle.
+42) 3) dialog: Hello? Yes, it is. Yes. OK.
+42) 8) dialog: OK. Thanks. I'll be right down.
+42) 13) dialog: It was the police. They have Kyle.
+42) 17) dialog: Breaking and entering.
+43) 3) dialog: So what happened?
+43) 7) dialog: And then you decided you'd break into your Grandfather's house?
+43) 11) dialog: Yeah, I do. Get in the car.
+44) 3) dialog: So you want to tell me what happened?
+44) 9) dialog: Yeah. Well good luck with that, pal.
+44) 12) dialog: You'll see.
+47) 5) dialog: So what are we gonna do? Adopt him?
+47) 10) dialog: Honey, I know it's tough but we're not in a position to take care of another kid right now.
+47) 17) dialog: Then we don't have to do this.
+47) 22) dialog: I know. I know. You're right.
+47) 26) dialog: Come on.
+47) 30) dialog: 
+47) 35) dialog: I know. I'm just not sure that beating the crap out of everybody is the best solution.
+47) 40) dialog: Now?
+49) 7) dialog: No. Not yet. Jack's left her about thirty messages.
+50) 5) dialog: He's sitting in my waiting room. Jackie made me take him with me.
+50) 9) dialog: No. What does that mean?
+50) 13) dialog: 
+50) 20) dialog: Let me call you back.
+50) 27) dialog: Jesus. Can I talk to her?
+50) 36) dialog: Who knows?
+50) 39) dialog: Yeah.
+50) 45) dialog: Uh...yeah...OK. You know where it is?
+50) 49) dialog: OK, yeah. Just stay there and I'll pick you up at about three.
+51) 3) dialog: Hey, Rew, what are you doing? Coach, can you get on Pill.
+51) 10) dialog: Everyone watch because none of you are doing it right. You want to put your chest into his side.
+51) 13) dialog: Just slide back a bit, Vig. A bit more. Yeah. Right there. Then you give him your full weight. Go ahead Vig.
+51) 16) dialog: Then you ride the crotch and break him down with a cross-face.
+51) 29) dialog: Hey! We're trying to teach you guys something and you're all just goofing off. Shut up!
+51) 33) dialog: Last time I checked we haven't won a match! Right coach?!
+51) 39) dialog: It's embarrassing. But you're all acting like you don't care! Well, I'm not getting paid enough to just jerk around here. (gestures to Vig) I don't know about you?
+51) 43) dialog: I care about what I do and so should you!
+51) 47) dialog: So does coach Vig, and so should you! Run em, Coach. I can't look at them anymore!
+52) 13) dialog: Uh...yeah I did but Terry said he'd help and I think we can...
+52) 33) dialog: Uh...yeah but just for a half hour.
+52) 38) dialog: Yeah, if you want. Sure. And by the way, what I did in there today, yelling like that. I don't usually do that.
+53) 5) dialog: Don't worry about it. You ever wrestle before?
+53) 12) dialog: Hey Vig. Alright, guys, listen up! Kyle's going to be working out with us for a little while.
+53) 25) dialog: Time. Switch. And...wrestle!
+54) 3) dialog: You have fun?
+54) 7) dialog: When's the last time you wrestled?
+54) 11) dialog: Why'd you stop?
+54) 16) dialog: So let me ask you something, Kyle. How good are you?
+55) 3) dialog: Holy shit.
+56) 11) dialog: I know, right? Can you believe that?!
+56) 16) dialog: I know. He finished second at the states. In Ohio!
+56) 21) dialog: I know. It's nuts. And he quit after his freshman year.
+56) 25) dialog: I don't know. He doesn't talk much. He's kind of a weird kid. Why can't I have one kid like that on my team? Just one.
+56) 31) dialog: He's not on the team, Ter. He's not even a student. He's been here for three days.
+56) 35) dialog: I'm not enrolling him. He's just here until we reach his mother and figure this out.
+56) 39) dialog: I'm not just helping out the old man, Ter. It's not like it's charity work. I'm getting paid for it.
+56) 52) dialog: Wow. He's gonna throw him. Look, he's setting him up. He's setting him up!
+57) 10) dialog: OK. Let's go, pal.
+57) 17) dialog: Why not? Whether he's here for two more days or two weeks it gives him something to do all day. Unless you want him hanging out here?
+59) 5) dialog: Right. I'll take that.
+59) 10) dialog: No. It's not a legal fee. It's a personal fee.
+59) 15) dialog: Oh, I ended up taking on Leo's guardianship.
+59) 20) dialog: Yeah, I thought I mentioned that to you.
+59) 24) dialog: Yeah, well, it just played out that way. I have to get going.
+59) 31) dialog: Uh..not this time. Next month. Promise.
+59) 36) dialog: I know. Bye Shelly.
+60) 3) dialog: Hey honey. I'm good. Could you do me a favor and drop that health insurance check in the mail? I just forgot to mail it. Yeah, it's on my desk. Thanks. I'll call you later.
+62) 5) dialog: Hey.
+62) 13) dialog: What are you doing here?
+62) 22) dialog: We're trying to figure out where he can wrestle?
+62) 26) dialog: No. Not right.
+62) 29) dialog: Hey Kyle. Come on in. How was school?
+62) 34) dialog: This is my friend Terry.
+62) 44) dialog: How the shoe's fit?
+62) 48) dialog: So let me ask you something, Kyle. You think you might want to wrestle in a match?
+62) 53) dialog: Great. We have a match on Saturday. What do you wrestle?
+62) 61) dialog: Yeah. Jimmy Reed. But I think he might be better off at 125.
+63) 5) dialog: Vig, you keep time?
+64) 12) dialog: I gotta stop by the office and deal with the computer. Should I...?
+64) 20) dialog: Hey! Yo! Terry!
+65) 10) dialog: Man strength?
+65) 14) dialog: Yeah...I wouldn't say that around the locker room.
+65) 18) dialog: Trying to figure out what's wrong with my fricking back-up system.
+65) 22) dialog: I don't have an IT guy. IT guys cost money.
+65) 26) dialog: Seriously?
+65) 32) dialog: How are you value added?
+65) 36) dialog: Yeah, but Ter, you sucked.
+65) 40) dialog: Yeah, that's not really value added.
+65) 45) dialog: We start at 3:30pm. Don't be late.
+65) 52) dialog: Just a singlet.
+65) 58) dialog: Yeah, so we can see your man strength.
+67) 5) dialog: If it is, she just ran away.
+68) 3) dialog: Were you outside?
+68) 7) dialog: It's pretty early. You do this every morning?
+68) 11) dialog: Oh. Wow.
+69) 3) dialog: It was Kyle.
+69) 7) dialog: Working out.
+69) 11) dialog: In season. Yeah.
+69) 16) dialog: I know.
+71) 19) dialog: Vig is leading by example. Winners never quit.
+71) 30) dialog: Guys. I don't think we should fight about our seats in front of the kids.
+72) 4) dialog: OK. You ready?
+72) 8) dialog: This kid is good. So just...you know...be ready out there.
+72) 13) dialog: What?
+72) 17) dialog: Uh, OK.
+72) 28) dialog: (Under his breath) Ter! Cut the shit! You're a coach. You're not sitting in the stands.
+72) 37) dialog: It's his first match. Give him a break.
+72) 41) dialog: Hey! You OK?
+72) 49) dialog: Yeah. I think he did.
+72) 63) dialog: How'd that feel? Pretty good?
+72) 68) dialog: You ready?
+73) 14) dialog: No, honey. It's almost bed time.
+75) 5) dialog: Alright. I want to spend this week working on bottom position. Did you all see Kyle the other day? He exploded up. Kyle, show the guys what you did.
+75) 10) dialog: So can you share it with us?
+77) 3) dialog: You bring the tape?
+77) 10) dialog: Yeah. Of course. What?
+77) 15) dialog: No. That's true, pal.
+77) 21) dialog: Well because they can take good care of him there, Kyle.
+77) 26) dialog: I know, pal. Hang on a minute. (Into cell phone) Hello? Yes. This is him.
+77) 28) dialog: Oh. Can you hang for a moment?
+77) 32) dialog: 
+78) 5) dialog: Yeah, well I think she heard that I'm a lawyer and I have a family and that was good enough.
+78) 9) dialog: Another month, I guess, until she gets out of rehab. She said that Craig guy took off. She sounded pretty shaky.
+78) 16) dialog: Yeah. I know. Where is he anyway?
+78) 21) dialog: Yes, it is. So what do we do?
+78) 25) dialog: I guess we don't.
+81) 3) dialog: OK. This is Kenny Randall. He's very good.
+81) 7) dialog: But you have an advantage here, he has no idea who you are, right?
+81) 11) dialog: So he's gonna be overconfident. You take advantage of that and when you get your shot, put him away.
+81) 14) dialog: See how he runs out there? I want that kind of intensity from all of you.
+89) 5) dialog: Really? Korsic will be happy. Tell him now so he doesn't puke.
+89) 14) dialog: What's up, guys?
+89) 18) dialog: You do?
+89) 24) dialog: Where you gonna wrestle?
+89) 31) dialog: Huh. Vig?
+90) 19) dialog: No. It's gonna be fine.
+91) 3) dialog: Hook the arm! Carlos, hook the arm!
+91) 6) dialog: How we doing?
+91) 19) dialog: Come here, Stemler.
+91) 24) dialog: You've been practicing for a long time. You're ready for this. You hear me?
+91) 27) dialog: If you get in trouble out there, you just listen to me. I'm right here, OK?
+91) 30) dialog: OK. You are not going to get pinned! You hear me! No way!
+91) 35) dialog: Good. Now I'm going to slap you. Ready?
+91) 62) dialog: Keep moving, Stemler. Keep working!
+91) 70) dialog: Shit. Really?
+91) 80) dialog: Fuck this!
+91) 83) dialog: Stemler! Stemler!!
+91) 86) dialog: You need to get up! He's trying to drown you! He wants you dead. But you are not going to die on the bottom! Do you hear me? Do you?!
+91) 89) dialog: Good! Now just do the move we worked on in practice.
+91) 92) dialog: "Whatever the fuck it takes!"
+92) 3) dialog: Hey, I'm proud of what you did today. That win meant a lot to the guys.
+92) 10) dialog: Let me ask you something. What's it like? Being as good as you are? What's it feel like?
+92) 14) dialog: Yeah, I do. Must be nice.
+93) 5) dialog: Yeah.
+95) 3) dialog: How is he?
+95) 7) dialog: Honey. Can you stop, please?
+95) 13) dialog: Yeah. I am. If you don't punch her first.
+95) 16) dialog: It's a cab. It's her.
+95) 20) dialog: Yeah, it is. That will be your fault.
+95) 23) dialog: Hi. I'm Mike Flaherty. Come in, please.
+95) 27) dialog: And this is my wife, Jackie and my daughter, Stella.
+95) 48) dialog: Can I get you a drink or something?
+95) 51) dialog: Water or soda or anything?
+95) 55) dialog: Right. OK. So I'll go get Kyle.
+95) 60) dialog: Oh, he's doing really well. He's going to the high school here and he's wrestling on the team actually.
+95) 77) dialog: Hi, honey. This is Abby.
+95) 83) dialog: Abby, can you go get Kyle for us?
+95) 87) dialog: He left? What do you mean?
+96) 3) dialog: I'm really sorry about this.
+96) 7) dialog: You know Kyle's doing really well with wrestling here, Cindy. The regions are this weekend and if he wins there then he goes to the states.
+96) 11) dialog: Yeah. It is and it could be really good for him. It might even mean a scholarship. Anyway, I was wondering if you could stay here for another three weeks until that's all over.
+96) 19) dialog: Uhh...yeah. We could probably make that work.
+96) 23) dialog: OK. Good. That's great.
+96) 26) dialog: Hey.
+96) 30) dialog: Really?
+98) 3) dialog: Yeah, OK.
+98) 9) dialog: Great, Ter. Thanks. Bye. (Mike hangs up) He went to my friend's house. We can go get him.
+98) 13) dialog: You sure?
+98) 17) dialog: OK. I'll drop you off.
+99) 5) dialog: I'm afraid so, pal. She's staying so you can finish the season. That's pretty nice of her.
+99) 8) dialog: I told her you'd go see her today, Kyle.
+99) 14) dialog: Where ever you want. She could come here or we could go see her at Leo's house. She moving in this morning.
+99) 19) dialog: 
+99) 27) dialog: Hi Betty. How's the foot?
+100) 5) dialog: Really? Did she say why?
+100) 10) dialog: Hi Cindy. Hi, I'm Mike Flaherty.
+100) 17) dialog: Please come in.
+100) 20) dialog: I wasn't aware that Cindy was represented by council.
+100) 24) dialog: Last week? I thought she just arrived two days ago.
+100) 29) dialog: So how can I help?
+100) 33) dialog: What kind of a role is that?
+100) 37) dialog: Really? So you want to move here?
+100) 45) dialog: Well I'm not sure that's what Leo wants.
+100) 49) dialog: I understand that, Cindy. But you haven't seen Leo in a long time and he's battling dementia now so it puts me in a tough position here.
+100) 53) dialog: I understand that.
+100) 57) dialog: So do I and I'm sure we can. Now, I'm sorry, but I actually have to go see a client so we'll have to set up another time to discuss this.
+100) 61) dialog: Yeah. Of course. After school.
+102) 3) dialog: Yeah, it's that bad.
+102) 7) dialog: I can't.
+102) 11) dialog: I just can't go back in front of Judge Lee, it won't look good, trust me.
+102) 15) dialog: She's the only Judge who handles these cases and if I look bad in front of her right now, I'm screwed. I'll have to close my fricking doors.
+102) 19) dialog: Yeah, I do.
+102) 26) dialog: Hey, pal.
+102) 30) dialog: Yeah. She just told me today.
+102) 34) dialog: I don't know Kyle. It's complicated.
+102) 38) dialog: OK. OK. Look, just go get ready for practice and I'll deal with it.
+102) 45) dialog: I have no idea. I have no freaking idea!
+102) 49) dialog: What the hell does that mean?
+102) 55) dialog: No, I can't do that. She's not even in his...
+102) 58) dialog: That's right. She's not and she doesn't and that's my play.
+102) 63) dialog: Don't worry about it. I just need to make a call. Can you get practice started?
+102) 67) dialog: No. I really don't.
+104) 5) dialog: Good, well, I thought I'd start by laying all the cards on the table, so maybe you can understand why I'm hesitating in turning Leo over to Cindy.
+104) 12) dialog: Cindy, your father disinherited you from his will. Completely. And I'm afraid that can't change now that he's been declared incapacitated.
+104) 19) dialog: Yeah. I actually brought you a copy.
+104) 24) dialog: No.
+104) 28) dialog: No. He left everything to the municipal parks system. He wanted the town park dedicated in his name.
+104) 45) dialog: 
+106) 5) dialog: Yeah. And she's gone back to the motel.
+106) 9) dialog: Yes, it is. Yeah, I think it worked.
+106) 13) dialog: I don't what know what your talking about half the time.
+106) 19) dialog: Yeah. Really.
+107) 3) dialog: It's time, Coach.
+109) 3) dialog: Listen to me. One more win and we are going to the states. That's what counts. That's all that matters. You hear me?
+109) 6) dialog: Hey! Kyle. Stay in this, OK. This is your place. You are in control, remember! You control it. Now go get him. Finish this!
+109) 12) dialog: Kyle! Hey! Control! Control!
+110) 3) dialog: How you doing?
+110) 10) dialog: Hey, it's alright.
+110) 15) dialog: OK, pal. OK.
+111) 3) dialog: Why are you here?
+111) 7) dialog: Yeah, well your son had a pretty good chance to do something special in there. Maybe even change his life and that's gone now. I hope you're happy.
+111) 11) dialog: It isn't? Why do you think he lost his shit in there, huh?! What do you want, lady?
+111) 17) dialog: It didn't sound like that the other day. It sounded like you hated the guy.
+111) 21) dialog: So now you want to return the favor? Is that it?!
+111) 25) dialog: And that's why you're doing all this? For fifteen hundred dollars a month?
+111) 30) dialog: Alright, I'll tell you what. You want the commission? You can have it. And you don't even have to take Leo. I'll take care of him for free and I'll send you the check every month. On one condition.
+111) 34) dialog: You leave Kyle here. With us. Until he finishes high school.
+111) 38) dialog: Are you sure he feels that way?
+111) 44) dialog: Then you can't have that commission.
+111) 48) dialog: Yeah, we will.
+111) 53) dialog: Then call him! You have his number!
+112) 6) dialog: You OK?
+112) 13) dialog: He's not in the basement?
+112) 21) dialog: Thanks, Terry.
+112) 34) dialog: There's nothing to do. I can't stop her. She's gonna leave and she's gonna take Kyle and Leo with her.
+112) 38) dialog: No. I don't.
+112) 43) dialog: I just can't win this one, Jackie. Trust me.
+114) 3) dialog: OK. Thanks, Karen. I appreciate it. Bye.
+114) 8) dialog: He's not at Stemler's.
+114) 12) dialog: I don't know, he's upset, maybe he went for a walk.
+114) 17) dialog: Hello. Yes, this is him. What?
+115) 5) dialog: Stay calm? You've lost my ward!
+115) 9) dialog: Calm down?! We are gonna sue you guys, silly. He's a laywer!
+116) 7) dialog: No. I didn't bring it with me.
+116) 12) dialog: Shit.
+116) 15) dialog: There he is!
+116) 19) dialog: Watching TV.
+116) 25) dialog: Leo? Hey Leo?
+116) 28) dialog: He's not responding. Ring the bell.
+116) 31) dialog: Nothing. Fuck.
+116) 38) dialog: I have a key back at the office. I could go get it.
+116) 42) dialog: He seems it. He's just sitting there.
+117) 3) dialog: You OK, Leo?
+117) 6) dialog: How did you get here, pal?
+117) 9) dialog: 
+117) 16) dialog: Kyle? You took Leo?
+117) 22) dialog: Have you lost your mind?! We've been worried sick about him!
+118) 3) dialog: Kyle, What the hell are you doing?
+118) 8) dialog: Have you lost your mind?
+118) 18) dialog: Kyle, we talked about this.
+119) 3) dialog: Hey. Hey, Kyle.
+119) 6) dialog: Hey can you hold on a second?
+119) 10) dialog: Kyle please.
+119) 21) dialog: Would you let me explain?!
+119) 25) dialog: Kyle wait... Watch the head fake!
+119) 27) dialog: Kyle I don't want to wrestle you.
+119) 37) dialog: Ow! Oh shit.
+119) 44) dialog: I'm trying to stop it!
+119) 48) dialog: Shut up, Terry! Kyle, stop it!
+119) 64) dialog: Yeah, it is.
+119) 69) dialog: Because it would have been too much work to leave him here. I couldn't have done it.
+119) 75) dialog: I had to, alright?
+119) 79) dialog: Because I needed the money! We needed the money.
+119) 83) dialog: No! I just didn't think it would get this complicated.
+119) 88) dialog: Jack! Jack, where are you going?
+121) 3) dialog: Hey Leo.
+121) 7) dialog: I fell asleep. I'm sorry.
+121) 12) dialog: You want to go home?
+122) 7) dialog: Hi. Is he here?
+122) 11) dialog: Oak Knoll.
+122) 16) dialog: I have to go court.
+122) 20) dialog: I know.
+122) 24) dialog: I can't, Jack.
+122) 28) dialog: Because it's not true.
+122) 32) dialog: Yeah. All the time.
+122) 40) dialog: I'm sorry, Jack. I really am.
+123) 12) dialog: Kyle, listen, I just wanted to say I'm sorry...
+123) 16) dialog: I moved Leo back home, Kyle. And I'm gonna fight to keep him there.
+123) 22) dialog: Maybe but I'm still gonna try.
+123) 26) dialog: No. I just want you to give me another chance. That's all I'm asking.
+123) 32) dialog: Hey, Kyle, listen -
+123) 36) dialog: What?
+123) 41) dialog: OK. All right. Yeah.
+125) 5) dialog: What are you doing here?
+125) 12) dialog: Yeah, I got it.
+126) 8) dialog: Hi Eleanor.
+126) 12) dialog: Sure.
+126) 17) dialog: Yeah, well, we'll see what happens.
+126) 22) dialog: Is that it?
+126) 27) dialog: Hi Cindy.
+126) 32) dialog: What about Kyle?
+126) 37) dialog: Then yes. It is.
+126) 43) dialog: Every month.
+126) 47) dialog: We will.
+127) 12) dialog: Hi guys!
+127) 20) dialog: That's great, honey. Kyle, can you drag those garbage cans to the side of the house for me?
+127) 25) dialog: Thanks, pal.
+128) 3) dialog: Hi Honey.
+128) 7) dialog: Good. I got stuck at the office with a client.
+128) 12) dialog: Thanks for doing that.
+128) 15) dialog: I'll be right back down.
+128) 19) dialog: I'll eat there.
+130) 6) dialog: Sure.
+130) 9) dialog: You want an umbrella with that?
+130) 16) dialog: Me? I'm pretty good.

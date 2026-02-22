@@ -1,0 +1,66 @@
+5) 0) text: A deluxe casket flanked by elaborate floral displays and easel displaying a portrait of the deceased, Dr. Isaac So Mourners fill the pews, standees at the back, an overflow crowd. BEN SOBEL sits in the front row, staring at the casket with his wife, LAURA, his son, MICHAEL, now a teenager, BEN'S MOTHER, and her friend, DR. JOYCE BROTHER At the podium, the RABBI is speaking.
+7) 0) text: Ben turns away from Laura.
+10) 3) dialog: I can't believe what you said about him. Cold and withholding? You had to tell everybody?
+11) 3) dialog: (testy)
+11) 9) dialog: Ben -- once today? Enough.
+11) 17) dialog: That was him on the phone?
+11) 19) dialog: And you didn't tell me?
+11) 23) dialog: You told her -- (nodding at Agent Cerrone)
+11) 26) dialog: Oh, I see. And I don't. Why tell Laura? She couldn't possibly handle a phone call.
+11) 30) dialog: If you don't need me anymore, I'll be in the kitchen. (to Agent Cerrone)
+22) 0) text: Ben and Laura are in the kitchen, cleaning up the dinner dishes. Ben is wearing an apron that says "To Heck with Housework!" and a pair of Playtex rubber gloves. Laura is angrily muscling dishes around.
+22) 1) dialog: How could you? How could you bring him here? That -- (shuddering)
+22) 6) dialog: Oh, there's a law that says you have to bring a gangster home?
+22) 8) dialog: You should be in an institution.     Why couldn't he just go home?
+22) 10) dialog: Ohio! Sure. Everyone gets to be in Ohio except me.
+22) 12) dialog: How thoughtful! What about endangering our family? (worried)
+22) 15) dialog: You didn't want him, I didn't want him, but here he is! She looks up and jumps when she sees Vitti standing there
+22) 16) dialog: (covering, cheerful)
+22) 20) dialog: What?
+22) 22) dialog: That was you.    You said you wanted some.
+22) 24) dialog: (to Ben)
+22) 25) text: Why don't you make your friend some coffee. I'm going upstairs to take a long bath and hopefully drown. Laura smiles at the two men, then exits.
+26) 0) text: The room is dark. We PAN UP the foot of Ben and Laura's b and find them both wide awake staring straight up at the ceiling, listening.
+26) 3) dialog: How long are you going to let them go on?
+26) 5) dialog: Oh, give me a break.    She's got to be
+26) 9) dialog: Okay, sometimes you do sound like that. The O.S. MOANING kicks up another notch. Laura rolls over and jams her pillow over her ears. Ben growls, exasperate
+32) 0) text: Laura and Ben are hosting a brunch for the out-of-town relatives. Laura offers a basket of bagels to a seated, older woman.
+32) 2) dialog: Aunt Ester, I'm so sorry we had to put you up at the hotel. We wanted you here with us, but we had an unexpected house guest. She glares at Ben.
+32) 13) dialog: (smiling)
+34) 0) text: Jelly is loading up a plate of food from the buffet, talk to the elderly relatives. Laura stares at him.
+34) 3) dialog: Really. (noting mountain of food on his plate)
+34) 7) dialog: (indicating the door)
+34) 12) text: You got it. (to Laura)
+44) 0) text: Vitti is back in bed in his robe, still asleep. The door opens and Laura enters with an interior decorator who has fabric samples over her arm.
+44) 1) dialog: Now in here, I thought we'd get rid of the wallpaper and maybe put in some wainscoting -- She sees Vitti and quickly steers the decorator back outs
+44) 3) dialog: (to decorator) Don't look, don't look. She comes back in, closes the bedroom door and confronts Vitti who is still groggy from his troubling dream.
+44) 4) dialog: Do you realize it's almost noon?
+44) 6) dialog: You want a sandwich? Make it yourself. I'm not afraid of you, Mr. Oh-I'm-A-Great-Big-Mobster Man. I want you out of my house.
+44) 7) dialog: I've had   it with the bathrobe and the skulking   around and the girlfriend who, I'm   sorry, is so obviously faking it's not   even funny. Enough!
+44) 9) dialog: (tries new tack) Okay. You don't like me and I don't like you. We can at least agree on that, right?
+44) 11) dialog: I'm going to be honest with you -- I'm a very anxious person --
+44) 13) dialog: We have so much in common. Anyway, this is not helping me, it's not helping my marriage, and I know Ben really needs some alone time. So I'm asking you -- as a human being -- could you please leave? (off Vitti's look) Yes, I'll make you a sandwich.
+46) 0) text: Ben and Laura walk up to a trendy Japanese restaurant in Chelsea. Ben is really keyed up.
+46) 1) dialog: We finally got him out of the house -- why are we having dinner with him? I mean, how professional is that?
+46) 3) dialog: He's a grown man. I don't see why he needs a chaperone.
+46) 5) dialog: Ben, if you say 'buffer' one more time
+46) 7) dialog: Didn't you just take two of those?
+46) 9) dialog: Well, you better not drink anything. You know what happens.
+48) 0) text: Seated at a table are Ben and    Laura, Vitti and Sheila, and the producer RAOUL BERMAN    and his uptight, downtow GIRLFRIEND. Jelly inspects a     piece of raw octopus, wh Raoul gushes over a platter of    sushi and sashimi.
+48) 5) dialog: (not amused)
+48) 14) dialog: (aside to Ben) Too much buffering. Way too much.
+48) 37) dialog: Oh, my god. (to a passing waiter, rising her half-empty drink)
+48) 40) dialog: No.    No more for the Buffer. She glares at Ben as the table descends into silence.
+50) 0) text: Ben and Laura are getting ready for bed.
+50) 1) dialog: I don't know why you feel you have to save this man.
+50) 3) dialog: So that automatically means you have to help him? You're always doing this -- putting other people's needs ahead of your own, like you're this martyr or saint or something. It's like living with Mother Teresa.
+50) 6) dialog: You don't need this in your life -- especially not now. You really need to be grieving for your father.
+50) 8) dialog: Really?   I haven't seen it.
+50) 10) dialog: It's okay, honey. You can let it go. Ben almost starts to break, but he holds it back.
+50) 13) dialog: I just want you to be happy. She kisses him.
+50) 17) dialog: (apologetic)
+86) 23) dialog: Ben? Where've you been?    What happened to you?
+86) 26) dialog: When is this going to end?
+86) 28) dialog: Why? A few days ago you weren't even sure you still wanted to be a therapist. Now you're going to risk your life again for that lout.
+86) 30) dialog: (relents)
+86) 36) dialog: (pops)

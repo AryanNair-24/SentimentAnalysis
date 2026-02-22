@@ -1,0 +1,15 @@
+78) 1) text: Chieko enters the lobby. Beside the doorman are two men dressed in suits: Kenji (31) and Hamano (50). The janitor gestures at Chieko with his chin. The men walk over towar her and cut her off.
+78) 4) text: Chieko doesn't manage to read his lips. She is silent. Th doorman notices the situation, walks out from behind his small desk and shouts at the men.
+78) 6) dialog: She's deaf mute. Face her when you speak so she can read your lips.
+122) 3) dialog: Good evening, how may I help you?
+122) 4) text: Chieko takes out a piece of paper and a pen from her purs and writes a note. She gives it to the doorman together with Kenji's card. He reads it carefully, and when he's done he turns to her.
+122) 8) dialog: Very well miss, I'll call him now.
+122) 9) text: The doorman picks up a cordless phone and dials.
+122) 11) dialog: Lieutenant Kenji Mamiya, please?
+122) 12) text: There is a pause. The doorman gestures to Chieko that the lieutenant will answer in a moment.
+122) 14) dialog: Lieutenant? Yes, look, I'm with the deaf-mute girl you saw in the afternoon, and she asked me to call you... Yes, her... She says she needs to talk to you, alone... about her father... If it's possible, in her apartment, tonight.
+189) 1) text: Kenji walks past the doorman.
+189) 7) text: The doorman calls Kenji as he is about to leave.
+189) 9) dialog: Officer... officer...
+189) 12) dialog: This is the man you were looking for.
+189) 13) text: Kenji approaches him while the doorman discretely moves a to leave them alone in the lobby.

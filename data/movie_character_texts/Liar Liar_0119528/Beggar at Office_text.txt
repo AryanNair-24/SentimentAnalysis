@@ -1,0 +1,18 @@
+5) 0) text: Establishing the headquarters of ALLAN, STEWART &amp; KONIGSBERG. As they head inside, Fletcher and Max pass a BEGGAR.
+5) 1) dialog: 'Scuse me, sir. Do you have any change?
+25) 2) dialog: Any change, Mister?
+25) 5) dialog: Could you spare some?
+25) 8) text: Fletcher walks faster, PUZZLED that he has answered truthfully. The beggar is even more puzzled.
+25) 9) dialog: Will you?
+25) 11) dialog: How come?
+25) 14) dialog: Jerkoff.
+62) 10) text: The man turns. It's the same BEGGAR Fletcher was rude to outside the courthouse.
+62) 11) dialog: Change? Absolutely.
+62) 14) dialog: Unquestionably.
+62) 15) text: The beggar continues on. '               FLETCHER Alright, I get your point. But this is a crisis! Look, I'll give you ten bucks.
+62) 16) text: The beggar pulls out a quarter and holds it up.
+62) 17) dialog: 
+62) 21) dialog: Minted in Denver.      Imagine that.
+62) 23) text: A moment as the beggar thinks, then:
+62) 24) dialog: It's worth twice that to screw you.
+62) 28) dialog: LAWYER!

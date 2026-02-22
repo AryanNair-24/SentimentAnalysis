@@ -1,0 +1,544 @@
+5) 0) text: Alarm rings, ANNIE MACLEAN awakens. She shuts the alarm a scoots up in bed. She waits. Seconds later the television across the foot of her bed turns on from a timer -- to a 24 NEWS channel.
+7) 0) text: Grace is putting on her boots on a bench beside a back do She is wearing her mother's outfit. As she slides the boo on, we see behind her a row of framed photos -- Robert, G and Annie in happy times. She slaps a note on the refrigerator, with a magnet -- "G riding. Back around 10. Love, G."
+9) 0) text: Annie's feet hit the ground, running -- her breath showin the cold air. She passes other joggers with ease. She cro the street and heads for an elegant CPW building.
+10) 0) text: Dressed in running clothes, Annie opens the door and pick several newspapers that were delivered. She carries them the kitchen and sets them beside a huge stack of publicat magazines, papers, etc... Knowing she must read all of th some point, she breathes a disgusted sign. She thumbs thr the POST as she pours herself a cup of coffee. Something  catches her eyes and she snarls:
+10) 1) dialog: That little shit! She dials a portable phone and moves through the apartmen she talks:
+10) 2) dialog: Hi Lucy?... Did I wake you?... Have  you read the Post?... They've got a  little item about me and Fiske. He's  saying I fired him and that I faked  the new circulation figures.. Ha, ha...  Oh, please... It's the last act of a  desperate gnome... Set up a phone call  with Don Farlow for 9:30... Throughout the phone call, Annie is selecting clothes,  turning on the shower, undressing...
+14) 0) text: Annie, casually dressed, enters the empty offices of her  magazine. She turns on the light, revealing a large row o stalls and glassed in private offices. Everywhere we look see indications of the kind of magazine she edits. She strolls to her office -- the largest -- surrounded by windows. The office walls are covered with photos, most o which are COVER STORIES ON ANNIE. (One photo is of Annie's father MARTIN. A BRITISH AMBASSA with his young daughter on his lap, her arms affectionate around his neck. Her mother stands right behind them, pos like a member of the royal family.) Annie sits and takes a breath. The only photo on her desk a family portrait, taken when Annie was given the Crystal Award -- Robert, Grace, herself and the Award. She checks watch -- it is almost 9:30.
+15) 0) text: A WALK-IN CLOSET of the master bedroom; one side is Annie one side is Robert's. Robert stands before his bureau in the closet -- he has j showered and is putting on his watch and ring which lay  beside his cologne assortment. A FRAMED PHOTO OF HE AND A in India -- younger, vibrant, in love... when they first THE PHONE RINGS. Robert enters into the bedroom to pick u
+15) 2) dialog: It's me.
+15) 4) dialog: Hi. Awkward pause.
+15) 6) dialog: I should be in by two.
+15) 8) dialog: Sure... What's Grace up to?
+15) 10) dialog: I'm sorry about last night. I shouldn't  have brought it up over the phone.
+15) 13) dialog: I don't know. We'll figure it out. Pause. There is a lot unspoken but understood between the Annie's other phone line rings. Robert hears it as well.
+15) 15) dialog: Yeah. Bye. Annie picks up the other line and her manner brightens, h energy boosts...
+15) 16) dialog: DON! My love, how are you? Did you hear  about Fiske?... No, suing is too  civilized. Can't we get your friend at Le  Cirque to serve him a fatal piece of  poached salmon?... Ha, ha... That's even  better...
+18) 0) text: Annie's office is now crowded with a dozen or so employee sitting on the couch, on the window sills, on the arms of chairs, against the walls... Paper bag emptied of bagels, cream cheese, orange juice, paper plates... Hand Held Camera captures the energy of the room as it  follows overlapping lines, laughter, etc... yet, no matte casual it all seems, Annie is very much at the center of  control... We enter the scene of LAUGHTER, as Annie asks  KEVIN, a feature writer:
+18) 1) dialog: ... So what did you say to her?
+18) 5) dialog: All right, all right, all right... Kevin,  good job. Write the interview. If I don't  like it, you may have to sleep with her  for a follow-up! (laughter)
+18) 8) text: Gottschalk. The room goes dead quiet, instantly. Then erupts in laugh as everyone realizes it. Annie, however, waves her hand a she takes the phone...
+18) 9) dialog: Quiet... Quiet! Everyone obeys. Annie presses SPEAKER PHONE.
+18) 10) dialog: David?
+18) 12) dialog: Everyone. Working overtime. Just for you.
+18) 14) dialog: Yes. We're suing.
+18) 16) dialog: David, he signed an agreement that he  wouldn't talk to the press and he's  libeled me by saying I faked the figures.  You're not going soft on me, are you? Silence. Gottschalk doesn't immediately respond. Everyone waits. Covert looks between characters suggest this is  interesting -- has Annie over-stepped her bounds with the magazine's owner? Annie waits without a shred of anxiety even though she might have some. Finally:
+18) 18) dialog: Exactly... Everyone silently acknowledges Annie guts and influence.
+22) 0) text: Annie sits on a train -- her laptop out, notes beside her her cellular phone, ever-ready. The train passes through  beautiful countryside but Annie is focused on an editoria she's writing. The train pulls into a station and stops, causing Annie t take a break and stretch her arms and neck. She looks out window for the first time and sees: A MAN, his hands in his pockets, waiting on the platform. watches as the Man holds out his arms to his two young  children, who are getting off the train. He picks them up his wife enters the scene, kissing him and wrapping her a around his waist. The children talk a mile a minute and t father listens to every word. Annie doesn't even realize she is staring. As they leave platform, she turns back to her laptop. As the train begi to move again, Annie returns to work. HER CELLULAR PHONE RINGS. She answers.
+22) 1) dialog: Yeah?... Hi. I made the 1:00 so... The expression on her face sinks into a stunned panic.
+23) 0) text: Annie is running through the corridors, her bags in tow. sees Robert standing in the corridor talking to a DOCTOR. runs for them. When she appears, Robert and the Doctor stop their  conversation. Robert looks to Annie, who is waiting for n
+23) 1) dialog: 
+23) 4) dialog: What about Grace?
+23) 7) dialog: (impatient)
+23) 10) dialog: Surgery! For what-?
+23) 12) text: Annie, her leg was shattered -- what  they call the distal epi.. epi..
+23) 15) text: They have to take the leg off. Annie responds without tears and cries but with a quiet  shock. We can tell her mind is racing, trying to process information, until finally she asks:
+23) 16) dialog: Which leg? The Doctor and Robert are surprised by the question.
+25) 0) text: Camera moves from Grace's face down her body to Robert's  hand, which rubs her good leg. He looks at her lovingly,  pushing the hair from her forehead. Annie, needing to do something, tenderly straightens Grac blankets. It is plain to see where her leg had once been. Robert can't look. Annie, one to face her fears, bravely  looks at it head on. She notices the I.V. Bag and rises o
+25) 1) dialog: That bag's almost empty.
+25) 4) dialog: (as she exits)
+25) 5) text: Robert, you leave it up these people...! Robert is about to respond but Annie is already out the d We hear the O.S. DIALOGUE as Robert listens.
+25) 6) dialog: Excuse me, my daughter needs a new  I.V.
+25) 8) dialog: I'd like it taken care of now please. Annie enters first.
+25) 9) dialog: You have to keep on top of these people  or else they just sit on their -- But Robert is ignoring her. Facing Grace, smoothing away hair. He's giving her the silent treatment. Annie knows t means Robert doesn't approve of her dictatorial behavior. Annoyed, she turns away as well. The Nurse enters with a new bag and begins to replace the one as Robert backs away.
+25) 11) dialog: Tch. What are you -- Annie, about to respond to his inappropriate politeness, stopped by Robert, who finally looks at her. It's a power look that tells her to calm down and shut up. It's a look that, for all of Robert's sensitivity, affects Annie. She gets the message and stays calm. As the nurse leaves, Annie is about to say thank you, but Robert beats her to it.
+26) 2) dialog: (journalistic)
+26) 6) dialog: Wait, uh, I, I don't understand. Start  again -- He's alive...
+26) 8) dialog: Well, of course, right...
+26) 12) dialog: (overlapping)
+26) 17) dialog: (overlapping)
+26) 20) text: Yes. Hi. (to Annie)
+26) 22) dialog: Liz, listen, the Doctor's here and I  just can't, uh... talk now... so --
+26) 24) text: I understand, but Annie, please...
+26) 25) dialog: (overlapping)
+26) 28) text: Annie, no matter what I do, this horse  will never be the same.
+26) 29) dialog: ... I just don't know right now! Do  whatever you can and when Grace is --
+26) 31) dialog: And I can say the same thing about my  daughter! But she is suffering! Can you  solve that problem! (Liz is quiet)
+26) 33) text: Please. Liz is stopped by Annie's almost pleading tone.
+26) 35) dialog: What did he say?
+26) 37) dialog: I'm going to get all the nurses'  names... It's good to know all their  names. Robert nods. But neither of them moves. They stand motion for a beat, then Annie begins to break down and eases her into Robert's arms. Robert embraces her, kissing her head, with an almost fat comfort. His expression tells us it's the moment he's bee expecting... and wanting. Now she'll be all right, in his Whatever distance between them, whatever problems felt  insurmountable last night on the phone, are now, for the -- for Robert -- gone. But Annie's expression tells us something different. Her  instinct to hold him was honest... but the effect isn't t same anymore. Something doesn't feel right. Something isn working anymore about his comforting embrace.
+26) 38) dialog: I should go get some of her things.
+26) 40) dialog: (gently pushing away)
+28) 0) text: Annie opens the door and enters, flicking on the light.  Camera is on her back, as she places a small suitcase on bed and opens it. She begins her task with cool efficienc Opening drawers and closets, assessing what should be tak what isn't necessary. Suddenly, she stops. She feels disoriented for a moment. can't remember the last time she was inside this room. Sh takes a moment to pause and actually look around. In the light, we now see more of Grace's inner sanctum. H riding prize ribbons in various colors adorn the walls.  Books. A girl's bureau cluttered with teenage possession  ranging from childhood toys to items that suggest a reach towards adulthood. Annie examines some items, affectionat A GOOD LUCK CHARM from India sits among her things. Annie takes it to pack in the suitcase. She notices a framed 8X10 of Grace sitting proudly atop  Pilgrim with Judith at her heel. She then notices the edg another picture behind this one, in the frame. She pulls Pilgrim photo out to reveal: An old 8X10 of Annie hugging Grace as a toddler. With her back to Camera, Annie rememb
+29) 0) text: Annie is playing with toddler Grace. Chasing her around t room. Picking her and tossing her onto a small, toddler b Blowing into her stomach. Grace is laughing uncontrollabl
+30) 0) text: Annie enters. No one else is there. She places the suitca on a chair and opens it. She takes out the INDIAN LUCKY C and some horse books, and places them on her bedside tabl She takes care to prop up the Lucky Charm. She wets a cloth with some water from a pitcher and gentl wipes Grace's sweaty brow... INSERT VISUAL FLASHBACK HERE instead of in Country House. Annie then continues unpacking the suitcase. She opens  Grace's closet and sees a hospital bag filled with Grace' clothes at the time of the accident. Annie examines them discovers they are hers. Annie shoves the clothes into a and starts unpacking.
+31) 0) text: The Clock is ticking on the wall. The cafeteria is empty  except for one tired Intern, drinking coffee on a break. Robert and Annie are having a cup of coffee. In the silen they search for things to say. Until:
+31) 4) dialog: We're very lucky.
+31) 8) dialog: Okay.
+31) 11) text: ... if we still we're thinking of redoing  the couch. Annie just nods. She senses Robert is looking for some ki of reassurance, but she can't give it to him. He continue
+31) 13) dialog: Oh. Right. I'll call him. Pause. Annie looks at her husband as he stares off to the side, deep in his thoughts. She can sense he's sinking as fidgets with the napkins. She remembers:
+32) 0) text: A younger Annie stands in a bathrobe, noticeably pregnant cooking at a stove -- reading instructions from a propped cookbook. FRANK SINATRA IS BLASTING as she sings along, i full voice, without inhibitions;
+32) 1) dialog: 
+32) 10) dialog: (a la fan)
+32) 13) text: How's my pregnant chick! She moves to him and they embrace... He wraps his arms ar her. They kiss. Annie laughs.
+32) 14) dialog: You can hardly get your arms around me.  How depressing. You're so early.
+32) 16) dialog: (loving it)
+32) 19) dialog: Do you? Do you really? They turn to each other and kiss. END OF MEMORY.
+33) 0) text: Annie and Robert sit silently at the table in an empty ho cafeteria, a lifetime later.
+35) 0) text: Daylight pours in. Robert and Annie enter. Robert, loaded with gifts, immediately crosses to Grace, on the side of good leg. Annie takes her position beside the lost leg.  Robert kisses his daughter;
+35) 5) dialog: Liz is taking care of him. (to change the subject)
+35) 9) dialog: Did you get her fresh towels?
+36) 0) text: A limousine drives up as the Doorman gets the car door. T weather is slightly warmer. People's clothing looks as if spring is coming nearer. Annie exits first, carrying a jacket for Grace. She is  followed by Robert, who immediately turns to help Grace. hear her O.S.
+37) 0) text: The three sit at a dinner table, eating dinner. Grace pic at her food. Robert can't help staring at her. Annie eats watching them both.
+37) 3) dialog: Why don't you go lie down?
+37) 7) text: Maybe... look -- just... Robert and Annie wait. She doesn't continue. She rises,  reaching for her crutches. Robert moves to help.
+38) 0) text: Annie and Robert stand before their separate sinks, talki to each other through their separate mirrors, as they was for bed.
+38) 1) dialog: You've got to stop doing that?
+38) 3) dialog: Helping all the time! Running to her  every time she trips or falls...  Anticipating her all the time. Robert shuts off his sink and dries his face, without a w He exits into the bedroom, and gets into bed. For a beat, stares up at the ceiling -- then says quite plainly.
+39) 0) text: Grace stands by her door and can hear her parents muffled tense voices. Annie is angry at his complacency. Robert j wants what's best for Grace. She closes the door. Silence She puts her crutches against the wall and tries to walk  towards her bureau without them. It is a struggle, but sh does... almost falling, but grabbing the bureau just in t The 8X10 of her and Pilgrim, falls face down. She props i and looks at it -- focusing on her horse, then on Judith. Suddenly, she lashes out, knocking the photograph onto th floor...
+40) 0) text: Annie pulls up in a Range Rover and stops. Grace moves fo the door. Annie asks respectfully;
+40) 1) dialog: Do you want any help? Grace doesn't even bother to answer. She manages to get o the pavements, then turns for her bag... Annie notices other kids looking at Grace from behind, as enter the school.
+40) 2) dialog: Dad'll pick you up today, all right?
+40) 4) dialog: You'll be fine. Grace nods and turns to the school. Annie watches her go.
+42) 0) text: Annie moves about the office, hands in pocket, in front o her wall of windows. LUCY and her staff sitting around th office. Annie is speaking to a YOUNG WOMAN staff member;
+42) 1) dialog: I don't care what he told you! The  man's a liar! The man's an actor, for  Christ's sake. They're all liars!  They'll say anything to get a cover... The Young Woman looks insulted. AN ASSISTANT comes in to Annie a note;
+43) 0) text: Annie is crossing an empty school yard. Grace is sitting the ground, her back against a wall, her "legs" in front her. She has been crying. She looks up to her mother.
+43) 2) dialog: Oh, honey... What happened?
+43) 4) dialog: (softly)
+43) 8) dialog: Grace, listen to me. Your body is just  healing. You have to give the rest of you  time as well...
+43) 10) dialog: You are not staying home all day feeling  sorry for yourself. You're going to get  up and you're going to figure this out.
+43) 13) dialog: It's still early. What's your next class? With secret delight, Grace viciously utters the word:
+44) 0) text: Annie is at her desk studying Grace's book on Horse Whisp Robert is on his bed with briefs laid out before him.
+45) 0) text: The door is closed. A SONG blares on her stereo. Grace is her bed watching a video of her and Pilgrim... riding at horse show. There's a shot of Annie standing proudly,  watching her ride. Another shot of her and Judith, both o them on their horses, waving to camera.
+46) 4) text: I want to see Pilgrim. Robert and Annie exchange an anxious look.
+47) 13) dialog: No.
+48) 0) text: Alone in her study, Annie sits before her computer search the Internet for information on HORSES -- Veterinarian  Journals, Therapies, Accidents, Eistories... We sense she been at it a while... She locates an ITEM TITLE -- HORSE WHISPERERS. Interested brings it up on the screen.
+49) 0) text: Annie sits in the huge reading room, books spread out bef her, under a green reading lamp. Her voice tells us what reading:
+49) 1) dialog: "It was in America that horses first  roamed..." In the books, we see pictures, lithographs, paintings and drawings...
+49) 2) dialog: "A million years before the birth of  man, they grazed the vast empty plains of  grass and crossed to other continents  over bridges of rocks... They first knew  man as the hunted knows the hunter, for  long before man saw horses as a means to  killing other beasts, man killed them for  meat..." ANNIE'S V.O. CONTINUES OVER;
+50) 1) dialog: "...The alliance with man would forever  be fragile -- for the fear he'd struck  into their hearts was too deep to be  dislodged... Since that Neolithic moment  when a horse was first haltered, there  were those among men who understood  this..."
+51) 1) dialog: "... They could see into the creature's  soul and soothe the wounds they found  there..."
+52) 1) dialog: "...For secrets uttered softly into  troubled ears, these men were known as  The Whisperers..." One particular pick-up truck has its back door opened. A  MAN'S LEG is sticking out, putting on a pair of boots. A moment later the Man gets out of the car. Holding a cow hat, he has a certain quality, a self-respect, that men w know themselves seem to have. TOM BOOKER. A weathered redheaded woman named RONA -- late forties, s wiry horsewoman's build -- is walking towards him.
+56) 0) text: Annie is looking over a magazine cover with Lucy and her She is unhappy.
+56) 1) dialog: You know it's perfectly shot, it's  perfectly cropped, it's perfectly laid  out and I'm so bloody bored, I'd rather  buy a Motor Racing magazine -- Start  over. Some general whines and groans as her assistant hands her note.
+56) 2) dialog: Uh, would you all excuse me a moment? She waits for them to leave as she sits before the phone. of her lines is lit:
+57) 0) text: An endless sky. An empty ribbon of two-lane highway in Ut A small roadside station. Tom's pick-up truck, his horse  trailer hitched to it, getting gas. Tom is on the pay phone. We hear Annie's voice:
+57) 1) dialog: This is Annie MacLean.
+57) 3) dialog: (efficient, expeditiously)
+57) 5) dialog: I went on the Internet and found this  article about you... It says you're a Horse  Whisperer, that you... you help people  with horse problems. And you have quite a  success rate when it comes to traumatized --
+57) 7) dialog: Well, you know, however you want to put  it -- I got your information from the  publisher of the article. I called  Montana and your sister-in-law, I think,  gave me this number. (trying to be charming)
+57) 10) dialog: Well, if you could just come for the day.  New York's only a few hours by plane,  I'd have you home by dinner...
+57) 12) dialog: (interrupts, abruptly)
+57) 15) text: Ma'am, first class to Montana is a waste  of good money. Now, am I being too polite  here or when I say NO in Utah, does that  mean YES in New York City? Annie is taken aback. Tom feels badly.
+57) 17) dialog: Mr. Booker, if I could just ex --
+58) 0) text: Annie reaches for Grace's bedroom door, then pauses. She  realizes she should knock. She does and whispers:
+58) 1) dialog: Grace? (knocks again)
+58) 2) text: Grace, it's mom. Annie slowly opens the door. She finds Grace's bed empty. looks over to the window to find Grace sitting in a chair the dark, looking out the window.
+58) 3) dialog: Grace. What are you doing? Not looking up, Grace speaks in a hollow voice.
+58) 5) dialog: I brought it to you in the hospital.
+58) 7) dialog: Grace, I put it on the table near your --
+58) 10) dialog: Have you decided about Pilgrim?
+58) 12) dialog: Well... how you feel all right about  telling Liz to put him down...
+58) 14) dialog: I think that's... very compassionate  and... mature way of looking at it.
+58) 16) dialog: Yeah?
+58) 18) dialog: What?
+59) 0) text: Annie sits alone at the kitchen table, nursing a glass of wine. Robert enters and sits opposite her, wearing a tuxedo -- tie and collar undone.
+59) 1) dialog: How was the dinner?
+59) 4) dialog: Why did you go?
+59) 6) text: They're still our friends, Annie. It's  nothing serious. You kid about them all  the time... And I could tell Paul really  appreciated me being there. He drinks Annie's wine as she looks at him.
+59) 8) dialog: Yeah.
+59) 10) dialog: No. Robert nods. Accepting. Silence. Annie sips her wine. The
+59) 14) dialog: About us going someplace warm...  Someplace Grace'll have to wear shorts  or bathing suits or summer dresses... Robert looks at her and realizes it's a bad idea. He nods again, getting the message. Silence. In that silence, Ann looks at him... and makes a decision:
+59) 15) dialog: Robert, I want to take Pilgrim out to Mr.  Booker. Drive him out to Montana... With  Grace. Robert is confused... and a little worried.
+59) 17) dialog: He did, but... I think I can change his  mind.
+59) 19) dialog: Robert, Grace isn't adjusting to school.  And she can't sit in this apartment all  day... I think it would be good for her.
+59) 22) dialog: I've called Liz. They can set me up with  a trailer for Pilgrim. I thought we'd  stay at motels along the way...
+59) 25) dialog: No. I was just researching. Calm down.
+59) 27) dialog: I'm not asking you to. I'll do it.
+59) 29) dialog: He'll be sedated. I know horses, Robert.  I'm the one who taught Grace how to ride.
+59) 32) dialog: I'm in charge. I went back very soon  after the accident. They didn't expect me  for a couple of months. I'll just take  that time now... I can still oversee  things from Montana... Take my fax...  My computer... Beat. Robert fears this is about the marriage. Yet --
+59) 34) dialog: Why?!
+59) 37) dialog: I can't say he's been all that effective  with her.
+59) 39) dialog: I don't care what he says! We have to do  something, Robert! I can't sit here and  trust everything's going to work out just  by pretending it will.
+59) 41) dialog: What? It is very difficult for Robert to say;
+59) 44) dialog: (frustrated)
+59) 48) dialog: She will if you think she should.
+59) 50) dialog: (hesitates)
+60) 0) text: Pilgrim is being loaded into the trailer by four strong s men, violently kicking and pulling all the way. Annie watches with anxiety -- an almost giddy Liz by her
+60) 1) dialog: Maybe we should give him another  sedative.
+60) 3) dialog: Of course not.
+61) 0) text: Annie's Suburban drives along Route 80, pulling the horse trailer behind.
+62) 0) text: Grace, in the back seat, wearing her headphones, listenin her music (maybe LIZ PHAIR OR HOLLY COLE). Detached. Non- committal. As trucks pass by, their time slapping the pav she reacts and turns to the other window. Annie, in sunglasses, shifts her attention between the ro and her rear-view mirror -- checking on Grace.
+65) 0) text: A small furnished motel room with two twin beds. Grace sits up in bed watching TV, with no expression. A s with canned laughter serves as a hypnotic drug. Annie enters from the bathroom, after showering, drying h hair. Grace doesn't bother to look up.
+65) 1) dialog: You want to take your bath? (Grace shakes her head)
+65) 4) dialog: No, I don't mean you have to. It's just  that we may not have enough --
+65) 6) dialog: Look, if you want to take it in the  morning, that's fine.
+65) 8) text: I don't care. Annie realizes she may have pushed too hard, but she also realizes there's no talking to Grace now. So, she achieve her goal --
+66) 0) text: The lights are off. Annie lays in bed, wide awake. It is middle of the night. Grace, asleep in the other bed, begins whimpering. She's  having a bad dream. Annie rises -- considering whether or to intercede... Finally, Grace begins to cry out... softl first, but with increasing intensity until she awakens in fear... Annie appears right by her side.
+66) 1) dialog: What, sweetheart? What? Shaken, Grace cannot fight how much she needs her mother that moment. She wraps her arms around her, tightly, and to catch her breath.
+66) 2) dialog: It's sleeping in a strange bed,  that's all. Happens sometimes. It's  Ok. It's OK.
+67) 0) text: The Suburban continues its journey. Once again -- Annie, in the front, and Grace, in the rear drive without a word between them.
+68) 0) text: Grace and Annie occupy their same positions. Annie is on car phone with her office.
+68) 1) dialog: Okay, listen -- let's do this. When  I get to the next motel, I'll see if  they have a fax. If not, I'll call  you tomorrow to -- Annie continues O.S. when we hear a shifting, a rocking i the trailer behind them. As if Pilgrim made a sudden move Grace quickly turns her head. Annie looks in the rear vie Grace.
+68) 2) dialog: Uh Lucy, look, I have to go. OK...  Later. Annie hangs up and smiles at Grace through the mirror. Gr reaches for her walkman and headphones. Annie offers;
+68) 3) dialog: Grace! GRACE! Grace lowers one side of her headphones;
+68) 4) dialog: Would you like to put your music on  up here? Grace shrugs. Annie shrugs it off as well. Grace replaces headphone. Annie turns on the radio -- nothing but countr gospel or religious talk shows... She shuts it off. Frust Annie looks up ahead and sees:
+68) 6) dialog: 
+68) 11) dialog: Fine!
+68) 13) dialog: Fine! She exits the car, banging the door. As she walks acrund car to help Grace, she talks to herself in a sarcastic wh
+68) 14) dialog: "Whatever you want!" Well, this is what  I want. I want to eat lunch and I want  to smoke a cigarette and I want to keep  talking to myself for the next two  thousand fucking miles..."! She opens Grace's door. Grace senses her mother's anger.
+69) 0) text: Annie and Grace enter. They look around: Formica floors, truckers in caps and beer bellies stuffed into booths or at the counter. There is not a single spac available. Annie and Grace stand near the entrance. Another Trucker  enters and they step aside, huddled together in this fore land.
+70) 0) text: Grace and Annie enter the room to find A DOUBLE BED inste of two twins. Neither comments. Annie exits O.S., carrying the bags inside, as she says:
+70) 2) dialog: You should call your dad before it  gets too late.
+70) 5) dialog: Oh. You didn't tell me.
+70) 7) dialog: (stares angrily, speaks  softly)
+70) 8) text: You don't. Silence. Annie exits past her to the car.
+72) 0) text: Annie is returning from her jog, sweating. As she crosses her motel room, she stops by the window, looking in to se Grace, on the floor, straining to do her exercises. Annie fills with compassion for her girl -- reminded of t struggle she faces everyday.
+74) 0) text: Grace leans against the window in the back, in one of her darker moods. Annie switches radio stations, from Bible  thumping to Farm reports. She shuts it off. Silence. She sees a ROAD SIGH: "LITTLE BIGHORN NATIONAL MONUMENT".
+74) 1) dialog: Grace, look! Grace reads the sign.
+74) 2) dialog: Would you like to see that?
+74) 4) dialog: (overlapping)
+74) 5) text: I don't care. Annie's comic mimicking, throws Grace off center. Annie turns off onto the exit. They drive by a massive ca -- it's neon sign flickering. They drive up a hill past a two Indians in high crowned Cowboy hats standing outside the cafe. She drives up a hill towards the parking lot of Monument...
+74) 6) dialog: This'll be nice. We haven't seen any  of the sights yet. It's history. When  I was thirteen I used to love seeing  things like this.
+74) 9) dialog: How long is this going to go on?
+74) 11) dialog: You know what I mean? (turns to the back seat)
+74) 12) text: Is this it now? Is this the way we're  going to be from now on? Ignoring her, Grace edges to the passenger side and exits car. Annie gets out of the driver's side and walks around she speaks:
+74) 13) dialog: Do you want us to turn around and go  back home? Do you?
+74) 15) dialog: Who do you think I'm doing this for?  I'm doing this for you!
+74) 17) dialog: I don't believe this!
+74) 19) dialog: That's not true! Whatever problems your  father and I are having, have nothing  to do with this.
+74) 22) dialog: Did he tell you that?
+74) 24) dialog: That's not true!
+74) 26) dialog: It's... it's not that simple to explain.  I know you think it is, but it's not.  The truth is, I don't really know what  I want to do. I don't have all the  answers.
+74) 29) dialog: (wipes face)
+74) 32) dialog: I'm sorry. I'm sorry... Annie rises and is escorted back to the Suburban by the  Ranger. She sees: Grace is sitting in the front seat now, waiting for her - like a little girl lost.
+75) 0) text: Annie gets into the driver's seat. Buckles up. Grace hold back tears.
+75) 1) dialog: You buckled up? (Grace nods)
+77) 0) text: Annie and Grace, both in front seats, eating doughnuts an coffee. They stop. POV -- Through the windshield is an endless sky and a rol sea of land.
+77) 2) dialog: Don't they believe in signs here?
+77) 4) dialog: There was supposed to be a turn off.  Did I miss it?
+78) 0) text: The Suburban and the horse trailer, pulls into Peterson's collection of motel cottage adjacent to an expanse of lan that includes stable, corral, a main house and various ri trails into the mountains. Mr. Peterson runs out from the main house to greet Annie she gets out of the car.
+79) 0) text: Annie, showered and changed, is trying to follow Mr.  Peterson's directions to Tom's ranch -- written on Peters motel stationary. She is lost once again.
+79) 1) dialog: (reading)
+80) 0) text: From outside the Suburban, we see, but cannot hear, Annie hitting the steering and cursing in frustration.
+81) 0) text: Annie, panting, looks ahead and sees nothing but empty sp above and below -- as if the earth and sky met with nothi between. She sighs and starts the car again. As she moves forward, senses an almost indistinguishable rise in the road -- as follow her POV up the road through the windshield to reve POV -- A BREATHTAKING VALLEY just beyond the rise, hidden from view only a few yards before. THE DOUBLE DIVIDE RANC sits nestled in the valley, a few miles away. Annie is  impressed.
+82) 14) dialog: Hello, Mr. Booker. Annie MacLean. From  New York. We talked on the phone. She extends her hand. TOM shakes it, nodding, staring at curiously.
+82) 15) dialog: It's, uh... beautiful country. I had a  little bit of a hard time finding the  place. There are no signs.
+82) 17) dialog: Well... OK... here it is... Uh... I'd  like you to take a look at my horse.  Now -- it won't take long and if, after  that, you still don't feel...
+82) 19) dialog: Oh no. She's here. I brought him along.  And my daughter, too. We're staying at  Peterson's...
+82) 21) dialog: (slightly taken aback)
+82) 25) dialog: Look! Please! Don't do the "shucks,  ma'am" thing again! (Tom, surprised, listens)
+82) 27) text: -- mountains. Just take a look at him.  If you still feel the same way, I'll  be on the road by morning and you'll  never see me again. OK? Deal? Tom tries to hide a smile of respect. Annie, thinking she have him, starts backing away towards her car -- as one w a dangerous animal they think they might have tamed...
+82) 28) dialog: We're at Peterson's. Whenever you're  free. You don't even have to call. She gets into the Suburban. Tom watches her drive off.
+83) 12) dialog: Sorry about that. Hi. Grace, this is  Mr. Booker... Have you looked at  Pilgrim? Tom sees Grace turn away, just as Annie enters. He takes moment. He could say no right there, but something stops
+83) 14) dialog: You want us to come with you? I just  have to run to the main house and give  Mr. Peterson a check.
+83) 16) dialog: Grace?... Grace, you want to come with  us, take a look at Pilgrim? Grace keeps looking at the TV. No reply. Tom is half way the door when he says to Annie -- making sure Grace can h
+84) 2) dialog: Well... You're closest anyone's  gotten. He walks straight towards them -- veering more to Grace. stops in front of her and they look into each other's eye in a way that reminds us of how Tom looked at Pilgrim. Except, Grace is made even more uncomfortable by the inti She turns away and walks to the corral, to lean on a post as if she doesn't care. Tom turns to Annie.
+84) 6) dialog: Well, that'll be a little complicated --
+84) 12) dialog: Look, I'll talk to Grace and call you  later--
+86) 0) text: Camera moves to reveal Annie on the phone in front of her computer and fax...  plugging in extension cords as she t
+86) 1) dialog: ... the phone company's putting in extra  lines. I'll call back with the numbers.  Oh, and I want you to get in touch with  this lady in town here -- they say she's  sort of a physical therapist for the  rodeo boys but keep the one at the  hospital we already contacted on call... Grace sits alone in the living room. Watching TV, but anx and disturbed about what she's committed herself to.
+91) 0) text: Annie and Grace arrive in the Suburban. They exit. As the head towards the ranch, they see in the distance: Pilgrim standing along the fence of a round pen. Tom stan in the pen, holding a rope, looking at Pilgrim.
+92) 0) text: Tom stands in the pen with Pilgrim. He looks to see Annie Grace approaching but makes no acknowledgement. He turns focus back to Pilgrim. Annie and Grace appear. Grace takes a position (that is t become her regular spot) a distance away from the pen. An moves in closer, beside SMOKEY (a ranch hand) with one le up on the pen fence.
+92) 2) text: Howdy. He and Annie watch as Tom stands before Pilgrim -- turnin sideways... then standing...
+92) 3) dialog: What's he doing?
+92) 5) dialog: How's it going? Smokey doesn't respond -- how it's going is exactly how i looks. Tom takes a few steps, stops and stands still agai sense the process is long and requires great patience.
+93) 0) text: Two hours later. Grace is in the same spot. Smokey is gon doing his work. Annie has taken a different position, loo over SEVERAL PAGES OF FAXES on her lap. Tom is still standing in the pen trying to get Pilgrim's Joe has joined the proceedings, sitting on the pen rail. Tom deftly throws a hoolihan, gently lassoing Pilgrim aro the neck. And Pilgrim, at the touch of the rope, crazed,  resists, pulling back, striking at the rope... The rope  cutting into Tom's hands. Tom gives him some slack, givin his head, letting him relax... then gently heads him by t rope, walking him around the pen, getting his feet to mov Grace's eyes never leave Tom.
+94) 0) text: Tom, off in the distance -- against a sky that seems to b touching the land -- is riding along a creek. Closer up, see he's rustling the bushes with a stick. Some stray cow run out of the bushes. Tom races after them. His horse  shepherds the cow across the creek and up a hillside. At the top of the hill, with the ranch spread out endless before him, Tom sees Frank on his horse, chasing strays. whistles. Frank waves back. In the near distance, a picku truck is parked on the range. Joe and the TWINS are throwing food pellets out of the ba of the truck. Cattle come from across the range for the f What begins as a handful of cows becomes dozens, then  hundreds -- the truck virtually disappearing among them. Tom stops for a moment to look out at his ranch. Far off the distance, he sees Annie's Suburban coming along the r to the ranch. He watches as Annie's distant figure gets o of the car with Grace. Annie instinctively turns and look across the land. Even though there is such a distance,  there's a sense Tom and Annie are looking at each other. Tom senses Joe driving Frank's truck, slowly moving off t range -- the Twins in the back, the cattle following. Tom on his horse atop the hill.
+95) 0) text: Pilgrim, his scarred head above water, legs moving in odd sycopation, swimming. We discover he is in a pond, tether to a pole... Except for the sound of his legs in the wate everything is quiet and focused on Pilgrim. SMOKEY, holds the pole, walking on the outside of the pon leading Pilgrim back and forth as he swims. Tom, crouched the pond, silently concentrating on Pilgrim... Grace watches, off by herself... Annie stands beside Joe. can't help but be intrigued by the sight. She asks Joe;
+95) 1) dialog: I though horses were afraid of  water? Joe doesn't answer her. Grace likes that. Annie, frustrat feels she has the right to simple shout out to Tom.
+95) 2) dialog: Is that to get his strength back? Tom pays her no mind -- concentrating on Pilgrim. Suddenly, Annie's CELL PHONE rings, jarring the proceedin Tom turns to Annie. She hides her embarrassment by answer it, walking away. Tom gives her a look. Grace is loving t Tom turns back to Pilgrim. After a few moments -- Tom, taking the rope tether, unhooks it from the pole. He starts to lead Pilgrim out of the water. Pilgrim, fearful fights him. He rears, splashing Tom, not wanting to come of the water. Grace is worried. She looks to Joe and sees is concerned too, though he stands quietly. Annie hears the commotion from where she stands and finis her call to return to the pond. Tom enters the pond, waist deep in water, trying to grab  Pilgrim's rope. Pilgrim rises up, rearing at him. Joe and Smokey, sensing danger, come closer to the pond. Annie  appears beside Grace and watches as Tom reaches for the r again. Pilgrim rears again. Tom stumbles backwards from h hooves. Annie gasps. Grace turns to walk away from the po She can't watch -- it brings back too much. But as she do she is stopped by the sight of -- Tom, righting himself, unphased, calmly walks back to Pil The horse, baffled by this man's lack of fear, lets him t the rope and walk him out of the pond. Grace can't help but be impressed. Joe nods. Annie is sha
+95) 3) dialog: Mr. Booker, I'm not at all comfortable  with you taking those kinds of chances... As Tom leads Pilgrim out, the horse suddenly whirls, bolt knocking Tom down...
+95) 4) dialog: Oh, God! Pilgrim runs off, pulling the wet rope behind him. Joe ru over and grabs for the rope.
+95) 7) dialog: She's running away! How are you going  to get him back? Tom doesn't respond. He walks off down the hill out onto pasture, stops, arms folded and watches Pilgrim. Annie tu when she hears Smokey, who appears behind her:
+95) 10) dialog: So what now? Should we leave? Tom continues watching Pilgrim. Annie looks at him, sitti there motionless and feels like an idiot. Clearly she doe understand all this and clearly no one thinks this is the time to explain to her.
+95) 11) dialog: Well, we're going to go then... Without looking at her, Tom just nods. Annie, awkwardly,  walks back up the hill to where Grace is... ON THE GRASSY HILLSIDE, Grace is watching the scene by he as Joe appears, staring at her leg... It makes her uncomf She turns to him with a curt, impatient tone;
+95) 19) dialog: You ready to go? Grace hesitates. Then mother and daughter take one more l POV -- Pilgrim standing in the pasture with Tom crouching the grass waiting for him.
+98) 0) text: Grace is flicking the television -- repeating the only th channels over and over... Annie works at her computer, surrounded by work. She noti the time, gets a thought and dials the phone...
+98) 1) dialog: Hello, Mr. Booker... Oh, hello, Frank.  This is Annie MacLean... I was  wondering, has-... (listens)
+98) 5) dialog: He's still sitting in that damn  field.
+98) 7) text: I think they call it a pasture. Annie looks at her as if to say the last thing I need to a lesson on the local lingo...
+98) 8) dialog: Let's go see what's going on, then  get something to eat.
+99) 0) text: The sky is changing colors, the temperature has dropped. is still sitting in the grass, although someone has broug him a blanket for his shoulders. Pilgrim is in the pastur but now -- he too is motionless, looking back at Tom. The sound of a car makes Tom turn to see Annie driving up She gets out, stands by the car with a proprietary air,  watching Tom and Pilgrim. Grace remains in the car. There sound. She turns to see Diane coming out of the house...
+99) 2) dialog: Would you mind if I did? I'd like to  talk to him. Diane, knowing full well Tom ain't in a talking mood, han her a cup...
+99) 5) dialog: Uh, no, we're going to dinner... Is  this the way to the pasture?
+99) 8) dialog: But I have business calls I have  to -- Tom keeps heading for the barn as he suggests, without tu back;
+99) 11) dialog: Oh uh, thank you. No, we don't want to  impose.
+100) 0) text: Everyone sits around the kitchen table. Joe, still wearin his hat, eyes Annie and Grace with acute curiosity.
+100) 12) dialog: You know, that's interesting. I always  wondered when I went into a restaurant  what was the difference between a regular  steak or a Black Angus steak. I couldn't  taste any difference although I could  swear one was more tender. I didn't know  there was that big a difference between  cows... (silence)
+100) 18) dialog: (lying)
+100) 21) text: You know, Tom, while you're working on  that horse of theirs, Annie and Grace  should move into the old Creek house. Diane and Tom react accordingly; Diane hiding her annoyan Tom hiding his surprise and pleasure.
+100) 23) dialog: Oh, I don't know...
+100) 26) text: They're already all settled in, Frank.  Anyway, I'm sure Annie wants her privacy.
+100) 29) dialog: Well, it's worth it, really? I mean, how  much longer do you think you need to work  with Pilgrim?
+101) 0) text: Grace is on the phone with Robert. Annie is packing thing up. Grace is telling him about the day;
+101) 2) text: I know. Me, too. Why don't you come  one weekend? Annie reacts to this.
+101) 5) dialog: (takes the phone)
+102) 2) dialog: (cautious)
+102) 5) dialog: Well, it's good that you're there. Robert didn't mean to validate his separation from them.
+102) 7) dialog: Yeah, but nothing I can't handle. Lucy  tells me she thinks Gottchalks's  plotting, but what else is new.
+102) 9) dialog: You know, I just asked that myself  tonight. He doesn't know.
+102) 11) dialog: Okay. Beat. Annie knows Robert needed an invitation from her. B she can't do it. Robert tries again.
+102) 13) dialog: I know. We miss you too.
+102) 15) dialog: Night. Awkwardly, they hang up. Grace exits the bathroom.
+102) 17) dialog: You already did.
+102) 19) dialog: (resumes packing)
+102) 20) text: Yeah, he's going to think about it.  You want me to pack for you? Grace looks at her disapprovingly as she passes to go to bathroom. Annie registers this.
+103) 0) text: Diane is washing windows while listening to an audio book her tape player. Through the windows, she sees: Joe and the Twins helping Annie and Grace move into the C House. Diane has conflicting feelings about this. She continues work.
+104) 0) text: VARIOUS SHOTS of ANNIE CONNECTING HERSELF BACK TO THE RES THE WORLD, BY PLUGGING IN HER COMPUTER, FAX, ETC... Grace is in the other room, as she was in the motel. Alon With no television, she is just listening to her music la on the couch. The two women remain separate no matter whe they are. But we see a small difference. Grace rises and walks to t window. She looks out; POV: She sees people working about the ranch. Maybe Joe i among them -- riding his horse as he works. Or maybe it's just a vision of people with tasks to complete -- who do with pride, discipline and clarity. Grace looks out the window longingly.
+105) 7) dialog: Grace? The clinic just called...  They had to change your physical  therapy appointment. We have to  leave now. Grace frowns a little -- her mother's "perfect timing." A approaches the arena, watching Tom riding. As he passes h
+105) 9) dialog: Mr. Booker... He flashes a smile in her direction and Annie's expressio comically matches her daughter's reaction. She quickly co it, however. Her eyes follow him as he glides around the  arena. It's like watching a great ballet -- his control o horses, his effortlessness, his grace, his strength... Sh smiles to herself in appreciation. Then catches herself:
+105) 10) dialog: (to Grace)
+105) 13) dialog: (trying to cheer her)
+105) 16) dialog: No. I just thought... forget it. He's getting a clearer view of their relationship.
+105) 18) dialog: (laughs)
+105) 22) dialog: Uh, I don't, honey. Branding? Oooh...  I think we'd just be in Mr. Booker's  way.
+105) 25) dialog: Okay. As Grace and Annie walk to the car, Tom says:
+105) 27) dialog: Try not to fall off your high horse,  Mr. Booker. Tom tips his hat and rides away... Annie smiles and nods. Grace doesn't like their sudden familiarity. Or her mothe coy manner. As they enter the Suburban, Grace asks point
+106) 0) text: The air smells of scorched flesh. There is nothing but NO Calves, separated from their mothers, "cry." They are mov out through a series of connected pens into a narrow chut and then one by one into a holding pen. They're clamped a lowered sideways onto a table and given a shot, a yellow  insect tag in one ear, branded, then sent back to their  mother's. The bulls, in a pen by themselves, stand haught paying no attention. Frank helps "doctor" the calves. Joe brands. Annie and Grace are standing by the railing, watching wit mixture of fascination and disgust. Tom moves in the feeder pen, waist deep in calves, moving through the chute. He looks to Annie.
+106) 25) dialog: It is cocktail hour yet? Tom laughs. She takes a big breath.
+107) 5) dialog: Well, I was born in London, but my  father was an ambassador and we  moved constantly. I've lived in a lot  of places but I don't really know what  I'd call home. Tom listens to this.
+107) 7) dialog: He was a wonderful man. She looks to Tom and he can sense a sadness around this i eyes.
+107) 18) dialog: What happened?
+107) 28) text: Well, I'd like to welcome Annie and  Grace to their first branding...
+107) 30) dialog: I'll drink to that... Everyone toasts and drinks. Annie and Tom exchange a look She smiles, but not in a alluring way -- rather, in a gra way. Grateful for this brief moment of community and good feeling. And somehow, Tom knows what she's feeling. No one notices this silent exchange -- except for Diane, sees everything that's going on.
+108) 0) text: The Women are bringing in dishes and plates and food from tables through the house and into the kitchen. Annie is a them, feeling apart of the group. She enters carrying a l bowl, that held the corn. Diane is replacing newly-cleaned forks and knives in her  dining room drawers, above which are several FAMILY PICTU
+108) 1) dialog: (referring to clean bowl)
+108) 4) dialog: Is this Mr. Booker? Tom's  grandfather? Diane looks at a faded photo circa late 1800's.
+108) 7) dialog: She calls him Tommy...
+108) 11) dialog: I got a little confused though. The ranch  Ellen was talking about -- that's not this  one? Diane is sorting silverware throughout the following:
+109) 0) text: Annie wanders out, passing Grace and Joe on her way out. are sitting in a glider. As Annie exits O.C., we hear the
+109) 7) text: Watch now... Annie and the Twins look down at the touching fingers as gently pulls the rope away, revealing they are still knot and without even breaking their touch...
+109) 12) dialog: Don't be so sure it's my last. There  are a few people back home I'd like  to put under a red hot iron. Tom looks at her with a sly expression, and notices she's shivering.
+109) 14) dialog: Thank you. He sits back down. Annie crosses her arms over her chest, looks around, unconsciously swinging her foot. Tom watche her leg. Annie notices him watching;
+109) 15) dialog: What?
+109) 17) dialog: You stand still too long in New York  you get hit by a bicycle messenger. (smiles wryly)
+109) 18) text: You know, sometimes, I get the feeling,  Mr. Booker, that you're laughing at me.  Why is that? Tom shrugs. Annie waits a beat, then:
+109) 19) dialog: That's your cue to say you're not  laughing at me.
+109) 21) dialog: It's a man's world, Mr. Booker. Most  women have to.
+109) 23) dialog: (understanding)
+109) 26) dialog: Ha... if you've never lived in a city  with museums, theater, music, restaurants,  uh... god, a million things, then it's  something I can't explain.
+109) 29) dialog: (surprised)
+109) 32) dialog: (stunned)
+109) 36) dialog: (not wanting to insult)
+110) 0) text: Grace is fast asleep, exhausted. She does not stir when t phone rings. Annie picks up from her own bed, awakened, still dressed her branding clothes, having just passed out on the bed.
+110) 1) dialog: Hello?
+111) 2) dialog: Oh, Robert, I'm sorry. We were so tired  from the branding. Grace barely made it  to her bed and I didn't have the energy  to take my clothes off.
+111) 4) dialog: Everything all right.
+111) 6) dialog: Fine. Actually, today was a good day.  You should have seen her.
+111) 9) dialog: About what?
+111) 11) dialog: Oh. I didn't look at my faxes today. We  left before sunrise.
+112) 0) text: Annie is awake reading the faxes Lucy sent. One after oth As she flips through them, one falls to the floor near th She gets down on all fours to retrieve and sees something under the bed. AN OLD, BATTERED CELLO CASE. She pulls it to find the initials R.B. carved on the top. She opens it find papers, receipts, bills -- all from Tom's married li
+113) 0) text: Tom rides a young colt along the creek. He hears footstep He turns and sees Annie running along the creek on the ot side. He stops to watch. When his horse SNORTS, Annie loo up to see him. She stops. He tips his hat to her.
+113) 1) dialog: I've decided it's impossible to  properly say hello in this place  without a hat.
+113) 3) dialog: I don't jog, Mr. Booker. I run.
+113) 5) dialog: If I can survive rush hour, I figure I  can handle grizzlies...
+113) 8) dialog: I don't sleep all right anywhere. But  the house is fine. Tom walks his horse across the creek to her, comfortable the silence. Annie moves about, uncomfortable in the wait
+113) 9) dialog: Who's R.B.? Tom is finding Annie's blunt curiosity more endearing.
+113) 10) dialog: I found this old cello case filled with  bills and receipts.
+113) 12) dialog: I thought you lived in Chicago?
+113) 14) dialog: I have a way with animals.
+113) 16) dialog: Oh yes. I forgot. She does and the horse sniffs at her hand.
+113) 17) dialog: He's beautiful.
+113) 19) dialog: She did? Annie is somewhat moved by her daughter telling him that.
+113) 20) dialog: I don't know, really. No time mostly. A cold wind blows. She folds her arms across her breasts.
+113) 21) dialog: I thought it was supposed to be spring. Tom can't help but notice her nipples are hard from the c He looks away. She laughs.
+113) 22) dialog: Are you shy, Mr. Booker?
+113) 25) dialog: You too. Annie steps across the rocks at the ford, crossing the cr Her foot slips, one of her shoes goes into the water.
+113) 26) dialog: Shit.
+113) 28) dialog: I can handle it! She crosses the creek. She turns, giving him a small wave touches his hat. She runs off. Tom watches her go, head d concentrating...
+114) 0) text: A tense Annie is having a difficult phone with DAVID GOTT
+114) 1) dialog: ... David, we've been behind a day or  two before. But Lucy just Fedexed me all  the material and it'll be approved by  the end of the day.
+114) 3) dialog: Oh, come on! This is such bullshit! The  work is getting done, David. Lucky keeps  me on top of everything.
+114) 5) dialog: What the hell does that mean? How much  more do I have to do to prove how  important this magazine is to me?
+114) 8) dialog: Uh, yes... Sure, David.
+114) 10) dialog: Thank you. You're all doing too much.
+114) 12) dialog: Oh... Well... thank you very much. I  don't -- Before she finishes her line, the Phone Rings again.
+114) 13) dialog: Sorry. (to phone)
+114) 14) text: Hello? Hi, yeah, I just spoke to him.  Oh, you know David, Mr. Strong Arm... Diane feels out of place and exits. Annie doesn't notice  until she hears the door close. She pushes back her hair takes a deep breath. She looks out through the side windo and sees: Grace and Joe doing chores. Grace looks involved and not all self-conscious. A moment of gratitude and calm for An
+120) 0) text: Tom is making his way to the house at the end of the day, he stops and looks over to the Creek house -- POV -- the lights are on. And he can see Annie, exhausted approving pages, talking on the phone and faxing all  simultaneously. He gets an idea.
+121) 0) text: Annie sits on the porch of the creek house, with a guilt herself, sipping coffee and deep in thought. She looks up see: Tom riding towards the house on his horse, leading anothe horse behind him. He looks to her and smiles.
+121) 1) dialog: (murmurs)
+121) 2) text: Oh-oh. Tom reaches the house as Annie rises.
+121) 3) dialog: The answer's no.
+121) 5) dialog: Poor thing.
+121) 7) dialog: Is this how you're going to make me pay  my phone bill?
+122) 0) text: Annie, in Levis and a jacket, rides Rimrock beside Tom ac the pasture. We overhear them in the midst of talking.
+122) 2) dialog: Yeah, it's been a while, but I... I  remember the basic ideas...
+122) 4) dialog: Actually, I never rode Western. I'm  sorry. Go ahead.
+122) 7) dialog: Thanks.
+122) 9) dialog: Yeah.
+122) 11) dialog: 
+124) 3) dialog: It's a whole other world you have  going on here. It just goes along,  doing what it has to. And you're a  part of it, you just wake up and,  and there you are... And everything  that seems like life or death some  place else -- doesn't affect any of  this one bit. Tom is impressed by her feelings. He sees her saddle cinc needs fixing and gets off his horse.
+124) 5) dialog: How long did you live here with your  wife?
+124) 7) dialog: (opens her eyes)
+124) 10) dialog: How did you meet her?
+124) 13) dialog: Why didn't it work out?
+124) 16) dialog: It is. It's lovely.
+124) 18) dialog: We did at one point. When we thought  we'd have more children. And we after  tried. We tried everything, but...  wasn't meant to be. There is an awkward silent beat for a moment. Annie is  momentarily self-conscious. Tom helps by speaking of hims
+124) 20) dialog: That's very important to you, isn't it?  Home.
+124) 22) dialog: How did you find out all that? Tom looks right into her eyes and confesses without a shr of self-consciousness.
+125) 0) text: The world is in silhouette. Off in the distance, we see T standing by his horse, offering his hand to Annie, helpin her off. There's an awkward moment, neither of them wanti the day, or the moment, to end.
+127) 0) text: After a beat; Tom gets back on his colt. He takes Rimrock's reins and l him off. Annie stops for a moment, watching him ride away She watches her mother walk towards the house;
+131) 0) text: Annie is in the midst of making a spaghetti dinner. She's little frazzled but she's on top of it. Grace enters wear a lovely dress -- it is the first time we have seen her i dress. Annie hears her enter before she sees her, asking;
+131) 1) dialog: Honey, would you see if anybody  wants -- Annie notices Grace standing there, in her dress. She sto
+131) 2) dialog: You look really pretty. Grace is a little self-conscious but grateful. She begins taking forks out of her dress pocket.
+131) 4) dialog: Well, one was for salad...
+131) 6) dialog: (thinks, then;)
+131) 8) dialog: Does anybody out there want  something to drink?
+131) 10) dialog: Thanks, honey. Grace nods and exits to the living room.
+131) 13) dialog: 
+132) 0) text: Annie has dropped a hot pot into the sink, after pouring tomato out of it, and into a terrine.
+132) 2) dialog: (laughs)
+132) 5) dialog: I am comfortable.
+132) 7) dialog: You missed a button.
+132) 9) dialog: Thank you. They're quiet for a beat as they exchange a look. Suddenl Grace enters -- she clearly doesn't like the two of them alone, Annie quickly covers;
+132) 10) dialog: Oh, good, Grace, would you bring in  the bread... I'll get the salad and  then we're all set. Tom has already exited by the time Annie finishes, and Gr grabs the bread basket.
+133) 4) dialog: Well, did you ever think about hiring  a business manager?
+133) 9) dialog: It's pretty impressive. Where I come  from, you'd be a gold mine. Diane doesn't know how to accept that, but inside she's  bursting with pride. She focuses on the Twins who fight;
+133) 13) dialog: Absolutely. I made enough for an army.
+133) 22) dialog: It's okay. Grace, show them. I'm going  to put the coffee on. I made an apple  tart for dessert. The Twins excitedly move to the computer. Joe waits for G
+133) 24) dialog: Well... I know I should reject that  offer, but I'm not going to.
+134) 0) text: As Diane and Annie prepare coffee and dessert;
+134) 2) dialog: I was there for that shot, actually.
+134) 4) dialog: Oh, God -- I think it was the fourth  or fifth time I'd been there, so all  I remember was the heat and how  incompetent the photographer was... She laughs as she directs this last line to Diane, who ju smiles. And Annie realizes that's not what she meant at a This woman is starving for glimpses into this other life.
+134) 5) dialog: But, uh, Egypt is, well, it's like  nothing else. It's like going back in  time. (Diane listens)
+134) 8) dialog: You and Frank ever take a vacation?
+134) 27) dialog: What does he mean?
+134) 29) dialog: Did you go riding?
+134) 32) text: Come on. Say good night and thank  you... Voices everywhere. Yelling. "Thank you's!!" During which, Grace quickly turns and exits. Annie eyes follow her out the room, but with her guests and the chaos, she doesn't whether or not to leave.
+134) 36) dialog: Did Grace try to ride, Joe?
+134) 38) text: I expect you should talk to Grace about  that, ma'am. And if I did anything  wrong, then I am sorry. Ever the gentlemen, Joe exits. Annie looks to Tom. He's a to leave, when he stops and says:
+135) 0) text: We don't know how long Annie waited, but she knocks gentl then enters to find Grace, in her nightgown, on her bed, the night stand light on. Her prosthesis is against the w
+135) 1) dialog: Grace? Is everything all right? (no answer)
+135) 4) dialog: Well... (nervous)
+135) 8) dialog: Honey, nobody's trying to cure you --
+135) 10) dialog: What are you talking about?
+135) 12) dialog: Grace, I don't hate your father.
+135) 14) dialog: I was just trying to say thank you to  Diane and Frank and --
+135) 16) dialog: Look, I just wanted to say, I think  it's great you're riding again.  And... and I think I know why you,  you needed to do it alone... without  anyone knowing...
+135) 18) dialog: STOP IT! Why can't I talk to you!!
+135) 20) dialog: (angry)
+135) 24) dialog: I don't deserve that. I have never  looked at you as a disappointment. If  I'm on your back to do better, if I  push you to try harder it's because  I want you to be the best you can be.
+135) 26) dialog: Listen, if... if there's a part of you  as parent that... that takes pride in  your child -- that, you can look at  them and see something you've  accomplished as well... if that's wrong,  then I'm sorry. (no answer)
+135) 29) dialog: Well, then I do apologize... But what  I'm most sorry for is turning you  into a spoiled brat who can only  think about what she's feeling... who  can't admit when she's wrong and who  can't forgive when she's not.
+135) 32) dialog: What did you say?
+135) 34) dialog: Started what?
+135) 36) dialog: (softer)
+135) 39) text: I felt it happen downstairs and when  I went into the bathroom. Annie reaches down to touch Grace's shoulder. Grace turns there is no anger in her face. Annie sits and takes her i her arms. Grace clings to her and sobs like a little girl Annie sees tears run -- gratefully, lovingly.
+135) 41) dialog: What?... Oh baby...
+135) 43) dialog: That's not true.
+135) 45) dialog: Because you are... one of the most...  incredible, bravest, most beautiful  woman I have ever met. The efforts  you make. Your courage and your  dignity. (laughs thru tears)
+135) 48) dialog: What?
+135) 50) dialog: Sshhh... Ssshhhh... They hold each other as if for dear life... LATER -- CAMERA PANS to discover mother and daughter, fas asleep, in each other's arms.
+136) 0) text: Tom sits alone, writing at his desk. His music is playing He stops to look out the window overlooking the Creek Hou Annie and Grace fell asleep with the lights still on in t living room. Tom is thinking of Grace and Annie -- wondering what happ after he left... conflicted by what he feels for Annie... remembering why they're here in the first place...
+137) 0) text: The phone rings, awakening Annie first, then Grace.
+137) 1) dialog: Hello?
+137) 3) dialog: Yes.
+137) 5) dialog: (remembering)
+137) 8) dialog: Uh, nothing. I'm going to pick it up  in the other room -- would you hang  this up for me?
+137) 10) dialog: Okay, Grace... (click)
+138) 0) text: Annie and Grace are standing by the arena fence. Frank, J and the Twins are sitting on the fence rail. Joe is holdi saddle and a bridle, standing in some shadows in an empty arena. Pilgrim comes running into the ring. Out of habit, starts circling the ring. He sees Tom holding a saddle.  Pilgrim walks towards him. Curious, he stops, looking at Tom puts the saddle down, sitting crossways on it. Pilgri walks towards him again. He stops, looking at Tom again. just sits there, playing with the bridle. Pilgrim walks  around him. Tom doesn't show him any interest. Pilgrim co closer. He looks at the saddle. He runs off. He stops,  looking back. Tom just sits. Pilgrim walks back over. Tom stands and shows him the bridle. Pilgrim comes closer,  sniffing it. He rubs his nose against the leather. Tom pa his head. Then, in one quick, but deft motion, he puts th bridle on him. Pilgrim tosses his head, but it doesn't se to bother him. Grace and Annie watch intently. Tom takes reins, walking Pilgrim around the ring. He walks him to t saddle. Pilgrim paws at it with his hoof. He turns and ru off. Tom lets him go. Pilgrim runs around the ring, slows down, looks over at Tom. Tom picks up the saddle. Pilgrim cautiously, comes back over. Tom, with the saddle, walks from him. Pilgrim, again curious, follows him. He nudges Tom stops. Pilgrim comes around to take a good look at th saddle. Tom rubs his back. And gently, like laying down a sheet, puts the saddle on his back. Pilgrim shuffles slig at the touch. Tom quickly cinches it. Taking up the reins walks Pilgrim around the ring again. He starts to jog.  Pilgrim jogs with him. And in the middle of the jog, Tom  grabs onto the saddle horn, and without breaking his stri pulls himself back up onto his back. He lays across the  saddle, letting Pilgrim feel his weight. He sits up, and  without letting him break his stride, he urges Pilgrim wi his thighs, keeping him in the jog, riding around the rin Grace and Annie cheer. Tom tips his hat to them...
+146) 0) text: Endless sky. Annie is jogging off in the distance when sh looks up and stops to see: Tom and Grace, both on horses, stopped on a rolling hill. They do not see her. Annie is filled with emotion... pride for her daughter,  gratitude for this amazing man. As the two ride off into the distance we do a slow:
+147) 0) text: Frank and Diane, with the Twins, dogs at their heels, rid front of the herd. Behind them, Joe riding alongside Grac Smokey and some Hands ride among the herd, keeping them m And riding behind the herd are Annie and Tom...
+148) 0) text: The cattle stands in silhouette. We hear singing. Everyone is sitting around a campfire. Frank's playing th guitar, singing along with Tom. They laugh when a lyric o note goes wrong. Everyone is enjoying it. Annie, her arms around her knees, sits off by herself. Th song ends and people applaud. Frank hands the guitar to Hank;
+148) 9) text: You know, you're a good kid. Joe smiles and helps her up. They come together and start dancing. Annie is watching, holding her breath with gratitude. Tom notices Annie off by herself and crosses to her. He  extends his hand. She hesitates, looks again to Grace wit Joe, then accepts... His hand slide to her back. Her hand to his shoulder. The dance. Their bodies closer than they've ever been. Slowly she leans her head against his body. And surrenders, for moment... Diane sees them. She holds her husband fast, and buries h head on his neck.
+149) 0) text: MORE CATTLE DRIVE MANTAGE -- Taking Tom and Annie a bit  further in their intimacy; perhaps Tom takes extra specia care to explain things to Annie, or fix her saddle cinch, make her laugh...
+150) 0) text: The cows stands in the pasture, grazing. Annie and Diane cleaning some pots and pans in the stream.
+150) 2) dialog: Well, I have more than a few days, ha,  ha... I uh... I'm sort of... not an  editor anymore... right now... First  time I've said it out loud.
+150) 4) dialog: No, it's more like a leave of- (stops)
+150) 7) dialog: Delayed shock. Or maybe not. I know  I could talk my way back if I wanted  or... go to another magazine,  someplace... Just not sure if I want  to.
+150) 9) dialog: Did you always know this was the life  you wanted?
+150) 11) dialog: Frank's a good man.
+150) 13) dialog: Sounds like something Tom would say.
+150) 15) dialog: What?
+150) 17) dialog: I don't think anybody can make Tom do  anything he didn't want.
+151) 0) text: Dead in stillness. The cattle dark and motionless. Everyo asleep in bedrolls around the pasture. Annie awakens, looks up at the moon, watching it go in an out of the clouds. She looks over to sleeping Grace... Th looks to where Tom is -- and sees his sleeping bag is emp Quietly, she rises and looks for him. She starts across the grass and sees him crossing on his  haunches, wearing a slicker, sitting in the grass by the  stream, drinking some water. She watches him. Tom senses something and turns. For a moment, they just l at each other -- half disbelieving the inevitable is so c at hand. Annie approaches as Tom rises. They meet. They kiss. Tentative at first, but more, just make that very, precious first moment of discovery last a long as it can. The kiss grows more passionate. They begi lose themselves in each other. Until, suddenly, aware of their surroundings, they part. words. Their expressions to each other tell all. Annie  separates herself and goes back to her bedroll... Tom sta in the grass, by the stream... the moving water, the nigh only sound.
+152) 0) text: The cattle drive returns. Tom, Annie, Grace, et al... are their horses, heading back towards the ranch when Grace s in the distance;
+153) 1) dialog: This is Mr. Booker, Robert.
+153) 13) dialog: Let's bring your bags inside.
+156) 0) text: Diane is busy in the kitchen when Annie enters.
+156) 1) dialog: Is there anything you need? I'm going  food-shopping.
+156) 3) dialog: No, no, I'll go -- just give me a  list. Annie is determined. She needs to be by herself for a bit
+160) 0) text: Everyone is outside enjoying the night after a long day. Diane and Annie are on the porch. Diane is showing Annie she does her needlepoint. Annie is genuinely interested. Tom and Frank and Robert are sitting out front. Grace is Robert's feet. Joe sits on the ground in front of his fat opposite Grace.
+160) 11) dialog: Oh, how sweet. A burst of laughter pulls their attention to the group -- Robert is now standing, acting out a story.
+161) 0) text: Grace is asleep. Robert sits by her bed, lit by the moon  through a window. He stares at this creature he loves so  much. He rises and enters Annie's room.
+161) 3) dialog: (teases back)
+161) 7) dialog: You don't have to explain. You have  every right to come.
+161) 10) dialog: No, it's okay. Believe me, there were  plenty of times I didn't know what  the hell was right.
+161) 12) dialog: Let's not talk about that now. And they're quiet. He moves to kiss her. It's awkward. Th look to each other -- as they try to remember how to make together...
+162) 0) text: Cars and pick-up trucks haphazardly parked along a dirt  road... Smoking open grill barbecues. Ranchers and famili move about the ranch, sit and eat at picnic tables with  gingham tablecloths... Some teenagers hanging around the  corral, talking. Diane and some other women, eating and  talking... Frank with a group of men, drinking beer, tell stories. A BAND has been set up by the barn. People are dancing un the harvest moon. Grace is dancing with Joe... Tom is dan with a local woman... Annie with a rancher... Everyone is having a good time... Robert is enjoying a smoke with some men. He looks over t the dance floor and smiles when he sees Grace and Joe. Joe and the Rancher trade place... Joe dances with Annie, Rancher with Grace... But Tom sees his chance and switche with the Rancher so that he can dance with Grace... She i thrilled and he guides her effortlessly across the floor. Joe and Annie are interrupted by another couple. Joe swit partners, but Annie smiles and excuses herself -- she wan rest. Robert continues talking with some of the men. He puts ou his smoke and looks over to the dance floor. He sees Grac dancing with Tom... His eyes search for Annie. He moves a from the men until he sees, from a distance; Annie, sitting by herself, amidst the crowd... No one wou notice her unless they were looking for her... But Robert -- and what he sees is Annie looking at Grace and Tom... only looking at Tom... Smiling to herself gently... Watch his every move. Suddenly, she rises and exits out of the to get some air.
+163) 0) text: Annie finds an isolated spot, behind the main house, to b herself and catch her breath.
+165) 0) text: Tom is walking along when he turns the corner of Hank's h and finds; Annie sitting alone, staring up at the night. They see ea other. From behind the house, no one else can see them. It is as if the fates brought them face to face and alone Without any will to stop it, they embrace and kiss  passionately. But when they look into each other's eyes,  there is no joy in the kiss. Tom releases her and walks a heading for the shed. Annie quickly pulls herself togethe and enters the main house through the back door.
+168) 0) text: There's a stillness. A sense of import. Annie, Robert, Fr Diane, Joe and Smokey, are all at various spots along the Grace stands inside the ring. Tom is standing beside Pilg in the middle of the ring. Pilgrim is bridled and saddled Tom adjusts he stirrup. He walks over to Grace...
+168) 4) text: Sure. Tom puts his arms around her shoulders and walks out to  Pilgrim. The horse pricks up his ears as they approach. T motions Grace to stop a short distance from Pilgrim so as to crowd him. Tom walks over alone, reaching to gently ta hold of him. Holding him by the bridle, he puts his head  beside Pilgrim's, quietly speaking to him, soothing Pilgr neck with his other hand... Annie and Robert are fascinated. Anxious. Pilgrim never takes his eyes off Grace. Tom tries to ease forward. Pilgrim resists, lifting his head and looking at Grace so you can see the white at the top of his eye. Tom turns him away, walking him in circles, trying to calm hi He leads him back to Grace. Pilgrim tosses his head and  stomps his feet. Robert grows more anxious. Annie is calmer, more focused. Tom climbs up on him, riding him around the arena in an e lope. Grace watches them go round the ring. She looks at parents and tries to smile. They try as well. Tom dismounts and leads Pilgrim back to Grace. Pilgrim ba again, violently throwing his head, kicking... Grace's  shoulders slump, she presses her hands in her pockets,  fighting not to cry...
+168) 23) dialog: Robert! Let him handle it! Please! Robert can't watch this. He turns and takes a few steps.  Just stops... standing behind and apart from Annie, to  just watch... slowly becoming transfixed, like someone  who can't stop staring at an accident. Tom reaches Grace and puts his hand tenderly on her shoul
+168) 35) dialog: What?! Tom responds to their voice without looking at them:
+168) 39) dialog: It's so cruel.
+168) 41) dialog: What choice!!?
+170) 0) text: Grace and Annie go riding...
+172) 0) text: Frank's car is parked up for the trip to the airport that will take the Bookers to Branton, Missouri for Diane's  cousin's wedding... Grace, Annie and Robert are outside saying goodbye to the Bookers; Diane, the Twins... and Joe... Joe awkwardly sha her hand... then removes his hat and puts it on her head. Everyone laughs. They want to hug each other, but don't k if they would... Frank and Tom are packing the car...
+172) 10) dialog: I already know the way... and it's  not like I have a job I have to rush  home for. (Diane nods)
+172) 13) text: after they've gone? Tom hears this bit of info as he passes by with the weddi present and puts it in the truck. Annie makes sure to ave her look.
+172) 14) dialog: It's just one night. If I get  uncomfortable, I'll go over to  Hanks.
+172) 17) dialog: Promise. Diane just nods, knowingly. She extends her hand. The wom shake.
+172) 19) dialog: You too, Diane. They part. Diane starts giving order as she gets in the c
+173) 0) text: In the midst of packing, Annie has made dinner for Grace Robert. In the midst of eating, Robert asks:
+177) 0) text: Everything is being packed up. Robert is dressed for trav Annie is taping up the boxes containing her computer  equipment.
+177) 1) dialog: Are you going to stay in the city or  go up to Connecticut?
+177) 3) dialog: Probably first thing in the morning.  It's too late to start now. I'm going  to try not to do too much driving in  the dark.
+177) 5) dialog: Yeah, what?
+177) 7) dialog: (innocently)
+177) 8) text: What do you mean? Annie looks up from the box to see Robert is calmly stari at her. His demeanor is different. Something's going on.
+177) 9) dialog: You look like something's wrong. This is Robert's moment. He knows it. He takes a breath a hopes it comes out right:
+177) 11) dialog: I don't understa-
+177) 13) text: And I have two choices. I can either  fight the way things are, or accept  them. (Annie waits; he smiles)
+177) 17) text: ... one way or the other. Annie cannot remember a time when she ever loved her husb more than in this moment -- knowing what it took for him say this. She would not disrespect it with denials. Her  throat is choked with tears, she swallows down. She nods. Robert nods, feeling both pride and heartbreak in the sam moment. He picks up his bag, kisses her goodbye and exits
+178) 0) text: Annie and Robert walk towards the car to find Grace, lean against it -- looking depressed.
+178) 1) dialog: What's the matter, honey? Gonna miss  Pilgrim?
+178) 4) dialog: (hiding her own distress)
+178) 5) text: Well... honey... you know... that's  just not his way. Maybe you can write  him a letter or something. Say thank  you... Don't think about it... You  take care and I'll see you home. She embraces Grace and, over her shoulder, watches Robert enter the car. Grace follows suit. The car drives off lea Annie alone at the Double Divide.
+179) 0) text: The ranch is still. Annie stands on the porch, her arms  folded, vulnerable, looking at the ranch. All her boxes a packed and stacked in the room. She looks over to the Ran House... to Tom's window.
+180) 0) text: A light goes on. Annie enters, cautiously. She's never be in this room. She crosses to the desk, touches it. She  notices a tape player and pushes it on. MUSIC PLAYS... Sh sees a small framed photo -- of Tom's son, years ago. Suddenly, she feels like an intruder. She shuts the music and exits...
+181) 0) text: Annie faces Pilgrim... she gently lifts her hand and care his face. He returns her gentleness. Annie is remembering Robert's words, her heart is heavy with conflict. She jok
+181) 1) dialog: Why do I get the feeling you know  what I should do, but you're not  telling me? She hears a truck pull up... Then, a door open and close. heart races...
+182) 0) text: Annie exits the barn and sees: Tom, walking away from the truck with the headlights left on... is walking right towards her. Annie begins moving towards him, When they meet:
+182) 2) dialog: I won't ask you to. He takes her in his arms and they kiss.
+183) 0) text: Tom leads Annie to the front door. She waits as he unlock
+184) 0) text: Tom leads her to his room. Annie cups his grasp on her wi both hands. He opens the door for her, ushers her in, the closes the door. He hangs his hat. She turns to him. They embrace, surrendering to each other's passions.
+185) 1) dialog: Oh, God, what are we going to do?  I'm supposed to --
+185) 3) text: Stand still, Annie. Takes what we've  got, just for now. Can you do that? Beat. She nods. The permission Tom is giving her acts lik great burden being lifted, and for the time being, she  surrenders and accepts the gift of what they feel. They k
+186) 0) text: Since the ranch must continue, Tom and Annie move through day of ranch chores -- -- TOM AND ANNIE CLEANING STALLS AND FEEDING THE HORSES.
+190) 0) text: Tom and Annie, their horses packed with gear, ride across high mountain pasture through the grazing cattle...
+191) 0) text: Annie and Tom sit overlooking a breathtaking view. Tom is showing her the rope trick... She looks down at their tou fingers and he gently pulls the rope away, still knotted, without ever breaking their touch... Annie looks into his eyes, understanding what this means, raises his hand to h mouth and kisses it. She looks up at him with a curious  expression;
+191) 1) dialog: Show me again.
+191) 3) dialog: One more time.
+192) 0) text: Annie lays asleep in Tom's arms, under a blanket. He pick another blanket with his free hand and shimmies it under head, laying her down. She snuggles with the blanket and  keeps sleeping. Tom takes a moment to look at her as she sleeps, gently  brushing her hair away from her eyes. He's deeply in love with this woman and wants to keep her with him. But there a sad resignation in his look. A confusion. He rises and walks to a stream nearby. He bends down to t some water when he hears something. He looks up and sees the other side: A WILD HORSE giving birth to a foal in the tall grass. An WHITE STALLION steps in between Tom and the mare, as if  protecting her. Tom rises slowly to his feet. Then stands stock still. He the Stallion penetrate each other. Suddenly this beautiful, powerful Stallion rears -- viole Tom remains still, but clearly the horse is treating him an invader... It's as if the Whisperer is now being guided by the Horse towards understanding. As Tom receives it, he remembers;
+192) 3) dialog: I don't care! We'd be together.
+192) 5) dialog: I can't do this. I can't leave you... Voice-Overs have carried over into a...
+193) 0) text: Tom and Annie make love...
+193) 1) dialog: I won't. But there is a difference in their lovemaking. There's a  slowness, a reverence... a sense of two people so bounded they are outside of time... Their love is so strong it al feels like despair -- their need to connect has gone beyo their bodies and into their spirits, for which there is n earthly satisfaction.
+195) 0) text: Annie awakens in bed and discovers she is alone. She look around for Tom. She rises and enters the other room to  discover: All her boxes and all her luggage have been removed. Her heart sinks. Tom re-enters, fully dressed, to get the last box. He sees on her face a look of confusion and hur
+195) 2) dialog: (curt)
+195) 3) text: How thoughtful of you. And what if  I decide not to go? Tom doesn't know how to respond. He looks away and bends to reach for the box when Annie commands:
+195) 4) dialog: Leave me alone! Beat. They stand awkwardly for a moment, until;
+195) 6) text: Annie, please... Tom reaches to embrace her, but Annie attacks him. Punchi his chest... pulling at his shirt as Tom tries to put his arms around her...
+195) 7) dialog: 
+195) 11) text: I don't know any other way, Annie.
+195) 12) dialog: (more adamant)
+195) 16) dialog: Then what have we been doing? I mean  what was the point?
+195) 19) dialog: Why? As if there has to be a result... Tom looks at her and sa with an almost innocent conviction:
+196) 0) text: Tom is escorting Pilgrim into the trailer attached to the Suburban. He looks across the ranch to see the figure of  Annie, standing alone, perfectly still, in the pasture,  looking out to the horizon... (reminiscent of Tom earlier the film)
+197) 0) text: Tom approaches Annie from behind, stopping a few feet awa
+197) 2) dialog: Can we go for one more ride? Tom stops. Considers this. Then:
+198) 0) text: Tom enters the barn slowly. He crosses to Rimrock's stall then stops. As if he is waiting. As if he knows... Then... he hears the sound of Annie's Suburban starting u looks up and knows she's leaving. He waits.
+199) 0) text: Wide angle of Annie driving away in the Suburban with the trailer.
+200) 0) text: Annie doesn't look back -- her eyes wet with tears -- but sobs.
+201) 0) text: Tom lowers his head. It is not his way to say goodbye. An is moved by Annie's knowing.
+202) 0) text: A MONTAGE of images of Annie traveling home... Across different terrains, we see Annie driving -- missin Tom... thinking of what she will decide by the time she g home. Remembering IMAGES OF TOM: -- Riding on Rimrock and tipping his hat to her... -- Sitting in the pasture, staring at Pilgrim. Ignoring h -- Seeing her arrive at the ranch for the very first time
+203) 0) text: Annie drives, she continues remembering... -- She and Tom in the branding... -- She and Tom dancing around the camp fire at the cattle -- She and Tom kissing in secrecy behind Hank's house the of the barn dance...
+204) 0) text: Annie continues driving and remembering; -- Annie and Tom coming towards each other that first nig after everyone had left the ranch... -- Tom opening the front door to the ranch house... SUDDENLY WE;
+205) 0) text: A much younger Annie waits, surrounded by luggage, as A D OPENS revealing a much younger, more vital, very handsome Robert:
+205) 2) dialog: Hi. Um, there doesn't seem to be any  hotel room available and someone told  me to come here and ask for "Tubab"  who might to have a place for me to  stay. Are you "Tubab"?
+205) 4) dialog: What do you mean?
+207) 0) text: After Annie and Robert have made love, Robert sleeps with arms wrapped around Annie. She lies awake, feeling safe a loved.
+208) 0) text: Annie stands where she stood when she and Grace stopped h their way to Montana... She removes from her pocket the KNOTTED LOOP he made for and looks at it.
+209) 0) text: A car is driving up the driveway to the house. It stops. Robert and Grace get out as Annie exits from the front do She looks beautiful -- but in a completely different way ever before. There is a calm center to her. A softness an strength. She smiles and walks to meet them.
+209) 1) dialog: Oh, I miss you. You look beautiful.
+209) 3) dialog: How's everything?
+209) 5) dialog: (to Robert)
+209) 9) dialog: Mmm. I made good time. (to Grace)
+209) 12) dialog: Go ahead... Grace exits excitedly O.C. Annie and Robert face each oth Robert doesn't know what to expect... but he softens when smiles:
+209) 13) dialog: I have so much to tell you.
+209) 15) dialog: (a little nervous)
+209) 18) text: I don't know. Let's just go and...  we'll see... Annie nods. He reaches for her hand, and Annie gives it  willingly... They begin to walk away from Camera... toget Annie begins to speak, telling him what we already know. he will react or what will happen, is unknown. But these people will no longer avoid their life together... someho they will make the effort to face it together. As Camera Widens, we see included in the frame, Grace and Pilgrim... as she strokes him and whispers in his ear... leads him for a walk...

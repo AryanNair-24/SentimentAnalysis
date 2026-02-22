@@ -1,0 +1,34 @@
+29) 1) text: RAFFERTY, the very Irish-looking attendant, stands beneath a sign bearing the inscription:
+32) 0) text: Ellie's car pulls into the station. RAFFERTY comes over from the motel. Now he is all smiles, all charm, all Irish.
+32) 1) dialog: Good evenin' to ye! Fill ‘er up?
+32) 3) dialog: Aaah...and another grand day it's been in Santa Mira, where the sun smiles down and takes care of its own! He smiles his way to the pumps.
+32) 6) dialog: (coming back) Just passing through?
+32) 13) dialog: Ah, and beauties they are, too! Challis gets enthusiastically into the act. He leans forward and slides his arm onto Ellie's shoulders.
+32) 15) dialog: (genuinely pleased) Gocod! Good!
+32) 17) dialog: You've come to the right place. (fishing in his pocket) I own the motel, too! Well, rent it, really. Mr. Cochran owns it, of course. He owns everything around here. But he doesn't try to tell me how to run my business, and I don't try to tell him: how to run his. You see? It ‘all works out! Now! Here we are... He holds out a room-key, dangling from a large green Plastic tab.
+33) 0) text: The door opens, flooding orange light into a small but tidy room. Rafferty comes in, switching on lamps and fluffing up pillows on the lone double bed.
+33) 1) dialog: Here 'tis. It's cozy and it's quiet. (stepping into the bathroom) The shower's a good one... HEAR a blast of water, a clattering of pipes. Challis leans in close to Ellie.
+34) 2) dialog: No bags?
+35) 0) text: Rafferty heads toward the trunk of the car.
+35) 1) dialog: Got the key? (CONTINUED)
+37) 0) text: The trunk pops open. Rafferty smiles.
+37) 2) dialog: Light packers, aren't you?
+37) 4) dialog: Why, there's Mr. Cochran now! He waves and smiles enthusiastically.
+37) 8) text: Seen from inside the limo: Ellie standing, Rafferty waving.
+37) 10) dialog: Great man, Conal Cochran. A true genius...
+38) 19) dialog: Let's check you in now, sir.
+38) 21) dialog: Yes! Thank you, sir! Have a pleasant stay. (turning to Buddy) Mr. Kupfer, I presume? Your rooms are waiting.
+38) 23) dialog: I assure you, sir, Mr. Cochran o) has taken care of everything!
+65) 0) text: Rafferty opens the door. Looks out at.Challis.
+65) 4) dialog: Seizure? (CONTINUED)
+65) 9) dialog: Bad, is she?
+65) 11) dialog: There's no hospital.
+65) 13) dialog: Only the clinic, that's all. Over in White Springs. About fifteen miles. That's all there is--
+68) 0) text: Rafferty peers in at.Marge. And reacts, but not quite as sharply as we might expect.
+68) 1) dialog: Whatever did it?.. Burns? It must have been -burns-- .
+68) 3) dialog: A couple. From the factory. They said it was chemical poisoning...
+68) 10) dialog: Not to worry. They're already coming. Challis and Ellie turn.
+69) 1) dialog: They'1l take care of her. Better than bouncin' her all over the countryside...
+69) 3) dialog: I'm telling you, she'll be in better hands...
+69) 5) dialog: (shrugs) Phone's in the office.
+69) 7) dialog: It's a company town. They provide everything...

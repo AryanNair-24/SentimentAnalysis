@@ -1,0 +1,95 @@
+25) 0) text: The hospital is old, dirty, run down. And very overcrowde INT. LOS ANGELES COUNTY HOSPITAL -— DAY We move through the masses to find: MAX sitting, holding tissue to his lip, still bleeding. A NURSE emerges. She is beautiful, but has the look of no enough sleep and toc much stress. This is FREY, late twenties. She slows when she sees him.
+25) 1) dialog: Max...? Max DaCosta...? He smiles, but it pains him to smile.
+25) 3) dialog: Yeah.
+25) 4) text: She looks at his bloody lip, with a hint of disapproval. FREY (CONT’D) I see things haven’t changed.
+25) 6) dialog: Okay. She takes out gauze, stitches, starts working.
+25) 7) dialog: This might sting a little.
+25) 9) dialog: Don’t talk. He keeps his mouth shut, as she stitches him up. He looks her, their faces close. She finishes. Max starts to talk
+25) 16) dialog: Be right there. She packs up her stuff to go.
+25) 18) dialog: Bye Max, you stay out of trouble. Max just smiles. It still stings a little.
+34) 5) dialog: Thank you. 26.
+35) 0) text: Frey arrives at a ward that reads CANCER. She walks throu rows and rows of sickly children in creaking, rusted beds Frey goes into a private area with a curtain drawn. She f a YOUNG GIRL laying in bed. 6 years old. Frey checks the girl's vitals, charts. And then Frey just looks at her. And runs a hand through the girl’s hair. This sick kid is her daughter MATILDA. A beat. And... A DOCTOR arrives.
+36) 2) dialog: What do you mean COULD?
+36) 4) dialog: But...how can I work here and leave her at home? You know that she could...it could happen any minute.
+36) 13) dialog: Can I just have till the end of the week? There are more supplies I have to get, please. Please. bocrTor Alright.
+47) 100) text: 4i. Frey turns away.
+47) 103) dialog: Please. Just let go.
+93) 0) text: Frey puts down a bundle of medical forms and stacks them filing case, she punches her time card, done for the nigh
+94) 0) text: Frey goes into Matilda’s small area and pulls the curtain shut sealing them in. She checks all the medical details, runs diagnostics on the machines linked to her daughter. Then Frey caresses her daughter’s hair, and gazes at this peaceful child. Slowly, Matilda wakes up.
+94) 4) dialog: So, remember how mommy said we could go home when you get better?
+95) 2) dialog: i'm going to get the car, I‘ll be right back, ok?
+98) 1) text: But he sees: A COP standing at the entrance. Max limps forward, the cop seems to be looking away, the huge glass doors open. Diseased people bustle in and out. One of Kruger’s UAVs flies overhead, coming in low like a hawk stalking its prey. Max sees it, and takes cover unde garbage dumpster. The UAV passes right overhead, the Litt propellers kicking up leaves and dirt as it hovers. Once satisfied, it takes off to search the next area, Max gets up, he watches the cop with eaqle-like focus. He moves over to the side of the hospital. Struggling with t pain, he looks through the windows. He catches a glimpse FREY as she walks in the opposite direction. Max uses all of his energy to walk in that direction. He heads down an ALLEY, holds onto the wall for support. He tries to walk more, but he collapses onto a knee.
+99) 0) text: Frey heads down a corridor toward a door. She swipes her tag and the door buzzes. She opens it and walks out into-
+100) 0) text: Frey heads for the garage, but she hears--
+100) 4) dialog: You need serious help, Max.
+100) 6) dialog: There are people in triage who can help you. Much better than me. I...F can’t get involved in your oxime. 70.
+100) 8) dialog: i'm sorry, EI can’t get involved. You need sericus attention.
+100) 10) dialog: You've got to go through the system to get treatment. I can get the paramedics out here to carry you in. IT can help you, Max. Let me.
+102) 20) dialog: Stop talking. Frey goes outside and comes back with Matilda in her arms She puts the little girl down in her room.
+102) 21) dialog: Try and sleep, honey.
+102) 24) dialog: My god..... He tries to push the wound area shut with his hand. aut becoming weak, his hand slides away and flops off the tab FREY (CONT’D) Max. This is a life threatening wound. You need to put as much pressure on it as you can okay? Help me out here.
+102) 46) dialog: The blade went into your kidney.
+102) 48) dialog: Tt’s a very serious wound Max. But the more serious part is...your kidney was already failing. The wound will be okay, that doesn’t concern me as much. The real problem is whatever this is. She points to his entixe body.
+102) 49) dialog: I’ve never seen anything like it. You’re okay now because I pumped enough meds into your body that you could get hit by a train and walk away. But your organs are failing, one after the next. Your body at only has a few days before it just stops running.
+102) 52) dialog: At the very most. Max hardens, snapped back to reality. He SLAMS his fist d hits a tray of surgical utensils. Frey goes to pick them
+102) 67) dialog: Matilda..... is her name.
+102) 69) dialog: Dead. Ran around with the same kind of guys you did... Look, Max, I helped you. Now I need you to help me.
+102) 70) text: Frey gets closer.
+102) 71) dialog: She's in the final stages of leukemia. I need to get her up there. Up to Elysium. Max locks at her, surprised.
+102) 80) dialog: That’s not a gang tatt. And 1 saw you at Spider’s.
+102) 89) dialog: fhank you... (she puts her hand on his arm) Thank you.
+102) 91) dialog: Yes. I need to get you some more supplies from the hospital. I won’t be long. Can you watch her?
+102) 93) dialog: 
+103) 0) text: Max quietly enters the living room. Matilda lies sleeping the couch. He watches her for a beat and then... INT. FREY’S ROOM - CONTINUCUS Max walks into Frey‘’s room. He pulls open her cupboards. Starts looking through her stuff. Shoe boxes. Drawers. Fast jump cuts as he quietly rips the room apart. Finally finds a small box with a ballerina on it. He opens it. We see a ton of MONEY clumped together in neat bills. He the box down on the dresser and sits on her bed. He looks at himself in the dresser mirror. Stares at hims He suddenly grabs the money and counts it. A beat.
+109) 0) text: Frey comes into her house carrying medical supplies. Frey throws the keys on the table and freezes. She slowly look around at the mess. Drawers cut. Clothes on the floor.
+109) 2) dialog: No...no no no...
+109) 12) text: al. She runs into her room. She is about to look in the drawe when she sees the box with the ballerina sitting on the dresser. She picks it up very slowly and opens it. Frey collapses down the side of the bed onto the floor. PREY (CONT’D) Stupid stupid stupid. Matilda is standing at the door.
+109) 85) dialog: Oh, nothing sweetie just a bad day.
+109) 96) dialog: Not No please! Listen! IE den’t know anything. I don’t know where he is! He took everything from me!
+109) 100) dialog: LEAVE HER ALONE! I told you everything I know! What the hell do you want from me? Kruger looks at Frey, smiles.
+109) 110) dialog: Please don’t do this, please just let us go, I'm begging you. Kruger ignores her, turns to his men.
+109) 112) dialog: it's ok sweetie, it’s ok. Everything’s going to be ok. For the first time, her words are hollow. And the little knows it. Frey reaches out, pulls Matilda close.
+110) 2) text: Kruger snaps his attention away from Frey. He walks over the monitor. He sees Max, then looks to his men.
+112) 12) dialog: What......... Suddenly her demeanor changes. She becomes ice cold.
+112) 13) dialog: You backstabbing bastard. You did this to us—-— Kruger covers her mouth, she struggles, only angry muffle sounds can be heard, Max stands speechless, stunned.
+116) 0) text: Max watches Frey. He attempts to say something.
+116) 6) dialog: this how you always imagined it?
+116) 8) dialog: It's ok sweetie. It’s alright. Kruger goes and sits dangerously close to Matilda.
+119) 4) dialog: 
+119) 9) dialog: It’s ok sweetie, it’s ok. ! Max looks around the sparking smoked-up interior. He sees Crowe beginning to stir. Max goes to Frey, tries ta get her out of the harness, bu It won't budge. He runs over to a console of switches and buttons at the back and hits them, one after the next, accidentally the rear BAY DOORS hydraulically hiss open. Sunlight spills inte the smoke-filled interior, along wit ash and embers. Fire from the jet fuel burns outside. As Max tries to find the button to releage frey, Crowe be to rise. Max looks over at him, he looks back at Frey and violently tries to rip the harness open. It won’t budge.
+119) 17) dialog: Run, Matilda! RUN I’LL COME FOR
+121) 0) text: Kruger stumbles up, very unsure on his feet. Frey looks a him, trembles with fear. He slowly pulls two throwing kni
+123) 0) text: Frey watches as the violence unfolds just outside the shi Max swings the shotgun up, cocks it and steps right up to ¥xruger who is now lying propped up against the Raven doo Max puts the shotgun in Kruger’s face.
+125) 0) text: Max walks into the smoky interior, and fires his shotgun the control panel. BOOM! The ship flickers, the harnesses snap open. Frey is released and falls against the wall. S slumps down. Max moves toward her, but she pushes past hi
+125) 1) dialog: 
+127) 0) text: Matilda screams a3 BULLETS kick up the dirt behind then. kace up the stairs of a palatial mansion. Frey tries desperately to get into the house. All the doo are locked.
+127) 7) text: iol. The droids fire again, tearing up potted plants and shattering tiles. Max turns and fires his RAILGUN at them HYPERSONIC ROUNDS tearing straight through the Raven. RHODES ducks as splinters of metal shatter through the ca Pin-pricks of light poke through the punctured hull. Frey keeps trying to find a way into the house.
+129) 0) text: Max and the girls keep running across mansion grounds. Ma clearly in sericus pain, struggling. Frey looks back.
+132) 0) text: Max lands on the marble floor. Frey and Matilda follow. T hear the roar of the CCB RAVEN outside. Max silently peers over the edge of the windowsill. He watches as the Raven screams by overhead, departing with Rhodes in it. He watches it disappear, then-- Max starts laughing, relief washing over him. Matilda gets up and runs through the immense house. Max slowly stands. He walks around taking it all in. He and Prey walk onto a back deck that looks out at the magnificence of Elysium. Bright flowers. Shimmering lakes
+132) 12) dialog: Ch god. She lifts him up, he winces in pain.
+135) 0) text: Frey helps Max into the medical room while Matilda watche The room looks like a hospital MRE ROOM designed by poggenpohl. There is a medical table.
+135) 1) text: Frey knocks the flower jars off and puts Max down. There one large button. She hits it. A laser scans Max‘s FAKE I A holographic menu pops up. A choice of cosmetic upgrades
+135) 4) text: Max looks at Frey and Matilda. He touches the Armani logo The overhead cover begins coming down. Closing Max inside
+137) 16) dialog: Let's get you out of here. Max throws Spider from the med bay. Spider knocks over pl and vases, smashing them. Matilda starts trembling.
+137) 17) dialog: Baby? Hey sweetie?!
+137) 21) dialog: 
+137) 23) dialog: No! Nott She grabs Matilda, rushes to the medical bay and puts the child down gently. Spider is helped up by the gangsters.
+137) 24) dialog: Please god, don’t let this happen. She hits the ANALYZE button. There is a loud error BEEP.
+137) 26) dialog: 
+137) 32) dialog: GIVE HER YOUR CITIZEN CHIP! YouR
+138) 33) dialog: I‘m not leaving her. Spider holds up a headset and laptop.
+138) 36) dialog: Thank you. Max Looks back.
+138) 39) dialog: It's ok...Max...Go. he he °
+140) 0) text: Frey wears the head-set. She watches them on the laptop. access hatch shows up in the satellite data.
+144) 7) dialog: Okay. It’s to your right. Spider leads the brigade to the first airlock sealed door He slips his SECURITY CARD into the reader and scans the code, he types and...ISSSHHHHH the doors open.
+144) 9) dialog: Seems clear. Spider opens the second dcors to be met by more smoke. Ma cautiously checks the reom, waves his gun from side to si Clear. They start moving into it. And suddenly~- Max hears a blood~curdling SCREAM from RICO. They spin to him exploded by-~ KRUGER. The gangster is hurled across the room. Kruger's deadly wrist device sparking and winding down from the ki Max lifts his gun and FIRES, but-- Kruger’s high-tech suit MELTS the gun in Max’s hand. Liqu molten AK47 drips all over the floor.
+145) 0) text: Frey covers her mouth as she hears them over che comms.
+148) 0) text: We Follow IMMIGRATION DROIDS as they load up guns with te gas and run across the LAWN towards Frey in the mansion. 116.
+150) 0) text: Frey sees Max as a small infrared heat dot on the screen. She is fighting back tears. She sees the Immigration Droi coming across the LAWN. She leans over and pulls Matilda closer. But doesn’t leave the monitor.
+151) 13) dialog: Yes, Max. BANG. They hit the door. THUMP THUMP, sparks fly as the acetylene torch starts cutting.
+151) 17) dialog: Yes, both times.
+152) 0) text: The droids smash open the doors to the mansion and enter. Frey looks up at them on the other side of the house.
+153) 7) dialog: Yes? Max looks at the ENTER key. His finger hovers over it.
+154) 0) text: The DROIDS smash the laptop in front of Frey and violentl rip her from the chair. Another one grabs Matilda.
+155) 0) text: tastantaneously, the DROIDS let go of Frey. The code on t visors suddenly staris scrolling, like a DOS REBOOT.
+156) 6) text: Humans all over Elysium come out of hiding. The old, the sick, all getting medical care in their Mansions. Shots of humans on earth scrambling for tickets to ships. SHUTTLES stuffed like Indian trains. Bound for Elysium. Prey and Matilda play in their garden. The huge orb of Ea floats behind them. Frey wears Max’s necklace now. She ho it for a moment. And then continues to play with Matilda.

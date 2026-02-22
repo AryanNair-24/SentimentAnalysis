@@ -1,0 +1,25 @@
+54) 3) dialog: Mrs. Collins? Dr. Earl W. Tarr. Captain Jones sent me. I consult with him from time to time on juvenile cases. May I come in?
+54) 6) text: She steps aside, and Dr. Tarr enters, looking around.
+54) 10) dialog: Well, I'm here now, and we'll put all that to rights. Where is the boy?
+54) 13) dialog: Ah! There he is. A handsome young man. He has your eyes, doesn't he? And a little bit of the nose. Very fit, in spite of all his travails. A very resilient boy you've got here, Mrs. Collins.
+54) 18) dialog: I am. Captain Jones said the boy had gone through some extreme physical changes, and asked me to look in on him...to reassure you in this your time of motherly concern.
+54) 24) dialog: Statements like that will hardly help the boy's self-esteem, now will they? (beat) Captain Jones said something about a change in height...?
+54) 28) dialog: Ah, well...hardly a mystery, Mrs. Collins. We've known for some time that trauma can affect the growth of children. Given the stress of the last four months his spine may have actually shrunk. It's uncommon, but within the realm of possibility.
+54) 32) dialog: Very likely his abductor thought it appropriate. After all, circumcision is hygienically sound. Must have been quite traumatic at the time. No wonder he's submerged the memory.
+54) 36) dialog: As you can see, there's a perfectly sound medical explanation for all of this. But it's good for you to raise these questions. You should be apprised of all changes the lad went through during his absence.
+54) 40) dialog: Which means you're in no position to be objective. You are looking through the prism of extreme emotion at a boy who has changed from what you remember. He isn't the same boy that left here, just as a boy who goes off to war and returns isn't the same anymore. (more)
+54) 43) text: DR. TARR (Cont'd) A mother's heart, driven by intuition and emotion rather than logic, sees these changes and rebels, insists that this cannot be your son. But that doesn't change the facts. (beat) I'm willing to put my theory to the test of objectivity, Mrs. Collins... are you?
+55) 1) text: -- as Dr. Tarr strides onward, the police officer and "Wa walking alongside as Christine brings up the rear. A few houses down they come to a group of CHILDREN playing.
+55) 3) dialog: Hello, children, my name is Dr. Earl W. Tarr. I'd like to ask you some questions.
+55) 7) dialog: Good boy. Quite right. But as you see I'm with the police, so it's all right. Now, I'm sure you know Mrs. Collins here, and her son, Walter. How many of you recognize this young boy as Walter Collins?
+55) 10) dialog: Now, now, no need to be afraid. Surely you knew Walter, and played with him? So which of you can identify Walter for me, for his mother, and for the police? This officer would want you to do the right thing as good young citizens.
+55) 17) dialog: Yes, precisely. He was as tall as you. Now he's not. He's lost a little height, you see. It's a thing called trauma. With luck, none of you will ever have to find out about it yourselves. So other than that, do you recognize this as your friend, Walter Collins?
+55) 23) dialog: Already ahead of you, Mrs. Collins; children can be intimidated. But not adults. Shall we try a neighbor?
+56) 3) dialog: -- and we'd appreciate it if you could make a positive identification for us.
+56) 7) dialog: Take your time...be sure.
+56) 13) dialog: Thank you, Mrs. Riley.   You've been a big help, I --
+56) 25) dialog: A boy is much larger than a watch, Mrs. Collins. (to "Walter") Come along, son.
+65) 1) text: Dr. Tarr is sitting at a desk and speaking to a handful o reporters, enjoying the attention.
+65) 3) dialog: -- and it's clear that he has something to tell. I'm sure that in time he will give his boyish story of the entire affair, but not until he has faith in his listener. And that is what is lacking: faith in the poor lad's story. In the course of my examination, I found nothing to dispute the findings by the LAPD.
+65) 7) dialog: I would say that the boy has either been coached or questioned to a point where he is largely confused about what happened to him during (more)
+65) 10) text: DR. TARR (Cont'd) those many months. It's possible that his mental lapse may be the result of a blow to the head or a sudden shock which brought about a possible cranial injury. I believe that this condition will pass soon. Until then, I recommend that the police department continue working with him, exposing him to whatever elements of his previous life as may help restore his memory.

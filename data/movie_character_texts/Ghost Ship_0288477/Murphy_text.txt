@@ -1,0 +1,404 @@
+6) 0) text: The view from the pilothouse commands 360 degrees as rada and GPS navigation displays glow. MURPHY, the ship's mast pilots the boat. He is 48, at sea all his adult life, and most of the rest, a fact written on his face and one that every crewman who's ever worked for him has been willing bet his life on. A walkie-talkie CRACKLES AWAKE.
+6) 2) dialog: (lifting the radio)
+6) 3) text: Go. Murphy turns back to see Greer, Epps, and Dodge looking u at him from the stern.
+6) 5) dialog: Of course they did.
+6) 7) dialog: What do you say, Dodge?
+11) 0) text: Murphy jumps down from the pilothouse to the deck as a fa Russian man, Vasili (60) and a MECHANIC in grease-covered orange coveralls approach from the dock.
+11) 2) dialog: Better late than never.
+11) 5) dialog: You got a leak in the number nine  compartment.
+11) 7) dialog: You pump it out and re-seam the hull,  she'll be good as new.
+11) 9) dialog: Fifteen, at the most.
+12) 0) text: In a prefab office with a view of the shipyard, Vasili cu a check as Murphy and Greer look on. He tears it out of t book, handing it across the desk to Murphy, who inspects
+12) 1) dialog: You're kidding, right?
+13) 0) text: Greer and Murphy walk back toward the dock.
+13) 2) dialog: He'll sell the scrap for three times  what he paid.
+13) 4) dialog: You got that right.
+14) 0) text: A typical port town bar. Except this one is on an island the middle of the Bering Sea. Epps lines up a shot at the pool table as a couple of SEAMEN check out her ass and a  tattoo of Wiley Coyote poking out of her pants. Greer rea a paper near-by. Murphy enters, crossing to the bar where Dodge nurses a b and a cigarette. Murphy throws down an envelope with Dodg name on it. Dodge picks it up, thumbs through a thick sta of hundreds.
+15) 4) dialog: You aren't jealous, are you Dodge?
+15) 18) dialog: (stepping up)
+15) 21) dialog: As I said, what seems to be the  trouble?
+15) 23) dialog: I heard you. But I'm choosing to  ignore you. Epps, let's go. Epps starts forward but the Riveter stands in her way, ta Murphy by the collar.
+15) 25) dialog: You got about two seconds to get  your paws off me, Tarzan.
+15) 27) dialog: Epps? He looks to Epps like let's get the hell out of here. She grabs her coat.
+16) 0) text: Murphy, Greer, and Dodge ready the tug to leave as Epps  approaches on the dock. She jumps down onto the deck, a s in her step and a song in her heart.
+16) 5) dialog: Candy?
+17) 0) text: Murphy throttles up the turbines and backs the tug away f the dock as Greer studies the dawn sky.
+17) 2) dialog: Red sky in morning, sailor take  warning.
+21) 2) text: Greer to Murphy. Greer studies the radar display as he waits.
+21) 3) dialog: Yeah.
+22) 0) text: Murphy sits at his desk over the ship's log, holding his  radio.
+22) 2) dialog: Alright. I'll be right up.
+23) 1) dialog: Merchant vessel at position one seven  four one five west, five seven seven  five north. Murphy holds the radio mic as Greer looks on, Epps and Do standing back.
+23) 2) dialog: This is tugboat Arctic Warrior whiskey  alpha sierra bravo four zero niner  two. Over. Only the quiet hiss of white noise comes back from the ra speaker as the bright point flashes on the radar screen.
+23) 3) dialog: (to radio)
+23) 5) dialog: Too deep to anchor out there.
+23) 9) dialog: What the hell would a freighter be  doing up here? It's way out of the  lanes. There's not a port for 800  miles.
+23) 12) dialog: Merchant vessel at position one seven  four one five west, five seven seven  five north, this is tugboat Arctic  Warrior. Do you copy? Over. Again, only the quiet hiss of static comes back.
+23) 14) dialog: Steer to one eight five. Let's check  her out.
+25) 0) text: CLOSE ON RADAR DISPLAY as the phantom point flashes close Murphy looks on as Greer pilots, Dodge and Epps watching.
+25) 1) dialog: Alright. Back it off. Greer throttles back and the boat slows.
+25) 2) dialog: Hit the lights.
+27) 0) text: The four of them look intently into the darkness beyond t light. Murphy reaches for the spot control, sweeping a br beam of light with a joy stick.
+29) 1) dialog: Whoa, whoa. Greer throttles down all the way and they drift, as the s looms bigger before them in the light from the boat. As they approach, the shadow appears to be a giant rustin bow, rising up from the water, disappearing in the darkne above them. Murphy sweeps the searchlight to reveal more what appears to be a large, darkened ship. As they come  around, the name "CHIMERA" can be seen above the anchor  alleys.
+29) 2) dialog: "Chimera." Murphy reaches for the mic, hits the LOUD HAILER.
+29) 3) dialog: Chimera.
+30) 1) dialog: This is civilian tugboat Arctic  Warrior. Is there anyone aboard? The quiet rumble of the tug's turbines is the only sound.
+31) 0) text: Murphy raises the mic again.
+31) 1) dialog: Chimera, I am hove to at your port  bow. Is there anyone aboard? They wait, looking on at the silent, darkened ship under glare of their lights.
+31) 2) dialog: Epps, come with me. You guys sit  tight.
+32) 0) text: Epps and Murphy, in heavy parkas, climb a hydraulic deck  crane up to the Chimera as Dodge man's the controls again the movement of the water.
+33) 0) text: Greer holds the tug steady as Epps and Murphy can be seen making their way up under the floodlights.
+34) 0) text: Murphy pulls himself up and jumps down onto the deck. Epp jumps down behind him. Murphy throws his light up on the  superstructure. All remnants of paint have been rusted ov lending a still darker ominousness to it.
+35) 0) text: Murphy and Epps move cautiously along, shining their ligh as they go. Despite the omnipresent corrosion, everything seems to be in order. The decks are clear and there is no apparent damage. They come to a hatchway. Epps shines her light down the darkened passage. Murphy moves in.
+36) 0) text: Murphy and Epps move down the passageway. Even the walls here are rusted. They come to a flight of stairs.
+37) 2) text: Talk to me, skipper. After a moment, Murphy comes back on the radio.
+37) 3) dialog: We're in a stairwell just under the  main superstructure.
+38) 0) text: Murphy and Epps climb the darkened stairway.
+38) 1) dialog: This is definitely an old boat, maybe  sixty years old. She hasn't been in  service for at least twenty years.  Probably a lot longer. They top the stairs and walk into a wider passageway whic takes them into an open area. Their lights shine around t revealing sinks and counters and racks of old kitchen  equipment, a few pots still hanging. They move through the galley and into another, narrower,  passageway.
+39) 1) dialog: It's funny.
+39) 3) dialog: Besides a little rust, everything's  pretty well-preserved. Greer and Dodge look at each other.
+39) 4) dialog: How she got out here is one hell of  a good question. (a long beat, then)
+39) 9) dialog: (finally)
+40) 0) text: Murphy and Epps stand at the top of a stairway, looking o an immense ballroom. Murphy raises his radio.
+40) 1) dialog: It's a passenger ship. It's a damn  passenger ship. Though it is dark, there is enough light to see its ornat opulence, tables and chairs in place near a large dance f and orchestra well, and a magnificent crystal chandelier  hanging over it all.
+41) 0) text: Epps and Murphy climb down the deck crane as Greer and Do meet them at the bottom.
+41) 1) dialog: (jumping down)
+42) 0) text: Dodge, Epps, Greer and Murphy sit around the galley table
+42) 4) dialog: Whatever the reason, she's adrift  and abandoned. We've got every right  to salvage her.
+42) 6) dialog: We've done it before.
+42) 8) dialog: You have any idea how much a ship  like that could be worth in salvage?  The fittings alone could go for a  few million.
+42) 10) dialog: It's a risk I'm willing to take.
+42) 12) dialog: So we cut her loose and wait it out.  A little weather couldn't be anything  she hasn't seen before.
+42) 14) dialog: The damn thing's been floating around  for God knows how long and it hasn't  hit anything yet. So we take it easy.  A little of the old push pull. A long beat as they hold there.
+42) 15) dialog: Listen. Forget this job's just a pay  check for a minute. You know I've  been good to you. But I'm prepared  to offer you something better now. (a beat)
+42) 18) dialog: Salvage fees on a vessel like this  could come in around four million  bucks. At least. Who knows, could be  more. Could be a lot more. (a beat)
+42) 20) dialog: Think about it. A million bucks a  piece. (a beat)
+44) 0) text: Murphy brings up the radio mic as Greer and the others lo on.
+44) 1) dialog: (to radio)
+44) 4) dialog: North Island, I wish to declare myself  salvor-in-posession under section  four two charlie of the International  Maritime Convention.
+44) 6) dialog: A passenger liner. Over.
+44) 8) dialog: A passenger liner, north island.   Over.
+44) 10) dialog: Passenger vessel "Chimera." I will  spell: charlie hotel india mary echo  romeo alpha. No registry information  is available at this time. I have  determined to the best of my ability  that the vessel has been abandoned  on the high seas at position one  seven four west, five seven north  at... (checking his watch)
+44) 13) dialog: Roger, North Island. Arctic Warrior  over and out.
+45) 0) text: Dodge, Epps, Murphy and Greer are standing on the stern o the boat under the power winch.
+46) 0) text: Murphy has backed the tug up to the bow of the Chimera. G operates the deck crane, one of Dodge's mammoth cables  dangling from it down to the winch on the stern.
+53) 0) text: Murphy slowly throttles up, moving the boat forward. He t to see as the Chimera drops back behind them.
+55) 0) text: Murphy holds the helm steady as the Chimera recedes.
+58) 0) text: Murphy holds the throttle.
+61) 0) text: Murphy eases forward on the throttle, picking up speed.
+64) 0) text: Murphy smiles as he looks back at the Chimera following  behind.
+65) 1) dialog: I figure we go through at the Unimak  Pass here. Refuel at Sanak Island. Greer looks on from the helm as Murphy, Dodge and Epps st over the map table.
+65) 2) dialog: With a little extra fuel, weather  permitting, we should make Sitka in  five days without another stop.
+65) 7) dialog: The law's on our side. If they want  to challenge it, let them try.
+65) 11) dialog: Either way, we found it. It's ours  now -- . An EXPLOSIVE THUD shudders the boat. They look to each ot
+70) 0) text: Dodge pulls open the door. The place is thick with smoke he makes his way to the turbine gauges, Epps and Murphy  behind. Dodge opens the number one turbine cover, looks  inside.
+70) 2) dialog: What is it?
+71) 0) text: Greer, Dodge, Epps, and Murphy confer on the deck.
+71) 2) dialog: How long to fix?
+74) 0) text: Lights shine on what was once an elegant interior promena Murphy and Greer stand looking on at it.
+74) 1) dialog: Some classy tub in it's day, huh?
+74) 7) dialog: Chimera. Flag ship of the Dobbins  Kirk Line. Nova Scotia.
+75) 0) text: Murphy, Epps, and Greer top a staircase out onto a long,  darkened corridor. They move down. Some of the doors are  open, faint light from port holes showing small cabins wi beds, desks, a few chairs.
+76) 0) text: Murphy, Epps, and Greer come to a hatchway marked "BRIDGE
+77) 0) text: The forward windows show the expanse of the ocean before  them and the rusting foredeck about 150 feet below. Light from the windows illuminates the bridge as Murphy, Greer Epps look around. Despite a little corrosion and a layer dirt, everything seems in its place.
+77) 1) dialog: (looking through  scattered charts and  papers)
+80) 0) text: Through the pilothouse windows, the hull of the Chimera  disappears into the darkness beyond the tug's work lights Murphy sits at the chart table as Epps steps in.
+80) 2) dialog: (sitting up)
+80) 6) dialog: Some charts. A crew manifest. (looking them over)
+80) 9) dialog: Her destination was Halifax, yeah.
+80) 11) dialog: As reasonable an explanation as any,  I guess. Epps takes a sip of her coffee as she thinks about it.
+80) 12) dialog: Ever heard of the Mary Celeste?
+80) 14) dialog: She was a two-masted brig boat sailing  out of New York in 1872.  One day  she was sighted off the coast of  Portugal by a merchant vessel, the  Dei Gratia. As the crew of the Dei  Gratia got closer, they discovered  that no one was at the helm of the  Mary Celeste. On boarding, they found  her completely deserted. The captain,  his wife, their daughter, and the  entire crew, all gone. The last entry  in their log made no mention of any  trouble. The table was even set for  dinner. And in the nine days after  the last entry, she sailed 700 miles  without anyone aboard.
+80) 16) dialog: Nobody knows. There've been a lot of  theories, of course. But we'll never  really know for sure.
+80) 18) dialog: I think we'd be surprised where a  drifting ship might wind up with a  little wind and the right current.
+80) 20) dialog: Only way to be. Epps nods, takes another sip of coffee, looking on at the rusting hull of the Chimera stretching off in the light.
+81) 1) dialog: What's this?
+81) 3) dialog: I thought you said it was just a  blade.
+81) 5) dialog: How much longer's that gonna take?
+81) 7) dialog: I know I know, two ways to do anything --
+81) 9) dialog: But how long?
+81) 11) dialog: We gotta get outa here, Dodge. A  storm blows up and we're history.
+81) 13) dialog: What about running number two by  itself?
+81) 15) dialog: How long, then?
+81) 17) dialog: How long?
+81) 19) dialog: Goddamit, Dodge.
+82) 0) text: Murphy enters the pilothouse as the distance-warped VOICE comes back on the radio.
+82) 2) dialog: (to radio)
+82) 5) dialog: North Island, please repeat? Over.
+82) 7) dialog: North Island, have you got any  additional information? Over.
+82) 9) dialog: Roger, North Island. I am tied to  the passenger vessel Chimera. And  she is afloat. Repeat, she is afloat.  Over.
+82) 11) dialog: Roger, North Island. Please advise  pending further information. Over.
+82) 13) dialog: Obviously it's some kind of screw  up. The shipping records aren't a  hundred percent accurate.
+82) 19) dialog: We all want to get outa here, Dodge.  Especially me. With that boat in  tow. You got three days.  Make the  most of it. A beat as Dodge looks back, then out at the Chimera.
+83) 0) text: A pencil point on a map follows across Saudi Arabia, comi to the Persian Gulf and tracing the coast of the Arab Emi to Dubayy. Murphy sits at his desk over the map. His pencil point fo the Persian Gulf from Dubayy, through the straight of Hor into the Gulf of Oman. Murphy marks an "X" there. A beat he looks on at it. He opens a large envelope he found aboard the Chimera. He empties it on the desk. He looks through it, docking rece from various ports of call, bills of lading, etc. He look over the passenger manifest.
+84) 0) text: Murphy wakes. He lies on his bunk, having fallen asleep l night in his clothes, still holding the envelope and some the papers inside.
+85) 6) text: Morning, skipper. Murphy has stepped out into the sunlight.
+85) 7) dialog: Morning.
+85) 9) dialog: Guess I must've fallen back to sleep.  Where's Epps?
+85) 11) dialog: She take a radio?
+95) 4) dialog: (still looking it  over)
+95) 8) dialog: Yes, it is. A beat as they all hold there.
+95) 9) dialog: It's a hell of a lot of money.
+95) 11) dialog: A ship with fifty million dollars in  gold aboard, adrift? And nobody seems  to care enough to come looking for  it?
+95) 13) dialog: Not for fifty million. An ocean liner  maybe. But fifty million in gold,  they come looking for.
+95) 15) dialog: Maybe. But there's always somebody  whose interest's at stake.
+95) 20) dialog: Then it happened before they scuttled  her.
+95) 23) dialog: That it could. A beat, as they all look on at the gold.
+96) 0) text: After dinner, Murphy, Greer, Dodge and Epps sit around th galley table.
+96) 4) dialog: Either way, they must've had a pretty  good reason.
+96) 7) dialog: A salvage claim to a vessel's cargo's  as valid as a claim to the vessel  itself. It's ours.
+96) 9) dialog: It looks like it. A beat as they let this sink in.
+96) 11) dialog: We leave it where it is. Stick to  the plan.
+96) 13) dialog: So we get a little more for the boat.  Besides, the gold'll be safer where  it is.
+96) 15) dialog: It's worth the effort. Believe me.   Besides we're gonna need her to prove  the salvage.
+96) 17) dialog: For now the best thing we can do is  to keep quiet about this.
+96) 21) dialog: Dodge, you gotta get on those repairs.
+96) 23) dialog: The sooner we get under way, the  sooner we are to spending what's  ours.
+99) 0) text: Murphy moves down the darkened passage, coming to a door  marked "CAPTAIN." The door is ajar. He pushes it open.
+100) 0) text: Murphy stands in the doorway of a spacious cabin panelled dark wood. A large desk occupies a corner of the room by windows. Though dirty and worn with time, everything is  ordered and in its place. Murphy comes to the desk. He sits down in the chair behin it. The surface is clear and uncluttered. He pulls out th drawer to reveal pens, writing paper, a ruler, compass an protractor amidst other sundry items.
+103) 0) text: Murphy comes to the railing, looking out over the bow of ship to see black smoke rising from where the Arctic Warr is tied.
+104) 0) text: Greer and Epps run to the side to see billowing smoke ris from the Arctic Warrior as Murphy climbs down the crane t the deck.
+105) 0) text: Murphy jumps down to the deck. Flames belch from an open  hatch as Murphy grabs a fire extinguisher from a deck loc coming to the engine room door.
+106) 0) text: Murphy enters to find the engine room engulfed in flames black smoke. He finds Dodge spraying at it with an  extinguisher of his own. The flames belch up from an oil fire in the turbine well, the heat searing paint on the metal covers. Murphy sprays cloud of halon and the fire dims, but only for a moment. Dodge grabs another extinguisher, his leg burned, face an hands singed. An EXPLOSION ROCKS THE BOAT and molten flames hurl throug the air, catching Murphy's pant leg. He's so engrossed in fighting the flames, he doesn't realize he's on fire.
+106) 2) text: Murphy! Murphy looks down to see his pant leg is on fire, as Dodg turns a cloud of halon on him, putting it out.
+107) 0) text: Dodge smokes a cigarette, now starting to feel his burned leg, which is oozing as Murphy and Greer look on.
+107) 4) dialog: Terrific. Epps arrives with a first aid kit.
+107) 5) dialog: How's that leg? Epps cuts back the burned pant leg to see the burn.
+107) 10) dialog: We could call for help.
+108) 0) text: A gas lantern sits on the map table illuminating Murphy a he holds the radio mic.
+108) 1) dialog: (to radio)
+108) 4) dialog: Roger that, North Island. Arctic  Warrior whiskey alpha sierra bravo  four zero niner two. Over and out.
+109) 0) text: Dodge pours out a few cans of cold chili into a bowl and  takes it to the table where Epps, Greer, and Murphy sit u the stark light of a gas lantern.
+109) 2) dialog: Not much at all, I guess. Retire.   Live out my golden years and all  that.
+109) 4) dialog: How about you Epps?
+109) 8) dialog: Greer?
+109) 16) dialog: Dreamin's all any of you're gonna be  doing if we don't get this boat  running.
+110) 0) text: Dodge, Epps, Murphy and Greer emerge on deck. The DISTANT SHRIEKING IS LOUDER HERE, BUT SEEMS TO BE  EMANATING FROM DEEP IN THE SHIP as they stand facing it o the bow.
+110) 3) dialog: Warm water current maybe, making the  metal expand.
+116) 3) dialog: Take it easy, you'll live longer.
+116) 5) dialog: Who?
+116) 7) dialog: What guy?
+116) 9) dialog: What? What the hell're you talking  about.
+116) 11) dialog: Are you sure?
+116) 13) dialog: You sure it wasn't me?
+117) 0) text: Greer, Dodge, Murphy, and Epps stand around by lantern li
+117) 9) dialog: If somebody's aboard her already,  she ain't ours. She's theirs.
+117) 11) dialog: Not in the eyes of the law.
+117) 13) dialog: We don't exactly have the best  bargaining position.
+117) 15) dialog: And what do you propose? That we  knock this guy off?
+117) 21) dialog: Let's just take it easy here, alright?  Nobody's gonna kill anybody.
+117) 26) dialog: Would you hold on just a minute here,  please? Look, there's no reason to  panic now. Epps saw somebody. Fine.  It's a big boat.  Chances're real  good he doesn't even know about the  gold. If we stay cool, nobody'll be  the wiser. (a beat)
+117) 29) dialog: We'll stand a watch. Four on, eight  off. Low man first.
+117) 31) dialog: Dodge, get on that turbine. I don't  care if you don't sleep for a week.   The sooner you're done, the sooner  we can get out of here. How's the  food situation?
+117) 33) dialog: We'll have to take it easy then. I  don't think we'll find much aboard  the ship, but it's probably worth  looking around.
+117) 35) dialog: If he's reasonable, maybe we can  make some kind of deal. If not.   We'll have to re-consider our options.
+119) 0) text: Murphy and Dodge look on as Epps loads the last of severa shotgun shells into the pump action short barrel 12-gauge She expertly shuttles a round into the chamber with one h Dodge takes a hit from his cigarette as Greer crosses fro the deck house.
+119) 4) dialog: No cowboy shit up there, understand?
+119) 9) dialog: Got your light?
+125) 1) dialog: Murphy to Epps. She settles back, exhausted.
+125) 2) dialog: Murphy to Epps.
+125) 5) dialog: You just shoot at something?
+126) 2) dialog: Couldn't have happened much more  than a month ago. Greer, Dodge, and Epps look on as Murphy kneels over the  remains of the headless torso.
+126) 3) dialog: Bodies're too fresh.
+126) 5) dialog: Greek citizen. Merchant navy. (standing)
+126) 9) dialog: Could be meant as a warning.
+126) 12) dialog: That'd be my guess.
+126) 15) dialog: Maybe. A beat as they consider the implications of this.
+126) 19) dialog: Dodge, if this isn't incentive enough  to fix that boat, I don't know what  is.
+127) 2) dialog: Can't you use something else?
+127) 4) dialog: Do what you need to do. Just do it  fast.
+130) 0) text: Murphy stands in the cramped room, full of radios and  communications equipment. He looks through the shelves an cabinets, when he opens a drawer to find a dusty bound bo He pulls it back, opening it to see that it is a radio ca log. He takes a seat, paging through it.
+135) 0) text: Murphy pages forward to the last page of the radio call l book. On the page his finger runs down the columns of entries,  coming to "TRANSMISSION 1 Feb 53 21:34 hrs GMT. Engine tr notification made to passing vessel 'St. Charles.'" His finger moves down to the next entry, coming to:  "TRANSMISSION 2 Feb 53 09:52 hrs GMT. Dead in Water.   Notification made to passing vessel 'Normandy.'" His finger continues: "TRANSMISSION 2 Feb 53 14:07 hrs GM Captain relieved of command. Notification made to passing vessel 'China Sea.'"
+135) 1) dialog: Captain relieved of command. He holds there a moment, moving his finger down to the fi entry, reading: "TRANSMISSION 2 Feb 53 21:24 hrs GMT. Gen
+135) 3) dialog: This is Murphy. Anybody trying to  call me? Over. He waits as no response comes, then THE CHANNEL OPENS AGA Only silence from the other end as someone seems to be th but is not saying anything. Murphy presses the talk butto
+135) 4) dialog: Greer? Dodge? Again, there is no response, until the CHANNEL OPENS. Mur holds there as he is answered by silence, WHEN A GRAVELLY
+135) 7) dialog: Who is this? The RADIO CHANNEL OPENS. Only silence comes back, as if  someone were there but not speaking.
+135) 8) dialog: Who is this!! The CAMERA PUSHES IN AS MURPHY LISTENS.
+135) 10) dialog: Greer! Dodge! Only silence comes back from the radio when A MAN'S BLOOD CURDLING SCREAM sounds from somewhere in the ship.
+136) 0) text: Murphy moves quickly down the passageway when his radio  sounds.
+136) 2) dialog: (taking radio)
+136) 3) text: Murphy.
+136) 5) dialog: What is it?
+137) 0) text: Murphy comes down the stairs and into the passageway we s Greer in earlier. At the end, the light from the cabin fa from the open door as he approaches.
+138) 9) dialog: He must've seen something. A beat as they consider this.
+138) 12) dialog: Just before I heard him yell there  was somebody on the radio.
+138) 14) dialog: I don't know. No. Not Greer.   Somebody. Another long beat as they think about this.
+138) 15) dialog: It was a man's voice. Repeating some  sort of children's rhyme. I don't  know, it didn't make any sense. You  didn't hear it?
+138) 19) dialog: I'll call us in. Dodge, see how many  signal flares you can scrounge up. (to Epps, meaning  Dodge)
+139) 0) text: A gas lantern sits on the map table illuminating Murphy a he holds the radio mic.
+139) 1) dialog: (to radio)
+139) 3) dialog: (to radio)
+139) 5) dialog: (to radio)
+140) 0) text: Greer lies unconscious as Epps looks on at him. The door  comes open and Murphy steps in.
+140) 1) dialog: How's he doing?
+140) 3) dialog: No. I'll try again later. A beat as they look on at Greer.
+141) 0) text: Murphy and Epps sit at the galley table. Epps reads the l book Murphy found in the radio room.
+141) 3) dialog: Possibly false. Hence the IMA record  of being lost at sea. I don't think  mutiny's out of the question here.
+141) 6) dialog: If they knew what they were carrying.
+141) 8) dialog: If they were close enough to shore,  they probably figured they could get  away in the lifeboats.
+141) 12) dialog: How do you mean?
+141) 14) dialog: I guess the best strategy's just to  tell them the truth.
+141) 16) dialog: What do you propose?
+141) 18) dialog: There's no way we're gonna hide a  few thousand pounds of gold from the  Coastguard here. Besides, it'll be  safer where it is.
+141) 20) text: Part of that up there's mine. I'd  kinda like to have a little say in  what happens to it. A beat as Murphy looks on.
+141) 21) dialog: Tell you what, Dodge. Once we get  back to shore, you can do whatever  you want with your share. But until  then, the gold stays right where it  is. Dodge holds there. He looks to Epps a beat, takes a drink coffee.
+143) 0) text: Murphy crosses to the deck house, climbs the stairs.
+144) 0) text: Murphy opens the door, stopping dead in his tracks. A bea He steps forward, crossing to the corner. The radio set lies before him, dented in and completely  demolished, as if someone had taken a bat to it.
+145) 0) text: Dodge works on one of the turbines when he is grabbed fro behind and shoved into the wall. Murphy holds him fast.
+145) 1) dialog: Just what the hell do you think you're  doing?!
+145) 3) dialog: I think you know.
+145) 5) dialog: The radio!
+145) 7) text: The radio. Oh, yeah, the radio. Murphy tightens his grip.
+145) 9) dialog: You smashed it!
+145) 11) dialog: Don't lie to me!
+145) 13) dialog: You didn't want us calling anybody.   Too liable to ruin your big payday.
+145) 17) dialog: Conveniently enough for you.
+146) 0) text: Greer stands at the galley sink finishing off the last of jug of water as Murphy and the others step in. He turns t see them.
+146) 2) dialog: Drink up then. Greer smiles, raising the jug to drink as the others take seat, looking on at him.
+146) 3) dialog: How're you feeling?
+146) 17) dialog: You don't remember?
+146) 19) dialog: You've been out for about a day.
+146) 21) dialog: Dodge found you out cold in one of  the cabins. Greer only holds there.
+146) 23) dialog: We heard you scream. Any idea what  you might've seen?
+146) 25) dialog: The ah... the radio's out.
+146) 27) dialog: Somebody took it out of commission  last night. A beat as they all hold there.
+146) 28) dialog: Smashed it up pretty bad.
+146) 33) dialog: Regardless of how it happened, there  isn't much of a chance to fix it.  The odds of another vessel in range  of the walkie-talkies are almost  astronomical. So, as of today, we're  pretty much on our own out here.
+147) 0) text: Epps and Murphy, carrying the shotgun, make their way in ship.
+150) 0) text: The chassis comes off an old radio to reveal a dusty  assortment of tubes and condensers. Murphy looks on at it
+150) 5) dialog: February first.
+150) 7) dialog: Must not've been the captain's entry.  He was probably out of the picture  by then. Epps continues to read.
+150) 9) dialog: Collision? With what?
+150) 11) dialog: But where's the damage?
+150) 13) dialog: If it was a ship she hit. A beat as they hold there, when his radio CRACKLES TO LIF
+150) 15) dialog: (to radio)
+151) 0) text: Murphy and Epps jump from the deck crane as the tug is  starting to list to one side. He crosses to the deck hous and the open engine room hatch to see that it is rapidly  filling with seawater as Greer and Dodge scramble to set pump hose over the DIN OF THE PUMPS.
+151) 1) dialog: What the hell happened!
+151) 4) dialog: Alright. Everybody grab your gear!   This' is where we get off!
+152) 0) text: The tug is listing radically to the side, its deck awash  with seawater, as Epps, Greer, and Murphy scramble with t gear to the crane. Water is starting to pour out of the deckhouse hatch as t towering framework rising over the pilothouse stabs  precariously at the bow of the Chimera. Murphy stops to shout back at the deckhouse.
+152) 1) dialog: Dodge!
+154) 0) text: Epps pulls herself up onto the deck, Greer following behi then Murphy. Dodge can be seen stepping from the deckhouse on the tug, which now lists at a near 45 degree angle.
+155) 1) dialog: That just about says it all. Greer stands at the bow of a lifeboat suspended from haly above the deck.
+155) 4) dialog: The coast guard has our last position.  They'll send somebody out soon enough.  A ship this size you can't exactly  miss.
+155) 6) dialog: Let 'em ask. This ship's legally  ours now.
+155) 11) dialog: (grabbing Dodge)
+155) 12) text: Easy, easy. Murphy holds on to Dodge as he will have none of it.
+155) 14) dialog: Shut up.
+155) 16) dialog: I said, shut the hell up. Murphy shoves Dodge back.
+155) 17) dialog: Both of you. I don't want to hear it  again. A beat as Greer and Murphy hold there.
+155) 18) dialog: So just stow it. You understand? (a beat)
+156) 0) text: A fire burns in an oil drum as Epps, Murphy, Dodge and Gr sit around it in silence.
+158) 1) dialog: You shouldn't be down here alone. Dodge turns to see Murphy standing there.
+158) 4) dialog: If money can buy what he wants.
+158) 6) dialog: Then you're a lucky man. Murphy tosses the shotgun to Dodge, who catches it.
+158) 7) dialog: We'll stand the watch on deck tonight.  You're up first.
+161) 0) text: Murphy moves through the pantry area with a pillow case,  scavenging for food.
+164) 8) dialog: You okay? Epps looks up to see Murphy standing at the door.
+165) 0) text: Greer, Murphy, Dodge, and Epps sit on deck around the fir
+165) 3) dialog: Tomorrow we'll see if we can't find  some line and tackle. Use some of  those bodies below decks for bait.
+167) 0) text: Sheets of rain come down on the deck in the grey light of morning. Murphy stands on the bridge, looking off at it c down when Greer steps in.
+167) 4) dialog: Let's just hope somebody sees us  first out here.
+169) 2) dialog: It's a Noaa buoy.
+169) 4) dialog: Government weather. It's got a  transmitter aboard.
+170) 0) text: Dodge quickly ties a loop in a coil of docking line as Gr Epps, and Murphy look on at the approaching buoy.
+170) 1) dialog: Let's go, let's go, let's go. Dodge finishes as Epps ties the other end off to a cleat.
+170) 14) dialog: The mooring hasn't come taught.
+170) 16) dialog: Doesn't matter.
+170) 24) dialog: Damn it. They look on in silence, the buoy slowly receding as the  ship drifts away.
+171) 0) text: Murphy stands watch by the fire as Epps joins him.
+171) 2) dialog: Hey.
+171) 4) dialog: Wish I could say the same. They watch the fire in silence for a moment.
+171) 6) dialog: I guess that's the sixty four thousand  dollar question, isn't it?
+171) 8) dialog: Never mind. Before your time. (a beat)
+171) 11) dialog: I don't know, are we? A beat as she looks back at him. She looks back to the fi watching it.
+171) 13) dialog: Not our mystery guest again.
+171) 15) text: I'm not sure she was... real. She looks up to Murphy.
+171) 16) dialog: Not real? A beat as she only looks back.
+171) 17) dialog: What, like some kind of ghost?
+171) 20) text: There were others. I saw them in the  pool. Drowning. A beat as Murphy looks back, as she sees him.
+171) 22) dialog: Showing you what?
+171) 24) dialog: Maybe it was one of them did the  handy work on those Greeks.
+171) 26) dialog: Victims of what?
+171) 28) dialog: That much I think we've already  established.
+171) 31) dialog: What's that supposed to mean?
+171) 33) dialog: Why you? How come the rest of us  haven't seen these people?
+171) 35) dialog: Well. Getting off this ship's exactly  what we're trying to do.  Short of  that, I don't know what else to tell  you. She only looks back at him, then into the fire.
+171) 36) dialog: Do me a favor and wake up Dodge.   He's next on. She starts to get up.
+171) 37) dialog: And Epps? She stands, looking back at him.
+171) 38) dialog: You can tell the others about this.   But, for my money, I think it's best  you keep it to yourself. She holds there a beat longer, then turns, walking off.
+174) 0) text: Murphy still sits by the fire as Dodge groggily approache from the officers quarters, carrying a blanket and a jug water.
+174) 1) dialog: You're late.
+174) 3) dialog: (handing him the  shotgun)
+180) 0) text: Murphy comes out onto the deck. Dodge is nowhere to be se
+180) 1) dialog: Dodge?
+181) 4) dialog: Murphy to Epps.
+181) 7) dialog: Either of you seen Dodge? She looks to Greer who shakes his head.
+181) 9) dialog: He's not on deck and I can't raise  him on the radio.
+182) 0) text: Dodge's stuff is laid out under the shelter of a vent duc as Greer, Epps, and Murphy stand over it. A blanket, a pi and a plastic jug of water are all that remain.
+182) 1) dialog: He took the shotgun and a light.
+182) 3) dialog: Alright. We stay together. Nobody  goes any further than earshot.
+183) 0) text: Greer and Epps move along as Murphy raises his radio.
+183) 1) dialog: (into radio)
+183) 2) text: Murphy to Dodge. Murphy to Dodge.   Over.
+184) 0) text: Dodge's radio lies in the detritus of the ship as Murphy' voice can be heard on it.
+184) 1) dialog: Murphy to Dodge. Do you copy? Over.
+185) 1) dialog: Epps? You there?
+185) 4) dialog: Greer?
+190) 0) text: Greer and Murphy lower Dodge's body on a rope as Epps gui it to the deck. They stand looking on at it a moment.
+190) 2) dialog: So whoever did this now has our  shotgun.
+190) 5) dialog: Leave him till we can get some help. (a beat)
+190) 8) dialog: Leave it.
+190) 10) dialog: You think whoever did this is  reasonable?
+190) 14) dialog: Nobody's going anywhere with that  gold now. Anybody tries to board,  we'll know about it. (a beat)
+192) 8) text: Murphy! I'm on C deck, cabin 400!   Get down here now!! Blood is running down his face as Greer comes for her aga She throws down the radio. A bed stands between them. She feints right, then left. H dazed and has blood in his eyes. She manages to slip by, he dives, taking her down. He drags her back along the floor, spinning her around. H raises a fist to ram into her face when WHAM! Epps has shoved the butt of her flashlight into his crotc and he comes up SCREAMING. He grabs her face, striking he with his other hand. She swings the flashlight again and cracks him across the head. He swings yet again and connects, knocking her acro the floor. She lies in a heap as Greer climbs to his feet, enraged a bleeding. He unbuckles his belt as he approaches, pulling it from h waist to do God knows what. Epps looks around to see him approaching. And we see that she has unhinged her gill knife. As his foot steps near, she lets go and drives the knife  with all her might into his boot, plunging the blade thro his foot and into the floor. He SCREAMS. After a moment he stops, looks to her. He is a bloody,  wretched, enraged mess. He starts toward her as Murphy ap in the doorway. Just as Greer is upon her, Murphy blind sides Greer from  behind at full speed, knocking him down. Greer and Murphy struggle as Epps climbs unsteadily to he feet. She staggers to them and raises the flashlight over Greer, bringing it down on his head.
+193) 0) text: Epps and Murphy carry Greer's unconscious body.
+195) 1) dialog: Must've been him all along. Murphy and Epps look on from the outside in the promenade
+195) 2) dialog: Smashed the radio. Scuttled the boat.  Killed Dodge. Would've killed you.  He's off his nut, no doubt there. They watch him in silence a moment as Greer mutters and b
+195) 3) dialog: What do you think?
+195) 6) dialog: Over the gold.
+195) 9) dialog: Crazy with greed. Not crazy. Not  like him. A beat as Epps looks off. In the window Greer drags his  hideously distorted face over the glass, the blood from h wounds smearing in broad red streaks.
+196) 0) text: A partial hull of a rotting life boat falls into frame. E and Murphy stand over it.
+196) 1) dialog: We lash a few of these together it  might get us far enough into the  shipping lanes to be rescued. A beat as they look on at the rotting hull.
+196) 2) dialog: Hard to say which is worse, staying  here or taking our chances in open  water.
+196) 4) dialog: It's not the weather I'm worried  about. The wrong current could drag  us as far as the Aleutians before we  come across another boat.
+197) 0) text: Epps and Murphy work to lash parts of the rotting boats i a single usable raft.
+199) 2) text: Murphy? She waits, holding there as only silence comes back.
+210) 1) dialog: Epps to Murphy. Only WHITE NOISE COMES BACK.
+212) 0) text: Epps moves quickly along, coming to the stairway, moving almost running into Murphy on his way down, carrying a ca duffle.
+212) 2) dialog: We hit land.
+212) 4) dialog: We're in an island chain. It's only  a matter of time before we hit another  one.
+213) 0) text: Epps and Murphy move quickly along, when another HUGE BOO shudders the ship and the SHRIEKING OF METAL follows.
+215) 0) text: Murphy and Epps run toward the other end of the ship. As  they do, something can be seen lying in the middle of the passage some distance down.
+215) 3) dialog: Let's get the hell out of here.
+216) 0) text: Murphy and Epps come up the stairway, crossing to the doo
+217) 0) text: As Epps and Murphy come out, moving toward the make-do ra
+217) 1) dialog: It should be enough to get us to one  of those islands. Gimme a hand,  wouldya? She joins him and they lift it off its stand, taking it t the rail.
+217) 2) dialog: Prop it here. We need to pull these  braces off. There's a hammer on the  stand. There. Epps crosses back to the stands.
+217) 4) dialog: I'll take that. A beat as she looks to Murphy.
+217) 7) dialog: It was only a matter of time before  somebody killed somebody. (a beat)
+217) 10) dialog: The way I figure it, it was them or  me. I thought putting Dodge up on  that pipe was a nice touch? Bought a  little time. Made it look like whoever  killed those Greeks was still around.  But it's just us on this ship. Us  and your... spirit friends.
+217) 12) dialog: I didn't want it to turn out this  way.
+217) 14) dialog: I think I see it pretty well.
+217) 16) dialog: I know a little bit about human nature  and what I've seen only confirms  that.
+217) 18) dialog: I think maybe you been on this boat  a little too long, with all that  supernatural mumbo jumbo. There's  nothing supernatural about greed.   And that's what it comes down to,  pure and simple.
+217) 20) dialog: I wish I could believe that. Either  way, you know what I've done. I've  got no choice. He raises the shotgun.
+217) 21) dialog: I'm sorry. He prepares to fire, when a CONCUSSION ROCKS THE SHIP. Ep ducks and Murphy fires, a spatter of buckshot shredding t vent behind her. A SCREECHING OF METAL DEEP IN THE SHIP S as she gets up, diving for cover as Murphy shuttles the g again.
+219) 0) text: Murphy crosses toward the deck vent.
+219) 1) dialog: There's no reason to make this any  more difficult than it has to be.
+221) 0) text: Murphy comes to the vent duct where Epps went down.
+223) 0) text: Murphy runs quickly down the stairway, shotgun at the rea
+225) 0) text: The CLANG FROM THE VENT SOUNDS HERE and Murphy stops.
+227) 0) text: Murphy rounds the corner, moving on the same deck.
+228) 0) text: Epps moves along on a metal catwalk in the darkness when  something can be heard ahead of her. She stops. FOOTSTEPS SOUND at the end of the passage. Epps pulls bac into the shadows, holding there. The footsteps sound as if they are coming down stairs at other end, when the FOOTSTEPS STOP. Epps holds there, listening intently in the silence when, the other end, THE SOUND OF CREAKING METAL, as from a hat slowly opening, can be heard. It stops. All is silent, WH THE HATCH CREAKS AGAIN at the other end. She begins movin toward it. As she approaches, she can see that the hatch is half ope swaying slightly with the movement of the ship. A CREAKING SOUNDS behind her. She turns, just as Murphy s into view. She ducks as he fires and a spray of buckshot  ricochets off the metal around her. She scrambles on her belly as Murphy fires again. She swi down from the catwalk, letting herself fall to the next d
+230) 0) text: Murphy follows, when A RUMBLING SOUND CAN BE HEARD.
+232) 0) text: Murphy slows and finally stops.
+238) 0) text: Murphy stops where he is to see water rushing in at the e of the passage. He begins backing away.
+240) 0) text: Murphy moves down the passageway, coming to the cargo  compartment.
+242) 0) text: The gold slides off the palette, crashing into the far wa Murphy hurries to it, collecting ingots and putting them his pockets.
+244) 0) text: The water is threateningly high as Murphy pockets one las ingot and makes his way for the exit.
+247) 0) text: Murphy staggers through the flooded passage.
+249) 0) text: Water runs down the stairway as Murphy struggles toward t top.
+251) 0) text: A river of water rushes through as Murphy crosses with  difficulty.
+253) 0) text: Water rushes in as Murphy wades out onto the Chimera's to deck. He is heavily weighted down and periodically goes u as he half wades half swims, the length of the ship's aft portion rising above him as the bow sinks.
+255) 0) text: As the ship moves lower, Murphy pushes off. He bobs under momentarily, then comes back up with difficulty. The forw smoke stack has dipped under and is now taking on water, current from the rushing water pulling him toward it.
+257) 0) text: As the ship dips lower, the rushing water forms an eddy t pulls at Murphy. Murphy struggles, too heavy to resist as is pulled closer and closer to the sucking maw that is th smokestack's opening. The ship sinks further and Murphy is pulled to the edge o the stack. He frantically grabs for something to hold on without success, until he is finally pulled into the smok stack and sucked into the bowels of the ship by the rushi water.

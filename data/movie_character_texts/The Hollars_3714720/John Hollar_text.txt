@@ -1,0 +1,490 @@
+0) 27) dialog: (Speaking into head set) Hi.
+0) 29) dialog: Oh... that’s no problem. I was actually... kind of enjoying being on hold. What music was that? (CONTINUED)
+0) 32) dialog: You don’t have access to music?
+0) 34) dialog: How do you get that job?
+0) 36) dialog: Uh, yes. Yes. This is John Hollar. No response.
+0) 37) dialog: From Routlege Publishing?...We spoke last week. There is no answer. John looks for an invoice number on his desk. As he turns we see what he’s been drawing... A bizarre cartoon of a baby in an ultra sound photo. The baby looks angrily out at John with a word bubble above it’s head. “Oh, great!”
+0) 38) dialog: Anyway, I’m calling about order number 6849-49-494-8464-9494-8602.
+0) 40) dialog: 
+0) 43) dialog: Oh, 9494.
+0) 45) dialog: You found it? (CONTINUED)
+0) 48) dialog: Oh ok, can you just tell me, is that order finished? Because it was scheduled to be at our interior printer yesterday.
+0) 50) dialog: It’s not... Well, can I ask why?
+0) 52) dialog: You forgot to put it through? I see. Hmmm. But you didn’t forget to send us an invoice?
+0) 54) dialog: No, no. I understand.
+0) 56) dialog: Yes, it is hard to keep things straight all the time.
+0) 58) dialog: Oh, geez, I’m sorry I didn’t realize that-
+0) 60) dialog: Oh God, I’m so sorry I-- (CONTINUED)
+0) 66) dialog: Oh, no. No, no. Please don’t-- What was your name again? (CONTINUED)
+0) 69) dialog: Nancy, please don’t cry. Please don’t do that. It’s okay. Listen, we all have stuff, right?... I mean, hey, if it makes you feel any better, I think I’m in the middle of a some kind of life crisis myself.
+0) 71) dialog: Oh God yeah! Are you kidding? I’m anxious, like, all the time. I have no idea what I’m doing with my life. I mean, for starters what is this job? Am I right? Do you even know what we do? Of course not. But it’s funny how little money it takes to give up on a dream isn’t it? I thought I was an artist. What about you?
+0) 73) dialog: No, I’m sorry! About your boyfriend. I have a girlfriend who I don’t deserve. She’s beautiful and smart and runs her own company. We’ve been together for 3 years! She’s amazing! But, that doesn’t stop my insane brain from consistently questioning and over analyzing our relationship. I’m sure that’s fun for her. Oh and did I mention she’s eight months pregnant??? You have kids?
+0) 75) dialog: Well, lemme tell ya, nothing holds your life up to a big mirror like a due date. I don’t know what’s wrong with me. Every day, I’m feeling more and more lost and inadequate. And the craziest part I can’t get out of my head is... “Did I ever even really want a kid ANYWAY" ???2?22?2” John is in a state. Pause. (CONTINUED)
+0) 82) dialog: No, that’s...hey, you’ll get em to us when you get em to us, right?
+0) 84) dialog: Oh we don’t-- We want it to be a surprise. We want everything to be a surprise... You, uh... you have a nice day, Nancy. John hangs up the phone and stares at the drawing. He then picks it up and holds it next to an actual ultra sound image that is taped to his computer. He just stares. The phone rings. He picks it up.
+0) 85) dialog: Routledge Publishing. (CONTINUED)
+0) 89) dialog: Nancy?
+0) 91) dialog: Oh, Rebecca. I’m sorry I missed the appointment. I just got swamped. How'd it go?
+0) 93) dialog: Ok. Can I call you back in a little bit, I’m in the middle of a-- An extremely pregnant woman on a cellphone rounds the corner of John’s cubicle. It is John’s girlfriend, Rebbecca Feingold, 31.
+0) 95) dialog: Hey! How’d you get up here? You need a card to--
+0) 97) dialog: What?
+0) 99) dialog: There are non-stop flights to--
+0) 105) dialog: Who thinks it might be a brain tumor? John just looks at Rebecca. A new experience of anxiety washes over his face. He is either not getting it, or not accepting it. It’s hard to tell.
+0) 107) text: This snaps John out of it. *
+0) 108) dialog: Wait, you’re not going to come with me? *
+0) 110) dialog: Well, I can’t-- I can’t just leave you here. Rebecca gives John a long, hard look.
+0) 112) dialog: What do you mean figure everything else out?
+0) 114) dialog: Okay. I should tell Mike about missing * work-- *
+0) 116) dialog: Okay.
+1) 0) text: John exits his work building and drives to airport.
+2) 0) text: John arrives at JFK.
+3) 0) text: John rides along a people mover as people pass.
+5) 0) text: John sits in his seat on the plane.
+6) 0) text: John deplanes down the jetway and walks into small town terminal.
+7) 0) text: John exits the gate area in his hometown airport.
+8) 0) text: John walks out of the airport and into the street. He hails a taxi.
+9) 0) text: John sits in the taxi and stares out the window at a lone highway of strip malls, GAPS and APPLEBEES.
+9) 1) dialog: (to the taxi driver) Can we stop at a gas station for a second?
+10) 0) text: John stands at the edge of the gas station and smokes a cigarette. He hasn’t smoked in a long time and it shows. He doesn’t look right holding it. But he’s happy to have the nicotine running through his blood. (CONTINUED)
+12) 0) text: John enters.
+12) 1) dialog: Hey, mom. Sally lights up when she sees him.
+12) 6) dialog: How you doing? John looks at her wrist. It is all bandaged up.
+12) 7) dialog: What happened to your hand?
+12) 9) dialog: What? No? John pats his brother on the shoulder.
+12) 12) dialog: Uh...
+12) 18) dialog: (to his mother) I only had one.
+12) 20) dialog: I know. I know. (CONTINUED)
+12) 27) dialog: Really? What’s his name?
+12) 29) dialog: Jason? Jason Owens?
+12) 31) dialog: Wow, he’s a nurse? That guy was such a burn out in high school.
+12) 34) dialog: (surprised) She married Jason Owens?
+12) 36) dialog: Are you serious? How did I not know that? Ron shrugs.
+12) 44) dialog: It was complicated.
+12) 50) dialog: (to himself) Gwen married Jason Owens?
+12) 68) dialog: Jesus Christ, Dad. What are you doing?
+12) 72) dialog: Guys! Guys, stop! Suddenly Sally just slightly raises her hand. (CONTINUED)
+12) 83) dialog: What does that mean? Pretty big? Dr. Fong gives John a serious look.
+12) 85) dialog: So, what do we have to do?
+12) 91) dialog: Wait. Slow down. What about a second opinion?
+12) 97) dialog: Well, is it...cancer?
+12) 99) dialog: I don’t understand. How did this happen?
+12) 113) dialog: What? What is it?
+12) 115) dialog: What? When? Why didn’t you have them checked out?
+12) 118) dialog: Oh, Dad. Temporary paralysis?
+12) 124) dialog: Wait, doctor. Tell me seriously, how bad is this?
+12) 126) dialog: Well, is it terminal?
+12) 128) dialog: What can I do?
+13) 1) dialog: What’s up with you and dad?
+13) 3) dialog: He seems really pissed off.
+13) 5) dialog: Not like that. Ron takes a breath. He doesn’t know if he should tell John this or not...
+13) 9) dialog: He fired you? I didn’t even know you were working for him.
+13) 11) dialog: I don’t like to talk on the phone.
+13) 13) dialog: Really?
+13) 15) dialog: So, what did you do?
+13) 17) dialog: Well, why did he let you go?
+13) 19) dialog: Oh my God! Are you kidding me??
+13) 21) dialog: Well, what is he going to do?
+13) 25) dialog: Oh my God. Oh my God. Ron reaches across John to the glove box... and pulls a pair of binoculars out. He begins to surveil the house he’s just parked in front of.
+13) 27) dialog: (puzzled) She’s fine.
+13) 29) dialog: How would she possibly kn--
+13) 31) dialog: Uh, people don’t really think like that anymore.
+13) 33) dialog: (puzzled) Yeah, what are you doing?
+13) 35) dialog: You've been divorced from Stacey for years.
+13) 42) dialog: You two know each other?
+13) 45) dialog: John Hollar.
+13) 48) dialog: Come on, Ron. He didn’t have anything to do with it.
+13) 65) dialog: What happened?
+13) 70) dialog: Don’t look at me. I don’t know anything about cars.
+14) 0) text: John and Ron walk into the front hall. John puts down his bag and looks around, this once familiar world now feeling completely alien.
+14) 2) dialog: What, you live here now?
+15) 0) text: John walks to the open door of his mother’s hospital room. He finds his mother and father sleeping. His mother sleeps on the hospital bed and his father sleeps on a chair next to her. They hold hands. John looks very touched by the sight of his parents together in this way. He quietly walks over to his father and puts his hand on his shoulder.
+15) 1) dialog: (whispers ) Dad. Dad. Don wakes. He groggily turns to John.
+15) 3) dialog: Eight o’ clock.
+15) 5) dialog: It's ok. I brought your briefcase. I put it in your truck. Don takes a breath.
+15) 9) dialog: I got you a coffee. John hands his dad a coffee.
+15) 11) dialog: No problem. Just go to work. I’1l stay with mom.
+15) 13) dialog: Yeah. I’1l call if there’s any news. Don looks at Sally. He starts to tear up.
+15) 14) dialog: Dad? (beat) You okay?
+15) 16) dialog: Hey. Don’t talk like that. It’s all going to work out fine. You'll see. Don sniffs.
+15) 17) dialog: Go to work.
+15) 20) dialog: Alright, he’s gone. You can stop pretending.
+15) 24) dialog: How you doing?
+15) 26) dialog: I think he’s feeling a lot of pressure right now.
+15) 28) dialog: He said it was a secret.
+15) 30) dialog: What’s going to happen?
+15) 32) dialog: I brought you pretzels and ice cream.
+15) 34) dialog: What? You don’t want any?
+15) 36) dialog: So. Are you feeling okay?
+15) 38) dialog: Nothing weird during the night? (CONTINUED)
+15) 44) dialog: I googled brain tumors. They’re a lot more common than you’d think.
+15) 46) dialog: Yeah. Bob Marley had one.
+15) 48) dialog: Uh...you know. He sold a lot of records.
+15) 50) dialog: You're going to get through this. Don’t worry. (beat) The actual procedure sounds pretty simple. They just cut open a little hole the size of a nickel in your skull and take out the--
+15) 52) dialog: Oh. I’m sorry. I didn’t mean to upset you-
+15) 54) dialog: You're shaking.
+15) 56) dialog: Hey, look, Mom, it’s okay to be scared.
+15) 63) dialog: Oh, hey. Yeah. Ice cream and pretzels, actually. It’s one of my mom’s favorites.
+15) 65) dialog: What? No. Why?
+15) 67) dialog: Really? Sally nods. Jason takes the bowl of ice cream from Sally and hands her a tray with an egg and a piece of toast on it.
+15) 69) dialog: Yeah, I know. I just wanted to give her a little something.
+15) 71) dialog: Do you have a problem with me or something? Jason looks very unhappy. He takes a deep breath and walks out of the room. He nods for John to follow. John looks confused. He follows Jason out of the room.
+16) 3) dialog: What is it? What did I do?
+16) 5) dialog: Oh. Yeah. I heard you guys were--
+16) 7) dialog: --Congratulations.
+16) 9) dialog: I... heard that too. Congratulations to both of you--
+16) 11) dialog: Hey, look, man. I got a girlfriend back in New York. We’re actually about to have a baby too, so--
+16) 13) dialog: No.
+16) 15) dialog: It’s... a long story. We’ve talked about it but-- what do you care?
+16) 21) dialog: The kid’s not going to be a bastard!
+16) 23) dialog: Look, the point is you got nothing to worry about. Gwen and I are way, way in the past. We haven’t talked in years.
+16) 25) dialog: -..-I’m sure she does but--
+16) 27) dialog: Look, I have no feelings for Gwen anymore. Haven't for a very long time. I’m not going to do anything.
+16) 29) dialog: Positive.
+16) 31) dialog: That’s great. Jason takes a bite of the ice cream and pretzels.
+16) 33) dialog: I’m glad you like it.
+20) 0) text: Sally and John sit silently in the hospital room. Sally smiles at John. John smiles back. Beat.
+20) 2) dialog: I’m fine, Mom. I’m good.
+20) 4) dialog: Oh, you know, soul crushing. It continually forces me to question the purpose of my existence.
+20) 8) dialog: Yeah, I guess.
+20) 10) dialog: It’s not called a cartoon story, Mom.
+20) 12) dialog: I don’t know. A graphic novel.
+20) 14) dialog: ++. She did?
+20) 16) dialog: Yeah.
+20) 18) dialog: Well, because... it’s not good enough.
+20) 20) dialog: Yeah.
+20) 22) dialog: Well, Mom. Let’s face it. I made a mistake. I’m not an artist.
+20) 29) dialog: You never told me that.
+20) 31) dialog: Do you ever wish you’d...done things differently?
+20) 33) dialog: Really?
+20) 35) dialog: Like what?
+20) 37) dialog: What?? (CONTINUED)
+20) 46) dialog: Hey. I’m going to go for a little drive. You need anything?
+20) 48) dialog: I was talking to mom.
+21) 0) text: John exits the hospital and sees his Aunt Pam walking up. (CONTINUED)
+21) 4) dialog: Aunt Pam!
+21) 6) dialog: You’re a terrible liar.
+21) 8) dialog: She’s good... Weirdly.
+21) 10) dialog: Yeah... How’s the business doing?
+21) 12) dialog: Is there anything I can do?
+21) 14) dialog: What?! What good could possibly come of that?
+21) 16) dialog: Ron?
+21) 18) dialog: Then why did Dad fire him? (CONTINUED)
+23) 1) dialog: Oh thank God, it’s so good to hear your voice. John takes cigarette out of his pocket and lights it while he drives, talking on the phone.
+23) 4) dialog: Not so good.
+23) 6) dialog: Well, my mom has a tumor the size of a softball in her head. They don’t know if it’s cancerous or not. The doctor wants to perform a craniotomy the end of the week. That’s where they take out the tumor. My dad’s about to lose his business. Mom says she thinks she regrets marrying him. My brother is living at home and stalking his ex-wife. And on top of everything else my mom’s nurse hates me.
+23) 8) dialog: Oh, it’s just this guy. We used to go to high school together. (CONTINUED)
+23) 12) dialog: Oh, nothing. I don’t know. He’s...married to Gwen.
+23) 14) dialog: Well, she’s not my Gwen anymore.
+23) 16) dialog: Yeah. Anyway, he’s really insecure. He still thinks Gwen has a thing for me. (pause) Isn’t that crazy? Rebecca’s face changes.
+23) 18) dialog: What? I don’t know. I hadn’t really thought about it. I mean, maybe. They did invite me over for dinner. Rebecca doesn’t respond.
+23) 19) dialog: Listen, don’t worry! Nothing’s gonna happen. I don’t feel anything for her anymore. I mean she just had a kid.
+23) 21) dialog: No! I didn’t mean--
+23) 23) dialog: (meekly) Kind of. Yeah. (CONTINUED)
+23) 27) dialog: Rebecca, I’m sorry, I didn’t mean to--
+23) 29) dialog: I was calling to tell you how excited I was to talk to you.
+23) 31) dialog: Ok.
+24) 0) text: John drive s through rural landscape. It’s all cornfields and old farm houses. He stops and turns off onto a little dirt road. EXT. POND. John pulls the water. and lights
+24) 2) dialog: Awesome. 26 43.
+27) 14) dialog: Hey, what's going on? Why does everyone look so upset?
+27) 16) dialog: Hey, look, I was thinking we should ask Dr. Fong about this procedure. I want to know more about the risks involved with removing the tumor.
+27) 20) dialog: He’s going to be operating on your brain. If we’re not going to get a second opinion we should at least find out more about what he plans to do. His level of experience. Stuff like that.
+27) 22) dialog: But you don’t even know him.
+27) 25) dialog: I just... think we should be prepared.
+28) 0) text: John and Ron walk up to a nurse’s desk in the neurology department.
+28) 1) dialog: Ron and John Hollar for Dr. Fong, please.
+28) 7) dialog: What? I don’t think I’m hot shit. What are you talking about?
+28) 9) dialog: I told you I don’t like talking on the phone.
+28) 11) dialog: She was my girlfriend.
+28) 13) dialog: What? Understand what?
+28) 15) dialog: (laughs ) Why would I be jealous? You live in mom and dad’s basement.
+28) 17) dialog: I hate plumbing supplies.
+28) 21) dialog: Are you kidding? I moved to New York because there’s nothing to do here. And besides, it’s not like mom and dad’s attention really helped you out that much. I was probably better off with them not around.
+28) 23) dialog: Whatever.
+28) 26) dialog: Well, my brother and I were just wondering if you could tell us a little more about this procedure you want our mother to have. Will you actually be able to remove all of the tumor--
+28) 38) dialog: Getting back to the tumor--
+28) 41) dialog: Ron, let’s--
+28) 43) dialog: Please shut up.
+36) 0) text: In Sally’s room, a new patient has been brought in as Sally’s roommate. This is LaTisha an African American woman in her 60’s. Sally, John and LaTisha watch a Tyler Perry movie on the hospital television. Don walks into the hospital room. He looks very tired.
+36) 8) dialog: Whiskey?
+36) 12) dialog: What’s the occasion?
+36) 14) dialog: (a little confused) Thanks, Dad. John’s cellphone rings he picks it up and goes to the corner of the room.
+36) 24) dialog: That was Ron. He needs me to go pick him up.
+36) 26) dialog: At a gas station in Bristol. 39 40 55.
+37) 0) text: Ron sits next to a phone booth outside a small appliance store in the middle of nowhere. He is still wearing his high school track suit. He is covered in sweat. John pulls into the gas station. He opens the passenger door. Ron gets inside the car.
+38) 0) text: Ron and John drive in silence. Pause.
+38) 1) dialog: What were you doing out here?
+38) 3) dialog: It’s like twenty miles from the house.
+38) 5) dialog: You can’t do it all in one day.
+38) 7) dialog: No.
+38) 9) dialog: Dad gave me a bottle of whiskey. Ron thinks about this for a beat.
+38) 11) dialog: It’s in the backseat. Ron digs through the backseat. He finds the bottle. He opens it, takes a sniff. Ron takes a huge drink. (CONTINUED)
+38) 14) dialog: Help yourself.
+38) 16) dialog: Are you okay, Ron?
+38) 18) dialog: What’s wrong? What is it?
+38) 20) dialog: You're not alone. You have your kids.
+38) 22) dialog: Oh, come on, they don’t hate you.
+38) 25) dialog: You haven't had sex in four years? Ron nods with shame.
+38) 27) dialog: I really don’t want to think about any of you guys having sex. (CONTINUED)
+38) 33) dialog: What are you talking about? Of course, I do. You’re my brother.
+38) 35) dialog: Well, there’s an age difference.
+38) 37) dialog: With brothers.
+38) 39) dialog: I don’t usually talk to people I don’t know. So.
+38) 41) dialog: Let’s try it.
+38) 43) dialog: Let’s pretend we’re strangers. Try starting a conversation with me. Ron thinks about it.
+38) 45) dialog: Why not?
+38) 51) dialog: Hey.
+38) 53) dialog: Nothing.
+38) 55) dialog: I'm sorry. I’m not into gays. like an idiot.
+38) 57) dialog: (laughing) Come on, Ron. I was just kidding around.
+38) 59) dialog: Well, you had all that, too, at one point.
+38) 61) dialog: So...what happened?
+38) 63) dialog: Do you now? (CONTINUED)
+38) 67) dialog: That's a depressing answer.
+38) 69) dialog: They’1l be happy if you’re happy.
+38) 72) dialog: You invited me over for dinner.
+38) 75) dialog: No...well...yes....they’re for both of you. John gives them to Jason. Jason smells them.
+38) 77) dialog: Oh.
+38) 79) text: 4l 42 60. CONTINUED: 4l John walks inside the house. Jason throws the flowers onto the front lawn. INT. LIVING ROOM, GWEN AND JASON’S HOUSE. DAY. 42 A screaming baby sits in a bassinet in the middle of the living room. John looks at the baby.
+38) 80) dialog: Is this your...baby?
+38) 82) dialog: What’s the name?
+38) 84) dialog: He’s cute.
+38) 86) dialog: Oh.
+38) 88) dialog: Yeah. No. It’s...
+38) 90) dialog: Sure. John looks at the screaming baby.
+38) 91) dialog: Is she okay? Jason walks towards the kitchen. (CONTINUED)
+38) 95) dialog: Hey, baby. Hey, little girl. How are you? You okay? The baby stops crying and gives John a funny look. John smiles at the baby.
+38) 98) dialog: Hi. Gwen is nervous and self conscious.
+38) 100) dialog: You look beautiful. Gwen tears up. She and John are both very emotional. John walks over to Gwen to kiss her hello. Gwen full on kisses John on the lips. He pulls back.
+38) 101) dialog: Your husband’s in the kitchen.
+38) 103) dialog: He’s going to be back any minute.
+38) 105) dialog: I missed you, too. (CONTINUED)
+38) 109) dialog: I know. Jason walks in from the kitchen holding two Budweisers in his hands. When he enters the living room he finds Gwen and John studying their bookshelf. Gwen pulls a graphic novel called, “Blankets”. On the cover are two young adults holding each other in a snowy forest.
+38) 111) dialog: It’s the best book ever made.
+38) 121) dialog: No.
+38) 123) dialog: Oh.
+38) 125) dialog: Yeah, starving.
+39) 3) dialog: Yeah.
+39) 10) dialog: Thanks.
+39) 12) dialog: Soon.
+39) 14) dialog: ... We wanted a bastard.
+39) 16) dialog: Wow. Romantic.
+39) 18) dialog: Who?
+39) 20) dialog: At a comic book convention.
+39) 22) dialog: No... she was working.
+39) 26) dialog: She has her own business.
+39) 28) dialog: Designing pet clothing.
+39) 30) dialog: Not really.
+39) 32) dialog: Her parents are rich.
+39) 34) dialog: They bought her a brownstone for her birthday.
+39) 37) dialog: Oh, yeah? Why is that?
+39) 40) dialog: Well, not exactly. We keep our money separate.
+40) 0) text: John and Gwen share a cigarette.
+40) 2) dialog: She's okay. She has a brain tumor.
+40) 4) dialog: Don’t be. She’s doing better than everyone else in my family. My dad and brother are totally falling apart.
+40) 6) dialog: Okay. (CONTINUED)
+40) 11) dialog: I guess, a little.
+40) 13) dialog: Yeah. (beat) Look, Gwen. I’m sorry I never called.
+40) 15) dialog: I know. I know. I’m such an asshole.
+40) 17) dialog: Really?
+40) 19) dialog: Yeah. I guess, you always knew me too well.
+40) 21) dialog: What is that supposed to mean?
+40) 23) dialog: No, tell me.
+40) 27) dialog: Yeah, me and every other teenager in the world.
+40) 30) dialog: See. You do know me. Gwen looks at John and realizes...
+40) 35) dialog: Yes. No. Sort of. I don’t know. Not really... I think I’m just going through a tough time.
+40) 40) dialog: Kind of. *
+40) 41) dialog: You still writing? *
+40) 43) dialog: Yes.
+40) 44) dialog: But I shouldn’t.
+40) 46) dialog: I’m going to have a kid.
+40) 48) dialog: I hope that’s not true. Pause. Gwen hardens.
+40) 50) dialog: She lets me be who I need to be. * Gwen looks a little stung by this. (CONTINUED)
+40) 56) dialog: No. I mean... the part about me being in love with my girlfriend is. But the rest was a joke. John forces a laugh. Gwen frowns. Jason looks really confused.
+40) 58) dialog: (eager to get out of there) Oh, I’1l go get more!
+41) 0) text: John screeches his mom’s car out of the driveway. He calls Rebecca on his cellphone.
+42) 0) text: John is on his cellphone. We hear ringing.
+43) 2) dialog: Rebecca, I just saw Gwen. Silence. 48 71.
+44) 2) dialog: I went over to her house for dinner-- with her and her husband. (beat) Honey, she kissed me.
+44) 4) dialog: No, no, she kissed ME! Major difference.
+44) 6) dialog: I don’t-- She did-- oh btw, she still looks great by the way! So you have nothing to worry about.
+44) 8) dialog: Yeah, I mean she may have gained a little weight, but I never really liked skinny girls.
+44) 10) dialog: Rebecca, please, forget about the way she looks. It’s not important. The point is, kissing her, it didn’t do anything for me. I mean, if anything it just PROVED my feelings for you.
+44) 12) dialog: No, I don’t. I know what I’m saying. (CONTINUED)
+44) 16) dialog: I know. But I will. I promise I will. Starting right now.
+44) 18) dialog: A little but that’s not why I’m saying this. Listen--
+44) 20) dialog: No. I just quit. John goes into the Liquor Barn.
+45) 0) text: John looks around the liquor store for a six pack of beer while talking on the phone.
+45) 1) dialog: I’m trying to tell you that I love you. I love you. Okay. I just...I don’t know. I wanted you to hear that.
+45) 3) dialog: Dad? (CONTINUED)
+45) 7) dialog: Dad, what are you doing here?
+45) 9) dialog: (to Rebecca) Sorry, Rebecca. I’m going to have to call you back.
+46) 0) text: Don and John sit on the tailgate of Don’s truck in the parking lot, having a beer.
+46) 1) dialog: I don’t understand. How did it get this bad?
+46) 6) dialog: So, are you bankrupt?
+46) 8) dialog: Dad, I can give you some money.
+46) 10) dialog: Rebecca does.
+46) 12) dialog: But I want to help. Don shakes his head.
+46) 14) dialog: How? Don looks out at the highway.
+46) 16) dialog: Oh, come on, Dad. I don’t care about that-
+46) 18) dialog: ++. You're just going through a tough time.
+46) 23) dialog: It’s not over yet. You’re not going to lose it all.
+46) 25) dialog: What?
+46) 27) dialog: -.. We still have time.
+46) 29) dialog: ... And we’re all proud of you.
+47) 13) dialog: Is this a dream?
+47) 18) dialog: (looking at his brother) Why is he wearing my mother’s robe?
+47) 20) dialog: Ron, please.
+47) 22) dialog: I’m sorry. (beat) How did you--
+47) 24) dialog: Wow.
+47) 26) dialog: Drawings. I thought we could put them in the baby’s room. I read somewhere that baby’s like contrast.
+47) 28) dialog: I've missed you.
+47) 30) dialog: How are you feeling?
+47) 32) dialog: I can’t believe you took a cab here. (CONTINUED)
+49) 3) dialog: What? What is it? A kick?
+49) 5) dialog: Is this normal?
+49) 7) dialog: You shouldn’t have driven here.
+50) 0) text: John stares at newborns through a window, contemplating his imminent future. A nurse comes out to talk to him.
+50) 2) dialog: How is she?
+50) 4) dialog: Is the baby okay?
+50) 6) dialog: What do you mean their?
+50) 8) dialog: We wanted to be surprised. Beat.
+51) 0) text: Rebecca lies in a hospital bed. She looks very nervous. John walks into the room.
+51) 2) dialog: They said you should rest. (CONTINUED)
+51) 6) dialog: What’s wrong with this hospital?
+51) 8) dialog: I was born here, you know.
+51) 10) dialog: My mom’s having surgery here.
+51) 12) dialog: What’s wrong with being nice?
+51) 14) dialog: -+. Did you know we were having twins?
+51) 16) dialog: Why didn’t you tell me?
+51) 22) dialog: All I’ve been going through?
+51) 29) dialog: That’s not what I’m worried about. *
+51) 31) dialog: No, having twins.... it’s one more person * that I’m gonna be failing. And I just * can’t take that. John tries hard not to break. Rebecca sits up and grabs his hands and touches his face.
+51) 34) dialog: You promise?
+51) 38) dialog: I will. Now get some rest. John smiles. EXT/INT. STACEY’S HOUSE. DAY. 58 Stacey sleepily exits her room and knocks on the door immediately next to hers, then opens it.
+53) 0) text: Sally stands looking out the window. She is alone in her room. LaTisha is gone. John walks in wearily.
+53) 1) dialog: Mom? What are you doing up? Where is everyone?
+53) 3) dialog: What happened to LaTisha?
+53) 5) dialog: What’s wrong?
+53) 7) dialog: And?
+53) 9) dialog: (relieved) Oh, Mom. That’s okay.
+53) 13) dialog: No... you won’t. When are they coming to do it?
+53) 15) dialog: Well, I’1l wait right here til they do. Sally looks at her son for the first time. She sees everything.
+53) 17) dialog: ++. we’re having twins. Sally gives John a huge hug. He almost collapses into her.
+53) 24) dialog: (lying) I got lost.
+53) 26) dialog: Will you tell her I’m sorry?
+53) 30) dialog: No. Wait. Jason looks at John.
+53) 31) dialog: I’ll do it.
+53) 33) dialog: Leave the clippers and the razor... I’1l give her the haircut. John looks to Sally.
+53) 34) dialog: If it’s okay with you?
+53) 36) dialog: Yeah. I’d be honored. (CONTINUED)
+53) 40) dialog: Beautiful.
+53) 42) dialog: No, I’m not. You got a really nicely shaped head.
+53) 44) dialog: What now?
+53) 46) dialog: What do you mean? Last meal.
+53) 48) dialog: So, what’s on the menu for tonight?
+53) 50) dialog: Oh, that’s not a very good last meal.
+53) 52) dialog: What would you want? If you could have anything? Anything in the world? (CONTINUED)
+53) 56) dialog: You don’t know? Are you telling me you can’t even fantasize about a good meal? Sally thinks.
+53) 58) dialog: That’s it? Just a burger?
+53) 60) dialog: Let’s go.
+53) 62) dialog: Yeah.
+53) 64) dialog: We’ll sneak you out.
+53) 66) dialog: I’m not going to let you have an egg and yogurt for dinner.
+54) 0) text: John wheels his mother down a hospital hallway. Jason spots John and Sally leaving from the nurse’s station.
+55) 0) text: Sally and John laugh then turn around to see... A woman is giving birth. She screams in pain and terror. Her husband tries to comfort her.
+55) 4) dialog: Uh...
+56) 0) text: John pushes Sally out of the hospital. They are both giddy with laughter.
+57) 0) text: John and Sally peel around the corner of a parking lot and drive through the emergency room arrival area. Just as they pass the doors... Jason exits and runs after the car screaming. (CONTINUED)
+57) 6) dialog: I thought this place closed forever ago.
+57) 8) dialog: My, God, I haven’t had one of these in...
+57) 10) dialog: I don’t even think anyone has noticed. Sally shrugs. She eats another fry.
+57) 11) dialog: Hey, mom.
+57) 13) dialog: Can I ask you something? (CONTINUED)
+57) 18) dialog: What did you mean when you said you regretted marrying dad?
+57) 20) dialog: Yeah. (CONTINUED)
+57) 25) dialog: «+. Mom.
+57) 27) dialog: But you said you regretted--
+57) 31) dialog: We had to shave it.
+58) 0) text: John, Don, Ron and Rebecca are all in Sally’s hospital room. Sally wears a head scarf. No one says anything. (CONTINUED)
+58) 18) dialog: See you soon, Mom. (CONTINUED)
+58) 22) dialog: Sure thing, Mom. A moment of silence. John puts his arm around Rebecca. Jason comes into the room.
+58) 25) dialog: Mom?
+58) 27) dialog: (to Ron) What should we do? Ron shrugs.
+58) 29) dialog: Does that help?
+58) 31) dialog: (to Ron) Do you know the words to any songs she likes? (CONTINUED)
+58) 35) dialog: I’m not even sure if I know the words to any songs, period.
+58) 38) dialog: Is that the Indigo Girls? Ron nods.
+58) 39) dialog: How does he know the words to this?
+58) 46) dialog: I went to the doctor, I went to the mountains..I looked at the children, I drank from the fountain...there’s more than one answer to these questions...pointing me in a crooked line...the less I seek my source for some definitive...the closer I am to fine... The song continues as actually sung by the Indigo Girls as Jason wheels Sally out of the room. Sally smiles and mouths a “thank you” to Don. Don grabs her hand for a moment, then lets her go. Rebecca gives John a kiss on the cheek.
+62) 0) text: The song continues as John, Don, Ron and Rebecca sit patiently in the waiting area. John looks out over his family. Ron gets up.
+63) 0) text: Ron stands outside. John comes out and joins him. (CONTINUED)
+63) 3) dialog: How you doin’ Ron?
+63) 5) dialog: We are terrible liars.
+63) 6) dialog: How's the job search going?
+63) 8) dialog: Oh. Wow. That’s a good company.
+63) 10) dialog: Do you bartend?
+63) 13) dialog: You know dad wants you back?
+63) 15) dialog: That’s not what he told me.
+63) 17) dialog: Not for. With. He wants you to run the company with him.
+63) 23) dialog: No. I’m not. He’s just too proud to ask. But he can’t really pay you until the company gets back on its feet.
+63) 25) dialog: Well, you’re staying at his house rent free.
+63) 27) dialog: Come on, Ron. He needs your help. Ron looks kind of intrigued. Beat.
+63) 29) dialog: Hey, what did mom say to you?
+63) 31) dialog: The same. Ron and John smile.
+63) 32) dialog: See you inside. John walks back in. We hold on Ron’s smile
+64) 0) text: John re-enters the waiting area. And goes to his father.
+64) 1) dialog: Dad?
+64) 5) dialog: Ron wants his job back.
+64) 7) dialog: He needs to work. He’s willing to come back without pay until the company gets up on it’s feet again.
+64) 9) dialog: That’s exactly what he said.
+64) 11) dialog: But you'll have to make him vice president.
+64) 13) dialog: Great. He’ll start next week. John looks up at Rebecca, who saw the whole thing. She smiles knowingly at John. He smiles at her genuinely.
+65) 0) text: John paces around while Rebecca sleeps and Ron and Don talk. Dr. Fong comes out into the waiting room. Everyone looks at him.
+65) 8) dialog: So, it could grow back?
+66) 0) text: Don, John and Ron stand in front of Sally. Her head is heavily bandaged. Her heart is hooked up to a monitor.
+66) 4) dialog: Are you sure? (CONTINUED)
+67) 0) text: John, Ron and Rebecca walk into a hospital elevator together.
+67) 2) dialog: Yeah. Better then ever.
+69) 0) text: Ron plays Dance, Dance, Revolution with his daughters. They are all surprisingly good. John and Rebecca watch on the couch.
+69) 1) dialog: Are you sure you’re okay?
+69) 5) dialog: We’ll get you back home soon. Ron stops dancing. He looks at John.
+71) 5) dialog: What? What is it? 78 INT. DR. FONG’S OFFICE. DAY. 78 Don, Ron and John sit in Dr. Fong’s office.
+71) 10) dialog: (calming... like his mom) Ron.
+72) 0) text: Don, John and Ron sit in the front pew of a church going over the details of Sally’s funeral with a funeral director and a minister. (CONTINUED)
+72) 16) dialog: I think I have an idea.
+73) 0) text: Ron and John exit into the foyer of the church.
+73) 1) dialog: You think dad’s going to be okay?
+73) 4) dialog: Yeah. Ron walks away. Off to the right, John sees Rebecca looking at a statue. John approaches her.
+73) 5) dialog: Did you just pay for my mother’s funeral?
+73) 7) dialog: That’s really generous but we can’t accept it.
+73) 9) dialog: I just can’t.
+73) 12) dialog: Will you marry me?
+73) 14) dialog: Marry me. 108. Rebecca doesn’t know what to say. John pulls a pen out of his pocket and draws a line around Rebecca’s ring finger. She looks at the ring, fighting tears.
+73) 16) dialog: Marry me. Right now.
+73) 18) dialog: It's for better or worse, right? I can’t think of a worse time then now. What you say?
+73) 20) dialog: Really?
+73) 26) dialog: (to Rebecca) Hold on. John exits the car and walks towards Ron. Through the back window we see John talk to Ron. After a moment. The two brothers walk back to the car and get in. John smiles at Rebecca. Rebecca smiles at Ron. Ron smiles... touched.
+74) 0) text: John and Rebecca stand in front of the little swimming hole John visited earlier in the story... Along with Reverend Dan and Ron. They get married.
+75) 0) text: John and Rebecca slow dance without music watching the sun go down. Behind them Ron stands talking to Reverend Dan.
+75) 2) dialog: Yeah. My mom used to take my brother and me here to swim every summer. Rebecca nods.
+75) 3) dialog: We got to bring our kids here when they get older.
+80) 0) text: Sally's coffin is surrounded by orchids. A large group of Sally's friends and family are gathered around her casket as it is about to be lowered into the ground. Don, John, Rebecca and Ron sit in chairs in the front. Don bravely tries to hold in his tears but he can’t help welling up. Behind him we see that everyone has shown up for Sally. Stacey stands with Reverend Dan, Constance and Matilda. Pam is there. Everyone is emotional.
+80) 2) dialog: (whispers ) Someone should say something.
+80) 4) dialog: Someone from the family should say something before they put her into the ground.
+80) 6) dialog: Hello. I’m John Hollar. I’m Sally’s son. (Saying this immediately has an impact) I unfortunately don’t quite know what to say. I just want to thank everyone for coming here... to say goodbye to our mother. He looks out at the group. This is his family. This is his life.
+80) 7) dialog: I, uh... I remember talking to my Mom -. in a time where I was a bit...
+80) 11) dialog: Lost... And my Mom said... “You won't know till you get there... that you’re ok.” Beat. He looks out at everyone, finishing with his Dad.
+80) 12) dialog: Well, we’re all here. And she was right... We’re ok. John finishes and goes to hug his father. As he does Rebecca touches her stomach. She starts to feel some serious pains. Ron looks at Rebecca. Rebecca is going into labor. She grabs Ron's hand aggressively.
+80) 15) dialog: Bye, Mom! We love you. INT/EXT. RON’S CAR, CEMETERY. DAY. 91 Ron, John, Don, Rebecca are all packed in Ron’s car.
+80) 17) dialog: Yeah. Just go. Go, go! Ron peels out. The car goes dead.
+80) 19) dialog: Oh my God. Everyone begins to panic. Ron looks around. He gets an idea. 92
+81) 0) text: Ron closes the door to... the hearse. Rebecca is next to him. John and Don are in the back.
+81) 2) dialog: No, no. It’s fine.
+83) 5) dialog: I’1l call you when we get a room.
+83) 7) dialog: Thanks, Dad. John gives his dad a hug. Then his brother. Don leans down and kisses Rebecca on the forehead.
+83) 13) dialog: I’m sorry. I didn’t know you were going to be early.
+83) 15) dialog: Me, too.
+83) 17) dialog: It’s going to be okay. You’re going to do great.
+83) 19) dialog: Just breathe.
+83) 21) dialog: Becca?
+83) 23) dialog: I love you.

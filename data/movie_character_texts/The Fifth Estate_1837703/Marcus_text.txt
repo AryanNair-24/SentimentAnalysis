@@ -1,0 +1,91 @@
+20) 1) text: Daniel pulls open the door. MARCUS, 30s, a BEARDED HACKER with an IMPOSING PRESENCE, pushes in carrying a laptop ba
+20) 2) text: Daniel leads him to his desk, where several laptops are n up and running. Marcus pulls another out of his pack.
+20) 4) dialog: Did you reach him?
+20) 7) text: As Marcus pops open the laptop, Daniel glances at a TV. We see our BBC Reporter in the Frontline Club press room.
+20) 11) text: Daniel and Marcus trade a LOOK, Daniel moves to a laptop. see the WIKILEAKS SITE and an OPEN CHAT BOX. Daniel TYPES ddd: Julian? Are you there?
+23) 2) text: Marcus and Daniel watch.
+23) 11) dialog: Daniel. If you want to do this, we need to do it now.
+28) 4) text: As Daniel hands a form, the MAN at the EDS box turns. We recognize him -- it's a well-rested, almost jovial MARCUS
+28) 6) dialog: Hey, Daniel, thanks for getting EDS to donate again.
+28) 9) text: Marcus smiles, exits with the switches. A volunteer retur with a STACK OF SHIRTS. As Daniel grabs them, glancing at EASEL with the LECTURE SCHEDULE, we hear an AUSTRALIAN
+78) 3) dialog: You know the way to my heart Daniel.
+78) 4) text: Daniel turns, sees Marcus in the farmhouse door.   
+79) 1) text: A LARGE BARN, PACKED with SERVERS. TECH HEAVEN. Marcus wa in, leading Julian and Daniel who carry a server. Julian looks around, blown away.
+79) 3) dialog: (off the server) Hook that up next to the other old IBMs. And take any tags off it -- I don't want to know which one it is.
+79) 4) text: They set the server down. Daniel starts hooking it up as Marcus cracks open a Club Mate.
+79) 8) dialog: Plausible deniability is never a bad thing. Especially when there might be jackboots at the door.
+79) 12) dialog: Just following in the tradition of some excellent hackers. One in particular who went by this curious name, something out of Horace... in parentum splendide Mendax.
+79) 15) dialog: 
+79) 23) dialog: Delightfully deceiving, like his name. And your 'robust' infrastructure.
+79) 26) dialog: 
+93) 15) text: She hands him a CARD and exits, crossing with Marcus.
+93) 17) dialog: Look at you. With groupies.
+93) 21) dialog: She's certainly working an angle.
+96) 5) text: REVEAL Birgitta and Marcus staring up at the screen. Juli VERY UPSET, hovers over Daniel, typing on a laptop.
+96) 28) dialog: I wouldn't take it personally.    He's scared. You should be too.
+96) 31) text: Marcus doesn't look impressed.
+96) 36) dialog: I think you're taking on Presidents and Kings and kingpins -- people who can afford to hire the kind of Black Hats that get off on breaking into a so called secure operating system. And, believe me, if your O.S. is anything less than secure, it's not gonna take long for them to I.D. the rest of your sources and hunt them down... to say nothing of what they'll do to you and Julian. (then, serious) Ask for my help, Daniel.
+96) 37) text: Off Daniel, FREAKED, convinced Marcus is right --
+100) 4) dialog: (PRELAP)
+101) 1) text: The lobby is crowded with hackers registering for 26C3. I corner, Marcus huddles with Daniel, Birgitta and Julian.
+101) 3) dialog: ...and there are ways to trace your sources -- they aren't protected nearly as well as you say they are.
+101) 10) text: Julian glares at Marcus, it's awkward.
+105) 13) text: Marcus and Birgitta fall in with Julian, eyeing a smartphone.
+105) 15) dialog: ...it's thousands of euros. We can upgrade servers, get new laptops...
+109) 1) text: Daniel hurries down the stairs, passing... Marcus, agains wall, with a GROUPIE or two, DRUGGED OUT OF HIS MIND.
+109) 3) dialog: Hey man, five minutes, I just need a cup of coffee, I'll be clear...
+109) 7) dialog: But Julian wants me to drive you guys to the airport.
+109) 11) text: Off Marcus, CONFUSED --
+121) 16) text: REVEAL Birgitta, Daniel and Marcus in a hotel room, watch what we now know to be the COLLATERAL MURDER VIDEO. STUNN
+121) 26) dialog: Didn't Reuters chase the story?
+121) 34) dialog: You want to sell this?
+121) 35) text: Julian's considering it. Marcus and Birgitta look APPALLE
+121) 48) text: Ziggy SWALLOWS HARD. Julian watches Daniel with RENEWED APPRECIATION as he takes over, turning to Marcus...
+121) 53) dialog: We can probably use FFMPEG...
+122) 3) dialog: 
+122) 5) text: REVEAL Daniel, Birgitta and Marcus and some volunteers making edits to the video. Daniel spots Julian out on the patio.
+130) 1) text: Marcus is plugged in; Ziggy and a few staffers swirl arou Daniel talks to Julian.
+130) 18) text: As Daniel's Skype goes blank, Marcus starts BARKING --
+130) 20) dialog: We need to shut everything down! You all have five seconds to save!
+130) 21) text: Daniel turns. Marcus is WILD EYED.
+130) 25) dialog: Five... Four... We can't let them trace us...
+130) 26) text: Marcus hits a button. All the computers freeze.
+130) 29) text: Marcus hands him a laptop. On the frozen screen, an artic in WIRED: 'U.S. Intelligence Analyst Arrested in Wikileak Probe.' A photo of Manning, something about 260,000 U.S. diplomatic cables... As Daniel reads, Birgitta RUSHES in
+130) 39) text: Marcus closes the laptop and we SMASH TO --
+132) 5) text: Nearby, Marcus types furiously, bringing them back online Birgitta and the staffers huddle around a MONITOR, readin about Manning. UPSET, SCARED.
+132) 7) dialog: He bragged about it in a chat room? What the hell was he thinking?
+132) 10) text: Marcus doesn't look so sure.
+132) 12) dialog: I'm adding another Tor circuit.
+133) 14) text: Daniel hangs up. To Marcus, urgent --
+133) 18) text: Marcus works a laptop.
+133) 20) dialog: Just a few more proxies... (pissed, reeling) The goddamn mission is to protect sources...
+133) 23) text: Marcus' computer BEEPS.
+133) 25) dialog: We're online.
+133) 28) text: Marcus types into his Desktop. 
+133) 29) text: [AS BEFORE, a CHAT BUBBLE appears on Marcus's laptop and THE BOTTOM OF OUR SCREEN]. mArc: Hey. Back online. You there?
+134) 2) text: MARCUS' CHAT pops up on his computer screen. He glances WARILY at the passenger next to him... then TYPES. [In th scenes we see him silently typing, reacting to the chat]. jjj: We need lawyers for Manning.
+134) 5) text: They trade a NERVOUS look. Marcus reaches forward, TYPES. mArc: So it's true? We have the docs?
+134) 16) dialog: Daniel.
+134) 17) text: Marcus shows him the screen. jjj: We need to publish everything. NOW.
+137) 4) text: Birgitta and Daniel stare at the laptop open to the chat, Marcus works on the other.
+137) 6) dialog: Jesus, it's three gigs of text.
+137) 7) text: Marcus pulls up a SET OF CABLES on the second laptop.   Daniel stares. The words STRICTLY PROTECT jump out at him
+137) 10) text: Daniel eyes Marcus, who's seen it too. He looks NERVOUS..
+137) 13) text: Daniel glances back at Julian's text: How fast can we for the US docs? Trying to remain CALM, he dictates to Marcus
+137) 16) text: Marcus starts TYPING.
+137) 22) text: Daniel dictates feverishly, Marcus types...
+137) 30) text: Daniel leans over Marcus, bangs on the keyboard ANGRILY. ddd: this is RECKLESS.
+138) 5) dialog: Shit.
+150) 25) text: Marcus, did Julian tell you anything about the redactions?
+153) 1) text: Daniel is on the phone. On his laptop we see MARCUS ON SKYPE... and an OPEN CHAT BOX. jjj: Manipulation by Daniel to undermine me is not tolerable.
+153) 4) text: Yeah, okay. Thanks, Marcel. (hangs up, to Marcus) Rosenbach said the bulk of the identifiable sources are in the threat assessments. It's 14,000 docs, but if you hold those, there are a lot fewer names in the rest.
+154) 1) text: Living quarters. Marcus works his laptop, Birgitta nearby
+154) 3) dialog: Got it.
+155) 8) dialog: 
+164) 18) dialog: Did you reach him?
+164) 19) text: Marcus bursts in. He pulls a laptop out of his backpack.
+164) 23) dialog: If we both plug in, we should be able to do it while he's speaking.
+164) 24) text: Do what? As Marcus sets up, Daniel glances at the TV. We our BBC Reporter in the press room of the Frontline Club.
+167) 1) text: Marcus and Daniel watch Julian's press conference.
+167) 6) dialog: Daniel. We both know he's never going to step aside. If you want to do this, we need to do it now.
+167) 21) text: ANKE'S APARTMENT, Daniel and Marcus at laptops, WORKING FURIOUSLY.

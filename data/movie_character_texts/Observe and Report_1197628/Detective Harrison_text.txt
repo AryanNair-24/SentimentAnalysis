@@ -1,0 +1,129 @@
+19) 2) text: Out steps DETECTIVE HARRISON, a young cop that has the arrogance and swagger of a man who is just beginning to feel his power.
+20) 2) text: Detective Harrison knocks as he comes in the door.
+20) 4) dialog: Your secretary told me to come on in. I'm Detective Harrison, Cabarrus County Police.
+20) 5) text: Detective Harrison shows his badge to Mark.         The t shake.
+20) 9) dialog: Hello, Brandi.     Are you doing                       okay?
+20) 13) dialog: Yes, ma'am, I'm sure you are after all you've been through, but I'm here to tell you that we're going to work together to make sure we catch the person who did this.                        
+20) 24) dialog: Great.                                               (back to Brandi)                            Okay, Brandi. Did you get a look                     at the suspect?
+20) 36) dialog: Thank you. Brandi, can you                           remember anything specifically? What color was his hair? Was he tall or short?
+20) 39) text: Detective Harrison begins writing in his note pad as Brandi speaks. Ronnie notices this and picks up some paper and begins to write as well.
+20) 41) dialog: Was his hair long or short?                         
+20) 51) dialog: Did he say anything?
+20) 55) dialog: What was he wearing?
+20) 64) dialog: I just wrote a description.
+20) 69) dialog: Okay, Brandi, I think that's good                   for now. I think the best thing at this point is to just follow up with the other ladies who saw the perpetrator yesterday and see if they remember anything.
+20) 73) dialog: That's highly unlikely. These                       incidents are usually random and                    unpredictable. I'm sure you'll be                   safe.                                              
+20) 83) dialog: Targeted? What gives you that impression?
+20) 89) dialog: That's not going to happen.
+20) 92) dialog: Well don't worry. I'm on the case and I'm going to do everything in my power to bring this guy down.
+20) 96) dialog: Look, I've got to get going. Here's my card. I'll even write                      my home phone number on the back,                    just in the event you need to get                    a hold of me.                                       
+20) 97) text: Detective Harrison writes his number on the back and then hands his card to Brandi.
+20) 105) dialog: Give me a call when you aren't working and I'll have you come to the station to look through some mug shots. (touches her leg) Don't worry okay.
+20) 110) dialog: What?
+20) 114) dialog: Oh, okay.                                             
+20) 115) text: Detective Harrison reluctantly hands Ronnie a card.
+20) 119) dialog: You can just leave a message at                        the station. I check my messages                       constantly.                                           
+20) 126) dialog: Don't do that.                                        
+20) 135) text: Detective Harrison takes off.      Ronnie looks around happily.
+25) 8) text: Detective Harrison knocks on the door and walks in. Ronnie stands up to greet him.
+25) 11) text: Ronnie gives Detective Harrison a hug.
+25) 15) dialog: Thanks for waking me up this                          morning, Ronnie.                                     
+25) 19) dialog: My team just checked all the doors and there are no signs of forced                      entry. I've also checked out the                      crime scene, but we didn't see any fingerprints on the glass. The suspect was probably wearing gloves.
+25) 25) dialog: My guess it was an inside job. Probably someone who has access to keys like a janitor or a security guard.
+25) 29) dialog: I'm almost at the end of my first                     year.                                                
+25) 39) dialog: I've been a police officer for                        several years.                                       
+25) 43) dialog: Whoever did this would have to had                    keys to the Security Room so they could shut off the camera.
+25) 47) dialog: Ronnie, nobody is accusing anybody, but I would like to stick around for a while and interview some of the employees.
+25) 51) dialog: I understand.
+25) 69) dialog: Ronnie, on these types of                            investigations, it's usually not a                   good idea to have too many cooks                     in the kitchen.                                     
+25) 73) dialog: I'm gonna do this alone.                            
+27) 1) text: Ronnie watches from afar as Detective Harrison interviews SADDAMN, who stands in front of his cell phone kiosk.
+27) 3) dialog: So, have you seen any suspicious people hanging around the mall? Anybody who might have been casing the stores?
+27) 7) dialog: Okay, well if you can think of anything, here's my card.
+27) 8) text: Detective Harrison hands Saddamn his card and begins to leave. Disgusted, Ronnie comes walking up.
+27) 12) dialog: What are you doing, Ronnie?                         
+27) 22) dialog: Ronnie, this is official police business.
+27) 32) dialog: Ronnie, I appreciate your enthusiasm, but just let me handle this. (to Saddamn) Have a good day, sir.
+27) 36) dialog: I have no reason to make him a suspect.
+27) 54) dialog: Ronnie, stop. We're finished here. Now if you're going to tag                     along, I'm gonna need you to just                    stay back; are we clear?                            
+27) 57) text: Detective Harrison walks away. Ronnie follows, but takes one more look at Saddamn, who flips Ronnie off.
+28) 1) text: Ronnie stands nearby as Detective Harrison questions an old Mexican JANITOR, who stands by his cart of cleaning products.
+28) 3) dialog: Did you let anybody borrow your keys?
+28) 7) dialog: Have you seen anything suspicious?
+28) 11) dialog: Okay, sir.   Thank you for your time.
+28) 15) dialog: Ronnie, we talked about this.                       
+28) 25) dialog: What special circumstance?                          
+28) 40) dialog: What did he say?
+28) 44) dialog: No, I'm not.
+28) 59) dialog: Ronnie, that's enough.                             
+29) 1) text: Ronnie follows Detective Harrison into the lingerie store. They approach the counter where a HOT CLERK is working the register.
+29) 11) dialog: I'm Detective Harrison with the Cabarrus County Police.
+29) 15) dialog: Okay, seriously, would you back                      the fuck off?! I'm trying to do my job and you're fucking it up.
+29) 19) dialog: I'm working!
+29) 20) text: Detective Harrison is seriously annoyed.
+29) 22) dialog: (back to the Clerk) Sorry. Hi. I'm doing a check with all the mall employees to see if anybody has any information on the robbery that took place here last night?
+29) 30) dialog: That's fine, thanks for the help.                   
+29) 44) dialog: I'm sorry, ma'am. He's not with me. Here's my card. If you think of anything, just give me a call.
+29) 45) text: Detective Harrison walks out and Ronnie follows him. the way out of the store, Ronnie passes a MAN who is looking at the underwear. Ronnie stops.
+30) 1) text: Ronnie and Detective Harrison stand across the counter from a tattooed SALESMAN.
+30) 5) dialog: Shut up, Ronnie!                                   
+30) 17) dialog: Get the hell out, Ronnie. I'm                         here to ask questions about the robbery.
+31) 1) text: Ronnie and Detective Harrison are in the hardware department talking to the SEARS MANAGER. Detective Harrison sits on the ground. He has completely given up on the investigation at this point, as Ronnie controls it all.
+48) 1) text: Ronnie sits in the unmarked police car with Detective Harrison.
+48) 5) dialog: You requested to ride along with me.               
+48) 9) dialog: Why do you want to become a Cop?                   
+48) 22) dialog: Well, just pay attention tonight and make sure you stay out of the way.
+48) 26) dialog: What are you talking about?
+48) 30) dialog: No, no. Ronnie, policy says you have to stay in the car.                            
+48) 34) dialog: Ronnie, you really can't.
+48) 37) text: Ronnie winks at Detective Harrison.    A smile comes acro Harrison's face.
+48) 45) dialog: I'm glad we understand each other.                  
+48) 46) text: Detective Harrison puts the car in drive and the guys head off for the night.
+49) 1) text: Ronnie and Detective Harrison sit in the parked car. They're at the shittiest crack corner in the whole town. Lots of scary bums and hookers loiter around the car.
+49) 5) dialog: You see that corner there, Ronnie?
+49) 9) dialog: That corner used to be the worst                     corner in this whole town. It was riddled with drugs, prostitution, and gang violence. It was nicknamed 'The Crossroads.'
+49) 13) dialog: That's right, but myself and the other officers worked on cleaning it up for years so that the good folks of this neighborhood wouldn't have to worry about being safe. Yes, sir, that corner is a testament to the fine police work of our force.
+49) 23) dialog: Well, it's a low income area, Ronnie. You're being kind of prejudiced.
+49) 27) dialog: That's right, but it hasn't been easy. We still patrol this area every night just to keep our presence up.
+49) 31) dialog: I'm sure. I usually do the foot patrols myself, but because I like you, I'm going to let you do it tonight.
+49) 35) dialog: Yeah,   really. But I told you about   department policy, so I'm going   to need you to keep quiet about   this one.
+49) 39) dialog: Of course, Ronnie. I just really believe in you.
+49) 43) text: Ronnie is shaken, but he waves to Detective Harrison like he's okay. Detective Harrison waves back, then PEELS OUT OF THERE. Ronnie is confused.
+49) 52) text: Detective Harrison keeps on driving without looking back.
+51) 1) text: Detective Harrison is eating doughnuts and laughing with a bunch of other COPS.
+51) 11) dialog: Trust me, you would have done the same thing. This guy is without a doubt the biggest fucking idiot I have ever met.
+51) 15) dialog: Good! Fuck him, I hope he does get killed.
+51) 18) dialog: Ronnie, what are you doing here?
+51) 22) dialog: Ronnie, look, I didn't do anything --
+51) 26) dialog: Ronnie, look --
+51) 30) dialog: Ronnie, I --
+51) 34) dialog: Thank me?   Why?
+51) 44) dialog: Ronnie, I don't know what to say.
+57) 3) text: Ronnie reaches the top where Detective Harrison is waiting. Ronnie stops.
+57) 13) dialog: I can see that. Listen, I don't                      really know how to say this, but we're not going to be able to let you join the academy.
+57) 17) dialog: It seems you had a little trouble passing the minimum requirements.
+57) 21) dialog: Well, yes, actually, you failed                      the psychological exam.                             
+57) 25) dialog: It says...                                           (reads from the form)                        That Ronnie Barnhardt shows                          warning signs of delusion and                        allowing him to join the force                       puts his life and the lives of                       others in jeopardy.                                 
+57) 29) dialog: Ronnie, I personally did your                        background check and this is the fifth time you've been turned down for the police academy.
+57) 39) dialog: We sure do. Look, I tried to talk                    to them, but there's no way                          they're gonna let you in. I'm                        sorry, but your dreams of becoming                   a Police Officer just aren't going                   to happen.                                          
+57) 43) dialog: Take care, Ronnie.                                  
+57) 44) text: Detective Harrison goes inside and closes the doors on Ronnie.
+63) 3) text: Ronnie creeps up to the car and peers in the window. Inside, Ronnie sees Brandi and Detective Harrison banging like a couple of wild animals.
+64) 1) text: Brandi stops humping Detective Harrison.
+64) 5) dialog: What is it?                                         
+64) 14) text: Detective Harrison looks out of the window. He doesn't see anything. He climbs back on top of Brandi.
+64) 16) dialog: It's nothing.                                        
+65) 1) text: Ronnie runs around Detective Harrison's car wielding a flashlight like a mad man.
+65) 12) dialog: That motherfucker is crazy.                          
+65) 16) dialog: You're right.    Okay, here it goes.                 
+65) 46) dialog: Drop the flashlight, Ronnie.                       
+65) 51) dialog: Ronnie, I know you've had a hard                    time --                                            
+65) 55) dialog: So you're gonna kill Brandi?                       
+65) 67) text: Detective Harrison cocks the gun.
+65) 69) dialog: Ronnie!                                         
+65) 74) dialog: That guy is a nut job.                          
+65) 78) dialog: So you slept with him?                          
+65) 82) dialog: No, I guess not.                                
+92) 2) text: Detective Harrison is at the top of the stairs.      Ronn walks right up to him.
+92) 12) dialog: I see that. Well, you better turn him over to me and I'll take him inside and book him.
+92) 16) dialog: Hey, Ronnie, you may not be an                        officer of the law, but you're the                    law's right hand. Good job.                          

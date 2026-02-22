@@ -1,0 +1,179 @@
+26) 0) text: An L.A. Herald Express REPORTER and photographer listen along with the gathered patrolmen as Dudley finishes to applause.  Dudley joins the press.
+26) 2) dialog: Drop the formalities; it's Christmas Eve.  Call me Dudley.
+26) 4) dialog: Excellent.  How's this? (dramatic pause) The sanctity of the night is an invitation to the darker criminal element.  Our vigilance will not be diminished.
+26) 6) dialog: That's Smith with an S.
+26) 7) text: They laugh.  Dudley points the way out.
+26) 8) dialog: This way, gentlemen.
+26) 9) text: Dudley's the last one out the door.  As he goes, he turns back to give the men a wink.  He's no sooner out the door when the first case of Johnny Walker is brought in.
+27) 2) text: He hands the report to Exley.  It's now that Dudley comes through on his press junket.
+27) 3) dialog: This is Sergeant Ed Exley.  Son of the legendary Preston Exley.  He's the watch commander tonight and a damn fine job.
+27) 5) dialog: I was fortunate enough to be partnered with his father when I was a rookie.  It makes a man feel old.  That's a fact. (a beat) Feel free to get a feel for the place.
+27) 6) text: As the Reporter and photographer wander off, Dudley turns to Exley a bit more serious.
+27) 7) dialog: A word with you, lad.
+28) 0) text: Dudley pours two drinks, hands one to Exley.
+28) 1) dialog: To the memory of your father.
+28) 2) text: They drink.  Exley looks to a photo on the wall. Himself as a ten-year-old standing between Dudley and his father Preston, both in police uniform.
+28) 3) dialog: The day he got the Medal of Valor. A simpler time.
+28) 6) text: Exley raises his glass, but Dudley just watches him.
+28) 7) dialog: That was his favorite toast. (a beat) I saw the test results on the lieutenant's exam.  You placed first out of twenty-three.
+28) 9) dialog: You'll make lieutenant inside a year.  Patrol division?
+28) 11) text: We can see Dudley doesn't approve.
+28) 12) dialog: You don't have the eye for human weakness to be a good detective. Or the stomach.  You're a political animal, Edmund.
+28) 13) text: The criticism stings, but Dudley's a straight shooter.
+28) 15) dialog: Am I...?  Would you be willing to plant corroborative evidence on a suspect you knew was guilty in order to ensure an indictment?
+28) 17) dialog: Answer yes or no.
+28) 19) dialog: Would you be willing to rig crime scene evidence to support a prosecuting attorney's working hypothesis...?  Yes or no, Edmund.
+28) 21) dialog: Would you be willing to beat confessions out of suspects you knew to be guilty?
+28) 23) dialog: Would you be willing to shoot hardened criminals in the back to offset the chance --
+28) 25) dialog: Then for God's sake, don't be a detective.  Stick to assignments where you won't have to make those choices.  Patrol, Internal Affairs, but not the Bureau.
+28) 27) dialog: At least get rid of the glasses. I can't think of one Bureau man who wears them.
+35) 0) text: The CHIEF sits behind a desk in a four-star uniform. Dudley Smith sits to his left, D.A. Ellis Loew to his right.  Seen earlier at the Mickey Cohen press conference, Loew is the only civilian.  Bud White stands across from them.  There to be judged.
+35) 13) text: Turning, White shoots the mirror a stiff middle finger as he makes his way out.  Dudley Smith hides a smile.
+35) 18) text: Dudley gives Exley a look.  He's angry with him.
+35) 19) dialog: Stensland's a disgrace.  Straight D fitness reports from every C.O. he ever served under.  But White is a valuable officer.
+35) 21) dialog: No, Edmund.  He's a man who can answer yes to those questions I ask you from time to time.
+35) 26) text: Exley seizes the moment, going over Dudley's head.
+35) 28) text: The Chief and Dudley exchange a look.  Neither approves.
+35) 32) dialog: That'll be hard to come by.  The men hate a turncoat.
+35) 35) text: As Exley starts out, Dudley pulls him aside, speaks low.
+35) 36) dialog: You'll reap the benefits, but are you truly prepared to be despised within the department?
+35) 38) dialog: So be it.
+35) 41) dialog: Sergeant, we'll get right to it. Nine civilian witnesses have identified you as hitting Ezekiel Garcia.
+35) 49) dialog: John, I doubt you've ever drawn a stupid breath.  Don't start now.
+37) 6) text: A hand on Bud's shoulder.  He turns to see Dudley Smith.
+37) 7) dialog: Lad, may I have a word with you?
+37) 9) dialog: Say goodnight to your friend and join me by those back tables.
+37) 10) text: Dudley starts off.  Bud turns back to Redhead, but she's already talking to a sailor.
+37) 13) dialog: He made his play amd he got what he wanted.  They're making him a detective.
+37) 15) dialog: Call me Dudley.
+37) 17) dialog: Lad, I admire your refusal to testify and your loyalty to your partner.  I admire you as a policeman, particularly your adherence to violence as a necessary adjutant to the job. And I am most impressed with your punishment of wife beaters.  Do you hate them, Wendell?
+37) 19) dialog: And for good reason judging from what I know of your background.
+37) 20) text: Bud looks back over.  Dudley's getting too personal.
+37) 22) dialog: It would've happened years ago if you hadn't carried him.  Why the loyalty, Wendell?
+37) 24) dialog: Your partner's through. Department scapegoat on the Chief's orders.  He's been billed, he'll be indicted and he'll swing.
+37) 26) dialog: Don't underestimate his skills. As a politician he exceeds even myself.  But the department needs smart men like Exley and... direct men like yourself
+37) 28) dialog: Wendell, I want you to come to work for me.
+37) 31) dialog: They're yours.  Take them.
+37) 33) dialog: Four of the defendants recanted their testimony.
+37) 35) text: Dudley dismisses the question with a wave of his hand.
+37) 36) dialog: I need you for an assignment the Chief's given me the go-ahead on. A duty few men are fit for, but you were born for.  You'll be working out of Homicide.
+37) 40) dialog: Will you work for me?
+37) 42) dialog: How what, Wendell?
+37) 44) text: Dudley lays brass knuckles on the table.  They're chipped, caked with blood.
+49) 2) text: Dudley steps into the fray.  He helps Exley to his feet.
+49) 3) dialog: You should stay away from a man when his blood is up.
+49) 5) text: Four cops are genuinely having trouble holding Bud back. Dudley watches with something bordering on admiration.
+49) 6) dialog: Then maybe you should stay away from him all the time.
+54) 0) text: Patrolmen hold back a swarm of reporters and rubber- neckers.  HORNS BLAST.  Motorcycles run interference for meat wagons cut off by the crown.  As Ed emerges, reporters surge, shout questions.  Exley hurries past, finds Dudley in command and barking orders.
+54) 2) dialog: Edmund, you don't want it and you can't have it.
+54) 4) dialog: It's mine.  I'll make you my second in command.
+55) 0) text: Forensics Chief RAY PINKER walks Exley and Dudley through.
+55) 3) dialog: Why?
+55) 5) dialog: (to his adjutant) Get on it.
+55) 8) text: Exley and Dudley react, look at each other.
+56) 0) text: Set in a no-man's-land of bulldozed homes.  A sign proudly announces the impending arrival of the freeway. The motel is surrounded by a barbed-wire fence. Abandoned but for a pair of LAPD cars and a light burning in room 6. An unmarked pulls up and Exley and Dudley step out.  They start forward, but a SCREAM inside 6 stops Exley short.
+56) 1) dialog: With Mickey Cohen in prison, Los Angeles is organized crime free. The Chief wants it to stay that way, Edmund.  The means are not for the weak-hearted.
+57) 0) text: Bare.  A table and chair bolted to the floor.  A tough FLAT-NOSED GANGSTER is cuffed to the hot seat.  On the table are a .45 and a fat roll of $100 bills. Breuning and Carlisle watch as Bud White delivers a couple of short, stiff body shots.  Flatnose is not used to being on the receiving end.  All the same, we get the idea Bud's a bit reluctant. Bud's back is to Dudley and Exley who enter behind him.
+57) 1) dialog: Come, Wendell, you can do better than that.
+57) 2) text: Bud turns, sees Exley and Dudley.  A beat.  As Bud looms over Flatnose, the gangster babbles.  Snitch-frenzied.
+57) 6) dialog: We know all that, lad.  Tell us, who do these shooters work for?
+57) 8) dialog: We want you to go home. (to Breuning) Uncuff him, Michael.
+57) 9) text: Dudley turns to Exley.
+57) 10) dialog: Mr. Sifakis is a known loan shark from San Francisco.  He arrived this afternoon at Union Station. Looking for business opportunities in our fair city.  An organized crime associate in need of re- education in the ways of polite society.
+57) 13) text: Exley dives for cover, but the other four cops just stand there.  Dudley looks down on the floor at Exley.
+57) 14) dialog: It's part of the play, Edmund.  A sincerity test.
+57) 16) dialog: (to Breuning) Sit him back down.
+57) 17) text: CLICK, CLICK.  They shove Flatnose back in the hot seat. Dudley offers a hand to Exley, helps him to his feet.
+57) 18) dialog: Wendell, you need to accompany Detective Lieutenant Exley on official police business.  I'll finish up here.
+62) 0) text: The room buzzes, jammed to the rafters with every detective standing ready.  The Chief waits as Dudley Smith takes the mike, holds up an L.A. Times headline.
+62) 1) dialog: 'Nite Owl Massacre.'  Hyperbole aside, this is a heinous crime that requires a swift resolution. The public will demand it and this department will provide it.  Six victims.  One of them, one of our own -- Dick Stensland. (as the cops react) As it happens, he was a Nite Owl regular.  In the wrong place at the wrong time.
+62) 3) dialog: Robbery looks like the motive.  We have rubber glove prints on the register and preliminary forensics strongly lean toward a trio of gunmen.  We do have one hot lead, so listen well.  Three Negro youths were seen last night discharging shotguns in the air at Griffith Park. A park ranger I.D.ed them as driving a 1948 to 1950 Mercury Coupe, purple in color.  An hour ago, a canvassing crew found a news vendor who saw a purple Merc Coupe parked across from the Nite Owl around 3:00 A.M.
+62) 4) text: The room goes loud, a big rumbling.  Dudley holds up a list.
+62) 5) dialog: The D.M.V. worked all night to get us a registration list on '48 to '50 purple Mercs.  There are 142 registered to Negroes in L.A. County.  Fifty two-man teams will shake three names apiece.  Hot suspects you'll bring here. Interrogation rooms have been set up.  They'll be run by Lieutenant Edmund Exley.  Hollywood Squad.
+73) 0) text: Dudley watches intently as Ed Exley skims a report, memorizing names and dates.  Jack and other brass are also here along with a stenographer.  So's Bud.  One of these guys killed Stensland.  Through tinted glass, the three suspects in three different rooms.
+73) 3) dialog: Ed, I want confessions.
+73) 5) text: As Exley steps into the #1 room, Jack joins Dudley.
+73) 7) dialog: I think you'll be surprised what Edmund's capable of.
+73) 53) dialog: Masterful, Edmund.  Your father would've been proud. (pointing) This one's on the verge.
+73) 74) dialog: Don't get sidetracked.  Stay with the Nite Owl.
+73) 88) text: Jack turns to Dudley.
+74) 0) text: A four cordon.  They coast up to a GRAY CORNER HOUSE. Dudley Smith behind the wheel of the lead cruiser.  Bud White rides shotgun, reloading his revolver.
+74) 2) dialog: You've got it, Wendell.
+74) 4) dialog: We're going through the front.
+75) 9) text: Bud goes after Exley, but ten hands pull them apart. Dudley on Exley.  Four cops genuinely having trouble on Bud. And as if things couldn't get crazier, shouts from the cops on the street.  POLICE RADIOS CRANKED UP.
+80) 0) text: Exley returns to grudging respect.  His white shirt flecked with blood, he's clapped on the back by Dudley who dubs him "Shotgun Ed."  Exley doesn't enjoy it.  He's numb, stumbling along.  As he notices the blood on his hands...
+81) 0) text: A coffin is lowered into the ground.  A WIDOW leans on the Chief's arm, accepts a tri-folded American flag from Dudley Smith.  Exley drops a handful of earth on the casket, has trouble getting the wet dirt off his hands.
+93) 2) text: Exley steps up.  The Chief hangs a gold medallion around his neck.  Flashbulbs pop as the two men shake hands. Exley then accepts a handshake from Dudley.  The policemen stand on cue, applaud without enthusiasm. Dudley lifts the medal from his chest.
+93) 3) dialog: Your father would've been proud.
+93) 4) text: Exley uses the noise to have aprivate chat with Dudley.
+93) 6) dialog: There always are.  But there are also three men and three guns. Matched forensically.  A few loose ends don't matter.
+93) 8) text: Dudley puts an arm around Exley's shoulder, smiles out as more bulbs flash.
+93) 9) dialog: Breaking a big case sticks you in a whirlwind.  A little self-doubt? It's natural.  Just keep it inside.  Between you and you.
+95) 0) text: Screams.  A cauliflower-eared Cleveland mob enforcer on the hotseat. Breuning works him with a rubber hose as Dudley asks unanswered questions.  Bud watches, revulsion growing.
+95) 1) dialog: Where did you intend to start. Prostitution?  Gambling? (no answer) Go back to Cleveland, lad.  This is the City of Angels and you haven't got any wings.
+97) 0) text: Hair dripping wet, Bud makes it to his car.  The tires spit gravel as he tears away.  Dudley appears in the doorway, watching curiously.  As cauliflower continues to SCREAM...
+135) 0) text: Jack knocks at a darkened house.  The porch lights come on.  The door opens to reveal Dudley Smith in his bathrobe.
+135) 1) dialog: John Vincennes.  It's three A.M., lad.
+135) 3) dialog: Lucky for you that my wife and four fair daughters are at the beach in Santa Barbara.
+136) 0) text: Jack sits at the table while Dudley makes coffee.
+136) 2) dialog: A disgrace as a policeman. Straight D fitness reports from every C.O. he ever served under. What about him?
+136) 4) dialog: What's this all about, lad?
+136) 6) dialog: You're Narco, lad, not Homicide. And since when do you work with Edmund?
+136) 8) dialog: (smiles, then...) Don't start trying to do the right thing, John.  You haven't had enough practice.
+136) 9) text: Dudley walks over, hands Jack his coffee.
+136) 10) dialog: Have you discussed this with anyone else, John?
+136) 12) dialog: Not even with Exley?
+136) 13) text: Jack shakes his head.  Dudley raises a REVOLVER.  He FIRES it at point-blank range, right into Jack's heart. Jack hits the floor, his cheek pressed flat on the linoleum. Jack opens his mouth to speak.  His lips form the words, but no sound comes out.  Dudley crouches down beside him.
+136) 15) text: Dudley leans low, gives Jack an ear.  As he dies...
+136) 17) text: Dudley frowns in ignorance at the name.
+137) 0) text: Nothing mobilizes the police like losing one of their own.  Dudley is at the podium along with Exley.  Dozens of detectives take notes, including Bud White.
+137) 1) dialog: Sergeant Vincennes' body was found in Echo Park at ten o'clock this morning.  Killed by a single .38 round to the heart.  One of our own, gentlemen.  We cannot tolerate it.  Justice must be swift and merciless.  That's all.
+137) 2) text: As the men move odd, Dudley approaches Exley.
+137) 3) dialog: Edmund, a word with you.  We received a tip this morning.  Did Vincennes ever mention the name Rollo Tomasi?
+137) 4) text: Exley tries to look like he's thinking as Jack calls from the grave.  Screaming the name Dudley!
+137) 6) dialog: Anonymous.  Probably nothing.
+137) 7) text: As Dudley moves off, Exley watches him go.  Scared.
+138) 0) text: Bud looks over as Dudley sits down across from him.
+138) 1) dialog: You're perplexing to me these days, Wendell.  You're not your old, cruel self anymore.  I need proof that the extracurricular work I had planned for you remains within your grasp.
+138) 3) dialog: I've long been involved in containing hard crime in such a way that myself and a few colleagues might someday enjoy a profit dispensation.  That day will soon be here and you'll share handsomely.  Grand means will be in our hands, Wendell.
+138) 5) dialog: Imagine crime limited to the criminal element who perpetrate it. Imagine the means to keep the nigger filth sedated.  But don't stop there.  Extrapolate.  Imagine the police in control.  It's big, lad.
+138) 7) dialog: You have your extracurricular secrets, I have mine.  We'll hold a clarification session soon.  For now, I need your fearsome old habits at the Victory Motel. We're going to brace a man who may know who killed Jack Vincennes. Can I count on you?
+141) 0) text: Sid Hudgeons is cuffed to the hot seat.  Dudley sits across from him.  Dudley's henchman Breuning looms.  Bud enters.
+141) 1) dialog: This is Mr. Hudgeons, Wendell.
+141) 3) dialog: It's for your own safety.  Now what can you tell us about Sergeant John Vincennes?
+141) 7) dialog: But you were business associates?
+141) 11) dialog: Alright.  We'll drop that line for now.  Next topic.  Please comment on Pierce Patchett.
+141) 14) text: Dudley sighs, looks to Bud.
+141) 15) dialog: Wendell.  I want full and docile cooperation on all topics.
+141) 18) dialog: And?
+141) 21) dialog: Reciprocity, Mr. Hudgeons, is the key to all relationships.
+141) 24) dialog: And?
+141) 27) dialog: Wendell!
+141) 28) text: Bud can't hear him.  He uprights the chair one-handed. As his fist cocks back, he's restrained by Breuning and Dudley.  This is no act.  They can barely hold Bud back.
+143) 0) text: Dudley and Breuning watch from the door.
+143) 1) dialog: I wouldn't trade places with Edmund Exley right now for all the tea in China.
+143) 4) text: Dudley and Breuning stare at him.  A bit grimly.
+143) 8) text: As Hudgeons protests, Dudley slaps a hand over his mouth.
+143) 9) dialog: Hush-hush...
+146) 0) text: Drawers are open.  Files are everywhere.  Exley's reached the end of the line.  As he looks through one last file, he finds a stack of official photos.  Then he stops short.  There's a photo of four cadets and an academy instructor. Two of the cadets are IDed as Turner Meeks and Dick Stensland.  The instructor is Dudley Smith! Exley looks up at the sound of FOOTSTEPS and Bud is there.  Fury.  He slams Exley, knocks him flat. Bud's here to kill him.  He hauls Exley up, pummels him, then throws him over the table.  Then up into a wall. Plaster cracks.  Bud's on some gonzo animal plane.  Bud strangles him.  Exley gags.  It'll be over in moments. Until Exley's flailing hands finds Bud's .38.  Yanking it from his waistband, Exley smashes Bud in the forehead. Bud reels.  But, blind with rage, he moves back in only to have the barrel of the .38 placed right between his eyes.
+158) 0) text: Exley is forced down as well, lying flat as plaster rains down. The door frame splinters as more Dudley men charge in. Four men with rifles.  One is Patchett's Burly Bodyguard. They spot Exley lying there.  Hushed whispers as they approach:  "Dead meat."  "Be careful."  Kicks in the side.  The men look at each other, sneer. Exley jerks a foot.  The foot man stumbles as Exley spins around SHOOTING.  FIRING the .45 and his own .38.  All four men go down.  Exley stands, digs into his pocket to reload. Bud scrambles back through the window.  Exley looks over and smiles as Bud reloads the shotgun.  It's dead quiet.
+158) 2) text: At that instant, Dudley steps through the bathroom door. He's got Exley dead to rights.  As he squeezes the trigger, Bud leaps forward, pushes Exley hard to the ground. The SHOT passes through Bud's back by his left shoulder blade.  It spins him around.  A SECOND SHOT to the stomach slows him to a walk as he charges Dudley.  A THIRD ROUND SHATTERS Bud's jaw, but still he comes. Driven by rage, his hands reaching for Dudley's throat. He even gets hold before a FOURTH SLUG tears his chest. Bud falls hard. Dudley swings his aim to Exley who's just managed to shake the cobwebs of being flattened by Bud.  A frozen moment.
+158) 3) dialog: I'm loathe to kill my brother officers, Edmund.
+158) 5) dialog: Jack was a shame, but Dick Stensland had the audacity to try to sell me my own heroin.  Through his whore girl friend.  I sent him to make the buy.  The rest is history.
+158) 7) dialog: A vacuum, Edmund.  That's what we have in Los Angeles.  Sending Mickey Cohen up created it.  My containment work maintained it. Certain photographs guarantee it. Organized crime has been held back, but there's still a demand for the services it provides.
+158) 9) dialog: Absolutely.  Prostitution and gambling are victimless crimes. The heroin we'll run down to the coloreds.  Anesthetize them.  As long as it's not a middle class problem, no one will care.  It's still a crime free city... for respectable people.
+158) 10) text: Dudley aims the .38, cocks back the hammer.  We hear DISTANT POLICE SIRENS.
+158) 11) dialog: This isn't politics, Edmund. There won't be winners and losers when it's over...
+158) 12) text: Dudley doesn't see Bud stir, reach into a pocket.
+158) 13) dialog: Just the living and the dead. It's always been that way in the Bureau.  You should've realized that before you became a detective.
+158) 14) text: It's over.  Dudley's finger tightens on the trigger.  But Dudley screams as Bud buries a switchblade into his left calf.  It took all Bud had left.  As he collapses... Dudley wails; Exley dives for Bud's shotgun.  Dudley FIRES, misses.  A wild SHOTGUN BLAST takes out half the wall.  Dudley stumbles out the door.  SIRENS BLARE.
+159) 0) text: Dudley drops his gun as the cruisers stream down.  Exley steps out behind him, but doesn't drop the shotgun.  The two of them are bleached white by headlights. Dudley raises his badge over his head.
+159) 1) dialog: We're policemen! (winks) Let me do the talking.  They'll make you Chief of Detectives.
+159) 4) dialog: Why not, lad?  Absolute justice?
+159) 6) dialog: Really?  Would you be willing to rig crime scene evidence to support a prosecuting attorney's working hypothesis?
+159) 7) text: Exley doesn't answer.  Dudley smiles.
+159) 8) dialog: Would you be willing to beat confessions out of suspects you knew to be guilty?
+159) 9) text: Exley glares.  Laughing, Dudley brushes by, limps toward the gathering policemen.
+159) 10) dialog: Are you willing to shoot hardened criminals in the back to offset the chance they'll --
+159) 11) text: The SHOTGUN BELCHES flame.  Dudley goes down, shot in the back.  Exley drops the gun, raises his hands over his head.
+168) 8) dialog: Fabled L.A. Cop Dies Defending City from Organized Crime!

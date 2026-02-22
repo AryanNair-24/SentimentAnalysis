@@ -1,0 +1,29 @@
+9) 1) text: Mark stands in his building's elevator. The doors open an FRANK, mid-forties and bald, enters.
+9) 3) dialog: Hi Mark. How's it going?
+9) 7) dialog: I spent the whole night throwing up pain killers because I'm too afraid to take enough to kill myself.
+9) 8) text: The elevator doors open on the lobby. Mark nods at Frank.
+9) 12) dialog: Bye.
+37) 1) text: Mark, exhausted from his long night, waits for the elevat to arrive. The elevator doors open and Frank, the depress neighbor, steps out.
+37) 5) dialog: Mark. How's it going?
+37) 8) text: Frank stops and turns around, this is a different respons
+37) 10) dialog: Really?
+37) 14) dialog: Awful. I was doing some internet research last night about suffocation suicide. I'm probably going to give that a try tonight.
+37) 18) dialog: Bye.
+37) 19) text: Mark gets in the elevator, Frank walks away. A short beat Mark exits the elevator and yells after Frank.
+37) 22) text: Frank, halfway out the building, turns around.
+37) 24) dialog: Yeah?
+37) 30) text: Frank thinks this over.
+37) 32) dialog: Why not? I'm miserable. And no one will care.
+37) 36) dialog: You're a loser, though.
+37) 40) dialog: They are?
+37) 44) dialog: My job's actually fine.
+37) 48) dialog: What about the depression?
+37) 51) text: Something changes in Frank. A slight smile comes over him
+37) 53) dialog: Really?
+37) 56) text: Frank laughs.
+37) 61) dialog: Wow. Man, and that suffocation thing really seemed like a good idea.
+37) 65) dialog: Okay. Well, my night's open now. You want to hang out later?
+37) 68) text: Frank's smile fades a tiny bit.
+37) 72) dialog: I'll see you after work.
+37) 75) text: Mark gets back in the elevator to the sound of Frank laug to himself as he exits the building. We hold on Mark for moment as he smiles and nods his head.
+38) 30) text: Mark and Frank are watching TV in Mark's apartment. The t of them are drinking beers and having a good time watchin television.

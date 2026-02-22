@@ -1,0 +1,323 @@
+6) 0) text: Winterscape:  Dotted with ice floes, the Potomac wends through the capitol city, banks iridescent with snow, morning water calm.  There's an almost hallowed beauty to it all.  Soon we pick out... A spot of day-glo.  Coming out of the mouth of morning. Overtaking the floes. CLOSER on JORDAN O'NEIL.  She pushes her flat-water kayak downriver, paddling hard and clean, making good time. Gliding through the graceful arches of the Arlington bridge, she passes... Cars overhead.  Grid-locked by snow conditions. In seconds Jordan paddles clear, leaving the traffic behind as she heads toward the Washington Monument. Something BURRS from a life-vest pocket.  She rips throug velcro to free a cell phone.
+6) 1) dialog: Lieutenant O'Neil.
+6) 3) dialog: (checking dive watch)
+7) 5) dialog: Do we know it's him using the beacon?  Not a decoy?
+7) 7) dialog: Chances of recovery?
+8) 0) text: Riding the current, Jordan blows a troubled sigh as she accesses the file of her brain.  Drifting past the Jefferson Memorial:
+8) 1) dialog: North Korean beaches are the best protected, most heavily monitored in the world.  The civilian population is so propagandized that it acts as an Early Warning system.  Extraction team has to be small and silent -- I'd go with Seals over Delta Force. Problem is, don't want to hold a conventional sub off-shore for target practice.  Where's The Polk?
+8) 4) dialog: (an inspired beat)
+8) 7) dialog: Quick-hit technique used by Capone. Rigged a getaway car with running boards and handles.  All his guys had to do was jump on and take a ride.  Check the files -- DPRK-57 -- I doped it out as a contingency plan:  Seal Team infiltrates, picks up the package, links up with recovery sub.  But don't waste time opening and closing hatches.  They just grab the periscope and hang on for neutral waters. A dubious beat.
+8) 9) dialog: Only four minutes to neutral waters, sir.  Why not? Silence on the radio:  They're discussing her scenario privately.  During, Jordan's kayak reaches the junction o the Potomac and the Anacostia rivers.  On the far bank lies... Naval Intel Center (N.I.C.), bristling with communication antennae. Jordan stares at the complex, waiting for a response.
+8) 11) dialog: No, thank you, sir.
+9) 0) text: Bundled in topcoat and scarves, military and civilian employees transit a security station on their way inside. Presently Jordan appears -- wearing a wetsuit and balancing a collapsed kayak on her head.  She flashes a photo-badge and double-times inside.
+10) 0) text: Jordan exits a locker room.  Smoothing out her Khaki uniform, she heads down a broad corridor with cipher-lock doors.  Falling in step:
+10) 2) dialog: Thank you, sir.  We hear back from the Pentagon?
+10) 5) dialog: Hate this part.  Just sweating it out on the sidelines.
+11) 2) dialog: (with a look)
+11) 3) text: Is this my glory, sir? On the upper walkway, a frazzled N.I.C. SECRETARY appears.  She spots Royce and Jordan below.
+12) 3) dialog: Thank you, ma'am.  Um, may I ask what this is regarding?
+13) 0) text: On the phone, Jordan glances around.  Co-workers mull within earshot.  Those out of earshot post E-mail memos o Jordan's computer:  "Moving up in life."  "I want a full report."  "Don't tell her who you really voted for."
+13) 2) dialog: "Coronado."
+13) 4) dialog: I know that, sir.  Ma'am.  It's just that... Beggin' your pardon, Senator, but... do you understand that this involves combat training?
+13) 6) dialog: Captain Dwyer.  Technically.
+13) 8) dialog: Uh, question, ma'am.
+13) 10) dialog: Would I be the only one?  The only woman?
+13) 12) dialog: Well, shit-a-doodle-do...
+15) 1) dialog: ... well, I survived Basic Training and three brothers -- so I know how to fight.  What scares me are the sexual politics.  I don't want to be turned into some poster girl for women's rights. CAMERA FOLLOWS as the naked man carries a steaming mug through the house...
+16) 0) text: ... and sets it down beside Jordan, languishing in a tub. Snow builds on a window sill.  Facing Jordan, the man slides into the tub.
+16) 2) dialog: Just like you would be.
+16) 4) dialog: I take it you don't either.  Feet. Dutifully, Royce massages her feet.
+16) 6) dialog: Royce.  We're the same age, we started the same time -- and now you're sitting in the upperdecks while I'm still down in the bullpen. What does that tell you about the Navy?
+16) 9) dialog: You need operational duty to really advance... you need combat training to go operational... yet combat training is off-limits to people with tits.  I'm topped out at Intel. Forget the glass ceiling -- I'm beating my head on a big brass ceiling.
+16) 11) dialog: This has nothing to do with you.
+16) 14) dialog: Get your dick back here.  It has everything to do with you.
+16) 16) dialog: Sorry.  But after our days... (a thoughtful sip)
+16) 19) dialog: Wai', wait.  What happens if it works?  Four months of training, three years of operational duty. What then?
+16) 21) text: I don't feel like doing an option paper on the rest of my life, Jordan.  Maybe we should just let it happen.
+16) 22) dialog: Which is guy-speak for...
+16) 24) text: Sounded lame as soon as it came out of my mouth.  But I'm trying to be honest, okay?  Three years is a long time.  Don't ask me to predict how I'll feel then, Jordan, because I don't know.  And either do you.
+16) 25) dialog: You know, right up until you said that -- I thought I did know. Wounded, she gets out.
+16) 27) dialog: Thank you, Royce.  It was shaping up like such a tough call -- and then you go and make it so goddamn easy. Really, thank you so much. She punches into a robe and leaves.  Royce considers drowning himself in the tub.
+17) 0) text: Jordan drives a top-down Mustang across the sweeping Coronado Bridge, cityscape behind her, naval base ahead. A flock of pelicans pace Jordan alongside the bridge. Suddenly two NAVY HELOS BLAST overhead, scattering the pelicans.
+18) 0) text: On base, Jordan carries a gunnysack across an asphalt courtyard.  The is "the grinder," reminiscent of a gladiator's arena.  She notices at one end... A silver ship's bell.  Hung prominently.
+19) 1) dialog: Excuse me, lieutenant.  I was told this is where I check in. A DUTY OFFICER looks up to find Jordan across a counter. In no particular hurry, the duty officer makes his way over to check Jordan's orders.
+19) 3) text: So you're the one. Hearing, other workers look up.  Among them is a female ensign, KATHY BLONDELL -- no makeup, no nail polish, no concession to her sex.  Throughout, she'll watch Jordan with more than passing interest.
+19) 4) dialog: Still don't have my bearings yet. Direct me to the officer's quarters? The duty officer stamps her paperwork, returns it with room assignment and keys.
+19) 6) dialog: Fine.  And the officer's quarters?
+19) 9) dialog: Thank you, ensign.
+20) 4) dialog: Thank you, sir.
+20) 6) dialog: I'm fine, sir.
+20) 8) dialog: Thank you, sir.  But I expect a certain amount of pain. More stock-taking.  Is he looking at her hair?
+20) 9) dialog: Barber was my next stop, sir. Would've had it regulation sooner, only --
+20) 11) dialog: Really, I have no problem with --
+20) 13) dialog: None at this time, sir.
+20) 15) dialog: Sir, I just want you to know... I'm not here to make a statement.  I don't want to make men look foolish. All I care about is completing the training and getting operational experience -- just like everyone else, I suspect.
+22) 5) text: "Gentlepersons." Jordan flinches.
+23) 0) text: START on boots, crashing through shallow surf, spraying water.  We assume this is a routine beach run -- until VIEW RISES to reveal... Telephone poles on their shoulder.  Working in groups of 10, trainees labor under 300-pound poles.  Jordan, six inches shorter than most, looks like Atlas carrying the weight of the world.  But she's doing it.
+23) 20) dialog: We better get a medic over --
+24) 5) dialog: Thank you, sir.  But I like these just fine.
+24) 7) dialog: I'll try anyway, sir.
+26) 0) text: Blondell is ending her shift.  She shoulders a purse and pauses at a window, seeing... The trainees shuffling into formation like the living dead.  Jordan is still among them.
+29) 0) text: QUICK CLOSEUPS of Miller, Slutnik, Wickwire, turning to watch someone cross the grinder.  At least we know who it isn't. CLOSE on the Chief as the BELL RINGS THREE TIMES.  He turns around to find... Stamm at the bell. For the first time, the Chief looks dead-bang at Jordan. Was he expecting her?
+30) 0) text: Dead-ass tired, Jordan slides her tray down the line, piling on food that means nothing more than raw calories. She heads for... A table of trainees, one spot open.  Seeing her coming, the guys shift position.  Suddenly the table is full.
+31) 0) text: Jordan walks in a bathrobe, toweling her hair dry.  She fishes for keys at her door.
+31) 3) dialog: Well, now I feel so much better.
+31) 5) dialog: Whose orders were those?
+31) 8) dialog: And how do you know that?
+31) 10) dialog: I didn't know they let you try again.  Especially at your age.
+32) 0) text: Two beds.  Matching lockers.  A desk, a chair, a mirror. All overwhelmingly dull. Jordan drops the robe off her shoulders to take inventory of her body.  Both sides of her neck are bruised from the phone-pole run.  Her back and thighs are sand-burned. Mirror cuts abound.  She's already a mess. Jordan uncaps some cologne.  It's a vestige of her old life she's not going to surrender.  She sniffs.  Savors. Dabs.  Looks back in the mirror... And breaks out laughing.  It's like dropping a rose in a cesspool.
+33) 7) dialog: (mortified)
+33) 11) dialog: I can make this wall without --
+33) 17) dialog: Say again, sir?
+33) 20) dialog: Chief, sir, I don't understand why --
+33) 23) dialog: What "all females"?  If I'm the only --
+34) 0) text: Dressed in bathrobe, Jordan reaches her door.  She pauses to check... The outdoor table.  No visitors tonight.
+35) 0) text: Jordan pushes inside -- and stops when she sees the littl two-step platform.  That awful crutch.  Someone has put i beside her bed. Jordan wheels around to check...
+37) 0) text: Hastily dressed, Jordan marches across the base.  Her march turns into an angry run as she cuts through parking lots... jumps hedges... and finally reaches...
+38) 0) text: An on-base bungalow.  Jordan bangs on the front door unti the C.O.'S scowling face appears.
+38) 1) dialog: Pardon the hour, sir.  But you told me to come to you immediately if I felt I was being mistreated in any way.
+39) 3) dialog: It's you, sir.  And it started the day I came here.
+39) 6) dialog: It's this double-standard, the separate quarters, the deferential treatment.  It's how you pulled out my chair and nearly served high tea the first time we met.
+39) 8) dialog: I can't afford civility, sir.  How am I supposed to fit in with these guys when you've got me set up as an outsider?  Even if I make it under these rules, I still lose, because there'll always be a flag in my file -- "Yeah, she made it, but..."  I mean, really -- why didn't you just issue me a goddamn petticoat to wear around the base?
+39) 10) dialog: Pardon?
+39) 12) dialog: I think you've resented me from the start, sir. Now, finally, her opponent steps into the ring.  And he's a bare-knuckle brawler.
+39) 16) dialog: No, sir.
+39) 18) dialog: The shape doesn't bother me.  It's just that goddamn rotten stench. A dangerous beat -- before the C.O. disengages.
+39) 21) dialog: Same rules for everyone, sir.
+39) 23) dialog: Across the board, sir.
+39) 25) dialog: Wouldn't dream of it, sir. A deciding beat.
+39) 27) dialog: So I'll get a fair shot?
+40) 0) text: Jordan gets her hair cut to regulation length.  It's over in seconds.
+41) 0) text: Jordan slaps down old room keys and new orders.  Blondell scans the paperwork with deepening concern.
+42) 0) text: Jordan tosses her belongings into a laundry bag.  She slings the bag over her shoulder, boots aside the hated two-step on her way out...
+44) 2) dialog: Your new roommate. Slutnik's face curdles.  Jordan dumps her bag on an open bunk and starts unpacking.
+44) 3) dialog: Anybody usin' these drawers here?
+44) 5) dialog: Funny, the C.O. says I can. She slaps orders on his chest, continues to unpack.
+44) 7) dialog: That your desk?  I'll take this one.
+44) 10) dialog: (whirling on him)
+44) 11) text: Listen, Sex Ape.  I'm here to stay. And if you don't want me for a roommate or classmate, you got two options -- move out or ring out. End of file. Slutnik stalks out.  Jordan fires a look at the innocent bystander here, McCool.  He was studying at his desk when the fireworks began.
+44) 12) dialog: What about you, McCool?  Any problem with the room assignment? McCool -- an imperturbable black lieutenant -- just goes back to his manuals.
+46) 6) dialog: Just do it, okay?
+46) 8) dialog: Come on, Montgomery...
+46) 10) dialog: (in his ear)
+46) 13) dialog: So it really has nothing to do with actual brain size?
+46) 15) dialog: Well, Flea, I appreciate the respect you just showed me.  But I don't need it and don't want it -- not that kind of respect, anyway.  It's just gonna hurt us both, okay?
+46) 17) dialog: Do that.
+46) 21) dialog: Hey.  You okay, Flea?
+46) 36) dialog: (in disbelief)
+46) 39) dialog: What, you gonna give it all up for a maple twist?  How dumb you gotta be? That's exactly what they -- Suddenly the line rips apart.  It's Miller, breaking for shore.
+46) 48) text: Everybody out. With a SHIVERING CHEER, the trainees stampede ashore, grabbing blankets, trading body-bumps and high-fives. Jordan gets swept up in the esprit:  They've conquered a common enemy.  But when she tries to get high-fived... The guys turn their backs.  It's a cold rebuff, worse the any water. HOLD TIGHT on Jordan.  Shivering.  Watching the guys drif away.  Hating them.
+46) 50) dialog: Thanks, Wick.
+48) 0) text: Blondell crosses the grinder with another female ensign, tall and striking.  Passing the bell, Blondell checks on... The helmets lined up beneath.  A dozen already. An O.S. CADENCE CALL -- then, led by Wickwire, trainees double-time into the grinder, uniforms drenched from a beach run.  Among them, still, is Jordan.  It brings a Mona Lisa smile to Blondell's face.
+48) 4) text: Barkin' up the wrong dress, Slutnik. You ain't their type. Overhearing, Jordan snaps a look at Blondell, only now realizing.  Their eyes meet.
+51) 0) text: The C.O. double-takes as Jordan enters:  She's sun-burned wind-burned, sand-burned, chapped and chaffed, bloody and soggy.  Her dive suit leaks onto the floor.
+51) 1) dialog: See me, sir?
+51) 9) dialog: (catching C.O.'s eyes)
+51) 12) dialog: Uh, ma'am.
+51) 18) dialog: Sir, I want you to know that I had nothing to do with any of this.  Not this article, not --
+51) 22) dialog: (backing out)
+53) 4) dialog: Ah, c'mon...
+53) 9) dialog: Fine by me, sir!
+58) 0) text: Jordan and Flea fill sand bags to shore up the walls of their hide-site.  England and McCool shovel back to back.
+58) 4) dialog: You're kiddin' me. Jordan jumps in the hole, ready to take over shoveling.
+69) 0) text: Jordan resurfaces.  Treading water, she scans for... Seafox.  It makes a hard turn in the water and starts back.  The recovery rig -- a big flexible loop -- is lowered into position. Still hauling ass, Seafox picks up the trainees in revers order -- England, Slutnik, Cortez.  They each stab an arm through the passing loop...
+71) 0) text: Jordan.  She braces as best she can.  As SEAFOX THUNDERS past, she stabs for the loop... And snags it with her hand.  But only her hand. Hanging on grimly, Jordan drags face down in torrential water.  Her mouth gropes for clean air but can't find it. If she doesn't let go soon, she'll drown.
+72) 0) text: At the stern, the Chief spots Jordan bobbing up in the boat's wake.
+73) 0) text: COUGHING up water, Jordan watches Seafox speed on toward McCool and Flea.  They make textbook recoveries.  She's the only one who couldn't cut it.
+74) 0) text: Head hung, Jordan showers alone.
+74) 3) dialog: Permission to get dressed, sir?
+74) 5) dialog: (moving closer)
+74) 8) dialog: I see.  So when a man tries to rescue another man, he's a hero. But when he tries to rescue a woman, he's gone soft.
+74) 11) dialog: It also seems like a problem with the men's attitude, sir.  So maybe you should be sniffing around their shower room instead. She shoulders past.  The Chief gives her a few steps before dropping his bomb:
+74) 13) dialog: (off-balance)
+75) 6) text: You are not infantry!  Your firepower is limited!  Excessive killing only risks compromise... Reloading, Jordan tosses a look at Slutnik and Cortez. Ain't nobody bitchin' now.
+76) 3) dialog: That's what I hear.
+76) 5) dialog: Who's "we"?
+77) 1) dialog: I don't know if there's any single reason.  But my father was Navy. And he had this old-time recruiting poster in his den.  It showed a girl trying on a sailor's uniform while saying, "Gee, I wish I were a man! I'd join the Navy!"  Was maybe 10 years old when I first saw it, and even then it felt wrong.  Made me mad.  And I don't think a month has gone by that I haven't thought about that poster.  "Gee, I wish I were a man."
+77) 3) dialog: The woman I saw you with...
+77) 5) dialog: But are there... I mean, how many...
+77) 8) dialog: Royce...
+78) 3) dialog: It's hard to find time to sleep, Royce.  Much less keep up with my phone life.
+79) 0) text: Jordan sighs and slumps against the phone kiosk.  Where t start?
+79) 2) dialog: I feel like there's men here, there's women here -- then there's men.  But hey, what'd I expect? INTERCUTTING Jordan and Royce:
+79) 4) dialog: Me?  Why me?
+79) 6) dialog: I saw an article...
+79) 8) dialog: So why are you telling me this?
+79) 10) dialog: You know, Royce, I got enough heat on me without you turning up the jets, too.
+79) 12) dialog: Well, let me warm you:  I'm going though with this.  The more everybody fucks with me, fucks with my head, the more it just makes me want to finish.  So don't expect me back crying in your arms any time soon, okay?
+79) 14) dialog: Still can't make up your mind, huh? Gotta go, Royce.
+79) 16) dialog: Sure.  I'll join the crowd.
+80) 0) text: A HELO WARMS UP on its pad. Crew Six approaches, garbed in black wetsuits, loaded dow with weapons and rucksacks.  Jordan is at the lead.
+83) 0) text: Last out, Jordan is poised to follow when...
+84) 0) text: ... and knifes into black water. The HELO PATTERS away. An inky stillness overtakes the world. Jordan activates a red-light beacon, sweeps it around, revealing her position to... Her crew.  Five black faces regroup around her.
+84) 2) dialog: (nodding direction)
+85) 0) text: Jordan's crew reaches shallow water.  They deflate their vests and rucksacks.  Jordan trades her face mask for night-vision goggles. NIGHT-VISION POV:  Sweeping the rocks.  Nothing at first. Then two "hostiles" appear, patrolling the rocks. Jordan motions "down."  Six faces sink from sight. NIGHT-VISION/UNDERWATER POV:  Of the "hostile" patrol moving on. They resurface.  On Jordan's cue, the crew sheds flippers and begins scaling rocks.  They've made landfall.
+87) 2) text: Got two FAVs moving south.  I make... four banditos aboard, carrying... H-60 machine guns... Jordan REPEATS THE INFO into a digital tape-recorder, add the time.
+87) 3) dialog: Newberry, get a photo.  South?
+87) 5) dialog: West?
+87) 7) dialog: North?
+87) 14) dialog: Didn't even bitch about the seat, did I?
+89) 3) dialog: I don't know...
+89) 10) text: Hey.  Ain't your call, man. He looks to Jordan.
+89) 11) dialog: Pri One is to protect the mission. If she represents a real threat, we have to do it. Pleased, Cortez slips his rifle under a roof panel.
+89) 12) dialog: (to McCool)
+89) 14) dialog: If not, firing will only give away our position to hostiles in the area.  Now how smart is that?
+91) 5) dialog: All right, fire-and-evade maneuvers. Drop everything but weapons and the PRC radio -- we're gonna be high speed, low drag all the way to the link-up site.  Ready?
+91) 7) dialog: 
+93) 0) text: Breathing like asthmatics, Jordan's crew regroups at the link-up site just inside the woods.  Flea comes in hobbling.  Badly.
+93) 5) dialog: Fuck. (snatching the radio)
+95) 0) text: Jordan's crew lopes through the woods, searching for a place to bring the helo down.  Right on their heels... ARTILLERY SIMULATORS THUMP-THUMP-THUMP, illumination GRENADES POP and flare.  This may not be war, but it'll d until the real thing comes along.
+97) 2) dialog: I'm lookin', I'm lookin'! Finally they break into a clearing.  Is it big enough?
+97) 3) dialog: 'Cool?
+97) 5) text: Smoke it! Jordan chucks a smoke grenade.
+99) 0) text: Whirling smoke, the helo descends.  Jordan's crew breaks early, trying to get there the instant it touches down. But before they can... An FAV crashes through the underbrush, M-60s BARKING in the helo's direction.  The helo bounds away. Jordan's crew tries to retreat -- but a second FAV cuts them off.
+100) 0) text: PILOT'S POV:  Of the action below, growing smaller and smaller:  Jordan's crew.  Surrounded.  Laying down weapons.  Captured.
+101) 0) text: JORDAN'S POV:  Brush slapping her face. Crew Six is being hauled through the woods, hands tied back, boots around their necks, pulled along by... The captors.  We assume they're instructors in camouflage paint -- but we're moving so fast it's impossible to be sure.
+102) 0) text: A P.O.W. camp, disturbingly authentic.  A dozen trainees are already here, held in pens of bamboo and barbed-wire. Flea, McCool, Slutnik, Cortez, Newberry -- all five get tossed into a pen.  Jordan is pulled away.
+103) 0) text: Jordan is thrown to the ground.  Her eyes go wide when sh sees a row of steel boxes nearby.  They're scarcely large then coffins.
+104) 0) text: Hands push Jordan inside the box.  She has to curl up fetally just to fit.
+104) 1) dialog: How long? (no answer)
+104) 2) text: Please, HOW LONG? The LID BANGS closed.  A LOCK RATCHETS, FOOTSTEPS RETREAT Daylight sheets in through ventilation slats. When her eyes adjust, Jordan finds markings on the lid an walls.  Scratchings made with a nail.  The memoirs of previous tenants.
+104) 3) dialog: "Don't know how much I can take"... "A little taste of death"... "Save the nail"... (then the real kick- in-the-teeth)
+106) 0) text: A BANGING wakes Jordan.  Are they coming for her?  But FOOTSTEPS LEAVE.  A GROAN from the adjacent box.
+106) 1) dialog: Who is it?
+106) 4) dialog: Wick.  They got your crew, too?
+106) 6) dialog: You really came back for more?  Of this?
+106) 8) dialog: If you got a good one, Wick... Anything to get her mind off this box.  Out of this box. Now INTERCUT Jordan and Wickwire, lying like fraternal twins in their wombs of steel:
+106) 10) dialog: They had to kill 'em?
+106) 12) dialog: That's a good story.
+106) 14) dialog: He was married?
+106) 16) dialog: You got anybody, Wick?
+106) 19) dialog: How'd you make it last time, Wick? How'd you get through this part?
+106) 22) dialog: (jarred)
+110) 0) text: JORDAN'S POV:  The box opening.  Daylight assaulting us, blowing out our eyes.  Disembodied hands pulling us out.
+111) 0) text: Legs hobbled, uniform soiled, Jordan is led past a row of huts.  She looks like she got hit by a train -- and got back up. JORDAN'S POV:  Vision still blown out.  But inside the pen, we make out 40 trainees now.  One guy wrings out a sock and drinks from it. Jordan moves past huts.  VOLATILE VOICES spill out as trainees get interrogated. JORDAN'S POV:  Outside one hut, we see Flea.  At least we think it's him:  Strapped face-down to a table, sobbing quietly, he wears a slinky dress and whore's makeup.  The broke him -- and it's an ugly, ugly sight.
+112) 3) dialog: "Dad."
+112) 5) dialog: Dick, Jane, and Spot.
+112) 7) dialog: Green Eggs and Ham.  You're not going to get anywhere.  You might as well put me in the cage.
+112) 9) dialog: Should I be afraid?
+112) 12) dialog: Wasn't deemed a threat.
+112) 15) dialog: No.  Yes.  I mean, depends on --
+112) 17) dialog: That's not right.
+112) 19) dialog: I think you're the liar.
+112) 21) dialog: We didn't know we were compromised. Firing would only've given away our position.
+112) 24) dialog: No.
+113) 0) text: ... and throws her onto a table. In the pens, all faces turn to watch.  Even instructors stop what they're doing as... The Chief pushes Jordan's head down and jams up behind her.
+113) 2) dialog: Sure.  Just like your men do.
+113) 4) dialog: Should I practice bleeding, too, sir?  Would that make me a better soldier? He covers her mouth -- her whole face -- with one hand.
+113) 8) text: Someone's trippin' out here... The Chief jerks Jordan up, whirls her around like a dead dance partner, slams her face-first into the pen to give the guys a good look at what's happening to that pretty face.
+113) 10) dialog: Don't do it, don't do it... The Chief throws her down like garbage.
+113) 12) dialog: Don't tell him shi -- The Chief whirls, decks her a crescent-kick.  Instructors lurch forward instinctively.
+113) 17) text: I am saving your life, O'Neil.  You may not know it, but I do.  You're an inferior soldier, a bad officer, and I don't want you learning that inconvenient truth when you're stuck in a muddy bomb crater behind enemy lines and don't know how the fuck to get out.  You get out now, O'Neil. Seek life elsewhere.  And if you can't do it in front of me, do it behind my back. Pinning her down with just his eyes, he rises -- and starts away. Behind him, Jordan struggles to rise. An ANXIOUS MURMUR races through the men:  They don't want to see this.  They don't want to see her crucified.
+113) 19) dialog: Fuck you and the boat you rode in on.  Sir. TIGHT on the faces of her crewmates -- Slutnik, Cortez, McCool.  In their eyes, a new respect.  The Chief see it. Instructors see it.  Everyone does.
+113) 21) text: We're done here. Beaten, he walks right out of camp. Wordless, instructors open the pens, unlock the boxes. Wickwire rises like a vampire in daylight.  But this time he made it. A medic tries to help Jordan, but she pushes him away, walking drunkenly for... Flea.  She begins wiping the makeup from his face.
+113) 22) dialog: Make you a deal, Flea.  Never tell me how I look -- and I'll never tell you.
+120) 0) text: Jordan exits with purchases.  Her face is still bruised from S.E.R.E.  With a minute to kill, she peruses a bulletin board casually.  But a RAISED VOICE leads her eyes to... Wickwire.  At a phone kiosk, he hangs up emphatically.  H looks flustered when he spots Jordan.
+120) 1) dialog: Sorry, didn't mean to --
+120) 3) dialog: First big night of liberty and no date?  You're pathetic, Wickwire.
+120) 5) dialog: (touching bruises)
+120) 8) dialog: Thanks for lying.  But you're the class officer, Wick, and it'd just be weird if we hook up.  Besides... Catching up, Blondell exits the exchange.
+120) 10) dialog: Do you, uh, know...
+120) 12) dialog: We're going over to her place to make salad and pasta.  Just, you know, nothing special.
+121) 0) text: Charts are being passed around the room.  Every trainee takes one, including Jordan.
+121) 3) dialog: Sir?
+122) 0) text: Jordan enters.  The yeoman's desk is unattended.  Noticin the X.O.'s door open, Jordan peers inside to find... Blondell.  She looks scared out of her mind.  Before she and Jordan can speak, the yeoman materializes.
+123) 1) dialog: See me, sir? The C.O. and X.O. are both here.
+123) 5) dialog: (a beat,laughing in relief)
+123) 7) dialog: They're very wrong.  And I'd like to know where you got this information. On the C.O.'s nod, the X.O. opens an adjoining office. Wickwire enters.  He's stiff as a groom on a wedding cake
+123) 9) dialog: This is insane.  You've got no proof.
+123) 12) dialog: We hugged.
+123) 14) dialog: Because the men didn't want me eating with them.  Jesus Christ, let's get this right.
+123) 18) text: I wish I didn't have to do this, Jordan.
+123) 20) dialog: Sir, I just want you to know that this is either a gross mistake -- or someone's vindictive bullshit. In no way did anything happen between Ensign Blondell and myself. We're just friends.
+123) 22) dialog: I'm saying, we're just friends.
+123) 24) dialog: Sir, please... if there's any way to do this without dragging everyone through the mud...
+123) 26) dialog: (turning back)
+123) 29) dialog: Would you have the discretion to end it right then and there? She's offering her own head on a silver platter -- and th C.O. actually hesitates before answering.
+124) 0) text: McCool and Flea exit a classroom with other trainees. They spot Jordan approaching.
+127) 0) text: It's Jordan.  Dressed in civvies, gunnysack between her legs, she's back in Virginia with nothing more than what she left with.  Around a river bend appears... The gunkhole harbor.  Home.
+128) 0) text: The boat docks.  Jordan springs clear, waves a worn-out thanks, starts up the dock.  But now she comes to a stop, seeing... Royce.  Stepping out of the house. EXTREMELY WIDE:  River shimmering behind them, they meet on the dock.  A charged stand-off:  Where do they pick up Can they pick up?  Then Jordan drops her gunnysack and steps into his wide-spread arms.  Royce wraps her up as i to never let go. For the first time in this whole ordeal, Jordan begins crying, sobbing uncontrollably.
+129) 0) text: An hour later.  Sharing a quiet moment, Jordan and Royce cradle tea mugs while sitting on the rear porch that overlooks the Potomac and a fiery sunset.
+129) 1) dialog: All I wanted was an honest chance. And If I couldn't get it, I couldn't stay.
+129) 3) dialog: Maybe.  Though it didn't seem like he was getting any satisfaction out of it.  Almost like... (a beat)
+129) 6) dialog: No shortage of suspects.
+129) 8) dialog: Royce.  Tell me you didn't keep a file on me.
+130) 0) text: CLOSE on multiple files being pulled out of a briefcase. One contains clippings -- "G.I. Jane" photos, editorials, political cartoons.  Another holds records of Coronado personnel -- Jordan's crewmates, instructors, the base brass.
+130) 3) dialog: It's done with, Royce.  Let it go.
+130) 5) dialog: I'm tired of fighting back.  I just wanted to come home and be safe and have you here and the river there and just forget the rest of the world, okay?
+130) 9) dialog: What about him.
+130) 10) dialog: Instructors typically pull three year assignments.  This guy's in and out in one year -- your year.  That sound right?
+130) 11) dialog: Sounds like an amazing coincidence.
+130) 13) dialog: I don't know, I don't care.
+130) 16) dialog: "In Washington..."
+130) 18) dialog: Wickwire said he was dry-docked in Washington between stints at Coronado... We can see her mind gathering speed.  Royce switches file quickly.
+130) 20) dialog: You don't crap out of Spec-Recon and get another shot without dispensation from someone up in flag country. (a revelation)
+130) 23) dialog: Yeah.  Me too.
+131) 2) dialog: Don't say my name.
+131) 5) dialog: Or rank.  But can you do me a favor and pull a transfer order?
+131) 7) dialog: (appreciative)
+132) 2) dialog: Who signed as his "sponsoring officer"?
+132) 5) dialog: What'd you find, Kathy? CLOSE on the stationary.  It bears an image of the Capito dome.
+134) 0) text: A car parks at barricades.  Jordan and Royce emerge, both in uniforms.
+135) 0) text: Jordan and Royce move quickly down a corridor, eyes hunting, passing CAPITOL GUIDES and their tourists.  Soon they find... DeHaven's office.  A Navy captain exits with paperwork. Hasty salutes.
+138) 2) dialog: Lieutenant j.g. O'Neil. In a side office, DeHaven's aide overhears.  He rises quickly and enters the foyer.
+138) 4) dialog: What chamber?  Which way is that?
+138) 6) dialog: Okay, which way?
+139) 1) dialog: Senator DeHaven... DeHaven looks behind her.  Nobody.
+139) 2) dialog: DeHaven... Now she looks up to behold... Jordan standing in the gallery.  Staring down on DeHaven as she is, it's hard to read anything into her expression but open disdain. Drawn by Jordan's voice, a CAPITOL GUARD hurries down the gallery steps.  Royce runs interference.
+139) 3) dialog: We can talk here or we can talk outside, Senator.  You tell me. On the floor, half the U.S. Senate stops what it's doing and looks up. In the gallery, the guard is thrown off-balance by the naval uniforms:  Do Royce and Jordan belong here or not? Confused, he looks for guidance from... DeHaven.  She notes C-SPAN cameras swinging Jordan's way. Summoning a page:
+140) 2) dialog: Lieutenant Thomas Wickwire. About to hug Jordan, DeHaven stops awkwardly.
+140) 3) dialog: You know him.
+140) 5) dialog: It should.  You nominated him for Spec-Recon just three days after you nominated me.
+140) 7) dialog: Did you set me up?  Did you set me up just to see me fail?
+140) 10) dialog: What changed?
+140) 12) dialog: If I have to ask again, Senator, I'll be asking in front of cameras. It's a threat DeHaven doesn't appreciate.  The Senate DOORKEEPER appears.
+140) 16) dialog: So?  Isn't the President jumping on your bandwagon?
+140) 18) dialog: You don't know that.
+140) 20) dialog: What are you saying?  That a women's life is more valuable than a man's? That a women's death hurts a family more?
+140) 22) dialog: You were never going to let women serve in combat.  You always had a safety net.  Or thought you did.
+140) 24) dialog: So the rhetoric gets you headlines. But the reality gets you in trouble.
+140) 27) dialog: I wanted the choice.  The chance to prove myself, my skills, my work, me.  That's how it should've been.
+142) 2) dialog: You promise Wickwire a fast ticket, too?
+142) 4) dialog: I'm sure it is.
+142) 6) dialog: You know, I wonder what the SecNav would think about it.  If I spoke with him.
+142) 12) dialog: So I wonder what the President would think. The last image we have of DeHaven is her whirling back, startled.  The DOORS BOOM CLOSED in her face.
+144) 0) text: The C.O. hangs up and looks to Jordan, heretofore unseen. She waits anxiously.
+144) 2) dialog: Sir?  What did he say?
+145) 0) text: START on the helmet graveyard.  Hands enter FRAME to reclaim one helmet in particular.  TILT UP on Jordan, back in the grinder, back in Navy greens. The Spec-Recon class is here.  Crewmates gawk like stone idiots as Jordan takes her old place in the line-up.
+145) 4) dialog: Just walk away and never stop. He does.  As Wickwire RINGS OUT:
+145) 9) dialog: Good to see you again, too, sir.
+147) 2) text: Four... three... two... one... hack! Flea, McCool, Slutnik, Cortez, Newberry, Jordan.  Inside the airborne helo, they synchronize their dive watches.
+149) 0) text: The trainees double-check wet gear and survival vests.  O Jordan's nod, they push an inflatable life boat ("ILB") t the helo door.  It's rolled up into a rubber log.
+149) 2) dialog: (to her crew)
+150) 0) text: The ILB splashes down into the ocean.  Jordan's crew helo casts in after it. From the door of the circling helo, the Chief watches as... Jordan's crew swims to the ILB, bobbing in the swells. Flea turns a handle on the CO2 tank meant to inflate the boat.  Nothing happens.
+150) 4) dialog: Cortez, see if you can dig out the tools without losing the rest of out gear.  Try a wrench on that thing.
+154) 3) dialog: 
+154) 5) dialog: Base, this is Crew Leader Six.  We have a downed helo 12 miles west- south west of base with three aboard.  Repeat, we have a downed helo with three aboard... Slutnik yanks a starter cord:  Their outboard MOTOR ROARS to life.  The boat does a donut in the water and blasts away.
+155) 4) dialog: Flea, 'Cool, Cortez, Newman -- take your minis, hit the water.  Go, GO! They grab masks and mini-tanks and dive in like dolphins. Jordan snaps up the radio.
+155) 5) dialog: Base, this is Crew Leader Six.  What is your E.T.A. on that rescue helo? Over.
+155) 7) dialog: Base, don't think you copied me.  We are 12 miles out.  Seafox tops out at 30 knots, which makes it a no- show for 18 minutes.  Over.
+155) 10) dialog: Shut your hole, Slutnik.
+156) 4) dialog: (into radio)
+159) 2) dialog: Chief, sir -- rescue team won't be here for 15 minutes.  What's your air situation?  Over.
+159) 4) dialog: 15, sir.
+161) 3) dialog: (into radio)
+163) 2) dialog: (into radio)
+165) 2) dialog: Spotted you, Chief.  Pri One is to slip you some air, so we're coming down with a tank -- just something until the A-team shows.  Over. An ominous beat.
+165) 3) dialog: Chief?
+167) 2) dialog: So we got two full mini-tanks, three minutes each.  'Cool?  How much air in yours?
+167) 4) dialog: Grab an oar, find a way to weight it down, we're gonna need it.  Cortez, help him.  Flea?  You take one of the two full minis -- and just follow my lead.
+167) 8) dialog: So I guess we get one shot at it.
+170) 1) dialog: Chief, sir... still with me?
+170) 4) dialog: Sir, let me suggest you stop giving orders and start doing exactly what I say, because that's the only way we're all getting out of here.  Now how's your vest check out?  Still good?
+172) 1) dialog: Flea, take the pilot up slow, feed him air.  Chief, sir, you and I are gonna take the express elevator outta here.  Remember to let your air out.  Ready?
+175) 0) text: ... and "Supermans" into daylight with the Chief.  They covered 50 feet in four seconds. Doing a 360, Jordan spots... Seafox One coming their way. Jordan waves like a shipwreck victim. Not slowing, Seafox lowers a recovery rig into place: They're wasting no time on the pick-up. Remembering the last time she tried this, Jordan gets a death-grip on the Chief's vest.
+175) 3) dialog: Shut up, sir.  I'm concentrating. The recovery loop comes at her like a big brass ring. SEAFOX THUNDERS past.  Jordan plunges her free arm throug the loop... And suddenly they're gone, whisked away by the boat. Throwing a rooster tail a mile long, Seafox pivots on the water and heads back to base.
+177) 2) text: Special Reconnaissance Class 118, you may now stand down. All buffed and polished and wearing their dress whites, the former trainees erupt with ONE GREAT HOO-YAH.  What began as a class of 100 now ends with just 40. Sitting among the families and friends we find Royce, smiling through his fears.  Not far away sits Blondell. No one claps louder. Jordan trades high-fives and fierce hugs with crewmates. Pyro finally manages to take her aside.
+177) 4) dialog: The Navy Cross...
+177) 6) dialog: I was looking for him earlier, but...
+177) 8) dialog: (knowing better)
+179) 0) text: Jordan and Royce walk hand in hand, strolling the same beach she trained on.
+179) 1) dialog: So here we are again.  Staring three years of operational duty in the face.
+179) 3) dialog: (warily)
+180) 0) text: START TIGHT on Jordan's face.  Even beneath the camouflag paint, we can see her exhilaration.  PULL BACK to find he in a line of commandos boarding an IDLING C-130:  She's embarking on her first mission.  KEEP PULLING BACK until we've lost her completely -- until she's just one soldier among many, indistinguishable from the rest.

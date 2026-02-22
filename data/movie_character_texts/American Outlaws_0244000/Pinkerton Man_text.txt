@@ -1,0 +1,113 @@
+27) 29) text: A BUGGY that stops at the edge of the property. Ma STEPS OUT onto the porch next to Frank to meet: A man in a suit, ROLLIN PARKER, and three riders who dismount and flank Parker: two DETECTIVES and a big Scot with a beard and no moustache, ALAN PINKERTON. Pinkerton wearing a suit and a gun in a high waistband. All four advance to the house.
+27) 40) text: Pinkerton coughs a laugh. Parker glares at him and continues.
+27) 47) text: Pinkerton steps forward.
+27) 48) dialog: Ma'am, I can understand how you might feel that way -- you've made a lovely home here. But it's really not up to me or you. Are you familiar with the legal concept of the Right of Eminent Domain?
+27) 50) text: Parker is surprised. Pinkerton has become interested in these farmers.
+27) 51) dialog: Well, this land is about to be condemned.
+27) 58) text: Parker flushes with anger. Pinkerton and his men rest the hands on their guns.
+27) 59) dialog: I don't think you understand. You don't have a choice.
+27) 60) text: CLICK CLICK and we see Jesse's drawn and cocked two Colts from out of thin air. Frank has pulled his rifle from the doorway. Parker and the detectives are furious, but Pinkerton seems no more than curious.
+27) 70) text: Pinkerton himself has lingered, taking in the group.
+27) 71) dialog: (nodding) Nicely played.
+27) 72) text: Parker, Pinkerton and the detectives RIDE OFF. The group the James house watches them go, then Cole turns to Jesse
+29) 0) text: Soldiers flank the gallows, which stand at the bottom of the stairs to City Hall. A small drum corps beats a stark rhythm. Parker is watching this like a sideshow. Pinkerton is nex to him, scanning the crowd of locals which is getting lar and surlier by the minute.
+29) 2) dialog: It's not my job to relax. I've put men facing out both ways down Main Street, so nobody can ride in shooting. I've got a sharpshooter up on the water tower just in case.
+29) 3) text: Pinkerton WAVES to a FIGURE in a suit atop the water towe
+30) 0) text: We see it is FRANK JAMES in the suit, who WAVES BACK and then kneels and sights down his long rifle. Tucked away behind him, out of sight from the street, is a bound-and-gagged PINKERTON SNIPER in his underwear.
+32) 0) text: REVEAL Fifty-odd CATTLE suddenly STAMPEDING from down the street, their hooves creating the drumming! REACTION SHOTS as the Pinkertons and Army men start to scatter, the cattle surging around them --
+33) 0) text: ANGLE ON Parker and Alan Pinkerton running for cover, Pinkerton half-turned to watch the action.
+33) 1) dialog: Brilliant...
+33) 2) text: Pinkerton suddenly spots something confusing. We FOLLOW h stare to see --
+34) 0) text: SMASH! From the nearby GENERAL STORE, the other masked rescuers CRASH through the big front window on horseback ride into the Army men, FIRING AWAY. TOTAL CHAOS! The Army men and Pinkertons fight towards th gallows. As Jesse untangles himself from the Hangman, the Union Lieutenant reaches for the lever but BANG drops as Frank opens fire. Frank starts picking off soldiers. The detectives and remaining soldiers are completely disoriented.
+36) 0) text: The soldiers have totally broken ranks. One riderless hor led by Comanche Tom pulls up by the scaffold. Jesse LEAPS and Cole jumps on behind him. Jesse puts the spurs to it the horse SURGES into a gap in the crowd. Allen Pinkerton steps past the panicking troops, squarely in the path of the charging horse. He draws his gun and FIRES. The bullet PLOWS into Jesse just as the terrified horse lurches forward, TRAMPLING Pinkerton. Cole holds Jesse up and the riders take off down the street. We see Frank has disappeared from the water tower The soldiers fire at the fleeing liberators. One of the detectives runs over to the injured Alan Pinkerton.
+41) 0) text: A lavishly appointed carriage rolls up to the front of th nicest hotel in town. Rollin Parker and his retinue of Pinkerton detectives scurry to the door. The DOOR OPENS. Out steps THADDEUS RAINS, wearing an elegant suit he bought in London last year and a scowl he picked up in Boston three decades ago. The scowl fits him better.
+61) 13) text: A fancy carriage that pulls up. WE SEE the ground beneath the carriage. A boot hits the ground. Then another. Then tip of a cane. REVEAL Alan Pinkerton now moving toward Rains and Parker, limping from when Jesse's horse trampled him. He has a newspaper folded up under one arm.
+61) 15) dialog: (surveying) Not to mention my men who lost their lives.
+61) 18) dialog: My professional opinion is that you have managed to piss off the wrong bunch of farm boys this time.
+61) 20) dialog: By burning down their homes?
+61) 22) dialog: Oh no, I would have done that. But I would have made sure I killed them, too.
+61) 24) dialog: Would a jury around here convict their own? I think not. We're beginning an interesting game here, Mr. Rains.
+61) 26) dialog: I'm afraid our adversaries don't agree.
+61) 29) dialog: It is a nice piece of writing.
+61) 31) dialog: Oh, that's the best part.
+70) 0) text: IN a richly paneled conference room, a group of BANKERS, POLITICIANS and RAILROAD OFFICIALS are gathered around a large table. On the table is a map with a dozen red marke Thaddeus Rains and Alan Pinkerton are studying the map.
+70) 5) dialog: It's early in the game yet, Mr. Rains. Jesse James and I are just learning how each other moves, feeling out each other's patterns.
+70) 7) dialog: Hardly farmers. I've done some checking. All these were in the War. These men know sabotage, tactics, and have four years of bloody fighting experience behind them. They are disciplined, well-trained and have a charismatic leader. If I were to design the perfect outlaw band, this gang is what I would create.
+70) 9) dialog: It's going to be a long winter.
+72) 0) text: Comanche Tom RIDES UP to the building marked Marshall's Office. A MARSHALL and a dozen PINKERTON DETECTIVES are sitting around the porch. Tom leaps off his horse.
+73) 0) text: The same men in suits and the same map, only now with mor red markers on it.  In the center of the group are Thadde Rains, Rollin Parker and Alan Pinkerton.
+73) 2) dialog: All of the James Gang's encounters have been with local law enforcement who, quite frankly, are no match for this group's cunning.
+73) 4) text: Pinkerton suddenly CLOSES on Rains and Parker. Rains doesn't back down, but we are acutely aware of the fact t Alan Pinkerton is a big, violent Scotsman. He never raise his voice here, but then again -- he doesn't have to.
+73) 5) dialog: (to Parker) First of all: you, shut up. (to Rains) Now, you've given me a thousand miles of railroad to cover. Every time the James Gang strikes, we shift a hundred detectives to that area. But there's just too much open land, too many riverbeds to ride, caves to hide in. This gang operates across four states, often riding a hundred miles between jobs.
+73) 7) dialog: And there are some towns in Missouri where James and his men can walk openly, as heroes.
+73) 9) dialog: They donate money to farmers, to churches. Rumor has it they gave the sharecroppers of Maddox so much money they were able to build a school.
+73) 12) dialog: (dryly) Yes, that's the way to win the locals back to our side.
+73) 14) dialog: No, you demand results. They are not the same thing. And if you want results, you will let me do my job as I see fit. Unless of course, (jerking his head at Parker) You want this fool to saddle up and take another run at it?
+73) 16) dialog: It's going to be a long spring.
+73) 17) text: -- THE GANG RIDES ALONGSIDE A PAYROLL COACH, The COACH is marked with the "Rock Northern Railroad" logo. Suddenly Pinkerton guards leap up from hiding places in t coach and start firing! The gang fires back dropping two the men.
+77) 19) dialog: No.
+77) 20) text: The entire group looking at a serene Pinkerton staring at the James Gang tracking map, which is now festooned with markers.
+77) 21) dialog: Every three months, the James Gang circles back to the vicinity of Liberty, Missouri. They always pull a job right before they return, probably to have extra money to give family and friends.
+77) 23) dialog: There are only four banks within that travel radius which they have not robbed.
+77) 25) dialog: No need. I have another tool at my disposal which will narrow it down to one bank.
+77) 27) dialog: (smiling) Why, their intense hatred of you, of course.
+84) 3) text: At both ends of the street, WAGONS ROLL into position, ea manned by two armed Pinkertons. The Gang is trapped.
+92) 0) text: Where the Pinkerton gunmen are shooting at the Gang. Some of the gunmen look curiously as the windows to the buildi two doors down from the bank BLOW OUT.
+93) 0) text: As the two Pinkerton detectives at the wagon barricade tu in shock as Jesse James LEAPS FROM THE SECOND FLOOR of a building he can't possibly be in, lands on the wagon, rol off and DASHES INTO a blacksmith shop across the street. They suddenly notice a HISS. They stand, look in the wago Jesse left a burning stick of dynamite in the wagon.
+95) 0) text: The Pinkertons firing on the gang notice SMOKE rising fro below them. They look down ... REVEAL bellowing FLAMES and SMOKE enveloping the entire r of buildings below them.
+96) 0) text: UPSHOT of the sniper's ledge as the Pinkertons leap off, followed by a WALL OF WATER -- WIDEN to see the water POURING into the building from abo
+98) 3) text: the Gang galloping past the shattered wagon barricade, heading for the edge of town. Pinkerton riflemen run out of the bank and from behind th other barricade. One SHARPSHOOTER with a rifle drops to o knee, lines up... HIS POV shows Jesse in his sights. He tightens on the trigger, and just as he pulls -- -- Jim Younger rides into the line of fire! With a CRACK the bullet hits Jim square in the back. He slumps forward his horse. Comanche Tom leaps from his horse onto Jim's a urges it on.
+98) 4) text: The James Gang disappearing past the edge of town. The Pinkertons stand stunned amongst the ruin of their ambush Alan Pinkerton himself walks up, shaking his head.
+108) 1) text: the beach, where fifty Pinkerton detectives with rifles a lined up like a firing squad.
+109) 1) dialog: Jesse James, you are under arrest!
+112) 0) text: A dank, black cell far in the bowels of Fort Jefferson. W HEAR CLANKING. WIDEN TO REVEAL Jesse doing push-ups. They come easily, despite Jesse being chained up like the Frankenstein mons The DOOR OPENS. Jesse looks up in mid-push-up. Alan Pinkerton is looking down at him. Jesse moves to the bed. Pinkerton, flanked by two guards, ENTERS. He sits on a stool provided by one of the guards.
+112) 1) dialog: We're moving you tomorrow.
+112) 3) dialog: Oh, it's a similar room. But the hotel is in Washington D.C. You're not going to get a fair trial down here, in front of a jury of Jesse James sympathizers.
+112) 5) dialog: That's the idea.
+112) 6) text: Pinkerton produces two cigars, presenting one to Jesse.
+112) 8) dialog: Not that day. I am guilty of many things, but that was Mr. Thaddeus Rains and Parker, that day.
+112) 9) text: Jesse takes the cigar, and Pinkerton lights both. They pu for a moment.
+112) 10) dialog: (tapping bad leg) Was this you, by the way?
+112) 13) dialog: Pity.
+112) 15) dialog: How did you spot the ambush in Torrell?
+112) 17) dialog: Mmm.
+112) 19) dialog: Yes?
+112) 21) dialog: Damn.
+112) 24) dialog: I went myself to oversee the operation. Didn't help much.
+112) 26) dialog: Oh. That's nice to know. (then) We're going to hang you, you know.
+112) 28) dialog: Was it worth it?
+112) 30) dialog: That's what I would have done.
+112) 32) dialog: (shaking his head) You cocky little bastard.
+112) 34) dialog: No, I'll hang you. (then) But I may miss you just a bit.
+112) 35) text: As Jesse and Pinkerton smoke and discuss the past year...
+113) 0) text: Two guards are leading Jesse, who is in heavy arm irons, toward a prison car at the end of a waiting train. Pinkerton, Thaddeus Rains, and Parker walk up.
+113) 7) dialog: If you feel that way, I could always take off the irons.
+113) 8) text: Rains glares at Pinkerton, then turns back to Jesse.
+113) 16) text: Rains involuntarily looks behind Jesse. Jesse cranes his head and spots a CLUB CAR at the front of the train, seve cars away from his prison car. The other cars are packed with Pinkerton detectives.
+114) 1) dialog: Hook him up.
+114) 3) dialog: Now the guns.
+114) 5) dialog: In the ten seconds we have been in this car, I have seen you get close enough for Jesse James to grab your guns at least three times. And I assure you, if he gets his hands on one of your guns, you are all, and I mean all dead men.
+114) 7) dialog: I'll put that on your tombstone. The guns.
+114) 8) text: Grumbling, the detectives deposit their pistols in a box near the front of the car. Pinkerton walks out. The Burly Detective slides a Colt into his waistband.
+114) 9) text: Jesse, alone, surrounded by ten Pinkerton guards. The tra LURCHES, and they're off.
+118) 0) text: Some Pinkertons LOOK UP as a BANG sounds from on top of t car.
+120) 0) text: Pinkertons falling, drawing their guns, not able to get a bead on Jesse because --
+123) 0) text: Jesse looks down and sees heavily armed Pinkertons coming out of the doorway.
+124) 0) text: Jesse's running and the Pinkertons start SHOOTING THROUGH the roof. Jesse miraculously is untouched, almost to the CLUB CAR...
+125) 0) text: Pinkerton is already moving as Parker and Thaddeus Rains look around.
+125) 2) dialog: Vengeance.
+126) 0) text: Pinkerton bursts in. The men snap to.
+126) 1) dialog: Outside! Get up on top! Go GO!
+131) 0) text: Jesse, Pinkerton, and the detectives look down the track and see...
+133) 0) text: Pinkerton rushes back in. Parker and Rains are looking ou the window.
+133) 2) dialog: Move you fools!
+135) 0) text: TWO DOZEN RIDERS pour out of the woods, all firing at the Pinkerton! The Pinkertons return fire, taking shelter in train cars as the riders strafe the train.
+137) 0) text: Pinkerton, Rains and Parker tumble out of the door and ru for the woods. Jesse LEAPS DOWN from the top of the train onto Pinkerton They wrestle, separate. Pinkerton stands, reaching for hi gunbelt. Empty. With almost a resigned sigh, he looks up. Jesse's pointin the gun at Pinkerton's head.
+137) 1) dialog: Do it.
+137) 3) text: Pinkerton, stunned to realize he's still alive. He turns see Parker, fall to the ground, his own gun half-drawn, Jesse turns the gun on Rains.
+137) 5) dialog: He's too important, James.  They'll set the army on you. You and your wife.
+137) 14) text: Jesse thumbs the hammer forwards, lowers the gun. Rains falls to his knees, numb from the tension. Frank rides up. Jesse empties Pinkerton's gun and hands i to him. Pinkerton holds him for a second.
+137) 15) dialog: (low) Tennessee.
+137) 17) dialog: The railroad has no business in Tennessee. Therefore I have no interest in the state of Tennessee.
+137) 19) dialog: I'd just as soon kill you, Jesse James. But chasing you takes up too much of my time.
+137) 21) text: Zee RIDES UP. Jesse SWINGS UP onto her horse, and then th RIDE OFF with Frank. We PULL UP AND AWAY, centering on Pinkerton, Rains, and revealing the smoking, burning wreckage of the train.

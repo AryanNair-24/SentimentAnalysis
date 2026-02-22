@@ -1,0 +1,181 @@
+5) 0) text: BOB HANSEN (late 40's), owner and proprietor of this fine roadside establishment, attempts to fix the old TV hangin the corner above the counter by banging the shit out it. The restaurant itself has the kind of grungy diner charm you'd hope to find in a place last renovated in 1963. An plastic Christmas tree strung with flickering lights and tinsel occupies a lonely corner. Next to that, a faded diorama of the NATIVITY SCENE. The kind you might order o the Shopping Network. Bob considers the TV with a frown. He deftly rolls an ENGRAVED SILVER ZIPPO back and forth over the nicotine stained fingers of his right hand. Must be a nervous habi You can tell just by looking at the man that he's a beer drinker. Behind the counter, a black man named PERCY WALKER (60's) cooking up a storm on the grill with spectacular one-hand dexterity. You do get pretty good at this sort of thing w your other hand has long been replaced by a METAL HOOK. dog tags around his neck tell the story. His white cook's hat has been temporarily replaced by a red Santa hat.
+5) 3) dialog: Whaddya talkin' about, Percy? We got a special relationship here.
+8) 7) dialog: Where ya been, Charlie?
+8) 8) text: Bob steps off the chair.
+8) 9) dialog: This ain't a resort you know.    I got orders stacking up here.
+8) 10) text: In truth there aren't any orders stacking up, but it certainly makes Bob feel better to say it.
+8) 11) dialog: (sees the two cigarettes Kyle's handing her) You best not be smokin' again.    Not in your condition.
+8) 13) dialog: What?   I quit two years ago.
+8) 15) dialog: It was a gift from my ex-wife, alright? I'm sentimental. I don't wanna forget how much I hate her guts.
+8) 17) text: Bob turns to Kyle.   Doesn't like what he sees.
+8) 19) text: Bob is about to respond when:
+8) 27) text: Bob's expression darkens at this news.
+8) 28) dialog: Goddamn it. Where the hell is Jeep?
+9) 1) dialog: Hey, Leonardo...!
+9) 3) dialog: The fact that this truck's hood's up mean anything to you?
+9) 6) dialog: (approaches, peering past him to the crib)
+9) 10) text: BOB (cont'd) Whaddya workin' on that's so goddamn important you're not doin' your job?
+9) 12) text: Jeep tries feebly to block his path, fails. Bob looks down at the crib with dismay.
+9) 14) text: Bob considers him, softens.
+9) 15) dialog: Whaddya doin'?
+9) 17) dialog: Jeep, I like Charlie. I do. And I think it's real good of you to lend her a helping hand, but she is not your responsibility.
+9) 19) dialog: Don't walk away from me while I'm talkin' to you!
+10) 0) text: Jeep walks out toward the gas pumps, but Bob's right alongside him, not giving up.
+10) 1) dialog: How long you gonna follow her around like a puppy dog? Cleanin' up the messes she makes while she steps out with every guy around here other than you?!
+10) 7) text: Bob gives Jeep a hard stare.    Yeah, she is.
+10) 8) dialog: You really think she's gonna stick around here after that baby's born and off her hands?
+10) 11) text: Bob sighs, feels for his boy.
+10) 12) dialog: (points up at the PARADISE FALLS sign) See that up there? Your mother thought I was crazy for wanting to buy this place, middle of nowhere...But I just knew this was what I was supposed to do. Told your mom, "just wait." Told her when they finally ran the freeway through here like they were plannin' on, this place would be like Grand Central Station. (BEAT) But I was wrong. The freeway never came and now the only people who ever stop here are the ones who are lost. (BEAT) And your mom? Well she got tired of waitin'.
+10) 14) dialog: Yeah, I can. And I'm sayin' you're about to make the same damn mistake I made, believing in something that's never gonna happen...Or someone. (BEAT) It's time for you to move on from this place, Jeep. I don't wanna see you wake up one morning old and pissed off, realizing you're lost just like everybody else who stops here.
+10) 19) dialog: Now get to work on that truck. I wanna have these people on the road by nightfall.
+10) 20) text: Bob walks back into the diner. Jeep is about to turn back to the garage when he notices something off in the distance. Ominous DARK CLOUDS line the horizon to the south like a living wall. He shifts his gaze up the highway to the nor Same thing. DARK CLOUDS are pushing their way over the distant mountains. A storm is coming.
+11) 0) text: Bob reenters the diner to find Kyle sitting at the counte digging into a plate of banana pancakes. Kyle is about to address him again, when something else steals Bob's attention.
+11) 1) dialog: (holding up a silencing
+11) 3) text: The TV has gone on the fritz again.   Only now the image mostly snow. Bob climbs back onto the chair.   Faces the TV.
+11) 4) dialog: What's wrong with you today?
+11) 7) dialog: What the hell do I need that crap for?
+11) 13) dialog: I got all the history I can take.
+11) 15) dialog: What's your problem now?
+11) 18) dialog: You know this was the top-of-the- line model when I bought it.
+11) 20) dialog: You shouldn't be watchin' anyways. (rubs his hands together) Okay, baby, this is gonna do it.
+11) 21) text: Bob gives the TV one final wallop -- WHACK! And the picture snaps into FOCUS.    Only it isn't the pi he was expecting. The STARK GRAPHIC OF THE EMERGENCY BROADCASTING SYSTEM an its accompanying HOLLOW TONE fill the diner. Everybody in the place stops and turns to the TV.
+11) 22) dialog: See?   Clear as day.
+11) 24) dialog: It's just one of those test things.
+11) 31) text: Bob steps off the chair and backs slowly away from the TV if a little distance will bring some clarity. He bumps in Kyle.
+11) 33) text: Kyle peels a five dollar bill off a serious WAD OF CASH. That gets Bob's attention. Bob snaps the money out of his hand.
+11) 34) dialog: In the back past the kitchen.   Make it fast.
+11) 38) dialog: Hey, Percy, give that old radio of yours a shot. Maybe they got some news about the TV.
+13) 3) dialog: Not if it was centered in the desert.
+13) 11) dialog: Yeah, `cause of the radiation they give off.
+13) 17) dialog: Well, for cryin' out loud. There's no use in speculating. I'll just call my brother up in Needles. He must a heard something.
+13) 20) dialog: Whaddya talkin' about?
+13) 22) dialog: You're shittin' me.
+13) 25) dialog: Relax, Mrs. Anderson. Nothing to get excited about. Probably just working on the lines.
+13) 29) text: BOB (cont'd) Sides, I'm sure Jeep'll have your truck fixed up quick as can be, and then you'll be on your way.
+15) 32) text: Sandra nods at the old woman, unsure of what to make of t response. The fly that was circling her head, now lands on GLADYS'S FACE. It crawls across her cheek without her reacting in least. Howard and Sandra exchange looks.    Creepy. The door JINGLES and Jeep walks in. He heads straight for quiet huddle with Bob. All the while though, he keeps one eye fixed on the old lady sitting at the table near the Andersons. Something about her...
+15) 34) dialog: (glances over at the
+15) 37) dialog: That's not gonna happen.    Goddamn phone's out.
+15) 68) text: She slaps the check down on the table and walks back towa the kitchen, passing Jeep and Bob.
+15) 69) dialog: What happened?
+15) 88) text: Percy is the first to react. From behind the counter, he whips a heavy metal frying pan at Gladys that knocks her sideways. THWACK! BONES BREAK AND BURST FROM HER NECK.   Impossibly, Gladys still standing. She lets out an INHUMAN SCREAM and SCRAMBLES ACROSS THE DINER, knocking tables and chairs over in her wake. Bob pulls a shotgun from behind the counter.
+15) 89) dialog: Don't move!
+15) 93) dialog: (struggles to cock the
+15) 117) text: A few feet away, Charlie helps Bob, bruised and bleeding, his feet.
+15) 118) dialog: The fuck was that?!   What the fuck was that!?
+20) 0) text: Bob is hunched over the steaming sink, pounding a can of light beer. Jeep is leaning against the wall, looking lik he's about to puke or faint.
+20) 1) dialog: I don't understand how she was still standin' after Percy hit `er with that goddamn fryin' pan. Broke her fuckin' neck. I saw it. I swear I did.
+20) 3) text: Bob looks over at Jeep, sees him trembling.
+20) 4) dialog: It's okay, Jeep.   It's okay.
+20) 11) text: He can't get the words out.   Bob rests a hand on his boy shoulder.
+20) 12) dialog: There's nothin' to be ashamed of, Jeep. (BEAT) Not everybody can play the hero.
+21) 0) text: Bob and Jeep appear from the back, as Kyle, Percy, Audrey Sandra carry Howard into the diner, all of them stumbling gasping for air. Charlie moves in to help. Percy races for the back.
+21) 1) dialog: (catching Percy by the
+21) 4) dialog: The hell you need that for?!
+21) 6) text: Bob's about to respond when he hears the BUZZING. Bob, Charlie and Jeep slowly approach the windows to see
+22) 5) text: Howard writhes as Percy pours alcohol on the wound. Sandra can't help but stare at Percy's hook. Meanwhile across the diner, Bob and Jeep peel back the tablecloth to examine Gladys' bullet riddled corpse. Kyle stands over them with Bob's shotgun trained on the body - just in case. Gladys is a real horror show. Bones jut out at obtuse ang from her neck -- a result of the blow to her head from Percy's frying pan.
+22) 6) dialog: She's cold as a freakin' ice cube. If I hadn't just seen her walk in here, I'd say the old bag's been dead for hours.
+22) 7) text: Bob rolls Gladys over, revealing her face -- her enlarged mouth filled with dozens of razor sharp baby teeth.
+23) 0) text: Bob, Kyle and Jeep quickly drag Gladys's body wrapped in plastic table cloth a short ways from the diner. They war eye the curtain of FLIES no more than a hundred yards out
+23) 5) dialog: I don't get it.    Why don't they come closer?
+23) 11) dialog: You see anything?
+23) 14) dialog: Careful. Old lady could have some kind of rabid poodle locked up in there.
+23) 17) text: Bob covers his nose.
+23) 18) dialog: Jesus.
+23) 26) text: They go around to the BACK OF THE CAR.   Jeep slips the k in. The trunk POPS open, revealing a PILE OF DEAD CATS.   ROT MAGGOT INFESTED. Bob quickly slams the trunk closed.    The guys are reeli with disgust. Kyle's trying to blow the stench from his nose.
+23) 28) dialog: Least now we know where that smell was coming from.
+23) 33) dialog: Okay, now we're talkin'.
+23) 35) text: Bob and Jeep look over at Kyle.
+23) 42) dialog: Give me the shotgun.
+23) 43) text: Kyle hands the shotgun over to Bob.
+25) 4) dialog: Take one step closer and I'll drop you right here.
+25) 5) text: A long beat as Michael considers Bob.   Icy cold.
+25) 7) dialog: Mister, after what we've been through here today, you're lucky we didn't shoot you first and greet you later. Now let me see your teeth.
+25) 13) dialog: Your teeth goddamn it!       Lemme see `em!
+25) 14) text: Michael offers up a dangerous smile, revealing a not so w kept but definitely normal set of teeth. Bob and the othe ease slightly.
+25) 16) text: Bob lowers the gun.
+25) 17) dialog: Okay... Suppose you tell us your name then.
+25) 19) dialog: Sorry about all that, Michael. This old lady just went crazy inside my place here. She had these teeth. Never seen anything like `em. Practically bit a man in half.
+25) 21) dialog: So what are you doin' out here? Gotta say you don't exactly look like a police officer. Even one from L.A. Then again, you have to be, right? I mean, who the hell'd be crazy enough to steal a cop car?
+25) 22) text: Bob chuckles for a moment. When Michael doesn't respond i kind, Bob falls silent. Anxious. He slowly raises the shotgun again. Michael sizes up this raggedy group. His gaze drifts over the loosely wrapped body in front of the diner. The plast table cloth flaps wildly in the wind. Turning back to Bob
+25) 33) dialog: Back off, fella... (BEAT) Now, I don't care if this is the second coming of Jesus fucking Christ, I say it's time for you to either get talkin' or get the hell outta here!
+25) 34) text: In a BLUR OF MOVEMENT, Michael rips the shotgun from Bob' hands. It all happens so fast that Bob is stunned to find himself holding air. He's even more stunned to now have the barrel of the gun pressed to the bridge of his nose. Everyone freezes.
+25) 38) text: But Bob can't even speak, he's so scared.   He squeezes h eyes closed.
+25) 50) text: Michael whips the gun away from Bob's head and thrusts it back into his hands. Bob's looks down at the gun, speechless.
+25) 61) dialog: Wait. I don't think that's such a good idea.
+25) 63) dialog: (to Michael) He's just a kid --
+25) 72) dialog: C'mon, Jeep. We gotta go!
+25) 76) text: And Bob rushes into the diner. A moment as Jeep looks out toward the road. THE HEADLIGHTS ARE GROWING BRIGHTER.       CLOSER. He contemplates the sub-machine gun in his hands.
+26) 12) dialog: Jeep, get the flashlights!
+27) 0) text: A hatch opens and out comes Michael followed by Bob, Perc and Kyle. They quickly take their places behind the "Paradise" sign. Pitch black surrounds them. The RUMBLE OF ENGINES is gone, leaving only the RUSH OF T WIND coming up off the desert.
+27) 2) text: Bob turns to Michael sharply.
+27) 3) dialog: Alright, Rambo. You got us up here. Now you mind explaining what the fuck we're fighting?
+27) 8) dialog: Yeah...The hell is that?
+27) 21) text: Kyle, Bob shoot quick anxious looks at Percy.
+29) 24) text: ON BOB firing madly.    Then...   CLICK!   CLICK!   Oh, n out of ammo.
+29) 25) dialog: Shells!
+29) 26) text: Percy tosses him a box of shells. But Bob fumbles the cat and the box slides halfway down the sloped roof.
+29) 27) dialog: Fuck!
+29) 28) text: With the gun still in one hand, Bob reaches frantically d for the ammo. Stretching... Further...
+29) 31) text: Bob swings the shotgun like a club -- CRACK! -- knocking bitch clear off the roof. But the move has made his slide even faster. He drops the shotgun, trying to hold on, but can't stop!
+29) 35) text: Bob reaches up and clasps Percy's hook, praying that it s on. But this chick ain't finished yet. Up she comes once more Her razor sharp fingernails claw up the metal roof. SCREE
+29) 36) dialog: Gun!
+29) 40) text: Percy tosses Bob a Glock. Fortunately this time Bob deftl catches it with his free hand just as the deranged woman pounces on him.
+29) 41) dialog: (jamming the gun in her
+29) 43) text: BLAM! BLAM! BLAM! The back of her head EXPLODES. Her body goes limp. Bob struggles to push the corpse off of him.
+29) 44) dialog: Pull me up!
+29) 45) text: Percy extends his hook hand, helping Bob ascend to safety
+34) 19) text: No one responds.   Sandra and Audrey are huddled together Crying. Bob and Percy follow Kyle in, still shaking from the adrenaline.
+34) 22) text: Bob grabs Kyle's arm.
+34) 23) dialog: Hold on. (approaches Michael,
+34) 49) dialog: Right and yesterday I was the fuckin' Easter Bunny. You know, fuck this. I don't even believe in God.
+34) 51) text: Bob stares at Michael, uncertain how to respond to that.
+34) 53) dialog: How do we know he didn't bring them here himself?
+34) 55) text: Bob falls silent, confounded. Audrey hesitantly approaches Michael.
+34) 72) dialog: Wait a minute, isn't Mary supposed to be a vi--
+36) 0) text: Bob plays with his trusty zippo with one hand and grills some steaks with the other. He pauses in his cooking ever few moments to take a slug from a can of beer. Can't get down fast enough. Sandra sits at the counter across from him, staring at a prescription bottle tipped in front of her, pills spread around. Bob glances over, sees the devastation in her eyes. He pu another can of beer from underneath the counter, pops it places it in front of her.
+36) 1) dialog: On the house.
+36) 4) dialog: You hungry?
+36) 6) dialog: Well I figure just cuz the world's coming to an end, it doesn't mean a man's gotta starve. All I can say is thank heavens they left the gas on.
+38) 0) text: Michael is searching the horizon in front of the diner fo movement. His expression focused, determined. On the other side of the roof, Bob keeps watch, strugglin stay awake. The beer taking over. His eyes droop closed.
+43) 0) text: The ROAR OF WIND ripping off the plain is all that can be heard. ON BOB as his head drops down with drunken fatigue Sleep. RISING OVER HIM TO SEE... Howard nailed to the upside-down cross below.
+45) 0) text: Percy's body lies covered on the table. Bob stares rueful at his dead friend. A broken man. Tears stream down his face. He rolls the Zippo between his fingers. Jeep watches his father from the doorway.
+45) 2) dialog: Just gimme another minute with him, okay?
+46) 0) text: Michael and Bob are tying Sandra to a chair. Not like it looks like she's capable of going anywhere, but you never know. Across the diner, Charlie eyes Michael cautiously. Michae never goes for more than a few moments without looking up her. It's not lecherous. More like a protective father making sure his child hasn't strayed too far. In a booth, Audrey watches, red-eyed, as Michael restrain her mother. Then she returns her attention to Percy's rad Tuning. Trying to find something, anything in the STATIC.
+46) 15) dialog: What the hell are you talkin' about? This is our chance!
+46) 21) text: Bob looks over at Charlie, defeated. She shakes her head, anger building. She sweeps some plates off the counter an races for the bathroom.
+50) 0) text: All at once the entire diner COMES BACK TO LIFE. The jukebox WHIRS ON, filling the room with Merle Haggard "I'm a Lonesome Fugitive". Bob's TV glows with bright rolling STATIC. The electric fan spins on above the grill.
+50) 4) text: Jeep and Michael move to look through the slats at the window. Charlie is giving Sandra some water through a straw. Bob wanders in, squinting at the sudden presence of light
+50) 5) dialog: We back in business?
+52) 1) dialog: Jesus Christ, what the hell is that boy doin'!
+52) 3) text: Bob springs into action.   Pushes the booth away from the front door. The sound of a gun COCKING. Bob looks over to see Michael pointing a gun at his head.
+54) 0) text: Bob kicks over a table in disgust.
+54) 1) dialog: Damn it all to hell!
+56) 12) text: Bob springs into action, clearing the door and flipping t dead bolt. The door is opened and Michael charges passed Charlie and out into hell.
+58) 3) dialog: (pulling Charlie away from the door) Get back!
+58) 29) dialog: What the fuck?
+58) 33) text: Jeep can't get a clear shot.       Bob's gasping for air. Michael grabs the boy and fiercely rips him off of Bob's back. He swings the boy around like a living shot put.
+58) 35) text: Jeep and Bob whip up their guns as Michael throws the wic creature into the air. Sandra's vacant face flickers in the light as the SOUND O GUNFIRE AND INHUMAN SCREAMING fill the diner. And then in moments...      All is QUIET. BEHIND THE COUNTER, Audrey helps Charlie to her feet. WINCES. Doubles over, clutching her stomach.
+61) 0) text: Bob and Jeep keep watch. The SPECTRAL LIGHTS in the distance seem to be growing la -- closer. Charlie's SCREAMING rises up from below.
+61) 1) dialog: What a way to bring a child into the world. (looks over at Jeep) She ever tell you his name?
+61) 3) text: Bob hears the spite in Jeep's voice.
+61) 8) dialog: Jeep, sooner or later she'll realize you're the best thing that's ever happened to her.
+61) 10) dialog: Can't a father be wrong sometimes?
+61) 11) text: Jeep considers Bob with a smile, then comes the sound... A DEEP, LONG, BODY RUMBLING TONE rising up off the plain, if emanating from the largest HORN ever constructed.
+63) 0) text: Jeep and Bob watch helplessly as the ARMY OF CREATURES ha closed within a hundred yards of the diner. Their ranks stretch back seemingly without end into the darkness.
+63) 2) text: Bob looks at his son.   The agony stretched across his fa
+63) 3) dialog: I'm sorry Jeep. This shouldn't be happening to you...
+67) 0) text: Jeep and Bob enter the diner to see Michael helping Charl to her feet, while Audrey continues to pace, the bundle o bloody blankets cradled in her arms.
+67) 7) dialog: Who?
+67) 29) dialog: Don't do it, lady!
+67) 46) dialog: Sonuvabitch!
+67) 47) text: Bob charges at the creature, sub-machine gun blazing. Gabriel reacts by instantly UNFOLDING HIS WINGS and launc himself into the air. The bullets clawing up the wall beh him. But Bob's heroic move has given Jeep time to get up and r with the baby for the back of the diner. He thrusts the child into Charlie's hands. And without even thinking, sh pulls the child protectively to her chest.
+67) 51) text: Gabriel drops down in front of Bob, whipping his wings ar like a deadly, RAZOR SHARP FAN! Bob stops firing, a look of surprise stretches over his f His gun falling from his hands. Blood begins to pour out of the slice across his belly.
+67) 53) text: With a sweep of his hand, Gabriel sends Bob flying across diner where he crashes down behind the counter near the stove. Michael GRABS JEEP'S HAND before the boy can rush back in the fray.
+67) 70) text: He pulls Charlie past the counter toward the back office. Jeep stops when he sees his father's broken body lying on ground by the stove in a pool of his own blood. Bob's half open eyes focus on his son. In his outstretche hand is that goddamn ZIPPO LIGHTER... and next to that, a BROKEN GAS PIPE leading to the stove. Jeep is terrified.
+67) 73) dialog: Leave me, Jeep.     My place is here, remember?
+67) 75) text: Bob smiles weakly at his son and says simply:
+67) 76) dialog: Run.
+69) 21) text: It's mace against machine gun and strangely enough, it se under Gabriel's deft control, the mace is the vastly supe weapon. With the aid of his wings, Gabriel moves with staggering speed, defying gravity to avoid the rain of bullets. The place is getting absolutely shot to hell. Michael leaps from table top to table top as Gabriel brin the mace brutally down -- splintering everything it touch Michael leaps onto the last unbroken table top -- spins t fire. Gabriel pushes into the air, jabbing a spike straig into the barrel of Michael's MP5. The gun explodes in Michael's hands, sending him rocketing backwards where he lands on the counter. Gabriel swoops in fast. Michael kicks him in the chest, sending him fluttering back. Michael thrusts himself to his feet.   Gabriel recovers, again. Michael grabs a hold of Bob's ceiling mounted TV for supp and lifts his body just above the deadly spike. Michael kicks Gabriel in the head, momentarily stunning h Michael dives at Gabriel, landing an awesome flurry of punches. Gabriel is rattled back by the assault.   He clumsily lif his mace and thrusts with it. Michael narrowly evades the razor point, which drives int wall. Michael smashes down on Gabriel's wrist, CRACKING the bon A swift kick to the chest and Gabriel is thrust crashing back, losing his grip on the weapon. Michael takes a running leap onto Gabriel's back. Gabriel launches wildly into the air, trying to throw Mic off. They hit the ceiling, but Michael hangs on. Choking the life out of Gabriel.
+76) 0) text: Gabriel watches as the last of the writing FADES from Michael's body when he hears a faint CLICKING sound from somewhere in the diner. Gabriel moves gracefully through the destroyed diner, tow the source of the CLICKING. He steps behind the counter and finds Bob lying in a mass pool of blood. It takes the creature a moment to realize that the CLICKI sound is coming from Bob's SILVER ZIPPO. Bob is focusing every last ounce of life in his body to lighting that lighter. CLICK... CLICK... CLICK... Bob looks at Gabriel.
+76) 1) dialog: Sorry...   We're closed.
+76) 2) text: And with one last brush of his thumb, Bob's trusty ZIPPO IGNITES. Gabriel's eyes go wide as the TINY FLAME DANCES in front the stove's broken gas line. Gabriel spins and runs like hell as the gas explodes.

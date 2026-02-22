@@ -1,0 +1,15 @@
+25) 0) text: A DETECTIVE is gently interrogating JOHNNY.  BETTY sits b
+25) 1) dialog: How are you feeling?
+25) 3) dialog: You sure?
+25) 5) dialog: Good! Now, Johnny. I have to  ask you a few questions. Is that okay?
+25) 7) dialog: Good. Now then. When did you first start feeling sick?
+25) 9) dialog: What happened?
+25) 12) dialog: Did you eat anything unusual?
+25) 15) dialog: I see. And when did you first notice the blood?
+25) 17) dialog: Now tell me – and it is very important that you be honest…
+25) 19) dialog: Is there anyone in the last day or two who…hurt you?
+25) 21) dialog: But someone did…hurt you. No?
+37) 46) text: BILL opens the door.  There is a DETECTIVE and TWO POLICE
+37) 48) dialog: Are you William Maplewood?
+37) 50) dialog: Sorry to disturb you, but we have some questions for you and your wife. It has to do with your son's friend, Johnny Grasso.
+37) 59) text: The DETECTIVE is nonplussed.

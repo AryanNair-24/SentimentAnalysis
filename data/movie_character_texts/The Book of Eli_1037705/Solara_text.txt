@@ -1,0 +1,285 @@
+23) 32) text: The bartender takes Eli's canteen and hands it to Solara along with a RATION CARD he keeps around his neck.
+23) 38) text: Solara takes the canteen, pausing for a moment to look El and down. Unsure quite what to make of him, but intrigued There's something about him she can't put her finger on..
+24) 1) text: Solara exits via the Palladium's STAGE DOOR and walks acr the busy street to where TWO OF CARNEGIE'S ARMED MEN stan guard around an ENCLOSURE OF CHAIN-LINK FENCE TOPPED WITH RAZOR WIRE. TOWNSFOLK wait in line with bowls and buckets
+24) 2) text: One of the guards recognizes Solara and lets her cut to t front of the line. He punches two holes in her ration car and lets her inside the chain-link enclosure.
+24) 3) text: Inside is an OLD RUSTED SPIGOT attached to a pipe emergin from the earth. Solara cranks hard on the handle - it tak few pulls before the water comes, and then only at a weak trickle; it will take a while to fill the canteen.
+25) 2) text: Solara senses trouble brewing and moves off, taking Eli's canteen away into the back room.
+27) 10) text: SOLARA re-emerges from the back room with Eli's refilled canteen. She stops and emits a horrified GASP when she se the bloody carnage laid out in the bar before her.
+27) 12) text: Suddenly, Solara steps forward and CRIES OUT:
+27) 14) dialog: Stop!
+27) 15) text: Eli FREEZES. Sword hanging in the air, poised to strike. turns his head to where Solara stands behind the bar.
+27) 17) dialog: Please don't.
+27) 25) text: Hog stumbles backward through the door, into the sunlight Eli moves toward Solara, who stands petrified behind the Reaches out and gently pries the canteen from her loose g
+27) 32) text: Hog rushes Eli from behind. Solara sees him coming and go to SCREAM - but before any sound can come, Eli flips his sword backward and Hog runs right onto it, SKEWERING HIMS
+27) 35) text: Eli wipes the sword clean and sheathes it. Looks around a the bloodied, fallen bodies. Then back at Solara.
+33) 5) text: The door opens to reveal Solara. Looking very different t she did before. Cleaned up and wearing a flowery summer dress, blonde hair let down over her shoulders. Stunning.
+33) 8) dialog: Hi. Can I come in?
+33) 12) dialog: You sure about that?
+33) 15) dialog: It's too bright in here. Mind if I turn it down a little?
+33) 18) dialog: That's better. I'm Solara. You're Walker, right?
+33) 25) dialog: That short for something? Elias?
+33) 29) dialog: Elijah. I never heard that one before. It's kinda cute.
+33) 34) dialog: You sure about that? It gets mighty lonely out there on the road.
+33) 37) dialog: If you're worried about money, this is all paid for. The whole night.
+33) 42) dialog: They're all that kind of man.
+33) 48) dialog: They told me you were crazy. Maybe they were right.
+33) 57) dialog: Please don't make me leave. I have to stay the night. If I don't...
+33) 61) dialog: He'll hurt my mom.
+33) 69) dialog: No! Please, don't!
+33) 73) dialog: He's my dad.
+33) 76) dialog: Look, if you want to help me, just let me stay here tonight. We don't have to do anything. I'll sleep on the floor. Tomorrow you can tell my dad that we had a good time. I'll be no trouble, I swear.
+33) 86) text: Eli and Solara sit together on the bed. A silent BEAT. At first, it appears as though they have nothing to say.
+33) 90) dialog: I'm not afraid of you. I know you didn't start that trouble. When I first saw you, I knew you weren't the type to go looking for it.
+33) 94) dialog: My mom says I'm a good judge of character. She says I can read people. That I know a good man when I see one.
+33) 97) dialog: So... you're pretty old, right?
+33) 100) dialog: I'm sorry. I just mean, I haven't seen too many people your age. How old are you exactly?
+33) 104) dialog: But you're old enough. I mean, you remember what it was like? In the world before?
+33) 107) dialog: What was it like?
+33) 114) text: Solara smiles like she's having her leg pulled.
+33) 116) dialog: Come on.
+33) 120) dialog: So how come you have?
+33) 125) dialog: Wait. You can read?
+33) 126) text: Eli pulls the book from his shirt. Solara's eyes widen.
+33) 128) dialog: And you have a book?
+33) 134) text: ON SOLARA as she listens to Eli read. Transfixed.
+33) 141) dialog: That's beautiful. Did you write that?
+33) 146) dialog: What book is it from? Is it poetry?
+33) 150) dialog: I never heard of it. What's it about?
+33) 155) dialog: Can I see?
+33) 158) dialog: What? I'm not going to do anything.
+33) 165) dialog: What's so special about that book?
+33) 170) dialog: How can you know that?
+33) 174) dialog: What did it say?
+33) 178) dialog: But you knew because the voice told you?
+33) 186) dialog: (SKEPTICAL) Because a voice you heard in your head told you to.
+33) 190) dialog: So who was it? The voice?
+33) 195) dialog: More powerful than my dad?
+33) 200) dialog: Would you teach me to read?
+33) 204) dialog: I never learned. No-one around here knows how. Only my dad, and he won't teach me. I think he likes being the only one who can read. I think it makes him feel powerful.
+33) 211) dialog: So would you teach me?
+33) 218) dialog: I guess a little.
+33) 221) text: She walks over to where the dinner tray is covered by a s cloth. She whips it away - to reveal ELI'S RAT nibbling o piece of cheese. Solara SHRIEKS and backs away.
+33) 225) text: Solara approaches warily. Reaches out and strokes him. Th rat scurries up her arm. She almost shrieks again.
+33) 229) dialog: It does?
+33) 231) text: Solara pets the rat on her shoulder. Then:
+33) 233) dialog: Did you really mean that?
+33) 240) dialog: That I'm your friend.
+33) 245) text: Eli breaks the cheese in two and gives half to Solara. Sh about to eat but stops as Eli clasp his hands in prayer.
+33) 248) text: Unsure of what to do, Solara mimics Eli, putting her hand together and bowing her head.
+33) 251) text: Solara looks at him, touched by that.
+33) 255) dialog: Amen. And now we eat?
+35) 3) text: Solara enters and sits down without a word.
+35) 6) text: Solara doesn't say anything.
+35) 10) dialog: Morning, dad.
+35) 13) text: Claudia appears perturbed by Carnegie's subtle probing. Solara flashes him a frosty look.
+35) 15) dialog: I did like you asked. Isn't that what you really want to know? Just come out and say it.
+35) 19) text: Solara lowers her head, scorned. Carnegie continues eatin
+35) 23) dialog: No. We didn't talk much.
+35) 27) dialog: I don't know. He said he had to go.
+35) 35) dialog: That's all he said. That he was going to be leaving this morning.
+35) 43) dialog: Our father, thank you for this meal which you have been so gracious to place before us.
+35) 46) dialog: Thank you for my mother. Please watch over her and keep her safe.
+35) 50) dialog: Thank you for all the-
+35) 62) text: Solara says nothing, just looks down at the table.
+35) 66) dialog: (SOFTLY) You did.
+35) 70) dialog: Eli taught me.
+35) 74) dialog: The walker. That's his name.
+35) 78) dialog: He had them written down in a book.
+35) 82) text: He barks the question at her. Solara is rattled.
+35) 84) dialog: I don't remember! It was an old leather book. It had kind of a... thing on the front of it.
+35) 87) text: Solara makes the SIGN OF A CRUCIFIX with her index finger Carnegie's eyes widen; he can barely believe it.
+35) 91) dialog: That's what it was. A holy bible. Daddy, what's wrong? Did I...
+40) 1) text: Solara and Claudia watch through the window. Turn suddenl when they hear the door slam open behind them.
+41) 14) text: Eli whips around. In the upstairs window of the theater, Carnegie shoves Solara roughly against the wall. Barking angrily at her, shaking her.
+43) 14) text: Carnegie releases his grip on Solara, steps away, hands u
+43) 17) text: BEAT. Eli glances at Solara.
+43) 37) text: He turns to Solara and offers her his hand.
+44) 1) text: Eli emerges from the theater, leading Solara onto the str RESIDENTS part before them, staring at Eli with astonishm
+44) 4) dialog: What? What is it?
+44) 12) text: Eli sheathes his sword and takes Solara by the hand again
+45) 1) text: The town barely visible on the distant horizon behind Eli Solara. Eli walks as he always has, his pace steady and s Still, Solara lags along behind. She's already tired.
+45) 3) dialog: Where are we going?
+45) 8) dialog: Wait... I'm not coming with you?
+45) 11) text: Eli doesn't stop walking. Solara is forced to catch up.
+45) 13) dialog: So what the hell was all that about back there?
+45) 17) dialog: Thank you? For what? What am I supposed to do now?
+45) 21) dialog: Whatever I want. Except go with you.
+45) 27) text: Solara is incredibly hurt by this. Blinks back a tear.
+45) 29) dialog: I thought you were my friend.
+45) 34) dialog: I'll be safe so long as I'm with you. I know it.
+45) 38) text: Solara steps closer, her eyes pleading.
+45) 40) dialog: If I came with you, I wouldn't be alone. And neither would you.
+45) 41) text: A long BEAT as Eli considers this. For a moment it appear though Solara might have won him over. But then:
+45) 46) dialog: Fine! I'll do just that! I had a life there! A family! I didn't ask you to save me! I didn't ask you for anything!
+45) 51) text: Solara stands there in the road, weeping. All alone.
+45) 53) dialog: (SOFTLY) Fine.
+47) 1) text: Solara wanders the road. She's tired. The sun beats down mercilessly. Nothing but desolation and wasteland all aro
+47) 5) dialog: Shit. Shit.
+49) 1) text: Solara comes upon an abandoned CHEVRON STATION. She doesn remember passing this. Looks back up and down the road.
+49) 3) dialog: Where the hell am I?
+49) 6) text: Solara claps her hand to her mouth and recoils, horrified
+49) 7) text: In the dead woman's hand is a dusty bottle of MINERAL WAT Solara hesitates. Not wanting to get closer. But so thirs
+49) 12) text: In the other woman's arm, she has a SKELETAL BABY cradled her bosom. It seems to be staring right at Solara.
+49) 13) text: Solara SCREAMS and frantically shuffles backward away fro it. Gets to her feet and runs across the forecourt.
+50) 1) text: Solara enters. Gloomy inside. Comprehensively looted. Emp shelves coated in thick sheets of dust.
+50) 6) text: Distant, calling from outside. Solara hears it and freeze
+51) 5) text: Solara starts walking toward her.
+51) 6) text: The woman has her back to Solara. She's on her knees, muttering to herself. Gathering objects up from the road.
+51) 7) text: As Solara moves closer, we see that the woman is struggli with an UPTURNED SHOPPING CART. Stuck in a roadside ditch its contents spilled out next to a few BRACKEN BUSHES.
+51) 13) dialog: Are you all right?
+51) 14) text: The woman looks around, sees Solara standing nearby. She' shocked to see that it's a girl.
+51) 18) dialog: You look like you need some help.
+51) 21) text: The woman seems anxious to get rid of her. Tries to indic the threat silently with her eyes, but Solara doesn't get
+51) 23) dialog: It'll just take a minute.
+51) 27) text: Too   late. THREE ROAD BRIGANDS POUNCE FROM THE BUSHES. E bit   as brutish and horrifying as the group that Eli kil the   road in our opening. They grab Solara and drag her the   road into the desert, screaming and kicking all the
+51) 30) text: The BRIGAND LEADER looks Solara up and down lustfully.
+51) 33) text: Solara is reviled by the man. He's filthy, his stench overpowering. One eye missing, just a dark, empty socket. licks his lips, revealing a mouth almost devoid of teeth.
+51) 45) text: He looks back to the struggling Solara.
+51) 57) text: The two other brigands release Solara and whip around, scanning the horizon. They see nothing. One of them has a RIFLE. He unslings it and aims it frantically around.
+51) 100) text: Solara sits on the ground nearby, a wreck. Eli approaches gathers her up in his arms. She clings on to him tightly.
+51) 102) dialog: You came back for me.
+51) 110) dialog: Okay.
+51) 113) dialog: What about her?
+53) 3) text: Thirty yards away, one of the pieces of scrub brush appea to COME ALIVE. And then we realize it is Eli's GHILLIE SU camouflaging both he and Solara beneath it.
+53) 4) text: Eli casts off the camouflage net and walks toward the dea prairie dog. Solara just stands there, appalled.
+53) 6) dialog: You killed it! That cute little thing!
+53) 13) text: He yanks out the bloody arrow. Solara looks away.
+53) 16) dialog: That's not funny.
+53) 20) dialog: I'm not eating that.
+54) 1) text: Eli and Solara sit in the mouth of a desert cave, around flickering campfire. The prairie dog roasts on a spit.
+54) 5) text: Eli carves off a piece of meat. Juicy and succulent. He b into it, teasing Solara by making a show of how good it tastes. He feeds a piece to the rat perched on his should
+54) 6) text: Solara tries to appear uninterested, but she's starved.
+54) 8) dialog: What does that taste like?
+54) 18) dialog: What is that?
+54) 23) dialog: Who's Saint Christopher? Is he a character from your book?
+54) 27) text: Solara listens, rapt. Eli is a good storyteller.
+54) 31) dialog: What is a saint, anyway?
+54) 37) text: Solara looks at Eli tenderly, with admiration.
+54) 39) dialog: Someone like you.
+54) 45) dialog: Will you read me some more from the book?
+54) 51) text: Solara sleeps nearby... then opens her eyes. Not asleep a all. She looks over at Eli - his face hidden in shadow an impossible to tell if he's asleep or awake.
+54) 53) dialog: Eli?
+54) 67) text: Suddenly, ELI'S HAND SHOOTS OUT AND GRABS HER BY THE WRIS She cries out, startled. Eli sits up, his face just a dar shape in the shadows. For the first time he appears a lit scary to Solara.
+54) 71) dialog: You scared me! I thought you were asleep.
+54) 75) dialog: I just wanted to see the book.
+54) 83) dialog: Okay! I understand! Ow!
+54) 91) dialog: Well... now we have the time, maybe you can teach me.
+56) 1) text: Eli and Solara walk together, passing by a few burned-out buildings. It appears we might be headed toward a town.
+56) 2) text: Solara looks up at the sweltering sun. Then around at her surroundings. Nothing but devastation and decay.
+56) 4) dialog: You say you've been walking for twenty-five years. Have you ever considered that you might be lost?
+56) 8) dialog: But how can you know? How can you know this is the right way?
+56) 12) dialog: Yeah, but laid out by who?
+56) 16) dialog: Well if this God guy's so mighty, how come it's taking you so long to get where you're going? Doesn't he know the way?
+56) 20) text: Solara is surprised by the severity of his reaction.
+56) 22) dialog: Sorry.
+56) 30) dialog: So, is he talking to you right now? Telling you where to go?
+56) 34) dialog: I don't know what that word means.
+56) 38) text: Solara thinks about this, shakes her head.
+56) 40) dialog: That doesn't make any sense at all.
+57) 4) text: Eli and Solara crouch behind a pile of rubble nearby.
+57) 6) dialog: I don't get it. It looks almost... normal. Like nothing ever happened. How can it still be out here?
+57) 13) dialog: Maybe we should look inside. There might be food.
+57) 21) dialog: This is weird.
+57) 28) dialog: What?
+57) 33) text: Instead of a pitchfork the man holds a 12-GAUGE RIOT SHOT which he keeps trained from the hip on Eli and Solara.
+57) 66) text: The woman glares at him. The husband reluctantly accedes moves to the concealed trap apparatus. Releases the rope, dropping Eli and Solara to the ground in a heap.
+57) 71) text: Eli and Solara exchange a look. What the hell is this?
+58) 2) text: Eli and Solara sit on the couch, feeling self-conscious a looking entirely out of place in this cozy environment.
+58) 7) text: She lifts the tea port and pours into the cups. But it's tea, only water. Somewhat murky water. Eli and Solara sta at the cups, unsure. Martha gestures toward them.
+58) 19) dialog: It's very good.
+58) 34) text: He stands and moves toward the back door. Opens it up and beckons Eli and Solara to come look.
+59) 1) text: Eli and Solara stand in the doorway, looking out on the y Solara is horrified by what she sees.
+59) 7) dialog: Are these... graves?
+59) 14) text: George and Martha go back inside, leaving Eli and Solara gazing at the little graveyard.
+59) 18) dialog: They look so sweet... I would never have believed they were killers.
+59) 22) dialog: What?
+59) 25) text: Solara is stunned.
+59) 27) dialog: They what?
+59) 33) dialog: Oh my God...
+60) 1) text: Eli and Solara re-enter. Solara looks at George nervously He's still carrying that shotgun.
+60) 6) dialog: No! Thank you!
+60) 20) text: Eli stares George down. Reluctantly, George steps aside. opens the door and escorts Solara outside.
+61) 1) text: Eli and Solara emerge into the sunlight. Walk down the ga path. And FREEZE IN THEIR TRACKS.
+61) 4) dialog: Oh no... it's my dad. It's his men.
+61) 11) dialog: I recognize the cars.
+61) 14) text: Eli bundles Solara back into the house. George stands in doorway, squinting at the approaching convoy.
+62) 24) dialog: Where did you get all this stuff?
+62) 28) text: He offers a .44 MAGNUM to Solara.
+62) 32) dialog: My daddy showed me once.
+62) 36) dialog: I never rode a bike.
+64) 5) dialog: What are we going to do?
+66) 5) text: Solara sits across the room, in the corner, sobbing.
+66) 19) dialog: Because God told you?
+70) 6) dialog: Eli!
+70) 14) dialog: I'm fine.
+70) 15) text: As the smoke clears, Solara sees George PINNED AGAINST TH WALL BY THE MINIVAN. His body crushed. Dead.
+70) 17) dialog: Oh God...
+71) 1) text: Eli and Solara are shoved out of the house at gunpoint an marched past the torn perimeter fence to the vehicles.
+71) 32) dialog: Wait!
+71) 35) dialog: It's here! I've got it! Please don't kill him.
+71) 39) dialog: It's just a book, Eli. No book is worth giving up your life for.
+71) 48) text: Solara looks at Eli guiltily. She feels terrible.
+71) 50) dialog: He said he would hurt my mom. If I didn't help him.
+71) 53) text: Solara stands between him and Eli. Deadly serious now.
+71) 55) dialog: I want you to let him go.
+71) 59) dialog: You've got what you came for. You don't need him. Let him go.
+71) 63) dialog: If you hurt him, I'm not coming back with you. You'll have to drag me kicking and screaming.
+71) 64) text: Solara glares at Redridge. He sighs. He can tell she mean it. It's not worth the aggravation. He turns back to Eli.
+71) 70) text: Eli still has a half-dozen guns trained on him. He turns walks away, toward the road. As he passes Solara:
+71) 76) text: A tear runs down Solara's cheek as she watches him walk a
+71) 80) text: Solara sits in the back seat, staring out the rear window it drives down the road at the tail end of the convoy.
+71) 85) text: Solara in the back seat, calmer now. The tears dried on h cheeks. She sits staring blankly at the DRIVER in front.
+72) 1) text: Solara screeches the car to a halt outside the smoking wreckage of the besieged house. She runs from the vehicle where ELI'S SWORD lies in the dirt and grabs it up.
+73) 1) text: Solara races down the road in the car, pedal to the metal
+73) 3) dialog: Come on, come on...
+73) 7) dialog: No... No!
+73) 10) text: Solara is running up behind him, a hundred yards back.
+73) 12) dialog: Eli! Eli!
+73) 19) dialog: Eli...
+73) 23) dialog: I can't go back there. Eli, I'm so sorry.
+73) 27) dialog: For what? I betrayed you! I gave them the book!
+73) 31) dialog: You're not mad at me?
+73) 39) dialog: Here. I thought you might still need this.
+73) 44) dialog: What are you going to do now?
+73) 48) dialog: Why? I mean, you don't have the book any more.
+74) 1) text: Eli and Solara follow the road through burned-out towns a retail neighborhoods. Gutted and dead, like every place e
+74) 2) text: But something is different here. Things are greener. Tuft grass here and there. They attract Solara's attention.
+74) 4) dialog: What's that?
+74) 9) dialog: How come it's here?
+74) 12) text: They keep walking. Eli groans, clutches his side. Does hi best to hide his pain from Solara. She notices anyway.
+74) 14) dialog: What's wrong?
+75) 3) dialog: What?
+75) 7) dialog: Smell what?
+76) 4) text: Solara looks at it all in horrified awe. Eli, unperturbed keeps on moving, still clutching his side.
+77) 1) text: Eli and Solara make their way south across the bridge, si stepping the fractures in the road.
+78) 1) text: Eli leads Solara through the rubble of what used to be Sa Francisco. It's like walking through the wreckage of 9/11 Ground Zero, but a hundred times the scale. Horrifying.
+79) 1) text: More buildings are still standing here, but they're nothi more than great dead monoliths. Solara looks up at the blasted skyscrapers - she's never seen anything like it.
+79) 4) dialog: This... this is the world before?
+80) 2) text: Eli and Solara walk along the litter-strewn street, passi the old RIPLEY'S BELIEVE-IT-OR-NOT and WAX MUSEUMS. The celebrity mannequins are still in fair condition, but slu at their feet are CHARRED HUMAN SKELETONS.
+80) 3) text: Eli is struggling now. He looks pale from the blood loss. breathing labored. Solara takes him by the arm to help hi
+81) 2) text: Eli and Solara walk along the pier, until they reach its The original end has long since collapsed into the sea, b RICKETY HAND-MADE ROPE BRIDGE has been affixed to the pie sheared-off edge.
+81) 3) text: Eli and Solara stand at the pier's end, looking out to se
+81) 7) dialog: I see it. Is that it?
+82) 1) text: Eli and Solara make their way carefully across the bridge feels highly unstable and sags low over the bay, the wate below close enough to lap around their ankles.
+83) 1) text: Eli and Solara arrive at the prison gates. Securely locke As they inspect it for a possible way to enter:
+83) 14) text: Keeping the gun trained on them, the tower guard uses his free hand to talk into a WALKIE-TALKIE RADIO. We don't he the conversation. All Eli and Solara can do is wait.
+83) 19) text: Eli and Solara look at each other, then step gingerly ins
+84) 2) text: Eli and Solara raise their hands. A pair of SOLDIERS take Eli's pack and sword, pat them both down for other weapon
+84) 12) dialog: Solara.
+84) 16) dialog: I, uh, I think it's Japanese.
+84) 24) text: Solara looks at Eli, puzzled. Lombardi finds it hard to contain his excitement.
+86) 4) text: Solara is stunned as she surveys the endless stacks of bo She's never seen anything like it.
+86) 6) dialog: You turned the whole prison into a library?
+86) 24) text: Lombardi looks at Eli with anticipation. So does Solara, interested to know where this is going to go next.
+88) 1) text: Eli, Solara and Lombardi sit at one of the long lunch-roo tables. The two armed guards keep watch nearby.
+90) 11) text: Eli removes his goggles. Solara can't believe what she se
+92) 3) text: Solara is curled up on a nearby bench, asleep. Eli's coat covering her to keep her warm.
+93) 2) text: Solara crosses the yard. She looks more mature somehow. Determined and strong. She carries with her ELI'S SWORD - something else, tucked under her arm.
+96) 1) text: As Solara kneels by the grave, we see now that she wears Eli's SAINT CHRISTOPHER PENDANT around her neck.
+96) 14) text: As Solara finishes her reading and closes the bible, LOMB appears behind her.
+96) 18) dialog: Thanks.
+96) 21) dialog: But I gotta do what I gotta do.
+96) 24) text: BEAT. Solara looks at the sword, her fingers playing acro its hilt. The blade glimmers in the light of the rising s
+96) 27) dialog: Home.
+97) 2) text: The great iron gates grind open. Solara emerges from insi the prison, steps out onto the island rock.
+97) 12) text: MONTAGE as Solara walks back along Fisherman's Wharf... through the San Francisco rubble... across the Golden Gat bridge...

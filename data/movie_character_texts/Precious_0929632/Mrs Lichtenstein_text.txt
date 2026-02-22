@@ -1,0 +1,31 @@
+2) 32) dialog: Claireece ...
+2) 40) text: Of course Precious. Thank you. An unconvinced Precious grins sadly as Mrs. Lichenstein motions for Precious to step out ahead of her. Mr. Wicher looks abandoned. The door closing behind Preci might as well be to a prison cell block. Noise inside the classroom returns immediately.
+4) 0) text: Precious waits among plants, plaques, pictures and file cabinets while Mrs. Lichenstein sits across from her read from a file. Mrs. Lichenstein closes the file and sets it on the desk between them.
+4) 1) dialog: Are you pregnant? You're sixteen, still in junior high school and pregnant with your second child. Correct Claireece? Claireece are you pregnant again? Precious stares at the file without responding.
+4) 2) dialog: Do you have any thoughts about your situation? Precious shrugs her shoulders.
+4) 7) dialog: Claireece?
+4) 9) dialog: (beat) Claireece, I'm talking to you.
+4) 11) dialog: Claireece?!
+4) 13) dialog: What?
+4) 15) dialog: ...No.
+4) 18) dialog: (firmly) Sit down Claireece.
+4) 20) dialog: (beat) You know what I think? I think we should have a parent-teacher conference - me, you and your mom.
+4) 22) dialog: Well maybe I could arrange to come to your house.
+4) 28) dialog: Well then Claireece, I'm afraid I'm going to have to suspend you.
+4) 30) dialog: You're pregnant.
+4) 32) dialog: Your attitude is one of total uncooperation and that won't help a thing...
+4) 35) dialog: Now according to our records, your mother also looks after the child. Is that correct?
+4) 37) dialog: Are you in contact with the father? (beat) Is he at all involved in your child's care?
+4) 43) dialog: Fine! If that's the way you wanna play it, we can do this all day. The hand on Precious' lap makes a fist.
+4) 45) dialog: 
+5) 0) text: Precious bursts out of Mrs. Lichenstein's office and walk the exit. Mrs. Lichenstein's distant voice still cries fo security.
+6) 0) text: Precious heads down the hall without looking back. Mrs. Lichenstein's CRIES are still audible.
+13) 0) text: Mrs. Lichenstein stands by the buzzer bundled up. THUMPIN RAP MUSIC FROM A CAR passes behind her.
+14) 5) dialog: I want to talk to you about your education.
+15) 0) text: A young man exits the building smoking a cigarette. Mrs. Lichenstein puts her hands together, dramatically pleads a smoke and gets one. She puts it in her mouth and lights hers to his. Bouncing stay warm, she nods in gratitude as the man walks off.
+16) 3) dialog: Claireece I am so sorry about today. I only want to help you. I ...Mr. Wicher says you're one of his best students and that you have an aptitude for math -or at least potential. (beat)
+16) 6) dialog: Claireece, did you hear me? Precious presses TALK.
+16) 8) dialog: I've called Ms. McKnight at Each One Teach One. It's located on the nineteenth floor of the Hotel Theresa on 125th Street. That's not too far from here. Precious presses TALK.
+16) 16) dialog: The phone number is 555-0831. I told them about you. Call or drop in, nineteenth floor.
+16) 18) dialog: Listen Claireece... If you go down tomorrow.... Look, they have just started their semester. You may be a day or 2 late... Give it a try.
+17) 0) text: Mrs. Lichenstein bounds off into the night with her cigarette.

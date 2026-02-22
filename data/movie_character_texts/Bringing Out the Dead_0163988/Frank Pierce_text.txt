@@ -1,0 +1,358 @@
+0) 0) text: An EMS "bus" careens around a corner, tires squealing, li flashing, siren whoop-whooping, swooping through Stygian canyons of New York. FRANK PIERCE, 28, drives. He wears dark cargo pants, blac boots, a white shirt with the paramedic badge, "EMS" gold logo on one collar, "OLM" on the other. "Our Lady of Merc Paramedic" is inscribed in white across the back of his navy jacket. On his belt: two-way radio, leather gloves, beeper, drug kit, multi-purpose tool kit, mini-flashlight collapsible baton. LARRY, 35, overweight, his partner for the night, rides t (shotgun), both hands clutching the dash. Frank scans the blurring cityscape for hidden danger. He a young man of slight frame and open face--his life, his possible futures, still before him: behind those open eye beneath those dark shadows: hollowness beckons. Dispatcher's voice crackles through the cab static: "Ladd 4, respond to a 10-22, four flight residential, 417 East 13 Boy, men's room Grand Central, man set his pants on fi Bad burns. 17 David, at 177 East 24, there's a woman who says a roach crawled in her ear. Can't get it o says she's going into cardiac arrest ..." Frank's detached voice speaks over the urban landscape:
+0) 1) dialog: Thursday started out with a bang: a gunshot to the chest on a drug deal gone bad. Heat, humidity, moonlight-- all the elements in place for a long weekend. I was good at my job: there were periods when my hands moved with a speed and skill beyond me and my mind worked with a cool authority I had never known. But in the last year I had started to lose that control. Things had turned bad. I hadn't saved anyone for months. I just needed a few slow nights, a week without tragedy followed by a couple of days off. The radio continues: "Zebra, 13Z, 524 East 17--"
+0) 3) text: We're there. The ambulance breaks to a halt in front of a row of vinta walk-ups. Frank and Larry jump out: Frank lugs the EKG mo and airway bag, Larry the drug box, yellow oxygen pack slung over his shoulder. Neighbors crowd around.
+0) 5) dialog: Move back. Where's the stairs? 5A.
+1) 0) text: Four flights up: Frank and Larry climbing rotting steps,  gray-yellow painted walls, red doors with three locks eac Larry, out of breath, his stomach rolling around like a bowling ball in a bag.
+2) 0) text: They enter 5A. MRS. BURKE, 55, her eyes run dry, standing the center of the room, surrounded by neighbors. Someone leads them to the BEDROOM where Mr. Burke, 60, lies unmov stretched on the bed. A young woman, MARY BURKE, 24, knee over the old man, pressing her lips to his flaccid mouth. JOHN BURKE, 30, grabs Franks arm:
+2) 2) dialog: How long ago did he stop breathing?
+2) 4) dialog: We'll do all we can. Larry ripping open Mr. Burke's shirt, prepping electrode  patches, hooking wires, Frank opening Burke's mouth, feel a puff of gas escape; Larry calling for backup. Burke's E rhythm on the monitor a flat green line. Frank's training takes over: he injects the long steel  laryngoscope down Burke's throat, he finds a vein, inject epinephrine, followed by atrophine, followed by another e no response on the monitor. Larry pulls out the paddles:
+2) 5) dialog: Clear! Clear! Larry activates defibrillator, shock--Burke's body heaves Sweat drips from Larry's nose onto Burke's chest.
+2) 7) dialog: In the last year I had come to believe  in such things as spirits leaving  the body and not wanting to be put  back, spirits angry at the awkward  places death had left them.  I  understood how crazy it was to think  this way, but I was convinced if I  turned around, I'd see Old Man Burke  standing at the window, watching,  waiting for us to finish. Frank feels Burke's heart beneath cracked ribs. The EEG  remains flat. He's dead. It's time to quit.
+2) 8) dialog: (to Larry)
+2) 10) text: Sorry. Larry stands, breathing heavy, looks for a phone. Frank t to notice relatives and neighbors standing around.
+2) 11) dialog: Do you have any music?
+2) 13) dialog: Music. I think it helps if you play  something he liked.
+2) 17) dialog: No we can't. He's got a pulse.
+2) 20) dialog: (not encouraging)
+2) 21) text: His heart's beating. A distant siren signals the arrival of backup. Frank turn to Larry:
+2) 22) dialog: Have 'em bring up a stretcher. He looks from Mary back to Mr. Burke--breathing but comat
+3) 0) text: Larry climbing through the back doors, sitting in the jum at the stretcher's head as Frank hangs IV bags, replugs E wires that have come loose. Frank looks up, sees Mary entering; he takes her arm, tur her toward the rear doors:
+3) 1) dialog: Help your family. Ride with your  mother and brother. (she hesitates)
+3) 2) text: Help your family. They need you more.    Help yourself. Mary steps out, stands in the red flashing light as Larry closes the door, Frank climbs in the driver's seat.
+4) 0) text: The EMS bus cruises up Second. Frank checks the side mirr John, Mary and Mrs. Burke pull behind in a black Ford. Se their faces, Frank flips the lights and siren on. It's to late to help Mr. Burke, but it's important to the family  that it look urgent. Frank watches passing lights, cars,  faces:
+4) 1) dialog: I needed to concentrate because my  mind tended to wander on these short  trips. It was the neighborhood I  grew up in and where I had worked  most as a paramedic, and it held  more ghosts per square foot than any  other.
+5) 0) text: Larry and Frank's 13 Zebra ambulance lined up beside two  others outside a blazing "Emergency" sign on the crowded  side street.
+6) 0) text: Every large city has a hospital Emergency Room so replete with trauma, violence and suffering it picks up the sobri "Knife and Gun Club." On Manhattan's Lower East Side it's our Lady Of Mercy, aka, Our Lady of Misery. ER: a white-lit cement box painted yellow and decorated w old framed Playbills. Four rows of six plastic chairs fac TV bolted and chained to the ceiling. The seats are fille with backed-up drunks, assault victims and "regulars," bleeding and spilling over against the walls and the floo getting up to ask their status or going out to throw up a have a smoke. Larry and Frank wheeling Burke in, two IV lines, each  connected to an elbow, tangled in EKG cables. Two LACERAT RUSSIANS scramble out of their way as they approach GRISS the large black sunglassed security guard. He looks up fr his television guide:
+6) 2) dialog: (pumping Ambu-bag)
+6) 12) dialog: We got him at Eighteen and Second.  You're closest.
+6) 14) dialog: He wanted to come here. Said the  nurses at Misery were the best.
+6) 19) dialog: I can't. I have to stay with my  patient.
+6) 24) dialog: He got better.
+6) 31) text: Don't make me take off my sunglasses. In CRITICAL CARE, Larry wheels Burke into unit three as D Hazmat turns Frank to face the room, explaining:
+6) 35) dialog: (about Noel)
+6) 46) dialog: (stock reply)
+6) 49) dialog: We'd better go outside. Quickly. Frank and Mary step out into the humid night.
+7) 0) text: Checking behind then, Frank stops. Mary pauses before she speaks:
+7) 2) dialog: (shakes head)
+7) 7) text: I'll get you some. Frank watches: Mary returns with a cup of water, gives it a grateful Noel.
+7) 8) dialog: I wouldn't do that. (Noel drinks)
+8) 0) text: 13 Zebra cruising down Avenue C, Frank at the wheel, Larr shotgun.
+8) 2) dialog: I think the moment that food hits  your mouth we'll get a job.
+8) 9) dialog: What?
+8) 11) dialog: I'm not hungry.
+8) 13) dialog: I eat. I just haven't had coffee  yet.
+8) 15) dialog: Rose was getting closer. Ever since  the call a month before, when I'd  lost her, she seemed like all the  girls in the neighborhood. One of  the first things you learn is to  avoid bad memories. I used to be an  expert, but lately I'd found some  holes. Anything could trigger it.  The last month belonged to Rose, but  there were a hundred more ready to  come out.
+9) 1) dialog: These spirits were part of the job.  It was impossible to pass a building  that didn't bold the spirit of  something: the eyes of a corpse, the  screams of a loved one. All bodies  leave their mark. You cannot be near  the new dead without feeling it. Larry gets his chicken, chats with counter clerk, returns
+9) 2) dialog: I could handle that. What haunted me  now was more savage: spirits born  half-finished, homicides, suicides,  overdoses, innocent or not, accusing  me of being there, witnessing a  humiliation which they could never  forgive. Larry climbs in, sets his take-out on the dash, hands Fra a coffee. A police walkie-talkie is in the front tray.
+9) 4) dialog: What?
+9) 8) dialog: You wanted it turned off. There's no  such thing as a good fire. People  get burned up. They can't breathe.
+9) 10) dialog: Don't push it, Larry.
+9) 17) dialog: Mr. Oh.
+9) 28) dialog: (driving off)
+9) 31) dialog: They'll just keep calling.
+9) 38) dialog: Well why didn't you say so?
+9) 46) text: Get up. Larry and Frank get Oh to his feet only to have him stumb over his lowered trousers. This time Frank lifts him, set his white ass cheeks into the wheelchair. They push him t the ambulance.
+10) 0) text: 13 Zebra heads up First, double Caduceus symbols shining  from the back of the van. Inside the cab, Larry and Frank lean out the front window to avoid the king of stink:
+10) 2) dialog: (flips on top lights)
+12) 0) text: Larry setting Oh outside the entrance, heading towards th all night deli. Frank takes out a cigarette. Mary Burke walks up the drive opening a pack of cigs. Fra offers her a light. She inhales, exhales:
+12) 2) dialog: The first is always the best.
+12) 4) dialog: You never know.
+12) 6) dialog: At least he's got people around him.
+12) 8) dialog: Even when you say the things, there's  always more things.
+12) 10) dialog: Go home. Take her home. Get some  rest. Not going to find anything out  now.
+13) 2) dialog: Larry, swing over on Eighth. We're  gonna hafta run one of these calls.
+13) 4) dialog: The biggest problem with not driving  is that whenever there's a patient  in back you're also in the back.   The doors close, you're trapped.  Four in the morning is always the  worst time for me, just before dawn,  just when you've been lulled into  thinking it might be safe to close  your eyes for one minute. That's  when I first found Rose ... Larry slows down on a side street. Frank turns to watch a homeless man. The man looks back: it's Rose. The Rose fac
+13) 5) dialog: She was on the sidewalk, not  breathing. Frank turns to Larry:
+13) 6) dialog: I'm not feeling very well, Larry. I  say we go back to the hospital and  call it a night.
+13) 8) dialog: Take me back, put me to bed; I  surrender. We've done enough damage  tonight.
+13) 10) dialog: Yeah, you're right. Larry pulls into the Jacob Riis projects by the river, sl to a stop.  Larry cuts the lights, not bothering to infor his partner what his partner already knows: they're takin a rest.
+14) 1) dialog: Tell me, you ever think of doing anything else?
+14) 3) dialog: I'd always had nightmares, but now  the ghosts didn't wait for me to  sleep. I drank every day. Help others  and you help yourself, that was my  motto, but I hadn't saved anyone in  months. It seemed all my patients  were dying. I'd waited, sure the  sickness would break, tomorrow night,  the next call, the feeling would  drop away. More than anything else I  wanted to sleep like that, close my  eyes and drift away ... TIMECUT: radio wakes Frank from his reverie.
+14) 6) dialog: (answering call)
+14) 9) dialog: Ten-four. Frank hangs up, bangs Larry's steering wheel:
+14) 10) dialog: We have a call Chief. Somebody's  bleeding, Houston and First. Larry instinctively reaches for the ignition key, starts engine, drops the ambulance into gear, hits lights, jerks the EMS bus away, still half asleep.
+14) 13) dialog: Noel, don't! Noel drops the bottle. Frank rolls down the window.
+14) 15) dialog: You really think so?
+14) 17) dialog: You came out of the hospital. You  were tied down and hallucinating.  You got some bad chemicals in your  head, Noel. There's some medicine at  the hospital that will fix that.
+14) 21) text: Pop, pop. Noel, spraying blood, chases the Punk. The crowd scatters Noel trips, falls to the sidewalk. Frank, carrying the sh bat, gets out, walks over, hunches beside Noel:
+14) 22) dialog: Noel, you didn't let me finish. We  have rules against killing people on  the street. Looks bad, but there's a  special room at the hospital for  terminating. A nice quiet room with  a big bed.
+14) 25) dialog: Well, you have your choice: pills,  injection, gas. A siren draws closer, Noel gets to his feet as Larry open the rear doors.
+14) 28) dialog: Used to be my partner.
+14) 33) dialog: It's not worth it, Tom. He's  surrendering.
+14) 36) dialog: Don't do it, Tom! Noel moans. Larry sticks his head out the back of the bus
+14) 39) text: We'll do it. Walls releasing Noel as Noel scrambles into the bus, Fran stepping over him, Larry climbing into the driver's seat, Frank closing the doors. Noel trembles:
+14) 44) dialog: (to Drug Dealer)
+14) 47) dialog: Major Tom, I'm going to Misery. You  take yours to Bellvue.
+15) 0) text: Larry charging through the night while, in back, Frank,  stethoscope in his ears, wrapping a tourniquet around the Drug Dealer's arm: he's dying fast.
+15) 1) dialog: You're gonna feel a stick in your  arm. Don't move.
+15) 5) dialog: You're not going to die.
+15) 7) dialog: (to Noel)
+15) 11) dialog: I can't. I got to do the other arm.
+15) 13) dialog: (to Noel)
+15) 14) text: Hold this--right there. If you let  go, I swear, I won't kill you. Noel holds IV bag as Frank searches for a vein, inserts s IV needle.
+16) 0) text: Larry pulls into Our Lady of Mercy Emergency. Frank says the boy:
+16) 1) dialog: It's all right. We're here. No answer. Frank feels for a pulse, listens with the  stethoscope: nothing. Larry opens the doors.
+16) 3) dialog: He's not breathing. Call a code. Larry and Frank pull the dead boy out of the bus.
+17) 0) text: Frank finishes his report, hands a copy to the clerk, loo around the now almost empty waiting area. John Burke slee slumped in one of the chairs. Griss stands at his post. Pulling out a pack of cigarettes, Frank steps outside.
+18) 0) text: Frank exits, lights up. The sky is going blue. Inside the open rear doors of 13 Zebra, Larry mops up bloody floor. Mary Burke, weary, steps beside Frank.
+18) 3) dialog: It's okay. They're prescription. (beat)
+18) 8) dialog: Yes.
+18) 10) dialog: Yes.
+18) 13) dialog: Our Lady of Misery.
+18) 15) dialog: No.
+18) 17) dialog: He's working a double shift.
+18) 20) dialog: She should go home.
+18) 22) dialog: Here she is. Mrs. Burke, dazed, steps out. They join her.
+18) 26) dialog: Mrs. Burke, please, they'll take  care of him. You should go home now.
+18) 28) dialog: Larry and I'll drop her back home.  Help me get her to the ambulance.
+19) 0) text: Frank's studio apartment betrays a minimal existence: sin bed, table, fridge and stove, loveseat, bookshelf, televi The bookshelf contains a CD player, medical texts, old  schoolbooks ("Romantic Poetry"), paperback novels and,  incongruously, a picture book of women's fashion. A framed commendation from the New York Fire Department h beside and open closet of work clothes, corduroy jacket, ties on a hook. Remnants of a fast food breakfast on the  table. Aluminum foil covers the windows, blocking out the sunlight. Frank stands bareback at the single open window, smoking, drinking from a glass of whiskey, looking across the gray cityscape of high rises and water tanks: winding down fro the night's work:
+19) 1) dialog: Saving someone's life is like falling  in love, the best drug in the world.  For days, sometimes weeks afterwards,  you walk the street making infinite  whatever you see. Once, for weeks I  couldn't feel the earth. Everything  I touched became light. Horns played  in my shoes; flowers fell from my  pockets ... TIME DISSOLVES: Frank paces the room. Pours himself anoth drink.
+19) 2) dialog: You wonder if you've become immortal,  as if you saved your own life as  well. What was once criminal and  happenstance suddenly makes sense.  God has passed through you, why deny  it, that for a moment there, God was  you. TIME DISSOLVE: window is closed. Frank tosses in his slee Nightstand alarm buzzes. Frank sits up, looks at the cloc Stretching his neck, he walks over to the sink, runs wate on his hands and face.
+21) 0) text: Frank standing on one foot before the desk of CAPTAIN BAR 50, ex-paramedic and lifetime civil servant.
+21) 1) dialog: Good morning, Captain. Capt. Barney looks over to MISS WILLIAMS, his secretary,  seated at a desk perpendicular to his:
+21) 4) dialog: I'm sick. That's what I've been  telling you.
+21) 6) dialog: It's okay. I'll just get my things  out of the locker.
+21) 8) dialog: I'm sorry Captain. Don't take it too  hard.
+21) 10) text: Sorry. (back to Frank)
+21) 12) dialog: You know they won't do it. It's up  to you. You gotta be strong.
+21) 14) dialog: You swore you'd fire me if I came in  late again.
+21) 16) dialog: I don't think a week's gonna do it.
+22) 0) text: 12 Young heading downtown, lights off, slowing down for c streets. At the wheel: MARCUS, 45, black, reserved, chin  erect, seeming too old for the job. Frank rides techie.
+22) 2) dialog: The captain almost fired me tonight.  I'm on my way out. Anytime now.
+22) 4) dialog: The ghosts--
+22) 6) dialog: I think the worst is over.
+22) 11) dialog: Hey, Marcus, it's Love. I haven't  heard her in months.
+22) 13) dialog: Is it true that you and Love went on  a blind date? (Marcus looks away)
+23) 0) text: The Doorman leads Frank and Marcus through the smoky graf covered backstage ante-rooms to a cubicle where a knot of club types and band members hover around IB BANGIN, 18 ye old white rapper, face up, blank-eyed and breathless on d impacted carpet. Hip-hop music echoes from the club PA. Frank kneels beside IB Bangin, taking a pulse, realizing  it's the gray and black stage makeup making him seem DOA. pulls up IB Bangin's eyelid, shines a light into the pupi
+23) 6) dialog: (whispers)
+23) 33) dialog: (to IB Bangin)
+23) 34) text: C'mon. Frank and the Girlfriend guide IB Bangin to the door as M collects the gear.
+24) 0) text: IB Bangin sitting with Nurse Constance in triage. Past Gr Frank talks with Dr. Hazmat:
+24) 1) dialog: That guy I brought in yesterday,  post-cardiac arrest. He's gone.
+24) 3) dialog: What do you think?
+24) 5) dialog: The family know?
+25) 2) dialog: Where the guy jumped and you almost  fell. No, you never told me that  story.
+25) 4) dialog: Make a left here. I want to stop.
+26) 1) dialog: I'll be right back. Frank gets out, walks over to the intercom, pushes the bu for 5A. Mary answers:
+26) 3) dialog: Hello, I'm Frank Pierce, from the  ambulance last night. I brought your  father into the hospital and I just  learned some news.
+26) 6) dialog: Well, the doctor says he's showing  some movement. It's still early, it  might mean nothing, but I thought  you'd want to know.
+26) 8) dialog: You look so different.
+26) 10) dialog: I think it looks good.
+26) 12) dialog: How is she?
+26) 14) dialog: I was just going to get some food.  Pizza. Maybe we could.
+26) 16) dialog: Be tough to get a taxi here. We can  give you a ride if you like.
+26) 18) text: Okay. Frank opens the back doors of the bus, climbs in behind M They sit on the bench opposite the stretcher.
+26) 20) dialog: She's the daughter of a cardiac arrest  I brought in last night. I told her  we'd give her a ride back to Misery.  Her father's showing signs of  improving.
+26) 22) dialog: I'm hungry too. We gotta get some  food after this.
+27) 0) text: Frank and Mary walking past the triage station toward the curtained corner where her father lies. Next to Burke, Dr Hazmat assists an AIDS patient amid a forest of IV tubing Mr. Burke lies prone, two IV lines hung from poles, intub by a hose running to the ventilator, a NG tube covering h nose. His eyes are permanently half open. Burke's hands a feet are tied by white nylon restraints. Mary takes her  father's hand as Frank pulls the curtain.
+27) 10) dialog: Why don't we go outside for a little  while, wait until this passes. They step away.
+28) 0) text: Passing Griss (reading anti-white agitprop) and waiting r regulars, Frank leads Mary to a small rectangular paramed locker area: sofa, desk, two banks of gray lockers, walls decorated with hospital rules and regulations.
+28) 1) dialog: He wants to pull that tube out. It's  pretty painful--that's why they keep  him sedated--but it's a good sign.
+28) 3) dialog: That's how it's done. You have to  keep the body going until the brain  and heart recover enough to go on  their own.
+28) 5) dialog: (reluctant)
+28) 9) dialog: Thanks. Marcus exits.
+28) 12) dialog: It's best not to ... (off her look)
+28) 15) dialog: You remember that pizza place, Joe's  on Tenth Street maybe fifteen years  ago?  When you ordered a pie it came  with a little plastic madonna in the  middle?
+28) 17) dialog: I grew up on Elizabeth. I went to  Blessed Sacrament.
+28) 19) dialog: We moved out after that. Upstate.
+28) 22) dialog: They're fine. My old man was a bus  driver, mom a nurse--I was sort of  born to it, I guess.
+28) 24) dialog: Ah, no. I was. (beat)
+28) 28) dialog: It's been bad lately, but it's always  bad.
+28) 30) dialog: Five years.
+28) 32) dialog: You learn to sort of block it out,  you know, like cops fence off a crime  scene. But then something good will  happen and everything will just glow.
+28) 34) dialog: I think I'd remember that.
+28) 36) dialog: Mostly. It must be my face. My mother  always said I looked like a priest.
+28) 39) dialog: Sure. Frank puts his hand out but she's already on her feet. He grabs the last slice of pizza, hands it to Griss as she h back to Critical Care.
+28) 40) dialog: Look after her, Griss, okay? Griss nods.
+29) 2) dialog: What about rule number three: Don't  get involved with dispatchers named  Love.
+29) 6) dialog: The street is so much more  unpredictable than the ER and to  prepare for the unexpected I was  taught to act without thinking, like  an army private who can take apart  and reassemble a gun blindfolded ... Frank notices another EMS bus: Tom Walls wheeling a stret Noel, face bloodied, lies restrained as Walls' partner op the rear doors.
+29) 7) dialog: I realized that my training was useful  in less than ten percent of the calls  and saving someone's life was rarer  than that. As the years went by I  grew to understand that my role was  less about saving lives than about  bearing witness. I was a grief mop  and much of my job was to remove, if  even for a short time, the grief  starter or the grief product. It was  enough I simply showed up. Marcus continues as if uninterrupted:
+29) 10) dialog: She's no whore, Marcus.
+29) 12) dialog: She wasn't looking at you, man, she  was looking at me. Frank, looking back at the Rose face, hears her faintly s
+29) 14) dialog: I didn't kill you. Marcus, not hearing "Rose's" voice, replies:
+29) 16) dialog: I need a drink, that's all. Dispatcher Love's voice cuts through:
+30) 0) text: Frank and Marcus standing in a no-income apartment with t cardiac equipment. MARIA, a 17 year-old Hispanic girl, li moaning and breathing shallow on a ratty sofa. CARLOS, he equally young boyfriend, watches anxiously, holding a can for light.
+30) 2) dialog: (to Maria)
+30) 5) dialog: (hands on stomach)
+30) 8) dialog: Are you pregnant? Estas embarazada? Maria shakes her head, looks away.
+30) 9) dialog: Can you walk? Puedes caminar?
+30) 11) dialog: Thanks for the translation. (to Maria)
+30) 14) dialog: Let's have a look.
+30) 22) dialog: (inspecting Maria)
+30) 24) dialog: It's coming. (to Carlos)
+30) 27) dialog: Three legs.
+30) 29) dialog: Backup?
+30) 32) dialog: She's having a baby. Twins.
+30) 34) dialog: You can trust me on this one.
+30) 36) dialog: You take the first one. Frank looks up at the screaming mother: it's not her face It's Rose. The Rose face.
+31) 0) text: Frank rushing past Nurse Constance, carrying a newborn in thermal wrap, passing Noel restrained on a gurney:
+31) 1) dialog: She had a pulse.
+31) 4) text: Odette give me that tube. All right,  flatline--let's do CPR. step back,  Frank. How many months?
+31) 5) dialog: Can't tell. It was a breech, twins.  The other one seems okay, though.  Marcus is taking him and the mother  to Maternity. Across the room an obscenity-spouting FEMALE CRACKHEAD be restrained by a patrolman and hospital security--adding t the sense of emergency and chaos. DR. MISHRA, 50, Pediatr MD, and nurses squeeze toward newborn edging Frank back.  Mishra takes an osteocatheter out of the cart, forces it  into the now obscured baby as Nurse Constance massages th infant's chest. Hazmat steps over to the now restrained Crackhead.
+32) 1) dialog: Don't give me that look.
+32) 3) dialog: You know what I'm talking about.  It's all over your face. That I-just- saved-a-little-baby-boy look.
+32) 5) dialog: I don't want to hear about it, okay?  That's three jobs for the night.  It's over. Three jobs and time for a  drink. Six am, the cocktail hour.  Pass the bottle; I know you're  holding. Marcus reaches under the seat, pulls a pint of vodka, a q of orange juice and two cups out of an old gym bag, passe them to Frank.
+32) 7) dialog: I hate vodka.
+32) 9) dialog: (pours drink)
+32) 13) dialog: (knocks vodka back)
+32) 16) dialog: Don't do it, Marcus. Tell her the  bus died, our radio's not working,  our backs are out. Tell her we're  too drunk to take any more calls.
+32) 24) dialog: I quit! I'm through!
+33) 0) text: Frank turning the corner, checking his watch, about to en the Dark Bar across the corner from the hospital, watchin Noel run past him and away, skipping from one foot to the other.
+33) 1) dialog: So long, Noel. The Emergency doors open: Mary Burke, head down, looking  neither direction, walks away from Frank. Griss steps out after her. Frank joins him:
+33) 2) dialog: What's going on, Griss?
+33) 4) text: Having a tough time of it. Mary starts to run. Frank follows. She pushes her way thr a group of high schoolers; Frank does likewise, keeping h distance. Five blocks later, Mary hesitates at a plaza outside the  Stuyvesant Town projects,
+34) 0) text: Frank stops a few steps away from Mary; Mary turns.
+34) 1) dialog: Excuse me. You seemed like you were  in trouble.
+34) 4) dialog: Don't seem so bad to me.
+34) 7) dialog: Okay. Mary takes a few steps, turns back.
+34) 9) dialog: Maybe I should come up with you.
+34) 11) dialog: Nothing's going to happen. I'll come  with you.
+35) 0) text: The dinged metal doors shudder shut as Frank follows Mary into the graffittied elevator. It jumps three feet upward stops, then continues, metal scraping concrete at each pa floor.
+35) 2) dialog: You asked me not to come.
+35) 4) dialog: Fifteen minutes.
+35) 6) dialog: We can still go back. I'll walk you  home. You sleep a couple of hours,  watch some TV, take a bath.
+36) 0) text: Mary turns to Frank:
+37) 0) text: Frank paces past the sleeping security guard, checks his  watch. He presses the elevator button.
+38) 2) dialog: Mary Burke. She's a friend.
+38) 9) dialog: Frank Pierce.
+38) 11) dialog: Where is she?
+38) 13) dialog: She asked me to pick her up.
+38) 15) dialog: I better just go in and see her. Kanita sits on the sofa next to an unshaven sleeping man. Coates gestures:
+38) 18) dialog: Mary. Mary, we've got to get going.
+38) 22) dialog: Mary, we really have to go. Mary blindly swings her fist at him, collapses unconsciou back to the mattress.
+38) 24) text: C'mon, Frank. Coates escorts Frank back to the LIVING ROOM.
+38) 26) dialog: (sits)
+38) 29) dialog: Did you give Mary something called  Red Death?
+38) 31) text: Tell me something, Frank--does killing  your clients make good business sense  to you? The kids selling that shit  have no sense. They'll be taken care  of, don't worry about that.
+38) 32) dialog: I should be going. I just quit.
+38) 34) text: You take one of these, sleep two  hours, that's all you need. (Frank hesitates)
+38) 35) text: Why do you think I'm telling you  this, Frank--for my health?  You  ought to look at yourself in the  mirror, man. Kanita, get him a glass  of water. Frank watches as Kanita gets up, walks to the kitchen. Co places the pill in his hand.
+38) 36) dialog: Is this what you gave Mary?
+38) 39) dialog: I guess I'll be going.
+38) 43) dialog: Perfect.
+38) 48) dialog: You sure?
+38) 50) dialog: Huh?
+38) 54) dialog: One more time! Rose going blue, pulse rate dropping, EKG Slowing: Jim  Morrison singing.
+38) 56) dialog: No way! Larry ripping the tube from Frank's hands, taking over,  pushing Frank aside, trying CPR, intubating Rose, air mov into her lungs--it doesn't matter. Rose is gone. Frank hears a SCREAM: it's his own voice.
+39) 0) text: Frank standing screaming in the living room. CY walking o Kanita standing, the sleeping man awaking.
+40) 0) text: The elevator doors open. Frank sets Mary on her feet.
+41) 0) text: Mary walks a Few steps into the plaza, stumbles; Frank ca her.
+41) 4) dialog: Because you can barely walk. Frank walking slightly beside and behind, lights a cigare
+42) 2) dialog: I need to sit down a minute.
+43) 0) text: FADE IN: a passing siren wakes Frank. He thinks back, loo around the darkened room, realizes where he is. The dog c over, licks his hand.
+43) 1) dialog: Hello, I'm Frank. Mary's friend. A  very close friend who loves animals. He removes the blanket Mary has laid over him, stands:
+43) 2) dialog: Hello? Frank walks cautiously through the dark, finds a bathroom lit by a glowing Mickey Mouse switch. He flips on the swi a string of green and red Christmas lights glow. Three ty of soap sit on the sink. He turns on the faucet:
+43) 3) dialog: I washed my face with three kinds of  soap, each smelling like a different  season. It felt good to be in a  woman's room again, especially a  woman who wasn't comatose or severely  disabled. I felt that perhaps I had  turned a corner, like I saved someone,  though I didn't know who.
+44) 0) text: Frank standing at Captain Barney's desk.
+44) 2) dialog: No ...
+44) 5) dialog: What if there is no tomorrow?
+45) 0) text: Frank walks toward Sixteen XRay as Walls gets out of the  front seat. The EMS vehicle is dented and rusted, a relic wars and a hodgepodge of parts.
+45) 2) text: This old bus is a warrior, Frank,  just like us. I have tried to kill  him and he will not die. I have a  great respect for that. Frank makes a "be right back" gesture, walks into ER.
+46) 0) text: Saturday night at the Knife and Gun Club: the joint is  hopping, the sound system blaring. Frank passing Griss holding back an angry Hispanic man wi a bleeding arm:
+46) 2) dialog: Morning, Griss.
+46) 5) dialog: Mr. Burke?
+46) 7) dialog: You do it.
+46) 10) dialog: I thought he was getting better.
+46) 12) dialog: Why not?
+46) 14) dialog: (takes paddles)
+46) 15) text: Clear! Frank shocks Burke: his body convulses.
+47) 2) dialog: I'm sick, Tom. I need a cure. (injects himself)
+47) 5) dialog: (pulls off mask)
+47) 8) dialog: Great to be drunk. Sobriety's killing  me.
+47) 10) dialog: Our mission is coffee, Tom. A shot  of the bull, Puerto Rican espresso.
+47) 12) dialog: The cure's not working, Tom. Maybe  we should go back to the hospital.
+47) 18) dialog: Tom, where are the Band-aids? This  is an ambulance, isn't it?
+48) 13) dialog: This is the worst suicide attempt  I've ever seen. You feel the pulse?  Here. That's where you cut, and it's  not across, it's down like so. (takes out his knife)
+48) 17) dialog: With all the poor people of this  city who wanted only to live and  were viciously murdered, you have  the nerve to sit here waiting to die  and not go through with it. You make  me sick. Take it. Cut Wrists bolts out of the back of the bus, trips as he  hits the ground, runs down the street, turning the corner still holding the patch to his forehead.
+50) 0) text: Frank smoking at a formica table, his walkie-talkie uprig next to an ashtray. Walls returns with two espressos as t Dispatcher rattles on.
+50) 2) text: Sounds like they're trying to clean  up the bus terminal tonight, Frank doesn't answer. Tom shines his mini-flashlight in  Frank's eyes:
+50) 5) dialog: C'mon, Tom. The city's burning.
+51) 0) text: Frank at the wheel, driving high speed: radio full volume
+51) 2) dialog: I feel the need, the need for speed.  I'm driving out of myself.
+51) 4) dialog: I've taken that into consideration.
+51) 6) dialog: I never felt better in my life.
+51) 8) dialog: (keys radio)
+51) 11) dialog: (to radio)
+51) 14) dialog: It's early for him.
+52) 0) text: Police cars, fire engines, a massive Emergency Service re truck all flashing dome lights on the street, on the plaz surrounding Cy Coates' building: cops, Swat team, spotlig onlookers. Frank and Tom, getting out, looking up: the spotlit figur of Cy Coates, thirteen floors above, suspended on a raili legs dangling.
+52) 2) dialog: Better bring it all.
+53) 0) text: Frank and Tom, lugging their equipment, meet up with cops firemen and their rescue equipment.
+53) 1) dialog: The elevator's fucked. We'd never  all fit anyway. Let's go.
+53) 7) dialog: (to Walls)
+54) 0) text: Frank steps out with the officers. The door to 16M is ope Kanita lies half in, half out the door, a perfectly round hole above her eye, splinters of bone and blood down the  side of her nose. The carpet is soaked with water; shards of glass lie amid dying fish. A cop returns from the rear hall of the apart stands before photo of volcano:
+54) 2) dialog: I'm going to thirteen. Frank heads clown the stairs.
+55) 0) text: Frank emerges on thirteen: Walls, the panting Police Serg and team have overturned the furniture in 13M: the absent owners would have trouble recognizing it. The floor is co with gas-powered metal cutters, acetylene torches, ropes, harnesses. A trail of blood leads to where Walls stands, Tiger's pro body behind him:
+55) 2) dialog: (about Coates)
+55) 5) dialog: How's he doing?
+55) 7) dialog: Does that hurt?
+55) 9) text: No! Frank, IV bag in his teeth, putting an oxygen mask on Coa
+55) 10) dialog: I don't think you've hurt any major  organs. (sets IV line)
+55) 12) dialog: They're gonna torch the fence. You're  gonna feel the metal getting warm,  maybe very warm.
+55) 15) dialog: You're going to live.
+55) 17) dialog: I was tired. I needed a coffee.
+55) 19) dialog: Dead.
+55) 21) dialog: No.
+55) 31) text: I'm so sorry, sir. The cops lift Frank and Coates onto the balcony.
+57) 0) text: Frank walking out of the restroom wiping water off his fa looking at the gurney where Coates lies on his side, meta spike still sticking through his hip, IV line running to arm, eyes closed. Nurses walk past Coates: he's stabilize waiting his turn. CY, take a number. Frank spots Hazmat at Burke's cubicle, walks over.
+57) 3) text: Where's that Valium? Nurse Crupp walks briskly over, injects needle into one o Burke's IV bags. Burke's voice speaks in Frank's head:
+57) 7) dialog: How many times have you shocked him  tonight?
+57) 9) dialog: What do you do, just have someone  follow him around with a defribilator?
+57) 11) text: That's good, Frank. No, but they  might surgically implant one, about  the size of my thumb. It goes near  the shoulder here, with two electrodes  connected to the heart. It sends a  shock whenever it senses a drop in  blood flow. Amazing, isn't it?
+57) 12) dialog: A medical miracle.
+58) 0) text: Frank notices Mary Burke in waiting area with her brother mother and several others. Gone is the lost daughter, the scared junkie. Tonight she's dressed for strength: leathe jacket, blue jeans, black work boots.
+58) 3) dialog: (to Mary)
+59) 0) text: Frank offers her a cigarette. Walls waits in 16 XRay, now parked at the curb.
+59) 2) dialog: He'll be all right.
+59) 4) dialog: It'll be a while before he's up and  running again.
+59) 6) dialog: No problem. Thanks for letting me  crash. It was the best sleep I've  had in months. I used some of your  soap.
+59) 9) dialog: Can I bring you something back to  eat--a falafal, some pizza?
+59) 11) dialog: No, the city doesn't discriminate.  It gets everybody. Walls flashes 16 XRay's headlights, hits the horns.
+59) 12) dialog: I gotta go. Another call. Frank, his heart pounding, steps closer to her.
+59) 13) dialog: We're all dying, Mary Burke. He leans as if to kiss her.
+59) 15) dialog: There's no time. He places his hand on her shoulder, kisses her lightly, w toward Walls and the waiting ambulance.
+60) 0) text: 16 XRay is cooking now--Walls at the wheel, Frank shotgun passing a pint of whiskey back and forth: radio blasting- INXS: "The Devil Inside."
+60) 2) dialog: As long as we keep moving. No standing  still.
+60) 6) dialog: C'mon, Tom, pick up a job.
+60) 8) dialog: Let's get in a fight, then.
+60) 10) dialog: That's your job. Just keep driving,  keep moving. No stopping. We're  sharks. We stop too long, we die. Walls hits the accelerator: the old bus jerks forward:
+60) 11) dialog: Let's break something, Tom. Let's  bust something, bomb something.
+60) 13) dialog: (taking a drink)
+60) 16) dialog: Destruction, distraction. I feel the  need.
+60) 18) dialog: What's the reason? Give me a reason,  Tom.
+60) 24) dialog: He's crazy. He can't help it.
+60) 28) dialog: Okay, whatta I do?
+60) 30) dialog: That's ridiculous.
+60) 32) dialog: You learn that in the army?
+60) 33) dialog: Flatbush. Walls slips out, crouches beside the bus. Frank, stepping out, walks over to Noel as he whacks the bat through the  hatch of a Pinto.
+60) 34) dialog: That's a hell of a swing you got  there, Noel. I'm thinking Strawberry  in his prime.
+60) 36) text: Me.  I swing like Reggie. Mr.   October. Number three, game six,  World Series. Noel hauls back, lays into a Volvo: glass shatters. Noel  holds the bat out, extends handle towards Frank:
+60) 38) dialog: No, I'd better not.
+60) 40) dialog: Yeah? Frank, intrigued by Noel's suggestion, has forgotten Wall plan. He takes the bat as Tom sneaks behind Noel, crouchi
+60) 41) dialog: What the hell. (spits into hands)
+60) 44) dialog: The pitch, high heater. Bucky knows  what's coming. He steps in, smash,  over the green monster. Frank cocks the baseball bat, relishing every moment, swi into the Volvo's side window. Shattered glass flies on hi hands and clothes. Walls, fed up with this, stands:
+61) 0) text: Mini-flashlight leading the way, Frank steps gingerly dow the refuse-strewn alley. Ahead: footsteps. He kicks something, thinking it's trash, looks down; a bo rustles, pair of sleeping eyes look up. Suddenly everything seems silent. He passes a row of glow red doors. Shadows flash in the distance. He hears a woma crying, shoots his flashlight her direction: nothing. Frank hears the voice again: Rose's voice:
+61) 2) dialog: I didn't mean to.
+61) 4) dialog: I tried to help. I wanted to. Shadows like hands extend against the wall ahead.
+61) 8) text: To the moon, Alice! You little  motherfucker! Frank charges forward into Walls, sending Tom, the baseba bat flying. Walls on the ground. Frank bends over Noel: N face covered with blood, gasping for air, blowing red bub convulsing.
+61) 9) dialog: (to Walls)
+61) 12) dialog: Do it!
+61) 14) text: Frank!
+61) 15) dialog: (to Noel)
+61) 19) dialog: You're going to make it! You're going  to make it! Pressing Noel's chest, Frank lowers his mouth, starts CPR His mouth to Noel's. In the distance: Walls' footsteps  returning.
+63) 0) text: Frank and Tom, their shirts blood-stained, pushing Noel d Skid Row, past Griss, past Nurse Constance. Tom wheels, F carries the IV bag.
+63) 3) dialog: (to Nurse Constance)
+63) 6) text: Jesus Christ. Nurse Crupp! (to Frank)
+63) 8) dialog: No.
+63) 10) dialog: Where's Burke?
+64) 0) text: Frank Pierce walks down the hospital corridor, steps into room 212. Burke lies, tubed, wired and tied to life support. Blue l comes through the window. On the EKG monitor: a slow stea green endless line: up, down. Frank takes a moment, exhales. One by one, Frank flips off the machines. The clanging EK ALARM is followed by the bass honking of the respirator a and two tweetering IV-drip alarms. Frank, holding Burke's pulse, watches the life go out of  him. Hearing commotion outside, Frank flips the machines  back on: the EKG monitor is flatline. A FLOOR NURSE rushes in, feels for Burke's pulse.
+64) 2) text: Code! Frank steps back as the Nurse hits the emergency switch.
+64) 10) text: You gonna tell the family? Frank nods.
+65) 0) text: Frank walks out of Our Lady of Mercy, heads down the side street. He passes Tom Walls wielding a giant flashlight,  smashing Sixteen XRay's headlights, denting the hood and  side windows.
+66) 0) text: Frank rings the buzzer. Mary, sleepy-voiced, answers:
+66) 2) dialog: Frank.
+67) 0) text: Mary, wearing a burgundy robe, opens the door. Frank says nothing. Her expression darkens. Frank looks at her again: it's not Mary, it's Rose. Mary Rose's face.
+67) 1) dialog: He's dead, Rose. Your father passed.
+67) 3) dialog: He coded. They shocked him one too  many times. I'm sorry.
+67) 5) dialog: I'm sorry.
+67) 8) dialog: Yes. Rose/Mary opens the door wider, closes it behind Frank.
+68) 0) text: Rose is Mary again: she and Frank lie clothed on her bed. leans his head against her breast as she holds him. His e close: sleep.

@@ -1,0 +1,92 @@
+10) 0) text: A FIGURE, seated with its back to the door, turns to see Kelvin enter.  This is SNOW.  He looks Kelvin up and down his expression wary and alert.
+10) 2) dialog: Yes.  We heard. Kelvin takes a step forward, and Snow recoils.
+10) 4) dialog: He's dead.
+10) 6) dialog: Suicide. Snow exhales, then looks up as though he's remembered something.
+10) 7) dialog: You didn't bring any chocolate, did you?
+10) 9) dialog: (musing) I love chocolate.  I realized just yesterday how much I love it. (beat, then he recovers) I thought maybe, if they let you bring personal effects, you might have snuck some through, because... well, I've been thinking about it. A long beat as Kelvin stares at Snow.
+10) 11) dialog: I can't talk just now.  I'm too tired.
+10) 13) dialog: In his lab.  He won't let you in.
+10) 15) dialog: Kelvin, if you see anything unusual... Kelvin stops, but doesn't turn around.
+10) 16) dialog: ... try to stay calm.
+13) 0) text: Snow is lying on his bunk.
+13) 2) dialog: (sits up a little) Why, who did you see?
+13) 4) dialog: Who was it?
+13) 7) dialog: Oh, that's a relief. Snow lies back down.
+13) 9) dialog: How much sleep do you need?
+13) 11) dialog: How long can you go without sleep?
+13) 13) dialog: Well, when you do go to sleep: barricade your door. Snow rolls over, away from Kelvin.
+20) 0) text: Kelvin, on the edge of his bed.  He wants to tear himself inside out. A voice calls over the intercom: Snow's.
+20) 1) dialog: Was her breakfast conversation that bad?
+20) 3) dialog: I told you, try to stay calm.  You're supposed to be the psychologist of the bunch.
+20) 5) dialog: Personally, I think it's God.  At least, it fits my definition.
+20) 7) dialog: I'm not sure. (beat) It started with Gibarian.  He locked himself in his room and refused to talk except through a crack in the door.  He covered the video lens.  Obviously we thought he was having a nervous breakdown. I don't know why he didn't tell us he had somebody in there.  By this time, we were getting visitors, too.  He was desperately trying to figure it out.  Day and night. (beat) Who was she?
+20) 9) dialog: Dead? Kelvin nods.
+20) 10) dialog: She has materialized from your memory of her.  What was her name?
+20) 12) dialog: It started about three months ago.  Right after the government sold the expedition.  We were ready to go home.
+20) 14) dialog: Probably.
+20) 16) dialog: Told you what? A beat.
+20) 17) dialog: What will you say?
+20) 19) dialog: What are you going to report back to Earth?
+20) 21) dialog: An enormous amount of money changed hands to get control of this project.  We are in little danger of being left alone for long. (beat) You'll need to do something.  Otherwise they'll be sending someone out to recover you.
+20) 23) dialog: That's ludicrous.  This is contact.  We have found God.  The only issue is figuring out how to prove this in a way that will make sense back on Earth.  So how will we describe it, if we choose to describe it at all?
+21) 0) text: Before Kelvin's arrival. Gibarian is talking to Snow and Sartorius.
+21) 3) dialog: It's God.
+21) 7) dialog: We're not even sure it will let us leave.
+33) 19) dialog: Kelvin, you awake?
+33) 21) dialog: Can you meet me and Sartorius on B deck in an hour?
+33) 23) dialog: Just a little strategy session.  But in person this time.
+36) 0) text: Snow and Sartorius wait for Kelvin.
+36) 1) dialog: He won't do it.
+36) 3) dialog: He won't. Kelvin enters, with Rheya.  Snow and Sartorius exchange glances.
+36) 6) dialog: We want to talk freely.
+36) 11) dialog: It's an experiment.
+36) 14) dialog: The same vulnerabilities? He nods again.
+36) 16) dialog: And when a given situation no longer corresponds to the normal faculties of the... original, the visitor suffers some sort of disconnected consciousness.
+36) 18) dialog: Are the actions of Solaris premeditated?
+36) 20) dialog: I'm just trying to find an explanation for the continual reappearances.
+36) 24) dialog: It's like they're plugged into a game, which goes around and around, endlessly repeating itself.
+49) 1) dialog: You're unnerved because you've spent your whole life thinking nobody is looking over you, and suddenly your subconscious is an open book.  We are, for the first time, experiencing changes in natural reality by a force not our own.  That proves that --
+49) 3) dialog: If God is beyond our comprehension, and she -- (meaning Rheya) -- is here for reasons that can't be understood, isn't God here?
+49) 5) dialog: Stop equivocating!  Unbelievable, how you equivocate!  You, the atheist, you're more dogmatic than any holy person I've ever seen!  This is happening, Kevin.  Wake up.
+49) 7) dialog: Who are you trying to convince? Kelvin just looks back at Rheya.
+49) 8) dialog: It will end badly.  As inevitably as the rising of a bubble. Kelvin doesn't respond.
+49) 9) dialog: Let's all meet tomorrow.  Sartorius has some new ideas, about making it stop. Kelvin just keeps staring at Rheya, asleep.
+55) 0) text: Kelvin, Rheya, Sartorius, and Snow.  They are in the midd of a heated discussion.
+55) 1) dialog: Gibarian was under enormous --
+55) 19) dialog: We didn't even get to hear his new ideas. Snow wanders toward the door.
+55) 20) dialog: I'm not feeling well. He passes Kelvin and leaves. Kelvin watches him, then looks at Rheya.  She seems dazed
+57) 0) text: Rheya is asleep.  Kelvin is talking to Snow on the videophone.
+57) 1) dialog: We can liquidate the station.  Take the Athena back.
+57) 3) dialog: Of course, when we return, we'll be regarded as lunatics if we tell the truth. (shrugs) We'll chalk it up to isolation, collective derangement.
+57) 5) dialog: Well, I think we're reaching the point of diminishing returns here, right?  Certainly it's learning more about us than we'll ever learn about it.
+57) 7) dialog: Perhaps it did.
+57) 9) dialog: But they are human.  They certainly become human with incredible speed.  First they're like they were in our memory, but then they fill in on their own.  DNA doesn't determine the hundreds of trillions of connections that occur in the brain, it's not dense enough.  They build up with experience.
+58) 0) text: Quick glimpses of Rheya.  In several of them she is in repose, thinking, as if to illustrate Snow's point.
+59) 2) dialog: That's right.  And we all have to sleep, eventually.
+67) 0) text: Kelvin is carrying Rheya.  Snow sticks his head out of a passing room.
+67) 1) dialog: What happened?
+68) 0) text: Kelvin puts Rheya on the bed.  Her face and throat have returned to normal, but she is not breathing.  Kelvin goe and puts his head to her chest, but doesn't hear what he hoped to hear.  He stands, still looking at her.  Snow se very detached. An uncomfortably long moment as we realize she is actuall not going to wake up.
+68) 2) dialog: She'll come back, don't worry.  But then what?  My theory is she can only live here, that she will die if she leaves this ship. Kelvin is still looking at Rheya, who is shaking a little harder; it's feeling like a seizure now.
+68) 3) dialog: Why do you think she hasn't suggested that?  It's the most obvious solution: Escape.  She knows she can't leave here --
+68) 5) dialog: Oh, this one you love?  What about the first one, the one you fucked and then put into a rocket and blasted into space?  You didn't love her? Rheya is shaking much harder now, Kelvin tries to hold he still, but she's too strong.  He stands, reluctantly, and watches her.
+68) 6) dialog: What happens if she comes back?  Is that polygamy?  And even if you could take her home, how would you get her through?  You think they're not going to notice her? Rheya is shaking violently now, as if a rippling rhythmic force were coursing through her.  Snow, as he looks dispassionately on the two of them:
+68) 7) dialog: I never get used to them, these... "Resurrections". He leaves. Rheya continues her process of "waking up" -- it's violen even sexual.  She spasms to a peak of some sort, and then slowly returns to normal. Kelvin puts his hand on her forehead. She gradually begins to open her eyes.  She looks at Kelv It takes her a moment to realize she shouldn't be seeing she shouldn't be seeing anything.  She should be dead. She begins to cry.
+81) 0) text: Kelvin is on the videophone to Snow.
+81) 2) dialog: She knows everything?  Does she know she came once before and you put her in --
+81) 4) dialog: What do you want?
+81) 6) dialog: (feigning innocence) What plan?
+81) 8) dialog: What do you want to do, leave the station with her?
+81) 10) dialog: Kelvin, she'll disintegrate.  You don't believe me?  Let's radio that shuttle pod you launched -- better yet, let's go get it.  I've charted it's trajectory, only take a few hours...
+81) 12) dialog: Maybe she doesn't need any.  Should we check? Kelvin just stares at him.
+81) 13) dialog: Who are you trying to please?  Yourself?  Her?  Which her, this one or that one.  Can you face both?  We are in a situation that is beyond morality.  So: Leave with her.  You'll see the transformation.
+81) 15) dialog: You'll see her die, that's all.  They're mortal, despite what she told you.  She will die.  Then what will you do?
+81) 17) dialog: You do, you don't.  She's willing to give her life, you're willing to give yours, it's touching and magnificent, anything you want but  -- this isn't the place for it.  Don't you see?  No, you don't.
+85) 0) text: Snow on the videophone to Kelvin.  Rheya is asleep in the background.
+85) 1) dialog: I don't think it dislikes us.  I think it just noticed us.  It lives, thinks, and acts.  We are dealing with a living creature here, no question.  And it's done something we've never been able to do: create a perfect human body.  Perfect except for the subatomic alterations, but...
+98) 0) text: Kelvin sits in his chair, as he did at the beginning, wit the three officials from DBA behind him. Only now the three officials are Snow, Sartorius, and Gibarian.
+112) 6) dialog: I won't be making the trip.
+112) 8) dialog: I'm not Snow. This stops Kelvin and Sartorius.  They look at each other then at the monitor.
+112) 9) dialog: I got rid of him.  I wanted to see if... I wanted to be the only one.  I wanted to be Snow.
+112) 12) dialog: Oh, right away.  That's why you never saw me with anyone.  You should've noticed that.  I miss him, though.  I think I made a mistake.
+112) 14) dialog: But I can't leave with you.  I won't make it.
+112) 17) dialog: You go ahead.  Of what I remember about Earth... it's all one thing now.  Everything's a blur.  I like distinctions. Snow lies down on his bed.  Kelvin looks at Sartorius.

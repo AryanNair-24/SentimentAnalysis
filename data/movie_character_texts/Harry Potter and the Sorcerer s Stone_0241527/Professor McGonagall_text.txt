@@ -1,0 +1,50 @@
+0) 2) dialog: Are the rumors true, Albus?
+0) 4) dialog: And the boy?
+0) 6) dialog: You think it...wise...to trust Hagrid with something as important as this?
+0) 12) text: Revision 2nd Yellow 18/04/0) 4A BAGRID ‘ * Ev‘ning,. Professor Dumbledore, sir. : * Professor McGonagall. *
+0) 17) text: PROFESSOR MCGONAGALL” Albus, do you really think it best to leave him here, with these people? I’ve been watching them all day. They’re the worst sort of Muggles imaginable. They’re... +t eee
+0) 21) dialog: €& But this boy will be famous. There won't be a child in our world who doesn’t know his name... + bob
+37) 0) text: Harry and the others enter a grand entryway lit with flam torches. PROFESSOR MCGONAGALL, a rather severe-looking wi in an emerald cloak, stands before a pair of TOWERING DOO She lifts her chin, surveys the new students.
+37) 1) dialog: Welcome to Hogwarts. In a moment; you © will pass through these doors and join your classmates, but before you can take your seats, you must be sorted into your Houses. They are Gryffindor, Hufflepuff, Ravenclaw, and Slytherin. While here, (MORE)
+37) 6) dialog: your House is, in Many ways, your family. Your triumphs will earn your House ° points, while any rule-breaking will lose points. At the end of the year, the House with the most is awarded the House Cup, a great honor. I hope each of you... Just then, a rather LARGE TOAD springs forth, CROAKS.
+37) 8) text: .--will be a credit to whichever House becomes yours. The Sorting Ceremony will begin momentarily. Professor McGonagall glowers at Neville, then exits. As s goes, there is a BRIEF CLAMOR of SOUND from the students waiting in the Great Hall beyond.
+37) 17) dialog: We are ready for you.
+38) 2) dialog: Before we begin, Professor. Dumbledore would like to say a few words. : Harry watches with great interest as the great wizard him rises from his seat at the High Table.
+38) 11) dialog: When I call your name, you will come forth, put on the hat and be sorted. {consulting her list) Hermione Granger. ee RE
+38) 16) dialog: Draco Malfoy.
+38) 24) dialog: ‘Susan Bones. . As SUSAN BONES dashes ‘up front, Harry glances to. the Hi Table. Dumbledore watches the proceedings placidly, while Professor Quirrell talks to a hook-nosed man with greasy black hair and sallow skin, PROFESSOR SNAPE. Slowly, as i can feel .Harry’s gaze, Snape turns, looks straight into - Harry’s eyes. Instantly, a sharp, hot PAIN shoots acros Harry’s scar.
+38) 29) dialog: Ronald Weasley. As Ron steps nervously away, Harry glances back to the Hi Table. Snape has returned to his conversation. °
+38) 31) dialog: Harry Potter. There is an abrupt drop in the CHATTER. As Harry makes hi way, he avoids the eyes of the many who stare and whisper
+38) 32) dialog: If you will, Mr. Potter.
+39) 16) text: And now, let us sing the school song! Everyone pick their favorite tune and off we go! Professor McGonagall rolls her eyes slightly as Dumbledor wields his wand. Consulting the PARCHMENT of LYRICS place beside their plates, Harry and his fellow First Years joi rousing, but rather dischordant, chorus of VOICES. SCHOOL ‘SINGING Hogwarts, Hogwarts, Hoggy Warty Hogwarts Teach us things worth knowing Bring back what we’ve forgot Just do your best, we’ll do the rest And learn until our brains all rot...
+41) 12) dialog: Thank you for that assessment, Mr. Weasley. But perhaps it might be more useful if I transfigured Mr- Potter or “yourself into a pocket watch. That way one of you might be’ on time.
+41) 14) dialog: Then perhaps a map. I trust you don’t need one to find your seats? Harry and Ron slink past Hermione, sitting front row cent
+41) 15) dialog: Transfiguration is some of the most complex, dangerous and valuable magic you will learn at Hogwarts. Use it skillfully and it may, one day, save your life. Make a mistake and you could find yourself with a toad's head and a monkey's tail. (opening a textbook) All right then. Shall we? Harry and Ron exchange a glance, whip open their books.
+45) 0) text: Harry trails silently after Professor McGonagall.
+46) 0) text: Professor McGonagall leans into an adjacent classroom.
+46) 1) dialog: Excuse me, Professor Quirrell, could I borrow Wood for a moment.. Startled, Professor Quirrell jumps, then OLIVER WOOD, a b fifth-year, emerges, glances curiously at Harry. PROFESSOR MCGONAGALL (CONT’D) Potter, this is Oliver Wood. Wood...I’ve found you a Seeker.
+50) 19) dialog: Now don’t forget that nice wrist movement we’ve been. practising. Swish and flick. Swish and flick. Harry, paired with Seamus, poses his wand over the FEATHE before him and begins to swish and flick.
+50) 21) dialog: And enunciate! Never forget Wizard Baruffio, who said ‘s’ instead of ‘f’ and found himself on the floor with a buffalo on his chest.
+52) 0) text: Candlelit PUMPKINS flicker throughout the. hall, while THOUSANDS OF LIVE BATS flutter overhead. Harry. sits quie studying an EMPTY CHAIR, then sees Professor McGonagall Standing across: the way with Hagrid. Both are looking at McGonagall says something to Hagrid, who nods, then she s away, approaches Harry. — : *
+52) 1) dialog: How are you, Potter? All right?
+52) 7) dialog: Very well. : She turns," starts to go.
+52) 9) dialog: You’re welcome, Potter. As she goes, Harry sees Ron glumly pushing his food aroun listening to Neville speak across the EMPTY CHAIR to Seam
+53) 36) dialog: Explain yourselves! Both of you.
+53) 37) text: It’s my fault, Professor McGonagall.
+53) 38) dialog: Miss Granger!
+53) 40) dialog: I’m very disappointed in you, Miss Granger. Five points will be taken from Gryffindor for your very serious lack of judgement. As for you gentlemen, I hope you realize just how lucky you are. Not many First Years could take on a full grown mguntain troll and live to tell the tale. I award each of you five points...for sheer dumb luck. 2. ~ 6] --s-------
+54) 23) text: But who...? Harry glances up, sees--far across the room--Professor McGonagall looking his way. Quickly, she turns away.
+55) 33) dialog: Well, that’s unfortunate. Understandable, but unfortunate.
+65) 72) dialog: Mr. Potter. Mr. Weasley. Miss Granger. oo eee Mn
+65) 74) text: © , Up ahead stands Professor McGonagall, a jagged silhou castle-light. Beside her, Draco Malfoy grins arrogantly.
+65) 78) dialog: As every schoolchild knows, dragon- breeding is against our laws, has been ever since the Warlock’s Convention of 1709. And for good reason. It’s hard to keep the Muggles from noticing us if we've got a thirty-foot Ukranian Ironbelly running around the back garden. tee ee
+65) 82) text: Professor Mcgonagall’s eyes shift, narrow on Ron.
+65) 84) dialog: Personally, I don't care if Hagrid has a Chinese Fireball sitting in his kitchen, Mr. Weasley. He answers to Dumbledore. You, on the other hand, answer to me. Nothing--I repeat, nothing--gives a student the right to walk about the school at night. Therefore, as punishment for your actions, fifty points will be taken. *.
+65) 90) dialog: Each. And to insure it doesn’t happen again, all four of you will receive detention. te ee
+65) 96) text: Revision Yellow 13/10/00 83B. PROFESSOR MCGONAGALL ©” Indeed. You see, Mr. Malfoy, however noble your intentions, you too.were out of bed after hours. You will join your classmates in detention. :
+69) 23) dialog: I see, Well, I’m afraid Professor Dumbledore is not here. Only moments ago, he received an urgent owl from the Ministry of Magic and flew off to London.
+69) 25) dialog: How do you know-~ °
+69) 30) dialog: Nonsense. I don’t know how you three found out about the Stone, but I assure you it is well protected. Now, run along.
+76) 32) dialog: They were not compatible personalities, if that’s what you mean. And then, of course, your father did something Severus could never forgive.
+76) 34) dialog: I suppose he felt it his...obligation +..to look.after you this year.
+76) 38) dialog: Hogwarts teachers do not hate their students, Mr. Weasley... (pointedly, as she exits) No matter how taxing they may be. eee eH

@@ -1,0 +1,24 @@
+135) 0) text: A small courtroom.  The room is filled with the crew members and their families, including the parents of the victims, as well as the media.  Phil sits with his father and dodges Chuck's eyes.  Coast Guard Officers Tyler, DOWNING and SANDERS head the proceedings.
+136) 0) text: Bill sits at the table with his parents as questions are leveled at him.  Chief petty officers Sanders and Downing ask most of the questions as Tyler oversees the proceedings.
+136) 1) dialog: Why didn't you drop any sail?
+136) 3) dialog: But your instinct was to lose sail?
+136) 5) dialog: How old are you, son?
+136) 8) dialog: Thank you.
+136) 10) dialog: Philip, why were you discharged from the Albatross? Phil doesn't look up and speaks in whispers.
+136) 12) dialog: Were you?
+136) 16) dialog: Well, if you don't mind my asking, sir, why did you let your son stay? Francis is stumped for a moment but recovers quickly.
+137) 1) dialog: Is it true that you forced Robin Weathers to climb the mast when it was clear that he was acrophobic.
+137) 3) dialog: Were you aware that his brother was killed in a fall. Chuck and the others look up astonished.  Mike shoots a look towards Phil.
+137) 6) dialog: Sir, were you aware at any time of the use of alcohol among the crew.
+137) 12) dialog: Had you ever seen a "White Squall" before this incident?
+137) 14) dialog: What makes you so sure it was one?
+137) 16) dialog: You really felt that your crew were up for the conditions.
+137) 18) dialog: Except, a "White Squall". (beat)
+137) 21) dialog: Is it true that the reason you expelled Philip Boutillier...
+137) 24) dialog: ... and that you invited him to strike you?  To fight it out on the deck of your ship?! Skipper looks over at Francis.  Phil stares at the floor. Skipper manages an ironic smile.
+137) 26) dialog: Do you think this is funny?  Some kind of joke?  You lost six people out there.
+137) 28) text: I don't think one second of this is funny, sir. Skipper stares down Sanders.  He turns to Tyler.
+137) 29) dialog: I have no more questions at this time. He turns to sit down, then stops.
+137) 30) dialog: Oh, one last thing... Isn't true that your father was a sea Captain? Skipper bristles.
+137) 32) dialog: Isn't also true that his vessel went down off of Nantucket?  Lost everyone on board.  In fair weather no less. Skipper's silence is suddenly filled with rage.  Tyler sees it and tries to intercept.
+137) 34) dialog: (smug)

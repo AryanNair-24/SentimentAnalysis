@@ -1,0 +1,547 @@
+0) 1) text: LYNN, asleep, squirms on the bed. She's early thirties, v pretty, thin-bodied. She MUMBLES in discomfort.
+0) 15) text: --and Lynn bolts upright on her bed, screaming. She stops immediately as she realizes where she is, but it takes he moment to calm down.
+0) 18) dialog: Shit.
+1) 1) text: Small neighborhood diner. Wooden chairs and small tables. Lynn rushes in and spots JULIE sitting alone. She rushes to join her friend.
+1) 2) dialog: I am so sorry--
+1) 6) dialog: I fell asleep--
+1) 9) text: Lynn smirks at her friend and sits down.
+1) 11) dialog: I need a drink.
+1) 16) dialog: (swallows, takes a breath) I'm getting a divorce, Julie.
+1) 19) text: She sees that Lynn's not kidding and her smiles lowers li a draw-bridge.
+1) 23) dialog: Things have been bad for...about a year now. I guess things have never been that great.
+1) 26) dialog: You know...you're--
+1) 30) dialog: I thought we could work it out. Bert kept making promises and I kept waiting for him to keep them. Guess what I just found out. (doesn't give her a chance) His ex-wife's name is still on the deed to the house. The house I'm living in. He said as soon as I sold my house and moved in, he'd have it taken off. And you know how I found out her name's still on it?
+1) 33) dialog: The internet. I had to find out on the goddamn internet.
+1) 36) dialog: I don't know if that was the final straw. It was everything. Julie, I don't know anything about him. I don't know how much money he makes because he didn't want us to have a joint checking account. He always says he's working late at night but he won't give me a number to call other than his cel phone. And that place...it gives me the creeps.
+1) 39) dialog: (shrugs, moot point) I told him I was leaving and that I was taking Nicky. He hit me.
+1) 44) dialog: (nods) I was packing some things. I said I was taking Nicky and I'd be filing for a divorce. He hit me in the back of the head.
+1) 48) dialog: No. I just wanted to get out of there. That was a month ago.
+1) 52) dialog: I didn't want to bother you, what with all the stuff you've already got on your plate...
+1) 57) dialog: Get the divorce. Once I get full custody of Nicky, I'll start trying to reassemble what's left of my life. In California.
+1) 61) dialog: I told Phillip yesterday. I didn't tell him why.
+1) 64) dialog: He was shocked, you know, at first. But he was very supportive as always.
+1) 69) dialog: Nononononono, please Julie.
+1) 72) dialog: You've worked so hard, and to tell you the truth, it'll be good to meet some new people. Take my mind off.
+1) 76) dialog: It'll be good. No, great.
+1) 80) dialog: Really.
+1) 84) dialog: A friend of mine is out of the country for a couple months. She said I could stay at her house until I find someplace of my own.
+1) 88) dialog: Every other day. The lawyers had a temporary agreement drawn up.
+1) 91) dialog: (nods) I'm not worried about that. It's just...this can't be my life, Julie. I can't be a divorced mother. I just, I can't.
+1) 95) dialog: (wistful) I don't think I ever really knew him in the first place...
+2) 1) text: The moon casts a faint light through the window. Lynn is asleep in her bed, this time without the nightmares.
+2) 11) text: Across the street from Lynn's, SOMETHING MOVES FROM UNDER SHADOW OF A TREE.
+2) 13) text: The clown scans the houses across the street and his gaze stops at the house two doors up from Lynn.
+2) 14) text: He turns to look directly at Lynn's house, and makes a shrugging motion, very much like, "What can I do? My hand are tied."
+3) 1) text: Lynn rushes out of her house, clearly late for something. stops in confusion as she sees five cop cars and an ambul in front of the house two doors down.
+3) 2) text: A good bunch of the neighbors--moms and kids--stand about groups, pointing and asking questions. Lynn goes over to neighbor, GALE, a chubby motherly type who's shaking her without realizing it.
+3) 4) dialog: Excuse me...I'm house-sitting for Margaret. Could you tell me what's going on?
+3) 9) dialog: Do you know what happened?
+3) 13) dialog: Killed?
+3) 16) dialog: My god...
+3) 27) text: Detective Peters is put off by the sarcasm coming from someone who appears so motherly. He looks to Lynn, who sm uncomfortably.
+3) 34) dialog: What exactly happened?
+3) 44) text: Gale is not amused. Lynn's watching them carry a bodybag a stretcher out of the Olsons' house. Something about the sight has trapped her gaze.
+3) 48) dialog: Detective? I'm sorry, I'm already late. (she digs in her purse and pulls out a card) This has my name and cel phone number on it. I'm...house sitting here for the next couple of weeks.
+3) 52) text: Peters spares her a glance, but ignores her. The way Lynn stumbled over the half-lie seems to have caught the detective's attention.
+3) 56) dialog: About four, no, five nights.
+3) 60) dialog: Sure, I understand. (beat) Oh, no! I'm sorry, I've got an exhibit tonight, so I won't be back at all today. Tomorrow should be fine though.
+3) 74) dialog: (rushing off) Well, it was nice meeting you, I'm really really late now.
+3) 77) text: Lynn waves back without looking and hightails it to the c
+4) 2) text: Lynn rushes in. AMANDA, 23, steps out with a clipboard. S cute in a mousy, Lisa Loeb kind of way.
+4) 6) dialog: Sorry I'm late. You'll never believe the morning I'm having.
+4) 10) dialog: Phil around?
+4) 16) dialog: Thanks, Phil. And thank you so much for this.
+4) 20) dialog: Oh, please.
+4) 26) dialog: Well, thanks. It means a lot to me.
+4) 31) text: On Lynn's questioning look...
+5) 2) text: Lynn's standing against a back wall with Amanda. She look dazed.
+5) 4) dialog: (quiet) How...on earth...did you get all these people here?
+5) 7) dialog: But...if they hate clowns, why would they come?
+5) 10) text: Lynn shakes her head; she doesn't understand, but who's complaining?
+5) 14) text: not as crowded as the main room. A COUPLE murmurs about t painting in front of them, while across the room is TUCK, He's dark-skinned Latino, dressed like a model. He's star deeply at one of Lynn's clown paintings.
+5) 17) dialog: So what do you think?
+5) 21) dialog: Who is?
+5) 24) text: Lynn smiles. Not what she expected to hear.
+5) 26) dialog: (good-natured) Oh?
+5) 29) text: Lynn smiles. She's looking forward to embarrassing him wh she introduces herself.
+5) 31) dialog: But you're no art critic.
+5) 36) dialog: Lynn--
+5) 43) dialog: So what do you really think?
+5) 48) dialog: Thanks. You from the web site?
+5) 52) dialog: Oh, nothing. What made you stop by tonight?
+5) 55) dialog: Anything of mine?
+5) 58) text: There are serious looks going on between them, a quick chemistry that seems to be catching Lynn off guard.
+5) 60) dialog: Well...I hope you have a good time.
+5) 65) dialog: Uh---
+5) 68) dialog: It's just a bad time.
+5) 77) dialog: It's complicated.
+5) 80) dialog: I'm married.
+5) 84) dialog: I mean, I'm separated.
+5) 87) text: He heads over to the nearest tuxedo's waiter and grabs a champagne glass. He holds it up to toast Lynn, then DOWNS in one swallows.
+5) 88) text: Then he grabs two others off the tray and returns to Lynn.
+5) 91) text: Lynn smiles at his persistance. There's something immatur endearing about him. His smile is contagious.
+5) 94) dialog: I could probably put it on your tab.
+5) 103) dialog: The mayor? Of the city?
+5) 106) text: Lynn's still shocked about the mayor thing, but not so mu that she can't be embarrassed too.
+5) 108) dialog: Sorry. Tuck, this is my number one cheerleader, Amanda. She created my web site and does all my other promotion for me.
+5) 115) dialog: Amanda. Go tell Phillip I'll be right over.
+5) 120) dialog: Sorry about that.
+5) 124) dialog: I guess I should go say hi to the mayor.
+5) 127) dialog: I think he's really here.
+5) 131) dialog: Sure. Hang around. I'll be back.
+5) 138) dialog: (quiet) What the hell are you doing here?
+5) 142) dialog: Who's watching Nicky?
+5) 146) dialog: So why are you here, Bert?
+5) 150) dialog: Bert. What the hell is wrong with you? We're not friends. (as if he's forgotten) You filed for divorce.
+5) 153) dialog: We're not doing this here. Please leave.
+5) 157) dialog: Why wouldn't I? This is an important night for me.
+5) 161) dialog: Thanks.
+5) 165) text: He's gone before he can see the look of disgust that cros Lynn's face.
+6) 1) text: The crowd is mostly gone. Lynn's walking through room aft room. She's looking for Tuck, but trying not to act like
+6) 3) text: She comes back around to the front counter and there he i talking with Phil. Lynn suppresses a smile.
+6) 8) text: He lifts something from the counter that was hidden behin his body. It's one of Lynn's paintings.
+6) 9) dialog: But...that's...
+6) 13) dialog: That's eight thousand dollars...
+6) 16) text: Phillip doesn't get it for a moment. Then he sees the blu on Lynn's cheek. He gets it.
+6) 19) text: He begins wrapping as Lynn and Tuck exchange looks.
+6) 21) dialog: Do you mind me asking what you do, Tuck?
+6) 25) dialog: (playful flirting) I think that would depend on what it is you do.
+6) 31) dialog: Okay. But only because you just paid my rent for three months. (louder toward the other room) Phillip, I'll be back soon. I'm going to see Mr. Flynn's office.
+7) 1) text: Tuck escorts Lynn outside and opens the passenger door of Porsche. He shuts the door after she pulls her legs in.
+8) 1) text: Tuck lets Lynn into the office. She takes a look around a goes to the alarm and turns it off. The office is very ni Clean, well-organized, tastefully decorated.
+8) 6) dialog: So...what do you do?
+8) 11) dialog: I still don't get it.
+8) 14) text: Lynn's impressed.
+8) 15) dialog: How old are you?
+8) 19) dialog: Why don't you want to tell me?
+8) 23) dialog: (smiles) Touche.
+8) 28) dialog: No.
+8) 33) dialog: You're out of your mind.
+8) 41) dialog: I don't really like roller coasters.
+8) 51) text: He's at the fridge. Lynn has a moment. Put a halt to it r now, before it all gets out of hand. The reasons are many the middle of a divorce, Tuck is younger than she is, she got a kid. She doesn't even really know this guy.
+8) 53) dialog: Sure.
+8) 57) dialog: Oh, Phillip owns it.
+8) 61) dialog: He inherited it when his parents died. (sheepish) It seems funny now, but I actually met him...on the internet. An art forum. When he found out I was in the same city, and a painter...he offered to take a look at my stuff.
+8) 65) dialog: (nods) We've had a bunch of showings, but none went like tonight.
+9) 5) dialog: Not to sound sexist?
+9) 11) text: Tuck moves protectively in front of Lynn. The mugger's no intimidated, more interested in Lynn.
+9) 14) text: Tuck eyes the mugger for a moment, then holds his hand ou Lynn. She gives him the purse.
+9) 23) text: The mugger edges in. Tuck pushes Lynn back farther.
+9) 32) text: The instant Tuck grabs the mugger's arm, LYNN HURLS HER KEYCHAIN, five pounds of keys, at the office door. It doe shatter the window, but spider-web cracks appear and a LO ALARM BEGINS GOING OFF inside.
+9) 37) text: Lynn and Tuck run off toward the end of the building.
+10) 1) text: Tuck's car pulls up in front of the house Lynn's staying Lynn, exhausted, doesn't move to open the door right away She stares at the house.
+10) 5) dialog: I'm okay. You're the one who got stabbed.
+10) 8) text: Lynn nods absently as if she's not even listening. She reaches for the door handle.
+10) 10) dialog: Well...good night.
+11) 1) text: Lynn leans back against the front door and closes her eye Exhausted. With the mugging on top of her exhibit, it's j too much. She's ready to drop.
+11) 4) dialog: Hello?
+11) 9) dialog: Phillip? What are you doing up this late?
+11) 14) dialog: But...why?
+11) 18) dialog: You're right. I'm sorry.
+11) 21) text: Lynn notices the tapping. She moves into the television r The tapping seems to be coming from outside the sliding g door.
+11) 23) dialog: Long story. Long long story.
+11) 26) dialog: You'll never believe what happened.
+11) 28) text: The clown stands there revealed in the light. Like Lynn's worst nightmare, like the clown in the painting Tuck poin out, the one that Lynn paints often, the one from her dre His pupil-less eyes, however, are black as night. The soulless eyes of a shark.
+11) 29) text: He's staring right at Lynn.
+11) 32) text: The clown cocks his head and leans closer, his breath fog the glass. Lynn faints, the phone dropping uselessly to t rug.
+11) 47) dialog: Yes...
+11) 52) dialog: No. I don't think so.
+11) 55) text: Lynn sees there's a COP standing behind the medic listeni His presence distracts her for a moment.
+11) 56) dialog: Uh...no. I don't think so.
+11) 60) dialog: No. I'm all right.
+11) 61) text: The medic nods and begins to pack up his things as Lynn m to a chair. The cop steps forward.
+11) 65) dialog: I-- (the remembrance floods back) --there was someone standing outside my back door.
+11) 70) dialog: Yes.
+11) 73) text: Lynn's eyes widen. It was open? It--the clown--came into house?
+11) 77) dialog: How did you know to come?
+11) 81) dialog: He was dressed like a clown.
+11) 89) dialog: Don't you ever sleep?
+11) 93) dialog: Yes. Right outside the glass when I turned on the light.
+11) 97) dialog: He was a clown.
+11) 101) dialog: Yes.
+11) 105) dialog: (knowing how it sounds) Yes.
+11) 112) dialog: (confused) What?
+11) 116) dialog: Does it look like a publicity stunt?
+11) 120) dialog: (getting mad) That's great. How profound. I'd like you to leave.
+11) 130) dialog: I didn't call the police.
+11) 135) text: Lynn doesn't say anything. She follows them to the door.
+11) 138) text: Lynn shuts the door without a word. She stands there, the thoughts running wild through her exhausted head.
+12) 1) text: Lynn walks in, holding hands with her son NICHOLAS, aka Nicky. He's about five years old.
+12) 2) text: Phillip, Amanda, and MR. PARRISH turn from one of Lynn's paintings toward her. Mr. Parrish is a distinguished olde man, dressed very well and holding a cane, though he does appear to need it.
+12) 4) dialog: Hey...what's going on?
+12) 7) text: Lynn doesn't know whether to laugh or be offended.
+12) 9) dialog: Excuse me?
+12) 13) text: Lynn's listening patiently, but can't see where he's goin
+12) 15) text: He points to the one they were all admiring when Lynn cam in. The clown in the painting gazes sadly on the wilted flower in his hand.
+12) 19) dialog: I'm sorry, Mr...
+12) 23) dialog: I'm sorry, Mr. Parrish, I don't know what you're talking about.
+12) 26) text: Lynn's expression says it all. How strange. Lynn looks to Phillip or Amanda for support. Neither says anything, but they're smiling. Like something else is coming.
+12) 28) dialog: Mr. Parrish, I'm sorry but I don't do commission pieces. I'm not even sure I could--
+12) 33) dialog: I don't, I mean, I could sell you that one for a lot less.
+12) 36) dialog: That's just impossible. I can recommend a number of excellent painters--
+12) 40) dialog: I'm sorry, I can't do it.
+12) 44) dialog: You don't understand--
+12) 48) dialog: (to Amanda regarding Nick) Can you keep an eye on him?
+12) 52) dialog: I can't, Phillip. I don't have the time right now.
+12) 56) dialog: I am. I'm getting divorced. That's why I'm going to move. Get away, get a new start.
+12) 59) text: Lynn's starting to see the picture.
+12) 61) dialog: I'm not sure I can do it.
+12) 68) dialog: I can't promise you I'll get it done.
+12) 78) text: Neither Phillip nor Lynn know what she's talking about.
+12) 82) dialog: Yeah.
+12) 86) dialog: I'm sorry. I don't even know where to start.
+12) 90) dialog: You'll never believe it...get me some coffee and I'll tell you about it.
+15) 1) text: Lynn and her friends have retired to the more comfortable reception area. Nick has his action figures battling underneath the magazine table.
+15) 3) dialog: The police took our statements, but it didn't seem like they thought they'd catch him.
+15) 8) text: Lynn has an internal debate. She decides to spare herself embarrassment of the clown story.
+15) 10) dialog: I don't know. I guess it all just caught up to me. I must have passed out.
+15) 14) dialog: It felt a lot like hitting the floor.
+15) 17) dialog: Is that you, dad?
+15) 20) text: Lynn smirks at her.
+15) 22) dialog: Anyway. I have to get going to the mediation. You're sure you're all right with watching Nicky for an hour?
+15) 26) dialog: Great. Thanks a lot.
+15) 32) dialog: (shrugs) I'm not sure. I think we have to sit down and decide who gets what, and what his visitation rights are going to be.
+16) 3) dialog: Are you out of your fucking mind?
+16) 4) text: Lynn and her lawyer MARTY are on one side, Bert and his lawyer OSBOURNE across from them. The MEDIATOR, a man wit wooden face, sits at the head of the table.
+16) 10) text: Lynn looks at Marty in disbelief, then back at Bert.
+16) 12) dialog: You can kiss my ass.
+16) 18) dialog: Why? Is he too chickenshit to talk to me? (shakes her head) I can't believe I'm hearing this. Marty?
+16) 25) dialog: (to Bert) Oh my God...
+16) 39) dialog: What? What's he been doing?
+16) 43) dialog: It's not my business? He's still my husband, you son of a bitch. Where has he been going everyday?
+16) 46) dialog: No! I want an answer. Where the hell has my husband been going every day for the past six months if he wasn't going to work?
+16) 49) text: Lynn slams her hand on the table.
+16) 51) dialog: Bullshit!
+16) 62) text: Osbourne nods and guides Bert out of the office. Neither Lynn's smoldering gaze.
+16) 64) dialog: You really stuck it to him, Marty.
+16) 68) text: Lynn doesn't respond. She fights back tears.
+16) 70) dialog: I'm not losing Nicholas. I can't lose him.
+18) 1) text: Lynn walks in, her cel phone to her ear.
+18) 3) dialog: I'm not kidding you. He's going for full custody, Julie. He wants me to pay him.
+18) 6) dialog: God, I feel like I'm having a nervous breakdown. I'm telling you...there was a clown outside my door last night.
+18) 10) dialog: I feel like I'm living in a nightmare, Julie.
+18) 14) dialog: I'm going to paint that picture for Mr. Parrish. Then I'm going to use that money to hire the best attorney in town to kick his lawyer's ass!
+18) 18) dialog: Hey, I got someone calling on the other line, could be my lawyer. Can I call you back later?
+18) 22) dialog: Bye. (clicks a button) Hello?
+18) 25) text: Lynn smiles. Even with the events of the day, Tuck can br a smile to her face. She's got it bad for him.
+18) 27) dialog: Hi. How are you?
+18) 30) dialog: I'm okay. I mean, about last night. It's just, well there's other stuff--
+18) 35) dialog: I'd like to, but--
+18) 38) dialog: Hold on a minute.
+18) 42) text: Lynn smiles and plays his game.
+18) 44) dialog: (into phone) Sure.
+18) 45) text: They both hang up. Lynn opens the screen door for him.
+18) 48) text: That idea doesn't thrill Lynn.
+18) 50) dialog: I don't think so.
+18) 54) dialog: I'm not afraid of them.
+18) 57) dialog: I am not. Just because I paint them--
+18) 60) text: Lynn walks away, picks her mail off the table and busies herself sorting it.
+18) 62) dialog: That doesn't mean I'm scared of them.
+18) 65) text: That stumps Lynn.
+18) 69) dialog: Coulrophobia?
+18) 73) dialog: Really?
+18) 77) dialog: So what are you afraid of?
+18) 83) dialog: Lots of people feel that way. So how could you possibly be alone?
+18) 88) dialog: That's a loaded question.
+18) 92) dialog: Sure. I do a lot of photo- referencing.
+18) 97) dialog: Okay. Just let me call Amanda first...
+19) 3) dialog: On that?
+19) 9) text: He starts the motorcycle and ROARS off, Lynn gripping him tightly around the waist.
+20) 1) text: Tuck pulls his cycle into a cul-de-sac off of the main ro A high fence runs the entire length of the road, but ther a hole in it where it curves for the cul-de-sac. He helps Lynn off and stacks the helmets on the back.
+21) 4) dialog: Where are we?
+21) 8) dialog: Oh my God...I've been here. As a kid.
+21) 11) text: As they talk, they're walking through what's left of the displays. Lynn begins taking pictures.
+21) 15) dialog: Tell you the truth, I thought it was kind of creepy back then.
+21) 18) dialog: Something about it gave me the willies. But now, to see it like this...why did they leave everything here?
+21) 25) dialog: You take pictures?
+21) 29) dialog: I wish I'd brought some black and white film.
+21) 33) dialog: Really?
+21) 37) text: Lynn says nothing. She's mulling over something in her mi Tuck senses it and gives her time, just keeps checking ou all the relics.
+21) 39) dialog: Listen. I have to level with you. My life is kind of a train wreck right now.
+21) 42) dialog: Well...what are we doing?
+21) 46) dialog: Why?
+21) 51) dialog: Come on. I'm attracted to you and I think you're attracted to me. But this is...it's just a bad time.
+21) 54) text: Lynn stops walking and smirks at him until he gives.
+21) 58) dialog: It's really complicated.
+21) 62) dialog: You asked for it.
+21) 71) dialog: --and he's trying to take my son away from me.
+21) 75) dialog: Ten years.
+21) 79) dialog: That's not even the half of it. Now I find out that he hasn't been working for the better part of a year. He'd leave the house everyday, but where he went...?
+21) 83) dialog: See, I have a lot of stuff to work out before I can even...you know.
+21) 86) dialog: I should have known, I mean he's a man with a cat. Single men with cats are bad news. At least, that's what the magazines say.
+21) 90) dialog: Ready to go?
+21) 94) text: Lynn climbs on back as Tuck pulls on his driving gloves. straightens the motorcycle, and in the side mirror the cl ducks back into the bushes.
+21) 98) dialog: Yeah.
+22) 4) text: Lynn turns and sees him. Tuck does too, and something pas across his face. He can tell Peters is a cop, and there's instant friction. Like two alpha males trying to stake ou their territory.
+22) 8) dialog: Fine.
+22) 9) text: There's the briefest moment where the detective waits for Lynn to introduce him to Tuck. She doesn't, so he takes t initiative.
+22) 20) text: Tuck shoots Lynn a questioning look. She rolls her eyes, she's tired of this guy. Tuck turns his attention back to Peters.
+22) 37) text: He kick-starts the motorcycle and drives off, giving a wi to Lynn.
+22) 41) dialog: Can I help you with something?
+22) 44) dialog: Why are you here then?
+22) 48) dialog: (tiring of it) And what are you detecting?
+22) 52) dialog: Well. Try and keep it in your pants, would you?
+23) 1) text: Lynn's sketching from the picture of Parrish's father. Nothing fancy, just some concept sketches to get the look down.
+24) 1) text: Lynn's got about ten pages of sketches next to her. Outsi her window, night has fallen.
+24) 5) dialog: For God's sake...
+24) 17) text: She grabs the phone, casting a glance at the clock. Ten forty. Might be a little late with Lynn having Nicky. Disappointed, she hangs up the phone.
+25) 1) text: Lynn paints. Broad strokes, getting a feel for the paper, the piece.
+25) 6) dialog: You thirsty, Nicky?
+26) 1) text: Lynn's finished a painting. Very nice, but not as clean a her paintings on display. And it's missing something...so emotion. She's looking at the photo closely then looking at the picture.
+26) 3) dialog: What are you missing...?
+27) 1) text: Lynn enters from the front door. The PHONE IS RINGING. Sh rushes to get it, leaving the front door open.
+27) 6) dialog: Hi.
+27) 10) text: Lynn pretends like she is, gives him a sympathetic smile.
+27) 12) dialog: Now that you mention it...
+27) 16) dialog: I was dropping Nicky off with his father.
+27) 19) dialog: Where?
+27) 23) dialog: I should be painting...and do you really have a job?
+27) 28) dialog: All right. I can spare an hour or so.
+28) 1) text: Lynn pulls her mini-van up behind Tuck's motorcycle. The house is huge. Tuck gets off his cycle and leads her into house.
+29) 1) text: Lynn follows him in and WHISTLES appreciatively. Two spir staircases run on both sides of the foyer to the second level. Expensive art adorns the walls.
+29) 5) dialog: (not buying it) Hm-hmmm.
+29) 9) dialog: Is your maid going to cook it?
+29) 15) text: Lynn sees the cat, sees Tuck squat down to pet it, and sh smiles sardonically as she remembers what she said about and cats.
+29) 17) dialog: Do you have a bathroom? I have to pull my foot out of my mouth.
+29) 21) dialog: Surprise me.
+31) 1) text: Tuck and Lynn sit at the table, having just finished a lu that probably should have been a dinner. Lynn leans back, patting her stomach.
+31) 3) dialog: Wow. I have to tell you, I'm surprised.
+31) 7) dialog: You really don't strike me as the kind of guy who can cook.
+31) 11) dialog: Maybe with a dishwasher.
+31) 15) dialog: Sure you don't want help?
+31) 22) dialog: Ha ha. Stick to cooking. I've got a commission piece to do. Has to be done in...well, two days now.
+31) 26) dialog: The money's supposed to make up for it.
+31) 30) dialog: For this piece, I'm getting twenty thousand.
+31) 33) text: Lynn's been flipping through occasional books. Tuck's interests are wide-ranging. There are a bunch of art book On a lower shelf sits a stack of magazines. Lynn sees one recognizes and pulls it out.
+31) 35) dialog: We'll see. I'm really not sure I can do what the guy is asking.
+31) 38) text: Lynn flips through the magazine called "MODERN PAINTER" a sees a page which has been bent in to save the place.
+31) 40) dialog: A picture of his father.
+31) 41) text: The page opens to reveal a large photo of Lynn, followed an article about her.
+31) 44) text: Lynn frowns. She was under the impression that Tuck knew nothing about her when they met. She flips to the front and notes that the magazine is mon old and has a subscription label on it with Tuck's name a address. Not a recent buy.
+31) 46) dialog: His father was a clown and he wants him to look a certain way.
+31) 53) dialog: Maybe it wasn't loaded.
+31) 56) text: He's interrupted by THE DOORBELL. Lynn hastily drops the Gallery mag on top of a pile of magazines next to the fireplace, then goes toward the front door as Tuck answer
+31) 64) dialog: (steps into his line of sight) What is it, detective?
+31) 70) text: Since Peters is ignoring him, Tuck physically steps betwe Peters and Lynn.
+31) 77) text: Lynn puts a hand on his arm.
+31) 79) dialog: It's okay. (to Peters) I take it this is important?
+31) 82) text: Tuck doesn't seem to notice that Lynn's a bit relieved to getting away.
+31) 84) dialog: Thanks for a great lunch.
+31) 88) dialog: I will.
+31) 93) dialog: Can you tell me what's going on?
+31) 96) dialog: Nicholas--my son--nothing's--
+32) 1) text: Lynn and the detective enter. As they shut the door we ca see Officer Patrick right outside the door.
+32) 3) dialog: Well?
+32) 11) dialog: What?
+32) 16) dialog: She was my friend.
+32) 21) dialog: What?
+32) 24) dialog: What?
+32) 28) text: Lynn's too surprised to speak.
+32) 35) dialog: Paint?
+32) 40) dialog: I'm sorry, I just, I don't understand.
+32) 52) dialog: To tell you the truth...I'd convinced myself it was some hallucination, or shock from being mugged.
+32) 56) dialog: Thank you.
+32) 60) dialog: Yes.
+32) 63) dialog: Yes.
+32) 67) dialog: Yes.
+32) 71) text: Lynn stays strong, nods.
+33) 59) text: Heston is the "mugger" who tried to rob Lynn and Tuck.
+34) 1) text: Lynn enters. All the make up in the world can't disguise fact that she's been crying.
+34) 7) dialog: I'm okay.
+34) 11) dialog: (wan smile) Yeah. When did you find out?
+34) 15) dialog: Detective Peters?
+34) 20) dialog: (kidding) I think he's been following me.
+34) 25) dialog: I was joking. At least, a little. He seems to pop up all the time.
+34) 31) dialog: What is it?
+34) 34) text: Lynn looks at it.
+34) 38) dialog: Oh my God...
+34) 41) text: Lynn looks. The pictures are from the trial. One picture particular sticks out: Mr. Parrish's father sitting behin the defendant's desk with a deep look of remorse on his f
+34) 42) text: Feeling overwhelmed, Lynn backs herself onto a bench.
+34) 46) dialog: No, it's all right Phillip. I have to give this to the police. Amanda sent this to us last night sometime before... (can't bring herself to say it) I have to give this to the detective.
+34) 49) dialog: I have to. I need the money. (off his look) I have to get a new lawyer. Bert's trying to take Nicky away from me.
+34) 53) dialog: He can. (overwhelmed) I just don't feel like I could paint anything right now. I've got cops in front of my house--
+34) 57) text: Lynn shakes her head: She's not here.
+34) 64) dialog: (doesn't feel like going into it) I don't feel like talking to anyone right now. (occurs to her) Hey, did he ever buy anything from the gallery before?
+34) 72) dialog: Hello.
+34) 76) dialog: Yeah, I'm running around...
+34) 80) dialog: Amanda, my assistant...she was murdered last night.
+34) 84) dialog: Someone attacked her in her house.
+34) 88) dialog: No.
+34) 92) dialog: No. No.
+34) 96) dialog: No, it's...listen Tuck. (deep breath) I think we uh, I need some time to deal with all this...alone?
+34) 100) dialog: Thanks.
+34) 104) dialog: I'm...outside the police station.
+34) 108) dialog: Okay. I'll talk to you soon.
+34) 112) dialog: Bye.
+34) 115) text: to see he's been standing in front of the gallery looking Lynn's car. He knows she's lying. His expression is hard read.
+36) 1) text: Lynn's got her easel set up in front of her while she sketches. There are a number of sketches already set out the floor, but she's not happy with them.
+38) 3) text: He flips it open to the marker and Lynn's face stares out him. Then the next magazine below it with another page-ma at Lynn.
+38) 4) text: He puts two and two together immediately. Mentally curses himself. He grabs the phone and dials Lynn's number.
+39) 1) text: Lynn paints. Pages of sketches are strewn about her. All forgotten. Her mind is now on one thing, the painting in front of her.
+39) 2) text: The PHONE RINGS but Lynn pays no attention. She's so focu that she probably doesn't even hear it.
+42) 15) text: He quickly pulls his car in front of Lynn's house. He get out of the car--one hand inside his jacket conceals the g from earlier--and hurries up the front walk.
+42) 19) text: Lynn's startled from her work by the BANG against her fro door. She puts the brush down as there's another BANG.
+42) 21) text: From Lynn's POV, she saw the clown-masked intruder move p the room she's in. She's terrified, but stifles her screa The man is not in her sight now.
+42) 23) text: Lynn didn't hear him go up the carpeted steps. Quietly sh creeps to the edge of the wall, peers around the corner. not in sight.
+42) 28) text: The bullet splinters a chunk out of the door but misses i mark. Lynn SCREAMS and runs toward the back of the house, toward the glass door.
+44) 2) text: Lynn runs into the sliding glass door, pulls it, but it's locked, she fiddles with the lock--both ways, still won't budge--she sees the stick wedged to keep it shut, grabs i
+44) 12) text: Neither one sees Lynn pick up the gun.
+46) 2) text: --Lynn, a distant look in her eye, stands there pointing gun at him.
+46) 6) text: Famous last words. Lynn pulls the trigger. Glass shatters behind Heston. He turns to look and sees a ruined picture featuring a bullet hole.
+46) 9) text: Tuck is shocked. Lynn can't seem to get her eyes off of Heston's body.
+47) 1) text: Police cars are clustered in front of the house. Lynn and Tuck stand off to the side trying to stay out of the way. There's an uncomfortable distance between them that Tuck' trying to figure a way into.
+47) 8) dialog: You said you saw my picture in the program.
+47) 11) text: Lynn's noncommittal. Detective Peters comes out of the ho and heads over to them. He pulls Lynn away from Tuck so h can talk to her privately.
+47) 15) dialog: Good.
+47) 18) dialog: For a detective, you have the shittiest people skills I've ever seen.
+47) 22) dialog: Why would Bert do that? He's divorcing me, he's taking everything--
+47) 26) dialog: Oh. Oh my God...
+47) 30) dialog: No...
+47) 34) dialog: But he wasn't the clown I saw--
+47) 38) dialog: I don't think so.
+47) 42) dialog: He had makeup on when I saw him.
+47) 47) dialog: Why didn't he kill me that night then? After I fainted?
+47) 51) dialog: You don't know where he is?
+47) 58) dialog: Okay. Thanks.
+47) 62) text: Lynn nods, but looks doubtful.
+47) 66) dialog: Okay. I guess I could give you a second chance, seeing that you saved my life and all.
+47) 69) text: He gives her a quick hug, gets on his cycle, and rides of Lynn turns back toward her house and watches the cops, waiting for them to finish their work.
+48) 1) text: Lynn's in bed again, tossing and turning.
+48) 13) dialog: 
+48) 17) dialog: 
+49) 1) text: Lynn, Phillip and Mr. Parrish are staring at a painting t is propped on an easel in the middle of the room. Mr. Par stares in wonder.
+49) 4) text: We see the painting. It's the one Lynn was working on of Parrish's father, and it captures the look he wanted, to perfection. Tears appear in his eyes.
+49) 11) dialog: Twenty thousand.
+49) 16) dialog: Thank you.
+49) 25) dialog: I can sure put this to-- (frowns, then blinks) Oh my God.
+49) 29) dialog: This check is made out for a hundred thousand dollars. He gave me a hundred grand.
+49) 33) text: He shoots a questioning look to Lynn. She nods and reache for the phone.
+49) 37) dialog: Hello? Pretty good actually. A hundred thousand dollars good. (beat) I'll tell you later. (laughs) Thanks. Uh...well, convince me.
+51) 1) text: Tuck escorts Lynn into the theater. It's huge, covered wa to wall in advertisements for movies.
+51) 3) dialog: Nice theater.
+51) 7) dialog: Will we be able to get popcorn?
+51) 22) text: Tuck motions Lynn to follow him behind the concession boo
+53) 3) dialog: You're like an expert. If I didn't know better, I'd swear you've done that before.
+53) 7) dialog: You know, I worked at a theater when I was in high school. Didn't last two months.
+53) 14) dialog: (suddenly occurs to her) What are we seeing?
+53) 18) dialog: Good choice.
+54) 28) text: The clown moves to the small window that looks down into theater. He can see Tuck and Lynn seated in the middle of auditorium.
+55) 6) dialog: Good. This is a little past my bedtime.
+55) 10) dialog: (nods) Might be good for me to see a movie, forget it all for a couple of hours.
+55) 14) dialog: Julie. She's been dying to take him for a while anyway.
+58) 1) text: Tuck and Lynn are getting a little antsy.
+58) 5) dialog: What do you think the hold up is?
+58) 10) text: The clown walks slowly into the auditorium. He's complete out of sight of Lynn and Tuck; until he rounds about the third row of seats, he'll be out of sight behind the conc wall that supports the stadium seating.
+58) 14) text: Tuck is looking at Lynn when the clown rounds the first r of seats. She's looking right at the clown, and the look her face is enough to wipe the smile off of his.
+58) 18) dialog: No...
+58) 21) text: Tuck stands, pulling a terrified Lynn to her feet. Tuck g his soda, but keeps an eye on the clown.
+58) 23) text: Tuck pushes Lynn behind him, backing her down the aisle a from the clown. By the time the clown is on the same aisl level as they are, he's at one end and they're at the oth The clown considers this. He takes a step forward. Tuck pushes Lynn down a step. The clown backs up. Tuck doesn't move.
+58) 26) text: Lynn, almost dazed, does. Instead of following, Tuck move a stair. The clown doesn't even look at him. Focused enti on Lynn, watching her like a cat about to pounce.
+58) 32) text: She stops. The moment hangs, all three staring at one another. Lynn and the clown as if in a trance, Tuck's min racing with indecision.
+58) 35) text: He throws his soda at the clown and runs down the stairs toward Lynn. The soda's a great throw. It gets the clown' attention, something coming at him from his peripheral vision. He bats it away with his axe, then crosses throug the aisle in pursuit of the fleeing couple.
+58) 36) text: Lynn and Tuck burst out the auditorium door. Tuck, thinki quickly, overturns the large trash can in front to block door.
+58) 46) dialog: Break them!
+58) 56) text: Tuck and Lynn emerge through the corridor door, right bac front of the auditorium entrances. Tuck cautiously goes r back to the theater they came from.
+58) 57) text: He opens the door as wide as he can without hitting the t can, lets Lynn slide in, and he follows.
+58) 60) text: stands in the lobby where Tuck and Lynn were moments befo He's listening, but there's no sound.
+59) 24) dialog: (whisper) Knock on it.
+59) 28) text: Lynn takes a look at the keypad. Five numbers.
+59) 30) dialog: Are you kidding? There's a hundred and twenty combinations.
+59) 42) text: Lynn has moved to the top of the stairs and is peering do them. Suddenly, the top of the clown's head comes into he sightline, but because of the angle, he doesn't see her. She rushes back to Tuck.
+59) 44) dialog: (harsh whisper) He's coming!
+59) 54) text: Lynn's petrified, watching the stairs with her back again the wall. Anticipating the appearance of her deepest fear brought to life.
+59) 57) dialog: He's here...
+60) 1) text: Lynn and Tuck take a breather. Safe for the moment.
+62) 1) text: Tuck comes down the stairs. Lynn's running his way.
+62) 4) dialog: Yes. I left the phone off the hook. They say they're on the way.
+62) 8) dialog: You don't think he's...
+62) 15) dialog: What?
+62) 20) dialog: Is the door open?
+62) 22) text: Lynn begins searching through Jeff's pants.
+62) 26) dialog: Looking for keys.
+64) 1) text: Tuck and Lynn rush back to the phone.
+64) 4) text: Lynn picks up the phone, which she left off the hook. Tuc looking around for a weapon. The best he finds is a broom with detachable end. He unscrews it and is left with a fi foot pole.
+64) 6) dialog: Hello? Hello?
+64) 9) dialog: The line's dead.
+64) 18) dialog: (shakes her head) It's in my car. You?
+64) 21) text: Lynn moves to a group of doors, if only to keep herself b The one on the left has a restroom sign on it. The other doors have nothing on them.
+64) 23) dialog: Where do these go?
+64) 27) text: They check out the room. Lynn confirms the phones don't w in this room either. Tuck's interested in a giant monitor with buttons on it. The monitor shows different parts of the theater; every camera in the building is patched into it.
+64) 33) dialog: Where is he?
+64) 37) text: Lynn smiles with relief, but the smile dies as she realiz something.
+64) 39) dialog: What are they waiting for? Why aren't they coming in?
+64) 44) dialog: So we're on our own.
+64) 48) text: The sound of METAL HITTING PLEXIGLASS makes Lynn jump. It happens AGAIN.
+64) 51) dialog: Can he get through?
+64) 54) text: WHACK! Then silence. Lynn and Tuck move out of the room a wait in the center of the aisle, staring down past the projectors into the darkness. Expecting the clown to appe
+64) 56) text: After a moment of silence, Tuck leads Lynn slowly toward where the sound came from. Bracing for the next slam, but silence drags.
+64) 58) text: It doesn't, but what they see in the theater takes Lynn's breath away. Shock. Fear. Hopelessness. It's all reflecte her expression.
+64) 62) text: The clown sees them in the window. He looks at Nicholas, back to Lynn and Tuck. His look says everything: The boy you.
+64) 65) text: The shock seems to have focused Lynn.
+64) 67) dialog: No. He'll kill you.
+64) 68) text: Lynn's sudden calmness worries Tuck.
+64) 71) dialog: I'm okay. I'm okay. (reassuring smile) I'm going out there but I need you to do something for me.
+64) 75) dialog: I'm tired...I'm tired of being scared. And I won't let him hurt my son. Now listen to me.
+65) 3) dialog: All right.
+65) 4) text: The clown turns. Lynn stands at the foot of the theater. Defiant and angry, but it's impossible for her to complet conceal her fear.
+65) 6) dialog: I'm here. Let him go.
+65) 9) dialog: Come here, Nicky.
+65) 10) text: He does. Lynn kneels down in front of him, keeping her ey on the clown.
+65) 12) dialog: (quiet) Nicky, I want you to go outside and wait for me. Understand?
+65) 15) dialog: Go on.
+65) 17) text: When he's gone, the clown takes a step toward Lynn.
+65) 18) dialog: Wait! (the clown stops) Why are you doing this? What do you want?
+65) 21) text: He moves to the aisle. Lynn moves into a row of seats to as much distance as possible between them.
+65) 23) dialog: But why me?
+65) 26) text: One step at a time the clown comes up. Lynn backs up unti she's at the foot of the other aisle. She backs her way farther up the stairs as the clown begins to cross the ro
+65) 28) text: He puts a foot on the stair. Lynn's not moving. Too petri to move...or waiting?
+65) 31) dialog: Wait!
+65) 32) text: The clown stops. Lynn's terrified, trying to hide it. Desperate. Hoping this works.
+65) 35) dialog: Look!
+65) 38) text: He YELLS IN PAIN, turning away, but too late. He's blinde maybe permanently. Lynn shields her eyes and slides her w across the row of seats. Still averting her eyes from the light, she accidentally kicks over a soda. The clown hears it, YELLS ANGRILY. He climbs the stairs to her level and moves in her direction trying to hone in on the sound. He swings the axe in fron him, even though he's not close to her.
+65) 39) text: The projector light is no longer following him. Lynn's frozen, watching as the clown feels his way across the se
+65) 40) text: Coming closer. Lynn moves away, accidentally kicking ice the soda she just knocked down. The ice makes TIC TIC sou as it falls to the next level.
+65) 42) text: Lynn turns and runs. The clown follows, stumbling against seats in his blind chase.
+65) 43) text: Her shoes now wet, Lynn slips as she tries to cut out of aisle, crashes against the wall. She turns--the clown sta above her, his axe raised to deliver the killing blow--
+65) 48) text: Tuck pulls Lynn to her feet and pushes her ahead of him. turns to look back at the clown.
+66) 1) text: Lynn, hugging Nicky protectively, and Tuck are in the lob of the theater, again strobed by flashing red and blue li from the police cars outside. Detective Peters finishes talking to some of the cops and joins them, a grim look on his face.
+66) 5) dialog: We're okay. What about Julie?
+66) 8) text: Tuck tries to comfort Lynn by putting his arm around her. a moment, the three almost look like a family. Peters not this and seems to feel a little awkward, shifts uncomfort
+67) 1) text: Lynn, dead tired, on her way home from the hospital. Nich is asleep in the passenger seat. There's a BEEP from the seat.
+67) 2) text: At first Lynn doesn't notice it. It BEEPS again, and she remembers her cel phone in the back seat. She grabs it an sees she has a message.
+67) 8) text: The line goes dead. Lynn looks at her car clock: 3:32 Lynn has a terrible thought. What if the clown went to Phillip's like he did to Julie's? She dials the phone, ge a BUSY signal.
+67) 10) dialog: Oh no...Phillip.
+68) 1) text: Not many lights on at Phillip's house. Lynn looks at Nick still asleep, then back to Phillip's. Nothing looks amiss Phillip could be asleep. Maybe it was nothing...
+68) 4) dialog: Oh no...
+68) 9) text: Lynn makes herself go in.
+68) 11) dialog: Phillip...? Please...
+68) 19) dialog: Phillip, what...?
+68) 25) dialog: What...what are you talking about?
+68) 34) dialog: I don't understand...what--why are you dressed like that?
+68) 37) text: He's rambling, staring at the blade, mesmerized by his reflection maybe, but now he's closer to the front door t Lynn is.
+68) 42) text: His expression goes grim. Lynn can't absorb it, doesn't understand any of it.
+68) 47) text: Lynn's trying to stay cool even though she's deathly frightened of the way Phillip looks, the clown makeup covering his face.
+68) 49) dialog: Phillip. Listen to me. I'm your friend. I want to help you.
+68) 53) dialog: Yes.
+68) 58) dialog: Phillip--
+68) 68) dialog: And you've been...following me all these years?
+68) 71) text: Lynn's expression says just how nuts that is.
+68) 73) dialog: And Amanda? Julie? Even Nicky?
+68) 77) dialog: What about you?
+68) 80) dialog: Phillip...you're nuts.
+68) 82) text: Lynn turns and runs.
+68) 89) text: Phillip slides off and hits the driveway painfully. Lynn braked her car short of the road. She puts it in park. St at Phillip as he slowly stands up.
+68) 92) text: Lynn puts her hand on the shift lever. Takes a good look the letters. R D N 1 2 3. Reverse takes her away from the nightmare walking toward her.
+68) 94) text: Lynn pulls the lever down. Was it one click or two?
+68) 97) text: Lynn lays her head on the steering wheel in utter exhaust as SIRENS can be heard approaching.
+69) 1) text: The PHONE RINGS, and Lynn bolts upright in bed. She snatc it off the hook.
+69) 3) dialog: Hello?
+69) 7) dialog: What? What's happened?
+69) 11) dialog: What is it?
+69) 15) dialog: When?
+69) 21) text: She pushes the door open, but it's still too dark to see Nicholas' bed. Lynn flicks on the light.
+69) 22) text: The light comes on for an instant and immediately blows o But in the snapshot flash Lynn sees the clown standing in front of her son's bed looking down on him, and at the fl of the switch, the clown begins to turn her way.
+69) 24) text: Lynn's fear is all-consuming. She unwittingly moves back against the wall, staring into the dark gaping hole into son's room, so suddenly a mouth into madness.
+69) 25) text: Too paralyzed to scream, Lynn stares into the darkness, waiting for the clown to appear.
+69) 30) dialog: 
+69) 31) text: Lynn's lip trembles. She can't blink. Fear grips her ever muscle.

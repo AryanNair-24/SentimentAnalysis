@@ -1,0 +1,22 @@
+8) 17) dialog: Yes, sir?
+8) 19) dialog: I haven't seen him.  It's possible  he came in through the south entrance.
+8) 21) dialog: Yes, sir. The deck officer leaves hurriedly, as Han takes his hand mouth.
+9) 0) text: The deck officer and his assistant hurry toward Han as he tunnel.
+9) 1) dialog: Sir, Commander Skywalker hasn't  come in through the south entrance. He might have forgotten to check in.
+9) 3) dialog: Not yet.  We're having some trouble  adapting them to the cold.
+9) 5) dialog: Sir, the temperature's dropping too  rapidly.
+9) 7) dialog: I'll cover sector twelve.  Have  com-control set screen alpha. Han pushes through the troops and mounts a Tauntaun.
+9) 8) dialog: Your Tauntaun'll freeze before you  reach the first marker.
+15) 0) text: Princess Leia stands inside the dark entrance to the Rebe waiting for a sign of the two Rebel heroes.  She shivers wind as, nearby, Chewie sits with his head in his hands. background, Artoo and Threepio move through the doors.   A Rebel lieutenant moves to Major Derlin, an officer keep the princess.
+35) 0) text: Rebel troops carry heavy bazooka-type weapons and positio the snow trench.  Men hurriedly respond to their officers orders and brace themselves against the rhythmic gusts of wind. Other troops load power packs into a gun turret and swing position.
+46) 0) text: A Rebel officer lifts a pair of electrobinoculars to his the lens he sees a very close view of a giant Imperial sn adjusts the view which then zooms back to reveal three mo ominous battle machines.  Small flashes of yellow fire bi guns of the lumbering snow walkers. The officer lowers his binoculars as the regular rhythmic begins to make the ground vibrate.  The pounding grows lo accompanied by a high-pitched, metallic rattling.  The of into his comlink.
+46) 1) dialog: Echo Station Three-T-Eight.
+47) 1) dialog: (over comlink) 
+79) 0) text: The troops in the trenches cheer at the sight of the cras An officer gives a signal to his men and Rebel troops cha war machine.
+79) 1) dialog: Come on! The troops run toward the downed walker, followed by two flying overhead.  Just as they reach the walker, it explo impact throwing some of the men onto the frozen ground.
+97) 1) dialog: Begin retreat!
+97) 2) dialog: Fall back! Troops flee from the battle, the ground exploding around
+173) 3) dialog: Captain Needa, the ship no longer  appears on our scopes.
+173) 5) dialog: Well, there's no trace of them,  sir.
+173) 6) dialog: Captain, Lord Vader demands an  update on the pursuit.
+173) 9) dialog: Yes, Captain Needa.

@@ -1,0 +1,399 @@
+8) 7) dialog: No. Larry is my partner.
+8) 9) dialog: On vacation for the Fourth.
+8) 11) dialog: Doug Carlin. Pryzwarra's smile fades.
+8) 14) dialog: Anything that doesn't belong. Pryzwarra registers the rebuff. He looks out -- nearby, shell-shocked Woman is still standing alone, crying in th rain. Pryzwarra starts to move toward her:
+8) 16) dialog: Don't.
+8) 18) dialog: Each of these people is a piece of evidence. And we don't touch evidence. Doug resumes his surveillance. Pryzwarra watches him.
+8) 20) dialog: It's not our job to care about these people. It's our job to catch the one who did this. The sudden muffled sound of a CELL PHONE. Both men turn - They're standing near a LINE OF BODIES laid out by paramedics. The cell phone RINGS AGAIN, inside one of the body bags. Never to be answered. Doug stares at it. Then he turns away, back toward his ca Pryzwarra stares at the body bag, cell phone still RINGIN
+9) 0) text: Doug moves along amid a swirl of activity: ringing phones ANALYSTS and ASSISTANTS rushing between desks, the frenzy a crime unit in the wake of a national disaster. Doug's assistant, DONNELLY, falls in step alongside him.
+9) 1) dialog: Has Minuti called in yet?
+9) 4) dialog: What girl?
+9) 6) dialog: Whose number -- What is this, a candy wrapper? Donnelly!
+9) 8) text: Doug! Suffolk County on Line One, they pulled a body out of the water and want you to coordinate a profile!
+9) 9) dialog: (under his breath) Already ... (calling) Take a message, Kathy! (the phone beeps) Larry, it's Doug! Vacation's over, buddy. Get your ass in here, there's work to do.
+10) 0) text: CLOSE ON: Special Agent in Charge (SAC) JACK McCREADY, se at a crowded conference table. An imposing man, he reads loose pages, tough words coming from a gentle face -- McCREADY At approximately 10:50 this morning, the passenger ferry Sea Bride exploded in the waters of Long Island Sound, seven miles southwest of New London, Connecticut. Early estimates place the number of casualties at eight hundred and forty-three men, women and children. Shock and anger from those present. Doug enters at the ba unnoticed and unimportant. Standing room only, he looks o the shoulders of two taller agents to see -- McCREADY Men, ladies -- this happened on July Fourth. The Sea Bride was carrying servicemen and their families to a special event at Groton Sub Base. We consider this a deliberate act of terrorism against the United States Navy. The President concurs with our assessment. McCready shuffles to a new piece of paper -—- McCREADY Uh, I'm also told that someone claiming to be a Federal Agent stole an ambulance out of Brookhaven Medical last night. So whoever took it, just leave the keys on my desk, and there'll be no questions asked. Polite laughter from the room. Nice try, boss. McCREADY Folks, this is a perfect act of terrorism. There were no baggage checks, no flight data recorders, maximum casualties, and all the evidence is under 90 feet of seawater. Don't overlook anything.
+11) 0) text: Doug is at his desk rushing through a phone message, cand wrapper in hand:
+11) 1) dialog: (into phone) This is Special Agent Doug Carlin returning your call, the number here is 516-753-0130 --
+11) 4) dialog: That's okay, tell me what you have.
+11) 6) dialog: You're gonna see a lot of that over the next few weeks, Sheriff. We're still setting up an E.c.c. Just have Crime Scene bag it for us and --
+11) 8) dialog: It's on its -- ? (what? wait a minute ...) Crime Scene's already been there?
+11) 10) dialog: Sheriff ... exactly what time did this woman wash up on shore?
+11) 12) dialog: You mean eleven forty-two.
+11) 14) dialog: Which M.E.?
+12) 0) text: Sterile, metal, white. The MEDICAL EXAMINER leans over an autopsy table, eyes closed, almost in prayer. He whispers the form under the sheet: M.E. My name is Doctor Philip Vavala. Tell me. That ritual observed, he gently pulls the sheet away -- -- revealing the CHARRED BLUE BODY of a young WOMAN, wear what used to be a pretty summer dress. She stares up at u cold, angelic, dead. Doug stares at her, standing a few feet back. The M.E. gestures him closer, as if to say, 'come take a look.' Doug moves to the woman's side -- suddenly she turns to l straight into his eyes. The M.E. has rolled her head to o side. 11.
+12) 7) dialog: Do you have a UV gun? M.E. Second shelf behind you. Doug goes to the shelf. Intrigued now, the M.E. moves to head of the table, turns off the overhead lamp. Doug brings a hand-held ULTRAVIOLET GUN to the table. Aim at the woman's face, pulls the trigger -- -- illuminating a WIDE BAND OF CHEMICAL RESIDUE across he mouth and cheeks, glowing like yellow neon. The shape is perfect rectangle.
+12) 9) dialog: What's that stippling ... see that? He points: within the band of tape residue, numerous TRAC PARTICLES stand out under the light like tiny stars. The brings the magnifying lamp over, leans in for a closer lo M.E. Adhesive probably retained some substance against the seawater -- The woman's eyes suddenly sparkle; light spills across th body from an OPEN DOOR. A LOCAL COP steps in --
+12) 11) dialog: Claire ...? No answer, of course.
+12) 12) dialog: Doctor, I want you to perform a full autopsy. Pretend you never heard about a ferry explosion -- concentrate on time and cause, full spread of lab tests, everything. M.E. Absolutely. Doug picks up the Polaroid camera, centers it on the woma face. He hesitates, looks at her almost apologetically .. Then aims the camera again, holds it there. A FLASH --
+13) 0) text: Wood porch, nice lawn, mailbox by the fence. The rain has become a constant drizzle, a grey tarp over the scene. Doug sits in his car, looking out at the house, reluctant
+14) 0) text: A SHRIEK of pure grief. CLAIRE'S MOTHER is crying hysterically; CLAIRE'S FATHER rocks and hushes her, weepi himself. They cling to each other on the couch. On the coffee table in front of them rests the Polaroid p of their daughter, dead on an autopsy table. Doug picks up the photograph, waits quietly as Claire's parents try to cope.
+14) 5) dialog: We don't know yet, sir. But anything you can tell me about your daughter's activities this weekend will help.
+14) 7) dialog: She lives alone?
+14) 10) dialog: What?
+14) 12) dialog: Beth?
+14) 15) dialog: We'll, ah ... we'll need a recent photo, and keys to her house if you have them. They don't hear him anymore, lost in naked grief. Doug wa profoundly uncomfortable. Finally:
+14) 16) dialog: Someone will be in touch. He gets up to leave.
+15) 0) text: Doug comes through the door -- suddenly Claire's father reaches for his arm.
+15) 2) dialog: Doug, please. You can call me Doug.
+16) 0) text: Still light out, but barely. Doug stares through the windshield out at a tree-lined street, a quaint one-story house. The driveway is empty. Doug pulls a pair of plastic gloves out of his pocket and gets out of his car, approaches the house. 16.
+17) 0) text: A key turning in the lock. Doug pushes the door, lets it and looks into the house, not stepping inside. There, as if to greet him, standing in the center of a carpet, is a CAT with black and white fur.
+17) 1) dialog: Hello, Ginger. The cat steps forward ... then suddenly leaps up into Dou arms; he has no choice but to catch it. Doug is startled a moment, not sure what to do. Then shru steps inside, scratching the cat's head. He looks around The decor is feminine, inviting, furnished with antiques thoughtfully rescued from thrift shops and farmers' marke Doug sees an ANSWERING MACHINE by the door, light blinkin He sets the cat down, pulls a pen from his pocket, uses i press PLAY. Walks through the room as the TAPE REWINDS.
+18) 0) text: Doug walks in, notices: on the table, TWO GLASSES, filled with water. 18. Ginger, the cat, is on the counter. She bumps a rather ab locking tomato-shaped cooking timer. Rubs up against a particular cabinet. Using a gloved hand, Doug opens the cabinet. Cat food. Of course. He drops a handful of cat food into a dish for th starving cat. Turns to the refrigerator -- A CHILD'S CRAYON DRAWING is affixed to the door; we can m out the words 'JANICE HARRIS, Gr. 2' scrawled at the bott Next to it: a newspaper ad for a 'White FORD EXPLORER, lo miles, excellent condition.' Doug glances up -- the freezer door is littered with word from a magnetic poetry kit. In the middle, a sentence:
+19) 0) text: Doug looks in, notebook in hand. He surveys the room. The is made but crumpled, as if somebody fell onto it. He ste in -- and something CRUNCHES under his foot. Looks down: SHATTERED PORCELAIN ON THE FLOOR. Doug kneels. DROPS OF B on the fragments. Doug looks back at the bed. Crumpled -- as if somebody fe onto it.
+20) 0) text: Doug starts the machine with his pen, takes notes as the of the MESSAGES play:
+22) 0) text: TELEVISION NEWS CREWS make their reports from a long row satellite vans. A troop truck carrying NAVY DIVE TEAM mem rolls past the giant hangar -- -- and past DOUG, who stands outside staring at the doors hesitating for some reason. He takes a deep breath -- onc twice -- then holds it and opens the door into --
+23) 0) text: A cavernous makeshift morgue. ROWS AND ROWS OF BODY BAGS lie across the floor awaiting identification; more are being laid out by FBI FORENSICS TEAMS. A harvest of death under black plastic. Doug marches past them, past a handful of POLICE and FAMI MEMBERS moving among the bodies, down the long center ais He passes a PERSONAL EFFECTS AREA: shredded backpacks, so purses, a child's blackened sneakers. He never breaks str doesn't look, keeps moving toward --
+24) 8) dialog: Agent McCready? McCready turns -- Doug is there.
+24) 9) dialog: I'm Agent Carlin, LIRA Evidence Recovery --
+24) 12) dialog: This afternoon I witnessed the autopsy of a young woman who washed up off Plum Island, with heavy fuel burns and traces of thermite powder on her face. She‘d also lost several fingers in what appeared to be blast damage. McCready catches the slight inflection:
+24) 14) dialog: When I checked the tide tables against the position of the blast ... sir, this woman was killed at least two hours before the ferry exploded.
+24) 17) dialog: Her name is Claire Kuchever. Her body washed up before the explosion and against the tide. Doug has everyone's attention now. McCready is dubious, stares at him.
+24) 19) dialog: I believe someone abducted her from her home, taped her mouth and wrists, then severed her fingers -- probably because she had his DNA under her nails. (MORE)
+24) 20) text: DOUG (cont'd) Then he burned her alive and dumped her into the Sound, where she would appear to be just another disaster victim --
+24) 23) dialog: I work Evidence Recovery as needed. My main field is victimology. I believe we're looking for a lone individual, most likely a paranoid sociopath. No group has claimed responsibility? Pryzwarra shakes his head 'no.'
+24) 25) dialog: Her SUV is missing. It could have been stolen to drive the bomb onto the ferry. (checks his file) New York license CHB 4470. A white Ford Explorer. The agents look down at the pieces, then at each other -- yeah, that fits. Doug holds out his report to McCready.
+24) 26) dialog: Something else ... The victim placed a call to the Long Island field office the night before she was killed. Denny's eyebrows go up at this. McCready takes the report
+24) 28) dialog: Hey, where's Minuti?
+24) 30) dialog: My partner, Larry Minuti. That's his car. Pryzwarra looks ... then closes his eyes in an ‘aw, fuck’ expression. Even McCready looks solemn.
+25) 0) text: Doug leans on the driver's side window of his car, head d not moving. In the glass, the distorted reflection of an HELICOPTER moves past. Doug closes his eyes.
+25) 3) dialog: I have a choice? The MP cracks a smile.
+26) 0) text: Doug sits in a straight-back chair in front of an empty d Looks like he's been there a while. The room is dominated on one side by a long TWO-WAY MIRRO Doug stares at it. The mirror seems to stare back. The door opens. Pryzwarra enters, sits down.
+26) 2) dialog: For me to have questions, first I'd have to know something. Pryzwarra grins.
+26) 4) dialog: Why me?
+26) 6) dialog: That's what you told the people back there. Why me? Pryzwarra smiles, leans forward.
+26) 9) dialog: They told you my history?
+28) 0) text: DOUG stares out the window, seated between two MPs, silen Pryzwarra sits across from him. Suddenly:
+29) 1) dialog: Okay, now I do have some questions.
+31) 0) text: Pryzwarra leads Doug toward a three-story MAGNET ARRAY, w a group of ENGINEERS is making last-minute adjustments un Denny's direction. Denny turns at their approach:
+32) 0) text: Doug, Pryzwarra and Denny walk down a curved cement corri They duck under an air duct and some wiring.
+32) 1) dialog: What is it that's special about your special team?
+33) 0) text: Doug steps through. Revealed before him is --
+34) 2) dialog: Is this video? 28.
+34) 8) dialog: Digital re-creation?
+34) 12) dialog: You can't do that. You can't change the angle on video shot four days ago.
+34) 16) dialog: You've developed a working time window. You can look into the past. From the looks of things its a prototype machine, developed on limited funds -- (slight smile) -- probably no more than ten billion. You're using it as an investigative tool, trying to find a clue to the identity of the ferry bomber. Denny and Pryzwarra are impressed.
+34) 17) dialog: The only thing I don't understand is why you're looking at four days ago, and not yesterday when it happened.
+34) 22) dialog: So -- three days from now -- you'll be able look back to -- yesterday. (realizes) You'll be able to see the explosion, see who did it. You'll see him as he does it.
+34) 26) dialog: Claire's house.
+36) 10) dialog: Rotate the view. I want to see what she's looking at. IN THE TIME WINDOW: The view moves to reveal -- a MIRROR the wall. Claire is looking at her own reflection, practi her smile and greeting, not happy with any of them:
+36) 13) dialog: We held hands once. But no, I've never met her. Gunnars frowns at that. A thought hits Doug, and he pulls his cell phone. Hits a button --
+37) 2) dialog: (filtered) This is Doug Carlin. Where are you?
+37) 4) dialog: Right. What room are you in?
+37) 6) dialog: (filtered) What do you mean?
+38) 0) text: Doug frowns at that. He stares up at the screen, into the bedroom, where Claire picks out another blouse, slips it
+38) 1) dialog: Describe what you see. Just humor me, okay? 34.
+38) 3) dialog: Is anyone there?
+38) 5) dialog: Uh ... okay. Great, thanks. Doug closes the phone, looks over -- Denny has been watch him, amused.
+38) 7) dialog: Can you blame me?
+39) 6) dialog: I want her appointment book brought here ... also any notes, diaries, checkbook, photos, any record of any kind. I want to know everything there is to know about her.
+39) 8) dialog: It's likely our man scoped out the ferry, yes. But we don't know when, or what he looks like. We could look right at him and not know. (back to the screen) But we'll notice a change, even a small change, in this woman's life. some looks where Doug looks -- staring at Claire, who at the table, reading. Pryzwarra shrugs.
+40) 0) text: Items from Claire's life are spread out around Doug. Purs photographs in a shoebox, journals, checkbook, a box of drawings, letters, etc. Doug has Claire's notebook computer in front of him. He clicks on a photo: Ginger, her cat, grabbing onto the cou Claire has added that timeless caption 'Hang in there, Doug smiles, glances up -- appointment book, bank statements, Baby!' 36. IN THE TIME WINDOW, Claire dabs off her makeup. Turns on shower, checks the water. She steps out of her skirt. IN THE LAB, some embarrassment among the observers.
+40) 3) dialog: We'll do what any normal, average house guest would do ... (smiles) Let's check out her medicine cabinet. He nods to Gunnars, who (somewhat reluctantly) moves the Window view away from Claire, toward the mirrored medicin cabinet. A brief, out-of-focus glimpse of Claire's nude f in the reflection -- -- and then the view MOVES PAST the mirror, into the cabi There is just enough light coming in around the edges to there's not much there.
+40) 5) dialog: What's on the other side of the wall?
+40) 7) dialog: Let's check it out. IN THE TIME WINDOW, the view pushes THROUGH THE WALL into kitchen. The view does a slow 360 scan. Doug frowns --
+40) 8) dialog: Huh. No tomato timer. 37.
+40) 10) dialog: I noticed it when I was in the house before. This funky little ... food timer, in the shape of a tomato. Next to the microwave. It's not there.
+40) 16) dialog: Follow her. IN THE TIME WINDOW, Claire enters her bedroom, lays down on the bed. Opens up her journal, starts to write. IN THE LAB, Doug searches, finds, opens up the same journ He flips through pages -- IN THE TIME WINDOW, the view shifts to over Claire's shoulder, looking down at the page as she writes -—- ‘Nothing much special today. Got that weird I'm-being-wat feeling again, but I'm sure it's nothing. Need to install lights outside the house. Trade the cat in on a German Shepherd. I feel like a goldfish. It's like someone's out there.' CLOSE ON: the same journal page. Doug watches her write w she's already written. Weird. 38.
+40) 19) dialog: Not true. We are. IN THE TIME WINDOW, the view peers in through the Window, then moves through, centered on Claire. She's set the journal aside, turned the light off. Laying her side, she stares out at the dark. Eyes open, but no w to tell what her thoughts might be. Doug watches her ... Claire's eyes close and her features relax. Her expressio pure, no one around, no one to see. Simple, unaffected, n artifice, no agenda. Naked and vulnerable. Doug's expression softens as well ... lost in her feature in the beauty of her peaceful expression ...
+41) 2) dialog: (low) The ex didn't show. 39.
+41) 6) dialog: (low) White jacket from the south road.
+41) 9) dialog: (indicates the man) Ever see him before? The Groundskeeper looks.
+42) 0) text: IN A GROCERY STORE, Claire stops her half-full shopping c in front of the cake mix shelf, looking pensive, sullen. Other shoppers move past, not noticing anything. Claire i alone in the store, lost in some private moment. IN THE LAB, Doug frowns. He has Claire's journal open in front of him -- ON THE JOURNAL PAGE, in Claire's hand: 'Went shopping tod shopping for one, made me feel alone -- I hate when that happens.' 41. Gunnars looks closely at Claire.
+42) 6) dialog: That's him.
+42) 16) dialog: He's waiting ... he wants to steal the car as late in the game as he can, so there's no time to track it --
+42) 20) dialog: He's thinking ... a date means someone who's expecting her, who would miss her. Which could ruin his plans ...
+42) 27) dialog: Wait -- we got surveillance video on that one, didn’t we?
+43) 0) text: Doug, Pryzwarra, the other agents gather before a MONITOR that displays TIME-CODED SURVEILLANCE VIDEO.
+43) 2) dialog: Scan ahead to exactly the time of the phone call.
+43) 9) dialog: What‘s that on the ground? Doug points. ON SCREEN, at the base of the phone booth: a dark blob with a blurry white logo.
+43) 11) dialog: You have access to face-recognition software, right?
+43) 13) dialog: Use it on the bag. How many hours of video have been logged?
+43) 16) dialog: Same guy. What is this?
+43) 19) dialog: And seven hours from now. IN THE WINDOW, Claire sits at her desk, working on an illustration. She erases a small error. Glances down, whe Janice sits on the floor, drawing with magic markers. IN THE MAIN LAB, Doug watches the scene. Glances around a the others -- Pryzwarra confers with Stalhuth and Denny. 46.
+43) 38) dialog: When were you gonna tell me? Silence. They all look up at him.
+43) 39) dialog: This thing's not just a window, is it? The team members look to Pryzwarra.
+43) 41) dialog: She saw it, Andy! I aimed a light at her JUST NOW, and she reacted to it
+43) 43) dialog: We can send things back, can't we?
+43) 45) dialog: We could GO back! 48.
+43) 49) dialog: Why not?
+43) 51) dialog: You've tried? Denny and Pryzwarra exchange a look.
+43) 54) dialog: What about a warning? A radio signal --
+43) 57) dialog: (exasperated) Then what about a note? They all look at each other.
+43) 58) dialog: A note. A single piece of paper, one sheet. Again the team looks to Pryzwarra -- 49.
+43) 61) dialog: But it is possible?
+43) 68) dialog: We could stop this, Andy! We could save all those people -—-
+43) 70) dialog: Then we'll have to send a warning that gets him apprehended and put away for good, prior to the first explosion.
+43) 73) dialog: We send it back to ourselves. To me, at the Bureau. An anonymous tip that someone is planning to bomb the Orient Point ferry on July 4th. (thinking it through) (MORE )
+43) 74) text: DOUG (cont'd) We know the suspect was at the dock with a camcorder the night before. Instant search warrant -- they find the bomb -- we could have him in custody before he even meets Claire --
+43) 81) dialog: What if there's more to it than physics?
+43) 83) dialog: Maybe. But I've spent my entire career chasing people after they've done something horrible. (MORE )
+43) 84) text: DOUG (cont'd) For once, I'd like to stop someone from ever hurting anybody in the first place. Can you understand that? Doug looks over, sees that Pryzwarra has been listening. They exchange a look.
+47) 0) text: Pryzwarra writes out the warning while Doug dictates:
+47) 1) dialog: You know, this would go faster if I did it myself --
+47) 3) dialog: "Terror suspect will be at Orient Point dock, 4:40am ...
+47) 5) dialog: It'll hold up. Just don't leave any prints on the note. Pryzwarra looks at his fingers, glares at Doug -- 'now he tells me.' He crumples the note and starts over.
+47) 7) dialog: There was, ah ... there was a reporter I worked with a few years back. The way we're phrasing this, I'm pretty sure I'll think it's from him.
+47) 12) dialog: I did not believe him, I wanted to prove that he was wrong.
+47) 14) dialog: I took a seat cushion from the forward cabin, to run independent tests on the fabric for missile residue. (beat) Yeah, I stole evidence.
+47) 16) dialog: The Bureau arrested Campbell and confiscated the samples before we could finish the tests.
+47) 18) dialog: Read the file. Shanti approaches:
+48) 0) text: Every screen is active, every station manned. Doug, Pryzwarra, Denny and his team are all at their places. Suspended before the Time Window, held by a thin glass armature: the warning note.
+48) 6) dialog: To us? (Pryzwarra nods) I imagine we'll all instantly pop into some other part of our lives with no memory that any of this ever happened «se. and you and I would never meet. Pryzwarra ponders that for a moment. Then:
+48) 9) dialog: Go to the third floor, southwest corner -- The VIEW RISES THROUGH ANOTHER FLOOR and into the main of pen -- the same open area of desks where Doug took the fi call about Claire --
+48) 10) dialog: That's it, stop-stop-stop. Right here ... now pan over to the right by the wall ... The office is nearly deserted, many of the desks unoccupi as the VIEW PANS ACROSS them, but two voices can be heard
+48) 12) dialog: I don't play games, Larry. IN THE LAB, Doug's face goes slack as he watches the scre IN THE WINDOW, is -- HIMSELF. Four days ago, Doug is having a barely-contained argument with his partner, LARRY MINUTI.
+48) 14) dialog: I told you, it was just a hunch --
+48) 18) dialog: Yeah. That's Larry. My partner. (he watches) Jesus, I'd forgotten about this. Denny shoots a glance to Doug at that. Checks his monitor
+48) 20) dialog: Mine? Yeah.
+48) 22) dialog: I'm tired of having to explain myself every time I manage to do the job ...
+48) 29) dialog: Look, I told you before -- and I'm telling you now -- I don't go outside proper channels anymore. If I peg a guy on a hunch, that's police work, not some conspiracy to keep you out of the loop.
+48) 31) dialog: (to Denny) We'd better hurry! If memory serves, I storm outta there in about a minute.
+48) 34) dialog: I don't have time for this. You do what you have to do, Larry. And have a nice vacation. DOUG. (watching himself) No ... IN THE WINDOW, Doug marches away -- from his desk, his partner, and the note. A collective sigh of futility. 57.
+48) 36) dialog: Whoa!
+48) 40) dialog: We don't know if it's fantastic yet, everybody quiet! They watch as MINUTI reads the note. He frowns, looks off to where Doug has just left, slamming a door.
+48) 41) dialog: Come on, Larry ... Minuti checks his watch, looks at the note again. The tea watches, breathless. Then Minuti comes to a decision: he folds the note and gr his jacket, heading out.
+48) 45) dialog: Because he thinks that's where I'm going. He thinks I went without backup. (a look) "Lone wolf shit." ON SCREEN, Minuti passes Exit 30, eastbound on the L.I.E. CRACKLE OF STATIC comes from the screen:
+48) 46) dialog: What's happening ... The image of Minuti on the road FILLS WITH STATIC.
+48) 53) dialog: Where is he ...? Doug checks his laptop: A FREEZE FRAME of the security ca video. The timecode reads 04:40:37AM. 59.
+48) 55) dialog: Maybe he didn't park in the lot. (to Gunnars) Bring it around in a circle. The WINDOW VIEW pans across the side of the lot, past lightposts, trees, hedges --
+48) 56) dialog: Hold it! Right there. Move in... The VIEW NARROWS until they all see it -- a man in a dark sweatsuit, climbing through one of the hedges.
+48) 58) dialog: I wanna see his face. IN THE WINDOW, the man has a camera bag over one shoulder he steps onto the dock, the light reaches his face -- Doug goes dead pale.
+48) 59) dialog: He was at Claire's funeral! The groundskeeper! The man -- his name is CARROLL OERSTADT -- lifts a camcor to his eye and begins taping, scoping the facility.
+48) 61) dialog: (to Gunnars) Pull back. Show me the back of the hedge, but don't lose the suspect. The Window retreats to a WIDE DOWN ANGLE, revealing the b of the hedge -- where a red JEEP GRAND CHEROKEE is parked
+48) 62) dialog: Move in on the license plate -- Suddenly another car drives past --
+48) 64) dialog: Wait, follow Minuti!
+48) 66) dialog: There is no plate, follow him -- THE WINDOW follows Minuti's car into the dock parking lot Doug looks up at the clock: 4:39AM and counting --
+48) 67) dialog: No wait, back over to the dock, hurry! THE WINDOW PANS OVER to Oerstadt, who is still taping the ferry as Minuti pulls into the lot. The wash of Minuti's HEADLIGHTS passes over him -- -- exactly as they did in the security video, startling h exactly as they did before, causing him to step back out view exactly the same way --
+48) 68) dialog: (yelling at Gunnars) Move it over, stay with him! THE WINDOW catches up with Oerstadt as Minuti's car sudde cuts him off from the hedge --
+48) 87) dialog: Larry!
+48) 90) dialog: No, no, no --! Minuti falls face-first to the ground. Oerstadt hauls his body off the blacktop, drags him back through the hedge - THE WINDOW FOLLOWS to Oerstadt's SUV -- which now has a t bullet hole in the back window, so does the side window, apparent exit wound -- Oerstadt dumps Minuti's body into the back of the Cheroke and slams it shut, runs to the driver's side -- 62.
+48) 94) dialog: Goggles!
+48) 96) dialog: Keep the phones clear, stay with him!
+49) 0) text: Doug bursts through the door and out into broad daylight, temporarily blinded. He hauls the backpack rig over to hi car and hurls it into the passenger seat --
+50) 0) text: Doug pulls out his cell phone as he peels out of the lot.
+51) 2) dialog: (on speakerphone) Where is he now? 63.
+51) 5) dialog: (into headset) Keep him in sight as long as you can and feed me directions! I'll track him with the goggle rig! IN THE LAB, the team members all look at each other.
+51) 8) dialog: Somebody tell me how to turn this thing on! ON THE EXPRESSWAY, Doug's car rockets out of the on-ramp, speeding and weaving past HEAVY MIDDAY TRAFFIC -- IN THE LAB, they're watching Oerstadt's car while Denny f instructions to Doug. The image starts to BREAK UP.
+51) 11) dialog: Hold on --
+51) 13) dialog: Is he getting off the freeway? 64.
+51) 15) dialog: Did he take the exit? Did he take it?
+51) 18) dialog: Holy ... He puts them back on just in time to see a RED JEEP CHERO barreling past in the opposite direction --
+51) 19) dialog: Shit! IN THE LAB, Shanti switches the Time Window over to the V FROM DOUG'S GOGGLES as the Jeep passes --
+51) 22) dialog: 
+51) 24) dialog: Shit-shit-shit-shit-shit -- ! IN THE MAIN LAB, the WINDOW VIEW veers wildly, matching Doug's head movements --
+51) 25) dialog: I lost him, I can't see past this truck!
+51) 31) dialog: What the hell?! 66.
+51) 34) dialog: Jesus, I'm gonna get killed--! Doug pulls the goggles on -- DOUG stares forward in shock. His car has almost complete overlapped the Jeep, both of them stalled in the middle o the highway. He stares at the back of Oerstadt's head, oblivious to the HORNS AND SQUEALING TIRES all around him Oerstadt turns, slowly, a figure in sinister silhouette. turns until he's gazing back, back at Doug it seems ... t down into the back seat. Doug follows his gaze down: to LARRY MINUTI, lying on the floor where Doug's feet should be ... bleeding from the h +e. Moaning at the edge of consciousness.
+51) 38) dialog: Where is he? Doug pulls the goggles on -- nothing but white static.
+51) 39) dialog: The goggles are smashed! I can't see anything -- IN THE MAIN LAB, they've still got a view. The WINDOW sho SKEWED ANGLE of the shoulder where Doug's car is stalled.
+51) 42) dialog: Which way?
+51) 44) dialog: Are you sure?
+52) 0) text: Wheels spray dirt as Doug's car plows up the side of the ditch and onto the roadbank -- IN THE CAR, Doug sets the broken goggles on his dashboard facing out. DOUG'S CAR lands on the exit ramp, back on solid road. Gaining speed, he's headed for a fork -- 68.
+52) 1) dialog: Left or right?
+52) 5) dialog: Somebody talk to me!
+52) 9) dialog: Yeah! Great shortcut. 69.
+53) 0) text: Tall trees, dirt roads ... deep, deep woods. DOUG'S CAR w through pine and brush, approaching a clearing.
+53) 2) dialog: Yeah, I see it. What's he doing now?
+53) 4) dialog: Looks like another bomb went off.
+53) 6) dialog: No damage?
+53) 9) dialog: Can you still see this way?
+53) 13) dialog: Is Larry moving?
+54) 0) text: The charred remains of a stolen ambulance lie nose-first deep sinkhole in the middle of the floor. Doug surveys th blackened hulk.
+54) 1) dialog: Do you see a vehicle inside? An ambulance?
+54) 4) dialog: I see it. (he calls out) Larry? No answer. Doug starts to look around --
+54) 7) dialog: Let me know if he moves out of frame. A LOUD TEARING SOUND suddenly fills the headset.
+54) 8) dialog: What is that -- is that duct tape?
+54) 11) dialog: Larry! LARRY! OVER HIS HEADSET, a new sound: LIQUID SPLASHING HEAVILY o the chair. Members of the team can be heard gasping.
+54) 12) dialog: What's that? What is that?!
+54) 14) dialog: I found something, hold on! Drawing his weapon, Doug grabs the handle, holds his gun ready, and heaves the plate up and open with a crash -- ON DOUG, as he stares down into the hole in blank horror. Finally he finds words.
+54) 15) dialog: Everyone, brace yourselves ... you're about to witness a murder.
+56) 0) text: Doug tears his headset off -- in horror, in rage, in shee helplessness -- fists jammed into his eyes as the SCREAMI CONTINUES. It's all he can do to hold on... Then he catches sight of something else, something in the floorboards near the chair. He grows silent, almost numb he reaches out for it. He pulls it free ... It's a single earring. Blue pearl.
+58) 0) text: Doug stands, stares cut at the forest. An AGENT wearing a headset approaches him.
+60) 0) text: Pryzwarra and the team are arguing as Doug enters:
+60) 5) dialog: We changed one thing. Everyone turns. Doug walks past them, faces the Window.
+60) 6) dialog: The suspect was driving a stolen Jeep Cherokee when he cased the dock. It was big enough to drive the bomb onto the ferry, and he'd already changed the plates. He already had an SUV. (beat) Then Larry showed up and put bullet holes in the windshield and left blood all over the back seat. The team members wait. Doug turns to look at the Window -
+60) 7) dialog: So now ... he needs a new car. The team members grow silent as the full implication of t fact hits them.
+67) 15) dialog: Then?
+67) 16) text: (smiles at Doug) I think you know what happened after that! (back to McCready) And now ... now I feel really bad.
+67) 24) dialog: Like a plane that blows up, without explanation, in mid-air? Doug dumps Oerstadt's scrapbook onto the table. yellowed press clippings spill out in a fan... about the Flight 800 disaster. Photos and all of them Oerstadt looks over -- and we see the intelligence behind eyes for the first time, unmasked. He sits up straight.
+67) 26) dialog: Is that why you did it? Oerstadt thinks ... all pretense of fear gone.
+67) 30) dialog: No. We already checked with her friends and family. You never knew her. You picked a woman at random on that flight to obsess over, and that's all.
+67) 32) dialog: You never even met her. Oerstadt leans forward.
+67) 34) dialog: You admit that you set a bomb onto the Orient Point ferry? 80.
+67) 38) dialog: How is that?
+68) 7) dialog: (off Pryzwarra) He's right! (MORE )
+68) 8) text: DOUG (cont'd) The confession could be ruled inadmissible. We need to keep gathering evidence --
+68) 13) dialog: What about Claire Kuchever? McCready stops.
+68) 15) dialog: So we're dropping the case?
+68) 17) dialog: What do we tell her family?
+68) 19) dialog: You can't do that! He's going to kill her in six hours -- 82.
+69) 0) text: Doug marches away from the lab. Pryzwarra catches up to h Doug spins around, about to deck him when --
+69) 2) dialog: Then how did he find out?
+69) 4) text: Doug's glare softens. He claps Pryzwarra on the shoulder, silent apology. As he turns to go:
+69) 6) dialog: Yeah ... that's one theory. He heads away up the ring. Pryzwarra watches him go.
+74) 0) text: The Crime Scene people have left their mark: police tape, evidence markers, etc. Janice's dolls lie in their corner basket. Claire's illustrations remain tacked over her des DOUG stands in the middle of the room, silent. 84.
+75) 0) text: Doug wanders the kitchen like a fading ghost. He picks up Claire's tomato timer, rolls it in his hand as he walks. He notices the cat bowls at the foot of the refrigerator, empty. Looks up, sees -- the magnetic poetry on the refrigerator door, undisturbed. Four words:
+76) 1) dialog: "Hi, you don't know me ... I'm Special Agent Doug Carlin." (shaking it away) No, shit ...
+77) 0) text: Dr. Vavala looks up as Doug suddenly strides in --
+77) 3) dialog: (a beat) Mine.
+78) 0) text: Doug speaks aloud to no one again:
+78) 1) dialog: "What if you had to tell someone the most important thing in the world, but you knew they'd never believe you?" (grins) That could work ... 85.
+79) 0) text: Doug is at the security gate, the guard at his window:
+79) 2) dialog: It is ending today, it's still ending, and I'm on my way in there to help it finish ending. The guard hesitates ...
+79) 3) dialog: Come on, Kenny, I bought you guys pizza!
+80) 0) text: Doug strolls a bit too quickly to the outer security door the facility. Swipes his cardkey through the reader --
+80) 1) dialog: Come on, come on, still work. A RED LIGHT flashes a zero tone at him.
+80) 2) dialog: Shit!
+81) 2) dialog: You don't have to do this --
+81) 4) dialog: What makes you so sure?
+81) 10) dialog: Yeah. No. Wait ... Doug takes something from under his jacket -- a typewritt sheet of paper -- and pins it to his lapel.
+81) 11) dialog: Yeah. (Denny just stares at him) What.
+81) 13) dialog: I know ... Doug looks sick. Denny keys in the final sequence. Doug starts taking air in shallow gasps, heart pounding. Then
+81) 14) dialog: Doctor? (Denny lceoks up) If you ever manage to perfect this thing ... I'd really love to know what happened to that plane. It takes Denny a moment to understand. Then he nods. A SUDDEN BUZZING at the door startles them both. The door remains locked. Someone has just been denied access to th lab by the re-coded security lock. LOUD POUNDING follows. Denny checks his console.
+83) 0) text: Double doors burst open as Doug is wheeled-in on a gurney surrounded by a TRAUMA TEAM. They reach an operating tabl
+84) 0) text: Doug's eyes open slowly. He's lying on a bed, shirt torn but still fully clothed. He blinks harder, completely disoriented. He stares at -- The heart monitor. Numbers on it keep changing. A RED DIG READOUT. Just like a clock.
+85) 0) text: A DOCTOR and NURSE walk down the hall -- when Doug bursts through the door and into the hallway. Doug hits the wall opposite them and careens away up the corridor, still groggy but running as fast as he can --
+86) 0) text: Doug lurches into the stairwell and runs, all but falling down the steps, racing for the first floor -- EXT. BROOKHAVEN MEDICAL —- AMBULANCE BAY - NIGHT TWO PARAMEDICS sit on the bumper of their ambulance, havi smoke. DOUG erupts from a side door. He runs toward them hopping on one leg, pulls a badge from his sock:
+86) 1) dialog: Federal Agent! I need a vehicle!
+86) 4) dialog: I said I need a vehicle! Now!
+86) 6) dialog: Time, time, what time is it --
+87) 0) text: The ambulance roars down the highway, passing Exit 34 -- INT. AMBULANCE —- NIGHT Doug plugs a cell phone charger into the dash, powers it
+87) 1) dialog: Come on, come on, come on! The face of the cell phone lights up: "07/04 1:07AM"
+87) 2) dialog: No! Shit-shit-shit-- He leans on the gas harder, throws the siren on --
+88) 0) text: Doug's ambulance barrels down the road, siren blaring.
+88) 3) dialog: Freeze! Federal Agent! He aims into every corner, spinning, searching. Oerstadt is gone. The ambulance lights strobe red-and-whi casting eerie shadows, its headlights shining bright. A FIGURE DARTS THROUGH THE LIGHTS. Doug tracks it --
+88) 4) dialog: 
+88) 6) dialog: 
+88) 13) dialog: 
+88) 19) dialog: Jesus, you're real. Claire SCREAMS THROUGH THE TAPE, eyes bright with terror
+88) 20) dialog: No=-no-no, IT'S OKAY, IT'S ALL RIGHT! Look, I'm a Federal Agent! -- wait -- (fumbles with his jacket, thrusts his I.D. at her) I'm a Federal Agent! I'm here to get you out, it's okay, he's gone!
+88) 21) text: Claire's screams trail off into violent sobbing. Doug pul the tape off of her mouth --
+88) 24) dialog: I will, I promise! Hold still -- Doug peels at the tape around her wrists but can't get hi fingers under it. He scratches at it, fumbling. Claire's tears subside. He smiles awkwardly at her.
+88) 25) dialog: Just be a minute. Hi...
+88) 27) dialog: I'm Doug Carlin ...
+88) 29) dialog: Hi. 95.
+88) 32) dialog: No. He drove off ... (a beat, it hits him) In your car. Doug ponders that for a moment. Which is when THE INCENDI BOMB GOES OFF BEHIND HIM. FIRESHOT scatters through what's left of the bungalow. TH FLOOR IGNITES AT ONCE, flames running across spilled fuel
+88) 40) dialog: Okay, pull up on your arms! As hard as you can! Claire cringes -- Doug cuts away the tape from her arms, ankles.
+88) 41) dialog: Now don't run or you'll catch fire! Wait! Okay?
+88) 43) dialog: Grab my neck! Both arms, that's it -—- Here we go! -- Doug hauls Claire off the floor and runs into the flames, carrying her like a bride through a burning houses
+88) 44) dialog: Cover your face, don't look! Claire buries her face against him -- he runs for the ope front wall -- everything is burning, everything's falling
+89) 0) text: Doug pulls Claire out of the bungalow just as the AMBULAN EXPLODES, throwing both of them to the ground. Doug rolls of Claire; they sit up, gasping for breath.
+89) 1) dialog: Are you all right?
+89) 4) dialog: Sorry, I'm just amazed that you're ... okay.
+89) 6) dialog: The middle of the Pine Barrens. About forty miles from your house.
+89) 9) dialog: FBI, Special Agent.
+89) 11) dialog: It's okay! You were busy. It's Doug. Doug stands, gazes out into the woods, worried. She looks into the darkness.
+89) 13) dialog: Take it easy --
+89) 15) dialog: Claire -- you didn't do anything. All right? None of this is your fault. Let's just get you away from here.
+90) 0) text: Doug crawls into Oerstadt's Jeep, pulls open the steering column. Goes to work hot-wiring the ignition.
+90) 1) dialog: Just be a minute ... Claire stares at the bullet holes in the windshield.
+91) 2) dialog: Back to your house. 98.
+91) 4) dialog: (hesitates) You're covered in gasoline. I'll get you home, and then let me handle the police. Claire looks down at her clothes. It suddenly hits her:
+91) 6) dialog: Don't say that!
+91) 8) dialog: No, Claire ... you escaped, you got away from the bad guy. You survived, you're going to be all right. Doug looks at Claire, into her eyes.
+91) 9) dialog: 
+92) 0) text: Doug and Claire enter. Claire's cat runs under the couch.
+92) 2) dialog: Come on out, lil' scruff --
+92) 4) dialog: Here she comes! Hey, kitty ... He reaches out, scratches the cat's ears.
+92) 6) dialog: Of course not. I'll get you a glass of water?
+92) 8) dialog: Okay.
+93) 0) text: Doug fills two glasses at the sink. Glances at the counte next to the refrigerator, blinks -- there's nothing there He pulls the tomato timer from his pocket. Stares at the where he'll find it tomorrow ... a spot which is now empt He puts the tomato timer in that exact spot, then steps b He snorts in sudden laughter, giddy at the paradox. Doug can't help himself, goes to the refrigerator. Rearra the magnetic poetry to read, ‘YOU CAN SAVE HER.' Smiles - The sound of A WASHING MACHINE calls his attention -- he heads back into the living room --
+94) 0) text: Doug sets two glasses down. Claire drops the lid on her closet washer and comes in from the hallway.
+94) 2) dialog: I can stay a few minutes if -—- Doug's face goes dead slack. She's changed into the same summer dress she was found dead in.
+94) 3) dialog: That dress! 100.
+94) 5) dialog: That dress! Don't wear that! She stares at him. Doug catches himself.
+94) 6) dialog: I'm sorry. I know this sounds weird, but ... you should put on something else. A different color. Red, you have a red and white dress, right?
+94) 8) dialog: I'm sorry -- there was ... a victim on this case, who wore a dress like that.
+94) 10) dialog: (under his breath) Shit, Carlin, when did you get so sloppy?
+94) 12) dialog: Sure -- Doug walks into Claire's bedroom --
+95) 0) text: -- and Claire BASHES Doug across the back of the head wit porcelain vase, SHATTERING it. Doug falls onto the bed, dazed. Claire lunges at him, gra his holster. He rolls over, she screams, pulls his gun fr
+95) 5) dialog: I am the police ...
+95) 7) dialog: Claire ...
+95) 10) dialog: Can I sit up? I'm not going to do anything. Claire doesn't answer. Doug sits up slowly.
+95) 11) dialog: I am a Federal Agent ... part of a special investigative unit. We're working a terrorism case, tracking the man who tried to kill you.
+95) 13) dialog: (thinks about it) Look at my face. You scratched his face, right? Claire nods, starts to look doubtful.
+96) 0) text: Doug enters ahead of Claire. Starts to go to his jacket -
+96) 2) text: CLAIRE (cont'd) (an idea) Sit on your hands! Doug can't help but smile -- this lady has seen her cop shows. He sits on his hands, as directed. Claire digs int his jacket, pulls out his cardkey, risks a glance at it.
+96) 4) dialog: The other one. Claire puts the cardkey in her skirt pocket. She digs aga pulls out his FBI badge. Glances at the picture. Picks up phone, hits '0O.'
+96) 12) dialog: (softly) Ask him to call me on my cell phone. 103.
+97) 0) text: Claire has a bottle of disinfectant and some cotton balls Doug sits on the edge of the tub. Claire dabs at the back his head, throws the cotton ball in the trash.
+97) 1) dialog: The man who attacked you is Carroll Oerstadt. He's planning to blow up the Orient Point ferry.
+97) 3) dialog: It'll be all right. I know his plan. I know exactly where he's going to be and what he's going to do. 104.
+97) 5) dialog: What if you had to tell someone the most important thing in the world, but you knew they'd never believe you?
+97) 7) dialog: (a beat) You won't believe me, but ... Just for the sake of argument, let's pretend that the FBI has this special device, and that I know what's going to happen in the next six hours.
+97) 9) dialog: It'd make things a lot easier if you just go with me on that --
+97) 11) dialog: Oh, no. No.
+98) 0) text: Doug stares at the pieces of the broken vase:
+98) 1) dialog: Shit. I haven't changed a thing ...
+99) 0) text: Doug comes in, stares at the two glasses (with his fingerprints on them). He closes his eyes, trying to thin things through ... comes to a decision. One he doesn't li
+99) 1) dialog: Claire ... you have to come with me.
+99) 3) dialog: I was wrong. Claire, I do know what's going to happen, some things, anyway. (looks at her) I have to go ... and I can't leave you alone. That brings fear to Claire's eyes.
+99) 4) dialog: Claire ... just ... look at me. There's no argument I can make that will get you to believe me. But can you just look at me, and see that I'm telling the truth? Claire looks at him... her expression softens a bit. As bizarre as this is, she does believe him -- The phone RINGS. Claire moves to answer it:
+99) 5) dialog: Wait, don't answer that! Let me prove this -- let the machine pick it up. (a beat) Okay, now that's your friend Beth calling. Right? To check up on you after your blind date.
+99) 8) dialog: Okay now, watch me -- listen to Beth leave her message and watch my lips -- Claire frowns. Her machine BEEPS -- and Doug lip-synchs exactly the words that Beth says over the speaker.
+99) 14) dialog: Believe me. The only place you're safe is with me. Claire stares. Comes to a decision. One she doesn't like.
+100) 2) dialog: I've seen the plans for the bomb. There's a remote detonation device. If we confront him, we're just killing a different group of people.
+100) 4) dialog: In the city? (shakes his head) I don't know where he is, until he gets to the ferry. Then it's too late. No, the safest way to separate him from the bomb ... is to let him put it in place.
+100) 6) dialog: (smiles) I do that one. Claire shakes her head; it's all too wild ... but she is fascinated.
+100) 8) dialog: Everything ... He glances over at her.
+100) 9) dialog: I know that you support yourself as a children's book illustrator. I know that eight months ago your fiancé suddenly broke it off and refused to return your phone calls. I know that you've been turned down by three adoption agencies since January because they won't place a child with a single woman on a freelance income. Claire gasps. 108.
+100) 10) dialog: I know that you put your Explorer up for sale because you've given up on ever having a big family. And that you say grace before meals even when you dine alone. That you write poems in your Christmas cards. That you love Cary Grant movies. That you got stood up tonight. (beat) And I know that you dance with your cat sometimes, when it's late and you've been alone all day. Claire is blown away. Doesn't know what to say.
+100) 12) dialog: I'm... I'm a guy who likes the fact you do all those things. They share a smile. Doug looks back at the road. Which lets Claire study his face ...
+101) 0) text: Doug parks the Jeep on a side street, well away from the ferry. Angles it in behind a large DUMPSTER. DOUG. We can walk from here.
+101) 2) dialog: We can't let Oerstadt see his own car. We want him to think everything is going perfectly.
+102) 0) text: Flags tied to cars and strollers, couples hand in hand, scores of FAMILIES with cameras and kids in tow. DOUG AND CLAIRE keep watch on the ferry from a safe dista standing next to a cotton candy stand. The dock is crammed with PEOPLE AND VEHICLES -- rows of c RV's and trucks in line to board the Sea Bride. Suddenly Claire's breath catches: 109.
+102) 2) dialog: Yeah. That's him. Claire stares at her killer's face for the first time, quietly terrified.
+102) 5) dialog: No --
+102) 7) dialog: Claire ... in a minute Oerstadt is going to get off that ferry. He's going to get on that shuttle bus, and ride it out to the tip of Orient Point. There he's going watch the ferry from shore as it sails out of trigger range, then he'll wait to see the bomb go off. AT THE FERRY, Oerstadt appears. Scans the crowd.
+102) 8) dialog: If at any point before that, he suspects anything, he will set it off immediately. Oerstadt wears his camera bag, stands with one hand in hi pocket. Then walks purposefully through the crowd, straig toward the shuttle bus ... and gets on. Claire lets out her breath. But Doug waits, still watchin Claire looks at him, questioningly. Doug still waits -- 110. AT THE FERRY, the shuttle PULLS AWAY. Doug smiles.
+103) 0) text: Doug escorts Claire to the Dock Authority.
+103) 1) dialog: Twenty-two minutes after the ferry leaves, it's going to pass a Coast Guard cutter. We'll hail the cutter and evacuate everyone from the ferry, then I'll disarm the bomb.
+103) 3) dialog: It's the only time we've got. Claire starts to protest --
+103) 4) dialog: We're trying to cheat fate here, Claire. This guy's got everything else covered. They reach the door.
+103) 6) dialog: Me, the bomb, everything -- including where to find Oerstadt now. Show them the Jeep if they don't believe you. Just wait until after the ferry's well underway.
+103) 8) dialog: Stay ridiculously safe. I'll see you later. Doug heads off toward the ferry. Claire watches him go.
+105) 0) text: Again the bus comes to a stop. A large MOVING VAN blocks road ahead. Oerstadt gazes out the window -- He's looking down the exact street where Doug and Claire his Jeep. He can't see it though, because the Jeep is wel hidden behind the dumpster. But just then, a GARBAGE TRUCK moves its forks into place beneath the dumpster, and LIFTS IT UP -- -- giving Oerstadt a brief glimpse of his shattered Jeep, parked along the street. Oerstadt stares.
+111) 0) text: Doug stands along the ship's rail as the ship passes the lighthouse. He checks his watch: DOUG. Damn. Running late already ... He edges past the GROUP OF KINDERGARTNERS and their teach finds a ladder and climbs out of view -- -- just as CLAIRE steps onto the walkway, too late to see him. She hurries by, casting glances behind her --
+113) 0) text: Doug taps on the glass door to the ferry's control cabin. men inside are startled; one of them comes to the door:
+113) 2) dialog: (flashing his I.D.) I'm a Federal Agent, this is an emergency. I need to speak to the Captain.
+113) 4) dialog: Captain, I need you to hail that cutter we just passed and advise them that there may be a bomb onboard -- tell them to come alongside --
+113) 8) dialog: We're gonna need to evacuate every one of these people -- As he gestures at the Sun Deck below him, Doug naturally glances down -- and sees OERSTADT on deck, walking past t Navy band, intent on something out of view. Doug's eyes go wide in utter disbelief.
+113) 10) dialog: Never mind.
+113) 12) dialog: Never mind! You're right -- don't do anything until I confirm the threat. Understand? Don't do anything differently! I'll be right back! Doug vaults down the ladder. The Captain and Pilot look a each other, then the Captain grabs the conn mike:
+115) 0) text: A NAVY BAND -- two dozen sailors in dress whites -- plays John Philip Sousa tune for the passengers. Above them han banner, ‘WELCOME SUBASE NEW LONDON FAMILIES!' Aman in a wheelchair sleeps next to a kid in a stroller. Doug lands on the deck next to them, moves past —- 115.
+117) 0) text: Doug spins, pacing through the crowd. He passes the band suddenly notices something out on the water -- In the distance, THE COAST GUARD CUTTER TURNS, coming bac around pursue the ferry.
+117) 1) dialog: No, no, no, damn it ...! Doug checks his watch, gives the deck one last look for Oerstadt. Pushes off the rail and runs down the walkway - 116.
+118) 0) text: Over a hundred vehicles parked end-to-end, on two levels along the keel and down four center lanes. Doug vaults a chain barrier. Looks around: the parking ba seems deserted, all the cars empty. Doug pulls his gun. Edges through the parking bay, trying keep hidden while searching for the Explorer. Not an easy task -- there are military vehicles and at least one scho bus obscuring his views. He hears something -- someone trying to strike a flint, o and over. Doug comes around a vehicle with his gun -- Surprising the Ferry Worker, trying to light his cigarett
+118) 3) dialog: Get out. Now. The Ferry Worker scrambles to his feet, runs out of the b Doug never gives him a second glance --
+118) 5) dialog: CLAIRE! Jesus --— He claws at the door handle -- -- when TWO TAZER WIRES fire into his back, zapping him i a seizure. Doug jerks spasmodically, drops the gun, falls over the rail -- 117. Doug lands on a car, shattering its windshield. He's on h back, eyelids fluttering at the edge of consciousness -- DOUG'S POV - the underside of Claire's car -- and OERSTAD wearing an orange life vest, looking down at him from the ramp above. Oerstadt reaches into his camera bag, no hurry. Pulls out pipe bomb. Doug moans, tries to move -- Oerstadt pounds t pipe bomb once on the rail, and tosses it at him -—- Doug slides off the hood just as the pipe bomb falls thro the shattered windshield. THE CAR EXPLODES, debris flying Doug slides under a military transport truck, crawling fo his life. Another pipe bomb pounds the rail, another toss
+118) 8) dialog: I have a message for you... from Melissa Jean Brooks. Oerstadt blinks, momentarily dumbstruck.
+118) 10) dialog: Go to Hell. 118. Oerstadt's shock becomes sudden fury -- he aims the gun i Doug's forehead -- -- as Claire suddenly pulls the Explorer out of gear and rolls into him from behind, knocking him off-balance. Oerstadt spins and falls hard, his camera bag slamming in the rail with A METALLIC BANG -- -- and with THE DISTINCTIVE SOUND OF ONE OF OERSTADT'S PI BOMBS SUDDENLY PRIMING. He and Doug exchange looks.
+118) 13) dialog: 
+118) 15) dialog: Claire! Claire!! He runs along the edge to the Explorer. Pulls out Claire' keys, unlocks her passenger door and gets in --
+119) 0) text: Claire is still bound to the wheel, a roll of duct tape o the seat beside her. Doug tears it from her mouth --
+119) 2) dialog: It's okay! You just saved my life! (he smiles, pulls at her taped wrists) Are you all right?
+119) 4) text: Doug freezes at that. He looks at his watch -- 10:46 now.
+119) 5) dialog: Less than two minutes ...
+119) 7) dialog: Not enough time. He gets her hands free, starts to work on her ankles --
+119) 8) dialog: Help me, hurry!
+119) 10) dialog: You are gonna get topside as fast as you can -- He cranks it again -- the MOTOR STARTS.
+119) 11) dialog: I'll take care of this!
+119) 20) dialog: If we get out of this car, everybody dies. Claire swallows, fighting panic:
+122) 0) text: Doug and Claire are thrown into the dashboard, nearly out their seats --
+124) 0) text: Doug and Claire tumble like socks in a dryer, rolling wit the submerged car -- THE BARRELS ROLL AND SMASH INTO EACH OTHER, rupturing, splashing fuel all over Claire's back -
+125) 0) text: SEAWATER ENGULFS THEM. Claire can't see. Her breath escap in a rush of bubbles, she's panicking -- DOUG'S HAND appears, pulls her to the door, to the window it's open -- she flails and kicks through broken glass -- 122. -- clawing for the surface as the ferry passes overhead, churning, deafening, so far above -- she'll never make it she's too far down, starts choking -- and beneath her -- THE BOMB EXPLODES.
+127) 0) text: Claire is brought onto the deck with other FERRY PASSENGE more are still coming aboard, coughing and sooty. Behind the ferry BURNS; FIREBOATS spray water into its bow as bl smoke billows forth. Claire doesn't hear any of it, just sits trembling. Her h shake as she brings them up and stares at them ... Ten fingers, all fine. She pulls her hair away from her eyes, blinking. As she d her eyes focus on something, something in the distance. Out there, in a pool of burning fuel -- DOUG'S BODY lies face up in the tide. His eyes are lifele his body blackened; his legs and lower torso are in flame There can be no question that he's dead. CLAIRE watches, frozen. Doug sways with the waves, then begins SLOWLY SINKING FRO VIEW, one arm floating out at a cruel angle. Just before vanishes forever, we see Doug's hand. 123. All five fingers have been sheared away, leaving ragged stumps. The water closes over him completely, then ripples and smoothes out, until only flames remain.
+128) 15) dialog: Anything that doesn't belong. Doug notices a shell-shocked woman -- CLAIRE this time -- standing alone. She's staring at him, drenched and trembl
+128) 18) dialog: It's all right, miss. You're in shock. AND CLAIRE BREAKS DOWN, crying so hard she can't speak. S throws her arms around Doug and weeps into his neck, bawl
+128) 19) dialog: It's okay. You're okay now. Doug puts his arms around her, awkwardly, bewildered.
+128) 21) dialog: Shh, shhhh ... you're gonna be fine. She starts to calm down in his arms. Over her shoulder, D sees a group of RED CROSS VOLUNTEERS, waves to one of the behind Claire's back. Takes Claire that way.
+128) 22) dialog: Miss, these people can help you --
+128) 24) dialog: It's okay, you're going to be fine.
+128) 26) dialog: Look, you're safe, I have to go back over there --
+128) 29) dialog: (suspicicus now) Do you have something to tell me about what happened here today? Claire swallows, finally nods. Doug considers, looks arou
+128) 30) dialog: Okay. Okay. Hold that thought. He takes her arm. They walk together -- Doug brings her o to his car, opens the passenger door for her --
+128) 31) dialog: Watch your head, that's it ... 127.
+129) 0) text: The door cuts off sound from outside. Claire watches thro the windshield as Doug goes to Pryzwarra and confers sile with him, pointing at Claire. As she watches, she feels something in her dress pocket, takes it out: A BROOKHAVEN LAB CARDKEY bearing Doug's name and photo, tomorrow's date clearly visible. Claire stares at it, beginning to comprehend. She hides the card as Doug slides behind the wheel.
+129) 1) dialog: You're not under arrest, but I'm going to need to take a statement -- As he keys the ignition his CAR RADIO STARTS -- he reache for the knob but stops mid-reach:
+129) 4) dialog: It was supposed to be raining by now. Claire looks out the window -- it's a bright blue sky, no cloud anywhere. She shrugs:
+130) 0) text: Their car heads out of the recovery area, past hundreds o people. Doug and Claire look out as they weave past.

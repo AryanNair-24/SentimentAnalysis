@@ -1,0 +1,158 @@
+18) 59) dialog: Victor, I, I feel somehow we shouldn't stay here.
+18) 72) dialog: Victor... Laszlo understands.
+18) 84) dialog: You are very kind.
+18) 92) dialog: Yes.
+18) 94) dialog: Rick? Who's he?
+18) 96) dialog: -- Is what?
+18) 113) dialog: Victor, I'm afraid for you.
+18) 116) dialog: Be careful.
+18) 129) dialog: (to waiter) Will you ask the piano player to come over here, please?
+18) 138) dialog: Hello, Sam.
+18) 140) dialog: It's been a long time. 43.
+18) 142) dialog: Some of the old songs, Sam.
+18) 144) dialog: Where is Rick?
+18) 146) dialog: When will he be back?
+18) 148) dialog: Does he always leave so early?
+18) 150) dialog: You used to be a much better liar, Sam.
+18) 152) dialog: Play it once, Sam, for old time's sake.
+18) 154) text: I don't know what you mean, Miss Ilsa.
+18) 155) dialog: Play it, Sam. Play "As Time Goes By."
+18) 157) dialog: I'll hum it for you. Ilsa starts to hum. Sam begins to play it very softly.
+18) 158) dialog: Sing it, Sam. And Sam sings.
+18) 164) dialog: Hello, Rick.
+18) 167) dialog: -- This is Mr. Laszlo.
+18) 183) dialog: (to Rick) I wasn't sure you were the same. Let's see, the last time we met --
+18) 185) dialog: How nice. You remembered. But of course, that was the day the Germans marched into Paris.
+18) 187) dialog: No.
+18) 189) dialog: Yes. I put that dress away. When the Germans march out, I'll wear it again. 47.
+18) 200) dialog: Say goodnight to Sam for me. 48.
+18) 202) dialog: There's still nobody in the world who can play "As Time Goes By" like Sam.
+18) 204) dialog: Goodnight.
+19) 0) text: Ilsa and Laszlo leave the cafe.
+19) 2) dialog: Oh, I really can't say, though I saw him quite often in Paris. They join Renault at the curb.
+19) 7) dialog: Goodnight.
+20) 37) text: A) The Arc de Triomphe from a distance. B) Rick drives a small, open car slowly along the bouleva He puts his arm around Ilsa. The background scenery changes to a country road as she snuggles close to him and puts her head on his shoulder. C) An excursion boat on the Seine. Rick and Ilsa stand at the rail of the boat. They seem to be transported by each other as Ilsa laughs.
+21) 0) text: Ilsa fixes flowers at the window while Rick opens champag She walks over and joins him.
+21) 2) dialog: We said "no questions."
+22) 0) text: Inside a swank Paris cafe, Rick and Ilsa dance. They appear to be very much in love as the MUSIC plays.
+23) 0) text: Ilsa flips a coin, then tosses it over to Rick.
+23) 1) dialog: A franc for your thoughts.
+23) 3) dialog: I'm willing to be overcharged. Tell me.
+23) 5) dialog: Yes?
+23) 7) dialog: Why there is no other man in my life?
+23) 9) dialog: That's easy. There was. He's dead.
+23) 11) dialog: Well, only one answer can take care of all our questions. They kiss passionately.
+24) 0) text: A man sells newspapers to people crowded around him. Ther is much excitement. Rick and Ilsa sit at a table. They bu a newspaper and begin to read it. Nearby, a group of frightened French people cluster aroun loudspeaker on a wagon. A harsh voice barks out the tragi news of the Nazi push toward Paris.
+24) 2) dialog: (frightened) Richard, they'll find out your record. It won't be safe for you here.
+25) 0) text: A small cafe in the Montmartre. A shadow on the floor reflects the cafe sign "La Belle Aurore." Rick, at the bar, gets glasses and a bottle of champagne. He walks over to Ilsa and Sam at the piano. Sam plays "As Time Goes By." Ilsa seems unnerved. There is evidently something on her mind. Rick pours the champagne. His manner is wry, but not the bitter wryness we have seen in Casablanca.
+25) 5) dialog: It's the Gestapo. They say they expect to be in Paris tomorrow. They are telling us how to act when they come marching in. She smiles faintly.
+25) 6) dialog: With the whole world crumbling, we pick this time to fall in love.
+25) 8) dialog: Ten years ago? Let's see... (pause as she thinks a bit) ...Yes. I was having a brace put on my teeth. Where were you?
+25) 10) dialog: (frightened) Was that cannon fire, or is it my heart pounding? 56.
+25) 15) dialog: Strange. I know so very little about you.
+25) 17) dialog: But be serious, darling. You are in danger and you must leave Paris.
+25) 19) dialog: (seriously) Yes, of course, we --
+25) 21) dialog: (quickly) No, no. Not at my hotel. I, uh, I have things to do in the city before I leave. I'll meet you at the station, huh?
+25) 23) dialog: (evasively) That's too far ahead to plan.
+25) 25) dialog: Oh, darling! Ilsa turns away and starts to cry.
+25) 27) dialog: I love you so much, and I hate this war so much. Oh, it's a crazy world. Anything can happen. If you shouldn't get away, I mean, if, if something should keep us apart, wherever they put you and wherever I'll be, I want you to know... She can't go on. She lifts her face to his. He kisses her gently.
+25) 28) dialog: Kiss me. Kiss me as if it were the last time. He looks into her eyes, then he does kiss her as though it were going to be the last time. 58. Her hand falls to the table and knocks over a glass.
+26) 3) text: Richard, I cannot go with you or ever see you again. You must not ask why. Just believe that I love you. Go, my darling, and God bless you. Ilsa Raindrops pour down the letter, smudging the writing.
+27) 0) text: Close-up of a glass on the table in the cafe. Rick's hand reaches for it and knocks it over. We now see Rick's face and he's very drunk. Sam walks over to the table to pick up the glass and a fallen chair. Just then the door opens and it's Ilsa. Rick stares at the doorway. Ilsa lingers a moment, then comes over to the table.
+27) 1) dialog: Rick, I have to talk to you. Her manner is a little uncertain, a little tentative, but with a quiet determination beneath it.
+27) 3) dialog: No. No, Rick. Not tonight.
+27) 5) dialog: Please.
+27) 7) dialog: I wouldn't have come if I had known that you were here. Believe me, Rick, it's true. I didn't know.
+27) 9) dialog: Please don't. Don't, Rick. I can understand how you feel.
+27) 11) dialog: I didn't count the days.
+27) 13) dialog: Can I tell you a story, Rick?
+27) 15) dialog: I don't know the finish yet.
+27) 17) dialog: It's about a girl who had just come to Paris from her home in Oslo. At the house of some friends she met a man about whom she'd heard her whole life, a very great and courageous man. He opened up for her a whole 61. beautiful world full of knowledge and thoughts and ideals. Everything she knew or ever became was because of him. And she looked up to him and worshipped him with a feeling she supposed was love.
+29) 0) text: Laszlo and Ilsa make their way through the jam in the lob of the Prefecture. Jan and Annina talk to an officer.
+30) 0) text: Laszlo and Ilsa enter Renault's office. Renault bows to them both.
+30) 13) dialog: You needn't be concerned about me.
+30) 35) dialog: (softly) Oh. Renault holds a report.
+35) 0) text: At the linen stall, Ilsa examines a tablecloth which an A vendor is endeavoring to sell. He holds a sign which read "700 francs."
+35) 3) dialog: It doesn't matter, thank you.
+35) 6) dialog: It doesn't matter.
+35) 10) dialog: -- Thank you. I'm really not interested.
+35) 13) dialog: Yes.
+35) 15) dialog: I don't think I will, Rick.
+35) 17) dialog: Last night I saw what has happened to you. The Rick I knew in Paris, I could tell him. He'd understand. But the one who looked at me with such hatred... well, I'll be leaving Casablanca soon and we'll never see each other again. We knew very little about each other when we were in love in Paris. If we leave it that way, maybe we'll remember those days and not Casablanca, not last night.
+35) 20) dialog: You can believe that if you want to.
+35) 23) dialog: No, Rick. No, you see, Victor Laszlo is my husband... and was, even when I knew you in Paris. She walks away into the cafe as Rick stares after her in stunned disbelief.
+36) 0) text: Ilsa and Laszlo sit with Ferrari.
+36) 2) dialog: Oh.
+36) 6) dialog: You mean for me to go on alone?
+36) 10) dialog: We are only interested in two visas, Signor.
+36) 12) dialog: (firmly) No, Victor, no.
+36) 15) dialog: But, Victor, if the situation were different, if I had to stay and there were only a visa for one, would you take it?
+36) 17) dialog: Yes, I see. When I had trouble getting out of Lille, why didn't you leave me there? And when I was sick in Marseilles and held you up for two weeks and you were in danger every minute of the time, why didn't you leave me then?
+36) 19) dialog: Your secret will be safe with me. Ferrari is waiting for our answer. At the bar Ferrari talks to a waiter.
+36) 32) dialog: Goodbye, thank you for your coffee, Signor. I shall miss that when we leave Casablanca. Ferrari bows.
+38) 104) dialog: 
+38) 111) dialog: (smiling) Thank you. Rick walks over to Sam and whispers something to him. Sam stops what he is playing and begins "As Time Goes By." He shakes his head as Rick leaves. A waiter appears at Ilsa and Laszlo's table.
+46) 0) text: Laszlo passes the table where Ilsa sits and goes straight to the orchestra. Yvonne, sitting at a table with her German officer, stare down into her drink. Laszlo speaks to the orchestra.
+46) 16) dialog: This morning you implied it was not safe for him to leave Casablanca.
+46) 18) dialog: Occupied France?
+46) 20) dialog: 
+46) 23) dialog: What are they?
+46) 25) dialog: And the other alternative?
+46) 27) dialog: What happened with Rick?
+47) 0) text: Ilsa and Laszlo walk to their room.
+48) 0) text: Laszlo switches on the light as they enter. While Ilsa takes off some jewelry he walks to the window and peers out into the darkeness. Below and across the street, a man stands under an arch. Laszlo watches him, then draws down the shade. 96.
+48) 2) dialog: Victor, please, don't go to the underground meeting tonight.
+48) 4) dialog: Don't joke. After Major Strasser's warning tonight, I am frightened.
+48) 6) dialog: Whatever I'd say, you'd carry on. Victor, why don't you tell me about Rick? What did you find out?
+48) 8) dialog: Yes?
+48) 10) dialog: Did he give any reason?
+48) 12) dialog: Ask me? 97.
+48) 16) dialog: -- Yes?
+48) 18) dialog: Yes, Victor, I was.
+48) 20) dialog: (speaking low) No, Victor, there isn't.
+48) 22) dialog: Yes, Yes I know. Victor, whatever I do, will you believe that I, that --
+48) 24) dialog: Goodnight. She watches him go.
+48) 25) dialog: Victor! She gets up and follows him to the door. He opens it. In the slit of light from the hall we see Ilsa's face, now strained and worried. She hesitates for a moment, then...
+48) 26) dialog: Be careful.
+50) 0) text: Rick opens the door and goes inside the dark room. Light from the hall reveals a figure by the window. He lights a small lamp. Ilsa faces him, her face white but determined Rick pauses for a moment in astonishment.
+50) 2) dialog: The stairs from the street. Ilsa comes over to meet him.
+50) 4) dialog: Richard, I had to see you.
+50) 6) dialog: Please.
+50) 8) dialog: You can ask any price you want, but you must give me those letters.
+50) 10) dialog: I know how you feel about me, but I'm asking you to put your feelings aside for something more important.
+50) 12) dialog: It was your cause, too. In your own way, you were fighting for the same thing.
+50) 14) dialog: Richard, Richard, we loved each other once. If those days meant anything at all to you --
+50) 16) dialog: Please. Please listen to me. If you knew what really happened, if 101. you only knew the truth --
+50) 18) dialog: You want to feel sorry for yourself, don't you? With so much at stake, all you can think of is your own feelings. One woman has hurt you, and you take revenge on the rest of the world. You're a, you're a coward, and a weakling. There are tears in her eyes now. He turns He stops her hand.
+50) 19) dialog: No. Oh, Richard, I'm sorry. I'm sorry, but, but you, you are our last hope. If you don't help us, Victor Laszlo will die in Casablanca.
+50) 22) dialog: -- All right. I tried to reason with you. I tried everything. Now I want those letters. Get them for me.
+50) 24) dialog: Put them on the table. 102.
+50) 26) dialog: For the last time, put them on the table.
+50) 29) dialog: Richard, I tried to stay away. I thought I would never see you again, that you were out of my life. Rick follows her and takes her in his arms. He presses he tight to him.
+50) 30) dialog: The day you left, if you knew what I went through! If you knew how much I loved you, how much I still love you! Rick kisses her passionately. She is lost in his embrace.
+51) 0) text: From his window, Rick watches the revolving beacon light the airport. Ilsa sits on the couch. On a table before her rests a bot of champagne along with two half-filled glasses. Rick walks over to her.
+51) 3) dialog: It wasn't long after we were married that Victor went back to Czechoslovakia. They needed him in Prague, but there the Gestapo were waiting for him. Just a two-line item in the paper: "Victor Laszlo apprehended. Sent to concen- tration camp." I was frantic. For months I tried to get word. Then it came. He was dead, shot trying to escape. I was lonely. I had nothing. Not even hope. Then I met you.
+51) 5) dialog: Oh, it wasn't my secret, Richard. Victor wanted it that way. Not even our closest friends knew about our marriage. That was his way of protecting me. I knew so much about his work, and if the Gestapo found out I was his wife it would be dangerous for me and for those working with me.
+51) 7) dialog: Just before you and I were to leave Paris together. A friend came and told me that Victor was alive. They were hiding him in a freight car on the outskirts of Paris. He was sick, he needed me. I wanted to tell you, but I, I didn't care. I knew, I knew you wouldn't have left Paris, and the Gestapo would have caught you. Sol... well, well, you know the rest.
+51) 9) dialog: Now? I don't know. I know that 104. I'll never have the strength to leave you again.
+51) 11) dialog: Oh, you'll help him now, Richard, won't you? You'll see that he gets out? Then he'll have his work, all that he's been living for.
+51) 13) dialog: I can't fight it anymore. I ran away from you once. I can't do it again. Oh, I don't know what's right any longer. You'll have to think for both of us, for all of us.
+51) 15) dialog: I wish I didn't love you so much. She snuggles closer to Rick.
+54) 0) text: Rick and Ilsa hear voices below. Rick crosses to the door He opens it just enough to see below, and turns off the l Ilsa stands just in back of him. She makes a move as if to go out to the balcony but Rick's pushes her back. She withdraws behind the door. Rick walks out to the balcony railing.
+56) 0) text: Carl enters Rick's apartment and sees Ilsa. He looks at Rick and says nothing.
+62) 0) text: Laszlo pays the cab driver. Ilsa quickly walks toward the entrance.
+63) 0) text: Rick opens the door. Ilsa rushes in. Her intensity reveal the strain she is under. Rick grabs her by both arms and pulls her close.
+63) 1) dialog: Richard, Victor thinks I'm leaving 115. with him. Haven't you told him?
+63) 3) dialog: But it's all right, isn't it? You were able to arrange everything?
+63) 5) dialog: Oh, Rick! She looks at him with a vaguely questioning look.
+63) 7) dialog: Yes, I will. Laszlo comes in and closes the door behind himself.
+68) 8) dialog: But why my name, Richard?
+68) 10) dialog: (confused) I don't understand. What about you?
+68) 12) dialog: No, Richard, no. What has happened to you? Last night we said --
+68) 14) dialog: (protesting) But Richard, no, I, I --
+68) 17) dialog: You're saying this only to make me go.
+68) 19) dialog: No.
+68) 21) dialog: But what about us?
+68) 23) dialog: And I said I would never leave you.
+70) 7) dialog: (facing Laszlo) Yes.
+70) 15) dialog: Yes, I'm ready. (to Rick) Goodbye, Rick. God bless you.

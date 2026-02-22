@@ -1,0 +1,54 @@
+3) 1) dialog: Coming out, Terry. You did good. Removing the scope, she tapes a gauze compress to his neck. As she unstraps the brace, McCaleb rubs his neck. He looks less than formidable in his hospital johnny.
+3) 2) dialog: Been taking your pills every day? McCALEB All thirty-four of them.
+3) 3) dialog: No fever at all? McCALEB No, I’m clean.
+3) 4) dialog: And no diarrhea? McCALEB I’m clean of that, too.
+3) 5) dialog: Good. Blood pressure and pulse? McCALEB Right on target.
+3) 6) dialog: And the boat? You’re not working too hard on it? McCALEB I’m keeping it afloat. That’s all.
+3) 7) dialog: Good. I’11 see you ina bit. I want to check the blood work and get the tissue over to the lab. As Dr. Fox heads out.
+5) 2) dialog: Don’t start running laps yet, but I’m very pleased. No rejection, all the levels look good. I might lower your Prednisone in another week. McCALEB Good. I’m tired of shaving three times a day. Dr. Fox smiles, warms a stethoscope with her breath.
+5) 3) dialog: Lean forward please. He leans forward. She pulls down his johnny, listens to his heart through his back. McCALEB Can I ask you something?
+5) 4) dialog: Don’t talk. (a beat) Sit up. She listens through his chest. For the first time we see it, the thirteen-inch white scar running over his heart like a rope. McCaleb half-grimaces at nothing in particular. Finally, she’s done.
+5) 5) dialog: Good. What did you want to ask me? (CONTINUED)
+5) 7) dialog: It’s different than yours if that’s what you want to know. McCALEB How long has he been waiting?
+5) 8) dialog: About half as long as you did. McCALEB What are his chances?
+5) 9) dialog: Maybe fifty-fifty. Maybe less. What’s bothering you, Terry? McCALEB (after a beat) When I was with the bureau we had to qualify on the range every year. You know, shoot targets. Circle around the heart scores more than the head. It’s called the ten ring. Highest score. Dr. Fox smiles sympathetically. Familiar ground to her.
+5) 10) dialog: Typical. You hang around almost two years waiting for a heart, draw your string out and nearly don’t make it and now you wonder if we should’ve given it to you. You know what that is? McCALEB Bullshit?
+5) 11) dialog: Exactly. Go home and enjoy your boat. I’11 see you next week.
+25) 3) dialog: Murdered? What are you talking about? McCALEB She was shot in the head in a robbery, then lived long enough for me to get her heart. (CONTINUED)
+25) 6) dialog: You’re not supposed to know anything about your donor. How do you know this? McCALEB Her sister tracked me down. She read a piece about me in the paper, about the fact that I hada rare blood type, the same as her sister’s. My surgery was the same day her sister died.
+25) 7) dialog: What does she want? Money? McCaleb actually laughs.
+25) 8) dialog: I’m glad you can find it funny. McCALEB Don’t you see? She wants me to find out who did it. She wants me to solve her sister’s murder.
+25) 9) dialog: Give me this woman’s name. Right now. McCaleb just looks at her.
+25) 10) dialog: You’re not thinking of doing this. McCALEB I started yesterday.
+25) 11) dialog: (furious) And today you’re running a fever! You are sixty days post transplant! As your doctor I’m ordering you not to do this. He doesn’t answer; she softens.
+25) 12) dialog: You have to respect the gift you were given, Terry. McCALEB I do and I am. It was her gift. (CONTINUED)
+25) 17) dialog: How? How is it different? A heart is a heart. McCALEB (standing) An accident is fate. A murder is evil.
+25) 18) dialog: Oh please -- McCALEB This gift that you talk about, the only reason I have it is because of this evil, hateful thing that someone did.
+25) 19) dialog: You’re not making a lot of sense. McCALEB She went into that store to get a candy bar for her kid and ends up -- I can’t explain -- Dr. Fox reaches out, takes his hands.
+25) 20) dialog: You know the little boy in room 604? He’s waiting on a heart that isn’t coming. That could be you, Terry. This is your one chance. Tell this woman no. Save yourself and tell her no. McCALEB I can’t... Dr. Fox slowly pulls her hands back.
+25) 21) dialog: You are gambling with your life. If you start getting infection or rejection, we’re not going to be able to save you. (CONTINUED)
+25) 24) dialog: Neither do I. I can no longer be your doctor, Terry. I can’t be around while you do this. McCALEB Look, Doc --
+25) 25) dialog: I’1l have your records ready this afternoon. Good luck, Terry.
+44) 0) text: McCaleb and Graciella walk down. McCaleb looks in the door at the same little boy as before. He looks a little more frail. They continue around past the nurse’s station. Dr. Fox is there grabbing a patient file.
+44) 1) dialog: Terry? McCALEB Hey, Doc.
+44) 2) dialog: What’s wrong? Are you -- McCALEB I’m fine. Is there an empty room we can use for a few minutes? I need to talk to you. She notices Graciella for the first time, looks at McCaleb, then shakes her head in annoyance.
+45) 0) text: They file in. Dr. Fox closes the door.
+45) 1) dialog: You have five minutes? Who is this? McCALEB This is Graciella Rivers. I told you about her.
+45) 2) dialog: You’re the one who started him on this. Look at him. His color, the lines under his eyes. A week ago he was fine! He was perfect, godamnit! (CONTINUED)
+45) 4) dialog: (wheeling on him) Shut up! McCaleb blinks in surprise.
+45) 5) dialog: Sit down. McCaleb does as he’s told.
+45) 6) dialog: Open your mouth. She sticks a thermometer in his mouth.
+45) 7) dialog: Take your shirt off. 65. 77 My He does as he’s told. Graciella’s eyes widen at the scar. Dr. Fox sticks a cold stethoscope on his back.
+45) 8) dialog: (to Graciella) What do you two want? McCALEB We need to --
+45) 9) dialog: Keep that thermometer in your mouth.
+45) 11) dialog: What?
+45) 15) dialog: Shit. (then, to McCaleb) What do you want? McCALEB Check the BOPRA computer. James Cordell. If he’s listed, I want to know what his blood type is.
+45) 16) dialog: That’s unethical. McCALEB You have to help. If my hunch is right, the killer has access already.
+45) 17) dialog: I don’t know... McCALEB If you can’t protect the integrity of the system you work in, then you have no system.
+45) 18) dialog: Okay. I’11 do it on one condition. You let me run blood work on you. McCALEB But that takes hours.
+45) 19) dialog: Yes or no? McCALEB Yes.
+46) 4) dialog: It’s the list of local AB CMW negatives. Cordell’s on it. Same blood type as Torres. (CONTINUED)
+46) 7) dialog: No. The ‘D’ means donor. Organ donor. They were both organ donors. The words hang heavy in the air. McCALEB That’s why they were killed. Cordell died on the scene, but Gloria made it long enough. Dr. Fox follows his reasoning. She’s stunned.
+46) 8) dialog: That’s crazy.
+46) 11) dialog: Her blood. It made her unique. It made what was inside her very valuable... to someone. McCALEB Someone like me. Anyone who benefitted could be a suspect.
+46) 16) dialog: Terry, lay back down! You can’t get up until -- McCALEB Just get me a list of where the organs went. With that, he’s out the door.

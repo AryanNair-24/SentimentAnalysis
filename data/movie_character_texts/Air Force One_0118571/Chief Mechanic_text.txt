@@ -1,0 +1,7 @@
+161) 0) text: The Chief Mechanic has Air Force One schematics open in f of him. He and his staff are huddled around them.
+161) 1) dialog: Do you see the maintenance panel?
+161) 3) dialog: Pop it open. There should be a red  switch, toggle it up.
+161) 5) dialog: Okay, you're aerated. To dump the  fuel you have to close the circuit  for the pump. There's no switch in  Avionics so you'll have to cross the  wires. There should be five wires,  just to your left. Do you see them?
+162) 3) dialog: Okay, hang on. Let me double check
+162) 7) dialog: First... cut... green wire.
+162) 10) dialog: cross it...  The static overwhelms  the voice, then cuts out.

@@ -1,0 +1,253 @@
+2) 0) text: The classroom is packed with graduate students and TOM. PROFESSOR LAMBEAU (52) is at the lectern. The chalkboard  behind him is covered with theorems.
+2) 1) dialog: Please finish McKinley by next month.
+2) 3) dialog: I'm hoping that one of you might  prove it by the end of the semester.  The first person to do so will not  only be in my good graces, but go on  to fame and fortune by having their  accomplishment recorded and their  name printed in the auspicious "M.I.T.  Tech."
+2) 4) text: Prof. Lambeau holds up a thin publication entitled "M.I.T Tech." Everyone laughs.
+2) 5) dialog: Former winners include Nobel  Laureates, world renowned astro- physicists, Field's Medal winners  and lowly M.I.T.  professors.
+2) 7) dialog: Okay. That is all.
+5) 2) dialog: Yes.
+5) 4) dialog: It's Saturday.
+5) 6) dialog: Find out what?
+7) 0) text: Lambeau, still in his reunion formal-wear, strides down t hallway, carrying some papers. A group of students have  gathered by the chalkboard. They part like the red sea as approaches the board. Using the papers in hand, he checks the proof. Satisfied, he turns to the class.
+7) 1) dialog: This is correct? Who did this?
+7) 2) text: Dead silence. Lambeau turns to an INDIAN STUDENT.
+7) 3) dialog: Nemesh?
+7) 6) text: Lambeau erases the proof and starts putting up a new one.
+7) 7) dialog: Well, whoever You are, I'm sure you'll  find this one challenging enough to  merit coming forward with your  identity.  That is, if you can do  it.
+13) 0) text: The classroom is even more crowded than last we saw it. T takes notes as Lambeau plays along with the excited  environment with mock pomposity and good humor.
+13) 1) dialog: Is it my imagination, or has my class  grown considerably?
+13) 3) dialog: I look around and see young people  who are my students, young people  who are not my students as well as  some of my colleagues. And by no  stretch of my imagination do I think  you've all come to hear me lecture.
+13) 5) dialog: But rather to ascertain the identity  of who our esteemed "The Tech" has  come to call "The Mystery Math  Magician."
+13) 7) dialog: Whoever you are, you've solved four  of the most difficult theorems I've  ever given a class. So without further  ado, come forward silent rogue, and  receive thy prize.
+13) 9) dialog: Well, I'm sorry to disappoint my  spectators, but it appears there  will be no unmasking here today. I'm  going to have to ask those of you  not enrolled in the class to make  your escape now or, for the next  three hours be subjected to the  mundities of eigenvectors.
+13) 10) text: People start to gather their things and go. Lambeau picks a piece of chalk and starts writing on the board.
+13) 11) dialog: However, my colleagues and I have  conferred. There is a problem on the  board, right now, that took us two  years to prove. So let this be said;  the gauntlet has been thrown down.  But the faculty have answered the  challenge and answered with vigor.
+14) 0) text: Lambeau comes out of his office with Tom and locks the do As he turns to walk down the hallway, he stops. A faint  TICKING SOUND can be heard. He turns and walks down the h Lambeau and Tom come around a corner. His P.O.V. reveals figure in silhouette blazing through the proof on the  chalkboard. There is a mop and a bucket beside him. As La draws closer, reveal that the figure is Will, in his jani uniform. There is a look of intense concentration in his  eyes.
+14) 1) dialog: Excuse me!
+14) 4) dialog: What're you doing?
+14) 6) text: Lambeau follows Will down the hall.
+14) 7) dialog: What's your name? (beat) Don't you walk away from me. This is  people's work, you can't graffiti  here.
+14) 9) dialog: (flustered) Well... I'll be speaking to your  supervisor.
+14) 10) text: Will walks out. Lambeau goes to "fix" the proof, scanning the blackboard for whatever damage Will caused. He stops, scans the board again. Amazement registers on his face.
+14) 11) dialog: My God.
+24) 0) text: Lambeau walks into a small garage facility. The area stor lawn machinery and various tools. An older man, TERRY (58 sits behind the desk reading the BOSTON HERALD sports pag Lambeau has obviously never been here before. He takes in the surroundings, somewhat uncomfortable. Gets dirty.
+24) 1) dialog: Excuse me. Is this the buildings and  grounds office?
+24) 3) dialog: I'm trying to find the name of a  student who works here.
+24) 5) dialog: Could you just check, because the  young man who works in my building--
+24) 7) dialog: Building two.
+24) 10) dialog: No, no. Nothing like that. I just  need his name.
+24) 12) dialog: Please, I'm a professor here and  it's very important.
+24) 16) text: Terry goes through a stack of paper on his desk. Takes ou card and hands it to Lambeau. Lambeau looks blankly at th card which reads: "PAROLE EMPLOYMENT PROGRAM."
+25) 0) text: Will stands before JUDGE MALONE (40) being arraigned. It fairly unceremonious, the courtroom nearly empty, save Wi and the PROSECUTOR. Lambeau walks in from the back.
+25) 17) text: Lambeau has to smile, impressed. The Judge shakes his hea
+25) 25) text: As Will is removed from the courtroom, Lambeau approaches Judge Malone who is stepping down from the bench.
+25) 26) dialog: Excuse me, your Honor. (offers hand) Gerald Lambeau.
+25) 27) text: An awkward beat. Lambeau waits for some sign of recogniti
+25) 28) dialog: I'm a professor at M.I.T. (beat) Combunatorial Mathematics.
+25) 31) dialog: Do you have a minute?
+28) 0) text: Professor Lambeau sits, waiting. Will is brought in, shac by the guard.
+28) 1) dialog: Hello. Gerald Lambeau, M.I.T.
+28) 3) dialog: I've spoken with the judge and he's  agreed to release you under my  supervision.
+28) 5) dialog: (beat) Yes. Under two conditions.
+28) 7) dialog: That you meet with me twice a weekВ— (a beat) and you meet with a therapist.
+28) 9) dialog: That's right.
+28) 11) dialog: Now, it won't be as bad as it sounds,  Will. (beat) I've already spoken to one therapist,  his name is Henry Lipkin and he's a  friend of mine. He's also published  four books and is widely considered  to be one of the brightest men in  his field. (beat) I'm sure it'll be better than spending  the next six months in jail.
+32) 0) text: The Psychologist comes walking out, much to the surprise Lambeau and Tom who have been waiting in the lobby.
+32) 1) dialog: Henry?
+32) 4) dialog: What happened?
+32) 6) dialog: Wait a minute, Henry...
+32) 7) text: He [Henry] is out the door. Lambeau looks to Tom.
+33) 0) text: Will is in Lambeau's office. Lambeau is at the board, wor on a diagram as Tom takes notes. Will seems disinterested
+33) 1) dialog: This rectangle is subdivided into  rectangles. One edge of an inner  rectangle is an integer. Can you  prove that one edge of the larger  rectangle is an integer?
+33) 3) dialog: Okay. How?
+33) 5) text: Lambeau smiles.
+33) 7) text: Lambeau says nothing. Will gets up and goes to the board.
+33) 9) text: Lambeau keeps smiling.
+33) 10) dialog: That would be a monumental waste of  time, wouldn't it, Will?
+33) 12) dialog: I happen to know so.
+33) 13) text: Lambeau rises and goes to the board.
+33) 14) dialog: You're thinking too hard. What if I  did this?
+33) 16) dialog: Now, what if I do this?
+33) 18) dialog: Have you ever played checkers?
+33) 19) text: Will realizes what Lambeau is getting at. In a flash he s drawing lines through the diagram, energized.
+33) 21) text: Lambeau steps in, writing with him [Will].
+33) 22) dialog: What's that?
+33) 24) dialog: --that?--
+33) 26) dialog: --That edge!
+33) 29) dialog: (checks his watch) It would appear we got that proof in  under the wire after all. It's not  how hard you look at things, young  man, it's the way you look at them.  If you take aim before you fire, you  will find the most difficult problems  become, quite literally, child's  play.
+33) 31) dialog: Will, you've managed to offend four  of my colleagues so much that they  refused to come back. You're meeting  with the leading hypnotist in the  country next week and Tom and I plan  to sit in on the sessions, so I expect  you to behave appropriately.
+34) 0) text: Will sits in a chair across from Lambeau and the HYPNOTIS Lambeau's assistant, TOM (33) takes notes. The Hypnotist  makes small talk with Lambeau, who checks his watch.
+34) 1) dialog: Shall we start the, uh...
+34) 4) text: He SNAPS HIS FINGERS and instantly Will's head goes BACK his EYES CLOSE. The Hypnotist gives Lambeau a look.
+34) 6) text: Will gets up and stands on one leg. Lambeau is impressed.
+35) 10) text: Lambeau makes a sound. The Hypnotist shushes him [Lambeau with his [Hypnotist's] finger. Tom returns to his note-ta
+35) 14) text: Lambeau and the Therapist trade looks. This is working.
+35) 18) dialog: (getting up) Oh Jesus.
+35) 20) dialog: Wait a minute, Barry.
+35) 23) dialog: Oh, for God's sake, Will.
+35) 25) dialog: I told you to cooperate with these  people.
+35) 27) text: Will gets up and adopts a hypnotic persona in front of  Lambeau.
+35) 29) dialog: Get out, Will.
+35) 31) dialog: That's enough.
+35) 32) text: Will is out the door. Lambeau turns to Tom.
+35) 34) dialog: What's the point?
+35) 36) dialog: There is somebody...
+35) 38) dialog: He was my roommate in college.
+36) 13) text: Laughter. Sean starts to resume his lecture, when he noti LAMBEAU standing in the back of the room. There is an awk moment.
+36) 15) dialog: Sean.
+36) 18) dialog: Hello.
+36) 22) text: The class starts to pack up and file out. Lambeau approac Sean who steps down from the lectern.
+36) 23) dialog: Good to see you.
+36) 25) dialog: Is there someplace we can talk?
+39) 0) text: Lambeau and Sean share a table at this exclusive restaura Sean seems slightly out of place in his wrinkled sport co
+39) 1) dialog: I didn't see you at the reunion.
+39) 3) dialog: You were missed. (beat) How long has it been since we've  seen each other?
+39) 5) dialog: I'm sorry, that damn conference--
+41) 0) text: Lambeau and Sean, having finished their meal. Lambeau has been pitching Sean.
+41) 2) dialog: This kid's special, Sean. I've never  seen anything like him.
+41) 4) dialog: Have you ever heard of a man named  Ramanujan?
+41) 7) dialog: He was alive over a hundred years  ago.  He was Indian. Dots, not  feathers...
+41) 8) text: Sean finishes the joke. Lambeau chuckles.
+41) 9) dialog: So this Ramanujan lived in a tiny  hut in India. No formal education,  no access to other works. But he  came across an old math book and  from this basic text he was able to  extrapolate theories that had baffled  mathematicians for years.
+41) 11) dialog: That's right, Sean. He mailed it to  a professor at Cambridge who  immediately recognized the brilliance  in his work and brought Ramanujan to  England.
+41) 13) dialog: They worked together for the remainder  of their lives, producing some of  the most exciting math theory ever  done.  Ramanujan's genius was  unparalleled, Sean. This boy is like  that. But he's very defensive and I  need someone who can get through to  him.
+41) 15) dialog: I need someone with your kind of  background.
+41) 17) dialog: You're from the same neighborhood.  South Boston.
+41) 19) dialog: (looks squarely at  Sean) Five.
+41) 22) text: Lambeau nods.
+41) 24) dialog: Just meet with the boy once a week.
+41) 26) dialog: That would be fine.
+41) 28) dialog: Sean, please.
+41) 30) dialog: It's on the college.
+43) 0) text: Sean's office is comfortable. Books are stacked against t wall. There is a PAINTING on the wall behind Sean. Sean i seated behind a desk. Lambeau sits in a chair in the back the room, next to Tom. A long beat passes, they wait.
+43) 1) dialog: Any vulnerability he senses, he'll  exploit.
+43) 3) dialog: It's a poker game with this young  man.  Don't let him see what you've  got.
+43) 5) dialog: Hello, Will. Any trouble finding the  place?
+43) 7) dialog: Will, this is Sean Maguire. Sean,  Will Hunting.
+43) 9) dialog: Well, let's get started.
+43) 11) text: Lambeau is slightly embarrassed. Sean smiles at Will's jo
+43) 13) dialog: Tom.
+43) 15) text: Lambeau looks at Sean, surprised. Sean's stare is unwaver After an awkward moment, Lambeau goes, leaving Sean and W alone. Will doesn't look at Sean for more than a second. seems more interested in the room. There is a long silenc as Sean watches Will.
+44) 0) text: Will walks out of Sean's office past Lambeau and Tom who sitting in the hallway.
+45) 0) text: Sean stands behind his desk in his office, still very muc on edge. Lambeau walks in.
+45) 1) dialog: Five minutes, Sean. Are you okay?
+45) 3) dialog: I'll understand if you don't want to  meet with him again.
+54) 0) text: Lambeau and Sean walk down the hallway after the session.
+54) 1) dialog: What do you mean "he didn't talk?"  You sat there for an hour?
+54) 3) dialog: Why would he do that?
+54) 5) dialog: Oh, what is this? Some kind of staring  contest between two kids from the  "old neighborhood?"
+58) 0) text: Will and Lambeau work together at the board. They communi non-verbally as they collaborate on a problem. After a  particularly amusing series of numbers, they share a look and laugh.
+65) 40) dialog: Alexander, I know your theory. The  boy is updating, he's strategy  stealing...
+65) 42) dialog: --But what he's doing, he's attaching  an edge to the adjacent vertex. He  can always failsafe to either side--
+65) 46) dialog: No, there's a limit.
+65) 50) text: Lambeau can no longer contain himself.
+65) 51) dialog: Maker builds "K" to the "N." N is  three to the K times--
+65) 56) text: Lambeau turns with satisfaction to an understanding Pekec
+65) 57) dialog: Alexander, your theory is changed.
+67) 0) text: A cocktail party is underway. Professors mingle with representatives from high tech companies. Lambeau stands  holding a drink and surrounded by several RECRUITERS.  Apparently he's the star of the show.
+67) 2) dialog: We're still working together, the  boy's a little rough.
+67) 7) dialog: Was I exaggerating in nineteen eighty- four when I told you I'd win the  Field's medal within two years?
+67) 12) dialog: At ease, gentlemen. We're looking  carefully at all our options.
+68) 6) text: Lambeau enters, a bit overdressed in his sport coat and t
+68) 8) dialog: Not at all.
+68) 11) dialog: Pleasure to meet you.
+68) 19) text: Lambeau follows [Sean]. They sit.
+68) 20) dialog: You're here quite a bit, then.
+68) 22) dialog: You moved?
+68) 26) dialog: Seems like it's going well.
+68) 28) dialog: Well, have you talked to him at all  about his future?
+68) 30) dialog: Maybe you should. My phone's been  ringing off the hook with job offers.
+68) 32) dialog: Cutting edge mathematics. Think tanks. The kind of place where a mind like  Will's is given free reign.
+68) 34) dialog: Sean, I really don't think you  understand--
+68) 38) dialog: Excuse me, Timmy. Could you help us? We're trying to settle a bet.
+68) 40) dialog: Have you heard of Jonas Salk?
+68) 42) dialog: You've heard of Albert Einstein?
+68) 44) dialog: How about Gerald Lambeau? Ever heard  of him?
+68) 46) dialog: Okay thank you, Timmy.
+68) 48) dialog: I did.
+68) 50) dialog: This isn't about me. I'm nothing  compared to this young man. (beat) Sean, in 1905 there were hundreds of  Professors who were renowned for  their study of the universe. But it  was a 26-year-old Swiss Patent clerk,  doing physics in his spare time, who  changed the world, Sean. Can you  imagine if Einstein had given that  up? Or gotten drunk with his buddies  in Vienna every night? All of us  would have lost something. And I'm  quite sure Timmy never would have  heard of him.
+68) 52) dialog: No, Sean. This boy has that gift. He  just hasn't got the direction. We  can give that to him.
+68) 55) dialog: Who?
+68) 57) dialog: You see, Sean? That's exactly not  the point. No one remembers that.  They--
+68) 59) dialog: Well, you're the only one.
+68) 61) dialog: This boy can make contributions to  the world. We can help him do that.
+68) 63) dialog: Look, I don't know what else I can  say.  I'm not sitting at home every  night, twisting my mustache and  hatching a plan to ruin the boy's  life. But it's important to start  early. I was doing advanced  mathematics at eighteen and it still  took me twenty-three years to do  something worthy of a Field's medal.
+68) 66) dialog: Sean, this is important. And it's  above personal rivalry--
+68) 68) dialog: No, no you hear me out, Sean. This  young man is a true prodigy--
+68) 70) dialog: Look, you took one road and I took  another. That's fine.
+68) 72) dialog: That's a wonderful theory, Sean. It  worked wonders for you.
+68) 73) text: A beat. Lambeau gets up.
+68) 74) dialog: Sean, I came here today out of  courtesy.  I wanted to keep you in  the loop. As we speak the boy is in  a meeting I set up for him over at  Tri-tech.
+73) 0) text: Tom and Will are sitting waiting for Lambeau.
+73) 3) text: Lambeau enters going over a thick proof Will has complete
+73) 4) dialog: This is correct. I see you used  Mclullen here--
+73) 6) dialog: --This can't be right. (examining proof) This is going to be very embarrassing. Have you ever considered--
+73) 10) dialog: That's fine, but did you ever think--
+73) 12) dialog: Will, what happened at the Tri-tech  meeting?
+73) 14) dialog: Will, on your own time, you can do  what you like. When I set up a  meeting, with my associates, and you  don't show up it reflects poorly on  me.
+73) 16) dialog: I'll cancel every meeting right now. I'll give you a job myself. I just  wanted you to see what was out there.
+73) 18) dialog: The least you can do is show me a  little appreciation.
+73) 20) dialog: Sure, then you'd have more time to  sit around and get drunk. Think of  how many fights you could have been  in by now.
+73) 21) text: Will turns around reveling that he's lit the PROOF ON FIR Will drops it on the floor. Lambeau drops to his knees an puts it out. He looks up at Will.
+73) 22) dialog: You're right, Will. I can't do that  proof and you can. And when it comes  to this there are only twenty people  in the world that can tell the  difference between you and me. But  I'm one of them.
+73) 24) dialog: So am I. (beat) Yes. That's right, Will. Most days I  wish I never met you. Because then I  could sleep at night. I wouldn't  have to walk around with the knowledge  that someone like you was out there.  And I wouldn't have to watch you  throw it all away.
+73) 25) text: Lambeau gathers his composure and calmly walks over to th wrinkled proof. He picks it up, smooths it out.
+80) 0) text: Lambeau is scribbling away at work. Tom is taking notes.  Will is tapping his fingers, waiting for him to finish.
+80) 1) dialog: I can... I'm almost there.
+82) 0) text: Will picks up a FRAME from Sean's desk. It is CARLTON FIS BASEBALL CARD. Will has to smile. Lambeau looks up.
+82) 1) dialog: What are you smiling at?
+82) 3) text: Will can see that Lambeau wants more.
+82) 5) dialog: No.
+84) 4) dialog: I've got the first part. The rest I  can do at home.
+84) 6) dialog: Will, the N.S.A. has been calling me  just about every hour. They're very  excited about how the meeting went.
+84) 7) text: Lambeau is excited. Will clearly is not.
+87) 0) text: Lambeau and Tom are in his office. Will is nowhere to be  seen. Lambeau is on the phone.
+87) 1) dialog: What I mean, Sean, is that I'm sitting  in your office and the boy isn't  here. (beat) Well, it's ten past three. (beat) An hour and ten minutes late. (beat) Well, if he doesn't show up and I  have to file a report saying he wasn't  here and he goes back to jail, it  won't be on my conscience, Sean. (beat) Fine.
+87) 4) dialog: The boy was here. He came in, sat  down and we worked together.
+87) 6) dialog: He came in, sat down, and we worked  together.
+90) 0) text: Lambeau stands across from Sean, seething.
+90) 1) dialog: This is a disaster! I brought you in  here to help me with this boy, not  to run him out--
+90) 3) dialog: --And confuse him--
+90) 5) dialog: And here I am for the second week in  a row with my professional reputation  at stake--
+90) 7) dialog: Ready to falsify documents because  you've given him license to walk  away from this.
+90) 9) dialog: Look Sean, I don't care if you have  a rapport with the boy -- I don't  care if you have a few laughs --  even at my expense! But don't you  dare undermine what I'm trying to do  here.
+90) 11) dialog: He has a gift and with that gift  comes responsibility. And you don't  understand that he's at a fragile  point--
+90) 13) dialog: What problems does he have, Sean,  that he is better off as a janitor  or in jail or hanging around with--
+90) 15) dialog: He can handle the work, he can handle  the pressure and he's obviously  handled you.
+90) 17) dialog: Oh, come on, Sean--
+90) 19) dialog: Oh, that's nice--
+90) 21) dialog: Now don't do that. Don't you do that! Don't infect him with the idea that  it's okay to quit. That it's okay to  be a failure, because it's not okay!  If you're angry at me for being  successful, for being what you could  have been--
+90) 23) dialog: Yes you are, Sean. You resent me.  And I'm not going to apologize for  any success that I've had.
+90) 25) dialog: Yes you do. You're angry at me for  doing what you could have done. Ask  yourself if you want Will to feel  that way for the rest of his life,  to feel like a failure.
+90) 27) dialog: Is that what this is about, Sean?  The Field's Medal? Do you want me to  go home and get it for you? Then  will you let the boy--
+90) 29) dialog: That's right!  You were smarter than  us then and you're smarter than us  now! So don't blame me for how your  life turned out. It's not my fault.
+90) 31) dialog: He won't be a failure!
+90) 33) dialog: You're wrong, Sean. I'm where I am  today because I was pushed. And  because I learned to push myself!
+90) 35) text: A beat. Lambeau turns, something catches his eye. Sean tu to look, IT'S WILL. He is standing in the doorway.
+90) 37) dialog: No, that's fine, Will. I was just  leaving.
+90) 38) text: There is an awkward moment as Lambeau gets his coat and  leaves.
+103) 0) text: Will comes out of Sean's office and sees Lambeau walking
+103) 1) dialog: (surprised) Will.
+103) 3) dialog: You know, you're no longer required  to come here.
+103) 5) dialog: (a beat) Sam called me. From Tri-tech. He  says you start working for them next  week.
+103) 7) dialog: Well, that's, I think that's terrific. Congratulations.
+103) 9) dialog: I just want you to know... It's been  a pleasure.
+103) 12) dialog: This job... Do it if it's what you  really want.
+103) 14) text: A moment. Will starts to go, Lambeau watches him for a be Will turns back around.
+103) 16) dialog: Yes.
+103) 18) dialog: (has to smile) Thank you, Will. I'll do that.
+104) 0) text: Sean is packing his office. Lambeau opens the door.
+104) 1) dialog: Hello, Sean.
+104) 3) dialog: Sean...
+104) 6) dialog: So I hear you're taking some time.
+104) 8) dialog: Where're you going?
+104) 10) dialog: Why there?
+104) 12) text: Lambeau nods.
+104) 13) dialog: Do you know when you'll be back?
+104) 15) dialog: I got one of those too.
+104) 17) text: Lambeau smiles.
+104) 18) dialog: Sean...
+104) 20) dialog: The drinks at those things are free.
+104) 24) dialog: How about one now?
+105) 1) dialog: Sean, do you have any idea what the  odds are against winning the lottery?
+105) 3) dialog: About thirty million to one.
+105) 5) dialog: About thirty million to one.

@@ -1,0 +1,158 @@
+8) 21) text: COLIN boards with a bunch of other cops and workers. On board, directly beside him, is MADOLYN. COLIN's age, beautiful, wearing a business suit. She has a thick stack medical-looking files. She's a psychiatrist on contract t the Commonwealth of Massachusetts. She does probation counselling work with "violent offenders" and also sees policemen.
+8) 32) dialog: Have I seen you professionally?
+8) 35) text: MADOLYN nods, and then because this is a (relatively) sensitive subject ignores COLIN, but she is visibly attra by him.
+8) 38) text: MADOLYN laughs.
+8) 42) dialog: (laughing) I have an appointment on this floor.
+8) 47) dialog: Oh, fancy policeman.
+8) 51) dialog: Are you a Statie?
+8) 65) dialog: Suffolk, nights?
+8) 69) dialog: When was the last time you checked?
+8) 73) dialog: I went to U Mass. I wasn't insulting you.
+8) 77) dialog: Maybe you could shoot someone and I'd have to see you professionally.
+8) 80) text: MADOLYN hands him a card.
+8) 113) text: A romantic restaurant. The best Boston has (which isn't saying much, but whatever). COLIN, looking great, a man o the rise. MADOLYN in pearls, also looking great. But mayb the conversation has lapsed and the date gone south.
+8) 126) dialog: That's right. I see "violent offenders".
+8) 130) dialog: That's one way to look at it.   Not necessarily.
+8) 131) text: COLIN wonders if she's breaking his balls. A DESSERT arri some towering Japanesey concoction with a fan of sugar ca spines, sitting in a pool of sauce. COLIN looks at it, fo poised. MADOLYN looks at it. He looks up at her.
+8) 134) text: MADOLYN smiles: she likes him. Even with the dinner-long bitterness over the duck l'orange.
+8) 136) dialog: Was your dinner OK?
+8) 141) dialog: I'm waiting for you to make your move.
+8) 144) text: MADOLYN laughs.    COLIN sees his shot: he's got her laug
+8) 157) dialog: Why, does that make you uncomfortable?
+8) 160) dialog: You know what Freud said about the Irish?
+8) 164) dialog: If you actually do I'll see you again.
+8) 168) dialog: (concerned, perhaps unexpectedly) Don't you?
+8) 171) text: MADOLYN is impressed.
+8) 186) dialog: Some people do get better.
+8) 191) dialog: Sometimes, though, I want people to forget about their personal bullshit and do their jobs.
+8) 196) dialog: If they don't do their jobs you don't have one.
+8) 200) dialog: You're trouble.
+25) 3) dialog: The light's nice here in the morning.
+25) 6) dialog: It's all right. Guys tend to make a big deal out of it. It's actually quite common.
+25) 12) text: A clock ticking. Madolyn is looking across at ...Billy. Madolyn is very much a guarded shrink. But no one's more guarded than Billy.
+25) 27) dialog: I know they do.
+25) 31) dialog: That's an interesting observation.
+25) 35) dialog: Why do you?
+25) 39) dialog: Honesty isn't synonymous with truth.
+25) 43) dialog: I expect sometimes...people...do it to keep things...on an even keel.
+25) 46) text: MADOLYN looks up at him, transpierced. Tables turned on t psychiatrist. BILLY smiles at her.
+25) 48) dialog: (flustered) Did you?
+25) 59) dialog: Let's keep this with you.
+25) 63) dialog: How do you know he was a cop?
+25) 67) dialog: That's part of what I do. Although, I don't normally see cadets who were kicked out of the Academy.
+25) 73) dialog: Sometimes they cry if they had trouble at home or if they've had to...use their weapons.
+25) 77) dialog: I looked through your file and I see you have a record of assault. What was it like for you in jail?
+25) 81) dialog: Did something happen to you?
+25) 92) dialog: What do you expect from coming here?
+25) 96) dialog: I know it's not elective...on your part...but, now that you're here, what do you want?
+25) 100) dialog: If you lied, you'd have an easier time getting what you wanted.
+25) 103) text: Madolyn is taken aback. She closes her file.
+25) 105) dialog: Look, I think we better have a few more meetings before we can even talk about prescriptions.
+25) 119) dialog: Is this true?
+25) 123) dialog: Yes, you are.
+25) 129) text: MADOLYN stares at him, then lowers her eyes, takes out a small packet of two pills. She hands it over to him. BILL looks at it.
+25) 135) text: MADOLYN is taken aback, guilty, astonished.
+25) 137) dialog: You can leave!
+25) 148) text: BILLY leaves. MADOLYN stares after him.
+25) 150) dialog: Fuck...
+25) 153) text: Very windy. Papers blowing. Billy is walking. Madolyn cat up to him.
+25) 155) dialog: Why is the hardest patient of the day always the last one?
+25) 159) dialog: Look, I'm not just...somebody you have to see or they put you in jail. If you are in distress I will help you.
+25) 160) text: Madolyn holds out a paper and a business card.
+25) 164) dialog: My card. And a prescription for twenty Lorazepam.
+25) 169) dialog: (she fixes him with a stare) Maybe it is. All right? Have I done my job up to your goddamned standards? Because by my standards you fit the model of drug-seeking behavior, and fuck you if you don't like my initial clinical reaction.
+25) 180) dialog: I'm transferring you to another counselor.
+35) 4) text: Colin is asleep on the couch, in a bachelor disaster of Chinese food boxes. Something on TV: "Audition." A key in the door: He wakes as MADOLYN comes in carrying a bag of coffees and a BOX OF EFFECTS.
+35) 6) dialog: Good Morning.
+35) 7) text: MADOLYN smiles at him, also shy.
+35) 11) dialog: I beat the movers.
+35) 15) dialog: (putting the box on the kitchen counter) Lonely.
+35) 18) text: They kiss.    MADOLYN takes in the apartment.
+35) 20) dialog: I'm gonna thank your Uncle Alphonsus for the square footage.
+35) 30) text: MADOLYN unpacks food.       Coffee.   Croissants.
+35) 32) dialog: French donut?
+35) 36) dialog: Sure yeah.
+35) 37) text: He sorts through the box. It's all Madolyn's key stuff - mug, a few critical books...framed family pictures, breakables...and comes up with: A PHOTOGRAPH of a young Madolyn standing in front of a North East rust belt slum.
+35) 41) dialog: What?
+35) 42) text: MADOLYN isn't prepared to be at cross-purposes. But she i taken aback. She puts the photo quietly away. Contaminate
+35) 46) dialog: Company?
+35) 51) dialog: Why not?   You do.
+35) 64) dialog: (deadpan, over her coffee cup) I believe in public service.
+35) 69) dialog: (kissing him, and intently:) You like me living here?
+35) 75) text: MADOLYN, not 100% confused by his seizing on the interruption, gets the phone.
+35) 77) dialog: Mayor Sullivan's Office.
+35) 80) dialog: (whispering) I'm sorry!
+35) 84) dialog: I think it's a guy with a, ah, (She touches her throat, and whispers) A cancer guy.
+35) 99) text: MADOLYN looks after him. She doesn't start eating again, watches Colin. She is seen staring at him through the following scene.
+36) 5) text: COLIN hunches, closing the glass door, and glancing in at Madolyn.
+36) 31) text: COLIN looks in at MADOLYN.
+38) 1) text: COLIN, looking worried, folding his phone away, comes int the apartment. MADOLYN is staring at him.
+38) 5) dialog: You have a boss that has a laryngectomy?
+38) 16) dialog: You're lying to me.
+38) 20) dialog: (after a beat) Okay, then say that.
+38) 26) dialog: That's the movers.
+38) 30) dialog: I do.
+38) 31) text: The doorbell safely ringing, Colin kisses Madolyn.
+41) 1) text: Madolyn and Billy sit at a table. Talking like friends no emphatically non-clinical. Billy is zoned out, preoccupie nervous.
+41) 3) dialog: I'm assuming you want to change things, you know, change the people you know, change the people you meet, change everything, anything. Too many choices can see like no choice at all...
+41) 7) dialog: So you do...something radical.
+41) 11) dialog: ...yeah, you do... Sometimes it's just a matter of picking a thing and doing it...
+41) 15) dialog: Oh, four months. About four months.
+41) 19) dialog: It's pretty serious, yeah, it is.
+41) 23) dialog: No more than I am.
+41) 38) text: This may not be exactly what Madolyn wants to hear. But s nods.
+41) 40) dialog: Doctors aren't supposed to have illusions.
+41) 45) dialog: OK, I'm in a serious, newly serious, relationship...there are...ups and downs...everybody has doubts, problems -- I mean doubts.
+41) 50) dialog: I'd lie. To keep things on an even keel. You know all about it.
+42) 139) text: BILLY is holding his bottle of tranqs. He traces with his finger the doctor's name...MADOLYN MADDEN. His "police" p vibrates and he takes it out.
+44) 43) text: Through grated windows we can see Madolyn finishing up he packing. BILLY KNOCKS on the door, which leads only into Madolyn's basement apartment. A long beat and she opens t door. The chain on.
+44) 47) dialog: How obsessive are you?
+44) 51) dialog: Are you okay? Why are you here?
+44) 55) dialog: I'm glad you want to see me...it's nice to see you...I enjoyed talking...I enjoyed having coffee with you, very much...but I don't see people...I don't see people in my home.
+45) 1) text: BILLY looks around and sees: boxes, transition. The furni already gone. An air-mattress on the floor. There are sti tea things on the counter. A basic life is still possible here. Madolyn has been making tea here, sleeping here, reading in bed. Billy, soaked, a drowned rat, is looking vulnerable and honest.
+45) 4) text: MADOLYN takes a moment to react.
+45) 13) dialog: No, it's, it's, it's not inappropriate...you're not a patient...
+45) 17) dialog: I still have three weeks on the lease...
+45) 20) dialog: That's me.
+45) 25) dialog: (the kettle whistles OS) Would you like a cup of tea?
+45) 29) text: Madolyn leaves him looking vaguely around the apartment. the kitchen, it appears that Madolyn has forgotten how to make a cup of tea. She perseveres, comes out holding two cups. Billy is looking at the handful of books still in t apartment.
+45) 31) dialog: Do you want some...
+45) 34) text: She hands him the cup of tea. Strung out, he spills his t slightly, unobserved by Madolyn. Madolyn looks over at th bed, the book, the lamp, the incontrovertible evidence th she's probably really, in fact, not that into Colin..
+45) 36) dialog: I've always needed my own place.
+45) 47) dialog: No. I'm not "hedging my best"...I told you when we had coffee...There's a choice. You choose...you have to make a...
+45) 51) dialog: ...decision...and stick by what...you choose...you have to...
+45) 55) dialog: Yes. Stick by what you...otherwise it's... I have to say that your vulnerability is really freaking me out right now. Is it real?
+45) 62) dialog: No.
+45) 70) text: In the tiny kitchen BILLY is kissing MADOLYN and unbutton her shirt. Her hands start to move to push him away. He continues.
+48) 8) text: COLIN is lying in bed, his back to MADOLYN.
+48) 12) dialog: What's going on?
+48) 16) dialog: Okay, all right. (thinking about it; blows a breath) And what about money?
+48) 19) text: Another city doesn't seem unattractive to Madolyn, who's her own cut-and-run crisis -- but maybe she can't believe that Colin is thinking about it. She blows a breath.
+48) 21) dialog: Another city? It'd be a clean slate.
+48) 34) dialog: Not a bad idea, another city.
+65) 138) dialog: I know.     (I know.).   I can't...
+65) 141) dialog: I can't be a friend to you. I can't. I'm sorry.
+65) 144) text: MADOLYN walks away.
+75) 1) text: BILLY waits outside Madolyn's office.
+75) 2) text: MADOLYN, carrying work, breakfast, rounds the corner and him standing and waiting for her. She's a little spooked, opens her mouth to speak...
+75) 6) dialog: What is it?
+75) 21) text: Madolyn is a friend. She's not going to ask questions. accepts the envelope.
+75) 23) dialog: All right.
+75) 28) dialog: I...we... (he turns) I've, it's, been so confused... I just want to say...
+75) 35) text: MADOLYN sits at her desk, devastated, looking at a fall o light. The envelope lies on her blotter. She sits on ... then straightens up, takes a marker and writes "COSTIGAN" the envelope and puts it in her desk drawer.
+75) 50) dialog: What?
+75) 54) dialog: Death is hard. Life is much easier.
+75) 59) dialog: Open it
+75) 64) dialog: Yeah.
+75) 68) dialog: Yeah.
+75) 72) dialog: It's not a joke, it's a human being.
+75) 83) text: COLIN is in the shower. MADOLYN moves into the     kitche puts the kettle on. She checks the mail, lying     there counter. It's tied with a string. She undoes       the st sorts through the mail. Suddenly, she freezes      lookin
+75) 85) text: MADOLYN stares at the envelope, listening to the shower going. Billy has written to her fiance. She starts to put the envelope down, and then realizes...she has to hide it...she has to open it.
+75) 86) text: Inside the envelope is a jewel case: EXILE ON MAIN STREET And a note: PLAY ME NOW. MADOLYN puts the CD into the machine. She puts on the headset and listens...and listen
+75) 87) text: COLIN comes out of the bathroom, dressed in jeans and t- shirt, barefoot, his hair wet. He looks at Madolyn, realizing that something is wrong.
+75) 90) text: MADOLYN pulls the headphone jack out of the stereo and roughly the following booms out of the speakers. [NOTE: T
+75) 115) text: COLIN and MADOLYN stare at each other.
+75) 117) dialog: I thought I was the liar.
+77) 22) text: MADOLYN is at the gravesite, dry-eyed though in, distinct apart from COLIN. He looks at her. She looks away from hi apparently forever.
+77) 33) text: COLIN and MADOLYN are walking through the graves.
+77) 36) text: She moves away from him without answering. MADOLYN walks through the cemetery gates. COLIN hesitates.

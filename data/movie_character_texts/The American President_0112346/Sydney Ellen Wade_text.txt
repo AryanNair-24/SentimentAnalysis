@@ -1,0 +1,346 @@
+13) 0) text: In front of the guardhouse, Susan and her new colleague, SYDNEY ELLEN WADE, are being cleared.
+13) 1) dialog: (to the GUARD)
+13) 2) text: Hi, my name's Sydney Ellen Wade.
+13) 4) dialog: (handing him her license)
+13) 7) dialog: (to the GUARD)
+13) 10) dialog: (to the GUARD)
+13) 14) text: Yeah, I do. Frank Capra, great American director -- It's a Wonderful Life, Mr. Smith Goes to Washington. (handing SYDNEY and SUSAN their laminated passes)
+13) 15) text: Sydney Ellen Wade of Virginia. Knock 'em dead.
+13) 16) dialog: Thanks. SYDNEY and SUSAN begin to walk up the path toward the ent to the West Wing.
+14) 16) dialog: Hardly an impressive distinction, A.J. SUSAN is trying to avert the inevitable--
+14) 18) dialog: Susan, Mr. MacInerney doesn't want us to leave, because Mr. MacInerney's not yet done what he needs to do today.
+14) 20) dialog: You're right. I haven't read it. If someone had asked me yesterday, I'd have told them the Quebec Conference was made up of six professional hockey teams. But what I do know is that it's time for the President to run for president again. Leon Kodak is as good as it gets when it comes to electoral strategy, and I'm certain he's told the President exactly what I'd tell him: Nail down Michigan and California, where they make cars and airplanes -- and burn plenty of fossil fuel. But if I had read these eight hundred pages, I would have discovered that it's the burning of fossil fuels that's been mostly responsible for global warming and that the 20 percent reduction recommended by the GDC is a necessary first step toward arresting the catastrophic greenhouse effect that has gone unchecked by this administration...
+14) 23) dialog: Susan, I promise you, the White House Chief of Staff will not let us leave here until he's broken the bad news. No one in the room really understands what's going on... except A.J., who would like to take the time to admire SYDNEY but, of course, can't.
+14) 25) text: I'm afraid Sydney's right. Although not about Michigan and California. The President has asked me to convey to you that he's sending his energy bill to the floor with a call for a reduction of 10 percent. There's an uncomfortable silence in the room...
+14) 28) dialog: The President's expecting our full support?
+14) 30) dialog: The President's dreamin', A.J.
+14) 32) dialog: --the President has critically misjudged reality. If he honestly thinks that the environmental community is going to whistle a happy tune while rallying support around this pitifully lame mockery of environmental leadership just because he's a nice guy and he's done better than his predecessors, then your boss is the Chief Executive of Fantasyland.
+14) 36) text: I apologize for the interruption, but A.J. asked me to stop and say hello. You wouldn't be Sydney Ellen Wade, by any chance, would you?
+14) 37) dialog: Mr. President, I'm...don't know what to say. I'm speechless.
+14) 41) dialog: Yes, sir?
+14) 43) dialog: (quietly)
+14) 44) text: Of course. SYDNEY gets up to leave. SHEPHERD escorts her out of A.J. office and into the hallway.
+14) 49) text: This is my personal assistant, Janie Basdin. Janie, would you show Ms. Wade into the rec room. I'll be there in a second. SHEPHERD enters a doorway off of the hall. SYDNEY continu down the hallway.
+14) 51) text: This way... JANIE leads SYDNEY into...
+15) 0) text: ...where SYDNEY just stands uncomfortably, not knowing whether to sit or stand. Waiting. Trying -- the way a jum on a window ledge tries not to look down -- trying not to notice things like the JFK Desk, the Seal of the Presiden the United States, the bust of Lincoln... SHEPHERD strides in--
+15) 2) dialog: Mr. President--
+15) 4) dialog: Of course. Mr. President--
+15) 6) dialog: I've just been on the regular tour. It didn't include...
+15) 8) dialog: Mr. President, what you saw in there was nothing more than vanity run amok. I was showing off for a colleague who doesn't think very much of me. It'd be a real injustice for you to hold the GDC accountable for my behavior today. On top of which, I'm monumentally sorry for having insulted you like that.
+15) 10) dialog: (pause)
+15) 13) dialog: Not by a professional political operative standing 30 feet from the Oval Office.
+15) 15) dialog: Mr. President--
+15) 17) dialog: I didn't know that.
+15) 19) dialog: Learned that one the hard way.
+15) 21) dialog: Yes, sir, I'll convey your message.
+15) 23) dialog: The GDC is asking for 20 percent, sir.
+15) 25) dialog: How do you know that until you put the full weight of the White House behind--
+15) 27) dialog: Twenty-four votes?
+15) 29) dialog: Do I have your word on that, sir?
+15) 31) dialog: Sir, I'm a little intimidated by my surroundings, and yes, I've gotten off to a rocky and somewhat stilted beginning, but don't let that diminish the weight of my message: The GDC has been at every president for the last decade and a half that global warming is a calamity, the effects of which will be second only to nuclear war. The best scientists in the world have given you every reason to take the GDC seriously. But I'm gonna give you one more. If you don't live up to the deal you just made, come New Hampshire, we're gonna go shopping for a new candidate. SYDNEY heads for the door--
+15) 33) dialog: With all due respect, Mr. President, who's gonna stop me?
+15) 36) dialog: (beat)
+15) 37) text: Ah. SYDNEY, with as much dignity as she can muster, leaves th Oval Office. SHEPHERD muses about what has just transpire
+16) 19) text: Sydney Wade?
+18) 0) text: A few suitcases and two or three moving cartons serve as evidence that SYDNEY's staying with her sister BETH temporarily. BETH, still in hospital scrubs from a 12-hour shift, open bottle of wine while SYDNEY, in a bathrobe and wet hair, tries to get off the phone.
+18) 1) dialog: (into phone)
+18) 4) dialog: Oh God, I forgot about that. (back into phone)
+18) 7) dialog: I'm hanging up now, Richard... Tonight? I was gonna go to bed early and wake up when there's a new president. She hangs up.
+18) 8) dialog: (continuing)
+18) 11) dialog: I'll tell you one thing, boy. I regrouped, you gotta gimme that. I pulled it together at the end. I stood in the middle of the Oval Office and I made it very clear that from now on, he who doesn't take the GDC seriously does so at his peril!
+18) 13) dialog: Are you gonna be throwing that back at me the rest of my life?
+18) 15) dialog: That's gonna be Leo Solomon. He said he'd call at nine. SYDNEY picks up the phone--
+18) 16) dialog: (continuing; into phone)
+18) 19) dialog: (into phone)
+18) 22) dialog: Andrew Shepherd. (back in the phone)
+18) 23) text: You're hilarious, Richard. You're a regular riot. And we CROSS-CUT between SYDNEY and SHEPHERD.
+18) 25) dialog: Oh, really. Well, I'm so glad you called, because I forgot to tell you today what a nice ass you have. I'm also impressed that you were able to get my phone number, considering I don't have a phone. Good night, Richard. SYDNEY hangs up the phone.
+20) 1) dialog: I don't believe this.
+20) 3) dialog: No way. I may choke in front of Shepherd, but Richard Reynolds I can handle. She picks up the phone.
+20) 4) dialog: (continuing)
+20) 7) dialog: Are you learning-impaired?!
+20) 9) dialog: (beat)
+21) 0) text: SYDNEY's still holding the phone and seems a little confused...an emotion which is about to be replaced by ho as the unbelievable into the reality.
+21) 1) dialog: (to herself)
+21) 4) dialog: (to herself)
+21) 7) text: Good evening, the White House. SYDNEY swallows.
+21) 10) dialog: (quietly)
+21) 11) text: My name's Sydney Ellen Wade. I'd like to--
+22) 2) dialog: Mr. President, I'm sure there's an appropriate thing to say at this moment. Probably some formal apology for the nice-ass remark would be in order. I just don't quite know how to word it.
+22) 4) dialog: No, sir, of course not. I mean -- yes, you can call me anytime you want -- this is fine. Right now is fine. When I said "of course not," I meat that...You know what? The hell with it -- I'm moving to another country.
+22) 7) dialog: I just moved to Washington over the weekend, and my apartment isn't ready yet. This is my sister's apartment. Come to think of it, how did you get this number?
+22) 10) dialog: (trying to pretend it's just another guy on the phone)
+22) 13) dialog: The C.I.A.?
+22) 16) text: Sydney? Sydney, Congress doesn't take this long to--
+22) 17) dialog: The President has asked me to join him in representing our country. I'm honored. I'm equal to the task. And I won't let you down, sir.
+22) 19) text: Sydney, this is just a dinner. We're not gonna be doing espionage or anything.
+22) 20) dialog: No. Of course. I'm a little...uh...what do I do? I, I mean, where do I go? Should I meet you? Will you...
+22) 22) dialog: Of course.
+22) 24) dialog: Mr. President, thank you for asking me. Really. This is a first for me.
+25) 0) text: A GDC conference room that SYDNEY, her assistant, DAVID, two INTERNS have made into their 72-day headquarters. A similar tote board reads "23 Votes in 69 Days." The two interns are marking spreadsheets. DAVID is on one phone, SYDNEY is on another.
+25) 2) text: Carol, it's David in Sydney Wade's office. I want to confirm her lunch with the Congressman.
+25) 3) dialog: (into phone)
+25) 6) dialog: Terrific! She rips the "23" off, making it "22." SYDNEY reaches for her coffee and knocks over a cup of pencils. In righting pencils, she knocks over her coffee.
+29) 0) text: Dressed in formal, but not festive, clothes and holding, always, her notepad, JANIE waits by the door. A SECRET SERVICE AGENT sits alone behind a small desk. The door opens and SYDNEY walks in. She's, needless to sa stunning.
+30) 0) text: This formal reception area is filled with special GUESTS. SYDNEY walks in, A.J. goes to her immediately.
+30) 2) dialog: Thank you. I have no idea what I'm doing here.
+30) 5) dialog: Yes, sir. I remember. ESTHER, MACINERNERY, A.J.'S wife, joins them.
+30) 7) dialog: Sure. It's nice to see you again.
+30) 9) text: Sydney, the President told me about how you two met. I think it's priceless.
+30) 10) dialog: I don't know what happened. One minute I was calling him a mockery of an environmental leader. The next minute I had a date.
+30) 13) dialog: Got it. The French President, D'ASTIER, and his WIFE approach.
+30) 15) text: Mr. President, would allow me to introduce Sydney Ellen Wade of the Commonwealth of Virginia. Sydney, this is President Rene-Jean D'Astier and his wife Monique Danielle D'Astier of France.
+30) 16) dialog: An honor to meet you both.
+31) 0) text: SHEPHERD and SYDNEY are walking down the staircase that l to the red-carpeted hall through which the President ente the East Room. The GROUP escorting the President gives them wide berth s that the two of them can have some privacy.
+31) 2) dialog: They took me through it. After a slight pause--
+31) 3) dialog: (continuing)
+31) 7) dialog: I meant do you go out on...do you-- often--do you--
+31) 9) dialog: Well, yeah.
+31) 11) dialog: Me? Lately, I seem to be going out on a lot of first dates.
+31) 13) dialog: Oh yeah, you can ask me anything.
+31) 15) dialog: It's hard to say at this point. So far it's just your typical first date stuff. And all of a sudden an INCREDIBLE SOUND from inside the E Room-- --The Marine Corps Brass and Percussion Ensemble plays fo ruffles and flourishes.
+32) 3) dialog: Mr. President, the President and Mrs. D'Astier look bored. They're not talking to anybody.
+32) 9) dialog: (taking over-- to D'Astier)
+32) 14) dialog: Really?
+32) 17) dialog: I just said that we're sitting in this beautiful room, listening to the music of this wonderful orchestra, and I wondered why nobody was dancing.
+32) 20) dialog: There's a lesson there, Mr. President.
+32) 26) dialog: Uh, yeah, I guess. I mean, yes, sir, I'd love to. SHEPHERD and SYDNEY move to the dance floor, accompanied the appreciative "oooh's" and "ahh's" of the GUESTS. The dance band begins, and SYDNEY and SHEPHERD dance... ...beautifully.
+32) 35) dialog: I don't know how you do it.
+32) 37) dialog: That's not what I mean. Two hundred pairs of eyes are focused on you right now, with two questions: "Who's this girl, and why's our president dancing with her?"
+33) 0) text: as it pulls away from the White House and into the night. the back, SYDNEY slips a shoe off and rubs her foot. She smiles, then turns around to look out the back window the White House slips out of view.
+37) 0) text: SYDNEY enters.
+37) 1) dialog: Leo, you wanted to see me?
+37) 3) dialog: Leo--
+37) 5) dialog: It was crazy. He called me at home.
+37) 7) dialog: Nothing. It was innocent. His cousin got the flu at the last minute.
+37) 9) dialog: What?
+37) 11) dialog: That's none of your business, Leo.
+37) 13) dialog: You wanna tell me how my personal life in any way--
+37) 15) dialog: That's unfair.
+37) 17) dialog: You're making way too much of this.
+37) 19) dialog: Leo, there is no relationship. It was one night. It's done.
+37) 24) dialog: Relax, Leo. I'm sure it's just a formality.
+37) 28) dialog: So he had some staff flunky send me a fruit basket.
+37) 30) dialog: I'm sure he didn't take the time to--
+37) 32) dialog: Okay, listen, so he-- (to LEO'S SECRETARY)
+37) 36) dialog: A ham.
+37) 39) dialog: He sent me a Virginia ham.
+38) 0) text: as the white-gloved MARINE snaps the door open for SYDNEY and we
+39) 11) text: There is no Sydney issue. SYDNEY enters, crossing paths with LEWIS and ROBIN. They exchange pleasantries.
+39) 12) dialog: (to SHEPHERD)
+39) 15) dialog: I got the ham, yes. Thank you very much.
+39) 17) dialog: So did I. It's just that... JANIE enters.
+39) 20) dialog: No, no, that's fine. I just stopped by to...
+39) 22) dialog: Dinner?
+39) 24) dialog: I'd love to meet Lucy, but... An AIDE has slipped in and hands SHEPHERD a note.
+39) 28) dialog: Actually, I have some concerns that-- The AIDE (JEFF) steps back in--
+39) 39) dialog: Yes. Not many. A few. One. I have one concern.
+39) 41) dialog: You like to make jokes about this, but--
+39) 43) dialog: What's that?
+39) 45) dialog: Leo Solomon has serious concerns about my exploring a social, you know, scenario, with the President of the United States.
+39) 47) dialog: It's just not--
+39) 50) text: Seven-thirty. SYDNEY now stands alone in the OVAL OFFICE, trying to fig out what just happened.
+42) 2) dialog: (standing up, smiling)
+42) 3) text: Sydney.
+42) 5) dialog: Nice to meet you.
+42) 7) dialog: Your father's on the phone with his dentist?
+42) 9) dialog: Who is he on the phone with?
+42) 11) dialog: They're probably not discussing his teeth.
+42) 13) dialog: 
+42) 16) dialog: Capricorn Surface To Air Defense.
+42) 19) dialog: Everything all right with your teeth?
+42) 21) dialog: The dentist.
+42) 23) dialog: You've got a short-range weapons system outside Tel Aviv.
+46) 0) text: LUCY, SHEPHERD and SYDNEY are finishing up a game of Scra
+46) 1) dialog: (to LUCY)
+46) 5) dialog: You're not having fun?
+46) 12) dialog: Sydney.
+46) 14) dialog: Thank you. It was nice meeting you.
+46) 17) dialog: She's wonderful.
+46) 19) dialog: She's you. After a pause...
+47) 1) dialog: I thought C-STAD wasn't gonna be operational until January.
+47) 3) dialog: The Israelis?
+48) 3) dialog: It's not the dish--
+48) 5) dialog: It's the China Room.
+48) 7) dialog: There're about seven-thousand books. I'll get one for you. SYDNEY's been walking slowly around the room, looking at display cases, and as she gets near one of the large wind she takes another step which drapes her in a shaft of incredibly flattering moonlight. The vision isn't lost on SHEPHERD. They stare at each oth for a moment.
+48) 9) dialog: Mr. President -- have you ever noticed how similar the Van Buren flatware is to the Buchanan flatware?
+48) 11) dialog: This isn't a state of mind. You are the President. And when I'm in a room with you, oval or any other shape, I'm always gonna be a lobbyist, and you'll always be the President.
+48) 13) dialog: You think this is a good idea?
+48) 19) dialog: (beat)
+48) 22) dialog: Is anything wrong?
+48) 24) text: Can you show Ms. Wade out. SHEPHERD exits. SYDNEY, alone for a second in the dish room, is finally approached by a SECRET SERVICE AGENT, who starts to escor her out.
+55) 0) text: SYDNEY and BETH have been getting SYDNEY moved in. BETH i holding a carton.
+55) 2) dialog: Why did I have to kiss him?
+55) 4) dialog: Yeah.
+55) 6) dialog: I kissed him.
+55) 8) dialog: On the mouth.
+55) 11) dialog: In the dish room.
+55) 13) dialog: The China Room.
+55) 15) dialog: He had to go and attack Libya.
+55) 17) dialog: I've gotta nip this in the bud. This has catastrophe written all over it.
+55) 21) dialog: It's him.
+55) 23) dialog: He's gonna ask me to come over there.
+55) 25) dialog: I don't want to go over there.
+55) 27) dialog: All right. But I'm gonna end it on the phone. I'm not gonna go over there.
+56) 0) text: SHEPHERD opens his door, revealing SYDNEY. Agent COOPER i letting her in.
+56) 1) dialog: I just came over here to tell you why I can't see you anymore.
+56) 4) dialog: Look, I know you've had a tough day.
+56) 6) dialog: Mr. President, this isn't gonna work.
+56) 8) dialog: That's not what I...
+56) 10) dialog: I've really enjoyed the time we've spent together, but this has catastrophe written all over it. Please, Mr. President, don't pursue me outside the political arena.
+56) 12) dialog: If I were on your staff, I would tell you that the absolute worst thing you can do coming into an election year is to open yourself up to character attacks, and the fastest way to do that is to prance around like the playboy of the Western world.
+56) 14) dialog: Yes, of course, but if you'll follow the immutable--
+56) 16) dialog: Why's that?
+56) 18) dialog: You can't afford me.
+56) 20) dialog: More than you do, Mr. President.
+56) 22) dialog: What the hell does it matter how much money I--
+56) 24) dialog: I'm only thinking about the health of your Presidency. You think this morning's press conference was the end of it? Bob Rumson's gotta be drooling over this.
+56) 26) dialog: I beg your pardon?
+56) 28) dialog: (of course she is)
+56) 31) dialog: You're not most people.
+56) 33) dialog: What's my problem?
+56) 35) dialog: Sex and nervousness is my problem.
+56) 37) dialog: No, but I'm sure you'll explain it to me.
+56) 39) dialog: Ahhhhhh.
+56) 41) dialog: Yes. May I use your bathroom for a moment?
+56) 43) dialog: I want to freshen up.
+56) 45) dialog: You have a plan? Don't make me wait. You're on a roll. SYDNEY disappears into the BATHROOM/DRESSING ROOM area. SHEPHERD keeps talking as he goes to the bar and makes a couple of drinks.
+56) 47) text: Okay. You're attracted to me, but the idea of physical intimacy is uncomfortable because you only know me as the President. It's not always gonna be that way, and the reason I know that is because there was a moment last night when you were with me and not the President, and I know what a big step that was for you. So, Sydney, I'm in no rush. Here's my plan: We're gonna slow down. When you're comfortable, that's when it'll happen. SYDNEY comes back into the room...she's wearing one of SHEPHERD's dress shirts and nothing else. She walks towar him.
+56) 50) dialog: You explained it great. She moves closer to him.
+56) 53) dialog: No.
+56) 55) dialog: The most powerful man in the world?
+56) 57) dialog: (gently)
+59) 4) text: Yeah...all right. He hangs up the phone and looks around the room, only to notice SYDNEY is tiptoeing around in the dim light, tryin to quietly dress herself and gather up her things. SHEPHE watches this odd spectacle for a moment before he says--
+59) 6) text: Sydney? SYDNEY turns around.
+59) 7) dialog: Hi.
+59) 9) dialog: I wanted to leave the building before the press corps got here.
+59) 11) dialog: Sure. Boy, Lewis'd go nuts if he knew I'd spent the night. There's a KNOCK on the door.
+59) 13) dialog: What?
+59) 16) dialog: Hi, Lewis. Well, Mr. President, thank you for taking the time to go over those fossil fuel numbers. I'll just get my coat, and be on my way. SHEPHERD laughs at SYDNEY's purposely lame try--
+59) 20) dialog: Who? Who's camped out?
+59) 22) dialog: The press is camped out?
+59) 24) dialog: They know my car?! ROBIN enters.
+59) 32) dialog: A diversion.
+59) 45) text: Sydney, when you leave here, you're gonna run into reporters and photographers. Your picture's gonna be taken every day, and you're gonna be asked questions every day. Answer them, don't answer them -- it's entirely up to you. The White House has no official position except to say "no comment."
+59) 54) text: Sydney. Esther'll be in my office. You take your time.
+59) 55) dialog: Thanks, A.J. A.J. leaves...
+59) 57) dialog: I'm no expert, but I thought we did it pretty good this time.
+59) 59) dialog: I know. I had a good time.
+59) 61) dialog: I'd like that. SYDNEY gives him a good-bye kiss...
+59) 62) dialog: (continuing)
+60) 0) text: SYDNEY and the TEAM are in full gear. Lisa rips off anoth vote on the tote board, making it "14 Votes in 51 Days."
+62) 0) text: SHEPHERD and SYDNEY are sharing what seems to be an intim candlelit dinner. We PULL BACK TO REVEAL a restaurant pac with SECRET SERVICE, and PRESS outside police barricades, shooting through the windows of the restaurant.
+63) 0) text: Lucy is giving a little trombone recital for SHEPHERD and SYDNEY. SYDNEY cheers madly at the end of the piece, givi Lucy a big hug for her effort.
+64) 0) text: SYDNEY exits her apartment and is once again hounded by t press.
+66) 0) text: SYDNEY exits the building and is mobbed by the press. JOHN McLAUGHLIN TYPE (V.O.)
+70) 0) text: A few more young INTERNS have been added, and most are ha at work on the phones -- ("___ from the Global Defense Council. We're encouraging voters in your area to phone o write your Congressman regarding...etc.") The tote board now reads "11 Votes in 42 Days." David is supervising things while SYDNEY is trying to lose her patience on the phone.
+70) 1) dialog: (into phone)
+70) 4) text: Ask him about his position on stateboard for Hawaii. SYDNEY wads up some paper and flings it at David to shut up.
+70) 5) dialog: (into phone)
+70) 7) dialog: (continuing; announcing)
+70) 10) dialog: That's better! Everyone gets back to work as SYDNEY and DAVID speak amon themselves.
+70) 12) dialog: Yeah, the Motown Three said they'd give me 30 minutes next week.
+70) 14) dialog: Yeah.
+70) 16) dialog: Hey, I know it's a long shot, but if I can get one of them, it'll be a huge payoff in visibility.
+70) 18) dialog: I can't work tonight. I'm having dinner at the White House. We can start early tomorrow.
+70) 20) dialog: (exciting)
+75) 0) text: SYDNEY and BETH stand in front of a full-length mirror. SYDNEY's holding a dress to herself to check it out.
+75) 1) dialog: It's terrific, Beth. I love it.
+75) 3) dialog: Work clothes. I always have dinner at the White House wearing a suit. I thought a dress would be nice.
+75) 5) dialog: (into phone)
+76) 0) text: SHEPHERD's on the phone to SYDNEY.
+76) 3) dialog: Another woman?
+76) 5) dialog: Boys, if I had a nickel for every time I heard that one.
+81) 1) dialog: (into phone)
+81) 5) dialog: (into phone)
+81) 8) text: Sydney says you guys are really stupid.
+81) 9) dialog: (shouting through the phone)
+81) 19) dialog: (into phone)
+81) 22) text: Sydney, his number have nowhere to go but up.
+81) 23) dialog: (into phone)
+81) 28) dialog: (into phone)
+81) 32) dialog: (into phone)
+81) 36) dialog: (into phone)
+81) 40) dialog: (into phone)
+83) 0) text: SYDNEY, nose pressed against the window, is drinking it i SHEPHERD is finishing up a crossword puzzle.
+83) 1) dialog: Do you ever get used to helicopters dropping you off at your front door?
+83) 3) dialog: I guess you do.
+84) 0) text: SHEPHERD and SYDNEY are lounging in front of a fireplace, having hot cups of something alcoholic. SYDNEY is reading book. SHEPHERD is running through satellite TV channels, searching for something.
+84) 1) dialog: Oh good God.
+84) 3) dialog: I'm looking at your college transcripts. This isn't human. Nobody gets this many "A's." You were like a Stepford student.
+84) 5) dialog: Actually I finished Andrew Shepherd: Road to the White House. Now I'm onto Shepherd: The Early Years.
+84) 7) dialog: (re the book)
+84) 14) text: While the President spent the day at Camp David, G.O.P. presidential hopeful Robert Rumson continued his attacks on President Shepherd's character. During the Saturday morning news program Capitol Review with Kenneth Michaels, Senator Rumson suggested that GDC political director Sydney Ellen Wade, whose personal relationship with the President has been causing the White House headaches over the past two months, may have traded sexual favors for key votes in the Virginia State Legislature while lobbying for the Virginia Teachers Association. The NEWS PROGRAM goes to the segment showing RUMSON and MICHAELS on that morning's show. SHEPHERD and SYDNEY sit watch...knowing they're about to take a punch...powerless stop it...
+84) 26) dialog: My God. He's making this up as he goes along.
+84) 28) dialog: Oh, man. My father heard that. SHEPHERD clicks off the T.V.
+84) 30) dialog: My father doesn't have a deaf ear. He hears fine out of both. So do I. So does my sister, so do my friends. You're the only one who seems to--
+84) 32) dialog: I'm not asking you to. I can take care of myself. This isn't about me. How can you keep quiet? How do you have patience for people who claim they love America but clearly can't stand Americans?
+84) 34) dialog: I want to say something, but I'm gonna fumble it a little bit, so I'd just like you to wait till I'm done before you respond. I'm in love with you. I'm certain of it. And I want to be with you more than anything. But maybe things would be better for you if I disappeared for a while.
+86) 19) dialog: Merry Christmas, A.J.
+86) 21) dialog: I got stuck on DePont Circle. I can never remember which lane I'm supposed to take. Then I got cut off by this idiot cab driver who starts screaming at me like it's my fault.
+86) 24) dialog: It's not funny. I hate that place. Can't you declare it a Federal Disaster Area or something?
+86) 27) dialog: Ahhh...I had a terrible meeting today. Totally lost my cool with McSorley, McCluskey and Shane.
+86) 29) dialog: I pitched 'em the hill.
+86) 33) dialog: It was a disaster.
+86) 35) dialog: Well, congratulations, fellas, you're outta the cellar. McSorley told me the only thing on the President's domestic agenda they were more committed to defeating than the crime bill was the fossil fuel package. This catches SHEPHERD and A.J. by surprise--like accident drawing to an inside straight.
+86) 37) dialog: No, I'm not kidding. It's funny that he used the same words. A.J. and SHEPHERD are trying to study the situation witho giving anything away.
+86) 40) dialog: I'm gonna get a drink and shake this off. When I come back, I'll have Christmas spirit.
+86) 43) dialog: Is something wrong?
+86) 45) dialog: I'll be back in a minute. She goes off.
+88) 0) text: A lunchtime crowd is doing business over white wine, oyst and cobb salads. SYDNEY, a CONGRESSMAN, and his LEGISLATI AIDE are going at it.
+88) 2) dialog: Congressman Pennybaker, on election day, people give a damn about what I tell them to give a damn about. And that's why I have a job. (offering the bread basket)
+90) 0) text: INTERNS photocopying, clipping, stamping, crunching numbe drinking coffee...DAVID is on an extension, listening to SYDNEY's final pitch over the phone. The tote board reads: "3 Votes in 5 Days."
+90) 1) dialog: (into phone)
+92) 5) text: A.J., it's meaningless unless we ask him about Sydney.
+94) 0) text: SHEPHERD and SYDNEY are finishing up dinner.
+94) 2) dialog: (taking his bowl)
+94) 5) dialog: So you didn't like it.
+94) 7) dialog: You're lying.
+94) 9) dialog: You are. I can tell when you're holding something back. You do a thing with your face. SYDNEY pops a bottle of port and pours two glasses.
+94) 11) dialog: Two days before I met you. You gave a speech for the Daughters of the American Revolution. I was there.
+94) 13) dialog: You remember the speech?
+94) 15) dialog: "American can no longer afford to pretend that they live in a great society."
+94) 17) dialog: There was supposed to be something else after that, wasn't there?
+94) 19) dialog: I told you. The face. SYDNEY hands him a glass. They clink glasses and sip.
+94) 21) dialog: You're looking at a lady who's two votes shy of the promised land.
+94) 23) dialog: I got Pennybaker. That got me Cass and Zimmer.
+94) 25) text: That's great, Sydney. I mean it. That's great work.
+94) 26) dialog: Well, I'm not there yet.
+94) 28) dialog: I'll be proud when I see you sign the bill.
+94) 30) dialog: Andy.
+94) 32) dialog: You're doing that thing with your face.
+97) 6) text: Mr. President, as of this morning, Sydney only needed one more vote. The Motown Three have gotta be scared blind. I don't think there'll be a better opportunity.
+98) 0) text: SYDNEY, SUSAN, DAVID, INTERNS and STAFFERS are having a little office celebration. Champagne flows from paper cup Streamers and balloons adorn the tote board, which reads Votes in 1 Day. SUSAN, maybe a little drunk, has concerned SYDNEY.
+98) 2) dialog: I didn't notice. Was there an attitude? A PHONE RINGS, and one of the staffers takes it. SYDNEY tries to rejoin the party, but--
+98) 4) dialog: Well--
+98) 6) dialog: I'm not really qualified to--
+98) 10) dialog: Tell him to get over here. It's a party.
+98) 12) dialog: It can't wait?
+101) 0) text: SYDNEY is going through the closet in search of something The door opens, and SHEPHERD steps in, perhaps a little tentatively. He doesn't see SYDNEY at first.
+101) 2) text: Syd? SYDNEY comes out.
+101) 3) dialog: Have you seen a gray cableknit sweater?
+101) 5) dialog: It's Beth's. I wore it here one time, and I didn't want to leave it.
+101) 7) dialog: I'm going home, and then I'm going to Hartford.
+101) 9) dialog: Yes. Do you know if it was sent with your dry cleaning by any--
+101) 11) dialog: Richard Reynolds' campaign. He may be able to get me a job.
+101) 13) dialog: Not long after Leo Solomon fired me from my old one. Beth's gonna kill me. She loves that--
+101) 15) dialog: Total failure to achieve any of the objectives for which I was hired. I told him he was being unreasonable. After all, I did get to dance with the President and ride in Air Force One a couple of times. But you know those prickly environmentalists. It's always gonna be something with them. If it's not clean air, then it's clean water. Like it isn't good enough that I'm on the cover of People Magazine.
+101) 17) dialog: You'll call him? You mean you'll call him yourself? Personally? It'll come from the President? That's a great idea. I think you should call Leo and make a deal. He hires me back for, say, 72 days. I go around scaring the hell out of Congress, making them think that the President's about to drive through a very damaging and costly bill. They'll believe me, right, 'cause I'm the President's Friday Night Girl. Now I don't know if you can dip into this well twice, especially since I've lost all credibility in politics, but you never know, I might just be able to pull it off again. I might be able to give you just the leverage you need to pass some ground-breaking piece of crime legislation -- like a mandatory three-day waiting period before a five-year-old can buy an Uzi. Fuck the sweater -- she'll have to learn to live with disappointment. She starts to exit
+101) 19) dialog: I know exactly what went on here today. I got screwed. You saw the poll, you needed the crime bill, you couldn't get it on your own, so I got screwed.
+101) 21) dialog: Well then, congratulations. It's only taken you three years to put together crime prevention legislation that has no hope of preventing crime. SYDNEY heads out the door--
+101) 23) text: Sydney. Please. I don't want to lose you over this.
+101) 24) dialog: Mr. President, you got bigger problems than losing me. You just lost my vote. And SYDNEY is out the door... ...we HOLD on SHEPHERD, looking like a man who's taken a of punches to the heads...
+105) 18) text: This is a country made up of people with hard jobs that they're terrified of losing. The roots of freedom are of little or no interest to them at the moment. We are a nation afraid to go out at night. We're a society that has assigned low priority to education and has looked the other way while our public schools have been decimated. We have serious problems to solve, and we need serious men to solve them. And whatever your particular problem is, friend, I promise you, Bob Rumson is not the least bit interested in solving it. He is interested in two things and two things only: Making you afraid of it and telling you who's to blame for it. That, ladies and gentlemen, is how you win elections. You gather a group of middle-aged, middle-class, middle- income voters who remember with longing an easier time, and you talk to them about family and American values and personal character. Then you have an old photo of the President's girlfriend. You scream about patriotism and you tell them she's to blame for their lot in life, you go on television and you call her a whore. Sydney Ellen Wade has done nothing to you, Bob. She has done nothing but put herself through law school, prosecute criminals for five years, represent the interests of public school teachers for two years, and lobby for the safety of our natural resources.
+105) 20) text: You want a character debate? Fine, but you better stick with me, 'cause Sydney Ellen Wade is way out of your league. I've loved two women in my life. I lost one to cancer, and I lost the other 'cause I was so busy keeping my job I forgot to do my job. Well that ends right now.
+107) 10) dialog: Just stay away from DuPont Circle. I hear it's murder this time of day. SHEPHERD doesn't need to turn around to know who's standi in the doorway, but of course he does anyway.
+107) 11) dialog: Hi, A.J.
+107) 13) dialog: I heard your speech. I was in my car, and it just kind of steered its way over here.
+107) 16) text: Sydney, I didn't decide to send 455 to the floor to get you back.
+107) 17) dialog: I didn't come back 'cause you decided to send 455 to the floor. They move to kiss. It doesn't last very long because...
+107) 19) text: Mr. President, I thought you might want to look at this. I moved Social Security up front. Hello, Sydney. JANIE enters--
+107) 24) dialog: Yes, you do.
+109) 28) text: I'll see you afterward. I want a critique. The room clears out...revealing SYDNEY, dressed like the First Lady she's soon to be, sitting against the window s
+109) 34) dialog: They're beautiful. JANIE pokes her head in.
+109) 37) dialog: Should I stay here?
+109) 39) dialog: How'd you finally do it?
+109) 42) dialog: Manage to give a woman flowers and be President at the same time.

@@ -1,0 +1,18 @@
+78) 0) text: 4 black woman officer (DOREEN) stands behind 2 desk with @ clipboard. (CONTINUED)
+78) 3) dialog: Empty your pockets. Put the contents in this metal container. Mark pulls some change and a piece of gum out of his pocket.
+78) 4) dialog: Okay. Now follow ma. Mark begins to follow her down a hall.
+78) 6) dialog: Of course not. Mark looks around es he walks. He sees some female prisoners milling about.
+78) 8) dialog: It's a women's detention hall.
+78) 10) dialog: "Cause you're a minor.
+78) 12) dialog: Listen, we get all kinds of smart wouths up here, okay? You'll get along much better if you'll just keep your mouth shut. Doreen leads Mark down the hall to a door. She opens the door, which leads to --
+78) 16) dialog: This is where you stay for now.
+78) 18) dialog: No. You can have any bed you want. Walls are cinderblock and the windows are unbreakable, so don't try anything. You can watch a little T.V. in here if you want to. : Mark stands sullenly.
+78) 19) dialog: Are you okay, Mark? Mark looks up at her.
+78) 21) dialog: Well, okay, I'll run a phone in here for you, I suppose we can make a little exception.
+93) 0) text: Doreen lumbers down the hallway. She takes out her ring of keys, and heads towards Mark's cell. (CONTINUED )
+95) 0) text: Doreen scrambles to open Mark's door. She sees Mark lying on the floor. He is wet with Sweat, shaking, and unconscious.
+95) 1) dialog: Mark! Mark! Oh my God! Doreen leaps down to help Mark. DOREEN . Telda! Call the doctor!
+97) 0) text: Doreen touches the sweat on Mark's stomach. TELDA, another female guard, rushes to the door.
+97) 1) dialog: Damn! He's soaking wet! (CONTINUED)
+97) 5) dialog: Get a towel over here! Telda rushes out as the DOCTOR rushes in.
+97) 7) dialog: The kid's in shock! The Doctor starts to frantically examine Mark.

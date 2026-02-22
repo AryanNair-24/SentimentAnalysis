@@ -1,0 +1,10 @@
+94) 0) text: EUGENIE, the REAL ESTATE AGENT, walks John to the door.
+94) 1) dialog: You're sure that you don't want a lawn sign?
+111) 0) text: John limps to the front door and opens it to see Eugenie, his realtor, standing with a nice couple. They see his fa try and hide their reactions.
+111) 1) dialog: You did remember I was showing the house?
+113) 0) text: Eugenie reassures her skittish clients.
+113) 1) dialog: It really is a great neighborhood.
+126) 9) dialog: (on voicemail:) John? It's Eugenie. You're not going to believe it; the people I brought over? They made an offer! I'll bring it in the morning.
+181) 0) text: John stands with Eugenie, the frightened realtor.
+181) 2) dialog: The title hasn't been cleared -- there is no way that --
+181) 4) dialog: Nothing!

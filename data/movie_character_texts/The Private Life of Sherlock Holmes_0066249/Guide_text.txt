@@ -1,0 +1,12 @@
+50) 3) text: If you've a mind to do any sight-seeing, here's a guide to the local points of interest.
+61) 1) dialog: Sorry.   No visitors allowed.
+61) 3) dialog: Yes. The castle is closed to the public while work is going on.
+61) 5) dialog: It's being restored by the Society for the Preservation of Scottish Monuments.
+61) 7) dialog: That's right.
+61) 9) dialog: The Thrid... If you come back next year, we'll be all done here, and I'll be glad to show you around.
+64) 0) text: A gig is waiting in front of the entrance, and leaning against it is the guide we saw earlier at Urquhart. Holmes comes out, carrying the champagne bottle.
+64) 2) dialog: You'd better get on.     It's late. Holmes climbs into the gig, and the guide moutns the seat beside him.
+64) 4) dialog: You won't be disappointed in the guest list.
+64) 7) dialog: Jonah. He flicks the reins. The horse starts off at a trot, and the gig turns into the driveway.
+64) 8) text: As they drive along, Holmes glances at the guide, who is grim and uncommunicative.
+66) 0) text: A workman is lighting a couple of torches attached to the ruined gatehouse when the gig comes through the archway. The guide reins up the horse in front of the steps leading to the inner courtyard -- which are now covered with a narrow red carpet. The guide nods to Holmes, who dismounts, starts up the steps, examining the red carpet. As he reaches the top, he looks off. The strip of red carpet runs across the courtyard, lit by torches planted in the ground. A couple of workmen are are unrolling the rest of the carpet toward the entrance of the tower. As Holmes passes one of the tents, the flap opens and Mycroft steps out, dressed in his inevitable frock coat.

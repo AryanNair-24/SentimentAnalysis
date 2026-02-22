@@ -1,0 +1,22 @@
+88) 2) dialog: Which is exactly what they appear to be preparing to do, Mr. President.  We're tracking 26 ships inbound to Cuba.  There's no sign they're changing course.  The closest ships, the Gagarin and the Kimovsk, will make the quarantine line by this time tomorrow.
+89) 1) dialog: Russian-speakers have been transferred to all of our ships.  Once the quarantine takes effect in the morning, our ships will attempt to make radio contact with the approaching vessels.  They will be ordered to reduce speed and prepare for inspection.
+91) 1) dialog: An inspection party will then board and search the ship.  If weapons are found, the ship will be ordered to leave the quarantine area or be towed into port upon refusal.
+92) 0) text: All eyes are on Admiral Anderson's overhead projections.  Bobby, restless, gets up, begins pacing.
+92) 2) dialog: A warning shot will be fired across its bow. Bobby stops, stares directly at the Admiral.
+92) 4) dialog: Then we fire at its rudder, disable it, and carry out the inspection. Kenny looks at the President who remains unmoved, unreada
+92) 6) dialog: Yes, sir. The President glances at McNamara.
+92) 8) dialog: The Navy won't let you down, sir.
+149) 0) text: Admiral Anderson nods to a COMMUNICATIONS OFFICER.  The m makes the connection on a switchboard. McNamara casts an eye to the map.  The two red MARKERS labeled Gagarin and Kimovsk are joined by a third: the SU They are ALMOST TOUCHING the blockade line.  On the other side, the single blue marker for the Pierce.
+191) 2) dialog: Hail them again.
+191) 6) dialog: Very well.  Load your guns. That starts McNamara from his fatigued reverie.  He goes the railing, looks down on Anderson.
+191) 8) dialog: We've been hailing the Groznyy for the last hour, Mr. Secretary.  The Groznyy refuses to stop.
+191) 10) dialog: Carrying out our mission, Mr. Secretary.  If you don't mind, we're very busy right now.  We need to be able to do our jobs.
+191) 12) dialog: We're going to follow the Rules of Engagement.  The Rules of Engagement which the President has approved and signed in his order of October 23rd. Anderson listens again to the phone.
+191) 13) dialog: Yes, Captain, you may proceed.  Clear your guns.
+195) 1) dialog: That ship was firing starshells.  Starshells.  Flares, Mr. Secretary. Everyone's eyes are on the two men.  Only the chatter of teletype breaks the paralyzing silence.  McNamara blinks, looks down at the plot on the floor.  Anderson's voice dr to a deadly sotto.
+195) 2) dialog: Goddammitt, I've got a job to do.  You've been camped out up there since Monday night.  You're exhausted and you're making mistakes.  Interfere with me, you will get some of killed.  I will not allow that. McNamara looks away at the faces of the men in the room.
+195) 4) dialog: Get out of our way, Mr. Secretary.  The navy has been running blockades since the days of John Paul Jones. McNamara turns back.  And all trepidation, embarrassment, hesitation are gone.  He coldly appraises Anderson.
+195) 6) dialog: With all due respect, Mr. Secretary, we were not firing on the ship.  Firing on a ship means attacking the ship.  We were not attacking the ship.  We were firing over it.
+195) 8) text: There will be no firing anything near ANY Soviet ships without my express permission, is that understood, Admiral?
+195) 9) dialog: Yes, sir.
+195) 11) text: John Paul Jones... you don't understand a thing, do you, Admiral? He passes his hand over the enormous plot below.

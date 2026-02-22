@@ -1,0 +1,45 @@
+15) 8) dialog: Moving into lateral position.
+15) 51) dialog: It's dragging us down! Disconnect the cable!
+18) 20) dialog: So much for phase one. (to Travers) Now what?
+19) 4) dialog: (panicky) Mayday -- mayday -- downed DC-3 --  mayday --
+20) 0) text: Kristel is on the radio, as Travers and Qualen hang back. Kristel's voice is panicked but she can't suppress a grin
+20) 1) dialog: Downed charter flight alpha-charlie-niner-- (keys mike to "garble" transmission) -- dead, seven seriously wounded, acknowledge --
+21) 2) dialog: ("panicked") Don't know -- position unknown -- landed on top of some mountain -- only visual bearing is a facing cylinder-type formation -- over --
+21) 4) dialog: Negative -- cockpit is on fire -- fuselage broken into three sep-- ("garble") --ed in shock.  Need medical supplies, including insulin, repeat, insulin, as soon as po --
+22) 0) text: Kristel hangs up the radio and smiles, Travers and Qualen standing behind her. Qualen lightly applauds.
+43) 0) text: The expedition has holed up here for the night -- Travers Qualen look upset. Things aren't going as well as they'd hoped. Kristel tries to get some candy out of a vending machine that's obviously empty. Kynette saws at some camp with a distinctive knife -- the handle is a set of brass knuckles. Delmer guards Hal, who is bound, and seated by souvenir photo stand.
+48) 19) text: Travers, Delmer, Kristel and Kynette are startled, but do immediately comply. This throws Brett off his stride.
+49) 0) text: runs into the woods -- Qualen and Kristel, hearing Hal's retreat, run after him.  But Travers stops for a second - has spotted
+49) 6) dialog: Stop!
+67) 0) text: Qualen whizzes across the wire on the harness, easily mak it to where Hal, Travers and Kristel are waiting.
+76) 2) dialog: (over radio -- "weak") Alpha Charlie Niner -- please -- help --
+76) 35) text: But he sees Kristel in a clearing. Face down in the snow. First things first.
+77) 1) dialog: What -- who are --
+77) 3) dialog: (recovered) Glad to hear it.
+77) 4) text: Kristel sees the snap is off Frank's holster -- she grabs spins it around, and pulls the trigger. CLICK. Frank grab her wrist with a move faster than you'd expect from him, he yanks the pistol back.
+77) 6) text: Nearby, the helicopter radio crackles to life. Frank back toward the helicopter, keeping the gun trained on Kristel But Frank only gets to the helicopter door before --
+77) 11) text: Kristel brushes the snow off her and goes over to the rad
+77) 13) dialog: (keying radio) Rocky Mountain Rescue One, over --
+79) 0) text: By now, the others have come out of hiding and up to the helicopter. Kristel grabs some papers from a plastic pack the helicopter seat -- and keys the mike.
+79) 1) dialog: Copy, FAA. This is Margaret Deighan, Rocky Mountain Rescue. Over --
+79) 3) dialog: (keying mike) Copy, FAA. Distress call came at approximately eleven hundred hours yesterday. I investigated -- the call turned out to be a false alarm. Over.
+80) 2) dialog: (over radio) Repeat, distress call was a definite false alarm -- we've had several here. Somebody's sick idea of a joke. Do you require further assistance -- over --
+81) 0) text: Kristel smiles and puts the radio mike back into its brac
+87) 10) text: Delmer clicks off his safety and aims at Hal -- Qualen ru into the woods, guided by the monitor -- Kristel follows. Delmer backs Hal up at gunpoint. Hal deliberately moves i semi-circle, putting Delmer's back to the rocks.
+87) 29) dialog: You would have lived longer, if you weren't such a smartass.
+87) 30) text: Gabe spins his head around -- and his temple smacks into Kristel's gun barrel.
+87) 31) dialog: You telegraphed this kind of stunt with that joke snowman. Too bad for you we're not all gullible.
+87) 32) text: Kristel starts to squeeze the trigger.
+87) 34) dialog: (pauses, wary) What do you mean?
+87) 36) dialog: (squeezing trigger again) No sale. Say "night-night" --
+87) 38) text: Kristel eases back with the gun.
+87) 39) dialog: You've got my attention.
+91) 0) text: Gabe, hands on his head, moves down a slope near a mounta edge, ahead of Kristel, who's aiming her gun at his back.
+91) 1) dialog: How much further?
+91) 7) text: Gabe shows a sudden burst of enthusiasm and starts quickl moving ahead again -- Kristel suspiciously notices this -
+91) 8) dialog: Don't move.
+91) 9) text: Kristel gets ahead of Gabe and walks backward, keeping he trained on him as she crunches through the snow.
+91) 10) dialog: Skiis, food -- and maybe guns too, right? (moves backward) Keep walking. Not too close.
+91) 12) dialog: (walking backward) Right. So I'd better have one less problem when he arrives.
+91) 14) dialog: You've worn that one out, Walker -- (snaps back bolt) -- I'll find my own way down.
+91) 15) text: Kristel solidly plants her feet firmly to shoot Gabe, but feet sink through the crystallized snow cover -- -- Kristel completely disappears down through the snow as it collapses under her -- she's pulling the trigger and SHOT go wild as she sinks and sinks --

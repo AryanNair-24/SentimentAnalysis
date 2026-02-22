@@ -1,0 +1,10 @@
+20) 14) dialog: You. You are the young Talbot?
+20) 16) dialog: You should return to wherever you are from. The path you're on leads to the end of you.
+20) 22) dialog: Maleva the Seer.
+20) 25) dialog: I will ask the spirits. If they know of your brother... I will find you. Old Maleva rides to follow Bela away into the night. cur TO:
+23) 0) text: — EE RE LBONSE — > MORNING Amongst some gathered VILLAGERS, Lawrence watches as... Carmilla's ENSHROUDED CORPSE, entirely wrapped in CLOTH except for her face, is carried down the STAIRS of the JAILHOUSE, shouldered by SIX GYPSY MEN. A COIN has been placed on each of Carmilla's closed eyes. ON THE STREET, an enclosed GYPSY WAGON awaits. Old Maleva stands with Carmilla's husband, Victor.
+23) 3) text: Old Maleva looks up at Lawrence, then climbs in. The wagon's DRIVER begins slowly driving away as Victor, Bela and all the other GYPSIES follow along.
+73) 77) dialog: I pledged to seek you out, Lawrence Talbot... if the spirits gave an answer to your question. From across the beyond, the answer came... (pause) Benjamin is with your mother now.
+73) 79) dialog: They are together.
+73) 82) text: Old Maleva guides her horse past Lawrence, moving on.
+73) 83) dialog: Perhaps you will join them soon. In a moment, she's gone in the the WHITENESS of the FOG.

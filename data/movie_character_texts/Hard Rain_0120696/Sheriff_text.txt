@@ -1,0 +1,145 @@
+1) 5) dialog: So, are we all going to die?
+2) 0) text: HANK, the dam control officer, is on the radio with the  Sheriff.
+3) 0) text: WAYNE and PHIL, two deputies, 30s, are near the Sheriff,  shoring up a sandbag wall that has partially collapsed.
+3) 6) dialog: Don't answer that, Phil.
+3) 7) text: The Sheriff walks over.
+3) 8) dialog: Hank says he's gonna open another  gate. We're gonna get another rise.
+3) 13) dialog: (good-natured) Well, you would be if you wanted to  get the last couple of paychecks  some bastard owed you.
+3) 19) dialog: (to Mayor, saving  Phil) You know, Bob, as much as I'd love  to stand here all day talking about  how great I am, if you don't get  moving I'm gonna have to haul your  sorry ass off to jail.
+3) 23) dialog: (shakes head) You wanna know how to get the best  revenge on the Mayor and his boys?  You do exactly what we're doing. You  protect the town. You protect it  better than they would. Better than  they ever could.
+3) 25) dialog: (ignores Wayne) Any looter that comes in here is in  for a big surprise, cause as long as  I'm still wearing this pointy thing... (indicates badge) ...nobody's taking anything from  this town.
+12) 0) text: Looking out as the Sheriff's car rolls past on the water- covered street. A HAND lets go of a curtain and it swings across the window.
+13) 0) text: The Sheriff motions Wayne to stop the car, then he grabs radio mike and clicks it on as a megaphone.
+13) 1) dialog: (into mike) Henry, I saw you. Come on out.
+13) 3) dialog: Henry, I'm not leaving until you  come out.
+13) 8) dialog: What are you still doing here?
+13) 11) dialog: That's illegal, Doreen.
+13) 14) dialog: You don't need to set traps.
+13) 16) dialog: That's not happening this time.
+13) 18) dialog: You can't stay, you know that.
+13) 20) dialog: Good.
+13) 22) text: The Sheriff wants to say something more, but he's not abo to argue with Doreen. He just nods and gets back into the car.
+13) 24) dialog: God'll understand if you have to  drown her in the basement, Henry.
+13) 25) text: The Sheriff sighs, nods to Wayne. Wayne puts the car in g
+33) 1) dialog: What are you doing here?
+33) 2) text: But the Sheriff isn't asking Tom, he's asking...
+33) 8) dialog: Karen, did you think the order was  for everyone but you to evacuate?
+33) 13) dialog: What if he'd had a gun, Karen? A lot  of these looters carry guns.
+36) 0) text: The Sheriff, Phil, Wayne and Karen stand outside the cell Tom is inside, on the cot. He touches the cut on his fore
+36) 6) dialog: Look, son, what were you doing in  the church?
+36) 12) dialog: How much money did you have?
+36) 17) dialog: No, I don't think so.
+36) 18) text: They all look at the Sheriff. He looks at Tom.
+36) 19) dialog: You took the money, didn't you.
+36) 23) dialog: Jesus, Wayne, use your head. If he  hadn't hidden it, they woulda killed  him, too.
+36) 24) text: The Sheriff looks at Tom -- is that it? Tom nods.
+36) 25) dialog: You got any ID?
+36) 28) text: The Sheriff thinks for a beat, then tosses some keys to P
+36) 29) dialog: Get out two rifles and a shotgun.
+36) 30) text: Phil nods and goes to it. The Sheriff opens a desk drawer pulls out an ankle holster.
+36) 32) dialog: Well, yes, Wayne, I do. And even if  I didn't, I'd say we sure as hell  had an obligation to check it out,  don't you think?
+36) 33) text: The Sheriff starts strapping on the ankle holster.
+36) 35) dialog: No, I think you better stay put. But  that was --
+36) 37) text: The Sheriff thwacks Wayne in the ear.
+36) 39) dialog: Wayne, what's the worst that's ever  happened to you? When old Mrs. Dugan  went after you with a knife? This  guy just got shot at! (dismisses Wayne; to  Tom) Smart move with the money.
+36) 41) dialog: (to Phil) Wayne and I'll check out the cemetery.  You escort Slugger... (nods at Karen) ...out of town. Get her to some high  ground, then come on back.
+36) 42) text: The Sheriff jams a small pistol into his ankle holster.
+36) 44) dialog: (pulling her out) Not any more you don't.
+36) 45) text: The Sheriff straightens up, grabs a rifle from Phil and p Karen to the door. Wayne goes to Tom's cell door and pull it shut with a click.
+36) 46) dialog: Wayne...
+36) 48) text: The Sheriff rolls his eyes and gestures for Wayne to come along. He opens the door for Karen, Wayne and Phil to go  through.
+36) 50) dialog: And they're gonna regret that, I  guarantee you. They're gonna regret  coming anywhere near this town  tonight. And out he goes.
+37) 1) dialog: Phil, take Karen's boat.
+37) 2) text: The Sheriff and Wayne climb toward their boats.
+37) 5) text: Wayne laughs as he and the Sheriff fire up their boat eng
+44) 0) text: The Sheriff and Wayne are motoring in their boats, zoomin through the trees, engine noise obliterating anything com in over the radio.
+49) 0) text: The Sheriff and Wayne are racing through a grove of half- submerged trees. There's a rushing sound above the sound the engines. WHAM! and they're hit by the wall of water.  Wayne falls out of his boat and is lost in the swirling w
+61) 0) text: Wayne gets back into his boat. The Sheriff realizes somet
+61) 1) dialog: Wayne... You locked him in.
+62) 0) text: Tom looks through the cell bars at wooden chairs bobbing the water. The Sheriff's desk lifts up, starts floating. gets an idea. He takes his belt off.
+65) 15) text: Tom and Karen have disappeared. Karen's boat is still moo to the Sheriff's station roof, empty.
+66) 1) dialog: Is he dead?
+66) 5) dialog: Who?
+66) 9) dialog: Let's hear it, Phil.
+68) 0) text: Phil climbs into the Sheriff's boat.
+68) 3) dialog: Shut up, both of you. Let's go find  Karen; see if she's got him.
+68) 4) text: The Sheriff fires up his engine and heads off, Wayne  following.
+76) 0) text: The Sheriff sits in his boat, moored to the wall of sandb around the church. Wayne's boat is tied up next to it. Th floodwater is trickling over the top of the wall. The gas powered pumps inside the wall are keeping the waters at b
+78) 0) text: The Sheriff, Wayne and Phil motor past the statue. Wayne driving his boat; Phil is with the Sheriff. The water is to the General's neck.
+82) 0) text: The Sheriff and Wayne are motoring fast down a street, th Sheriff leading. The Sheriff sees something in the water front of him. He curses and throttles down fast.
+84) 0) text: Karen is in the Sheriff's boat, wearing Phil's jacket, tr to warm up.
+84) 3) dialog: Where was he going?
+87) 0) text: The Sheriff is in his boat; Wayne is back in his own. The Sheriff is on the radio.
+87) 1) dialog: Hank, remember when Mike Crane holed  up in Jack Finch's barn and said he  was gonna burn it down?
+87) 4) dialog: Right. And before you went in, I  deputized you, you dumb son-of-a- bitch! So when I say get down here,  it's not a request, it's an order.  So get down here! Now! I won't need  you for long. And bring your gun.
+90) 25) text: The Sheriff stops shooting, yells at the others.
+90) 26) dialog: Hold your fire!
+90) 38) dialog: Okay.
+90) 58) text: The Sheriff, Wayne and Phil turn to see...
+90) 60) dialog: Hey, Hank. That money I told you  about? From the armored car? We're  gonna keep it. Three million dollars.  Four ways. (shoots at crypt) Seven fifty apiece. You okay with  that?
+90) 62) dialog: Hank? You okay with that?
+90) 65) dialog: Then I guess you've never been hunting  with Hank. (to Hank) We got two behind that crypt. Get  'em.
+90) 66) text: Hank nods. He motions for Wayne to go one way; he'll go t other. They start off. A blind shot comes from Jim behind the crypt. The Sheriff shoots back. Phil finally musters the courage to say something.
+90) 68) dialog: Come on now, Phil.
+90) 70) dialog: They're looters, Phil! They come and  steal from an armored truck in our  town -- they're looters. (fires two shots)
+90) 72) dialog: No, they're witnesses.
+90) 73) text: The Sheriff fires off a flurry of bullets.
+90) 90) dialog: Jeez, Phil, I always thought Wayne  was the stupid one. Read my lips. (slowly) Three million dollars. Look at it!
+90) 91) text: The Sheriff reaches down into a forward storage area of t boat and pulls back a tarp revealing the bags of money.
+90) 92) dialog: A couple of those bags are gonna be  yours, Phil.
+90) 94) text: The Sheriff rips his badge off and throws it away.
+90) 95) dialog: I'm the what?
+90) 100) dialog: For twenty years I've been eating  shit, breakfast, lunch and dinner.  Well, tonight I'm changing the menu!  From now on everything I eat is gonna  be shit-free!
+90) 111) dialog: Can I make it any clearer, Phil? Do  you want me to draw pictures?
+90) 112) text: Phil pulls out his revolver and points it at the Sheriff.
+90) 114) dialog: Oh for -- (beat) Okay, Phil. But here's how it's gonna  go. I'm gonna hear one of two things  out of you. Either I'm gonna hear  you say you're in with us, or... (moves close to Phil's  gun) ...I'm gonna hear a bullet come out  of that gun and go into me.
+90) 115) text: Phil is incredulous. The Sheriff weighs his hands like sc
+90) 116) dialog: (one hand) Seven hundred and fifty thousand  dollars or... (other hand) ...you kill me. Your choice.
+90) 117) text: The Sheriff weighs the hands a couple more times. Phil sl lowers the gun.
+90) 118) dialog: There we go.
+95) 0) text: Wayne and Hank are alongside the Sheriff, engines idling they look at the church.
+95) 1) dialog: (nods, to Hank) Then go get some bottles.
+95) 4) dialog: It'll be fine.
+95) 6) dialog: Fuck the town.
+96) 0) text: Jim and Tom are by one of the stained glass windows, look out through a pale-colored pane at the Sheriff and his me across the street. They watch Hank race off.
+98) 0) text: Jim is by the window, looking out at the Sheriff and Wayn across the street in the shadows. He turns as...
+99) 1) dialog: What're you doing?
+99) 5) dialog: Oh, for Christsakes, just dump her  here.
+99) 7) dialog: Just dump her here!
+99) 8) text: Wayne ignores the Sheriff and motors off.
+99) 9) dialog: Wayne! Goddamnit, we've gotta get  them outta there! Wayne!
+101) 0) text: Hank motors up to the Sheriff and Phil.
+101) 2) dialog: On a date. You all set?
+101) 4) dialog: Then let's go.
+101) 6) dialog: We can get started without him, the  dumb shit. He won't be long. Besides,  we got Phil. Phil's gonna earn his  money on this, aren't you Phil?
+103) 10) text: The Sheriff, Phil and Hank are heading toward the church, flaming Molotov cocktails in their hands.
+104) 0) text: The Sheriff, Phil and Hank heave the flaming Molotov  cocktails.
+111) 0) text: The Sheriff is getting very agitated.
+111) 1) dialog: They're not coming out, Hank!
+111) 3) dialog: We have to get them! We have to kill  them! Do you understand? If they're  not dead, we got jack shit!
+115) 0) text: The Sheriff, Phil and Wayne scan the water, looking for  movement.
+115) 1) dialog: Where are they?! Jesus!
+117) 0) text: The Sheriff turns to Phil and nods re: Jim.
+117) 1) dialog: You take care of him!
+117) 2) text: The Sheriff aims at the balcony as Phil scans the water,  looking for Jim.
+117) 31) text: BANG! and hank shoots Phil. Phil pitches back out of the  Sheriff's boat.
+119) 0) text: The Sheriff hesitates.
+119) 2) dialog: They went back to her house.
+119) 4) dialog: It's --
+121) 2) dialog: Hank?
+121) 4) dialog: How much time we got?
+121) 6) dialog: Guess!
+121) 8) dialog: (to Tom) Then I'd say you boys better drop  your guns.
+121) 10) dialog: That's the deal! You let me and Hank  go -- with a few of these bags --  and I'll tell you where to find Karen.
+121) 15) dialog: It's the only way you're gonna find  her!
+121) 20) text: Tom doesn't know what to do. The Sheriff looks pretty ple with himself. He might just get out of this. And then...
+123) 0) text: Jim keeps his gun leveled at the Sheriff and Hank, standi in the water, as he pulls the money bags up from the forw hold.
+123) 1) dialog: So, you just gonna kill me?
+125) 0) text: Jim, the Sheriff and Hank react to the silence. Jim looks off.
+125) 3) text: The Sheriff pulls up his pant leg.
+125) 7) dialog: You should've just killed me.
+127) 0) text: Phil is grabbing for the Sheriff's boat as the Sheriff an Hank zoom out of the church, leaving him behind.
+128) 0) text: The Sheriff's boat comes onto Main Street, moving fast.
+128) 3) dialog: Yeah, you're right.
+128) 4) text: The Sheriff pushes Hank out of the boat.
+145) 12) text: Tom swims hard toward the Sheriff's boat.

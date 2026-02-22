@@ -1,0 +1,137 @@
+22) 0) text: Colwyn, wearing the dead Slayer's helmet and armor, approaches the group near the stone bridge. The bridge le to an opening in the side of the Needle, which gives acce to a passage which extends some ten feet into the Needle before it takes a right-angle turn. On the floor of the passage are heaped the bodies of half dozen Slayers; though Ynyr may not be able to get out, he clearly capable of preventing anyone from getting in.
+23) 0) text: Ynyr stares down the passage toward the right-angle turn. his hand, held out before him, is a silver glaive, a cros shaped weapon with four equal blades. When Colwyn rounds the corner into view, the glaive leaps from the old man's hand and spins down the passageway.
+23) 4) dialog: Does the Queen live?
+23) 6) dialog: Turold's son was to marry her.
+23) 8) dialog: I have lived in this place, like my fathers before me, guarding the old knowledge. I knew, when I had no son, that the Great War would come in my time, and that I would be the one to pass on the old knowledge to a new king. Come. Colwyn glances toward the entrance.
+23) 9) dialog: It is night. The Slayers have gone to their tents and the bridge is guarded by Dark Ones. They will not cross, for they have no power in this place. Colwyn follows Ynyr through a passageway to ...
+24) 0) text: Colwyn and Ynyr sit beside a fire in a triangular pit in floor. Colwyn has shed the Slayer's armor, and Ynyr holds black onyx box in his lap.
+24) 1) dialog: This is not the first time the Dark Ones have attacked our world. They came once before, a thousand years ago. A young king and queen, with extraordinary powers, were given to us then, to lead the struggle. My fore-father was their Councilor, as I will be yours.
+24) 3) dialog: Your powers are greater than you know. (indicates his glaive) Have you ever seen one of these?
+24) 5) dialog: This belonged to the young king who fought the Dark Ones a thousand years ago. Now it is yours. Colwyn picks up the glaive, turns it in his hands, the blades flashing in the firelight.
+24) 6) dialog: With two or three days' practice, you'll be able to use it as well as I can. Then we'll have a chance of fighting our way out of here.
+24) 8) dialog: There is no other way.
+24) 10) dialog: Yes.
+25) 1) dialog: But it opens onto the sheer wall of the Needle. There's no way down.
+25) 3) dialog: I am too old to climb down a rope.
+27) 0) text: Colwyn reaches the ground and signals Ynyr, who unties th rope from the glaive and secures it around his waist. The he lowers the rope over the glaive, which allows Colwyn t lower him down the side of the Needle.
+28) 0) text: A Dark One watches them from the top of the cliff, its re eyes peering over the edge. The thing moves quickly down rock face, with only an occasional scrape or flash of cla to mark its descent. At the bottom of the cliff, the red eyes appear above a r - only a few yards from Colwyn. But before it can attack, trident flashes through the air and strikes the thing squ in the face, the outer prongs of the weapon piercing the eyes. We hear a death grunt, then the sound of a body falling. Colwyn turns, but sees nothing. He lowers Ynyr to the gro and they set off across the valley floor.
+29) 0) text: The golden glaive stands upright on Colwyn's outstretched palm. Ynyr kneels beside him.
+29) 1) dialog: Focus on the glaive. Colwyn tenses with concentration. The glaive begins to sp at first slowly, then faster and faster until it's a gold blur.
+29) 2) dialog: Reach out with your mind. Reach out to Lyssa. Colwyn furrows his brow in concentration.
+29) 5) dialog: Reach out farther. Call to her.
+30) 6) dialog: (to Colwyn) Where? We must know where she is. Colwyn's face is bathed in sweat, his hand clenched tight
+31) 2) dialog: Enough, boy. But Colwyn continues to concentrate.
+31) 3) dialog: Enough! Ynyr slaps him sharply, knocking him backward. The boy li exhausted, breathing heavily.
+31) 4) dialog: You must break when the strain becomes too great, or you will harm yourself. And you must concentrate your powers for when they are needed most. What did she answer?
+31) 6) dialog: It is the Fortress of Krull. I know it only from the stories of wars on other worlds. They did not use it on our world in the first great war, for it costs them enormous power. This time they mean to conquer, at all costs.
+31) 8) dialog: Yes. Each dawn it rises in a different land: sometimes in the mountains, sometimes in the jungle, sometimes the desert, sometimes the sea. Never in the same place twice.
+31) 10) dialog: No. They occupy the Fortress, but they cannot control its movement. It is moved by Fate. And, sooner or later, Fate will place it near us.
+31) 12) dialog: You have not slept in two days.
+33) 0) text: Colwyn and Ynyr are about to cross the tiny stream, when suddenly a small white cloud materializes above the water bulging and gyrating, affording brief glimpses of feet an hands, as if a small man were trying to escape. As Colwyn jumps back, drawing his sword, the cloud vanishes with a and the small man, ERGO, is plopped on his seat in the wa (which is only a few inches deep).
+33) 10) dialog: The forest is not safe these days. You'd best travel with us.
+34) 0) text: As Colwyn, Ynyr, and Ergo cross the clearing, Ergo steps a snare-trigger and is suddenly hoisted into the air by h foot. Colwyn draws his sword and turns to face five armed men who step out of the forest. They're a rag-tag bunch, garbed in various kinds of chain-mail and armed with a bizarre variety of weapons.
+34) 15) dialog: (to Colwyn) You choose these?
+35) 5) dialog: There's terror to gain. Their wealth is fear: they get it with fire, they spend it to rule.
+37) 0) text: Torquil and Ynyr talk to several PEASANTS at the edge of clearing while, in the center, Ergo tends the cooking fir beside which Colwyn lies asleep. Ergo's face lights up wh he sees Kegan arrive with a stag across his shoulders, an he snick-snacks his carving knife in anticipation. But Torquil has Kegan turn over the stag to the peasants, whi nearly gives Ergo apoplexy.
+38) 2) dialog: The one with red eyes was a Dark One, the other was a Cyclops, and it was not you he meant to kill.
+38) 4) dialog: If that were so, you'd be dead now. He was aiming at the Dark One, for there is ancient hatred between them. Once his race had two eyes, like other men, until his forefathers bargained with the Dark Ones: they gave up one of their eyes in return for the power to see the future. But they were cheated, for the only future they were permitted to see was the time of their own death.
+38) 6) dialog: (nods) Everyone of his race is born knowing the day of his death.
+38) 8) dialog: No. They are sad, solitary creatures, rarely seen.
+39) 0) text: The band is asleep, Torquil on guard. As the eastern hori grows light, Torquil wakes Ynyr and Colwyn.
+40) 2) dialog: What do you see?
+41) 10) dialog: Yes, they knew of your first contact, so they drove her below.
+41) 12) dialog: The deeper she goes, the harder it is to contact her. Once she is below the second level, you will not be able to reach her at all.
+41) 14) dialog: (hand on his shoulder) We'll seek an Emerald Seer. They have great powers of vision.
+42) 2) dialog: (coming up) Many have perished in that maze.
+43) 2) dialog: He didn't join them. They joined him.
+43) 4) dialog: He is the King.
+44) 3) dialog: We seek the Fortress of Krull.
+44) 5) dialog: The new King.
+44) 7) dialog: (answering smile) You know the voice.
+44) 9) dialog: It is the time.
+44) 12) dialog: Yes. It is the Western Ocean.
+44) 20) dialog: The Dark Ones will appose you with all their power.
+45) 0) text: While Ergo and Titch tend the cooking fire, robbers leave hunt and others return with small game. Sitting against one of the stone dolmens, Colwyn tries to contact Lyssa, the glaive spinning in midair in front of him. Ynyr and Torquil look on.
+45) 2) dialog: She is too deep. The curved tunnel we saw is part of the Vortex, the place of The Beast.
+45) 4) dialog: Yes. (to Colwyn) Like you, a King. A King of many worlds. All enslaved.
+45) 6) dialog: No. Then they were led by his underlings. But I knew he had come this time, from the ferocity of their onslaught, from their use of The Fortress. They use up much of their strength to do these things. They are taking great risks.
+45) 8) dialog: (evasive) I'm not sure.
+45) 10) dialog: You will know, in good time. At the cooking fire, Kegan arrives with a string of small game.
+50) 0) text: The Cyclops stands near the spot where the real Seer was killed. He moves downstream a few yards - and suddenly se the Seer's body floating in the water, caught against the rocks. He realizes immediately that the band is in great danger; he races up the path toward the camp. As Colwn leads the Changeling down the path, we see the h on his shoulder turn into a claw. The claw is moving towa his neck when suddenly the Cyclops bursts from the trees front of them. Colwyn stares in disbelief as the Cyclops hurls his trident straight at him. The weapon whistles pa his ear and slices off the Changeling's arm at the should Colwyn spins, sees the red eyes, ducks backward as the Changeling swipes at him with his other hand - now become claw. He draws his glaive as the Changeling reverts entir to bestial form, its hideous black body bursting the seam of the emerald-green robe. As the creature springs at Colwyn, we see, for an instant the horrible face: teeth flashing, eyes burning. Then Colwyn's glaive strikes between the eyes. Slit by the horizontal blades of the glaive, the eyes explode in a bu of red and the thing dies with a scream. Torquil, Ynyr, and others run up. The body of the creatur has already turned to ash, forming the characteristic Vor of the Dark Ones.
+50) 2) dialog: Yes. It chose the Seer's form so it wouldn't have to show its eyes.
+52) 0) text: Colwyn, Ynyr, and Torquil sit by the fire while the other sleep.
+52) 1) dialog: I must go to the widow. Perhaps she will help.
+52) 3) dialog: Yes.
+52) 5) dialog: She has the power of vision.
+52) 7) dialog: Perhaps she will not kill me, for I know her name.
+52) 9) dialog: She had another name once.
+52) 11) dialog: There is no other way. You asked me why the Beast had come this time.
+52) 13) dialog: He has come for Lyssa.
+52) 15) dialog: Like you, she has extraordinary powers. He would make her his Queen.
+52) 17) dialog: No. She must agree of her own free will.
+52) 19) dialog: You are young. You don't understand the attraction of great power, and you forget the pain of long waiting.
+52) 21) dialog: Yes. On the other side of the fire, Ergo lies awake, watching Titch, who is asleep next to him, his face tear-stained. Cyclops sits nearby, leaning against a stone, one hand on his trident. His eye is closed; he appears to be asleep. Ergo sits up, takes his spellbook, and sneaks off behind stone. The Cyclops opens his eye and watches as Ergo thum through the book, mumbles a spell, and disappears in a gyrating white cloud. When the cloud disappears, Ergo has transformed himself into a puppy. The puppy trots over to the sleeping Titch and licks his face. The boy stirs, ope his eyes, and hugs the puppy to his chest.
+57) 3) dialog: Few have survived it.
+58) 3) dialog: You will be devoured by your own mind. Colwyn and Torquil help the old man, Ynyr, while the Cycl takes care of the two little ones, Ergo and Titch, someti lifting one in each hand to deposit them on the next root The Slayers reach the edge of the Swamp and dismount. Swe and the Chief Slayer lead them in. The band is halfway across the Swamp when Colwyn suddenly slips and plunges into the water.
+58) 10) dialog: (to Torquil) He thinks you betray him with Lyssa. (to Colwyn) Colwyn! The waters deceive you!
+58) 11) text: He sees Ynyr stand and talk to someone behind the tree.
+58) 12) dialog: I have delivered him into your hands. Now pay me the price we agreed on. A black claw appears, pouring gold coins into Ynyr's hand
+58) 15) dialog: He sees betrayal everywhere. He will attack us so long as he is conscious. They glance anxiously at the Slayers, closing quickly. Ti reaches into Ergo's voluminous coat and pulls out a soup ladle, which he throws at Colwyn. The ladle catches Colwy in the forehead, knocking him unconscious - but also knocking him backward in the water, out of reach.
+59) 0) text: The band emerges from the Swamp, which laps at the foot o the Widow's Mountain. Ynyr faces Colwyn and Torquil.
+59) 1) dialog: From here, I must go alone.
+59) 3) dialog: (with peculiar emphasis) You must never know her name. (pause) If more than one approaches, she will certainly kill them. Alone I may have a chance.
+59) 5) dialog: (nods) Each to his fate. Wait for me at the inn. If I am not back by dawn, you will know my fate, and you must go on without me. He turns and starts up the mountain. At the rear of the group, the Cyclops heads toward a fore carrying Titch on his shoulder.
+62) 0) text: Ynyr climbs toward the hourglass opening of the Widow's c above, lit by an eerie light from within.
+63) 0) text: A gigantic web of crystal stretches across a vast, domed cavern, shimmering in the luminescence from below. At the center of the web is a domed cubicle, made of criss-cross ribbons of mirror glass. Light flashes off the mirrors in such a way that it is impossible to see, through the openings, who or what is within. The blinding effect does not occur inside the cubicle, so that a POV SHOT from inside shows the entire web clearly. also shows, reflected from hundreds of facets on the insi of the structure, the face of the WIDOW, the old woman wh sits at the center: a hideous crone, grotesque and distorted. She sees Ynyr standing at the edge of the web.
+63) 3) dialog: (shouting) I am Ynyr. I seek the Widow. But sound does not pierce the cubicle. From inside it, on can only see his lips moving. Ynyr steps onto the web and starts toward the center. Whe he's halfway across, he turns to see a giant black widow spider made of crystal, entirely translucent except for a red hourglass in the center of its crystal abdomen. As th spider approaches Ynyr and prepares to attack, the red co expands, filling the abdomen first, then spreading throug the rest of the body. Ynyr holds up his glaive. The spider stops, begins moving sideways; the redness fades. Inside the cubicle, the hourglass sand has almost run out. The spider twitches a crystal strand, throwing Ynyr off balance and causing the glaive to fly from his hand. It sticks in a crystal strand, too far to reach. Ynyr is helpless. The spider advances, reddening.
+63) 4) dialog: (desperate shout) Lyssa! This name has the power to pierce the soundproof cubicle: the Widow stands as she hears the name, ECHOED by the hug cavern.
+63) 6) dialog: (shouts) Ynyr! She watches as the spider looms over Ynyr. Then she reach behind her and turns the hourglass, just as the last grai of sand run out. This causes the spider to back away, turning translucent again. Ynyr retrieves the glaive and makes his way to the domed cubicle. He enters the cubicle to find the Widow facing away from him, though he can see her hideous face reflected back by the mirrors in front of her.
+63) 8) dialog: It is fifty years since I spoke it to you.
+63) 10) dialog: The most beautiful woman in the world.
+63) 12) dialog: Could not. Could not betray the girl to whom I was betrothed.
+63) 14) dialog: No, she was not as beautiful.
+63) 16) dialog: We had no children.
+63) 18) dialog: (staggered) You said nothing. You told me nothing.
+63) 20) dialog: Where is he? My son.
+63) 23) dialog: It is no trickery.
+63) 25) dialog: You see?
+63) 27) dialog: Memory is no trick, it is a power. The power to see.
+63) 29) dialog: Knowledge.
+63) 31) dialog: The Fortress of Krull. When will it come near here?
+63) 33) dialog: There is a girl there. Her name is Lyssa.
+63) 35) dialog: (touches her cheek) Could I lie to you and still see your beauty?
+63) 37) dialog: A young man seeks her. A young man about the age I was when I met you.
+63) 40) dialog: Then the other Lyssa will share your fate. She will grow old in the Fortress as you have grown old here. The Widow takes a small gold hourglass from a mirrored niche.
+63) 43) dialog: I cannot stop the sand.
+63) 45) dialog: You will come with me.
+71) 0) text: Ynyr, having just returned from the mountain, confers wit the band outside the inn.
+71) 1) dialog: We must reach the Valley of Reeds before the next dawn.
+71) 10) dialog: (low, to Cyclops) It is dangerous for you.
+72) 2) dialog: No. He will master the leader. The fire-mares charge past the Cyclops, who disappears in cloud of smoke and steam and spray. They wheel and charge again, circling him. He fixes his eyes on the lead mare, pulls out of the circle and comes toward him. The Cyclops places his hand on the mare's muzzle and the horse stands quietly. The others follow suit, forming a circle around him.
+73) 10) dialog: (to Colwyn, as they ride) He ran a great risk, helping us today. If he opposes his fate, his death will be terribly painful.
+78) 4) dialog: It is not necessary. They will not follow.
+79) 0) text: The band moves down the stairs. Above, the Slayers reach the stone door, but they're clea reluctant to descend. One steps forward and starts down - but then hears the eerie screams of the Dark Ones below. scurries back up and, with the others, backs away from th door. On the stairs below, the eerie screams are deafening, echoing through the stone corridors. Ynyr leads the band, taking them down the stairs, across a landing, and down another flight of stairs. Torquil notices mortar crumbling between the stones of th staircase.
+79) 2) dialog: Yes, they are weakening. It takes great power to maintain the Fortress, and they have expended much.
+81) 6) dialog: (touches Torquil) This is the Cavern of Age. Touch nothing, take nothing, or the future will be plunged into your heart. Torquil shudders as he looks at the old man he will becom horrified by the gaping face of his own future. Colwyn ta his arm and gently pulls him away. But the Priestess of Youth slips ahead, appearing again with the Young Torquil this time in passionate embrace. As she caresses the yout she holds out the goblet to Torquil.
+81) 20) dialog: It is too late. He has drunk. The Priestess embraces Kegan. As they kiss, a rainbow arc down and envelopes them in its multi-colored light. But t colors soon fade and the rainbow becomes an arc of white light, growing brighter and more intense. In the blinding light, the Priestess begins to age, turning old before ou eyes, as does Kegan himself. The others watch, frozen in horror, as Kegan struggles to escape her embrace. But she clutches him with bony finger pressing her wrinkled mouth to his. They topple to the floor, writhing in each other's arms, their skin turning parchment. The writhing stops. Two skeletons lie on the floor, locked in fatal embrace, the white bones shimmerin in the arc of light. As the others continue through the cave, Ergo takes Titch hand and places it on his arm.
+82) 1) dialog: (to Colwyn) They will hold Lyssa in the Center of the Vortex, the place of the Beast, where its power is greatest. No man can match it there. Lyssa must try to move toward us. For as we enter the Vortex and move closer ...
+82) 3) dialog: Yes. To keep her from you. But now that we are inside the Fortress, you will be able to contact her. Colwyn kneels on the floor, elbow on knee, bending his forehead against his hand in concentration.
+83) 4) dialog: (hand on Colwyn's shoulder) She must make a glaive.
+83) 11) dialog: (to Colwyn) West.
+83) 14) dialog: (to Colwyn) The spiral begins in the west.
+88) 0) text: Ynyr leads the band down the Arm.
+88) 1) dialog: (worried) We should have reached her by now. Colwyn stops, furrows his brow in concentration.
+88) 6) dialog: (covers his eyes) I chose the wrong passage.
+88) 8) dialog: Use your sword.
+88) 10) dialog: (points to wall) Cut. Cut! Colwyn stares at him for a moment, then unsheathes his sword, grips it with both hands, and swings it at the sto wall. The blade strikes the stone with a spine-shivering clang. He swings again - another clang. But on his third swing, the blade bites into the rock, sinking to a depth several inches. On the next swing, the blade penetrates deep into the roc and on the next, it slices all the way through, tearing loose chunks of stone. Colwyn swings the sword back and forth like a scythe, cutting his way through the solid ro spraying fragments behind him. In the other passage, Lyssa presses herself against the wall, watching the Beast's eyes come closer. Suddenly, a chuck of rock bursts out of the wall near her as Colwyn c through. He seizes her arm and pulls her through the hole into the adjacent passage. Ynyr lays a hand on Colwyn's shoulder as he embraces Lyss
+88) 11) dialog: You must move quickly. The Beast will stop at nothing now.
+88) 13) dialog: (shakes his head no) It is my fate to die in the Fortress.
+88) 15) dialog: I can. Because I choose it.
+88) 18) dialog: You cannot stay. You must both escape the Fortress or else this world is doomed.
+89) 0) text: The Beast moves toward the hole in the passage wall. RESUME - COLWYN ET. AL. They hear the Beast tearing at the stone wall, enlarging hole to allow it to pass through. Ynyr nudges Colwyn and Lyssa up the passage.
+89) 1) dialog: Go now. (turns to Torquil) Quell was wise. He knew that a man cannot ask more of his death than it help his friends.
+89) 3) dialog: (smiles) Take care of Ergo.
+89) 6) dialog: You and I were destined to meet, my friend. He flings his glaive, which flies to a point ten feet in front of him and hangs in midair, glowing.
+89) 7) dialog: And I am not so old that I can be swatted like a fly. He thrusts his hand forward - the glaive leaps toward the Beast, giving off a blinding light. The Beast roars and retreats.
+89) 8) dialog: No, not so old as that, my black beauty. Now the red eyes narrow as the Beast focuses its power on the glaive. The weapon is pushed backwards, slowly but surely.
+89) 9) dialog: Yes, you will have to attack me directly to kill me. I will cost you power, my dark friend. Much power. He thrusts his hand out and the glaive leaps forward - bu only a few feet this time. The Beast's power stops it, th continues to push it back toward the old man. He holds ou his clenched fist and stops the glaive about five feet in front of him. The Beast's power is so tremendous, however that the arms of the weapon begin bending backward. Suddenly, one of the horizontal arms snaps off and flies toward Ynyr, grazing his shoulder. He staggers back, but manages to hold the glaive steady. The other horizontal a snaps off and buries itself in his chest. He goes down on one knee but continues to hold the glaive steady, though weapon is now reduced to its vertical axis. Finally, his strength gives out. He drops his arm. The vertical blade spins toward him and pierces his throat. T beast moves past his crumpled body, up the passage.

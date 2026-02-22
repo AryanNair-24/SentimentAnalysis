@@ -1,0 +1,39 @@
+14) 6) text: Behind the main counter a convoluted Rube Goldberg-esque STILL is running. An ENGINEER in a leather apron pours th remnants of a can of motor oil into the still's funnel.
+14) 7) text: Attached to the still is an old MOTORCYCLE MIRROR. In its reflection the engineer sees Eli checking out the store.
+14) 9) text: Eli turns toward the counter - to find the engineer train a PUMP-ACTION SHOTGUN right at him.
+14) 11) dialog: I don't know you.
+14) 16) dialog: No shit. Who are you?
+14) 20) dialog: A customer with a shotgun?
+14) 23) dialog: You come in here to rip me off?
+14) 24) text: The engineer's hands tremble, his finger tight on the trigger. This man needs to be talked down carefully.
+14) 28) dialog: Slowly!
+14) 31) dialog: You carry a gun in the outland, you don't bring one into town less you live there. Don't you know that?
+14) 37) text: This seems to make the engineer more suspicious of Eli.
+14) 39) dialog: Show me your hand.
+14) 42) text: The engineer jerks the shotgun at Eli nervously.
+14) 44) dialog: I said show me your fucking hand!
+14) 45) text: Eli raises his hand and holds it outstretched, palm faced downward. The engineer watches it closely for any sign of ticks or tremors, but Eli's hand stays steady as a rock.
+14) 50) dialog: What do you want?
+14) 54) dialog: What kinda help? And what kinda pay?
+14) 57) text: The engineer raises the shotgun nervously again.
+14) 60) text: The engineer watches him like a hawk as Eli opens up his and pulls out the car battery. When he sees it, he gasps.
+14) 62) dialog: Holy shit.
+14) 63) text: Eli places it on the counter. The engineer looks it over awe, like it's a priceless historical artifact.
+14) 65) dialog: Where'd you find this?
+14) 72) dialog: Does it work?
+14) 76) dialog: Depends if you also got the coin.
+14) 77) text: Eli pulls the Zippo lighter from his pocket. The engineer picks it up, sparks the flint, watches the flame flicker.
+14) 79) dialog: It'll take a couple hours. There's a bar across the street you can wait, they just opened up.
+14) 83) dialog: You don't trust me?
+21) 1) text: Eli watches as the engineer charges the battery with the generator, which chugs noisily.
+21) 6) dialog: We got our own underground spring here. Only fresh water in a hundred miles - if's you can pay for it.
+21) 10) text: Eli stops in the doorway and turns back to the engineer.
+21) 13) text: And with that he turns and leaves. The engineer gulps. No hint in Eli's voice that he didn't mean every word.
+29) 1) text: The engineer stands behind the counter, looking worried. heart sinks when he sees Eli enter.
+29) 3) dialog: Oh, shit...
+29) 7) dialog: It's, uh... it's gonna take a little longer than I thought.
+29) 11) dialog: It's gotta charge overnight. You, uh, you can always stay here in town, pick it up in the morning.
+29) 19) dialog: It's right here! It's just gonna take a while longer. I swear.
+29) 20) text: Eli looks at the engineer. Hard to be certain, but he's pretty sure he's lying. Somebody got to him.
+38) 1) text: His hands shaking, the engineer disconnects Eli's battery from the generator and places it on the counter.
+39) 16) text: They turn to face the engineer's storefront - just as ELI EMERGES ONTO THE STREET, shotgun still in his hand.

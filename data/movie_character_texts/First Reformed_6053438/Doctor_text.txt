@@ -1,0 +1,7 @@
+64) 0) text: MONTAGE of shots from a physical examination: --a scale is adjusted to record Toller’s weight --a DOCTOR takes his temperature --blood pressure taken --The Doctor taps his back --urine collected --blood drawn --chest x-ray cur TO:
+68) 2) dialog: We like to do a gastroscopic exam. We lower a fiber optic camera down the throat and esophagus and take a look around. It’s an outpatient procedure with local anesthetic. You should be able to leave by mid afternoon.
+68) 4) dialog: We want to check for evidence of malignancy.
+68) 6) dialog: It’s a possibility. Cancer is not the fearsome medical foe it once was.
+68) 10) dialog: How recently? (no response) I would like to schedule the gastroscopy as soon as possible. We have an open slot the week after next. What is your diet?
+68) 12) dialog: Do you smoke? (Toller shakes head) Drink?
+68) 14) dialog: That needs to end. I’m writing a prescription that will help with the stomach pain. I want you to take nutritional supplements. You should put on a little weight. Nutrihelp is a good over the counter supplement. Drink a bottle morning and night. Are you in pain now?

@@ -1,0 +1,118 @@
+2) 2) dialog: He's been dying for ten years.
+2) 5) dialog: How do you know that?
+2) 8) dialog: (a smile)
+2) 11) dialog: Peace, Commodus.  After two weeks on the road your incessant scheming is hurting my head. A beat.
+2) 13) dialog: The first thing I shall do is have a hot bath. The wagon rumbles to a halt.  Voices are heard outside. Commodus leaps out...
+3) 10) text: Take me to my father. He leaps onto the horse and canters back to the Praetoria Guard unit. Soldier #2 climbs on his horse and leads them.  Commodus rides off with most of the Praetorian Guard unit. Lucilla peeks her head from the wagon.  She glances at th remaining soldiers.  Distinctly unpromising.
+3) 11) dialog: (dry)
+13) 16) text: Lucilla would eat every corpse here if it brought her one step closer to the throne. Maximus laughs.
+17) 0) text: Marcus is helped out of the mess tent into a tent corrido attached. He sees his daughter Lucilla in the corridor, spying in through the slit in the tent wall.  He watches her, smiles.
+17) 2) dialog: Father.
+17) 4) dialog: You're right.
+17) 6) dialog: I would have been what you taught me to be. A beat.  They stare at each other.  He finally smiles.
+20) 2) dialog: Even over his son.
+20) 5) dialog: Maximus, stop... (he stops)
+20) 7) dialog: You've been crying.
+20) 9) dialog: What does my father intend? He turns and walks.  She walks with him.
+20) 11) dialog: You're lying.  I could tell when you were lying even when we were children.  You hate it.
+20) 13) dialog: True.  But then you never had to. Maximus, stop... (he stops again)
+20) 16) dialog: And you are hurt to see my father dying. A beat.
+20) 17) dialog: He will announce Commodus' succession.  That's why he summoned us.  Will you serve my brother as you served his father?
+20) 19) dialog: Do you know I still remember you in my prayers...?  Oh yes, I pray... Ever since that day you saved me from drowning off Capri.  Do you remember?
+20) 21) dialog: Commodus was so angry that a mere peasant -- a Spaniard no less -- touched the royal person, do you remember his anger?
+20) 23) dialog: Mark this, Maximus:  that is the man who will be Emperor. A beat.
+20) 25) dialog: There was a time when you didn't call me "Highness."
+20) 27) dialog: (quietly)
+25) 0) text: Maximus and Quintus stride into the tent -- Maximus slams to a halt.  Stunned. Commodus stands before him.  Lucilla stands in a corner o the tent, head down. And Marcus Aurelius dead, lying on his bed. Maximus stares at Marcus.
+25) 8) dialog: Hail, Caesar.
+35) 0) text: Lucilla stands in Maximus' tent.  She looks around.  She gently touches his Lorica Segmentata.  Her fingertips mov along the contours of his armor.  She tries to retain her neutral demeanor. She notes his "ancestors" on the small alter.
+52) 0) text: Emperor Commodus is standing before a group of male children and their tutors in his throne room. The throne room is still very much the province of his father.  Manuscripts and astronomical charts and papyrus scrolls and wax tablets litter the heavy desk.  A large bust of Marcus Aurelius is in one corner. Lucilla and Senator Falco are present.  So too Senators Gracchus and Gaius and Captain Marcellus. A well-rehearsed child presents Commodus with a laurel wreath.
+52) 33) dialog: Gentlemen, in the future do not concern my brother with these matters.  Come to me. She sweeps out. A beat.
+58) 0) text: Commodus sits on his bed, rubbing his aching head. Lucilla is preparing a drink for him, a medicinal tonic.
+58) 2) dialog: (mixing tonic)
+58) 4) dialog: Leave the Senate to me.  Don't trouble yourself.
+58) 6) dialog: Shhh.  The tonic will help... She takes a sip and then hands it to him.
+58) 7) dialog: Yes, just drink this down. She sits on the edge of the bed.  He drinks as:
+58) 9) dialog: Our father lost his way.  His mistake was believing the old songs of the "Republic."  We know better. So let the Senate talk.  They have no real power.
+58) 13) dialog: (smiles gently)
+58) 17) dialog: I'll stay with you until you are asleep.
+59) 0) text: Lucilla moves down a long corridor in the palace and blow out candles as she goes. She finally arrives at her own chamber and enters...
+60) 1) dialog: He's asleep.  Be quick.
+60) 3) dialog: Good.
+60) 6) dialog: Can they be bought?
+60) 10) dialog: And they've started arresting scholars now.  Anyone who dares speak out -- even satirists and chroniclers.
+60) 13) dialog: The future.  The future pays for it... A beat.  She looks at them.
+60) 14) dialog: He's started selling the grain reserves.   
+60) 17) dialog: He's selling Rome's reserves of grain.  The people will be starving in two years.  I hope they are enjoying the spectacles because soon enough they will be dead because of them.
+60) 19) dialog: And who will tell them?!  You, Marcellus?  You, Senator Gaius? Will you make a speech on the Senate floor denouncing my brother?  And then see your family in the Colosseum?  What town-crier would dare? A long beat.
+60) 20) dialog: He must die. A beat as her words sink in.
+60) 22) dialog: No -- cut off the head and the snake cannot strike.
+60) 25) dialog: What about the army?
+60) 27) dialog: So we do nothing?! A door opens, a voice...
+60) 30) dialog: (going to him)
+60) 38) dialog: Lucius, you go in now, I'll be in shortly.
+60) 42) dialog: What are you going to do? Gracchus goes to her, holds her.
+70) 0) text: At last we see it. The mighty Colosseum Arena. Nothing we could have possibly imagined could have prepared us for the sight of the thousands and thousands of screaming spectators, the row after row of cheering faces. It is staggering. But for Maximus none of this exists.  His full attention is focused on one spot alone.  The Imperial Box. He can see Commodus and Lucilla sitting in the box.  The box is elevated fifteen feet above the arena floor at the top of a sheer black marble wall.  A cohort of fifty imposing Praetorian Guard Archers surround the box. Commodus' personal Body Guard of six Centurions actually stand in the box itself, eyes constantly watching like modern Secret Service agents. Commodus is untouchable. Meanwhile, three teams move from different entrances to the arena. As Cassius orates to the crowd:
+71) 0) text: To our great surprise, Commodus is not raging.  He sits quietly on the polished marble floor in front of a model of the Colosseum.  He moves model pieces around in the Colosseum, planning his festival. Lucilla stands, tense.
+71) 2) dialog: I don't know.
+71) 5) dialog: Mmm.
+71) 9) dialog: What are you going to do?
+71) 11) dialog: Good.
+71) 14) dialog: When he defies my brother the Emperor, he defies me.  But you shouldn't send assassins.
+71) 16) dialog: The people embraced him today.  They will be expecting his next match... (she kneels next to him)
+72) 6) text: General, perform well and there will be riches for you. He beckons to Juba, they go, shutting the door behind them.  The woman pulls off her cloak, it is Lucilla. Maximus glares at her, his muscles tensing.
+72) 7) dialog: Rich matrons pay well to be pleasured by the bravest champions. Maximus backs up, fighting the urge to strangle her on th spot.  He finally bumps into a wall of the cell.
+72) 9) dialog: Maximus, listen to me --
+72) 11) dialog: I knew nothing of that.
+72) 14) dialog: I wept for them.
+72) 16) dialog: Do you know what it is to be the daughter of the Emperor?  I learned on the night my father had my husband killed.  I loved my husband very much.  Very... simply.  He was a man who believed in the Republic. He was a man who thought Marcus should be tending to Rome and not conquering the world.  One night my father had him strangled for conspiring with the Senate.  My father never spoke of it.  I never spoke of it.  That is what it is to be the daughter of Rome. She finally looks up at Maximus.
+72) 17) dialog: My son will live.  He will survive this cursed bloodline.  Rome will die and the jackals will pick her clean -- but my son will survive. Empires come and go.  Cities crumble to dust.  Only family matters. A beat.  Despite himself, Maximus is moved.
+72) 19) dialog: So is mine. A beat.
+72) 21) dialog: So do I. A beat.  Maximus is surprised at her direct answer.
+72) 22) dialog: My son will never be safe while he lives. A beat.
+72) 24) dialog: The Senate is with us, and the City Guard.  We have growing power in the streets.  But we need a leader. Someone the people can --
+72) 26) dialog: No.  So that my son will be safe. So that we may leave this charnel house forever and never look back. Look into my eyes, Maximus, and believe what I say to you... She rivets him intensely with her eyes.
+72) 27) dialog: By all the Gods, and in the name of my father who loved you, and in the name of the husband I loved... I swear to stand by your side in this now and always. A beat.
+72) 29) dialog: Lucius Verus.  Like his father.
+72) 31) dialog: Commodus plans to kill you in your next match in the arena.  He's planning something.  I will pray for you.  As I have always done. She then pulls something from her robes and sets it down, a little bundle wrapped in cloth.  She sweeps out.  The sound of the door being bolted shut on the other side. Maximus stands for a moment and then goes to what she has left.  He opens the cloth.  Inside are his six "ancestor" figures. He picks up one of the figures.  He looks at it deeply, gently feeling along the contours with a finger.
+73) 0) text: The Colosseum is again packed.  Commodus, Lucilla and her son Lucius are in the Imperial Box. It is late in the day and teams of slaves are cleaning th arena after a bout.  They haul off carcasses and toss dow fresh sand. Meanwhile, Cassius is orating to the crowd:
+76) 10) dialog: Lucius, run along now.  I need to talk to the General. Lucius runs off to his Male ATTENDANT, who leads him away A long beat as Maximus and Lucilla look at each other. Finally:
+78) 0) text: Lucilla conspires with Senators Gracchus and Gaius and Captain Marcellus in a dark corner of the Senate. Whispers.
+78) 1) dialog: ... Maximus will summon his army from Ostia and he will strike from the inside as his army strikes from the outside.  But he insists that the Senate be present.
+78) 3) dialog: How many are with us?
+78) 6) dialog: I'll arrange it.
+78) 8) dialog: He has withdrawn.  He's not eating. He doesn't go out.  He won't even see me... I don't know what tempests rage within him but...
+78) 10) dialog: Yes. A beat.
+82) 0) text: Maximus and Juba are with Lucilla and Gracchus.  Lucilla is writing on a piece of parchment.
+82) 2) dialog: And they will march on Rome for you?
+82) 4) dialog: Captain Marcellus will take it.  And his City Guard will by with you when you get to Rome.  Is that enough to face the Praetorian Guard?
+86) 0) text: Lucilla is with her HANDMAIDEN.  They sit before a large mirror, the Handmaiden perfecting Lucilla's makeup for th day. One of Commodus' Centurion Body Guards enters, bows.
+87) 0) text: Lucilla strides quickly, nervously, down the long corrido to Commodus' chambers.  She enters...
+88) 1) dialog: Caesar... He turns.  She stops. He looks as if he has not slept for days.  If a word coul now sum up his clouded face it is this:  tormented. She goes to him, embraces him.  He holds her tightly.
+88) 3) dialog: Of course... He moves away from her, slowly moving around the room.
+88) 6) dialog: Brother, do not be influenced by the mob.  They are a great, faceless beast --
+88) 9) dialog: They see themselves in him.  They throw in their own sad dreams alongside his.  They think he fights for them.
+88) 12) dialog: And what if he should win? A beat. Commodus continues to slowly move around the room.
+88) 14) dialog: Caesar, you let this unduly worry you.  At best he is a passing fancy -- he is a name, an image on a banner, ephemeral -- he will be forgotten as the next fancy appears --
+88) 16) dialog: Mercy. He stops.  Looks at her.
+88) 17) dialog: He will not kill in the arena.  He is merciful.  As they all wish they were in their own hearts. Something in her words has struck a chord in him.
+92) 0) text: Commodus sweeps in.  Thinks Lucilla is standing there. The woman turns, it is Lucilla's Handmaiden.
+93) 14) text: You might have spared yourself the speech, General.  The lady Lucilla bought all my gladiators two hours ago!
+94) 0) text: Maximus enters.  Lucilla is waiting, extremely tense.
+94) 2) dialog: Don't even say it.  I know it's dangerous -- but I had to see you. Captain Marcellus has gone to the army with your message as you instructed.
+94) 4) dialog: He says the City Guard will be ready at the south road at noon.  They can only wait for an hour so --
+94) 6) dialog: Did I?  All right then.  So everything is prepared.  The Senate will be in attendance and you have your gladiators -- the usual cohort of Praetorians will be inside the arena --
+94) 8) dialog: Tell me honestly... please... do you think it will work? A beat.
+94) 10) dialog: Do you think we'll all die?
+94) 12) dialog: Will you swear something to me?
+94) 14) dialog: Will you swear it on the memory of your son? A long beat.
+94) 16) dialog: By all that you have ever loved... swear that if you survive you will take my son out of Rome.  Swear that you will go far away and never return. He steps to her.
+94) 20) dialog: I will. A long, difficult beat.  She fights back tears.
+94) 21) dialog: Had I not been the daughter of Rome... He puts a gentle finger to her lips.
+95) 0) text: Lucilla enters, deep in thought, still drained from her meeting with Maximus. She suddenly stops.  Frozen. Commodus is sitting across the chamber, Lucius at his knee.  An open scroll on Commodus' lap.
+95) 8) text: And just wait until you hear what happened to some of our other ancestors!  If you're very good, tomorrow night I'll tell you the story of Emperor Claudius.  He was betrayed!  By those closest to him... (he glances up to Lucilla)
+95) 9) text: ... by his own blood... they whispered in dark corners and went out late at night and conspired and conspired... Lucilla looks as if she is going to be ill. Lucius is busy scanning the scroll.  Commodus gently strokes his hair, his cold eyes never leaving Lucilla's.
+95) 14) text: The bee told him everything. Lucilla's face is tortured.
+113) 3) text: With these hands I shall destroy your enemies so that you may sleep always and forever in peace.  From this day forth let it be known that I, Lucius Aelius Aurelius Commodus, have surmounted mortality.  That I, Lucius Aelius Aurelius Commodus, assume my destined place... at the side of the Gods. The crowd is stunned.  A few scattered laughs. Lucilla stares at him, disbelieving.
+117) 4) dialog: Remember your mother. She pulls the ceremonial dagger from his little uniform and pushes him to his attendant -- his attendant pulls hi away as -- Lucilla spins to Commodus -- he grabs her into an embrace -- he turns the knife on her -- thrusting deeply as he kisses her -- A long kiss as he holds her tightly to him.  Then he gently sits her down on her throne.  Her eyes wide, dying One of Commodus' Body Guards grabs him:
+119) 0) text: A trap door springs open and the elevator platform rises to the sand of the arena.  Maximus stands above the dead Emperor. The crowd stares in amazement -- and then begins to cheer in joy at the return of their hero.  A chant begins... "Maximus the Merciful... Maximus the Merciful... Maximus the Merciful..." which then grows to a refrain of "Caesar... Caesar... Caesar..." Maximus ignores them, his eyes drawn to one sight: Lucilla. He goes to the steps of the platform leading to the Imperial Box.  He slowly climbs the steps. In the Imperial Box, Senator Gracchus is standing.  So to Juba and others. Lucius is kneeling by his mother, holding her hand, his head down.  Lucilla is dead.  Lucius mourns with quiet dignity. Maximus looks at Lucilla and kneels.  He takes her other hand.  A long moment.  He looks at Lucius. Then he slowly bends forward and kisses Lucilla deeply, the ritual farewell. He stands. Senator Gracchus steps to him:

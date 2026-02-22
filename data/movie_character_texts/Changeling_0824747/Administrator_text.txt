@@ -1,0 +1,11 @@
+102) 11) text: Just then, an ADMINISTRATOR comes in.
+102) 12) dialog: Clark...Sanford Clark.
+102) 13) text: Sanford rises, goes to the Administrator.
+102) 15) dialog: Paperwork's come through. You'll be deported back to Canada day after tomorrow. The police there will to decide what to do with you next. I hope your stay here has convinced you not to try crossing the border illegally in future.
+102) 22) dialog: I'm sure he has far more important things to do than --
+102) 25) text: The Administrator senses that he's sincere, and troubled.
+102) 27) dialog: He's off-duty until tomorrow, but... I'll see what I can do. No promises.
+102) 28) text: And with that, the administrator heads away.
+106) 1) text: It's raining.    The Administrator enters with Detective
+106) 2) dialog: I'm sorry to bring you out in this weather, detective, but the boy has been quite insistent.
+106) 6) dialog: Room seven.

@@ -1,0 +1,387 @@
+1) 0) text: Out of the blackness steps a glowing figure. This is JOY. room is black except for a bright CONSCIOUSNESS SCREEN.
+1) 1) dialog: Hmm? In front of Joy is a single large BUTTON. She pushes it.
+2) 1) dialog: And there she was...
+3) 4) dialog: Whoa. INSIDE OUT 2. Joy rolls the memory on its track, illuminating the room. turns back to the button and pushes it again.
+4) 1) dialog: It was amazing. Just Riley and me, forever...
+5) 1) dialog: ...for 33 seconds. Joy looks to her side. There’s a new, droopy, blue charac touching the button.
+5) 3) dialog: Oh, hello. I’m Joy. Joy tries to muscle past Sadness to press the button.
+5) 4) dialog: Can I just... if you could... I just want to fix that. Thanks. The two struggle.
+5) 5) dialog: And that was just the beginning. Headquarters only got more crowded from there.
+7) 0) text: ON THE SCREEN: Riley’s POV as she runs through the house. Fear “supervises” Joy, who drives. INSIDE OUT 3.
+7) 3) dialog: That’s Fear. He’s really good at keeping Riley safe.
+9) 1) dialog: Whew! /Nice job.
+9) 3) dialog: And we're back!
+12) 1) dialog: Hmm. This looks new.
+12) 4) dialog: This is Disgust. She basically keeps Riley from being poisoned, physically and socially.
+16) 2) dialog: That’s Anger. He cares very deeply about things being fair.
+20) 0) text: A happy memory (golden) rolls in. The others leave Joy alone at the console with Sadness.
+20) 1) dialog: And you've met Sadness. She... well, she... FLASH CUTS of Riley crying: broken toy, spilled ice cream tantrum in the supermarket, wanting out of her car seat.
+20) 2) dialog: I’m not actually sure what she does. And I’ve checked, there’s no place for her to go, so she’s good, we're good. It’s all great! Sadness exits. Joy turns to the wall of golden memories.
+20) 3) dialog: Anyway! These are Riley’s memories-- and they’re mostly happy, you’1ll notice, not to brag. She inspects one of the golden memories: Riley and her fr MEG (both age 3) going down a slide. She REWINDS it, relishing the happy moment.
+20) 4) dialog: But the REALLY important ones are over here. I don’t want to get too technical, but these are called CORE MEMORIES. Joy pops up the CORE MEMORY HOLDER. Inside are five inten bright golden memories.
+20) 5) dialog: Each one came from a super- important time in Riley’s life. Like when she first scored a goal? That was so amazing!
+21) 1) dialog: And each core memory powers a different aspect of Riley’s personality. Like Hockey Island! Five ISLANDS OF PERSONALITY float in space, miles from Headquarters, connected by LIGHTLINES -- their power sour
+21) 2) dialog: Goofball Island is my personal favorite.
+25) 1) dialog: Yup, Goofball is the best! Friendship Island is pretty good too. Joy looks at FRIENDSHIP ISLAND. INSIDE OUT 8.
+27) 0) text: Joy inspects Honesty Island.
+27) 1) dialog: Oh, I love Honesty Island! And that's the truth!
+29) 0) text: Joy examines Family Island.
+29) 1) dialog: And, of course, Family Island is amazing.
+31) 1) dialog: The point is, the Islands of Personality are what make Riley... Riley!
+34) 0) text: Joy projects an IMAGINATION of LAVA onto the screen.
+38) 0) text: Joy skates around the room, in sync with Riley.
+41) 1) dialog: Yaaay! INT. RILEY’S MINNESOTA BEDROOM - NIGHT Parents tuck Riley into bed and turn off the light.
+42) 0) text: Joy watches the screen go DARK. She inspects the shelves mostly populated with GOLDEN MEMORIES.
+42) 1) dialog: And... we’re out. That’s what I’m talking about: another perfect day! Nice job everybody! Let’s get those memories down to Long Term. Joy pulls a lever. Memories cascade down the shelves.
+42) 3) dialog: And that’s it! We love our girl. She's got great friends and a great house. Things couldn’t be better. After all, Riley’s 11 now. What could happen?
+44) 1) dialog: Wha...?
+46) 1) dialog: Huh?
+48) 1) dialog: OK, not what I had in mind.
+49) 4) dialog: Hey look! The Golden Gate Bridge! Isn’t that great?! It’s not made out of solid gold like we thought, which is kind of a disappointment, but still! The car drives past the Ferry Building.
+50) 2) dialog: Uh... yeah.
+54) 4) dialog: Which, actually, was really lucky, because that gave us plenty of time to think about what our new house is going to look like! Let’s review the top five daydreams. Joy plugs in DAYDREAMS showing fantasy houses: tree water-slide house, etc.
+54) 6) dialog: Ohh, this is will be great for Riley! Oh, no, no, no, THIS one. A gingerbread house.
+55) 1) dialog: Now we're getting close, I can feel it. Here it is, here’s our new house... and... The car stops and Riley steps out. house, REVEAL: a run-down Victorian. Nothing like the daydreams.
+56) 1) dialog: Maybe it’s nice on the inside. 13. INSIDE OUT 14.
+58) 2) dialog: Guys, you’re overreacting. Nobody is dying--
+58) 9) dialog: Hey, hey, hey, all through the drive Dad talked about how cool our new room is. Let’s go check it out! INSIDE OUT 15.
+60) 4) dialog: Hey, it’s nothing our butterfly curtains couldn’t fix. I read somewhere that an empty room is an opportunity.
+60) 6) dialog: It doesn’t matter. I read it and it’s great. We’ll put the bed there. And the desk over there... Joy projects an IMAGINATION of Riley’s furniture.
+60) 10) dialog: Now we're talking! Let’s go get our stuff from the moving van!
+62) 5) dialog: I’ve got a great idea! She clicks the IDEA into the console.
+66) 1) dialog: Uh-oh, she put her hair up, we’re in for it! 17.
+68) 0) text: A happy memory rolls in. Joy’s back in charge.
+70) 1) dialog: Wait. Wha--?
+72) 0) text: Joy is disappointed.
+74) 4) dialog: Uh, just uh, gimme one second... You know what I’ve realized? Riley hasn’t had lunch! (takes a memory off the wall and plays it) Remember? MEMORY: A PIZZA SHOP.
+79) 0) text: Joy glances at the wall of multi-colored memories. She si things are not going well.
+81) 0) text: Joy looks out the back window. Family Island is going.
+81) 1) dialog: Oh good. Family is running.
+83) 4) dialog: What about the time with the dinosaur! Joy pulls up a memory.
+85) 0) text: Joy's cheer is cut short when the dinosaur memory TURNS B
+87) 1) dialog: Wait. What? What happened? Joy looks back. Sadness is touching the memory.
+87) 3) dialog: What did you do?
+87) 5) dialog: That shouldn’t make it change.
+87) 7) dialog: I’m trying.
+87) 9) dialog: No, I guess I can’t!
+89) 1) dialog: Just don’t touch any other memories until we figure out what’s going on.
+89) 3) dialog: (stepping up to controls) Alright. Get ready, this is a monster railing, and we are riding it all the way down!
+91) 0) text: Joy looks back: GOOFBALL ISLAND is whirring like crazy.
+93) 1) dialog: Wait, what? What happened? Suddenly a CORE MEMORY ROLLS up to Joy’s feet.
+93) 3) dialog: Oh no! 23.
+93) 4) text: Out the back window, GOOFBALL ISLAND GOES DARK. Joy rushe the Core Memory Holder.
+93) 5) dialog: Sadness! What are you doing?
+95) 3) dialog: Joy pushes Sadness away before she can touch it.
+95) 4) dialog: Whoa, whoa, whoa! The core memory TURNS BACK TO YELLOW.
+95) 5) dialog: Sadness! You nearly touched a core memory. And when you touch them, we can’t change them back!
+95) 7) dialog: You are not having a breakdown. It's stress. 24.
+95) 11) dialog: Nooo, you’re not.
+95) 13) dialog: Well... uh... You know what? You can’t focus on what’s going wrong. There’s always a way to turn things around, to find the fun!
+95) 15) dialog: Okay. Well, try think of something funny!
+95) 17) dialog: Yeah, that’s not... (tries another approach) What about that time with Meg, when Riley laughed so hard milk came out of her nose? I mean come on... INSERT: Riley spitting milk out of her nose, Meg laughing
+95) 19) dialog: Okay, okay, don’t think of that. Let’s try something else. What are your favorite things to do?
+95) 21) dialog: That's good! Like there’s the beach and sunshine... Oh! (MORE)
+95) 23) dialog: Like that time we buried Dad in the sand up to his neck? INSERT: Riley at beach, Dad buried in sand.
+95) 25) dialog: Rain? Rain... is my favorite too! We can stomp around in puddles... INSERT: Riley happily jumps through puddles.
+95) 26) dialog: There’s cool umbrellas, lightning storms...
+95) 29) dialog: Oh, hey, hey... easy. Why are you crying? That’s really the opposite of what we're going for here.
+95) 31) dialog: Ugh, you know what? Let’s think about something else. How about we read some mind manuals, huh? Sounds fun! She drags Sadness over to a shelf of technical manuals.
+95) 33) dialog: Well have you read this one? This seems interesting: “Long-Term Memory Retrieval, Volume 47?”
+95) 35) dialog: Ohhh! A real page turner!
+95) 37) dialog: See? Fun already! You lucky dog, you're reading these cool things and I gotta go work. Life is so unfair. Joy walks away. But just as she thinks things are handled DING! Another memory -- Disgust -- slides in. Joy groans.
+98) 12) dialog: Look, I get it. You guys have concerns. But we’ve been through worse! Tell you what: let’s make a list of all the things Riley should be HAPPY about!
+98) 17) dialog: Oh c’mon, it could be worse...
+99) 1) dialog: Okay, I admit it, we had a rough start. But think of all the good things that--
+99) 9) dialog: Now hold on! Look, we all have our off days. You know, I-- ON THE SCREEN: Mom opens Riley’s bedroom door.
+103) 0) text: Joy, smiling with renewed purpose, steps back to the cons
+103) 1) dialog: Whoa! Well. INSIDE OUT 32. INT. RILEY’S ROOM
+105) 1) dialog: Looks like we’re going into REM. I got Dream Duty, so I’ll take care of sending these to Long Term. Great day today, guys! Sleep well
+105) 3) dialog: Alright, what's on tonight, Dream Production? ON THE SCREEN: a DREAM COMES UP. The family FLIES happily through the air in the car. They land in front of the house-- INSIDE OUT 33.
+106) 1) dialog: Ah, NO, who is in charge of programming down there?! I know I’m not supposed to do this, but... Joy ducks behind the console and REBOOTS it. The dream en INT. RILEY’S ROOM - NIGHT Riley still looks troubled.
+107) 1) dialog: We are not going to end the day like this. Joy has a thought. She recalls a memory. ON THE SCREEN: Riley ice skates with her parents. Joy watches, loving this kid. She shadows Riley, “skating around headquarters. INSIDE OUT 34.
+107) 2) dialog: Don’t you worry. I’m gonna make sure that tomorrow is another great day. I promise. INT. RILEY’S ROOM - NIGHT Riley SMILES in her sleep. INT. KITCHEN —- MORNING Riley excitedly snarfs down breakfast cereal.
+108) 0) text: Joy plays the accordion around Headquarters. The others appear, looking grumpy. Joy yells over the noise.
+108) 1) dialog: Hello! Did I wake you?
+108) 3) dialog: Well, I have to practice. And I don't think of it as playing so much as hugging. She tosses aside the accordion and runs off.
+108) 4) dialog: Okay, first day of school! Very, very exciting! I was up late last night figuring out a new plan. Here it is. (to Fear) Fear! I need a list of all the possible negative outcomes on the first day at a new school.
+108) 6) dialog: Disgust! Make sure Riley stands out today... but also blends in.
+108) 9) dialog: (addressing herself) Joy! Yes Joy? You'll be in charge of the console, keeping Riley happy all day long. And may I add I love your dress, it’s adorable. Oh, This ol’ thing? Thank you so much, I love the way it twirls... A TRAIN rushes by outside.
+108) 10) dialog: Train of Thought! Right on schedule. The engineer waves from the cab and drops off a large bag
+108) 11) dialog: Anger! Unload the daydreams. I ordered extra in case things get slow in class.
+108) 13) dialog: Oh - Sadness! I have a super important job just for you.
+108) 15) dialog: Mmm-hmmm. Follow me.
+108) 21) dialog: (finishing the circle) And... there. Perfect. This is the circle of Sadness. Your job is to make sure that all the Sadness stays inside of it.
+108) 23) dialog: Hey, it’s not MY place to tell you how to do your job. Just make sure-- (nudging Sadness’ foot back over the line) --ALL the Sadness stays in the circle. Sadness stands there.
+108) 24) dialog: See? You're a pro at this! Isn’t this fun?!
+108) 26) dialog: (heading to the console) Atta girl. Alright everyone, fresh start! We are gonna to have a good day, which will turn into a good week, which will turn into a good year, which turns into a good LIFE! INT. SAN FRANCISCO HOUSE —- MORNING Mom helps Riley on with her backpack. Dad is on the phone
+109) 0) text: Joy looks back at Family Island, working away.
+111) 2) dialog: (operating console) I’m on it.
+115) 2) dialog: In we go! 37. She INSIDE OUT 38.
+117) 1) dialog: How do you know?
+117) 3) dialog: Whoa. Is she wearing eye shadow?
+117) 5) dialog: Let’s go talk to ‘em!
+117) 7) dialog: Oh! (then) Wait, what?
+121) 2) dialog: Don't worry. I got this. Joy pushes a lever.
+123) 1) dialog: (laughs) She’s hilarious! She turns a lever. INSIDE OUT 40.
+125) 0) text: Joy recalls a MEMORY: the family skating together.
+127) 0) text: Joy smiles. Then, mysteriously, the IMAGE TURNS BLUE.
+129) 0) text: Confused, Joy looks around.
+129) 2) dialog: Hey-- She spots Sadness, who is guiltily touching the memory.
+129) 4) dialog: Sadness! You touched a memory?! We talked about this.
+129) 6) dialog: Get back in your circle. (trying to eject memory) Gnnh! What’s going on? Why won’t it eject?!! She fiddles with the console, but the blue memory won’t m
+133) 2) dialog: Oh no. Joy tries pulling the memory. Anger, Fear and Disgust hel
+133) 3) dialog: Somebody help me. Grab that... everybody... They pull with all their might, but the memory’s not budg 41. INSIDE OUT 42.
+135) 2) dialog: What? No! Sadness, what are you doing? Joy finally yanks the memory out. She runs to the console pulls Sadness away from the controls.
+135) 4) dialog: Huh?
+135) 8) dialog: No wait... stop it! No! Ahh! Joy leaps to the holder and pops it open, preventing the blue core memory from going in. Joy grabs it. She pushes the end-of-day “memory flush” button. The tube comes down from the ceiling. INSIDE OUT 43.
+135) 10) dialog: Hey! Stop it. Let go. As they struggle, they bump into the Core Memory Holder, KNOCKING ALL OF THE CORE MEMORIES OUT onto the floor.
+137) 1) dialog: Ahh! Joy tosses the blue core memory aside to collect the yell core memories. Sadness grabs the blue core memory and heads to the Core Memory Holder to plug it in. Joy lunges, knocking the blu core memory out of Sadness’s hands. It’s SUCKED UP the va tube. Joy trips backward. In the chaos a yellow core memory rol toward the tube.
+137) 2) dialog: No, no, no, no! She reaches to grab it and gets sucked up the tube hersel along with the other core memories -- and Sadness! Fear, Anger and Disgust now stand alone in Headquarters. stunned silence as the tube retracts.
+140) 0) text: Joy and Sadness scream as they rocket down the tube. Joy desperately tries to hold on to the core memories. The blue core memory is sorted to a side tube.
+141) 0) text: Joy lands in a bin of memories. Sadness crashes next to h
+141) 1) dialog: Oh no... (gathering memories) One, two, three... okay, got ‘em. Wha-- where are we? Joy takes in the shelving around her.
+141) 2) dialog: Long-Term Memory...! Joy grabs the core memories and jumps out of the dumpster She sees GOOFBALL ISLAND, silent and dark.
+141) 3) dialog: Goofball Island. Joy surveys the islands beyond. They’re all dark.
+141) 5) dialog: We-- we can fix this. We just have to get back to Headquarters, plug the core memories in, and Riley will be back to normal. Joy and Sadness hurry towards headquarters.
+141) 7) dialog: Wha-- What is it?
+141) 9) dialog: I’m coming, Riley. They set off across the bridge to Goofball Island. We see LIGHTLINE beyond it, leading towards Headquarters.
+166) 0) text: In the distance, Family Island RUMBLES. Joy and Sadness have made it across Goofball Island and m now walk across the thin lightline. Below is the darkness the Memory Dump.
+166) 2) dialog: It’s the quickest way back.
+166) 4) dialog: We have to do this. For Riley. Just follow my footsteps.
+166) 6) dialog: (stepping onto lightline) It's not that high. It’s totally fiii... Whoa... She loses her balance. Almost drops a memory over the sid Sadness steps out onto the lightline. They inch along. INT. RILEY’S ROOM - LATER Dad knocks on Riley’s door, peeks in.
+169) 0) text: Joy sees the lightline breaking ahead.
+169) 1) dialog: Ahhh! Go back! RUN! RUN! RUN! They run back onto Goofball Island as the lightline crumb
+170) 0) text: Joy and Sadness frantically outrun collapsing debris.
+171) 1) dialog: What-- ? Joy watches it sink. FLASH CUTS of Young Riley: * Riley twirling until she falls over. * The family jumping on a trampoline. * Riley riding on Dad’s shoulders, making silly faces wit ice cream all over her face. INT. RILEY’S ROOM - CONTINUOUS
+173) 0) text: Joy and Sadness stare down into the abyss.
+173) 2) dialog: I... I don’t know. (Sadness sighs in despair) But we have to try. C’mon. The sky darkens.
+173) 3) dialog: Riley’s gone to sleep. (more sighs from Sadness) .»-which is a good thing, when you think about it, because nothing else bad can happen while she’s asleep! We'll be back to Headquarters before she wakes up. We’1ll just go across Friendship Island. INSIDE OUT 56. Shelves jut out over the cliff edge, making Friendship Is inaccessible.
+173) 5) dialog: No, no, no, don’t obsess over the weight of life’s problems, remember the funny movie where the dog dies?! Sadness face plants.
+173) 6) dialog: Uhhh, Sadness, we don’t have time for this. She looks to her side. Memory shelves wind into the dista Joy heads off into the maze.
+173) 7) dialog: We'll just have to go around! Take the scenic route.
+173) 9) dialog: Think positive!
+173) 11) dialog: The manuals? The manuals! You read the manuals!
+173) 13) dialog: So you know the way back to headquarters!
+173) 15) text: Joy grabs Joy heads
+173) 16) dialog: You are my map! Let’s go! Lead on, Mind Map! Show me where we’re going!
+173) 18) dialog: Which way? Left?
+173) 20) dialog: Okay.
+173) 22) dialog: Okay! Here we go. We’ll be back to Headquarters before morning. We can do it. This’ll be easy. This is working!
+174) 0) text: Joy, exhausted, drags Sadness through the maze of shelves
+174) 1) dialog: This is not working. Are we getting close?
+174) 3) dialog: Are you sure you know where we’re going? Because we seem to be walking AWAY from Headquarters-- 57. INSIDE OUT 58. The SKY BRIGHTENS. Day. And they’re still lost.
+174) 4) dialog: Riley’s awake. Joy drops a core memory. Sadness reaches to grab it.
+174) 5) dialog: Ah ah ah, don’t touch, remember? If you touch them, they stay sad!
+174) 8) dialog: I can’t take much more of this.
+174) 10) dialog: Mind Workers! Joy runs off toward the voice.
+175) 0) text: Joy finds two workers vacuuming up memories from the shel
+175) 3) dialog: Excuse me. Hi. I need to find Friendship Island...
+175) 9) dialog: Are you--
+175) 13) dialog: Hey! You can’t throw those away! Those are perfectly good memories.
+175) 15) dialog: Yes! That is critical information! Glitterstorm, Honeypants, Officer Justice...
+177) 1) dialog: Hey! Bring those back.
+177) 8) dialog: Fades?
+177) 11) dialog: (recognizing it) The song from the gum commercial?
+177) 15) dialog: We all know the song. Okay. Yup. Real catchy.
+179) 1) dialog: (following them) Wait! Do you know how to get to Friendship Island?!
+183) 0) text: Joy follows the Forgetters, trying to get directions. The ignore her, singing the gum-commercial jingle. A horrible mechanical GROANING sound. Joy reacts.
+183) 1) dialog: What...?
+184) 0) text: Joy rounds a corner and sees Friendship Island crumbling.
+184) 1) dialog: Friendship Island? The FRIENDSHIP CORE MEMORY Joy holds fades. She runs forw
+184) 2) dialog: Wh-- ? She looks on in horror as Friendship Island falls.
+184) 3) dialog: Ohh, not Friendship. Joy hugs the core memories. One of them is memory of youn Riley and Meg walking together.
+184) 5) dialog: (trying to stay positive) We'll just have to go the long way. They turn to look back into the deep memory shelves.
+184) 8) dialog: Ah, yes. (pulling Sadness) There’s gotta be a better way.
+184) 10) dialog: Huh? Joy sees a strange figure up ahead, gathering memories.
+184) 12) dialog: Hello! The figure sees Joy -- and bolts.
+184) 13) dialog: Wait! Hey, wait! Stop! Joy chases after him.
+184) 15) dialog: Excuse me...?
+184) 20) dialog: Wait. I know you.
+184) 22) dialog: No, I do! Bing Bong! Riley’s Imaginary Friend!
+184) 24) dialog: Well of course! Riley loved playing with you, you two were best friends! Oh! You would know. We’re trying to get back to Headquarters...
+184) 26) dialog: (mock modesty) Well, yeah. I’m Joy. This is Sadness.
+184) 28) dialog: Mm-hmm.
+184) 30) dialog: That's a good question! You want to answer that, Sadness? INSIDE OUT 66.
+184) 32) dialog: Oh, thank you!
+185) 1) dialog: It is so great to see you again. I gotta tell you, I am such a huge fan of your work. Do you remember when you and Riley were in a band? FLASH CUTS of their adventures: *Riley bangs on pots and pans, Bing Bong plays his trunk.
+185) 2) dialog: I went to all of your concerts.
+185) 4) dialog: Watching you play tag was such a treat.
+185) 6) dialog: Oh, and remember your rocket?!
+185) 8) dialog: That's right, your theme song! (singing) Who's your friend who likes to play?
+185) 13) dialog: His rocket makes you yell “Hooray!”
+185) 14) dialog: 
+185) 18) dialog: Dolphin? Bing Bong does a spot-on dolphin impression.
+185) 20) dialog: Yeah, I guess that’s true. What are you doing out here?
+185) 22) dialog: Hey, hey, don’t be sad. Tell you what, when I get back up to Headquarters, I’1ll make sure Riley remembers you.
+185) 24) dialog: Of course, she’d love that!
+185) 26) dialog: Are you okay?
+185) 29) dialog: Ooo. (fumbles memories) Woah!
+185) 31) dialog: Thanks!
+185) 34) dialog: Thanks! This‘’ll make it a lot easier to walk back to Headquarters.
+185) 38) dialog: The train, of course! That is so much faster! But how do we catch it?
+185) 40) dialog: I’m so glad we ran into you! A giant BUILDING blocks their progress. Bing Bong opens a door. It’s dark inside.
+185) 44) dialog: What?
+185) 46) dialog: Bing Bong says it’s the quickest way to Headquarters.
+185) 55) dialog: (to Sadness) If you want to walk the long way, go for it. But Riley needs to be happy. I’m not missing that train. (walks in) Bing Bong knows what he’s doing. He's part dolphin. They're very smart.
+187) 3) dialog: Whoa! What's happening?!
+187) 7) dialog: What is going on?
+187) 10) dialog: Ah! Joy's head falls off. Sadness’ leg goes. She topples.
+187) 14) dialog: Come here, me! They gather their pieces as they rush to the exit.
+187) 16) dialog: “Stuck?!” Why did we come in here?!
+187) 18) dialog: The train! POP! They change into FLAT COLOR VERSIONS of themselves.
+187) 20) dialog: We're getting nowhere!
+187) 22) dialog: Come on! Sadness and Bing Bong follow and try to squeeze through. because of the broken perspective, they are now all HUGE compared to the door. INSIDE OUT 73.
+187) 23) dialog: AUGH! We can’t fit! POP! They abstract into ABSTRACT COLORED BLOBS.
+187) 27) dialog: Ooh! They follow Sadness and inch safely out the window.
+188) 1) dialog: Wait! Stop! Stop! STOP! POP! Joy goes from non-representational to two-dimensiona She falls down flat as the train speeds off. POP! The three transform back to normal.
+188) 2) dialog: (to Bing Bong) I thought you said that was a shortcut.
+188) 4) dialog: How long till the next train?
+188) 8) dialog: This isn’t another one of your short cuts, is it?
+188) 10) dialog: (to Sadness) Is there really another station?
+189) 1) dialog: Imaginationland?
+189) 3) dialog: No way!
+189) 6) dialog: Me too!
+189) 8) dialog: Wait, is that-- Sadness, look, it’s Cloud Town! That is my favorite! Joy rips off a chunk of cloud and floats up into the air.
+189) 9) dialog: It's so soft! Joy jumps down and runs off.
+190) 0) text: Joy and Bing Bong gleefully jump between couch cushions.
+191) 2) dialog: Your rocket!
+192) 1) dialog: I love Imaginationland!
+192) 10) dialog: Riley, here we come!
+204) 0) text: Boom! Joy turns around and watches Hockey Island crumble.
+204) 1) dialog: Hockey? Oh no... no, she loves hockey. She can’t give up hockey. Joy pulls out the HOCKEY CORE MEMORY: Riley’s first goal. INSIDE OUT 80.
+205) 1) dialog: Bing Bong, we have to get to that station.
+205) 4) dialog: Yeah, yeah, I dunno, we’ll have to come back--
+205) 11) dialog: Hey, it’s going to be okay. We can fix this! We just need to get back to Headquarters. Which way to the train station?
+205) 13) dialog: Hey, who’s ticklish, huh? Here comes the tickle monster... No response.
+205) 14) dialog: Hey! Bing Bong, look at this! Dohoioih! She makes a silly face. Nothing.
+205) 15) dialog: Oh, here’s a fun game! You point to the train station and we all go there! Won’t that be fun? Come on, let's go to the train station! Joy walks off, attempting to lead.
+205) 17) dialog: Sadness, don’t make him feel worse.
+205) 27) dialog: How did you do that?
+206) 1) dialog: We made it! We’re finally going to get home! Twirling, she knocks over two boxes labeled “FACTS” “OPINIONS.” Small objects spill out of both. and INSIDE OUT 83.
+206) 2) dialog: Oh no! These Facts and Opinions look so similar! He dumps them into the “FACTS” box.
+208) 1) dialog: Huh? The engineer and his assistant hop off the engine.
+208) 2) dialog: Hey hey! Why aren’t we moving?
+208) 6) dialog: Oh, we can’t wait that long!
+208) 9) dialog: Sadness, that’s ridiculous. How could we possibly... She follows Sadness’ gaze and spots DREAM PRODUCTIONS.
+208) 10) dialog: How about we wake her up!?
+208) 12) dialog: Thanks. Come on!
+209) 1) dialog: Whoa! This place is huge.
+209) 4) dialog: Rainbow Unicorn! She’s RIGHT THERE! Joy tries to play it cool as they walk past.
+209) 6) dialog: No, no, Sadness, don't bother Miss Unicorn, okay? (to unicorn) Sorry, she’s from outta town. So embarrassing, right? She pushes Sadness away. Joy pops back in. 86. INSIDE OUT 87.
+209) 7) dialog: I loved you in Fairy Dream Adventure Part 7. Okay, bye. I love you. They reach STAGE B. A sign below a red flashing light rea “DO NOT ENTER WHEN LIGHT FLASHING.”
+211) 2) dialog: Okay, how are we gonna wake her up?
+211) 3) text: Joy spots She gives
+211) 5) dialog: Scare her? No no, she’s been through enough already.
+211) 7) dialog: Sadness you may know your way around down here, but I know Riley! We’re gonna make her so happy she'll wake up with exhilaration! We'll excite her awake!
+211) 9) dialog: Ooh, Riley loves dogs. Put this on!
+211) 11) dialog: Bing Bong.
+211) 13) dialog: Don’t let anything happen to these.
+216) 0) text: Joy and Sadness are in the dog costume, waiting to go on.
+216) 1) dialog: Ready?
+216) 3) dialog: Just follow my lead. Here we go! Joy yanks Sadness onto the set.
+217) 0) text: They run around in playful circles. Joy makes puppy noise
+219) 0) text: Joy and Sadness run around, Joy licking students and bark Through the reality distortion they look like a happy pup Joy looks at the sleep indicator: Riley is still asleep. INT. RILEY’S ROOM - CONTINUOUS Riley is sound sleep.
+220) 1) dialog: (to Bing Bong) Psst. You’re on! Go! Bing Bong pulls a rope. Balloons drop! A colorful backdro
+220) 2) dialog: Woo! Let’s party! Let’s dance. Woo!
+222) 0) text: On stage, Joy and Sadness run in circles, barking.
+224) 0) text: Joy runs after Sadness.
+224) 1) dialog: Huh? Sadness, what are you doing?! Come back here!
+228) 1) dialog: Sadness! You are ruining this dream! You're scaring her!
+228) 3) dialog: Whoa! But before she can do anything, Security enters.
+230) 0) text: Joy and Sadness watch as guards haul off Bing Bong.
+231) 0) text: Joy and Sadness exit Stage B.
+231) 4) dialog: No, no no no, there go the core memories...! The door opens. SPOOKY LIGHT spills out.
+232) 1) dialog: What is this place?
+233) 0) text: Joy and Sadness hide. TWO CLUELESS GUARDS block the gate.
+234) 0) text: Sadness leads Joy around and behind the guards.
+235) 0) text: Joy gives Sadness an approving nod: nice work. They head forward. This place is spooky.
+235) 2) dialog: It’s broccoli! Behind them:
+235) 4) dialog: Grandma’s vacuum cleaner! The vacuum gives chase. Joy and Sadness lose it and hide behind a rock.
+235) 5) dialog: (catching her breath) Okay, come on. Sadness makes a loud CRINKLING NOISE with each step.
+235) 6) dialog: Would you walk quieter?
+235) 8) dialog: What is going-- (looking down) Candy wrappers. They follow a trail of candy wrappers into the cave to fi
+236) 1) dialog: Bing Bong!
+236) 3) dialog: There you are.
+236) 7) dialog: (terrified) It’s Jangles.
+236) 9) dialog: Do you have the core memories? He gives her the satchel. Joy holds them close.
+236) 12) dialog: Wait. The train’s not running. We still have to wake up Riley.
+236) 15) dialog: (loudly) H-hhey Sadness, did you hear about the p-pahh-party that we’re having?
+236) 19) dialog: And there’s going to be cake, and presents and--
+236) 23) dialog: Okay. Follow us! All three run towards the gate, followed by the giant clo
+236) 24) dialog: Nothing like a good scare to wake you up, right?
+242) 0) text: The meter reads “AWAKE.” Joy and Sadness do a happy dance
+243) 2) dialog: Guess who’s on their way to Headquarters?! Joy grabs Sadness and picks her up in celebration.
+247) 4) dialog: Hey, that was a good idea. About scaring Riley awake. You’re not so bad.
+247) 6) dialog: Nice work. Joy turns to sit on a crate inside the train.
+247) 7) dialog: I can’t wait to get the old Riley back. As soon as we get there I’m going to fix this whole mess. Bing Bong looks at a memory.
+247) 10) dialog: (taking the memory) Oh, it's that time in the twisty tree, remember? The hockey team showed up and Mom and Dad were there cheering. Look at her, having fun and laughing. I love this one.
+247) 12) dialog: Atta girl! Now you're getting it!
+247) 15) dialog: I’1l tell ya what. We’ll keep working on that when we get back. Okay?
+250) 0) text: Honesty Island crashes into the train tracks. Joy, Sadnes and Bing Bong scream. Workers below see the train falling towards them.
+250) 4) dialog: That was our way home! We lost another island... what is happening?
+250) 6) dialog: What?! INT. RILEY’S ROOM —- MORNING Riley packs her clothes when her expression changes to wo INSIDE OUT 105.
+252) 2) dialog: Family Island. Let’s go! The trio run along the cliff edge towards the last island
+254) 2) dialog: But that’s our only way back! The rumbling causes an END CAP of a nearby shelf to break exposing an open tube. A memory gets sucked up and shot towards Headquarters. INSIDE OUT 106.
+254) 3) dialog: A recall tube!
+256) 0) text: Family Island rumbles. A LARGE CHUNK of cliff edge breaks behind them, driving Joy and Sadness forward.
+256) 1) dialog: Go! Run! RUN! Joy steps into the disconnected TUBE, ready to sail up to Headquarters. Sadness tries to climb in, but there’s not enough room; s jostles, pressing against the satchel. The CORE MEMORIES start to turn blue.
+256) 2) dialog: Woah woah! Sadness! (pushing her back) Sadness, stop! You’re hurting Riley! Joy pulls a core memory from the satchel. It is BRIGHT BL but slowly fades back to normal.
+256) 4) dialog: If you get in here, these core memories will get sad! Joy watches FAMILY ISLAND crumble. She looks down at Sadn Joy, pained, decides.
+256) 5) dialog: I’m sorry. Riley needs to be happy. She pulls the tube closed and starts up alone. Sadness and Bing Bong watch, betrayed and despondent. Joy looks guilt-ridden, but looks on towards Headquarters Suddenly, the cliffside rumbles. Joy’s tube BREAKS. Joy
+258) 0) text: Joy falls, clutching the satchel of core memories. She lands hard, rolling down a hill of faded memories. Sh sits up, looks around. The satchel! All the memories are still there. Panicked, Joy runs up the hills of memories. Off in another part of the dump, Bing Bong comes to.
+258) 8) dialog: Do you remember how she used to stick her tongue out when she was coloring? Another memory: Riley talking to a bug.
+258) 9) dialog: I could listen to her stories all day. Another memory: Riley spinning.
+258) 10) dialog: I just wanted Riley to be happy. And now... She holds the recent blue memory of Riley in class. Joy h them all until the memories fall out of her arms. Joy cries. A long, deep, painful cry. Joy has lost everything. Around her, memories fade and disappear. A tear falls onto the faded TWISTY-TREE MEMORY. Joy wipes 108. INSIDE OUT 109. In wiping the tear, the memory rewinds. Its color CHANGES from GOLD TO BLUE. IN THE MEMORY: Riley sits in the tree with her parents, t team approaching in the distance. Joy looks closer. What's this? She rewinds more. IN THE MEMORY: Riley sits in the tree, crying, alone. Joy remembers what Sadness said about the memory...
+258) 12) dialog: Sadness. Mom and Dad, the team... they came to help because of Sadness. She turns to Bing Bong, ready to take action.
+258) 13) dialog: We have to get back up there!
+258) 15) dialog: (getting an idea) Another planet. (sings) Who’s your friend who likes to play? Silence.
+258) 16) dialog: (sings louder) Who’s your friend who likes to play? INSIDE OUT 110.
+259) 0) text: They perch the wagon atop a hill. Joy looks resigned.
+259) 1) dialog: Hop in! Both inside, Bing Bong pushes off. They speed down a slop gain momentum, singing all the way. They reach the bottom shoot up another hill, launching up towards the cliff top Joy and Bing Bong enthusiastically, if not desperately, s at the top of their lungs. Not even close. They crash back to the bottom.
+259) 2) dialog: c'mon!
+260) 0) text: They shoot down a taller hill for another go. They SING faster and louder. Joy reaches for the ledge but they fall with a thud. Bing Bong stands. There’s no way they’ll make it. He look up at the ledge and then to his hand -- it’s disappearing
+261) 2) dialog: We’re gonna make it! The rocket makes it over the ledge! It crashes atop the cliff.
+261) 3) dialog: Woohoo! Bing Bong, we did it! We-- She turns around. She’s alone.
+261) 4) dialog: Bing Bong? Bing Bong! She runs to the cliff side. Below, Bing Bong laughs excitedly, happy to help Riley in the only way he can.
+261) 6) dialog: I'll try, Bing Bong. I promise. Joy gets up and soldiers on.
+268) 0) text: Joy runs through the Long-Term Memory stacks.
+268) 1) dialog: Sadness! She sees Family Island rumble, pieces beginning to break She frantically continues on.
+270) 0) text: Joy runs through a long corridor.
+270) 1) dialog: Sadness? Sadness? (no answer; desperate) C’mon Sadness, where are you? Okay. If I were Sadness, where would I be? Joy slumps to the ground. She kicks a leg up in the air.
+270) 2) dialog: (Sadness voice) Ohhh... everything is awful and my legs don’t work and you have to drag me around while I touch all the-- Joy stops. Something has caught her eye. REVEAL: a path of blue memories on the bottom shelves. Joy follows the path.
+274) 0) text: Joy runs, following the path of blue memories.
+274) 1) dialog: Sadness! Joy rounds a corner and spots Sadness far down the next r
+274) 2) dialog: Sadness! Sadness turns around.
+274) 4) dialog: Wait, Sadness! Joy chases after her. Sadness doesn’t stop.
+275) 0) text: Sadness topples giant french fries in Joy's path.
+275) 1) dialog: Come back! Joy uses a super-long fry to vault over the mound of frie 114. INSIDE OUT 115.
+277) 0) text: Joy searches for Sadness. Suddenly, rain falls on her. Ab Sadness is floating on a chunk of rain cloud, away from Headquarters.
+277) 1) dialog: What? Sadness!
+277) 3) dialog: Wait-- Sadness! We've gotta get you back to... (Sadness is too far away) Ugh. Joy looks back at Family Island crumbling. She looks arou what does she have to work with? The Boyfriend Generator.
+287) 0) text: Joy runs up to Riley’s Imaginary Boyfriend.
+287) 1) dialog: Hey! Hey, look at me. Did you mean what you said before? 117. INSIDE OUT 118.
+287) 3) dialog: Yeah, yeah, okay, Haircut. Time to prove it. Joy scoops him into her satchel. She activates the genera Imaginary Boyfriends pour out, directly into Joy’s satche
+288) 0) text: Joy spots Sadness ahead, and runs past her.
+289) 0) text: Joy pulls a balloon free from a TWISTY BALLOON PALM TREE. aims it towards the approaching Sadness and unties it. PTHHPT! The balloon blows Sadness back over the MEMORY DU In the process, the HOUSE OF CARDS behind them collapses.
+290) 0) text: Joy sprints by grabbing the SATCHEL, now full of boyfrien
+291) 0) text: Sadness floats out over the Memory Dump. Joy runs along t cliff edge, parallel to Sadness, towards Family Island.
+292) 0) text: Joy sights Sadness and aligns herself with Family Island. dumps the satchel, pouring out the Boyfriends. Their mome pulls her to the top of a TOWER OF BOYFRIENDS.
+292) 1) dialog: (to herself) This is crazy, this is crazy... No, no, no! Joy! Be positive. (beat) I am POSITIVE this is crazy! INSIDE OUT 119. Joy spots the trampoline on Family Island, then Sadness floating away. She times it...
+292) 2) dialog: Now! The tower tips forward.
+292) 4) dialog: Gotcha!
+292) 6) dialog: Hang on! They launch towards Headquarters. Will they make it?
+295) 2) dialog: Sadness, it’s up to you.
+295) 6) dialog: Yes you can. Riley needs you. Sadness looks at Joy. Really? Joy nods.
+305) 0) text: Sadness drives. Joy walks to her, holding the golden core memories. She hands them over to Sadness. The core memories turn BLUE. Sadness places one in the recall unit.
+309) 0) text: Joy steps forward with one more gift for Sadness: the blu core memory. Sadness pulls Joy by the hand and places it on the consol
+311) 0) text: BING! Joy and Sadness hear the sound of a new memory bein produced. It’s a NEW CORE MEMORY: BLUE AND GOLD, swirled together. A first. The Emotions react in awe. The memory travels down the track and into the holder. A lightline extends out the back of Headquarters. It is a n FAMILY ISLAND, bigger than before. Joy and Sadness turn back to the console together.
+313) 0) text: Watching the screen, Joy rests her head on Sadness. They’ team.
+314) 6) dialog: Say what you want, I think it’s all beautiful.
+314) 11) dialog: Ooohh. Fear leans on the console. BEEP!
+314) 14) dialog: I don’t know. It’s probably not important. INSIDE OUT 126.
+317) 1) dialog: Awww...
+321) 0) text: Joy and Sadness stand side by side at the new console, flanked by the others.
+321) 1) dialog: You ready?
+321) 3) dialog: Alright. Let's play some hockey! We ZOOM OUT of Riley's head.
+322) 1) dialog: All right Anger, take it!
+322) 7) dialog: We've been through a lot lately, that’s for sure. But we still love our girl. She has great new friends, a great new house... things couldn't be better! After all, Riley’s 12 now. What could happen? THE END.

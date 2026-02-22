@@ -1,0 +1,18 @@
+0) 11) text: Jamey shoves open the door, REVEALING TWO LAWYERS (BACKS
+0) 16) text: Behind his back, Andrew wiggles his fingers. Jamey stuffs a document into Andrew's hand.
+0) 22) text: His back turned momentarily to the JUDGE, Andrew mouths t Jamey: "Not bad." But he whips around, serious again:
+0) 244) dialog: (frantic) Andy?! This is a disaster! We can't find your revisions on the Kronos complaint!
+0) 246) dialog: I went down to Word Processing to pick up the corrected copy, but they said you haven't delivered the corrections. I told them you've been working on it at home, and...
+0) 249) dialog: What did you file it under?
+0) 250) text: Jamey puts his hands on Andrew's computer keyboard.
+0) 252) text: Jamey types the file name.
+0) 254) text: Jamey stares dumbfounded at the computer monitor.
+0) 255) dialog: It's not here, Andy.
+0) 1033) dialog: Yes. We found a copy. It been incorrectly filed...
+0) 1035) dialog: We got it to court on time.
+0) 1038) text: Jamey answers nervously:
+0) 1039) dialog: I've never known that to happen before. No.
+0) 1043) dialog: Absolutely not.
+0) 1044) text: Joe stands, staring at Jamey. Too long. Jamey squirms.
+0) 1046) dialog: What?!
+0) 1047) text: Joe pressing forward, toward Jamey.

@@ -1,0 +1,102 @@
+17) 0) text: Above the heat and filth there is a different world. A clean, beautifully tiled world of lazing figures, droning conversations and resonant laughter. It is the hot room of a bathhouse somewhere in the Roman Empire. We have advanced 4000 years into the future and it shows in the technology. It is men's day at the bathhouse. All of the people relaxing in the water look prosperous and comfortable with themselves. Slaves wait in attendance, some around the edge of the pool, others in the water rubbing backs and massaging shoulders. There are three or four times as many slaves as bathers, and the proprie- torial way that they look after their masters gives the place the odd atmosphere of a kindergarten for over- indulged grown-ups. And then we find our Hector. He stands against the wall, holding a large towel. Although clean-shaven and more healthy-looking we can still recognize Hector, more so by the look in his eyes. There is a set to his face that tells us he is a man alone, emotionally detached from his surroundings. He is a personal body slave. He watches his master in the pool, alert to any hint of need that he might have. Hector's master LUCINNIUS is not as relaxed as the others around him. He is in anxious conversation with an older man wading beside him. We don't hear what they are saying but there is enough body language to detect Lucinnius' pleading and the older man's cool distraction. The older man gives a final dismissive shake of his head. Hector immediately moves to the side of the pool with the towel Lucinnius climbs out of the water.
+17) 1) dialog: I'm going to the cool room.
+19) 0) text: After an anxious scan of the cool room, Lucinnius goes towards three men occupying a marble bench.
+19) 5) text: Lucinnius tries to muster his dignity as they leave.
+20) 0) text: This is not the grandeur of Rome, but the dusty main street of a provincial capital in Greece or Spain or North Africa. It is difficult to tell from the people because they are such a cosmopolitan crowd, faces from every corner of the Mediterranean world. It has some- thing of the atmosphere of a frontier town in a western, except that here the half-finished buildings are made of brick and stone. Lucinnius leaves the bathhouse. Hector follows three paces behind him, loaded down with the large towel, the scrubber, robe, and the wooden stool. The stool goes with them everywhere, in case Lucinnius has to stop in the street and converse with a friend. Other notables are among the street throng, their own slaves tagging along behind with their little wooden stools. Some have whole trains of slaves shadowing them. Human status symbols. Lucinnius stops near some street stalls. Hector stops beside him.
+20) 4) dialog: Bad omens, Hector. Bad omens. Get me something to eat. Just a mouse or two.
+20) 6) text: Hector places the stool at Lucinnius's feet and moves off Lucinnius sits down, still absorbed in his problems. Hector keeps an eye on Lucinnius as he orders the food.
+20) 10) text: As Hector is given the food and pays for it, he sees another man, JULIAN, approach Lucinnius, trailed by TWO SLAVES. One of them is carrying a folding chair much more substantial than Lucinnius's. Julian and Lucinnius greet one another and sit down to talk, Lucinnius at something of a height disadvantage. The Two Slaves move off to one side. Lucinnius's mood has brightened since the arrival of his friend. Their conversation seems open and friendly. Hector gives his master his food, and then moves to join the Two Slaves, hearing a snatch of the conversation as he goes.
+20) 30) text: Lucinnius and his friend stand and exchange their final words, unaware of the scrutiny they have been under, or so used to it that they are oblivious to it. Hector and the Slaves hurry to gather up the seats and take thei positions behind their masters. The casualness of their conversation has gone, and they resume the formality of their roles.
+21) 0) text: Lucinnius is eager to talk, and tosses his words over his shoulder to Hector.
+21) 4) dialog: He's a true friend, probably the only one I have left.
+21) 5) text: Hector obligingly trots a step or two closer to Lucinnius to aid their conversation.
+21) 7) dialog: He was honest about it. He said so, plain and simple. No.
+21) 9) text: Lucinnius unburdens himself.
+21) 10) dialog: And the ships have gone... did I tell you that?
+21) 12) dialog: Cyprian knows already. He'll want his money back too...
+21) 14) dialog: When we get home I want you to get some chickens... and fetch Hermas, the diviner.
+22) 0) text: At home, we find Lucinnius and Hector with the diviner HERMAS. They are gathered around a shrine in the large public room. The entrails of a chicken lie on a slab of marble. Hermas prods them with a knife. He makes much of the mysteries of his craft, as if it were a skill beyond ordinary men.
+22) 4) dialog: Are my ships from Sicily still afloat...?
+22) 7) text: Lucinnius obeys.
+22) 12) dialog: What do you mean?
+22) 14) text: Lucinnius objects.
+22) 15) dialog: Do it again... I want you to do it again... Is it the Gods' will...                   * that Cyprian... be well disposed                   * towards me... in the future?                       *
+22) 17) text: Hector looks a Lucinnius, who nods reluctantly. Hector opens his purse and counts out the coins for Hermas.
+23) 0) text: Hector is giving Lucinnius a soothing shoulder massage. Lucinnius is still in a talking mood.   His troubles won't allow him to relax.
+23) 1) dialog: Cyprian loaned me half a million to fit out these ships... I'm                           * finished. Just when things were going well... I had plans for you too, Hector... in four or five years I was going to make you a free man... and then in ten years                       * you'd be a citizen... you... you                        * could've found your family... brought them here... everything... Hector smiles ruefully.
+23) 3) dialog: It does, doesn't it! Lucinnius is silent for a while as Hector continues to rub his shoulders.
+23) 4) dialog: I shouldn't give up. I can't... I'll visit Cyprian, first thing tomorrow... before the others can get to him... he's got to see reason... I can pay him back... sometime. It's the only chance we have, Hector. Should I do it?
+23) 6) dialog: You're right.    I must. This burst of resolve has relaxed Lucinnius.   His tense muscles yield more to Hector's fingers. THALIA enters the room. She is a household slave, a Nubian from Africa. She carries a lighted torch and moves around the room lighting the wall lamps. Lucinnius watches her.
+23) 10) dialog: Thalia, I think I need one of your massages. Hector, you can                       * finish the lamps.
+23) 11) text: Hector does as he is told. He takes the torch from Thalia and discreetly leaves the room, hearing Lucinnius as he closes the door.
+23) 12) dialog: Lower, Thalia.
+27) 0) text: Hector is back in his bed. A figure enters the room, steps over the sleeping bodies on the floor and shakes him awake. Hector comes to. Lucinnius stands over him, whispering.
+27) 1) dialog: I can't sleep. Get me a chicken. I want to make another sacrifice. We'll do it ourselves.
+27) 2) text: Hector wearily takes himself out of bed and follows Lucinnius out of the room.
+29) 0) text: Hector and Lucinnius are approaching the home of Cyprian. Hector as usual is walking some paces behind his master, and he carries a large satchel of documents. Cyprian's home is a street palace. It is early in the morning, but there is already activity around the house, visitors coming and going, messengers, petitioners. A few impor- tant callers arrive in litters, carried by slaves. Lucinnius and Hector even have to join a line at the door and are checked in by the gateman. Lucinnius's hopes of quietly bending Cyprian's ear are dashed. It seems as if the whole world owes allegiance to this provincial Mr. Big.
+30) 0) text: The slaves gather on one side of the courtyard, gossiping and playing games of chance on the ground. Their masters wait on the other side of the courtyard, seated on benches along the wall. Cyprian's aides usher the visitors into his presence in a regular flow, some have an audience of a few minutes, others last merely seconds. Hector keeps an eye on Lucinnius, like a mother watching her child from a distance on its first day at school.
+30) 5) dialog: Relieved anyway... relieved that it's over at last.
+30) 6) text: Lucinnius strides out of the courtyard with Hector following after him.
+31) 0) text: Lucinnius and Hector are walking home in their usual formation. Hector is closer than normal, so that they can talk.
+31) 2) dialog: I have to kill myself by tomorrow morning. He has all my letters to Titinius, none of them got through. He says it's like treason... and he says I should want to die for owing him half a million anyway...
+31) 8) dialog: Then he will... and that wouldn't be pleasant... he would drag me to Rome... those letters...
+31) 9) text: Lucinnius shivers to think of them.
+31) 10) dialog: I'm done for, Hector... but it's strange... I feel kind of good about it... the struggle is over ... we've seen it through together, eh?
+31) 12) dialog: Let's get home. We have a lot to do.
+31) 13) text: Lucinnius quickens his pace.
+31) 14) dialog: Tonight... peace at last...
+31) 15) text: Lucinnius is obviously in a state of shock.
+32) 0) text: Hector and Lucinnius are in his study. Lucinnius is busy clearing up his papers. He is less hysterical than in the previous scene, more aware of the reality of what he has to do.
+32) 1) dialog: We'll do it with a knife, Hector. When everyone has gone to bed. The two of us, to the end...
+32) 3) dialog: We'll help each other, Hector. We must. We've been through this whole mess together... we must die together.
+32) 8) dialog: You don't understand do you? I'm asking you to die with me... you're my closest, my dearest slave... what would they say about me if you refused to die with me? This is honor... we're choosing                      * death... we're not going to submit to the humiliations that Cyprian can heap on us, are we?
+32) 10) text: Lucinnius changes his tone, becomes more, in his own mind, frank, man-to-man.
+32) 11) dialog: Hector... at Cyprian's this morning ... I had to sign certain papers ... tell a bit of a story...
+32) 14) dialog: A confession. That we were plotting against Cyprian and the provincial senate... we were short of names... most of the people I know were in the room... people I thought were my friends... so I mentioned you... I had to...
+32) 17) dialog: Yes. So you see, I don't want you to die with me just because of my honor... it's more complicated... I'm sorry, Hector. I would be honored... if you would die with me... I mean it...
+32) 23) dialog: Of course.
+33) 0) text: Hector is in   the inner courtyard of the house, beside t kitchen. He    is talking to GALLUS, who is Lucinnius's ten-year-old   son. Hector has a close friendship with him. As we    listen to their conversation it becomes cle that Hector   finds comfort in the boy, for the family th he lost. Today there is an air of distraction about Hector. Understandable, considering his scheduled death. The kitchen slaves come and go as they talk.
+34) 0) text: Lucinnius is at it again. In the lamplight, a live chicken stands on the altar.
+34) 4) dialog: If he eats the grain it means yes.
+34) 7) dialog: No, it's saying yes, we should die.
+34) 9) dialog: No, it's saying yes, we should die.
+35) 0) text: A dead chicken adorns Lucinnius's table. He and his wife, DALMIA, and their son are lying on their couches picking at the food with their fingers. Lucinnius is drinking more wine than usual. Hector and the other household slaves are in attendance. Thalia is also there, serving her mistress. Dalmia knows something is up, but she doesn't know what. She attempts to break the silence. She calls on the cook from the kitchen.
+35) 8) text: He looks again at Lucinnius and Hector. They look at each other. Thalia looks at Hector. Dalmia looks at them all looking at each other, more intrigued than she was before. A SLAVE interrupts them.
+35) 10) text: Lucinnius and Hector look at each other and share a moment of hope. They might be coming with good news, perhaps a softening of Cyprian's heart.
+36) 0) text: The two VISITORS that await Lucinnius and Hector are an unpromising sight. They are big men, unsophisticated and look uncomfortable in their well-cut togas. A couple of the godfather's foot soldiers. They greet Lucinnius deferentially, but he knows that they would break his back at the whim of their master.
+36) 2) text: Lucinnius sighs, as his last hope expires.
+36) 3) dialog: Thank you, gentlemen... But I feel that I will be capable of taking care of my affairs tonight without your help... Thank Cyprian for his kind thought...
+36) 9) dialog: Thank you.   Good night.
+36) 11) dialog: Thank you.
+36) 14) text: Hector instinctively looks to his master. Lucinnius doesn't protest, but retreats into the house. Hector is left alone with the Visitors.
+37) 0) text: Late at night in Lucinnius's study, an oil     lamp and a candle cast their shadowy light, adding to     the tensio the room. Hector stands beside Lucinnius,      who is counting out coins and other valuables on     his table.
+37) 1) dialog: Eight hundred sesterces... cash ... that's all that's left... what a failure... my father left me three farms and forty thousand... Lucinnius places the money in a box on his table. He is quite drunk, resigned now to his fate. Hector however is cold sober, grim-faced. Lucinnius looks up at him.
+37) 2) dialog: Nothing else to be done.    Don't you want some wine?
+37) 4) dialog: What is it?
+37) 6) dialog: Hector,    by this proclamation, I make you    a freed man... I don't know the    exact words... I've never done it    before... But you're free, Hector.
+37) 9) dialog: Very well... He scratches out a few words on the paper, Hector looking over his shoulder, keenly watching what he writes. Lucinnius finishes writing and lays down the pen.
+37) 13) dialog: They'll find it in the morning. It's a nice thought, Hector... you were right to ask.
+37) 15) dialog: Well... freed man, let's do it.                         *
+37) 16) text: Lucinnius picks up a large kitchen knife which lies on the table. He fingers its blade.
+37) 19) dialog: Nothing... I mean, not to me... I have to do it first... you understand that... and then you... if I don't succeed... then you must help me...
+37) 21) dialog: No point in messing up the room. Let's go downstairs.
+37) 22) text: Lucinnius stands and leaves the room.     Hector follows with the oil lamp.
+38) 0) text: The house is quiet and in darkness as they walk along the passage and down the stairs to the washing room. Hector walks behind, casting the light on Lucinnius's crumpled, defeated form. Lucinnius begins to sob, at first quietly, then more loudly and more pathetically. Hector looks around and behind him, afraid, or perhaps hoping, that Lucinnius's moans will wake the household.
+39) 0) text: Lucinnius has worked himself into a dramatic state of distress, with drink and terror and self pity.
+39) 4) dialog: Oh, that hurts, that stings!
+39) 5) text: Lucinnius sits back on the step of the washing pool, holding his stomach. Hector sits down beside him. They both look down at the blade, still in Lucinnius' body.
+39) 6) dialog: This is hopeless.
+39) 7) text: They sit absurdly like this for a long moment, neither of them knowing what do do next. It's awkward, like in a waiting room. Then Lucinnius speaks.
+39) 8) dialog: Help me, Hector...
+39) 10) text: Hector speaks gently, like coaxing a frightened animal. He helps Lucinnius lie out on the marble floor.
+39) 12) dialog: Thank you, thank you.
+39) 13) text: The movement has increased the spread of blood over Lucinnius' clothing. He raises his head.
+39) 14) dialog: You do it now, Hector... hurry...
+39) 16) dialog: Do it Hector... do it... you promised...
+39) 22) dialog: Take it... do it...
+39) 23) text: Lucinnius' voice is fading now. Hector waits, then reaches down for the knife in Lucinnius' stomach. We see on his face the effort as he pulls at it, and do we detect a subtle twisting of the blade to speed Lucinnius on his way? Lucinnius sighs and twitches a little. It's as if the life flows out of him as the knife is released from the wound. His voice is even more faint.
+39) 24) dialog: Do it, Hector... do it... do it...
+39) 25) text: Hector has the knife in his hand, but still he waits, looking at Lucinnius, willing the last dregs of life from him.
+39) 26) dialog: Do it... do it... do it...
+39) 27) text: The whispers fade to a croak. Lucinnius lies still. Hector has won this final battle of wills. He stands    u suddenly repulsed by what has happened. But quickly    he gathers his wits. He makes his decision. He throws     th knife down. It clatters along the hard shiny floor. Hector has run out of the room before it has come to    r against the wall.
+40) 0) text: Hector runs into the study and makes for the box contain- ing the coins. He puts most of them into a leather money bag and ties it to his waist. Then he pulls on Lucinnius's cloak and rushes out of the room. He returns quickly to pick up his certificate of freedom from the table. Then just as he is leaving, he again stops, sits down on the chair, pulls off his worn shoes and places on his feet a pair of Lucinnius's stout street sandals.

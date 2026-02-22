@@ -1,0 +1,69 @@
+15) 1) dialog: Hold it, friend.
+15) 3) dialog: (grinning) I ain't hankerin' to get locked in  my own jail.
+15) 5) dialog: As it happens, I'm the host.
+15) 8) dialog: Snort?
+15) 10) dialog: Don't blame you. It's awful.
+15) 12) dialog: (suddenly mean) What're you lookin' at?
+15) 14) dialog: (after a beat, relaxing) I ain't always this bad -- just that  last night me and my pal Doc Velie,  we did a little celebratin'. At least  I did.
+15) 16) dialog: (shrugs) You name it. (studies Macreedy) What do you want?
+15) 18) text: Tim studies him, trying to focus.
+15) 19) dialog: You what?
+15) 21) dialog: (interrupting) You ain't from around here. Up Tucson  way -- Phoenix? Mesa? You ain't  sellin' cattle nor seed nor nothin'  like that?
+15) 23) dialog: (reacts; then, tight- lipped) This ain't no information bureau.
+15) 26) dialog: Nobody asked you here.
+15) 28) dialog: (starting after him) What about Adobe Flat?
+15) 32) dialog: (sinking back in his  chair) A fate worse'n death. (he takes the bottle  from Macreedy) You move fast for a crip... for a  big man.
+15) 35) dialog: (slowly) If there's no further questions...
+15) 36) text: Macreedy grins harshly and exits. Tim watches him go, the slowly reaches for the bottle. He pauses, looks at his sh hand. Then he withdraws it and just sits in the chair sta blindly ahead, seeing nothing.
+18) 2) dialog: (abstractedly) He asked about Komako. (looking up at Smith) You think he'll kick up a storm?
+18) 4) dialog: I don't know. All I know, I don't  want trouble around here. (pauses awkwardly,  then) Never again.
+18) 6) dialog: I do not. That's the point.
+18) 8) dialog: Maybe there's something I ought to  know. Maybe I ought to ask you...  before the stranger comes back and  starts breathing down my neck.
+18) 10) dialog: (stands up, facing  Smith) Thing is, I do worry. Maybe I ain't  much else, but I'm sure a worrier. (beat, then with soft  emphasis) And I'm still the law.
+18) 12) dialog: What is my job, Mr. Smith? Maybe I'd  better find out before Macreedy does  it for me.
+18) 14) dialog: Suppose I decide to try?
+18) 16) text: He stares harshly at the Sheriff. Tim tries unsuccessfull to meet his gaze. Then, slowly, he sits down.
+18) 17) dialog: (lowering his eyes,  mumbling) Yes, Mr. Smith.
+18) 18) text: Smith slowly walks behind Tim's chair and silently,  patronizingly pats the Sheriff's slack shoulder...
+23) 0) text: as Hastings runs up the steps with a hobnailed clatter. S comes out to investigate, followed by Tim. Doc, et al are congregated at the foot of the steps. Hastings slaps the  sheet of paper in front of Smith. Utter quiet. Everyone s at Smith, waiting for a reaction -- everyone except Tim, stares straight ahead, seeing nothing, and Doc, whose eye are locked sympathetically on Tim. Smith finishes reading the wire. His face is expressionless. After a moment...
+23) 9) text: He folds the message carefully, puts it in his pocket.  Abruptly Tim turns and disappears inside his office. Smit with some restraint, walks down the steps to the street.
+25) 0) text: Tim stands facing the wall, shoulders hunched, suffering. Doc comes in and watches him silently, Tim turns, facing  Doc, turns again to concentrate on a faded newspaper  photograph framed and hanging on the wall.
+25) 1) dialog: SHOOTING over his shoulder. Focal point: the "photograph" It shows a widly grinning, moderately alert and healthy T of perhaps five years ago. He is wearing, proudly, his ba of office, and behind him, mildly interested in the  proceedings, is Reno Smith, his erstwhile sponsor. The he on the photo reads: DEPUTY SHERIFF NAMED FOR BLACK ROCK.
+25) 3) dialog: Let Smith find himself a new boy. I  can't take it another day. (pauses, looks at Doc) If you're a sheriff, they gotta  respect you, otherwise you can't do  your job. (shakes his head) They just laugh.
+25) 5) dialog: Why don't you?
+25) 7) dialog: You should!
+25) 9) dialog: Four years ago if I'd of done my  job... if I'd of checked up and found  out what happened. But I didn't!  Just like Smith figured.
+25) 11) dialog: Do you believe it?
+25) 13) dialog: Do you know what happened?
+25) 15) dialog: Me, I didn't even try to find out. (a beat) Don't you understand? (he taps the badge on  his chest) When you wear that badge, you're the  Law. And when something happens,  against the Law, you're supposed to  do something about it. It's your  job. (simply) Me... I did nothin'. And that's what's  eatin' me. What kind of prescription  you got for that?
+25) 17) text: Tim takes off his badge and throws it on the desk.
+25) 19) dialog: Why not?
+25) 21) text: They look at each other. Slowly Tim picks up his badge an pins it back on.
+28) 3) text: Coley is flustered, his face blood-shot with fury. He see to generate an atmosphere of vicious, cruel craziness; th wild smile across his mouth is almost sensual, obscene. H floorboards the Packard. Like some monstrous battering ra the heavy car smashes into the jeep's rear bumper, kickin the smaller vehicle jerkily ahead. Coley floorboards the pedal, again. Each time he slams into the jeep with sicke force, with the brutal abrasion of metal pounding metal.
+45) 0) text: Doc sits deep in the battered upholstery of one of the ch He stares fiercely across the room at Smith who is on the couch, reading a neatly folded newspaper. Behind him at t clerk's desk, Pete is fitfully involved in a game of  solitaire. At the foot of the stairs Hector is pouring ch into a slot machine. It whines, grinds, and clicks with  rhythmic monotony, but it never seems to pay off. In the  chair nearest Doc is Tim, with one of his boots off. He w hard and with some concentration, removing the other. The he places them neatly at the foot of his chair. He wiggle his toes -- watching them with some interest. The wheeze and whir of the slot machine stops. The sudden silence turns the eyes of the men toward Hector and the o arm bandit. They follow his gaze up the steps.
+45) 16) text: Doc follows his gaze as Hastings enters the lobby and loo around. He sees Macreedy coming toward him. He walks rigi in an arc past Macreedy to Smith. He holds out a Postal  Telegraph form. Smith puts down his paper and takes it.  Macreedy, followed by Doc, goes over to Smith. Tim in his stockinged feet joins them. Smith scans the message. He looks up to meet Macreedy's g Smith rises. Hector swaggers over from the slot machine.  Hastings slips around the back of the couch, protected by the barricade of Hector's great body.
+45) 27) text: Tim hesitates, blinking his eyes worriedly, shifting from one stockinged foot to the other. Smith watches him insol as he takes the message from Macreedy and gestures with i vaguely...
+45) 28) dialog: (to Smith) I reckon that's right, Mr. Smith...
+45) 30) dialog: (to Smith, seriously) Divulging information -- there's a  law...
+45) 32) dialog: (doggedly) Could be. But I'm still Sheriff.
+45) 34) text: He reaches out, clawing the badge from Tim's chest. He ja it on Hector's vest.
+45) 45) text: He walks out, the new Sheriff strutting beside him, with  Hastings in their wake. For a moment Macreedy, Doc and Ti stand in the center of the lobby. Pete eyes them non- committally and goes back to his solitaire. He glances up now and then, moving the cards with a purposeful sort of  slowness, as of a more natural swiftness restrained by hi preoccupation with the three men in the lobby. Macreedy is deep in thought. Abstractedly he tugs at his  collar and then repeats the ritual of lighting a cigarett Tim's shoulders are slumped. Humiliation has corroded him flesh and soul. Even Doc is momentarily subdued; he too,  feels degraded, unclean. Macreedy looks from one to the o of the good, ineffectual companions that circumstance has haphazardly tossed his way. He takes a few steps to his  suitcase, Doc and Tim trailing him; Doc, for want of some better to do; Tim, out of his deep, inexpressible need fo support. Macreedy takes an untapped bottle of whiskey fro his bag. He thumbs the cork loose and holds the bottle ou to Tim. Tim takes a drink. The light on the clerk's desk goes on, and we are aware t day has gone and that night is falling. The pressing, fie light has drained from the lobby, leaving a shadowy, silv dreariness. The shadows have lengthened and the silver ha tarnished with the darkness.
+45) 47) dialog: (numbly) Ain't we? I am.
+45) 49) dialog: Not me. I'm useless, and I know it.
+45) 53) dialog: Then let me alone.
+45) 59) dialog: (angrily) Lemme alone, I tell ya!
+45) 64) text: Tim sighs, running a thick hand over his forehead...
+45) 65) dialog: I got such a headache, I'm bewildered.  I hurt all over.
+45) 68) dialog: (flatly) I ain't gonna watch, and I ain't  gonna get into it, either.
+45) 70) dialog: I'm gettin' out. I'm sorry, Mr.  Macreedy.
+55) 0) text: as Pete rushes in. He moves directly to the desk, leans o and presses the buzzer behind the desk three times. He tu and runs back toward the rear of the building.
+61) 0) text: re-loads his rifle. Stiffly, he starts slowly down over t rocks toward his unarmed victim...
+70) 0) text: as Macreedy marches Smith up the steps. The jail door ope A man emerges, wearing a Mackinaw over his vest and carry a rifle. It is Tim. For a moment Macreedy eyes him in sil His gun finger tightens on the rifle in his hand. Tim's r too, is at the ready...
+70) 2) dialog: Nope. But I sure thought the situation  was going to be like reversed. I  thought I was going to have trouble... (nodding sharply in  Smith's direction) ...with him. I'll take care of him.
+70) 4) dialog: Just as I took care of his buddies.  Me, an' Doc, and Pete...
+70) 7) text: He pulls Tim's Mackinaw to one side, revealing the silver plated star pinned at the breast.
+70) 9) text: Macreedy swings his rifle from Tim to Smith. Tim lowers h stepping to one side, allowing Smith, covered by Macreedy to enter the jail. He goes in, Doc following. Pete sits  silently at Tim's desk.
+71) 2) dialog: I thought I'd take one last whack at  my job. Even if Smith killed me for  it.
+71) 4) text: Tim turns his key in the cell door. Macreedy tiredly goes Pete at the desk.
+71) 8) text: Pete walks dazedly out the door. Tim grabs Smith's should and propels him roughly through the cell door. He slams i hard. As the clatter of the iron door reverberates harshl
+76) 0) text: Macreedy and a conductor stand at the doorway. The town i seen behind them and the people standing there. In the  distance, Tim's car recedes.

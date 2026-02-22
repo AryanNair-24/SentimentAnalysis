@@ -1,0 +1,158 @@
+16) 5) dialog: (on machine) Hello, Mr Saxon? This is Sadie, from your creative writing class. Anyway, you didn't show up today and I jus see if you were OK and, you know, if there was any readin you wanted us to do. My number is 323-4854. I hope you're
+18) 11) dialog: (over phone) He, Mr Saxon?
+18) 13) dialog: Hi, it's Sadie Crumb, from your creative writing class.
+18) 15) dialog: Are you OK?  Is this a bad time to call?
+18) 17) dialog: I was, I don't know, wondering if you were sick or someth
+18) 19) dialog: Do you need anything?  I mean, I could bring you somethin
+18) 21) dialog: Really, it's no problem.  Have you eaten?
+18) 23) dialog: I can bring you something to eat.  It's no problem.  Some
+18) 25) dialog: Oh, I'm sorry.
+18) 27) dialog: That's OK.  I used to volunteer at a hospital.
+18) 29) dialog: Yeah, I was a candy striper.
+18) 31) dialog: What I mean is, I'm used to it.  You know, sick people.
+18) 33) dialog: Where do you live?
+18) 35) dialog: I'll be there soon.
+18) 38) dialog: Oh.  Do you not eat meat, or anything?
+18) 40) dialog: Great.  Bye. Ed hangs up the phone.  He walks into the -
+25) 0) text: Ed answers the door. SADIE, 18, is the kind of girl who always has something to say in class, who has always done her homewo definite ideas about her future and the future of the pla innocent and naГЇve, nice and well-mannered. But also pus manipulative, used to getting her way.
+25) 1) dialog: Hi, it's me.
+25) 3) dialog: Are you OK?
+25) 5) dialog: It's almost eight.
+25) 7) dialog: I know what you mean.  I'm one of those people who is alw
+25) 9) dialog: I hope you don't mind me coming over like this. It didn't occur to me that it might be a little strange unti up. It's just, well, at my high school, I went to boardin we were pretty close with our teachers.
+25) 11) dialog: I brought you some soup.
+25) 13) dialog: 
+27) 0) text: When Ed comes out, Sadie has put the soup in a bowl and s
+27) 1) dialog: I put it in a bowl for you.  I hope you don't mind.
+27) 4) dialog: I got it at my favorite place.  You don't mind me hanging
+27) 6) dialog: Oh, you graded our papers.
+27) 8) dialog: Can I look?
+27) 10) dialog: Oh.
+27) 12) dialog: I just...I guess I though this one was better.
+27) 15) dialog: Don't change it if it's not good.
+27) 17) dialog: Please don't.  No.  Don't.  Please. Sadie takes the paper away from him.
+27) 19) dialog: It's just. I don't think you're doing me any favors by letting me off easy. I mean, I'm hear to learn. It means do well in your class. You're the best teacher I've had s the University.
+27) 21) dialog: Well, I'm still a freshman, but I've met a lot of teachers and I'm very discerning. Before I took your clas the library and looked up your work.
+27) 23) dialog: No.  I read all your poems, or all they had.  The ones in
+27) 25) dialog: I loved them; the poems especially. I mean, they're dark, but they're so...true. Really. I really got into th photocopied one and put it on my wall. I hope you don't m
+27) 27) dialog: "The Passion of my Youth". It is so intense. "Her eyes blew gently, purposefully by my ears, echoing gentle puls which bounced and fired like a chill on my whole being, l trace to fuel my longing."
+27) 29) dialog: You're married.
+27) 31) dialog: Where's your wife?
+27) 33) dialog: Oh. There is an awkward silence.
+27) 34) dialog: May I use the bathroom?
+30) 0) text: Ed opens the door. Sadie is lying on the floor, passed out. Her pants are around her knees, as if she pas standing up from the toilet. Her nose is bleeding, like she might have hit it on the w The air from the open door wakes her up, but she is in a
+30) 3) dialog: Oh.
+31) 0) text: Ed waits outside and, a second later, Sadie comes out, still reeling, clutching her purse. She leans leads her into the bedroom.
+32) 0) text: Sadie lies down on the bed.
+32) 2) dialog: Yes, please. Ed goes into the -
+34) 0) text: When he comes back, he finds Sadie digging through her pu Then she sits on the bed and drinks a little water.  
+34) 1) dialog: I'm so embarrassed.
+34) 3) dialog: God, my nose.
+34) 5) dialog: No, but the blood.
+34) 7) dialog: It was so weird.  I heard someone's voice, a woman's voic
+34) 9) dialog: It was like it echoed around the bathroom.  Maybe I imagi
+34) 11) dialog: I should go.
+34) 13) dialog: I didn't mean to be such a burden.  I'm such a loser.  I It seems that her nose has stopped bleeding, but her swea
+34) 15) dialog: I feel better now.  Thank you.
+34) 17) dialog: I'll be OK.
+34) 19) dialog: My roommate moved out.  She hated me.  She said I was imm
+34) 21) dialog: I don't have any friends. I don't know what it is. People don't like me here. I thought it would be a good i school far away from home, but since I've been here, it's all this time on my own. At my high school, my friends an close. I just don't get along with people anymore. I don' is.
+34) 23) dialog: You're the first person I've met since I've been here tha Ed walks over to the closet and takes out a sweater.
+34) 25) dialog: She wouldn't mind.
+34) 27) dialog: I bled so much. Ed gets up to give her some room. She slips out of her sweater and puts the other one on. Sadie looks at a picture next to the bed.
+34) 28) dialog: Is this your wife?
+34) 30) dialog: She's so pretty.
+34) 32) dialog: That's awful.  How'd she die?
+34) 34) dialog: That's so sad.  I better go, huh?
+35) 1) dialog: I'm sorry about everything.
+35) 3) dialog: I'll see you tomorrow.
+35) 5) dialog: In school.  You'll be there, right?
+35) 7) dialog: Bye. Sadie kisses him on the cheek and then leaves. Ed locks the door after her.
+55) 0) text: He passes by the bathroom and stops by the bedroom door. He looks into the bedroom where the officer searching through his stuff. They find a copy of Hustler they chuckle about it, before they notice Ed watching the As he watches, he can hear Derm talking to Sadie.
+55) 2) text: Hi. May I speak to Sadie Crumb, please? This is Detective Derm of the Seattle Police Department. Can I as questions? The officers turn and stare at Ed until he leaves.
+79) 3) dialog: (O.S.)
+79) 7) dialog: (O.S.)
+79) 11) dialog: (O.S.)
+80) 0) text: Sadie and Harvey freeze like caught children. HARVEY, 19, looks younger than his is; his facial hair isn't capable yet of filling out his meager g seems hurt, like a spoiled child who hasn't gotten his wa
+80) 2) dialog: Christ.  I'm so sorry.
+80) 4) dialog: Will you shut up?
+80) 7) dialog: Can we just go inside?  Please? Ed lets Sadie inside.
+80) 9) dialog: You really don't understand anything.
+80) 11) dialog: Jesus.  Would you shut up?  You are so embarrassing.
+80) 15) dialog: Let's just go in, OK?  He'll leave.
+80) 17) dialog: Stalker.  Psycho.
+81) 0) text: Sadie stands staring at the floor.  
+81) 1) dialog: I can't believe that.  You know, he followed me here.
+81) 3) dialog: Yeah.  Do you believe it?  Oh my God.  What happened to y
+81) 5) dialog: Are you alright?
+81) 7) dialog: Who hit you?
+81) 9) dialog: I nearly had a heart attack when the police called me.
+81) 11) dialog: Just about me being here.  About what happened.
+81) 13) dialog: That's what I told them.
+81) 15) dialog: You're kidding.
+81) 17) dialog: Oh, yeah.  Damn.  I don't know why I do things like that.
+81) 19) dialog: Oh.  Is she here?
+81) 21) dialog: Don't be mad. It's just that I worry too much. You didn't come to class again. And you said you would. I sta all these ideas. I called you, but nobody answered. I mea your wife's sweater back, but I forgot it.
+81) 23) dialog: Sure.  Anything.
+81) 25) dialog: No problem. Ed finds the prescription on his desk.
+81) 27) dialog: Sure. He hands her the prescription.
+81) 29) dialog: I know the one.  I go there all the time.  It's like my s
+81) 31) dialog: I'll be back in a minute.
+85) 0) text: Ed opens the door and Sadie comes in holding a colorful p
+86) 0) text: Sadie follows him in. Ed opens the pills quickly and swallows three of them wit
+86) 1) dialog: Those pills cost a lot.  They must be strong.
+86) 3) dialog: You must have anxiety.  I can never get to sleep when I'm
+86) 5) dialog: I got you some peroxide and stuff.  And a cookie.  I have
+86) 7) dialog: Actually, I paid for it.  They wouldn't take your card.
+86) 9) dialog: They said you hadn't paid your bill, on the phone.  They
+86) 11) dialog: It's OK.  I charged it to my Dad.  I don't even pay the b
+86) 13) dialog: Pay me back later, then.  Really, it's OK.
+86) 15) dialog: It's fine.  I swear. Sadie looks at the cuts on his face.
+86) 16) dialog: Your face must hurt.
+86) 18) dialog: It's nasty. Sadie takes a closer look.
+86) 19) dialog: Here.  Sit down. She sits Ed down at the kitchen table, under a light, and sits across from him, then takes the peroxide cotton swabs she bought at the pharmacy and starts to dre
+86) 21) dialog: Me neither.
+86) 23) dialog: It does make you look sort of cute, in a pathetic kind of
+86) 25) dialog: Are you really married?
+86) 27) dialog: I don't know.  Some people just say they're married, you
+86) 29) dialog: I didn't mean to imply anything.  It's just that you act
+86) 31) dialog: Not weird, really.  Worried, I guess.  Secretive.  Like y
+86) 33) dialog: Maybe I do.
+86) 35) dialog: I didn't mean to pry.  Well, maybe I did.  I'll just put
+86) 37) dialog: You're not supposed to mix wine with sleeping pills.  It 1tt1Ed searches for a corkscrew and starts to open the bo
+86) 39) dialog: It's dangerous.
+87) 1) dialog: Are you working on anything new?
+87) 3) dialog: Why not?
+87) 5) dialog: I know what you mean.  There's not enough time in the day
+87) 7) dialog: There used to be more?
+87) 9) dialog: But you had all that stuff published.
+87) 11) dialog: Doesn't it?
+87) 14) dialog: Yeah. 1tt1Ed goes over to the door and opens it cautiously.  It
+89) 0) text: Ed waits by the door until he hears her footsteps walking Sadie stands up, looking nervous.
+89) 1) dialog: 2t2Is that your wife?
+89) 3) dialog: 2t2I should go.
+89) 5) dialog: 2t2You must be tired.  Those pills must be working.
+89) 7) dialog: 2t2Still.  You're married, right?
+89) 9) dialog: 2t2Really?  For me, too.
+89) 11) dialog: 2t2If you want me to. Ed comes over to her and kisses her.
+89) 12) dialog: 2t2Can I ask you something?
+89) 14) dialog: 2t2Do you think my writing is good?
+89) 16) dialog: 2t2Yeah.  C minus good.
+89) 18) dialog: 2t2I guess so. She is unresponsive at first.
+89) 19) dialog: (to herself) 2t2What am I doing? They kiss for a minute, then Ed slips his hand under the She kisses him again.
+90) 0) text: Sadie turns the lights off and we can only see by the lig Ed lies on the bed and Sadie lies next to him, under the covers. Ed slips his hand under the back of her fiddles with her bra while they kiss. The gurgling sound starts up again, and while Sadie doesn't notice, or doesn't hear it, it becomes incr distracting to Ed. He looks to the bathroom where the noi from.
+92) 0) text: Sadie breaks away from him, sits up and takes off her swe Ed's kisses move around the side of her neck. As he reaches her ear, he looks up and notices Eve's clothes the chair.
+94) 0) text: Ed is trying to concentrate on Sadie, but he notices the And the noise from the bathroom is getting louder. He turns Sadie onto her back, turning himself away from the closet. His kisses run down her chest until her jeans. He unbuttons her jeans and starts to pull them as he goes. Ed has taken her pants off, but his passion and enthusiasm has faded, and he stops and stares off into sp the bathroom. He is spooked.
+94) 1) dialog: 2t2What's wrong? He looks down and sees Sadie staring at him.
+94) 3) dialog: 2t2Just relax.  Lie back. Sadie gently pushes him back and starts to go down on him Ed get more uptight.
+94) 6) dialog: 2t2Alright.  I'm sorry. Sadie turns away.  She's upset.
+94) 7) dialog: 2t2Maybe I should go.
+94) 9) dialog: 2t2Damn, I'm so stupid.
+94) 11) dialog: 2t2This was a mistake. Sadie gets up and puts on her shirt.  She grabs the rest Ed stares after her, listening to her finish dressing her The clock next to the bed is ticking loudly and the sound
+112) 2) dialog: Hello.
+112) 4) dialog: I wanted to apologize.
+112) 6) dialog: I shouldn't have left like that.  I don't know what came
+112) 8) dialog: I really wanted you to like me.
+112) 10) dialog: I'll still keep your poem on my wall.
+112) 12) dialog: I think it's a beautiful poem.  I really do.  Are you sti
+112) 14) dialog: I wish things had turned out better. She hangs up.  Ed stays on the phone, listening until the Then Ed hears a car pull up outside.  He follows some qui He sees the door knob turn quietly in the door.  The door Ed approaches the door slowly, but suddenly, there is a c The door is strong, and doesn't open, but the wall around After a few seconds, there is another crash against the door. This time the wall shakes so much that which hangs by the door, almost falls off its nail. Ed looks out of the window. The window is positioned facing the street, but not the porch, so he ca it is, but he can see a car parked out front, with the do Inside the car, there is a softball glove lying on the pa along with something that George Simian was wearing when him. George crashes against the door again. This time Eve's picture falls off the wall. It hits the ground spreading broken glass around her picture. The door is starting to loosen around the lock and jamb.

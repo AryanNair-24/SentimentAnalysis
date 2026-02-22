@@ -1,0 +1,178 @@
+0) 0) text: A neat, well-appointed flat, tastefully decorated. Framed against a large window which looks out over the city, an elegant woman in her 70’s: EVELYN GREENSLADE. She’s on th phone, on hold. On the desk in front of her is a brand new laptop compute the screen reads ‘Getting Started ...’
+0) 3) dialog: (overlapping) Yes, now if you could stay on the phone for a moment and talk to me, just talk to me. I’m not even clear, I don’t actually understand what it is I’m trying to order. Is wireless the same as wi-fi? And what do either of them have to do with broadband?
+0) 6) dialog: What?
+0) 8) dialog: You can’t talk to him, no. (beat) He's dead. He died. There’s only me.
+8) 0) text: Evelyn, whom we saw earlier on the phone, is in the livin room. Her son CHRISTOPHER is there. And her lawyer HAROLD.
+8) 6) dialog: That’s what your father used to say.
+8) 8) dialog: When there’d never really been any discussion at all.
+8) 10) dialog: Like he did for forty years
+8) 12) dialog: And look how that turned out. She turns to Harold EVELYN (CONT’D) How can any of us know what Hugh would've wanted? And would he have seen fit to tell us anyway? (Best) Obviously the flat has to be sold. (Best, then to Christopher) And you're very kind. And dear Polly. But no, I won’t be coming to live with you.
+8) 30) dialog: How far along is the progress bar? The strip at the bottom that tells you -
+14) 0) text: A reluctant Christopher is pushing a trolley carrying Evelyn’s cases to the terminal.
+14) 2) dialog: They should be. The hotel paid for them. I’m sure they'd rather have us there than not. And its fantastically cheap for the first three months.
+14) 4) dialog: I’ll call. They do have phones there, you know. Or you can just read my blog.
+14) 6) dialog: On the interweb. You can log in whenever you like, read my news.
+14) 8) dialog: Could you please, before I go, say one thing that is supportive? Because I’ve never done anything like this before.
+14) 10) dialog: Well. I suppose we'll find out, won't we? They head into the building.
+17) 0) text: The passengers from Flight 1045 to Delhi are seated at th gate, waiting to board. Muriel is wheeled up by an attendant and parked at the en of the only remaining row of empty chairs. Douglas and Jean are already sitting there. Jean smiles politely as Graham sits down a couple of seat away. Norman arrives, carrying his battery radio, sees an empty place between Jean and Madge, who is sitting at the end. He smiles knowingly at Madge as he sits. Finally Evelyn takes the only available space, between Graham and Douglas. And there the seven passengers wait patiently, unaware of their common fate. The sound of a jet engine, quiet at first, finally engulf them.
+19) 0) text: Evelyn, Douglas, Jean and Graham are descending on an escalator. Madge is a few steps up.
+19) 5) dialog: I'm not. Although one has read one’s guidebooks. Jean blinks. Evelyn and Graham share a smile. Douglas hides his. And Madge sees it all. As they head towards the baggage carousel, they’re met by Muriel and Norman, emerging from the elevator. Norman is pushing Muriel’s wheelchair.
+22) 0) text: Moments later. Our heroes are in the middle of an extraordinary scene. Stifling heat, deafening noise; the chaos, the bustle, the grime, the crowds, the life. They’re surrounded by taxi drivers, baggage handlers,beggars etc. All clamouring for their attention. Evelyn looks a little shocked. Jean is traumatized, a handkerchief to her face. 28 29 2nd Green Revisions 10/01/11 19. Graham, at the ticket booth, triumphantly holds up a fistful of tickets.
+22) 4) dialog: What larks, Pip. Douglas is just ahead of her. He turns, smiles.
+24) 2) dialog: A few months ago I was organising the church flowers.
+24) 4) dialog: A little.
+24) 6) dialog: No.
+26) 0) text: Everyone is asleep, or trying to sleep. Except Muriel. She reaches into her bag, and carefully removes a biscuit. She surreptitiously lifts it to her mouth, and starts to chew. Madge has fallen asleep on Evelyn’s shoulder. But Evelyn is still awake, as is Graham.
+26) 1) dialog: How long since you were here?
+26) 3) dialog: As long as I was married. (beat) He died recently. My husband.
+26) 5) dialog: D‘you think we’re going to be alright?
+27) 1) dialog: What exactly is a tuk-tuk?
+28) 0) text: Our heroes are squashed into a pair of them, facing forwards and backwards, attempting not to swallow too muc dust as they wheel crazily through the teeming morning streets of the city. They stare in amazement at the world racing past them. A scooter overtakes. A young man is driving, his girlfriend riding side-saddle on the back. Her sari billows out behind her. Douglas and Evelyn both watch her struck by this image of beauty, youth and vitality.
+39) 0) text: Douglas is on his way down the stairs. Evelyn comes out of her bedroom.
+39) 1) dialog: Oh, hello.
+39) 3) dialog: I was just going to find the manager. DOUGLAS. I'm afraid he’s dealing with my wife. Or vice versa.
+39) 4) dialog: I promised I‘d call my son, to tell him I’d arrived, and -
+39) 6) dialog: Yes, did that.
+39) 8) dialog: That too.
+39) 10) dialog: How did you come to be here? In India.
+39) 12) dialog: I’m not sure I understand what most of those words mean.
+39) 14) dialog: Really?
+41) 9) dialog: He moved! He’s alive!
+42) 1) dialog: Day Nine. Old habits die easier than we think, and new ones form. INT. EVELYN’S ROOM, MARIGOLD HOTEL - DAWN 48 Evelyn is typing - hunt and peck - at her computer. Besid her, the classified pages of the local newspaper.
+42) 2) dialog: No longer do I reach out in the morning for Radio 4. My news comes instead from the Jaipur Herald ...
+43) 1) dialog: +++ Soon I might even grow accustomed to the storm of car horns and vendors.
+44) 1) dialog: Can there be anywhere else in the world that is such an assault on the senses?
+44) 3) dialog: Those who know the country of old just go about their business. But nothing can prepare the uninitiated for this riot of noise and colour ...
+46) 1) dialog: ++. for the heat, the motion, the perpetual teeming crowds. Sonny is conducting his own personal assault on our senses ...
+47) 1) dialog: +». with the flow of exotic dishes he demands daily from the kitchen. Mooli Moong Dal. Baghara Baingan. Banjari Gosht. Paneer Methi Chaman ... As the list unfolds, the guests, one by one, enter their bathrooms; a litany of doors closing ... Until Norman. EVELYN (V.0.) (cont‘d) Mutton Vindaloo ... Norman lies on his bed, reading the Kama Sutra. He spins the book round, in order to study an illustratio more intently.
+48) 1) dialog: Initially you’re overwhelmed. But gradually you realise: it’s like a wave. Resist, and you'll be knocked over ... Sonny is in discussion with some doctors. Then he turns to see that Muriel has vanished. Through th window Muriel can be seen frantically wheeling herself aw down the path... EVELYN (V.0O.) (cont’d) Dive into it, and you'll swim out the other side.
+48) 3) dialog: This ig a new and different world. INT. EVELYN’S ROOM, MARIGOLD HOTEL - DAY 56 Evelyn is finishing her blog. She picks up the paper, checks something.
+48) 4) dialog: The challenge is to cope with it.
+49) 0) text: Evelyn is coming down the path to the gate.
+49) 1) dialog: And not just cope ... but thrive.
+50) 0) text: Evelyn is walking down a rough street on the outskirts of the city. Kids are everywhere, laughing, shouting, doing tricks, begging. Evelyn approaches them, holding up a piece of paper. 59 2nd Green Revisions 10/01/11 34.
+50) 1) dialog: Please, can anyone direct me to this address? Evelyn’s piece of paper gets passed around: none of the kids can read. An older boy finally points. Suddenly there's lots of pointing. EVELYN (cont'd) Thank you. She goes to move, but the kids are still all around her. EVELYN (cont'd) I’m sorry, I don’t ... I don’t really have much ... She gives them the contents of her pockets. EVELYN (cont’d) Alright? Alright now? Goodbye. She starts to walk, is surprised that the entire posse of kids walks with her. In fact, the group seems to be growing exponentially. She looks like the Pied Piper. INT. DOUGLAS AND JEAN‘’S ROOM, MARIGOLD HOTEL - DAY 59 Douglas is getting ready to go out. Jean clearly isn't.
+51) 0) text: The road is absolutely rammed; with cars, bikes and rickshaws. All honking horns, all seemingly headed in different directions. Evelyn has somehow made it to the central reservation. Sh takes a deep breath, and plunges into the maze of traffic heading for the other side.
+55) 0) text: Evelyn is still searching for the right address. She's turned off the main road, and is heading down a narrow si streets. The city has become denser, and the walls seem t have closed in. She pushes her way through the crowded market.
+56) 0) text: Uncertain, Evelyn turns down a narrow alley, and suddenly finds herself in an enclosed courtyard strewn with makeshift washing lines. The atmosphere is faintly threatening. As she tries to find her way out, she becomes aware that she is being watched: the walls are full of doorways, and people have come out to stare at her. She has stumbled into their home. Evelyn tries to suppress her panic, turning from one face to another.
+56) 1) dialog: I’m so sorry. I didn’t realise - She backs into a kind of flatbed trolley, piled high with cooking utensils, which clatter noisily to the ground. Sh goes to pick them up. EVELYN (cont’'d) Oh, I’m dreadfully sorry... A man is staring at her: SURESH.
+56) 4) dialog: Do you understand me? Can you help me find this place?
+56) 6) dialog: Is that yes you understand, or yes you can help me?
+56) 8) dialog: Let’s go with both, shall we?
+57) 0) text: Suresh‘s flatbed trike is rolling down the street, piled impossibly high with bundles of brightly-coloured textile On the back, enthroned in the fabric, is Evelyn.
+59) 2) dialog: Thank you.
+59) 4) dialog: This is it?
+59) 6) dialog: Then thank you. You’re very kind.
+60) 2) text: 2nd Green Revisions 10/01/11 39A. TELEMARKETERS (cont'd) I'm afraid I’1l have to refer that to my supervisor ... just a routine security check before we start ... Thank you for talking to us today .... Through a glass partition, Evelyn can be seen sitting at desk, talking to someone. 2nd Green Revisions 10/01/11 40.
+61) 0) text: JAY (late 20’s) is talking to Evelyn.
+61) 2) dialog: Builder's tea. It’s called builder’s tea. And no, I’m fine. Thank you.
+61) 4) dialog: I don’t think you can. I’m sorry, I shouldn’t have come. She stands.
+61) 6) dialog: I saw your advertisement in the local paper, and it specifically mentioned the ability to talk to older people. But this is not what I imagined ...
+61) 8) dialog: I've wasted your time.
+61) 10) dialog: I see that. Good day.
+61) 13) dialog: Yes. We dunk biscuits into it.
+61) 15) dialog: It means lowering a biscuit into your tea, letting it soak in there, then trying to calculate the exact moment just before it dissolves to whip it up to the mouth, and enjoy the blissful union of biscuit and tea combined. (beat) It’s more relaxing than it sounds.
+62) 0) text: A few minutes later. From the open-plan office Evelyn can be seen talking to Jay. One person watching is SUNAINA (20's). She’s talking on the phone.
+66) 0) text: Evelyn comes into the dining area. Graham is there, at a table in the corner.
+66) 2) dialog: Good evening. Evelyn sits at her table. EVELYN (cont’d) I trust you had a good day?
+66) 4) dialog: I got a job. My first. Ever. I’m going to be a sort of cultural advisor.
+66) 6) dialog: Perhaps if you wouldn’t mind keeping that news to yourself.
+66) 8) dialog: Have you had a good day?
+66) 21) dialog: I‘d like that very much.
+67) 0) text: Graham and Evelyn emerge through the arch heading for the rooms. Graham starts down the stairs.
+67) 1) dialog: Goodnight.
+67) 3) dialog: Evelyn.
+68) 0) text: Moments later. Evelyn is sitting in front of Graham’'s collage.
+68) 4) dialog: Until now.
+68) 6) dialog: Do you want to see him again?
+68) 8) dialog: Then you must.
+70) 0) text: Evelyn stands outside her room, listening to the bells, sipping a cup of tea, pensive. She looks down into a dilapidated part of the building, where the staff are housed. Women in bright saris go about their business. INT/EXT. MURIEL’S ROOM/VERANDAH, MARIGOLD HOTEL ~ DAY 76 From her wheelchair, Muriel is re-making her bed. She tucks in a perfect hospital corner. 77 2nd Green Revisions 10/01/11 48. She looks up. Anokhi is on the verandah, replacing her untouched supper tray with breakfast. Anokhi is about to leave, but stops. Then she goes to fetch Muriel’s jar of pickle from the windowsill, and places it on the table. Muriel watches, then wheels herself outside, looks at the tray. From outside, Sonny’s voice can be heard.
+75) 2) dialog: +..You ring in the morning. Let’s assume the person answering will be a woman. She will have had her breakfast. Tea or coffee. Semi-skimmed milk, always. If she’s under 50 she’1ll be contemplating yet another diet, over 50 she’ll have more or less given up, and be eating toast. The radio may be playing, or more likely daytime TV. A chat show, or a programme with a moderator speaking to a panel of young women whose boyfriends have all slept with their mothers. The girlfriends’ mothers, I mean, not their own. Although ... Anyway, then the boyfriends usually come out, and everybody fights. Sunaina is in the audience. She calls out.
+75) 4) dialog: That’s the point. When the phone rings and it’s this robot ... nobody wants a machine, but it’s almost worse when it’s a person behaving like one. All these sales cliches just strung together. ‘Your call is important to us’. Is it? Well then sound like it. 84 85 2nd Green Revisions 10/01/11 55.
+75) 6) dialog: Right. That one. Don’t ever say that.
+75) 8) dialog: Yes, when your middle name is actually ...
+75) 10) dialog: Which is beautiful. You people are young, vibrant, real. I’m sure the typical housewife would enjoy talking to each and every one of you.
+75) 12) dialog: I suppose I'm not typical anymore. (to Jay) Is that the sort of thing? INT. MADGE’S ROOM - EVENING 84 Madge is at her mirror, doing her make-up with great care She looks beautiful.
+80) 1) dialog: Day 22. Like Darwin's finches, we are slowly adapting to our environment. And when one does adapt, my god, the riches that are available. Madge looks across the bar. And is startled to see Norman and Carol chatting up a storm, laughing together. As she watches, Norman orders more drinks, then turns smiling back to his new friend. Madge walks slowly out of the bar, and into the night. INT. EVELYN’S ROOM. MARIGOLD HOTEL - MORNING 90 Evelyn is at her computer, typing.
+80) 2) dialog: There is no past that we can bring back by longing for it ...
+81) 1) dialog: ++. only a present that builds and creates itself as the past withdraws ... INT. SUPERVISOR’S OFFICE. CALL CENTRE - DAY 92 Jay is counting out cash into Evelyn’s hand; her first paycheck.
+81) 2) dialog: And India, like so many things in life, like life itself I suppose, is about what you bring to it.
+84) 0) text: The market is buzzing with commerce. Evelyn is at a stall selling fabrics, talking to the vendor, AKRAM.
+84) 1) dialog: (holding up a pashmina) How much for this, please Kitna paise
+84) 3) dialog: Thank you. She reaches for her wallet. Then Douglas speaks from behind her.
+84) 5) dialog: Good morning.
+84) 9) dialog: But -
+84) 11) dialog: Yes. The thing is, you see, I did actually want to buy that. To brighten up my room.
+84) 13) dialog: Do you think so?
+84) 17) dialog: Eight hundred and fifty, nine hundred, nine hundred and fifty, one thousand. She turns to Douglas, smiles. EVELYN (cont'd) You‘ll get him next time. Then she notices something. EVELYN (cont'd) Why are you carrying a tap?
+86) 9) dialog: The day I met my husband was the day the fair came to town. girlfriend and I went on the carousel. Her horse was fine. But when the ride began I felt mine give a little, like it might collapse. Then these strong arms were around me, holding the horse together. And a voice in my ear said “Just trust me”. And I did. Without question. Until the day he died.
+86) 11) dialog: The sale of our flat went through last week. I had to sell it to pay off Hugh’s debts. (beat) I’ve been forced to get a job out here. Which, in fact, I love. But even at Sonny’s rates, I still couldn’t make ends meet. After what my own husband did to our life savings. (beat) Sono. You're right. You never know. Jamshed holds up the tap. Which is now in several parts.
+91) 14) text: Evelyn is outside in the courtyard. We don’t see Douglas.
+91) 15) dialog: Anything?
+91) 17) dialog: How about now?
+91) 19) dialog: What?
+91) 21) dialog: Mrs Ainslie, how are you? Did you have a good day? Jean doesn’t answer. She’s staring at Douglas. Who looks so happy.
+91) 27) dialog: Do excuse me. She makes a tactful exit. Jean is going past Douglas into their room.
+96) 0) text: Graham and Evelyn are having drinks.
+96) 1) dialog: I’ve been getting out and about as much as I can, but I feel I’ve hardly scratched the surface. And of course I’d love to see Udaipur. The lake you talked about.
+96) 3) dialog: (simultaneously) Good evening. 2nd Green Revisions 10/01/11 81A. An awkward moment. Graham stands. 116 117 2nd Green Revisions 10/01/11 82.
+98) 0) text: Douglas, Graham and Evelyn are looking at the menu. Sonny bursts in.
+99) 0) text: Graham, Evelyn, and Douglas are walking quickly up a quie street.
+99) 2) dialog: I think you should knock on the door and see.
+100) 0) text: Some men sit under a tree, playing cards. 120 2nd Green Revisions 10/01/11 84. Across the street, Graham approaches a house. At a polite distance, Evelyn and Douglas wait. Graham knocks at the open door. A woman, GAURIKA, appears. She stares at Graham.
+101) 0) text: Douglas and Evelyn are walking.
+101) 3) dialog: What was she thinking?
+101) 5) dialog: His wife. Manoj’s wife. She knew who Graham was. Had he told her? (beat) D‘you think we'll find out tomorrow?
+101) 7) dialog: Tell me.
+113) 1) dialog: Sunaina? And now Sunaina is even more humiliated. EXT. STREET. MARIGOLD HOTEL — NIGHT 132A Sunaina roars away on her scooter.
+120) 2) dialog: You’re back. He doesn’t turn round. Evelyn has come out to the garden. She goes over to him. EVELYN (cont'd) It’s been rather an extraordinary night all round. First tell me your news, and then - She breaks off. Graham is dead.
+121) 1) dialog: Day 45. Of course it was inevitable. Put enough old people in the same place, it won't be too long before one of them goes.... Jean, Douglas, Madge, Norman and Muriel shocked and sober
+123) 0) text: Evelyn stares out of the window. Madge, Norman, Douglas and Jean are behind her. Opposite sits Manoj. Evelyn turns to look at him, and at Gaurika, Manoj’s wife, who sits beside him.
+123) 1) dialog: We all know it'll happen, but few of us know when. Graham died of a heart attack, evidently not his first. So he had a better idea than most what was coming, he just neglected to tell us. His prerogative.
+124) 1) dialog: There was talk of sending the body home, but Manoj felt he should have a Hindu burial. At the place they had visited together. Not a holy place. Although for them perhaps it was.
+125) 1) dialog: A body takes a long time to be consumed. Many hours for the mourners to remember their dead. The fire must be lit at dawn, and by sunset, there must be nothing left but ash.
+126) 1) dialog: Where do our souls go? Is that all of us that is left behind? Perhaps the most we can ask is that when we do shuffle off, we do so knowing that we were loved Manoj pours Graham onto the water. The ashes shimmer and dance, caught in the gentle currents. EXT. SERVANT’S GARDEN. MARIGOLD HOTEL - DAY 145 Muriel and Anokhi are in the servants’ garden. Young Wasi sits silently in the corner.
+128) 0) text: The landing is large, and open to the sky. Evelyn has jus come up the stairs to go to her room. She’s leaning again the stone baluster.
+128) 2) dialog: I went to see Gaurika. Manoj’s wife. I wanted to ask her what she knew. And the answer was that she knew everything, that he’d loved another man, and always would. He told her when the marriage was arranged. (beat) They had no secrets from each other, none. Suddenly she's crying. Unable to stop. Douglas puts his arms around her, and holds her to him. EVELYN (cont‘d) And that’s right, don’t you see? That must be right. Because what is the point of a marriage in which nothing is shared? Her words hang in the air. They stand there for a moment. Jean has come out of her room, and stands there, watching them.
+128) 5) dialog: Yes, of course.
+129) 0) text: Evelyn comes onto the terrace, and heads for Madge and Norman. She picks up Madge‘s glass.
+129) 2) dialog: I just need some water. She drains the glass.
+129) 4) dialog: Yes. I know that now.
+130) 0) text: The train rattles its way through the night. Jean is chatting away, in a better mood than we’ve seen her for some time. Evelyn listens in silence.
+131) 2) dialog: I’m actually going to walk. Apparently they're getting ready for a festival.
+131) 5) dialog: I'll be fine. Evelyn speaks to both Douglas and Jean. EVELYN (cont'd) I’m delighted for your daughter‘s success. I wish you all every happiness.
+134) 0) text: Evelyn stands under the awning of the ticket office.
+134) 1) dialog: I just wanted to hear your voice. (beat) No, I’m sorry, I didn’t think about the time ... How are you? And Polly? The boys ... how are the boys? She listens to him. She’s holding back tears. EVELYN (cont’d) Oh good, I’m glad you’ve been reading it. Yes. Yes, I’ve made some very good friends. (beat) No, I’m fine, of course I am. 2nd Green Revisions 10/01/11 103. As much as she had wanted to speak to him, she now wants the conversation to be over. EVELYN (cont’d) I think my money is running out, I'd better go. Goodbye for now, darling. I’11 call again later. She hangs up. And stays there with her hand on the phone. Out on the street, Sonny is pulling up. She looks over to him.
+134) 3) dialog: They’re on their way to the hotel. Sonny looks around, at a loss. EVELYN (cont'd) What’s the matter?
+134) 5) dialog: What are you talking about?
+134) 7) dialog: What?
+136) 0) text: Sonny and Evelyn are still talking.
+136) 2) dialog: But what about your girlfriend?
+136) 4) dialog: This is a disaster.
+136) 6) dialog: Sonny, do you love her? Sunaina? 2nd Green Revisions 10/01/11 105.
+136) 8) dialog: Have you told her you love her?
+136) 10) dialog: And you have told her that?
+136) 12) dialog: Good. Women love it when you say that kind of thing. It’s a powerful aphrodisiac.
+136) 14) dialog: No, of course not. Go and find her right now, before you lose her forever. Her future is hers to choose, and so is yours. You can have anything you want, Sonny. You just need to stop waiting for someone to tell you you deserve it. Or you can just keep failing yourself, and hurting the ones you love -
+139) 0) text: Evelyn approaches. She sees a taxi waiting outside the hotel.
+141) 0) text: Evelyn comes into the courtyard. Muriel is sitting there. The two women stare at each other.
+145) 0) text: Douglas comes back into the courtyard, heads towards the staircase to Evelyn’s room. Then Muriel speaks from her verandah.
+152) 33) dialog: What about me, Mrs Donnelly?
+152) 35) dialog: My loss, evidently. (beat) I’m not sure what I should do. Nothing here has quite worked out as I hoped. 2nd Green Revisions 10/01/11 117A.
+152) 39) dialog: You don’t know him. He’s the most loyal man I’ve ever met.
+153) 1) dialog: Day 51. The only real failure is the failure to try. INT. EVELYN’S ROOM, MARIGOLD HOTEL - EVENING 175B Evelyn is at her computer typing. 175¢ 176 177 178 179 2nd Green Revisions 10/01/11 119.
+153) 2) dialog: And the measure of success is how we cope with disappointment. As we always must. EXT. STREET, CENTRAL JAIPUR - NIGHT 175¢ Douglas, still holding his suitcase, is surrounded by Ganeshi drummers, silhouetted against the lights of the city. The sound fades as he disappears into the celebration, an is replaced by the gentle sound of temple bells, ringing for morning prayers.
+153) 3) dialog: We came here, and we tried. All of us, in our different ways. INT. EVELYN’S ROOM, MARIGOLD HOTEL - MORNING 176 Evelyn is still sitting, fully dressed in her room. She’s been up all night. Her alarm clock buzzes. She turns it off. EXT. EVELYN’S TERRACE, MARIGOLD HOTEL - MORNING 177 Evelyn comes out of her room, walks across the terrace.
+154) 1) dialog: Some achieved more than others. but we did our best. Nothing else matters. Evelyn walks through the courtyard, and on out of the hotel.
+155) 0) text: Evelyn walks down the path towards the street. Then Douglas comes through the gate, with his suitcase. They stand there, looking at each other for a moment.
+155) 1) dialog: Good morning. Beat. 2nd Green Revisions 10/01/11 120.
+155) 3) dialog: You’re still here.
+155) 5) dialog: What about Jean?
+155) 7) dialog: I’m late for work. She goes past him.
+155) 9) dialog: I get back about 5.
+155) 12) dialog: Yes.
+155) 14) dialog: With a little milk. She turns and walks away. She’s smiling.
+156) 1) dialog: Perhaps it's true: we don’t stop Playing because we grow old, we grow old because we stop playing. Douglas is haggling with a motorbike mechanic. He seems t be having more success with the price than in earlier day
+157) 1) dialog: All we really know about the future is that it will be different.
+158) 0) text: Madge is chatting vivaciously to someone. It’s the elegan older man we saw earlier. And he seems utterly smitten. EVELYN (V.O.) (CONT’D) So we must celebrate the changes.
+159) 1) dialog: Let them come. Bring them on. Because as someone once said, everything will be alright in the end ... 2nd Green Revisions 10/01/11 122. Coming from the other direction, another motorbike, Dougl at the handlebars, returning Sonny’s greeting. And on the pillion seat, riding side-saddle, her scarf flying in the breeze, is Evelyn, on her way home from wor EVELYN (V.0.) (cont'd) So if it's really not alright, then trust me: it’s not yet the end.

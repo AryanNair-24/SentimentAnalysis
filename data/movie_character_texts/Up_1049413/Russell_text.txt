@@ -1,0 +1,413 @@
+47) 1) text: The door opens. A Wilderness Explorer stands, reading from a Wilderness Explorer Manual. He is in uniform, complete with sash, neckerchief, hat, and an enormous backpack stuffed with e piece of equipment there is. This is RUSSELL, age 8. Russell, nose buried in his MANUAL, reads to Carl.
+47) 2) dialog: "Good afternoon. My name is Russell. And I am a Wilderness Explorer in Tribe 54, Sweatlodge 12. Are you in need of any assistance today, sir?"
+47) 3) text: As he finishes the script, Russell smiles up at Carl.
+47) 10) dialog: I could help you cross the street.
+47) 13) dialog: I could help you cross your yard.
+47) 17) dialog: I could help you cross your... porch?
+47) 20) dialog: Well, I gotta help you cross something.
+47) 23) text: Carl closes the door in Russell's face.
+48) 3) dialog: "Good afternoon. My name is Russell."
+48) 7) dialog: "And I am a Wilderness Explorer in Tribe 54, Sweatlodge 12."
+48) 9) text: Russell stops... but goes back to reading.
+48) 10) dialog: "Are you in need of any assistance today Sir?"
+48) 17) dialog: Ow.
+48) 18) text: Carl opens the door.    Russell stands at attention.
+48) 21) dialog: "Good afternoon. My-"
+48) 23) text: Russell points to his SASH. It is covered with badges exc for one glaringly empty space.
+48) 25) dialog: See these? These are my Wilderness Explorer badges. You may notice one is missing. It's my Assisting the Elderly badge. If I get it I will become a Senior Wilderness Explorer!
+48) 26) text: Russell makes the Explorer Sign: his thumbs form a "W", h fingers the "wings" of a bird, then the "claws" of a bear
+48) 28) dialog: "The wilderness must be explored! CAW-CAW! RAAAR!"
+48) 30) dialog: It's gonna be great! There's a big ceremony, and all the dads come, and they pin on our badges...
+48) 33) dialog: Yep! Then I will be a Senior Wilderness Explorer!
+48) 34) text: Carl leans in close to Russell.
+48) 41) dialog: Snipe?
+48) 44) dialog: Me! Me!   I'll do it!
+48) 48) dialog: I'll find it, Mr. Fredricksen!
+48) 51) dialog: Two blocks down! Got it!
+48) 52) text: Russell runs down the block clapping and calling.
+48) 53) dialog: Sniiiipe! Here Snipey Snipey...
+68) 1) text: Nothing. He looks left.     Nothing.   He looks right. He looks... Russell?!!
+68) 3) dialog: Hi, Mr. Fredricksen.    It's me, Russell.
+68) 6) text: Russell is plastered up against the wall, terrified and holding on for dear life.
+68) 7) dialog: I found the snipe and I followed it under your porch, but this snipe had a long tail and looked more like a large mouse.
+68) 8) text: The flag on Russell's backpack blows off and falls throug the clouds.
+68) 10) dialog: Please let me in?
+68) 12) text: Carl slams the door, leaving Russell alone. Beat. The door opens again.
+68) 15) text: Russell runs into the house past Carl.
+69) 1) text: Russell PANTS, panicked.   He looks into living room.
+69) 3) dialog: Huh. I've never been in a floating house before.
+69) 4) text: Carl follows Russell into the living room.   Russell chuc and points at the photo of young Ellie.
+69) 5) dialog: Goggles.   Look at this stuff!
+69) 6) text: Russell finds Ellie's house drawing sitting on the pages the open atlas.
+69) 8) dialog: Wow, you going on a trip? (reads from the engraving) "Paradise Falls: A Land Lost in Time." You going to South America, Mr. Fredricksen?
+69) 11) dialog: You know, most people take a plane, but you're smart because you'll have all your TV and clocks and stuff.
+69) 12) text: Russell runs over to the steering rig.
+69) 14) dialog: Whoah.   Is this how you steer your house?   Does it really work?
+69) 17) text: Russell steers and the house tilts, knocking Carl back an forth.
+69) 19) dialog: Oh, this makes it go right, and that way's left.
+69) 22) text: Russell looks out the window in front of him.
+69) 27) dialog: Hey look, buildings!
+70) 0) text: Russell and Carl arrive at the window.
+70) 2) dialog: That building's so close I could almost touch it.
+70) 5) text: Carl lowers Russell on a rope below the floating house.
+70) 6) dialog: Wow! This is great! You should try this, Mr. Fredricksen! Look, there's a bus that could take me home two blocks away! (looking up) Hey, I can see your house from here!
+70) 8) text: The rope slips through Carl's hands.   Russell FALLS.
+70) 12) text: Carl leaves Russell at the window.
+70) 13) dialog: I know that cloud, it's a Cumulo Nimbus. Did you know that the Cumulo Nimbus...
+71) 8) dialog: ...warm air goes by cool air, and the airs go by each other and that's how we get lightning.
+71) 11) text: Carl turns off his hearing aid.    Silence.   He smiles. Russell tries to get Carl's attention.   A storm is brewi the distance.
+71) 13) dialog: (nearly silent) Mr. Fredricksen, there's a big storm coming. It's starting to get scary. We're gonna get blown to bits! We're in big trouble, Mr. Fredricksen!
+71) 17) dialog: Look!
+72) 0) text: Carl joins Russell at the window.
+72) 2) dialog: See?    Cumulo Nimbus.
+73) 2) text: Plates fall from the walls and furniture slides as the ho is rocked in the storm. Russell's backpack slides toward the front door.
+73) 7) dialog: My pack!
+73) 8) text: Russell HOPS on top of the backpack.
+73) 10) dialog: Got ya!
+73) 11) text: The pack slides toward the OPEN FRONT DOOR. Russell screa He's about to slide out when the house tilts and the door swings shut.
+75) 3) dialog: Whew!    I thought you were dead.
+75) 7) dialog: I steered us. I did!      I steered the house!
+75) 13) dialog: After you tied your stuff down you took a nap, so I went ahead and steered us down here.
+79) 2) dialog: Oh we're in South America all right. It was a cinch, with my Wilderness Explorer GPS.
+79) 3) text: Russell holds up his WILDERNESS EXPLORER GPS UNIT.
+79) 5) dialog: My dad gave it to me. It shows exactly where we are on the planet. With this baby, we'll never be lost!
+79) 6) text: Russell gestures, tossing the unit out the window.
+80) 0) text: Carl and Russell watch the tiny GPS unit descend into the clouds.
+80) 2) dialog: Oops.
+81) 5) dialog: Sure, but I don't think they have busses in Paradise Falls.
+83) 2) text: Russell follows Carl toward the front door.
+83) 4) dialog: Nah, I'll just use my city bus pass.
+84) 3) dialog: Whoah, that's gonna be like a billion transfers to get back to my house.
+85) 0) text: Carl and Russell stand on the porch as the house moves do into and through the thick, dark clouds.
+85) 2) dialog: Mr. Fredricksen, how much longer?
+85) 14) dialog: What was that, Mr. Fredricksen?
+86) 2) text: Russell and Carl fly off the porch and onto the ground. land hard.
+86) 8) text: Russell JUMPS onto Carl's leg and the extra weight pulls to the ground.
+86) 11) text: Carl and Russell slide toward the edge of a CLIFF EDGE.
+86) 13) dialog: Whoah!
+86) 21) dialog: Okay!
+86) 22) text: Russell PULLS Carl by the leg away from the cliff edge. Carl, still hanging from the hose, looks around. Fog blankets the mysterious landscape, revealing only scattered rocks.
+86) 26) dialog: This doesn't look like the city or the jungle, Mr. Fredricksen.
+86) 35) text: Carl shows Russell the engraving with the Ellie drawing o the house atop the falls.
+86) 39) dialog: You mean assist you?
+86) 43) dialog: Okay, I'll climb up!
+86) 44) text: Russell CLIMBS Carl, stepping on his leg, arms, and face.
+86) 51) dialog: Sorry.
+86) 52) text: The hose jiggles as Russell CLIMBS out of frame.
+86) 55) text: Russell continues to grunt and strain off screen.
+86) 57) text: Russell is just inches above Carl, still STRUGGLING to cl He slides down onto Carl's head, exhausted.
+86) 62) dialog: Hey, if I could assist you over there, would you sign off on my badge?
+86) 66) dialog: We could walk your house to the falls!
+86) 69) dialog: Yeah, after all, we weigh it down. We could walk it right over there. Like a parade balloon.
+86) 77) text: The house floats against the sky. The hose descends from house and "Y"s to tie to both Carl and Russell. They wear the hose like a harness, pulling the house as they walk.
+86) 79) text: Russell inspects his surroundings.
+86) 80) dialog: (DISTRACTED) Uh-huh.
+86) 84) dialog: Sand!
+86) 86) dialog: I found sand!
+86) 89) text: Russell looks up at the house.   Who's Carl talking to?
+86) 91) dialog: Huh. (shrugs it off) This is fun already, isn't it? By the time we get there, you're gonna feel so assisted... Oh, Mr. Fredricksen, if we happen to get separated, use the Wilderness Explorer call. Caw caw, raaar!!
+86) 97) dialog: Wait. Why are we going to Paradise Falls again?
+86) 101) dialog: Cool!   My mom loves that game!
+90) 4) text: Russell plods forward, dragging his feet.
+90) 6) dialog: I'm tiiiired. And my knee hurts.
+90) 9) dialog: My elbow hurts and I have to go to the bathroom.
+90) 12) dialog: Well, I didn't have to go then!
+90) 13) text: Russell goes limp and lies face down in the dirt.
+90) 14) dialog: I don't want to walk anymore.     Can we stop?
+90) 18) dialog: There's no tigers in South America.
+90) 19) text: Russell rolls over to show Carl a badge.
+90) 21) dialog: Zoology.
+90) 24) dialog: Okay!   Here, hold my stuff.
+90) 28) text: Somehow energized, Russell jams his pack into Carl's hand secures his rope to a tree and tromps off into the shrubs
+90) 30) dialog: I've always wanted to try this!
+90) 32) dialog: Mr. Fredricksen? Am I supposed to dig the hole before or after?
+90) 37) dialog: Oh.    It's before!
+91) 1) text: Russell pats down a mound and SIGHS in satisfaction.
+91) 4) dialog: Huh?  Tracks?! (REALIZING) Snipe!
+91) 5) text: Russell follows the tracks into the dark jungle, clapping
+91) 7) dialog: Here, snipe... Come on out, snipe. Snipe!
+91) 10) dialog: Huh.
+91) 11) text: Russell munches on a chocolate bar.
+91) 16) text: Russell turns.    Nothing there.
+91) 19) dialog: Ha! Gotcha!
+91) 20) text: Russell peers into the shrub.
+91) 22) dialog: Don't be afraid, little snipe. I am a Wilderness Explorer so I am a friend to all of nature. Want some more?
+91) 23) text: Russell holds out the chocolate.   The beak pokes out and nibbles.
+91) 24) dialog: Hi boy.    Don't eat it all.   Come on out.
+91) 26) dialog: Come on. Don't be afraid little snipe. Nice snipe. Good little snipe. Nice...
+91) 27) text: A massive shadowy creature rises up over Russell.
+91) 28) dialog: ...giant snipe!
+92) 1) text: Carl checks the knot on his hose harness.    Russell and massive creature step up behind him.
+92) 2) dialog: I found the snipe!
+92) 6) dialog: Are they tall?
+92) 13) dialog: Do they have a lot of colors?
+92) 16) dialog: Do they like chocolate?
+92) 19) text: Carl turns to look. Next to Russell stands a 13 foot tall, multicolored BIRD.
+92) 22) dialog: It's a snipe!
+92) 25) dialog: But you said snipes eat--
+92) 26) text: Carl grabs Russell, pulling him away from the bird.
+92) 27) text: The bird HISSES at Carl and grabs Russell back.   It crad Russell like a baby.
+92) 29) dialog: Whoah!
+92) 30) text: Russell GIGGLES.
+92) 33) text: The bird HISSES. It takes Russell up into a tree, swinging him around playfully. It looks scary and fun.
+92) 35) dialog: (LAUGHING) Whoah! Whoah!
+92) 42) dialog: (LAUGHING) Hey, look Mr. Fredricksen, it likes me!
+92) 45) text: The bird grooms Russell.
+92) 47) dialog: (LAUGHING) No stop, that tickles!
+92) 50) text: The bird sets Russell down.     It stalks Carl, HISSING a ruffling its feathers.
+92) 54) dialog: Uh-oh! No no no no no Kevin, it's okay. Mr. Fredricksen is nice!
+92) 55) text: Russell pats Carl on the head.
+92) 57) dialog: Yeah, that's his name I just gave him.
+92) 74) dialog: Can we keep him? Please?? I'll get the food for him, I'll walk him, I'll change his newspapers...
+92) 78) dialog: (RECITING) "An Explorer is a friend to all, be it plants or fish or tiny mole."
+92) 82) dialog: Yeah it does.
+92) 83) text: Russell points up to the roof of Carl's house.
+92) 85) dialog: Hey, look!     Kevin!
+92) 88) text: The bird is on Carl's roof. It swallows a balloon. It POP The bird coughs up the deflated balloon. Russell GIGGLES.
+92) 90) text: The bird jumps down and hides behind Russell.
+92) 93) dialog: Ellie? (gets idea)
+93) 1) text: Carl and Russell pull the house through the mist. Russell discreetly drops chocolate pieces along their tra
+93) 12) text: Carl and Russell look around. In the midst, some 100 feet away, they see the FIGURE OF A MAN.
+93) 29) text: Russell GIGGLES.
+93) 31) dialog: You were talking to a rock.
+93) 32) text: Russell points to another rock shape.
+93) 34) dialog: Hey, that one looks like a turtle!
+93) 37) dialog: Look at that one!     That one looks like a dog!
+93) 39) dialog: It is a dog!
+93) 42) dialog: Uh, we're not allowed to have dogs in my apartment.
+93) 43) text: The dog nuzzles Russell, who nervously pets it.
+93) 45) dialog: Hey, I like dogs!
+93) 48) dialog: Sit boy.
+93) 54) dialog: Hey look, he's trained!    Shake!
+93) 55) text: The dog raises his paw and Russell shakes it.
+93) 57) dialog: Uh-huh.    Speak.
+93) 60) text: Carl and Russell freeze.
+93) 82) dialog: Cool! What do these do, boy?
+93) 92) text: Dug sniffs the ground around Carl and Russell.
+93) 110) dialog: Can we keep him? Please please please?
+93) 113) text: Russell falls to his knees, pleading.
+93) 115) dialog: But it's a talking dog!
+93) 118) text: Carl grabs Russell.   The bird follows, as does Dug.
+94) 54) text: On the collar screen, the dogs get a fleeting glimpse of boy's face. It's Russell.
+94) 56) dialog: (on video screen) Hey Dug! Who you talking to?
+95) 4) dialog: Dug, stop bothering Kevin!
+95) 13) dialog: Hey!     Quit it!
+95) 16) text: Russell tries to separate them, which pulls on Carl's tet
+95) 19) text: Carl pulls on the tether, knocking Russell over.   Carl f pulling the house into a tall rock. SMASH! Carl GASPS.   He turns his anger to the group.
+95) 42) dialog: Why?
+95) 52) text: Carl grabs Russell and runs.
+95) 56) dialog: Wait.   Wait, Mr. Fredricksen.
+98) 0) text: Carl and Russell crossing the river balance on rocks. slips and his foot goes into the water.
+99) 2) dialog: What are we doing?
+100) 2) dialog: Hey, uh, we're pretty far now. Kevin's gonna miss me.
+102) 0) text: A clap of thunder. Lightning flashes reveal rain pouring down on the house. Beneath it, Carl and Russell are kept dry, sitting around a pathetic flickering campfire.
+102) 4) dialog: Which one's the front?
+102) 5) text: Russell struggles to set up the tent.       He reads his
+102) 6) dialog: Is this step three, or step five?
+102) 7) text: Carl ROLLS HIS EYES at Russell's ineptness.
+102) 9) dialog: There!
+102) 10) text: Russell struggles with a tent pole, trying to winch it in place.
+102) 11) text: Carl can't watch. An off screen SMACK!      Russell walks to Carl.   Miracu he looks unscathed.
+102) 13) dialog: All done.
+102) 14) text: Russell turns, revealing a large RED WELT on his face.
+102) 19) dialog: (pointing to tent) That's for you!
+102) 22) dialog: Awh.   Tents are hard.
+102) 25) dialog: Yeah, but... can I tell you a secret?
+102) 27) dialog: Alright, here goes. I never actually built a tent before. There. I said it.
+102) 30) dialog: Well, never outside.
+102) 33) dialog: I don't think he wants to talk about this stuff.
+102) 37) dialog: Well, he's away a lot.   I don't see him much.
+102) 44) dialog: Well, I called, but Phyllis told me I bug him too much.
+102) 48) dialog: Phyllis isn't my mom.
+102) 53) dialog: But he promised he'd come to my Explorer ceremony to pin on my Assisting the Elderly badge, so he can show me about tents then, right?
+102) 54) text: Carl studies Russell's sad optimism.   He looks at the mi badge on Russell's sash.
+102) 59) dialog: Mr. Fredricksen, Dug says he wants to take Kevin prisoner. We have to protect him!
+102) 60) text: Russell YAWNS and lies down on the rock next to Carl.
+102) 61) dialog: Can Kevin go with us?
+102) 64) dialog: Promise you won't leave him?
+102) 71) dialog: Cross your heart?
+102) 72) text: Carl looks down at Russell.
+103) 7) text: Russell sits up with a SNORT.
+103) 8) dialog: Where's Kevin? He's wandered off! Kevin! Dug, find Kevin!
+103) 16) dialog: Oh, look! There he is.
+103) 17) text: Russell points to the right.   The bird is on top of Carl house. Dug turns around.
+103) 31) dialog: Her babies! Kevin's a girl?
+103) 38) text: The bird "hugs" Russell goodbye and pats Carl on the head with her beak. She HISSES at Dug.
+103) 39) dialog: Wait, Kevin's just leaving? But you promised to protect her!
+103) 41) dialog: Her babies need her, we gotta make sure they're together.
+103) 49) dialog: Yeah...
+105) 0) text: Russell chews on some chocolate.
+105) 1) dialog: This was her favorite chocolate. Because you sent her away, there's more for you.
+105) 7) dialog: Kevin?
+105) 8) text: Beta and Gamma, run toward Carl and Russell, viciously barking and growling. Carl protects Russell with his cane
+105) 25) text: Carl and Russell look at Dug.    He turned on them!   Dug shamefully lowers his head.
+105) 33) text: The dogs lead Carl and Russell like prisoners.    Dug fol The house is pulled after them, and on the roof: THE BIRD
+106) 0) text: Alpha leads Carl and Russell through a canyon.
+106) 1) text: Dogs patrol the tops of the canyon walls. Four more large dogs join the group.    Carl and Russell warily and continue their march.
+107) 2) text: DOZENS OF DOGS step out of the cave. Carl and Russell sto More dogs approach from the side. Every way Carl turns th are more dogs!
+107) 3) text: Growling and snarling, the dogs surround Carl and Russell Closer... closer...
+107) 6) text: The dogs stop. A figure peers out from the darkness. examines Carl, Russell, and the floating house.
+107) 12) text: The man laughs.   Carl and Russell laugh along nervously.
+107) 32) dialog: (EXCITED) It is?!? (CONSIDERS) Who's Charles Muntz?
+107) 44) dialog: Uh-huh.
+107) 52) text: Muntz walks into the cave. Carl and Russell excitedly fol
+108) 17) text: Carl and Russell follow up the ramp.
+110) 0) text: Carl and Russell are speechless as they walk into the roo It's a treasure trove of giant skeletons, stuffed creatur and rare cultural artifacts.
+110) 1) text: Various servant dogs dust and polish as Muntz leads Carl Russell through the room.
+110) 28) text: Russell reacts.
+110) 30) dialog: I liked his other voice.
+111) 1) text: Muntz leads Carl and Russell into the dining room and up large table.
+111) 9) dialog: Yes!!
+111) 10) text: Russell is served a hot dog.   His waiter can't resist an eats a bite.
+111) 12) dialog: Hey!
+111) 14) dialog: Hey!
+111) 31) text: In the excitement a dog swipes the rest of Russell's hot
+111) 33) dialog: Hey!
+111) 49) text: Distracted Russell finally notices the skeleton.
+111) 51) dialog: Hey, that looks like Kevin!
+111) 55) dialog: Yeah! That's my new giant bird pet. I trained it to follow us.
+111) 59) dialog: She likes chocolate.
+111) 60) text: Russell holds up a chocolate bar to show Muntz.
+111) 63) dialog: Yeah, I gave her some of my chocolate. She goes ga-ga for it.
+111) 64) text: Carl swipes the chocolate from Russell and pockets it.
+111) 87) text: Carl gets up and pulls Russell from the table.
+111) 91) text: Carl leads Russell toward the door.
+111) 93) dialog: But we haven't even had dessert yet.
+111) 100) text: Carl pulls Russell along, Muntz following behind like something out of a bad dream.
+111) 105) dialog: Kevin?
+112) 1) text: Carl and Russell untie Carl's house from the pylon.
+112) 4) dialog: I am hurrying!
+112) 6) dialog: They're coming!
+112) 7) text: Carl and Russell run toward the cave opening. Dogs block the cave opening.        Carl stops short.
+112) 13) text: Dug points to a tunnel opening deeper inside the cave. and Russell run toward him.
+112) 17) text: Dogs climb down the rocks, closing in on Carl and Russell
+112) 18) text: The bird sees the dogs. She jumps off the house and lifts Carl and Russell on her back. She runs through the cave, towing the house behind her. Russell and Carl HANG ON for dear life.
+112) 20) text: Ahead, a giant rock sits in their path. Carl tugs at the house but it CRASHES against the rock, pulling Russell on the ground.
+112) 22) text: Dragging on the ground, Russell gets BUMPED around badly.
+113) 0) text: The dogs close in on Russell. Alpha bites at his heels. Carl fends off Alpha with his cane.
+113) 15) text: The bird carries Carl, Russell dragging along behind. rounds a corner. Russell SWINGS OUT over the abyss.
+113) 16) text: The bird jumps from rock spire to spire.   Russell swings and forth wildly in the air.
+113) 18) dialog: Help! Help!
+113) 19) text: Russell does the WILDERNESS EXPLORER CALL.
+113) 21) text: Carl holds out his cane so that Russell can GRAB it and C PULLS him back onto the bird. Meanwhile Dug manages to rejoin his friends, but just in to reach the end of the line -- A CLIFF EDGE.   A river w 100 feet below.
+113) 24) dialog: Hang on to Kevin!
+113) 29) dialog: Kevin!
+113) 30) text: The bird tries to stand but SQUAWKS pitifully and falls b to the ground. Russell rushes to her side.
+113) 35) text: Russell applies a bandage.
+113) 37) text: Russell runs to her side.
+113) 39) dialog: No no no! Kevin! Stay down. (to Carl) She's hurt real bad. Can't we help her get home?
+115) 6) text: Carl and Russell peek out from behind a tree.
+115) 11) text: Dug scampers back to Carl and Russell, who pull the house from behind a tree canopy.
+115) 18) dialog: You okay, Kevin?
+115) 19) text: Kevin goes back to sleep.    Russell looks at her BANDAGE
+115) 21) dialog: You know what, Mr. Fredricksen? The wilderness isn't quite what I expected.
+115) 24) dialog: It's kinda... wild. I mean, it's not how they made it sound in my book.
+115) 30) dialog: My dad made it sound so easy. He's really good at camping, and how to make fire from rocks and stuff. He used to come to all my Sweatlodge meetings.
+115) 31) text: Russell smiles at the thought.
+115) 33) dialog: And afterwards we'd go get ice cream at Fentons. I always get chocolate and he gets butter- brickle. Then we'd sit on this one curb, right outside, and I'll count all the blue cars and he counts all the red ones, and whoever gets the most, wins. I like that curb.
+115) 35) dialog: That might sound boring, but I think the boring stuff is the stuff I remember the most.
+115) 39) dialog: Look, there it is!
+115) 40) text: Russell spots the labyrinth, now close by.   He tries to but is pulled back by his tether.
+115) 41) text: LAUGHING, Carl unclips Russell's tether.
+115) 43) text: Carl ties the hose harnesses to a tree, securing the hous Russell helps Kevin off the porch and the group run towar the labyrinth entrance.
+115) 44) text: Kevin is reenergized by the sound of her babies.   She ru off ahead. Carl and Russell LAUGH.
+115) 52) dialog: That's it, go Kevin!      Go find your babies!
+115) 55) dialog: Run Kevin! Run!
+115) 58) dialog: Oh no!
+115) 59) text: The net catches on a rock. Carl and Russell run to her ai
+117) 4) text: Muntz motions to the dogs. They swarm past Russell, knock him down and grabbing the bird in the net.
+117) 6) dialog: No!
+117) 16) dialog: Let her go! Stop!
+117) 17) text: Russell runs after the dogs, but the gangplank closes. The dirigible flies off.
+117) 19) dialog: Kevin!
+117) 22) dialog: You gave away Kevin.   You just gave her away.
+117) 32) text: He walks off.   Russell falls in behind. An angry dawn breaks.
+118) 2) text: Russell's harness drags along side, empty.
+118) 3) text: Russell walks behind.
+120) 3) dialog: Here.
+120) 4) text: Behind him, Russell throws his sash on the ground.
+120) 5) dialog: I don't want this anymore.
+120) 6) text: Russell walks away.   He sits on a rock, alone.
+122) 15) text: He looks over to Ellie's empty chair.   On the arm is Russell's sash. Carl picks it up. He looks to Ellie's chair.
+123) 6) text: But Russell is nowhere to be seen.
+123) 7) text: A shadow crosses Carl. He looks up to see Russell floatin off, hanging from a BUNCH OF BALLOONS.
+123) 11) dialog: I'm gonna help Kevin even if you won't!
+123) 12) text: Russell fires up a LEAF BLOWER and steers himself off int the sky.
+128) 1) text: Russell steers through the clouds toward the DIRIGIBLE.
+129) 1) text: Dogs play poker. Behind them, Russell flies past with the leaf blower. They turn to look.
+130) 1) text: Russell steers wobbly toward an open dirigible window. smashes into the wall.
+130) 6) dialog: Ooph!
+131) 1) text: Russell releases the balloons and picks up the leaf blowe ready for action.
+131) 2) dialog: Yes!    Don't worry Kevin! I'll save -
+131) 4) text: Russell blows the leaf blower at the dogs.
+133) 1) text: Dogs tie Russell to a chair.
+133) 2) dialog: Let me go!
+133) 5) text: Russell blows the leaf blower in Muntz's face.
+133) 6) dialog: He's not my friend anymore.
+133) 10) text: Muntz grabs the leaf blower and drags Russell out.
+134) 1) text: Muntz drags Russell through the trophy room.
+134) 2) dialog: Where are you keeping Kevin!?
+135) 1) text: Muntz sets Russell down and walks to a control panel.
+135) 2) dialog: Let me go!
+135) 7) dialog: I'll unleash all my Wilderness Explorer training!
+135) 12) dialog: Hey, where are you going?    I'm not finished with you!
+135) 14) text: Muntz slams the door. Light emerges from the floor.    Russell is on the ramp, is opening. Russell REACTS.
+138) 1) text: Carl steers toward the cockpit. He dons Russell's sash, t hooks his cane onto his back. He's fighting for a cause. He hears SCREAMING. It's Russell! Tied to his chair, he slides down the ramp as it lowers, closer and closer to t edge.
+139) 0) text: Carl flings the hose, HOOKING it to the ramp railing. Usi his cane as a zip line, Carl slides to Russell, catching just as Russell slides off the ramp edge. They land safel together.
+139) 2) dialog: Mr. Fredricksen!
+139) 6) text: Carl carries Russell into the house.
+140) 1) text: Carl sets Russell, still bound, down in the front hall.
+140) 6) dialog: You came back for Kevin!     Let's go get her.
+140) 10) dialog: But I want to help!
+140) 14) text: Russell STRUGGLES against his bonds.
+148) 0) text: Russell STRUGGLES to break free of the chair.
+148) 2) dialog: I want to help!
+148) 5) dialog: Ha ha!
+148) 7) text: Russell SCREAMS as he falls.     The hose unspools.
+148) 8) text: Russell reaches the end of the hose. Russell grabs onto i and the chair jostles free, falling thousands of feet dow
+149) 9) text: On cue, Russell SPLATS into the dashboard window of the control room and SQUEEGEES across, dangling from the hose Muntz stares, slack-jawed.
+149) 10) dialog: Whoooaaah!
+150) 0) text: Russell clings to the end of the hose, swaying in the win
+151) 12) text: The biplanes fire and strafe Carl's house with darts. Russell SCREAMS, swaying beneath it on the hose.
+158) 1) text: The broken trophy cases barrel straight toward Carl! Carl is thrown into a window which bursts open. Carl fall through but manages to grab the frame with his cane. He dangles out over open air. He sees the biplanes circling the house, Russell hanging beneath it.
+161) 1) text: Russell TRIES TO CLIMB the hose.   His hands are about to out. The biplanes head straight at Russell.
+161) 3) dialog: (out of breath) I can't do it!
+161) 7) dialog: Huh?
+161) 9) dialog: You leave Mr. Fredricksen alone!
+161) 10) text: Russell CLIMBS! He's more machine than boy now. Biplanes shooting the who way, he climbs up onto the porch. The biplanes close in.
+161) 11) text: Russell yells to them.
+161) 13) dialog: Hey! (pointing down) Squirrel!
+163) 10) text: Russell steers the house toward Carl.
+163) 11) dialog: Mr. Fredricksen!
+163) 22) text: The house slides toward the edge, Russell, Dug and Kevin still inside.
+163) 29) text: Russell, Dug and Kevin run toward the front porch.
+163) 34) text: Russell and others duck inside and slam the door.
+164) 0) text: Russell, Dug and Kevin back away from the door.
+166) 0) text: Russell, Dug and Kevin run into the living room.
+168) 0) text: Confused, Russell follows Carl's directions.   He Dug and bird huddle together.
+171) 1) text: The hose caddy breaks free. Kevin leaps through the window, Russell and Dug hanging f her side.
+172) 4) dialog: That was cool!
+172) 5) text: Russell and Dug dangle from it, sitting on Kevin.     The holds on to the hose with her beak. Carl LAUGHS, relieved.
+172) 8) text: Russell climbs up, followed by the bird and Dug.
+172) 11) dialog: Sorry about your house, Mr. Fredricksen.
+172) 12) text: Carl smiles.   He puts his arm around Russell.
+172) 15) text: Carl, Russell, Dug and Kevin stand on the tail of the air floating off over the clouds.
+173) 1) text: Carl and Russell hold and cuddle the baby birds.     The peck at Carl's head. Carl and Russell LAUGH.
+173) 4) dialog: Look at you. You're so soft.
+173) 10) dialog: (DISAPPOINTED) Awwww!
+173) 12) dialog: I wish I could keep one.
+173) 22) dialog: Bye Kevin!
+173) 23) text: The bird looks back toward Carl and Russell and CALLS OUT last time before disappearing into the mist.
+174) 0) text: Carl and Russell both wear matching leather flight helmet and goggles.
+174) 2) dialog: Ready?
+176) 5) text: Russell is tanned and dirty.   And alone.
+176) 9) text: Carl takes his place next to Russell.
+176) 19) text: Carl pins the badge onto the missing spot on Russell's sa It's Ellie's GRAPE SODA PIN.
+176) 21) dialog: Wow.
+176) 23) text: They salute each other.      Russell gives Carl a hug. returns it. Russell's mom sits in the audience with Dug.     Russell shows her the badge.
+177) 0) text: Carl and Russell sit on a curb licking ice cream cones. Russell has chocolate and Carl has butter-brickle.
+177) 3) dialog: Blue one.
+177) 12) text: Russell GIGGLES.
+177) 14) dialog: That's a bike!
+177) 18) dialog: Mr. Fredricksen, you're cheating.
+177) 20) dialog: That's a fire hydrant.

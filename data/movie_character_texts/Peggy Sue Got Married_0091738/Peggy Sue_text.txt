@@ -1,0 +1,545 @@
+0) 2) dialog: Charlie...
+0) 5) dialog: I can't. I'm too embarrassed.
+1) 2) dialog: Yeah. Come on Charlie, turn it off.
+2) 0) text: Peggy's son, SCOTT, 16, is playing an old reel to reel ta recorder. There are stacks of boxes filled with personal things and records. His sister, BETH, 23, is packing.
+5) 0) text: Peggy is loading the oddВ—shaped cakes into boxes. We not grandfather clock tolling nine.
+7) 1) dialog: There's something pathetic parked in front of my house.
+7) 3) dialog: I'm still waiting for the mortgage check.
+7) 5) dialog: Well, today's Saturday and it's still not here.
+7) 7) dialog: That stays. The workman looks to Charlie for approval. Charlie nods. workman shrugs, and heads back to the basement.
+7) 9) dialog: I don't buy them anymore. You were the only one who drank them.
+8) 0) text: Peggy leads the way. At the far end, she flips a light sw that turns on a wall sculpture of lava lamps.
+8) 2) dialog: I know. Put Scott through college.
+8) 4) text: One day. Peggy opens a box filled with records. She closes it and moves to another. Charlie checks the contents of another on the other side of the room.
+8) 5) dialog: Are you taking Janet to the reunion tonight?
+8) 10) dialog: Bye sweetheart. Peggy and Charlie look at each other as Scott leaves.
+8) 12) text: I never thought it would go this far. Charlie exits. Peggy looks around. She slaps the flap of box down, to close it, but it jumps back up.
+9) 0) text: Peggy and Beth carry the cake boxes into the car  A NEIGH trimming the hedge watches them lasciviously. Peggy and Beth drive off.
+10) 0) text: Peggy's car rounds a corner into the business section of town.
+11) 0) text: Peggy pulls up to the front door of The Lovin' Oven, her shop. Bags of bread and rolls lean against the door. Beth jumps out and opens the door of the shop. Peggy stacks th boxes in Beth's arms and opens the door for her.
+11) 1) dialog: If the pastries aren't here by nine thirty, call Monica and threaten her life. Peggy gets into the car, and blows a kiss to Beth.
+11) 2) dialog: I'll be back by noon. Peggy drives off as MONICA drives up. She exits her car a begins to unpack cake boxes.
+12) 0) text: INSERT:        Sign: KRISTIN'S COIFFURES Peggy exits with a fifties flip. From a distance she look like a fifties teenager. She nervously looks at her reflection. Maybe this was a mistake. Too late now.
+13) 0) text: Peggy is driving. On her car radio, we HEAR a local PHONE TALK SHOW.
+13) 2) dialog: Oh, Dolores. Peggy switches stations until she finds the news.
+14) 0) text: Peggy stops for a red light. Her eye is caught by a Merce stopped next to her. Behind the wheel is a striking woman her age, CAROL HEATH. They stare curiously for a beat, th
+14) 1) dialog: Carol!
+15) 2) dialog: 1 just did it for the reunion. I thought it would be fun.
+16) 0) text: Peggy and Carol enter as Beth finishes up with a customer Peggy walks behind the counter as the customer exits.
+16) 2) dialog: This is my old friend Carol.. I told you about her. Beth and Carol exchange hellos.
+16) 4) dialog: How do you like my hair?
+17) 11) dialog: Turn that off.
+18) 0) text: CAMERA PULLS BACK from the TV into Peggy's bedroom. Beth up from the bed and turns off the TV. Peggy enters from t adjoining bathroom, wearing a robe, and bobby socks with saddle shoes. She picks up a gold Locket from the dresser and puts it on.
+18) 2) dialog: I have a lot of unresolved feelings about him. I don't trust him. Besides, I hate those commercials.
+18) 4) dialog: But I want you and Scott to understand. (beat)
+18) 7) dialog: Then we'd both have a miserable time. What do you think? She looks exactly like a sixties teenager.
+18) 9) dialog: Borrow?! This was my dress. (beat)
+18) 13) dialog: Not from the guy with the lowest prices in town.
+19) 0) text: Couples are walking up the stairs into the school. Peggy Beth are at the bottom of the stairs, staring at the bann hung across the entrance.. It reads: WELCOME CLASS OF '60
+19) 1) dialog: I feel ridiculous. Maybe I should go home and change.
+19) 3) dialog: I don't know. Reunions do funny things to people. At that moment they're joined by MADDY.(Madeline) and ART NAGLE, coming up behind them. A typical polyester couple. Hellos all around and hugs. Arthur puts his arms around B and Peggy and leads them up the stairs.
+19) 6) dialog: It was Beth's idea.
+19) 9) dialog: Arthur, please don't call me Peg.
+20) 0) text: A large table in the lobby holds plastic nametags. A sign reads: LADIES IF YOU CAN'T FIND TOUR TAG, LOOK UNDER YOUR MAIDEN NAME. Several people are bending over the table looking for their tags. A HOSTESS is sitting behind the table. Peggy, Beth, Maddy and Arthur enter. Hellos all around.
+20) 1) dialog: Beth's boyfriend is playing in the band.
+21) 0) text: The gym is packed with people dancing, chatting, greeting lost friends. A bar is set up at one end. On the walls ar black and white blowВ—ups of the 1960 yearbook. On a tabl a buffet and Peggy' s cake. The BAND is PLAYING and SINGI old rock and roll songs. Couples slow dance, jive and str Peggy, Beth, Maddy and Arthur enter. Beth leaves the grou
+21) 3) dialog: Okay. They walk away into the crowd, leaving Peggy alone.
+22) 0) text: CL0SE VIEW В— A photo of the majorettes. Peggy is in the middle, twirling her baton. Her reverie is interrupted by:
+22) 2) dialog: I was once. Richard!? Richard Norvik? I didn't recognize you.
+22) 4) dialog: I just did it for tonight. I don't normally dress like this.
+22) 7) dialog: Hello. Nice to meet you. Please call me Peggy. I'm Peggy Bodell now.
+22) 9) dialog: He's not here. We're getting divorced.
+23) 10) dialog: I don't know how you do it. I've never even dated anybody but Charlie.
+23) 12) dialog: We did for a long time. We just got married too young, and ended up blaming each other for missing out on things.
+23) 15) dialog: It's not the place. I don't buy that. (melodramatic)
+23) 18) dialog: Oh, it's not so bad. I have two wonderful kids, my own business. (beat)
+26) 3) dialog: Rosalie Testa! 'HELLOS' all, around. Peggy helps Rosalie position her wheelchair at the table.
+26) 5) dialog: You have an incredible memory.
+26) 7) dialog: Yes. These are my children. But they're not babies anymore.
+29) 0) text: The BAND is PLAYING and SINGING the SONG "GOOD OLD ROCK A ROLL." Peggy and Sharon walk through the gym looking at t photo blowups on the wall. Peggy is stopped and hugged by several people. Maddy and Arthur are dancing. Despite the frantic beat, they are slow dancing. Seth is hanging arou the stage, bringing a drink to the guitar player. Walter dancing with Rosalie in her wheelchair.
+31) 4) text: Peggy was a mess right after they separated, but I think she's coming out of it... It seems to be pretty friendly now..
+32) 0) text: Peggy (loose, holding a drink) and Sharon stand in front PHOTO of the 1960 Cross Country Team. VIEW ON PHOTO - off to one side stands MICHAEL FITZSIMMON His hair is longer, his gaze intense and nonВ—smiling.
+32) 2) dialog: Michael Fitzsimmons. I had such a crush on him. Carol and Maddy join them, still panting from dancing.
+32) 4) dialog: Your first boyfriend. What do you think? Any sparks left?
+32) 7) dialog: (laughing)
+32) 9) dialog: Sharon Norvik this is Carol Heath, and Maddy Nagle. My oldest and dearest friends. Sharon's married to Richard.
+32) 13) dialog: No. I asked Rosalie. She couldn't track him down.
+32) 16) dialog: He was the only one in high school I wished I'd gone to bed with.
+32) 18) dialog: Well, besides Charlie, of course. We HOLD on the photo of Michael and...
+33) 0) text: The BAND is PLAYING AND SINGING the SONG, "JUST BECAUSE." Couples axe slow dancing. Dolores is still interviewing Richard. Peggy, Sharon and Carol walk back to their table
+33) 8) dialog: Well, you showed them. You're rich and famous and successful. And you have a beautiful wife.
+33) 11) dialog: What was?
+33) 13) dialog: You're a sweet man, Richard.
+33) 15) dialog: You know, I never told anybody this, but I always had a feeling that when you die, before you go to heaven, you get a chance to fly around high school for a while. CAMERA PULLS BACK SLOWLY as Peggy and Richard become part the sea of dancers, all Lost in nostalgic reverie.
+33) 20) dialog: Looking at Charlie.
+33) 23) text: Hello. Can I have your attention, please. The BUZZ in the room DIMS, Peggy and Richard head back to their table.
+33) 38) dialog: (close to tears)
+33) 41) dialog: (into mike, overwhelmed)
+33) 42) text: Thank you.. Thank you very much. The lights dim, leaving Peggy in the spotlight. Continued APPLAUSE as the singer steps up to his mike and begins to SING the song PEGGY SUE.
+34) 4) dialog: Charlie! Am I dead?
+34) 6) text: Come on, let's have it. You hate them anyway. Mechanically, Peggy hands over the Twinkie. Charlie bends over to nuzzle her neck. The nurse's hand COMES INTO FRAM and grabs Charlie by the scruff of the neck, pulling him
+34) 12) dialog: What's going on? Where am I?
+34) 14) dialog: How did I get here? Maddy and Carol approach, carrying their books.
+35) 0) text: The girls enter. Carol immediately lights up a cigarette. Peggy crosses to the mirror.
+35) 3) dialog: No thanks. I gave them up years ago. Maddy and Carol react as Peggy takes a closer look at her and the girls' reflections. She places a hand to her thro noticing the locket is gone.
+35) 4) dialog: Where is it?
+35) 6) dialog: Maddy, what did you do to your hair? Maddy looks in the mirror.
+36) 0) text: Maddy and Carol are waiting. Peggy exits the office, clutching a note which she hands blankly to Maddy. They w towards the exit, Peggy glued to the wall for support.
+36) 2) dialog: That's okay. I'm sure I'll remember the way.
+37) 0) text: The girls walk outside. Peggy looks around at the old car the parking lot. The most noticeable В— a blue Chevrolet Impala convertible. Peggy stares at it for a beat, shiver with recognition, as she follows Carol and Maddy to a 195 Ford. Maddy helps Peggy into the back seat.
+38) 0) text: Carol drives and chats with Maddy, while in the back seat Peggy looks out at the world as it she were on a ride at Disneyland. She says things like "That's not here anymore
+39) 0) text: The car pulls up to the curb. Peggy gets out of the car. Maddy hands her the note and her books; she twirls her fi next to her head.
+39) 2) dialog: Yes. Let's stay in touch. Peggy walks up to the door, a sleepwalker in suspended animation. She waits a beat and knocks softly.
+39) 4) dialog: Peggy. (shuddering)
+39) 5) text: Peggy Sue.
+40) 0) text: Peggy enters and looks down the hallway into the kitchen. EVELYN KELCHER is a lovely woman in her midВ—forties. She turns around from the sink and approaches Peggy.
+40) 1) dialog: (helplessly)
+40) 4) dialog: I have a note.
+40) 6) dialog: I'm excused.
+40) 8) dialog: Mom! Peggy embraces her mother, holding on for dear life, inha her scent.
+40) 9) dialog: Chanel Number Five. That always reminds me of home.
+40) 11) dialog: I'm home now.
+41) 0) text: Peggy enters warily, looking around, a fifties museum of teenage artifacts. She walks around the room gently touch her old belongings including the record player from openi scene. She looks in the mirror to make sure she's still there. Suddenly, she turns around.
+41) 1) dialog: Okay, I'm alone now. Is anyone here? She opens the closet door expectantly, then closes it sha her head.
+41) 2) dialog: No. This is crazy. Is somebody going to tell me what's going on? Why me? What happened? You don't have to show up. I don't have to see you. Just send me a sign. (beat)
+41) 3) text: Thanks a lot. 1 guess I'm on my own. NANCY, Peggy's twelveВ—yearВ—old sister, peeks in the roo
+41) 4) dialog: Nancy! Come here. Nancy tentatively approaches. Peggy hugs her.
+41) 6) dialog: I'm just happy to see you.
+41) 8) dialog: I'm sorry about that. I really want us to be closer. I have enough unresolved relationships in my... life.
+41) 10) dialog: Let's do something together.. Do you want to play Monopoly? Or Careers... Clue... Snakes and Ladders?
+42) 0) text: On a small black and white TV, Dick Clark introduces a spotlight dance. Peggy and Nancy are sitting on the sofa, watching. Nancy is eating small candies, like M&amp;M's.
+42) 1) dialog: It's unbelievable. The man never ages.
+42) 3) dialog: Don't eat the red ones.
+42) 5) dialog: They're bad for you. They cause...red lips. (red dye *2) Nancy react, as Peggy stands. CAMERA TRACKS HER to the de
+42) 7) dialog: Can't hurt. I'm already dead. She belts down several drinks.
+43) 7) dialog: Oh, Daddy. You were always doing things like that. (cracking up)
+43) 10) dialog: (laughing)
+43) 13) dialog: (tipsy)
+43) 17) dialog: Dad, I never knew you had a sense of humor.
+44) 0) text: Peggy lies in bed, her mother tucking her in.
+44) 2) dialog: Oh Mom, I forgot you were ever so young.
+44) 3) dialog: She hears her mother walk down the stairs.
+45) 0) text: Peggy emerges from the bathroom wearing a towel.
+45) 2) dialog: Let's get physical!... Let's get metaphysical! Nancy comes in dressed for school.
+45) 3) dialog: Good morning. Nancy goes to Peggy's closet.
+45) 5) dialog: Yeah, but take good care of it.        I'm saving it for my daughter.. She loves this stuff.
+46) 0) text: Mr. Kelcher and Nancy sit at the table eating breakfast. Kelcher stands at the sink scraping toast. Peggy bounces hair in her adult, natural look. "GOOD MORNINGS" all arou
+46) 2) dialog: Oh. I forgot. Mrs. Kelcher takes an elastic band from around the faucet hands it to Peggy as she sits at the table. Peggy makes a ponytail.
+46) 4) dialog: I'm still here, aren't I? I may as well enjoy myself. I'm going to go to school today. (beat)
+46) 7) dialog: That would be impossible.
+46) 9) dialog: Mom, is there any coffee left? Mrs. Kelcher begins to pour the coffee, then pulls back, spilling some on Mr. Kelcher.
+46) 11) dialog: Oh.        Ah...recently. All the kids drink it.
+46) 13) dialog: I think I'm way ahead of them.
+46) 16) dialog: You know, you two are wonderful parents. I'm really going to try to behave myself.
+46) 20) dialog: Mom, sit down for a minute. This is so nice, all of us being together again like this.
+46) 25) dialog: Oh yeah. Charlie. How am I going to handle him?
+46) 27) dialog: Sort of.
+46) 29) dialog: The house payments.
+47) 0) text: Peggy exits the house wincing at the sight of Charlie's c the blue Impala she'd seen the day before. Charlie sits, arm on the wheel, the other over the back of the seat.
+47) 2) dialog: Pretty strange. Peggy hesitates, unsure how to handle her accumulated ambivalence towards Charlie.
+47) 4) dialog: Not now, Charlie. I've got a headache. Get used to the word. Roll it around your tongue for a years.
+47) 6) dialog: You drive like a maniac!
+48) 3) dialog: Oh yeah?
+48) 5) dialog: Refresh my memory.
+48) 7) dialog: Maybe I blocked it out.
+49) 3) dialog: Why wait?
+49) 6) dialog: They'll learn to live with it. Peggy exits the car and heads towards the school. Charlie sits, stunned.
+51) 0) text: Peggy stands bewildered in the hallway. Charlie walks bac takes her by the hand and leads her to a locker.
+51) 3) dialog: Would you?
+51) 5) text: Would I?!! Why I oughta... Unaccountably, this cracks Charlie up. He walks away laughing. Peggy looks completely puzzled. She is surround by a sea of people, who say hello. She can't remember the names.
+52) 0) text: We SEE Peggy, Maddy, Dolores, Arthur and Carol, singing M COUNTRY TIS OF THEE. They all mumble, except for Peggy wh delivers a stirring rendition. The class thinks she's cra Peggy's decided to have a good time. Announcements begin the PA system. No one pays attention, except Peggy.
+52) 2) dialog: Where's Rosalie Testa?
+53) 0) text: Maddy, Dolores and Peggy enter the room. Peggy stands at door till most are seated. She sees an empty seat between Maddy and Dolores and, assuming it's hers, sits down.
+53) 2) dialog: (horrified)
+54) 3) dialog: (patiently)
+55) 4) dialog: Mr. Gilfond, can I talk to you?
+55) 6) dialog: I just wanted to tell you how much I enjoy your class. You taught me a lot and... you're a very fine teacher.
+55) 8) dialog: Thank you. Um, I also think you're underpaid.
+55) 15) dialog: (wary)
+55) 20) dialog: Arthur, please don't call me Peg.
+55) 22) dialog: I don't get it.
+55) 28) dialog: I'll be right back.
+55) 34) text: Peggy stands over Richard. He looks up nervously, pushing glasses up the bridge of his nose, a constant habit.
+55) 35) dialog: Congratulations on the math contest, Richard.
+55) 38) dialog: Get lost you macho shmuck. Doug and Richard react.
+55) 39) dialog: I have to talk to you. It's very important.
+55) 41) dialog: It's not that. Can we meet after school? Please?
+56) 3) text: Peggy Sue, your topic was 'How To Choose A Nursery School.' Are you  prepared?
+56) 4) dialog: All.... Okay. Sure. Peggy walks to the front and faces the class, smiling pri
+56) 5) dialog: Choosing a good nursery school can be one of the most important decisions you can make. It will often determine your child's attitude towards education and schooling. (proud of herself)
+56) 7) text: And they're so cute when they're little. They bring you back their Little masterpieces every day and you put 'em on the refrigerator door. They're so proud, and their names are all misspelled. Scott would always print his S backwards, and Beth would make her sweet little flowers... Peggy wipes away a tear. At the stunned reaction of the c and Miss Otto.
+58) 0) text: The group of majorettes heads toward the school. Peggy se Charlie leaning against the car, waving her over.
+58) 2) dialog: Thanks.
+58) 4) dialog: I thought it had a lot of merit.
+58) 6) dialog: Rejected, worthless, miserable.
+58) 8) dialog: Good. Peggy turns, and walks away. Charlie looks miserable.
+59) 0) text: Peggy enters and approaches Richard. He is too engrossed constructing an elaborate kite to notice her.
+59) 1) dialog: What a great kite.
+59) 3) dialog: I want to ask you a question. (beat)
+59) 6) dialog: Sort of.
+59) 9) dialog: What's that?
+59) 11) dialog: I        know what a burrito is.
+59) 13) dialog: What's inside?
+59) 15) dialog: So you think time travel is possible? For people?
+59) 17) dialog: Listen, you've gotta keep this a secret. You can't tell a soul. Promise?
+59) 19) dialog: This is serious. Nobody can know. Ah, I've returned from the future. I traveled back here 25 years.
+59) 21) dialog: No. Really. You're the smartest person I know. It sounds unbelievable. But I can prove it.
+59) 23) dialog: You have a blind grandfather. One day you're going to invent a machine that reads books for blind people. I read about it. You're going to be famous. You're going to invent a lot of things.
+59) 25) dialog: Because I'm telling you the truth. I know what's going to happen. There's going to be test tube babies and heart transplants. And an American named Neil Armstrong is going to walk on the moon. On July 20, 1969.
+60) 0) text: Peggy and Richard are walking, carrying their books.
+60) 2) dialog: I don't know. Oblivious, Peggy and Richard walk by Shower's Cafe. Insid Dolores and Carol see them.
+61) 2) dialog: That's why I was getting a divorce.. (beat)
+62) 2) dialog: Come on, Richard, I'm serious.
+62) 4) dialog: Am I dead or not?
+62) 6) dialog: What're you doing?
+62) 9) dialog: No! I don't want to die!
+63) 2) dialog: What if it's beyond science? What it it's God?
+63) 4) dialog: I don't know.
+63) 6) dialog: I told you, I've already lived my life. I don't know how or why I'm here, but you have to help me get back. I want to get back to my real life!
+63) 8) dialog: I'm trying. I'll see you tomorrow. (heads out the door)
+64) 0) text: Peggy comes home, enters hallway.
+64) 2) text: Her mother is sitting on the sofa with a strange MAN in a suit. She's served him tea. There are several, pieces of jewelry spread on a cloth on the coffee table. The man is examining one of the pieces. Mrs. Kelcher seems surprised that Peggy's home from school. Peggy moves on into the kitchen.
+65) 0) text: Peggy hears her mother let the man out. She enters the kitchen.
+65) 1) dialog: Who was that man?
+65) 3) dialog: It was great to see everybody again. But it's so boring and regimented. Most of what they teach is useless. The worst thing was lunch. The TELEPHONE RINGS.
+65) 5) dialog: Sure, Mom. (picking up the phone)
+65) 6) text: Hello. Peggy gasps. Mrs. Kelcher turns to her.
+65) 8) dialog: (shaken)
+65) 10) text: I'm sorry, Grandma. Peggy hands the receiver to her mother and runs out of th room sobbing. Her first confrontation with mortality.
+66) 0) text: Peggy climbs the stairs, in tears.
+66) 3) dialog: I had a dream that Grandma died.
+66) 5) dialog: She did? I love her so much, and I haven't seen her in such a long time. And Grandpa Barney. Is he all, right?
+66) 7) dialog: I'm sorry, Mom. I'll call Grandma back and apologize.
+66) 10) dialog: I'm confused about a lot of things right now. Charlie's only one of them. Two beats.
+66) 12) dialog: What do you mean?
+69) 0) text: Peggy is changing a record. She sees the dress she was wearing the day before (and at the reunion) slung across chair. As Peggy picks it up, a book of matches falls out. Peggy picks it up, excited. INSERT: MATCHBOOK which reads: FINISH HIGH SCHOOL IN YOUR SPARE TIME. Peggy frantically searches the dress pockets slowly draws out two joints. She stares at them for a bea
+69) 1) dialog: (worrying)
+69) 2) text: Oh, Beth. There's a knock at the door. Peggy quickly hides the join Mrs. Kelcher opens the door.
+69) 4) dialog: For what?
+69) 6) dialog: I don't feel very festive.
+70) 6) dialog: walking downstairs, surprised by Charlie and Dad talking.
+71) 0) text: Peggy and Charlie exit and walk towards his car. Peggy's holding a pan of Rice Krispie squares. Charlie slips Pegg sweater back on her shoulder. He's trying hard to make up
+71) 1) dialog: Where did you get that sweater?
+71) 3) dialog: It's really Fifties. You sort of clash with the world.
+71) 5) dialog: Right. I promised my mother.
+72) 2) dialog: (serious)
+72) 5) dialog: Seriously. What's it like to be eighteen? Charlie looks thoughtful, then guns the engine.
+74) 0) text: Charlie and Peggy are poised at the door.
+75) 0) text: Arthur and a few others stand by the bar, where bottles o Coke are lined up. Arthur carefully pours rum from a hip flask directly into the bottles. Peggy and Charlie enter.
+75) 6) dialog: Hi, guys.
+75) 9) dialog: Why I oughta! The boys all crack up.
+75) 21) dialog: You know, I never could figure that one out.
+76) 0) text: Maddy, Arthur, Walter, Carol, Charlie and Peggy sit on a couch. Maddy and Carol sit in their boyfriends' laps. Peg sits distractedly on the couch arm. They cross talk В— bo boys В— girls to girls.
+77) 5) dialog: Don't get your hopes up.
+77) 7) dialog: He is kind of cute, isn't he?
+77) 9) dialog: He does? The group finishes the song. Charlie blows Peggy a kiss. crowd APPLAUDS, including Peggy. Dolores joins Peggy, Car and Maddy.
+77) 11) dialog: First of all, Richard is not a creep. He happens to be an exceptional person. If any of you gave him half a chance, you'd find that out.
+77) 13) dialog: Dolores, can't you be a little kinder to people? You don't even know the boy. If you weren't so neurotic and insecure, maybe you'd shut up for a while and show some compassion.
+77) 15) dialog: Touchy, touchy! Dolores storms away.
+77) 18) dialog: Charlie, what do you think of Richard Norvik?
+77) 20) dialog: He's trying.
+77) 22) dialog: (charmed)
+77) 26) dialog: You're pretty charming when you want to be.
+78) 0) text: MUSIC FADES INTO the song "PARTY DOLL" by Buddy Knox. Peggy is doing the Twist, showing Charlie and several oth Walter gets the hang of it, twisting on one leg.  Carol t to keep up.  Maddy and Arthur are always a beat behind.
+79) 0) text: The windows are fogged.  Peggy and Charlie kiss tenderly.
+79) 1) dialog: Mmm. This is nice.  I always loved the way you kiss.  I missed you.
+79) 3) dialog: You really love me, don't you?
+79) 5) dialog: (tentatively)
+79) 9) dialog: A lot's happened since last weekend.
+79) 11) dialog: (f1ustered)
+79) 15) dialog: You know. Your love machine... the throbbing thrill hammer... your thing!
+79) 18) text: Excuse me. That's a guy's line! Peggy realizes she's blown it. Charlie isn't ready for th
+79) 19) dialog: This is a mistake. We better forget it.
+80) 1) dialog: I'm sorry Charlie.
+81) 0) text: Peggy peeks in the window. The kids from the party are ea and laughing. Rosalie Testa is dancing. Shaken by Rosalie she turns away. In the distance she SEES the lights of: ART'S DONUT HOLE. OPEN 24 HOURS.
+82) 0) text: A few people linger over coffee. The waitress serving the Monica (the same but younger woman from LOVIN' OVEN). In a corner, Michael Fitzsimmons, in a red leather jacket sits alone, reading. He looks up to check on his motorcyc parked outside. He's splendid in his isolation. Peggy enters, taking a seat at the counter, startled to s Monica, who doesn't know her.
+82) 2) dialog: Monica? Aren't you Monica Hines?
+82) 4) dialog: Ah... never mind. Can I have a coffee, please? And a cinnamon cruller. (sotto)
+82) 5) text: How's Bobo? Peggy notices Michael staring at her. Peggy smiles, Micha doesn't. Monica brings Peggy her coffee and donut.
+82) 7) dialog: You're kidding? Picking up her donut and coffee, she walks over to Michae table and sits opposite him.
+82) 8) dialog: I was impressed with what you said in English class today.
+82) 10) dialog: You don't?
+82) 13) dialog: Maybe you're confusing his life with his work.
+82) 15) dialog: The young man leaned back in his chair. No bulls would die today.
+82) 17) dialog: Coffee and a donut.
+82) 19) dialog: Hey, man, I'm a hip chick.
+85) 0) text: Peggy and Michael leave the donut shop, get on Michael's motorcycle.
+86) 0) text: Peggy on Michael's bike, clasped around him. Her eyes clo enjoying the wind blowing in her hair. They head out of t
+87) 0) text: Michael pumps gas. Peggy walks to the washrooms. Looking around she waits a beat, then enters the men's.
+88) 0) text: With all the aplomb of a divorcee, Peggy takes a quarter deposits it in a condom machine. She puts the packet in h skirt pocket, pulls out the joints and stares at them for beat. She checks her hair in the mirror and exits.
+89) 0) text: Michael pumps air into the tires, bunched against a build Peggy approaches him, holding up a joint, smiling conspiratorially. She lights it, inhales deeply, then pas it to him. He smiles back at her, a bit surprised, but st takes the joint and inhales.
+90) 0) text: They drive up to a mountain top, Peggy wearing the leathe jacket. She directs Michael with one arm. The motorcycle is parked. Peggy and Michael lie on the gr staring down at the town lights below. Michael inhales th joint, then passes it to Peggy.
+90) 2) dialog: Yeah. I'm surprised. It's really old... (inhales) Travels well though. (beat)
+90) 5) dialog: What are you shooting for?
+90) 7) dialog: Don't you get along with your parents?
+90) 9) dialog: They care about you. They're just a different generation.
+90) 12) dialog: I already did that. I want to be a dancer, I want to dance. Peggy takes off her sweater, kicks off her shoes and begi to dance. Her eyes are closed, her body silhouetted by th moon. Michael is transfixed. After a few beats, he walks to her. He stretches out his arms and places them around neck. They sway together for several beats, their bodies touching. Peggy opens her eyes and sees Michael gazing at tenderly.
+90) 15) dialog: Is that one of your poems?
+90) 17) dialog: I'd love to.
+90) 20) text: I couldn't sleep so I thought I'd scream Betrayed by a kiss, sucking pods of bitterness. In the madhouse of Dr. Dread Razor shreds of rat puke fall On my bare arms (sees Peggy grimace; he
+90) 22) text: Peggy is falling for it. He fumbles with her bra straps.
+90) 23) dialog: Michael... you're as good as you looked. His other hand reaches to undo her skirt.
+90) 26) text: I didn't write that. That's Yeats. Peggy is moved by the beauty of the poem. She sits up, le over Michael, runs her hand through his hair, almost motherly.
+90) 27) dialog: I envy you. You have your whole life ahead of you and you know exactly what you want to do. (beat)
+90) 28) text: But forget the rat puke; write something beautiful. Peggy lies back down on the ground. Michael takes her han and kisses it.
+90) 29) dialog: You know, this isn't really happening. CAMERA PULLS BACK to include the entire, perfect tableau: starry night, the motorcycle, the clouds racing across th moon and the two lovers on the mountaintop.
+91) 0) text: Michael stops at the corner of Peggy's street. She gets o the bike and kisses Michael goodbye. He takes off.
+92) 0) text: Peggy walks up the path as the MILKMAN approaches.
+92) 2) dialog: Thanks, Ralph.
+93) 0) text: Peggy enters, trying to be quiet. Mr. Kelcher stands in kitchen doorway in his bathrobe waiting for her, steaming CAMERA TRACKS Peggy into kitchen. She grabs a cup of before sitting down.
+93) 2) dialog: I went for a drive. Up in the hills.
+93) 4) dialog: It's not Charlie. It's me.
+93) 6) text: Peggy, let me ask you something. (beat)
+93) 8) dialog: At my age? Don't be silly.
+93) 10) dialog: Dad.. it's not a big deal. Didn't you ever stay out all night when you were young?
+93) 12) dialog: Calm down. Just listen for a minute.. Please.
+93) 14) dialog: I want to help with the family finances. I want you to buy some stocks. And gold. By 1980 gold is going to be worth eight hundred dollars an ounce. Then you sell.
+93) 16) dialog: I think they're going to deregulate it.
+93) 18) dialog: Oh boy, that's another thing that's going to change. Who's going to think for us? Our husbands? You know, you treat Mom like a maid. It's not entirely your fault. Those were the attitudes in the fifties, and that's the way you raised me. But give Nancy a break, encourage her to go to art school.
+93) 20) dialog: Listen Dad, please. Buy IBM, buy Polaroid, buy Apple Computer. No, no. Not yet. Buy Xerox!
+93) 23) dialog: Way to go, Mom! The Kelchers glare at each other~. We HEAR the DOOR SLAM.
+94) 0) text: Peggy and Richard sit in a booth. Richard's kite is hung coat rack.
+94) 2) dialog: I'm just not the type. Besides, I want to get out of here.
+94) 4) dialog: I tried to tell them, but they wouldn't listen to me.
+94) 6) dialog: Richard, take it easy.
+94) 8) dialog: How come you never ask me any important questions? Don't you wonder if there's going to be a nuclear war? Or a cure for cancer? What about your family? What about people?
+94) 10) dialog: Give me some credit, will you?
+94) 12) dialog: Wbat're you talking about?
+94) 14) dialog: SixtyВ—forty.
+94) 16) dialog: Okay, find yourself another vision.
+94) 18) dialog: When do we start? A WAITRESS approaches their table.
+94) 22) dialog: Quiche Lorraine, spinach salad and a Perrier.
+95) 0) text: The street is filled with Saturday shoppers. Peggy holds kite, Richard takes notes as they windowshop. They stop i front of a dry cleaners.
+95) 1) dialog: Dry cleaners. No real change. Just higher prices. They move next door to a shoe store.
+95) 2) dialog: Ah. This is a biggie. Forget sneakers. Running shoes, jogging shoes, tennis shoes. Fifty to two hundred dollars a pair.
+95) 4) dialog: There are major fortunes to be made here. Leisure time and lifeВ—styles.
+95) 6) dialog: Not for you. Okay, there's lots more. They move along to the next window, an appliance store. T window is filled with old televisions, record players, la rotisserieВ—broilers, etc. The store sign reads: BODELL'S AND APPLIANCES. Another sign reads: COME IN AND LISTEN TO STEREOPHONIC SOUND.
+95) 7) dialog: Look at that stuff. It's like the dark ages. This is more your speed. And boy, do I know this business. Peggy peers into the store again and catches a g1impse of Charlie serving a customer.
+96) 0) text: Peggy and Richard sit on the bench next to TWO OLD. LADIE Richard reads from his list.
+96) 3) dialog: You don't have to use pig Latin! Nobody could possibly know what we're talking about.
+96) 5) dialog: Oh.        And huge portable radios. Everything else gets small, but for some reason, portable radios get enormous. Peggy looks up and sees a lingerie store across the stree She heads towards it, calling:
+96) 6) dialog: I'll be right back. Peggy enters the Lingerie store. After a beat, Peggy emer from the store, excited and empty handed. Dodging traffic she hurries back to Richard.
+96) 7) dialog: Richard! They don't have any! They never heard of them! Isn't that wonderful?
+96) 9) dialog: The wave of the future! I've decided on our first fortune! I'll  see you later. You just think high tech.
+97) 0) text: At the back is a small record department, complete with a listening booth. Charlie is waiting on a customer. Peggy enters. CHARLIE'S FATHER is waiting on a buxom YOUNG WOMA his arm around her shoulder. He turns around as she enter She has a shock of recognition.
+97) 2) text: Look at that freezer chest. What capacity. (to Peggy, embarrassed)
+97) 3) text: Hello Peggy Sue.
+97) 4) dialog: Woody! How ya doing?
+97) 6) dialog: Nice to see you.
+99) 0) text: Peggy sits on the chair. A turntable sits on a small desk Record covers decorate the walls. Charlie enters and sits the desk, his feet resting on Peggy's chair.
+99) 1) dialog: What do you know about classical music?
+99) 3) dialog: Charlie. About last nights..
+99) 5) dialog: But I'm not. I'm a grown woman with a lifetime of emotional experiences you couldn't possibly understand.
+99) 7) dialog: Why? Charlie cups her face in his hands, pouring out his heart
+99) 9) dialog: What am I going to do with you?
+100) 0) text: Alone in the store, Mr. Kelcher is going through some receipts. Peggy enters carrying a shopping bag.
+100) 1) dialog: Hi, Dad.
+100) 4) dialog: Open it. He opens the present.  Inside are a pair of miniature gol ball cufflinks.
+100) 6) dialog: I closed my Christmas club.
+100) 8) dialog: I wanted to apologize for this morning.
+100) 11) dialog: Quiet today?
+100) 13) dialog: The hat business is in trouble.
+100) 15) dialog: Yes.
+100) 17) dialog: But when John F. Kennedy's elected President, men'1l stop wearing hats.
+100) 19) dialog: (gravely; closing her
+101) 0) text: Peggy is helping her sister Nancy with an art project.
+101) 2) dialog: Of course, he'll love it. You're a terrific artist. We HEAR Mr. Kelcher arguing loudly from downstairs. The t girls freeze.
+104) 0) text: We HEAR the song "Stranger in Paradise" from Kismet on th old black and white record player from opening scene. Peg sits on the floor, surrounded by stockings, leotards and sewing basket. She cuts the legs oft a pair of leotards. one hand she holds up the top half of the leotards, in th other hand, a pair of nylon stockings. We HEAR a KNOCK on the bedroom door. Peggy pushes everyth under the bed as Maddy and Carol enter.
+104) 2) dialog: On what?
+104) 4) dialog: She's unbelievable. Who needs satellites when we've got Dolores's mouth?
+104) 9) dialog: Did you memorize the whole book or only the good parts?
+104) 11) dialog: You're kidding...? Carol, you have beautiful hair.
+104) 14) dialog: He's very interesting. For all his pretending to be a tough guy, he's really got the soul of a poet.
+104) 16) dialog: That loudВ—mouthed little bitch~
+104) 19) dialog: Cool it kids. He's free to see other girls, if he wants.
+104) 21) dialog: I'm not going to marry him. I just went out with him once. (beat)
+104) 25) dialog: Okay. But let's have a girls night soon. Maybe a pajama party.
+105) 0) text: Peggy turns to face her parents, holding up her homeВ—mad pantyhose with a flourish.
+105) 1) dialog: Ta da! Pantyhose! The death of the garter belt! Of course, once they're manufactured they'll look better than this. What do you think?
+105) 5) dialog: Instead of a girdle. And light as a feather.
+105) 7) dialog: And we won't just sell them in department stores. We'll market them in drug stores and  supermarkets.
+105) 9) dialog: You need a partner. There's a friend of mine at school whose father makes seat covers for cars, Mr. Fitzsimmons. I've invited him and his family over for dinner tomorrow night.
+105) 11) dialog: We've got to move fast. This is an idea whose time has come.
+105) 13) dialog: Wrong, Dad. Your idea.
+106) 0) text: A breeze blows through the open window Peggy sleeps fitfu tossing off the covers. We HEAR NOISES from outside her window. A figure appears outside and silently climbs into bedroom. Peggy mumbles Charlie's name. The man walks over her bed as Peggy reaches out for him, tenderly, as if the were still married.
+106) 1) dialog: Charlie. I just had the strangest dream.
+106) 3) text: I have to talk to you.. Through her sleepВ—clouded eyes, Peggy begins to focus on face of the younger Charlie. Suddenly, she remembers.
+106) 4) dialog: What are you doing here?
+107) 0) text: Peggy enters, flicks on the light and leads Charlie in. P senses Charlie's anger, and steels herself for the inevit confrontation.
+107) 2) dialog: I bumped into him after you dropped me off Last night. I didn't feel like going home, so we went for a ride.
+107) 5) dialog: You know I never could stand your sarcasm.
+107) 7) dialog: And why do you always refer to yourself in the third person, like Napoleon? How come it always turns into an argument with you?
+107) 9) dialog: Charlie,. I've been trying to postpone this. But what's the point? It's over. (crying)
+107) 12) dialog: That won't make any difference. We just can't live together. And you had the nerve to drive up with that bimbo Janet.
+107) 14) dialog: I just can't trust you anymore.
+107) 16) dialog: That's just it. You can always get to me. There's this window in my heart and every time I leave it open, you climb in. Unless I close it now, nothing's ever going to be different!
+107) 18) dialog: Everything. I have a good head for business, I should be franchising the bakery. And I want you to give me your word that whatever happens, you'll go to college. And finish.
+107) 20) dialog: I'm trying to save you years of frustration... waiting for a big break... no. Waiting for that big disappointment so you could blame it all on me.
+107) 22) text: What the hell has changed? For two years I've done nothing but love you. I'll show you, I'm going to be just like Fabian! Charlie exits. Peggy slumps back, drained. Getting up, sh crosses to the mounted swordfish. Standing on a chair she reaches into the mouth of the fish and pulls out a packag Pall Malls. She puts a cigarette in her mouth and picks u table lighter and flicks it. As it lights, the tiny music inside PLAYS SMOKE GETS IN YOUR EYES.
+108) 0) text: We HEAR distant CHURCH BELLS. Peggy sits down to scan the large Sunday newspaper. Seeing her mother's phone book, s finds the number she needs and picks up the phone. She di slowly.
+108) 1) dialog: (very nervous)
+108) 2) text: Hello, Grandma. It's Peggy Sue. Much better. How are you? I'm very sorry about the other day.
+109) 0) text: Peggy jogs towards Richard. He is watering the front lawn
+109) 1) dialog: (breathless)
+109) 4) dialog: Jogging. I was running, now I'm jogging.
+109) 6) dialog: Yep. It's going to be a law. (beat)
+109) 9) dialog: It was an unfair fight. He didn't have a chance. I'm taking a real gamble. I loved him for a long, long time.
+109) 11) dialog: For God's sake, forget the money! I'm going crazy! I'm a walking anachronism. I'm a puddle of deja I'm worried about my kids, Scott must be scared to death, I think my daughter's doing drugs again. I can't have any fun here, I don't have that innocence any more. I can't keep all this in anymore. I feel Like I'm going to explode.
+109) 13) dialog: Like what?
+109) 16) dialog: What do you know about hypnosis?
+109) 18) dialog: Look, I'm desperate. I'll try anything. But what if you can't snap me out of it?
+110) 0) text: Peggy sits in an old recliner. Richard holds a small, batteryВ—operated revolving disc up in front of Peggy's c eyes, then puts it down and picks up a notepad and pen.
+110) 3) dialog: (tranceВ—like)
+110) 4) text: Peggy Sue Kelcher. (beat)
+110) 5) text: Or, Peggy Bodell. (beat)
+110) 8) dialog: Ah..... they're very tiny... they look like a fingernail made out of an erector set...
+110) 10) dialog: I think it's called silicon. Charlie told me that.
+110) 12) dialog: We were lying in the sand. It was my eighteenth birthday... We were so awkward... I would have married him anyway... Peggy starts to shift in the chair. Her shorts hike up, h legs spread slightly. This is not lost on Richard. Weird, guttural sounds begin to emanate from his throat.
+110) 14) dialog: No. The Pill will change all that. Then he wouldn't have blamed me. We were just too young.
+110) 16) dialog: No. The Pill will be for birth control. But girls do like sex. Maybe not the first time.
+110) 18) dialog: Yes, every day. (taking her blouse off В—
+110) 19) text: getting spaced)  Maybe I shouldn't have worn that dress? I told Beth it was a bad idea. That's why they made me Queen. Peggy's meandering makes Richard nervous.
+110) 23) text: Oh shit! Peggy, I'm going to snap you out of it.
+110) 24) dialog: I couldn't help it В—В— I loved him.
+110) 26) text: You are now awake. Richard kneels on top of Peggy as she wakes up, fumbling buttons at her breasts. Peggy comes to, as Richard jumps She buttons her blouse, furious.
+110) 27) dialog: Richard! You should be ashamed of yourself.
+110) 29) dialog: That's just perfect isn't it? Did it work? Did you find out why I came back?
+110) 31) dialog: God dammit! How'm I gonna got out of here? Peggy grabs a glass beaker and hurls it against the wall.
+110) 33) dialog: Oh, go feel up your hamsters! I hear rodents put out. Peggy storms out.
+111) 0) text: Mrs. Kelcher stands at the counter preparing a pot roast. Peggy's making a chocolate mousse.
+111) 2) dialog: Mom, how about a machine that's like your blender, only it slices vegetables, kneads dough, chops meat and even make fresh pasta?
+112) 0) text: Peggy and Mrs. Kelcher are setting the table, taking the china out of the cabinet. A dozen red roses grace the tab
+112) 2) dialog: No, just a friend of mine. I don't think he Likes JellВ—O.
+112) 4) dialog: You know Mom, it's okay to have male friends. Besides, it's over with me and Charlie.
+112) 7) dialog: Yeah, I know Peggy Sue gets married. Case closed. Period. Mom, if you could live your life over again, would you do the same thing? Get married and settle down after high school?
+112) 9) dialog: Why?
+113) 5) dialog: It's incredibly difficult to make money in the restaurant business. You have to get up at five in the morning to go to the market, you have problems with spoilage, employee pilferage, and just try and collect from the credit card companies. They take months to pay. The whole table is astonished.
+113) 7) dialog: Oh, I just picked it up from my dad. He's a wonderful businessman.
+114) 0) text: Peggy~ and Michael stand by Michael's motorcycle, passing cigarette.
+114) 2) dialog: I shouldn't have put you through that. It must have been agony. Let's do something. Michael makes a move towards Peggy, with lust in his eyes
+114) 3) dialog: No. Something else. I'm too full. Besides, it's a school night.
+115) 0) text: Michael and Peggy pull up on the motorcycle in front of Lena's Lounge, a seedy bar in the town's black ghetto. Ha dozen blacks are banging around outside. They eye Peggy a Michael suspiciously.
+116) 0) text: The room has a bar at one side, booths and tables in the of the room. A stage is at the far end. On stage, an all black group, The FourВ—Mations, is performing the song GO TIMIN' The people in the club are dancing the Twist. Peggy and Michael sit in the last booth. Several people w hello to Michael.. Although Peggy and Michael can see the stage, their booth is not visible from the stage.
+116) 3) dialog: (looking around at the
+116) 6) dialog: Utah? I thought you'd be going to New York or Paris. What's in Utah?
+116) 8) dialog: (astounded)
+116) 11) dialog: I hate chickens.
+116) 15) dialog: Michael, you and I are light years apart. You should go, but not with me.
+116) 18) dialog: That's a terrific line. You're going to be a wonderful writer.
+116) 20) dialog: Yes. We had a glorious night together. One day you'll remember and write about it.
+116) 23) dialog: It's Charlie!
+116) 27) dialog: Ssh. He's great.
+116) 29) dialog: I thought I knew everything about him.
+117) 0) text: Michael and Peggy pull up. Peggy gets off the bike and gi Michael a goodВ—night kiss.
+117) 2) dialog: What?
+118) 0) text: Mrs. Kelcher finishes the dishes, with rubber gloves on. Kelcher sits, cleaning his pipe. Peggy enters.
+118) 1) dialog: How did it go with the pantyhose?
+118) 3) dialog: Oh no!
+118) 6) dialog: He's a liar! He has no such thing! It's my own fault. I should have had it patented first. He's a crook, damnit.
+118) 9) dialog: Oh, you're both so naive.
+119) 1) text: Peggy lies in bed in the darkness, her eyes wide open. Th bedside clock reads: 2:47. Peggy gets out of bed. CAMERA TRACKS Peggy into Nancy's room. Peggy looks down a Nancy sleeping. Gently pulling back the blankets, Peggy g into bed with her.
+120) 0) text: Peggy walks down a residential street, much like her parents'. She stops when she sees Charlie's car parked in driveway, and leans against a tree next to his car. Momen later, Charlie exits his house, a dog trailing behind him The dog runs up to Peggy. Charlie is wary and distant.
+120) 2) dialog: I wanted to talk to you, and I have one last thing to take care of at school. Then I'm going to... (pats dog)
+120) 5) dialog: Oh. I guess I always liked Rusty better. (beat)
+120) 8) dialog: Well, how about a walk, Charlie Bell..
+120) 10) dialog: I was at Lena's last night. You were terrific.
+120) 12) dialog: What were You doing there? You never told me you were singing with an R and B group.
+120) 14) dialog: I'd forgotten how much music meant to you.
+120) 16) dialog: Stop being defensive. I want to help you. I wrote a song for you.
+120) 18) dialog: Not exactly, but with your great voice, it'll be a huge hit. Honest.
+120) 20) dialog: Just take a look at it. (hands him the lyric)
+121) 0) text: Peggy and Charlie stand by their open locker.
+121) 2) dialog: It means I care about you and what happens to you.
+121) 5) dialog: What's the matter?
+121) 7) dialog: What happened?
+121) 9) dialog: Welcome to the singles' scene.
+121) 11) dialog: Look, Carol, maybe Walter's done you a big favor. You always said you wanted to get out of town. Go for it. And be happy, goddamnit, I'm rooting for you.
+122) 0) text: Peggy sits at her desk, organizing her books. We hear the of the ANNOUNCEMENTS over the P.A. SYSTEM.
+122) 3) dialog: You know Dolores, there's a lot of things I could say to you, but you're not worth the effort. Peggy reaches down to        up her books. On the top of an open fountain pen, which she picks up, pul1ing the rel lever, squirting ink all over Dolores's dress. Dolores dr her books, looks down at her dress, horrified.
+122) 4) dialog: Sorry. These fountain pens are so tricky.
+122) 7) dialog: I beg your pardon?
+122) 9) dialog: Have a nice day.
+123) 0) text: Peggy sits disconsolate on a bench, watching the other gi changing into their swim suits. Rosalie is in the shower room, wetting down her suit. She accepts congratulations a number of the girls. The BELL RINGS as the girls begin exit to the pool.
+123) 1) dialog: Rosalie! Wait! Rosalie turns at the door, smiling. They are alone.
+123) 3) dialog: I think you should give up diving. It's dangerous.
+123) 5) dialog: I know you are, but you have to stop. I couldn't tell you before, I didn't know if I should. But you have to stop before you hurt yourself.
+123) 7) dialog: But accidents can happen.
+123) 9) dialog: Rosalie, please, listen to me! You have to stop.
+124) 0) text: Peggy walks down the hall, a set of double doors, leading the pool, just ahead of her through them she sees Rosalie diving through the air with the careless innocence of you Burdened with the inevitability of it all, she rushes thr the hall, and is stopped by Richard.
+124) 2) dialog: It's all, gone wrong, nothing's working out.
+124) 4) dialog: You were meant to. You're one of those fortunate people that good things happen to. I have to get out of here. She starts to walk away.
+124) 6) dialog: I love you too, Richard. Thanks for trying. She continues down the hallway.
+125) 0) text: Peggy heads out the door, sees Charlie.
+125) 3) dialog: Forget it, it'll never work.
+126) 0) text: INTERCUT the bus, Peggy looking out the window, the rural scenery: pastures, barns, etc., the other passengers.
+127) 0) text: Peggy's grandparents, ELIZABETH and BARNEY ALVORG , wait the front of the station.
+128) 0) text: Peggy sees her grandparents waiting for her.  She grips t window rail tightly, trying to hold herself together.
+128) 2) dialog: Thank you.
+129) 0) text: Peggy stands at the door of the bus, hesitant. Elizabeth Barney approach the bus, waving and smiling up at her.
+130) 0) text: Barney is behind the wheel of a 1951 Plymouth. Elizabeth in front, Peggy curled up in the back, regressing.
+130) 4) dialog: (like a little girl)
+131) 0) text: Peggy and Elizabeth finish up the dishes, chatting.
+132) 0) text: A fire blazes in the fireplace. A grandfather clock stand prominently in the room. The clock from Peggy's house. Peggy sits with Elizabeth, learning how to knit. Barney laughs at "The Burns and Allen Show" on TV. Suddenly, Peggy places her hand over her heart and shiver with fear.
+133) 2) dialog: I wish she hadn't.
+133) 8) dialog: Do you believe in all of that?
+133) 10) dialog: I remember that book! (beat)
+134) 0) text: Peggy and Elizabeth are making strudel.
+134) 2) dialog: But I'm remembering the future.
+134) 4) dialog: My children make me happy. I miss them so much. (beat)
+135) 0) text: Peggy and Barney are washing the car at a standpipe, two hundred feet from the house.
+135) 2) dialog: That never changes. (beat)
+135) 5) dialog: Grandpa, if you had a chance to do it all again, what would you do?
+136) 0) text: Elizabeth is tying Barney's bow tie. Peggy is sitting wit jacket on.
+136) 3) dialog: It was my idea, Grandma. I always wondered what went on at those lodge meetings.
+136) 6) dialog: (hugging Elizabeth)
+137) 0) text: Peggy and Barney approach the car.
+137) 1) dialog: What does Grandma think you do at your meetings?
+138) 2) dialog: I hope so. At least I got to see you and Grandma. (beat)
+139) 0) text: A oneВ—story, pitchВ—roof building. The sign over the ent reads.: THE ORDER OF THE GOLDEN DAWN. Underneath the sign a logo of a spreading sunrise. Peggy and Barney pull up t the front, exit the car and enter the building.
+140) 0) text: Thirty old men are congregating around the cloak room. Mo are already dressed in long, purple robes with the sunris logo over their hearts. They either wear or carry triВ—co hats. Peggy and Barney enter. Several men approach them. Peggy nervously clings to Barney' s arm.
+140) 2) dialog: Thank you.
+140) 4) dialog: Ah... thank you.
+140) 8) dialog: (nervous)
+141) 0) text: A large meeting hall. The room is draped, and brightly li with fluorescent lights. At one end sits a large, goldВ— painted wood throne. On either side are large candle hold with lit candles. A small table serves as an altar in fro of the platform. On a footstool is a potted plane with an artificial bird perched on its top. The throne and altar like a set left over from a summer stock "Macbeth". Peggy and Barney enter. Several men lead Peggy away from Barney to the throne. One man places a go1den cape around shoulders. They lead her up the platform to the throne.
+141) 4) dialog: Yes, sir. Leo steps back, closes his eyes and spreads his arms.
+141) 5) dialog: Fasten your seat belts. Here we go.
+141) 8) dialog: (sotto)
+141) 9) text: This is never going to work. The old men form a circle in front of Peggy. They begin t circumambulate east to west, intoning together, their hea bowed. As Barney passes in front of Peggy, he winks at he She smiles back.
+142) 0) text: Charlie carries Peggy off towards his car, one hand cover her mouth. Peggy struggles. When they reach the car, he p her down. She's still wrapped in her golden robe.
+142) 1) dialog: What the hell did you do that for? What are you doing here?
+142) 3) dialog: Don't be ridiculous! They're just a bunch of harmless old men. My grandfather was in there.
+142) 5) dialog: I'm not getting in that blue monstrosity. Charlie pushes her inside, Peggy climbs back out. Charlie takes her hand and drags her up a hill behind the lodge h
+142) 6) dialog: Let me got! Where are you taking me?
+142) 9) dialog: How could you possibly know what I've been going through? Thunder and lightning. It starts to rain.
+142) 11) dialog: What do you mean you and my father decided? Who the hell are you to plan my life? Let's get married and live happily ever after. Bullshit. I got knocked up. I had to marry you. I never had a choice.
+142) 13) dialog: You betrayed me, Charlie. You were never there for me or the children. And now you come and tell me, "Peggy, you're scared." Of course I'm scared. If you knew what I knew you'd be scared shitless.
+142) 15) dialog: I might be crazy, but I'm not crazy enough to marry you twice. There's a lot of things I can't change. I can't even think about them. I tried. But I couldn't even help Rosalie. (tears start)
+142) 18) dialog: Will you take me back to my grandparents?
+142) 21) dialog: (anguished)
+142) 25) dialog: Scott and Beth. Where did you get these?
+142) 27) dialog: So are Scott and Beth. Peggy leans into Charlie, throwing her arms around him, holding on for dear life. She looks up at him, their foreheads touching.
+142) 30) dialog: I know. Charlie kisses her, passionately. The locket drops to the ground. HOLD on the locket, and...
+143) 0) text: Charlie and Peggy are lying on the ground, gazing up. A f of lightning streaks across the sky.
+143) 2) dialog: (musing)
+143) 6) dialog: I've got to go now.
+143) 8) dialog: I'll love you, too, Charlie. I'll love you for twenty years.
+143) 10) dialog: I'm trying. As Charlie watches helplessly, a huge bolt of lightning strikes his car. Peggy smiles. The men from the lodge run outside. They look up and above the blazing car and see P floating away. Peggy sees her grandfather in the crowd an blows him a kiss. Charlie begins to run, following the ki cord to its source. He finds Richard, struggling to restr the runaway kite.
+143) 18) dialog: Charlie? Was I dead?
+143) 20) dialog: (affectionately)
+143) 23) dialog: Charlie, I thought I knew everything about you.
+143) 25) dialog: What about Janet?
+143) 27) dialog: Who are all the flowers from? Charlie pushes himself out of his chair and moves toward dresser.
+143) 29) dialog: It couldn't be me.  I hardly knew him.
+143) 31) dialog: Charlie, I had a strange experience.  I went back to high school. And I spent a lot of time with you.  And you and Walter and Leon were singing "I Wonder Why".
+143) 33) dialog: You were terrific.  And I kept trying to push you away but you wouldn't give up.
+143) 35) dialog: Then hold me. He holds her hand.
+143) 37) dialog: Don't try to charm me, Charlie Bodell.
+143) 41) dialog: Charlie, I would like to invite you to dinner at home, on Sunday, with your kids. I will make a strudel. He hurries back to her, kisses her again. They hang on to each other as Beth enters the room.
+144) 0) text: Empty except for Richard who sits alone in a study warren surrounded by books. Peggy approaches. Be puts down the b he's reading. He smiles.
+144) 2) dialog: I came to say goodbye.
+144) 4) dialog: You were meant to  You're one of those fortunate people that good things happen to.
+144) 6) dialog: (manic)
+144) 9) dialog: Yeah, yeah. I'm taking a big gamble. I've loved him for a long, long time.
+144) 11) dialog: (slamming down book)
+144) 12) text: No! No! No! Peggy Sue got married! Case closed. I don't want to marry anybody. Goodbye Richard.
+144) 14) dialog: You can't. You're going to be Valedictorian.

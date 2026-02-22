@@ -1,0 +1,337 @@
+0) 14) dialog: Your Honor, since Rockwell Corp. began construction, the surrounding residential neighborhood has been enshrouded in a cloud of foul-smelling, germ-carrying, pestilent dust. My client is being forced to breathe known carcinogens daily! Other residents are coming forth on a daily basis to add their voices of outrage!
+0) 19) dialog: Innocuous?
+0) 21) dialog: I know what it means. Your Honor, imagine how the children in this neighborhood have been made to feel. The pounding of construction ringing in their ears as this skyscraper, a tribute to mankind's greed, grows daily, casting an ominous shadow over their lives, filling them with dread even as they are surrounded in a black, toxic fog, blocking out the sun while poisoning their lungs! And Counselor calls it harmless?!
+0) 29) text: Andrew and Joe stop at the same time, look at each other. And turn toward the corner, seeking privacy.
+0) 33) dialog: Right. (into phone) Miller.
+0) 34) text: The ELEVATOR OPENS: Andrew breezes past the MAN ON CRUTCHES, saying to Joe:
+0) 36) dialog: Funny.
+0) 37) text: Andrew hurries down the corridor. Joe waits a moment... t pursues the MAN ON CRUTCHES.
+0) 38) dialog: Excuse me..? Sir? Yo!
+0) 237) dialog: "If you or someone you know..."
+0) 238) text: ANDREW'S POV ON TELEVISION: Joe Miller on the screen, wit words "Negligence... Malpractice... Auto accidents"... an the background, PHOTOS of MAIMED, BURNED, INJURED CLIENTS
+0) 239) dialog: "... has been injured through the fault of others, you may be entitled to legal remedy...
+0) 330) text: LISA MILLER has just given birth to a baby girl. She collapses on her pillow, gasping for breath, moaning in pain, quietly crying a little. TITLE: "One month later." The NURSES and the (FEMALE) DOCTOR move professionally around the bed, doing their jobs. At Lisa's side, Joe fumbles with a camera while darting amazed looks back and forth between Lisa and the baby.
+0) 331) dialog: Oh my god... a girl... oh my god... Lisa... oh my god...
+0) 333) dialog: You load the film... ? No, on this side... or this side? Don't move the baby!
+0) 336) dialog: Thanks, hon. Oh my god...
+0) 337) text: With wildly trembling hands, Joe begins SNAPPING PHOTOS.
+0) 338) dialog: Oh my god... oh my god, look at her... oh my god...
+0) 341) dialog: Go to Famous Fourth Street and buy a pound of Nova. No! She likes Scotch salmon better. Ah heck, get a pound of both! Get a dozen onion rolls. Get some bagels. Get a dozen. Get a bottle of champagne. Dom Peringon... A hundred bucks a bottle?! Better get a good California...
+0) 343) dialog: (to the PATIENT) Give me a call. (into the phone) Get everything over here as soon as you can, she's starved. No, not the baby! Lisa! ... Iris, listen: any calls I should know about? ... Uh huh... Uh huh... Beckett? Who's Andrew Beckett?
+0) 344) text: Turning a corner, Joe comes face to face with HIS RELATIV who charge at him joyfully:
+0) 352) dialog: How big was this hole you fell into?
+0) 355) dialog: And this hole was right in the middle of the street?
+0) 359) dialog: Why didn't you cross at the crosswalk?
+0) 363) text: The PURPLE BLOTCHES on Andrew's face are beginning,to rec not as angry looking as before, thanks to chemo therapy. Andrew is dressed casually, in jeans and a softball jacke (from the Wyant Wheeler team) with "Andy" embroidered ove heart. Joe's assistant, IRIS, approaches.
+0) 365) text: Andrew rises, following Iris past office dividers, HARRIE SECRETARIES and overflowing file cabinets. Iris cannot look at Andrew as she walks beside him. (Outside Joe's door is a sign: "Beware Mad Dog" with "Mad written by hand.)
+0) 370) dialog: (to the FEMALE CLIENT) Explain this to me like I'm a six year old, okay? The entire street is clear except for one small area under construction, with a huge hole that is clearly marked and blocked off, and you decide you must cross the street at this spot. You fall into the hole and you want to sue the city for negligence? ...
+0) 372) dialog: Of course you have a case! Now, I want you to go with my assistant, Iris, and fill out some forms. She'll tell you about our fee arrangement. (as they're leaving) Mrs. Finley? Any back pain since the accident? Dizziness? Nightmares?
+0) 374) dialog: Tell Iris all about it. (leading her out) Take good care of Mrs. Finley, Iris. (to Andrew) Beckett, come in.
+0) 375) text: Joe offers his hand, getting a look at Andrew's face.
+0) 376) dialog: Jesus Christ, what happened to you?
+0) 378) text: Joe WITHDRAWS his hand, before it touches Andrew's.
+0) 379) dialog: Whoa-oh! (beat) Sorry, I...
+0) 381) dialog: Uh, yeah.
+0) 382) text: Andrew hesitates. Joe doesn't sound sure.
+0) 383) dialog: Go ahead.
+0) 384) text: Andrew sits, Joe returns to his desk. (Joe finds himself acutely aware of where Andrew places his hands.)
+0) 386) dialog: One week old.
+0) 388) dialog: Little baby girl.
+0) 390) dialog: Thanks, Beckett. I'm real excited about it. (glances at his watch) What can I do for you?
+0) 392) dialog: You want to sue Wyant Wheeler Hellerman Tetlow and Brown?
+0) 394) dialog: Continue.
+0) 396) dialog: How many lawyers did you go to, before you called me?
+0) 398) dialog: Continue.
+0) 400) dialog: We?
+0) 402) dialog: Your... lover?
+0) 404) dialog: Continue.
+0) 420) dialog: Hell, they are staring. What's that shit on your face?
+0) 432) dialog: You're in trouble.
+0) 433) text: (NOTE: Joe IS SEEN IN HIS OFFICE, or LEANING AGAINST A WINDOW IN THE CONFERENCE ROOM whenever he speaks.)
+0) 436) dialog: Big trouble.
+0) 456) dialog: In a word, yes.
+0) 460) dialog: But he's got lots of other people's lives to ruin...
+0) 468) dialog: I buy that.
+0) 480) dialog: Okay. Explain to me like I'm a two year old, because there's an element to this I can't get through my thick head: Didn't you have an obligation to inform your employer you had this dreaded, deadly, infectious disease?
+0) 483) dialog: Okay, okay... They discover you have this horrible, disgusting, terminal illness, and they panic, for any number of perfectly valid reasons. They're frightened for themselves, their families... Maybe it's the homo angle. Maybe they don't want to rub elbows with someone who's just popped out of the closet with a terminal case of acne. And how do they explain your status to the client for Chrissake?
+0) 485) dialog: Okay... They want you out. It's against the law to fire you for having AIDS, so they make you look like a fuck up. Which leads us to the mysterious, lost file.
+0) 487) dialog: I knew you were going to say that. I don't buy it, and I don't see a case.
+0) 489) dialog: Correct. I don't.
+0) 492) dialog: Beckett? I'm sorry about... what's happened to you. It's a fucking kick in the head.
+0) 499) text: Andrew nods, passing one of Joe's colleagues, a hustler named FILKO, who STARES SHAMELESSLY. Joe approaches Iris's desk.
+0) 500) dialog: Find out if Armbruster can see me this afternoon.
+0) 510) dialog: I'm not worried. What are you doing?
+0) 511) text: Joe sits in his shirtsleeves on the examining table.
+0) 513) text: The DOCTOR wraps the blood pressure unit around Joe's arm
+0) 514) dialog: I didn't have contact. What do you consider "contact?" We were sitting in the same room, three, four feet... What if you shake hands? Wait. I know the answer. Only sex, or sharing needles. I know that. We didn't shake hands, anyway.
+0) 517) dialog: Right.
+0) 518) text: Joe begins rolling down his sleeve.
+0) 520) dialog: Yeah, but Doc, isn't it true they keep finding out new things about this disease? So you tell me, today, there's no danger, and I go home, and I hold my baby, and six months from now I hear on the news: "whoops! We were wrong.' You can carry it on your clothes, your skin, and now I've got to worry about my kid. What are you doing?
+0) 523) dialog: Why are we going to do that?
+0) 525) dialog: You want to give me an AIDS test?!
+0) 526) text: Joe HOPS off the table.
+0) 527) dialog: The guy sat in my office! You can't get AIDS that way, right?
+0) 529) dialog: It doesn't travel through the air, by breathing, or touching, right?
+0) 531) dialog: Thanks, Doc, but I don't need an AIDS test. Are you crazy? But thanks for the information. Really.
+0) 532) text: Joe throws on his jacket, opens the door... then TURNS BA
+0) 533) dialog: In my past?
+0) 535) text: Joe shakes his head.
+0) 537) dialog: Get real.
+0) 539) dialog: (thinking it over) Uh.... No. Not really.
+0) 547) dialog: Not especially.
+0) 548) text: Lisa eats standing up, at the stove, while Joe walks the BABY in their modern kitchen.
+0) 550) dialog: How many do you know?
+0) 552) dialog: Who?
+0) 554) text: For a moment, Joe is struck dumb. Then he says:
+0) 555) dialog: Your Aunt Teresa is gay? That beautiful, sensuous woman is a... lesbian?
+0) 557) dialog: Since when?
+0) 559) dialog: Allright. I admit it: I'm prejudiced. I don't want to work with a homosexual. You got me.
+0) 561) dialog: I mean, two guys, doing the horizontal thing? I don't get it. Don't they get confused? "Is that mine? I thought it was yours." Hey, call me old fashioned, call me conservative... I think maybe you have to be a man to get just how nauseating the whole basic idea really is.
+0) 563) dialog: And the way they work out, pumping up, so they can be macho and faggot at the same time... I can't stand that shit. Now I'm being totally honest with you.
+0) 566) dialog: Would you take a client if you were constantly thinking: "I hope this guy doesn't touch me. I don't even want him to breathe on me?"
+0) 571) dialog: (under his breath) Shit...
+0) 572) text: Joe slides to the far end of his table, stacking seven or eight HUGE REFERENCE BOOKS in front of him.
+0) 583) text: The LIBRARIAN turns away, shrugging to a PATRON, indicati she's done all she can do. As Joe continues to watch: one of Andrew's NEIGHBORS pick up his books and moves away. Joe rises, gliding down an aisle of books, keeping one ey on Andrew, who concentrates on his work. Joe approaches, nonchalantly, as if he just happens to be sauntering by. Suddenly he "notices" Andrew.
+0) 584) dialog: Oh, Beckett. How's it goin'?
+0) 587) dialog: Who'd you get?
+0) 589) dialog: Find a lawyer?
+0) 591) dialog: Huh? Oh. Great. She's great.
+0) 593) dialog: Rayisha.
+0) 595) text: Andrew focuses on his work. Joe steps away. Joe comes back.
+0) 596) dialog: How did they find out?
+0) 599) dialog: Uh huh...
+0) 601) dialog: How do you get from one lawyer spotting a lesion, which could have been a bruise, to the partners deducing you had AIDS and basing a decision to terminate you on that conclusion?
+0) 606) dialog: They didn't fire her?
+0) 608) text: Andrew goes back to his work. Joe stands there.
+0) 609) dialog: So Kenton connected the... lesion, and whatever suspicions he had about your personal life... to this woman, Maria... and blew the whistle on you. Suddenly you're losing files, and it's time to let you go. But, up to this point, you've been their Golden Boy, their rising star... Their behavior is... inconsistent.
+0) 612) dialog: There is no relevant precedent.
+0) 614) dialog: Arline?
+0) 615) text: Andrew SHOVES the legal book toward Joe. CLOSE ON ANDREW'S HANDS (with one blotch) on the book's w pages. The book is still facing Andrew. If Joe wants to read it, he'll have to turn it around. Joe looks at Andrew's hands. A MOMENT. Joe turns the book around, begins to read:
+0) 616) dialog: "The Federal Vocational Rehabilitation Act of 1973 prohibits discrimination..."
+0) 619) dialog: "... against otherwise qualified handicapped persons who are able to perform the duties required by their employment..."
+0) 622) dialog: "Although the ruling did not address the specific issue of HIV and AIDS discrimination..."
+0) 623) text: DISSOLVE TO SAME ANGLE AN HOUR LATER: Andrew and Joe face other at their table, but NO ONE ELSE remains at that tab or at the table next to it...
+0) 625) text: NIGHT): Joe pacing, Andrew reading. Their section of the library is COMPLETELY EMPTY but for Andrew and Joe.
+0) 627) text: DISSOLVE TO SAME ANGLE, LATER: Andrew and Joe sit on the same side of the table, reading the same book.
+0) 628) dialog: "This is the essence of discrimination: formulating opinions about others not based on their individual merits but, rather, on their membership in a group with assumed characteristics...
+0) 629) text: The library is QUIET. Andrew SNEEZES. Joe scoots his chair away from Andrew by eight inches.
+0) 640) text: The door is opened again, by the SECURITY GUARD, REVEALIN Joe Miller (in jeans and basketball jacket) and a MARSHAL
+0) 641) dialog: Excuse me. Charles Wheeler?
+0) 642) text: Wheeler turns. Joe SLAPS a document into Wheeler's hand.
+0) 643) dialog: Summons. For you.
+0) 673) text: Joe sweeps by, just arriving for work.
+0) 674) dialog: Morning, Filko.
+0) 675) text: Filko keeps pace with Joe down the corridor. ANOTHER COLLEAGUE calls out from an office as Joe passes:
+0) 678) dialog: How many toilet stalls are there in the women's restroom on this floor, Filko?
+0) 680) text: Filko follows Joe into Joe's office.
+0) 681) dialog: Two. How many toilet stalls are there in the men's room? Two, plus four urinals. How many wheelchair accessible toilets in either of those restrooms? Zero. In this entire building? Zero. Get the picture, Filko? Discrimination! You find yourself a female, paraplegic, legal assistant who is qualified to work here, except she can't take a leak... and you've got yourself a sex discrimination suit and a handicapped discrimination suit. Not handicapped. What do you call someone who can't use a normal restroom? "Gastro-intestinally challenged!"
+0) 682) text: Behind Joe, out a large window: PAINTERS on a scaffold. Iris comes into the office and says:
+0) 684) text: Joe is dialing the phone.
+0) 685) dialog: Low-life, sleazy scumbags. Of course they want a postponement, I've got a client with a terminal disease. They're going to drag their heels every step of the way, the rotten bastards. (tapping on the window, to the
+0) 690) dialog: Hey, Beckett. This is Miller.
+0) 693) dialog: I just wanted to tell you...
+0) 695) dialog: ... we're trying to set a date for the prelim. Hang in there.
+0) 727) text: The Judge brushes by Joe and Andrew without a word. The r becomes SILENT as the Judge takes a seat.
+0) 729) dialog: Joseph Miller, Your Honor. Macready and Shilts Legal Services.
+0) 731) dialog: I'll take that under consideration, Your Honor.
+0) 742) dialog: If it please Your Honor, we hope to settle this matter.
+0) 744) dialog: Reinstatement at full salary. Back pay covering the period of unemployment and...
+0) 749) dialog: Your generosity overwhelms me, Belinda, considering my client was earning over a hundred thou when he was terminated almost six months ago.
+0) 753) text: Andrew and Joe confer with each other.
+0) 754) dialog: Based on what my client would have earned over the next three years, including benefits and projected raises, and the extraordinary cost of medical care for someone with Acquired Immune Deficiency Syndrome... We would settle today for the very fair amount of one million five hundred thousand dollars.
+0) 756) text: Andrew WHISPERS to Joe, who interrupts the Judge:
+0) 757) dialog: One more thing, Your Honor...
+0) 764) dialog: Why haven't you produced these letters?
+0) 769) dialog: Whoa, whoa... (to Andrew) What do you expect them to say, you're Alan Dershowitz?
+0) 775) text: Joe scans the room, all eyes are on him. His frown turns a grin. He faces the Judge.
+0) 776) dialog: With all due respect, Your Honor, my client chooses to pursue his constitutionally guaranteed right to a trial.
+0) 777) text: Joe exits.
+0) 849) dialog: Forget everything you've seen on TV, and in the movies...
+0) 852) dialog: There won't be any last minute, surprise witnesses...
+0) 855) dialog: No one will break down on the stand with a tearful confession...
+0) 857) dialog: You are presented with a simple fact: Andrew Beckett was fired. You will hear two explanations for why he was fired. Ours. And theirs...
+0) 858) text: Joe crosses the courtroom, coming to stand in front of... ANDREW, whose appearance has changed: thinner, paler than ever seen him, some blisters on his lips. But the most di thing about his appearance is the way he moves, slowly, l much older man. He's taking notes (which he will do relentlessly throughout the trial.) And he has a cane at side, which he'll use throughout the trial.
+0) 859) dialog: It's up to you, to sift through layer and layer of truth, and determine for yourselves the version that sounds the most true.
+0) 861) dialog: There are certain points in our version, that I must prove to you... Point number one: Andrew Beckett was... is a brilliant lawyer. A great lawyer. Point number two. Andrew Beckett, afflicted with a debilitating disease, made the legal, understandable, personal choice to keep the fact of his illness to himself... Point number three: His employers discovered his illness. And ladies and gentlemen, the illness I'm referring to, is AIDS...
+0) 862) text: Joe pauses, letting that sink in.
+0) 863) dialog: Point number four. They panicked. And, in their panic, they did what most of us would like to do with AIDS... Get it, and the people who have it, as far away from us as possible.
+0) 864) text: Joe walks away from Andrew.
+0) 865) dialog: The behavior of Andrew Beckett's employers may seem reasonable to you. It does to me. After all, AIDS is a deadly, incurable, disease...
+0) 867) dialog: But however you come to judge the behavior of Charles Wheeler and his partners in moral, ethical, human terms... When they fired Andrew Beckett because he had AIDS, they broke the law.
+0) 868) text: With a swift, direct glance at the Judge, Joe speaks with considerable power and emotion:
+0) 869) dialog: And, when lawyers break the law, when this society loses respect for the law, when that day comes, our cherished institutions will be burned to the ground, and our children and grandchildren will live like savages.
+0) 877) text: Joe watches Andrew for his reaction.
+0) 881) dialog: Andrew Beckett represented your company in a lawsuit in 1990, is that correct?
+0) 884) dialog: But, Andrew Beckett was in charge of litigation for the suit.
+0) 886) dialog: Were you pleased with his work?
+0) 888) text: Joe and Andrew exchange a LOOK -- Laird's response surpri disappoints them.
+0) 889) dialog: Were you satisfied, or were you pleased?
+0) 892) text: Joe refers to legal documents.
+0) 893) dialog: Mr. Laird, when I approached you about being a witness at this trial, and you agreed, you gave sworn testimony in a deposition. Is that correct?
+0) 895) dialog: According to the deposition, you said you were "thrilled, impressed, overwhelmed" by the quality of Andrew Beckett's work. Do you remember saying that?
+0) 897) text: Joe takes on a street-tough tone:
+0) 898) dialog: Okay, Mr. Laird. Explain this to me like I'm a four year old: Did Andrew Beckett win your lawsuit for you or not?
+0) 900) dialog: Did that thrill, impress and overwhelm you?
+0) 902) text: Joe STARES at the guy.
+0) 903) dialog: It's a long way between being overwhelmed and being satisfied. A cheeseburger may be satisfying whereas caviar and champagne and roast duck and baked Alaska for dessert might be considered overwhelming. Do you agree?
+0) 905) dialog: Five months ago you characterized Andrew Beckett as caviar and now you're calling him a cheeseburger. Your standards have shifted a great deal, and I'd like to know why you've changed your mind.
+0) 931) text: As the TV DRONES ON, CHARLIE THE COP, OTHERS GLARE at Joe
+0) 933) text: Joe does not laugh.
+0) 934) dialog: Yeah, Filko. I am. (stepping toward Filko) I'm on the prowl, Filko. I need a man. Not just any man. I need a hunk. A hunk like you. How about it, Filko? Want to play sailor? This time, I'll be first mate and you can be Columbus.
+0) 936) dialog: (angry) Those people make me sick, Filko! But a law's been broken, okay? The law. Remember the law?
+0) 939) text: HOLD ON JOE, but WE HEAR THE TV REPORTER in the BACKGROUN
+0) 946) dialog: And Walter Kenton knew the lesions on your face and arms were caused by AIDS?
+0) 949) dialog: How did Walter Kenton treat you, after you told him you had AIDS?
+0) 953) dialog: Ms. Torres? Have your employers fired you for having AIDS?
+0) 955) dialog: Thank you. No more questions.
+0) 963) dialog: Beyond noticing the marks on his face, were there other things about his appearance that made you suspect he had AIDS?
+0) 969) dialog: Ms. Burton. You're black.
+0) 971) dialog: No. Have you ever felt discriminated against, at Wyant Wheeler?
+0) 974) dialog: In what way?
+0) 976) dialog: Your earrings?
+0) 979) dialog: What did you say?
+0) 981) dialog: Thank you. No more questions.
+0) 993) text: Joe looks up surprised. The YOUNG MAN smiles.
+0) 995) text: Joe is flattered by the YOUNG MAN'S interest.
+0) 996) dialog: Good school. What year?
+0) 998) dialog: Great.
+0) 1000) dialog: Whoa, whoa, whoa, whoa... do you think... ? You think I'm... (low) ... gay?
+0) 1002) dialog: What's the matter with you? Do I look gay to you?
+0) 1004) dialog: Relax? I ought to kick your faggoty little ass for you!
+0) 1006) text: But Joe is really upset. People are watching.
+0) 1007) dialog: Don't you know this is exactly the kind of bullshit that makes people hate you guys?
+0) 1009) dialog: You're the asshole, buddy.
+0) 1011) text: Joe stands there, holding the Pampers, people STARING.
+0) 1014) dialog: But what was it?! What was this guy thinking... ?!
+0) 1016) dialog: Is there some kind of expression I've picked up from Beckett?! Some kind of fairy attitude I've unconsciously adopted?! Am I walking different?! Some kind of vocal thing?! Have I picked up some kind of homo vibe?!
+0) 1018) dialog: Very funny. I had a box of Pampers under my arm for Chrissake!
+0) 1022) dialog: (sleepy) Yeah... ?
+0) 1024) dialog: (a tired sigh) Lisa, c'mon. One guy sticking his dick in another guy's mouth? It's disgusting.
+0) 1027) dialog: (after a beat) Great, Lisa. Thank you.
+0) 1030) dialog: "But, ultimately, the complaint was found, wasn't it?
+0) 1036) text: ANGLE ON THE JURY: Several JURORS write in notebooks like Marine's; he's been handing them out... Joe seems ill at ease today, a little off his game. When glances at Andrew, it's with irritation.
+0) 1037) dialog: Has a file ever disappeared like that before? Vanished into thin air, all of a sudden, only to reappear in the nick of time?
+0) 1040) dialog: (fires this question) Did you have something to do with this file being lost accidentally-on-purpose?
+0) 1042) dialog: I'll rephrase. (to Jamey) Did you have anything to do with this file being... misplaced?
+0) 1044) text: Joe stands, staring at Jamey. Too long. Jamey squirms.
+0) 1045) dialog: Are you a homosexual?
+0) 1047) text: Joe pressing forward, toward Jamey.
+0) 1048) dialog: C'mon, Mr. Collins. Are you homosexual? You know, gay?
+0) 1049) text: The COURTROOM ERUPTS: ACTIVISTS booing Joe, Wheeler's cro expressing OUTRAGE, JURORS looking confused. Andrew takes in the commotion, as the JUDGE BANGS HIS GAV
+0) 1051) text: Andrew trains his attention on Joe.
+0) 1054) text: Joe faces Andrew, also curious to know what Joe's up to.
+0) 1055) dialog: Your Honor, everyone in this courtroom is thinking about sexual preference, sexual orientation, whatever you want to call it. They're looking at me, and wondering about it... (looking at Andrew) They're looking at Mr. Beckett, and wondering about it. They're looking at Mr. Wheeler and wondering about it. They might even be looking at you and wondering about it. So, let's get it out in the open. Let's talk about what this case is really about: the general public's hatred... our loathing, our fear of homosexuals.
+0) 1065) dialog: With all due respect, Your Honor... We don't live in this courtroom, do we?
+0) 1079) dialog: And how many weeks at a time would you be out to sea, without stopping at port?
+0) 1081) dialog: Any women on board?
+0) 1084) dialog: So during those long voyages, months at a time, out to sea, no women in sight, a hundred, hardworking, robust, young men, in the prime of their life, at the peak of their natural appetites, desires, their god- given, hormonal instincts... Anything going on?
+0) 1086) dialog: Like... two sailors playing hide the salami.
+0) 1092) text: Kenton seems eager to tell his story. Joe stands with crossed arms, waiting.
+0) 1094) dialog: (to Kenton) You had one guy "like that?"
+0) 1096) dialog: How did you do that?
+0) 1099) dialog: You taught him a lesson.
+0) 1101) dialog: Like firing Andrew Beckett taught him a lesson?
+0) 1103) dialog: I'll withdraw. (moving on quickly) You were aware, when you worked with Maria Torres, that she had AIDS, correct?
+0) 1105) dialog: So you are aware of the difference between a lesion and a bruise, is that correct?
+0) 1107) dialog: But didn't you avoid contact with Ms. Torres, after you found out she had AIDS? She says you acted repulsed by her and you avoided her, is that correct?
+0) 1156) dialog: Did I ever tell you, I hate costume parties?
+0) 1160) dialog: We're friends of Beckett's.
+0) 1174) text: Miguel leads Lisa away. Joe is reluctant to give her up.
+0) 1175) dialog: Beckett. You seem... better. Energized, more alive...
+0) 1177) text: Andrew studies Joe, trying to figure out the costume.
+0) 1178) dialog: I'm a law suit.
+0) 1180) dialog: Get it?
+0) 1182) text: Andrew leads Joe through the crowd, greeting Rachel, skin painted blue (SMURFETTE) her daughter AMY (BART SIMPSON), Anthea, TYRONE from Dr. Gillman's office (A COWBOY), and TYRONE'S LOVER (A HORSE) ... Some of Dr. Gillman's PATIEN are here too, including the YOUNG ASIAN MAN who is now in wheelchair. And, one or two of ANDREW'S SIBLINGS may be present as well. And Alan, Bruno and Chandra, and some ar friends and neighbors.
+0) 1184) dialog: Beer. (patting his briefcase) We need to go over your Q and A.
+0) 1186) dialog: Sure. It's fine.
+0) 1188) dialog: Thank you.
+0) 1189) text: A MAN dressed as LA TOYA JACKSON (with fake snake) squeez past Joe, reaching for a beer.
+0) 1191) text: Andrew is SMILING at Joe.
+0) 1192) dialog: You think I'm uncomfortable...
+0) 1194) dialog: You're right.
+0) 1195) text: Joe spills beer down his shirt.
+0) 1199) dialog: I'm a lawyer. (points to Lisa) That's my wife!
+0) 1200) text: --Andrew's mother Sarah, as Marge Simpson, delivers a tra of hors d'oeuvres to Joe (standing next to a POLICEMAN):
+0) 1202) dialog: Thanks, Sarah. (to the POLICEMAN) Nice costume.
+0) 1204) dialog: (pointing to Lisa) That's my wife. Want to see a picture of my baby?
+0) 1206) text: --Everyone SLOW DANCES to the Talking Heads tune "Heaven" (Simply Red cover version): Joe and Lisa, Andrew and Miguel, Rachel with a sleepy Amy in her arms, the POLICEM and TYRONE, Sarah Beckett and MARIE ANTOINETTE, LA TOYA a her snake.
+0) 1209) dialog: I'll see you in an hour, max.
+0) 1218) dialog: Let me tell you something, okay? When you're brought up, like the rest of us, in a place like where I was brought up, there's not a whole lot of discussion about... homosexuals. As a kid, you're taught right away that queers are weird, queers are funny, they're a danger to kids, they're afraid to fight, and they all want to cop your joint. And that pretty much sums up the general thinking out there, if you want to know the truth.
+0) 1220) dialog: Let's review these notes for your testimony. We have a big day on Monday.
+0) 1221) text: Joe begins ticking off a list of courtroom reminders:
+0) 1222) dialog: When you refer to Wheeler, call him Charles, to show how you'd been admitted to the inner circle, you were considered one of them.
+0) 1224) dialog: Beckett?
+0) 1226) dialog: What?
+0) 1228) text: Joe hesitates. They're having a personal conversation?
+0) 1229) dialog: Yeah. Sure.
+0) 1230) text: Joe goes back to the notes:
+0) 1231) dialog: Then we establish how Wheeler's boys recruited you after law school...
+0) 1233) dialog: For a healthy baby. For Lisa to make it through the delivery. For the Phillies to get into the playoffs.
+0) 1235) dialog: I've considered that.
+0) 1237) dialog: We proceed, representing your estate.
+0) 1239) dialog: I know a good probate lawyer.
+0) 1242) dialog: Opera?
+0) 1244) dialog: Opera?
+0) 1249) text: ANGLE ON JOE: Shifting, uncomfortable.
+0) 1251) text: The MUSIC ENDS. Joe sits there, fidgeting. He reaches for his briefcase organizing his notes.
+0) 1252) dialog: I think I'll... I told Lisa.
+0) 1253) text: Andrew collects himself, as Joe rises from his chair.
+0) 1255) text: Andrew follows Joe to the door.
+0) 1257) dialog: You're ready, don't worry.
+0) 1258) text: An awkward moment, both men standing with their hands at their sides -- will one of them initiate a handshake? Joe gives a little "salute," then leaves.
+0) 1262) dialog: Jesus.
+0) 1263) text: Suddenly, Joe HEARS: OPERA MUSIC PLAYING AGAIN. He pauses, listening.
+0) 1268) text: Joe lifts his hand to KNOCK. He changes his mind.
+0) 1269) dialog: Fucking guy...
+0) 1270) text: Joe moves down the corridor, rings for the elevator.
+0) 1290) dialog: Including Charles Wheeler?
+0) 1294) dialog: What impressed you about him?
+0) 1296) dialog: What kind of person is that?
+0) 1299) dialog: Obviously, at this time, you weren't sick.
+0) 1301) dialog: You didn't look then, the way you look now?
+0) 1304) dialog: A regular all-American guy?
+0) 1306) dialog: Except... you were gay?
+0) 1309) dialog: In the years you worked at Wyant Wheeler, did you ever tell Charles Wheeler you were gay?
+0) 1311) dialog: Can you explain why you didn't?
+0) 1328) dialog: How did that make you feel?
+0) 1332) dialog: Are you a good lawyer?
+0) 1334) dialog: What makes you an excellent lawyer?
+0) 1336) dialog: What do you love about it?
+0) 1347) text: Joe cringes a little with discomfort.
+0) 1403) dialog: Objection!
+0) 1427) dialog: (far away) Your Honor? May I have ten minutes in re-direct?
+0) 1432) text: Joe JUMPS UP from the plaintiff's table.
+0) 1433) dialog: I only need five! (to Belinda, reaching for the mirror) May I?
+0) 1434) text: Joe approaches Andrew, with the mirror.
+0) 1435) dialog: Do you have any lesions on any part of your body, at this time, that resemble the lesions that were on your face at the time you were fired?
+0) 1437) dialog: If it please the court, I'd like to ask Mr. Beckett to remove his shirt, so that the jury can have an accurate idea of what we're talking about.
+0) 1439) dialog: Your Honor, if Mr. Beckett was forced by his illness to use a wheelchair, would the defense ask him to park it outside? We're talking about AIDS, we're talking about lesions. Let's see what we're talking about.
+0) 1445) dialog: Can you see the lesions on your chest in this mirror?
+0) 1447) dialog: Thank you.
+0) 1474) text: Joe rises. Adjusts his jacket. Wheeler waits.
+0) 1475) dialog: (very gentle) Explain to me, if you can, Mr. Wheeler, explain this to me like I'm a ten year-old. This trial is not about a disease, is that what you're saying? Not about your understandable, if unfounded, fear of catching AIDS through casual contact with someone who has it? You're saying, this trial is about Andrew Beckett's character. Am I getting this right?
+0) 1481) text: Andrew blinks... what's going on? Looking back to the court: Joe presses in on Wheeler. Everything seems normal.
+0) 1483) dialog: What kind of people?
+0) 1491) dialog: Who makes the rules, Mr. Wheeler? You?
+0) 1503) text: Andrew OPENS HIS EYES... WE SWITCH TO HIS POV: The Judge, the Jury -- everyone silent, looking concerned ANDREW'S POV of the courtroom floor. Andrew falls into his own POV SHOT. In slow motion. He lies on the floor, looking up. ANDREW'S POV -- Joe steps over him.
+0) 1542) text: Joe smiles, just barely, remaining calm. Charles Wheeler whispers to Belinda Conine.
+0) 1545) text: Joe shakes his head, disappointed, writing down the amoun Wheeler and his crew SMILE -- THIS IS THEIR VICTORY.
+0) 1547) text: Joe is extremely disappointed.
+0) 1549) text: Joe throws his pen over his shoulder. COURTROOM BURSTS INTO AN UPROAR. Andrew's supporters, Joe's colleagues from his office rus forward, pounding him on the back. Andrew's family member hug each other...
+0) 1555) text: Joe steps into... ANDREW'S HOSPITAL ROOM (INT./NIGHT) ... A hand-painted banner is strung over Andrew's bed: "Victory." OPERA MUSIC plays on a portable CD player. ANDREW lies in hospital bed, with a pressurized oxygen mask on his face. JILL sits on the edge of Andrew's bed, holding his hand, smiling, speaking to Andrew in low tones. With his free hand, Andrew gently strokes Jill's forearm. (Andrew has a amazing assortment of tubes and IVs running into various parts of his body.) Andrew's brothers MATT and RANDY are sipping beers with R JIM, MIGUEL, Miguel's sister MARIA, Bruno and Chandra, wh Matt does a dramatic re-creation of the Marine Juror rend the judgment. Matt's audience is loving it. As Joe comes into the room, Jill rises to take the shoppi from him. Joe exchanges nods and greetings with the other People KEEP THEIR VOICES LOW, but there's a certain energ happiness evident in the room. ON ANDREW: Watching his friends and relatives with sparkl eyes and a weak, but grateful and peaceful smile. ON JOE: Glancing across the room, catching Andrew's look. Andrew smiles at Joe and pats his hospital bed, indicatin wants Joe to sit there. Joe crosses the room, sits on the edge of the bed. With some difficulty, Andrew removes his oxygen mask. His voice is raspy, weak:
+0) 1557) dialog: What?
+0) 1559) text: Joe smiles.
+0) 1561) dialog: It was good working with you, Andrew. You're welcome. (sees the oxygen mask) Hey. Shouldn't you put that thing back on?
+0) 1562) text: Andrew begins fitting the mask back in place, but his han weak. Joe helps adjust the straps behind Andrew's ears.
+0) 1563) dialog: I better get home. Lisa and I are having some friends over.
+0) 1565) text: Joe stands.
+0) 1566) dialog: I'll see you, Beckett.
+0) 1569) dialog: You bet. We'll see you later.
+0) 1570) text: Joe heads for the door, meeting Miguel there.
+0) 1571) dialog: (to Miguel) He's looking good. I wouldn't be surprised if he gets out of here soon.
+0) 1573) text: Miguel puts his arms around Joe and hugs him. Joe slaps Miguel's back.
+0) 1574) dialog: Night.
+0) 1575) text: Joe leaves. Miguel begins circulating among the "guests," saying:
+0) 1579) dialog: What do you call a thousand lawyers chained together at the bottom of the ocean?
+0) 1605) text: Joe sits bolt upright.
+0) 1606) dialog: Miguel?

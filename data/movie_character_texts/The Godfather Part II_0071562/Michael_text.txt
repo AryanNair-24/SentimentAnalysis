@@ -1,0 +1,320 @@
+18) 0) text: The lawns of this great estate on the shore of Lake Tahoe are covered with guests of a wonderful party to honor the First Holy Communion of Anthony Corleone, the son of Mr. Mrs. Michael Corleone.  A full dance orchestra plays musi of the times on a pavilion bandstand built especially for the occasion.  Speedboats roar through the water, pulling youthful waterskiers; and the pool and private harbor are filled with laughing, swimming guests.  It is Fall of 195
+20) 13) text: This is swell.  Where's Michael? I've got things to get straight with him and I can't wait on line.
+23) 0) text: A large and very beautiful room overlooking the lake.  It dominated by an enormous bar, behind which stands ALBERT NERI, discreetly in the background. MICHAEL CORLEONE sits on a large sofa, his back to us. Standing to one side is a tired and somewhat uneasy TOM HAGEN.  Standing before Michael is SANDRA CORLEONE, Sonny widow; her daughter, one of the twins, FRANCESCA CORLEONE and a handsome young man of twenty, GARDNER SHAW.
+23) 4) dialog: Sit down.  Francie. The couple sit themselves on the sofa opposite Michael.
+23) 6) dialog: Let them speak for themselves. VIEW ON MICHAEL, calm, thoughtful.  One can tell that he special affection for his niece.
+23) 12) dialog: Francesca is my oldest brother's daughter.  He died many years ago, and ever since I've felt much more of a father than an uncle.  I love her very much.  I'm pleased and impressed that you had the thought to come to me before going on with your plans.  It shows me that you're a considerate man, and will be good to her.  What are you studying in college?
+23) 14) dialog: How will Fine Arts support your new wife?
+23) 16) dialog: (smiling)
+23) 19) dialog: (continuing)
+23) 20) text: ...and take a few courses in Business Administration just to be on the safe side! They laugh; Michael moves toward them.  Francesca throws arms around him, and kisses her favorite uncle.  The flus young man shakes his hand heartily.
+23) 22) dialog: Make her dowry impressive.  He comes from a family who still thinks an Italian bride goes barefoot.
+25) 0) text: Michael sits in the darkened boathouse.  Tom Hagen paces. Michael is looking at photographs.  Neri stands over him.
+25) 1) dialog: studying the pictures.
+25) 5) text: ...American wife and two small kids. We traced him and found that he's in the country illegally, from Sicily... Michael looks at another picture.  The same man.  Only younger, and dressed in Sicilian shepherd's clothing.  We remember him as FABRIZZIO...Michael's traitorous bodyguar in Sicily.
+25) 7) dialog: It's him.  Fabrizzio. (almost to himself)
+25) 10) dialog: Later.  Tom? Hagen brings him a folder; then, as Michael glances throu it:
+25) 14) dialog: Two-thirty.  That gives me time to see my boy.
+25) 17) dialog: All right.  Apologize to Pentangeli. Neri opens the door; Hagen exits, and Connie steps in impatiently, followed by Merle.
+25) 18) dialog: I said I would see my sister, alone.
+25) 20) text: You don't, do you? Connie steps forward, kisses Michael on the cheek.
+25) 22) dialog: I saw him with you.
+25) 24) dialog: Why do you come to me?  Why don't you go to a travel agent?
+25) 26) dialog: The ink on your divorce isn't dry. Your children see you on weekends; your oldest boy, Michael Francis... was in some trouble with the Reno police over some petty theft that you don't even know about.
+25) 28) dialog: You fly around the world with lazy young men who don't have any love for you, and use you like a whore.
+25) 30) dialog: Then why do you come to me?
+25) 32) dialog: (softly)
+25) 35) dialog: Are you finished?
+25) 37) dialog: Then out. Merle puts out his cigarette and leaves, quickly.
+27) 0) text: Rocco ushers an older Italian, bundled up against the col and wet of his boatride, to Michael. The man shows respect to Michael, who quickly indicates t Neri should get him a drink.
+27) 1) dialog: Rocco, his friends must be hungry. See what you can do, but I'd like to keep them away from the guests. The older man, JOHNNY 'BLUE BOY' OLA, gestures to his bodyguards, and they follow Lampone.
+27) 2) dialog: You know my lawyer, Tom Hagen. Johnny Ola.
+27) 4) dialog: Tom isn't going to sit in with us, Johnny.  He only handles specific areas of the family business.  Tom?
+27) 7) dialog: Just tell Rocco I'm waiting. Hagen nods and leaves.  As soon as the door closes:
+27) 9) dialog: How is his health?
+27) 11) dialog: Is there anything I can do; anything I can send?
+27) 14) dialog: He's very kind, tell him it's appreciated.  I'm sure it will be profitable all the way around.
+27) 17) dialog: (rising)
+27) 20) dialog: Mr. Ola's just leaving, Kay. Please tell the Senator I won't be a minute. Pause; she stands there a moment.
+27) 21) dialog: (continuing)
+28) 0) text: Kay closes the door.  It seems as though Michael has viol some sort of promise to her by having this man here today She looks up toward the first boathouse.
+31) 2) text: ...made to the University in the name of Anthony Vito Corleone. Thank you, Mr. and Mrs. Michael Corleone. Applause.  Senator Geary returns the microphone to the Maestro who adds:
+31) 6) dialog: Find Hagen. Rocco sets off; as more pictures are taken, and the:
+32) 0) text: Michael, the Senator, Neri and Rocco make a group in the dark, large room.
+32) 1) dialog: It was very kind of you to come to my home on this occasion, Senator. My wife has been very concerned with making a good impression on the people who are our neighbors, and your appearance here has made her very happy.  If I can ever perform a service for you, you only have to ask. The door opens, and Hagen sheepishly makes his way in.
+32) 2) dialog: My lawyer, Tom Hagen.  He arranged this all through your man Turnbull.
+32) 4) dialog: I trust these men with my life. They are my right arms; I cannot insult them by sending them away.
+32) 10) dialog: Turnbull is a good man.
+32) 13) dialog: Senator Geary, I speak to you as a businessman who has made a large investment in your state.  I have made that state my home; plan to raise my children here.  The license fee from the Gambling Commission costs one thousand dollars; why would I ever consider paying more?
+32) 17) dialog: (quietly)
+32) 22) dialog: Senator... (cold and calm)
+32) 24) dialog: My offer is this.  Nothing...not even the thousand dollars for the Gaming Commission, which I'd appreciate if you would put up personally. Geary returns Michael's hard look; then laughs and leaves Slowly Michael turns to Hagen.
+32) 26) dialog: It's all right, Tom, we'll talk later.  Tell Frankie Pentangeli I'd like him to have dinner at my family table before we do business.
+33) 14) text: Michael, in all respect, I didn't come three thousand miles for dinner.
+33) 15) dialog: (Sicilian)
+33) 19) dialog: (Sicilian)
+34) 0) text: Pentangeli is angry; but because it is Michael he is talk to, he keeps his voice low and represses his desire to sh
+34) 2) dialog: We were all heartbroken at the news; but that wasn't cause to start a war.
+34) 4) dialog: You were unfair with them.
+34) 6) dialog: Clemenza promised Rosato three territories in the Bronx after he died, and then you took over and welched.
+34) 8) dialog: They feel cheated.
+34) 10) dialog: (suddenly in Sicilian)
+34) 14) dialog: (firm)
+34) 17) dialog: I know.  That's why I want you to be fair with them.
+34) 19) dialog: No.  There are things that I have planned with Hyman Roth.  I don't want them disturbed.
+34) 21) dialog: Frankie, you know my father respected Roth, did business with him.
+34) 24) dialog: The old man had too much vino rosso, or he'd never talk openly that way.  Let him go back to New York; I've already made my plans. (he checks his watch)
+35) 13) dialog: Forget it, just go take care of her.
+39) 0) text: Kay and Michael dancing in the moonlight.
+39) 1) dialog: How's the baby?
+39) 3) dialog: Does it feel like a boy?
+39) 5) dialog: I'm sorry about some of the people I had to see today.  It was bad timing... but it couldn't be helped.
+90) 0) text: The room is large, lit from the outside by a bright eveni We can see the outline of many toys on the shelves built along the wall.  We see the dark figure of Michael Corleo enter the room and approach the bed where his son Anthony lies curled in messy blankets.  Michael quietly arranges small hands and feet and covers the little boy.  Suddenly Anthony turns, his eyes open.  He is staring, perfectly awake, at his father.
+90) 1) dialog: Can't you sleep? No answer.
+90) 2) dialog: Are you alright?
+90) 4) dialog: Did you like your party?
+90) 6) dialog: Do you like them?
+90) 8) dialog: They were friends. He kisses his boy, and then turns.
+90) 10) dialog: No, where is it?
+90) 12) dialog: I'm leaving very early tomorrow, before you wake up.
+90) 14) dialog: Just a few days.
+90) 16) dialog: I can't.
+90) 18) dialog: To do business.
+90) 20) dialog: Some day you will. Michael kisses him again.
+91) 0) text: The room is lit from a small night lamp on Michael's side the large bed. Kay is huddled in blankets, asleep.  Michael closes the d to his room, moves to his side of the bed, and glances do to the pillow.
+91) 3) dialog: Go with the kids.
+92) 3) dialog: Keep them alive. Six men take up posts by Michael's house.
+92) 5) dialog: It's important. He returns inside.
+95) 0) text: Kay, the children, and some women servants have come down from the various rooms into the central living area, that can be most easily secured.  The little girl is still asleep; they make you think of an immigrant family, with their blankets and frightened faces, all waiting in a central room. Michael goes up to Kay, squeezes her hand, and whispers:
+95) 1) dialog: It will be all right.  We were lucky. She says nothing; but her face expresses the anger she fe over the jeopardy Michael has placed his children in.  Sh holds her young daughter in her arms. The door opens, and Rocco enters.  He quickly realizes he holding his gun in plain view in front of the family, and puts it away.  Michael moves to him, and they talk a dist away from Kay.
+95) 3) dialog: And?
+95) 9) dialog: Fredo, can't you shut that woman up! (to Rocco's men)
+95) 15) dialog: (to Rocco)
+97) 0) text: Michael alone in the great room.  He moves to a walk-in safe, quickly runs through the combination, and opens it. He takes out an envelope, and puts it into his pocket; there's a KNOCK on the door, and Hagen enters.  He had be asleep, and has quickly thrown on a robe.
+97) 1) dialog: Sit down, Tom.
+98) 0) text: From outside the leaded windows, a disoriented Hagen sits down; Michael starts to talk to him; obviously about something very serious. The patrol securing the boathouse, walk past the window. Michael says something to Tom, who rises, and pulls the drapes, obscuring OUR VIEW.
+99) 0) text: Michael talks intimately to Tom.
+99) 1) dialog: There's a lot I can't tell you, Tom. I know that's upset you in the past; and you've felt that it was because of some lack of trust or confidence.  But it is because I do trust you that I've kept so much secret from you.  It's precisely that at this moment, you are the only one that I can completely trust.  In time, you'll understand everything.
+99) 4) dialog: No, I have confidence in their loyalty... but this is life and death, and Tom, you are my brother. Hagen in very moved.
+99) 6) dialog: No Tom, just listen.  All my people are businessmen; their loyalty is based on that.  One thing I learned from my father is to try to think as the people around you think...and on that basis, anything is possible. Fredo has a good heart, but he is weak...and stupid, and stupid people are the most dangerous of all.  I've kept you out of things, Tom, because I've always known that your instincts were legitimate, and I wanted you to know very little of things that would make you an accomplice, for your own protection. I never blamed you for the setbacks the family took under Sonny; I know you were in a position of limited power, and you did your best to advise and caution him.  What I am saying is that now, for how long I do not know, you will be the Don. If what I think has happened is true; I will leave tonight, and absolutely no one will know how to contact me.  And even you are not to try to reach me unless it is absolutely necessary.  I give you complete power: over Neri... Fredo, everyone.  I am trusting you with the lives of my wife and children, and the future of this family, solely resting on your judgment and talent.
+99) 8) dialog: (continuing)
+99) 11) dialog: I've prepared this; have had it for over a month.  It won't explain everything; but indicates where I will be, so in a sense, it is my life. (he hands the envelope to Hagen)
+99) 14) dialog: I don't think so.  Unless I'm very wrong...they're already dead. Killed by someone inside...very frightened that they botched it. That's why I am going to disappear in a few minutes, and leave everything to you.
+99) 16) dialog: If I'm wrong... There is a KNOCK on the door.
+99) 17) dialog: ...I don't think I'm wrong. (he indicates the knock)
+99) 18) text: Yes. The door opens; it is Rocco; Michael rises, after making knowing glance toward Tom, and moves to talk quietly to a frightened and agitated Rocco.
+100) 0) text: A group of men with flashlights and guns lead Michael, To and Rocco to the stone bridge spanning the stream which r through the estate.
+100) 1) text: Michael's dispassionate face, looking down.  THE VIEW MOV to Hagen's, and then down to the murky water under the bridge, where we see the bodies of three strangers, lying the moving water; machine-type guns nearby, with their throats cut.  Light from the many flashlights illuminates the grotesque scene.
+100) 2) dialog: Fish them out. Several of the men wade down into the stream; Rocco helps and even Tom steps down to get a better look at who they were.  They are total strangers; Rocco examines the type guns they used. When they climb back onto the ground, Michael is gone. Everyone notices it, but no one says anything. Hagen stands there, holding the envelope Michael had give him in his hand. He realizes that now, he is the DON.
+108) 0) text: Inside the corridor, a porter advances, and knocks on the door of a stateroom.  A voice tells him to enter.  OUR VI enters with him as he carries a tray of lunch.  From this POV we see Michael Corleone sitting in the compartment.
+108) 2) dialog: Yes.
+108) 4) dialog: Put it right there. The porter does so; as he places the tray down, he catche glimpse of a second person in the compartment with Michae
+108) 6) dialog: Thank you. The porter takes his advice and leaves quickly, closing t door behind him.
+109) 1) text: Michael sits behind the wheel of a nondescript late model car.  Bussetta sits in the rear. Another car swings into the lot.  Michael starts his car, and pulls out of the lot; the second car following.
+110) 0) text: Ola's car leads Michael's through a middle-class suburban area of $30,000 to $40,000 homes.  There are small channe with sporting and fishing boats parked near the houses. Ola's car pulls up in front of a very simple, tract-type home.  Michael's car parks nearby.
+110) 1) dialog: (Sicilian) (to Bussetta)
+110) 2) text: You'll wait in the car. Ola has gotten out of his car and walks up the little pat to the front door.  Michael waits. Ola rings the bell, and after a moment, a rather pretty, middle-aged WOMAN answers, remaining behind the screen do Ola says a few things to her and she disappears, leaving door open. Ola comes down the steps, looks at Michael, nodding to hi Ola then gets into his car and drives off.  Michael walks the walkway and enters the little house, closing the door behind him. This woman, TERRI ROTH, is in the kitchen, looking out at Michael.
+110) 4) dialog: Thank you, Mrs. Roth. She hurries halfway up the staircase.
+110) 7) dialog: Fine. He continues upstairs; she goes into the kitchen.
+111) 0) text: Michael enters the den: it's very comfortable, but somewh like a senior citizen's retirement home in Florida.
+111) 3) dialog: Not for a few years.
+111) 5) dialog: Yes.
+111) 8) dialog: The incident of the other night is a nuisance that I can take care of. I came to you because I want nothing to affect our agreement; I wanted to clear everything I'm going to do with you, just in case.
+111) 10) dialog: You're a great man, Mr. Roth, I have much to learn from you.
+111) 13) dialog: The Rosato Brothers have performed services for you in the past; I understand that they are under your protection.
+111) 16) dialog: Technically, they are still under the Clemenza wing of the Corleone Family, now run by Frankie Pentangeli.  After Clemenza died, the Rosatos wanted territory of their own.  Pentangeli refused, and came to me, asking for permission to eliminate them.  I, of course, knew of their relationship with you, and in gratitude for your help with the Tropicana matter, turned him down.  Pentangeli was furious, and paid one hundred and fifty thousand dollars to have me killed. I was lucky and he was stupid. I'll visit him soon. (leaning toward the old man, sincerely)
+111) 17) text: The important thing is that nothing jeopardize our plans, yours and mine.  This thing of ours, that we will build. The old man touches Michael's hand, warmly.
+111) 19) dialog: (quietly)
+111) 22) dialog: Then it's done.  I must choose his replacement: it cannot be Rosato.
+117) 6) text: He's in your study. He knows it is very very serious for Michael to be here i his home. He automatically moves into his study.
+118) 0) text: Michael stands quietly in the room.  This was once his father's study, although it is totally redecorated. Pentangeli starts sweating, and moves toward the young Do and kisses his hand.
+118) 2) dialog: I didn't want you to know I was coming.  You heard what happened in my home?
+118) 4) dialog: (furious)
+118) 6) dialog: I want you to help me take my revenge.
+118) 8) dialog: I want you to settle these troubles with the Rosato Brothers.
+118) 10) dialog: I want you to settle on their terms.
+118) 12) dialog: Trust me; do as I ask.
+118) 14) dialog: Frankie...do you respect me?  Do I have your loyalty?
+118) 16) dialog: I know.
+118) 18) dialog: (coldly, but convincing)
+118) 21) dialog: This was my father's old study. When I was a kid, we had to be quiet when we played near here. When I was older, I learned many things from him here.  I was happy that this house never went to strangers; first Clemenza took it over, and then you.  My father taught me, in this room, never to act until you know everything that's behind things.  Never.  If Hyman Roth sees that I interceded with you in the Rosato Brothers' favor, he'll think his relationship with me is still sound.  I'm going somewhere to meet him tomorrow.  We have friends in some very important business that we're making.  Do this for me; you make the peace with the Rosato Brothers on their terms.  Let the word out that I forced you; you're not happy wit hit, but acquiesced, just because of me.  It will get back to Hyman Roth.  Do this, Frankie.  You can trust me.
+118) 23) dialog: Good. They embrace; Michael kisses him.  He looks at the young Don, thoughtfully.
+122) 0) text: Michael is led to a desolate, night-lit private dock.  He followed by the ever-present Bussetta, and they are helpe onto a light-weight, luxury cabin cruiser.  The crew cast off various ropes, and the boat sets out into the night.
+126) 0) text: Hagen moves quickly out of Michael's house; moving across the lawn to the boathouse.
+129) 0) text: Michael and Bussetta are driven in a Mercury sedan, makin its way through the streets of Havana.
+130) 0) text: Michael is led through a beautiful wooden lobby of the hotel, done in Spanish style, apparently just recently completed.  He is approached by a thin, mousy man, SAM RO who ushers him toward the casino entrance.
+130) 2) dialog: No, I'm fine. He leads Michael into the main casino.
+130) 4) dialog: Very impressive.
+131) 14) text: watching.  The police rush to Michael's car and guide it outside of the trouble area.
+132) 3) dialog: I was told the Cubans now call this drink: "La Mentira."
+132) 5) dialog: It means... "The Lie." A moment's hesitation, then a few of the men laugh.  Now Cubans in white carry a table which has a lovely small ca on it.
+132) 23) dialog: I saw an interesting thing today. A man was being arrested by the Military Police; probably an urban guerrilla.  Rather than be taken alive, he exploded a grenade hidden in his jacket, taking the command vehicle with him. The various men look up as Michael eats his cake, wonderi what the point of it is.
+132) 24) dialog: It occurred to me: the police are paid to fight, and the Rebels are not.
+132) 26) dialog: So, that occurred to me.
+133) 0) text: Michael sits alone with the old man, on a terrace that overlooks the city.
+133) 2) dialog: We're making a big investment in Cuba.  That's my only concern.
+133) 4) dialog: The money was sent.
+133) 6) dialog: I wouldn't consider anyone else.
+133) 9) dialog: You'll be there to see it; you'll be there.
+134) 0) text: The telephone has just rung; Michael listens.
+134) 2) dialog: Thank you. (click, click)
+146) 0) text: Michael and Fredo in a brother's embrace; they kiss each other.  Fredo is still in his jacket, holding the satchel
+146) 3) dialog: Mio fratello. Then Bussetta offers his hand back to Fredo.
+146) 7) dialog: It's all right.  He stays with me all the time.
+146) 9) dialog: We're making an investment in Havana.
+146) 11) dialog: Johnny Ola... Hyman Roth.
+146) 13) dialog: Pentangeli's dead.  He was ambushed by the Rosato Brothers. (pause)
+146) 16) dialog: I want you to help me, Fredo.
+146) 18) dialog: Tonight I want to relax with you. The Senator from Nevada is here with some people from Washington. I want to show them a good time in Havana.
+146) 20) dialog: I'd like to come along.  There's been a lot of strain, and I've been cooped up in this room for three days.
+147) 0) text: Michael stands at Roth's door carrying the briefcase that Fredo had brought. A hotel DOCTOR takes Hyman Roth's blood pressure, while h wife waits nervously.
+147) 9) dialog: This doubles my investment.
+147) 11) dialog: Six million dollars in cash is a high price for a piece of a country in the middle of a revolution. Roth looks patiently at Michael, as though he were a chil who hadn't minded the lesson that he had been taught over and over again.
+147) 13) dialog: I've read it; I'm pleased that the government is doing so well.  As a heavy investor, I'm pleased.  How did the doctor find you?
+147) 15) dialog: Who had Frankie Pantangeli killed?
+147) 18) dialog: I know that; but who gave the go ahead. Roth glances to Ola; he is not a fool; he realizes Michae has begun to suspect him.
+147) 19) dialog: I know it wasn't me...so that leaves you.
+148) 0) text: Michael closes the door, and moves down the hallway.  He followed by Bussetta, who had waited in the corridor.
+148) 1) dialog: (Sicilian)
+149) 11) dialog: I never looked down on you, Fredo. You don't look down at a brother.
+150) 0) text: By now the group has made its way into the casino.  Some them are crowded around the crap table; Senator Geary is with the enormous and beautiful Yolanda, who barely speak English.  There are other girls with some of the men; not with Michael, who gambles dollars while talking to Corngo
+150) 5) dialog: Let him gamble.
+150) 9) dialog: No.
+151) 0) text: Our group are in a large Havana bar; the walls totally covered with hundreds of fifths of different types of rum and other liquor. A couple of the girls from the show are out with the men; Yolanda herself is giving them a private song and dance. Fredo is a little loaded, and especially attentive to Michael this night.
+151) 2) dialog: It was hard to have him killed.
+151) 4) dialog: It was hard to have him killed.
+151) 6) dialog: It was Frankie tried to have me hit.
+151) 8) dialog: You know otherwise, Freddie?
+151) 10) dialog: A growing feeling about his brother.
+154) 0) text: Michael is alone in his bedroom; it seems as though he hasn't slept very much, but sits by his window, looking o at the city.  He is troubled and tired. His radio is on:
+155) 0) text: This street in Havana is like a Caribbean tourist city wi no indication of the revolution in progress. Michael walks along the street, alone, past the Cubans on their way to work; past the American ladies who have gott up early for their shopping spree.
+155) 2) text: ... An important military action is developing along a 35-kilometer stretch of the Central Highway. Numerous enemy garrisons are left with two alternatives, surrender or annihilation... One full block away, Bussetta rides in the front seat of dark Mercury, driving slowly, giving Michael his privacy, but never letting him out of Bussetta's sight.
+155) 3) dialog: watching.
+157) 0) text: A street singer, followed by a guitarist sings Jose Marti words of "Guantanamera." It is solemn, as though it is a song of protest, a song of the revolution. Nearby, in a restaurant, Michael has lunch with Fredo.
+157) 1) dialog: How is your wife, Fredo...your marriage?
+157) 3) text: You know her; drives me crazy, one minute she's a popsicle, the next she's all vinegar.  Sometimes I think... I think - I should a married someone, like you did.  To have kids, to have a family. Michael turns, distracted for a moment at something the singer has sung.
+157) 4) dialog: "Yo soy un hombre sincero..." I am a sincere man, From the land of the palms...
+157) 6) dialog: The song.  Are you sincere with me, Fredo?
+157) 8) dialog: Then I'm going to confide in you; trust you with something.
+157) 11) dialog: Tonight we've been invited to a reception at the Presidential Palace; to bring in the New Year. You and I will go in a special car that's being sent.  They'll have cocktails... then dinner, and a reception with the President.  When it's over, it will be suggested that you take Questadt and his friends from Washington to spend the night with some women.  I'll go home alone in the car; and before I reach the hotel, I'll be assassinated.
+157) 13) dialog: The same man who tried in Nevada... Hyman Roth, not Pentangeli.
+157) 15) dialog: It was never Pentangeli... I've always known that.  It was Roth all along.  He talks to me as a son; as his successor, but the old man thinks he'll live forever.
+157) 17) dialog: To go tonight, with me, as though we know nothing.  I've already made my move.
+157) 19) dialog: The old man will never bring in the New Year. Fredo realizes what he means; looks immediately to Busset who had been sitting near the door and the musicians.  He gone.
+158) 0) text: The first time ever away from Michael, moving toward us quickly.  He stops, knocks on the door of Roth's suite. Then quickly for a man his size, he moves without noise t the adjoining door, opens it with a key, and disappears inside. A moment elapses on the empty corridor, and then a roused Johnny Ola, opens the first door.  He steps out into the corridor, to see who had knocked.  Confused, he is about return inside, when Bussetta easily breaks his neck in tw from behind.
+160) 0) text: Guards who are regular troops patrol the Palace in twos, carrying machine weapons. Now an elite officer, checks the identification of the various cars carrying dignitaries, as they are driven up the Palace.  The one being inspected at the moment contai Fredo and Michael.  We can see the beautifully dressed people on their way to the reception, and sense the cheer mood of this New Year's Eve.
+163) 0) text: The PRESIDENT, his WIFE and six oldest CHILDREN great formally the many beautifully and affluently dressed gues He speaks to them in Spanish, as one by one they file to Michael and Fredo are presented in a group with several other Americans, including several of the American businessmen with interests in Cuba.
+166) 0) text: An orchestra plays for the guests, as an army of waiters serve champagne and hors d'oeuvres.  Michael relaxes with Senator Geary, Major Leon, and several of the Americans.
+166) 4) dialog: Fredo.  Where are you going?
+171) 1) text: Michael and Fredo in an embrace; they kiss one another.
+171) 2) dialog: I've arranged for a plane; we're going to Miami in an hour.  Try not to make a big thing of it. He kisses his brother once again.
+171) 3) dialog: (Sicilian)
+175) 0) text: We see evidence of the confusion at this late hour; alrea cars are beginning to move; people leaving the Palace in haste.  Michael moves quickly toward his car.  He sees Fredo, watching him in fear.
+175) 1) dialog: Come with me.  It's your only way of getting out!
+176) 0) text: Rebel cars with loudspeakers have already picked up the n that Batista has conceded...this throws the crowds alread gathered for the New Year into cheers of joy. They harass a wealthy family who are trying to get away i their car. The people pull them out of the car, opening their suitca out of which spill piles of cash and jewelry into street. Michael's car makes its way as the crowd cheers: "El anim se fue!"
+179) 2) dialog: He isn't here.
+179) 4) dialog: All right.  Go now. The Pilot lets Michael in, as the Cuban screams curses at them, and begins searching for another plane for his fami
+190) 0) text: A limousine pulls up at a private area near the side of t hotel.  Michael exits the limousine followed by Hagen and Neri.
+190) 1) dialog: Do you think they have somebody to back up Cicci?
+192) 0) text: Michael, Hagen, Neri and Rocco are seated in this luxury the hotel.  Michael sits in a comfortable chair in his apartment.  Neri comes and brings him a drink without asking, but Michael refuses it.
+192) 1) dialog: Al, get me a wet towel.  Does Kay know I'm back? Hagen nods.
+192) 2) dialog: Did the boy get something from me for Christmas?
+192) 4) dialog: What was it, so I'll know.
+192) 6) dialog: Fellas, can you wait outside a minute? They know what he means and leave the apartment, going ou to the balcony where we can see them but they cannot hear Only Hagen remains.
+192) 7) dialog: Where's my brother?
+192) 9) dialog: I asked about Fredo?
+192) 11) dialog: I want you to reach Fredo.  I know he's scared, but have one of our people reach him.  Assure him that there will be no reprisals.  Tell him that I know Roth misled him.
+192) 13) dialog: (indicating Rocco and Neri on the balcony)
+192) 16) dialog: Alright. Hagen pauses; doesn't know how to begin.
+192) 17) dialog: (impatiently)
+192) 20) dialog: Was it a boy or a girl?
+192) 22) dialog: What is it, can't you give me straight answers anymore!
+192) 24) dialog: And Kay...she's all right?
+192) 26) dialog: Does she blame it on me?  The baby?
+193) 0) text: The first snow of the New Year has fallen; the trees are bare, and there is hush all over this part of the Sierras Michael is driven in his car, looking out at the familiar sight of the home he has been forced to be away from.
+194) 0) text: to the outside, where Michael walks slowly.  He stops and looks at a little Italian red sportscar made for children
+195) 1) dialog: Mom... Mom... She opens her eyes, which are red and small with age.
+195) 2) dialog: (Sicilian)
+195) 3) text: It's Michael.  How are you, Mom?
+195) 6) dialog: (Sicilian)
+195) 10) dialog: Alright.  They bother me once in awhile. (a pause as he thinks)
+195) 14) dialog: (Sicilian)
+195) 18) dialog: (almost to himself)
+196) 0) text: Vitone and his young family: Mama, Santino, Fredo and the baby Michael are met at the small station in Sicily by friends, and Mama's relatives.  There is a small band, playing for the occasion.  A small man has brought a moto car to pick the family up; and there are certain dark men with shotguns slung over their shoulders to preside over occasion. The family is helped into the car; the luggage is packed the roof, and the car drives off.  The second car, with bodyguards following.
+206) 2) dialog: Yes.
+206) 5) dialog: It was not an alias.  GODFATHER was a term of affection, used by his friends, one of respect.
+206) 9) dialog: No.
+206) 11) dialog: I deny his every charge.
+206) 13) dialog: That is a complete falsehood.
+206) 15) dialog: That is not true.  I own some stock in some of the hotels, but only very small amounts.  I also own some American Telephone and IBM stock. Michael had checked this point with Hagen, before answeri and then once again after the answer.
+206) 17) dialog: Senator, I've observed the head of General Motors before a Senate Committee, and his lawyer whispered in his ear.  That was not commented upon in the way you have just done.
+206) 19) dialog: I do not.
+206) 21) dialog: I do not. A pause.  Silence, as the Chairman whispers something to assistant. Tom Hagen takes a paper out of his briefcase, and address the Chair.
+206) 26) dialog: (reading)
+210) 0) text: Michael is in the dark room with Hagen and Neri.
+210) 1) dialog: How did they get their hands on Pentangeli?
+210) 4) dialog: What does Fredo know?
+210) 6) dialog: Alright.  I'm going to go outside and talk to Fredo.
+211) 0) text: Fredo sits on the couch.  When Rocco sees Michael, he automatically takes his leave.  Michael sits in the chair opposite Fredo.
+211) 2) text: I don't have a lot to say, Michael.
+211) 3) dialog: We have time.
+211) 5) dialog: What about now, is there anything you can help me out with?
+211) 8) dialog: And you believed that story.
+211) 10) dialog: I've always taken care of you.
+211) 12) dialog: It's the way Pop wanted it.
+211) 14) dialog: There's nothing more you can tell me about this investigation?
+211) 16) dialog: You're nothing to me now, Fredo; not a brother, not a friend, I don't want to know you, or what happens to you.  I don't want to see you at the hotels, or near my home.  When you visit our Mother, I want to know a day in advance, so I won't be there.  Do you understand? Michael turns, and starts to leave.  A frightened voice behind him:
+211) 18) dialog: I don't want anything to happen to him while my Mother's alive. Michael leaves.
+215) 7) text: Michael returns his glances without emotion.  Then the VI ALTERS, revealing the Sicilian.
+217) 0) text: The door to Michael's suite opens; Rocco leans in.
+217) 2) dialog: On the phone?
+217) 4) dialog: I had no idea...
+217) 6) dialog: Where?
+217) 8) dialog: Why don't you sit down?
+217) 10) dialog: There are a lot of things I want to talk to you about.  Things I've been thinking about -- changes I want to make.
+217) 12) dialog: Why too late?
+217) 14) dialog: His brother came to help him.
+217) 16) dialog: On a plane back to Sicily.
+217) 18) dialog: That's all.  You see, in Sicily, in the old days... there was only one legitimate reason to kill a blood relative... only one.  IF he was a traitor.
+217) 20) dialog: Kay, you've got it wrong.  That kind of thing's all over, I promised you.  This was between the two brothers.  Years ago Frankie had a young girlfriend; he called her his co-wife.  That was his joke, but he meant it.  He wouldn't divorce his wife... because she was a great cook.  He said he girlfriend made a spaghetti sauce once and it was so terrible he knew he could never marry her.  He set her up in a house in Jersey.  She had to be faithful... and she had to have kids. And she did, two, a boy and a girl. He had her checked out and watched so she couldn't cheat... but the girl couldn't stand that kind of life.  She begged him to let her go. He did.  He gave her money and made her give up the kids.  Then Frankie took them to Italy, and had them brought up by his brother Vincenzo. Where he knew they'd by safe. Kay begins to realize.
+217) 21) dialog: When he saw his brother in the hearing room, he knew what was at stake. (pause)
+217) 24) dialog: Kay, I told you...
+217) 26) dialog: I won't let you leave!  Christ, do you think I'm going to let you leave.
+217) 28) text: Michael.
+217) 29) dialog: No, I don't want to hear anything. There are things between men and women that will not change; things that have been the same for thousands of years.  You are my wife, and they are my children... and I love you and I will not let you leave, because you are MINE!
+217) 31) dialog: If that's what it takes; then yes, I will.
+217) 33) dialog: We'll go back tonight.  Bring the children.
+217) 35) dialog: How can I let you leave; how can I let you take my children away? Don't you know me?  You understand, it's an impossibility.  I would never let it happen; no, never, not if it took all my strength, all my cunning.  But in time, soon, you'll feel differently.  You see, you'll be happy that I stopped you.  I know you.  You'll forget about this; you'll forget about the baby we lost... and we'll go on, you and I.
+217) 37) dialog: I know what it meant... and I'm prepared to make it up to you.  I will make changes; I can. (he clenches his fist tightly)
+217) 42) dialog: (coldly)
+218) 0) text: A collection of dark cars and black limousines are gather to one side.  A few drivers wait quietly. And then, to the other extreme of the estate, is a small grouping of about twenty to thirty people, gathered near Michael's house.
+218) 1) text: Connie Corleone, dressed simply and now showing her age without the carefully applied makeup which we have been u to, kneels down before the shrine of Santa Theresa, and p down a bouquet of flowers, along with others that have be placed there.  We see that some have the simple silk ribb with the word "Mama" hand-lettered upon it. Her two children stand close behind her; they had been raised by their Grandmother. Connie steps back, and moves through the small group of friends and relatives, into Michael's house.
+220) 0) text: Michael sits quietly in the darkened room in one of the b sofas, dressed immaculately in suit and tie.  His two children, also dressed for the wake sit opposite him in t other oversized sofa, their shoes not touching the floor. We regard this tableau for a long moment.
+220) 2) text: Michael?  It's Connie. She comes in, and sits down by his knees.
+220) 5) dialog: No.
+220) 7) dialog: Tom is right.
+220) 10) dialog: The children can stay.
+223) 1) dialog: (without looking back)
+223) 8) dialog: They won't take him; not for a million, not for ten million.
+223) 10) dialog: He's been dying of the same heart attack for twenty years.
+223) 12) dialog: I want it met.
+223) 15) dialog: I don't like it when you use the word impossible; nothing is impossible...
+223) 17) dialog: I'm surprised at you, Tom.  If there's anything certain; certain in life; if history has taught us anything, it's that you can kill... (he stops, then coldly)
+223) 20) dialog: They are everywhere!
+223) 23) dialog: I know you do, Tom.  Then I can count on you to help me do the things I have to do.  If not, call Houstan, and become a Vice-President. Take your family and your mistress and move them to Las Vegas.
+223) 25) dialog: Good.  Then you're staying.
+229) 0) text: Michael sits alone in the empty boathouse; in the shadows
+237) 4) dialog: Anthony. He rises, and reaches up to his son, who is now taller th he; he embraces him.
+237) 5) dialog: You've grown so tall... so tall in the last year.  You're much taller than me.
+237) 7) dialog: Sit down.  Your Aunt Connie and I waited for you to have some lunch, but now it's all dried out.
+237) 9) dialog: Well, that's alright... alright. Good.  You'll graduate in another year, isn't that right?  You know... I never finished college.  I was a good student, but I never finished. Of course, there was a war then. Connie approaches them.
+237) 11) text: Your father has to have his insulin shot.  Why don't you go to your room and put your things away, Anthony. She begins to give Michael the shot.
+237) 12) dialog: Hurry back; we'll talk.  We'll talk. Anthony goes on his way to the house with his things. Connie gives Michael the shot.
+239) 6) dialog: Pop, I've decided I'm going to enlist. A quiet hush descends over the table, as though everyone knows the effect this will have on the old man.  Sonny tr to make light of it.
+239) 9) dialog: I never asked for it; I don't want it.
+240) 2) dialog: No, Dad.
+240) 4) dialog: It's not talk; I'm doing it.
+240) 6) dialog: Not for strangers; for my country.
+240) 8) dialog: That's how it was in the old world, Pop, but this is not Sicily.
+240) 11) dialog: I won't be a man like you.
+241) 0) text: The leaves are blowing.  MUSIC comes up. Michael and his young son, Anthony, walk through the grou of the estate, talking about things we cannot hear.

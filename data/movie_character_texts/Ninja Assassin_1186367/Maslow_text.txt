@@ -1,0 +1,153 @@
+5) 0) text: MIKA CORETTI, 30's, high-energy, a force of nature in human form. She enters EUROPOL AGENT RYAN MASLOW's office carrying an armful of reports.
+5) 1) dialog: What's all this for the Delgata                       * case?                                                 *
+5) 4) dialog: And the rest?                                         *
+5) 6) dialog: For?                                                  *
+5) 8) dialog: Oh no.    Not again.                                  *
+5) 12) dialog: Does that evidence include photos                    * of the Loch Ness monster as well?                    *
+5) 15) dialog: What's the problem? Come on Mika,                    * it's like one of those questions                     * on an IQ test, which of these                        * doesn't belong; laptops, space                       * shuttles, nanotechnology, ninjas.                    *
+5) 18) dialog: Why do I think I'm going to regret                   * this?                                                *
+10) 2) dialog: You're excited, Mika. You know I get nervous when you're excited.
+10) 7) dialog: Korean queen, late eighteen-                         * hundred's. According to you, she was off'd by one of these ninja clans.
+10) 9) dialog: So you start to wonder, in this ever changing world, if the cost of a man's life has remained constant.
+10) 15) dialog: Highly circumstantial.                               *
+10) 19) dialog: Let me guess.
+10) 21) dialog: Okay you got me. This is                                * interesting.                                            *
+10) 23) dialog: Look, no one's denying the historical record, Mika. But the whole idea just doesn't fit in with a modern world. It's like one of those questions on an IQ test: which of these doesn't belong in this sentence: laptops, space shuttles, nanotechnology, ninjas.
+14) 1) dialog: And two cokes, please.
+14) 3) dialog: Course I can, but you tend to hear more interesting things if people don't know you can understand what they're saying.
+14) 5) dialog: Not the way I was raised. My dad always said, being a cop has nothing to do with a clock. It's a consequence of consciousness often interpreted as desire.
+14) 9) dialog: For justice. And doughnuts.
+14) 11) dialog: So you got something else?
+14) 13) dialog: How do you know what the police report says? You're not still requisitioning evidence with my clearance codes, are you?
+14) 15) dialog: Good.
+14) 17) dialog: Denied.    It was a long shot at best.
+14) 19) dialog: A report. A friend of mine in Moscow, tipped me to it.
+14) 21) dialog: It was written during the height of the Cold War by a high ranking KGB agent named Aleksei Sabatin. In it, he raises the possibility that several political assassinations were conducted by an ancient but very sophisticated network he calls the Nine Clans.
+14) 25) dialog: Mind you, he doesn't call them ninjas.
+14) 27) dialog: Same thing that's going to happen to me, if I keep hanging around with you- booted out of the service for mental instability.
+14) 29) dialog: Working on it.
+14) 32) dialog: Ninjas?    Are you kidding?
+14) 34) dialog: No idea-
+14) 36) dialog: But I can guarantee you that it has nothing to do with the fact that you're the most attractive researcher that I've ever worked with.
+22) 0) text: They are walking. Maslow is nervous.
+22) 3) dialog: Last night I'm working late and I get a visit. Guy named Zabranski. Works upstairs for Internal Affairs. Just drops by. In the neighborhood- cup a sugar- how ya doin- kinda thing. Asks what I'm working on. Oh, this and that, usual blibbity blab, I tell him. Then he smiles and says-
+23) 1) dialog: I don't understand what is really going on, but I'm smart enough to recognize a warning when I see one.
+23) 3) dialog: Why? It's obvious. If your little fantasy has even slightest chance of being real, then these Nine Clans would have some pretty major juice protecting them.
+23) 5) dialog: We are going to tip-toe, very carefully from here on out. You understand? You don't do anything else without checking with me. Got it?
+23) 11) dialog: Yeah...he's dead.
+23) 13) dialog: Heart attack.
+23) 15) dialog: People die of heart attacks, Mika.
+23) 17) dialog: God, you are relentless, aren't you.
+23) 19) dialog: A wife.
+23) 21) dialog: Relocated.
+23) 24) dialog: Explain something to me first. Where is this obsession coming from? What started this whole thing?
+23) 29) dialog: Desire for what?
+23) 32) dialog: Mika! Tip-toe! She takes several exaggerated tip-toe steps.
+30) 3) dialog: You lied to me.
+30) 6) dialog: I told you to stop using my confirmation code.
+30) 8) dialog: Dammit, Mika --                                    *
+30) 12) dialog: Shit....
+30) 14) dialog: What happened? Everything's fucking happened.
+30) 16) dialog: When you were slapping my code all over town like some phone number in a bathroom, did you happen to notice the classification code on the cases you were digging through?
+30) 18) dialog: What did it say?
+30) 20) dialog: That's right. DNP. DO NOT FUCKING PURSUE!
+30) 24) dialog: Right now there are people from internal affairs, CIA, Homeland Security and for all I know the Martian Fucking Military in my office tearing the place apart.
+30) 28) dialog: I don't know what they're looking for but I think you do.
+30) 29) text: She shifts nervously, no poker face.    She turns and lea him into her home office. With the key from the tampax box she opens the drawer. Maslow watches as she pulls out the contents of Sabatin's box as well as the illegally requisitioned evidence.
+30) 31) dialog: And this?
+30) 35) dialog: ...Christ.
+30) 37) text: Maslow starts to put it together.
+30) 38) dialog: So you requisitioned this by accident. You used my code which is why you didn't want to show me this. Which is also why they're tearing apart my office right now.
+30) 46) dialog: Okay, that's low.
+30) 48) dialog: Very noble of you but I've got the feeling this isn't a slap-on-the wrist kinda consequence. Let me take this and try to make some sense of this shitstorm you started. In the meantime, you will not say anything to anybody. Capiche?
+32) 25) text: He leaves. She gets up and closes her door.    She grabs her phone a calls Maslow.
+32) 26) dialog: This is Ryan Maslow. Leave a number-
+34) 3) dialog: Ssssshhhhhh.   Sorry, Mika.
+34) 5) dialog: I couldn't talk earlier.   They're watching me.
+34) 8) dialog: I know how Sabatin must have felt.
+34) 10) dialog: I showed Jamison the materials.
+35) 2) dialog: I understand that sir but-
+36) 2) dialog: Come on Mika, how could he take something that didn't exist? He couldn't. Which means that I couldn't copy it either, and if I couldn't copy it than I can't be violating international laws and agreements by still having it. She likes this guy.
+36) 4) dialog: Your going to go home. Pack your bags and go on holiday.
+36) 6) dialog: Don't fucking argue with me, Mika. I trusted you. Now you've got to trust me.
+36) 8) dialog: I'm not talking about my job, Mika. He hands her a Glock and two spare clips.
+36) 9) dialog: Take this. It's clean, no serial number. Untraceable.
+36) 11) dialog: (pointing) This is the bad end. This is the end you hold. Point, shoot, run like hell. He also gives her a phone.
+36) 14) dialog: I'm going to try to find some help. Until then, I need you gone. Don't tell anyone where you're going, just go. Use this phone to text me when you get there, or if you have any problems.
+36) 16) dialog: I know. It's unbelievable. I've investigated, world bank officials, drug cartels, arms dealers, and I've never faced this kind of heat. For ninjas. Fucking unbelievable!
+62) 2) dialog: Mika! For Christ sake I've been calling for hours!
+62) 4) dialog: Trouble? You miss jury duty you're in trouble. You're in some kind of bottomless pit of deep shit.
+62) 7) dialog: Your guardian angel? Is it him? The one from the tape?
+62) 9) dialog: Careful, Mika.
+62) 13) dialog: ...yeah, I got them.
+62) 15) dialog: Where?
+63) 0) text: Maslow waits, the red-tip of his cigarette glowing in the middle of his silhouette. Mika is leading.
+63) 4) text: They approach Maslow.
+63) 5) dialog: Mika!
+63) 7) dialog: You're all right?
+63) 11) dialog: Step back Mika.
+63) 16) dialog: NOW!
+63) 23) text: Raizo raises his hands slowly, a glance thrown like a shuriken at Maslow.
+63) 25) dialog: Following orders.
+65) 0) text: Classic Berlin aesthetic. A modern office shoe-horned into an abandoned building: cubicles, computers and Aeron chairs amidst crumbling walls. Maslow's team are hanging out there, thirty agents, a fairly competent and well-armed bunch. Maslow is inside the control room which is like a small construction trailer. Several different monitors have images of Raizo.
+65) 2) dialog: Right. He scans the different monitors.
+65) 3) dialog: Something's wrong with the infrared cam.
+65) 5) dialog: Then why isn't he showing up?
+65) 7) dialog: Or maybe he's just cold-blooded.
+65) 12) dialog: It's an old GDR safehouse. Jamison wants this off the grid.
+65) 14) dialog: I don't think so. We got reports from Washington, London, Osaka all tagging your boy. Only problem we have is where to extradite him first.
+65) 16) dialog: We must respect the jurisprudence of the regional government and corresponding law enforcement agencies.
+65) 18) dialog: No? You ever heard of Stockholm Syndrome I'm getting the feeling I'm looking at a pretty serious case of it.
+65) 22) dialog: He's a killer, Mika. Weren't you the one telling me it was our job to stop him.
+65) 24) dialog: You're not saying anything worth hearing. Look, if want to do the insubordination tango, let's go, but not in front of the kids okay? Boys, give us a minute. The security goons clear out, closing the door behind them.
+66) 2) dialog: Listen to me, we don't have much time. Look, I don't know what you've stumbled into, but somebody is pulling some major strings inside.
+66) 4) dialog: I believe you. (softer)
+66) 9) dialog: If trouble comes, turn this on, no matter where, and I'll find you.
+69) 0) text: Mika rushes up to Maslow who is talking to the group of Europols.
+69) 2) dialog: We have to do this again, Coretti?
+69) 7) dialog: I think these gentlemen can handle a few whack-jobs wearing pajamas. Am I right?
+69) 9) dialog: See?
+69) 11) dialog: I'm working on that. You have to give me a little time.
+69) 13) dialog: They're not here now.
+69) 15) dialog: How soon-
+71) 2) text: Maslow spins as she sprints for the stairs.
+71) 3) dialog: Mika!
+71) 4) text: Maslow draws his firearm and hisses at one of the Special Ops.
+71) 7) dialog: Go with her! Secure the prisoner!
+76) 1) dialog: Mika!
+76) 6) text: Maslow rushes down to her, another agent scanning the stairs above them.
+76) 7) dialog: I thought you were--
+76) 8) text: Mika's eyes widen as the agent on the flight above them is ripped into the air replaced by a squall of red. Maslow whirls as a blade suddenly pierces his side-- But before it can continue its deadly cut, Maslow catches it in a bloody fist and fires into the shadows. One of the Hanta-Kirra falls tumbling past them down the stairs. Maslow grunts as he rips the chain blade from his side.
+76) 11) dialog: I hope that wasn't my liver. Gonna need that soon.
+78) 4) dialog: What?
+78) 6) dialog: No Mika--
+78) 8) dialog: Right...
+78) 10) dialog: Two minutes.    Keep it in gear.
+78) 14) text: He opens the door retracing their steps into the dark. Mika suddenly very alone manages a slow nervous pirouette in the crypt-like garage, before skittering for Maslow's sedan. She slides in pulling the door shut behind her as quietly as she can-- And waits.
+79) 0) text: Maslow moves cautiously through the folds of midnight. He hears the fighting before he can see it. Raizo blocks a sword-thrust from Takeshi. Dodges around a hail of shuriken. Uses his chain to drive another Ninja back. Takeshi rips free his left arm. Draws a short, angled blade and brings it slashing down at Raizo's neck... Raizo blocks the knife with his elbow, twists, throws Takeshi twenty feet through the air. He recovers mid- flight like a cat and regains his balance.
+81) 0) text: The lights are still dead. Maslow is with a team of Europols moving through the stairwell. He talks quietly.
+81) 2) dialog: Good, stay clear.
+81) 4) dialog: Not yet.   We're heading upstairs now.
+81) 8) dialog: He took off.   We think they went after him.
+88) 1) dialog: Mika, where are you?
+88) 3) dialog: He's still alive?
+88) 6) dialog: Let us bring you in.
+88) 8) dialog: Mika, the situation's a little different. Jurisprudence goes out the fucking window when my men get attacked.
+88) 13) dialog: ...negative. They got to my office. Everything's gone.
+88) 15) dialog: Mika, it's gonna be all right. We'll find them.
+88) 17) dialog: We'll keep your promise. They're too many people involved now. It's just a matter of time.
+88) 19) dialog: Just tell me where you are.
+88) 21) dialog: Mika? Mika? Dammit.
+91) 6) text: She opens her fist; inside is the tracking device Maslow gave her.
+92) 0) text: There's a crowd of other OFFICIALS there, having turned the place into a makeshift command and control center. An AIDE rushes in from an adjoining room, goes to Maslow.
+92) 2) dialog: You've got a lock?
+95) 3) text: Maslow embraces her.
+98) 21) dialog: No more grenades, not until we get the children out! But some parts of the orphanage are already on fire, the flames spreading through the ancient timbers. The carnage continues. Maslow fires at the fleeing ninjas as Mika rushes for Raizo, pistol in hand. One of the MP's screams as a shuriken rips open his face as other Mps FIRE back at the ninja, tearing him apart with gunfire. Mika makes it to Raizo's side. He smiles at her as she saws through the rope with her knife.
+103) 3) dialog: Mika!
+103) 5) dialog: What happened?
+103) 9) dialog: How can you be sure?
+103) 13) text: Several medics rush to them, Raizo gently laying her on the stretcher. As they immediately begin working on her, Raizo fades back. Maslow remains at her side. Her eyes flutter open.
+103) 14) dialog: Is she going to be okay?
+103) 20) dialog: ...you gotta be fucking kidding me.
+103) 22) dialog: He said you saved his life. She smiles.
+103) 23) dialog: So you kept your promise. Can we go home now?

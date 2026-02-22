@@ -1,0 +1,97 @@
+1) 6) dialog: It's a good day for the crows.
+1) 8) dialog: I like your land. I think we'll stay. (beat) I like your soldiers, too. They fought bravely yesterday. Not well, but bravely.
+1) 10) dialog: That's what the Messenians said, too. And the Arcadians. And the Epeians. They're all fighting for me, now. (CONTINUED)
+1) 14) dialog: I don't want to watch another massacre. Let's end this war in the old manner. (beat) Your best fighter against my best. For the first time, Triopas looks hopeful.
+1) 16) dialog: We'll leave Thessaly for good. (beat) I'm a generous man. If mine wins, you keep your throne. But Thessaly falls under my command, to fight with me whenever I call. Triopas considers before nodding. He shouts to his army.
+1) 19) dialog: (shouting to his army) Achilles! The Mycenaeans murmur amongst themselves, looking for Achilles. Nobody emerges. Agamemnon frowns.
+1) 23) dialog: Be careful whom you insult, old king. An OFFICER on horseback gallops from the Mycenaean ranks to the center of the field. He bows his head to Agamemnon.
+1) 25) dialog: (furious) Where is he?
+6) 0) text: Agamemnon confers with his OFFICERS on the battlefield, including KING NESTOR (65), his trusted advisor. When Achilles rides into view the Mycenaean soldiers CHEER. Some cry out his name. Agamemnon and his officers turn to watch Achilles dismount and approach them.
+6) 1) dialog: Perhaps we should have our war tomorrow, when you're better rested? Achilles ignores the king and examines the waiting giant.
+6) 2) dialog: I should have you whipped for impudence. Achilles wheels on the king.
+6) 10) dialog: (to Nestor, under his breath) Of all the warlords loved by the gods, I hate him most.
+6) 12) dialog: For now.
+19) 3) dialog: Your messenger came two days ago. I know what happened. Menelaus's face darkens, his rage barely submerged.
+19) 5) dialog: Of course you do. She's a beautiful woman.
+19) 7) dialog: (smiling) I thought you wanted peace with Troy.
+19) 9) dialog: Peace is for the women and the weak. Empires are forged by war.
+19) 11) dialog: Never. You're a man of honor. Everyone in Greece knows this. (CONTINUED)
+19) 15) dialog: And an insult to me is an insult to all Greeks.
+20) 0) text: Agamemnon paces the vast, torch-lit room. Nestor sits at a wooden table. Spread out on the table before him is a rough map of Greece and environs, painted on a tanned goa skin.
+20) 1) dialog: I always thought my brother's wife was a foolish woman. But she's proven to be very useful. Nothing unifies a people like a common enemy.
+20) 3) dialog: I haven't tried yet. (beat) Old King Priam thinks he's untouchable behind his high walls. He thinks the Sun God will protect him. But the gods only protect the strong. (points at map) If Troy falls, I control the Aegean.
+20) 8) dialog: There won't be a ten-year siege. I'll attack them with the greatest force the world has ever seen. I want all the kings of Greece and all their armies. (beat) Send emissaries in the morning. Nestor stands and prepares to leave. Agamemnon
+20) 10) dialog: Achilles can't be controlled. He's as likely to fight us as the Trojans.
+20) 12) dialog: Yes, he's a gifted killer, but he follows no king. He threatens everything I've built. (beat) Before me Greece was nothing, a province of warlords and cattle raiders. I've brought all the Greek kingdoms together -- with the sword when necessary, with a treaty when possible. I've created a nation out of fire-worshippers and snake-eaters. (beat) I build the future, Nestor. Achilles is the past, a man who fights for no flag, a man loyal to no country. Nestor waits a respectful moment before replying. (CONTINUED)
+20) 15) dialog: There's only one man he'll listen to.
+40) 0) text: Agamemnon, Nestor and Menelaus stand in the ship's prow.
+40) 4) dialog: What is that fool doing? He's going to take the beach of Troy with fifty men?
+51) 0) text: Agamemnon, Menelaus, and Nestor watch the battle from the prow of their ship. They're still half a mile away.
+51) 1) dialog: (in awe despite himself) The man wants to die. We hear SHOUTS of "Achilles!" from the other ships, a great clamor as men bash the flats of their swords agains their shields and cheer their hero on. Agamemnon hears the cheering. He grits his teeth and glares at the distant Achilles. Nestor notices Agamemnon's barely concealed fury. He speaks quietly, so no one else can hear.
+51) 3) dialog: Give him too many battles and the men will forget who's king.
+70) 0) text: Agamemnon, still aboard his ship, waits for the gangplank to be lowered. His dark eyes are cold and hateful as he listens to the men cheering.
+73) 0) text: Two muscular GUARDS stand by the opening to Agamemnon's tent. Achilles, wearing clean clothes, doesn't bother waiting for the guards' permission to enter; he brushes past them and through the tent flap. 72 63.
+74) 0) text: The largest tent on the beach, Agamemnon's command quarters are a lush affair, decorated with the spoils of dozen wars. Several AIDES-DE-CAMP bustle in and out on various errands. The Greek kings are here: Odysseus, Ajax, Menelaus, etc. Agamemnon sits on a heavy wood throne, garishly inlaid with gold, mother-of-pearl, and precious stones. Triopas, king of Thessaly, kneels before Agamemnon.
+74) 2) dialog: A beautiful gift, Triopas. You will be among the first to walk the streets of Troy tomorrow. Triopas stands and bows. Achilles has watched this exchange with disbelief. He glances at Odysseus, who shrugs. Now Nestor, king of the Pylians, kneels before Agamemnon and hands him an urn decorated with painted warriors.
+74) 4) dialog: Thank you, old friend. Tomorrow we'll eat supper in the gardens of Troy. Nestor stands and bows. Agamemnon places the dagger and urn beside a pile of other luxurious gifts. As the kings file out of the tent, Odysseus clasps Achilles' shoulder and speaks to him out of the others' earshot.
+74) 8) dialog: (to his aides) Leave us. The aides exit, leaving Achilles and Agamemnon alone. Achilles eyes the pile of gifts.
+74) 10) dialog: Ah, perhaps you didn't notice. The Trojan beach belonged to Priam in the morning. It belongs to Agamemnon in the afternoon.
+74) 12) dialog: No, you came because you want your name to last through the ages. (beat) A great victory was won today -- but the victory is not yours. Kings did not kneel to Achilles. Kings did not bring homage to Achilles.
+74) 14) dialog: History remembers the kings, not the soldiers. (beat) Tomorrow we'll batter down the gates of Troy. I'll build monuments to victory on every island of Greece, and carve Agamemnon in the stone. My name will last forever. Your name is written in the sand, for the waves to wash away.
+74) 18) dialog: One more thing, son of Peleus. Achilles stops.
+74) 20) dialog: The first pick of the battle's spoils always goes to the commander. Your men sacked the temple of Apollo, yes?
+74) 22) dialog: I already have. Aphareus! Haemon! Two battle-scarred soldiers, APHAREUS and HAEMON, drag Briseis into the tent. Her face is bruised -- clearly she's been slapped around.
+74) 23) dialog: The spoils of war. Tonight I'll have her give me a bath. And then -- who knows? Achilles draws his sword.
+74) 25) dialog: Guards! The two sentries rush into the tent, swords drawn. Achilles is surrounded. He raises his sword. (CONTINUED)
+74) 31) dialog: Mighty Achilles, silenced by a slave girl.
+74) 33) dialog: She is now. Achilles' eyes are flat and merciless.
+92) 0) text: The Greek army halts just beyond arrow range. A delegation of kings -- Agamemnon, Nestor, Menelaus, Odysseus, and Ajax -- on CHARIOTS proceeds to the center of the battlefield. Odysseus looks over his shoulder and then yells to Ajax.
+95) 0) text: Hector and Paris ride up to the Greek kings. Menelaus stares at Paris, his fingers tapping the hilt of his sword. Paris does not make eye contact. The kings step down from their chariots and the Trojan princes dismount from their horses. Both armies are lined up several hundred yards apart. Agamemnon surveys the Trojan army.
+95) 1) dialog: I see you're not hiding behind your high walls. Valiant of you. I1l- advised, but valiant.
+95) 3) dialog: We've come too far, Prince Hector.
+95) 7) dialog: Not yet, brother. He makes a sweeping gesture, indicating his entire army.
+95) 8) dialog: Look around you, Hector. I've brought all the warriors of Greece to your shores. (CONTINUED)
+95) 13) dialog: I have two wishes. If you grant them, no more of your people need to die. First, give Helen back to my brother. Second, Troy must submit to my command, to fight for me whenever I call.
+95) 15) dialog: Be careful, boy. My mercy has limits.
+95) 17) dialog: Then every son of Troy shall die.
+95) 20) dialog: A brave offer. But not enough. Menelaus pulls Agamemnon aside and speaks to him out of the others' earshot.
+95) 24) dialog: I didn't come here for your pretty wife. I came for Troy.
+102) 0) text: AGAMEMNON signals for the DRIVER of his chariot.
+102) 1) dialog: The Trojans have violated the agreement. We march. (CONTINUED)
+104) 0) text: AGAMEMNON standing on his chariot in front of his army, sees his brother fall. For a moment the vast field is silent. Agamemnon SHOUTS. A wordless cry of rage, echoing from the Greek lines to the walls of Troy. He points toward Hector. The entire Greek army surges forward. Hollering with a collective violence powerful enough to make the ground tremble, fifty thousand soldiers charge at Hector.
+114) 0) text: The Trojans are routing the Greeks. With two of their kings already fallen, the Greek force is in disarray. Odysseus sees Agamemnon speeding by on his chariot. Odysseus runs and manages to leap onto the chariot. The two kings shout at each other above the commotion of battle.
+114) 4) dialog: My army has never lost a battle.
+119) 0) text: Agamemnon stands before the body of Menelaus. (CONTINUED)
+119) 3) dialog: I will burn their city before I leave, brother. I promise you that. As the sky grows dark, the dead burn on the beach and inside the walls of Troy.
+122) 0) text: Nestor sits at a table, poring over the map of Troy. Odysseus lies in a hammock strung between two of the tent poles, eating olives and spitting out the pits. Agamemnon paces the rugs that floor the tent. His usual air of supreme confidence is gone, replaced by agitation.
+122) 1) dialog: They're laughing at me in Troy. Old Priam and the others, drunk on victory. They think I'll quit these shores, sail home at first light. (CONTINUED)
+122) 5) dialog: Flee like a whipped dog?
+122) 7) dialog: (furious) My brother's blood still wets the grass and you insult him?
+122) 11) dialog: Achilles is one man. What good could he --
+122) 13) dialog: Hector fights for his country. Achilles fights only for himself.
+122) 19) dialog: Even if I wanted to make peace with Achilles, the man won't listen. He's just as likely to spear me as speak with me.
+122) 22) dialog: He can take the damned girl. I haven't touched her.
+122) 24) dialog: I gave her to the men. They needed some amusement after today. Odysseus and Nestor exchange worried looks.
+133) 0) text: Agamemnon, Nestor, and Odysseus exit the tent. The beach is a frenzy of activity. Thousands of men rush to their positions, hastily arming themselves. The kings look to the high dunes.
+143) 8) dialog: That boy just saved the war for us. Odysseus stands nearby. Melancholy and fatigue age his face. When the boy is clean Achilles pulls two COINS from a leather pouch. He places one coin over each of the dead boy's eyes. He kisses the boy's forehead and descends from atop the pyre. SEudorus hands him a torch and Achilles sets the pyre on fire.
+143) 10) dialog: sits in his tent, carving X's on the map of Troy, his jaw taut as he ravages his painted enemy.
+161) 0) text: Agamemnon, Nestor, and Odysseus stand with their men. For the moment all machinations and intrigues are forgotten. Each of them knows this fight will be remembered forever, and each watches quietly.
+180) 0) text: Agamemnon paces about his tent in a murderous fury. Odysseus, Nestor and several AIDES stand in attendance.
+180) 1) dialog: (shouting) Achilles makes a secret pact and I have to honor it?! What treason is this? (MORE) (CONTINUED)
+180) 4) dialog: (fairly spitting the words) Consorting with the enemy king! Giving him twelve days of peace. Peace! Their prince is dead; their army is leaderless. This is the time to attack!
+180) 6) dialog: I will smash their walls to the ground. If it costs me forty thousand Greeks, Zeus hear me, I will smash their walls to the ground. Nestor and Odysseus exchange troubled glances.
+182) 0) text: Hundreds of Greeks eat breakfast on the beach. Several of them turn to watch Odysseus, who rushes to Agamemnon's tent and disappears inside.
+203) 0) text: Agamemnon stands in the very center of Troy, head tilted back, watching with delight as the beautiful city burns
+203) 1) dialog: I promised you, brother. (yelling to his troops) Burn it all!
+210) 0) text: Odysseus and his men fight their way up the palace stairs The Trojans resist heroically. They die heroically. Agamemnon stands behind his troops, hollering orders.
+210) 1) dialog: No one escapes! No one! 191
+212) 4) dialog: I wanted you alive, old king. I wanted you to watch your city burn.
+212) 6) dialog: Let Hades decide who's innocent. He walks away, leaving the old man to die alone on the floor.
+214) 0) text: Briseis runs into the garden, looking for a friendly face No one's in sight. She runs to the lower garden. She doesn't notice Agamemnon, stained with Priam's blood, standing in an archway of the burning palace, watching her.
+216) 1) dialog: Too late for prayer, priestess. Briseis does not look up. Agamemnon grabs her long hair and pulls her to her feet. He holds his sword to her throat. Two of his BODYGUARDS stand behind him.
+216) 2) dialog: Your parents should have taught you to stand for a king.
+216) 4) dialog: You wore a white robe when I last saw you. No more? Did brave Achilles ruin you for the temple? Briseis does not look at him or answer. He pulls her close.
+216) 5) dialog: I almost lost this war because of your little romance. I want to taste what Achilles tasted.
+217) 0) text: Achilles, running past the bodies of dead Trojans, looks through an archway and sees Briseis in Agamemnon's hands. He dashes outside.
+218) 1) dialog: (whispering in Briseis' ear) You'll be my slave in Mycenae. A Trojan priestess scrubbing my floors. And at night -- He tears her robe. Briseis pulls her hand out of her sleeve. She's holding a ceremonial DAGGER. She drives the dagger into the side of Agamemnon's neck. His eyes bulge. She rams the dagger deeper. Agamemnon falls to the ground, clutching at his neck. (CONTINUED)
+220) 0) text: Achilles looks down at Agamemnon's corpse, lying in puddled blood a few feet away. He looks back to Briseis.

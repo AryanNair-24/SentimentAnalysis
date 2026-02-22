@@ -1,0 +1,92 @@
+6) 3) dialog: Nope.  Darrell.
+6) 5) dialog: He's up at the Look Out. Darrell points a scraggly finger at a plateau in the dist
+6) 7) dialog: Doubt it.  He's dead.  The Look Out's a cemetery.
+6) 9) dialog: Yep.
+6) 11) dialog: 'Cause Harlin used to own it.
+6) 13) dialog: So? Bobby is confused, but chooses to drop the matter.
+6) 15) dialog: Damn.  Gonna be another hot one today. Sometimes I don't even want to get out of bed. Course don't want to get out for the cold one's neither.  Then of course the clouds come in... Darrell mops his brow with a greasy rag.  It doesn't so m wipe the sweat as it does streak his forehead with dirt.
+6) 17) dialog: Darrell--
+6) 20) dialog: It's your radiator hose.  It's busted.
+6) 22) dialog: Well, you know so much why don't you just fix it yourself?
+6) 24) dialog: Somewhere else?  Mister, somewhere else is fifty miles from here. Only other gas station down in town closed 3 years ago when the mine got shut...
+6) 26) dialog: Yeah, I can fix it.
+6) 28) dialog: Gotta run over to the yard and see if I can find a hose like this one, or close enough. Gonna take time.
+6) 30) dialog: Time. BOBBY (rewinds his watch)
+6) 31) text: What time is it now? DARRELL
+6) 33) text: Jesus.  Twenty-after-ten and it must be ninety already. DARRELL
+6) 34) text: Ninety-two.  Course half hour from now might be seventy-two. These clouds move around a lot. Bobby wipes the bandaged hand across his forehead. DARRELL
+6) 36) text: Accident. DARRELL
+6) 38) text: I'm very interested in this but is there someplace... DARRELL
+6) 40) text: I'll be back in a couple of hours.  And be careful with her, will you? Darrell slams down the hood. DARRELL
+6) 42) text: It's not just a car. It's a sixty-four and half Mustang convertible. That's the difference between you and me, and why you live here and I'm just passing through. The trunk lid rises in the air, partially blocking Bobby Darrell, acting as a partition between them. BOBBY
+6) 43) text: Now do you mind? I got to get some stuff out of the trunk. He throws the car key to Darrell who takes the hint, spit grotesquely into the dirt, scratches his nuts, and walks to the shack. Concealed by the trunk lid, Bobby pulls out a GUN (a .9mm Baretta), wrapped in a t-shirt, from the top of the bag. we see a flash of green money, lots of it. Sports pages a betting sheets are piled inside. With a look around, Bobb the gun and stashes it underneath the rubber mat in the t Briefly we notice a towing ROPE under the mat. There is a travel bag, from which he peels a fresh bottle of Percoda quickly taking two, as well as the sports page.
+7) 0) text: DARRELL watches out of the darkened office through the fr window, as BOBBY slams the trunk and starts walking down road, with the bag on his shoulder.
+16) 17) text: Oh? Darrell taking good care of you? BOBBY
+16) 18) text: Darrell's a moron. JAKE (laughs)
+19) 0) text: DARRELL is leaning under the hood of a car working on its as BOBBY walks up. BOBBY
+19) 1) text: Hey. DARRELL
+19) 3) text: Nothing. DARRELL
+19) 5) text: Just banged my head.  It was an accident. DARRELL
+19) 7) text: What the hell happened to my car? DARRELL
+19) 9) text: How much? DARRELL
+19) 11) text: How much!? DARRELL
+19) 13) text: To replace a goddamn radiator hose!? DARRELL
+19) 15) text: About an hour and a half, because that's all the longer I've been gone. DARRELL
+19) 17) text: That's a Ford, not a Ferrari.  You going to tell me no one else in this shit hole drives a Ford? DARRELL
+19) 19) text: What's that got to do with the radiator hose? DARRELL
+19) 21) text: It might as well be fifteen-hundred dollars, because I don't have the money. DARRELL
+19) 23) text: Listen, man.  I got rolled half an hour ago for everything I had. Bobby digs through his bloodied wallet, trying to hide it Darrell. He fishes out a five dollar bill. Then digs out bloody one dollar bill from his pocket. BOBBY
+19) 24) text: I've got five...six dollars. Darrell snatches the five from him and adds it to a thick greasy bills he carries in his overalls. DARRELL
+19) 26) text: I don't have a goddamn credit card. DARRELL
+19) 28) text: Look, I got a Movado.  It's worth at least seven, eight hundred. You could sell it for that. DARRELL (studying it)
+19) 30) text: You don't need numbers.  That's why it's expensive.  Look at the gold. Darrell doubts that, shake his head. DARRELL
+19) 32) text: You son of a bitch! I'll have my lawyers shut you down. DARRELL
+19) 34) text: What sign? Fuck the sign. I want my car. DARRELL
+19) 35) text: I want my hundred and forty-five dollars. Bobby stands his ground for a moment as if deciding wheth not to fight for the car, then wheels and walks away. Darrell looks at him, smirks.
+32) 29) text: Darrell?  You know he and Jake are... BOBBY
+35) 46) text: I was just up at Darrell's. How's the wife? That little eskimo baby walkin' yet? SHERIFF
+36) 0) text: DARRELL is cleaning his tools.  Bobby's MUSTANG sits prom in the car bay, washed and gleaming, as BOBBY walks up. DARRELL
+36) 2) text: Yeah, well, I've been around the bend a bit. DARRELL
+36) 4) text: You've been there? DARRELL
+36) 6) text: You believe that? DARRELL
+36) 8) text: That's a good piece of advice, Darrell. DARRELL
+36) 10) text: Listen, Darrell, about that hundred-fifty bucks for the car, as soon as I get where I'm going I swear I'll-- DARRELL
+36) 12) text: What? DARRELL
+36) 14) text: You said this morning the hose was going to run me one-fifty. DARRELL
+36) 16) text: I didn't tell you to replace any gasket. DARRELL
+36) 18) text: I don't give a fuck! I didn't tell you to do it!  You can't just do unauthorized work. DARRELL
+36) 20) text: What sign? DARRELL
+36) 22) text: What reputation?  You're nothing but an ignorant, inbred, tumbleweed hick. DARRELL
+36) 24) text: Listen you stupid fuck, I want my car. DARRELL
+36) 25) text: Listen to me you sorry sonufabitch. You owe me money, and this car ain't going nowheres until I get it.  And if you take another five hours I'll find another fifty dollars worth of work to do on it. Is that clear? Now get out of here 'fore I call the Sheriff, who knows me. Bobby is in a rage.  He turns to leave and walks a few pa He sees a WRENCH lying on a table.  For a second his mind then he snatches up the wrench and turns ready to smash i on Darrell's head.  He stops cold.  Because ol' Darrell h CROWBAR in a batter's stance ready to smash it onto the M DARRELL
+36) 26) text: You want to play, Mister?  I'll play with you.  You want to smash something?  So do I. Darrell pulls back the crowbar, ready to swing. BOBBY
+36) 27) text: No! Okay! Okay! DARRELL
+36) 29) text: Please, just leave the car alone! DARRELL
+36) 30) text: Mister, you already pissed me off but good. Darrell lays the tip of the crowbar on the hood of the ca drags the tip of the bar across the hood leaving a long s BOBBY (about to lose it)
+36) 31) text: Goddamn you!  You son of a bitch! DARRELL
+36) 32) text: There you go, sweet talking me again. Darrell begins to laugh. Bobby, desperate, looks to the t thinking of his gun in there. His POV -- the trunk. A FLASHBACK of the GUN goes through mind. BOBBY
+36) 33) text: Look, Harlin. DARRELL
+36) 34) text: Darrell. BOBBY
+36) 35) text: Darrell. I'll get you your money. I just have to get something out of the trunk. Using his TRUNK KEY, he tries to open it but realizes the has been changed. BOBBY
+36) 36) text: What the fuck did you do to my trunk? DARRELL
+36) 38) text: And you had to go into the trunk, didn't you? DARRELL
+36) 40) text: You motherfucker! (etc.) DARRELL
+36) 41) text: You can't help yourself, can you mister? You're out of control. Darrell starts to laugh. It is a repetitive, almost demon laugh that grows louder as the camera slowly dollies in o Bobby's anguished face.
+50) 3) text: Keep it. There's a suggestion of cockiness in Bobby, feeling his l coming back with the night. His humour is enhanced by his down the street: As DARRELL, with his dilapidated truck, readies SERGEI'S convertible for towing. BLIND MAN (OVER)
+56) 2) text: That's my gun...(then) That fucking Darrell! JAKE
+56) 3) text: I like Darrell.  He may be an idiot, but he's my half brother. We own Harlin's together, yeah, that little redneck manages to get paid no matter how things work out. BOBBY (realizing)
+56) 7) text: No, but it don't matter anyway when you're lying there with your brains all over my carpet and I'm telling Sheriff Potter about this drifter, didn't have enough money to fix his car. And Darrell happened to find his gun, and through maybe this drifter heard old Jake got some money stashed away, and figgered he might try to break in and steal it! BOBBY
+73) 0) text: BOBBY walks up to the SHACK near the garage and bangs on door. A light goes on in the window.  DARRELL shouts out. DARRELL (O.C.)
+73) 2) text: Open up! DARRELL (O.C.)
+73) 3) text: We're closed.  Come back when the sun comes up. Bobby, in a hurry to get back should Grace pull any trick bangs and kicks against the door. Darrell yanks the door DARRELL
+73) 5) text: I want my car. DARRELL
+73) 6) text: You got the money? Bobby pulls the money from his hip pocket and hands it to Darrell.  The mechanic fingers it suspiciously. DARRELL
+73) 8) text: That's none of your business.  Get the keys. DARRELL
+73) 10) text: Yeah, like Al Capone on tax day. Get the keys? DARRELL (pause)
+73) 11) text: Well, there's a $50 overnight storage charge we got to talk about. Bobby is ready at first to explode, but then just laughs loud. You got to give it to a guy like Darrell. He holds $100 bill. BOBBY
+73) 12) text: All I got's a hundred, Darrell. You got change? DARRELL
+73) 14) text: Figgers. There's a scratch on the hood and how much you make selling my gun? Deduct it. Bobby pulls the hundred back from Darrell's grasp. DARRELL (going to get the keys)
+73) 16) text: Course you don't. Tell me something Darrell. Forty thousand people die every day! How come none of them are you? DARRELL (throws him the keys)
+73) 18) text: And the trunk key. DARRELL (pulls out the trunk key)
+73) 20) text: Listen up good, Darrell. I'm getting outta this shithole. You're staying! And one little peep outta you -- remember that gun makes you part of the food chain. Your prints are all over it. I'd be awful careful whose rectum I was pointing my finger in, Darrell. Bobby hops in the car, a free man. As Darrell glares at h bewildered and frightened at the same time.
+79) 63) text: Adios -- Suddenly, the RADIATOR HOSE Darrell installed blows apart loudly. Bobby knows exactly and immediately what it is as cloud of steam now rolls from under his hood. He shakes h head, frustrated. BOBBY (sighs)

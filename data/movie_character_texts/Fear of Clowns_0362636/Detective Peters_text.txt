@@ -1,0 +1,120 @@
+3) 18) text: DETECTIVE PETERS, a young guy who looks more like a rock incognito, wanders over with a pad of paper.
+3) 20) dialog: Morning folks. You all know the Olsons?
+3) 24) dialog: Sorry. (flashes the badge) Detective Peters. Homicide, of course. Either of you happen to hear or see anything unusual last night?
+3) 27) text: Detective Peters is put off by the sarcasm coming from someone who appears so motherly. He looks to Lynn, who sm uncomfortably.
+3) 29) dialog: Maam. I need to know if you saw anything out of the ordinary last night, or heard anything.
+3) 32) dialog: Maybe. Maybe not. It might not have struck you as strange at the time, but maybe now, with what's happened...
+3) 36) dialog: (not particularly sympathetic) Your neighbors have been murdered. I can't tell you any more than that right now.
+3) 39) dialog: If something comes to you, give me a ring huh?
+3) 43) dialog: Oh hey. Sorry. Did either of you happen to kill the Olsons?
+3) 46) dialog: (didn't really need an answer anyway) Okay. Thanks. One of my guys will be over to take your names.
+3) 50) dialog: (looking at the card) An artist, huh? You don't much look like an artist.
+3) 54) dialog: How long you been...house sitting?
+3) 58) dialog: (nods his head) I may have to come by later and ask you a few questions, Miss... (checks the card again) Blodgett.
+3) 65) dialog: Wow. You're Miss Cleaver on the outside, but the inside's a real bitch, ain't it?
+3) 69) dialog: I guess I'm not so good with the sarcastic reh-par-tee.
+11) 83) text: There's a TAP on the front screen door. They look to see Detective Peters letting himself in.
+11) 87) text: Detective Peters comes over and sits down across from Lyn
+11) 91) dialog: Not so much. You say you saw someone outside?
+11) 95) dialog: And was he black or white?
+11) 99) dialog: A clown?
+11) 103) dialog: There was a clown standing outside your window at one a.m.?
+11) 107) dialog: Was he lost? Wandered away from Barnum & Bailey's and got trapped in suburbia?
+11) 110) dialog: This a P.R. stunt?
+11) 114) dialog: I know what you do, Miss Blodgett. (off of her "so what?" look) You paint pictures. Of clowns. This some kind of publicity stunt?
+11) 118) dialog: No. But looks can be deceiving.
+11) 122) dialog: No need to be rude.
+11) 128) dialog: I'm just saying, if this is some stunt, it's a serious crime to call the police.
+11) 132) dialog: I know, I know. Your friend did. The guy that owns a gallery full of your clown paintings.
+11) 134) dialog: I'll be talking to you soon. I've got some other questions.
+11) 137) dialog: 'Night.
+22) 1) text: Tuck pulls his cycle up to the curb and turns it off. She hops off just as Detective Peters gets out of his car acr the street. He looks like he's been waiting for a while.
+22) 3) dialog: Miss Blodgett?
+22) 6) dialog: How you doing?
+22) 11) dialog: Detective Peters, homicide.
+22) 15) dialog: Yeah, that's when somebody dies.
+22) 19) dialog: There was a murder yesterday a few doors down. (looks to Lynn then back to Tuck) Now Miss Blodgett is seeing clowns in her backyard.
+22) 25) dialog: You know what us cops call these?
+22) 29) dialog: A donorcycle. Whenever there's an accident with one of them, we pick up the rider and his brain's all scrambled but the rest of him is A-okay. Perfect organ donor.
+22) 34) dialog: No, what?
+22) 39) dialog: Who's your friend?
+22) 43) dialog: I don't know yet.
+22) 46) dialog: I'm a detective. I'm...detecting.
+22) 50) dialog: ...I've got a funny feeling about you, Miss Blodgett.
+30) 1) text: Detective Peters, OFFICER PATRICK and another cop stand a the door, having already knocked. Peters knocks again, lo and insistent.
+30) 4) dialog: See if any of the windows are broken.
+30) 7) dialog: (into his radio) Dispatch, this is four-oh-one.
+30) 11) dialog: I need info on a three-twenty-two that happened in Queen Anne's County two nights ago. I need addresses on both victims.
+30) 17) dialog: Huh? No, attempted robbery.
+30) 21) dialog: Nuh-uh.
+30) 25) dialog: Did they change it?
+30) 30) dialog: (into radio) Dispatch, this is four-oh-one again.
+30) 34) dialog: (into radio) That three-twenty-two may be a three-twenty-one.
+30) 38) dialog: (into radio) I need info on an attempted robbery. Whatever the number is. One of the victims is named Lynn Blodgett. I need the name and address of the other.
+30) 41) dialog: (to Patrick, frustrated) Fuckin' codes.
+31) 57) text: Detective Peters stands on the front stoop.
+31) 59) dialog: Lynn Blodgett here?
+31) 66) dialog: Could you come with me?
+31) 69) dialog: I need to talk to you, Miss Blodgett. Let's go back to your house.
+31) 74) dialog: You want to step out of the way?
+31) 81) dialog: Very.
+31) 91) text: Detective Peters sees her to her car.
+31) 95) dialog: Not here.
+31) 98) dialog: It's not about your son. Please follow me back to your house.
+32) 5) dialog: Sit down. Please.
+32) 8) dialog: Amanda Greene was murdered last night.
+32) 13) dialog: I'm sorry, I know she worked for you.
+32) 19) dialog: There's more. I wish I were better with the tact, but I'm not.
+32) 22) dialog: The scene of--where she died...I mean, it's not just that. We don't have the coroner's report yet, but I'd bet my shield that... (licks his lips, probably shouldn't say anything) ...well, I think the person that killed your friend is the same person that killed the family three doors down from you.
+32) 27) dialog: I don't think it's a coincidence. I think someone is zeroing in on you.
+32) 30) dialog: I've already said more than I should. But there's more. I need to know I have your complete confidence, that you won't repeat what I'm about to tell you. To anyone.
+32) 33) dialog: Amanda fought back against the person. We've recovered blood and tissue from under her fingernails. And...grease paint.
+32) 38) dialog: Grease paint. Like you'd buy in any Halloween or costume shop.
+32) 43) dialog: The window that he entered from...
+32) 50) dialog: I admit that I didn't take you seriously with your clown story the other night.
+32) 54) dialog: Well, you have my assurance that I'm taking you deadly serious now.
+32) 58) dialog: This what he looked like when you saw him?
+32) 62) dialog: His eyes are black like that?
+32) 65) dialog: Huh. Can I have this?
+32) 70) dialog: Whoever this guy is...we'll get him. You need to watch yourself until we do though. I'll have someone out in front of your house at all times.
+32) 73) dialog: I'll call you if I come up with anything.
+47) 11) text: Lynn's noncommittal. Detective Peters comes out of the ho and heads over to them. He pulls Lynn away from Tuck so h can talk to her privately.
+47) 13) dialog: Well. Helluva shot, Miss Blodgett. He's pretty dead.
+47) 17) dialog: Remorse. I like that. It seems your husband paid that guy to kill you.
+47) 20) dialog: Thanks, I've taken classes.
+47) 24) dialog: I'll make a wild guess and say he's got a sizeable life insurance policy out on you.
+47) 28) dialog: Yeah. We found a tape recorder in Mr. Hitman's car. He'd taped a few conversations with your husband, conversations where your husband hired him to kill you.
+47) 32) dialog: Yep. Plain old greed. I guess getting the hitman to dress up as a clown must have been him being creative. Hell, it's as good a disguise as any.
+47) 36) dialog: He probably changed outfits.
+47) 40) dialog: Are you positive?
+47) 44) dialog: Probably figured out a mask was much less work. Easier to take off.
+47) 49) dialog: Maybe he got scared off by your friend on the phone. We'll never know for sure. (waves it off) You just take it easy. We're looking for your husband now.
+47) 53) dialog: We think he's on the run. No sign of him at his house. Don't worry about it, we'll get him soon. Whatever you were asking for in this divorce thing...ask for more. You'll get it.
+47) 56) dialog: If you have any other questions, give me a call. (hands her a card) My home numbers's on the back. Night or day, doesn't matter.
+59) 7) dialog: Oh shit...
+59) 11) dialog: Vic, it's Peters. Yeah, I'm up late. Look, we got a problem. That blood sample from the girl's fingertips--came back a match to a DOJ sex offender named Doug Richardson.
+59) 14) dialog: Yeah, not Heston and get this: He's got Leber's congenital amaurosis. No I didn't make that up. It's a rare disease, normally causes blindness, but in some cases it can cause the sclera of the eye to turn black. And to top it off, this guy was a psych case over at Roundsville and you'll never guess who his doctor was. (smiles as Vic guesses) Right. I think he had two people trying to kill her. Send some uniforms over to her house, have them wake her up and secure it. Call me when that's done.
+59) 17) dialog: Right. Hey, see if we can get some pics of this guy. Yeah.
+61) 3) dialog: Peters.
+61) 7) dialog: No sign of a break in?
+61) 11) dialog: They have units on the way?
+61) 15) dialog: Tell the supervising seargent I'm ten minutes away.
+63) 1) text: Four patrol cars with flashing lights are parked in front the theater as Detective Peters pulls up in his unmarked.
+63) 4) dialog: Detective Peters, homicide. Where's your sarge?
+63) 8) dialog: Why haven't you gone in? There's a woman trapped in there with-- well, a murderer.
+63) 12) dialog: Why not?
+63) 18) dialog: This guy's not taking hostages.
+63) 21) dialog: Dammit.
+65) 57) dialog: DROP IT OR YOU'RE DEAD!
+65) 61) dialog: DON'T!
+65) 65) dialog: Jesus...
+65) 68) dialog: That is the biggest fucking clown I have ever seen.
+66) 1) text: Lynn, hugging Nicky protectively, and Tuck are in the lob of the theater, again strobed by flashing red and blue li from the police cars outside. Detective Peters finishes talking to some of the cops and joins them, a grim look on his face.
+66) 3) dialog: How you holding up?
+66) 7) dialog: She's dead.  I'm sorry.
+66) 10) dialog: The paramedics are going to need to take Nicholas to the hospital for a while. Just do a few tests. You can ride in the ambulance if you want.
+69) 5) dialog: Lynn? Thank God you answered. I don't want you to panic--
+69) 9) dialog: Look, I've got men on the way, they'll be there any second.
+69) 13) dialog: (exhales) Doug Richardson--the clown...he escaped from the prison. I'm sure he's headed out of state as fast as he can go, but I'm sending men over there just to be safe. I want you to stay calm...
+69) 17) dialog: We're not sure, we--
+69) 18) text: She's already put the phone down and is moving down the h toward Nicholas' room. Detective Peters keeps talking, bu his voice soon fades away to nothing.

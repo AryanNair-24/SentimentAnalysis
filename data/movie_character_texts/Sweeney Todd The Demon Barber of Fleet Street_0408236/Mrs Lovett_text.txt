@@ -1,0 +1,263 @@
+7) 0) text: Fleet Street. We see the exterior of Mrs. Lovett's pie shop. It is tatt and unloved by all. Yet it has a strange, ghostly presenc it. Imposing and dead at the same time. There is an exterior staircase leading up to a darkened second floor room with a window overlooking the street. The music slows and continues as we see Todd, standing in front of the shop, considering it deeply. The GENERAL we saw before passes, glancing at Todd. Here then gone. Todd finally strides to the shop and enters...
+8) 0) text: Behind the dusty counter is... MRS. LOVETT, a venal, vigorous and slatternly woman in he 40's. She is currently busy chopping a loathsome mess of suet w a wicked looking knife, her greasy hair hanging down over face.
+8) 4) dialog: A customer! Todd is startled, starts to go--
+8) 5) dialog: Wait! What's yer rush? What's yer hurry? (She sticks the knife into the counter)
+8) 26) dialog: And no wonder with the price of meat What it is-- (Grunt)
+8) 38) text: Ah sir, Times is hard. Times is hard. She finishes one of the crusts with a flourish as the mus ends. Todd, meanwhile, is gulping at his ale, trying to wash do Mrs. Lovett's hideous creation.
+8) 39) dialog: Trust me, dearie, it's going to take more than ale to wash that taste out. Come with me and we'll get you a nice tumbler of gin. She leads him through the curtains at the back of the pie shop and into...
+9) 1) dialog: Isn't this homey now? Me cheery wallpaper was a real bargain too, it being only partly singed when the chapel burnt down ....
+9) 5) dialog: There's a good boy, now you sit down and warm your bones, you look chilled through.
+9) 9) dialog: Up there? Oh, no one will go near it...
+9) 11) dialog: People think it's haunted.
+9) 14) dialog: And who's to say they're wrong? ... You see, years ago, something happened up there. Something not very nice...
+9) 16) dialog: There was a barber and his wife, And he was beautiful, A proper artist with a knife, But they transported him for life. (Sighs) And he was beautiful...
+9) 21) dialog: Barker, his name was -- Benjamin Barker.
+9) 23) dialog: (with an edge)
+10) 1) dialog: He had this wife, you see, Pretty little thing, Silly little nit Had her chance for the moon on a string-- Poor thing. Poor thing. Lucy moves to the window, looks out. She sees Judge Turpi and the Beadle waiting below. The Judge holds yet another bouquet.
+10) 2) dialog: There was this Judge, you see, Wanted her like mad, Every day he'd send her a flower, But did she come down from her tower? Sat up there and sobbed by the hour, Poor fool. Lucy moves away from the window, sobbing.
+10) 3) dialog: Ah, but there was worse yet to come, Poor thing.
+11) 1) dialog: The Beadle calls on her, all polite, Poor thing, poor thing. The Judge, he tells her, is all contrite, He blames himself for her dreadful plight She must come straight to his house tonight! Poor thing, poor thing.
+12) 1) dialog: Of course, when she goes there, Poor thing, poor thing, They're having this ball all in masks. Lucy wanders lost through the swirling dancers, they buff her, confusing her...
+12) 2) dialog: There's no one she knows there, Poor dear, poor thing, She wanders tormented, and drinks, Poor thing. The Judge has repented, she thinks, Poor thing. "Oh, where is Judge Turpin?" she asks. The Beadle finds Lucy again and graciously gives her his leading her through the party. She is thankful for the salvation he provides. He brings her to Judge Turpin. The Judge descends on Lucy, raping her. The other guests crowd around ravenously, enjoying the spectacle. A feveri nightmare.
+12) 3) dialog: He was there, all right-- Only not so contrite! She wasn't no match for such craft, you see,
+13) 4) dialog: So it is you -- Benjamin Barker.
+13) 6) dialog: She poisoned herself. Arsenic from the apothecary on the corner. I tried to stop her but she wouldn't listen to me. And he's got your daughter.
+13) 8) dialog: Adopted her like his own.
+13) 15) dialog: Well, I can't say the years have been particularly kind to you, Mr. Barker, but you still--
+14) 1) dialog: Come along...
+15) 0) text: A macabre shroud of dust and spider's webs. Furniture cov in sheets. A broken mirror on one wall. We hear footsteps approaching and then Mrs. Lovett enters The door creaks like a living thing.
+15) 1) dialog: Not to worry, a touch of oil will put that right. (she turns back to Todd) ... Nothing to be afraid of, love, come in.
+15) 8) dialog: When they came for the girl, I hid 'em. I thought, who knows? Maybe the silly blighter'll be back again. Cracked in the head, wasn't I?
+15) 10) dialog: Those handles is chased silver, ain't they?
+15) 18) dialog: I'm your friend too, Mr. Todd. If you only knew, Mr. Todd-- Ooh, Mr. Todd, You're warm In my hand. You've come home. Always had a fondness for you, I did.
+15) 20) dialog: Never you fear, Mr. Todd, You can move in here, Mr. Todd. Splendors you never have dreamed All your days Will be yours. I'm your friend.
+20) 0) text: Sweeney Todd and Mrs. Lovett are moving quickly, she struggles to keep up with his long, loping stride. He car his razor case, she carries a shopping basket.
+20) 2) dialog: Like clockwork. Eyetalian. All the rage he is.
+20) 5) dialog: Oh Mr. T., do you really think you can do it?
+20) 11) dialog: (seeing the Beadle, pulling his arm) Come along now, dear, he might recognize you--
+20) 20) text: Rub a minute, Stimulatin', i'n it? Soon you'll have to thin it Once a week! More customers are stepping up and buying bottles. Todd opens a bottle of the Elixir, takes a whiff. Disgust He smiles to Mrs. Lovett, his plan falling into place.
+20) 23) dialog: Are we standing near an open trench?
+20) 25) text: Must be standing near an open trench! The crowd responds to Todd and Mrs. Lovett, looking askan and sniffing at the bottles. Toby nervously tries to dist them:
+20) 29) dialog: (sniffing another customer's bottle)
+20) 35) dialog: Smells like -- phew!
+20) 40) dialog: Flies do too! Suddenly, the curtains on the caravan are dramatically fl wide to reveal-- PIRELLI, a flamboyant Italian with a velvet suit, thick w hair and a dazzling smile. Pirelli poses splendidly for a moment. Then:
+20) 50) dialog: (to the crowd)
+20) 54) dialog: Bravo, bravo. The crowd is enjoying this now, whispering eagerly about bold challenge. In the crowd, we see a quick flash of the meek TOURIST we saw earlier. Pirelli studies the razors for a moment and then turns to crowd with a confident smile:
+20) 82) dialog: (feeling the customer's cheek)
+20) 95) text: We're pulling out, yes. Quickly. Mrs. Lovett has observed all of this as she moves away wi Todd, who is making his way inexorably toward the Beadle. Some eager customers surround Todd, among them is the TOURIST.
+20) 97) dialog: He certainly does. Sweeney Todd's Tonsorial Parlor -- above my meatpie emporium in Fleet Street. Todd has led them right to the Beadle:
+21) 0) text: Todd and Mrs. Lovett are walking away from the marketplac She chatters happily:
+21) 1) dialog: ... Like to give me a coronary right there! What if he had recognized you! Lord, my heart was beating a mile a minute, just like a little finch it was. Aren't those lovely birds now? Always so twittery and happy... She continues chattering... But Todd is not listening. His eyes dart to the side to see-- The Gentleman is walking next to him, whispering, subtle, insinuating...
+21) 9) dialog: ... Suppose it's just me gentle heart, but I do hate to see a boy treated like that, no better than your Aunt Doreen's dog -- Mr. Todd, are you listening to me?
+25) 0) text: ... Her father. Todd's face, staring out the window, intense and brooding Seething with discontent. Mrs. Lovett chatters as she moves around behind him:
+25) 1) dialog: ... It's not much of a chair, I'll grant, but it'll serve. Was me poor Albert's chair. Sat in it all day long he did, after his leg give out from the gout, poor dear. He moves from the window and paces like a caged tiger in small barber shop. Though it has been cleaned, it is still a spartan room. A tatty parlor chair. A large chest. A few counters with me bottles of tonsorial supplies. And his gleaming razors, always waiting.
+25) 3) dialog: And who says the week's out? It's only Tuesday. Todd moves away from her, she pursues, trying to calm and soothe him...
+25) 4) dialog: Easy now. Hush, love, hush. Don't distress yourself, What's your rush? Keep your thoughts Nice and lush. Wait. (he continues to pace)
+25) 9) dialog: I've been thinking, flowers-- Maybe daisies-- To brighten up the room. Don't you think some flowers, Pretty daisies, Might relieve the gloom? Ah, wait, love, wait.
+25) 12) dialog: Can't you think of nothing else? Always broodin' away on yer wrongs what happened heaven knows how many years ago... Don't you know, Silly man, Half the fun is to Plan the plan? All good things come to Those who can Wait.
+25) 14) dialog: Gillyflowers, maybe, `Stead of daisies... I don't know, though... What do you think?
+25) 15) text: Then Todd tilts the razor in his hand-- SUDDENLY -- the face of the GENTLEMAN -- a flash -- refle in the razor-- Then-- A bell rings from outside the shop -- the effect is elect -- Todd bolts up, senses alert -- Mrs. Lovett spins to th door--
+25) 21) dialog: Mrs. Lovett, sir.
+25) 27) text: ... It must be a sign that Johanna wants me to help her -- that's her name, Johanna -- and Turpin that of her guardian. A judge of some sort... Todd and Mrs. Lovett exchange a quick glance as Anthony continues:
+25) 29) dialog: Oh, this is all terribly romantic.
+25) 36) dialog: Bring her here, dear.
+25) 42) dialog: Seems like the fates are favoring you at last, Mr. T. (Todd grunts, unhappy)
+25) 48) dialog: Oh, him? Let him bring her here and then, since you're so hot for a little
+25) 51) dialog: Poor little Johanna. All those years without a scrap of motherly affection. Well, we'll soon see to that...
+25) 53) text: What's this? Mrs. Lovett joins him at the window. Below, they see Pire approaching with Toby in tow.
+25) 54) dialog: Look at that face, he's up to mischief.
+26) 0) text: ... Mrs. Lovett quickly moves down the steps outside the barber shop to greet Pirelli and Toby as they are about t ascend. We see a new sign on the stairs: "Sweeney Todd's Tonsoria Parlor."
+26) 2) dialog: Plying his trade upstairs, don'tcher know ... (she stands on the staircase, blocking their way, looking at Toby)
+26) 8) dialog: (to Pirelli) You wouldn't mind if I gave him a nice juicy meat pie, would yer?
+26) 11) dialog: Come with me now. Your teeth is strong, I hope?
+28) 0) text: Mrs. Lovett hands Toby one of her grisly pies, he devours eagerly.
+28) 1) dialog: That's my boy, tuck in.
+28) 3) dialog: Like to see a man with a healthy appetite. Reminds me of my dear Albert, like to gorge himself to bloatation, he did. He didn't have your nice full head though--
+30) 0) text: Mrs. Lovett hears the muffled sounds of the struggle abov She nervously begins to shift and clang some things aroun she cleans the counter, trying to cover the sound, chattering:
+30) 1) dialog: My my my, always work to be done. Spic- and-span, that's my motto. Cleanliness is next to whatever-it-is. So, ah, how did you end up with that dreadful Eyetalian?
+30) 8) dialog: Wait--!
+35) 0) text: Mrs. Lovett is pouring Toby a glass of gin, not his first He gulps down the gin between ravenous bites of another m pie as she nervously glances up to the ceiling, wondering what the hell is going on up there.
+35) 1) dialog: You ought to slow down a bit, lad. It'll go to your head.
+35) 3) dialog: That's nice, dear ... I think I'll just pop in on Mr. Todd for a tick. You'll be all right here?
+36) 0) text: Mrs. Lovett enters. Todd is methodically cleaning his raz
+36) 1) dialog: Gawd, the lad is drinking me out of house and home, how long until Pirelli gets back?
+36) 3) dialog: (instantly suspicious)
+36) 8) dialog: (spinning on Todd) You're barking mad! Killing a man wot done you no harm!
+36) 10) dialog: (relieved) Oh well, that's a different matter! For a moment there I thought you'd lost your marbles!
+36) 12) dialog: Ooooh! All that blood! Enough to make you come all over gooseflesh, ain't it? Poor bugger. Oh, well.
+36) 14) dialog: (looking through purse) Three quid! Well, waste not, want not, I always say... (she tucks the purse into her dress) ... Now what are we going to do about the boy?
+36) 17) dialog: Oh, we don't need to worry about him, he's a simple thing. I'll pawn him off with some story.
+36) 23) dialog: (quickly)
+36) 27) dialog: 'Course we'll have to stock up on the gin, the boy drinks like a Barbary sailor-- Todd suddenly gasps -- a great, shocking intake of breath his whole body tenses like iron-- Mrs. Lovett spins to him--
+36) 111) dialog: All this shouting and running about, what's happened--?
+36) 113) dialog: The sailor busted in, I know, I saw them both running down the street and I said-- Todd interrupts wildly:
+36) 118) dialog: There, there, dear. Don't fret--
+36) 121) dialog: Easy now. Hush, love, hush. I keep telling you--
+36) 123) dialog: What's your rush?
+43) 0) text: -- Todd is kneeling, sweat pouring through his clothes, panting for air. Mrs. Lovett stands, looking down at him intently.
+43) 1) dialog: That's all very well, but what are we going to do about -- (kicks the chest) -- the dear departed?
+43) 3) dialog: Listen! Do you hear me? Get a hold of yourself!
+43) 5) dialog: Oh, you great useless thing, come on--
+44) 1) dialog: Sit down.
+45) 2) dialog: There, drink it down -- all the way -- that's right ... (he does so)
+45) 5) dialog: Well, yes, of course, we could do that. I don't suppose he's got any relatives going to come poking around looking for him... A chord of music. A beat. An idea. He looks at her uncomprehendingly.
+45) 6) dialog: Well, you know me, sometimes bright ideas just pop right into my head, and I keep thinking... Seems a downright shame...
+45) 8) dialog: Seems an awful waste... Such a nice plump frame Wot's-his-name Has... Had... Has... Nor it can't be traced. Business needs a lift-- Debts to be erased-- Think of it as thrift,
+45) 14) dialog: Good, you got it. (She warms to the idea) Take, for instance, Mrs. Mooney and her pie shop. Business never better, using only Pussycats and toast. And a pussy's good for maybe six or Seven at the most. And I'm sure they can't compare As far as taste--
+45) 18) dialog: Well, it does seem a Waste... It's an idea... Think about it... Lots of other gentlemen'll Soon be coming for a shave,
+45) 23) dialog: What, Mr. Todd, What, Mr. Todd, What is that sound?
+45) 25) dialog: Yes, Mr. Todd, Yes, Mr. Todd, Yes, all around--
+45) 28) dialog: Then who are we To deny it in here? Music continues under:
+45) 30) dialog: Here we are now, hot out of the oven... She holds the imaginary pie out to him with a sly and wic smile.
+45) 35) dialog: It's priest. Have a little priest.
+45) 37) dialog: Sir, it's too good, At least. Then again, they don't commit sins of the flesh, So it's pretty fresh.
+45) 40) dialog: Only where it sat.
+45) 42) dialog: No, you see the trouble with poet Is, how do you know it's Deceased? Try the priest.
+45) 45) dialog: Not as hearty as bishop, perhaps, but not as bland as curate, either. Mrs. Lovett presents another imaginary pie:
+45) 46) dialog: Lawyer's rather nice.
+45) 51) dialog: Order something else, though, to follow, Since no one should swallow It twice.
+45) 53) dialog: Well, then, if you're British and loyal, You might enjoy Royal Marine. Anyway, it's clean. Though, of course, it tastes of wherever it's been.
+45) 56) dialog: Mercy no, sir, Look closer, You'll notice it's grocer.
+45) 58) dialog: No, it has to be grocer -- it's green. Todd laughs as the glorious waltz theme returns:
+45) 60) dialog: Save a lot of graves, Do a lot of relatives favors...
+45) 62) dialog: Everybody shaves, So there should be plenty of flavors...
+45) 69) dialog: Since marine doesn't appeal to you, how about rear admiral?
+45) 71) dialog: With or without his privates? -- "With" is extra. Todd chortles as Mrs. Lovett offers another pie with a particular, flamboyant panache:
+45) 73) dialog: It's fop. Finest in the shop. Or we have some shepherd's pie peppered With actual shepherd On top. And I've just begun. Here's a politician -- so oily It's served with a doily-- Have one?
+45) 76) dialog: Try the friar. Fried, it's drier.
+45) 78) dialog: Then actor-- That's compacter.
+45) 84) dialog: True, we don't have Judge -- yet -- but would you settle for the next best thing?
+45) 86) dialog: Executioner. He takes the cleaver, feels the heft of it. Feels good. Then he picks up her wooden rolling pin, hands it to her, the music builds into the triumphant waltz:
+45) 88) dialog: Yes, yes, I know, my love--
+45) 90) dialog: High-born and low, my love.
+45) 92) dialog: We'll serve anyone--
+49) 0) text: Mrs. Lovett's wretched establishment has been transformed She has created a modest outdoor eating garden with table surrounded by glowing Chinese lanterns. A fresh coat of paint, a few bushes in pots and birds in cages add to the feeling of upward mobility. A new sign hangs proudly over the entrance to the pie sho "MRS. LOVETT'S WORLD FAMOUS MEAT PIES!" And then in small letters: "LIKE MOTHER USED TO MAKE." The eating garden is already crowded, the benches at the tables are filled and other customers stand and mill abou All eating, eating, eating... ...The most delicious looking meat pies you could ever imagine. Crispy crust. Thick, luxurious gravy. Tart and t meat. The customers take great, hungry mouthfuls; the steaming gravy oozing down greedy faces. Chomp. Chomp. Chomp. The Beggar Women stands across the street, ravenously hun She finally gets the nerve to approach when-- Toby -- wearing a spiffy new outfit with apron -- bursts the shop and circulates through the customers:
+49) 8) text: Just then Mrs. Lovett sweeps from the pie shop with a tra hot, steaming pies. Like her shop, she has been transformed as well. She wear her somewhat gauche notion of a "fancy dress." Buckets of decolletage. And her hair has been dyed a rather unique aubergine color.
+49) 9) dialog: Toby!
+49) 11) dialog: (indicating a beckoning customer) Ale there!
+49) 13) dialog: Quick, now!
+49) 18) dialog: Nice to see you, dearie... How have you been keeping?... Cor, me bones is weary! Toby--! (Indicating a Customer)
+49) 20) dialog: Toby! Throw the old woman out!
+49) 22) dialog: (continuing to customers)
+49) 29) dialog: Knock on wood. She does.
+51) 0) text: Mrs. Lovett continues to circulate:
+51) 1) dialog: What's your pleasure, dearie? (Spilling ale)
+51) 3) text: Toby! Run for the gentleman! Toby catches him, collects the money, as Mrs. Lovett turn another customer:
+51) 4) dialog: Don't you love a garden? Always makes me teary... (Looking back at the freeloader)
+51) 7) dialog: What's my secret? (To a woman)
+53) 0) text: Todd stands at the top of the stairs, watching the street hungrily. As, below, Mrs. Lovett smiles to another custom
+53) 1) dialog: Incidentally, dearie, You know Mrs. Mooney. Sales've been so dreary-- (She spots the Beggar Woman again) Toby! (Continuing to the customer, about Mrs. Mooney) --Poor thing is penniless. (Indicating Beggar Woman to Toby) What about that loony? (To the customer as Toby shoos the Beggar Woman away again) Lookin' sort of beery-- Oh, well, got her comeuppance-- (Hawklike, to a rising customer) And that'll be thruppence -- and
+53) 3) dialog: So she should.
+53) 8) dialog: Eat them slow and Feel the crust, how thin I (she) rolled it! Eat them slow, 'cos Every one's a prize! Eat them slow, 'cos That's the lot and now we've sold it!
+53) 10) dialog: Come again tomorrow--!
+53) 12) dialog: Hold it--
+53) 14) dialog: Bless my eyes--!
+53) 16) dialog: Fresh supplies!
+53) 18) dialog: How about it, dearie? (expecting more pies) Be here in a twinkling! Just confirms me theory-- Toby--! God watches over us. Didn't have an inkling... Positively eerie...
+53) 24) text: Yum! Yum! Yum! Yum! Yum! Yum! Mrs. Lovett then spots the Beggar Woman approaching again she spins to Toby with truly shocking viciousness:
+53) 25) dialog: Toby! Throw the old woman out! Mrs. Lovett watches intently as Toby leads the Beggar Wom away. The Customers, meanwhile, are building to a pure frenzy o mastication -- chewing and gulping and snapping at the heavenly pies:
+62) 0) text: ...Music continues as Mrs. Lovett descends a long and ver claustrophobic series of steps down to the bakehouse. She unbolts and pulls aside a heavy iron door and enters. We remain outside. A fiery red glow spills out -- the roa the oven within is thundering.
+70) 0) text: ...Music continues as Mrs. Lovett emerges from the bakeho with a rack of hot pies. She walks out of frame, up the steps, as we push in on th crack in the door. The fiery roar of the oven within is overpowering.
+71) 7) text: She spots Mrs. Lovett emerging from the pie shop and expl in desperation, pointing madly:
+79) 0) text: Mrs. Lovett and Todd rest on a picnic blanket, just like other couple out enjoying the fine day. The remains of a nice picnic lunch are scattered around t and Toby can be seen flying a kite a bit away. Mrs. Lovett watches happy couples moving about ... dogs a kids running hither and yon ... military officers squirin their ladies ... nurses with prams... Todd is distinctly ill at ease, brooding, as she chatters
+79) 1) dialog: ... which is not to say we couldn't get some nice taxidermy animals to bring a touch of gentility to the place. You know, a boar's head or two... (glancing at the unresponsive Todd)
+79) 4) dialog: Then what did I just say?
+79) 7) dialog: (snaps)
+79) 13) dialog: Oooh, Mr. Todd-- (Kisses him again) I'm so happy-- (Again) I could-- (Again) Eat you up, I really could! You know what I'd like to Do, Mr. Todd? (Kisses him) What I dream-- (Again) If the business stays as good, Where I'd really like to go-- (No response) In a year or so... (No response) Don't you want to know?
+79) 15) dialog: Do you really want to know?
+79) 18) dialog: I've always had this dream of living at the seaside ... I got a picture postcard from me Aunt Nettie once. Oh, it seems like such a grand place... (notes Toby flying his kite) And all that fresh aquatic air's bound to be good for the lad's poxy lungs... By the sea, Mr. Todd, That's the life I covet; By the sea, Mr. Todd, Ooh, I know you'd love it! You and me, Mr. T., We could be alone
+79) 24) dialog: Wouldn't that be smashing? And we go to...
+80) 0) text: ...In Mrs. Lovett's mind. She and Todd sit in the exact same positions as in Hampst Heath. Only now they are sitting on a beach. They are wearing what she imagines as fashionable seaside bathing clothes. Toby, who is not consumptively pale but overly rosy-cheek in her fantasy, is building a sandcastle nearby. Mrs. Lovett is sitting with her Dream Todd, of course, so has a bland smile on his face. Somewhat unnatural. In fact, there is something vaguely unreal and stilted ab all of this.
+80) 1) dialog: With the sea at our gate, We'll have kippered herring Wot have swum to us straight From the Straits of Bering. Every night in the kip When we're through our kippers, I'll be there slippin' off your slippers By the sea... With the fishies splashing. By the sea... Wouldn't that be smashing? Down by the sea--
+81) 0) text: Mrs. Lovett strolls with Todd on a boardwalk. Artificiall lovely couples, like rotogravure magazine pictures, move about. Toby runs along ahead of them.
+81) 1) dialog: I can see us waking, The breakers breaking, The seagulls squawking: Hoo! Hoo! I do me baking, Then I go walking With yoo-hoo... (she waves to Toby)
+82) 0) text: Mrs. Lovett and Todd recline on comfortable deck chairs, having tea and scones.
+82) 1) dialog: I'll warm me bones On the esplanade Have tea and scones With me gay young blade...
+83) 0) text: Mrs. Lovett's notion of a fashionable little seaside cott Crushing in its bourgeois blandness. She is making Toby try on a sweater. Todd is writing a letter.
+83) 1) dialog: Then I'll knit a sweater While you write a letter...
+84) 1) dialog: (Coyly)
+85) 0) text: Mrs. Lovett and Todd snuggle into bed:
+85) 1) dialog: Think how snug it'll be Underneath our flannel When it's just you and me And the English Channel...
+86) 0) text: Mrs. Lovett and Todd entertain some unnaturally jolly chu
+86) 1) dialog: In our cozy retreat, Kept all neat and tidy, We'll have chums over every Friday...
+87) 1) dialog: By the sea...
+87) 3) dialog: Don't you love the weather By the sea? We'll grow old together By the seaside, (Beckons to Todd to join them)
+87) 4) text: Hoo! Hoo! By the beautiful sea! Music continues as Todd joins them. He kneels with Toby t help him work on the sandcastle. Mrs. Lovett stands, watc them, the picture of the doting mother.
+87) 5) dialog: It'll be so quiet That who'll come by it Except a seagull? Hoo! Hoo! We shouldn't try it,
+88) 0) text: Mrs. Lovett and Todd getting married. This being her fant after all, she wears white. Todd is in a constricting mor coat with a rakish top hat. Toby, the best man, watches proudly.
+88) 1) dialog: But a seaside wedding Could be devised, Me rumpled bedding Legitimized.
+88) 3) dialog: My eyelids'll flutter, I'll turn into butter, The moment I mutter "I do-hoo!"
+89) 0) text: Mrs. Lovett is placing a plate of kippers on the table am a proper English breakfast. A guest stands, leaning again wall, waiting to eat.
+89) 1) dialog: By the sea, in our nest, We could share our kippers With the odd paying guest From the weekend trippers, Have a nice sunny suite For the guest to rest in--
+89) 3) dialog: Now and then, you could do the guest in--
+90) 0) text: Back at the beach, Mrs. Lovett, Todd and Toby sit comfortably. Watching an unnaturally gorgeous sunset. A picture postcard of a happy family.
+90) 4) dialog: By the sea. Married nice and proper, By the sea-- Bring along your chopper To the seaside, Hoo! Hoo! By the beautiful sea!
+91) 0) text: --Mrs. Lovett is sitting in the exact same position with Todd. Silence. Her smiles fades as she considers him. The grim, brooding reality is so clear next to her lovely dream. She watches him in silence as we fade to...
+92) 0) text: Todd is standing at his usual post, the window, gazing intently down at Fleet Street. Mrs. Lovett enters with a tray of food:
+92) 1) dialog: Brought you some breakfast, dear, farm fresh eggs and a dollop of lovely clotted cream, only the best for my...
+92) 3) dialog: Mr. T., might I ask you a question?
+92) 5) dialog: What did your Lucy look like?
+92) 10) dialog: You heard me ... (a beat) ... Can't really remember can you?
+92) 12) text: He turns back to the window. Mrs. Lovett proceeds with great sincerity:
+92) 13) dialog: You've got to leave all this behind you now. She's gone ... You keep looking down into the grave, you're never gonna look up. And life will just pass right by ... Life is for the alive, my dear.
+92) 15) dialog: We could have a life we two ... Maybe not like I dreamed, maybe not like you remember ... But we could get by.
+92) 17) dialog: Come away from the window.
+92) 51) dialog: Dear, I wonder if--
+92) 53) dialog: Don't you think it's time you--
+93) 0) text: Mrs. Lovett begins going down the stairs outside the barb shop. Then she stops. She stands for a long moment, disturbed t Todd's demons are again devouring him. She looks down and sees Toby washing the tables in the outdoor garden. Toby is serious about his work, vigorousl scrubbing the tables with soap and water. She watches him for a moment and then continues down the steps:
+93) 1) dialog: Toby ... Mr. Todd requires you.
+95) 0) text: Toby walks back to the pie shop, upset. He stops when he sees Todd at the window above, unblinkin gazing like a falcon into the street. He continues on to Mrs. Lovett, who is clearing up the remains of a meal in the outdoor garden.
+95) 4) dialog: Where you been, lad? We had quite the luncheon rush! Me poor bones is ready to drop... (She looks at him, notes his dark expression.) What is it, Toby?
+95) 9) dialog: Oh, love, I feel quite the same way--
+95) 11) dialog: (concerned) What is this? What are you talking about?
+95) 13) dialog: What do you mean, "someone bad"?
+95) 18) dialog: Darling, hush now, there's no need for this...
+95) 20) dialog: What is this foolishness now? What are you talking about?
+95) 23) dialog: Now, Toby dear, haven't we had enough of this foolish chatter? ...
+95) 30) dialog: No, no, love -- this is just something Mr. T. give me for my birthday--
+95) 33) dialog: Hush now, Toby, hush ... Here, you just sit next to me nice and quiet ... (calming)
+95) 35) dialog: Nothing's gonna harm you, Not while I'm around. Nothing's gonna harm you, darling, Not while I'm around. (He leans into her)
+95) 40) dialog: (softly)
+95) 44) dialog: (smiles)
+96) 0) text: Mrs. Lovett leads Toby down the claustrophobic, long stai toward the bakehouse.
+96) 2) dialog: Well, that'll be your job now.
+97) 6) dialog: Those grates go right down to the sewers and the whiffs come up, always a few rats gone home to Jesus down there.
+97) 9) dialog: Now this would be the bake oven ... Ten dozen at a time. Always be sure the doors is closed properly, like this.
+97) 12) dialog: And here's the grinder ... (demonstrates it) ... You pop in the meat, give it a good grind and it comes out here.
+97) 14) dialog: That's my boy. Smoothly, smoothly -- Now I've got to pop upstairs, back in two shakes, all right?
+97) 20) dialog: As many as you like, son ... As many as you like. She goes and shuts the door behind her.
+100) 0) text: Todd and Mrs. Lovett are hurrying down the stairs from th barber shop, urgent. Todd has a razor.
+100) 1) dialog: ... I got him locked in -- but if he escapes he'll go to the law!
+100) 3) dialog: Mr. T. -- I don't know -- maybe we could--
+100) 9) dialog: Excuse me, sir! -- You gave me a fright.
+100) 25) text: I am, sir, entirely at your -- (his eyes flit to Mrs. Lovett)
+100) 26) text: -- disposal. He leads the Beadle away. Mrs. Lovett allows herself a breath.
+104) 2) text: Todd and Mrs. Lovett are searching for Toby through a horrible catacomb of decaying sewers. Todd carries a razo Their voices echo bizarrely:
+104) 3) dialog: Toby! Where are you, love?
+104) 8) dialog: Nothing's gonna harm you...
+104) 10) dialog: Not while I'm around...
+104) 12) dialog: Nothing's gonna harm you, Darling...
+104) 14) dialog: Not while I'm around.
+104) 16) dialog: Demons are prowling everywhere Nowadays...
+108) 0) text: Mrs. Lovett is standing in horror by the mouth of the chu The Judge, still barely alive, clutches at her skirt-- She tries to wrench herself away from his vise-like grip-
+108) 1) dialog: Die! Die! God in heaven -- die!
+108) 2) text: The Judge's fingers finally relax their grip; he is dead. Panting, Mrs. Lovett, backs away from him and for the fir time notices the body of the Beggar Woman.
+108) 6) dialog: You! Can it be? Have all the demons of Hell come to torment me?!
+108) 9) dialog: He was clutching, holding on to my dress, but he's finished now...
+108) 13) dialog: No! Don't touch her!
+108) 17) text: Then -- Mrs. Lovett opens the oven doors-- The thundering roar from the oven crashes through the roo the fiery light slashes across the floor-- Clearly illuminating the face of the Beggar Woman. A chord of music as Todd realizes who she is. Music conti and builds as:
+108) 19) text: He looks up to Mrs. Lovett:
+108) 24) dialog: I was only thinking of you!
+108) 27) dialog: Your Lucy! A crazy hag picking bones and rotten spuds out of alley ashcans! Would you have wanted to know she ended up like that?
+108) 30) dialog: (desperately)
+108) 34) dialog: Said she took the poison -- she did -- Never said that she died -- Poor thing, She lived--
+108) 36) dialog: But it left her weak in the head, All she did for months was just lie there in bed--
+108) 38) dialog: Should've been in hospital, Wound up in Bedlam instead, Poor thing!
+108) 43) dialog: Better you should think she was dead. (passionately)
+108) 46) dialog: I'd be twice the wife she was! I love you! Could that thing have cared for you Like me?
+108) 51) dialog: Do you mean it? Everything I did I swear I thought Was only for the best, Believe me! (a heartbreaking plea)
+108) 57) dialog: (through tears)
+108) 60) dialog: (the lost dream)
+108) 88) text: There! They move away-- Revealing-- Todd and Mrs. Lovett. Facing each other. We circle them:
+108) 95) dialog: (coldly to him)
+108) 97) dialog: --As Sweeney...

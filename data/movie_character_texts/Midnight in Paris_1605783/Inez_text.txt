@@ -1,0 +1,142 @@
+0) 2) dialog: It's become so touristy.
+0) 4) dialog: Well you like cities.
+1) 2) dialog: You act like you've never been here before.
+1) 5) dialog: I admit it's pretty but so are so many other places I've visited.
+1) 7) dialog: Starving.
+2) 2) dialog: Why does every city have to be in the rain? What's wonderful about getting wet?
+2) 4) dialog: It's annoying.
+3) 1) dialog: Oh god, no. I could never live out of the United States. And if I could it would be someplace totally different.
+3) 3) dialog: I don't know, Hawaii.
+3) 5) dialog: Yes but it's - Hawaiian.
+3) 7) dialog: Right, and becoming rich and successful. Tell me the sad story.
+3) 9) dialog: That was ninety years ago.
+4) 1) dialog: You're in love with a fantasy. Now we CUT AROUND and see Gil and Inez live.
+4) 6) dialog: If I never see another charming boulevard or bistro -
+5) 8) dialog: Please let's not get into that discussion yet again?
+5) 12) dialog: Isn't that great Gil?
+5) 14) dialog: Gil. Just then another young couple pass the table and recogni Inez. PAUL and CAROL BATES.
+5) 16) dialog: Paul! Carol- (ad-lib introductions)
+5) 20) dialog: Oh - how terrific. Dad's here on business and we free-loaded along.
+5) 23) dialog: What?
+5) 25) dialog: I'm dying to see Versailles.
+5) 27) dialog: Is that the end of the story?
+5) 29) dialog: We'd love to go with you guys. Versailles is beautiful - I have to see it Gil - it's perfect for you with your obsession with "les temps perdus" В·
+6) 1) dialog: (as they do their nocturnal ablutions)
+6) 4) dialog: It was so clear you didn't want to go.
+6) 6) dialog: He's brilliant. I used to have such a crush on him at college. And Carol's very bright.
+6) 8) dialog: I hardly think the Sorbo nne would have him lecturing if he's a pseudo- intellectual. You should give him your novel to read. I'm sure he'd be able to critique your writing and show you why you're having so much trouble.
+6) 10) dialog: (said with her usual seductiveness)
+8) 1) dialog: I think I could get used to a summer home like this.
+8) 4) dialog: We're looking in Malibu.   We love where you live.
+8) 10) dialog: He doesn't even know if he can write a novel. So far your track record's - you know - whereas, everyone likes your movies -
+8) 12) dialog: Tell them about the lead character in the book you're working on.
+8) 14) dialog: Not the plot, just the lead character. He works in a nostalgia shop.
+8) 17) dialog: (pointedly)
+8) 20) dialog: (teasing Gil)
+8) 26) dialog: He's a romantic. Gil would be just fine living in a perpetual state of denial.
+8) 28) dialog: Touche.
+9) 2) dialog: I love a diamond wedding band. The way it sparkled they'll see it in the last row when he puts it on my finger.
+9) 5) dialog: (cutting her off)
+9) 8) dialog: Gil's smart and successful.
+9) 10) dialog: The world is full of people who dream of writing the great American novel. Let me handle him.
+9) 12) dialog: He likes to please me - is that so terrible? Oh gosh - I have to go - Paul arranged a private tour of the Rodin Museum.
+10) 0) text: 13 Paul, Carol, Gil and Inez getting guided tour.   Guide sp French and mostly English - as she feels.
+10) 8) dialog: (to Gil)
+10) 25) dialog: Don't forget, Dad invited you to join us at a wine tasting tonight.
+10) 27) dialog: (walking with Gil) When did you read the biography of Rodin?
+11) 0) text: 14 Inez already a little high.       Her parents having fun. also feeling it by now.
+11) 1) dialog: (tasting) I can't tell the difference. They're both delicious.
+11) 6) dialog: (to Gil)
+11) 9) dialog: I don't think I've ever seen your cheeks so red.
+12) 2) dialog: Sure.
+12) 4) dialog: Oh come on - although if you're just going to sit there and obsess over where the fire exits are.
+12) 7) dialog: Well I can go, right?
+12) 10) dialog: I'm not tired and I'm dying to dance. I'll just meet you back at the hotel.
+13) 1) dialog: Isn't it great we're all on holiday at the same time.
+13) 3) dialog: I can't introduce him to tennis - Daddy's having the damndest time pressuring him to learn golf.
+13) 5) dialog: He won't let anybody -
+13) 7) dialog: That's what he needs, to have it read by someone who really knows and wouldn't pull any punches. The problem is - when it comes to his writing he has no respect for anyone's opinion.
+22) 0) text: 26 Next morning.   Gil and Inez probably dressing.
+22) 1) dialog: Lucky you didn't go last night. You'd have hated the music and the crowd - but I had fun.
+22) 3) dialog: What are you thinking?   You seem in a daze.
+22) 5) dialog: Is that what you were dreaming about? Your literary idols.
+22) 7) dialog: What does that mean? CaNTO: 26
+22) 9) dialog: I'd be thinking brain tumor.
+22) 11) dialog: Right, right - er where's my cold cream - we should knock off the idle chatter because we're going to be late.
+22) 13) dialog: You can work on it later. And we can use Mom's decorator's discount.
+23) 0) text: 27 Helen, Inez and Gil in antique store.
+23) 9) dialog: That's over twenty thousand dollars, Mom.
+23) 11) dialog: She's right, Gil.
+23) 15) dialog: (sotto seductively)
+23) 19) dialog: Great.
+23) 23) dialog: What?   I'm not big on surprises.
+24) 0) text: 28 Gil and Inez arriving at the spot he was picked up by car He waits nervously.
+24) 1) dialog: Where are you taking me?   You made me rush through dinner. Dad wasn't finished with his profiteroles.
+24) 3) dialog: Where? And why are you carrying around your manuscript.
+25) 1) dialog: I don't know what it is you're carrying on about but this is not my idea of an amazing adventure. I'm exhausted from the gym and the massage.
+25) 4) dialog: Look - you want to walk the streets and "drink in Paris by night" - go ahead. I'm in the middle of a great book Carol lent me and if I'm asleep when you get in, don't wake me. (she gets in cab)
+27) 0) text: 33 Gil gets into bed with Inez. She's asleep and he lies awa thinking. He pinches himself to make sure he's awake.
+28) 0) text: 34 Gil, Inez and Helen.
+28) 4) dialog: What time did you get in?     I was dead asleep.
+28) 6) dialog: We'll see.     Oh how about this?
+28) 14) dialog: Gil - Gil - Gil?
+28) 17) dialog: We should go. We're meeting Paul and Carol for a private showing at the museum.
+28) 19) dialog: It's a different museum and we don't need a guide. Paul's an expert on Monet.
+29) 0) text: 35 Paul, Carol, Inez and Gil in circular room with huge Mone
+29) 2) dialog: I prefer Monet. I mean I love Turner but this is overwhelming.
+29) 5) dialog: Shhh. I want to hear what Paul's saying.
+30) 8) dialog: Gil pay attention and you'll learn something.
+30) 10) dialog: What have you been smoking?
+31) 0) text: 36 John, Helen and Inez finishing fancy dinner.
+31) 4) dialog: Work - he likes to walk around Paris - the way the city is all lit up at night allegedly inspires him - It's okay. Paul and I are going dancing.
+31) 6) dialog: In bed with a bad oyster. (rising) See you later. Thanks for dinner Dad.
+37) 1) dialog: Did you get much work done last night?
+37) 3) dialog: Shouldn't we be getting dressed?
+37) 5) dialog: (she does)
+37) 8) dialog: Paul says we have to see the countryside. He's taking us for lunch at this beautiful little inn. I know you like making love in the morning but I find it much sexier late afternoon - just before we go out to dinner. Except I always have to explain to my parents why your cheeks look radiant. Hey- I'm not going to force you. I know you're hot on your writing. I'll be happy when you finish this book and move on.
+42) 0) text: 53 Inez, her mother and father loading into car.
+42) 2) dialog: I forgot to tell you. Gil is not going with us to Mont St. Michel.
+42) 4) dialog: He writes, he rewrites, he rewrites his rewrites. He says Picasso never left his studio.
+45) 14) text: As always in this sad life he is about to marry a woman named Inez. I had a dream where he came to me and brought me a little gift - earrings they were - and we made love. perhaps it is just as well I accept Hemingway's offer to go to Africa. Life with Pablo is too full of conflict and I am suffocating under his genius. Why I need to go from one brilliant man to another is my weakness. Gil is different, perhaps not a genius but not moody and selfish like Pablo or Amedeo was. I think a trip to Africa with Hemingway would help get these feelings for Gil off my mind.
+46) 2) text: He goes to Inez's jewelry box and picks out art nouveau earrings he knows Adriana would like. He grabs a box and gift wraps it quickly. Maybe it comes in a blue velvet box and he finds some col paper. Gil writes card: To Adriana with love. He crosses it out - To Adriana avec amour. He gives a final check to himself and opens door to leave running smack into Inez and both her parents, home from t trip prematurely.
+46) 6) dialog: Daddy got chest pains.
+46) 10) dialog: Daddy had an angioplasty three years ago.
+46) 14) dialog: Why are you so dressed up?
+46) 16) dialog: You dress and put on cologne to write?
+46) 18) dialog: We were halfway to Mont. St. Michele and Daddy started to look pale.
+46) 20) dialog: We turned right around.
+46) 24) dialog: What's this. (picking up gift)
+46) 26) dialog: What is that?     It's a present.
+46) 28) dialog: You got me something?
+46) 30) dialog: Let me open it.
+46) 32) dialog: Now I'm dying of curiosity. If it's jewelry I hope it's my taste - not like the moonstone necklace.
+46) 36) dialog: You never saw the necklace he got me. I've never actually worn it. You'll see why immediately.
+46) 39) dialog: That's just it, they're too simple.
+46) 41) dialog: Hey - where are my art nouveau earrings?
+46) 43) dialog: I've worn them here.
+46) 45) dialog: Both of them?     My ears are pierced.
+46) 47) dialog: You think it was the maid?
+46) 49) dialog: I remember seeing them there this morning.
+46) 53) dialog: I'll bet it was that maid. She was so snotty yesterday about turning out the beds.
+46) 56) dialog: (phone) I want to report a theft. I'd like the house detective to please come to room 818.
+46) 58) dialog: (hangs up) I didn't like that maid from the first day, didn't I say that?
+46) 61) dialog: (opening door, doctor is there) Right. Take the side of the help as usual. That's why Dad calls you a Communist.
+46) 68) dialog: Where did you find them?
+46) 70) dialog: The bathroom?
+46) 74) dialog: Why the hell would they be in the bathroom?
+46) 76) dialog: I didn't drop them or leave them out ...
+56) 0) text: 72 Gil back in present in mid-argument with Inez.
+56) 1) dialog: You're crazy - Paul and me? Where did you get such an insane notion?
+56) 3) dialog: Gil, your brain tumor's acting up again.
+56) 5) dialog: Nothing except they've all been dead for years.
+56) 10) dialog: You're a raving lunatic.
+56) 12) dialog: Gil -
+56) 14) dialog: Jesus Christ I'm dealing with a madman - okay - Paul and I had a few nights alone. We danced, we drank - you were always working - he's very attractive, he spoke to me in French - the whole mystique of this corny city got to me - it's over. We can put this all in perspective at home.
+56) 16) dialog: What?
+56) 18) dialog: What?
+56) 21) dialog: Have you met someone else?      All those late night walks.
+56) 23) dialog: Honey, you better listen to yourself. You're a psycho. You don't know what you're doing. You see everything here through magical colored glasses. You're a California film writer with a house in Beverly Hills with two Mercedes'. You're not some kind of twenties expatriate novelist.
+56) 27) dialog: With who? All your crazy hallucinatory friends? Mother was right about you - there's a part missing.
+56) 29) dialog: Anyone who's protagonist makes a living selling old cap pistols and Joan Crawford cut out books.
+56) 31) dialog: Go ahead. Walk the streets - gush over the Parisian light and the rooftops.
+56) 36) dialog: Daddy you didn't.

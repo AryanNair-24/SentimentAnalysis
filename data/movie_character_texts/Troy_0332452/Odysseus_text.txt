@@ -1,0 +1,73 @@
+21) 12) dialog: Well, I'm going to miss my dog.
+21) 14) dialog: Of course he does.
+22) 11) dialog: (smiling) Your reputation for hospitality is fast becoming legend.
+22) 13) dialog: Patroclus, son of Menoetius? The boy nods. Odysseus grips Patroclus's shoulder.
+22) 14) dialog: I knew your parents well. I miss then. Patroclus nods again, looking at his feet.
+22) 15) dialog: Now you have this one watching over you, eh? Learning from Achilles himself -- every boy in Greece must be jealous. (to Achilles) We need to talk.
+22) 22) dialog: I'm not asking you to fight for him. I'm asking you to fight for the Greeks.
+22) 24) dialog: For now.
+22) 26) dialog: They insulted Greece.
+22) 28) dialog: Your business is war, my friend.
+22) 30) dialog: Forget Agamemnon. Fight for me. My wife will feel much better if she knows you're by my side. I'll feel much better.
+22) 32) dialog: Of course. You've heard of Ajax, eh?
+22) 37) dialog: We're sending the largest fleet that ever sailed -- a thousand ships.
+22) 39) dialog: The best of all the Trojans. Some say he's better than all the Greeks, too. (beat) Even if your cousin doesn't come, Patroclus, I hope you'll join us. We could use a strong arm like yours. beams with pride and looks at his cousin. Achilles wraps his arm around Odysseus's shoulders and leans closer to the Ithacan. The embrace is friendly, but there's no mistaking the power in Achilles' grip.
+22) 41) dialog: You have your sword, I have my tricks. We play with the toys the gods give us. Odysseus goes back to his horse and mounts. Patroclus,
+22) 42) dialog: We sail for Troy in three days. (beat) This war will never be forgotten. Nor will the heroes who fight in it. eager but frustrated, watches him ride away. 24 25 32.
+71) 9) dialog: I don't mind missing the beginning of the war -- as long as I'm here at the end. Achilles smiles and keeps walking. He arrives at the Myrmidon's newly established base. Patroclus, Eudorus, and the other surviving Myrmidons greet Achilles.
+74) 0) text: The largest tent on the beach, Agamemnon's command quarters are a lush affair, decorated with the spoils of dozen wars. Several AIDES-DE-CAMP bustle in and out on various errands. The Greek kings are here: Odysseus, Ajax, Menelaus, etc. Agamemnon sits on a heavy wood throne, garishly inlaid with gold, mother-of-pearl, and precious stones. Triopas, king of Thessaly, kneels before Agamemnon.
+74) 5) dialog: War is young men dying and old men talking. You know this. Ignore the politics. (CONTINUED)
+92) 0) text: The Greek army halts just beyond arrow range. A delegation of kings -- Agamemnon, Nestor, Menelaus, Odysseus, and Ajax -- on CHARIOTS proceeds to the center of the battlefield. Odysseus looks over his shoulder and then yells to Ajax.
+92) 1) dialog: Where's Achilles? Ajax looks around and shrugs.
+96) 0) text: Ajax and Odysseus, standing together, watch the bloodied prince. Ajax looks disgusted, Odysseus amused.
+96) 2) dialog: But they're not as pretty.
+106) 0) text: ODYSSEUS watches this chase with trepidation.
+106) 1) dialog: Our men are too close to the walls.
+112) 0) text: Odysseus, meanwhile, works to reorganize the troops.
+112) 1) dialog: Selepius! Bring your men back into line! Ajax, standing nearby, sees Hector chopping his way through the Greeks. Ajax runs at Hector. Two TROJAN SOLDIERS try to intercept Ajax. The mighty Greek swings his huge battle axe. The blade cuts clean through the first soldier's arm and halfway through his torso. The second soldier hacks at Ajax but the big man blocks the sword with his shield and then uses the shield to ram the soldier's face. Blood sprays from the Trojan's crushed skull. Both soldiers fall dead to the ground. Hector, battling a Greek INFANTRYMAN, doesn't see Ajax coming. Ajax grabs Hector's horse's bridle and tugs hard, the veins in his arms bulging beneath the skin. (CONTINUED)
+114) 0) text: The Trojans are routing the Greeks. With two of their kings already fallen, the Greek force is in disarray. Odysseus sees Agamemnon speeding by on his chariot. Odysseus runs and manages to leap onto the chariot. The two kings shout at each other above the commotion of battle.
+114) 1) dialog: We need to retreat! Agamemnon surveys the battlefield and his battered forces (CONTINUED)
+114) 5) dialog: If we don't fall back you won't have an army! Agamemnon seems dazed by the turn of events. Finally Odysseus hollers to whichever CAPTAINS can hear his voice
+114) 6) dialog: Back to the ships! Back to the ships! The captains take up this cry, shouting orders to their men. The Greeks retreat. The Trojan soldiers give a mighty shout as they pursue their enemies.
+122) 0) text: Nestor sits at a table, poring over the map of Troy. Odysseus lies in a hammock strung between two of the tent poles, eating olives and spitting out the pits. Agamemnon paces the rugs that floor the tent. His usual air of supreme confidence is gone, replaced by agitation.
+122) 4) dialog: Maybe we should. spins and glares at Odysseus.
+122) 6) dialog: The men believe we came here for Menelaus's wife. He won't be needing his wife anymore.
+122) 8) dialog: It's no insult to say a dead man is dead.
+122) 10) dialog: You're right. But if we stay, we stay for the right reasons. (to Agamemnon) We stay to protect Greece, not your pride. Your private battle with Achilles is destroying us.
+122) 12) dialog: Hector is one man. Look what he did to us today.
+122) 14) dialog: I don't care about the man's patriotism. I care about his ability to win battles. (CONTINUED)
+122) 18) dialog: Weak? They're ready to swim home.
+122) 20) dialog: I'll talk to him in the morning. Agamemnon thinks about it for a moment and nods.
+122) 23) dialog: Where is she?
+129) 0) text: Odysseus waits for Achilles outside the tent. (CONTINUED)
+129) 4) dialog: You found the girl?
+129) 6) dialog: Is she hurt?
+129) 9) dialog: Always.
+129) 11) dialog: We all need someone else. Right now, Greece needs you.
+129) 13) dialog: I'm not talking about the land. The valleys, the mountains -- they don't care what we do. The men need you. You should have seen the slaughter yesterday.
+129) 19) dialog: Agamemnon... is a proud man. But he knows when he's made a mistake.
+129) 21) dialog: The world seems simple to you, my friend. But when you're a king, very few choices are simple. Ithaca cannot afford an enemy like Agamemnon.
+129) 23) dialog: You don't fear anyone, that's your problem. Fear is useful. (beat) Stay, Achilles. You were born for this war.
+129) 25) dialog: Am I wrong? Achilles stares at the sea again.
+129) 27) dialog: Women have a way of complicating things. Achilles smiles. He turns to Odysseus and clasps his hand.
+129) 31) dialog: Sometimes you need to serve in order to lead. I hope you understand that one day. Odysseus walks away. Achilles watches him go and then turns back toward his tent. He sees that Patroclus has been standing by the tent throughout the previous conversation.
+133) 0) text: Agamemnon, Nestor, and Odysseus exit the tent. The beach is a frenzy of activity. Thousands of men rush to their positions, hastily arming themselves. The kings look to the high dunes.
+137) 0) text: The Greek archers notch their arrows. Odysseus stands with his ITHACANS, waiting to battle. A ery starts up on the far end of the Greek line and grows steadily louder. Odysseus looks in that direction. A glittering figure has stepped forth from the Myrmidon camp, clad in the beautiful and distinctive armor that every man in the Greek army recognizes.
+137) 1) dialog: Achilles. All down the Greek line we hear the cheer building to a roar. Agamemnon, hearing the commotion, turns and sees the shining warrior. He watches the spectacle with mixed emotions. Eudorus, standing with several Myrmidons, is thrilled by his leader's unexpected arrival.
+138) 0) text: But now the glorious bronzed figure of Achilles leaps ove the trench, sunlight reflecting off his polished armor. He raises his sword to the sky. A great, violent ROAR rises from the Greek army. When he runs toward the Trojans the Greeks jump from their positions and follow. The two armies collide. Unlike the grassy field the men fought on yesterday, today's battle takes place on the sand, and sand is everywhere. Horse hooves kick up clouds of sand. Men struggle for footing in the loose sand. Red blood puddles on the yellow sand. But much more is different than the terrain. Now the Greeks have a leader. The Myrmidons are at the forefront, battling with a ferocity most Trojans have never seen before. A Trojan OFFICER, spear raised, gallops toward the figure of Achilles. Before the Trojan can throw, Eudorus hurls his spear, catching the officer in the neck. The man goes down. Odysseus, immersed in combat, sees this. He hesitates for a moment and in his distraction is nearly cut down by an axe-wielding Trojan. They fight. After Odysseus dispatches the man, he looks back toward the glittering figure of Achilles. Something's making him uneasy. A Trojan swings his sword at the shining warrior, narrowl missing a clean decapitation. The Greek hero thrusts his spear and guts the Trojan. The Myrmidons surge forward, hacking their way through th Trojans. The Greek army steadily pushes the Trojans back, picking up more and more momentum. Now it is the Trojans who seem frightened, unsure where the Greeks found this intense spirit. Glaucus, the Trojan general, on horseback, shouts to Hector.
+139) 6) dialog: Arms down! Arms down! To the beach! Odysseus sheathes his sword and approaches. He crouches by Patroclus and closes the dead boy's frightened eyes. Hector and Odysseus look at each other for a beat. Hector mounts his horse and leads his men home. The two sides retreat. Eudorus hurries over and kneels beside the dead boy.
+139) 10) dialog: I don't think anyone's sailing home now.
+161) 0) text: Agamemnon, Nestor, and Odysseus stand with their men. For the moment all machinations and intrigues are forgotten. Each of them knows this fight will be remembered forever, and each watches quietly.
+171) 0) text: Achilles rides into camp. The Greek soldiers gather round to stare at Hector's body. Achilles doesn't look at anyone. He unties the rope and hauls Hector by hand across the sands. Odysseus stands nearby, amongst the men. A few of the soldiers laugh, seeing the Trojan prince laid low.
+180) 0) text: Agamemnon paces about his tent in a murderous fury. Odysseus, Nestor and several AIDES stand in attendance.
+181) 0) text: Odysseus sits with his ITHACANS by the fire. The men eat a breakfast of grilled fish. The soldier sitting beside Odysseus whittles with a sharp knife. Odysseus watches the man work. The Soldier notices his king's attention. He smiles and holds up a small WOOD HORSE.
+182) 0) text: Hundreds of Greeks eat breakfast on the beach. Several of them turn to watch Odysseus, who rushes to Agamemnon's tent and disappears inside.
+184) 0) text: By torchlight, we see Greeks stripping planks from two burnt shells of warships. Others pry spikes out of the fortifications. Odysseus watches the men carry the planks and bundles of spikes to an ever-growing pile. Achilles approaches him.
+184) 2) dialog: This is war.
+184) 4) dialog: I'm the king of Ithaca, not Troy. My loyalty is to Ithaca. If this plan works, the war ends in a night. And my men can sail home to their wives. Achilles keeps walking, Odysseus pacing after him. (CONTINUED)
+184) 7) dialog: It's not Troy you're worried about, is it? It's one Trojan. One Trojan girl. Achilles halts. He stares at Odysseus for a long count.
+193) 0) text: The square is empty now, all the revelers gone home. The wood horse waits in the moonlight. We witness something strange: ropes, anchored inside the horse, fall to the ground. Soldiers emerge from the horse and slide silently down th ropes: Achilles, Odysseus and ten other Greek soldiers. None of them wear the bright, clanking bronze armor. Their swords and spears are wrapped in lambskins. Odysseus leads a team of Ithacans across the square. Quiet as shadows, they creep up on the sentries guarding the main gate. Another team moves toward the guard towers. Achilles stands alone in the dark square, watching his compatriots set off on their deadly missions. Finally he turns and moves in the opposite direction, toward the palace. He's on a different mission.
+205) 0) text: Odysseus battles his way down the street, leading the Greeks against a contingent of half-armored Trojans. The Trojans are too dazed to offer much resistance.
+210) 0) text: Odysseus and his men fight their way up the palace stairs The Trojans resist heroically. They die heroically. Agamemnon stands behind his troops, hollering orders.
+221) 0) text: The Greeks are victorious. The beautiful city of Troy is a ruin. Trojan PRISONERS are led off in chains. Greek soldiers carry gold treasures from the lavish temples and palace. Funeral pyres fill the square. One pyre, taller than the rest, rises in the center of the square. Odysseus stands atop the highest pyre, staring down at the body of Achilles. For a long time Odysseus looks at the dead man's face. He knows the world will never see another Achilles. Finally he reaches inside his tunic, pulls out two coins, and places them over Achilles' eyes.
+221) 1) dialog: Find peace, my brother. Odysseus climbs down from the pyre. A LIEUTENANT hands him a torch and Odysseus starts the fire. The dry wood quickly catches. Black smokes rises toward the circling crows. CLOSE on Odysseus as he watches his friend burn.

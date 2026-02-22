@@ -1,0 +1,22 @@
+34) 7) dialog: (hesitantly) Well, sir -- the general impression is that your Seventh Army berreled through token resistance, while Montgomery faced the brunt of the fighting.
+34) 9) dialog: The people back home are interested in you, General. They're curious about your peari-handled revolvers.
+34) 11) dialog: What about your languege, Generel? Cont.
+34) 15) dialog: How do the men react to that?
+34) 17) dialog: Ernie Pyle says you've got a secret weapon here in Sicily -- General Bradley. ‘The GI General' -- that's what Ernie calls him.
+34) 19) dialog: Whet's your feeling about Montgomery?
+34) 21) dialog: (baiting him) You think he's not aggressive enough -- is that correct? Patton notices the men have been scribbling furiously, starts to pull back. Cont.
+51) 27) dialog: General Patton, can you say anything about the purpose of this visit to Corsica?
+51) 29) dialog: It was reported that you wrote the mother of the boy you slapped, saying: 'The yellow rat should have been shot.' Is that true, General? With a visible effort, Patton manages to control himself
+51) 31) dialog: I understand General Alexander suggested you take on General Mark Clark's ass tenment in Italy, but the War Department ilte ecause of the slapping incident. Patton glares at the correspondent but controls himself.
+51) 33) dialog: Can you tell us where you'll be going from here?
+100) 1) text: A group of CORRESPONDENTS is gathered in the office questioning Patton. Davenport and Codman are also present
+100) 2) dialog: General, is it true that President Roosevelt, before he died, promised you a combat command in the Pacific?
+100) 4) dialog: We've been told about these wonder - weapons the Germans were working on. Long-range rockets, push-button bombing, weapons that don't need soldiers --
+100) 6) dialog: It's been pointed out, General, that you're stiil using former Nazis in key positions, despite the official de-Nazification policy.
+100) 8) dialog: (apparently casually) After all, General, didn't most ordinary Nazis join the party in about the same way Americans become Republicans or Democrats?
+100) 10) dialog: (baiting him) You do agree, don't you, that our national policy should be made by civilians and not by the military? Cont.
+100) 13) dialog: (with a shrewd smile) You thinking about cur Russian allies, General? Patton smiles blandly, doesn't reply.
+100) 14) dialog: Sir, did you say if you found your army between the Germans and the Russians, you'd attack in both directions?
+104) 0) text: The place is decorated with elaborate flags, plaques, SHA insignia. A group of five or six CORRESPONDENTS waits impatiently in the anteroom. Several faces are recognizab as having been,at the press conference in Patton's Bad To office. Camera moves into office door, on which is a sign GENERAL EISENHOWER. The door opens and Patton comes out. His eyes are lifeless and he appears shaken, utterly drai
+104) 1) text: The Correspondents are stunned by his appearance. As he closes the door and moves off, one of them steps forward speak to him. Cont.
+104) 3) dialog: One moment, General -- Uncharacteristically affected by the shock Patton has sustained, two of the Correspondents take hold of their colleague and pull him back. They watch as Patton, oblivious, moves across the room like a sleepwalker and goes out.

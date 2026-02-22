@@ -1,0 +1,49 @@
+0) 0) text: STEVEN, a cardiothoracic surgeon, around 45 years old, MATTHEW, an anaesthetist of around 55, and three SURGICAL NURSES are leaning over the chest of a patient. They are performing open heart surgery. We follow the surgical instruments as they explore the patient’s internal organs The surgeon’s movements are precise, considered. The procedure unfolds in perfect synchronicity. No one misses beat. The only sounds are the clink of metal instruments, doctors’ breathing, and the electronic beep of the heart monitor.
+1) 0) text: Steven and Matthew stand at a sink, washing their hands. Their scrubs are splattered with blood. The overhead ligh is harsh. The anaesthetist takes his watch out of his poc and puts it on. The surgeon takes the anaesthetist’s hand studies his watch. Steven Nice watch. Matthew Thanks.
+1) 2) dialog: 200 metres. Steven It also has a date display.
+1) 3) dialog: Yes, it does.
+1) 5) dialog: Oh, really?
+1) 9) dialog: How long have you had it?
+1) 11) dialog: Think about it. We can go together to the place where I bought it. If I tell them you’re a colleague of mine, a friend, they'll definitely give you a better price. Both the owner and his father have been patients of mine, so I know them quite well. Think about it. Steven looks at Matthew’s watch again. He smiles almost imperceptibly and with a nod assures Matthew that he will think about it. The anaesthetist leaves the room.
+6) 11) text: Okay. Matthew walks past, holding a patient’s file. to Steven and puts on his reading glasses.
+6) 12) dialog: Good morning.
+6) 14) dialog: Could you please take a quick look at this. He shows Steven the file.
+6) 18) dialog: That's great. Nice to meet you.
+7) 5) dialog: I'm going for a cigarette. I’1l be at the bar. Come find me when it’s over.
+8) 0) text: Steven is talking to Anna, Matthew and an ELDERLY MAN, wh holding a flamboyant cocktail.
+8) 6) dialog: Well, I wouldn’t say no toa cocktail, if you’re still offering.
+8) 9) dialog: It’s early. 14.
+8) 11) dialog: It’s still early.
+8) 13) dialog: Fine, okay. How are the kids?
+8) 16) dialog: (awkwardly) Great.
+8) 18) dialog: Not since last summer. At that school choir concert.
+15) 0) text: Steven pulls off his bloodied surgical gloves. He washes hands and then applies steriliser. Matthew, standing besi him, takes off his disposable hat, gloves, and surgical m and throws them in the bin.
+15) 1) dialog: A friend of mine brought me a huge steelhead the other day. I thought I'd barbecue it. Do you and Anna want to come over for lunch on Saturday?
+15) 3) dialog: Does Anna eat fish?
+15) 5) dialog: I’m only asking because she seems like quite a picky eater.
+15) 7) dialog: Perfect. Then you must come. Tell her I'll be offended if you don’t.
+19) 0) text: Steven and Matthew are standing over the steelhead trout. Matthew is gutting the fish. Steven watches him, drinking ginger beer from a bottle.
+20) 5) dialog: The fish is almost ready. Pass me a plate.
+20) 7) dialog: No, that’s okay. I forgot to tell you. I saw that boy yesterday. Your son’s friend.
+20) 9) dialog: Yes, right. Martin. I couldn’t remember his name.
+20) 11) dialog: At the hospital. He was hanging around beside your car. It looked like he was waiting for you. I said hello, but he pretended not to see me.
+20) 13) dialog: Maybe I was mistaken. But it looked a lot like him. 33 33.
+26) 0) text: Bob is lying inside an MRI machine. Steven and Anna watch from behind a glass window. Dr. Nichols is taking notes. INT. HOSPITAL - PATIENT’S ROOM - NIGHT Bob is sleeping. Anna sits beside him. Steven stands talk to Matthew. There is a second bed in the room, but it is empty.
+26) 1) dialog: You don’t have to operate tomorrow. Cancel everything.
+26) 19) dialog: Do you want me to let them know that you won't be operating tomorrow?
+38) 0) text: Anna is sitting outside Bob’s room, crying. Matthew hugs A nurse comes out of the room, pushing a food trolley. INT. HOSPITAL - PATIENT’S ROOM - AFTERNOON Kim and Bob are lying in adjacent beds. Steven is feeding pieces of fruit. Kim spits them out. Bob watches them, sl opening and closing his eyes. He looks as if he has just woken up. Their dinner plates lie untouched on trays.
+47) 0) text: The medical council is underway. Anna, Steven, Matthew, t Hospital Director and Dr. Nichols are all present, as are VISITING CONSULTANTS. Anna looks defeated. She sits in a chair with her arms folded and watches the proceedings without saying a word. We cannot hear what is being said. watch the scene unfold through a window. 77 78 65.
+49) 2) dialog: Good evening, Anna.
+49) 4) dialog: It’s no bother, really.
+49) 6) dialog: He won’t. I’m listening.
+49) 8) dialog: Of course.
+49) 10) dialog: A gin and tonic, please. The waiter leaves.
+49) 11) dialog: Who’s Jonathan Lang?
+49) 13) dialog: Anna, there have been so many patients over the years, so many operations. I don’t remember him, I’m afraid. I’m sorry.
+49) 15) dialog: I don’t think that will be possible. I’m sorry, Anna. I can’t just take a file from the hospital. Why do you need it?
+49) 17) dialog: Look, I can’t bring you the file but I can tell you a couple of things about the case. I remember him now, I put him under. But what do I get in return?
+49) 19) dialog: When?
+49) 21) dialog: Yes.
+49) 23) dialog: Yes. It definitely wasn’t mine, that’s for sure. You know an anaesthetist is never to blame for the bad outcome of an operation. The surgeon is responsible. He’d had two drinks that morning before we went in to prepare. Luckily none of the others realised, I was the only one who knew. But that wasn’t exactly unusual back then. (MORE )
+49) 25) dialog: You know that. He was drunk during almost every operation.
+50) 0) text: Matthew’s car is parked on a deserted road on the edge of town. There are no pedestrians and very few cars. Anna st straight ahead as she jerks off the anaesthetist. He push his seat back to the reclining position. As soon as he co he pulls the chair forward, starts the engine, and they d off. EXT. STEVEN’S HOUSE - FRONT DOOR - AFTERNOON The front door is open. The children are being carried in the house with the help of two paramedics. Steven seems fairly optimistic as he manically rushes about, supervisi the procedure. INT. KIM’'S BEDROOM - AFTERNOON Kim's bedroom has been rearranged to accommodate both the children’s beds. The room is bright, the curtains have be pulled back to let in the sunlight. Anna changes the feed solution in Bob and Kim’s Levin tubes.

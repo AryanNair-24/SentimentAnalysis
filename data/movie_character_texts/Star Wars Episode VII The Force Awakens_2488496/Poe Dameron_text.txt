@@ -1,0 +1,96 @@
+2) 0) text: CLOSE ON A HAND: a small LEATHER SACK is placed in the pa The hand closes. Another OLDER HAND covers it. In a primitive HUT, an old explorer, LOR SAN TEKKA, (rugg kind) has handed the mysterious sack to POE DAMERON (32, a pilot's jacket). Poe has charisma, a natural spark:
+2) 2) dialog: Well, because of you now we have a chance. The General's been after this for a long time.
+2) 4) dialog: BB-8 ENTERS FRANTIC, BEEPS. Concerned, Poe turns to Lor S Tekka.
+2) 5) dialog: We've got company.
+3) 0) text: The men exit fast. Poe moves TO CAMERA, raises QUADNOCULA POE'S POV: LIGHTS on the horizon -- approaching ENEMY SHI POE lowers the quadnocs -- PUSH IN ON HIS UNNERVED EYES. GROWING, FRIGHTENING THUNDER.
+3) 1) dialog: You have to hide.
+4) 0) text: TRACK FAST with Poe as he and BB-8 hurry through the vill various ARMED VILLAGERS taking position, prepared to defe
+6) 0) text: Poe runs to an X-WING fighter, parked at a distance from village, hidden behind a ROCK OUTCROPPING.
+6) 1) dialog: Come on, BB-8! Hurry! Poe sends BB-8 into the droid socket / co-pilot seat -- h moves to the cockpit -- the CONTROLS COME TO LIFE. As the CANOPY CLOSES, Poe shoots a quick look back: the ENEMY AR IN THE DISTANCE. Poe urgently works the controls -- BB-8 BEEPS. The X-WING LANDING LIGHTS COME ON, ENGINES WHINE TO LIFE! But just then: Poe's ship is suddenly HIT BY BLASTERFIRE! Poe turns to look: two STORMTROOPERS CHARGE HIS WAY, FIRING!
+6) 2) dialog: I see 'em! BB-8 BEEPS nervously as Poe GRABS HIS CONTROLS and FIRES THEM, using the X-wing's drop-down antipersonnel blaster! The two Troopers are BLOWN AWAY in the large BLAST HITS! Poe tries to start the ship now, but the ENGINES SPUTTER. Concerned, he opens his canopy, jumps down, moves to the back of his ship: BAD DAMAGE ON THE REAR ENGINE PANEL. They're in trouble.
+8) 0) text: Back at the X-wing, Poe kneels beneath his ship, pulls fr the leather sack a SMALL, OLD ARTIFACT which he inserts i BB-8 -- the droid's MULTI-READER ENVELOPS it.
+8) 1) dialog: You take this. It's safer with you than it is with me. You get as far away from here as you can. Do you hear me? (BB-8 BEEPS, hesitates) I'll come back for you! It will be alright.
+9) 20) dialog: So who talks first? You talk first?
+9) 22) dialog: 
+9) 32) dialog: ... Apparatus. The Troopers roughly pull Poe away. A Stormtrooper begins brutal PAT DOWN. Kylo Ren moves closer. Poe just glares as the pat down ends.
+10) 0) text: A Stormtrooper climbs down from the cockpit of Poe's X-wi
+13) 0) text: Poe, shackled, is ushered from the transport through the hangar. He is awed by the imposing space.
+13) 1) dialog: All right. All right! Our Stormtrooper passes, moves fast:
+27) 0) text: POE, shackled to a chair, BEATEN, wakes up.
+27) 2) dialog: Not really.
+27) 4) dialog: Might wanna rethink your technique. Kylo Ren says nothing, reaches out to him. Poe flinches i the chair as Kylo Ren reaches for his face, not touching him. Poe is soon in agony, remains in horrible silence --
+27) 10) dialog: The Resistance will not be intimidated by you.
+31) 0) text: The cell door WHOOSHES OPEN -- a STORMTROOPER enters. Poe remains shackled, worse for wear. A TROOPER GUARD here.
+32) 0) text: An exhausted, handcuffed Poe is walked down the corridor the Stormtrooper, who holds a blaster at Poe's body.
+33) 0) text: Heading down the narrow hall the Stormtrooper stops Poe.
+33) 5) dialog: 
+33) 8) dialog: You with the Resistance--?!
+33) 11) dialog: I can fly anything. Why, why are you helping me?
+33) 13) dialog: (it hits him) You need a pilot.
+33) 15) dialog: We're gonna do this.
+34) 0) text: WIDE SHOT ESTABLISHING the hangar. Find FN-2187, again masked, walking with Poe. By all appearances he's escorti a prisoner. A group of OFFICERS passes in the opposite direction.
+34) 2) dialog: I am calm.
+35) 0) text: FN-2187 and Poe (wincing, sore) drop into the back-to-bac cockpit. FN-2187 pulls off his helmet as Poe removes his cuffs and jacket, fires up the ship with excitement.
+35) 1) dialog: I always wanted to fly one of these things. Can ya shoot?
+35) 3) dialog: Okay, same principal! Use the toggle on the left to switch between missiles, cannons, and mag pulse -- use the site on the right to aim, triggers to fire!
+35) 5) dialog: I can fix this.
+41) 1) dialog: I got it!
+43) 0) text: Poe pilots -- amazed, almost enjoying it.
+43) 1) dialog: Woooahhh! This thing really moves. All right, we gotta take out as many cannons as we can or we're not gonna get very far!
+43) 3) dialog: I'm gonna get us in position, just stay sharp!
+45) 0) text: Poe flies toward the CANONS --
+45) 1) dialog: Up ahead! Up ahead! You see it? I've got us dead centered. It's a clean shot.
+47) 3) dialog: I saw it! Hey, what's your name?
+47) 6) dialog: FN-whaa?
+47) 8) dialog: Well I ain't using it! FN, huh? Finn. I'm gonna call you Finn! That all right? Even in the madness, Finn can't suppress his smile.
+47) 10) dialog: I'm Poe. Poe Dameron.
+47) 12) dialog: Good to meet you too, Finn!
+49) 0) text: Massive WARHEAD LAUNCHERS SPIN and FIRE BLASTS toward the TIE fighter, which flies EVASIVE MANEUVERS -- most blasts hit the DEBRIS from the TURBOLASER DESTRUCTION. The TIE fighter then PULLS A BIG TURN, BACK TOWARD JAKKU, THE SANDY PLANET WHERE POE LEFT BB-8.
+50) 1) dialog: One's coming towards you. My right, your left. Do you see it?
+50) 3) dialog: Nice shot. Finn looks up suddenly in alarm --
+50) 9) dialog: We're going back to Jakku. That's where.
+50) 11) dialog: I got to get to my droid before the First Order does!
+50) 13) dialog: That's right. He's a BB unit! Orange and white: one of a kind.
+50) 15) dialog: This one is, pal.
+50) 17) dialog: That droid's got a map that leads straight to Luke Skywalker!
+53) 4) dialog: It becomes clear fast: if Finn doesn't get away, he's gon get sucked in too! So Finn scampers away from the TIE FIG as it SINKS INTO THE SAND! We're in the Sinking Fields. A few moments and IT'S GONE. Finn's out of breath. Horrified. Then A GIANT EXPLOSION ERUPTS FROM below, SENDING SAND AND DEBRIS EVERYWHERE! Finn sees this, disoriented, scared, exhausted and defeat And all alone.
+54) 0) text: ENDLESS DUNES BEHIND HIM, Finn walks, removing pieces of Stormtrooper gear, using Poe's FLIGHT JACKET for shade.
+156) 0) text: It's Poe Dameron at the stick of his X-wing.
+156) 1) dialog: Go straight ahead and don't let these dogs scare you!
+157) 1) dialog: 
+166) 4) dialog: So are you!
+166) 6) dialog: What happened? I got thrown from the crash, woke up at night -- no you, no ship, nothing-- BB-8 BEEPS -- Poe listens, turns to Finn.
+166) 7) dialog: BB-8 says that you saved him.
+166) 9) dialog: You completed my mission, Finn. That's my jacket?
+166) 15) dialog: No, no, no. Keep it. It suits you. You're a good man, Finn.
+167) 0) text: MOVE FAST with Finn and Poe. Finn takes in this makeshift command center, buried deep among vines and roots. They arrive at Leia, who stands with a group of Resistance Officers, including ADMIRALS ACKBAR and STATURA:
+167) 1) dialog: General Organa. Sorry to interrupt, this is Finn, he needs to talk to
+167) 6) dialog: Finn's familiar with the weapon that destroyed the Hosnian system. He worked on the base.
+181) 0) text: Finn, now a member of the inner circle of the Resistance, huddled with the group around the MAP TABLE, which displa a WIREFRAME HOLOGRAM of a ROLLING VIEW OF THE SURFACE OF STARKILLER BASE. With Finn are Han, Leia, Poe, C-3PO, Statura, Ackbar, Brance, SNAP, MAJOR EMATT (60), NIEN NUN and others. An urgent, messy strategy session --
+181) 1) dialog: The scan data from Snap's reconnaissance flight confirms Finn's report.
+181) 13) dialog: I wish that were the case, Major. Poe hits a control. A WIREFRAME OF THE DEATH STAR APPEARS
+181) 14) dialog: This was the Death Star. Poe hits another control -- the Death Star SHRINKS -- AND SHRINKS AND SHRINKS, as the SURFACE AREA OF THE STARKILLE
+181) 16) dialog: This is Starkiller Base. This is news to many here, and they're stunned.
+181) 34) dialog: We'll go in there and we'll hit that oscillator with everything we got.
+181) 50) dialog: So we disable the shields, take out the oscillator and we blow up their big gun. All right. Let's go! And everyone splits.
+203) 0) text: At LIGHTSPEED, Poe pilots:
+203) 1) dialog: Roger, base -- red squad, blue squad, take my lead.
+210) 2) dialog: Almost in range! Hit the target dead center, as many runs as we can get!
+214) 1) dialog: Let's light it up!
+215) 3) dialog: Yeah, we gotta keep hitting it! Another bombing run! Remember, when that sun is gone, that weapon will be ready to fire! But as long as there's light, we got a chance.
+216) 0) text: A BEEPING from BB-8, riding in the back of his X-wing, an Poe looks out -- can't believe what he's seeing: DOZENS O
+216) 2) dialog: Guys, we got a lot of company!
+220) 0) text: The X-Wings DOGFIGHT with the TIE Fighters on the surface the snowy planet. INTERCUT BETWEEN the ships SCREAMING pa each other, and the COCKPITS of the Resistance and First Order fighters. Poe's fighter NEARLY COLLIDES with a clos passing TIE Fighter!
+240) 4) dialog: Red Four! Red Six! Cover us!
+240) 7) dialog: Everybody else, hit the target hard! Give it everything you got! And the X-WINGS DIVE and BLAST the OSCILLATOR --
+241) 0) text: Another two X-wings -- including Poe's -- soar through th trench leading to the oscillator structure!
+241) 1) dialog: I need some help here! I need some help!
+241) 5) dialog: All teams - I'm going in! Pull up and cover me!
+243) 0) text: Poe's X-wing weaves through the breach. A pursuing TIE fighter does not clear the gap, leaving Poe to circle the interior of the unguarded structure, firing volley after volley of torpedoes.
+244) 0) text: The remaining X-Wings -- including Poe's -- BLAST the pla and the structure begins to CRATER, deep underground
+251) 0) text: And we FLY WITH THE FALCON as it leaves the planet -- we see CHEWIE AND REY PILOTING, the COLLAPSING PLANET BEHIND US. The Resistance X-wings, led by Poe, follow the Falcon
+252) 1) dialog: All teams! I got eyes on them!
+252) 3) dialog: Our job's done here. Let's go home!
+254) 0) text: The Falcon has landed among the remaining Resistance ship Poe is there, watching as Chewie scuttles down the ramp carrying an unconscious Finn. Medical Personnel and Offic meet them, usher them inside.
+256) 5) dialog: Yeah, all right, buddy, hold on -- Poe runs over -- removes the ancient data device that Lor San Tekka had given him from a base computer. He inserts back inside BB-8, who then PROJECTS HIS MAP -- which he SHRINKS DOWN TO SIZE -- and the two droids MOVE SLIGHTLY
+260) 0) text: The Millennium Falcon RISES. Leia, with Poe, BB-8, and C-3PO (with his proper arm replaced), watches the next generation of Jedi begin her journey.

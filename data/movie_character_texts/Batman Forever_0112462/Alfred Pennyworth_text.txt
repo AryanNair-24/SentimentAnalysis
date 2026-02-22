@@ -1,0 +1,97 @@
+10) 0) text: Speed and time readouts appear on the windscreen beside the craggy face of ALFRED PENNYWORTH.
+10) 2) dialog: I saw the signal, is. All is ready.
+11) 0) text: Alfred watches the capsule arrive. 31      QUICK CUTS of glove, boot, and cape being donned.
+12) 1) dialog: I suppose I couldn't convince you to take along a sandwich.
+48) 0) text: In his bed, Bruce wakes, trying to blink away the images. Alfred draws the curtains, welcoming rich autumn sun.
+48) 1) dialog: The dreams again, sir?
+48) 3) dialog: It's a wonder you sleep at all.
+48) 4) text: As Bruce sits up, Alfred notices a fresh set of bruises.
+48) 5) dialog: What a marvelous shade of purple.
+48) 7) dialog: Really, sir, if you insist on trying to get yourself killed each night.
+48) 8) text: Alfred picks up Bruce's carelessly-tossed Batsuit from the floor. Ripped, dented, punctured.
+48) 9) dialog: ...Would it be a terrible imposition to ask you to take better care of your equipment?
+48) 11) dialog: Hardly a worry, sir.
+48) 12) text: Alfred brings a robe, holds it out for Bruce.
+48) 13) dialog: Commissioner Gordon phoned. There's been an accident at Wayne Enterprises.
+50) 9) text: Phone RINGS. Bruce hits a switch and a desk video-phone lights into life. Alfred.
+50) 10) dialog: Channel 12, sir.
+50) 11) text: Bruce presses a button and Alfred's image shrinks to a small box in the corner, superimposed atop a TV picture.
+53) 0) text: Alfred stands over a cage of bats. A hand-held scanner producing distance readings. Bruce sits before his Master Console.
+53) 2) dialog: A few hitches sir, but I'm confident we'll have a prototype in no time.
+53) 4) dialog: I believe you said the same thing about the Batmobile.
+53) 5) text: (OVER) a doorbell RINGS. Alfred disappears upstairs.
+53) 7) dialog: Scholarly research?
+53) 9) dialog: If I misinterpreted your interest in the lady, I humbly apologize--
+53) 11) dialog: Apology hastily retracted.
+53) 16) dialog: Your parents' wake. Rain fell like tears.
+53) 18) dialog: I don't know, sir. Your dear parents.  Suddenly gone. So much loss...
+53) 20) text: Alfred hands him an envelope.
+53) 21) dialog: Perhaps it's time you paid a bit more attention to Bruce Wayne. There was no one at the door, just this.
+66) 0) text: As Bruce ENTERS through the open door, Alfred arrives from the other direction.
+66) 1) dialog: Welcome, Master Grayson. I'm Alfred.
+66) 3) dialog: (mouthing) Al?
+66) 6) dialog: Ninety-three, including the sauna.
+66) 12) text: Dick heads toward the door. Alfred slips away.
+66) 21) text: Just then Alfred returns with a tray. Rare London broil. Baby potatoes. Fresh greens. An aromatic feast.
+66) 22) dialog: Oh, is the young master leaving? Pity. I'll just toss this away then. Perhaps the dogs are hungry -
+66) 23) text: Alfred turns, heads up the stairs.
+66) 24) dialog: I'll set this up in the guest suite. Just in case.
+67) 1) dialog: Master Bruce?
+67) 4) dialog: What did you say?
+67) 6) dialog: No. You said I. I killed them.
+78) 3) dialog: May I help you, Master Grayson?
+78) 5) dialog: Master Wayne's dead wives.
+78) 6) text: Dick grins. Alfred watches him go, a wry smile on his face. The coast now clear, he disappears into the secret doorway.
+86) 0) text: A tenement, where a poor family scrapes together their savings on a newspaper ad for "The Box".... 287      An electronics store, where Alfred, at the head line, hands over a check to receive "The Box"... 288      A resplendent household where husband, wife, and each watch individual TV's connected to their own Boxes.
+89) 2) text: Alfred stands in his lab area, trying to disassemble "The Box". He gets the lid off. 293      BOX - CLOSE. The circuitry inside automatically
+91) 6) text: 296      FAVOR Alfred as he shuts off the set, moves into 297      hallway and the locked door to the Batcave.
+91) 7) dialog: (calling out) Master Dick?
+91) 10) dialog: Just checking, young sir.
+91) 12) text: Below, Alfred opens the door.
+91) 14) text: Alfred disappears inside and the door begins to close. Dick leaps the bannister, grabs the chandelier, swings to a large tapestry, slides down and into the passageway as the door SLAMS shut.
+93) 37) dialog: Sorry to bother you, sir. I have some rather distressing news about Master Dick.
+93) 39) dialog: I'm afraid Master Dick has... gone traveling.
+93) 41) dialog: Actually, he took the car.
+93) 43) dialog: Not the Jaguar. The _other_ car.
+93) 45) dialog: _No_, sir. _The_ _other_ _car_!
+97) 0) text: At the marble entrance, the red carpet is rolled out for a pull-out-the-stops party. Over the door, a banner proclaims "Nygmatech -- Imagine the Future." At the curb folks dressed in over-the-top runway fashions, pour from luxury cars, hand off keys to a battalion of scurrying valets. Next car up -- Bruce Wayne's Rolls, driven by Alfred. A valet helps Chase out. She looks stunning. Bruce leans over Alfred before stepping out of the car.
+97) 2) dialog: I shall be near at hand. Should you need me. And sir, I know it's difficult but try and have a good time.
+113) 0) text: Bruce sits in his robe being bandaged by Alfred. Dick is pacing.
+113) 11) dialog: Which `they' might that be, sir?
+113) 15) dialog: Why, indeed?
+113) 17) dialog: Dr. Meridian...
+113) 20) dialog: Perhaps. Perhaps not. Why not ask the lady?
+117) 0) text: Alfred opens the doors to the Trick or Treaters we saw earlier. Hands out bags of candy.
+122) 0) text: Intensely romantic. Filled with live roses, Alfred leaves having served an intimate candlelight dinner to Bruce and Chase.
+122) 27) text: Alfred grabs his candy bags as he opens the door to... 400      The Riddler, Two-Face and the Thugs.
+122) 29) text: He CRACKS Alfred on the head with his cane. Down he goes.
+128) 0) text: Bruce is in bed, head bandaged. Alfred is walking a doctor to the door.
+128) 2) text: Alfred ushers him out, returns to Bruce's bedside.
+128) 3) dialog: How are you feeling, young man?
+128) 5) dialog: Old habits die hard. Are you alright?
+128) 7) dialog: Dick has run away. They have taken Dr. Meridian. And I'm afraid they found the cave, sir. It's been destroyed.
+128) 8) text: Bruce looks up at Alfred, eyes narrow, puzzled.
+130) 0) text: Or what's left of it. Melted ruin and rubble. Bruce stands with a worried Alfred, surveying the landscape.
+130) 2) dialog: Perhaps the fall...
+130) 4) dialog: What?
+130) 6) dialog: Bruce. Son. Listen to me. You are a kind man. A strong man. But in truth you are not the most sane man.
+130) 8) dialog: What?
+130) 10) dialog: No demons, son. (touching his head) Your monsters are here. Until you fact that, I fear you will spend your life fleeing them.
+134) 1) text: ALFRED stands at the entrance.
+134) 2) dialog: Master, Bruce?
+136) 2) dialog: But 1, 3, 1, 8, & 5. What do they mean?
+136) 4) dialog: Recognition, of course.
+136) 8) dialog: Of course. 13 is M....MRE.
+136) 10) dialog: Mystery.
+136) 12) dialog: Enigma.
+137) 0) text: Bruce leads Alfred through a secret stairway.
+138) 1) dialog: What now sir?
+138) 3) dialog: All except the prototype with the sonar modifications you so disapprove of. But it hasn't yet been tested.
+138) 11) dialog: I...um..took the liberty, sir.
+163) 0) text: Chase comes down the front steps to find Alfred waiting with the Rolls, holding the rear door open.
+163) 2) dialog: Mr. Wayne sent me to pick you up.
+164) 0) text: Alfred drives out the front gates of Arkham Asylum.
+164) 2) dialog: He asked me to convey his deepest apologies, Dr. Meridian. But he wanted me to give you this.
+164) 3) text: Alfred hands her a small wicker figure. The dream doll.
+164) 4) dialog: He said to thank you. And to tell you he no longer needs it.
+164) 7) dialog: No, Miss. Not in this lifetime.

@@ -1,0 +1,430 @@
+3) 16) dialog: What?...
+3) 17) dialog: Oh,    the rent... yeah, it's high but    split between the three of us    it isn't that bad, as long as    we don't eat. Nicole laughs.
+3) 19) dialog: Oh hi, Paul, how are you doing? Yeah, sure, I'll take you to Jack. (to Nicole) Excuse me for a minute. They move away.
+3) 20) dialog: You're a lifesaver, I've been trying to get away from that woman
+3) 23) dialog: (in a hurry) He's around somewhere.     Check under all the couches. Paul walks off in Jack's direction. We STAY WITH Peter, who reaches Natalie. She is talking with a very styl- ishly-dressed, tall, young man, CARL.
+3) 24) dialog: Oh Natalie, I've been looking for you all night.
+3) 26) dialog: Deep? Hell no, we were just talking shop.
+3) 30) dialog: We've still got two weeks left before the semi-finals. We'll be ready.
+3) 33) dialog: Oh really?   You've seen it?
+3) 37) dialog: (in a bad mood) Ours is incredible too.
+4) 0) text: The guests are leaving. Commotion in the hall, people are saying goodbye to Peter and Michael. Natalie is about to walk out.
+4) 1) dialog: Natalie, why don't you stay for a nightcap?
+4) 7) text: Good night, Peter.
+4) 8) dialog: (with a forced smile)
+4) 11) dialog: He's an asshole! (mimicking Carl) 'I heard you're not ready yet.' 'We're gonna kick your ass.' Well, we may be behind schedule, but we're still going to beat that sonofabitch and maybe I haven't scored with Natalie yet, but neither has he. She's not an easy lay, that's what I like about her. You know what they say: it ain't over till it's over. Peter and Michael go into the living room. Peter is picking up glasses. Michael is emptying ashtrays into the wastebasket.
+4) 13) dialog: Who's Rosalie?
+4) 16) dialog: Your old friend Sophia appeared and got you involved in a thrilling conversation about modern art, and meanwhile Rosalie...
+4) 18) dialog: Michael, all you want to do is steal Jack's girl friends. You don't give a shit about the women themselves...
+4) 20) dialog: (going into the kitchen)
+5) 0) text: In the kitchen Peter is straightening up. Michael joins him, dumping the ashes. Peter begins washing the glasses.
+5) 1) dialog: Where's Jack?    Did he leave?
+5) 3) dialog: That's not Clementine. I saw him doing his famous routine with Christie...
+5) 6) dialog: Christie's got tits that big, too...
+5) 8) dialog: I'm not. Jack enters the kitchen in very high spirits, singing.
+5) 10) dialog: Yeah, here, I just put it away.
+5) 12) dialog: I thought you were leaving at dawn for South America?
+9) 0) text: In the architecture firm of which Peter is one of three partners. The whole staff, about 15 people in all, is gathered around a large model, the project for a big amusement park. They all seem worried about something. JERRY, one of Peter's partners, seems particularly angry.
+9) 5) dialog: Yeah, but word around town is their project's a piece of shit!
+9) 10) dialog: I'll go bribe the judges!
+9) 12) dialog: Come on, Jerry... A SECRETARY enters.
+9) 14) dialog: I'm not in.
+9) 17) dialog: Hi... yeah... listen, make it quick, I'm in a meeting here... yeah, a package... okay... someone'll drop it off Sunday and pick it up Thursday... No problem ... yeah... we'll put it aside, okay... no, no, we won't tell anybody about it... Is that it?... Right, we won't tell anyone... Hey -- love 'n' kisses to the Brazilian girls, vaya con dios, old buddy. Peter hangs up, laughing.    Jerry gives him a dirty look
+9) 18) dialog: What?
+10) 0) text: Peter, dressed in casual clothes, knocks on the door of Michael's room, and peeks in. Michael is asleep fully clothed on his bed. His drawing table is strewn with papers, overflowing ashtrays and empty coffee cups. The lamp is still on.
+10) 1) dialog: I'm going out for bagels -- how many you want, three or four?
+10) 4) dialog: Eleven-thirty.
+10) 6) dialog: A.M.    C'mon, up 'n' at 'em.
+10) 8) dialog: 
+10) 11) dialog: Well then... nap time's over. Back to work. So how many bagels, three or four?
+11) 0) text: Peter opens the front door, he stumbles over an object, looks down; at his feet he sees a wicker basket lined with pretty pink-and-white checked gingham. In the basket a tiny baby lies fast asleep, her head gently resting on a lace pillow. Peter looks at this object in amazement. There is an envelope pinned to the basket with the words, "FOR JACK" written on it. Peter picks up the letter -- he opens it and reads.
+11) 1) dialog: (to himself)
+11) 3) dialog: Michael!    Michael!
+11) 6) dialog: Get your ass out here and see what's on the doorstep. (mutters)
+11) 9) dialog: Look for yourself.
+11) 12) dialog: No shit. (reads Michael the letter) 'Dearest Jack, here is the fruit of our love. Take good care of her. I have to go to Europe and Japan for six months, her name is Mary. Good luck, Love, Sylvia.'
+11) 14) dialog: Give it back to her mother, that's what.
+11) 16) dialog: Well, we'll see about that, d'you have her phone number?
+11) 20) dialog: You mean you don't know who she is?
+11) 22) dialog: Well, what are we gonna do?
+11) 24) dialog: Oh no, this can't be happening! She's not gonna start to cry now?!
+11) 27) dialog: What's her problem?
+11) 29) dialog: Well, what are we s'posed to do?
+11) 31) dialog: Yeah, but what?
+11) 33) dialog: (exploding) Oh no, I swear to God this is unreal! Can you believe that bastard Jack?! 'A little package,' he tells me on the phone, 'just put it aside till Thursday.' Put it aside -- can you believe him!?
+11) 35) dialog: Yeah and he also said 'don't tell anyone about it -- anyone at all.'
+11) 37) dialog: Yeah, he told me a package would be coming today, but he didn't say it'd be this!
+11) 39) dialog: Just listen to the racket she's making! What are we s'posed to do?
+11) 42) dialog: She lives in Miami for Christsake. She can't stop the baby crying from Miami.
+11) 44) dialog: No, he said not to tell anyone...
+11) 46) dialog: No! No way! You know what a pain that woman is -- she'll be on the next plane here to move in with us...
+11) 48) dialog: No, please -- leave the mothers out of this, okay?! It's only four days. We should be able to handle that, besides you know the rule around here: it's fine to have a woman over once in a while, but... Michael finishes the sentence in unison with him.
+11) 49) dialog: ... never for more than one night at a time!
+11) 50) dialog: And that includes mothers! Peter steps over the basket and heads towards the elevator.
+11) 52) dialog: I'm going to the store to buy some baby food.
+11) 54) dialog: Pick her up and hold her.
+11) 57) text: Whaddya mean, pick her up? I've never held a baby -- I'll drop her! Peter is already gone.
+12) 0) text: Peter enters the store and rushes right over to a store CLERK.
+12) 1) dialog: What aisle's baby food on?
+14) 0) text: Peter is talking with a Safeway CLERK, a woman in her 50's, who is tall and heavy, somewhat gruff and masculine in appearance, and wearing slacks and a smock.
+14) 1) dialog: So what's the best brand?
+14) 4) dialog: Oh right, the pediatrician... But which one sells the most?
+14) 6) dialog: Oh, so this is the best kind?
+14) 8) dialog: Then it's the worst kind?
+14) 10) dialog: (pointing to another can) Oh, okay, then I can take this kind.
+14) 12) dialog: Oh.   Is that good or bad?
+14) 14) dialog: Well, why don't they all have iron in them?
+14) 16) dialog: (pointing to yet another can) Oh, okay, well I'll take this kind then.
+14) 19) dialog: Oh, I see, there's milk with no milk in it?
+14) 21) dialog: So what's the stuff that no babies are allergic to?
+14) 23) dialog: Oh, okay, I'll take the soy formula. He takes a can.
+14) 25) dialog: Oh really?   What's Advance?
+14) 27) dialog: (Peter tries to estimate Mary's size)
+16) 0) text: Now Peter is surrounded by three women arguing: The Store Clerk standing with her arms crossed and haughtily looking down on everyone; an efficient, practical sort of young woman (WOMAN #1); and another thin, pale woman whose baby is lying in a baby carrier in her shopping cart and who seems very nervous (WOMAN #2).
+16) 2) dialog: I haven't looked.
+16) 6) dialog: (embarrassed)
+16) 10) dialog: Teething?
+16) 12) dialog: I know she can't talk.
+16) 15) dialog: (as Woman #2 is starting to get on his nerves) I told you they had to leave unexpectedly.
+16) 18) dialog: So what about me? What should I buy?
+16) 20) dialog: (still calm) No.   They didn't.
+16) 22) dialog: You have no idea how weird.
+16) 27) dialog: Look, ladies, thanks for all the advice. But I think I'll just take one of each. To be on the safe side.
+16) 29) text: Don't forget -- if the baby's less than three months old, you have to be sure to sterilize the bottles. Peter stops and turns back.
+16) 30) dialog: What bottles?
+18) 0) text: In the baby food aisle there are now five women arguing. Peter, his arms still laden with cans, looks uncomfort- able.
+19) 0) text: Peter comes in with bags in his arms. Michael, holding the baby, dashes toward him, extremely pissed off.
+19) 2) dialog: (flabbergasted)
+19) 5) dialog: Will you please cut it out for a second, huh? I didn't have any coffee either, it took me forever at the goddamn Safeway.
+19) 7) dialog: Whaddaya mean, take the kid? I can't hold her and make her bottle at the same time. And why should I be the one to hold her?
+19) 9) dialog: Hey, asshole, I'm the one who found
+19) 12) dialog: Yeah, well you just don't feed a baby. First you gotta look and see if she has any teeth or not.
+19) 14) dialog: To figure out how old she is so we know what to feed her, that's why. Peter attempts to look into Mary's mouth but she squirms.
+19) 16) dialog: How do I know?
+19) 18) dialog: I can't feel anything -- I'll give her the stuff for newborns and hope she's not allergic to it. Peter starts off toward the kitchen, Michael follows.
+19) 19) dialog: And then we'll    have to  see if she's allergic    to iron,  to soy or to milk --    you can't  imagine how much stuff    they can  be allergic to!
+19) 21) dialog: Diapers?
+19) 24) text: Figures. I'll take care of this, it'll save time. He sticks Mary in Peter's arms, right on top of the bags, and storms out.
+21) 0) text: Mary, in Peter's arms, is devouring her bottle.
+21) 1) dialog: Oh shit, my slacks! Goddamn her, she took a crap!
+22) 0) text: Peter and Michael have laid Mary down on the couch, taking care to place several towels between her bottom and the immaculate velvet. Mary is squirming, laughing, feeling great. They have already gone through half a box of cotton in their attempts to clean up the crap. But it's still all over, on their hands, on the baby's feet and legs, on the towels, etc.
+22) 1) dialog: Hold her.   Hold her, goddamn it!
+22) 3) dialog: Just gimme the cotton. Michael lets go of Mary's feet and she sticks them back in the crap.
+22) 4) dialog: Oh for chrissake, don't just let go of her!
+22) 6) dialog: Take the towels off -- They're full of shit.
+22) 8) dialog: Yeah, but she keeps getting it all over herself. Man, this shit is sticky!... We need cleaning fluid or something to get it off...
+22) 10) dialog: Are you kidding?! Waste our Saint Laurent on babyshit?
+22) 13) dialog: Right. Michael hands him a diaper.        Peter tries to figure how it goes on.
+22) 14) dialog: These tape things -- do they go on the front or the back?
+22) 16) dialog: Hold her under her arms -- I'm gonna try it this way. Michael holds Mary under    her armpits.     Peter tries the diaper on her. It's     hard. What's     more, it wou seem that Michael didn't    buy the right    size -- The diaper comes all the way    up to Mary's    chin.
+22) 17) dialog: What the hell kind of lousy stinking diapers did you get? They're way too big!
+22) 19) dialog: How the hell do these tape things work? Hold her for chrissakes!
+22) 21) dialog: There.     I got it. He tapes the diaper closed.
+22) 22) dialog: Damn it.     I didn't make it tight enough.
+22) 25) dialog: Go ahead... No, not on the towels, they're all covered with crap... Michael lays Mary down right on the couch. Peter vigor- ously undoes the tape, and the whole PLASTIC lining RIPS apart.
+22) 26) dialog: ... What the hell is this friggin' mess? Oh, man, this is unbelievable! To think, they bombard us day and night with their goddamn TV commercials! And will you look at this junk? This stuff is pure shit -- You tape it closed, it sags, you undo the tape: bingo -- the whole goddamn thing falls apart!
+22) 29) dialog: Michael, will you give me a break, will you please? Peter takes the torn diaper off. MARY utters a TINY CRY and pees copiously all over the velvet couch.
+22) 30) dialog: (exploding)
+22) 32) dialog: I happen to like my furniture. I'm going out to get some real diapers.  You can clean the couch up in the meantime. He exits, slamming the door.
+24) 0) text: Mary is wearing only a diaper.   Peter wraps her in one of his sweaters.
+26) 0) text: Peter is cutting apart a plastic bag and lining the bottom of the basket with it as a protective sheet.
+28) 0) text: Peter is rocking the basket by its handles to put Mary to sleep.
+30) 1) dialog: (on the phone)
+31) 0) text: Michael and Peter are finally drinking a cup of coffee at the kitchen table. In silence.
+32) 0) text: Peter and Michael are standing beside the basket.   MARY is SCREAMING; they are bewildered.
+32) 1) dialog: Maybe she's allergic to something?
+32) 3) dialog: Already?
+33) 0) text: Peter is making the bottle, Michael is holding MARY, who is CRYING.
+34) 0) text: Mary is in Peter's arms voraciously sucking her bottle. He watches her.
+36) 0) text: Peter is about to lay Mary down in her bed.    He puts hi
+36) 2) dialog: Oh shit, she's soaking wet again.
+37) 0) text: Michael is rinsing out Peter's sweater.
+38) 0) text: On the couch, Peter is struggling with the diapers.
+41) 0) text: Michael and Peter are in the doorway.    A stormy argumen is going on.
+41) 2) dialog: I told you -- I have a date.
+41) 4) dialog: Look, it's with Natalie -- I've been after her for months already.
+41) 6) dialog: You're a real drag, y'know? Tonight was gonna be my big night! Now I bet it's gonna be Carl's big night.
+42) 0) text: Peter is making a phone call.   He has Mary in his arms. He's in a foul mood.
+42) 1) dialog: Hello, Natalie? It's Peter. Listen, I'm really screwed. Jerry just called and we've run into a snag with the blueprints for the competition, it's an emergency. I've gotta go over to the office right away, I think it's gonna be an all-nighter... Of course I didn't know about this yesterday -- he just called me. Mary reaches out and begins to jab the buttons on the phone. Peter pulls her back.
+42) 2) dialog: Hello? Hello?... No, I'm not trying to hang up on you. We're having some problems with the phone, that's all... No, Natalie, there's no one else here! You're the only woman I... I swear I'm not lying to you... What? You're going to call Carl? (furious)
+43) 0) text: Peter and Michael are silently eating sandwiches at a corner of the kitchen table. Peter is fuming. Michael glances at him out of the corner of his eye.
+44) 0) text: Michael, completely zonked, is changing Mary as best he can. Peter sits, waiting, on the couch.
+45) 0) text: Peter is rocking the basket, as if in a trance.   Michael
+46) 0) text: Peter is talking on the phone.   He has Mary in his arms.
+46) 1) dialog: (on the phone)
+46) 2) text: Jerry, hi, it's Peter. Listen, I've run into some problems, I can't make it today... (holding the receiver at arm's length from his ear)
+47) 0) text: Peter, wearing a coat, enters carrying packages that he puts down in the living room, now transformed into a nursery. A makeshift changing table, rubber wash basin, baby clothes, baby lotion, talcum powder, soap and baby shampoo, etc. are all over the place. He drops all his purchases on the floor, sits down on the couch and picks up a book, in which he's instantly absorbed: we see from the cover that it's a book on children.
+48) 0) text: Peter is lying on his bed now surrounded by dozens of baby-care books. Many of which are open. He's reading them with great passion, and making notes.
+50) 0) text: The living room is a total mess. A harrassed Peter, lying on the floor, dreamily watches Mary who is lying on her tummy in a sheet, playing with a SQUEAKY RUBBER GIRAFFE. They look at each other, as sober as judges.
+51) 0) text: Peter and Michael are asleep in their bathrobes on the living room couches. Peter has a child care book over his face. MARY, in her basket, wakes up and utters a FEW LITTLE NOISES. The two men jump up and go over to her basket like robots. Mary looks at them and smiles.
+53) 3) dialog: All he said was Thursday.
+53) 5) dialog: Well, I'm prepared to rot here till midnight if I have to, as long as we get rid of her.
+53) 7) dialog: Well, when he does call, I'm gonna let him have it! That sonofabitch is on the beaches of Brazil proposing to the whole goddamn world. And we're here living in hell! He's gonna get his ass on the next plane back here. Vacation's over, Jack-baby, you better believe it.
+53) 11) dialog: Oh hell!
+54) 0) text: On the street two men drive by on a motorcycle looking at the numbers on the apartment buildings. They stop a few yards from the entrance to Peter, Michael and Jack's building.
+55) 0) text: Peter and Michael are still sitting on the living room couches. The DOORBELL RINGS. Michael springs up and runs to open the door. Peter follows him. On the    doorstep stand the TWO PUNKS. One of them is short    and speaks with a heavy Brooklyn accent. The other,    tall, thin and creepy-looking, stands behind hi buddy    and doesn't speak.
+55) 4) dialog: Package? Oh that's cute, referring to her as a package! Anyway, you can tell Sylvia she's a lousy stinking bitch.
+55) 6) dialog: Yeah, Sylvia! You can tell her she's got a hell of a nerve dumping her problems into our laps!
+55) 11) dialog: Do you have any idea what it's been like around here for the past four days?
+55) 15) dialog: Well, anyway, they're here now, that's all that matters! Peter turns and walks toward the basket.
+55) 16) dialog: The next bottle's in 45 minutes. I made it already. It's in the basket.
+55) 20) dialog: (sarcastic) No, it's a very short teenager. Of course it's a baby! Now listen carefully: I'm giving you a can of the milk she's been getting. She loves it, and more importantly,
+55) 23) dialog: Yeah, right... real clever... Okay, here. She's all yours. Good luck. He hands them the basket.    Punk #1 grabs the handles.
+55) 25) dialog: Take what out?     I'm not taking anything out.
+55) 27) dialog: Whadda ya mean, what's inside?
+55) 38) dialog: (suddenly a little worried)
+55) 41) text: Oh shit, I don't have it on me... But I'll call you. Okay, so long! PETER &amp; MICHAEL
+55) 42) text: So long! The elevator has arrived.    The Punks quickly slip insid it with the basket. Michael closes the door. Peter plops down in the armchair by the front door.
+55) 43) dialog: Aah, relief at last!    Good riddance!
+56) 1) dialog: (holding the package)
+56) 4) dialog: Was this package delivered to you?
+56) 6) dialog: When the hell did this package arrive?
+56) 8) dialog: (screaming even louder)
+56) 11) dialog: Holy shit!
+56) 13) dialog: This is the package those guys came for, not the baby, you asshole.
+56) 15) dialog: Look out the window and see if you see them, I'm gonna try to
+56) 17) dialog: Goddamit! He opens the door leading to the stairs and races down them, holding on to the bannister. He flies, overwhelmed by anxiety. Suddenly he trips, loses his balance and makes a spectacular crash landing. The package gets a bit crushed, and little individual packets of white powde spill out of it. Peter stares at them in horror.
+56) 18) dialog: What the hell is this? He picks up a few packets and examines them.
+56) 19) dialog: Oh, God, no... dope!    That's all we need! He starts to tremble  with fear. He picks the packets up as fast as he can and  hastily puts them back into what's left of the package;  then shoves it all into his pocket and continues racing  down the stairs.
+57) 8) text: Goddamn hook! Christ, what a stupid idea hiding the shit with this kid. It's ridiculous! Peter comes rushing out of the building.
+57) 9) dialog: (huffing and puffing) Oh, thank God, you're still here! There's been a terrible mistake. That wasn't the package you were s'posed to take. It was another one. I have it right here.
+57) 11) dialog: I'll take the basket back and give you the other package, here. No mistake. Peter takes the package from his pocket and is about to grab the basket. Punk #1 pushes him back violently.
+57) 13) dialog: But I'm tellin you it was a mistake...
+57) 16) dialog: (panic-stricken, in an equally low tone)
+57) 21) dialog: But I'm telling you, I've got the real package in my pocket.
+57) 32) dialog: No, really, Officer, they weren't gonna drive off with it -- They were just watching it for me while I was doing a quick errand. (to the Punks) Thanks, guys. Punk #1 gives him a dirty look.
+57) 37) dialog: (urbanely) Listen, Officer, let's stay calm now. I haven't the slightest intention of running. I am not a criminal. I'm an architect.
+57) 41) dialog: I'm terribly sorry, Officer, but I don't have any identification on me. I just came down with my baby to run a quick errand. I haven't committed any crime.
+57) 43) dialog: Oh, c'mon, that's impossible -- you see I have a baby. I have to give her a bottle in fifteen minutes, I can't go anywhere. I live right in this building -- let me go up to my apartment and I'll get you my license immediately... You can even come with me if you like...
+58) 0) text: The elevator doors open, Peter and Cop #2 exit.
+58) 1) dialog: (key in hand)
+58) 5) dialog: Michael... Michael... we're in deep trouble. The package... The package...
+58) 7) dialog: There's a cop on the doorstep... He didn't see you... He mustn't see you... We're in deep trouble, Michael...
+58) 9) dialog: The package  they came for wasn't the baby, it  was dope, drugs, a shitload of  dope! We were stopped by some cops  down on the street.
+58) 12) dialog: No, it's right here. He takes out the package.
+58) 14) dialog: We'll get twenty years if the cops find this on us! Climb down the fire escape and hide it... anywhere! Michael takes the package, opens the window and starts to climb out it when Peter stops him.
+58) 15) dialog: Hey, whatever you do,   don't lose the goddamn dope, we   gotta be able to return it to   those dealers or we're dead. Those    guys are serious.
+58) 18) dialog: Here's my license.
+58) 20) dialog: Narcotics squad? What do they want with me? I don't even use aspirin!
+61) 0) text: Michael comes into the living room with his box of diapers and a bag of groceries. In addition to the two cops there are now THREE NARCOTIC AGENTS who are interrogating Peter. He is holding Mary. The basket is on an armchair.
+61) 2) dialog: Don't worry, Michael, it's nothing serious, just a little misunderstanding.
+61) 4) dialog: Yeah, I just gave it to her.
+61) 7) dialog: No, she's soaking wet.
+62) 2) dialog: He's my roommate.
+62) 5) dialog: No, you don't see. There are three of us sharing this place.
+62) 7) dialog: It's 'menage'... and it's not. We all have lots of girlfriends, thank you.
+62) 9) dialog: He's a cartoonist.
+62) 11) dialog: He's a pilot.
+62) 15) dialog: No.   Never.   Only North America. The PHONE RINGS.
+62) 17) dialog: Not at all, go right ahead.    I've got nothing to hide. Agent #1 picks up the phone and listens.
+62) 19) dialog: Yes, it is him. Agent #1 hands him the phone.
+62) 20) dialog: Hello, yes, operator, I accept the charges. Agent #1 gestures to Agent #3 to take a look around the apartment. Agent #3 slips away.
+62) 22) dialog: Please, go right ahead. Agent #1 picks up the other telephone.
+62) 23) dialog: Hello, Jack? Fine, yeah. How're you? Yeah, he's fine, too. Yeah, we left a message for you, right... No, it was nothing
+62) 25) dialog: (loud)
+62) 26) text: I said everything's fine! The what?... I don't know what you're talking about... Oh yeah, the package! Yeah, yeah, it got here ... and was picked up, uh-huh. Hey! Why didn't you call sooner? Huh? 'Cause what?... Oh, you're onto something hot -- well, aren't you the lucky one!... So when are you getting married?... Forget it, I was just kidding... Well, everything's fine up here. So have a good time. See you in a couple of weeks. 'Bye. Peter hangs up.   So does Agent #1.
+63) 4) dialog: (pointing)
+63) 9) dialog: It's Jack's daughter.
+63) 11) dialog: Because her mother's in Europe for six months, and since Jack had to be away for two weeks, I took my vacation to take care of her, I love kids.
+63) 16) dialog: (in a low tone) Christ, what a mess! They'll be on our tails around the clock! How the hell are we gonna get rid of the goddamn dope?! By the way, where is it?
+63) 19) dialog: Where? Michael points to Mary's bottom.
+63) 20) dialog: Huh?
+63) 22) dialog: Are you out of your mind??
+63) 25) dialog: I told the cops we were taking care of her. You realize we're now stuck with the kid till Jack
+63) 28) dialog: And that's not all -- we haven't heard from the punks yet either!
+64) 0) text: Hidden within a parked car, three men are keeping a close watch on the entrance to Peter, Michael and Jack's build- ing. The two uniformed cops emerge, get in their car, and pull away.
+65) 1) dialog: (on the phone; things are heating up)
+65) 4) dialog: (yells)
+65) 8) dialog: You're going now?
+65) 10) dialog: Terrific, just terrific! Jerry just called: I have to go to the office right now.
+65) 12) dialog: There's no way. I can't, he's suicidal. Why don't you call Oxman and tell him you'll be there in a few hours.
+65) 14) dialog: Oh shit, I can't take this anymore!
+65) 16) dialog: Good idea!    Let's go.
+66) 0) text: Peter and Michael get out of the elevator on Mrs. Razzolini's floor. They each are holding one of the handles on the basket. They are walking quickly. Suddenly Michael stops Peter.
+66) 6) dialog: Oh shit! We sure as hell can't hand her the baby with an ass full of dope... right in front of the narcs! The elevator has arrived meanwhile.
+66) 7) dialog: (breaking down) What should we do? I really gotta go...
+66) 9) dialog: Yeah, you're right, we won't be long. They rush into the elevator.
+67) 0) text: The three men, slumped in their car, are watching the door of the apartment building. The three narcotics Agents emerge from the building and walk away. A short time goes by. Peter and Michael emerge from the building and quickly walk away. The three men get out of their car, cross the street and enter the building.
+68) 0) text: Peter comes out of the elevator, key in hand. He's about to put it in the lock on the door, but stops short -- the door is already open.
+68) 1) dialog: Michael?   Michael, are you here? No answer. Peter pushes the door open. The sight that greets his eyes is very dismaying. It looks like a tornado has hit the house. Everything's on the floor, it's all been smashed, it's all been ripped apart. Gone is the beauti- ful apartment that had been so lovingly decorated. In its place, utter devastation and shambles. Peter stands there speechless for a moment, then an awful thought crosses his mind. He runs like crazy into his room -- the basket's not there. Stepping over the debris and all the things strewn over the floor, he rushes into the living room, then into Michael's room. The basket's nowhere to be seen. Peter falls apart; without even realizing it, he's moan- ing and muttering distractedly. He runs into Jack's room, into the kitchen, into the bathroom. The basket is nowhere to be seen. Peter runs all over, back and forth ten times in all the rooms. Tears are flowing from his eyes. Suddenly, he hears FAINT CRIES.   They're coming from the back bathroom. Peter rushes to   it, practically ripping the door from its hinges. There   on the toilet is the basket, and on it there's a note  written in big messy printing which says: "NEXT TIME   WE TAKE HER." Mary looks at Peter and smiles; she seems in great shape. A distraught Peter picks her up, hugs her tightly and kisses her all over as he takes her into his room. Just then, Michael appears in the corridor, silent and
+69) 0) text: The debris has been shoved up against the walls. Peter and Michael, in their pajamas and dead tired, are slumped over the table. Peter is giving Mary her bottle. Michael is looking at Mary as though he were seeing her for the first time.
+70) 0) text: Peter is in bed, completely out of it. Michael is changing Mary very carefully. He puts one diaper on her, then the second one, full of dope. He lays Mary down in her basket, then places the basket on the bed, nestled between the wall and Peter's body. Michael, holding the soiled diaper, silently goes out. Once he's alone, Peter leans over the basket. Mary and he stare at each other intently and seriously. Peter switches off the light.
+71) 9) text: Oh, really? Well, if I were you I'd get myself some new friends! Peter comes in, in his bathrobe, furious.
+71) 10) dialog: What the hell are you guys looking for, anyway?
+71) 12) dialog: You mean the chocolate Easter bunnies? We ate them already. He starts to walk away.
+71) 13) dialog: Anyway, you have no idea how many packages we've been getting lately. It's hard to keep track of them.
+72) 0) text: Peter is in bed, with the basket beside him. A narcotics AGENT is rummaging through his scattered belongings.
+72) 3) dialog: (big smile)
+72) 4) text: My pleasure. Try not to make a mess. Peter gets up, takes the basket off the bed and keeps it in his hands. The Agent searches the bed.
+72) 6) dialog: Be my guest. He picks up Mary with her huge diaper.   The Agent searches the whole basket.
+73) 5) text: So do we. Michael closes the door and races into the living room where he discovers Peter putting on his jacket.
+73) 9) dialog: Bullshit, it's a trick.
+73) 11) dialog: They just said that to put us off guard. They saw the condition this apartment's in.
+73) 12) dialog: They know the punks were here looking for the dope and that they probably didn't find it. So that means we've still got it.
+73) 14) dialog: Okay, let's just see how closed it is. I'll go downstairs. You watch out the window and see if I'm being tailed.
+74) 0) text: Michael is peeking out at the street from the window above. Peter comes out of the building and turns left, walking very quickly. Suddenly, Peter stops, turns     around and retraces his steps. We can clearly see a      man, who was walking abo six yards behind Peter on the     opposite side of the street, also turn around and     retrace his steps. It is Graton.
+75) 1) dialog: (entering)
+75) 4) dialog: I knew it. They're going to be watching us around the clock.
+75) 7) dialog: We'll have to be very careful.
+77) 0) text: Not far from Peter, Michael and Jack's building, Graton, in his car, is talking into the microphone of his police radio.
+78) 0) text: Peter and Michael are seated in the living room, which is still an utter wreck. They can't take their eyes off the phone that's between the two of them. They are sitting silently, not moving. Mary is playing in her basket. The PHONE RINGS.   Peter and Michael both jump three feet in the air. Michael picks up the phone.
+78) 3) dialog: Gimme that. (he grabs the receiver out of Michael's hand)
+78) 9) dialog: So hurry home, Jack, this little doll can't wait to see you. 'Bye. He hangs up.
+78) 10) dialog: (in a furious temper)
+78) 14) dialog: (equally drained)
+78) 17) dialog: I don't think that's legal, is it?
+80) 6) text: Michael!... Peter -- where the hell are you, for Chrissakes? He runs like a madman into Peter's room and stops short on the threshold. Michael and Peter are each holding a handle of the basket as they rock it gently.
+80) 8) text: What the hell is going on around here? What happened to this place? What happened to my room? Peter and Michael look him right in the eye, still rocking the basket.
+80) 15) dialog: (very calmly) Would it be asking too much of you to shut your big mouth for a few seconds? There is a child here who's trying to sleep.
+80) 17) dialog: (softly) Michael, please hold me back... or I'll kill him. Michael takes the basket handle from  Peter's hand, place the basket carefully on the bed, and  walks without a wor towards Jack, who he takes by the arm  and steers into th living room. Peter softly shuts the   door behind them an follows.
+81) 3) dialog: (his fuse has blown, laughing hysterically)
+81) 6) dialog: We haven't had a decent night's sleep in two weeks. Michael's probably going to lose a $15,000 contract...
+81) 9) dialog: First, we've got the    narcs on our ass, then there's the    drug gang threatening to carve    us up. Then bottles... bottles...    every three hours, bottles.
+81) 12) dialog: 'La Paz, Bolivia...' He calls from ... 'I'm onto something hot.' He says. 'Did the package get there?' He says. You asshole!
+81) 14) dialog: (cutting him off; embarrassed)
+81) 17) dialog: For your information, the 'fucking' baby's name is Mary. And if I were you, I'd watch what I said about her... because she just so happens to be your daughter!
+82) 0) text: Peter is slicking his hair back with Brylcream. Jack is sitting on the edge of the bathtub, with his arms crossed. He observes Peter silently.
+84) 0) text: Peter is giving a tousled-looking punk hairstyle to Jack, who is looking at himself in the mirror.
+84) 2) dialog: You look completely ridiculous -- so what?
+85) 0) text: MARY, wearing a bonnet and coat, is lying on one of the couches, CHIRPING merrily. Next  to her, also in his coat, Michael is just finishing wrapping a brown package which he puts in a plastic bag, along with a book, a baby rattle, and a clean diaper. Peter and Jack, disguised as punks, each with punk hairstyles and wearing black sunglasses, are climbing out the window leading to the fire escape.
+87) 9) dialog: What's the problem?
+87) 16) dialog: Yeah, I hear it's nice there this time of year.
+89) 0) text: In the devastated living room Peter, still disguised as a punk, and Michael, both very high, are dancing around in circles with each other and laughing. They are singing a lullaby at the top of their lungs, and har- monizing. Peter is holding Mary close, and Michael, holding a near-empty bottle of liquor, staggers over to him and starts turning around in circles with him. MARY, snuggled up warmly between Peter and Michael, is LAUGHING her head off. In the b.g., in the hall, Jack, also still in his punk getup, is on the phone. He's got a glass in his hand and is a little smashed.
+94) 0) text: Peter is returning from work.
+94) 1) dialog: Anyone home? Michael is in the living room, eating a sandwich, while looking through a magazine.
+94) 4) dialog: How 'bout Jack?
+94) 6) dialog: Oh, yeah. He's got a lot of nerve! Leaving us with the kid again...
+94) 8) dialog: (furious) You're kidding! That son-of-a- bitch!
+94) 10) dialog: Oh, I'm telling you, that guy is really starting to get on my nerves!
+94) 12) dialog: Goddamn him! He really could have called me!
+94) 14) dialog: (exasperated) Of course not! What, are you crazy? I'm relieved! Thank God she's out of here!
+94) 16) dialog: 
+96) 0) text: Jack comes in with the basket; he's in a vile mood. He's got a bottle ready in his hand. Peter, who had been working in his room, rushes to the hall.
+96) 1) dialog: You're bringing her back?
+96) 3) dialog: So what happened? Did you two have a fight?
+96) 6) dialog: Didn't she want to take her?
+96) 8) dialog: 
+97) 3) text: Oh, yes, I was expecting you. Won't you come in... They disappear into the living room. Jack shuts the door behind him. Michael peeks into the hall, then goes and looks into the living room through the crack in the door. Peter, too, peeks in.
+97) 4) dialog: Who is it?
+97) 11) dialog: (returning from the kitchen)
+97) 14) dialog: Don't go into my room, she's asleep.
+97) 16) dialog: No, damn it, no! You're gonna wake her up! It already took me an hour to sing her to sleep...
+97) 18) dialog: All right, I'll go explain the situation.
+97) 20) text: No, no, Peter, please, really, don't go, don't bother, I'll go explain it to her myself...
+97) 21) dialog: It's no bother, Jack.    I'll be glad to do it. He rushes toward the living room.
+98) 1) dialog: ... A sleeping child should not be awakened. If you don't know that, then you're not fit to be a nanny.
+98) 5) dialog: 'Round-the-clock'? Whaddya mean 'round the clock'? Are you intending to sleep here?
+98) 7) dialog: And where are you going to sleep?
+98) 9) dialog: Well, I don't know where Jack intends to stick you... That's his problem... Maybe in his room... But I'm warning you, Mrs. Brestshow.
+98) 11) dialog: There are three of us sharing this place and we're all real studs.
+100) 3) dialog: Oh, yeah?   How do you figure that?
+100) 5) dialog: Well, listen, Mrs. Fretsaw, umm... Brainsore...
+100) 7) dialog: Right... Bratsnot, lemme tell you something. With a child you always know who the mother is, but the father -- that's another kettle of fish. So don't give me that bullshit, okay?
+100) 9) dialog: What for?
+100) 11) dialog: What do you mean, make you a list? -- Don't you do the shopping yourself?
+100) 13) dialog: We have plenty of everything.
+100) 15) dialog: She only eats milk and cereal.
+100) 18) dialog: Oh that's bullshit. You don't feed a baby like an adult.
+100) 20) dialog: I've read plenty of books. The diet recommended by those quack pediatricians today is way too rich. I'm in favor of natural methods, Mrs. Breathmint.
+100) 22) dialog: For instance, if a child is having trouble getting to sleep, what would you do?
+100) 24) dialog: (exploding, triumphantly) I knew you'd say something like that, you jerk!
+100) 26) dialog: Do you know the song that goes 'Medicine's a whore and the pharmacist is her pimp'?
+100) 29) dialog: Mrs. Breakballs, if you don't get out of here right this minute I'm gonna punch you in the nose! This is my home, now get out!
+102) 2) dialog: (pretending to play the violin)
+102) 6) dialog: Well, you'll have to ask to fly the New York-Washington shuttle for five months, on account of serious personal problems.
+102) 8) dialog: (barking) Then dump her in an orphanage, 'cause there's no way we're gonna take care of her all by ourselves anymore!
+102) 12) dialog: What if she gets up at night?
+102) 15) dialog: Not a    chance! I'm not doing the night    shift. I absolutely refuse. I have    too much work to catch up on for    the competition.
+102) 18) dialog: You know, Jack, you're a real slime ball! We give you the easiest shift: the morning. She's always in great shape in the morning, isn't she? We've got to work like crazy to save our jobs and you have the nerve to refuse nights. Goddamit, she's your daughter. Are you that horny?
+105) 3) dialog: 
+105) 6) dialog: I'm telling you, the more you pick her up, the longer it'll take her to get to sleep.
+105) 8) dialog: (in a state of shock)
+105) 11) dialog: Can you believe what he just said to me... I read those books bec...
+105) 14) text: I'll rock her for a few minutes... (to Peter)
+106) 3) dialog: Hi, Michael, I just came back to get a file I forgot... Michael stops his baby-talk immediately, as though sud- denly paralyzed, embarrassed, guilty. Peter enters the room.
+106) 4) dialog: Everything okay?
+106) 7) dialog: (not moving)
+106) 11) dialog: The baby okay?
+106) 13) text: Yeah, okay. Peter exits.
+107) 0) text: Peter enters the bathroom. He's carrying Mary, who's naked and wrapped in a towel.
+108) 7) dialog: (in a soft voice)
+108) 13) dialog: No, her back teeth must be starting to bother her...
+108) 16) dialog: Try and put her back to bed; we'll sing. Jack puts Mary back to bed. Michael, as a routine, sings a major chord, giving each of them their notes. They start singing a lullabye in three-part harmony, as they lean over the crib. Mary is in seventh heaven. She looks up at them, she stops crying, she sucks her thumb.
+109) 5) dialog: (hissing) Who the hell's that broad?
+109) 7) dialog: Can't she speak softly like everyone else?
+109) 11) dialog: Yeah, you're right, I'm fed up with it, too!
+109) 16) dialog: I don't mind getting up, that's not the point...
+109) 19) dialog: You can bring whoever you want as long as they speak softly like everyone else!
+109) 21) dialog: Yeah, you can say that again!
+110) 0) text: Peter, Michael and Jack have guests over for dinner. CLASSICAL MUSIC, a very fancy table, candles: they're at the tail-end of the dinner, before dessert. Everyone is very fashionably dressed. Natalie is sitting between Peter and Carl. Jay and Jerry, Peter's partners, are also there with their wives. Michael and Sophia are having a vehement discussion as usual, Jack is between two gorgeous models: CHRISTIE and CAROLINE.
+110) 2) dialog: No, I haven't had the time lately.
+110) 9) dialog: (whispering to Natalie)
+110) 12) dialog: Oh, c'mon -- I love him! Only, I'd like to see you alone for once, that's all.
+110) 14) dialog: Well, we'll see about that. Jack returns to the table.   Peter's eyes follow him nervously.
+110) 21) dialog: Save room for dessert -- it's a three-tiered cake from Balducci's!
+110) 27) dialog: Umm, it's made with whipped cream and loads of nipples on top -- I mean, loads of... raspberries ... I'll be right back... Peter rushes out of the room. Michael and Jack exchange glances. The CRYING CONTINUES.
+111) 1) dialog: Try and put her back to bed...
+111) 3) dialog: I'm sure she's cutting a tooth...
+111) 7) dialog: You two go... I'm staying with her. It can't be worse than listening to Carl.
+112) 4) dialog: (muttering)
+112) 10) dialog: There's too much noise. He shuts the MUSIC OFF.   MARY keeps on SCREAMING.
+112) 11) dialog: (to everyone)
+112) 13) text: Give her to me, I'll try and calm her down. Peter takes MARY on his lap.    The SCREAMING CONTINUES.
+112) 18) dialog: She's in Europe, she'll be back in a few days.
+112) 25) dialog: We already tried...
+112) 34) dialog: What?
+112) 38) dialog: What?
+112) 41) dialog: What?
+112) 43) dialog: Well, she's not the only one with a limited conversation. At least she has an excuse, she's a baby! What's yours?
+112) 45) dialog: I mean, I've been listening to your pompous drivel about the latest trends for the last two hours, and frankly, it's a crock of horseshit.
+112) 49) dialog: (totally out of control) You motherfucker, get out of here! Get out of my house right now or I'll kick the shit out
+112) 53) dialog: (beside himself)
+112) 92) text: Peter! Peter, goddamit, get out here! Peter comes back in with Jack.
+112) 95) dialog: Who gives a shit, they're all jerks anyway.
+112) 98) dialog: I can't stand kids either but that's not a reason to leave! Dipshits, they're all a bunch of dipshits, every one of 'em.
+112) 101) dialog: (pissed off) Hey, you're the pain-in-the-ass! First you dump a baby on us, then you scare everyone away from the party, then...
+112) 103) dialog: Listen, we all have two full-time jobs! That's for sure!
+112) 107) dialog: If she's not back by the end of next week, I'm kicking her kid out!
+112) 110) dialog: And you can tell her we have a lot better things to do with our lives than wipe a baby's ass, goddamn it! He exits. So does Jack. Michael is buried under the three-tiered cake, unable to see around it.
+114) 0) text: Mary is in her playpen, playing with a SQUEAKY rubber giraffe. The DOORBELL RINGS. Peter opens it: standing there before him is a very, very, young, gorgeous girl.
+114) 3) dialog: (completely dazed)
+114) 7) dialog: (as if he were dreaming)
+114) 10) dialog: Oh, yeah, sure, she's in there... They both enter the living room. Mary stares at Sylvia. When she spots Mary, Sylvia suddenly breaks down in tears Peter is dumbfounded.
+114) 15) dialog: (still in a fog) Oh, yeah... make life difficult for Jack...
+114) 18) dialog: What?
+114) 20) dialog: (snapping out of it)
+114) 21) text: Oh, yeah, yeah, I'll go get him... He exits like a sleepwalker and goes straight into Michael's room. The latter is asleep. Peter sits down on the edge of Michael's bed and gently shakes him.
+114) 22) dialog: Michael, Michael... Sylvia's here. Michael wakes up and looks at Peter.
+114) 23) dialog: Mary's leaving.
+115) 0) text: Peter's giving Mary her bottle, Jack is carefully putting all her stuff into a bag -- bottles, nipples, cereals, etc. In the doorway Sylvia, with reddened eyes, silently watches them.
+115) 10) dialog: No, I have to burp her first. With dexterity, he places Mary face down on his shoulder and walks around in the kitchen, patting her on the back.
+116) 0) text: A taxi is there. Behind the    wheel the driver sits waiting. Sylvia is sitting    in the back, on the side nearest the sidewalk, and on   her lap is Mary, whom she's gently fondling. On the sidewalk, beside the   open trunk of the cab, are all Mary's belongings:    some bags, the playpen, a stroller, the baby bathtub,   the changing table, etc. Peter is attempting to pack it all in the trunk.    Micha is handing the things to him.
+116) 1) dialog: (tense)
+116) 5) dialog: (annoyed)
+116) 8) dialog: No, no thanks... I'd rather do it myself... Jack is standing beside the back door of the cab, leaning over toward Sylvia, who is holding Mary. He is trying unsuccessfully to sound angry.
+116) 20) dialog: That's it, we fit it all in...
+116) 29) dialog: Right... That's that. They head back to their apartment building.
+116) 30) dialog: Oh shit -- I forgot to explain about the cereal!
+116) 36) dialog: And I'm gonna be able to get back to work, so Carl better watch it -- I'm gonna slaughter that son-of-a-bitch! First with this goddam competition... and then with Natalie.
+116) 40) dialog: Oh, she forgot her squeaky giraffe. He picks it up and throws it onto an armchair.
+118) 0) text: Peter, with a bouquet of flowers, runs like mad down a street.
+120) 0) text: Peter, all out of breath, comes rushing into the office where Natalie works. She is very surprised. He puts the flowers down on her desk.
+120) 1) dialog: These are for you... I'm not supposed to leave the office.
+120) 2) dialog: They think I'm in the bathroom. So I can't stay. 'Bye. He dashes back out.   Natalie cracks up, laughing.
+123) 0) text: Peter enters the apartment with Natalie. A bunch of crepe paper streamers are hanging in the hall, as well as posters with various things written on them:
+124) 0) text: Peter has his arm around Natalie's waist. She's a little drunk. He kisses her and leads her into his room, clos- ing the door behind him. Michael and Jack, who were spying on them, tiptoe over to the door. They are silently exulting over Peter's second victory.
+128) 0) text: Peter comes home with Natalie.   They take off their coats. They look tired.
+132) 0) text: Jack and Michael, slumped in their chairs, are having breakfast. It's a gray day. It's POURING out. Peter, bending over a bowl of steaming water, with a towel over his head, is inhaling the steam. When he looks up to speak, we see his swollen tear-streaked
+132) 8) dialog: (emerging from the bowl, congested)
+132) 12) dialog: Yeah: you didd't used to give a shit before, but dow it docks you out.
+132) 15) dialog: (putting his head back over the bowl)
+132) 20) dialog: Do. Silence.
+132) 21) dialog: You eatig here todight?
+132) 29) dialog: This fuckig cold! I look like I'b cryig all the tibe but I'b dot -- it's just this dab cold. He gets up and goes out.
+136) 23) dialog: Of course you're taking good care of her -- we know what it's like, don't cry, she looks great...
+136) 25) dialog: Don't worry, it's nothing, she's
+136) 31) dialog: Well, why don't you leave the baby with us for a few days, till you recuperate... I mean, if you want.
+136) 36) dialog: 
+136) 43) dialog: What?
+136) 48) dialog: We could set up a room for her here...
+136) 51) dialog: Yeah, but I don't think she'll agree. She's got her own life to live.

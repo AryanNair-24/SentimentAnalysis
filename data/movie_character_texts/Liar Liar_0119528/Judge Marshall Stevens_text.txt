@@ -1,0 +1,55 @@
+26) 24) text: JUDGE STEVENS takes the bench.
+26) 26) dialog: Calling case BA 09395, Richard Cole versus Virginia Cole. How're we doing this morning, counsel?
+26) 28) dialog: And you, Mr. Reid?
+26) 31) dialog: 
+26) 34) dialog: I take it you're seeking to substitute in as counsel?
+26) 36) dialog: Fine , fine. And for the record, the reason is?
+26) 40) dialog: I take it you don't share the same ethical objections, Mr. Reid?
+26) 42) dialog: I see. Well, if Mrs. Cole wants the substitution of counsel, I'll allow it. Is that what you want, Mrs. Cole?
+26) 46) dialog: Fine.
+26) 54) dialog: This case has already been delayed several times, Mr. Reid.
+26) 57) dialog: I'll have to hear good cause, counselor. What's the problem?
+26) 62) dialog: 
+26) 66) dialog: Motion for a continuance denied. Is there any chance of a settlement in this case?
+26) 71) dialog: There appears to have been a change in strategy. Let's go to my chambers and negotiate.
+27) 2) dialog: Sounds pretty damning, Mr. Reid.
+27) 5) dialog: Two four seems like a pretty fair offer, Mr. Reid.
+27) 8) dialog: What are you suggesting, Mr. Rei d? That Ms. Appleton's willingness to proffer such an offer betrays a lack of faith in her position?
+27) 15) dialog: Strong corroborating evidence?
+27) 18) dialog: You're pretty confident how this trial is going to come out, eh, Mr. Reid?
+27) 25) dialog: You are some negotiator, Mr. Reid. If your client has half a brain, she'll jump at the offer.
+28) 11) dialog: Well , Mr. Reid. Do we have a settlement?
+28) 13) dialog: Th ere' s no settlement. Trial to start at one-thirty sharp.
+48) 3) text: They do. Judge Stevens enters. He sits. Everyone sits.
+48) 4) dialog: Counselors, are we ready to begin?
+49) 1) dialog: You may proceed, Mr. Reid. .
+49) 13) dialog: Ms. Appleton, you may begin.
+49) 24) dialog: And why is that, Mr. Reid?
+49) 28) dialog: Overruled..
+49) 46) dialog: No questions? .
+49) 53) dialog: All right, Mr. Reid. You may proceed.
+49) 57) dialog: It can't wait?
+49) 59) dialog: 
+51) 2) dialog: Who did this?
+51) 5) dialog: -What did he look like?
+51) 9) dialog: Bailiff, have the deputies search the building.
+51) 11) dialog: Under the circumstances, I have no choice but to recess this case until tomorrow morning at nine.
+51) 13) dialog: -- Unless, of course, you think you can still proceed?
+51) 16) dialog: Can you?
+51) 18) dialog: Splendid. I admire your courage, Mr. Reid. I'll give you a few minutes to compose yourself, and then we'll get started.
+52) 61) dialog: It's hig witness!
+52) 71) dialog: (to Fletcher) Call your next witness.
+52) 74) dialog: You have no further witnesses?!
+52) 79) dialog: Mr. Reid?
+52) 86) dialog: Mr. Reid, we're not getting any younger...
+52) 88) dialog: (he's had it) Mr. Reid you have presented virtually nothing in the way of evidence and as such I have no choice but to rule in favor of --
+52) 141) dialog: (banging his
+52) 144) dialog: In light of this new evidence, the court must rule in favor o f the defense. Mrs. Cole is hereby awarded half of the marital assets -or thirtyrseven million three hundred and ninety-five thousand dollars.
+52) 148) dialog: O r d e r ! Order!! Now i understand both parties have agreed to joint custody. Is that correct?
+52) 158) dialog: M r. Reid? Do we have an agreement on custody or not?
+52) 161) dialog: In that case, there will be a custody hearing tomorrow mor ning at nine. Court is adj ourned!
+52) 176) dialog: We',re adjourned, Mr. Reid.
+52) 181) dialog: Mr. Reid, you are out of order!
+52) 185) dialog: That's enough, Mr. Reid --
+52) 188) dialog: That's it, Mr..Reid.    I find you in contempt!
+52) 196) dialog: Bailiff! Remove Mr. Reid from the courtroom!

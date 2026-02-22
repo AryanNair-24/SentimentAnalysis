@@ -1,0 +1,60 @@
+8) 0) text: Smitty leads Craig (minus shoelaces) down the hall. They pass several other PATIENTS, including a TWEAKED-OUT MAN wearing an oversized Backstreet Boys t-shirt. He makes a ZAPPING noise in Craig’s direction. Smitty spots a woman in a professional skirt suit approaching. She is DR. EDEN MINERVA (late 40s), the staf psychiatrist.
+8) 2) dialog: Hey Smitty.
+8) 4) dialog: Hi Craig. How are you?
+8) 6) dialog: You just get settled in. We’1ll talk later, okay? Nice to meet you, Craig. Smitty and Craig continue down the hall, where a patient, JIMMY, smiles to Craig. He has one tooth.
+13) 0) text: Craig accosts Dr. Minerva, who is now doing rounds with a staff of INTERNS.
+13) 2) dialog: It says here you’re suicidal and asked to be admitted.
+13) 4) dialog: A lot of patients feel that way at first. Just give it a little time.
+13) 6) dialog: Five days.
+13) 8) dialog: Definitely not more than thirty. We’l1l have an evaluation to see if you're ready to leave Thursday.
+13) 12) dialog: Of course, Craig. I just spoke with her myself, and she’s very anxious to see you. Dr. Minerva nods and smiles to someone behind Craig, then drifts away.
+17) 63) dialog: So Craig, how are you adjusting to Three North?
+17) 65) dialog: Dr. Mahmoud wrote that you were taking Zoloft, but went off it three weeks ago. Is that right?
+17) 67) dialog: Do you see a therapist?
+17) 69) dialog: Why did you stop taking it?
+17) 71) dialog: Maybe that’s because it was working. Craig shrugs, smiles awkwardly, as Dr. Minerva scribbles something in the file.
+17) 72) dialog: Can you describe for me how you were feeling right before coming here this morning? Craig shifts uncomfortably in his chair.
+17) 74) dialog: Have you been experiencing more stress than usual lately? Craig nods.
+17) 75) dialog: Any reason in particular?
+17) 77) dialog: Why not?
+17) 79) dialog: What would happen if you didn’t get in? CAMERA PUSHES IN on Craig, who shoots us a subtle glance.
+21) 8) dialog: Well, do you have anyone you can explain it to? Friends? Family?
+21) 10) dialog: It's important to have a support system. People you can really talk to. Craig nods, wipes his forehead again.
+21) 13) dialog: So we'll get you back on the Zoloft, and you'll start group activities tomorrow. We’1ll check in again on Tuesday. Do you have any questions?
+21) 15) dialog: Five days, Craig. Minimum. This might feel like a strange place at first, but try to make the most of it. We’1l hold your evaluation on Thursday. Craig nods, looks out the office window to the bustling Brooklyn street-life below. TITLE OVER BLACK: “MONDAY: DAY TWO”
+34) 0) text: The patients sit in a loose circle around Dr. Minerva. Cr observes silently, sneaking occasional glances at Noelle, seated on the opposite side of the circle.
+34) 1) dialog: I understand there was an incident this morning. Would anyone care to talk about it? Something involving a breakfast burrito. Johnny?
+34) 3) dialog: I was just interested in hearing it from an impartial observer.
+34) 5) dialog: Interesting observation, Johnny.
+34) 8) dialog: Bobby, it’s okay if you want to keep your feelings private, but you should know it’s perfectly normal to be nervous about your interview tomorrow.
+34) 27) dialog: Bobby, no insults, please. Suddenly self-conscious, Johnny runs his hand over his he
+34) 29) dialog: What was that, Craig?
+34) 34) dialog: It’s a very nice offer, Craig. Bobby, why are you reluctant to accept it?
+34) 38) dialog: Do you want the shirt, Bobby?
+34) 40) dialog: Craig?
+48) 3) dialog: How did it make you feel? Seeing Bobby like that.
+48) 5) dialog: How’s that?
+48) 7) dialog: Have you always felt that way?
+48) 11) dialog: Tell me about it.
+48) 13) dialog: Tell me about being a kid-- about a time you remember just being happy... Carefree. Craig thinks back...
+51) 13) dialog: Craig, there’s a saying that goes something like, “Lord, grant me the strength to change the things I can, the courage to accept the things I can’t, and the wisdom to know the difference.”
+51) 17) dialog: So, let’s talk about your parents.
+51) 19) dialog: No, but I’m a psychiatrist. I have to ask you about them at some point. Craig smiles.
+51) 21) dialog: And what's that? Craig thinks for a beat.
+72) 0) text: Craig and Noelle jog down the hall, turn a corner to find ...-Dr. Minerva and her posse of interns coming towards t Craig and Noelle put on the brakes and scramble in the ot direction.
+73) 30) dialog: How are you feeling?
+73) 32) dialog: Why?
+73) 36) dialog: Are you still having suicidal thoughts? Craig shakes his head, no.
+73) 38) dialog: Like what?
+73) 40) dialog: Noelle? She’s the spunky one. Craig blushes slightly. Did she just call his girlfriend “spunky”?
+73) 43) dialog: It’s really wonderful, Craig.
+73) 47) dialog: Is this something you plan to continue when you leave?
+73) 49) dialog: Have you told him how you feel?
+73) 51) dialog: But you will. Craig nods.
+73) 52) dialog: When?
+73) 54) dialog: And if he freaks? Craig thinks it over, smiles.
+73) 56) dialog: That’s going to be the challenge... You ready? Craig nods.
+73) 58) text: Oh. Well, Craig... We've only just begun. The evaluation consists of three parts. There’s still the multiple choice section and a personal essay explaining why we should let you go... Craig stares at Dr. Minerva in shock.
+73) 59) dialog: What? Doctors can’t make jokes too? Craig exhales in relief.
+73) 60) dialog: You can leave first thing in the morning...
+73) 62) dialog: You should stop by and say hi sometime. You know, we have a volunteer program with the local high schools. You could help others who are going through the same thing. Craig thinks it over, smiles and nods. INT. NURSES’ STATION - NIGHT Craig approaches Smitty, carrying the doctors’ scrubs.

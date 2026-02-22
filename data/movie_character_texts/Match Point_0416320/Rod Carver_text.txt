@@ -1,0 +1,16 @@
+5) 0) text: Townsend walks with Tom Hewett and introduces him to Chri
+20) 2) dialog: Rod Carver. Good to meet you.
+21) 0) text: Rod introduces Chris to Alan Sinclair.
+21) 1) dialog: You'll be working under Alan Sinclair here,
+21) 3) dialog: At first, you may find the, er, assignments a little, um, unchallenging but that'll soon change as you, er, appreciate how things wash here. 28
+21) 5) dialog: Yes, yes. So you'll have plenty of time to keep up the backhand if you like.
+21) 11) dialog: I'm sure you'll be happy here. Exciting things are happening.
+55) 4) text: Yeah. Rod, standing at the reception desk, overhears their conversation.
+55) 5) dialog: Chris -- where are you off to?
+55) 9) dialog: Really?
+75) 6) dialog: So, you'll have to be prepared to cash flow the first six months...Is that right, Chris? A half year?
+75) 8) dialog: Good. Jolly good. Well... Rod shakes hands with the businessmen.
+75) 9) dialog: See you next time.
+75) 11) dialog: (to Chris} I thought you showed some * interesting ideas there for developing their capacity.
+75) 14) dialog: Good, good. Playing a little tennis later?
+75) 16) dialog: Amazing energy. Love it. Envy it.

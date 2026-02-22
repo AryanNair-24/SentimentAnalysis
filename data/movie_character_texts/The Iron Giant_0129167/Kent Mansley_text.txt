@@ -1,0 +1,108 @@
+8) 0) text: Kent now holds a clipboard, taking notes as he talks to a OLD FARMER. Nearby stands a tractor with a bite taken out of it.
+8) 1) dialog: And did you see any strange lights in the sky last night? Any saucer- shaped flying objects?
+8) 3) dialog: Were any of your live stock disoriented this morning? Did your cows appear anxious or depressed?
+8) 5) dialog: Frankly I'm not at liberty to reveal the particulars of the agency I work for. He leans in confidentially. KENT (CONT’D) But between you and me, I represent the United States Government. U.P.D. The Unexplained Phenomena Department. The Farmer also leans in confidentially. 13.
+8) 8) dialog: Huh? Oh, uh... no. Our scope is less limited than the CIA. Unexplained Phenomena, my friend -- that could be anything.
+8) 10) dialog: Well, sure, we work near the Pentagon, yes. You know Radcliffe Street?
+8) 12) dialog: Well, trust me, it's pretty much Pentagon adjacent. And all that that implies.
+8) 14) dialog: No, it's probably something else. (sighs wearily) It's always something else. He makes a note on his clipboard. In the background, Dean approaches and hooks up the tractor to his tow truck and hauls it away.
+20) 0) text: Workers swarm over the towers, repairing the damage. Kent is there, smoking a pipe as he talks to a foreman.
+20) 2) dialog: And not a single witness...
+20) 4) dialog: Could this have been caused by a giant metal monster, perhaps?
+20) 6) dialog: Nothing. Just repeating a yarn I heard from some fishermen... Just then, something catches Kent's eye.
+20) 7) dialog: Excuse me. He walks a few steps away, and hunkers down beside a port of the rubble. A trapezoidal piece of wood is sticking ou from beneath it. Kent pulls it out. It's the handle of a B.B. gun. On Kent's look we cut to...
+22) 7) dialog: I'd love some. Annie turns. Kent gives her his best smile. Annie pours coffee, we see Kent studying her with a thoughtful, almos sinister look. He glances at her name tag. KENT (CONT’D) Annie. What a very lovely name... Annie smiles.
+25) 0) text: Kent examines the broken branches. Hears the BOOM of the train wreck.
+30) 12) dialog: Hey there, Scout... Kent Mansley. I work for the government. Your parents home?
+30) 14) dialog: What's wrong, Scout? You seem a little jumpy.
+30) 16) dialog: Why, hello there! Annie, isn't it? From the diner?
+30) 18) dialog: Please. Call me Kent. (wheels turning) So this is your house... (to Hogarth) ...then you must be Hobo! 33.
+30) 20) dialog: Hobart.
+30) 23) dialog: Yes indeed. I'm terribly sorry to bother you at this hour, but I'm looking into a little train accident that happened nearby and-- my goodness! Is there a blue- ribbon pie in the oven, or have I died and gone to Heaven?
+30) 25) dialog: If it's not too much trouble, I'd be delighted! He flashes her a thousand-dollar smile. As Annie turns he back to lead them into the dining room, Kent's smile fade into a calculating look. Hogarth sees it all, and glares as Kent walks past him. Kent doffs his hat, places it over Hogarth's head as he advances into the living room.
+30) 26) dialog: Here. Pretend you're a gangster. The hat covers Hogarth's head. He stands there, looking ridiculous.
+31) 0) text: Hogarth, Annie and Kent are seated at the dinner table. Kent is pouring on the charm to Annie, as Hogarth continu to eye him suspiciously. Kent pats his stomach.
+31) 1) dialog: Well! It certainly is true what they say; the hospitality in these parts is second to none. 34.
+31) 3) dialog: Well, you know, uh... Maine.
+31) 6) dialog: Oh, it's alright. He's a bright boy. I like bright boys... He lights his pipe and studies Hogarth closely.
+31) 7) dialog: So tell me, Hogarth. What do you think of all the goings-on around here lately? Hogarth plays innocent.
+31) 9) dialog: You know, the power plant being destroyed and all.
+31) 11) dialog: Please. Call me Kent. I like to be on a first-name basis with first- class chefs. Annie smiles. Hogarth rolls his eyes.
+31) 13) dialog: But you haven't answered my question, Hogarth. Kent leans in toward Hogarth menacingly. 35. KENT (CONT’D) The powerplant. (leans closer) The train. (even closer) Surely you must have a theory, Hogarth. A bright boy like you. Surely you must have an inkling --
+31) 15) dialog: What???
+31) 17) dialog: You're... kidding.
+31) 20) dialog: Do you have a guest?
+35) 0) text: Kent turns his attention to the sounds coming from upstai He exits.
+37) 0) text: Kent has joined Annie, and the two of them listen togethe
+37) 2) dialog: This sort of thing is why it's so important to really chew your food... Annie shoots Kent a disapproving look. 37.
+38) 4) dialog: Do you have a telephone I could use?
+39) 0) text: Kent, hunkered into a corner in an attempt at privacy, speaks into a telephone in a loud whisper. Kent peers around cautiously, making sure he's not observed.
+39) 1) dialog: --let me put it bluntly, sir. I'm onto something big in Rockwell, Maine.
+39) 3) dialog: This time -- well, this time it's a giant, that's roaming around the town destroying things.
+39) 5) dialog: Excellent, sir. And in the meantime, I'd like to call in my team.
+39) 7) dialog: My backup, my support squad. Half a dozen men are all I need to start...
+39) 9) dialog: (puffing himself up) Forgive my saying so, sir, but I'm not just anyone, and I've never asked. Before. Until now. (there is a long silence) Sir?
+39) 11) dialog: I think I have, sir, yes.
+39) 13) dialog: Sir, I've got a feeling about this one, a gut feeling...
+39) 18) dialog: (temper rising) Alright then, fine. You want evidence? I'll get your evidence...
+39) 20) dialog: And when I do, I'm going to want a memo distributed! And I'm going to want that memo carbon copied and -- and re-distributed and -- The Chief hangs up. As Kent stands with the phone receive in his hand, a look of dark determination comes over his face. And then we pan up through the ceiling above Kent, into Hogarth's room. Hogarth also holds a phone receiver, with one hand cupped over the mouthpiece. He looks worried.
+45) 0) text: Kent is hunting around the power plant with a flashlight, muttering to himself.
+45) 1) dialog: (scornful) "Evidence". I'll get your evidence... He scans the vast expanse of forest with his flashlight, sags hopelessly.
+45) 2) dialog: ...somewhere...
+47) 0) text: Kent has wandered some distance from the power plant now. His flashlight beam sweeps across the ground.
+47) 1) dialog: Nothing. Nothing... Just then, he hears a noise behind him. He stops. Wheels around -- and the beam of his flashlight catches-- --a MOOSE. Huge. Enormous antlers. Looking right at him. moose SNORTS. Kent backpedals, stumbles backward into a ditch- KENT (CONT’D) Whooooa! --loudly enough to scare off the moose. He gets up, dusts himself off, shines his flashlight around and discovers w he's standing in is not a ditch at all, but a-- GIANT FOOTPRINT, perfectly preserved in a patch of dried mud. Kent GASPS. The gasp becomes a sound of delight. He begin to laugh... And then a single rain drop falls on head. Kent looks up. Another drop falls. The laughter ceases.
+49) 0) text: Kent, soaked to the bone, is sitting on the edge of the Giant footprint, which has become a soggy, nondescript me
+49) 1) dialog: God hates me... He pulls out his pipe, and tries to light it, but his sog matches won't strike. KENT (CONT’D) Damnation! (shouting heavenward) Can't a guy get a break around here?!! Suddenly the rain lets up. Kent looks surprised. Then pleased. He lights his pipe. Then turns to heaven again. KENT (CONT’D) Thank you. Waaagh! He does a huge double take as he looks up to see the Gian smiling head looming above him. The Giant picks up Kent's metal flashlight, eats it, and in three strides is gone f sight, leaving the terrified and exhilarated Kent behind. UNDER THE GIANT'S CHIN... ...Hogarth PEEKS OUT, breathing hard.
+58) 2) dialog: Morning, sport. Sleep well? He feels Kent's knowing eyes boring into him.
+58) 6) dialog: You know, I meant to wake up bright and early this morning. But from the look of those waffles, I'm still in bed dreaming!
+60) 0) text: As Kent looks on, an AGENT in a lab coat studies a spoon now dusted with white powder -- under a microscope. 56. After a moment, he looks up, and gestures at the BB-gun, also dusted with powder, which lies on the table nearby. Agent turns to the man in shadow standing over him.
+63) 1) text: Kent and the labcoat AGENT sit at a small, improvised lab table. Nearby are four OTHER AGENTS in suits and ties; studying maps, monitoring listening equipment, generating artist conceptions of the giant. They look up, aghast.
+64) 0) text: Kent and the agents sit stoically at the breakfast table. Annie stands facing them with folded arms. Hogarth stands nearby, scowling.
+64) 2) dialog: That's right. A long PAUSE...
+64) 4) dialog: Of course. Annie, please, let me explain. Every once in a while things happen to people that just can't be rationalized ina conventional way. The Unexplained Phenomena Department was created to respond to the bizarre, the strange, the--well, unexplainable events that happen every day all across this great land. From the mountains to the prairies, to the oceans-- 58.
+64) 6) dialog: Yes indeed. Washington D.C... As Kent begins to wax on about his work, we CUT TO:
+64) 8) dialog: ...if you're of a mind to be a mover and a shaker, it's the only place to be.
+64) 10) dialog: A place where an individual with pluck and ambition can really get ahead...
+64) 12) dialog: ...Safe in the knowledge that the vast resources of the U.S. Government are at ones disposal.
+64) 14) dialog: Although we're simply inundated with calls, we limit ourselves to only the most demanding cases. It's a challenge, I won't deny it. The phone finally RINGS and Kent SEIZES it hungrily...
+64) 16) dialog: I could tell you many strange stories, but unfortunately, all of them are classified.
+64) 18) dialog: I hope that helps to calm some of your worries, Annie. And you, too, Hogarth. Hogarth? The Agents all look around. Hogarth is nowhere to be seen KENT (CONT’D) You're supposed to be watching him! The Agents hustle out of the room. KENT (CONT’D) (then smiling, to Annie) For his own good, of course.
+69) 0) text: Hogarth returns, goes to his desk, stops stunned: the gia drawings are uncovered. Eyes wide, Hogarth looks around h room: everything looks slightly askew, as if it's been... searched. Hogarth's neck-hair tingles. He stares at the his bedroom door, slowly pulls it toward him... REVEALING: KENT standing behind it... smiling.
+69) 1) dialog: Surprise.
+69) 3) dialog: Just being friendly. And all that that implies. I know how you kids like rocky roll, so- He goes to the phonograph, and puts it on the platter...
+69) 5) dialog: Yeah, baby. It's got that jungle rhythm, but you can understand the words... 65.
+69) 7) dialog: Come on, Hogarth. Let's do the happy monkey. You know the one I mean... Hogarth edges toward the door, Kent follows, still dancing...
+69) 8) dialog: Friends, Hogarth, that's what we ought to be. But friends don't keep secrets from each other.
+69) 10) dialog: You don't. Well, let me tell you a little story. Your mom says you like 'em. Kent steps in front of the doorway, his smile now chillin KENT (CONT’D) Once there was a boy who walked into a forest. He wanted to take a picture of a metal-eating giant -- but lo and behold, the giant ate his camera alllll up!! Hogarth looks baffled.
+69) 12) dialog: Because in the process, the Giant snapped a picture of himself. (holds up a roll of film) And the little boy brought the film home. Hogarth lunges for the roll of film.
+69) 14) dialog: The Army arrives in twenty-four hours, Hogarth. Just thought you'd like to know. Kent dances out of the room. Hogarth stares, helpless.
+70) 0) text: Kent puffs on his pipe, as Annie knits. Hogarth sits ina chair studying them. Kent breaks the silence.
+70) 1) dialog: Well, isn't this a fine way to spend an evening? We're like one big happy family... Hogarth looks up, staring darkly at Kent.
+70) 4) dialog: (starting to rise) I'm sorry, should I...?
+70) 7) dialog: I'm so sorry.
+70) 12) dialog: (chuckling) Oh, now, there's no need for that. Hogarth is right in a way. I'm certainly ambitious. Yes... (looks pointedly at Annie) Ambitious, career-minded, stable --
+70) 14) dialog: Hogarth. I would have thought a good American boy like yourself would have more respect for the work I do. The world has become a dangerous place, you know. The balance of power is delicate. I gather information. And the side that has the information is the side that will win. Hogarth fixes his eyes on Kent with an intensity that's unnerving. 68.
+70) 18) dialog: Beatnik...?
+72) 0) text: A convoy of Army vehicles is pouring into town. Kent watc them enter, euphoric. He glances at his watch, and remembering an appointment, rushes off.
+73) 0) text: An Army General sits at a booth, studying a map. Kent sit across from his, positively glowing with pride.
+73) 2) dialog: Yes, it's remarkable isn't it, sir? Kent looks around at the various coffee-shop Busybodies, speaks loudly, for their benefit.
+73) 3) dialog: That one man, working alone, could have single-handedly found a monster in a place like this? The Busybodies coo and murmum amongst themselves.
+73) 5) dialog: Well, sir, perhaps I can be of some help in that regard. You see, I've had my eye on an odd little boy who seems to be connected to the creature in question. And I have reason to believe he's been spending some time at a local scarpyard. From behind the counter, Annie looks sharply at Kent, finally understanding his attentions.
+73) 7) dialog: But of course, sir. (loudly, for the busybodies) (MORE )
+73) 9) dialog: When a five-star general needs my help, I'm only too eager to oblige. Annie comes by and refills their coffee.
+73) 11) dialog: (uncomfortable) Oh yes, ahem.
+74) 2) dialog: Watch the wise cracks, Beatnik. We represent America.
+74) 11) dialog: Alright, I've had enough! He turns to the soldiers.
+74) 12) dialog: You and you! Start rummaging around! Tip some tables over! Kick open doors! Break stuff! You know the drill! Kent claps his hands. The soldiers don't move.
+74) 14) dialog: (under his breath) Not yet. Not yet. Annie looks from one to the other, comparing.
+77) 0) text: Kent is on the phone with the chief. He's visably PALE. (INTERCUT the following with the CHIEF in Washington, D.C
+77) 1) dialog: But Sir... you're making a big mistake! We're close... I have a real gut fee--
+77) 3) text: Mansley, if I hear about your gut feelings one more time I'm going to vomit through the phone lines!! The press has got ahold of this thing and now I'm a laughing stock for spending tax dollars on your IDIOTIC plan! I'm pulling those troops out THIS MINUTE! Before MY career is as dead as YOURS!! The Chief SLAMS the receiver down so hard, it hurts Kent' hand in Maine.
+79) 0) text: Kent watches in despair as the ARMY pulls out of Rockwell taking his credibility, and hopes for the future, with th
+84) 4) dialog: STOP! I know this'll sound crazy, but--
+84) 11) dialog: (to soldiers) Seize them. The soldiers do as they're told, grabbing Dean and Hogart
+86) 2) dialog: It's KILLED the boy!! Don't let it get away!! A wall of artillery closes the entrance to town... and begins to fire away at Giant. The Giant looks toward the -but sees armed ships out there, their guns pointed towar land. Once again, various weapons begin to pop out of the Giant arms. He presses them back in. He turns, and RUNS straigh at the wall of Artillery. And JUMPS OVER IT. Everyone stares gape-jawed, then quickly tries to swivel their guns in the opposite direction. But the GIANT is already GONE. The general calls to the AIR FORCE.
+90) 0) text: Kent is rabid.
+90) 1) dialog: (to General) What're you waiting for?? FIRE!!
+100) 0) text: A deathly HUSH has fallen over all assembled. Kent, looki ASHEN, starts slowly backing toward the jeep, and escape. Without turning around, the General barks loudly at Kent.
+102) 0) text: Several jeeps pull up beside Hogarth who is staring at th sky. The General and a group of soldiers jump out. Kent, flanked by soldiers with pistols on him, sits silently in the back of the jeep. The Captain scoops up Hogarth in hi arms and stares at the sky as well.

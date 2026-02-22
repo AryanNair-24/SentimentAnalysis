@@ -1,0 +1,20 @@
+36) 0) text: Walking , into an opulent office full of antique furnitur and religious icons, is FATHER JORDON (late thirties). He takes a seat in a chair, then picks up a phone on his desk.
+36) 1) dialog: Hey Ed -- how’d it go?
+36) 3) dialog: That’s good news. I appreciate your help.
+36) 5) dialog: Yeah -- we actually eet him up and walking around. ink he’s going to be fine. Thanks for asking.
+46) 0) text: Simple white structure with a steeple. FATHER THORNTON; late 20's, is getting ready to take down letters from a small, glass encased marquee posted into the ground that says: A CHURCH IS A GIFT FROM GOD...ASSEMBLY REQUIRED. CAROLYN O.C. Excuse me, Father Thorton? He looks over to see Carolyn approaching --
+47) 0) text: Father Thorton_and Carolyn share a table under the shade of a large willow. (CONTINUED)
+47) 3) dialog: -- It sounds to me that it’s far beyond just needing a blessing. Let me make a call to the Diocese and see if we can get someone out here to help that’s a little more qualified in these matters. Carolyn breathes a slight sigh of relief --
+120) 0) text: Ed and Lorraine enter. They are dwarfed by its massive size. The center aisle splits through numerous rows of pews. Up front, a choir director stands off to the side during a rehearsal, as a young g boy. sings his heart out An all boys choir stand sitent behind them. Ed dips his fingertips into a bowl sculpted from marble, full of Holy water. Says a silent prayer, then crosses himself. Lorraine follows suit. The two of them are approached by Father Jordon. Greets them with a warm smile.
+120) 1) dialog: Let’s see what you've got.
+120) 3) dialog: You weren’t kidding -- I’1l get this to the Archbishop right away.
+142) 0) text: Ed and Lorraine walk right into Father Jordon’s office, who's in the middle of speaking with the ARCHBISHOP, FATHER O'MALLEY; distinguished looking - late sixties. Both are caught off guard by the intrusion.
+142) 2) dialog: Ed and Lorraine, this is Archbishop, Father O’Malley. beat) I tried to call you.
+142) 4) dialog: Please, sit down.
+142) 6) dialog: The family aren’t parishioners, 1. and the children haven’t been Baptized.
+142) 10) dialog: Believe me, we’ve tried, but the Vatican is worried about public opinion if they were to ste outside the boundaries of the church.
+142) 12) dialog: Please understand, my hands are tied on this matter -- I feel horrible about this. Ed is dumbfounded.
+143) 0) text: A bitter Ed and Lorraine walk out of the church with Father Jordon.
+143) 4) dialog: You've both have seen it done dozens of times -- Ed looks at him like he’s out of his mind.
+143) 6) dialog: But your strength and knowledge of the scriptures can.
+143) 10) dialog: I believe our Lord recognizes faith far more than he does training and education, or politics for that matter. (beat) This family doesn’t have a choice, but you do -- and, you have God on your side. If you want to help them, then help them. Ed looks to Lorraine, both their minds a whirl of limited options.

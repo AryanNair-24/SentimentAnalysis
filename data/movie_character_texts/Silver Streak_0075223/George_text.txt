@@ -1,0 +1,431 @@
+0) 0) dialog: Train to Chicago, The Silver Streak, The Red Cap studies the ticket number and returns it, RED CaP The Silver Streak... .Okay, sir, I'll get your bags, pay the CaB : 4 ‘t di r You ee t Train to Chicago ou mus bea sucker Por boredom,
+0) 1) dialog: Look, it's two and a half days away from the rat race, That Sounds like g vacation to me,
+0) 7) dialog: Is this the right car, Ralston looks at his ticket.
+1) 0) text: “Ralston makes his way down the corridor toward George's room. George follows noticing a BLUE-HAIRED LADY with a Poodle zipped up ina shopping bag. The Rea Cap has deposited George's bags and stands at the doorway of his room. Ralston enters, . RED CaP (to George) This is it, sir,
+1) 1) dialog: (tipping him) you. Thank The Red cap leaves.
+1) 3) text: Thank you, I'll just keep these and the briefcase, . Ralston begins storing the bags and packages George wants the overhead rack while George Peruses the room,
+1) 4) dialog: Is this the bed?
+1) 6) dialog: And this Partition?
+1) 8) dialog: Huh? Oh, no...T agree...I just want to relax. X RALSTON . Good. Then you just settle back and have a good trip. rt ain't gonna be that exciting but we'll 465 get you there On time, Ralston Picks up the extra Suitcases ana leaves,
+2) 0) text: George is looking out the window of the vestibule, Ralsto standing behind him takes -out @ hip flask and shouts a t out the window,
+2) 6) dialog: Yeah. s You from Chicago?
+2) 7) dialog: No. Los Angeles,
+2) 9) dialog: George Caldwell.
+2) 11) dialog: Publishing,
+2) 13) dialog: Thanks,
+2) 16) dialog: Actually, this is the first time I've ever taken the train.
+2) 18) dialog: Really? fe
+2) 20) dialog: Well, I'm not looking for a railroad romance. Nor am [I afraid of flying. I'm simply taking the train to rest, relax-and get some reading done. I've got three manuscripts...
+3) 0) text: George is seated by himself at one of the tables for twe. finishes filling out his menu card and looks around at th fairly crowded room among whom are an elderly COUPLE in western attire, a nattily dressed BLACK COUPLE, and a MCT and her two DAUGHTERS in matching tops and skirts. Acrcss the aisle two very, ve FAT MEN are eating salads and drin ing diet cola. Plain Jane enters, and peers about obvicus looking for a place to sit. George casually lifts up his newspaper to hide his face. Plain Jane is waved forward b the HEAD WAITER and seated next to the Blue-Haired Lady w is just about to.leave. George sees all this reflected in the windowpane and breathes a sigh of relief. Suddenly, t Blonde is reflected standing beside him. be How's the latch?
+3) 1) dialog: (turning round) wWha....?
+3) 3) dialog: Oh, yes. Please, sit down. She sits. George clumsily folds up his newspaper.
+3) 5) dialog: Oh, yes. Well, it seems to be loose. Nothing serious. [I thought I'd get the porter to look at it.
+3) 7) dialog: Ah... George smiles and searches for an answer. He is saved by timely arrival of the Head Waiter.
+3) 11) dialog: By the way, my name's George Caldwell,
+3) 13) dialog: Hilly? HILLy Short for Hildegarde, What's the Pencil for? You have to f111 out your menu yourself, See? You print very well,
+3) 14) dialog: Thank you.
+3) 16) dialog: Okay.
+3) 18) dialog: What do you do for a living?
+3) 20) dialog: How do you keep your Job?
+3) 23) dialog: Yes. For my sister's wedding, Cont. 465
+3) 25) dialog: No. A change of pace. And you?
+3) 27) dialog: Really? I'm in publishing. What's his name?
+3) 29) dialog: No.
+3) 31) dialog: Where is he now?
+3) 33) dialog: Non-fiction, mostly -- gardening, cooking. 'How to Do It' books.
+3) 35) dialog: I've edited a few.
+3) 37) dialog: (with a smile) I know what goes where -- and why. cont. 8 15 Cont.1 55 REVISED - "typ SILVER STREAK" . 4/93/76 9 15 Cont.2
+3) 39) dialog: Divorced,
+3) 41) dialog: My friends always said Maggie was too good for me, After two years I decided they were right.
+3) 43) dialog: So you work for an art historian -. is that what you're interested in?
+3) 45) dialog: What happened?
+3) 47) dialog: (to Head Waiter) Could we see the wine list, Please,
+3) 49) dialog: How about... Cont. 465 10 15 Cont.3 GEORGE (Cont.) (with an exaggeratedly Perfect accent) Mouton Cadet -- dix-neuf cent soixante et onze. :
+3) 52) dialog: I give great French. Hilly grins and they both sip their drinks together.
+5) 0) text: The dining car is practically empty. A few remaining gues are paying thetr checks and the waiters are clearing the tables. But Hilly and George are oblivious to everything except each other, An empty half-bottle of champagne stan on the table and both of them are relaxed and pleasantly feeling its effect. Hilly is finishing a funny story ard laughing at herself.
+5) 1) dialog: laughin, That was augh 1e) -oduetion to . high society? Cont. 465
+5) 4) dialog: So what was missing?
+5) 6) dialog: Is that what you want?
+5) 8) dialog: Maybe I should get another bottle.
+5) 10) dialog: Okay. But this place seems to be closing down. Let's take our glasses and go to our rooms.
+5) 12) dialog: Or break down the whole partition.
+5) 14) dialog: I'll get the champagne. 11 17 Cont. George takes the two glasses and they leave the dining car in opposite directions. George passes Sweet. with a giggle.
+5) 15) dialog: Gotta watch that motion. Cont. The train lurches and George almost stumbles. George recovers REVISED - "THE SILVER STREAK" . 4/2/76 11-a 17 Cont.1 He continues on. Sweet watches George and Hilly go with, a@ deeply troubled look On his face -- g look that is hel too long for it to be simply envy. our 18
+6) 0) text: George stops and deans against a door to let hin Pass, It is a very tight and difficult maneuver for the Fat Man to pass and in the struggle George's hand lands on Cont. 465 465
+6) 3) dialog: Excuse me, Not waiting for a response, George smiles and quickly clo the door. He continues on down the corridor.
+7) 0) text: George arrives outside his door and kmocks.
+8) 0) text: True to her word Hilly has gotten the porter to push back partition and make their two rooms into one. The effect i remarkably spacious -~ and very romantic as the two couch have been turned into beds. George looks around and smile
+8) 1) dialog: This is very nice. Hilly 1s lying on her bed with her shoes off. She smiles she puts a tape into her portable cassette player, and we HEAR the lilting love song known as "Hilly's Theme," Geor takes off his coat and tie.
+8) 2) dialog: I love that song. And now whenever I hear it I'll be thinking of you. He leans over and Kisses her softly on the cheek, Hilly likes it.
+8) 4) dialog: Thank you. Some: champagne?
+8) 6) dialog: I_can't get over the size of this Place with the partition down.
+8) 8) dialog: For what?
+8) 10) dialog: You juggle a lot?
+8) 12) dialog: Yours.
+8) 14) dialog: And mine. He leans back on the bed and they face each other. GEORGE ‘ - To us. And the romance of the reilroad.
+8) 17) dialog: Really? That's terrific. While taking off his shoes he glances at the Rembrandt bo on the chair. Cont. 14 21 Cont.l
+8) 18) dialog: This the master's work?
+8) 20) dialog: Later. He turns off the overhead lights, leaving on the blue nig lights and the orange reading lamps. It is a romantic combination and Hilly smiles her approval. Taking the pillow. from his bed which lies parallel with the window George crosses to Hilly's bed which lies vertical with th window.
+8) 21) dialog: Slide over. They snuggle on the bed so that they are both lying on th backs with George's arm around Hilly's shoulder. For a moment they just stare out the window, watching the cactu and the desert hills of the Mojave zip by under the stars
+8) 23) dialog: Very. He puts down his glass and kisses her hair. She rolls ove and faces him.
+8) 25) dialog: Yes.
+8) 27) dialog: I really do. But I have a confession to make,
+8) 29) dialog: Itm actually much better at books ° on gardening.
+8) 31) dialog: Oh, yes. That's my special field. 465 Cont. 465 5 21 Cont.2
+8) 33) dialog: Absolutely. Hiliy begins unbuttoning his shirt.
+8) 35) dialog: You mean a few tips on gardening techniques?
+8) 37) dialog: Well, when gardening one rule to remember is -~- be nasty to nasturtiums. Hilly kisses his naked chest and giggles.
+8) 39) dialog: oh, yes.
+8) 41) dialog: The rougher the better. She kisses his chin.
+8) 43) dialog: There's the secret for treatin, azaleas. ,
+8) 45) dialog: Treat them the same as begonias.
+8) 47) dialog: It's gospel. :
+8) 49) dialog: I couldn't have expressed it better myself. Hilly leans up on one elbow.
+8) 51) dialog: Didn't IT tell you.
+8) 53) dialog: Be my guest. She goes back to kissing his chest and begins working her down toward his navel,
+9) 0) text: Hilly has seen nothing but she looks up at George, starin transfixed at the empty window.
+9) 2) dialog: Did you see that? That man? George flips on the light and rushes to the window, tryin look back down the tracks. ¢ HILLY What man? 465 . Cont. 17 23 Cont.
+9) 3) dialog: There was a man out the window. He'd been shot in the head.
+9) 5) dialog: (very excitedly) Hilly, I'm not joking. A dead man fell off the roof. His coat was caught. I saw it. What should I do? I've got to report it. Maybe they can stop the train.
+9) 8) dialog: I'm not kidding, Hilly. I saw it.
+9) 10) dialog: Wow! I can't believe it.
+9) 12) dialog: But I saw it, really I did.
+9) 15) dialog: No. It was a body -- a dead man. His eyes were so clear.
+9) 17) dialog: No, I'm positive I didn't,
+9) 19) dialog: He'll think I've been drinking.
+9) 21) dialog: But, Hilly, it was so...vivid.
+9) 23) dialog: Wow, I feel kind of dizzy.
+9) 25) dialog: Boy, if that's what the Df's are like, I'm giving up the bottle for life.
+9) 26) text: The mind plays funny tricks all the time. You know that. Just relax and forget it. Hilly turns off the lights and lies alongside George. He looks at her for a long moment.
+9) 27) dialog: That sure is a pretty song.
+9) 29) dialog: You are very beautiful, Hilly. Hilly despite her sophistication 1s not used to this tend ness. Tears well in her eyes.
+11) 0) text: George, looking bright-~eyed and happy, exits from the ba room where he has washed and shaved. He puts on a clean s and hums to himself "Hilly's Theme," as he buttons it up. Hilly is lying in bed, deep in a relaxed and contented sl George looks at his watch and picks up a train schedule t see when they will arrive at the next station. He puts th schedule in his back pocket, sees the empty champagne bot and picks it up with fond remembrance of the lovemaking t night before. Then he remembers his vision of the dead ma and his expression changes. He steps to the window and ig ing the desert in bloom stretches his neck to try to see roof. Unsatisfied, he steps to the next window, folds up bed. to make the couch and tries again to see the outside of the train. He finally gives this up, looks at the bost and drops it into the wastebasket. He goes over to Hilly smiles down at her. : Leaning forward to gently touch her hair, he knocks the : Rembrandt book off the chair. He picks it up and notices envelope stuffed with papers sticking out from under the jacket cover. He pats the envelope back in place and is a to put it down when he turns it over to look at the autho picture on the back. He gasps with surprise for the pictu of the grey-haired old man with the white goatee is the s man he saw hanging dead outside the window. The train lur and George staggers. Turning quickly to Hilly, he shakes awake, .
+11) 1) dialog: Hilly! Hilly! Wake up. Look at this. Hilly stirs and sits up, still half-asileep.
+11) 4) dialog: Hilly, the dead man I saw out the window last night -- this is him! Hilly seems interested for a moment till George shows her pack picture on the book. She looks at it with some confusion.
+11) 6) dialog: I know.
+11) 8) dialog: It's after eight.
+11) 10) dialog: Hilly, this man has been murdered.
+11) 12) dialog: (exasperatedly) Hilly...
+12) 0) text: George closes the door behind him and begins walking towa the rear of the train.
+13) 0) text: The diner is not too crowded as George enters. The Mexica Mama-san is having breakfast with the Blue-Haired Cont 465 21 . 27 Cont. Lady. When she sees George she points him out to her comp ion as the mad rapist of the night before. ‘The Blue-Hair Lady looks around and scowls at George as he passes. Swee is seated at the end of the car and seems very. eager to question George.
+13) 2) text: Yeah, I think Iwill. I just have to check on something. I'11 be right back. Sweet nods and George keeps on walking.
+15) 0) text: George walks down the corridor looking at the letters on doors. He finds "D" and stops. He starts to knock. Then hesitates, debating in his mind if he is not being a fool about the whole thing. Suddenly from inside the room’ he hears scuffling and an angry voice swearing. George liste and then knocks on the door. The scuffling stops. The doo is slowly opened by a bespectacled little man who stands the doorway sucking on a white, plastic "Quit Smoking" cigarette. This is MR. WHINEY.
+15) 2) dialog: I'd like to see Professor Schreiner.
+15) 4) dialog: My name's George Caldwell.
+15) 6) dialog: No, not exactly. I'm a friend of his secretary, and-we were worried about him. Cont. 465 22 29 Cont.
+15) 8) dialog: Can't I talk to the professor. Where is he...? George pushes against the door to see inside the room. He can't see anyone but notices the luggage has been thoroug searched and much of the room is in a mess.
+15) 9) dialog: What are you doing in there? Whiney pushes George back. Hey, I think you're sticking your nose in where it don't belong. You and that broad are: gonna get yourself in trouble. ‘Fact, she's already in trouble.
+15) 10) dialog: Look, I don't know who you are but...
+15) 12) dialog: Wait a minute! You can't do that to me, Gold Teeth strides toward George, shoves him up against t side of the train and twists his arm up behind his back. George yells in pain and struggles manfully.
+15) 13) dialog: Hey, you big ox, what the hell do you think you're doing. Hold it. Let me go. Gold Teeth doesn't say a word. He just begins walking to end of the corridor forcing George to walk in front of hi 465 23
+16) 0) text: Gold Teeth bangs the door at the end of the corridor and opens. He throws George into the corner and turns to the side door of the train. George stands, rubbing his arn. He is really mad.
+16) 1) dialog: Hey, man, you're in trouble. I mean it. Big trouble. I'm reporting you... Gold Teeth flings open the side door of the train and tur to face George. George looks at the door and his attitude changes.
+16) 2) dialog: All right...okay...enough is enough...Let's forget the whole thing... Gold Teeth is unmoved. He lunges for George, grabs him by the collar and the seat of the pants and with no effort a all pitches him right off the train.
+16) 4) dialog: What the -- | He stands up and feels himself. He is not hurt. He dusts himself off and notices that the sleeve on his jacket has been ripped. He fingers it lovingly. Then he begins to ge the full realization of what has happened. He runs up to railway tracks and squints at the train racing off in the distance. He looks behind him and out across the flat des on either side. There is no sign of life or civilization anywhere.
+16) 5) dialog: Son-of-a-bitch! He kicks the gravel on the railway ties and begins walkin down the tracks after the Silver Streak.
+17) 0) text: George, his coat over his shoulder, is walking along the of the railroad tracks, mittering to himself about his fa The beauty of the green sagebrush and the yellow wildflcw in bloom is completely escaping him. A few cows are grazi in the distance but George doesn't care. He stops at the sight of a cattle skull at his feet, half buried in the s
+17) 1) dialog: (bitterly) Terrific! . He shakes his head, grits his teeth and continues walking kicking the occasional cactus. EXT. THE DESERT - DAY 34° George has been walking for almost two hours. The terrain has changed -- red rock mesas and mountains on the horizo George climbs up on one of the smaller mesas » and, shiel his eyes from the sun, peers off in all directions. Sudde he sees something. He looks again. Off across the flat plain is a farmhouse and a windmill, a distant vision tha sits incongruously on the desert floor like @ children's model left in a sandbox. George squeals with delight, jum down, and begins running toward it as fast as he can.
+19) 0) text: George arrives at the farmyard and stops to catch his bre He looks around at the pigsty, the turkeys in the chicken coop, and the lazy-eyed dog who glances up disinterestedl from his kennel. He walks over to a 1950 Chevy parked by the porch and is about to knock on the front door when he hears the SOUND of "spit-spit-spit" coming from the cow s Ducking under the clothesline, he goes to the cow shed do
+20) 0) text: RITA BABTREE, a large, self-reliant Southern lady in her sixties is seated on a stool milking one of the cows, She hears George enter but doesn't stop or turn around.
+20) 2) dialog: No, it's not. Rita looks over her shoulder.
+20) 5) dialog: Excuse me, do you have a telephone?
+20) 7) dialog: No. I'm lost...I, ah...Well, I was thrown off the Silver Streak.
+20) 9) dialog: I-wasn't riding hobo. I had a ticket. Some other passengers threw me off. It was a fight. That's why I want to telephone the police and have those guys arrested.
+20) 11) dialog: Well, there is a girl...
+20) 14) dialog: But it's not what you're thinking. She could be in a great deal of danger herself. I've got to get to the police as soon... Rita finishes milking and stands up. She pours the milk f the bucket into the large can in the old freezer.
+20) 16) dialog: I am.
+20) 18) dialog: George.
+20) 20) dialog: George Caldwell.
+20) 22) dialog: Great! What do I have to do?
+20) 24) dialog: I don't think I've ever milked a cow before.
+20) 26) dialog: Well, I...
+20) 30) dialog: Okay, I'm a slow starter...But what happened to Niagara Falls?
+21) 0) text: Rita exits from the house wearing jodhpurs and a leather jacket and carrying five large parcels tied up with strin She steps off the porch and is surprised to see George sitting in the front seat of the Chevy reading something while he waits for her.
+21) 2) dialog: I'm looking at the schedule for the Silver Streak.
+21) 4) dialog: We're not?
+22) 0) text: Rita flings open the barn doors and George stands staring an old-fashioned two-seater biplane parked in the center the hangar-like barn.
+22) 3) dialog: Are we going to fly in this?
+22) 5) dialog: No, no. People keep asking that. I am not afraid of flying!
+22) 8) dialog: (suddenly) Two o'clock! stammering ) It's now only eleven-thirty...how far?..-how long? (finally) Where is Stavely?
+22) 10) dialog: Wait a minute. out the train schedule and looks at it eagerly.
+22) 11) dialog: The Silver Streak stops there at two twenty-seven! If we get there by two we can-have the sheriff meet the train when it arrives.
+22) 13) dialog: This is fabulous! Rita moves out. EXT, THE FIELD - DAY an The plane is racing along the bumpy runway field, picking speed with every bounce. Rita has her goggles down and gu the engine while her white scarf flaps in the wind, Georg is white-faced and terrified -- a direct contrast from tn shot before. He looks ahead at the approaching windmill a tugs nervously at his seat belt and shoulder strap as the plane jumps up and down like a bilious bird. Finally with mighty effort Rita pulls back on the stick and the plane surges into flight. Up, up it goes and to George's wide-e horror it misses by inches the top arm of the windmill. R is too happy to even notice. She shouts back.
+22) 17) dialog: There's the Silver Streak. EXT, THE SKY - DAY 4d They are well ahead of the train now and are flying over pastures. George glances at his watch.
+22) 18) dialog: I think we're going to make it.
+22) 20) dialog: Buzz them? What's that? Cont. 465
+22) 23) dialog: No.
+22) 25) dialog: Do what?
+23) 0) text: An old yellow VW convertible speeds down a dusty road fro the little desert airport in the b.g. Rita is driving and George is sitting beside her looking very worried. He glances at his watch, shakes his head and shouts at Rita.
+23) 1) dialog: I don't think we're going to make it. It's after two o'clock already.
+24) 0) text: Stavely.is a small western town situated at the foot of t Rocky Mountains and built on either side of a main street with the train station at one end. Rita and George come speeding into town and pull up in front of the Sheriff's office. An old PROSPECTOR is sitting in a chair by the do Cont. 465 31 46 Cont.
+24) 3) dialog: Look, there's the Silver Streak!
+24) 5) dialog: No, no! I've got to run, Thanks, Rita. Bye. He runs off toward the end of town, Rita yells after hin:
+25) 0) text: George catches up to the moving train and runs alongside. the last car some drunken CONVENTIONEERS see him and open door, yelling encouragement to him.
+26) 0) text: Half-heartedly fixing up his disheveled appearance George walks through the rest of the second-class section. Most the passengers are poor, old, kids or hippies happily blo away on pot. An AMISH COUPLE read their prayer books whil two HONEYMOONING REPUBLICANS take 8mm movies from the tra window, George passes them all without turning his head.
+27) 3) dialog: Yeah, sorry. I lost track of the time.
+27) 5) dialog: (deadpan) Actually I was squeezing some tits.
+27) 8) dialog: You know him? Cont. 465 33 52 Cont.
+28) 0) text: Taking great care not to be seen, George follows Devereau Hilly down the. center aisle with roomettes on either sid
+29) 0) text: At the end of his car George waits and peers around the corner. Hilly has stopped by her door. She talks for « second to Devereau and then steps inside. Devereau walks forward to the baggage car. As soon as he disappears, Geo goes to his compartment and steps inside.
+30) 0) text: The first thing we notice is the partition between his an Hilly's rooms has been put back up and the connecting doo closed. George listens for a moment at the door and then opens it slowly. Hilly is kneeling on the couch sadly leoking out the window. She sees George and couldn't be more surprised. :
+31) 1) dialog: Hilly, are you all right? Cont. 465 34 A=-55 Cont. Hilly springs off the couch and into his arms. She holcs him desperately. George is more confused than ever.
+31) 2) dialog: Hilly, what's the matter? Hilly suddenly breaks away from hin, totally changing her emotion from one of need to one of nonchalance.
+31) 4) dialog: The professor is dead. Murdered. I'm sure of it.
+31) 6) dialog: No, listen to me. I went to his room this morning and he wasn't there. Instead two thugs were going through his things. They pushed me out, twisted my arm and threw me off the train.
+31) 8) dialog: The point is they were looking for something. They've killed the professor to get it and now I'm sure they'll be after you. We've got to get off at the next stop and contact the police.
+31) 10) dialog: Hilly, this is serious. (grabs hold of her) I'm worried about you...I'm... He looks in her eyes. She looks in his. There is obvicusl a strong emotional bond between them. Suddenly the door opens and Devereau walks in. Hilly quickly steps away fro George. She smiles at Devereau who smiles back but we see Cont. 465 35 A-55 Cont.1 his cold eyes that the intimacy of the scene he just interrupted is extremely disturbing to him.
+31) 13) dialog: Hello.
+31) 16) dialog: (confused) - Yes.
+31) 18) dialog: Wait, wait a minute. Who's Reace?
+31) 20) dialog: Huh?
+31) 22) dialog: I remember, but what's he got to do with you? cont. 36 A-55 Cont,.2
+31) 24) dialog: Butes.
+31) 26) dialog: Wait a minute. Who was that:other guy? He work for you, too? .
+31) 30) dialog: That's right. Last night.
+31) 32) dialog: I saw his body fall from the roof right by that window. He was shot in the head.
+31) 34) dialog: I was lying right there. It was so clear -- the blood, his face. I'll 465 never forget it. 37
+31) 35) text: The door opens and PROFESSOR SCHREINER walks in. George i thunderstruck. and stares open-mouthedly at the trim, hea elderly gentleman with the white moustache and goatee -- very same person he had seen fall dead the night before. Professor has just stepped in to talk to Hilly.
+31) 39) dialog: Well, eh...I..-
+31) 42) dialog: I'm okay.
+31) 44) dialog: The what?
+31) 49) dialog: No.
+31) 54) dialog: Well, I think I've really made a fool of myself this morning.
+31) 56) dialog: Oh, yes. I'm sticking my nose into a lot of stuff that's none of my business and getting a lot of crazy ideas. (to Hilly) You were right. I was seeing a lot of nonsense last night. Too much champagne. Cont. 465
+31) 59) dialog: Well, we get into Chicago tomorrow and I ‘did have some work to do on, this trip, so I'll just say good-bye.
+31) 62) dialog: Thank you. No. I think I will probably have my meals in here. As he closés the door he gives one parting shot for Hilly benefit. _ . .
+31) 63) dialog: Hmmm.. The latch is broken. I'1l gét the. porter to have that fixed ‘right. away. - & He shuts the door. Mr. Whiney sits down on the couch and. pégins to snicker. But Devereau's expression changes from serenely confident to deeply troubled. He turns to Hilly looks at him in her insouciant way. Suddenly and viciousl he SLAPS her across the face.
+32) 3) dialog: Hey, Sweet! Come join me. (to bartender) Bring the man some ice. Sweet comés over and sits down.
+32) 5) dialog: We are soon approaching the Rayner Tunnel, the highest point on the line. when we reach it, I intend to be even higher.
+32) 7) dialog: Oh, no! I've left the train once this trip. And once is definitely ‘enough.
+32) 9) dialog: Last night in the blonde's compartment, I had a bizarre hallucination. I thought I saw her boss hanging dead outside the window.
+32) 11) dialog: The same. Shot through the head. I knew I'd been drinking but this morning when I go looking for the Professor I meet this short little weasel of a guy in his room. Cont.
+32) 14) dialog: How did you know?
+32) 16) dialog: Well, suddenly this moving mountain with a gold mine stuck in his gums, pitches me off the train. and if that isn't...
+32) 18) dialog: Nope. ‘I met him for the first time this afternoon.
+32) 20) dialog: In Hilly's compartment. She introduced us. You see, the whole thing was just one big disunderstanding. Apparently...
+32) 22) dialog: Like his picture. Why these questions?
+32) 24) dialog: Nothing much. He was feeling tired and went to have a scotch.
+32) 26) dialog: Yeah. He's lying down in Devereau's compartment. You want some more ice? cont. 465
+32) 30) dialog: Ir beg your pardon!
+32) 34) dialog: Aww, just because you're in the health food business... Sweet reaches for his wallet and flashes a badge at Georg
+32) 36) dialog: I don't understand. Why were you tailing the Professor?
+32) 38) dialog: Devereau? Well, what about Hilly?
+34) 2) dialog: How do you figure that?
+35) 1) dialog: You're not going up there, are you?
+35) 3) dialog: All right, I'll try.
+36) 0) text: Sweet is walking down the center of the car. He looks bac at George who has reached the top of the ladder, but who not yet willing to stand up on the roof. Sweet smiles and waves okay. He begins walking down the roof of the train, nimbly jumping over between the cars. George watches him with a great deal of trepidation. He looks down to his side and sees a great Rocky Mountain gorge several hundre feet below. It's obvious that there ain't anything that would get him to go walking on the top of this train. swe bends down and picks up something. He looks around, then makes his way back to the ladder. George climbs down and waits for Sweet. They both go into the baggage car and close the door, .
+36) 2) dialog: What did you find? Sweet hands George a piece of material that he found on t train roof.
+36) 4) dialog: Then I was right. I did see him.
+36) 6) dialog: But why would Devereau want to kill the Professor? Sweet takes the material and places it carefully in his wallet. As he opens his jacket, George notices he is carrying a guh. Sweet begins snooping around the baggage car, picking up various pieces of sports equipment. He Cont. 465
+36) 9) dialog: Devereau wasn't going to wait. SWEET . No. Look, here's Devereau's safe... Sweet kneels down to examine it, but continues with his story.
+36) 12) dialog: But they have it. That's what Whiney and everyone was looking for this morning -- the Rembrandt letters! They said they found them in the Professor's trunk.
+36) 14) dialog: My God! I know where they arel Sweet reacts. George flings open the baggage car door and strides down the corridor. Sweet follows, but has to walk quickly to keep up.
+37) 0) text: The Second Fat Man is stepping out of the public toilet a the end of the car. George is rushing toward him.
+37) 1) dialog: Beat it, fatso. He is completely startled and quickly steps back into the toilet. George doesn't stop. He steps around the corridor and opens his compartment door.
+37) 3) dialog: The Rembrandt letters. Sweet takes them and sits down.
+37) 5) dialog: (reading the signature) Rembrandt van Rijn.
+37) 7) dialog: It's hard to believe that a man was killed over these. Cont.
+37) 10) dialog: Why wasn't he caught?
+37) 12) dialog: That's why she was so distant. They had her cornered, but she still tried not to get me involved. As George muses by the window, Sweet paces back and forth
+37) 14) dialog: Yeah, I did. So what do we do now?
+37) 16) dialog: How? Here comes the tunnel. Sweet glances out the window as the entrance to the Rayner Tunnel approaches.
+37) 19) dialog: What happened? What the...! He kneels beside Sweet, who is bleeding profusely. Sweet coughs.
+37) 21) dialog: But...
+37) 24) text: No, I can't... The train comes out of the tunnel, and the noise and dari cease. Sweet looks at George. For a moment he seems to catch his breath. He grins ruefully, clutching his ches+.
+37) 28) dialog: (advancing) No. No, I...
+37) 33) dialog: Wait! Wait! You don't understand. Waving his gun and trying to explain, he advances on the ladies. The poodle BARKS and the women recoil in terror,
+38) 0) text: George runs into the baggage car, gasping for breath. He slams the door behind him, locks it, and quickly looks ar for a place to hide. He runs to the other end of the car, stuffing the Rembrandt letters inside his jacket,
+40) 0) text: George goes out onto the baggage car platform. He looks a the ladder leading up to the roof and decides that he is afraid to try to escape that way.
+42) 0) text: George HEARS the first blow. He comes back into the bagga car and decldes to make a stand there, After all, he has gun so he begins piling up some trunks by the side door a a@ barricade,
+43) 0) text: Gold Teeth steps into the car and drops down behind a tru He looks around. George is nowhere to be seen. He stanis and very carefully begins making his way to the barricada He looks behind it. George is not there, Disgusted, he turns and quickly looks through the rest of the car even pushing over the cardboard cut-out of "Mary-Lou" to see i is hiding behind that. Satisfied that George is not in th car, he walks out onto the baggege car platform. He sees padder leading to the roof. He looks up, smiles, and begi to a. .
+44) 0) text: The grade is steep and the train 1s going slow. Very cautiously Gold Teeth pokes his head up and looks down th length of the train. He can't see George anywhere. He stands up on the roof and looks about. Realizing there is way for George to have gone forward toward the engine, he begins carefully walking back toward the rear. As he hops over the canvas covered space between the baggage car and first-class sleeper, we see George's head below him fearfully watching, clinging to the side of the train,
+45) 1) dialog: Hold it! Don't move or I'1]1 shoot, Gold Teeth looks at the ridiculous spear gun and grins. H evil eyes glint menacingly. He begins slowly to point his gun at George. George fires. In a flash the spear flies through 'the air and imbeds itself in Gold Teeth's should Gold Teeth staggers in shock, lurches over and falls. His body slides off the roof of the train and George watches horrified as it tumbles down the gorge, bouncing from roc to rock till it disappears from sight. George stands on the roof stunned at what he has seen and what he has'done. He looks at the spear gun in his hand and viciously hurls it away. He watches it fall and takes deep breath. Remembering that Hilly is still in danger, h turns to walk back to the ladder. Just then, a low hangin signal arm hits him in the stomach, knocking him off bala and swinging him off the roof. He scrambles and holds on, hanging by his hands till the arm swings him all the way to the hillside. Letting go, he slides on his back down t dirt embankment, stopping by the railroad tracks Just as last car of the train speeds past. George sits up and watches it go with open-mouthed wonder and surprise.
+45) 2) dialog: Son-of -a-bitch!
+47) 0) text: Cautiously sticking his head around the corner, George pe through the screen door. OLIVER CHAUNCEY, the town Sheriff is seated back in a cha with his feet up on his desk watching a cops and robbers on television. He is really excited now that the gun batt has broken out.
+47) 2) dialog: Excuse me.
+47) 5) dialog: I want to report a murder.
+47) 7) dialog: A murder. A man's been shot on the Silver Streak. And there's a e@irl -- she's in great danger, We've got to stop the train...
+47) 9) dialog: That's right. ~ Cont.
+47) 12) dialog: Caldwell. George Caldwell. I'm fram Los Angeles.
+47) 14) dialog: Actually there were two.
+47) 16) dialog: Yes. The first was Bob Sweet. He was a federal undercover agent.
+47) 18) dialog: And the second was a man named Reace. I shot him.
+47) 20) dialog: Yes. He shot Sweet.
+47) 22) dialog: No, because he thought Sweet was me.
+47) 24) dialog: Right. With a spear gun.
+47) 26) dialog: See, I took Sweet's gun but I dropped it and had to use a spear gun. Eh, don't you think we could call...
+47) 29) dialog: Yes. He was going to shoot me.
+47) 31) dialog: No, with a bullet, See, he shot the professor.
+47) 33) dialog: Reace,
+47) 35) dialog: And the professor.
+47) 37) dialog: Right.
+47) 39) dialog: Oh, yeah. I forgot. The professor was shot last night. Look, can't we do all this later?
+47) 41) dialog: Anyone else what?
+47) 43) dialog: No, but there will be if we don't stop that train. Look, can't you call your superiors? Tell them I have the Rembrandt letters. That's why the professor was shot.
+47) 46) dialog: Who? 57 84 cont.2
+47) 48) dialog: Rembrandt is dead.
+47) 53) dialog: Listen, Sheriff, I guess I was a little rattled before...
+47) 55) dialog: Yeah. But I really think we ought to get on the phone to Washington. I'm sure if they hear what I've got to say they'll do something about stopping the train. Smiling widely and acting Casual, Chauncey begins to edge himself over to his gun.
+47) 57) dialog: Look. They know all about Sweet and Devereau. I figure the Silver Streak will be in Kansas in an hour. We could stop them at Scott City or maybe Dodge. Chauncey grabs the gun off the sink and points it at Geor
+47) 59) dialog: What the...! Give me that. With one quick movement George grabs the gun out of Chaun hand and points it at him. This is so unexpected that Chauncey doesn't believe it happened. Then he throws his hands up in the air.
+47) 62) dialog: Don't shoot! You stupid, ignorant, son-of-a-bitch, what do you think I'm doing here! Jesus Christ! I've met some dumb bastards in my time but. you outrun them all. Get over there! I come here to get help for @ girl who may be killed any minute and you're running around playing cops and robbers like you're on goddamn television!
+47) 64) dialog: Aw, to hell with it. Pick up that phone.
+47) 66) dialog: What?
+47) 68) dialog: To get me? What for?
+47) 70) dialog: He was no vitamin salesman. I told you. He was a federal agent... They should know that.
+47) 72) dialog: What's that?
+47) 74) dialog: Get outside.
+48) 0) text: rain schedule and toward the dcor, 85 The police car drives up as George and Chauncey step out door. MOOSE, the young deputy, calls out happily to the Sheriff.
+48) 2) dialog: Get out of the car, boy.
+48) 4) dialog: C'mon, get out. Stand over there and keep your hands up. The kid steps out of the car and joins Chauncey standing to the side in the light of the headlights.
+51) 0) text: George is racing along at sixty miles an hour, mumbling t himself about Chauncey. - a GEORGE Dumb, stupid bastard...
+51) 1) text: Behind George's back a pair of handcuffed hands suddenly . appear and grab him by the shoulder. They belong to a y black dude in the backseat by the name of GROVER MULDOONE
+51) 3) dialog: Jesus Christ! George swerves in fright and the black dude is thrown to floor. He pulls himself back up after George straightens the car. .
+51) 4) dialog: Who the hell are you? .f Cont. 465 62 89 Cont.
+51) 6) dialog: Oh, sorry. Here. George hands them over and Grover unlocks the handcuffs.
+51) 8) dialog: Murder,
+51) 10) dialog: I'm not stopping anywhere. You know the roads around here? Yeah.
+51) 12) dialog: Well, maybe we can make a deal. I'm no murderer, In fact, I'm trying to stop one. But in a minute we're going to be surrounded by cops. If “you can get us out of it, you'll be doing both of us a favor. Got it? Grover thinks for a moment and makes up his mind.
+51) 15) dialog: Sorry.
+51) 17) dialog: No, I don't.
+53) 3) dialog: There's a truck ahead...
+53) 5) dialog: You want to drive for awhile? our a-g1- 97
+55) 2) dialog: George Caldwell. Cont. 465
+55) 5) dialog: Oh?
+55) 8) dialog: Do what?
+55) 13) dialog: Jesus! Aren't you going to slow down?
+57) 0) text: George looks over at Grover, shakes his head and smiles, Grover is grinning from ear to ear. He flips the mike bac on the dash and blasts off into the night.
+61) 0) text: The NIGHT WATCHMAN is sleeping in the office stretched ou on @ couch with a magazine across his chest. George is watching him through a large glass window. He looks at hi Cont. 465
+62) 1) dialog: (whispering nervously) What are you doing?
+62) 3) dialog: Are you crazy? I thought we were going to take the Chevy in the back.
+62) 5) dialog: Great. I'll tell that to the Judge. Maybe he'll give us time off for poetic expression.
+62) 7) dialog: How about jail? You see where the office is? cont. 465 68 113 Cont.
+63) 0) text: his. way through the artificial shrubbery George hsars Grover start the engine. It stops. George wipes the sweat from his face and crawls to the rear window he looked in before. Cautiously he raises his head and peers inside. The couch 1s empty. our 14. : a 120
+64) 6) text: A pussy, huh? Get in the car! Grover is wild-eyed with delight, as he runs around to th driver's seat. . GROVER . Woweeft And I took you for an amateur. It's embarrassin' | He hops in the Porsche and revs up the engine. George scrembies in the other side. With tires SQUEALING they charge out of the lot, turn onto the street and race off into the night. INT. THE PORSCHE - NIGHT i22 Grover is laughing‘excitedly while George is trying to pu himself together. —
+64) 8) dialog: Look, I just want...
+64) 10) dialog: I just want to get to Kansas City by morning.
+66) 0) text: Grover is sleeping and George is now driving. He is listening to the song from the radio and thinking about Hilly. Grover opens his eyes and stretches. He looks over at George and sees his deep concentration and furrowed brow.
+66) 2) dialog: Yeah. It's funny. I just met her last night.
+66) 5) dialog: Yeah, but...
+66) 7) dialog: I only hope she is still alive.
+68) 0) text: George and Grover enter the main door and walk toward the ticket sellers. George looks up at the blg clock.
+68) 1) dialog: Great! We've got ten minutes. I'll get the tickets and... Grover stops him and pulls him back behind some overnight lockers.
+68) 3) dialog: Huh? Grover points to a newspaper vending machine. On the fron page of the morning edition is a picture of George under the headline “Train Killer At Large." George peers at the newspaper.
+68) 4) dialog: That's my driver's license picture. I look awful.
+68) 6) dialog: Are they the police?
+68) 8) dialog: How are we going to get on the train?
+68) 10) dialog: I've got the gun. Maybe we could start a diversion. Cont. 465 REVISED - "THE SILVER STREAK" - 4/2/76 Tl-a 127 Cont.
+68) 15) dialog: We will?
+68) 20) dialog: Huh?
+68) 22) dialog: But what...
+68) 24) dialog: Here. Forty dollars.
+69) 0) text: Grover has put the transistor radio and the beanie on the shelf beneath the mirror. He stands at the washbasins wit the open tin of shoe polish and faces an outraged George.
+69) 1) dialog: That is the stupidest idea I have ever heardl 465 Cont.
+69) 4) dialog: But I can't pass for black.
+69) 6) dialog: We're never going to get away with it.
+69) 8) dialog: (resignedly) You know, this is crazy. They're not going to buy this for a second.
+69) 17) dialog: C'mon, man. Get some Jive going. Shake it and don't break it. Be cool! You're the king, baby. You are number one. {to the mirror) How do I look, man? You look sharp, mister... A little WHITE GUY enters and stands at the urinal. Georg pays him no mind at all.
+69) 18) dialog: I feel sharp, you hear? I feel like the sun around midnight -- you dig? Out of sight! The White Guy can't help but keep looking over at George he straightens up the flashy jacket, the shades and the c beanie. Finally George is satisfied. He takes the radio a gives himself the once over in the mirror.
+69) 19) dialog: Looking good. Looking fine. Looking real fine! Okay, just loosen up, sugar. Move those hips. All you whiteys have a tight ass. George turns and makes for the door. He sees the guy stan ing at the urinal, staring after him in open amazement. George stops.
+69) 20) dialog: It won't come, nuh?
+69) 22) dialog: That's okay, brother. Just shake it eeeand try thinking of Niagara Falis! He switches on the radio and bops out the exit.
+70) 0) text: George steps out from the men's room and greets the old Shoeshine Guy. :
+70) 1) dialog: Hiya, brother! The old man's jaw drops open in shock. Grover comes over from the ticket counter with the tickets. He, too, is surprised by his pupil's transformation. George slaps his
+70) 2) dialog: Hey, Grover! How's meh man? How's mah main man?
+70) 4) dialog: (snapping his fingers) We're going to Chicago. Gonna have us @ time.
+70) 6) dialog: Right on! Let's BO, let's go, Let's step out like & stepchild! They walk off toward the "To TRAINS" entrance.
+71) 0) text: George has the radio up to his ear and is listening and Jiving as he and Grover walk up to the gate. The two Detectives see then coming and one nudges the other. Grov pauses and shows the tickets to the Attendant but George keeps on bopping and passes right by. The two Detectives the Attendant watch him go. They look at Grover. Grover looks back at them. He holds up his hand. Cont. 465 76 130 Cont.
+74) 1) dialog: She's gone. He steps back into his room.
+75) 2) dialog: Wait a minute, my stuff is gone, too. Where are my clothes?
+75) 4) dialog: of course, I'm sure. I guess the police took it all with Sweet's body.
+75) 5) text: George goes into the bathroom, sees himself in the mirror and winces. He takes a towel and begins to wipe the shoe polish off.
+75) 6) dialog: What we've got to do is find out if Hilly is still on the train.
+75) 8) dialog: Go see if the phony Professor is still in the next car back. Room D. Ask him what happened to his secretary.
+75) 11) dialog: Huh? Grover grins, spins the gun in his hand and sticks it in his belt. He is very professional. Cont. h65
+75) 14) dialog: These disguises are getting expensive, .
+76) 0) text: Standing on her couch, George takes down the tape recorde He fondles it lovingly and presses the button. "HILLY'S THEME" begins to play. He listens to it for a moment end smiles. He starts to go back into his room when Hilly's door opens and she enters. She walks to the window then gasps as she sees George standing in the doorway.
+76) 2) dialog: Are you all right? She 1s about to warn him when a hand with a blackjack (Whiney's) comes down heavily on the back of George's hee He staggers, drops the cassette Player and falls to the f As he siips into unconsciousness the SCREEN BEGINS TO REV like a whirlpool, bringing forth a kaleidoscope of images Hilly's face, the Professor's body, Sweet's murder, Gold Teeth's death, and the Silver Streak itself hurtling down the tracks. "HILLY'S THEME” from the cassette player is gradually replaced by the RATTLING wheels and screamin WHISTLES of the train. All this reaches a climax, then th SCREEN SPINS MADLY, and:
+79) 0) text: George is lying on the couch with a wet towel on his head Hilly sits beside him and changes the towel for him. He stirs and opens his eyes. Recognizing Hilly, he begins to get up. He groans and holds his head.
+79) 1) dialog: Are you all rignt?
+79) 4) dialog: My God!... (sits up alert) The Rembrandt letters! Cont.
+79) 7) dialog: \ In the cover of the book the Professor gave you for safekeeping. (rubs his forehead) I guess I blew it.
+79) 9) dialog: They've already tried to get me -- twice.
+79) 12) dialog: : So have I. I was scared you wouldn't be here. (brushes away her tears) I missed you, Hilly.
+79) 16) dialog: What?
+79) 18) dialog: I'll tell you about it later. Where are we? : opens and Mr. Whiney enters in good spirits.
+79) 20) dialog: What do you want? WHINEY. How you feeling? Hope I didn't slug you too hard. Cont. 465 81 140 Cont.1
+79) 21) dialog: Where's Devereau?
+80) 0) text: Devereau's suite, the largest and plushest we have seen, located on the other side of the train but the scenery cu side of lakes Hilly's room. the Rembrandt clearing away and Hilly and and marshy delta is the same as that seen from Devereau is seated at the window, looking over letters. A black STEWARD in a white jacket is the breakfast service. Whiney opens the coor George enter.
+80) 5) dialog: Don't be too sure of yourself, Devereau. You're not going to get away with this.
+80) 7) dialog: I shot hin. Cont. 465 82 141 cont.
+80) 9) dialog: You had him kill the professor, didn't you?
+80) 18) dialog: Why would I want to kill the professor?
+80) 20) dialog: Oh, yeah? What's that?
+80) 25) dialog: (surprised) Thanks.
+80) 44) dialog: Okay, Grover... Cont. 465 86 141 cont.4
+80) 46) dialog: Hey, give me the gun. Grover turns to George and sheds his mock anger while han over the gun. .
+80) 50) dialog: It's okay, Hilly. He's a friend of mine.
+80) 52) dialog: Well, now, Devereau. Grover goes and sits on the arm of Devereau's chair.
+80) 56) dialog: Oh, yeah, I forgot to tell you. That vitamin salesman that Reace shot. He was no vitamin salesman. He was a federal agent. They've been trailing you for the last two years, ever since -- what did he. say? -- the plane crash in Cologne linking you with the Metropolitan Gallery scandal..- This information hits Devereau like a bullet. He makes no attempt to conceal it. George gestures for him to stand u He does so calmly but his eyes -- cold like a snake's -- reveal his inner dismay. George opens the door.
+80) 57) dialog: So let's go get them the proof they've wanted. Let's go get the Rembrandt letters. He waves his gun and Devereau walks out the door. George stays close with the gun poking in Devereau's back. Hilly and Grover follow them out into the corridor.
+81) 0) text: George pushes Devereau before him down the corridor. Hill walks behind him while Grover, looking back over his shou makes sure that no one is following them.
+82) 0) text: Devereau and George arrive at the baggage car entrance wh the broken door and smashed lock -- the result of Gold Te assault -- are still unrepaired. George flings open the d pushes Devereau inside and shouts to Whiney who is kneeli in front of Devereau's open safe,
+83) 1) dialog: Okey, Whiney! Just step away from that. Whiney stands up surprised and puzzled. Move! GEORGE love!
+83) 3) dialog: Hilly, go get the letters, Hilly goes over to the safe and begins to look for the letters. Grover joins George alongside Devereau in the middle of the baggage car.
+83) 5) dialog: Are you trying to bribe me?
+83) 7) dialog: If there's one thing I've learned from this trip, Devereau, there's no way to protect your bets, It's play the game and take what you get.
+83) 12) dialog: What are you doing?
+83) 14) dialog: Well, I'm not jumping! I've left this train twice already... He fires but his gun is empty. Grover sits ready to lead. He shouts at George.
+83) 16) dialog: Son-of-a-bitch! He and Grover throw themselves out the side door of the t and fall into the muddy river below.
+84) 0) text: The Silver Streak rattles over the bridge as George and Grover surface. They tread water and watch it go. George muttering and swearing to himself as he and Grover swim t the nearest bank.
+85) 0) text: The two fugitives pull themselves up on dry land and fall down exhausted. George takes a few deep breaths and begin to shake off the water. He glances at the empty gun still his hand. Grover looks at George for a long moment and finally speaks.
+89) 0) text: George and Grover are seated in the backseat with towels over their heads and blankets wrapped around their wet clothes. The two determined-looking cops in the front are solely intent on getting their passengers to their destin tion as quickly as possible. George leans forward.
+89) 1) dialog: Couldn't you at least tell us where wetre going?
+90) 0) text: The police car careens up to the building and skids to a dusty halt. The police get out and open the back doors. They usher George and Grover up the wooden steps and insi
+91) 0) text: The station has been recently commandeered by the FBI and temporarily converted into a small operations room with telephones, a police radio receiver and a.large map of th area on the wall. Several men with guns strapped in holst under their arms are busily making calls and taking notes The two Policemen bring in George and Grover, and hand ov George's empty gun to a tough, cigar-chewing plainclothes known as the CHIEF. The Chief looks at the gun, ignoring George's angry sputterings.
+91) 1) dialog: I demand to know what is happening. Where are we?
+91) 3) dialog: Yes.
+91) 5) dialog: I didn't kill Sweet. . Cont. REVISED - "THE SILVER STREAK" - 4/9/76 ge 152 Cont.
+91) 7) dialog: I didn't know they were ?cderal agents.
+91) 9) dialog: Two,
+91) 11) dialog: They're not going into Chicago. They're getting off at the stop before. At Rockdale. (grimaces I was efraid of that. Okay, Matthews, get onto it. We're going to stop the train before Rockcele... He goes to the map and points out the pian for some of th men.
+91) 17) dialog: What's he want me to do with this?
+91) 19) dialog: Well, thanks. Thanks for everything.
+91) 21) dialog: If there's anything I can do... Through the wire screen door we see the Chief waiting by car. He shouts:
+94) 0) text: George is sitting next to the Chief. He turns to him but the Chief is far too locked up in his own private thought to notice. George looks out the window. our 154
+104) 0) text: The police entourage drives across the tracks at the rear the train and parks by the abandoned mill. ‘The Chief is first out and walks over to Bronsky. George follows.
+108) 2) dialog: Wha...What are you doing here? A bullet ricochets off the wooden tier and the two men hi the dirt. Grover gets up and peers over the top.
+108) 4) dialog: (grabbing. him) Get down! Grover gets down and finishes loading the gun.
+108) 5) dialog: What did you come back for? Cont. 465 99 B-169 cont.
+108) 7) dialog: Thanks. Some thief you are.
+111) 0) text: George and Grover run down the corridor past the Professo old room toward the diner.
+115) 0) text: Johnson has finished Clearing the glass from the window. kneels down and takes aim.on the second helicopter. Just then Grover runs through the door. Before he sees Johnson Johnson sees him and, swinging around quickly, fires. Gro crashes into some tables and tumbles to the floor while h gun slides out into the aisle. Hilly screams. George ente and dives for the gun.. Johnson sees him and stands to fi Hilly picks up a chair and smashes Johnson in the chest w it. He turns to knock her with his rifle when George pick up the gun and fires. Johnson staggers back with a bullet hole in his, chest. He falls, grabs at a tablecloth and r under the table, dead. George runs to Hilly and she holds him tightly. after a moment he looks at her.
+115) 1) dialog: You all right? -
+117) 0) text: George, Hilly and Grover look out the window and see the helicopter flying straight at them. They all quickly take cover and drop to the floor.
+120) 0) text: At the SOUND of gunfire George races to the broken window and looks out toward the engine. Hilly and Grover crowd behind him. George sees Devereau leaning out of the engin ready to fire at the helicopter. He turns back inside.
+120) 1) dialog: Gimme that rifle. I've got an idea. He picks up Johnson's rifle and leans out the window. our 188- ~— 190 INT. THE LOCOMOTIVE - Day 191 The Chief's helicopter readies for the attack. Devereau i firing madiy. Suddenly a buzzer sounds and the train begi to lurch. Devereau looks around at the Engineer and sees that the Engineer's foot is off the pedal. The train is about to stop. The Engineer panics and backs aw. - Devere fires, killing him dead. His body falls from the train. Cont. 465
+122) 0) text: Devereau, finished with his work, grabs his rifle and lea out of the cab to shoot. From the first-class diner windo George fires. The bullet misses but Devereau turns around exposing himself to the helicopter flying overhead. A bul hits him in the shoulder. He spins around by the cabin door and begins mad and reckless firing at the helicopter Another bullet hits him in the knee. He trips and tumbles out of the engine, dropping his rifle and desperately hanging on to the ladder with one hand. His other hand swings for the steps and he grabs them. He looks ahead an we ZOOM in on his terrified face as he sees what is approaching. . 465 104
+126) 0) text: George too has seen Devereau's death. He pulls his head inside the window and the freight train rattles by. Hilly leans forward to see what happened but George stops her.
+126) 1) dialog: Don't look...They got Devereau. The freight train passes and George turns back to the window. He sticks his head out and waves at the Chief's chopper.
+129) 0) text: George and Hilly are seated together by the window watchi the station whiz by. She turns to him very troubled.
+129) 3) dialog: I'm not sure yet, but it looks like there is no one up front in the engine.
+129) 5) dialog: That's right.
+129) 7) dialog: What the...!
+129) 10) dialog: Terrific!...Then I've got to get to the engine.
+134) 0) text: George, Hilly and Grover are moving down the corridor whe the door opens and Ralston steps out. He has the bandage around his head and is feeling a little woozy.
+134) 6) dialog: There's no one driving the train.
+134) 8) dialog: Does this look like we're stopping? Ralston gets the message. He goes over to the emergency c in the corner and pulis. It comes out in his hand.
+138) 0) text: Hilly looks out the window and turns to George.
+138) 2) dialog: The only thing we can -- insulate ourselves against one mighty crash.
+141) 5) dialog: What do we have to do?
+141) 8) dialog: (to Greve) C'mon. You hold the back of my belt. George eases himself toward the pin.
+144) 0) text: Lying flat on his belly George slides himself down toward bolt. Grover and Hilly are holding him while he looks at Cont. 465 112 222 Cont. speeding railway tracks below. He finds a place for his h and inches his way toward the pin. He gets his hand on it and tries to move it. It won't budge. George wipes the sweat from his face and mutters an oath,
+145) 0) text: The Silver Streak is flying by signal towers and along th mazes of crisscrossing tracks. INT, THE CONNECTING PLATFORM - DAY 22h George tries again without success. He has to move closer for more leverage. Grover leans over holding him by the belt, while Hilly holds his leg. George gets his hand on the pin again and gives it a mighty pull. It moves.
+145) 1) dialog: I moved it! Suddenly the train lurches and Grover loses his grip. Geo tumbles down, scrambling madly for balance. Hilly screams He stops himself in time, his face not more than two feet from the gravel railway bed. Hilly grabs at his clothes a Grover takes hold of his legs. Together they manage to pu him back to his original position. George takes a few dee breaths and tries again to move_the pin.
+148) 0) text: George makes another attempt at the pin. He moves it and pulls it up but he hasn't got the strength or the leverag turn it to the left. He sweats and grunts. Hilly looks at him with an anguished face. Grover, holding onto George's belt, watches the tracks zipping by. He too is sweating profusely.
+155) 0) text: George steps off the carriage and plants his feet firmly the ground. He draws a long breath and then turns to help Hilly down, She falls into his arms and they hold each ot for a moment of great relief and happiness. Grover steps and glances up toward the end of the track.
+157) 4) dialog: You know I look at the face of that engine and I swear I can see @ grin.
+157) 6) dialog: Where's Grover? They look around and see Grover over by the Dodge Dart wi his hands in the engine.
+157) 8) dialog: I think he's just bagged himself another pussey. Grover slams down the Dodge Dart hood and, officiously ordering people to get out of the way, sits at the wheel begins to slowly drive orf through the crowd. He passes George and Hilly and winks before he dissappears down a r George shakes his head and smiles.
+157) 9) dialog: He's crazy!
+157) 12) dialog: A park?

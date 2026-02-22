@@ -1,0 +1,65 @@
+5) 4) dialog: Late?
+5) 6) dialog: Ricky Hendricks has to cancel today. He didn't say what  he was canceling or why.
+5) 8) dialog: And...Spencer wants to meet you for a drink at Fluties Pi
+5) 10) dialog: After six.
+5) 12) dialog: Oh? And what should I say?
+5) 14) dialog: Just say no? Jean stands at his desk, waiting for instructions.
+5) 16) dialog: (Playfully)  Yes, sir. She turns to leave.
+5) 18) dialog: Oh, something. . romantic?
+5) 20) dialog: I'll do it.
+5) 22) dialog: You look nice today. Jean exits. Bateman straightens some magazines in his  office, lifts a painting off the wall and puts it back at slightly different angle. He fiddles with some pencils in beer stein. He puts on some MUSIC and flips through a  Sports Illustrated. He buzzes Jean. She comes in a moment later with the Perrier and a file.
+5) 23) dialog: Yes?
+5) 25) dialog: Ummm...what? I didn't hear you.
+5) 27) dialog: (Smiling bravely)  You don't like this, I take it?
+5) 29) dialog: (Sarcastically)  Thanks, Patrick. The phone RINGS and Jean turns to leave.
+20) 0) text: Bateman is sitting at his desk, with the latest copy of  Sports Illustrated in front of him and his Walkman playin Kenny G. We hear the MUSIC until Jean enters and he takes the Walkman off.
+20) 2) dialog: Patrick?
+20) 4) dialog: Patrick, a Mr. Donald KIMBALL is here to see you.
+20) 6) dialog: Detective Donald KIMBALL? Silence. Bateman stares out the window, then down at the  drawing of a headless woman he's been doodling on the bac cover of Sports Illustrated.
+20) 8) dialog: (whispering)  Patrick, I think he knows you're here.  It's only ten-thirty.  Silence. 
+20) 28) dialog: Patrick?
+20) 62) dialog: Yes, Patrick?
+30) 0) text: Bateman sits at his desk wearing Wayfarers doing the New Times crossword puzzle at dusk. Jean knocks gently on the half-open door and walks in wit a folder in her hand. Bateman ignores her.
+30) 1) dialog: Doin' the crossword? Bateman nods without looking up.
+30) 2) dialog: Need help? BATEMAN doesn't respond. We see that every space on the  puzzle has been filled in with the words MEAT or BONE. Je drops the folder on his desk and then walks out.
+30) 4) dialog: (Re-enters office)  Yes, Patrick?
+30) 7) dialog: Oh no. I have no plans.
+30) 10) dialog: Anywhere you want?
+30) 12) dialog: Oh Patrick, I can't make this decision.
+30) 14) dialog: Oh, I can't.  (Sighs)  I don't know.
+30) 16) dialog: What about...Dorsia? Bateman stops looking through the Zagat's guide and smile at her.
+30) 18) dialog: Oh, I don't know. No, we'll go anywhere you want.
+30) 29) dialog: You didn't give them a name.
+31) 0) text: Jean stands by the floor-to-ceiling windows, looking out.
+31) 1) dialog: Patrick, it's so...elegant. What a wonderful view. Bateman opens up the freezer where Daisy's head is cleady visible.
+31) 3) dialog: Thanks, Patrick. I'd love some. Bateman walks in with a bottle of wine and a corkscrew in his hand and hands her the sorbet. Jean is eating the sorbet.
+31) 4) dialog: Want a bite?
+31) 6) dialog: You don't need to lose any weight. You're kidding, right? You look great. Very fit.
+31) 8) dialog: Well, maybe we shouldn't go out to dinner. I don't  want to ruin your willpower.
+31) 12) dialog: Well, I'd like to travel. And maybe go back to school,  but I really don't know...I'm at a point in my life  where there seems lo be a lot of possibilities, but I'm s I don't know...unsure. Bateman is touching a knife in the drawer, feeling the ed of the blade.
+31) 14) dialog: No, not really.
+31) 16) dialog: (Shyly)  Are you seeing anyone? I mean, seriously?
+31) 19) dialog: Well, I guess I do. For a long time I was too focused  on my work, I think, but now I've really begun to think a changing myself, you know, developing, and...growing.
+31) 22) dialog: Who's Ted Bundy?
+31) 24) dialog: What's that?
+31) 26) dialog: Patrick, have you ever wanted to make someone happy? Jean puts her spoon down on the table.
+31) 28) dialog: Sorry.  (She puts the spoon in the carton)
+31) 30) dialog: Make someone happy-have you ever wanted to? From behind, we follow Bateman as he walks across the roo stands behind the couch.
+31) 32) dialog: Hmmmm.  He points the nail gun at the back of Jean's head. The phone RINGS. Startled, Bateman hides the nail gun  behind his back. The answering machine picks up. As Batem listens he discreetly places the nail gun behind the couc He sits down opposite Jean, enjoying her discomfort as sh listens to the message.
+31) 34) dialog: Was that...Evelyn? Silence.
+31) 35) dialog: Are you still seeing her? Silence.
+31) 36) dialog: I'm sorry, I have no right to ask that. Silence.
+31) 37) dialog: Do you want me to go? A long pause.
+31) 39) dialog: I know I should go. I know I have a tendency to get  involved with unavailable men, and...I mean, do you  want me to go? Another long pause.
+31) 41) dialog: No. No, I guess not. I don't want to get bruised.  You're right, I should go. She gets up to leave.
+31) 42) dialog: And don't forget you have a breakfast meeting with  Frederick Bennet and Charles Rust at '21.
+32) 0) text: Bateman enters P&amp;P, walks up the corridor and pauses the door to his office. He sees KIMBALL in conversation w Jean, and Jean looking through her date book. He watches a moment, frozen with anxiety. He then bursts in, shuttin the door behind him.
+45) 1) dialog: Patrick Bateman's office.
+45) 3) dialog: Patrick? Is that you?
+45) 5) dialog: Where are you?
+45) 7) dialog: Craig McDermott called. He wants to meet you and  David Van Patten and Tim Price at Harry's for drinks.
+45) 9) dialog: Patrick? I can't hear you.
+45) 11) dialog: Where are you? Patrick, what's wrong?
+45) 14) dialog: Why?
+45) 16) dialog: What is it, Patrick? Are you alright?
+47) 0) text: Jean is alone in Bateman's office, looking through his di We see the pages that she is looking at. They are filled doodles of mutilated women and their names...Jean looks l and frightened, and begins to cry.

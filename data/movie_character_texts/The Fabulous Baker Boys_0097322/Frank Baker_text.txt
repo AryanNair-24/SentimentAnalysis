@@ -1,0 +1,638 @@
+2) 0) dialog: Jack's older brother, FRANK, is pacing outside the lounge when he sees Jack approaching.
+2) 1) dialog: Great.  Terrific.  Glad you could make it.
+2) 3) dialog: How we ... ? What, are you kidding me?
+2) 5) dialog: That's not the point.
+2) 8) dialog: You cannot continue to walk in at the last moment, Jack.
+2) 10) dialog: Jack.
+2) 12) dialog: Jack.
+2) 14) dialog: Christ, will you look at your hair?
+2) 17) dialog: You look like you just crawled out of bed.
+2) 20) text: Careful, Frank.  When you get angry your tie starts to spin. Jack steps into the lounge and Frank, shaking his head, follows.  As they move away, a cardboard stand-up is revealed.  On it are two 8 X 10 glossies of Frank and Jack, and below printed in bold letters, this: "Tonight!  The Doubly Delightful Tones of the Fabulous Baker Boys!"
+2) 23) dialog: (Mr.  Smile)
+2) 24) text: Thank you.  Thank you.  Good evening and welcome to the Starfire lounge.  My name is Frank Baker and eighty-eight keys across from me is my little brother, Jack. Applause.  Little brother Jack smiles, winks, and takes a draw on his cigarette.
+2) 25) dialog: (continuing; could do this in his sleep)
+2) 28) dialog: That's a lot of water under the bridge, eh, Jack?
+2) 30) dialog: Of course, back then, things were a little different.  I was eight, Jack was seven, just about the only song we knew was 'My Bonnie Lies Over the Ocean', and the only one who would listen to us was the family cat, Cecil. (to Jack)
+2) 32) dialog: (continuing)
+2) 34) dialog: (continuing)
+2) 36) dialog: (continuing)
+2) 38) text: ... people. At which point Frank's hands descend onto the keyboard and give birth to the melody of -- what else?  "People.'
+2) 39) dialog: They exit the stage to applause.
+2) 40) dialog: Thank you.  Remember, room service is available till one A.M. for you late-nighters.
+3) 0) text: Jack and Frank pass through the steamy hotel kitchen.
+3) 1) dialog: Don't make trouble, all right?
+3) 7) text: Frank.
+3) 8) dialog: (the feeling's mutual)
+3) 13) dialog: (as they exit)
+4) 0) text: Frank stands across the desk from a YOUNG MAN who, despite his youth, has an irritatingly paternal attitude toward the two men in his office.  Jack stays in the doorway, smoking a cigarette, as if to venture any further is to risk contracting some hideous disease.
+4) 3) dialog: Thanks, Lloyd.
+4) 5) dialog: Uh ... thanks. Frank glances at Jack and realizes he should have left him in the kitchen with Hector and the soup bone.
+4) 10) dialog: Uh ... You don't know when you'll be wanting us back, do you, Lloyd?
+4) 12) dialog: Uh, well, you know, the way our schedule is, I thought maybe...
+4) 15) dialog: Huh?
+4) 17) dialog: Jack...
+4) 19) dialog: It's all here. (pulling Jack out)
+5) 0) text: Jack comes out onto the street holding the wrapped soup bone, dogged by Frank, who's got the cardboard stand-up under his arm.
+5) 1) dialog: You mind telling me what that was about in there? Was that planned?   Or were you just bored and decided to get creative?
+5) 3) dialog: This isn't the Pine Tree Inn on Route 81, Jack.
+5) 5) dialog: (to himself)
+5) 6) text: Fuck him.  Great.  Terrific.  Fuck him. The fabulous Bakers walk in silence until they come to Frank's car. Frank opens the trunk and starts to put the stand-up away.
+5) 8) dialog: (shaking his head)
+5) 10) dialog: (continuing)
+5) 12) dialog: (continuing)
+5) 15) dialog: You're their uncle.
+5) 17) dialog: They don't.  They're always asking about you.
+5) 19) dialog: It was an accident.
+5) 21) dialog: Cindy.
+5) 23) dialog: She didn't know what she was doing. You're too sensitive.
+5) 25) dialog: Look, I just thought if you came out you might see what you're missing. Jack just stares at Frank.
+5) 26) dialog: (continuing)
+5) 27) text: Just think about it, all right? Consider it a standing offer. Frank closes the trunk and moves to the driver's side.
+5) 28) dialog: (continuing;like a litany)
+5) 29) text: You want a ride, Jack?  No, Frank, I'll walk.  Okay, Jack, good night. Good night, Frank. Frank turns the ENGINE OVER and pulls away from the curb. Jack watches the taillights burn into the distance, then takes the whiskey bottle from his coat and heads for home.
+7) 0) text: Jack and Frank work opposite sides of a large piano showroom, inspecting rentals of every style and color. WILLIE, the owner of the place, leans against a cheap upright, contemplating his shoes.
+7) 1) dialog: What happened to the two Clays, Willie?
+7) 3) dialog: When they coming in?
+7) 5) dialog: What d'ya got?,
+7) 8) dialog: What d'you say, Willie?  Tighten her up?
+7) 10) dialog: Two nights. Willie just looks at his shoes and shakes his head. Frank frowns and glances around. Across the room, Jack pauses before another piano.
+7) 11) dialog: (continuing)
+7) 14) text: Yamaha white.  Nice. Frank moves to another grand and alternates taps with his brother to see if the two pianos are in harmony.
+7) 15) dialog: What do you think?
+7) 17) dialog: Tag 'em, Willie.  The Regency downtown, Thursday-Friday.  Thanks.
+8) 0) text: The brothers sit at a window of a corner diner, Jack nursing an ice coffee, Frank playing with a plate of scrambled eggs.   The glass next to them is cluttered with photographs of neighborhood luminaries, including two of Jack and Frank in their tuxedoes.
+8) 1) dialog: You know, I think it's been five years since I saw you eat anything. That's the God's truth.
+8) 3) dialog: You look awful.
+8) 5) dialog: Really.  You sleeping?
+8) 7) dialog: (a look)
+8) 10) dialog: Because I'm your brother.  Because I care about you. Because sometimes it seems like the most significant relationship in your life is with that goddamn dog of yours. Jack studies his brother's face.
+8) 12) dialog: What about that waitress at the Ambassador?
+8) 14) dialog: Funny. (points at his wedding band)
+8) 17) dialog: It's more than that. Jack smiles and sips his coffee.
+8) 18) dialog: (continuing)
+8) 21) dialog: No, I mean it.
+8) 23) dialog: We gotta go, Jack.
+8) 25) dialog: This time you gotta go.
+8) 27) dialog: You gotta go.
+8) 29) dialog: Your older brother.
+8) 31) dialog: Christ, Jack, it's her birthday. Jack glances up.  Frank nods.
+8) 32) dialog: (continuing)
+8) 34) dialog: (continuing)
+9) 0) text: Jack, cradling a pink bakery box in one hand, gets out of Frank's car and surveys the street on which he grew up.
+9) 1) dialog: Make sure you lock.
+9) 4) dialog: Place looks good, huh?  I got a neighbor boy to mow the lawn, pick up. Five bucks.   Times've changed, huh? (pointing)
+9) 5) text: See the tree? Remember the job Cecil did on it the day Dad planted it? You can still see the scars on the trunk.  Really. I was looking at it just the other day. Jesus, I thought he was gonna kill that cat. Frank smiles, recalling Cecil's near-demise, then raps on the front door. Jack studies the tree a moment, then gestures to the tiny ribboned box in Frank's hand.
+9) 7) dialog: You'll see.
+9) 10) dialog: How's the birthday girl?
+9) 15) text: Good to see you, Ma. Jack looks over his mother's shoulder at Frank and mimics "John" with a knowing nod.
+9) 16) dialog: Uh, Ma, you know, no one calls him that anymore. Jack. He goes by Jack.
+9) 18) dialog: Twenty years, Ma ...
+9) 20) dialog: Uh ... yeah, well, you know, Ma, John Kennedy went by Jack.
+9) 22) dialog: Keep her busy, will ya? I have to set a few things up. Frank disappears, leaving Jack alone on the porch with the bakery box.  Jack shakes his head, wondering how he's going to make it through the afternoon then enters the house.
+10) 0) text: The front room is cluttered with his childhood.   Most noticeable are the pianos: two tiny uprights, perfectly matched, their simulated ivory keys yellowed with age.  Above them, pressed between glass and framed, are the music ribbons, faded by twenty years of sunlight. Finally, there is the sheet music, dusty and dog-eared, piled everywhere in drunken stacks. This and all else in the room Jack confronts slowly, warily, but with a noticeable dispassion, until his eyes fall upon a photograph. In it, he and Frank are standing alonside a tall man in baggy slacks, safe within the arc of his long arms. Frank is staring straight into the camera, neat, clean, perfectly posed, but Jack, a year younger, his shirt too big, is caught in profile, looking up at the tall man with an almost worshipful gaze
+10) 2) text: Well, now, where's everyone run off to? Frank?
+11) 0) text: Frank comes stumbling up the basement stairs with an old movie projector and a roll-up screen.
+11) 2) text: What's all this? Frank sets the projector down and hands his mother the tiny ribboned box.
+11) 3) dialog: Go on. Jack watches from the kitchen doorway as Mrs. Baker pulls the ribbon off the box.   Inside is a tiny spool of film.
+12) 0) text: Blank screen, curtains drawn, the room dark.   Frank clicks on the projector and picks up his cake.   Mrs. Baker close on his elbow, sets her plate on her knees and watches the screen.   Jack sits off to the side.   A title card appears: "For Mrs. Ellie Baker, who made it all possible." Mrs. Baker gives Frank a puzzled look.   He just smiles. Suddenly, images spring to the screen, obviously footage several years old, showing Jack and Frank as children, sitting at the tiny pianos, wearing matching suits, smiling matching smiles as they play for the camera.
+12) 2) dialog: Recognize these two characters?
+12) 4) dialog: In the attic.  Behind some of Dad's stuff. (pointing with his fork)
+12) 5) text: Look, Jack can hardly reach the pedals. As Frank's laughter fills the dark room, Jack stares with cold fascination at the screen.   Suddenly, a jagged cut springs the boys a year later, in the same positions, smiling the same smiles.
+12) 8) dialog: I had a boy down at the camera shop cut them all together.  Boy, old man Henderson didn't fool around when he gave a haircut, did he, Jack? Jack says nothing.
+12) 10) dialog: Wait.  Watch.  Here comes Dad. Jack's eyes narrow as the film jumps another year and a man enters the frame, obviously by accident.   He is so tall his face cannot be seen.   As he dances quickly out of sight, he ruffles Jack's hair.
+13) 0) text: Frank and Jack are parked in front of Jack's building. Whispers of steam snake from the mancovers in the street.
+13) 2) dialog: What do you mean?
+13) 4) dialog: Nah.  Medication. Jack looks over at Frank.  He nods.
+13) 5) dialog: (continuing)
+13) 8) dialog: She was glad to see you.
+16) 0) text: Though the plastic palms and grass-skirted waitresses of the Luau Lounge make the Fabulous Baker Boys' presence seem a bit incongruous, Jack and Frank hold nothing back, giving "McCarthur Park" the full treatment.   Unfortunately, the audience in the Luau Lounge wouldn't fill a Hawaiian haystack and their applause is less than volcanic.
+16) 1) dialog: Uh, thank you.  That concludes our show for this evening.  Jack and I only hope you enjoyed yourselves as much as we did. As the guests wander out, clutching their roomkeys, a freckle-faced BELLHOP comes up.
+16) 3) dialog: (tired)
+16) 6) dialog: All right, tell him I'll be right there. As Jimmy exits, Frank stands and points at Jack.
+16) 7) dialog: (continuing)
+17) 0) text: Frank pauses before a door marked "HOTEL MANAGER." It's half-open.  Inside, CHARLIE SIMPSON, a heavy man in a shiny suit, is throwing darts in the general direction of a dartboard.  He's not very good.  Frank knocks.
+17) 2) dialog: You wanted to see me, Charlie?
+17) 5) dialog: Little slow tonight.
+17) 7) text: Mondays. Charlie takes an envelope from his desk and hands it to Frank.
+17) 8) dialog: What's this?
+17) 10) dialog: Now?  Why not tomorrow?  After the show.
+17) 12) dialog: (confused)
+17) 15) dialog: I've got the grands for two nights, Charlie.  You can't just --
+17) 17) dialog: What're you saying, Charlie?
+17) 19) dialog: Twelve years.
+17) 21) dialog: So?
+17) 23) dialog: Vacation?  Christ, Charlie, it's a Monday night. You said so yourself.
+18) 0) text: Jack rises as Frank passes through the lobby with the cardboard stand-up.
+18) 2) dialog: Nothing.  Everything's great. Terrific.
+19) 0) text: With the stand-up under his arm, Frank enters and closes the door quietly.   A light is glowing in the kitchen.   The rest of the house is dark, quiet.  In the kitchen, he checks the message pad by the phone.  Nothing.   On the table, a plate of cold chicken is waiting for him. Next to it is a stack of bills with a note attached: "Frank. Please." Frank sighs and leans the stand-up against the wall.   The photo of Jack is peeling off the cardboard.   Finding a stack of glossies in a drawer, Frank removes the old Jack from the stand-up and replaces it with a new one.   As he presses the photograph in place, his eyes drift to the one of himself.   It was taken a long time ago.
+20) 2) dialog: It's me.
+20) 4) dialog: Yeah.  Listen ... come out to the house tomorrow, will ya?
+20) 6) dialog: It's not family.  It's business.
+20) 8) dialog: We don't get a gig.
+20) 10) dialog: Something came up.  Don't worry, Charlie stayed true.  Both nights. I'll give you your share tomorrow. At the house. Silence.
+20) 11) dialog: (continuing)
+22) 7) text: Hey, kid.  Take it easy. No use.  The kid's a world-class screamer.   Frank, wearing baggy shorts and looking alarmed, comes racing out of the house.
+22) 8) dialog: Cindy!  What is it? Cindy points.  At Jack.
+22) 9) dialog: (continuing)
+22) 12) dialog: Honey, it's only Uncle Jack.  You remember Uncle Jack. DONNA, Frank's wife, appears.
+22) 14) dialog: (lifting Cindy out of the pool)
+22) 17) dialog: Feet! The kids wipe their dripping feet on the outside mat and disappear into the house.  Frank turns to Jack.
+22) 18) dialog: (continuing)
+23) 1) dialog: Well, look at this.
+23) 11) dialog: Nice, huh?
+23) 13) dialog: The trees.  The flowers.  Nice.
+23) 15) dialog: (expansively)
+23) 20) dialog: I don't know what you mean.
+23) 22) dialog: I told you.  Something came up. Some political dinner or something.
+23) 24) dialog: It wasn't like that.
+23) 26) dialog: No.
+23) 28) dialog: Hey pal, I got a mortgage, all right?   I got two kids. I got a wife. Besides, he made the deal.   There's no shame in it.
+23) 30) dialog: Yeah, that's how I see it. Jack shakes his head in disgust.
+23) 31) dialog: (continuing)
+23) 35) dialog: Yeah, and what put him up there?
+23) 37) dialog: Look, can we forget last night? We gotta talk.
+23) 39) dialog: I been thinking maybe we should make some changes. (pause)
+23) 42) dialog: It's just an idea.  I want your opinion. I mean, we go halfway on everything, right?
+23) 44) dialog: We agreed that if I took care of the business; I'd be entitled to the extra. Isn't that what we agreed?
+23) 46) dialog: If you're unhappy with the arrangement --
+23) 48) dialog: If you'd like to assume more of the financial responsibilities, I'd be glad --
+23) 50) dialog: I've tried to do well by you, Jack. By both of us.
+23) 52) dialog: I thought maybe twenty percent. Look, with the additional bookings we'll come out ahead.  The big hotels, they want a pretty girl with a big voice. We have to stay competitive, Jack. Jack laughs coldly.
+23) 53) dialog: What's that?
+23) 55) dialog: Two pianos isn't enough anymore, Jack.
+23) 58) dialog: Good morning, Miss...?
+23) 60) dialog: All right, Miss Moran
+23) 62) dialog: I'm sorry?
+23) 64) dialog: Blanche.
+23) 66) dialog: Well, that's fine --
+23) 68) dialog: Right.
+23) 70) dialog: Uh-huh.  Well, Miss Moran, what is it you'd like to do for us?
+23) 73) dialog: It's one of Jack's favorites. Monica turns and, seeing Jack at the piano, gives a little start.
+23) 75) dialog: Uh... he knows it.
+23) 78) dialog: Well, shall we? Probably not, but Jack begins to play anyway, laconically picking out the cheery tune while Monica swings her arms and taps her foot. Despite all this, Monica still manages to come in between beats and Jack has to scramble over a chord to catch her, sort of like a fireman with a net.
+23) 80) dialog: Thank you, Miss Moran, that's enough. Monicals eyes are closed now and she is fully caught up. Frank looks over at Jack.   Jack shrugs and continues to play.
+23) 81) dialog: (continuing)
+23) 84) dialog: Yes, it is.
+23) 90) dialog: are putting on their coats, preparing to leave. Frank is staring at his notepad.
+23) 91) dialog: Thirty-seven.  Thirty-seven.
+23) 93) dialog: Thirty-seven girls. And not one who can carry a tune. That must be statistically impossible.
+23) 95) dialog: I just don't understand.  You would think someone ... anyone ...
+23) 98) text: Brand new Thursday.  You believe it? After today, Jack and Frank are prepared to believe anything.
+23) 101) dialog: This is where the auditions were.
+23) 103) dialog: We're finished.
+23) 105) dialog: You're an hour and a half late.
+23) 107) dialog: Punctuality.  First rule of show business. The Woman looks around her.
+23) 109) dialog: (in no mood)
+23) 113) dialog: Don't take it personally.
+23) 115) dialog: Impersonally. Frank begins to leave.
+23) 117) dialog: You're an hour and a half late.
+23) 119) dialog: We ran long.
+23) 121) dialog: Miss --
+23) 125) dialog: Terrific.  Thirty-eight.
+23) 130) dialog: (appealing)
+23) 133) dialog: All right.  What's your name?
+23) 135) dialog: Catchy.  You have any previous entertainment experience, Miss Diamond?
+23) 139) dialog: Okay.  I think that's all we need to know.
+23) 141) dialog: That's the premise. Susie gives Frank a dark look, then turns to Jack.
+23) 144) text: I get along without you very well Of course I do Except when soft rains fall And drip from leaves, then I recall The thrill of being Sheltered in your arms Of course I do But I get along without you very well.' Susie stops.  Frank just sits there.   Jack just sits there.  She can sing.
+23) 147) dialog: (blinking)
+23) 148) text: Uh ... we'll let you know. Jack looks over at Frank like he's insane.
+23) 150) dialog: When we know.
+23) 152) text: Don't leave a girl hanging. Second rule of show business. Frank's not amused.
+23) 156) dialog: I just thought we should talk about it.  Between ourselves.
+23) 158) dialog: I don't know ... She had gum on her lip, for Christ sake.   I don't think she's right for the act.
+23) 161) dialog: I was just thinking what Ma would think.
+23) 164) text: How many other silent partners are there, Frank? Donna?  Little Cindy?   Hell, let's give Eddie a vote.
+23) 165) dialog: Okay, okay.  I'll call the girl. Frank gets up wearily, then glances down at the notepad.
+23) 167) dialog: I didn't get her number.
+24) 0) text: Jack and Frank dash out of Willie's and glance up and down the street.  Nothing.
+24) 1) dialog: We can always look her up in the book. JACK. Right.  Susie Diamond.  She's probably listed right next to Monica Moran. Jack shakes his head in disgust.
+24) 3) text: Jack and Frank whirl around. There, standing in the doorway, is Susie.
+24) 7) dialog: Ready? Jack nods.
+24) 8) dialog: (continuing)
+24) 9) text: Ready? Susie nods.  Frank poises his hands over the piano, hesitates, then looks at Jack again.
+24) 10) dialog: (continuing)
+24) 11) text: Ready? Jack squints at Frank, then nods.   Frank turns to Susie.
+24) 12) dialog: (continuing)
+24) 15) text: What are we, an orchestra all of a sudden? Frank g1ares at her.
+24) 17) text: Sorry. Frank poises his hands over the piano again and begins to play the opening passage of "Just the Way You Are." A moment later, Jack joins in, and a moment after that, Susie.  Unfortunately, Jack and Frank, accustomed to playing alone, are a tad overwhelming and the result sounds like a fifth grade recital. After a few bars, Susie holds up her hand.
+24) 19) dialog: What's the problem?
+24) 21) text: ... music.  You know what I'm saying? Jack and Frank look at one another.
+24) 23) text: I mean, back there it may be hard to notice, but up here I'm having a little trouble getting a word in. Jack and Frank just stare.
+24) 26) dialog: (icily)
+24) 29) dialog: We're a team.  We work together.
+24) 31) dialog: I suppose we can bring it down a little.
+24) 33) dialog: Okay? Susie looks at the two brothers.
+24) 36) dialog: I'm telling you, Ray.  She's got a voice like an angel ... What? Frank glances furtively across the room to where Susie, making a very sexy silhouette against the front window, is running her hand over a pearl-white piano.
+24) 37) dialog: (continuing)
+24) 38) text: No, I wouldn't say she's got a body like an angel. As Frank continues to talk in the background, Susie looks over at Jack.
+25) 0) text: As Jack enters the hotel, he passes by the cardboard stand-up, prominently displayed in the lobby.   It is virtually unchanged, except for a small notation at the bottom: "With Guest Vocalist." On the other side of the lobby, Frank is pacing nervously.
+25) 1) dialog: Where the hell is she?
+25) 3) dialog: I told everyone seven-fifteen. Didn't I? Seven-fifteen.
+25) 5) dialog: Just like the day of the auditions, right?  Jesus.  How's my hair?
+25) 7) dialog: Yeah, well, Your's isn't. (taking out a comb)
+25) 10) dialog: Come on, stand still.
+25) 12) dialog: It's not gonna hurt you.
+25) 14) dialog: (holding his shoulder)
+25) 17) dialog: All right, all right.  I'm a little tense.
+25) 19) dialog: I just wish she'd get here, that's all.
+25) 21) dialog: Christ, look at her. You'd think if she was gonna wear her street clothes she'd have enough sense to come in the back. (walking over)
+25) 24) dialog: What-?
+25) 26) dialog: We'll talk about it later.  Right now, you gotta get changed.
+25) 28) dialog: Where's your dress?
+25) 31) dialog: Is there a language problem here?  Your dress. For tonight.  Where is it?
+25) 33) dialog: That!  You can't wear that!
+25) 35) dialog: It's orange!
+25) 37) text: Am I missing something? Before Jack can reply, Frank grabs Susie's hand and pulls her toward the door.
+25) 38) dialog: Come on.
+25) 40) dialog: Come on.  We don't have much time.
+26) 0) text: Frank, Jack and Susie dash through a cavernous downtown department store, the brothers turning a few heads with their tuxedoes.  As they reach the ladies' department, Frank begins to flip through the dress racks.
+26) 2) dialog: Just look.  What do you wear? A nine?
+26) 5) dialog: My wife wears a seven.  You don't look like a seven to me.
+26) 7) dialog: Okay, okay.  Here, how about this?
+26) 10) dialog: We're not exactly silly with time, you know.  Jack, you find anything? Jack, somewhat out of his element, is looking at belts.
+26) 12) dialog: Here, how's this? Frank holds out an inky black dress.  Susie gives it a long look.
+26) 13) dialog: (continuing)
+26) 14) text: Close enough.  Let's go. Frank begins to drag Susie into the dressing room.
+26) 16) dialog: All right, but make it quick. (remembering)
+26) 20) dialog: Nine?
+26) 22) dialog: (to himself)
+27) 0) text: Frank and Jack work the shoe department, scouting the endless rows.
+27) 1) dialog: See anything?
+27) 4) dialog: Jack, for crying out loud.  Your bachelorhood's showing. (seeing something)
+27) 5) text: Ah, here we go. Frank grabs a pretty blue pump and gestures to the SALESMAN, who's waiting on a woman.
+27) 6) dialog: Hey!  Do these come in black?
+27) 8) dialog: I don't have a minute, pal.  Yes or no?
+27) 11) dialog: Okay.  Give me a pair of nines. Pronto. The Salesman looks casually at Jack.
+28) 0) text: As Jack and Frank return to the dress department, Frank jettisons the shoebox and tissue paper.
+28) 1) dialog: All right, we got your shoes. Just then, Susie steps out of the dressing room. Even Frank stops at the sight of her.
+28) 3) dialog: Uh... good.
+28) 8) dialog: Right. Frank puts the shoes down and Susie steps into them.
+28) 10) dialog: They're nines.
+28) 12) dialog: You can buy new ones tomorrow.
+28) 14) dialog: Don't worry.  We'll take it out of your share.
+29) 2) dialog: We had a little emergency.
+29) 5) dialog: (moving off)
+30) 1) dialog: We need scissors over here! Who's got scissors? (turning to Susie)
+30) 5) dialog: Right.
+30) 7) dialog: Carlos, that's,a cleaver.  I need scissors.
+30) 9) dialog: Jesus Christ.  All right.  Let's go, Jack.  Fix your tie. Jack and Frank exit.   Susie stares a little warily at Carlos and his cleaver.
+31) 0) text: Jack and Frank slide quickly behind their pianos.   About half the tables in the room are filled.
+31) 1) dialog: Good evening, ladies and gentlemen.   Welcome to the Ambassador Lounge.   My name's Frank Baker and no, you're not seeing double, it's just my little brother, Jack. Some laughter.
+31) 2) dialog: (continuing)
+32) 8) dialog: But seriously, folks, as I sit here tonight, looking out on all your kind faces, I can't help but feel some of us have met before.  We may not know each other's names, we might not recognize one another on the street, but we know each other just the same.  And over the years we've shared something.  A little music, a little drink, a little laughter, maybe even... a few tears.   But I guess that's what friends are for, huh? Applause.  Jack puts out his cigarette.
+32) 10) dialog: And it's especially nice to be among friends tonight, because, well, tonight's a very special night for my brother and I. This evening we've asked a young lady to join us, a lady Jack and I are sure will soon seem like just another old friend to you all.  She's making her debut here this evening and, as far as I'm concerned, she couldn't be doing it in a better place. Because there's one place that's always been for us a very special place, and that place is this place, the Ambassador Lounge.  Ladies and gentlemen, please welcome a very special lady with a very special way of singing a song, Miss Susie Diamond. Applause.  Susie strides out of the kitchen, past the busing station, and up to the microphone stand, which, unfortunately, is not on.
+32) 11) dialog: (continuing; whispering)
+32) 16) text: Pardon me. Jack and Frank look at one another, then, before outrage can set in, plunge into the opening number.   Susie takes the mike from the stand and smiles sweetly.
+35) 1) dialog: Fucking.  She says fucking in front of an entire room of people.
+35) 3) dialog: (to Jack)
+35) 7) dialog: (directly to her)
+35) 11) dialog: (grabbing the bills)
+35) 14) dialog: We are not a saloon act.  We do not take tips from dirty old men.
+35) 17) dialog: We do not take tips.  I'll apply this to the cost of the dress. Frank puts the money in his pocket.  Susie stares at him, steaming.
+35) 19) text: And these shoes are too goddamn tight! Susie hurls the shoes at Frank and stalks off barefoot. Jack is leaning against the wall, watching it all with amusement.
+36) 0) text: Jack and Frank, once again in the office of the supercilious Lloyd, waiting as he prepares their cash envelope.
+36) 2) dialog: Born and bred.
+36) 4) dialog: We trust you, Lloyd.  You know that. Frank takes the envelope and begins to leave.
+36) 7) text: By the time they reach the lobby, they are laughing, tripping across the carpet, out the front entrance and onto the sidewalk, where their voices explode in the night air and they begin to do a weird boyish waltz together, laughing giddily, until they see - standing under an awning, lighting a cigarette - Susie, watching them with raised eyebrows.  Jack and Frank, frozen in a clumsy embrace, quickly disengage and begin clearing their throats and squaring their cuffs.  Susie exhales a plume of smoke, studies them a moment, then smiles slightly.
+41) 0) text: In the front window, room has been made among the photographs for one of Susie.  Inside, Jack, Frank and Susie sit at a table, surrounded by empty coffee cups and cigarettes.  Frank has several slips of paper before him with names and dates.
+41) 1) dialog: The twenty-third ... Yeah, here it is. We got the Carlton or the Plaza.  Four day turns. What do you think, Jack? Jack is staring out the window.
+41) 2) dialog: (continuing)
+41) 5) dialog: (watching)
+41) 13) dialog: By the way, I got a messsage yesterday from some guy looking for New Year's action.  Resort, upstate.
+41) 17) dialog: That's what I figure.  Probably have us in a bed-and-breakfast playing to the owls.
+41) 19) dialog: Maybe.  I'll call him.
+41) 21) dialog: (shuffling his slips)
+41) 22) text: That's it except for the first. We got the Sheraton, the Ambassador, or the Holiday Inn on Sixtieth.  All three-day turns. Frank looks at Jack.
+41) 25) dialog: Uh, well ... we flipped a coin.
+42) 0) text: Jack and Frank step out-of the diner and turn their collars up against the chill.   Frank pulls on a pair of gloves.
+42) 1) dialog: Jesus, it's gonna be mean this year.   Where're your gloves? Jack shrugs.
+42) 2) dialog: (continuing)
+42) 5) dialog: Something, huh?  All those bids.
+42) 7) dialog: Yeah ... Well, I gotta go.
+42) 9) dialog: No, I... Little Frank's got strep. Donna's been up two nights making sure the rest of us don't get it. Jack nods.
+42) 10) dialog: (continuing)
+42) 13) dialog: Okay I'll see you tomorrow night then.
+48) 0) text: All done up in reds and greens for Christams Eve. Jack, Frank and Susie -- each decked out in their own little Santa hats -- perform "Silver Bells" for the happy crowd. Jack, smoking a cigarette, will not be mistaken for Santa Claus, but Susie looks adorable. Frank just looks happy. As they finish, the crowd applauds.
+49) 2) dialog: You recognized me.
+49) 4) dialog: So what do you think?
+49) 6) dialog: (not buying it)
+49) 9) dialog: Well, the line's growing weaker, little brother. Lucky for us there aren't any dragons left to slay.
+50) 0) text: Jack and Frank step out into the lobby, thus giving a few people, Susie among them, the curious privilege of seeing Santa Claus exit a men's room.
+50) 1) dialog: You want to come out to the house tomorrow? The way the bookings been piling up, Donna's decided to really lay it on.  Turkey, stuffing, the whole bit.  Kitchen's so full of food you can hardly move.  We could use another appetite.
+50) 3) dialog: All right, but if you change your mind, let me know.  I gotta go get Ma in the morning anyway.
+50) 5) text: Well, well.  Ho, ho, ho.  You moonlighting at Macy's, Frank?
+50) 6) dialog: For the kids. (moving off)
+50) 7) text: Merry Christmas, you two.  Don't forget.  We leave the twenty-sixth. Frank pushes through the revolving door and steps out into the street in his Santa suit.
+54) 0) text: Jack is sitting on a suitcase in front of his building. A moment later, Frank pulls the car up to the curb and Jack gets in.  Susie is sitting up front.
+55) 0) text: Frank, burning with the afterglow of a holiday spent with family, cheerfully maneuvers the car through the city.
+55) 1) dialog: So. How was everyone's Christmas? Jack and Susie stare disconsolately out the window.
+55) 2) dialog: (continuing)
+55) 4) dialog: (continuing)
+55) 5) text: Uh, Jack ... if you don't mind. Jack stares at the back of Frank's head, then puts the cigarette away. Susie takes a peek in the donut bag and looks a little sick.
+55) 6) dialog: (continuing)
+55) 7) text: By the way, if anyone gets bored, Donna packed some travel games. They work wonders with the kids. Frank reaches under the seat and hands Susie a sack full of magnetic games, puzzles, and plastic cubes.
+55) 8) dialog: (continuing)
+55) 11) dialog: Sorry.  It only plays static. Susie looks at the radio, then at the games in her hands.
+56) 1) dialog: Any more coffee? Susie snaps out of her trance and shakes the Thermos.
+56) 5) dialog: Baker's unabridged.
+56) 7) dialog: Virgins.
+56) 9) dialog: First times. Hey, look at this. A crepe-covered car surrounded by several other HONKING VEHICLES passes by.  Jack stares at the beaming newlyweds as they glide past his window, two kids starting life in a beat-up Eldorado covered with toilet paper.
+56) 10) dialog: (continuing)
+56) 15) dialog: He's always right.  Go ahead.  Pick a virgin. Susie looks at Frank curiously.
+56) 16) dialog: (continuing)
+56) 20) dialog: Jack?
+56) 23) dialog: First night?
+56) 25) dialog: Last?
+56) 28) dialog: I told you, he's got the gift.  Same with music. Hears it once and he's got it. Frank smiles into the rear view mirror.
+56) 29) dialog: (continuing)
+57) 0) text: The hotel, done in a sort of King Arthur motif,is built right on the ocean.  Frank guides the car down a simulated cobblestone drive and the three get out.
+57) 1) dialog: Will you listen to that ocean? It's LOUD.  Frank takes a deep breath.
+57) 2) dialog: (continuing)
+57) 5) dialog: Of course it smells like fish.   We're on the ocean. What'd you expect, Chanel number five?
+57) 8) dialog: It's paradise.  That's what it is. Paradise. As Susie and Jack follow Frank up the drive, Jack notices the beat-up Eldorado in the parking lot, its toilet paper streamers blowing gently in the ocean breeze.
+58) 0) text: The lobby is done in royal reds and blues and there are a lot of swords on the walls. Franks steps up to the front desk.
+58) 1) dialog: Hi, we're the Fabulous Baker Boys.
+58) 3) dialog: No. We're the entertainment.
+58) 5) dialog: Outside.  Blue Chevy.
+58) 7) text: Cyril.  Chevy.  Blue.  Take 'em up to the Guinevere Suite. A lanky boy in velvet jodhpurs and high stockings ambles out for the bags.  Tom hands Frank the room keys.
+59) 1) dialog: You believe this?  I'm telling you, we're getting away with murder.  Two shows a night and the rest of the time we live like kings.  It's a crime. Jack stares at the ocean, then at the two beds placed side by side.  Suddenly Susie comes through the bathroom.
+59) 3) dialog: Great.
+59) 5) dialog: Yeah. Susie shrugs and returns to her room through the bathroom.
+59) 7) dialog: (opening drawers)
+59) 10) dialog: Come on, Jack.  It's not like it's the first time we've bunked together.  It'll be like when we were kids.  Relax.  Enjoy the view.
+60) 0) text: Jack, Frank and Susie are in the dining room, which, like their rooms, looks out over the ocean.   Dinner is over and they're well through a second bottle of wine.
+60) 2) dialog: As Charlie Steinway is my witness.
+60) 4) dialog: Tell her.
+60) 6) dialog: It was April.  April seventeenth. That one I remember.
+60) 8) dialog: Pearls.  White gown.  Beautiful.
+60) 10) dialog: A few bars!
+60) 12) dialog: People.' You think Streisand, right?   Hot that night.  Chills.   Through the whole audience.  I could hardly play.
+60) 14) dialog: No. We got a picture, though.   One of the waitresses had a camera. (to Jack)
+60) 15) text: God, we were just kids.  That was something, wasn't it? Jack nods.  Frank shakes his head, still lost in the spring evening years before, then notices the newlyweds sitting across the room.
+60) 16) dialog: (continuing)
+60) 19) dialog: What do you say we send a bottle over?
+60) 22) dialog: Not true.  Besides, Jack's the romantic.
+60) 24) dialog: He's just afraid to show it. Aren't you, little brother?
+60) 26) dialog: Good idea. (lifting his glass)
+61) 0) text: Frank, standing, dressed in pajamas. Jack is staring out the window at the darkness.
+61) 1) dialog: I'm putting my stuff on the right, okay?
+61) 3) dialog: I figure that way we won't get confused.
+61) 5) dialog: Unless you want the right.
+61) 7) dialog: We might as well do the towels the same way.
+61) 9) dialog: I just figure things'll go smoother, you know, if we have it all worked out from the beginning.
+61) 11) dialog: But if it doesn't work out, let me know.  I'm,flexible.
+61) 15) dialog: Yeah.
+61) 17) dialog: Yeah.
+61) 19) dialog: (puzzled)
+61) 22) dialog: Yeah.  You mind?
+61) 24) dialog: I don't know.  I mean, I always did it as a kid. I figured it was no big deal.  Is it?  A big deal? Jack just stares at Frank.
+61) 25) dialog: (continuing)
+61) 26) text: Oh. I didn't know.  I mean, I always did it as a kid. It was never a big deal then.  Was it? Jack just stares at Frank.
+61) 27) dialog: (continuing)
+61) 28) text: Oh. Well.  You want me to turn it off? Jack just stares at Frank.
+61) 29) dialog: (continuing)
+62) 0) text: The next morning.  Jack and Frank are standing in a huge dining room, appraising two elegant grands.
+62) 1) dialog: They're beauties, huh? Jack steps up to one and runs his hand over the keys.
+62) 2) dialog: (continuing)
+62) 3) text: Reminds me of those Steinways Willie used to have. Frank taps a few notes on his piano, humming happily. Jack begins to echo his brother's notes, listening. After a moment, Frank notices.
+62) 4) dialog: (continuing)
+63) 2) dialog: (offering his hand)
+63) 3) text: That'd be me, sir.  Frank Baker.   This is my brother Jack. Jack, slouched against the piano, smoking, nods.
+63) 5) dialog: Yes, well, they are.
+63) 7) dialog: They are in tune.  But not with each other.
+63) 9) dialog: Uh, well ...
+63) 15) dialog: I think what Mr. Daniels is trying to say, Jack, is --
+64) 0) text: Frank dogs Jack down a hallway.
+64) 1) dialog: Jack ... Jack ... You're acting like a kid.
+64) 3) dialog: What's the matter with you?  So the piano's a little out of tune.  So what?
+64) 6) dialog: No! I never hear it! (shaking his head)
+64) 9) dialog: What matters to me is we've got the six easiest nights we've had in ten years.   So 'Tie a Yellow Ribbon' sounds a little flat.   So what?  Nobody's gonna hear it, Jack.  Nobody. So why should you care?
+64) 11) dialog: Well, then stuff cotton in your ears, because come six o'clock we're gonna walk into that dining room with smiles on. Understand, little brother?
+65) 0) text: Frank is adjusting his tie in the bathroom mirror. Jack, sitting at the window, his foot up against the glass, drinks from a flask as the sky above the ocean goes dark.  After a moment, Susie enters wearing a little tuxedo of her own and begins to brush her hair.
+65) 4) dialog: Jack woke up on the wrong side of the bottle. Susie looks at Jack.  Then Frank.
+66) 0) text: As Jack, Frank and Susie perform "Strangers in the Night, dozens of couples move slowly on the dance floor, while others sit at candle-lit tables, sipping cocktails. As the song ends, the couples applaud.
+66) 1) dialog: Thank you, thank you. (as applause dies)
+66) 4) dialog: (stunned)
+66) 7) dialog: Uh, well, I love you, too, Jack. (moving quickly along)
+66) 10) dialog: Got another song for us?
+66) 12) dialog: Well then ... shall we?
+66) 14) dialog: (whispering)
+66) 17) dialog: How dare you say you love me.
+66) 20) dialog: Someone needs to grow up.  I won't take it, Jack.
+68) 0) text: The next morning.  As Jack passes through the lobby, he hears the plaintive PLINKING of a PIANO.  Curious, he goes to the dining room and peers in.   The tables have yet to be set for the evening and, except for Frank, the room is empty.
+68) 2) dialog: (not looking up)
+68) 5) dialog: Yes, really.  I don't want you to be unhappy, Jack.  If you say it's out of tune, it's out of tune. Jack smiles to himself and crosses the room.
+68) 7) dialog: Fine.
+68) 9) dialog: (shrugging)
+68) 12) dialog: Two hours ago!
+69) 0) text: Jack and Frank are eating lunch.  Frank has a tiny stack of blue cards he's perusing.   He holds one out to Jack.
+69) 1) dialog: What do you make that?  Paruchi? Jack nods.  Frank continues to go through the cards as he speaks.
+69) 2) dialog: (continuing)
+69) 5) dialog: Just wonder what she's up to. I never see her.  Makes me nervous.
+69) 7) dialog: Yeah, well, she's our girl now.  I think we better keep an eye on her.  There's trouble there. (another card)
+69) 10) dialog: Dedications.  I came up with the idea on the road. See, every morning the maids drop one of these cards in each room.  The guest fills out the card, leaves it at the front desk, and that night we play it.  Daniels went crazy for the idea. (whispering)
+69) 14) dialog: Uh ... Frank Baker.  This is my brother.
+69) 16) dialog: Oh. Well, thank you.
+69) 23) dialog: Funny, huh?
+69) 25) dialog: Thinking there's someone who looks like you, walking around the street somewhere. (smiling)
+71) 1) dialog: Thank you.  You know, before we came out here this evening, Susie and Jack and I were looking over your dedications and something struck us. Susie and Jack look at Frank as if they have no idea what he's talking about.
+71) 2) dialog: (continuing)
+71) 4) dialog: (continuing)
+71) 6) dialog: (continuing)
+71) 8) dialog: (continuing)
+71) 9) text: Aren't they a sight? They are indeed, and a sight slower getting to the dance floor than Frank anticipated. He nods to Jack and they launch into "The Anniversary Waltz," but have to keep repeating the opening passage while they wait for Ethel and Bert.  Finally, everyone on the dance floor steps back and, with some help from a few waiters, who slide a section of tables out of the way, Ethel and Bert Lane begin to dance in the center of the room, slowly but wonderfully, while the younger couple whirls around them like a youthful satellite.
+73) 0) text: The next morning.  Frank, the early bird, is returning to the room with a newspaper under his arm. Whistling happily, he rounds the corner just in time to see a man exit Susie's room.  Astonished, then outraged, he goes to Susie's door and knocks sharply.
+73) 2) text: Forget your tie, handsome ... Frank!
+73) 3) dialog: You want to tell me what the hell's going on?
+73) 5) dialog: I just saw a man walk out of your room.
+73) 7) dialog: In case you've forgotten, we're being paid to be here.  So it might be nice if you conducted yourself with a certain amount of decency.
+73) 9) dialog: No. You listen.  I had my doubts about you from the beginning
+73) 13) dialog: We were just having a little discussion about morality.
+73) 15) dialog: I just saw a man walk out of your room!
+73) 17) dialog: Huh?
+73) 19) dialog: What are you talking about?
+73) 21) dialog: He was wearing a suit.
+73) 23) dialog: How come I didn't hear anything?
+73) 25) text: Unlike me. Frank looks at Jack, then Susie.
+73) 26) dialog: I guess I ... If I jumped to...
+73) 28) dialog: Well... Frank shrugs lamely and exits.
+74) 0) text: Jack, Frank and Susie are sitting at a table in the smaller dining room.  It is conspicuously quiet.   The main course seems to be a conscious attempt to ignore each other.  Finally, Susie looks at Frank.   Then Jack.  Then out the window.
+75) 0) text: Jack and Frank's room.  It is New Year's Eve, just before show time, and Jack and Frank are in their tuxes.  Frank is on the phone.
+75) 1) dialog: (into phone)
+75) 4) text: Well, that's great.  Tell him, tell him. I can't wait to see ... No, no new bike.  Maybe for his birthday ... Okay.  Listen, honey, I have to go.We're on in ten minutes ... Yeah, Happy New Year ... I love you ... Frank sets the phone down and stares at it.   Jack studies him a moment, then Frank suddenly claps his hands.
+75) 5) dialog: (continuing)
+76) 1) dialog: (yelling to be heard)
+76) 3) dialog: Eight.  Seven.  Six.  Five. Four.  Three.  Two!  ONE!
+77) 0) text: Jack, lying on his bed in the dark.  He opens his eyes, squinting against the light from the bathroom, then glances over to Frank's bed and detects the outline of a body in the darkness.  Swinging his legs over the side, he sits up on the edge of the bed and rubs his eyes Suddenly there is a rustle of blankets and the shadow in the next bed shifts, falling into the shaft of light cast from the bathroom.  It is a little boy.  Startled, Jack stares at the sleeping boy, then hears movement in the bathroom.  Rising slowly, he walks to the bathroom and gently eases the door open a few inches.  Inside, swimmin murkily in the steamy mirror, is the reflection of a man. His back is to Jack, but Jack can see that the man is shaving.  As Jack lets his gaze drop to the floor, he see that water is dripping off the man's pant cuffs and gathering in pools on the bathroom floor ... Jack wakes up.  He stares at the ceiling, listening to the waves, then lifts his head and looks to the bathroom.  It is dark. Turning, he glances at Frank's bed.  It's empty.
+78) 0) text: Dark and soundless.  Balloons, streamers and the other debris of revelry cover the tables and floor like snow.   Frank is sitting at the window, drinking as he stares at the ocean.  As Jack crosses the room, he looks up.
+78) 1) dialog: Ah, well, if it isn't the lad with the golden ear. Happy New Year, little brother.
+78) 3) dialog: Celebrating.  Join me?
+78) 5) dialog: No, you're wrong.  It's just beginning. Come on, have a drink.   Show your big brother how it's done. Frank pours him a glass.  Jack notices the bottle.
+78) 7) dialog: A gift.  Courtesy of our courteous hotel manager, Mr. Daniels. (toasting Jack)
+78) 9) text: Yup.  They want us back.  Easter.  It seems they have this egg hunt every year.  Only not for kids. Adults.  They stuff these plastic eggs with Timexes and little certificates for free Mai Tais and everyone has a grand time crawling around on the front lawn.  Then afterwards, they have a dance.  An egg dance.  Everyone comes dressed in a different colored shell and at the end of the evening they crack themselves open.  It's our job to separate the yolks from the whites. Slippery business. Frank smiles as he takes a swallow of his drink, then leans his head back, staring at the ceiling.
+78) 10) dialog: (continuing)
+78) 11) text: You know, I've never kissed my wife on New Year's. Not once in twelve years. Jack studies Frank as he stares at the ceiling.
+78) 12) dialog: The Holmby has a chandelier like that doesn't it? With the blue glass. Jack looks up at the chandelier.
+78) 14) dialog: Right.  The Royal.  When's the last time we were there?
+78) 16) dialog: February?
+78) 18) dialog: Right.  It's incredible how you do that.  Remember things.
+78) 20) dialog: Drove me crazy when we were kids. The way you never looked at the music. Miss Simpson would just play it and ... Frank snaps his fingers.
+78) 22) dialog: Not for me.  I still have to look at the music sometimes, you know that?  Otherwise, I forget. I just forget.  But you.  You never forget. Ever. (turning)
+78) 25) dialog: God, the old man would've loved this view, wouldn't he?
+78) 27) dialog: I always think of him on New Year's.   How he used to pour us each half a can of beer. Remember?
+78) 29) dialog: Yeah, and you drank yours like it was orange juice. He loved that about you.
+78) 31) dialog: It was like you'd passed some test, you know?
+78) 33) dialog: Yeah, but he told you things.  He never told me anything.  Even though I was the oldest.   It was always you two, running off, doing things together.
+78) 35) dialog: I could've.  But he didn't want me to.
+78) 37) dialog: Maybe so. (pause)
+79) 0) text: The next morning.  Jack is sitting outside the hotel, watching HELEN and BUD WILSON pack up the Eldorado.   The streamers, by now turned to mush, cling like oatmeal to the car's exterior.  After a moment, Frank exits with a little bag from the gift shop and pulls out a tiny souvenir shot glass.
+79) 1) dialog: Want one? Jack shakes his head.
+79) 2) dialog: (continuing)
+79) 12) dialog: I think I'll warm up the car.
+80) 1) dialog: That takes care of this week.  The tenth we got the Sheraton, the sixteenth we're at the Capri.
+80) 3) dialog: What?
+80) 5) dialog: What do you mean?
+80) 7) dialog: Be reasonable, Jack.
+80) 9) dialog: How about you?  Got a Bar Mitzvah this weekend?
+80) 12) dialog: Forget it.
+82) 0) text: In a lounge whols basic decor makes abundant use of several historical eras but which might best be described as Modern Pilgrim, Jack, Susie and Frank perform "Feelings," while waiters in huge Paul Revere hats pass in and out of view.
+82) 4) dialog: What?
+82) 6) dialog: What're you talking about?  They love it.
+82) 8) dialog: (as to a child)
+92) 10) text: You know, I saw you guys once. You and Frank.  At the Roosevelt.
+92) 47) text: Frank said you saw him die. Jack glances up quickly, surprised.  He nods.
+92) 49) text: Frank said ---
+95) 14) text: The reason I came by ... I couldn't tell Frank... I'm leaving.  The act. Susie stares up at Jack, but he says nothing.
+96) 0) text: Jack and Frank stand in a lounge, talking to NICK, the manager.  Busboys move in and out, preparing the room for the evening.
+96) 2) dialog: The flu.
+96) 4) dialog: Doctor's orders. Nick frowns, looking at the two pianos across the room.
+96) 6) dialog: Look, Nick.  You want us to pack up, we'll pack up.
+96) 8) text: Bad, Frankie.  Bad.
+96) 11) dialog: Just until we find another girl.
+96) 13) dialog: You want to know how much I got tied up in deposits with Willie?  We're in for three weeks solid, Jack.
+97) 0) text: Jack and Frank find themselves in the back room of Willie's again.  They do not look happy.
+97) 3) text: Perseverance.  First rule of show business. Jack and Frank just stare at her.
+98) 0) text: Frank is looking at a list.
+98) 1) dialog: We got the Roosevelt on Thursday, the Park in a couple of weeks.  Larry Shelton said he'd let me know by Friday on the Ambassador.  That's it. Frank folds the paper carefully.
+98) 2) dialog: (continuing)
+98) 3) text: I got some calls out.  Things that might be good for us. Frank looks over at Jack for the first time.  He's leaning against the building, staring at his shoes.
+98) 4) dialog: (continuing)
+98) 6) dialog: (continuing)
+99) 1) dialog: You know, my brother and I have been playing together, gosh, I don't know.  Jack?
+99) 3) dialog: Of course, uh, back then it was, uh, a little different.  We were just kids.  Just about the only one who would listen to us was the family cat, Cecil.  We must've shaved three lives off old Cecil, huh, Jack? Frank laughs and his voice, eerily magnified by the microphone, is the only sound in the room.
+99) 4) dialog: (continuing; hanging tough)
+99) 5) text: Yeah, well, anyway.  It's nice to be back here in the Roosevelt Room, because this has always been ... Frank falters as he sees Mrs. Baker enter the lounge and seat herself at a table in the back of the room. Jack follows Frank's eyes and spots her.
+99) 6) dialog: (continuing)
+100) 0) text: Jack watches as Frank gives Mrs. Baker a hug.
+100) 1) dialog: You should've told us you were coming, Ma.   We would've come and got you.
+100) 3) dialog: So what'd you think?
+100) 6) dialog: The audience was a little off tonight.
+100) 8) dialog: I guess you're,right.  Well, what do you say we get a little midnight snack?   Theo's should still be open.
+100) 10) dialog: No, we're not.  Jack?
+100) 13) dialog: You sure?
+100) 16) dialog: A cab?  Ma, come on.  My car's just a half block down.  You wait here.
+100) 18) text: All right. Frank dashes out of the lobby.  Jack and Mrs. Baker watch him go, then turn to each other.  Mrs. Baker smiles awkwardly, then surveys the lobby.
+100) 45) text: You look so like him. They stand like this for a moment, connnected, then Frank steps in from the street.
+100) 46) dialog: Your limo's ready, Ma.
+102) 0) text: A few nights later.  Frank guides the car through wet city streets.  It's two AM and raining hard.
+102) 2) dialog: No.
+102) 4) dialog: I told you, Jack.  It's a telethon. No one gets a cent.
+102) 7) dialog: I don't know. Some disease.
+102) 9) dialog: I don't know.
+102) 11) dialog: It's a disease, Jack.  We're against it. It's not a moral decision.
+102) 14) dialog: Seventy-one
+102) 16) dialog: (defensive)
+102) 17) text: A channel.   It's just a little further down the dial, that's all. Look, it's publicity.  Publicity's publicity.  Right? Jack stares at Frank.
+103) 0) text: Jack and Frank make their way down a hallway.
+103) 1) dialog: The guy said to find Studio E and turn right.  What's that say? Suddenly, a rapid-fire THUMPING SOUND resounds through the corridor.  As Jack and Frank turn, they see a huge YOUTH in a wheelchair dribbling a basketball toward them.
+103) 3) dialog: I guess it's that way.
+104) 0) text: Jerry Lewis need not fear.  This is strictly a tin foil and crepe paper operation. Along one wall is the "phone bank," monitored by a few sleepy volunteers, and opposite in makeshift bleachers, is the audience.  A huge tote boa set on rolling astors, is next to the phones.  The total, at 2:15 AM, is $1125.38. As Jack and Frank enter, the kid in the wheelchair is doing basketball tricks before the camera.
+104) 1) dialog: This must be it.  I'll see when we're on. Frank leaves. Jack glances around the studio like he's walked into a nightmare.  At the phone bank, a heavyset MAN in a sweatshirt and a cap, looks over.  Both the sweatshirt and the cap have "Earl" printed on them.
+104) 17) dialog: We're on after Meadowlark. (seeing Jack's face)
+104) 20) dialog: What?
+104) 22) dialog: (worried)
+104) 23) text: What? Before Jack can further enlighten Frank, the kid in the wheelchair rolls off and a guy in a cheap rented tux strides in front of the camera.  He's VINCE NANCY, the host.
+104) 30) text: He, uh, they, uh, we are very pleased to have with us two of the most respected men in the musical entertainment field.  I think you'll agree with me when I tell you we're in for a real treat when I say that we have with us ... the Fabulous Bunker Boys!  Come on out here guys. Vince gestures grandly to the left and Jack and Frank enter from the right.
+104) 33) text: Now I know a lot of you amateur musicians out there are going to want to rap with these guys and don't worry.  Right after they finish up here, they're going to be manning the phones.  Maybe we can even convince them to raffle off a few piano lessons if we're lucky.  What do you think? The audience applauds.  Jack glares at Frank.  He shrugs.
+104) 35) text: Well, all right then.  What are we waiting for?  Take it away, guys. Jack and Frank poise their hands over their pianos and begin to play.  As the music rises, the studio becomes very quiet, almost still.  Unfortunately, Jack and Frank are barely through the opening passage when a thunderousl LOUD BELL begins to RING.  Suddenly, Vince steps out again.
+104) 37) text: Uh oh.  We know what that means, don't we?  It's time to turn the board over. (to Jack, Frank)
+104) 38) text: I'm afraid you fellas'll just have to wait a minute.   Let's bring out the board. Two post-pubescent giants roll out the tote board right in front of Jack and Frank.   Jack looks positively homicidal.
+104) 39) dialog: Jack ... Jack kicks out the piano bench and starts to leave.   Then, seeing the kid in the wheelchair, he grabs the basketball and fires it at Vince.
+104) 43) dialog: (whispering)
+104) 53) dialog: Hey, leave him alone.
+105) 0) text: Jack walks down the street, mindless of the rain.   Frank follows a few yards behind.
+105) 1) dialog: Jack.  We just,passed the car. Jack.  This is a tuxedo.  Three hundred dollars. (pause)
+105) 2) text: You gonna talk to me?  Or is this Jack's famous silent act?  Look, it was for publicity.   Do you understand?  Publicity. Jack stops and stares at Frank incredulously.
+105) 4) dialog: Look.  I didn't know when we were going to be on until yesterday.  What was I supposed to do?   I had the pianos anyway.
+105) 6) dialog: I'm sorry.  I should've checked it out.  I screwed up.  But that doesn't mean you walk out in the middle of a gig.
+105) 9) dialog: It wasn't professional, Jack.  It was a stunt.   A stupid-ass stunt. Jack just stares at Frank, as if looking at a stranger.
+105) 11) dialog: Dignity?  Who the hell are you to talk about dignity? Frank suddenly steps forward and reaches into Jack's jacket, coming away with a bottle.
+105) 12) dialog: (continuing)
+105) 13) text: This where you get your dignity, Jack?   This is where you get your courage? Jack tries to grab the bottle but Frank holds it away.
+105) 14) dialog: (continuing)
+105) 15) text: No, let's do it straight for once, shall we? Frank tosses the BOTTLE into the street, where it SHATTERS.
+105) 16) dialog: (continuing)
+105) 17) text: Let me explain something to you, little brother.   See, I've got people who depend on me.  I've got a wife and two children who expect to wake up every morning with food on the table and heat in the house.   I got a mortgage.  I got car payments.  I got Ma's medical bills. Oh yeah, and I got you.  Yeah, you.   Jack the shadow who's so cool and so hip and so fucking sure he's better than everyone else.  Don't you think I'd like to walk up to one of these assholes and blow smoke in his face?  Goddamn right I would.   But I can't.  Because I have to be responsible, little brother.  I have to make sure the numbers balance out in my favor at the end of each month so everyone can go on living their lives.  You don't win medals for it, but you can be damn sure you'd all take notice if I folded up shop.  So don't talk to me about dignity, little brother.  You're drawing on a weak hand. Jack stares at Frank through the rain, then turns and begins to walk away.
+105) 18) dialog: (continuing)
+105) 20) text: That's what he'd do. Jack stops, his back to Frank.
+105) 21) dialog: (continuing)
+105) 24) dialog: No, let's stay on it.  I'm sick and tired of watching you make him up into some kinda god.   For Christ sake, Jack, he died doing a stupid bullshit jig.  He left a wife and two sons.  He wasn't a hero.  He was a fool.
+105) 27) dialog: That's right.  I wasn't there.  I don't have the luxury of being a witness to tragedy.
+105) 30) dialog: No, fuck you.  And fuck him too. Fuck the both-of you. Jack suddenly bolts for,ward and grabs Frank by the lapels.
+105) 31) dialog: (continuing)
+105) 32) text: Hey, what're you doing?  Hey! Jack flings Frank against the wall, pounding, pulling and slamming him in a fitful rage.
+105) 33) dialog: (continuing; scared)
+105) 34) text: Jack! ... Jack! ... Frank slides to the ground, afraid, trying to protect himself.  Jack hovers over him.
+105) 36) dialog: My hands!  My hands! Jack grabs one of Frank's hands.
+105) 38) text: Your hands.  Your hands couldn't take the blue ribbon on amateur night. Jack bends back Frank's fingers.
+105) 39) dialog: (terrified)
+105) 42) dialog: Jack!  JACK! Frank's voice echoes high above the sound of the rain.   Suddenly Jack stops.  Looking at Frank's hand, still clasped in his, he seems as shocked by his own behavior as Frank.  Letting go, he steps back awkwardly and looks at his brother, beaten, to the ground, his tuxedo ripped and dirty.  He stares at his own hands, the knuckles spli and bleeding.  He no longer looks dangerous.  He looks hollow, frightened.
+108) 0) text: Frank, attempting to give piano lessons to a brother and sister tandem who would be better served by an obedience school.  While the little girl pounds incessantly on the piano, her brother runs circles around the room, destroying everything in sight. MUSIC CONTINUES and we see:
+109) 0) text: Jack and Eddie, going for a walk, passing the diner where Jack and Frank's pictures are still displayed. MUSIC CONTINUES and we see:
+111) 0) text: Frank sits alone in the darkness of the den.  The cardboard stand-up is there, along with several old photographs, including one showing two skinny kids in tuxes standing with a glamorous Peggy Lee.  After a momen Donna enters.
+111) 4) dialog: You know how good he is?  It's like breathing with him.  I've always envied it.  But tonight, looking at all this -- at his face -- I don't know.   Maybe it's worse.  For him. (gesturing to the piano)
+112) 0) text: Frank is standing in the hallway of his house, leaning against the bathroom door.  It's locked.
+112) 1) dialog: Come on, Jeremy.  Open the door. Somewhere in the house, the PHONE RINGS.   Frank ignores it.
+112) 2) dialog: (continuing)
+112) 5) dialog: You believe this?  The kid won't come out.  I'm playing 'Camptown Races' for him and the next thing I know he's locked himself in the bathroom.   There's nothing sharp in there, is there?
+112) 7) dialog: Where are our kids?   Has he got one of them in there?
+113) 4) text: Frank'll be back in a moment.   He took Little Frank to the bathroom. Jack begins to back away slowly.
+120) 0) text: As Jack comes into the kitchen, he finds Frank searching through a cabinet.  He watches for a moment.
+120) 2) dialog: I didn't hear you come in.
+120) 4) dialog: Oh ... I was just hoping for something to drink.  But it seems the old lady was dry. Not even a bottle of cooking sherry. Jack nods.  Frank looks nervous.
+120) 5) dialog: (continuing)
+120) 10) dialog: Oh. Yeah.  It was all worked out before, you know.   She and Dad had taken care of it.
+120) 12) dialog: I set it for Wednesday.  The ceremony.  They're doing the stone today. (pause)
+120) 15) dialog: There's not going to be a viewing. I figured with the kids and all ...
+120) 17) dialog: It's funny.  Before, whenever I came here, the house seemed small.  But today ... I can't keep up with it. I keep losing my wind. Frank smiles slightly and he and Jack lock eyes for a moment.
+120) 18) dialog: (continuing;glancing away)
+120) 20) dialog: (continuing)
+120) 21) text: Oh. Well, great.  I'll get a couple glasses. Frank moves to a cabinet, but there's nothing there.
+120) 22) dialog: (continuing)
+120) 25) dialog: No.
+120) 28) dialog: No, it's not that.  I ... can't drink from the bottle.  I ... gag.
+120) 30) dialog: (remembering)
+120) 31) text: Oh, hey, I want to show you something.  Come on. Jack follows Frank back into the front room.  Frank stands before one of the tiny matching pianos and gestures Jack to the other.
+120) 32) dialog: (continuing)
+120) 33) text: Hit the C. Go ahead. Jack steps over to the other piano and taps, then Frank does the same.  Jack glances up in surprise.
+120) 34) dialog: (continuing)
+120) 36) dialog: (continuing)
+120) 37) text: All these years.  She kept them in tune.   Can you imagine?   Now why would she do something like that? Frank looks down at the keys and his smile fades.   Suddenly he notices the collection of tiny souvenir shot glasses on top of the piano, each bearing the name of a different hotel.
+120) 38) dialog: (continuing)
+120) 42) dialog: Good choice. Frank blows some dust off the glasses.
+120) 43) dialog: (continuing)
+120) 46) dialog: Jesus. It suddenly grows silent, each sitting in his old familiar place, staring into his glass.
+120) 48) dialog: (surprised)
+120) 51) dialog: Yeah, I know.  Me, too.
+120) 53) dialog: (smiling)
+120) 55) dialog: (continuing)
+120) 58) dialog: Yeah.  Larry Shelton.  Blackie.  Couple others.   Donna said even Lloyd called the other day.   Nothing like a little absence to make the heart grow fonder, huh?
+120) 60) dialog: Jesus, when was the last time we played the Mallory?
+120) 63) dialog: Right.  It was someone's birthday. Halloran?
+120) 65) dialog: Christ, that's right.  How could I forget.  What a nightmare.
+120) 67) dialog: I told Halloran we didn't do vocals, but he said:
+120) 68) dialog: (in unison)
+120) 71) dialog: (singing)
+120) 72) text: She comes on like a dream Peaches and cream Lips like strawberry wine She's sixteen, she's beautiful and she's mine. Ribbons and curls Ooh, what a girl Eyes that sparkle and shine You're sixteen, you're beautiful, and you're mine. As Jack and Frank finish, they're laughing.  After a moment, their voices die and the house is quiet again.   Full of ghosts.  Each stares at the tiny keyboard before him, awkward with the intimacy of the moment.  It is quiet for a very long time.  Finally, Frank looks over.
+120) 73) dialog: Well ... One more time? Jack glances up and sees Frank has his empty glass held out.  He hesitates, then picks up the bottle.

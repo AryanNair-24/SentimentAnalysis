@@ -1,0 +1,58 @@
+12) 1) dialog: And you say he doesn't remember any  of it?
+12) 3) dialog: Hold it, hold it, Andrea. Let's not  jump to conclusions. I'll run some  preliminary tests, see what we can  rule out.
+12) 5) dialog: Tell you what, bring Evan here tonight  and we'll run a CAT-scan series.
+14) 0) text: Andrea leads Evan into Dr. Redfield's office. Dr. Redfiel warmly greets Evan at the door.
+14) 1) dialog: Hello, Evan. It's very nice to meet  you. (to Andrea) He's as handsome as his father.
+14) 3) text: Before Dr. Redfield can answer, Andrea cuts him off.
+14) 6) dialog: (off Andrea's look) Uh, tell you what, Evan. If it's  okay with your mother, I'd like to  run some tests. Nothing scary.
+14) 8) dialog: Okay, it might be a little scary...
+15) 2) dialog: Look, Andrea, I'm sure he'll test  negative for brain disorders. But  there's something else you can try  to monitor his memory.
+15) 4) dialog: A journal. Just have him write down  everything he does.
+15) 6) dialog: It could be extremely useful to jog  his memory. See if he remembers  anything new the next day. And I'll  have the test results back in a few  days.
+21) 0) text: Dr. Redfield places Evan's CAT-scan slides on the light b Andrea squints, unable to interpret them.
+21) 1) dialog: Well, the good news is that the  results are negative. I've found no  evidence in the way of lesions,  hemorrhaging, tumors...
+21) 3) dialog: Unfortunately, we've got nothing to  work with. It's harder playing  detective now.
+21) 5) dialog: If I had to guess, I'd say the  blackouts are stress related.
+21) 7) dialog: Plenty. Who knows? Maybe he's got  severe coping problems about not  having a father. Did you say the  last blackout occurred when he was  with his friend's dad.
+21) 9) dialog: You'd be surprised how often they  are.
+21) 11) dialog: It's worth a shot. I can arrange a  controlled meeting. A careful dose  of sedatives for Jason, some security,  you and I monitoring. Evan comes in  for a quick visit and with any luck,  no more missing father complex.
+23) 2) dialog: Not in this wing, actually. No.
+35) 1) dialog: With every breath you exhale, you  can feel all of the tension draining  from your body like water through a  faucet. Nine, ten, and you're  completely asleep. Relaxed.
+35) 3) dialog: Now I want you to go back to the  time you were in the woods with Lenny.  Think of it like a movie. You can  pause, rewind, or slow down any  details you wish. Understand?
+35) 5) dialog: Where are you now?
+35) 7) dialog: Are you hurting her?
+35) 10) dialog: Okay. Then go a little forward in  time. What do you see now?
+35) 13) dialog: Yes, tell me about the car.
+35) 15) dialog: Go on. Nothing can hurt you. Remember,  this is only a movie. You're  completely safe.
+35) 17) dialog: The car doesn't vanish Evan. The  movie in your head has broken, that's  all. But now I've re-spliced it and  I want you to tell me about the car.
+35) 20) dialog: Fight it Evan. Hurry. It's coming!
+35) 21) text: Blood begins to trickle from Evan's nose as a guttural so is uttered from deep within him. Dr. Redfield bolts uprig in his chair and redirects the session.
+35) 22) dialog: Okay, Evan. Listen to my voice! On  the count of ten, you're going to  wake up. Feeling refreshed and  remembering everything we talked  about.  
+35) 25) text: Dr. Redfield waves her away and concentrates on Evan.
+35) 26) dialog: One. You're feeling more awake now.  Two, your eyes no longer feel heavy.
+35) 28) dialog: Five. Six. Refreshed and awake! Seven,  eight. Come on, Evan, wake up, dammit!
+35) 31) dialog: Nine, ten. And you're awake! Open  your eyes, dammit!
+35) 32) text: Nothing but moans and blood. Dr. Redfield frantically ope some desk drawers until he finds smelling salts. He break small capsule under evan's mouth, pinches his bleeding no closed and lets Evan inhale the vapor through his mouth. Evan lurches forward on the couch and falls off. Holding bloody nose.
+130) 0) text: Andrea nervously chews her fingernails as she watches Dr. Redfield post CAT-scan results on the light box. A young  nurse pushes Evan, in a wheelchair, into the doctor's off
+130) 3) dialog: It's a little complicated. I haven't  seen results exactly like these  before.
+130) 5) text: Dr. Redfield and Andrea exchange looks.
+130) 6) dialog: Actually, these tests weren't  available twenty years ago.
+130) 8) text: Dr. Redfield points to the CAT-scan slides, specifically, the outer lining of Evan's brain.
+130) 9) dialog: This is where we're finding most of  the hemorrhaging. The outer lining  of the cerebral cortex.
+130) 11) text: Dr. Redfield stares ahead. Transfixed by the slides.
+130) 12) dialog: I've never seen anything like this.  I've compared these to the ones taken  last year, and there's evidence of  severe hemorrhaging and massive neural  reconstruction.
+130) 16) text: Dr. Redfield nods, awed by Evan's effortless interpretati Evan springs out of the wheelchair and stretches his legs
+130) 18) text: Andrea nods. Evan shakes Dr. Redfield's hand.
+130) 20) text: Andrea shoots Dr. Redfield an apologetic look. Evan heads out the door, accidentally knocking Dr. Redfield's jacket the floor. He shrugs apologetically and re-hangs it.
+131) 0) text: Outside the office, Evan inspects Dr. Redfield's KEYS and attached SECURITY CARD and smiles. Evan covertly winds hi through the maze of corridors, careful not to be seen by staff. He finally sees a wing marked "CRIMINALLY INSANE". Evan l around to make certain he's not being watched, then uses security card to open the door. He looks in every room of the wing until he finds --
+168) 0) text: Evan runs into Dr. Redfield's office just as another pati is leaving.
+168) 1) dialog: Hey, Evan. What's the big rush? We  don't meet for another hour.
+168) 3) dialog: Books?
+168) 6) dialog: It kills me to have to go through  this again. There are no journals.  There never were. It's part of this  fantasy world your mind created to  cope with the guilt of killing...
+168) 8) dialog: Think Evan. You've invented a disease  that doesn't exist. Alternate  universes with colleges, prisons,  paraplegia...
+168) 10) dialog: You remind me of your father. He  always screamed for a photo album  even though he never had one.
+171) 0) text: Later that day, Dr. Redfield posts the new CAT-scan slide on the light box and shudders when he sees the results. A looks on anxiously.
+171) 1) dialog: Jesus, no.
+171) 4) dialog: (devastated) The hemorrhaging... the neural damage  is irreparable. I'm frankly surprised  he still has use of his motor  functions.
+176) 0) text: Dr. Redfield catches up with the rest of the guards.
+176) 1) dialog: He's not in his room. Search the  grounds.

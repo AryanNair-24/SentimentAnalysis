@@ -1,0 +1,593 @@
+7) 0) text: DAVID MILLS, 31, exits with a bagged 40oz bottle of beer. a lean, attractive man, constantly coiled, eyes always smoldering.  FOLLOW as he walks quickly past iron-gated storefronts.  He crosses the street under elevated subway tracks.  A train roars overhead. Mills watches it as he walks on. Blue sparks spit off the third rail and illuminate Mills, throwing his shadow long down the deserted street.
+8) 0) text: This rotting neighborhood lives in the shadow of a single skyscraper.  Mills walks, looks at the broken refrigerato pieces of junk in the gutter. Ahead in the street, TWO YOUNG THUGS struggle with a crow break into the trunk of a parked car. Mills draws near.  One thug looks up, doesn't think Mills be a problem, continues prying.  Mills stops, calm.
+8) 1) dialog: Is that your car, man?
+8) 3) text: Mills pauses, switches his beer bottle to his other hand.
+8) 4) dialog: Does that car belong to you?
+8) 5) text: The thugs look at each other, gauging.  They face Mills.
+8) 7) dialog: You're telling me that's your car?
+8) 10) text: Mills gives a "isn't that silly" laugh, shifts his gaze - Sees the first thug slide the crowbar so it's held as a w
+8) 12) text: Mills swiftly finishes that sentence by smashing his bott against the first thug's head.  The thug falls, swings bl The second thug moves from the side, brings out a knife. Mills averts, swings, pounds the side of his fist into th second thug's face -- CRACK.  Broken nose. The second thug stumbles back, drops the knife, his nose squirting blood. Mills turns, enraged, breathing hard. The first thug is screaming, trying to stand.  Mills take step, punts the first thug's head.  The crowbar clatters Mills is in the process of kicking a man when he's down, the second thug grabs him from behind, pulls him backward Mills clutches at the thug's arm, trying to avoid a choke They both struggle spastically.  The thug's winning. Gurgling, gasping for air, Mills shifts his weight, drops knee and spins the thug, slamming him against the car. Mills breaks loose, grabs a handful of the second thug's and holds the man's head against the car's side window. free hand pounds the thug's face: once, twice -- third ti the charm as the window shatters.  The thug goes out cold Mills backs off, still incensed.  He rubs his throat, loo the two prone men.  Slowly, he regains some composure. He takes a keychain from his pocket.  He unlocks the door car, loads one of the thugs into the back seat.  He walks collect the other thug off the street.
+10) 12) text: David Mills enters, dressed in a suit.  He looks a bit lo
+10) 13) dialog: Uh... Lieutenant Somerset?
+10) 14) text: Somerset lights his cigarette, looks to Mills.
+10) 15) dialog: I'm David Mills... your new partner.
+11) 0) text: A body-bag is carried through the crowd around the teneme doors.  Somerset follows.  Mills follows Somerset.  They towards the end of the filthy block.
+11) 1) dialog: I'm a little thrown.  I just finished orientation at central, and they dumped me off down here.
+11) 3) dialog: Yeah.  Two real idiots.
+11) 5) dialog: Excuse me, but I'd rather start sniffing for a case, if it's all the same to you. Seeing how we only have a week for this whole transition thing. (waits) I want to get into the shit a.s.a.p., know what I mean?
+11) 6) text: Somerset walks, no reply.  Mills searches to get a read o
+11) 8) dialog: (wary) I... I don't follow.
+11) 10) text: Mills formulates his response.
+11) 11) dialog: I'm here for the same reasons as you, I guess.  Or... at least the same reasons you used to have for being here... (cutting) ...before you decided to give up.
+11) 12) text: Somerset stops and faces Mills.
+11) 14) dialog: Maybe I don't understand the question.
+11) 16) dialog: I don't know.  Maybe I thought I could do more good here than there. (pause) You know, it'd be great by me if we didn't start right out kicking each other in the balls.  But, you're calling the shots, lieutenant, so however you want it to go.
+11) 18) dialog: I wasn't standing around Philly guarding the fucking Liberty Bell.
+11) 20) dialog: I realize that.
+11) 22) text: Mills just stares back at Somerset.  Somerset walks.  Mil rolls his eyes, looks to heaven like, "what'd I do to des this?"  He follows Somerset.
+13) 0) text: It is barely becoming light outside.  Mills can't sleep. Alone in a double bed.  He sits up, frustrated.  Sits on edge of the bed and looks around.  The room is a shambles filled with moving boxes. The light coming through the window glows upon a football on one box.  Large and noble, a golden player stands in f motion at the trophy's pinnacle. Mills looks at the trophy and a fond smile forms on his f The CLINKING of DISHES and SILVERWARE is HEARD from anoth room.  Mills looks at the closed bedroom door, troubled.
+14) 0) text: Across a living room full of boxes, TRACY MILLS, 30, a be woman, stands in her bathrobe.  She's upset about somethi takes dishes out of boxes, puts them on the kitchenette c She pulls a mug from a clump of newspaper and pours some from a pot on the stove.  Blowing on the steaming tea, sh back on the counter, looks over at the closed bedroom doo The tea is too hot to sip, and as Tracy is placing the mu the counter behind her the PHONE RINGS.  Startled, she re the mug too close to the edge.  It falls -- Crashes to the floor, shatters.
+15) 0) text: A dark hall.  Somerset and Mills stand with OFFICER DAVIS beefy, uniformed cop.  Light from a camera's flash spills from the nearby kitchen.  Davis hands Somerset two flashl
+15) 3) dialog: Wait, wait, wait.  You didn't check him? You didn't check vital signs?
+15) 5) dialog: No.  The point is, when you're first man in, you check vital signs.
+15) 7) dialog: (getting angry) Listen, Godzilla...
+15) 8) text: Somerset steps in, heads Mills off.
+15) 11) text: Davis leaves, eyeing Mills.  Mills watches him.  Somerset Mills a flashlight, takes out surgical gloves.
+15) 13) dialog: And, I wonder how many times Officer Davis there has found a supposedly dead man who didn't really die until Davis was back in the patrol car calling the morgue and eating a powdered donut.
+15) 16) dialog: Fine... for now.
+16) 0) text: The POLICE PHOTOGRAPHER packs up, hoists his camera and equipment bag.  Somerset and Mills enter.  Mills puts on pair of rubber gloves.  The grubby kitchen is small; bare for four people to move around in.  The photographer exit
+16) 2) text: The only light is a murky green illumination from the cei The light bathes an OBESE MAN who is slumped forward in a kitchen chair, face-down-dead in a plate of spaghetti. The sizable kitchen table's green tablecloth is covered w soiled paper plates.  The plates hold bits of half-eaten sandwiches, potatoes, donuts and other junk-food remnants Mills and Somerset turn on their flashlights.  Mills poin at the green bulb above.  Aluminum foil has been wrapped the bulb to focus the light on the corpse. Somerset sweeps the room with his flashlight.  He goes to body and kneels beside it.  There's a rope tied around th man's wide gut.  Mills comes to stand beside Somerset.
+16) 3) dialog: I guess that makes it homicide.
+16) 4) text: Somerset crouches lower, uses a pen to lift one of the de man's pants cuffs.  Rope is tied around the purplish ankl Mills examines the knots behind the chair's back.  Shines flashlight on the man's belly.
+16) 5) dialog: Still, he could have tied himself in. To make it look like murder.
+16) 7) dialog: I don't see any blood or bruises yet. No wounds.  You see anything?
+16) 9) text: Somerset stands, points his flashlight: the obese man's s hands are clutching utensils.  A knife in the left hand, sticking straight up in the right with a hunk of meat han skewered.  Cockroaches swarm. Mills turns to the sink and stove.  Each burner of the st a used pot or pan on it.  There's food slopped everywhere
+16) 10) dialog: I saw a guy once... committed suicide, but he wanted to make sure his family could collect insurance money, right?
+16) 11) text: Somerset walks to the room's only window.  The window has painted over with black paint.  he touches the window wit pinkie finger.  The paint is still wet. Mills goes to a trash can by the refrigerator.  The trash full to the brim with empty food containers.
+16) 12) dialog: So, this guy took this big knife... and he held it behind him, put the tip of it in his back, and he ran backwards into the wall.  Cause, he thought it was going to look like someone stabbed him in the back.
+16) 13) text: Mills opens the refrigerator.  It's nearly empty.
+16) 14) dialog: Except, he poked a big fucking hole in the dry wall when he did it.
+16) 16) dialog: (sarcastic) Oh, forgive me.  I thought we had this male-bonding thing going.  My mistake.
+16) 19) dialog: (sniffs) I don't know... there's something.
+16) 22) text: Somerset points the flashlight and Mills crouches, pulls tablecloth on his side of the table.  Two large dead rats the floor beside a metal bucket. Mills grimaces, slides under the table, careful to avoid rats.  He looks in the bucket.  He leans back, baffled.
+16) 23) dialog: It's vomit.
+16) 25) dialog: It's a bucket of vomit.
+16) 27) dialog: Can't tell by looking.
+16) 31) dialog: (to Somerset) You think he was poisoned?
+16) 32) text: Mills goes to the trash can, pokes the garbage with a pen
+16) 33) dialog: And, those rats there somehow ate the poison off the floor?
+16) 36) text: Mills continues searching the garbage.
+16) 37) dialog: There's room.  Light's the problem.
+16) 39) dialog: (not pleased) Thanks, but no thanks.  I'll stay on this.
+16) 42) text: Mills is pissed.  He lifts his flashlight to shine it on side of Somerset's face. A moment passes.  Somerset looks at Mills, light shining directly in Somerset's eyes.  A longer moment.  Mills swi the light off.  He leaves. O'Neill unceremoniously places both hands on the dead man head, lifts the swollen visage from the spaghetti.
+17) 0) text: THWACK, THWACK... THWACK.  Mills punches the heavy bag wi hard, quick punches.  Sweat drips off his face.  He's in out clothing, a bundle of nerves wearing boxing gloves. The walls are covered in mirrors.  Other cops watch Mills they pass, checking out the new kid.  Mills keeps punchin skillfully. He stops when he sees Somerset reflected in one of the mi Somerset walks over, carrying a pizza box with paper pile top.  He sits on a near bench, takes out a cigarette.
+17) 2) dialog: We need to chat.
+18) 0) text: Mills opens a door and enters with Somerset behind.  They alone.  Chairs face an old, limp-roped boxing ring.  Prac pads hang from pegs on a wall.  Mills clasps a pair in hi gloves, offers them to Somerset.
+18) 2) dialog: You just hold them up.  I do all the work.
+18) 3) text: Somerset takes the pads reluctantly, puts them on.  He st the un-lit cigarette hanging from his mouth.  Mills climb the ring.  He holds the ropes open for Somerset, waits. Somerset doesn't want to do this, but he climbs up.
+18) 4) dialog: You've seen my files... seen the things I've done?
+18) 6) text: Mills motions to Somerset and Somerset holds up the pract pads.  Mills starts working them, lightly, warming up. THWACK... THWACK...
+18) 7) dialog: So, what's your problem?  I've done my time on door-to-doors, and walking a beat.
+18) 9) dialog: I did all that shit a long time ago.
+18) 12) dialog: That's bullshit.
+18) 14) text: Mills punches a little more aggressively.  Somerset's bac flinching, keeping the pads high.  THWACK... THWACK... TH
+18) 15) dialog: The badge in my pocket says "detective," just like yours.  I've been Homicide for four and a half years.
+18) 17) text: Mills unloads a mighty wallop and one practice pad recoil Somerset's face, knocks Somerset on his ass.
+18) 18) dialog: Oops.  My hand slipped.
+18) 19) text: Mills walks, climbs out of the ring.
+18) 20) dialog: You fucked me over today, and you know it.  You know it.
+18) 21) text: Somerset looks at the broken cigarette in his mouth.  He contains his anger.  He seems to realize Mills has a poin
+18) 22) dialog: Just don't jerk me off.  That's all I ask.  It's not much.  Don't jerk me off. (pause) Please, do me the favor of remembering that.
+18) 23) text: Mills exits.  Somerset spits out the broken cigarette.
+21) 0) text: The front and one side of the shop are entirely open to t sidewalk and street.  A transparent plastic canopy frames entrance.  A STRANGE MAN, 20, stands at the edge of the c He wears a stained sweatsuit outfit and hums a song, obli Tracy and Mills look together over the piles of fruits an vegetables piled on wooden stands which form tight aisles
+21) 1) dialog: It was okay.  I mean... it was certainly better than yesterday.  I think Somerset and I came to a small understanding...
+21) 2) text: Mills holds his thumb and forefinger about a quarter of a apart to illustrate.
+21) 3) dialog: ...about this big.
+21) 5) dialog: He is that, if nothing else.
+21) 6) text: Mills throws some oranges in the basket hanging from Trac arm.  He goes to check out the carrots.  Tracy looks up f heads of lettuce to the strange man at the entrance. The strange man hums on, rocking back and forth slowly, h glassy.  Customers come and go, paying him no mind. Mills notices Tracy's interest.  He keeps comparing carro
+21) 7) dialog: We started a big homicide case today. I'll spare you the grisly details.
+21) 14) text: Mills nods, his back to Tracy.
+21) 16) dialog: There are a lot of frightening people in the world.
+21) 20) text: Mills edges past Tracy towards the front of the store, tr be pleasant.
+21) 21) dialog: Listen, honey.  I don't want to fight tonight.  Okay?  Can we just go one night without fighting about something?
+21) 24) dialog: We're here now.  Okay.  Are we supposed to pack it all in and go back?  How are we going to do that?
+21) 26) dialog: (doleful) There's a lot of pressure on me... I...
+21) 28) dialog: I know.  I know...
+21) 29) text: Mills steps towards the open air entrance.  He's watching something.  The strange man is still heard offscreen. Tracy reaches to a high wooden shelf, trying to reach a b rice, her back to Mills.
+21) 31) text: She gets the rice and turns.  Mills is not there.  She si angry, looks around.  She walks towards the entrance and him --
+22) 2) dialog: Fuck you. (as car leaves) Fuck you, you son of a bitch!  I'm walking here.
+23) 0) text: Tracy rolls her eyes in amused disappointment.  She sighs Mills passes the babbling strange man, comes up to Tracy.
+23) 1) dialog: I'm sorry... I couldn't pass it up.  I never had a chance to actually do that. But, we can start the argument right back up where we left off, right?
+23) 3) dialog: (playing dumb) What?
+23) 4) text: Tracy wraps an arm around Mills and kisses him.  He holds
+23) 6) text: The strange man starts humming a new tune.  An old man tr get through the aisle where Mills and Tracy are kissing.
+24) 0) text: A small transistor RADIO PLAYS on the bedside table. Mills and Tracy are in bed, making love under the sheets. move rhythmically, kissing, sweating hard. Mills holds Tracy's hair in his hands, pulls her head bac she gasps and he thrusts his entire body against hers. Mills' hair is soaked.  He is anything but mellow as a lo quickening while Tracy twists underneath him.  Tracy hold to the back of his neck with one hand. Finally, Mills pushes himself up on his arms, holding his down against Tracy's chest.  Holds for a long moment, til spent and lowers himself against her, into her arms.  He long time.  She kisses his forehead, keeping her eyes clo Finally, Mills rolls off her, gets behind her and wraps t of them in the sheets.  He folds himself against her, and stay that way.
+24) 2) dialog: Goodnight.
+24) 3) text: After a long moment, Mills shifts back, sits up.  Tracy l over her shoulder at him as he takes a towel off a chair stands.  Mills wraps the towel around his waist. He leans over to give Tracy a last kiss.  She watches him the room.  She is about to say something, but does not. comes on in the other room, leaking through the door.
+25) 0) text: Mills sits down at his desk.  He starts looking through p paperwork.  The RADIO in the other room goes OFF in mid s
+26) 0) text: The room is cold, clean.  Stainless steel.  White tile. pathologists work at slabs.  Mills and Somerset are with SANTIAGO, 35, who stands over the mostly dissected obese
+26) 4) dialog: I can see what you're pointing at...
+26) 10) dialog: He died by eating?
+26) 16) text: Santiago looks amongst tools, buckets and jars of liquid. picks up a glass jar and shows it to Mills.  In the jar: little bits of blue plastic.  Like scrapings.
+26) 17) dialog: Plastic?
+26) 18) text: Mills gets Somerset's attention, hands him the jar.  Some looks at it a long time.
+27) 0) text: Outside the door to the murder scene, Mills and Somerset through the RESTRICTED AREA/CRIME SCENE seal.
+27) 2) dialog: So, the killer had him at gunpoint, and gave him a choice: eat, or get your head blown off.
+28) 0) text: Somerset and Mills enter.  Somerset takes out the jar of scrapings, turns on the now normal light.  They begin to
+28) 2) dialog: So, the killer held a bucket under him.
+28) 4) text: Somerset examines the counter tops and wall.  Mills gets his knees, examines the linoleum floor.
+28) 5) dialog: You kick him, pop him like a fucking balloon. (touches floor) Somerset, look here.
+28) 9) dialog: If this is what that is... it doesn't make sense.  It doesn't figure.
+28) 11) dialog: How are pieces of the floor going to get in the guy's stomach?
+29) 0) text: We are BEHIND THE REFRIGERATOR as it is rocked back and f It's pulled away from the wall.  Somerset and Mills strai a few more feet, then release.  They lean to look -- The refrigerator had hidden a space on the wall where the has been cleared.  In that space: a circle, smeared in gr and a note taped in the center of the circle. Somerset's BEEPER starts BEEPING.  Mills leans to read:
+29) 1) dialog: "Dear Detectives.  Long is the way, and hard, that out of hell leads up to the light." (looks at Somerset) This is not good.
+29) 3) dialog: What?
+29) 5) text: Somerset takes out his beeper, looks at the LED window. looks up at Mills, like they've received very bad news.
+30) 0) text: A marble hallway.  A DETECTIVE, 50, nervously chewing his quickly leads Mills and Somerset past cops and forensics.
+30) 2) text: The detective opens the door.  FOLLOW Somerset and Mills
+31) 2) text: The nude dead man's legs are folded under him as if he we kneeling, and he's bent forward, chin on the floor.  His are open, his arms outstretched before him.  Mills and So walk to either side of the man. The detective closes the door, bites his thumbnail.  The apartment is on a high floor, so it's quiet. Somerset sees the window has been covered with a sheet of gel, stapled in place to produce the colored light. Mills examines the corpse.  There's a chair one foot behi nude man.  It's an elegant leather chair, drenched in blo There's a carving knife on the carpet in the middle of a stain of blood under the chair.  Mills looks at pieces of rope on the floor behind the chair.  The rope is knotted. Somerset crouches beside the body.  There's a big piece o missing from the man's left side, as if the love-handle h lopped off.  Hundreds of pennies lie scattered under and the man.  The man's hands are palms up, fingers wrapped a more pennies. Mills walks over to examine a scale on the floor between corpse and the doorway.  It's an old-fashioned counter-ba scale with two suspended dishes on a see-saw arm.  In the dish: the hunk of flesh missing from the man's side.  In dish: a one pound counterweight.
+31) 3) dialog: (to Somerset) A pound of flesh.
+32) 0) text: An office full of pictures, books and mugsheets, yet it i meticulously well kept.  The CAPTAIN, 50, sits at his tid He's dressed conservatively.  Mills and Somerset sit befo Somerset reads from a photocopy of the note they just fou
+32) 4) text: Mills sits back in his chair, arms crossed, seems anxious doesn't know why they're here.
+32) 16) dialog: This is his stuff, captain.  I've been out in the cold most of the day.
+32) 19) dialog: (sits up, angry) What?!
+32) 24) dialog: Can I just say something?
+32) 26) dialog: This is not my first case, fuckhead!
+32) 28) dialog: Give it to me, then.  There's nothing that says I have to fly with him.
+32) 30) dialog: If Somerset wants out, fuck him.
+32) 32) dialog: (to captain) Could we talk about this in private?
+32) 33) text: The captain looks at Somerset, then at Mills.
+32) 35) dialog: Thank you, sir.
+32) 37) text: Mills stands.  Somerset will not look him in the eye.  Mi leaves, slams the door.  Somerset seems deflated.
+36) 0) text: Mills is seated in front of a long writing desk with many drawers.  All the drawers are open.  Mills looks through and stationary.  Nothing of use.  He tosses the pile back He sits back, frustrated, yanks off one rubber glove, loo around the room.  Books have been taken off their shelves bed has been stripped.  The room has been given the once The victim's family photographs hang in expensive frames wall.  There are at least thirty photos of various sizes: ancestors, sons and daughters, grandchildren and friends. over-weight forensic, CHRIS, 35, leans in through the doo Mills looks up and Chris shakes his head glumly.
+36) 1) dialog: He must have left us another puzzle to solve... somewhere.
+36) 3) text: Chris leaves and Mills stands to stretch.  Something catc Mills' eye.  He walks over to the door, curious.  At the the open door, there's a ball of paper wedged under to ac doorjamb.  Mills puts his glove back on, pulls the ball o He uncrumples the paper as the door slowly swings shut. page has a drawing on it, of the sun with waves of heat a edges.  There is a single eye in the center of the sun. An arrow is drawn in dried blood on the back of the closi door.  Mills notices this and pushes the door closed. The blood arrow points to the side and up, seems to be po to the photo gallery wall.  Mills goes to examine the pho His eyes search each photo... one by one... till he sees
+36) 4) dialog: Christ...
+41) 0) text: Mills stands brooding over a photocopy of the picture of woman with her eyes circled in blood.  He looks overworke drinks coffee.  His desk is swamped with files.
+41) 2) text: Mills looks to a t.v. on a table, picks up a remote, incr the volume.  On the screen, MARTIN TALBOT, 47, source of voice, stands before reporters.  He's a powerful presence a gold tooth in the front of his mouth.
+41) 5) text: Mills is hanging on every word.
+41) 7) dialog: (relieved) You tell 'em boss.  Detective David Mills is a wonderful human being...
+41) 9) text: Mills looks back at the television.
+41) 11) text: Mills points the remote, turns the t.v. off as reporters Talbot.  Mills stares at the blank screen, dispirited. Across the room, Tracy stands in the doorway.  Mills does see her.  He looks at the photocopy and sits at his desk. Tracy watches him, great concern in her sad eyes.
+46) 2) text: She takes a second to drink Somerset in.  Somerset is sur having expected Mills.  Tracy is so exquisite that he fal
+47) 3) text: Tracy motions and Somerset puts the books on Mills' desk. He starts looking through one book, checking paperclipped
+48) 0) text: It's raining hard.  Mills exits the morgue building with art books and a paper cup of coffee.  He holds one art bo his head as he dashes through deep puddles in the street.
+49) 0) text: Mills gets in, puts his coffee on the dash and tosses the books in a box.  He closes the door.  Alone with the soun the rain.  He wipes water off his face, looks at his tire in the rearview mirror. He reaches in the box of books, takes out copies of The Canterbury Tales and Dante's Purgatory.  He makes a face, Dante's Purgatory:
+49) 21) text: Mills turns to a bookmark, rests the book on the steering He reads.  He bites his lip, leaning close to the words. concentrates, mouths some of the words to himself.  He fi closes the book, shaking his head, not understanding anyt he's reading.  He starts pounding the book against the st wheel with all his might.
+49) 22) dialog: Fucking Dante.  Goddamn, poetry writing freak, mother-fuck...
+49) 23) text: A figure outside the window knocks on the glass.  Mills r down.  A COP in raincoat hands a wet paper bag through.
+49) 24) dialog: Good work, Officer.  Good work.
+49) 25) text: The cop leaves as Mills quickly rolls the window up and r bag open.  Inside: Cliff Notes for Dante's Purgatory and Canterbury Tales.
+49) 26) dialog: Thank God.
+50) 0) text: It still rains outside.  Somerset enters, stops to notice DETECTIVE MILLS painted on the door where his name used t He walks, sees all his belongings have been moved from hi and piled on a small temporary desk in the corner. Somerset sits at the temporary desk, starts organizing th and papers.  Mills enters carrying the box of books.
+50) 2) dialog: Great.
+50) 3) text: Mills puts the box on the large desk.  They both settle i attending to their work.  Two men, about five feet apart, trying not to acknowledge the other's presence. Mills takes out his Cliff Notes, looks to see Somerset is occupied, hides them in a desk drawer. Somerset finishes one form, flips it and looks up.  There chalk board nailed to the wall. On the chalkboard:     1 gluttony(x)    5 wrath 2 greed(x)       6 pride 3 sloth          7 lust 4 envy
+50) 6) text: Mills picks up.  Somerset returns to his work.
+50) 7) dialog: (into phone) Detective Mills here. (lowers voice) Honey, I asked you not to call unless... (listens) What... why?  Okay... okay.  Hold on.
+50) 8) text: Mills is confused.  He holds the phone out to Somerset.
+50) 9) dialog: It's my wife.
+50) 10) text: Somerset looks quizzical.  Mills shrugs.  Somerset takes
+50) 12) text: Somerset gets up, hangs up, puzzled.  Mills is waiting.
+50) 13) dialog: Well?
+50) 15) dialog: How's that?
+50) 17) text: Mills looks at the phone, lost.
+51) 0) text: A record player on a moving box PLAYS QUIET MUSIC. There's a basketball game with NO VOLUME on the t.v. scre Tracy, Mills and Somerset eat at the kitchen table.  Mill beeper by his beer and occasionally fingers it absently.
+51) 2) dialog: Tracy.  What the hell?
+51) 7) dialog: No argument.
+51) 8) text: Mills grins, but he means it.  he sips beer.  The convers lapses into long silence.  Somerset concentrates on his p Tracy looks at Mills, who eats while watching the basketb game.
+51) 12) dialog: It takes time to settle in.
+51) 13) text: Tracy looks at Mills.  Somerset can see it is a sore subj
+51) 19) text: They wait.  The t.v. picture goes fuzzy.  The RUMBLING gr LOUDER, knocks something over in the sink.  Mills continu eating.  Somerset fiddles with his food.  The record play skips, then plays on.  The RUMBLING finally DIES DOWN, ti everything is normal.
+51) 20) dialog: (uncomfortable) This real estate guy... a real scum, brought us to see this place a few times.  And, it was nice enough, and the price was right.  I was thinking it was nothing, but I started to notice, he kept hurrying us along.  I mean what could it be?  Why would he only show it like five minutes at a time, before he'd hustle us out the door?
+51) 21) text: Mills laughs, lamely.
+51) 25) text: He pulls himself together, but only for a moment.  He can it, laughs harder, covering his mouth.  Tracy and Mills l
+51) 26) dialog: (sighs) Oh, fuck.
+52) 0) text: The record player spins a different album, DIFFERENT MUSI Tracy's clearing the last dishes into the sink.  Mills an Somerset have beers.
+52) 4) dialog: That's weird.  It's un-American.
+52) 6) dialog: What about sports?
+52) 9) dialog: You go to movies at least.
+52) 11) dialog: T.V. Guide.
+52) 12) text: Mills laughs.  Burps.  he turns to Tracy.
+52) 13) dialog: Excuse me. (to Somerset) I just have to say, I can't respect any man who's never seen Green Acres.
+52) 15) dialog: You've never seen The Odd Couple?  The Flintstones?
+52) 17) text: Across the room, Tracy turns the t.v. and the record play She goes into the bedroom, shuts the door behind her with word.  Somerset and Mills turn to the closed door. They look at each other, then sit for a time.  Somerset d coffee.  Mills drums his fingers on his beeper.  Big sile
+53) 0) text: Mills walks up the creaky stairs.  He carries his briefca six-pack and art books.  Somerset follows, reading a case
+53) 1) dialog: We think he acted like he was delivering a package.  The doorman at Mr. Gold's building says he doesn't even look at anyone who goes in anymore.
+53) 2) text: Mills opens a door to the roof --
+54) 0) text: Mills and Somerset walk onto the roof.  It is a spectacul on all sides.  Miles of city lights.  Breathtaking.  SOUN the CITY reach them.
+54) 2) text: Mills shakes his head, unloads what he's holding onto a r table.  He sits in one of two lawn chairs.  Somerset sits from him.
+54) 4) dialog: None.  Which I can't understand.  It's like this guy's invisible.
+54) 8) text: Somerset holds the books up to Mills, points to a picture sun and eye, same as the drawing Mills found.
+54) 10) dialog: Which saint is he?
+54) 12) text: Mills takes the book and looks it over.
+54) 14) dialog: Look, I appreciate being able to talk this out, but... it's my case.
+54) 16) text: Mills is pondering, very tired.  He unlatches his briefca takes a photocopy of the photo of the falsely pretty woma hands it to Somerset.
+54) 17) dialog: The eyes were circled.  With Mr. Gold's blood.
+54) 19) dialog: (nods) She was away on business.  She got back the day he was killed.  If this means she saw anything, I don't know what. We've questioned her about ten times.
+54) 21) dialog: We put her in a safe house.
+54) 23) dialog: I know.
+58) 2) text: Mills is seated at the table with art books open. A breeze fans the pages of the books.  The flipping pages views of heaven, hell, adoration, crucifixion and sin.
+58) 3) dialog: Like in these paintings, and in Dante's Purgatory, right?  But, in Purgatory, Dante and his buddy climb that big mountain...
+58) 5) dialog: Anyway... pride comes first, not gluttony.  And in all the paintings, the sins are in a different order.  I can't find a pattern.
+58) 9) dialog: He's punishing these people.
+58) 11) dialog: What?  Forced what?
+58) 13) dialog: Because someone's holding a gun on you.
+58) 14) text: Somerset thinks.  He walks from the edge to Mills.
+58) 16) dialog: She didn't find it.  The door to the apartment was open and a neighbor...
+58) 18) dialog: No.  She got back after you and I had already been there.
+58) 20) dialog: What?
+59) 0) text: The room is like a bland hotel room.  Mills stands beside GOLD.  He shows her photos from the murder scene.  Mrs. G crying.  Somerset stands across the room.
+59) 1) dialog: Please, look for anything strange or out of place.  Anything at all.
+59) 3) text: Mills helps her go through the photos.  He is shaken hims not wanting to put her through this.
+59) 4) dialog: I need your help if we're going to get the guy who killed your husband.  If there's anything in these pictures...
+59) 7) dialog: Are you absolutely sure?
+59) 11) dialog: He's punishing these people.
+59) 13) dialog: What?  Forced what?
+59) 15) dialog: Because someone's holding a gun on you.
+59) 16) text: Somerset thinks.  He walks from the edge to Mills.
+59) 18) dialog: She didn't find it.  The door to the apartment was open and a neighbor...
+59) 20) dialog: No.  She got back after you and I had already been there.
+59) 22) dialog: What?
+60) 0) text: The room is like a bland hotel room.  Mills stands beside GOLD.  He shows her photos from the murder scene.  Mrs. G crying.  Somerset stands across the room.
+60) 1) dialog: Please, look for anything strange or out of place.  Anything at all.
+60) 3) text: Mills helps her go through the photos.  He is shaken hims not wanting to put her through this.
+60) 4) dialog: I need your help if we're going to get the guy who killed your husband.  If there's anything in these pictures...
+60) 7) dialog: Are you absolutely sure?
+60) 9) text: Mills looks at Somerset.  Somerset holds other photos.
+60) 10) dialog: We have to show her those.  There might be something she's missing.
+60) 14) dialog: What is it?
+60) 17) dialog: What?
+60) 19) text: Mills jerks his head to look at Somerset.  Big score.
+61) 1) dialog: Nothing.
+61) 5) text: Somerset tears along the edge of the brown paper to get t space between it and the canvas.  He tears out the entire Mills helps pull it away, but there's nothing there.  Emp Mills looks at both sides of the paper, then tosses it aw
+61) 6) dialog: It's nothing.
+61) 7) text: Somerset pays the painting down, face up.  He pokes his f on the painted surface.  Mills watches as Somerset kneels out a credit card and presses it's edge against the canva trying to peel up some of the paint.
+61) 8) dialog: Give it up.  The killer didn't paint the fucking thing.
+61) 10) dialog: He fucked us.
+61) 11) text: Somerset backs away from the wall, staring at the space w the painting hung.  There is only a nail.  He stares inte then turns and walks out of the room. Mills holds his hands to his temples, furious.  SOMERSET HEARD from the other room, going through drawers, droppin things.  GLASS is HEARD BREAKING.  Mills grabs a lamp and it on the floor.
+61) 12) dialog: Son of a bitch!
+61) 14) dialog: What?
+61) 16) text: Mills watches.  Somerset has a woman's make-up compact in He opens it, uses the soft brush to begin applying the re powder to the wall around the nail.
+61) 17) dialog: (incredulous) Oh, yeah, sure.  You got to be kidding.
+65) 2) dialog: Talk to me.
+65) 3) text: The forensic bites his lip, still studying. Mills and Somerset watch the forensic who works offscreen
+65) 4) dialog: (to Somerset) Listen, honestly... have you ever seen anything like this?  Been involved in anything remotely like this?
+66) 2) dialog: Who the hell knows?  There's plenty of schizoids out there doing dirty deeds they don't want to do.  With tiny voices whispering nasty things in their ears.
+67) 0) text: Somerset and Mills come from the print lab.  A janitor is mopping the hall.  The computer is HEARD WHIRRING AND CLI onwards.  Somerset sits with a groan on a couch outside t door.  Mills flops beside him.
+67) 2) dialog: And you don't?
+67) 4) dialog: So, tell me what you think we're doing.
+67) 6) dialog: You're unbelievable.  In my entire life, you're the oldest man I've ever met.
+67) 8) dialog: I've seen the same.  I'm not the country hick-boy you seem to think I am.
+67) 11) text: Mills slumps back, crosses his arms, closes his eyes to s
+67) 12) dialog: Don't try to tell me you didn't get that rush tonight... that adrenalin.  Like we were getting somewhere. (pause) And, don't try to tell me it was because you thought we found something that would play well in a courtroom.
+67) 13) text: Somerset looks at Mills, puffs the cigarette.  The comput heard: whir - click - whir - click...
+69) 10) text: There is chatter among the cops.  Somerset leans to Mills the captain continues the briefing.
+69) 12) dialog: You tell me.  I'm new in town.
+69) 14) dialog: We'll tag along.
+69) 17) dialog: Satisfy our curiosity?
+70) 0) text: Mills drives, follows a police van.  Somerset rides shotg Mills is pumped, ready.  Somerset takes one Rolaids table fresh roll and chews it.
+70) 1) dialog: You ever take one?
+70) 4) dialog: I pulled it once, fired it once.  I never took a bullet.
+70) 6) text: Mills turns a corner, tires screeching.
+70) 7) dialog: It was my first one of these.  We were a secondary unit, in vice.  I was pretty shaky going in.  When we busted the door, looking for a junkie, the fucking guy opened fire.  One cop was hit in the arm.  He went flying... like in slow motion. (pause) I remember riding in the ambulance.  His arm was like... a piece of meat.  I thought, it's just his arm.  But, he bled to death right there anyway.
+70) 10) dialog: Well, I was doing really good in Philly up till then.  Lots of simple busts. I've always had this weird luck... but, this was wild. (pause) I got that fuck with one shot... right between the eyes.  And the next week, the mayor's pinning a medal on me. Picture in the paper, the whole nine yards.
+70) 12) dialog: I expected it to be bad, because I heard about other guys.  You know... I took a human life.  But, I slept like a baby that night.
+70) 15) dialog: Sounds like he knew what he was talking about.
+71) 0) text: Crack vials and hypodermic needles crunch under heavy boo The five cops from the briefing, fully geared up, rifles handguns held, move quickly up the stairs, single-file. Somerset and Mills follow, guns out.  Somerset is sweatin bullets.  Mills is juiced.
+72) 2) text: A black cop hoists a battering ram.  The other cops get o sides of the door.  Mills moves front.  Somerset hangs ba
+73) 0) text: The cops charge down a short hall into this incredibly du room.  A bed sits against a far wall.  Mills and Californ up to the bed.  Someone lies under an indigo blanket.  Th other cops move, training their weapons on the bed.
+73) 2) text: A blond cop goes into another room.  Mills kicks the bed.
+73) 3) dialog: Get up now, motherfucker!  Now!
+75) 1) dialog: I said get up, Sleepyhead!
+75) 2) text: Mills pulls the indigo blanket off the bed, reveals the shriveled, sore-covered form of a black man who is blindf and tied to the bed with a thin wire wrapped time and tim around the bed.  Tubes lead from the stained loincloth ar the man's waist and snake under the bed.  The victim is partially covered by what seem to be piles of black spagh
+75) 5) dialog: Holy shit.
+75) 11) dialog: It's him.  It's Zero.
+75) 16) dialog: Hey, California.  Get your people out.
+75) 19) text: The other cops file out as Mills goes to examine the pola under the sheet.  Somerset replaces the sheet over Zero's California stays by his side.
+75) 22) dialog: Somerset, you... you better look here.
+75) 23) text: Mills studies the polaroids.  Somerset walks to join him.
+75) 24) dialog: All pictures of Zero tied to the bed. (crouches) The last one's dated three days ago.
+75) 29) text: Mills kneels and lifts the bottom of the sheet off the fl finds an open shoebox.  On the box: TO THE DETECTIVES.
+75) 30) dialog: What's this?
+75) 33) text: Somerset leans down beside Mills.  Mills looks through th shoebox.  Inside are plastic, zip-lock bags.  One bag con small clumps of hair, one contains a yellow liquid...
+75) 34) dialog: A urine sample... hair sample... fingernail clippings.  He's laughing at us.
+75) 35) text: California is still close to Zero's face when suddenly Ze lips twist.  Zero lets out a loud, guttural bark.  Califo jerks back in fear, shouting, falling over a chair. Mills and Somerset reel, standing.  They see California o ground, scared out of his mind, pointing.
+75) 37) text: Mills and Somerset look towards the bed. Zero's lips move feebly as he lets out a sick, gurgling m
+76) 0) text: A crowd has gathered.  Mills' car, the police van and two ambulances are parked on the sidewalk.
+79) 0) text: Mills and Somerset stand in the middle of one flight of s They are both highly agitated.
+79) 2) dialog: I want him bad.  I don't just want to catch him anymore.  I want to hurt him.
+79) 4) dialog: I don't know about you, Somerset, but I feed off my emotions.
+79) 6) text: Mills is looking at the floor, burning with anger.  Somer grabs him by the jacket.
+79) 8) text: Mills pushes Somerset's hand off.
+79) 9) dialog: I hear you.
+79) 10) text: There is a sudden brilliant flash of light and the SOUND CAMERA ADVANCING.  Mills and Somerset look -- Down the stairs, John is posing as a reporter.  He has hi camera and flash up, pointed at the detectives.
+79) 12) text: He takes another picture, flashbulb flashing.  Mills char downwards, grabs John by his wrinkled clothing.
+79) 13) dialog: What the fuck are you doing?
+79) 16) text: Mills shoves him and John stumbles a few steps, then fall the landing below with a thud.  His glasses fly off.
+79) 17) dialog: That doesn't mean anything.  This is a closed crime scene now!
+79) 18) text: Somerset steps down and pulls Mills back.  John stands.
+79) 20) dialog: Get the fuck out of here!
+79) 23) text: Somerset yanks Mills harder, till Mills sits on the stair
+79) 24) dialog: How do those cockroaches get here so quick?
+79) 26) dialog: (calming) I'm sorry... I just...
+80) 0) text: Mills stands with the blase DR. BEARDSLEY, who reviews a chart on a clipboard.  Zero lies inside an oxygen tent wi tubes running into him.  The room is dark.
+80) 2) text: Mills looks into the oxygen.
+80) 3) dialog: He hasn't said anything, or tried to express himself in any way?
+80) 5) text: Mills winces, moves away from the bed.
+80) 6) dialog: There's no way he'll survive?
+83) 1) text: Mills is behind his paperwork covered desk, listening to uniformed OFFICER who looks over a report sheet.
+83) 3) dialog: There's a landlord's dream tenant.  A paralyzed man with no tongue.
+83) 5) dialog: Bring me everything as soon as it's transcribed.
+83) 6) text: The officer leaves.  Mills starts sorting through piles o desk.  He doesn't know where to begin. He sits back in his chair, looks at the collage-like coll of pictures pinned on the walls: photos and diagrams of t murder scenes, the drawing of the sun and eye, color page black and white copies of pages from art books. He stares, thinking.  He stands, takes a photocopy off th The killer's first note: Dear Detectives, Long is the way, and hard, that out of hell leads up to the light.
+83) 7) dialog: (to himself) Milton.
+84) 0) text: Big brass lamps hang from the high ceiling.  Mahogany cha tables run down the center floor which is bordered by thr levels of balconies.  People wander like ants in an ant f Mills walks, taking it all in.  He goes to the circulatio Impatient patrons wait in a long line.  He watches the bo HEAD LIBRARIAN, female, 64, help an old man at the desk. She opens the old man's books, runs a laser pen over a ba sticker, pushes a few buttons on a computer.
+85) 0) text: Near the balcony railing, overlooking the main floor, Mil before a computer card catalog.  He reads the computer sc unsure.  He sets down his pad and pencil, cracks his knuc begins typing on the keyboard.  The computer gives off a BEEP.  Pleased, Mills reads the screen.  Types. On the screen:                 TITLE / PARADISE LOST_ He hits return.  Reads the screen as information on the b appears.  He copies it on his pad, puts the pencil in his He types.  On the screen:      SUBJECT / JACK THE RIPPER_ Hits return.  Again, he copies info from the screen.
+89) 0) text: From a mahogany hallway lined with book-carts, we look TH big WINDOW into the head librarian's office.  The elderly librarian is at a computer, chain-smoking, working the ke Mills alternates talking on the telephone and reading thi his pad to the librarian. We cannot hear them, but it's clear Mills is excited as h back and forth, hovering over the librarian, looking at h computer screen, making suggestions, then walking to moni dot-matrix printer which spews a waterfall of computer pa onto the floor.  Back and forth goes Mills, carrying the He closes the pad, puts it in his pocket. The librarian finishes typing, sits back, done.  Mills ha the phone, goes to put it on the librarian's desk, but th drags, knocks a pile of books off a table. The librarian is irritated, goes to pick up the books.  M apologizing.  He goes to watch the printer.  He tears the sheet's perforated edge, gathers the huge pile of printed off the floor. Prize in hand, Mills is so grateful he bends to give the woman a kiss on the cheek, but she pushes him away, now e more annoyed.  Mills goes to leave, knocks over another p books.  Before he can assist, the angry librarian points door.  Mills obeys like a scolded child, exits. The librarian shakes her head in disgust.
+94) 0) text: Much activity, as forensics with flashlights go about the business, checking every nook and cranny of the church, l for any sign that someone's been here recently.  Small te floodlights are hoisted on tripods. Two photographers stand at the tops of tall ladders.  Fla photo after flash-photo is taken of the seven paneled tab Near the open church doors, Mills speaks with great anima holding his ream of computer paper.  Somerset looks at th and the tableau, preoccupied.
+94) 1) dialog: Our guy's a bookworm, right?  And, I know it's a long shot, but you have to give a picture id and current phone bill to get a library card.  Hey...
+94) 2) text: Mills snaps his fingers in Somerset's face, gets his atte
+94) 3) dialog: I made two separate lists of books.  One relating to the sins... Dante's Purgatory, Canterbury Tales... The Dictionary of Catholicism... all the religious stuff.  The second list was books about torture methods, mass murderers... sadomasochism.  Whatever our killer might study to do the things he's done.  Whatever his other interests are.
+94) 6) dialog: Alright.  Everything at the library goes into a computer.  So, you can get in the system and cross-reference...
+94) 7) text: Mills fumbles in his pocket, takes out his pad and reads.
+94) 8) dialog: Let's say you take, Dante's Purgatory, call number eight-five-one-D, and... The Biography of the Marquis de Sade, ninety-two S-A-D-E.  Put those books in the system, and the computer can give you the name of anyone who's ever taken out both those books.  And, it doesn't just give you their name and address, it gives you a complete history of their library reading habits.
+94) 9) text: Mills slaps the list in Somerset's hand.
+94) 10) dialog: (psyched up) If somebody's out there reading Paradise Lost and studying The Life and Times of Charlie Manson, I want to talk to them.
+95) 0) text: Somerset and Mills exit down the stairs.  Somerset's stil searching, holding the list.  He spies a uniformed cop, D
+95) 2) text: Dario runs up.  Somerset puts his hand on his shoulder an him walk with him.  Mills continues on to his car.
+95) 6) text: Somerset releases Dario, who runs to obey.  Somerset goes own car.  Mills is driving to leave, stops, revs the engi Somerset hands the computer list through the window.
+95) 8) dialog: Yeah.  Is that so hard for you to believe?
+95) 10) dialog: I'm not as stupid as I look.
+95) 11) text: Mills peels away.  Somerset heads to his own car.
+96) 1) dialog: Ramirez.  Manuel Ramirez.
+96) 4) dialog: Elinski.  Dennis Elinski.
+96) 7) dialog: Atwater?  Paul Atwater.
+96) 9) text: Wrath shows a man surrounded by vaporous, satanic demons. stands in a puddle of blood, looking at his hands stained and dripping blood.  Other than the rich red, the color i Mills is at his desk, a good portion of the print-out lis draped to the floor.  He rubs his eyes, sighing, gets bac it.  Somerset, at the temporary desk, studies his orphan
+96) 10) dialog: Okay, here we go.  Listen to the books this guy's been taking out... (reading list) Basic Homicide Investigation.  Forensic Toxicology... The Encyclopedia of Modern Serial Killers... (looks up, excited) Of Human Bondage.
+96) 12) text: Mills is disappointed, runs his finger further down the p
+96) 13) dialog: Holy shit.  Somerset... (reading list) The Writings of Saint Thomas Aquinas.
+96) 14) text: Mills points to the drawing of "the Sun in splendor with eye" which hangs on the wall.
+96) 15) dialog: Aquinas.  Right?
+96) 17) text: Mills looks at the page... searching...
+96) 18) dialog: Fuck... he used a false name.
+96) 20) dialog: His library card lists him as Jonathan Doe.  John Doe.
+96) 21) text: Mills sits back, angry.  Something strikes Somerset as od Familiar.  He starts leafing quickly through the orphanag
+96) 22) dialog: What?
+96) 25) dialog: What are you talking about?
+97) 0) text: Somerset and Mills climb stairs, turn a corner into this
+97) 1) dialog: It's impossible odds that this is him.
+97) 3) dialog: I know, I know.  On one little thing. I'm not complaining.  I'll follow anything we get and I'll take it any way we can get it.
+97) 5) text: They reach a door, apartment 3A.  Somerset knocks.  Mills out his gun and looks at Somerset to ask "what do you thi Somerset nods that he should have the gun ready.  Mills s the side of the door, knocks hard.  Waits.
+97) 6) dialog: (quietly) I'll do the talking, right?  Let me practice here... um, excuse me Mr. Doe, but, are you by any chance a serial killer?  Oh... oh, you are?  Well, come with us then, if you don't mind.
+97) 7) text: Mills smiles at his own wit.  A STAIR is HEARD CREAKING offscreen.  Mills turns to look towards the stairs. A MALE FIGURE stands at the top of the stairs, wearing a standing in shadows.  The man looks at them, lets out a s of horror and reaches into his coat.
+97) 8) dialog: Somerset!
+97) 10) dialog: It's him!  Jesus Christ, we can get this fucker!
+97) 11) text: Mills jumps up.  He moves towards the railing.  Somerset and takes out his own gun.  The stairwell is silent. Mills peers over the railing into the stairwell's center, pointed.  A HEAVY METALLIC CLICK is HEARD.  Echoes.  Mill backwards as bullets begin raining up from below, accompa the SOUND of an UZI SUB-MACHINE GUN FIRING. Somerset lays flat as he and Mills crawl away from the ra which is being shredded along with the floor around it. soar unceasingly.  Mills and Somerset hold their hands ov their ears.  Pieces of wood and plaster fly everywhere. stops and the man can be HEARD RUNNING again. Mills gets up, covered in debris.  He runs down into the stairwell.  Somerset rolls over, gets up more slowly.
+98) 0) text: Mills rushes out into this weedy, overgrown courtyard.  H a thin vagrant sleeping on the building's junk-pile, then all directions.  His eyes are wild.  His gun hand is shak The courtyard is surrounded by alleyways.  The shooter co have gone anywhere and is nowhere in sight.  Somerset com face wet with sweat.  Mills holsters his gun.
+98) 1) dialog: Are you alright?  Are you okay?
+100) 3) text: AT THE TOP OF THE STAIRS, two forensics, SARAH and BILLY, behind Mills and Somerset.  Surgical gloves on all hands. kicks at the door to apartment 3A with all his might.  Ag
+101) 0) text: BOOM -- door flies open.  Mills enters with Somerset.  Da
+101) 1) dialog: (to forensics) Give us first crack at it.
+101) 2) text: Sarah and Billy wait in the hall.  Somerset hits a switch wall and a lamp illuminates on a desk.  The desk is in th center of the room, facing them.  The walls, floor to cei are covered with visual stimuli; pictures, paintings, new articles, sketches, writings on napkins and notebook shee etc.  Mostly religious images. The far wall is made of shelves full of books.  Mills goe the desk while Somerset goes to the books.  Books: An Ove of Theology, Handbook of Firearms, A History of the World Theologica, U.S. Criminal Law Review, etc. Mills looks at the desktop.  The surface is marked by dri colors.  There are tubes of paint laying out, boxes of wa colors and pastels.  Mills looks at one corner of the des orange candle has been allowed to burn down.  The wax tra all the way down the edge of the desk to a puddle on the Somerset walks, studying one wall of pin-ups.  There are articles about the seven deadly sins, pages from art book pencil drawings of Satan and Christ, and drawings of the paneled tableau paintings which inspired the murders.  So lifts several sheets to note the paper scraps are spaced tightly and completely that they cover the window. At the desk, Mills opens the top middle drawer.  It's emp except for The Holy Bible.  he opens another drawer, whic filled with at least forty empty aspirin bottles. Somerset looks at a door which is papered over by all the newspaper articles and photographs about the seven deadly murders.  He opens the door --
+103) 0) text: Mills opens a final drawer to find a rosary and a revolve He looks around, nervous and excited, being in the murder lair.  He goes to a closed door across the room, notices Doe's bed in the corner.  Sees Doe has a cross nailed to ceiling directly above the bed's pillow.
+104) 0) text: Mills enters the bathroom.  It has been converted into a darkroom, lit by red bulbs, with strips of film hanging f ceiling.  WATER is HEARD DRIPPING. Mills opens the shower curtain.  Prints hang drying, clip wires over the tub.
+105) 1) dialog: Somerset!
+105) 2) text: Mills enters, tormented, weary.  He stands in the project bright beam, holds an 8" by 10" print.
+105) 3) dialog: Somerset, we had him.  Goddamn it.
+105) 5) dialog: The pass is a fake... we had him.
+105) 6) text: Somerset looks at the photo, a picture of Mills and Somer the stairwell of the slum apartment building; the picture took when he posed as a reporter.
+105) 7) dialog: We were that close to him.
+105) 9) text: Somerset motions to the huge canvas.  Mills looks: The painting is frightening collage, thick with paint.  T photo of Mills and Somerset has been incorporated in bits pieces.  Duplicate images: enlarged eyes, hands, faces. faces have been ripped, scratched, mutilated.  Grainy eye holes jabbed in them are mounted in paint beside chopped arms.  Mills' head is on Somerset's body, and vice versa. like a sick, fragmented vision of a slaughter house floor
+109) 2) text: Mills stands over the artist.  Sarah, Billy and two deput detectives are at work in the room, photographing, search
+109) 3) dialog: Make sure it gets around.
+109) 6) dialog: Keep looking.
+109) 8) dialog: You know, you're right.  I don't believe it.  Keep looking.
+110) 0) text: Somerset reads one of Doe's notebooks.  Three cops are lo through other notebooks from the shelves.  Mills enters.
+110) 2) dialog: I'm working on it, alright.  What have we got.
+110) 3) text: Somerset bristles slightly at Mills' abrupt demeanor.
+110) 5) dialog: Then, he must write about the murders.
+110) 8) text: Mills walks.  He looks into the adjoining paint room.
+110) 10) text: Mills leans in the doorway, looking at Doe's strange artw
+110) 11) dialog: You were right.  He is preaching.
+111) 0) text: All attention is focused on the phone on Doe's desk.  A t recorder is rigged to the receiver.  Mills and Somerset e Mills walks over, pushes a button on the recorder, picks
+111) 1) dialog: (into phone) Hello... hello?
+111) 3) dialog: (into phone) Okay, John.  Let's...
+111) 5) text: Long pause.  Mills waits.
+113) 0) text: Mills is in a dark mood.  He and Dr. O'Neill stand by a W who hangs by a noose from the ceiling.  The woman's head been bandaged sloppily with white gauze and tape.  Her ey been left uncovered.  The gauze is stained red in small s The woman hangs low, so her feet are inches from the floo piles of dried flowers and a cordless telephone lay.  The chair knocked over behind her. O'Neill's going through his black bag.  A violet, velvet has been draped on the wall in the corner, behind a full mirror.  The mirror reflects the corpse.  A seven-pointed is smeared in lipstick on the mirror's surface, with the DID NOT KILL HER, SHE WAS GIVEN A CHOICE below. Somerset enters from the bathroom, looks at the murder di
+113) 1) dialog: Pride.  Just like in the painting.
+113) 5) dialog: Cut her up... dressed the wounds.  He put the noose around her neck and stood her on the chair.
+113) 7) dialog: Call for help, and you'll live.  But, you'll be mutilated.
+113) 9) text: O'Neill's cutting the bandages on the woman's face.  He p them away in front.  Mills looks, disgusted by the sight. Somerset sits in a chair, runs his fingers through his ha
+116) 0) text: Somerset's car stops at the corner of Mills' street.
+124) 0) text: Doe gets out of his car. He looks both ways down the street, walks towards Mills' Tracy's building.
+125) 0) text: Mills and Tracy are asleep in their bed.  Mills' eyes shi under their lids.  Rapid eye movement. A SOUND is HEARD from the other room.  Mills awakens.  He still a moment, then gets up, slowly, reaches to take his off the bedside table.  He grabs his pants from a chair, into them.
+126) 0) text: Mills opens the bedroom door and enters quietly, gun held He moves, crouching. In the dark, objects in the room and shadows from windows complex, confusing patterns. Mills walks between moving boxes, attempting to remain si He aims the gun from point to point as he advances. He gets to a closet.  Staying on one side, he opens the d points his gun.  He carefully separates the clothing hang there.  Nothing.  No one. He turns to look over the room.  It's the first time we s in Mills' eyes -- real fear. The door to the apartment is wide open.
+127) 0) text: Mills moves from his apartment, gun out, into the dark ha The coast is clear.  He stays low, moves down the hall. stops, looks up.
+128) 0) text: Mills shoves the rooftop door open.  It creaks as it swin Mills moves out, backwards, looking to top the raised roo entrance, covering it with his gun.  He moves around, see nothing, walks to the edge of the roof and looks over.
+129) 0) text: Mills returns to the bedroom, still holding his gun up. looks at Tracy asleep in the bed.  The room begins to RAT little as a subway train is again passing underground. He walks to the window and checks the lock.  He halts.  H the window and reaches out.  The rattling is a bit LOUDER From the fire escape, he picks up a bundle of thorny this wrapped with a rubber band.  Mills realizes, Doe was here
+130) 0) text: The room is plain, like the room Mrs. Gold was kept in. door opens and Tracy and Mills enter.  They look sleepy, carrying suitcases.  A uniformed cop closes the door for Mills goes to lay a suitcase on a table while Tracy looks around, depressed, distant.  The lighting is bad.  There decorations, no windows.  A wide crack runs down one wall Tracy sits down on the bed.  Mills notices her discontent
+130) 1) dialog: It won't be for long, honey.  I swear. This is just till this is over.
+130) 3) text: Mills goes to sit beside her.  He puts his hand on her sh
+130) 4) dialog: I'm sorry.
+130) 7) text: Mills feels useless, powerless.  He goes to the suitcase starts unpacking the contents.  Tracy continues turning d sheets.
+131) 1) text: Somerset is seated, holding the photo of the lust paintin the tableau.  Mills is behind his own desk.  They both lo they haven't gotten much sleep.
+131) 2) dialog: There's two people in that painting. So, maybe he's planning to kill two people this time.  Maybe.
+131) 3) text: Mills looks at Somerset, who doesn't seem to be listening
+131) 4) dialog: What's wrong this morning?
+131) 6) text: Somerset looks up, sips from a cup of coffee, looks at th photo.  Mills swings his chair, looks out the window at t morning light on the billboard.
+131) 7) dialog: Lust is next.  Lust is sex.
+131) 9) dialog: Adam and Eve.
+131) 11) dialog: Sex, sex, sex.  Fucking sex.
+131) 13) text: Somerset looks at the burning tip of his cigarette.  He g to stretch his legs. Mills picks up the lust photo, puts his feet up on the de
+131) 14) dialog: Lust is red.
+131) 17) dialog: Blood red.
+131) 19) dialog: Red blooded.  Red head.  Dead.
+131) 21) text: Pause.  Realization.  Somerset and Mills look at each oth
+131) 22) dialog: That would make sense.
+131) 24) dialog: You're damn right it would.
+131) 25) text: Mills picks up the phone.
+133) 2) text: Mills and Somerset are across the sales counter from WILD 37.  Wild Bill is shirtless, covered in tattoos.  A thick runs down his forehead to his bent nose.  Leather belts, and jackets hang from the walls.
+133) 3) dialog: It was definitely him?  You're positive?
+133) 8) text: Wild Bill gives a polaroid to Mills.  We don't see the im
+133) 9) dialog: Oh, fuck...
+133) 15) text: Mills and Somerset follow the policeman out.
+136) 0) text: All the lights and walls are red.  Mills and Somerset fol COP through the twisting corridors.  ROCK MUSIC THROBS. reach a door.
+137) 0) text: Mills and Somerset enter.  ROCK MUSIC CONTINUES, LOUD.  A light flashes from the ceiling onto TWO AMBULANCE ATTENDA The first attendant places a sheet over a bed, hiding the of a WOMAN with long blonde hair.  The second attendant t examine the pupils of a CRAZED MAN, 55, who sits naked on floor, wrapped in a sheet.  A COP holds the crazed man do
+137) 3) text: An X is scratched into the red paint on the wall.  Mills Somerset move towards the covered body. There are apples on the bed and floor.  The ROCK MUSIC fr outside SUDDENLY STOPS.
+137) 6) text: The sheet is lifted for the detectives.  They grimace at they see.  We do not see.  Somerset closes his eyes and w face a wall, shaken.  The first attendant replaces the sh Mills steps back, takes out his handkerchief and sucks on
+138) 0) text: A polaroid is on a white table.  It is the photo Wild Bil to Mills and Somerset.  It is a picture of a belt, made w extra leather straps so it can be worn securely around th groin.  It is a strap-on phallus, but there is no plastic protuberance.  Instead, there is a metal knife.  It is a on butcher's knife. Somerset is seated beside the white table in this white r Mills stands behind him.  The crazed man from the lust mu in a chair across the room.  The crazed man is crying.
+138) 10) text: Mills looks at the mirror in the room. Somerset stands, picks up the Polaroid as two men in whit uniforms enter to collect the crazed man from off the flo
+139) 0) text: Somerset and Mills are shell-shocked, seated at their des Somerset is looking out the window.  Mills stares at the Somerset looks to his temporary desk.  He picks up a smal of mail, sorts through it.  An 8" by 10" manila envelope interests him.  It reads DETECTIVE SOMERSET on the outsid handwritten in red marker.  He opens it. He takes out a grainy photograph of he and Tracy kissing car.  It's obviously been taken with a special night-lens Somerset goes pale, suppressing a gasp.  He holds the pho hide it from Mills, looks to see Mills has not noticed. feels panicky, crumples the photo and envelope in his han
+141) 0) text: Somerset and Mills sit with a full pitcher of beer betwee The JUKEBOX plays QUIETLY for other customers.  The walls bar are lined with trophies, ribbons and other victory sy
+141) 2) dialog: If we get him, I'll be happy enough.
+141) 4) text: Mills drinks deep, pours more.
+141) 5) dialog: How can you say that?  Especially after today?
+141) 7) dialog: If I thought like you, I'd have slit my wrists a long time ago.
+141) 9) dialog: You do your job.  Follow the law and do the best you can.  It's all there.
+141) 11) dialog: Why don't you shut the fuck up for a while?!  Huh?  You make these speeches... like you know everything there is to know.
+141) 12) text: Somerset sits back, looking at Mills.
+141) 13) dialog: You think you're preparing me for the hard times ahead? You think you're toughening me up? Well, you're not! (pause) You're quitting, fine... but I'm staying to fight.
+141) 15) dialog: What the fuck is wrong with you, huh? What burnt you out?
+141) 17) dialog: You're so much better than everyone, right?  No one's worthy of you.
+141) 19) dialog: You're talking about people who are mentally ill.  You're...
+141) 21) dialog: Listen to yourself.  You say, "the problem with people is they don't care, so I don't care about people."  But, if you're not part of the solution...
+141) 23) dialog: You're already here, and you've been here a long time.  So, there's a part of you that knows, even if everything you say is true, none of it matters.
+141) 25) text: Mills stands.
+141) 26) dialog: Fuck you.  You want me to agree with you.  "Yeah, you're right, Somerset, this place is fucked.  Let's go live in a fucking log cabin!"  Well, I don't agree with you.  You're quitting, and it makes me sick.  Cause, you're the best I've ever seen.
+141) 27) text: Mills digs out some money and throws it on the table.
+141) 28) dialog: Thanks for the beer.
+141) 29) text: Mills leaves.  Other patrons watch him go.  Somerset take cigarette.  He goes to light it.  The lighter will not li and when it does, Somerset's hand is shaking.
+142) 0) text: Mills comes quietly into the bedroom.  Tracy is asleep in bed.  Mills takes off his jacket, puts it down.  He sits chair and unties one shoe, takes it off.  He looks at Tra looks at her a long time. He puts the shoe on the floor and goes to get on the bed. kisses Tracy's forehead, looks at her sleeping innocently is touched, saddened.  He kisses her cheek, then wraps hi under and around her.  He holds tight, kisses her again. stirs.
+142) 2) text: Mills his face against her, holding tighter still.
+142) 3) dialog: I love you.
+142) 6) dialog: I love you.
+142) 7) text: Mills clings to her.  She wraps her arms around him as he quietly against her, and she kisses him, tries to comfort He sobs.
+147) 0) text: Mills and Somerset walk towards the precinct house.  They through cars to cross the street.
+147) 2) text: Mills remains impassive.
+147) 3) dialog: Oh, you want to stay now?
+147) 5) dialog: You think if you stay you're doing me some big favor?
+147) 7) dialog: You knew I'd say yes.
+148) 0) text: Mills and Somerset walk past booking cubicles and benches handcuffed low-lifes.  The place is swimming with activit The two detectives head to a duty desk at the end of the
+148) 2) dialog: What a great big surprise that is.
+148) 3) text: They pass through a gate and Somerset goes to the stairca leading to the second floor.  Mills stops at the duty des Other cops are fighting for the DUTY SERGEANT'S attention
+148) 4) dialog: Mills and Somerset are on the premises.
+148) 6) text: Mills stops, looks.  Somerset stops, looks back down the John Doe stands inside the precinct house doors.  He hold his arms as if to say "presto, here I am." Near silence comes to the room as all eyes go to the figu John Doe. Mills is riveted, finding this impossible to comprehend. One UNIFORMED COP takes out his gun, points it at John Do
+148) 8) text: Several other cops drop what they're doing and draw weapo Mills, still off-balance, walks back through the gate, ta gun out and points it at Doe.
+148) 9) dialog: Get down on the floor.
+148) 14) text: John Doe gets on his knees, hands up.  Mills moves close, not too.  ONE COP comes from behind, nudges Doe with his
+148) 16) dialog: Get down!  Face down!
+148) 17) text: John Doe gets on his stomach, obeys.  Mills comes right u Doe, steps on his neck, puts his gun against Doe's head.
+148) 18) dialog: Don't move.  Don't move a fucking inch.
+148) 19) text: Cops frisk and handcuff Doe.  Somerset comes beside Mills
+148) 23) text: The cop putting the handcuffs on Doe holds up Doe's hands winces.  Every single one of Doe's fingers has a bandage around it.  John Doe looks up, his face pressed against t floor, glasses askew, Mills' gun at his temple.
+149) 0) text: Mills, Somerset and the captain stand in darkness. On the other side of a two-way mirror, John Doe is seated restraining chair in an interrogation room.  His hands an are bound with leather straps to the chair's arm and legs strap hold tight around Doe's throat.  This is not some superman/serial killer.  He looks more like an eccentric professor.  His lawyer MARK SWARR, 43, sits at a table, t notes. Mills holds a fingerprint card.  The black ink prints are useless blobs with traces of blood in them.
+149) 2) dialog: What about the trace on his bank account?  The guns?
+149) 6) dialog: When do we get to question him?
+149) 8) dialog: This doesn't make sense, captain.  He wouldn't just turn himself in!
+149) 10) dialog: He's not finished!
+149) 12) dialog: Somerset... help me out here.
+149) 15) text: The captain leaves.  Mills is furious.
+149) 16) dialog: Damn it, Somerset.  You know Johnny's fucking with us.  He's pissing in our faces again!
+149) 18) dialog: Well... what the fuck, man?
+149) 20) dialog: (pause) No.
+150) 0) text: Mills is at the desk with his feet up, stares at the chal 1 gluttony (x)       5 lust (x) 2 greed (x)          6 wrath 3 sloth (x)          7 envy 4 pride (x)
+151) 0) text: Mills and Somerset stand together.  The captain is behind desk with the D.A., Martin Talbot, seated in front of him Swarr addresses them all, seems nervous, but in control.
+151) 4) dialog: Why me?
+151) 9) text: Mills walks up into Swarr's face.
+151) 10) dialog: You like what you do for a living?
+151) 13) text: Mills eases off.  Talbot is agitated, tapping a finger on gold tooth in his mouth.  He looks at Swarr.
+151) 19) text: Talbot stands, wringing his hands.  Mills and Somerset ar looking at each other, thinking it over.
+151) 23) dialog: I'll do it.
+151) 28) dialog: I'll do it.  I want to finish it.
+151) 29) text: Somerset is thinking it through.  He looks at Mills.
+152) 0) text: Mills' hand reaches to the sink to pick up a razor.  He's shirtless, his chest covered in shaving cream.  He starts shaving in front of a mirror.  Somerset is behind him, sm
+152) 2) dialog: I will.
+152) 4) dialog: I will.
+152) 5) text: Somerset flicks ash in the sink.  Mills finishes shaving. steps away from the sink and wipes his chest off with a t
+152) 6) dialog: (very serious) Listen, Somerset... we've been through a lot together.  And, I uh...
+152) 8) dialog: I would like to make sweet love to you.
+152) 9) text: Somerset walks away.  Mills laughs.
+152) 12) dialog: Give me a kiss on the lips.
+153) 0) text: Mills has his shirt off.  A female technician, Josie, tap radio transmitter and microphone to his chest. Somerset sits nearby at one of the ready room desks.  He bullet-proof vest, is just finishing a check of his gun. putting the bullets back into it. Josie finishes prepping Mills.  Mills presses the adhesiv making sure it will hold.  He puts on a shirt and bullet- vest, fastens the velcro. Somerset stands, puts the gun in his hip holster. Mills picks up his own gun, checks it, holsters it.  He w Somerset take out a roll of antacids.  Somerset pops a fe
+153) 2) dialog: Extremely.
+153) 3) text: They look at each other.  Mills holds out his hand.  They on it.
+155) 0) text: Mills' car pulls out of the fenced parking lot.  John Doe seated in the rear. The car speeds up on the street, turns onto an avenue, he into a canyon formed by tall buildings.  At the corner, a parked. Somerset is at the wheel.  He pulls out, follows Mills' c
+157) 0) text: Mills drives, looking to the back seat through the rearvi mirror.  A steel mesh partition separates front from back John Doe sits with his hands cuffed.  He is dressed in gr pants and a gray shirt.  His feet are cuffed to a metal f on the floor of the car.  Rivulets of sweat pour down his He seems wired.
+157) 1) dialog: What's your story, Johnny?  Who are you, really?
+157) 2) text: Doe pushes his glasses back up the bridge of his nose, lo Mills' eyes in the rearview mirror.
+158) 0) text: Somerset adjusts the volume on a radio receiver mounted o dash.  He watches the road ahead, tailing Mills.
+158) 1) dialog: (from receiver) What's your deal?  You seem pretty fucking nervous.
+159) 1) dialog: (from headset) You want this to go well?  What is this?
+160) 0) text: Mills' car weaves through traffic. Somerset's car isn't far behind, goes through a red light barely missing a truck.  Other cars blow their horns.
+164) 0) text: FROM HIGH ABOVE, we see traffic on the highway at the pol river's edge.  Cards and trucks move like blood through v DOWN CLOSER, we can see Mills' car in the flow.  The car into a lane of traffic on its way to the huge suspension Somerset's car is in close pursuit. UNDER THE BRIDGE, the police helicopter travels close to water, moving parallel to the bridge, but low, so that it of the sightline of the vehicles above.
+165) 1) dialog: (from receiver) For us to go pick up two more dead bodies, and have that be the end of it... just seems too boring for you.
+166) 1) dialog: Wouldn't be sensational enough.
+166) 5) dialog: What are you looking at, Johnny?
+166) 9) dialog: I remember a lot of people reading it at me when I was a kid.  I preferred the classic comic version myself.
+166) 10) text: This is an affront to Doe, angers him.  Mills sees it, li
+166) 11) dialog: I used to have "Godspell" on an eight- track tape.  Does that count?
+166) 14) dialog: Sit back, freak.
+166) 15) text: Mills slams his fist against the partition.  Doe sits bac
+166) 17) dialog: Right, right.  I forgot.  You think these murders were for God.  Right? (pause) I'm asking you seriously.  You really think what you did was God's good work?
+169) 0) text: The headlights are off.  Mills' car's red brake lights ar ahead on this industrial road.
+169) 3) text: Somerset reaches to turn up the volume on his radio recei Mills is HEARD SINGING "Jesus Christ Superstar," loud.  S allows a very faint smile.
+170) 0) text: Mills drives along, singing.
+170) 1) dialog: Jesus Christ, Superstar... who in the world do you think you are?  Jesus Christ, Superstar...
+172) 0) text: Mills' tune comes to a conclusion.  Somerset slows the ca sees Mills' brake lights go on ahead.
+173) 2) dialog: (from receiver) Alright, Somerset.  Going for a stroll.
+173) 4) dialog: Lean on your side.  Hands behind your head and lock your fingers together.
+173) 5) text: Doe obliges.  Mills moves to unchain Doe's feet, cautious
+173) 7) dialog: (from receiver) Where are we going?
+173) 8) text: Doe points with handcuffed hands, at a path through the j yard, towards warehouses.  Mills motions with his gun.
+173) 9) dialog: (from receiver) Lead the way.
+173) 10) text: Doe starts walking.  Mills follows, keeping the gun on Do lose sight of them behind the junk-yard's massive pieces.
+174) 0) text: Mills follows Doe past rusting collections of machines. this walk with Doe before, through this metallic bone-yar
+174) 2) text: Mills is on edge.  His eyes search the towering, twisted Sharp edges reach for the sky.  Glass breaks under their
+174) 3) dialog: So far, so good.
+174) 4) text: SOUNDS of BOATS on the river can be HEARD.  Doe's heading the alleyway created by two warehouses beyond the junk-ya Doe nears the alleyway.  It is pitch dark.  Doe stops bef entering, turns to Mills.
+174) 6) text: Mills steps up, keeping his distance from Doe.  He can't thing in the blackness ahead.
+174) 7) dialog: You go first.
+174) 8) text: Doe faces the alley.  He starts walking.  We MOVE with hi goes.  He's counting silently to himself, moving his lips Mills walks behind Doe, keeping a sharp eye out in all directions.  He's about ten feet behind Doe, keeping his trained on the back of Doe's skull.
+174) 9) dialog: Tell me where we're going.
+175) 0) text: Somerset has pulled along Mills' car, at the junk-yard.
+175) 1) dialog: (from receiver) Slow down, Johnny.  Stop right there. (pause) I said stop!
+176) 0) text: Doe walks on.  Mills is behind, walking to close the gap. can HEAR the faint SOUND of RUSHING WATER.
+176) 1) dialog: I'll blow your head off right now!
+176) 2) text: Doe stops abruptly.  He spins on his heels, facing Mills. Mills is getting closer, pumped, ready to pull the trigge Doe reaches up with his hands, takes off his glasses.  He them in one hand.  The SOUND of the WATER is LOUDER. Mills is about six feet from Doe, and knows something's w John Doe smiles.
+176) 3) dialog: What...
+176) 5) dialog: No!
+177) 1) dialog: (from receiver) Motherfucker!  No!
+178) 0) text: Mills stands facing the open manhole cover Doe disappeare A torrent of water rushes by underground.  Mills fires a futile shots into the water, out of his mind with rage. pulls back the top of his bullet-proof vest, exposing the microphone.
+178) 1) dialog: He's gone, Somerset!  He's in the water!
+179) 1) dialog: (from receiver) I'm going in!
+180) 1) dialog: (from headset) I have to go in after him!
+181) 0) text: An underground pipe-way.  Mills tries to swim, is mostly in the flow.  He's battered against the sides of the pipe holding his breath desperately.
+183) 0) text: WATER ROARS.  A square pool of water churns.  A moment, t Mills rises, gasping, choking.  He's disoriented, furious waving his gun, expecting Doe to be right on top of him. No one around.  Mills looks.  This is some sort of unmann water switching station.  the walls are covered in catwal drainage pipes and tunnels.  Some tunnels and pipes spew down into the central pool, others are sealed shut. Mills pulls himself from the central pool to a concrete spillway.  He stands up, searching.  Doe could be anywher
+183) 1) dialog: Come on, Johnny!  I'm right here!
+187) 0) text: Mills climbs onto a catwalk.  He passes tunnels, looking each, intense, ready to kill.  A waterfall flows and over other end of the catwalk. Mills stands, looking over the railing at the central poo other tunnels.  He points his gun and fires into a far tu
+187) 1) dialog: Come on!  Let's do it!  You and me!
+187) 3) dialog: I'm not going to let you win this!
+187) 4) text: John Doe steps out of the waterfall, putting on his glass He seems calm, unloads his gun into Mills' back... BLAM, Mills twists, blown forward by the bullets slamming into bullet-proof vest.  BLAM, BLAM, BLAM... he stumbles, tryi turn and fire back, but bullets strike him down and he fa the floor of the catwalk, gun falling from his hand. CLICK.  Doe's gun is empty.  The gunshots echo.  Mills la there on his stomach, pounded, blacking out, the hot bull his vest smoking and sizzling from the water splashing th Doe moves quickly, starts searching Mills' pockets.
+189) 4) text: Somerset looks up, and freezes up on seeing -- -- Doe's handcuffs hang, swinging, on the rail of the cat above, with Mills' radio transmitter and wire tied to the
+192) 10) text: On the altar, Doe is sweating hard, standing over Mills. is slumped forward on the floor, unconscious.  His bullet vest has been removed. Mills' hands are tied tight together in front of him, tie one end of the thick rope suspended from the ceiling.  Do the other end of the rope, has his gun tucked under his b
+192) 21) text: Doe begins dousing Mills with gasoline, covering Mills' b clothing.  Mills stirs, coming to.  He coughs, choking on gas and fumes.
+192) 27) text: Somerset is twitching with anger, looking at the gun abou fifteen feet in front of him. Mills manages to look up, weak, his eyes barely able to o because of the stinging gasoline.
+192) 28) dialog: Somerset?
+192) 33) dialog: Motherfucker!
+192) 34) text: Mills tries to grab at Doe as he passes, but Doe turns an Mills in the ribs.  Mills cringes in pain. Somerset lays in the aisle, on his stomach, gasping.  He catch his breath, his twisted face pressed against the fl
+192) 36) text: Mills tries to rub the gas out of his eyes with his bound His mind works feverishly.  He looks around to see where then he searches the floor.  We can see, inside his open the bleeding, upside-down cross Doe has cut into his ches Doe walks back to shout angrily down at Somerset.
+192) 38) text: Somerset holds his chest, blinking, trying not to black o Mills finds a piece of broken stained glass on the floor. picks it up, palms it, still choking on gasoline. Doe walks over to the statue of Saint Jerome Emiliani, pu the rope from above so it goes taut and Mills' arms raise his head.  Doe wraps the rope around Emiliani's arm.
+192) 39) dialog: I'm going to kill you, Johnny.  I'm going to see you dead.
+192) 42) text: Mills clutches the glass piece and starts cutting the rop above his hands.
+192) 48) text: Doe stands behind Emiliani, heaves against the statue. Mills watches, gritting his teeth, rubbing the glass agai rope, fingers bleeding.
+192) 50) text: Doe finally topples the statue, down the altar stairs, an other end of the rope pulls Mills upwards, screaming in p Mills is held, about eight feet in the air, legs dangling
+192) 52) dialog: Fuck you!
+192) 56) text: Doe holds the flaming pole up, near Mills. Somerset stops.  He looks up at Mills. Mills is straining.  He nods to Somerset, and Somerset se Mills cutting at the rope.
+192) 59) text: Doe lowers the flame, standing below and beside Mills, wi attention focused on Somerset.
+192) 63) text: Mills continues cutting, bleeding, almost through the rop begins to swing his feet slightly, his body swaying.
+192) 65) text: Doe steps towards Mills.
+192) 69) text: Just as Doe is to put the flame to Mills, the rope is fin cut through.  Mills drops, swinging his legs forward, sma Doe in the face, knocking Doe's glasses off. Mills hits the floor with a thud. Somerset runs forward.
+192) 71) text: Doe has fallen back, dropping the metal pole.  Mills scra to his feet and charges at Doe, shouting. Doe squints, screaming, raises his gun.  Fires twice! The bullets catch Mills in mid-run, and carry him off his backwards. Somerset grips his own gun, just as Mills' body falls, tu off the altar area and down the stairs in front of him.
+192) 73) text: Somerset lets out a scream of pain and rage that chokes i throat.  He falls to his knees and halts Mills' body. Somerset's shaking, unable to breathe, turning Mills over cradling his head in his arms.  Tears come to his eyes.
+192) 75) text: On the altar, Doe throws his gun away.  he starts feeling him, unsteady, looking for his glasses. Mills' eyes are closed.  He is still, bloody.  He swallow With one gasp, without a word, he is dead. Somerset looks up at Doe, vision blurred by rage and tear Doe stands, putting on his glasses, faces Somerset. Somerset lays Mills' body down.  Stands, walks up towards altar, raises his gun.
+195) 0) text: A field of blue.  Cops in orderly rows.  The funeral of D Mills.  Many police officials and politicians stand in tr Somerset is here, in his dress blue uniform.  He stares f still numb, beaten.  Rifles are raised by a corps of rifl Blanks explode from the barrels.  They reload in unison. Somerset looks towards the grace where Mills' casket lies an American flag.  Tracy is there. Tracy stands surrounded by strangers at the grave-site. head is lowered.  She cries.  Each blast of the rifle sal causes her to react with a start.
+197) 0) text: Tracy and Somerset stand near a moving truck in front of apartment building.  MOVERS carry Tracy's belongings to t truck.  Mills' car is attached to be towed behind.
