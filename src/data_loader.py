@@ -303,13 +303,11 @@ def load_all(data_dir: str | Path) -> tuple[pd.DataFrame, pd.DataFrame]:
     unmatched_chars = df_chars[df_chars["gender"].isna()].copy()
 
     unmatched_chars["first_name"] = unmatched_chars["character_normalized"].str.split(" ").str[0]
-
-    matched2 = df_gender[df_gender["gender"].notna()]
-    unmatched_gender = df_gender[df_gender["gender"].isna()].copy()
-
     df_gender["first_name"] = df_gender["character_normalized"].str.split(" ").str[0]
 
-    print(unmatched_chars.columns.tolist())
+    # Preserve original character names before dropping
+    unmatched_chars["character_original"] = unmatched_chars["character"]
+
     unmatched_chars = unmatched_chars.drop(columns=["gender", "character"])
 
     unmatched_chars = unmatched_chars.merge(
@@ -318,11 +316,17 @@ def load_all(data_dir: str | Path) -> tuple[pd.DataFrame, pd.DataFrame]:
         how="left",
     )
 
-    print(unmatched_chars[["movie_name", "character_normalized"]].drop_duplicates().head(20))
+    # Restore original character names where merge found no match
+    unmatched_chars["character"] = unmatched_chars.get("character", pd.Series(dtype=str))
+    unmatched_chars["character"] = unmatched_chars["character"].fillna(
+        unmatched_chars["character_original"]
+    )
+
+    unmatched_chars = unmatched_chars.drop(columns=["character_original"])
 
     print(f"Matched after Step 1: {len(matched)}")
     print(f"Unmatched after Step 1: {len(unmatched_chars)}")
-    print(f"Unmatched after Step 2: {unmatched_chars["gender"].isna().sum()}")
+    print(f"Unmatched after Step 2: {unmatched_chars['gender'].isna().sum()}")
 
     df_chars = pd.concat([matched, unmatched_chars], ignore_index=True)
 

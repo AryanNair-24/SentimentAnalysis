@@ -113,6 +113,7 @@ def character_voice(df_chars: pd.DataFrame, movie_name: str,
         avg_sentiment, top_words
     """
     dialog = _dialog_only(df_chars, movie_name)
+
     rows   = []
 
     # Rank characters by line count
